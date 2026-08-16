@@ -45,6 +45,24 @@ const CORRECTIONS = { 1: [
   { d: 12, from: 'Seneca',            to: 'Anonymous, in print by 1912',
     note: 'Circulates as Seneca and is not his. An American maxim from The Youth’s Companion, retrofitted onto him in the late 1990s.' },
 
+  { d: 13, from: 'Marcus Aurelius',   to: 'Attributed to Marcus Aurelius',
+    note: 'Not in the Meditations, in any translation, and traceable in print only to 2006. It welds Epictetus’s dichotomy of control to Marcus’s doctrine that distress comes from judgement, which is why it passes. For the real thing see Meditations 12.22.' },
+  { d: 14, from: 'Epictetus',         to: 'Attributed to Epictetus',
+    note: 'Absent from the whole surviving corpus. The wording is Joseph Brotherton’s, in the Commons in 1842, itself reported as an echo of Epicurus. The thought is Epictetan; the words are not.' },
+  { d: 15, from: 'Seneca',            to: 'After Seneca, Letters 1.2',
+    note: 'Gummere has “While we are postponing, life speeds by” — dum differtur vita transcurrit. Life rushes past while things are deferred, which is not quite the same as waiting for it.' },
+  { d: 16, from: 'Marcus Aurelius',   to: 'After Marcus Aurelius, Meditations 6.6',
+    note: 'The passage is genuine and one sentence long in the Greek, but this English is no published translator’s. Long: “the best way of avenging thyself is not to become like the wrong-doer.”' },
+  { d: 17, from: 'Epictetus',         to: 'Epictetus, Discourses 1.24.1' },
+  { d: 18, from: 'Seneca',            to: 'Attributed to Seneca',
+    note: 'No Latin original is known, and it appears in none of the 124 letters. Its origin has not been traced.' },
+  { d: 19, from: 'Marcus Aurelius',   to: 'After Marcus Aurelius, Meditations 7.67',
+    quoteFrom: 'Very little is needed to make a happy life; it is all within yourself, in your way of thinking.',
+    quoteTo:   'Very little is needed to make a happy life.',
+    note: 'The first clause is Marcus. The rest — “it is all within yourself, in your way of thinking” — is a modern gloss, absent from the Greek and from every standard translation.' },
+  { d: 20, from: 'Epictetus',         to: 'Epictetus, Discourses 2.1.22',
+    note: 'An elided variant rather than a translator’s sentence; Long has “the educated only are free.”' },
+
   { d: 21, from: 'Seneca',            to: 'Seneca, Letters 76.3' },
   { d: 22, from: 'Marcus Aurelius',   to: 'Marcus Aurelius, Meditations 2.5' },
   { d: 23, from: 'Epictetus',         to: 'James Allen, As a Man Thinketh, 1903',
@@ -79,22 +97,30 @@ const problems = [];
 let out = block;
 let changed = 0;
 
+const S = '("(?:[^"\\\\]|\\\\.)*")';   // one JSON string literal
+let already = 0;
+
 for (const c of list) {
-  /* Match the whole entry line for this day: [N,"quote","source","tradition"], */
-  const re = new RegExp('^\\[' + c.d + ',("(?:[^"\\\\]|\\\\.)*"),("(?:[^"\\\\]|\\\\.)*"),("(?:[^"\\\\]|\\\\.)*")\\],$', 'm');
+  /* Entries are four elements, or five once a provenance note has been added, so
+     match both. Re-running this script must be safe: it is the normal way to apply a
+     later batch to a month that is already partly corrected. */
+  const re = new RegExp('^\\[' + c.d + ',' + S + ',' + S + ',' + S + '(?:,' + S + ')?\\],$', 'm');
   const m = out.match(re);
-  if (!m) { problems.push('day ' + c.d + ': entry line not found (already corrected?)'); continue; }
+  if (!m) { problems.push('day ' + c.d + ': entry line not found or malformed'); continue; }
 
   const quote = JSON.parse(m[1]);
   const source = JSON.parse(m[2]);
   const tradition = JSON.parse(m[3]);
+
+  /* Already at the target — this batch has been applied before. Not an error. */
+  if (source === c.to) { already++; continue; }
 
   if (source !== c.from) {
     problems.push('day ' + c.d + ': expected source "' + c.from + '" but found "' + source + '"');
     continue;
   }
   if (c.quoteFrom && quote !== c.quoteFrom) {
-    problems.push('day ' + c.d + ': expected quote to start "' + c.quoteFrom.slice(0, 40) + '…"');
+    problems.push('day ' + c.d + ': quote does not match the expected wording');
     continue;
   }
 
@@ -112,5 +138,6 @@ if (problems.length) {
 }
 
 fs.writeFileSync(FILE, src.slice(0, blockStart) + out + src.slice(blockEnd), 'utf8');
-console.log('  month ' + MONTH + ': ' + changed + ' entries corrected, ' +
-            list.filter(c => c.note).length + ' carrying a provenance note.');
+
+console.log('  month ' + MONTH + ': ' + changed + ' corrected, ' + already +
+            ' already applied, ' + list.filter(c => c.note).length + ' notes in the batch.');

@@ -17,7 +17,7 @@ the provenance line the app shows under the quotation.
 
 ---
 
-## January — audited
+## January — audited in full (31 of 31)
 
 January was entirely Stoic and carried **no work references at all**, so every entry
 needed a citation added rather than merely checked. This is also the month most
@@ -53,6 +53,38 @@ dates only to **1999**. Later carriers include Elmer G. Letterman and the footba
 coach Darrell K. Royal; Oprah Winfrey popularised a variant from the early 1990s.
 All postdate 1912.
 
+**13 — "You have power over your mind — not outside events. Realize this, and you
+will find strength."**
+Not Marcus Aurelius, and not in the *Meditations* in any translation. A full-text
+search of Long's complete text returns nothing for "power over your mind", "outside
+events" or "find strength". Wikiquote files it as misattributed with the note "not
+from any known translation", and the earliest traced print appearance is a **2006
+self-help book**. It passes as Stoic because it welds two real doctrines together:
+the first half is Epictetus's dichotomy of control (*Enchiridion* 1), the second is
+Marcus's claim that distress comes from judgement. For the genuine article,
+*Meditations* 12.22: "everything is opinion, and opinion is in thy power."
+
+**14 — "Wealth consists not in having great possessions, but in having few wants."**
+Not Epictetus. Searched across four English translations of the entire surviving
+corpus — Long's *Discourses, Encheiridion and Fragments*, Crossley, Higginson,
+Rolleston — with zero hits. It is absent even from Wikiquote's Epictetus page.
+The English matches **Joseph Brotherton MP**, in the Commons in February 1842,
+inscribed on his Salford memorial; contemporary accounts report him quoting
+**Epicurus**, not Epictetus. The Epicurean ancestor is preserved by Seneca at
+*Letters* 21.7: "if you wish to make Pythocles rich, do not add to his store of
+money, but subtract from his desires." The thought is genuinely Epictetan —
+*Discourses* 3.9.22, "Your strong desire is insatiate, mine is already satisfied" —
+but the words are Victorian.
+
+**18 — "Hang on to your youthful enthusiasms — you will be able to use them better
+when you are older."**
+Not found in Seneca. All three Loeb volumes of Gummere's translation, covering all
+124 letters, were downloaded and searched: zero occurrences of "hang on", and five
+occurrences of any "enthusias-" word in the whole corpus, none of them this. No
+Latin original is known and the line's actual origin has not been traced. It is the
+one January entry where the honest answer is simply that nobody knows where it came
+from.
+
 **23 — "Circumstances do not make the man; they only reveal him to himself."**
 Not Epictetus. It is **James Allen, *As a Man Thinketh* (1903)**, in "Effect of
 Thought on Circumstances", where it reads "Circumstance does not make the man; it
@@ -84,6 +116,25 @@ matching no published translation. And the questions are not originally his: he
 reports them as the nightly habit of his teacher **Quintus Sextius**, then adopts the
 practice himself.
 
+**15** — after Seneca, *Letters* 1.2. The Latin is *dum differtur vita transcurrit*,
+which Gummere renders "While we are postponing, life speeds by". Every standard
+translation turns on delay, not waiting. "While we wait for life" appears only on
+quote aggregators, and the vocabulary suggests it re-entered English through a
+Romance intermediary — the standard Spanish is *mientras esperamos vivir, la vida
+pasa*.
+
+**16** — after *Meditations* 6.6, which in the Greek is a single sentence: *ἄριστος
+τρόπος τοῦ ἀμύνεσθαι τὸ μὴ ἐξομοιοῦσθαι*. The passage is genuine and the sense is
+faithful, but the circulating English matches none of thirteen published renderings
+across four centuries. Long: "the best way of avenging thyself is not to become like
+the wrong-doer."
+
+**19** — after *Meditations* 7.67. The first clause is Marcus (*ἐν ὀλιγίστοις κεῖται
+τὸ εὐδαιμόνως βιῶσαι*). The second — "it is all within yourself, in your way of
+thinking" — is a modern gloss, absent from the Greek and from Long, Farquharson,
+Hays and Hard alike. It is a fair summary of the section's idea; it is not text. The
+entry now carries only the clause Marcus wrote.
+
 **31** — *Meditations* 7.49, freely rendered. "Empires that rose and fell" is a
 translator's flourish; the Greek is "so many changes of dominions". The sentence has
 also been clipped before its actual point — that forty years of watching human life
@@ -109,14 +160,31 @@ resignation.
 ### Verified and now cited
 
 1 (*Letters* 101.10) · 3 (*Discourses* 3.23.1) · 6 (*On the Shortness of Life* 1.3) ·
-7 (*Meditations* 7.29) · 9 (*Letters* 13.4) · 21 (*Letters* 76.3) · 22
-(*Meditations* 2.5) · 25 (*Meditations* 5.16) · 26 (*Discourses* 1.15.7) · 28
-(*Meditations* 12.17) · 29 (*Discourses* 3.1.25) · 30 (Zeno, in Diogenes Laertius
-7.26 — who adds that others ascribe it to Socrates).
+7 (*Meditations* 7.29) · 9 (*Letters* 13.4) · 17 (*Discourses* 1.24.1) · 20
+(*Discourses* 2.1.22) · 21 (*Letters* 76.3) · 22 (*Meditations* 2.5) · 25
+(*Meditations* 5.16) · 26 (*Discourses* 1.15.7) · 28 (*Meditations* 12.17) · 29
+(*Discourses* 3.1.25) · 30 (Zeno, in Diogenes Laertius 7.26 — who adds that others
+ascribe it to Socrates).
 
-Two worth a footnote. **9** is verbatim Gummere but is the second half of a longer
+Three worth a footnote. **9** is verbatim Gummere but is the second half of a longer
 sentence whose first clause carries the argument. **21** is Seneca's sentence, but he
 prefaces it with *si proverbio credimus* — he is knowingly adapting a proverb.
+**20** is faithful but is an elided variant rather than any translator's line; Long
+has "the educated only are free", inside a clause where Epictetus is reporting the
+philosophers' view, which he endorses.
+
+Days 17 and 20 were additionally put through an adversarial pass instructed to
+refute them. Both stood. That pass also corrected the first auditor on a detail:
+*Discourses* 1.24.1 on Wikisource is Oldfather, while Perseus's text is Long and
+reads differently, so the shipped wording is Oldfather's specifically.
+
+### The tally
+
+Of thirty-one January entries: **seven are not by the author whose name they
+carried**, one survives only among fragments editors class as spurious, six are
+loose renderings of real passages, and seventeen are genuine. Nearly a quarter of
+the month was wrong. That is not a criticism of whoever assembled it — it is what
+the Stoic quotation trade looks like when you check it.
 
 ---
 
