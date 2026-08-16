@@ -496,3 +496,17 @@ footer {
   border-left: 2px solid var(--line); padding-left: 10px;
   margin: 10px 0 4px; max-width: 52em;
 }
+
+/* ═══ reading progress ═══ */
+.progtrack { height: 4px; background: var(--line); border-radius: 2px; overflow: hidden; margin-top: 8px; }
+.progbar { height: 100%; width: 0; background: var(--accent); transition: width .4s ease; }
+.tick {
+  background: none; border: 1px solid var(--line); border-radius: 999px; cursor: pointer;
+  font-size: 10px; letter-spacing: .12em; text-transform: uppercase;
+  color: var(--faint); padding: 4px 11px; font-family: var(--sans); margin-top: 6px;
+}
+.tick:hover { border-color: var(--accent); color: var(--accent); }
+.tick.on { border-color: var(--accent); color: var(--accent); background: var(--paper); }
+/* A finished day recedes rather than disappearing — the year should look walked,
+   not emptied. */
+.dayrow.done .dq { opacity: .58; }

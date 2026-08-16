@@ -13,6 +13,65 @@ var hallSaving = {};      // canonId -> true while a download is running
 
 FL_ACTS.hallPick = function (el) { hallMonth = +el.getAttribute('data-m'); render(); };
 
+/* ——— reading progress ———
+   The plan can run on the calendar, so that everyone reading the Bible on the third
+   of March is on the same passage — the shared-liturgy arrangement, and the one the
+   artifact hardcoded. Or it can start the day you begin, which is the only way
+   someone opening this in August gets to read Genesis rather than being dropped at
+   day 227 with no way back.
+
+   Neither is better; they are different disciplines. The reader chooses, per canon. */
+FL_ACTS.canonStartToday = function (el) {
+  var id = el.getAttribute('data-canon');
+  canonState(id).start = flToday();
+  flSave(true);
+  toast('Begun today. Day one is Genesis, or whatever this canon opens with.');
+  render();
+};
+
+FL_ACTS.canonFollowCalendar = function (el) {
+  var id = el.getAttribute('data-canon');
+  canonState(id).start = null;
+  flSave(true);
+  render();
+};
+
+/* Update in place rather than re-rendering.
+
+   A full render on every tick throws away scroll position, and this list is
+   thirty-one rows deep — marking the eleventh of the month would bounce you back to
+   the top, which makes the control feel punitive to use. Only three things change:
+   the button, its row, and the progress figures. */
+FL_ACTS.markRead = function (el) {
+  var id = el.getAttribute('data-canon');
+  var doy = +el.getAttribute('data-doy');
+  var st = canonState(id);
+  var now = !st.done[doy];
+  canonMarkRead(id, doy, now);
+
+  /* Both the row control and today's-reading control can point at the same day. */
+  var buttons = document.querySelectorAll('[data-act="markRead"][data-doy="' + doy + '"]');
+  for (var i = 0; i < buttons.length; i++) {
+    buttons[i].classList.toggle('on', now);
+    buttons[i].textContent = now ? '✓ Read' : 'Mark read';
+    buttons[i].setAttribute('aria-pressed', String(now));
+    var row = buttons[i].closest('.dayrow');
+    if (row) row.classList.toggle('done', now);
+  }
+
+  var prog = canonProgress(id);
+  var line = document.querySelector('.progtrack');
+  if (line) {
+    var bar = line.querySelector('.progbar');
+    if (bar) bar.style.width = prog.pct + '%';
+    var row2 = line.previousElementSibling;
+    if (row2 && row2.classList.contains('astrorow')) {
+      row2.innerHTML = '<span class="k">Read</span> ' + prog.done + ' of 366 · ' + prog.pct + '%';
+    }
+  }
+  announce(now ? 'Marked read.' : 'Unmarked.');
+};
+
 FL_ACTS.readPassage = function (el) {
   var doy = +el.getAttribute('data-doy');
   var canon = el.getAttribute('data-canon');
@@ -107,9 +166,31 @@ FL_VIEWS.hall = {
     }
 
     var h = hallById(canonId);
-    var now = new Date(), doy = doyOf(now.getMonth() + 1, now.getDate());
+    var now = new Date();
+    var st = canonState(canonId);
+    /* The reader's own day in this plan — the calendar day if they follow it, or
+       days-since-they-began if they started it themselves. */
+    var doy = canonDoy(canonId);
+    var prog = canonProgress(canonId);
     var verse = POOLS[canonId][(now.getDate() - 1) % 31];
     var ready = readWorkReady(canonId);
+
+    var dayLabel = st.start
+      ? 'Day ' + doy + ' of your year'
+      : now.toLocaleDateString(undefined, { month: 'long', day: 'numeric' });
+
+    var modeCard =
+      '<div class="card" style="margin-top:14px">' +
+        '<div class="astrorow"><span class="k">Read</span> ' + prog.done + ' of 366 · ' + prog.pct + '%</div>' +
+        '<div class="progtrack"><div class="progbar" style="width:' + prog.pct + '%"></div></div>' +
+        (st.start
+          ? '<p class="px" style="margin-top:12px">Begun ' + esc(jPrettyDate(st.start)) + '. ' +
+            'Missing a morning costs you nothing — the day you are on is the day you have reached, not the date.</p>' +
+            '<button class="keep" data-act="canonFollowCalendar" data-canon="' + canonId + '">Follow the calendar instead</button>'
+          : '<p class="px" style="margin-top:12px">Following the calendar, so everyone reading this canon today is on the same passage. ' +
+            'The older discipline — but it means starting mid-book, and there is no way back to the beginning.</p>' +
+            '<button class="keep" data-act="canonStartToday" data-canon="' + canonId + '">Begin at day one today</button>') +
+      '</div>';
 
     var chips = MONTHS.map(function (mo, i) {
       return '<button class="mchip' + ((i + 1) === hallMonth ? ' on' : '') + '" data-act="hallPick" data-m="' + (i + 1) + '"' +
@@ -127,11 +208,15 @@ FL_VIEWS.hall = {
         ? '<span class="heldot' + (readHasLocally(canonId, rowDoy) ? ' on' : '') + '" title="' +
           (readHasLocally(canonId, rowDoy) ? 'on this device' : 'not saved yet') + '"></span>'
         : '';
-      rows.push('<div class="dayrow"><div class="dn">' + dd + '</div><div>' +
+      var isDone = !!st.done[rowDoy];
+      rows.push('<div class="dayrow' + (isDone ? ' done' : '') + '"><div class="dn">' + dd + '</div><div>' +
         '<p class="dq" style="font-style:normal;font-family:var(--sans);font-size:14px">' +
           dot + esc(h[4][rowDoy - 1]) + leapNote + '</p>' +
         (ready ? '<button class="readmini" id="readbtn-' + rowDoy + '" data-act="readPassage" data-doy="' + rowDoy +
-          '" data-canon="' + canonId + '">Read</button>' : '') +
+          '" data-canon="' + canonId + '">Read</button> ' : '') +
+        '<button class="tick' + (isDone ? ' on' : '') + '" data-act="markRead" data-doy="' + rowDoy +
+          '" data-canon="' + canonId + '" aria-pressed="' + isDone + '"' +
+          ' aria-label="' + (isDone ? 'Read' : 'Mark as read') + '">' + (isDone ? '✓ Read' : 'Mark read') + '</button>' +
         '<div class="readbox hide" id="read-' + rowDoy + '"></div>' +
       '</div></div>');
     }
@@ -141,17 +226,20 @@ FL_VIEWS.hall = {
       '<div class="canon"><p class="pt">' + esc(h[1]) + '</p><div class="ds">' + esc(h[2]) + '</div>' +
         '<p class="cep">“' + esc(h[5]) + '”</p><div class="ds">' + esc(h[6]) + '</div>' +
         '<p class="ct" style="margin-top:10px"><span style="color:var(--accent)">Core teachings:</span> ' + esc(h[8]) + '</p>' +
-        '<div class="label" style="margin-top:18px">Today’s reading · ' +
-          esc(now.toLocaleDateString(undefined, { month: 'long', day: 'numeric' })) + '</div>' +
+        '<div class="label" style="margin-top:18px">Today’s reading · ' + esc(dayLabel) + '</div>' +
         '<p class="px" style="font-weight:600">' + esc(h[4][doy - 1]) + '</p>' +
         (ready
           ? '<button class="keep" id="readbtn-' + doy + '" data-act="readPassage" data-doy="' + doy +
-            '" data-canon="' + canonId + '" data-long="1">Read the full passage</button>'
+            '" data-canon="' + canonId + '" data-long="1">Read the full passage</button> ' +
+            '<button class="tick' + (st.done[doy] ? ' on' : '') + '" data-act="markRead" data-doy="' + doy +
+            '" data-canon="' + canonId + '" aria-pressed="' + !!st.done[doy] + '">' +
+            (st.done[doy] ? '✓ Read' : 'Mark read') + '</button>'
           : '<p class="loadnote">This text is still being prepared.</p>') +
         '<div class="readbox hide" id="read-' + doy + '"></div>' +
         '<div class="label" style="margin-top:18px">Verse of the day</div>' +
         '<p class="cep">“' + esc(verse[0]) + '”</p><div class="ds">' + esc(verse[1]) + '</div>' +
       '</div>' +
+      modeCard +
       (ready ? '<div class="card" id="canon-store-' + canonId + '"><p class="loadnote" id="save-' + canonId + '">Checking what is on this device…</p></div>' : '') +
       '<div class="label">The year’s readings</div>' +
       '<div class="months">' + chips + '</div><div>' + rows.join('') + '</div>';
