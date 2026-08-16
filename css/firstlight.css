@@ -153,7 +153,20 @@ a { color: var(--accent); }
 }
 
 /* ═══ navigation ═══ */
-nav { display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px; }
+/* Two tiers: the sections of the book, then the instruments you use on it. */
+nav { margin-bottom: 40px; }
+.nav-places, .nav-tools { display: flex; justify-content: center; flex-wrap: wrap; }
+.nav-places { gap: 20px; }
+.nav-tools {
+  gap: 16px; margin-top: 12px; padding-top: 11px;
+  border-top: 1px solid var(--line);
+  /* Narrower than the section row so the hairline reads as a division rather than
+     a box, and the eye still lands on the book first. */
+  max-width: 340px; margin-left: auto; margin-right: auto;
+}
+.nav-tools a { font-size: 10px; opacity: .82; }
+.nav-tools a:hover, .nav-tools a[aria-current="page"] { opacity: 1; }
+@media (max-width: 480px) { .nav-places { gap: 13px; } .nav-tools { gap: 12px; } }
 nav a {
   background: none; border: none; cursor: pointer; text-decoration: none;
   font-family: var(--sans); font-size: 11px; letter-spacing: .2em;

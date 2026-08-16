@@ -91,7 +91,38 @@ FL_ACTS.lookupSign = function () {
   var out = document.getElementById('a-result');
   if (!v) { out.innerHTML = '<p class="loadnote">Choose a date first.</p>'; return; }
   var p = v.split('-').map(Number);
-  out.innerHTML = signCard(signFor(p[1], p[2]), 'Sun sign');
+
+  /* Prefer the real solar longitude. The fixed date table this chapter used to rely
+     on is wrong by up to a day at the sign boundaries, because the Sun does not cross
+     into a sign at the same clock time every year — which is exactly the case a
+     reader born on a cusp is asking about. */
+  if (window.Astronomy && typeof geoLon === 'function') {
+    var noon = new Date(Date.UTC(p[0], p[1] - 1, p[2], 12, 0));
+    var lon = geoLon('Sun', noon);
+    var sg = signOf(lon);
+    var s = null;
+    for (var i = 0; i < SIGNS.length; i++) if (SIGNS[i].n === sg.name) s = SIGNS[i];
+
+    /* How far from a boundary? Inside a degree, the hour of birth decides the sign,
+       and saying so is more useful than a confident answer that may be wrong. */
+    var toEdge = Math.min(sg.within, 30 - sg.within);
+    var cusp = toEdge < 1
+      ? '<p class="loadnote" style="margin-top:10px">This birthday sits within a degree of the boundary — about a day\'s travel for the Sun. ' +
+        'Which sign it falls in depends on the hour of birth. Draw the full chart for a definite answer.</p>'
+      : '';
+
+    out.innerHTML = (s ? signCard(s, 'Sun sign') : '') +
+      '<div class="card" style="margin-bottom:14px">' +
+        '<div class="astrorow"><span class="k">Computed</span> Sun at ' +
+        sg.deg + '° ' + esc(sg.name) + ' ' + String(sg.min).padStart(2, '0') + '′, noon UTC on that date</div>' +
+      '</div>' + cusp;
+    announce('Sun sign computed.');
+    return;
+  }
+
+  /* Ephemeris not loaded yet — fall back to the table and say which was used. */
+  out.innerHTML = signCard(signFor(p[1], p[2]), 'Sun sign') +
+    '<p class="loadnote">From the conventional date ranges. Reload once the ephemeris has loaded for an exact position.</p>';
   announce('Sun sign found.');
 };
 
@@ -113,12 +144,12 @@ FL_VIEWS.astro = {
       '<p class="note">The oldest continuously practiced symbolic system in the West — its history, its grammar, and how a chart is actually read.</p>' +
 
       '<div class="label">Today’s sky</div>' +
-      '<div class="card">' +
+      '<div class="card" id="a-sky">' +
         '<p class="pt"><span class="glyph">' + s.g + '</span> The Sun is in ' + esc(s.n) + '</p>' +
         '<div class="ds">' + esc(s.el + ' · ' + s.mo + ' · ruled by ' + s.ru) + '</div>' +
         '<p class="px" style="margin-top:10px">Moon: <strong>' + esc(mp.name) + '</strong> · about ' +
-          mp.illum + '% illuminated · ' + mp.age + ' days into the cycle.</p>' +
-        '<p class="vidnote" style="margin-top:8px">Sun sign from a fixed date table; lunar phase from the mean synodic cycle. Both become exact when the ephemeris lands.</p>' +
+          mp.illum + '% illuminated.</p>' +
+        '<p class="vidnote" style="margin-top:8px">Approximate. Computing the real sky…</p>' +
       '</div>' +
 
       '<div class="label">Your chart</div>' +
@@ -200,5 +231,50 @@ FL_VIEWS.astro = {
     var s2 = document.getElementById('a-sign2');
     if (s2) s2.selectedIndex = 6;
     renderCompare();
+
+    /* Replace the approximations with the real sky once the ephemeris is here. The
+       page renders immediately from the old date table so there is never a blank
+       card, then upgrades in place — the chapter should not wait on 116 KB to say
+       anything. */
+    if (typeof chartEnsureLoaded !== 'function') return;
+    chartEnsureLoaded().then(function () {
+      if (flRoute.view !== 'astro') return;
+      var host = document.getElementById('a-sky');
+      if (!host || typeof skyNow !== 'function') return;
+
+      var sky = skyNow(new Date());
+      var sun = sky.bodies[0];
+      var sunSign = null;
+      for (var i = 0; i < SIGNS.length; i++) if (SIGNS[i].n === sun.sign.name) sunSign = SIGNS[i];
+
+      var rows = sky.bodies.map(function (b) {
+        return '<tr><td class="ct-g">' + b.glyph + '</td><td>' + esc(b.name) + '</td>' +
+          '<td>' + b.sign.deg + '° ' + b.sign.glyph + ' ' + String(b.sign.min).padStart(2, '0') + '′</td>' +
+          '<td>' + esc(b.sign.name) + '</td><td>' + (b.retro ? '℞' : '') + '</td></tr>';
+      }).join('');
+
+      var retro = sky.bodies.filter(function (b) { return b.retro; })
+                            .map(function (b) { return b.name; });
+
+      host.innerHTML =
+        '<p class="pt"><span class="glyph">' + (sunSign ? sunSign.g : '') + '</span> The Sun is in ' +
+          esc(sun.sign.name) + ', at ' + sun.sign.deg + '°' + String(sun.sign.min).padStart(2, '0') + '′</p>' +
+        (sunSign ? '<div class="ds">' + esc(sunSign.el + ' · ' + sunSign.mo + ' · ruled by ' + sunSign.ru) + '</div>' : '') +
+        '<p class="px" style="margin-top:10px">Moon: <strong>' + esc(sky.moon.name) + '</strong> · ' +
+          sky.moon.illum + '% illuminated · ' + esc(sky.bodies[1].sign.name) + '.</p>' +
+        (retro.length
+          ? '<p class="px" style="margin-top:6px">Retrograde now: ' + esc(retro.join(', ')) + '.</p>'
+          : '<p class="px" style="margin-top:6px">Nothing is retrograde today.</p>') +
+        '<div class="label" style="margin-top:16px">Every body, right now</div>' +
+        '<div class="tablewrap"><table class="charttable"><tbody>' + rows + '</tbody></table></div>' +
+        '<p class="vidnote" style="margin-top:10px">Geocentric apparent positions in the tropical zodiac, ' +
+        'computed on this device. Not looked up in a table.</p>';
+    }).catch(function () {
+      var host = document.getElementById('a-sky');
+      if (!host) return;
+      var n = host.querySelector('.vidnote');
+      if (n) n.textContent = 'Approximate — the sun-sign date ranges and the mean lunar cycle. ' +
+        'The exact sky needs the ephemeris, which arrives with one connection and then stays.';
+    });
   }
 };

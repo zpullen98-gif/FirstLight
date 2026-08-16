@@ -37,8 +37,21 @@ function libVerses(arr, startAt) {
 
 /* ——— the shelf ——— */
 function libShelf() {
-  var out = '<div class="kick">Seven traditions, ten works</div><h1>The Library</h1>' +
-    '<p class="note">Complete scriptures, held on this device. Nothing here needs a connection once it has been opened.</p>' +
+  /* Count what is actually here rather than asserting a number. The Upanishads are
+     still unbaked, and a header claiming ten works while showing nine is exactly the
+     kind of small untruth this app spends its effort avoiding elsewhere. */
+  var works = 0, bytesAll = 0;
+  FL_TRADITIONS.forEach(function (tr) {
+    tr.works.forEach(function (w) { if (libHas(w)) { works++; bytesAll += FL_LIBRARY[w].bytes; } });
+  });
+  var words = ['zero', 'one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight',
+               'nine', 'ten', 'eleven', 'twelve'];
+  var wordFor = function (n) { return words[n] || String(n); };
+
+  var out = '<div class="kick">' + wordFor(FL_TRADITIONS.length) + ' traditions, ' +
+      wordFor(works) + ' works</div><h1>The Library</h1>' +
+    '<p class="note">Complete scriptures, ' + FLBytes(bytesAll) + ' of them, held on this device. ' +
+    'Nothing here needs a connection once it has been opened.</p>' +
     '<div class="drawrow" style="justify-content:center;margin-top:18px">' +
       '<a class="keep" href="#/threads">The threads — one question, seven answers</a>' +
       '<a class="keep" href="#/hall">The year’s reading plans</a>' +

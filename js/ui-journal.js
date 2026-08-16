@@ -127,7 +127,6 @@ document.addEventListener('input', function (e) {
 FL_VIEWS.stats = {
   label: 'The Record',
   title: 'The Record',
-  hidden: true,
   render: function () {
     var year = new Date().getFullYear();
     var track = FL.prefs.track || 'philosophers';

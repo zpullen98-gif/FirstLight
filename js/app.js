@@ -68,15 +68,34 @@ function go(view, arg) {
 
 var flRoute = { view: 'today', arg: null };
 
+/* Two tiers, because ten equal items is not a menu — it is a list, and on a 375px
+   screen it wraps to four rows of small capitals that all look equally important.
+
+   The first tier is the book: the sections the almanac is actually made of, in the
+   author's original order. The second is the instruments you use on it — your own
+   writing, finding things, the record, and the workings. Separating them lets a
+   reader see the shape of the thing in one glance. */
+var NAV_PLACES = ['today', 'year', 'life', 'library', 'body', 'astro', 'vault'];
+var NAV_TOOLS = ['journal', 'search', 'stats', 'settings'];
+
+function navLink(k) {
+  var v = FL_VIEWS[k];
+  if (!v) return '';
+  return '<a href="#/' + k + '"' + (k === flRoute.view ? ' aria-current="page"' : '') +
+         '>' + esc(v.label) + '</a>';
+}
+
 function renderNav() {
   var nav = document.getElementById('nav');
-  nav.innerHTML = Object.keys(FL_VIEWS).filter(function (k) {
-    return !FL_VIEWS[k].hidden;
-  }).map(function (k) {
-    var v = FL_VIEWS[k];
-    return '<a href="#/' + k + '"' + (k === flRoute.view ? ' aria-current="page"' : '') +
-           '>' + esc(v.label) + '</a>';
-  }).join('');
+  var known = NAV_PLACES.concat(NAV_TOOLS);
+  /* Anything registered but unlisted still appears, so adding a view can never
+     make it silently unreachable. */
+  var stray = Object.keys(FL_VIEWS).filter(function (k) {
+    return !FL_VIEWS[k].hidden && known.indexOf(k) === -1;
+  });
+  nav.innerHTML =
+    '<div class="nav-places">' + NAV_PLACES.concat(stray).map(navLink).join('') + '</div>' +
+    '<div class="nav-tools">' + NAV_TOOLS.map(navLink).join('') + '</div>';
 }
 
 function render() {
