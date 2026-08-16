@@ -17,6 +17,7 @@ FL_VIEWS.year = {
       return '<div class="dayrow"><div class="dn">' + e[0] + '</div><div>' +
         '<p class="dq">“' + esc(e[1]) + '”</p>' +
         '<span class="ds">' + esc(e[2]) + ' · ' + esc(e[3]) + '</span> ' +
+        provNote(e[4]) +
         keepButton(yearMonth, e[0], false) +
       '</div></div>';
     }).join('');

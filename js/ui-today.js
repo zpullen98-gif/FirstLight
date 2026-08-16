@@ -21,6 +21,14 @@ var todayForceMode = null;     // 'morning' | 'evening' | null (= follow the sun
 
 function trackKey(m, d) { return (FL.prefs.track || 'philosophers') + ':' + m + '-' + d; }
 
+/* Entries are [day, quote, source, tradition, note?].
+
+   The fifth element is provenance, added by the citation audit. A great deal of what
+   circulates as Stoicism is Victorian paraphrase or twentieth-century invention, and
+   an almanac that repeats it under a famous name is doing the reader a disservice.
+   Where the line is a loose rendering of a real passage, or is not the named author's
+   at all, the note says so plainly. A clean citation needs no note and stays four
+   elements long. */
 function dayEntry(m, d) {
   var arr = Q[m] || [];
   var e = null;
@@ -28,7 +36,12 @@ function dayEntry(m, d) {
   /* All 366 are present, so this is unreachable — if it fires it is a data bug and
      it should be loud rather than silently serving the wrong day. */
   if (!e) { console.error('First Light: no entry for ' + m + '-' + d); e = arr[arr.length - 1]; }
-  return { q: e[1], s: e[2], t: e[3] };
+  return { q: e[1], s: e[2], t: e[3], n: e[4] || '' };
+}
+
+/* The provenance line, shown beneath a quotation that needs one. */
+function provNote(n) {
+  return n ? '<div class="prov">' + esc(n) + '</div>' : '';
 }
 
 function keepButton(m, d, longLabel) {
@@ -86,7 +99,8 @@ FL_ACTS.pickIntent = function (el) {
 /* ——— pieces ——— */
 function todayVoice(m, d, e) {
   return '<div class="q"><p class="qt">“' + esc(e.q) + '”</p>' +
-    '<span class="qs">' + esc(e.s) + '</span><span class="qtr">' + esc(e.t) + '</span><br>' +
+    '<span class="qs">' + esc(e.s) + '</span><span class="qtr">' + esc(e.t) + '</span>' +
+    provNote(e.n) + '<br>' +
     keepButton(m, d, true) + '</div>';
 }
 

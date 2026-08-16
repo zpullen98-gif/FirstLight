@@ -472,3 +472,14 @@ footer {
      else in the app animates, and the numeral carries the same information. */
   .pacer-disc { transition: none !important; }
 }
+
+/* ═══ provenance ═══
+   Shown under a quotation whose citation needed correcting — a line is a loose
+   modern rendering, or is not the named author's at all. Set quietly and small:
+   the reader came for the voice, not the apparatus, but the truth is on the page
+   rather than buried in a commit message. */
+.prov {
+  font-size: 12.5px; line-height: 1.55; color: var(--faint);
+  border-left: 2px solid var(--line); padding-left: 10px;
+  margin: 10px 0 4px; max-width: 52em;
+}

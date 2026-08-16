@@ -36,7 +36,8 @@ FL_VIEWS.vault = {
       var e = dayEntry(m, d);
       return '<div class="q"><p class="qt">“' + esc(e.q) + '”</p>' +
         '<span class="qs">' + esc(e.s) + '</span>' +
-        '<span class="qtr">' + esc(e.t) + ' · ' + esc(MONTHS[m - 1][0]) + ' ' + d + '</span><br>' +
+        '<span class="qtr">' + esc(e.t) + ' · ' + esc(MONTHS[m - 1][0]) + ' ' + d + '</span>' +
+        provNote(e.n) + '<br>' +
         '<button class="keep on" data-act="release" data-m="' + m + '" data-d="' + d + '">Release</button></div>';
     }).join('');
 
