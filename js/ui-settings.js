@@ -79,7 +79,7 @@ FL_ACTS.importChosen = function (el) {
    one verified are different things, and this app should not blur them.
 
    Update this when a month is finished, alongside SOURCES.md. */
-var AUDITED_MONTHS = [1];
+var AUDITED_MONTHS = [1, 2];
 var AUDIT_PARTIAL = {};   // month -> "23 of 31", while a month is mid-audit
 
 function auditedMonths() {

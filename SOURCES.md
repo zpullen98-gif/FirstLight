@@ -188,6 +188,91 @@ the Stoic quotation trade looks like when you check it.
 
 ---
 
+## February — audited in full (29 of 29)
+
+A different problem from January. These entries arrived *with* references, so the
+work was checking whether each reference says what it is claimed to. Much healthier —
+eighteen stood exactly as given — but the failures are subtler, and two of them turn
+on a trimmed quotation quietly destroying the argument it was trimmed from.
+
+### The reference was wrong
+
+**2 — "As you are a part of a social system, let every act of yours be of benefit to
+the whole."** Cited to *Meditations* 7.13; the passage is at **9.23**. The confusion
+is understandable — 7.13 is also about being part of a social body, and is the
+limb-versus-part argument — but this sentence lives two books later. The wording is
+also a gloss: Long has "let every act of thine be a component part of social life",
+a claim about *membership*, where "be of benefit to the whole" makes it one about
+*usefulness*.
+
+### Hedges pitched at the wrong strength — in both directions
+
+**19 — "Kindness in words creates confidence…"** was hedged "Attributed to Laozi".
+Too generous. It is not in the *Tao Te Ching* and is not Laozi's; the attribution is
+not contested but false, traceable to a twentieth-century anthology. Now "Author
+unknown" — and the Taoist tradition tag went with the name, since leaving it would
+preserve the false provenance after the name was removed.
+
+**8 — "A single kind act, like a stone in water…"** was hedged "Proverb". Too
+*strong*. Calling an unsourced modern sentence a proverb asserts a traditional
+pedigree it does not have. Now "Source unknown".
+
+**11 — "He who is kind to others is at peace with himself."** Not found in Publilius
+Syrus's *Sententiae*. Syrus does have a maxim nearby in sense — *semper beatam se
+putat benignitas* — but not this sentence.
+
+**13 — "Give, and it enriches you more than it costs the giver."** The line is
+internally incoherent: it enriches *you* more than it costs *the giver*, making one
+person both parties. That is the fingerprint of a corrupted quotation. Syrus wrote
+*beneficium dando accepit, qui digno dedit* — he who gave to a worthy man received by
+the giving.
+
+**12** — the Aesop hedge "Fables tradition" was about right but vaguer than it needed
+to be. The fable is identifiable (*The Lion and the Mouse*, Perry 150); the wording
+comes from *The Aesop for Children*, 1919, whose moral runs "A kindness is never
+wasted."
+
+### Trimmed to the point of damage
+
+**23 — Epictetus, *Enchiridion* 5.** The entry gave two stages: the ill-instructed
+blame others, the wise blame neither. Epictetus gives **three** — blame others, then
+blame yourself, then blame no one — and the missing middle step is the actual work.
+Long's full sentence has been restored.
+
+**4 — *Tao Te Ching* 67.** The third treasure is 不敢為天下先, *not daring to be first
+in the world*. "Humility" compresses a refusal into a virtue, and the chapter's
+argument runs on the refusal: *because* I dare not be first, I can become chief of
+vessels.
+
+**22 — *Tao Te Ching* 63.** Legge's clause is simply "recompense injury with
+kindness". The added praise — "is a man of excellent virtue" — is not in the chapter,
+and it endorses precisely the position Confucius *rejects* at *Analects* 14.34, where
+someone proposes repaying injury with kindness and the Master asks what is then left
+to repay kindness with.
+
+**15 — Aristotle, *Nicomachean Ethics* 1109a26.** Genuinely Aristotle, but the
+circulating English has been edited twice over and matches no published translation.
+Ross also has him listing giving and spending money alongside anger.
+
+**27** — *Meditations* **11.18**, the eighth of the ten thoughts Marcus sets down
+against anger. The bare "Meditations 11" needed the section.
+
+### Precision supplied
+
+3 (*De Vita Beata* **24.3**) · 17 (*Letters* **11.8**) · 18 (Zhuangzi, **Inner
+Chapters 1**, 逍遙遊) · 7 (the Chinese proverb is from the **Zengguang Xianwen**, a
+Ming primer — and 三冬 is the three months of one winter, not three winters, so the
+familiar English counts wrong).
+
+### Numbering schemes
+
+Two entries carry a note because editions disagree: **9** is *Analects* 15.24 in the
+modern scheme (Lau, Slingerland, ctext) and 15.23 in Legge; **24** is 6.30 modern and
+6.28 in Legge. Both are right as printed; the note prevents a reader with a Legge
+edition thinking the almanac is wrong.
+
+---
+
 ## Method
 
 Verification is done against primary texts and reputable scholarship — Perseus, the

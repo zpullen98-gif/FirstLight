@@ -79,6 +79,50 @@ const CORRECTIONS = { 1: [
     note: 'Diogenes adds that others ascribe the saying to Socrates.' },
   { d: 31, from: 'Marcus Aurelius',   to: 'Marcus Aurelius, Meditations 7.49, freely rendered',
     note: '“Empires that rose and fell” is a translator’s flourish; Marcus wrote of changes of dominion.' }
+],
+
+/* February. These entries arrived WITH references, so the work was checking whether
+   the reference says what it is claimed to. Healthier than January — eighteen stood —
+   but the failures are subtler: a section number off by two books, hedges pitched at
+   the wrong strength in both directions, and two cases where a trimmed quotation
+   quietly destroys the argument it was trimmed from. */
+2: [
+  { d: 2,  from: 'Marcus Aurelius, Meditations 7.13', to: 'After Marcus Aurelius, Meditations 9.23',
+    note: 'The passage is at 9.23, not 7.13. Long has “let every act of thine be a component part of social life” — a claim about membership, where “be of benefit to the whole” makes it one about usefulness.' },
+  { d: 3,  from: 'Seneca, De Vita Beata', to: 'Seneca, De Vita Beata 24.3' },
+  { d: 4,  from: 'Laozi, Tao Te Ching 67', to: 'Laozi, Tao Te Ching 67',
+    note: 'The third treasure is 不敢為天下先 — not daring to be first in the world. “Humility” compresses a refusal into a virtue, and the chapter’s argument runs on the refusal.' },
+  { d: 7,  from: 'Chinese proverb', to: 'Chinese proverb, from the Zengguang Xianwen',
+    note: 'A Ming-dynasty primer, not a floating saying. 三冬 is the three months of one winter rather than three winters — the English is the standard rendering, but it counts wrong.' },
+  { d: 8,  from: 'Proverb', to: 'Source unknown', tradTo: 'Wisdom',
+    note: 'Calling this a proverb claims a traditional pedigree it does not have. No source of any age has been found for it.' },
+  { d: 9,  from: 'Confucius, Analects 15.24', to: 'Confucius, Analects 15.24',
+    note: 'Legge numbers this passage 15.23; 15.24 is the modern scheme used by Lau, Slingerland and the Chinese Text Project.' },
+  { d: 11, from: 'Publilius Syrus, Sentences', to: 'Source unknown', tradTo: 'Wisdom',
+    note: 'Not found in the Sententiae. Syrus does have a maxim close to it — semper beatam se putat benignitas, “kindness always thinks itself happy” — but it is not this sentence.' },
+  { d: 12, from: 'Aesop, Fables tradition', to: 'Aesop, The Lion and the Mouse',
+    note: 'The fable is real and identifiable, but this wording comes from The Aesop for Children, 1919, whose moral runs “A kindness is never wasted.”' },
+  { d: 13, from: 'Publilius Syrus, Sentences', to: 'Attributed to Publilius Syrus',
+    note: 'The line is internally incoherent — it enriches “you” more than it costs “the giver”, making one person both parties, which is the fingerprint of a corrupted quotation. Syrus wrote: beneficium dando accepit, qui digno dedit — he who gave to a worthy man received by the giving.' },
+  { d: 14, from: 'Laozi, Tao Te Ching 8', to: 'Laozi, Tao Te Ching 8' },
+  { d: 15, from: 'Aristotle, Nicomachean Ethics', to: 'After Aristotle, Nicomachean Ethics 1109a26',
+    note: 'The passage is Aristotle’s, but the circulating English has been edited twice over and matches no published translation. Ross also has him listing giving and spending money alongside anger.' },
+  { d: 16, from: 'Confucius, Analects 1.6', to: 'Confucius, Analects 1.6' },
+  { d: 17, from: 'Seneca, Letters 11', to: 'Seneca, Letters 11.8' },
+  { d: 18, from: 'Zhuangzi, Inner Chapters', to: 'Zhuangzi, Inner Chapters 1' },
+  { d: 19, from: 'Attributed to Laozi', to: 'Author unknown', tradTo: 'Wisdom',
+    note: 'Not from the Tao Te Ching and not Laozi’s. “Attributed to” was too generous — the attribution is not contested but false, traceable to a twentieth-century anthology. The Taoist tag went with the name.' },
+  { d: 20, from: 'Marcus Aurelius, Meditations 7.73', to: 'Marcus Aurelius, Meditations 7.73' },
+  { d: 22, from: 'Laozi, Tao Te Ching 63', to: 'After Laozi, Tao Te Ching 63',
+    note: 'Legge’s clause is simply “recompense injury with kindness”. The added praise for excellent virtue is not in the chapter, and it happens to endorse the exact position Confucius rejects at Analects 14.34.' },
+  { d: 23, from: 'Epictetus, Enchiridion 5', to: 'Epictetus, Enchiridion 5',
+    quoteFrom: 'It is the act of an ill-instructed man to blame others for his own bad condition; the wise man blames neither others nor himself.',
+    quoteTo:   'It is the act of an ill-instructed man to blame others for his own bad condition; it is the act of one who has begun to be instructed, to lay the blame on himself; and of one whose instruction is completed, neither to blame another, nor himself.',
+    note: 'The middle stage was missing. Epictetus describes a progression — blame others, then blame yourself, then blame no one — and cutting the second step turns a course of training into a contrast between the ignorant and the wise.' },
+  { d: 24, from: 'Confucius, Analects 6.30', to: 'Confucius, Analects 6.30',
+    note: 'Legge numbers this 6.28; 6.30 is the modern scheme.' },
+  { d: 27, from: 'Marcus Aurelius, Meditations 11', to: 'After Marcus Aurelius, Meditations 11.18',
+    note: 'The eighth of the ten thoughts Marcus sets down against anger. The wording is a compression rather than any translator’s sentence.' }
 ]};
 
 const list = CORRECTIONS[MONTH];
@@ -111,11 +155,23 @@ for (const c of list) {
   const quote = JSON.parse(m[1]);
   const source = JSON.parse(m[2]);
   const tradition = JSON.parse(m[3]);
+  const existingNote = m[4] ? JSON.parse(m[4]) : '';
 
-  /* Already at the target — this batch has been applied before. Not an error. */
-  if (source === c.to) { already++; continue; }
+  /* Already at the target — this batch has been applied before. Not an error.
 
-  if (source !== c.from) {
+     Every field has to be checked, not just the source. Many corrections leave the
+     attribution alone and add only a provenance note, or restore a truncated
+     quotation; testing the source alone silently skipped four February entries,
+     including one whose missing middle clause was the entire point of the fix. */
+  const atTarget = source === c.to &&
+                   existingNote === (c.note || '') &&
+                   (!c.quoteTo || quote === c.quoteTo) &&
+                   (!c.tradTo || tradition === c.tradTo);
+  if (atTarget) { already++; continue; }
+
+  /* An entry mid-correction may already carry the new source while still lacking its
+     note, so accept either the original or the target as the starting point. */
+  if (source !== c.from && source !== c.to) {
     problems.push('day ' + c.d + ': expected source "' + c.from + '" but found "' + source + '"');
     continue;
   }
@@ -124,8 +180,12 @@ for (const c of list) {
     continue;
   }
 
+  /* The tradition tag sometimes has to move with the attribution. A line shown to be
+     no part of the Tao Te Ching goes on asserting a Taoist pedigree if the tag stays
+     put, even after the name has been corrected off it. */
   const newQuote = c.quoteTo || quote;
-  const parts = [c.d, JSON.stringify(newQuote), JSON.stringify(c.to), JSON.stringify(tradition)];
+  const newTrad = c.tradTo || tradition;
+  const parts = [c.d, JSON.stringify(newQuote), JSON.stringify(c.to), JSON.stringify(newTrad)];
   if (c.note) parts.push(JSON.stringify(c.note));
   out = out.replace(re, '[' + parts.join(',') + '],');
   changed++;
