@@ -1,0 +1,174 @@
+/* First Light — the practice engine.
+
+   The artifact's Body chapter was six YouTube embeds. Good ones, but a practice you
+   cannot do without a connection is not a practice you can rely on, and the app's
+   own text argues that what matters is return rather than intensity.
+
+   So: a breath pacer, interval timers, and written sequences, all of which run with
+   no network and no third party. The videos stay as a supplement.
+
+   Everything here is driven by requestAnimationFrame against a wall-clock start
+   time, never by counting frames or by setInterval. A backgrounded tab throttles
+   timers to once a second or stops them, and a pacer that drifts is worse than no
+   pacer — you would be breathing to a rhythm the screen has lost. */
+
+var BREATH_PATTERNS = [
+  { id: 'box', name: 'Box breath', phases: [['In', 4], ['Hold', 4], ['Out', 4], ['Hold', 4]],
+    note: 'Four equal sides. Used by people who need a steady hand under pressure, and the easiest place to start.' },
+  { id: 'coherent', name: 'Coherent breath', phases: [['In', 5.5], ['Out', 5.5]],
+    note: 'About five and a half seconds each way — roughly five breaths a minute, the rate at which heart rhythm and breath fall into step.' },
+  { id: '478', name: 'Four–seven–eight', phases: [['In', 4], ['Hold', 7], ['Out', 8]],
+    note: 'A long exhale weights the parasympathetic side. Useful at night; too settling before anything demanding.' },
+  { id: 'ujjayi', name: 'Even breath', phases: [['In', 6], ['Out', 6]],
+    note: 'Equal in and out, no pause. The breath that underlies most āsana practice.' },
+  { id: 'extended', name: 'Extended exhale', phases: [['In', 4], ['Out', 8]],
+    note: 'Out twice as long as in. The oldest lever there is for turning one’s own state down.' }
+];
+
+var SEQUENCES = [
+  { id: 'morning', name: 'The morning sequence', mins: 8,
+    note: 'For a body that has been horizontal for eight hours. Nothing here needs warming up first.',
+    steps: [
+      ['Standing, eyes closed', 60, 'Feet under hips. Notice the weight in each foot before you move anything.'],
+      ['Arms overhead, side bend', 45, 'Both sides. Reach up first, then over — length before angle.'],
+      ['Forward fold, knees soft', 60, 'Let the head hang. Bend the knees as much as it takes to let the back release.'],
+      ['Halfway lift', 30, 'Hands to shins, flat back. This is where the spine wakes up.'],
+      ['Low lunge, right', 60, 'Back knee down. Hips forward, not down.'],
+      ['Low lunge, left', 60, 'Same on the other side. Notice which one is harder.'],
+      ['Downward dog', 90, 'Bend the knees freely. Length in the spine matters more than straight legs.'],
+      ['Cat and cow', 60, 'On hands and knees, moving with the breath. In as the chest opens, out as the back rounds.'],
+      ['Child’s pose', 90, 'Knees wide, arms forward. Breathe into the back of the ribs.'],
+      ['Sitting', 60, 'However you sit. The posture the rest of the practice is built on.']
+    ] },
+  { id: 'evening', name: 'Unwinding', mins: 10,
+    note: 'For the end of a working day. Entirely on the floor, and none of it requires strength.',
+    steps: [
+      ['Legs up the wall', 180, 'Hips close to the wall or a foot away, whichever lets the low back rest.'],
+      ['Reclined twist, right', 90, 'Knees to one side, shoulders staying down. Do not force the shoulder.'],
+      ['Reclined twist, left', 90, 'The other side, same instruction.'],
+      ['Knees to chest', 60, 'Rock slowly side to side if it helps.'],
+      ['Reclined bound angle', 120, 'Soles together, knees wide, something under each thigh if they hang.'],
+      ['Śavāsana', 180, 'Flat, arms away from the body, palms up. Do not skip this; it is where the work lands.']
+    ] },
+  { id: 'sit', name: 'Sitting', mins: 20,
+    note: 'Not a posture routine. The seat, the breath, and twenty minutes.',
+    steps: [
+      ['Settling', 120, 'Find the position you can hold. Cross-legged on a cushion, kneeling, or a chair with both feet down — the tradition cares that it is steady and comfortable, not that it is impressive.'],
+      ['Following the breath', 600, 'Attention at the nostrils or the belly. When you notice you have wandered, that noticing IS the practice. Return without comment.'],
+      ['Open attention', 360, 'Let the object go. Whatever arises, note it and let it pass.'],
+      ['Closing', 120, 'Widen to the room, the sounds, the light. Move slowly when you get up.']
+    ] }
+];
+
+/* ——— the pacer ——— */
+var pacer = { on: false, raf: null, start: 0, pattern: null, cycles: 0 };
+
+function pacerTotal(p) { return p.phases.reduce(function (s, x) { return s + x[1]; }, 0); }
+
+function pacerStart(id) {
+  var p = null;
+  for (var i = 0; i < BREATH_PATTERNS.length; i++) if (BREATH_PATTERNS[i].id === id) p = BREATH_PATTERNS[i];
+  if (!p) return;
+  pacer.pattern = p;
+  pacer.start = performance.now();
+  pacer.on = true;
+  pacer.cycles = 0;
+  pacerTick();
+}
+
+function pacerStop() {
+  pacer.on = false;
+  if (pacer.raf) cancelAnimationFrame(pacer.raf);
+  pacer.raf = null;
+  var disc = document.getElementById('pacer-disc');
+  if (disc) disc.style.transform = 'scale(1)';
+  var lab = document.getElementById('pacer-label');
+  if (lab) lab.textContent = 'Ready';
+  var cnt = document.getElementById('pacer-count');
+  if (cnt) cnt.textContent = '';
+}
+
+function pacerTick() {
+  if (!pacer.on) return;
+  var p = pacer.pattern, total = pacerTotal(p);
+  /* Elapsed from the wall clock, not accumulated per frame — a throttled or skipped
+     frame then costs nothing, and the pacer stays true to the actual seconds. */
+  var elapsed = (performance.now() - pacer.start) / 1000;
+  pacer.cycles = Math.floor(elapsed / total);
+  var t = elapsed % total;
+
+  var acc = 0, phase = p.phases[0], idx = 0;
+  for (var i = 0; i < p.phases.length; i++) {
+    if (t < acc + p.phases[i][1]) { phase = p.phases[i]; idx = i; break; }
+    acc += p.phases[i][1];
+  }
+  var within = (t - acc) / phase[1];
+
+  /* Scale: grow on the in-breath, hold, shrink on the out. Eased so the turn at each
+     end is not a jerk — the body follows a curve more easily than a ramp. */
+  var lo = 0.55, hi = 1.0, scale;
+  var label = phase[0];
+  var before = 'In';
+  for (var k = idx - 1; k >= 0; k--) { if (p.phases[k][0] !== 'Hold') { before = p.phases[k][0]; break; } }
+  var ease = function (x) { return 0.5 - 0.5 * Math.cos(Math.PI * x); };
+
+  if (label === 'In') scale = lo + (hi - lo) * ease(within);
+  else if (label === 'Out') scale = hi - (hi - lo) * ease(within);
+  else scale = (before === 'In') ? hi : lo;
+
+  var disc = document.getElementById('pacer-disc');
+  if (disc) disc.style.transform = 'scale(' + scale.toFixed(3) + ')';
+  var lab = document.getElementById('pacer-label');
+  if (lab) lab.textContent = label + ' · ' + Math.ceil(phase[1] - (t - acc));
+  var cnt = document.getElementById('pacer-count');
+  if (cnt) cnt.textContent = pacer.cycles + (pacer.cycles === 1 ? ' breath' : ' breaths');
+
+  pacer.raf = requestAnimationFrame(pacerTick);
+}
+
+/* ——— the sequence timer ——— */
+var seq = { on: false, id: null, step: 0, start: 0, raf: null };
+
+function seqFind(id) {
+  for (var i = 0; i < SEQUENCES.length; i++) if (SEQUENCES[i].id === id) return SEQUENCES[i];
+  return null;
+}
+
+function seqStart(id, from) {
+  var s = seqFind(id);
+  if (!s) return;
+  seq.on = true; seq.id = id; seq.step = from || 0; seq.start = performance.now();
+  seqTick();
+}
+function seqStop() {
+  seq.on = false;
+  if (seq.raf) cancelAnimationFrame(seq.raf);
+  seq.raf = null;
+  render();
+}
+function seqTick() {
+  if (!seq.on) return;
+  var s = seqFind(seq.id);
+  if (!s || seq.step >= s.steps.length) { seq.on = false; render(); announce('Sequence complete.'); return; }
+  var step = s.steps[seq.step];
+  var elapsed = (performance.now() - seq.start) / 1000;
+  var left = Math.max(0, step[1] - elapsed);
+
+  var t = document.getElementById('seq-time');
+  if (t) t.textContent = Math.floor(left / 60) + ':' + String(Math.floor(left % 60)).padStart(2, '0');
+  var bar = document.getElementById('seq-bar');
+  if (bar) bar.style.width = Math.min(100, (elapsed / step[1]) * 100).toFixed(1) + '%';
+
+  if (left <= 0) {
+    seq.step++;
+    seq.start = performance.now();
+    if (seq.step >= s.steps.length) { seq.on = false; render(); announce('Sequence complete.'); return; }
+    render();
+    return;
+  }
+  seq.raf = requestAnimationFrame(seqTick);
+}
+
+/* Leaving the page must stop both, or a pacer keeps running invisibly and the reader
+   comes back to a breath count from an hour ago. */
+window.addEventListener('hashchange', function () { pacerStop(); if (seq.on) { seq.on = false; if (seq.raf) cancelAnimationFrame(seq.raf); } });

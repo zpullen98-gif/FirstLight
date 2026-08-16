@@ -1,0 +1,312 @@
+/* First Light — persistence.
+
+   The artifact this app was rebuilt from wrote every kept quote, every checked
+   goal, and the morning count through `window.storage.get/set` — the claude.ai
+   artifact API. In an ordinary browser that object does not exist, the call threw,
+   and the catch quietly parked the value in a plain object that died on refresh.
+   Nothing the reader did was ever saved, and nothing ever said so.
+
+   So: localStorage is the real home, one versioned key, one JSON blob. Every
+   access is wrapped, and a write that genuinely fails raises an event instead of
+   returning as if it had worked.
+
+   SCHEMA RULE — additive only. Never rename or repurpose a field. Readers have a
+   year of mornings in here and a rename silently orphans all of it. To change a
+   meaning, add a new field and migrate in bootMigrate(). */
+
+var FL_KEY = 'firstlight-v1';
+
+/* The whole of the reader's record. Every field defaults to empty, so a missing
+   key from an older version is indistinguishable from a fresh install — which is
+   what makes additive migration safe. */
+var FL = {
+  v: 1,
+  kept: {},          // "<track>:<m>-<d>"  -> 1        voices kept to the Vault
+  checks: {},        // "g-<tier>-<goal>"  -> 1        the goal ladder
+  days: [],          // ["YYYY-MM-DD"]                 mornings observed, ascending
+  practice: {},      // "YYYY-MM-DD"       -> 1        the day's practice marked done
+  intents: {},       // "YYYY-MM-DD"       -> "Grief"  a named need, when one was named
+  journal: {},       // id -> {d, ref, text, t}        writing; ref ties it to a day/quote/passage
+  examen: {},        // "YYYY-MM-DD"       -> {well, short, tomorrow}
+  canon: {},         // canonId -> {start:"YYYY-MM-DD", done:{<doy>:1}}
+  prefs: {}          // theme, track, house system, coordinates, and so on
+};
+
+/* ——— date keys ———
+   Always local, never UTC. `toISOString()` is the obvious way to build these and
+   it is wrong: east of Greenwich it rolls the date over before local midnight, so
+   a 9pm entry lands on tomorrow and breaks the streak walk. */
+function flDateKey(dt) {
+  dt = dt || new Date();
+  return dt.getFullYear() + '-' +
+         String(dt.getMonth() + 1).padStart(2, '0') + '-' +
+         String(dt.getDate()).padStart(2, '0');
+}
+function flToday() { return flDateKey(new Date()); }
+
+/* ——— the raw store ———
+   localStorage only. Reads and writes are separately guarded: a private-mode
+   browser can permit reads and refuse writes, and we want to know which failed. */
+var flMem = {};   // last-resort tier, so the session still works when storage is denied
+var flStorageBroken = false;
+
+function flRawGet(k) {
+  try {
+    var v = localStorage.getItem(k);
+    if (v !== null) return v;
+  } catch (e) { /* private mode, or storage disabled by policy */ }
+  return Object.prototype.hasOwnProperty.call(flMem, k) ? flMem[k] : null;
+}
+
+function flRawSet(k, v) {
+  try {
+    localStorage.setItem(k, v);
+    if (flStorageBroken) { flStorageBroken = false; flNotifyStorage('ok'); }
+    return true;
+  } catch (e) {
+    /* Quota exceeded, or writes denied. The CalendarForLife lesson: never let this
+       return silently — the reader is owed the truth that their words are only in
+       memory for this session. */
+    flMem[k] = v;
+    if (!flStorageBroken) {
+      flStorageBroken = true;
+      flNotifyStorage('fail', e);
+    }
+    return false;
+  }
+}
+
+function flNotifyStorage(state, err) {
+  try {
+    window.dispatchEvent(new CustomEvent('fl:storage', {
+      detail: { state: state, error: err ? (err.name || String(err)) : null }
+    }));
+  } catch (e) { /* very old browser; the console line below still lands */ }
+  if (state === 'fail') {
+    console.warn('First Light: writes are failing — this session will not be saved.', err);
+  }
+}
+
+/* ——— save ———
+   Debounced. Typing in the journal fires on every keystroke and re-serialising the
+   whole record each time is wasteful, but the delay must be short enough that a
+   reader who closes the tab mid-sentence keeps the sentence. */
+var flSaveTimer = null;
+function flSave(immediate) {
+  if (flSaveTimer) { clearTimeout(flSaveTimer); flSaveTimer = null; }
+  if (immediate) return flWriteNow();
+  flSaveTimer = setTimeout(flWriteNow, 400);
+  return true;
+}
+function flWriteNow() {
+  flSaveTimer = null;
+  try {
+    return flRawSet(FL_KEY, JSON.stringify(FL));
+  } catch (e) {
+    flNotifyStorage('fail', e);
+    return false;
+  }
+}
+/* A tab being hidden or closed is the last chance to flush a pending debounce.
+   'pagehide' fires where 'unload' is unreliable, and visibilitychange covers the
+   phone-goes-to-sleep case, which on mobile is how most sessions actually end. */
+window.addEventListener('pagehide', function () { if (flSaveTimer) flWriteNow(); });
+document.addEventListener('visibilitychange', function () {
+  if (document.visibilityState === 'hidden' && flSaveTimer) flWriteNow();
+});
+
+/* ——— streak ———
+   Recovered from first-light.jsx, which had this right. The HTML rewrite replaced
+   it with `days.length` — a count of distinct days ever opened, displayed as
+   "Morning N of your record". That number never falls, so it measured nothing.
+   A streak is consecutive days ending today or yesterday; walk backwards. */
+function flStreak(days) {
+  var set = {}, i;
+  days = days || FL.days;
+  for (i = 0; i < days.length; i++) set[days[i]] = 1;
+
+  var cursor = new Date();
+  /* Grace: at 6am on a day not yet observed the streak is still alive — it ends
+     only once a full day has been missed. Without this the number reads zero every
+     morning until the reader opens the app, which is exactly when they see it. */
+  if (!set[flDateKey(cursor)]) cursor.setDate(cursor.getDate() - 1);
+
+  var n = 0;
+  while (set[flDateKey(cursor)]) { n++; cursor.setDate(cursor.getDate() - 1); }
+  return n;
+}
+
+function flLongestStreak(days) {
+  days = (days || FL.days).slice().sort();
+  var best = 0, run = 0, prev = null, i;
+  for (i = 0; i < days.length; i++) {
+    if (prev) {
+      var d = new Date(prev + 'T00:00:00');
+      d.setDate(d.getDate() + 1);
+      run = (flDateKey(d) === days[i]) ? run + 1 : 1;
+    } else run = 1;
+    if (run > best) best = run;
+    prev = days[i];
+  }
+  return best;
+}
+
+/* Record that today was observed. Idempotent — safe to call on every render. */
+function flMarkDay() {
+  var k = flToday();
+  if (FL.days.indexOf(k) === -1) { FL.days.push(k); FL.days.sort(); flSave(); return true; }
+  return false;
+}
+
+/* ——— boot ———
+   Load, then migrate. Both steps must survive a corrupted blob: a reader whose
+   localStorage was mangled by another tool should get an empty app, not a white
+   screen. */
+function flBoot() {
+  var raw = flRawGet(FL_KEY), loaded = null;
+  if (raw) {
+    try { loaded = JSON.parse(raw); }
+    catch (e) {
+      console.warn('First Light: saved record was unreadable; keeping a copy aside.', e);
+      try { flRawSet(FL_KEY + '-corrupt-' + Date.now(), raw); } catch (e2) {}
+    }
+  }
+  if (loaded && typeof loaded === 'object') flAdopt(loaded);
+  flBootMigrate();
+  return FL;
+}
+
+/* Merge a loaded blob over the defaults rather than replacing FL wholesale, so a
+   record written by an older version simply lacks the newer keys instead of
+   deleting them. This is the mechanism that makes the additive rule work. */
+function flAdopt(obj) {
+  Object.keys(FL).forEach(function (k) {
+    if (!Object.prototype.hasOwnProperty.call(obj, k)) return;
+    var incoming = obj[k];
+    if (Array.isArray(FL[k])) { if (Array.isArray(incoming)) FL[k] = incoming; }
+    else if (FL[k] && typeof FL[k] === 'object') {
+      if (incoming && typeof incoming === 'object') FL[k] = incoming;
+    } else FL[k] = incoming;
+  });
+  /* Carry forward any key this version doesn't know about. A reader who used a
+     newer build and then loaded an older one would otherwise lose that data on the
+     next save. */
+  Object.keys(obj).forEach(function (k) {
+    if (!Object.prototype.hasOwnProperty.call(FL, k)) FL[k] = obj[k];
+  });
+}
+
+/* Idempotent. Runs every boot; must be safe to run twice. */
+function flBootMigrate() {
+  var changed = false;
+
+  /* The artifact's three keys. On the small chance a reader used it somewhere
+     `window.storage` did resolve — or in a build where these reached localStorage —
+     their vault is still on the device under the old names. Take it once. */
+  if (!FL.prefs.migratedFl2) {
+    changed = flAdoptLegacy('fl2:kept', function (v) {
+      Object.keys(v).forEach(function (k) {
+        /* Old keys were "<m>-<d>"; the track prefix arrives with the second year. */
+        if (!FL.kept['philosophers:' + k]) FL.kept['philosophers:' + k] = 1;
+      });
+    }) || changed;
+    changed = flAdoptLegacy('fl2:checks', function (v) {
+      Object.keys(v).forEach(function (k) { if (!FL.checks[k]) FL.checks[k] = 1; });
+    }) || changed;
+    changed = flAdoptLegacy('fl2:days', function (v) {
+      if (!Array.isArray(v)) return;
+      v.forEach(function (d) {
+        /* Stored as "YYYY-M-D" without padding; normalise or the streak walk,
+           which builds padded keys, will never match any of them. */
+        var p = String(d).split('-');
+        if (p.length !== 3) return;
+        var k = p[0] + '-' + String(+p[1]).padStart(2, '0') + '-' + String(+p[2]).padStart(2, '0');
+        if (FL.days.indexOf(k) === -1) FL.days.push(k);
+      });
+      FL.days.sort();
+    }) || changed;
+    FL.prefs.migratedFl2 = 1;
+    changed = true;
+  }
+
+  if (!FL.prefs.theme)  { FL.prefs.theme = 'auto';          changed = true; }
+  if (!FL.prefs.track)  { FL.prefs.track = 'philosophers';  changed = true; }
+
+  if (changed) flSave(true);
+  return changed;
+}
+
+function flAdoptLegacy(key, apply) {
+  var raw = flRawGet(key);
+  if (!raw) return false;
+  try { apply(JSON.parse(raw)); return true; }
+  catch (e) { return false; }
+}
+
+/* ——— export / import ———
+   localStorage is per-origin and does not survive a move to a new phone, a cleared
+   cache, or a change of hosting. A year of writing has to be portable or it isn't
+   really the reader's. */
+function flExport() {
+  return JSON.stringify({
+    app: 'First Light',
+    schema: FL.v,
+    exported: new Date().toISOString(),
+    record: FL
+  }, null, 2);
+}
+
+function flExportFilename() {
+  return 'first-light-' + flToday() + '.json';
+}
+
+/* Merges rather than replaces, and never deletes. Importing a backup onto a device
+   that has since accumulated new mornings should end with both, not whichever file
+   was newer. Returns a summary so the UI can say what actually happened. */
+function flImport(text) {
+  var parsed = JSON.parse(text);
+  var rec = (parsed && parsed.record) ? parsed.record : parsed;
+  if (!rec || typeof rec !== 'object') throw new Error('That file is not a First Light record.');
+
+  var added = { kept: 0, checks: 0, days: 0, journal: 0, examen: 0, practice: 0 };
+
+  ['kept', 'checks', 'practice', 'intents'].forEach(function (bucket) {
+    if (!rec[bucket]) return;
+    Object.keys(rec[bucket]).forEach(function (k) {
+      if (!FL[bucket][k]) { FL[bucket][k] = rec[bucket][k]; if (added[bucket] !== undefined) added[bucket]++; }
+    });
+  });
+
+  if (Array.isArray(rec.days)) rec.days.forEach(function (d) {
+    if (FL.days.indexOf(d) === -1) { FL.days.push(d); added.days++; }
+  });
+  FL.days.sort();
+
+  /* Journal and examen entries are the irreplaceable part. On a collision keep the
+     longer text: a truncated entry is the likelier accident, and losing sentences
+     someone wrote is the one failure this app must never commit. */
+  if (rec.journal) Object.keys(rec.journal).forEach(function (id) {
+    var mine = FL.journal[id], theirs = rec.journal[id];
+    if (!mine) { FL.journal[id] = theirs; added.journal++; }
+    else if (theirs && String(theirs.text || '').length > String(mine.text || '').length) {
+      FL.journal[id] = theirs;
+    }
+  });
+  if (rec.examen) Object.keys(rec.examen).forEach(function (d) {
+    if (!FL.examen[d]) { FL.examen[d] = rec.examen[d]; added.examen++; }
+  });
+
+  if (rec.canon) Object.keys(rec.canon).forEach(function (id) {
+    var mine = FL.canon[id] || (FL.canon[id] = { start: null, done: {} });
+    var theirs = rec.canon[id] || {};
+    if (theirs.start && (!mine.start || theirs.start < mine.start)) mine.start = theirs.start;
+    if (theirs.done) Object.keys(theirs.done).forEach(function (d) { mine.done[d] = 1; });
+  });
+
+  if (rec.prefs) Object.keys(rec.prefs).forEach(function (k) {
+    if (FL.prefs[k] === undefined) FL.prefs[k] = rec.prefs[k];
+  });
+
+  flSave(true);
+  return added;
+}

@@ -1,0 +1,8 @@
+# Keep LF in the repository. Without this, Windows checkouts rewrite every file to
+# CRLF and the next commit shows 189 files changed with no real diff — which buries
+# the actual change and makes `git log -p` useless for finding when something broke.
+* text=auto eol=lf
+
+# Fonts and icons are binary; never let a line-ending filter near them.
+*.woff2 binary
+*.png   binary

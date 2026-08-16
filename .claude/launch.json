@@ -1,0 +1,11 @@
+﻿{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "first-light",
+      "runtimeExecutable": "py",
+      "runtimeArgs": ["serve.py", "8633"],
+      "port": 8633
+    }
+  ]
+}
