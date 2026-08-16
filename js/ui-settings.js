@@ -69,6 +69,27 @@ FL_ACTS.importChosen = function (el) {
   el.value = '';   // so choosing the same file twice still fires
 };
 
+/* Which months have been through the citation audit.
+
+   Deliberately an explicit list, not derived from the data. The obvious derivation —
+   "a month is audited when its entries carry work references" — is wrong and
+   flattering: February onward already arrived from the artifact with references like
+   "Confucius, Analects 12.22", and that heuristic reports every month as partly done
+   when only January has actually been checked. Carrying a citation and having had
+   one verified are different things, and this app should not blur them.
+
+   Update this when a month is finished, alongside SOURCES.md. */
+var AUDITED_MONTHS = [1];
+var AUDIT_PARTIAL = {};   // month -> "23 of 31", while a month is mid-audit
+
+function auditedMonths() {
+  if (!AUDITED_MONTHS.length && !Object.keys(AUDIT_PARTIAL).length) return 'not yet begun';
+  var out = AUDITED_MONTHS.map(function (m) {
+    return MONTHS[m - 1][0] + (AUDIT_PARTIAL[m] ? ' (' + AUDIT_PARTIAL[m] + ')' : '');
+  });
+  return out.join(' · ') + ' — of twelve';
+}
+
 FL_VIEWS.settings = {
   label: 'Settings',
   title: 'Settings',
@@ -132,6 +153,18 @@ FL_VIEWS.settings = {
         '<button class="keep" data-act="importRecord">Import a backup</button>' +
         '<input type="file" id="fl-import" accept="application/json,.json" class="sr-only" data-change="importChosen">' +
         '<p class="vidnote" style="margin-top:10px">Importing merges — it adds what is missing and never deletes what is here.</p>' +
+      '</div>' +
+
+      '<div class="label">Where the words come from</div>' +
+      '<div class="card">' +
+        '<p class="px">Every quotation in the year is being checked against primary texts. ' +
+        'Where a line turns out not to belong to the author whose name it carried, the line stays ' +
+        'and a note underneath says so — a much-loved sentence is not worth less for having the ' +
+        'wrong byline, but the byline should not be wrong.</p>' +
+        '<div class="astrorow" style="margin-top:12px"><span class="k">Audited so far</span> ' +
+          esc(auditedMonths()) + '</div>' +
+        '<p class="vidnote" style="margin-top:10px">The full record of what was checked and what ' +
+        'changed is in SOURCES.md in the repository.</p>' +
       '</div>' +
 
       '<p class="mintro" style="margin-top:30px">First Light keeps nothing about you anywhere but this device.</p>';
