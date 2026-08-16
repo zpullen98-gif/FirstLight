@@ -50,10 +50,10 @@ every tradition at once, in its own words, including where they flatly disagree.
 | The Bible | World English Bible | 66 books · 1,189 chapters · 31,095 verses |
 | The Hebrew Bible | JPS 1917 | 39 books · 929 chapters · 23,206 verses |
 | The Qur'an | Marmaduke Pickthall | 114 surahs · 6,236 ayahs |
-| The Rig Veda | Ralph T. H. Griffith | 10 mandalas · 1,028 hymns |
+| The Rig Veda | Ralph T. H. Griffith | 10 mandalas · 1,028 hymns · 10,497 verses |
 | The Dhammapada | F. Max Müller, 1881 | 26 chapters · 423 verses |
 | The Bhagavad Gita | Sir Edwin Arnold, 1885 | 18 chapters |
-| The Upanishads | — | *being prepared* |
+| Three Upanishads | Swami Paramananda | Isa, Katha, Kena, with commentary |
 | The Tao Te Ching | James Legge, 1891 | 81 chapters |
 | The Analects | James Legge, 1893 | 20 books · 498 chapters |
 | The Zhuangzi | Herbert A. Giles, 1889 | 33 chapters |

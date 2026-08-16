@@ -6,7 +6,7 @@
    Small on purpose: this is precached with the app shell so the Library can show
    every work, book and chapter offline, before any scripture is loaded. The text
    itself lives in js/texts/<work>/<part>.js and loads only when a passage is opened.
-   Total library on disk: 10.48 MB. */
+   Total library on disk: 10.57 MB. */
 
 var FL_LIBRARY = {
  "rigveda": {
@@ -347,6 +347,35 @@ var FL_LIBRARY = {
     "section": "Writings",
     "chapters": 36,
     "bytes": 142511
+   }
+  ]
+ },
+ "upanishads": {
+  "title": "Three Upanishads",
+  "translation": "Swami Paramananda — Isa, Katha and Kena, with his commentary",
+  "license": "Public domain",
+  "source": "Project Gutenberg",
+  "bytes": 94009,
+  "parts": [
+   {
+    "part": "all"
+   }
+  ],
+  "chapters": [
+   {
+    "n": 1,
+    "title": "Isa-Upanishad",
+    "blocks": 64
+   },
+   {
+    "n": 2,
+    "title": "Katha-Upanishad",
+    "blocks": 310
+   },
+   {
+    "n": 3,
+    "title": "Kena-Upanishad",
+    "blocks": 103
    }
   ]
  },

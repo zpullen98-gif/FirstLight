@@ -246,12 +246,15 @@ function libReader(workId, part) {
       }).join('') + libCredit(L);
   }
 
-  /* gita / tao / zhuangzi: [{n, b:[[line,…],…]}] */
+  /* gita / tao / zhuangzi / upanishads: [{n, title?, b:[[line,…],…]}]
+     Use the section's own name where it has one — the Upanishads are Isa, Katha and
+     Kena, not 1, 2 and 3. */
   return back + '<h1>' + esc(L.title) + '</h1>' +
-    '<p class="note">' + esc(L.translation) + ' · ' + data.length + ' chapters</p>' +
+    '<p class="note">' + esc(L.translation) + ' · ' + data.length +
+      (data[0] && data[0].title ? ' sections' : ' chapters') + '</p>' +
     data.map(function (c) {
-      return '<div class="chaphead">' + (workId === 'gita' ? 'Chapter ' : '') + c.n + '</div>' +
-             c.b.map(libBlock).join('');
+      var head = c.title ? esc(c.title) : ((workId === 'gita' ? 'Chapter ' : '') + c.n);
+      return '<div class="chaphead">' + head + '</div>' + c.b.map(libBlock).join('');
     }).join('') + libCredit(L);
 }
 

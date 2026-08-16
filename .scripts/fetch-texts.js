@@ -579,10 +579,61 @@ async function analects() {
   return { books: books.length, chapters: books.reduce((s, b) => s + b.ch.length, 0) };
 }
 
+/* Three Upanishads — Swami Paramananda.
+
+   NOT "the Upanishads". Paramananda's volume carries three: Isa, Katha and Kena.
+   Shipping it under the general title would misrepresent it, so the library calls it
+   what it is. They are, at least, three of the most quoted — Isa is the shortest and
+   most anthologised, Katha holds the Nachiketa dialogue and "the Self is not born,
+   nor does it die", and Kena is the one about that which the mind cannot think.
+
+   His commentary is kept rather than stripped. It is interleaved with the verses by
+   design — the book is "translated and commentated" — and a reader coming to the
+   Upanishads cold is better served by it than by bare aphorisms. The manifest names
+   the arrangement so nobody mistakes the commentary for scripture.
+
+   Wikisource was checked first for Müller's fuller Sacred Books of the East set; its
+   Upanishads are scattered redirect stubs rather than transcribed texts. */
+async function upanishads() {
+  const body = await gutenberg(3283, 'upanishads.txt');
+  const ls = body.split('\n');
+  const names = ['Isa', 'Katha', 'Kena'];
+
+  /* Each title appears twice — once heading the introduction, once heading the text.
+     Take the LAST occurrence, which is where the Upanishad itself begins. */
+  const starts = names.map(n => {
+    let at = -1;
+    ls.forEach((l, i) => { if (new RegExp('^\\s{10,}' + n + '-Upanishad\\s*$').test(l)) at = i; });
+    return { name: n, at };
+  });
+  if (starts.some(s => s.at < 0)) throw new Error('could not locate all three Upanishads');
+  starts.sort((a, b) => a.at - b.at);
+
+  const chapters = starts.map((s, i) => {
+    const end = i + 1 < starts.length ? starts[i + 1].at : ls.length;
+    const text = ls.slice(s.at + 1, end).join('\n');
+    return { n: i + 1, title: s.name + '-Upanishad', b: blocksOf(text) };
+  });
+
+  const blocks = chapters.reduce((t, c) => t + c.b.length, 0);
+  if (chapters.length !== 3 || blocks < 100) {
+    throw new Error('parsed ' + chapters.length + ' upanishads / ' + blocks + ' blocks — too few');
+  }
+
+  emit('upanishads', 'all', chapters);
+  manifest('upanishads', {
+    title: 'Three Upanishads',
+    translation: 'Swami Paramananda — Isa, Katha and Kena, with his commentary',
+    license: 'Public domain', source: 'Project Gutenberg', whole: true,
+    chapters: chapters.map(c => ({ n: c.n, title: c.title, blocks: c.b.length }))
+  });
+  return { upanishads: chapters.length, blocks };
+}
+
 module.exports = { get, emit, manifest, gutenberg, clean, pad, sleep, lines, parseHymn, OUT };
 
 /* ═══════════════════════ runner ═══════════════════════ */
-const WORKS = { bible, tanakh, quran, dhammapada, rigveda, gita, zhuangzi, tao, analects };
+const WORKS = { bible, tanakh, quran, dhammapada, rigveda, gita, zhuangzi, tao, analects, upanishads };
 
 /* Guard the runner: without it, `require`-ing this file to reuse a helper silently
    re-runs every fetch in the library. */
