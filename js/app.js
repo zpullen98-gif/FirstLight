@@ -98,9 +98,58 @@ function renderNav() {
     '<div class="nav-tools">' + NAV_TOOLS.map(navLink).join('') + '</div>';
 }
 
+/* First run: three honest answers and one choice, before anything else.
+   Shown once, to a record with at most the boot-marked day in it — an
+   imported year of mornings never sees this screen. */
+function flOnboardHTML() {
+  return '<div class="kick">First Light</div>' +
+    '<h1>Two minutes, most mornings</h1>' +
+    '<p class="note">Nothing leaves this phone. No account, no manager, no feed — what you write ' +
+    'stays in this browser, and exports to a file you own.</p>' +
+    '<div class="pacer-disc" id="pacer-disc" aria-hidden="true"></div>' +
+    '<div class="pacer-label" id="pacer-label">Ready</div>' +
+    '<div class="ds" id="pacer-count"></div>' +
+    '<div style="text-align:center;margin-top:10px">' +
+      '<button class="mchip' + ((typeof pacer !== 'undefined' && pacer.on) ? ' on' : '') + '" data-act="onboardBreath">' +
+      ((typeof pacer !== 'undefined' && pacer.on) ? 'Let it fade' : 'Try ten slow breaths first') + '</button></div>' +
+    '<div class="label" style="margin-top:26px">One choice before you begin</div>' +
+    '<div class="card">' +
+      '<p class="px" style="margin-bottom:12px">First Light includes a religious Library — scripture and ' +
+      'reading plans across seven traditions. It stays behind its own door either way. ' +
+      'Show today’s readings on your morning page?</p>' +
+      '<div class="drawrow">' +
+        '<button class="btn" data-act="onboardChoice" data-v="on">Show the readings</button>' +
+        '<button class="keep" data-act="onboardChoice" data-v="off">Keep them in the Library</button>' +
+      '</div>' +
+      '<p class="vidnote" style="margin-top:10px">You can change this any time in Settings.</p>' +
+    '</div>';
+}
+
+FL_ACTS.onboardBreath = function () {
+  if (typeof pacer === 'undefined') return;
+  if (pacer.on) pacerStop(); else pacerStart('box');
+  render();
+};
+
+FL_ACTS.onboardChoice = function (el) {
+  FL.prefs.canonLines = el.getAttribute('data-v') === 'on' ? 'on' : 'off';
+  FL.prefs.onboarded = 1;
+  flSave(true);
+  if (typeof pacer !== 'undefined' && pacer.on) pacerStop();
+  location.hash = '#/today';
+  render();
+  announce('Welcome. The morning is ready.');
+};
+
 function render() {
   var v = FL_VIEWS[flRoute.view];
   var host = document.getElementById('view');
+  if (!FL.prefs.onboarded && FL.days.length <= 1) {
+    host.innerHTML = flOnboardHTML();
+    renderNav();
+    document.title = 'First Light';
+    return;
+  }
   try {
     host.innerHTML = v.render(flRoute.arg) || '';
   } catch (err) {

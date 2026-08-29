@@ -198,6 +198,15 @@ function flAdopt(obj) {
 
 /* Idempotent. Runs every boot; must be safe to run twice. */
 function flBootMigrate() {
+  /* The canon-lines choice arrived after some readers had already begun a
+     reading plan. Starting a plan IS the answer to the question the first-run
+     screen now asks, so those records are grandfathered to 'on' rather than
+     having their readings silently vanish. Everyone else stays unanswered
+     (treated as off) until they choose. */
+  if (FL.prefs.canonLines === undefined && FL.canon) {
+    var started = Object.keys(FL.canon).some(function (k) { return FL.canon[k] && FL.canon[k].start; });
+    if (started) FL.prefs.canonLines = 'on';
+  }
   var changed = false;
 
   /* The artifact's three keys. On the small chance a reader used it somewhere

@@ -5,6 +5,15 @@
    one matters most — localStorage is per-origin and does not survive a new phone, a
    cleared cache, or a change of hosting. A year of mornings has to be portable. */
 
+FL_ACTS.setCanonLines = function (el) {
+  FL.prefs.canonLines = el.value === 'on' ? 'on' : 'off';
+  flSave(true);
+  render();
+  toast(el.value === 'on'
+    ? 'Today’s readings will appear on the morning page.'
+    : 'The readings stay behind the Library’s own door.');
+};
+
 FL_ACTS.setTheme = function (el) {
   FL.prefs.theme = el.value;
   flSave(true);
@@ -153,6 +162,17 @@ FL_VIEWS.settings = {
         '<button class="keep" data-act="importRecord">Import a backup</button>' +
         '<input type="file" id="fl-import" accept="application/json,.json" class="sr-only" data-change="importChosen">' +
         '<p class="vidnote" style="margin-top:10px">Importing merges — it adds what is missing and never deletes what is here.</p>' +
+      '</div>' +
+
+      '<div class="label">The Library on your morning page</div>' +
+      '<div class="card">' +
+        '<p class="px" style="margin-bottom:10px">First Light includes a religious Library — scripture and ' +
+        'reading plans across seven traditions. It stays behind its own door either way; this only decides ' +
+        'whether today’s readings appear on your morning page and in search.</p>' +
+        '<select class="sel" data-change="setCanonLines" aria-label="Readings on the morning page">' +
+          '<option value="off"' + (FL.prefs.canonLines === 'on' ? '' : ' selected') + '>Keep them behind their own door</option>' +
+          '<option value="on"' + (FL.prefs.canonLines === 'on' ? ' selected' : '') + '>Show today’s readings</option>' +
+        '</select>' +
       '</div>' +
 
       '<div class="label">Where the words come from</div>' +

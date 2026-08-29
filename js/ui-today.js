@@ -69,7 +69,15 @@ FL_ACTS.practiceDone = function () {
   render();
 };
 
+FL_ACTS.sitBreath = function () {
+  if (typeof pacer === 'undefined') return;
+  if (pacer.on) pacerStop(); else pacerStart('box');
+  render();
+};
+
 FL_ACTS.todayStep = function (el) {
+  /* leaving the step should not leave a pacer breathing at nothing */
+  if (typeof pacer !== 'undefined' && pacer.on) pacerStop();
   var to = el.getAttribute('data-to');
   todayStep = to === 'next' ? todayStep + 1 : to === 'back' ? todayStep - 1 : +to;
   if (todayStep < 0) todayStep = 0;
@@ -80,6 +88,7 @@ FL_ACTS.todayStep = function (el) {
 };
 
 FL_ACTS.todayMode = function (el) {
+  if (typeof pacer !== 'undefined' && pacer.on) pacerStop();
   var m = el.getAttribute('data-mode');
   if (m === 'page' || m === 'guided') { FL.prefs.todayMode = m; flSave(); }
   else { todayForceMode = m; }
@@ -137,6 +146,17 @@ function todayReadingLines(doy) {
   }).join('');
 }
 
+/* The reader decides whether scripture appears on the morning page. Until they
+   say yes — at first run or in Settings — the default path stays secular and
+   the Library keeps its one door. This is the promise the suite makes out loud:
+   the religious rooms exist, and nobody is walked into them. */
+function todayCanonOn() { return FL.prefs.canonLines === 'on'; }
+function todayCanonQuiet() {
+  return '<p class="px" style="color:var(--faint)">There is a Library, when you want it — ' +
+    'scripture and reading plans across seven traditions, kept behind ' +
+    '<a href="#/library">their own door</a>. Settings can put today’s readings here instead.</p>';
+}
+
 /* ——— the guided morning ——— */
 function todayGuided(m, d, e, doy, p) {
   var steps = [
@@ -145,9 +165,15 @@ function todayGuided(m, d, e, doy, p) {
           '<p class="mintro" style="margin-top:18px">Read it twice. The second time is the one that lands.</p>';
       } },
     { label: 'Sit with it', body: function () {
-        return '<div class="disc" aria-hidden="true"></div>' +
+        var on = (typeof pacer !== 'undefined' && pacer.on);
+        return '<div class="pacer-disc" id="pacer-disc" aria-hidden="true"></div>' +
+          '<div class="pacer-label" id="pacer-label">' + (on ? '' : 'Ready') + '</div>' +
+          '<div class="ds" id="pacer-count"></div>' +
           '<p class="mintro">A minute, or the length of ten slow breaths. Nothing to achieve — ' +
-          'this is the interval in which the line stops being information and becomes yours.</p>';
+          'this is the interval in which the line stops being information and becomes yours.</p>' +
+          '<div style="text-align:center;margin-top:10px">' +
+          '<button class="mchip' + (on ? ' on' : '') + '" data-act="sitBreath">' +
+          (on ? 'Let it fade' : 'Pace the breaths') + '</button></div>';
       } },
     { label: 'The practice', body: function () { return todayPractice(p); } },
     { label: 'The reflection', body: function () {
@@ -156,6 +182,7 @@ function todayGuided(m, d, e, doy, p) {
           '<div style="margin-top:16px">' + jField(ref, 'Answer it, or don’t. A sentence counts.', flToday(), 5) + '</div>';
       } },
     { label: 'The reading', body: function () {
+        if (!todayCanonOn()) return todayCanonQuiet();
         return '<p class="px" style="color:var(--faint);margin-bottom:12px">Today across the five canons. ' +
           'Open one, or none — the year keeps either way.</p>' + todayReadingLines(doy);
       } }
@@ -241,8 +268,9 @@ function todayPage(m, d, e, doy, p) {
     '<div class="label">Reflection</div>' +
     '<p class="refl">' + esc(REFLECTIONS[doy % REFLECTIONS.length]) + '</p>' +
     '<div style="margin-top:14px">' + jField(jRef('day', flToday()), 'Answer it, or don’t. A sentence counts.', flToday(), 4) + '</div>' +
-    '<div class="label">Today in the five canons</div>' +
-    '<div class="card">' + todayReadingLines(doy) + '</div>' +
+    (todayCanonOn()
+      ? '<div class="label">Today in the five canons</div><div class="card">' + todayReadingLines(doy) + '</div>'
+      : '<div class="label">The reading</div>' + todayCanonQuiet()) +
     todayIntentPanel() +
     '<div style="text-align:center;margin-top:26px">' +
       '<button class="readmini" data-act="todayMode" data-mode="guided">Walk it through instead</button>' +

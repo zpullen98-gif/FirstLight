@@ -87,8 +87,11 @@ function flSearch(query) {
     if (sHit(r, q)) push('Practices', 'Reflection', '', r, '#/today');
   });
 
-  /* ——— the chambers ——— */
-  if (typeof FL_TRADITIONS !== 'undefined') FL_TRADITIONS.forEach(function (tr) {
+  /* ——— the chambers ———
+     Gated on the same choice as the morning page: a reader who kept the Library
+     behind its door should not meet scripture through the side door of search.
+     Opening the readings opens the search with them. */
+  if (FL.prefs.canonLines === 'on' && typeof FL_TRADITIONS !== 'undefined') FL_TRADITIONS.forEach(function (tr) {
     var href = '#/library/' + tr.id;
     if (sHit(tr.name, q) || sHit(tr.also, q) || sHit(tr.era, q)) {
       push('Traditions', tr.name, tr.also, tr.era, href);
@@ -110,7 +113,7 @@ function flSearch(query) {
   });
 
   /* ——— the threads ——— */
-  if (typeof FL_THREADS !== 'undefined') FL_THREADS.forEach(function (th) {
+  if (FL.prefs.canonLines === 'on' && typeof FL_THREADS !== 'undefined') FL_THREADS.forEach(function (th) {
     var href = '#/threads/' + th.id;
     if (sHit(th.title, q) || sHit(th.question, q) || sHit(th.intro, q) || sHit(th.close, q)) {
       push('Threads', th.title, th.question, th.intro, href);

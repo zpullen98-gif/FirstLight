@@ -21,7 +21,7 @@ FL_VIEWS.life = {
           '<input type="checkbox" id="' + id + '" data-change="toggleGoal" data-id="' + id + '"' +
             (FL.checks[id] ? ' checked' : '') + '>' +
           '<div><label for="' + id + '" class="gt">' + esc(g[0]) + '</label>' +
-          '<div class="gq">' + esc(g[1]) + '</div></div></div>';
+          '<div class="gq">' + esc(FL.prefs.canonLines === 'on' ? g[1] : (LIFE_ALT[g[0]] || g[1])) + '</div></div></div>';
       }).join('');
       return '<div class="tier"><div class="label">The ' + esc(tier[0]) + ' Goals</div>' +
              '<p class="px" style="margin-bottom:10px;color:var(--faint)">' + esc(tier[1]) + '</p>' +
