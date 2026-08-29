@@ -22,6 +22,7 @@ var FL_KEY = 'firstlight-v1';
 var FL = {
   v: 1,
   kept: {},          // "<track>:<m>-<d>"  -> 1        voices kept to the Vault
+  byheart: {},       // "<track>:<m>-<d>"  -> 1|2      1 turning over, 2 by heart (absent = new)
   checks: {},        // "g-<tier>-<goal>"  -> 1        the goal ladder
   days: [],          // ["YYYY-MM-DD"]                 mornings observed, ascending
   practice: {},      // "YYYY-MM-DD"       -> 1        the day's practice marked done
@@ -291,6 +292,13 @@ function flImport(text) {
   if (!rec || typeof rec !== 'object') throw new Error('That file is not a First Light record.');
 
   var added = { kept: 0, checks: 0, days: 0, journal: 0, examen: 0, practice: 0 };
+
+  /* byheart merges keep-the-higher-band: two devices disagreeing about how
+     well you know a line resolve toward the stronger claim — you can always
+     step a band back by rehearsing. */
+  if (rec.byheart) Object.keys(rec.byheart).forEach(function (k) {
+    if ((rec.byheart[k] || 0) > (FL.byheart[k] || 0)) FL.byheart[k] = rec.byheart[k];
+  });
 
   ['kept', 'checks', 'practice', 'intents'].forEach(function (bucket) {
     if (!rec[bucket]) return;

@@ -249,6 +249,20 @@ function todayGuided(m, d, e, doy, p) {
 
   if (todayStep >= steps.length) {
     var streak = flStreak();
+    /* one line the reader knows by heart goes onto the floor with them,
+       rotating through the by-heart shelf by the day */
+    var prefix = (FL.prefs.track || 'philosophers') + ':';
+    var known = Object.keys(FL.byheart).filter(function (k) {
+      return FL.byheart[k] === 2 && k.indexOf(prefix) === 0;
+    }).sort();
+    var ready = '';
+    if (known.length) {
+      var kk = known[doy % known.length].slice(prefix.length).split('-').map(Number);
+      var ke = dayEntry(kk[0], kk[1]);
+      ready = '<div class="label" style="margin-top:20px">Ready at hand today</div>' +
+        '<p class="refl">“' + esc(ke.q) + '”</p>' +
+        '<p class="px" style="color:var(--faint)">' + esc(ke.s) + ' — you know this one. Take it with you.</p>';
+    }
     return '<div class="disc" aria-hidden="true"></div>' +
       '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
       '<h1>The morning is kept</h1>' +
@@ -258,6 +272,7 @@ function todayGuided(m, d, e, doy, p) {
         '<button class="keep" data-act="todayStep" data-to="0">Walk it again</button>' +
         '<button class="keep" data-act="todayMode" data-mode="page">See the whole page</button>' +
       '</div>' +
+      ready +
       '<p class="px" style="text-align:center;margin-top:10px"><a class="readmini" href="#/reset">' +
         'Later, mid-shift: the Walk-In — ninety seconds</a></p>' +
       (sunIsEvening() ? '<div class="drawrow" style="justify-content:center">' +
