@@ -68,15 +68,37 @@ function go(view, arg) {
 
 var flRoute = { view: 'today', arg: null };
 
-/* Two tiers, because ten equal items is not a menu — it is a list, and on a 375px
-   screen it wraps to four rows of small capitals that all look equally important.
+/* Four clusters, because eleven equal items is not a menu — it is a list, and
+   on a 375px screen it wrapped to three ragged rows with the Vault orphaned on
+   its own line. The clusters follow what a reader is actually doing:
 
-   The first tier is the book: the sections the almanac is actually made of, in the
-   author's original order. The second is the instruments you use on it — your own
-   writing, finding things, the record, and the workings. Separating them lets a
-   reader see the shape of the thing in one glance. */
-var NAV_PLACES = ['today', 'year', 'life', 'library', 'body', 'astro', 'vault'];
-var NAV_TOOLS = ['journal', 'search', 'stats', 'settings'];
+     Today          the daily loop — one tap, no sub-row
+     The Practice   the work: the body, the Vault's rehearsal room, the ladder
+     The Book       the reading: the 366, the Library's one door, the sky
+     The Desk       the instruments: writing, finding, the record, the workings
+
+   The top row names the four; a second row appears only when the active
+   cluster holds more than one room. Each cluster remembers the room you were
+   last in for the session, so 'The Book' goes back to the chapter you left.
+   Hidden rooms light their home cluster for orientation — except Clear
+   Mornings, which deliberately lights nothing: no trace is part of that
+   room's contract. */
+var NAV_CLUSTERS = [
+  ['today',    'Today',        ['today']],
+  ['practice', 'The Practice', ['body', 'vault', 'life']],
+  ['book',     'The Book',     ['year', 'library', 'astro']],
+  ['desk',     'The Desk',     ['journal', 'search', 'stats', 'settings']]
+];
+/* hidden views borrow a cluster so the reader stays oriented */
+var NAV_HOMES = { hall: 'book', threads: 'book', chart: 'book', reset: 'practice', floor: 'practice' };
+var flLastSub = {};   // cluster id -> last visited view, session-only
+
+function navClusterOf(view) {
+  for (var i = 0; i < NAV_CLUSTERS.length; i++) {
+    if (NAV_CLUSTERS[i][2].indexOf(view) > -1) return NAV_CLUSTERS[i][0];
+  }
+  return NAV_HOMES[view] || null;
+}
 
 function navLink(k) {
   var v = FL_VIEWS[k];
@@ -87,16 +109,47 @@ function navLink(k) {
 
 function renderNav() {
   var nav = document.getElementById('nav');
-  var known = NAV_PLACES.concat(NAV_TOOLS);
+  var active = navClusterOf(flRoute.view);
+  if (NAV_CLUSTERS.some(function (c) { return c[2].indexOf(flRoute.view) > -1; })) {
+    flLastSub[active] = flRoute.view;
+  }
+
+  var top = NAV_CLUSTERS.map(function (c) {
+    var dest = flLastSub[c[0]] || c[2][0];
+    return '<a href="#/' + dest + '"' + (active === c[0] ? ' aria-current="true" class="on"' : '') +
+           '>' + esc(c[1]) + '</a>';
+  }).join('');
+
   /* Anything registered but unlisted still appears, so adding a view can never
      make it silently unreachable. */
+  var known = [];
+  NAV_CLUSTERS.forEach(function (c) { known = known.concat(c[2]); });
   var stray = Object.keys(FL_VIEWS).filter(function (k) {
     return !FL_VIEWS[k].hidden && known.indexOf(k) === -1;
   });
-  nav.innerHTML =
-    '<div class="nav-places">' + NAV_PLACES.concat(stray).map(navLink).join('') + '</div>' +
-    '<div class="nav-tools">' + NAV_TOOLS.map(navLink).join('') + '</div>';
+  top += stray.map(navLink).join('');
+
+  var cluster = null;
+  for (var i = 0; i < NAV_CLUSTERS.length; i++) if (NAV_CLUSTERS[i][0] === active) cluster = NAV_CLUSTERS[i];
+  var sub = (cluster && cluster[2].length > 1)
+    ? '<div class="nav-tools">' + cluster[2].map(navLink).join('') + '</div>'
+    : '';
+
+  nav.innerHTML = '<div class="nav-places">' + top + '</div>' + sub;
 }
+
+/* Number keys walk the clusters; the slash opens search — never while typing. */
+document.addEventListener('keydown', function (e) {
+  if (e.ctrlKey || e.metaKey || e.altKey) return;
+  var t = e.target;
+  if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.tagName === 'SELECT' || t.isContentEditable)) return;
+  if (e.key === '/') { location.hash = '#/search'; e.preventDefault(); return; }
+  if (/^[1-4]$/.test(e.key)) {
+    var c = NAV_CLUSTERS[Number(e.key) - 1];
+    location.hash = '#/' + (flLastSub[c[0]] || c[2][0]);
+    e.preventDefault();
+  }
+});
 
 /* First run: three honest answers and one choice, before anything else.
    Shown once, to a record with at most the boot-marked day in it — an

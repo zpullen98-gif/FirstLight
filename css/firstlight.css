@@ -153,7 +153,7 @@ a { color: var(--accent); }
 }
 
 /* ═══ navigation ═══ */
-/* Two tiers: the sections of the book, then the instruments you use on it. */
+/* Two tiers: four clusters, then the rooms of whichever cluster is open. */
 nav { margin-bottom: 40px; }
 .nav-places, .nav-tools { display: flex; justify-content: center; flex-wrap: wrap; }
 .nav-places { gap: 20px; }
@@ -175,6 +175,9 @@ nav a {
 }
 nav a:hover { color: var(--ink); }
 nav a[aria-current="page"] { color: var(--ink); border-bottom-color: var(--accent); }
+/* the open cluster carries the ink without the accent — the accent belongs to
+   the room you are actually in, one tier down */
+.nav-places a.on { color: var(--ink); border-bottom-color: var(--line); }
 
 /* ═══ the disc ═══ */
 .disc {
