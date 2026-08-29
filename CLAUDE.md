@@ -70,7 +70,13 @@ user input so it had no escaping; this app has a journal coming in Phase 3.
 ## Storage
 
 `localStorage`, one versioned key `firstlight-v1`, one JSON blob, every access in
-`try/catch`. **Schema changes are additive only — never rename or repurpose a field.**
+`try/catch`. Fields: kept, byheart, clear, sessions, checks, days, practice,
+intents, journal, examen, canon, prefs (theme, track, todayMode, canonLines,
+onboarded, dayEnd, weekAnchor, clearOpened, lat/lon...). Journal ref kinds:
+day, examen, debrief, voice, passage, clear — **'clear:' refs are structurally
+private: filtered out of the Journal view and search; they render only in
+#/clear. Keep those filters when touching either surface.**
+**Schema changes are additive only — never rename or repurpose a field.**
 Readers have a year of mornings in there and a rename silently orphans all of it. To
 change a meaning, add a field and migrate in `flBootMigrate()`.
 
@@ -79,6 +85,25 @@ must never return as though it worked — that was the artifact's defining bug.
 
 Scripture text will go to **IndexedDB** in Phase 2, not `localStorage` (far past the
 ~5 MB ceiling) and not Cache Storage (see below).
+
+## The wellness wing (2026-08 pass)
+
+Ten hospitality-wellness features shipped in order; the load-bearing rules:
+
+- **prefs.canonLines** gates every religious surface on the default path (Today's
+  canon lines, search's Traditions/Threads groups, the goal ladder's scriptural
+  quotes via LIFE_ALT). Asked once at first run, reversible in Settings. Never
+  surface Library content on the default path without checking it.
+- **prefs.dayEnd** (the shift clock) re-keys `flDateKey` — the whole record
+  inherits it. Views needing today's m/d/weekday use `flShiftedNow()`, never
+  `new Date()`. sunIsEvening's small-hours edge reads the same pref.
+- **Hidden rooms**: #/reset (Walk-In), #/floor (Floor Book), #/clear (Clear
+  Mornings), #/lineup (Line-Up). The Walk-In and Line-Up record NOTHING by
+  written decision; the Line-Up must stay stateless (boot skips flMarkDay for
+  it). FL.clear is counted, never chained — do not wire it into flStreak, ever.
+- **FL.sessions** counts finished sequences only — never the Walk-In's pacer.
+- Bands not scores everywhere: byheart (new/turning over/by heart), the
+  Record's season words, no earnings data anywhere by refusal.
 
 ## The Library
 
