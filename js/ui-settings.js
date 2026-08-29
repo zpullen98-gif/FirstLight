@@ -5,6 +5,22 @@
    one matters most — localStorage is per-origin and does not survive a new phone, a
    cleared cache, or a change of hosting. A year of mornings has to be portable. */
 
+FL_ACTS.setDayEnd = function (el) {
+  var v = Number(el.value) || 0;
+  FL.prefs.dayEnd = v;
+  flSave(true);
+  render();
+  toast(v ? 'Your day now ends at ' + v + 'am — a night that runs past midnight still counts as tonight.'
+          : 'Your day ends at midnight.');
+};
+
+FL_ACTS.setWeekAnchor = function (el) {
+  FL.prefs.weekAnchor = Number(el.value) || 0;
+  flSave(true);
+  render();
+  toast('The practice week now starts on your rest day.');
+};
+
 FL_ACTS.setCanonLines = function (el) {
   FL.prefs.canonLines = el.value === 'on' ? 'on' : 'off';
   flSave(true);
@@ -162,6 +178,25 @@ FL_VIEWS.settings = {
         '<button class="keep" data-act="importRecord">Import a backup</button>' +
         '<input type="file" id="fl-import" accept="application/json,.json" class="sr-only" data-change="importChosen">' +
         '<p class="vidnote" style="margin-top:10px">Importing merges — it adds what is missing and never deletes what is here.</p>' +
+      '</div>' +
+
+      '<div class="label">The shape of your day</div>' +
+      '<div class="card">' +
+        '<p class="px" style="margin-bottom:10px">If you close late, midnight is a fiction. Set the hour your ' +
+        'day actually ends and everything follows — the 2am examen lands on the night it examines, the streak ' +
+        'counts lived days, and the morning voice waits for your morning.</p>' +
+        '<select class="sel" data-change="setDayEnd" aria-label="When your day ends">' +
+          [[0,'Midnight — the civil day'],[2,'2am'],[3,'3am'],[4,'4am'],[5,'5am'],[6,'6am']].map(function (o) {
+            return '<option value="' + o[0] + '"' + ((Number(FL.prefs.dayEnd) || 0) === o[0] ? ' selected' : '') + '>' + o[1] + '</option>';
+          }).join('') +
+        '</select>' +
+        '<p class="px" style="margin:14px 0 10px">The week’s practices rotate through seven movements. ' +
+        'Name your own rest day and the cycle starts there — the heavier practices land where you have room for them.</p>' +
+        '<select class="sel" data-change="setWeekAnchor" aria-label="Which day starts your week">' +
+          ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'].map(function (n, i) {
+            return '<option value="' + i + '"' + ((Number(FL.prefs.weekAnchor) || 0) === i ? ' selected' : '') + '>' + n + (i === 0 ? ' — as written' : '') + '</option>';
+          }).join('') +
+        '</select>' +
       '</div>' +
 
       '<div class="label">The Library on your morning page</div>' +

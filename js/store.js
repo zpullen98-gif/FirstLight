@@ -38,11 +38,24 @@ var FL = {
    a 9pm entry lands on tomorrow and breaks the streak walk. */
 function flDateKey(dt) {
   dt = dt || new Date();
+  /* The shift clock. A bartender's Tuesday ends when they get home at 2am,
+     not at midnight — with prefs.dayEnd set (2–6), any moment before that
+     hour belongs to the previous calendar day. The examen written after
+     close lands on the day it examines, and the streak counts lived days.
+     Default 0 keeps civil midnight, so nothing changes until chosen. */
+  var edge = Number(FL.prefs.dayEnd) || 0;
+  if (edge) dt = new Date(dt.getTime() - edge * 3600000);
   return dt.getFullYear() + '-' +
          String(dt.getMonth() + 1).padStart(2, '0') + '-' +
          String(dt.getDate()).padStart(2, '0');
 }
 function flToday() { return flDateKey(new Date()); }
+/* The same shift applied to a Date — for views that need the day's month,
+   date, or weekday to agree with the record's idea of "today". */
+function flShiftedNow() {
+  var edge = Number(FL.prefs.dayEnd) || 0;
+  return edge ? new Date(Date.now() - edge * 3600000) : new Date();
+}
 
 /* ——— the raw store ———
    localStorage only. Reads and writes are separately guarded: a private-mode

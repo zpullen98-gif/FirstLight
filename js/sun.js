@@ -157,7 +157,11 @@ function sunIsEvening(now) {
   var w = sunWhere();
   if (sunAltitude(now, w.lat, w.lon) >= 0) return false;
   var h = now.getHours();
-  return h >= 12 || h < 4;
+  /* the small hours count as evening up to the reader's own day boundary,
+     so evening mode and the record agree on when a day rolls; 4 stands in
+     when no boundary has been chosen, which was the old fixed behaviour */
+  var edge = Number(FL.prefs.dayEnd) || 4;
+  return h >= 12 || h < edge;
 }
 
 function sunSeason(now) {

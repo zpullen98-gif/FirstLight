@@ -191,7 +191,7 @@ function todayGuided(m, d, e, doy, p) {
   if (todayStep >= steps.length) {
     var streak = flStreak();
     return '<div class="disc" aria-hidden="true"></div>' +
-      '<div class="kick">' + esc(new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
+      '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
       '<h1>The morning is kept</h1>' +
       '<p class="note">' + (streak > 1 ? streak + ' consecutive mornings. ' : '') +
       FL.days.length + ' in the record.</p>' +
@@ -210,7 +210,7 @@ function todayGuided(m, d, e, doy, p) {
       (i === todayStep ? ' aria-current="step"' : '') + '></button>';
   }).join('');
 
-  return '<div class="kick">' + esc(new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
+  return '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
     '<h1>' + esc(MONTHS[m - 1][1]) + '</h1>' +
     '<div class="steprow">' + dots + '</div>' +
     '<div class="label" style="margin-top:8px">' + esc(s.label) + '</div>' +
@@ -239,7 +239,7 @@ function todayExamen() {
   var wrote = EXAMEN_QUESTIONS.some(function (q) { return jText(jRef('examen', key + ':' + q.key)).trim(); });
 
   return '<div class="disc" aria-hidden="true"></div>' +
-    '<div class="kick">' + esc(new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
+    '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
     '<h1>The examined evening</h1>' +
     '<p class="note">Seneca pleaded his case before his own court each night, and hid nothing from himself. ' +
     'Three questions. No one else reads the answers.</p>' +
@@ -259,7 +259,7 @@ function todayPage(m, d, e, doy, p) {
     : 'Morning ' + FL.days.length + ' of your record.';
 
   return '<div class="disc" aria-hidden="true"></div>' +
-    '<div class="kick">' + esc(new Date().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
+    '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
     '<div class="streakline">' + esc(count) + '</div>' +
     '<h1>' + esc(MONTHS[m - 1][1]) + '</h1>' +
     '<p class="note">' + esc(MONTHS[m - 1][2]) + '</p>' +
@@ -282,10 +282,14 @@ FL_VIEWS.today = {
   label: 'Today',
   title: 'Today',
   render: function () {
-    var now = new Date(), m = now.getMonth() + 1, d = now.getDate();
+    /* the shifted clock: at 2am a closer sees the day they are closing,
+       not tomorrow's voice. The weekly practice also rotates around the
+       reader's own rest day — 'The Examined Evening' on a bartender's
+       civil Friday was landing on the industry's hardest night. */
+    var now = flShiftedNow(), m = now.getMonth() + 1, d = now.getDate();
     var e = dayEntry(m, d);
     var doy = doyOf(m, d);
-    var p = PRACTICES[now.getDay()];
+    var p = PRACTICES[(now.getDay() + 7 - (Number(FL.prefs.weekAnchor) || 0)) % 7];
 
     var mode = todayForceMode ||
                (FL.prefs.todayMode === 'page' ? 'page'
