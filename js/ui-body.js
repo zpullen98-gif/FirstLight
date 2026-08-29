@@ -11,6 +11,70 @@ var ytTitleCache = {};
 FL_ACTS.pacer = function (el) { pacerStart(el.getAttribute('data-id')); render(); };
 FL_ACTS.pacerStop = function () { pacerStop(); render(); };
 FL_ACTS.seqStart = function (el) { seqStart(el.getAttribute('data-id'), 0); render(); };
+
+/* ---- THE WALK-IN (#/reset) ----
+   Ninety seconds, one tap, phone propped on a shelf in the cooler. Two doors
+   into the same minute and a half: the rough table wants the long exhale, the
+   coming push wants the box. DELIBERATELY RECORDS NOTHING — written down as a
+   decision: a mid-shift reset that showed up in any count would stop being a
+   refuge and start being a metric, and this room is a refuge. */
+var resetState = { on: false, done: false, timer: null, nonce: 0 };
+
+function resetBegin(patternId) {
+  var nonce = ++resetState.nonce;
+  resetState.on = true; resetState.done = false;
+  pacerStart(patternId);
+  if (resetState.timer) clearTimeout(resetState.timer);
+  resetState.timer = setTimeout(function () {
+    if (resetState.nonce !== nonce) return;
+    pacerStop();
+    resetState.on = false; resetState.done = true;
+    if (flRoute.view === 'reset') render();
+  }, 90000);
+}
+
+FL_ACTS.resetGo = function (el) { resetBegin(el.getAttribute('data-p')); render(); };
+FL_ACTS.resetEnd = function () {
+  resetState.nonce++;
+  if (resetState.timer) clearTimeout(resetState.timer);
+  pacerStop();
+  resetState.on = false; resetState.done = false;
+  render();
+};
+
+FL_VIEWS.reset = {
+  label: 'The Walk-In',
+  title: 'The Walk-In',
+  hidden: true,   // reached from Today and the Body; a refuge needs no nav slot
+  render: function () {
+    var line = RESET_LINES[Math.floor(Date.now() / 60000) % RESET_LINES.length];
+    if (resetState.done) {
+      return '<div class="kick">The Walk-In</div>' +
+        '<h1>Back on the floor</h1>' +
+        '<p class="note">' + esc(line) + '</p>' +
+        '<div style="text-align:center;margin-top:20px">' +
+          '<button class="btn" data-act="resetEnd">Good</button></div>';
+    }
+    if (resetState.on) {
+      return '<div class="kick">The Walk-In</div>' +
+        '<div class="pacer-disc" id="pacer-disc" aria-hidden="true"></div>' +
+        '<div class="pacer-label" id="pacer-label"></div>' +
+        '<div class="ds" id="pacer-count"></div>' +
+        '<p class="mintro">' + esc(line) + '</p>' +
+        '<div style="text-align:center;margin-top:14px">' +
+          '<button class="readmini" data-act="resetEnd">Back early</button></div>';
+    }
+    return '<div class="kick">The Walk-In</div>' +
+      '<h1>Ninety seconds</h1>' +
+      '<p class="note">' + esc(line) + '</p>' +
+      '<p class="px" style="text-align:center;color:var(--faint)">Nothing here is counted or kept — ' +
+      'this is a walk-in, not a scoreboard. Breathe, then go back.</p>' +
+      '<div class="drawrow" style="justify-content:center;margin-top:18px">' +
+        '<button class="btn" data-act="resetGo" data-p="extended">After a rough table</button>' +
+        '<button class="btn" data-act="resetGo" data-p="box">Before the push</button>' +
+      '</div>';
+  }
+};
 FL_ACTS.seqStop = function () { seqStop(); };
 
 async function fetchYouTubeTitle(id) {
@@ -114,6 +178,7 @@ FL_VIEWS.body = {
       '<div class="kick">Yoga &amp; the disciplined body</div>' +
       '<h1>The Body</h1>' +
       '<p class="note">Every tradition in this book asks something of the body. What follows is what they teach — and the practices to do it with.</p>' +
+      '<p class="px" style="text-align:center"><a class="readmini" href="#/reset">Mid-shift? The Walk-In — ninety seconds, one tap</a></p>' +
       pacerUI + seqUI +
       teach +
       '<div class="label">The eight limbs of yoga</div>' +

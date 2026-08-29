@@ -200,6 +200,8 @@ function todayGuided(m, d, e, doy, p) {
         '<button class="keep" data-act="todayStep" data-to="0">Walk it again</button>' +
         '<button class="keep" data-act="todayMode" data-mode="page">See the whole page</button>' +
       '</div>' +
+      '<p class="px" style="text-align:center;margin-top:10px"><a class="readmini" href="#/reset">' +
+        'Later, mid-shift: the Walk-In — ninety seconds</a></p>' +
       (sunIsEvening() ? '<div class="drawrow" style="justify-content:center">' +
         '<button class="btn" data-act="todayMode" data-mode="evening">The evening examen</button></div>' : '');
   }
@@ -295,6 +297,7 @@ function todayPage(m, d, e, doy, p) {
       : '<div class="label">The reading</div>' + todayCanonQuiet()) +
     todayIntentPanel() +
     '<div style="text-align:center;margin-top:26px">' +
+      '<a class="readmini" href="#/reset">The Walk-In — ninety seconds, mid-shift</a> ' +
       '<button class="readmini" data-act="todayMode" data-mode="guided">Walk it through instead</button>' +
       (sunIsEvening() ? ' <button class="readmini" data-act="todayMode" data-mode="evening">The evening examen</button>' : '') +
     '</div>';

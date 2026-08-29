@@ -26,3 +26,13 @@ const REFLECTIONS=[
 "What is the one honest sentence you have been avoiding?",
 "What season is your life in — and are you fighting it or keeping it?",
 "What, in this single day, is worthy of gratitude so specific it could be photographed?"];
+
+/* The Walk-In's assent lines. One is shown per visit, rotating by the minute
+   so a double shift does not read the same sentence six times. */
+const RESET_LINES = [
+  "The guest's mood is theirs. Your steadiness is yours.",
+  "You are an impression, and not at all what you appear to be. \u2014 said to the anger, not the guest",
+  "Ninety seconds is a real amount of time. The floor will still be there.",
+  "The table is not up to you. The next thing you do is.",
+  "Nobody good at this was calm by accident."
+];
