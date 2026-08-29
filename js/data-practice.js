@@ -25,7 +25,11 @@ const REFLECTIONS=[
 "Whose burden could you quietly lift before sunset?",
 "What is the one honest sentence you have been avoiding?",
 "What season is your life in — and are you fighting it or keeping it?",
-"What, in this single day, is worthy of gratitude so specific it could be photographed?"];
+"What, in this single day, is worthy of gratitude so specific it could be photographed?",
+  "Tonight\u2019s number measured the room, the weather, and the hour. What did tonight\u2019s work say about you \u2014 the question the number cannot answer?",
+  "What would \u2018enough for tonight\u2019 mean if you decided it before the shift instead of after the tip-out?",
+  "The lean week and the loaded week ask the same question: is your standard for yourself indexed to the take?",
+];
 
 /* The Walk-In's assent lines. One is shown per visit, rotating by the minute
    so a double shift does not read the same sentence six times. */

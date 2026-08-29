@@ -24,6 +24,7 @@ var FL = {
   kept: {},          // "<track>:<m>-<d>"  -> 1        voices kept to the Vault
   byheart: {},       // "<track>:<m>-<d>"  -> 1|2      1 turning over, 2 by heart (absent = new)
   clear: {},         // "YYYY-MM-DD"       -> 1        clear mornings; counted, never chained
+  sessions: {},      // "YYYY-MM-DD"       -> n        finished timed sequences (never the Walk-In)
   checks: {},        // "g-<tier>-<goal>"  -> 1        the goal ladder
   days: [],          // ["YYYY-MM-DD"]                 mornings observed, ascending
   practice: {},      // "YYYY-MM-DD"       -> 1        the day's practice marked done
@@ -299,6 +300,11 @@ function flImport(text) {
      step a band back by rehearsing. */
   if (rec.byheart) Object.keys(rec.byheart).forEach(function (k) {
     if ((rec.byheart[k] || 0) > (FL.byheart[k] || 0)) FL.byheart[k] = rec.byheart[k];
+  });
+  /* sessions merge toward the larger count per day — two devices cannot
+     double-bill a morning, and neither can erase the other's */
+  if (rec.sessions) Object.keys(rec.sessions).forEach(function (k) {
+    if ((rec.sessions[k] || 0) > (FL.sessions[k] || 0)) FL.sessions[k] = rec.sessions[k];
   });
 
   ['kept', 'checks', 'practice', 'intents', 'clear'].forEach(function (bucket) {

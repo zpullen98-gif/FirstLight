@@ -7,7 +7,7 @@
    index.html. A file in one and not the other is the single most common way this
    app breaks offline while looking fine online. */
 
-const CACHE = 'firstlight-v31';
+const CACHE = 'firstlight-v32';
 
 /* Scripture lives in its own cache, deliberately NOT versioned with the shell.
    The library is ~12 MB; tying it to CACHE would throw it away and re-download it
@@ -53,6 +53,7 @@ const ASSETS = [
   './js/ui-body.js',
   './js/ui-floor.js',
   './js/ui-clear.js',
+  './js/ui-lineup.js',
   './js/ui-astro.js',
   './js/ui-chart.js',
   './js/ui-journal.js',

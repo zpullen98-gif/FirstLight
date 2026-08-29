@@ -147,7 +147,7 @@ FL_VIEWS.stats = {
       if (FL.days.indexOf(dateKey) > -1) marks++;
       if (FL.kept[track + ':' + m + '-' + d]) marks++;
       if (jGet(jRef('day', dateKey)) || jGet(jRef('examen', dateKey + ':well'))) marks++;
-      if (FL.practice[dateKey]) marks++;
+      if (FL.practice[dateKey] || FL.sessions[dateKey]) marks++;
 
       var title = MONTHS[m - 1][0] + ' ' + d + (skipped ? ' — leap day only' : (marks ? ' — ' + marks + ' marks' : ''));
       cells.push('<span class="cell l' + Math.min(marks, 4) + (skipped ? ' skip' : '') +
@@ -158,8 +158,25 @@ FL_VIEWS.stats = {
     var practiced = Object.keys(FL.practice).length;
     var kept = Object.keys(FL.kept).filter(function (k) { return k.indexOf(track + ':') === 0; }).length;
 
+    /* seasons, not streaks: the month named in words, never numbers. The
+       heatmap already refuses verdicts; this gives the refusal a vocabulary. */
+    var season = function (y2, m2) {
+      var mp = y2 + '-' + String(m2).padStart(2, '0') + '-';
+      var got = FL.days.filter(function (k) { return k.indexOf(mp) === 0; }).length;
+      var len = new Date(y2, m2, 0).getDate();
+      return got >= len * 0.6 ? 'a steady month' : got >= len * 0.25 ? 'a returning month'
+           : got > 0 ? 'a quiet month' : 'a fallow month';
+    };
+    var nowS = new Date();
+    var pm = nowS.getMonth() === 0 ? [nowS.getFullYear() - 1, 12] : [nowS.getFullYear(), nowS.getMonth()];
+    var seasonLine = '<p class="px" style="color:var(--faint)">' +
+      esc(MONTHS[nowS.getMonth()][0]) + ' so far: ' + season(nowS.getFullYear(), nowS.getMonth() + 1) +
+      ' · ' + esc(MONTHS[pm[1] - 1][0]) + ' was ' + season(pm[0], pm[1]) + '. ' +
+      'Months have seasons; a quiet one is not a verdict.</p>';
+
     return '<div class="kick">' + year + '</div><h1>The Record</h1>' +
       '<p class="note">Every day of the almanac. The darker a day, the more of it you kept.</p>' +
+      seasonLine +
       '<div class="heat">' + cells.join('') + '</div>' +
       '<div class="heatkey"><span class="cell l0"></span><span class="cell l1"></span>' +
         '<span class="cell l2"></span><span class="cell l3"></span><span class="cell l4"></span>' +

@@ -222,6 +222,14 @@ FL_VIEWS.settings = {
         'changed is in SOURCES.md in the repository.</p>' +
       '</div>' +
 
+      '<div class="label">For the whole crew</div>' +
+      '<div class="card">' +
+        '<p class="px" style="margin-bottom:8px">The Line-Up is a pre-shift minute for a shared screen — ' +
+        'today’s voice in large type and one steadying breath, run from the bar iPad before doors. ' +
+        'It keeps no record and needs no login; what it shares is words.</p>' +
+        '<a class="keep" href="#/lineup" style="text-decoration:none">Open the Line-Up</a>' +
+      '</div>' +
+
       '<p class="px" style="margin-top:26px;text-align:center;color:var(--faint)">' +
         '<a class="readmini" href="#/clear">For anyone thinking about their drinking — a room of its own.</a></p>' +
 

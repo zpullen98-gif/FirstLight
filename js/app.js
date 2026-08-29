@@ -259,7 +259,9 @@ function offerUpdate() {
 (function boot() {
   flBoot();
   sunApply();
-  flMarkDay();
+  /* a dedicated Line-Up screen (bar iPad) must accrue no personal record —
+     stateless by construction, which is the whole point of that view */
+  if (location.hash.indexOf('#/lineup') !== 0) flMarkDay();
   navigate();
   registerSW();
 
@@ -269,6 +271,10 @@ function offerUpdate() {
   document.addEventListener('visibilitychange', function () {
     if (document.visibilityState !== 'visible') return;
     sunApply();
-    if (flToday() !== bootDay) { bootDay = flToday(); flMarkDay(); render(); }
+    if (flToday() !== bootDay) {
+      bootDay = flToday();
+      if (flRoute.view !== 'lineup') flMarkDay();
+      render();
+    }
   });
 })();

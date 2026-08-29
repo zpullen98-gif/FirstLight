@@ -16,6 +16,25 @@
    evening's work and lets you go back to the morning's is just attentive. */
 
 var todayStep = 0;
+var todayReturnSeen = false;   // the return card shows once per sitting
+
+/* After three or more missed days, the first thing Today says is not a broken
+   number — it is a door. The record keeps what you kept; the year kept your
+   place. One interaction and the card is gone. */
+function todayReturnCard() {
+  if (todayReturnSeen) return '';
+  var today = flToday();
+  var prior = FL.days.filter(function (k) { return k < today; });
+  if (!prior.length) return '';
+  var last = prior[prior.length - 1];
+  var gap = Math.round((new Date(today + 'T12:00') - new Date(last + 'T12:00')) / 86400000);
+  if (gap < 4) return '';
+  return '<div class="card" style="margin-bottom:18px"><p class="pt">The record keeps what you kept</p>' +
+    '<p class="px">' + gap + ' days since your last morning — and the year kept your place. ' +
+    'No chain broke, because none of this was ever a chain. One voice, one breath, begin again.</p>' +
+    '<button class="keep" data-act="returnBegin">Begin again</button></div>';
+}
+FL_ACTS.returnBegin = function () { todayReturnSeen = true; todayStep = 0; render(); };
 var todayExamenKind = 'day';   // 'day' (Seneca's three) | 'shift' (the debrief)
 var todayIntent = null;        // a named need, when the reader has chosen one
 var todayForceMode = null;     // 'morning' | 'evening' | null (= follow the sun)
@@ -280,13 +299,15 @@ function todayGuided(m, d, e, doy, p) {
   }
 
   var s = steps[todayStep];
+  var returnCard = todayStep === 0 ? todayReturnCard() : '';
   var dots = steps.map(function (x, i) {
     return '<button class="stepdot' + (i === todayStep ? ' on' : '') + (i < todayStep ? ' past' : '') +
       '" data-act="todayStep" data-to="' + i + '" aria-label="' + esc(x.label) + '"' +
       (i === todayStep ? ' aria-current="step"' : '') + '></button>';
   }).join('');
 
-  return '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
+  return returnCard +
+    '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
     '<h1>' + esc(MONTHS[m - 1][1]) + '</h1>' +
     '<div class="steprow">' + dots + '</div>' +
     '<div class="label" style="margin-top:8px">' + esc(s.label) + '</div>' +

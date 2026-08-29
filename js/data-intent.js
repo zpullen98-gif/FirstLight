@@ -5,6 +5,7 @@
 
 const INTENTS = [
   "Recovery",
+  "The Slow Season",
   "Courage",
   "Stillness",
   "Discipline",
@@ -29,9 +30,11 @@ const DEBRIEF_QUESTIONS = [
   { key: "floor", label: "What did you handle well on that floor tonight?" },
   { key: "carry", label: "What are you carrying home that belongs to a guest, not to you?" },
   { key: "leave", label: "What gets left here?" },
+  { key: "enough", label: "Was tonight\u2019s take a verdict on tonight\u2019s work? Untangle the two in one sentence." },
 ];
 
 const LOCAL_THEMES = {
+  "The Slow Season": { theme: "Weather, Not Verdict", themeNote: "January rooms and Tuesday rooms are the trade\u2019s winters \u2014 they measure the calendar, not you. Nobody farms without fallow months. Spend this one on the skills the rush never leaves time for, and let the take be the weather it is. (This app will never ask what you earn. That is on purpose.)" },
   Recovery: { theme: "The Day After", themeNote: "Last night was long and it cost something. Today asks nothing heroic — water, food, light, and the anchor hours of sleep. Repair is a practice, not a pause in one." },
   Courage: { theme: "The Narrow Gate", themeNote: "Courage is not the absence of fear but the decision that something matters more." },
   Stillness: { theme: "The Unmoved Center", themeNote: "Beneath every storm the depth of the sea is quiet. Begin there." },

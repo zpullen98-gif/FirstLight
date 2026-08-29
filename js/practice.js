@@ -195,7 +195,7 @@ function seqStop() {
 function seqTick() {
   if (!seq.on) return;
   var s = seqFind(seq.id);
-  if (!s || seq.step >= s.steps.length) { seq.on = false; render(); announce('Sequence complete.'); return; }
+  if (!s || seq.step >= s.steps.length) { seq.on = false; FL.sessions[flToday()] = (FL.sessions[flToday()] || 0) + 1; flSave(); render(); announce('Sequence complete.'); return; }
   var step = s.steps[seq.step];
   var elapsed = (performance.now() - seq.start) / 1000;
   var left = Math.max(0, step[1] - elapsed);
@@ -208,7 +208,7 @@ function seqTick() {
   if (left <= 0) {
     seq.step++;
     seq.start = performance.now();
-    if (seq.step >= s.steps.length) { seq.on = false; render(); announce('Sequence complete.'); return; }
+    if (seq.step >= s.steps.length) { seq.on = false; FL.sessions[flToday()] = (FL.sessions[flToday()] || 0) + 1; flSave(); render(); announce('Sequence complete.'); return; }
     render();
     return;
   }
