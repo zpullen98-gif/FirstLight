@@ -50,6 +50,16 @@ var SEQUENCES = [
       ['Reclined bound angle', 120, 'Soles together, knees wide, something under each thigh if they hang.'],
       ['Śavāsana', 180, 'Flat, arms away from the body, palms up. Do not skip this; it is where the work lands.']
     ] },
+  { id: 'close', name: 'After close', mins: 12,
+    note: 'For the hour after last call, when the body is still at service pace and sleep is nowhere near. Entirely on the floor. This is the other way down.',
+    steps: [
+      ['Extended exhale, lying down', 120, 'Flat on your back, one hand on the belly. In for four, out for eight — the exhale is the oldest lever for turning your own state down. Count it; the counting is part of the work.'],
+      ['Legs up the wall', 180, 'Hips close to the wall or a foot away. This is where the feet and calves hand back the shift.'],
+      ['Reclined twist, right', 90, 'Knees to one side, arms wide, shoulders staying down. The low back has been loaded for hours; give it the turn.'],
+      ['Reclined twist, left', 90, 'The other side. Notice which side held the tray.'],
+      ['Knees to chest', 60, 'Rock slowly side to side. Nothing to achieve.'],
+      ['Śavāsana', 180, 'Flat, arms away from the body, palms up. The shift is over. Let the floor hold what is left of it.']
+    ] },
   { id: 'sit', name: 'Sitting', mins: 20,
     note: 'Not a posture routine. The seat, the breath, and twenty minutes.',
     steps: [

@@ -16,6 +16,7 @@
    evening's work and lets you go back to the morning's is just attentive. */
 
 var todayStep = 0;
+var todayExamenKind = 'day';   // 'day' (Seneca's three) | 'shift' (the debrief)
 var todayIntent = null;        // a named need, when the reader has chosen one
 var todayForceMode = null;     // 'morning' | 'evening' | null (= follow the sun)
 
@@ -228,23 +229,44 @@ function todayGuided(m, d, e, doy, p) {
 /* ——— the evening examen ———
    Seneca's three questions, recovered from first-light.jsx. The artifact still named
    "The Examined Evening" as a practice but had nowhere to actually do it. */
+FL_ACTS.examKind = function (el) {
+  todayExamenKind = el.getAttribute('data-kind') === 'shift' ? 'shift' : 'day';
+  render();
+};
+
 function todayExamen() {
-  var key = flToday();
-  var saved = FL.examen[key] || {};
-  var fields = EXAMEN_QUESTIONS.map(function (q) {
-    var ref = jRef('examen', key + ':' + q.key);
+  var key = flToday();   /* respects prefs.dayEnd — a 2am debrief lands on the shift's own day */
+  var shift = todayExamenKind === 'shift';
+  var bank = shift ? DEBRIEF_QUESTIONS : EXAMEN_QUESTIONS;
+  var kind = shift ? 'debrief' : 'examen';
+  var fields = bank.map(function (q) {
+    var ref = jRef(kind, key + ':' + q.key);
     return '<div class="label">' + esc(q.label) + '</div>' + jField(ref, '', key, 3);
   }).join('');
 
-  var wrote = EXAMEN_QUESTIONS.some(function (q) { return jText(jRef('examen', key + ':' + q.key)).trim(); });
+  var wrote = bank.some(function (q) { return jText(jRef(kind, key + ':' + q.key)).trim(); });
+
+  var tabs = '<div class="months" style="justify-content:center;margin-bottom:14px">' +
+    '<button class="mchip' + (!shift ? ' on' : '') + '" data-act="examKind" data-kind="day" aria-pressed="' + !shift + '">The day</button>' +
+    '<button class="mchip' + (shift ? ' on' : '') + '" data-act="examKind" data-kind="shift" aria-pressed="' + shift + '">The shift</button>' +
+    '</div>';
+
+  var kept = shift
+    ? '<p class="mintro" style="margin-top:22px">Kept. What got left here, stays here.</p>' +
+      '<p class="px" style="text-align:center"><a href="#/body">After close — twelve minutes on the floor before bed</a></p>'
+    : '<p class="mintro" style="margin-top:22px">Kept. The day is closed.</p>';
 
   return '<div class="disc" aria-hidden="true"></div>' +
     '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
-    '<h1>The examined evening</h1>' +
-    '<p class="note">Seneca pleaded his case before his own court each night, and hid nothing from himself. ' +
-    'Three questions. No one else reads the answers.</p>' +
+    '<h1>' + (shift ? 'Last call' : 'The examined evening') + '</h1>' +
+    (shift
+      ? '<p class="note">The shift has a residue, and it does not belong in your bed. ' +
+        'Three questions. No one else reads the answers — not a manager, not anyone.</p>'
+      : '<p class="note">Seneca pleaded his case before his own court each night, and hid nothing from himself. ' +
+        'Three questions. No one else reads the answers.</p>') +
+    tabs +
     fields +
-    (wrote ? '<p class="mintro" style="margin-top:22px">Kept. The day is closed.</p>' : '') +
+    (wrote ? kept : '') +
     '<div style="text-align:center;margin-top:22px">' +
       '<button class="readmini" data-act="todayMode" data-mode="morning">Back to the morning</button> ' +
       '<button class="readmini" data-act="todayMode" data-mode="page">The whole page</button>' +

@@ -18,6 +18,17 @@ const EXAMEN_QUESTIONS = [
   { key: "tomorrow", label: "What will you do differently tomorrow?" },
 ];
 
+/* The shift debrief — the same nightly court, convened for service work.
+   Emotional labour has a residue: the table that went wrong, the guest who
+   crossed a line, the apology that was owed to you and never came. Writing
+   it down is how it stops riding home. Same privacy as the examen: no one
+   else reads the answers, and nothing here is a score. */
+const DEBRIEF_QUESTIONS = [
+  { key: "floor", label: "What did you handle well on that floor tonight?" },
+  { key: "carry", label: "What are you carrying home that belongs to a guest, not to you?" },
+  { key: "leave", label: "What gets left here?" },
+];
+
 const LOCAL_THEMES = {
   Courage: { theme: "The Narrow Gate", themeNote: "Courage is not the absence of fear but the decision that something matters more." },
   Stillness: { theme: "The Unmoved Center", themeNote: "Beneath every storm the depth of the sea is quiet. Begin there." },
