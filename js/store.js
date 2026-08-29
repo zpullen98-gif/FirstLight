@@ -23,6 +23,7 @@ var FL = {
   v: 1,
   kept: {},          // "<track>:<m>-<d>"  -> 1        voices kept to the Vault
   byheart: {},       // "<track>:<m>-<d>"  -> 1|2      1 turning over, 2 by heart (absent = new)
+  clear: {},         // "YYYY-MM-DD"       -> 1        clear mornings; counted, never chained
   checks: {},        // "g-<tier>-<goal>"  -> 1        the goal ladder
   days: [],          // ["YYYY-MM-DD"]                 mornings observed, ascending
   practice: {},      // "YYYY-MM-DD"       -> 1        the day's practice marked done
@@ -300,7 +301,7 @@ function flImport(text) {
     if ((rec.byheart[k] || 0) > (FL.byheart[k] || 0)) FL.byheart[k] = rec.byheart[k];
   });
 
-  ['kept', 'checks', 'practice', 'intents'].forEach(function (bucket) {
+  ['kept', 'checks', 'practice', 'intents', 'clear'].forEach(function (bucket) {
     if (!rec[bucket]) return;
     Object.keys(rec[bucket]).forEach(function (k) {
       if (!FL[bucket][k]) { FL[bucket][k] = rec[bucket][k]; if (added[bucket] !== undefined) added[bucket]++; }

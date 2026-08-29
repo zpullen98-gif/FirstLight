@@ -27,6 +27,8 @@ FL_VIEWS.journal = {
     /* Grouped by the day the entry belongs to, newest first — a journal reads by
        date, not by the order things were edited. */
     var byDay = {}, order = [];
+    /* Clear Mornings notes live only in their room; the Journal never lists them */
+    all = all.filter(function (e) { return String(e.ref).indexOf('clear:') !== 0; });
     all.forEach(function (e) {
       var k = e.d || 'undated';
       if (!byDay[k]) { byDay[k] = []; order.push(k); }

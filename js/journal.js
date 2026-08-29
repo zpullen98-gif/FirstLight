@@ -129,6 +129,8 @@ function jLabel(ref) {
   var p = String(ref).split(':');
   if (p[0] === 'day') return 'The morning of ' + jPrettyDate(p[1]);
   if (p[0] === 'examen') return 'The evening of ' + jPrettyDate(p[1]);
+  if (p[0] === 'debrief') return 'The shift of ' + jPrettyDate(p[1]);
+  if (p[0] === 'clear') return 'A clear-morning note';
   if (p[0] === 'voice') {
     var md = (p[2] || '').split('-');
     if (md.length === 2 && MONTHS[+md[0] - 1]) return 'On ' + MONTHS[+md[0] - 1][0] + ' ' + md[1] + '’s voice';
@@ -153,6 +155,9 @@ function jPrettyDate(key) {
 
 /* Where a ref points, so an entry in the journal can take you back to it. */
 function jHref(ref) {
+  var p0 = String(ref).split(':')[0];
+  if (p0 === 'clear') return '#/clear';
+  if (p0 === 'debrief') return '#/today';
   var p = String(ref).split(':');
   if (p[0] === 'passage') return '#/hall/' + p[1];
   if (p[0] === 'voice') return '#/vault';

@@ -150,6 +150,9 @@ function flSearch(query) {
   /* ——— your own writing ———
      First among equals: what you wrote is the hardest thing to find any other way. */
   jAll().forEach(function (e) {
+    /* Clear Mornings notes render only in their own room — structural privacy,
+       not a preference */
+    if (String(e.ref).indexOf('clear:') === 0) return;
     if (sHit(e.text, q)) push('Your journal', jLabel(e.ref), jPrettyDate(e.d), e.text, jHref(e.ref));
   });
 

@@ -222,6 +222,9 @@ FL_VIEWS.settings = {
         'changed is in SOURCES.md in the repository.</p>' +
       '</div>' +
 
-      '<p class="mintro" style="margin-top:30px">First Light keeps nothing about you anywhere but this device.</p>';
+      '<p class="px" style="margin-top:26px;text-align:center;color:var(--faint)">' +
+        '<a class="readmini" href="#/clear">For anyone thinking about their drinking — a room of its own.</a></p>' +
+
+      '<p class="mintro" style="margin-top:16px">First Light keeps nothing about you anywhere but this device.</p>';
   }
 };
