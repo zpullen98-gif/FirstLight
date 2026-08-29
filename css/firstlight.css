@@ -164,8 +164,12 @@ nav { margin-bottom: 40px; }
      a box, and the eye still lands on the book first. */
   max-width: 340px; margin-left: auto; margin-right: auto;
 }
-.nav-tools a { font-size: 10px; opacity: .82; }
-.nav-tools a:hover, .nav-tools a[aria-current="page"] { opacity: 1; }
+/* Hierarchy by COLOR, not opacity: the .82 opacity quietly blended --faint
+   back below the 4.5:1 line the palette block above fought for (measured
+   3.24 in the day theme). --faint alone passes in every theme by design.
+   Adopted from the light/ wing's accessibility audit. */
+.nav-tools a { font-size: 10px; color: var(--faint); }
+.nav-tools a:hover, .nav-tools a[aria-current="page"] { color: var(--ink); }
 @media (max-width: 480px) { .nav-places { gap: 13px; } .nav-tools { gap: 12px; } }
 nav a {
   background: none; border: none; cursor: pointer; text-decoration: none;
@@ -413,13 +417,20 @@ h1 {
 .jtext { font-family: var(--serif); font-size: 17px; line-height: 1.7; margin: 6px 0 0; white-space: pre-wrap; }
 
 /* ═══ the guided morning ═══ */
-.steprow { display: flex; justify-content: center; gap: 9px; margin: 18px 0 4px; }
+.steprow { display: flex; justify-content: center; gap: 6px; margin: 14px 0 0; }
+/* The BUTTON is a 25px touch target; the dot it draws stays 9px. Painting the
+   dot on ::before keeps the quiet look while giving fingers something real —
+   9px dots were the wing's only failing touch-target audit. Adopted upstream. */
 .stepdot {
-  width: 9px; height: 9px; border-radius: 50%; padding: 0; cursor: pointer;
+  width: 25px; height: 25px; border-radius: 50%; padding: 0; cursor: pointer;
+  border: none; background: transparent; position: relative;
+}
+.stepdot::before {
+  content: ''; position: absolute; inset: 8px; border-radius: 50%;
   border: 1px solid var(--line); background: transparent;
 }
-.stepdot.past { background: var(--line); border-color: var(--line); }
-.stepdot.on { background: var(--accent); border-color: var(--accent); transform: scale(1.25); }
+.stepdot.past::before { background: var(--line); border-color: var(--line); }
+.stepdot.on::before { background: var(--accent); border-color: var(--accent); transform: scale(1.25); }
 
 /* ═══ search ═══ */
 input[type="search"] {
