@@ -134,9 +134,66 @@ function todayIntentPanel() {
 
 function todayPractice(p) {
   var done = !!FL.practice[flToday()];
+  /* the two practices the app can now actually run link to their rooms */
+  var door = '';
+  if (p[0] === 'The Examined Evening') {
+    door = ' <button class="keep" data-act="todayMode" data-mode="evening">Hold it tonight</button>';
+  } else if (p[0] === 'Premeditatio Malorum') {
+    door = ' <a class="keep" href="#/body" style="text-decoration:none">The Rehearsal — three minutes, timed</a>';
+  }
   return '<div class="card"><p class="pt">' + esc(p[0]) + '</p><p class="px">' + esc(p[1]) + '</p>' +
     '<button class="keep' + (done ? ' on' : '') + '" data-act="practiceDone" aria-pressed="' + done + '">' +
-    (done ? 'Done today' : 'Mark it done') + '</button></div>';
+    (done ? 'Done today' : 'Mark it done') + '</button>' + door + '</div>';
+}
+
+/* ——— the Sorting ———
+   Enchiridion 1, dealt as three calls before doors. Nothing is recorded:
+   the drill is the repetition, not the tally. */
+var todaySort = null;   // { deal:[idx,idx,idx], calls:{idx:'mine'|'not'} }
+
+function todaySortDeal() {
+  var idx = [];
+  while (idx.length < 3) {
+    var i = Math.floor(Math.random() * SORT_SITUATIONS.length);
+    if (idx.indexOf(i) < 0) idx.push(i);
+  }
+  todaySort = { deal: idx, calls: {} };
+}
+
+FL_ACTS.sortCall = function (el) {
+  if (!todaySort) return;
+  todaySort.calls[+el.getAttribute('data-i')] = el.getAttribute('data-c');
+  render();
+};
+FL_ACTS.sortAgain = function () { todaySortDeal(); render(); };
+
+function todaySortPanel() {
+  if (!todaySort) todaySortDeal();
+  var allCalled = todaySort.deal.every(function (i) { return todaySort.calls[i]; });
+  var rows = todaySort.deal.map(function (i) {
+    var q = SORT_SITUATIONS[i];
+    var call = todaySort.calls[i];
+    var verdict = '';
+    if (allCalled) {
+      var right = (call === 'mine') === q.mine;
+      verdict = right
+        ? '<p class="px" style="color:var(--faint)">Called right.</p>'
+        : '<p class="px" style="color:var(--faint)">' + esc(q.why || 'The other way — this one is yours entirely.') + '</p>';
+    }
+    var btn = function (c, label) {
+      return '<button class="mchip' + (call === c ? ' on' : '') + '" data-act="sortCall" data-i="' + i +
+        '" data-c="' + c + '" aria-pressed="' + (call === c) + '"' + (allCalled ? ' disabled' : '') + '>' + label + '</button>';
+    };
+    return '<div class="card" style="margin-bottom:10px"><p class="px">' + esc(q.s) + '</p>' +
+      '<div class="months" style="justify-content:flex-start;margin-top:8px">' +
+      btn('mine', 'Mine') + btn('not', 'Not mine') + '</div>' + verdict + '</div>';
+  }).join('');
+  return '<div class="label">The sorting — before the doors open</div>' +
+    '<p class="px" style="color:var(--faint);margin-bottom:10px">Three calls. What is up to you, what is not. ' +
+    'Epictetus opened his handbook with this sort because everything else depends on making it fast.</p>' +
+    rows +
+    (allCalled ? '<button class="keep" data-act="sortAgain">Sort again</button>' : '') +
+    '<p class="px" style="margin-top:10px"><a class="readmini" href="#/floor">The floor book — reframes for real tables</a></p>';
 }
 
 function todayReadingLines(doy) {
@@ -163,7 +220,8 @@ function todayGuided(m, d, e, doy, p) {
   var steps = [
     { label: 'The voice', body: function () {
         return todayVoice(m, d, e) +
-          '<p class="mintro" style="margin-top:18px">Read it twice. The second time is the one that lands.</p>';
+          '<p class="mintro" style="margin-top:18px">Read it twice. The second time is the one that lands.</p>' +
+          '<p class="refl" style="margin-top:14px">' + esc(TURN_PROMPTS[doy % TURN_PROMPTS.length]) + '</p>';
       } },
     { label: 'Sit with it', body: function () {
         var on = (typeof pacer !== 'undefined' && pacer.on);
@@ -288,6 +346,7 @@ function todayPage(m, d, e, doy, p) {
     '<h1>' + esc(MONTHS[m - 1][1]) + '</h1>' +
     '<p class="note">' + esc(MONTHS[m - 1][2]) + '</p>' +
     todayVoice(m, d, e) +
+    '<p class="refl" style="margin-top:10px">' + esc(TURN_PROMPTS[doy % TURN_PROMPTS.length]) + '</p>' +
     '<div class="label">Today’s practice</div>' + todayPractice(p) +
     '<div class="label">Reflection</div>' +
     '<p class="refl">' + esc(REFLECTIONS[doy % REFLECTIONS.length]) + '</p>' +
@@ -296,6 +355,7 @@ function todayPage(m, d, e, doy, p) {
       ? '<div class="label">Today in the five canons</div><div class="card">' + todayReadingLines(doy) + '</div>'
       : '<div class="label">The reading</div>' + todayCanonQuiet()) +
     todayIntentPanel() +
+    todaySortPanel() +
     '<div style="text-align:center;margin-top:26px">' +
       '<a class="readmini" href="#/reset">The Walk-In — ninety seconds, mid-shift</a> ' +
       '<button class="readmini" data-act="todayMode" data-mode="guided">Walk it through instead</button>' +

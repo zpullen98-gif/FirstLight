@@ -17,6 +17,7 @@ const EXAMEN_QUESTIONS = [
   { key: "well", label: "What did you do well today?" },
   { key: "short", label: "Where did you fall short?" },
   { key: "tomorrow", label: "What will you do differently tomorrow?" },
+  { key: "release", label: "What tonight was not yours to control? Name it, and leave it at the door." },
 ];
 
 /* The shift debrief — the same nightly court, convened for service work.
