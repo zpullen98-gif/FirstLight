@@ -7,8 +7,8 @@
    to the religious section, not two. Everything it renders now comes from the local
    text via reading.js; nothing here touches the network. */
 
-var hallMonth = new Date().getMonth() + 1;
-var hallOpen = null;      // day-of-year currently expanded
+var hallMonth = 0;   // 0 = no explicit pick; each render defaults to the shifted month
+var hallOpen = null;      // { box, btn } currently expanded; reset every render
 var hallSaving = {};      // canonId -> true while a download is running
 
 FL_ACTS.hallPick = function (el) { hallMonth = +el.getAttribute('data-m'); render(); };
@@ -75,23 +75,24 @@ FL_ACTS.markRead = function (el) {
 FL_ACTS.readPassage = function (el) {
   var doy = +el.getAttribute('data-doy');
   var canon = el.getAttribute('data-canon');
-  var box = document.getElementById('read-' + doy);
+  /* resolved RELATIVE to the button: the today card and its month row can
+     share a doy, and duplicate ids sent this click to whichever box came
+     first in the document */
+  var box = el.parentElement.querySelector('.readbox');
   if (!box) return;
   var longLabel = !!el.getAttribute('data-long');
 
-  if (hallOpen === doy) {
+  if (hallOpen && hallOpen.box === box) {
     hallOpen = null;
     box.classList.add('hide');
     el.textContent = longLabel ? 'Read the full passage' : 'Read';
     return;
   }
-  if (hallOpen !== null) {
-    var prev = document.getElementById('read-' + hallOpen);
-    var prevBtn = document.getElementById('readbtn-' + hallOpen);
-    if (prev) prev.classList.add('hide');
-    if (prevBtn) prevBtn.textContent = prevBtn.getAttribute('data-long') ? 'Read the full passage' : 'Read';
+  if (hallOpen) {
+    hallOpen.box.classList.add('hide');
+    hallOpen.btn.textContent = hallOpen.btn.getAttribute('data-long') ? 'Read the full passage' : 'Read';
   }
-  hallOpen = doy;
+  hallOpen = { box: box, btn: el };
   box.classList.remove('hide');
   el.textContent = 'Hide the passage';
 
@@ -99,7 +100,7 @@ FL_ACTS.readPassage = function (el) {
 
   box.innerHTML = '<p class="loadnote">Opening…</p>';
   readLoad(canon, doy).then(function () {
-    if (hallOpen === doy) { box.innerHTML = readRender(canon, doy); announce('Passage opened.'); }
+    if (hallOpen && hallOpen.box === box) { box.innerHTML = readRender(canon, doy); announce('Passage opened.'); }
   }).catch(function () {
     /* No navigator.onLine check: it reports true on a captive portal and true again
        when the machine is online but this app's host is not, which is the usual
@@ -147,6 +148,7 @@ FL_VIEWS.hall = {
   title: 'The Year’s Readings',
   hidden: true,        // reached from the Library; the nav has one religious door
   render: function (canonId) {
+    hallOpen = null;   /* every render rebuilds all boxes hidden; state follows */
     if (!canonId || !hallById(canonId)) {
       return '<a class="keep" style="margin-bottom:20px" href="#/library">← The Library</a>' +
         '<div class="kick">Five canons, one year each</div>' +
@@ -166,7 +168,7 @@ FL_VIEWS.hall = {
     }
 
     var h = hallById(canonId);
-    var now = new Date();
+    var now = flShiftedNow();
     var st = canonState(canonId);
     /* The reader's own day in this plan — the calendar day if they follow it, or
        days-since-they-began if they started it themselves. */
@@ -192,13 +194,14 @@ FL_VIEWS.hall = {
             '<button class="keep" data-act="canonStartToday" data-canon="' + canonId + '">Begin at day one today</button>') +
       '</div>';
 
+    var hm = hallMonth || (flShiftedNow().getMonth() + 1);
     var chips = MONTHS.map(function (mo, i) {
-      return '<button class="mchip' + ((i + 1) === hallMonth ? ' on' : '') + '" data-act="hallPick" data-m="' + (i + 1) + '"' +
-             ' aria-pressed="' + ((i + 1) === hallMonth) + '">' + esc(mo[0].slice(0, 3)) + '</button>';
+      return '<button class="mchip' + ((i + 1) === hm ? ' on' : '') + '" data-act="hallPick" data-m="' + (i + 1) + '"' +
+             ' aria-pressed="' + ((i + 1) === hm) + '">' + esc(mo[0].slice(0, 3)) + '</button>';
     }).join('');
 
-    var start = doyOf(hallMonth, 1), rows = [];
-    for (var dd = 1; dd <= MLEN[hallMonth - 1]; dd++) {
+    var start = doyOf(hm, 1), rows = [];
+    for (var dd = 1; dd <= MLEN[hm - 1]; dd++) {
       var rowDoy = start + dd - 1;
       var leapNote = doySkipped(rowDoy) ? ' <span class="ds">· leap day only</span>' : '';
       /* A filled dot means the text for that day is already on the device. One glyph
@@ -229,13 +232,13 @@ FL_VIEWS.hall = {
         '<div class="label" style="margin-top:18px">Today’s reading · ' + esc(dayLabel) + '</div>' +
         '<p class="px" style="font-weight:600">' + esc(h[4][doy - 1]) + '</p>' +
         (ready
-          ? '<button class="keep" id="readbtn-' + doy + '" data-act="readPassage" data-doy="' + doy +
+          ? '<button class="keep" id="readbtn-top" data-act="readPassage" data-doy="' + doy +
             '" data-canon="' + canonId + '" data-long="1">Read the full passage</button> ' +
             '<button class="tick' + (st.done[doy] ? ' on' : '') + '" data-act="markRead" data-doy="' + doy +
             '" data-canon="' + canonId + '" aria-pressed="' + !!st.done[doy] + '">' +
             (st.done[doy] ? '✓ Read' : 'Mark read') + '</button>'
           : '<p class="loadnote">This text is still being prepared.</p>') +
-        '<div class="readbox hide" id="read-' + doy + '"></div>' +
+        '<div class="readbox hide" id="read-top"></div>' +
         '<div class="label" style="margin-top:18px">Verse of the day</div>' +
         '<p class="cep">“' + esc(verse[0]) + '”</p><div class="ds">' + esc(verse[1]) + '</div>' +
       '</div>' +

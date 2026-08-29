@@ -29,7 +29,7 @@ const CLEAR_SECTIONS = [
   ["Seneca kept this ledger too",
    "This is not a modern anxiety. Seneca wrote a whole letter on drunkenness — the eighty-third — and his sharpest " +
    "line is not about wine at all: he calls drunkenness 'voluntary madness,' chosen one cup at a time, and asks why " +
-   "a man who would never sign away his judgment sells it nightly for the price of feeling nothing. He drank wine. " +
+   "a man who would never sign away his judgment sells it nightly for the price of feeling nothing. " +
    "The letter is not temperance copy. It is a professional noticing what a habit does to the instrument he works " +
    "with — which is also your situation, exactly."],
   ["The pour question",
@@ -66,7 +66,6 @@ FL_VIEWS.clear = {
   title: 'Clear Mornings',
   hidden: true,   // one quiet door in Settings; the nav never names this room
   render: function () {
-    if (!FL.prefs.clearOpened) { FL.prefs.clearOpened = 1; flSave(); }
     var c = clearCounts();
     var today = flToday();
     var marked = !!FL.clear[today];

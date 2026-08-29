@@ -36,7 +36,6 @@ function todayReturnCard() {
 }
 FL_ACTS.returnBegin = function () { todayReturnSeen = true; todayStep = 0; render(); };
 var todayExamenKind = 'day';   // 'day' (Seneca's three) | 'shift' (the debrief)
-var todayIntent = null;        // a named need, when the reader has chosen one
 var todayForceMode = null;     // 'morning' | 'evening' | null (= follow the sun)
 
 function trackKey(m, d) { return (FL.prefs.track || 'philosophers') + ':' + m + '-' + d; }
@@ -110,18 +109,28 @@ FL_ACTS.todayStep = function (el) {
 FL_ACTS.todayMode = function (el) {
   if (typeof pacer !== 'undefined' && pacer.on) pacerStop();
   var m = el.getAttribute('data-mode');
-  if (m === 'page' || m === 'guided') { FL.prefs.todayMode = m; flSave(); }
+  if (m === 'page' || m === 'guided') {
+    FL.prefs.todayMode = m; flSave();
+    /* clear the session override, or these buttons silently do nothing after
+       a forced morning/evening. 'Guided' chosen during the evening forces the
+       morning walk — that is what the button promises at that hour — while a
+       daytime choice leaves the automatic dusk turn intact. */
+    todayForceMode = (m === 'guided' && sunIsEvening()) ? 'morning' : null;
+  }
   else { todayForceMode = m; }
   todayStep = 0;
   render();
   window.scrollTo(0, 0);
 };
 
+/* FL.intents is the ONLY source of truth for the chosen intent — a session
+   mirror made the chip need two taps to clear after a reload. */
 FL_ACTS.pickIntent = function (el) {
   var name = el.getAttribute('data-intent');
-  todayIntent = (todayIntent === name) ? null : name;
-  if (todayIntent) { FL.intents[flToday()] = todayIntent; flSave(); }
-  else { delete FL.intents[flToday()]; flSave(); }
+  var k = flToday();
+  if (FL.intents[k] === name) delete FL.intents[k];
+  else FL.intents[k] = name;
+  flSave();
   render();
 };
 
@@ -134,7 +143,7 @@ function todayVoice(m, d, e) {
 }
 
 function todayIntentPanel() {
-  var chosen = todayIntent || FL.intents[flToday()] || null;
+  var chosen = FL.intents[flToday()] || null;
   var chips = INTENTS.map(function (n) {
     return '<button class="mchip' + (chosen === n ? ' on' : '') + '" data-act="pickIntent" data-intent="' +
            esc(n) + '" aria-pressed="' + (chosen === n) + '">' + esc(n) + '</button>';
@@ -337,7 +346,7 @@ function todayExamen() {
   var kind = shift ? 'debrief' : 'examen';
   var fields = bank.map(function (q) {
     var ref = jRef(kind, key + ':' + q.key);
-    return '<div class="label">' + esc(q.label) + '</div>' + jField(ref, '', key, 3);
+    return '<div class="label">' + esc(q.label) + '</div>' + jField(ref, '', key, 3, q.label);
   }).join('');
 
   var wrote = bank.some(function (q) { return jText(jRef(kind, key + ':' + q.key)).trim(); });
@@ -357,9 +366,9 @@ function todayExamen() {
     '<h1>' + (shift ? 'Last call' : 'The examined evening') + '</h1>' +
     (shift
       ? '<p class="note">The shift has a residue, and it does not belong in your bed. ' +
-        'Three questions. No one else reads the answers — not a manager, not anyone.</p>'
+        'Four questions. No one else reads the answers — not a manager, not anyone.</p>'
       : '<p class="note">Seneca pleaded his case before his own court each night, and hid nothing from himself. ' +
-        'Three questions. No one else reads the answers.</p>') +
+        'His three questions, and a fourth to leave at the door. No one else reads the answers.</p>') +
     tabs +
     fields +
     (wrote ? kept : '') +

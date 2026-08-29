@@ -29,11 +29,28 @@ function resetBegin(patternId) {
     if (resetState.nonce !== nonce) return;
     pacerStop();
     resetState.on = false; resetState.done = true;
-    if (flRoute.view === 'reset') render();
+    if (flRoute.view === 'reset') {
+      render();
+      announce('Ninety seconds are up. Back on the floor.');
+    }
   }, 90000);
 }
 
-FL_ACTS.resetGo = function (el) { resetBegin(el.getAttribute('data-p')); render(); };
+FL_ACTS.resetGo = function (el) {
+  resetBegin(el.getAttribute('data-p'));
+  announce('Ninety seconds — breathe.');
+  render();
+};
+
+/* leaving the room mid-count must not leave a frozen screen behind: the
+   pacer already stops on hashchange (practice.js); the room's own state
+   follows it */
+window.addEventListener('hashchange', function () {
+  resetState.nonce++;
+  if (resetState.timer) { clearTimeout(resetState.timer); resetState.timer = null; }
+  resetState.on = false;
+  resetState.done = false;
+});
 FL_ACTS.resetEnd = function () {
   resetState.nonce++;
   if (resetState.timer) clearTimeout(resetState.timer);
@@ -94,7 +111,7 @@ FL_ACTS.playVideo = function (el) {
   var start = +el.getAttribute('data-start') || 0;
   var host = el.closest('.vidframe');
   var src = 'https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0' + (start ? '&start=' + start : '');
-  host.innerHTML = '<iframe src="' + src + '" title="Practice video" frameborder="0" ' +
+  host.innerHTML = '<iframe src="' + src + '" title="Practice video: ' + esc(el.getAttribute('data-frame') || '') + '" frameborder="0" ' +
     'allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>';
 };
 
@@ -120,9 +137,9 @@ FL_VIEWS.body = {
         : '';
       return '<div class="vidcard">' +
         '<div class="vidframe" id="vid-' + i + '">' +
-          '<button class="vidthumb" data-act="playVideo" data-id="' + esc(v.id) + '" data-start="' + (v.start || 0) + '"' +
+          '<button class="vidthumb" data-act="playVideo" data-id="' + esc(v.id) + '" data-start="' + (v.start || 0) + '" data-frame="' + esc(v.frame) + '"' +
             ' style="background-image:url(https://i.ytimg.com/vi/' + esc(v.id) + '/hqdefault.jpg)"' +
-            ' aria-label="Play practice video"><span class="playbtn" aria-hidden="true">▶</span></button>' +
+            ' aria-label="Play: ' + esc(v.frame) + '"><span class="playbtn" aria-hidden="true">▶</span></button>' +
         '</div>' +
         '<div class="vidmeta">' +
           '<div class="vidframe-label">' + esc(v.frame) + '</div>' +
@@ -142,8 +159,9 @@ FL_VIEWS.body = {
       '</div>' +
       '<div class="months" style="margin-top:14px">' +
         BREATH_PATTERNS.map(function (p) {
-          return '<button class="mchip' + (pacer.on && pacer.pattern && pacer.pattern.id === p.id ? ' on' : '') +
-            '" data-act="pacer" data-id="' + p.id + '">' + esc(p.name) + '</button>';
+          var isOn = !!(pacer.on && pacer.pattern && pacer.pattern.id === p.id);
+          return '<button class="mchip' + (isOn ? ' on' : '') +
+            '" data-act="pacer" data-id="' + p.id + '" aria-pressed="' + isOn + '">' + esc(p.name) + '</button>';
         }).join('') +
         '<button class="mchip" data-act="pacerStop">Stop</button>' +
       '</div>' +

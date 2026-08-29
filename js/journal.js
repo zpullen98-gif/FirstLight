@@ -47,9 +47,12 @@ function jSet(ref, text, day) {
 }
 
 function jCount() { return Object.keys(FL.journal).length; }
+/* Both counters skip Clear Mornings notes: the room's contract is that its
+   writing appears in NO stat, and a word count is a stat. */
 function jWords() {
   var n = 0;
   Object.keys(FL.journal).forEach(function (k) {
+    if (String(FL.journal[k].ref).indexOf('clear:') === 0) return;
     var t = (FL.journal[k].text || '').trim();
     if (t) n += t.split(/\s+/).length;
   });
@@ -57,7 +60,10 @@ function jWords() {
 }
 function jDays() {
   var s = {};
-  Object.keys(FL.journal).forEach(function (k) { if (FL.journal[k].d) s[FL.journal[k].d] = 1; });
+  Object.keys(FL.journal).forEach(function (k) {
+    if (String(FL.journal[k].ref).indexOf('clear:') === 0) return;
+    if (FL.journal[k].d) s[FL.journal[k].d] = 1;
+  });
   return Object.keys(s);
 }
 
@@ -71,12 +77,12 @@ function jAll() {
    A textarea that saves as you type. Deliberately not a rich editor: the value here
    is that a sentence is cheap to write at six in the morning, and every affordance
    between the thought and the text is a reason not to bother. */
-function jField(ref, placeholder, day, rows) {
+function jField(ref, placeholder, day, rows, label) {
   var val = jText(ref);
   return '<textarea class="jbox" rows="' + (rows || 4) +
     '" data-journal="' + esc(ref) + '" data-day="' + esc(day || flToday()) + '"' +
     ' placeholder="' + esc(placeholder || '') + '"' +
-    ' aria-label="' + esc(placeholder || 'Your writing') + '">' + esc(val) + '</textarea>' +
+    ' aria-label="' + esc(label || placeholder || 'Your writing') + '">' + esc(val) + '</textarea>' +
     '<div class="jstate" id="js-' + esc(ref).replace(/[^a-zA-Z0-9]/g, '-') + '"></div>';
 }
 
@@ -90,9 +96,13 @@ document.addEventListener('input', function (e) {
   var day = el.getAttribute('data-day');
   var stateId = 'js-' + ref.replace(/[^a-zA-Z0-9]/g, '-');
 
-  if (jTimers[ref]) clearTimeout(jTimers[ref]);
-  jTimers[ref] = setTimeout(function () {
+  if (jTimers[ref]) clearTimeout(jTimers[ref].t);
+  /* the ELEMENT rides in the map: once render() detaches the textarea, the
+     timer closure is the only thing holding the typed words, and jFlush must
+     be able to reach them — a detached element still exposes .value */
+  jTimers[ref] = { el: el, day: day, t: setTimeout(function () {
     jSet(ref, el.value, day);
+    delete jTimers[ref];
     var s = document.getElementById(stateId);
     if (s) {
       s.textContent = el.value.trim() ? 'Kept' : '';
@@ -100,7 +110,7 @@ document.addEventListener('input', function (e) {
          meaning anything, and the point is to reassure once. */
       if (s.textContent) setTimeout(function () { if (s) s.textContent = ''; }, 2200);
     }
-  }, 600);
+  }, 600) };
 });
 
 /* Flush any pending keystroke when the page goes away mid-sentence. store.js already
@@ -111,15 +121,26 @@ document.addEventListener('visibilitychange', function () {
   if (document.visibilityState === 'hidden') jFlush();
 });
 function jFlush() {
-  Object.keys(jTimers).forEach(function (ref) {
-    clearTimeout(jTimers[ref]);
-    delete jTimers[ref];
-  });
+  /* DOM first, pending map second — the order is load-bearing. A same-ref
+     field back in the DOM can only hold a STALE re-rendered copy (any input
+     on a newer element replaces the map entry with that element), so the map
+     entry is always at least as fresh and must win. The old order — clear
+     the timers, then sweep the DOM — destroyed the only copy of anything
+     typed within 600ms of a navigation: the exact loss this file exists to
+     prevent. */
+  var wrote = false;
   var fields = document.querySelectorAll('[data-journal]');
   for (var i = 0; i < fields.length; i++) {
     jSet(fields[i].getAttribute('data-journal'), fields[i].value, fields[i].getAttribute('data-day'));
+    wrote = true;
   }
-  if (fields.length) flSave(true);
+  Object.keys(jTimers).forEach(function (ref) {
+    var pend = jTimers[ref];
+    clearTimeout(pend.t);
+    delete jTimers[ref];
+    if (pend.el) { jSet(ref, pend.el.value, pend.day); wrote = true; }
+  });
+  if (wrote) flSave(true);
 }
 
 /* ——— human labels for a ref ———

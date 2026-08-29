@@ -210,6 +210,9 @@ function seqTick() {
     seq.start = performance.now();
     if (seq.step >= s.steps.length) { seq.on = false; FL.sessions[flToday()] = (FL.sessions[flToday()] || 0) + 1; flSave(); render(); announce('Sequence complete.'); return; }
     render();
+    /* the loop must re-arm itself — a bare return here froze every sequence
+       at its first step boundary, since nothing else ever re-enters the tick */
+    seq.raf = requestAnimationFrame(seqTick);
     return;
   }
   seq.raf = requestAnimationFrame(seqTick);

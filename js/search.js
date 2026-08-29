@@ -75,7 +75,10 @@ function flSearch(query) {
   /* ——— the goal ladder ——— */
   LIFE.forEach(function (tier) {
     tier[2].forEach(function (g) {
-      if (sHit(g[0], q) || sHit(g[1], q)) push('A Life Well Lived', g[0], 'The ' + tier[0] + ' Goals', g[1], '#/life');
+      /* the same substitution ui-life makes: with the readings off, search
+         must neither match nor display the scriptural originals */
+      var quote = FL.prefs.canonLines === 'on' ? g[1] : (LIFE_ALT[g[0]] || g[1]);
+      if (sHit(g[0], q) || sHit(quote, q)) push('A Life Well Lived', g[0], 'The ' + tier[0] + ' Goals', quote, '#/life');
     });
   });
 

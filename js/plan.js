@@ -30,7 +30,8 @@ function doyOf(m, d) {
   return s + d;
 }
 function doyToday() {
-  var n = new Date();
+  /* the shift clock: at 2am a closer is still on the day they are closing */
+  var n = flShiftedNow();
   return doyOf(n.getMonth() + 1, n.getDate());
 }
 /* Inverse, for the year heatmap and for any view that walks slots rather than dates. */
@@ -205,8 +206,13 @@ function canonState(id) {
 function canonDoy(id) {
   var st = canonState(id);
   if (!st.start) return doyToday();
+  /* start was stamped with the shift-aware flToday(), so "days since" must be
+     measured against the same clock, or a plan begun after midnight skips
+     Day 1 forever. Math.round, not floor: two local midnights across a DST
+     spring-forward differ by 23h and floor silently dropped a day. */
+  var n = flShiftedNow();
   var start = new Date(st.start + 'T00:00:00');
-  var days = Math.floor((new Date().setHours(0, 0, 0, 0) - start.getTime()) / 86400000);
+  var days = Math.round((new Date(n.getFullYear(), n.getMonth(), n.getDate()).getTime() - start.getTime()) / 86400000);
   if (days < 0) days = 0;
   return (days % 366) + 1;      // wraps, so a second year through is a second year, not an overrun
 }

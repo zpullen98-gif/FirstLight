@@ -12,7 +12,7 @@ const LIFE=[
 ["Name three things given","Contentment is the greatest wealth. — Dhammapada 204"],
 ["Have the conversation you are avoiding","Let your yes be yes, and your no be no. — Jesus, Matthew 5:37"]]],
 ["Weekly","The week is the smallest unit in which a life's shape becomes visible.",[
-["Keep one full day of rest","Remember the Sabbath day, to keep it holy. — Moses, Exodus 20:8"],
+["Keep one full day of rest","Remember the Sabbath day, to keep it holy. — Exodus 20:8"],
 ["Examine the week on three counts","Faithfulness, sincerity, practice. — Zengzi, Analects 1.4"],
 ["Share one unhurried table","Where two or three are gathered. — Jesus, Matthew 18:20"],
 ["Do one small good consistently","The most beloved deeds are those done most consistently, even if small. — Hadith"],

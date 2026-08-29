@@ -33,13 +33,17 @@ function announce(msg) {
 }
 
 var flToastTimer = null;
+var flUpdateReady = false;   /* an accepted-not-yet-loaded update offer survives ordinary toasts */
 function toast(msg, ms) {
   var el = document.getElementById('toast');
   if (!el) return;
   el.textContent = msg;
   el.classList.add('on');
   if (flToastTimer) clearTimeout(flToastTimer);
-  flToastTimer = setTimeout(function () { el.classList.remove('on'); }, ms || 5200);
+  flToastTimer = setTimeout(function () {
+    el.classList.remove('on');
+    if (flUpdateReady) setTimeout(offerUpdate, 400);
+  }, ms || 5200);
 }
 
 /* The one message the artifact could never send: your writing is not being saved. */
@@ -189,15 +193,21 @@ FL_ACTS.onboardChoice = function (el) {
   FL.prefs.onboarded = 1;
   flSave(true);
   if (typeof pacer !== 'undefined' && pacer.on) pacerStop();
-  location.hash = '#/today';
   render();
   announce('Welcome. The morning is ready.');
 };
 
 function render() {
+  /* capture-before-repaint, the suite's oldest rule: every jField rerenders
+     from the store, so anything typed since the last debounce tick must reach
+     the store before the DOM is replaced */
+  if (typeof jFlush === 'function') { try { jFlush(); } catch (e) {} }
   var v = FL_VIEWS[flRoute.view];
   var host = document.getElementById('view');
-  if (!FL.prefs.onboarded && FL.days.length <= 1) {
+  /* the venue screen, the mid-shift refuge, the floor book, and the private
+     room answer their own doors — onboarding waits for a personal one */
+  var noOnboard = { lineup: 1, reset: 1, clear: 1, floor: 1 };
+  if (!FL.prefs.onboarded && FL.days.length <= 1 && !noOnboard[flRoute.view]) {
     host.innerHTML = flOnboardHTML();
     renderNav();
     document.title = 'First Light';
@@ -244,7 +254,26 @@ document.addEventListener('click', function (e) {
   var act = el.getAttribute('data-act');
   if (!FL_ACTS[act]) return;
   e.preventDefault();
+  /* Focus signature: most acts re-render, which destroys the pressed button
+     and drops a keyboard user to <body> — hundreds of Tab presses from where
+     they were. Rebuild the signature after the act and put focus back; a
+     control that vanished or disabled itself hands focus to the view. Acts
+     that place focus themselves (todayStep) are untouched: we only act when
+     focus actually fell to the body. */
+  var sig = '[data-act="' + act.replace(/"/g, '') + '"]';
+  for (var ai = 0; ai < el.attributes.length; ai++) {
+    var at = el.attributes[ai];
+    if (at.name.indexOf('data-') === 0 && at.name !== 'data-act') {
+      sig += '[' + at.name + '="' + String(at.value).replace(/"/g, '\\"') + '"]';
+    }
+  }
   FL_ACTS[act](el, e);
+  if (!document.activeElement || document.activeElement === document.body) {
+    var back = null;
+    try { back = document.querySelector(sig); } catch (err) {}
+    if (back && back.focus && !back.disabled) back.focus({ preventScroll: true });
+    else { var vw = document.getElementById('view'); if (vw) vw.focus({ preventScroll: true }); }
+  }
 });
 /* Checkboxes and selects need change, not click. */
 document.addEventListener('change', function (e) {
@@ -260,6 +289,7 @@ document.addEventListener('change', function (e) {
 var flReloading = false;
 
 FL_ACTS.applyUpdate = function () {
+  flUpdateReady = false;
   navigator.serviceWorker.getRegistration().then(function (reg) {
     if (reg && reg.waiting) reg.waiting.postMessage('SKIP_WAITING');
   });
@@ -272,7 +302,13 @@ function registerSW() {
   /* A new worker takes control only after skipWaiting; when it does, reload once so
      the page is running the code that matches the cache it is now being served. The
      guard matters — without it two tabs can bounce each other in a reload loop. */
+  /* clients.claim() fires controllerchange on the very FIRST install too —
+     a page that started uncontrolled must not reload out from under a reader
+     mid-onboarding; only a page that already had a controller is switching
+     code and needs the refresh */
+  var hadController = !!navigator.serviceWorker.controller;
   navigator.serviceWorker.addEventListener('controllerchange', function () {
+    if (!hadController) { hadController = true; return; }
     if (flReloading) return;
     flReloading = true;
     location.reload();
@@ -302,6 +338,7 @@ function offerUpdate() {
   /* An update must never interrupt a morning. It waits behind a button, and the
      reader decides when. Saying "reload" and leaving it at that would be a lie: a
      plain reload does not activate a waiting worker. */
+  flUpdateReady = true;
   el.innerHTML = 'A new version is ready. ' +
     '<button class="keep" style="margin:6px 0 0" data-act="applyUpdate">Load it now</button>';
   el.classList.add('on');
@@ -324,9 +361,24 @@ function offerUpdate() {
   document.addEventListener('visibilitychange', function () {
     if (document.visibilityState !== 'visible') return;
     sunApply();
+    /* a hash-routed PWA performs no navigations, so the browser never
+       re-fetches sw.js on its own — a bar tablet open all week would never
+       see an update. Every wake becomes a check; offline it fails silently. */
+    if ('serviceWorker' in navigator && location.search.indexOf('nosw') === -1) {
+      navigator.serviceWorker.getRegistration().then(function (r) {
+        if (r) return r.update();
+      }).catch(function () {});
+    }
     if (flToday() !== bootDay) {
       bootDay = flToday();
       if (flRoute.view !== 'lineup') flMarkDay();
+      /* yesterday's session posture must not leak into the new morning:
+         a tab that slept in the evening examen would otherwise wake there */
+      todayForceMode = null;
+      todayStep = 0;
+      todaySort = null;
+      todayReturnSeen = false;
+      todayExamenKind = 'day';
       render();
     }
   });

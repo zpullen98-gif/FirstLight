@@ -245,8 +245,12 @@ function computeChart(opts) {
   /* Part of Fortune, by sect: the Sun above the horizon makes it a day chart.
      Pure arithmetic, deeply traditional, and it fits this app's framing. */
   var sun = points[0].lon, moon = points[1].lon;
-  var sunHouse = houseOf(sun, cusps);
-  var day = sunHouse >= 7 && sunHouse <= 12;
+  /* Sect is a horizon question, not a house question: under whole-sign houses
+     a risen Sun in the Ascendant's sign lands in house 1 and the old test
+     called the chart nocturnal, flipping the Part of Fortune. Longitudes from
+     the Descendant round through the MC to the Ascendant are above the
+     horizon in every house system. */
+  var day = norm360(sun - angles.asc) >= 180;
   var fortune = norm360(day ? (angles.asc + moon - sun) : (angles.asc + sun - moon));
   points.push({ name: 'Fortune', glyph: PGLYPH.Fortune, lon: fortune, sign: signOf(fortune),
                 retro: false, house: houseOf(fortune, cusps), minor: true });

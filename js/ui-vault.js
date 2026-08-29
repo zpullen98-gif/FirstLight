@@ -16,16 +16,16 @@ function vaultFade(text, stage) {
   var words = text.split(/\s+/);
   if (stage === 1) {
     return '“' + words.map(function (w, i) {
-      return (i % 3 === 2) ? '<span style="opacity:.35">──</span>' : esc(w);
+      return (i % 3 === 2) ? '<span aria-hidden="true" style="opacity:.35">──</span>' : esc(w);
     }).join(' ') + '”';
   }
   if (stage === 2) {
     return '“' + words.map(function (w) {
       var head = w.charAt(0);
-      return esc(head) + '<span style="opacity:.35">─</span>';
+      return esc(head) + '<span aria-hidden="true" style="opacity:.35">─</span>';
     }).join(' ') + '”';
   }
-  return '<span style="opacity:.55">The line is yours to say now — the page holds only the name.</span>';
+  return '<span style="color:var(--faint)">The line is yours to say now — the page holds only the name.</span>';
 }
 
 FL_ACTS.rehearse = function (el) {

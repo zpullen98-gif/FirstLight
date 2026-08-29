@@ -10,6 +10,9 @@ FL_VIEWS.journal = {
   title: 'Journal',
   render: function () {
     var all = jAll();
+    /* the clear filter runs BEFORE the stats and the empty check — a journal
+       holding only Clear Mornings notes must read as empty here */
+    all = all.filter(function (e) { return String(e.ref).indexOf('clear:') !== 0; });
     var head = '<div class="kick">Your own words</div><h1>Journal</h1>';
 
     if (!all.length) {
@@ -27,8 +30,6 @@ FL_VIEWS.journal = {
     /* Grouped by the day the entry belongs to, newest first — a journal reads by
        date, not by the order things were edited. */
     var byDay = {}, order = [];
-    /* Clear Mornings notes live only in their room; the Journal never lists them */
-    all = all.filter(function (e) { return String(e.ref).indexOf('clear:') !== 0; });
     all.forEach(function (e) {
       var k = e.d || 'undated';
       if (!byDay[k]) { byDay[k] = []; order.push(k); }
@@ -130,12 +131,19 @@ FL_VIEWS.stats = {
   label: 'The Record',
   title: 'The Record',
   render: function () {
-    var year = new Date().getFullYear();
+    var year = flShiftedNow().getFullYear();
     var track = FL.prefs.track || 'philosophers';
 
     /* One cell per almanac slot. A day can carry up to four marks — turned up, kept
        a voice, wrote, marked the practice done — and the cell's weight shows how
        many, so a year of real practice looks different from a year of visits. */
+    /* one pass over the journal, so debriefs and every examen field count as
+       writing — and the private room's notes never do */
+    var wrote = {};
+    Object.keys(FL.journal).forEach(function (k) {
+      var e = FL.journal[k];
+      if (e.d && String(e.ref).indexOf('clear:') !== 0) wrote[e.d] = 1;
+    });
     var cells = [];
     for (var doy = 1; doy <= 366; doy++) {
       var md = doyToMD(doy);
@@ -146,7 +154,7 @@ FL_VIEWS.stats = {
       var marks = 0;
       if (FL.days.indexOf(dateKey) > -1) marks++;
       if (FL.kept[track + ':' + m + '-' + d]) marks++;
-      if (jGet(jRef('day', dateKey)) || jGet(jRef('examen', dateKey + ':well'))) marks++;
+      if (wrote[dateKey]) marks++;
       if (FL.practice[dateKey] || FL.sessions[dateKey]) marks++;
 
       var title = MONTHS[m - 1][0] + ' ' + d + (skipped ? ' — leap day only' : (marks ? ' — ' + marks + ' marks' : ''));
@@ -167,7 +175,7 @@ FL_VIEWS.stats = {
       return got >= len * 0.6 ? 'a steady month' : got >= len * 0.25 ? 'a returning month'
            : got > 0 ? 'a quiet month' : 'a fallow month';
     };
-    var nowS = new Date();
+    var nowS = flShiftedNow();
     var pm = nowS.getMonth() === 0 ? [nowS.getFullYear() - 1, 12] : [nowS.getFullYear(), nowS.getMonth()];
     var seasonLine = '<p class="px" style="color:var(--faint)">' +
       esc(MONTHS[nowS.getMonth()][0]) + ' so far: ' + season(nowS.getFullYear(), nowS.getMonth() + 1) +

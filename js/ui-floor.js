@@ -37,7 +37,7 @@ const FLOOR_CARDS = [
   { t: "The eight percent",
     sit: "Flawless service. Great table, laughing, thanked you by name. The tip is eight percent.",
     thought: "That was a verdict on me.",
-    turn: "You are reading a stranger's arithmetic as a review of your worth — but you graded the service yourself, live, all night, and you know what it was. Marcus: the value of a thing is the price its judge can actually pay. Some judges are broke, some are foreign to the custom, some are just like that. Your standard survived them.",
+    turn: "You are reading a stranger's arithmetic as a review of your worth — but you graded the service yourself, live, all night, and you know what it was. Marcus's move was to look inside the judges themselves — see what kind of judges you were afraid of (Meditations 9.18). Some judges are broke, some are foreign to the custom, some are just like that. Your standard survived them.",
     carry: "Did I serve for the twenty percent, or was the service itself the thing I would sign?" },
   { t: "The cut section",
     sit: "Saturday, and the floor chart has you on three tables while the new hire gets the rail.",

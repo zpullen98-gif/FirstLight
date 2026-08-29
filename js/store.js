@@ -116,6 +116,9 @@ function flSave(immediate) {
 }
 function flWriteNow() {
   flSaveTimer = null;
+  /* under a corrupt-blob hold, the original IS the record — nothing this
+     session produces may replace it */
+  if (flHoldSaves) return false;
   try {
     return flRawSet(FL_KEY, JSON.stringify(FL));
   } catch (e) {
@@ -152,6 +155,16 @@ function flStreak(days) {
   return n;
 }
 
+/* Formats a Date WITHOUT the dayEnd shift. flDateKey is for real clock
+   moments only; a Date rebuilt from a stored key already carries the shift,
+   and running it through flDateKey again subtracted the hours twice —
+   which pinned the longest streak at 1 for every night worker. */
+function flCivilKey(dt) {
+  return dt.getFullYear() + '-' +
+         String(dt.getMonth() + 1).padStart(2, '0') + '-' +
+         String(dt.getDate()).padStart(2, '0');
+}
+
 function flLongestStreak(days) {
   days = (days || FL.days).slice().sort();
   var best = 0, run = 0, prev = null, i;
@@ -159,7 +172,7 @@ function flLongestStreak(days) {
     if (prev) {
       var d = new Date(prev + 'T00:00:00');
       d.setDate(d.getDate() + 1);
-      run = (flDateKey(d) === days[i]) ? run + 1 : 1;
+      run = (flCivilKey(d) === days[i]) ? run + 1 : 1;
     } else run = 1;
     if (run > best) best = run;
     prev = days[i];
@@ -178,13 +191,29 @@ function flMarkDay() {
    Load, then migrate. Both steps must survive a corrupted blob: a reader whose
    localStorage was mangled by another tool should get an empty app, not a white
    screen. */
+var flHoldSaves = false;   /* set when a corrupt blob could not be parked durably */
+
 function flBoot() {
   var raw = flRawGet(FL_KEY), loaded = null;
   if (raw) {
     try { loaded = JSON.parse(raw); }
     catch (e) {
       console.warn('First Light: saved record was unreadable; keeping a copy aside.', e);
-      try { flRawSet(FL_KEY + '-corrupt-' + Date.now(), raw); } catch (e2) {}
+      /* Deterministic aside key: repeated boots under a hold must not mint a
+         fresh copy each time. Only when the copy has landed DURABLY may this
+         session ever write FL_KEY again — otherwise the first save would
+         destroy the only copy of whatever the blob still holds. */
+      var asideKey = FL_KEY + '-corrupt';
+      var kept = false;
+      try {
+        kept = flRawGet(asideKey) !== null || flRawSet(asideKey, raw);
+        try { kept = kept && localStorage.getItem(asideKey) !== null; } catch (e3) { kept = false; }
+      } catch (e2) { kept = false; }
+      if (!kept) {
+        flHoldSaves = true;
+        console.error('First Light: the unreadable record could not be copied aside — refusing to overwrite it this session.');
+        flNotifyStorage('fail', e);
+      }
     }
   }
   if (loaded && typeof loaded === 'object') flAdopt(loaded);
@@ -254,8 +283,11 @@ function flBootMigrate() {
     changed = true;
   }
 
-  if (!FL.prefs.theme)  { FL.prefs.theme = 'auto';          changed = true; }
-  if (!FL.prefs.track)  { FL.prefs.track = 'philosophers';  changed = true; }
+  /* theme and track are NOT written here: every consumer already defaults at
+     read time, and a boot-written default made flImport's fill-if-undefined
+     clause unable to restore a backup's chosen theme and track on a new
+     device. An undefined pref is a pref the reader has not chosen yet. */
+  if (FL.prefs.clearOpened !== undefined) { delete FL.prefs.clearOpened; changed = true; }
 
   if (changed) flSave(true);
   return changed;
@@ -341,7 +373,15 @@ function flImport(text) {
   });
 
   if (rec.prefs) Object.keys(rec.prefs).forEach(function (k) {
+    if (k === 'clearOpened') return;   /* a scrubbed trace never rides back in */
     if (FL.prefs[k] === undefined) FL.prefs[k] = rec.prefs[k];
+  });
+
+  /* the additive promise held on boot (flAdopt carries unknown keys) but not
+     on import — a backup from a newer build lost its new buckets here */
+  var trusted = (parsed && parsed.app === 'First Light') || (rec && rec.v !== undefined);
+  if (trusted) Object.keys(rec).forEach(function (k) {
+    if (!Object.prototype.hasOwnProperty.call(FL, k)) FL[k] = rec[k];
   });
 
   flSave(true);

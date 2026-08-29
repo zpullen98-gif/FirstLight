@@ -9,6 +9,9 @@ FL_ACTS.setDayEnd = function (el) {
   var v = Number(el.value) || 0;
   FL.prefs.dayEnd = v;
   flSave(true);
+  /* the day the reader is living under the NEW clock gets marked now —
+     without this the streak shows a hole until the next app-open */
+  if (flRoute.view !== 'lineup') flMarkDay();
   render();
   toast(v ? 'Your day now ends at ' + v + 'am — a night that runs past midnight still counts as tonight.'
           : 'Your day ends at midnight.');

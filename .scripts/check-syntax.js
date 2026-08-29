@@ -60,6 +60,55 @@ if (missingFromHTML.length) {
   missingFromHTML.forEach(f => console.warn('    ' + f));
 }
 
+/* Every ASSETS entry must exist on disk — a renamed icon or font typo becomes
+   a precache 404 that nothing else catches (script tags have index parity;
+   fonts and icons do not). */
+const assetsBlock = (swSrc.match(/const ASSETS = \[([\s\S]*?)\];/) || [null, ''])[1];
+for (const m of assetsBlock.match(/'\.\/[^']+'/g) || []) {
+  const rel = m.slice(3, -1);
+  if (!rel) continue;
+  if (!fs.existsSync(path.join(__dirname, '..', rel))) {
+    failed++;
+    console.error('\n  sw.js ASSETS names a file that does not exist: ' + rel);
+  }
+}
+
+/* The two halves of the texts-cache contract must agree: FL_TEXT_V stamps the
+   request URLs, TEXT_CACHE names where they land. */
+const tvMatch = swSrc.match(/firstlight-texts-v(\d+)/);
+const storeSrc = fs.readFileSync(path.join(__dirname, '..', 'js', 'text-store.js'), 'utf8');
+const fvMatch = storeSrc.match(/FL_TEXT_V\s*=\s*(\d+)/);
+if (tvMatch && fvMatch && tvMatch[1] !== fvMatch[1]) {
+  failed++;
+  console.error('\n  TEXT_CACHE is firstlight-texts-v' + tvMatch[1] +
+    ' but FL_TEXT_V is ' + fvMatch[1] + ' — the texts cache contract is split.');
+}
+
+/* A committed content change without a CACHE bump is a deploy installed
+   clients never receive. Anchor = the last commit touching sw.js (bumps live
+   there); uncommitted work is exempt — the bump belongs in the same commit.
+   Skipped cleanly where git is unavailable. */
+try {
+  const cp = require('child_process');
+  const run = (cmd) => cp.execSync(cmd, { cwd: path.join(__dirname, '..'), encoding: 'utf8' }).trim();
+  const bumpCommit = run('git log -n 1 --format=%H -- sw.js');
+  if (bumpCommit) {
+    const cacheNow = (swSrc.match(/CACHE = '([^']+)'/) || [])[1];
+    const cacheThen = (run('git show ' + bumpCommit + ':sw.js').match(/CACHE = '([^']+)'/) || [])[1];
+    if (cacheNow && cacheNow === cacheThen) {
+      const cached = new Set([...(assetsBlock.match(/'\.\/[^']+'/g) || [])].map(x => x.slice(3, -1)));
+      cached.add('index.html');
+      const changed = run('git diff --name-only ' + bumpCommit + ' HEAD').split('\n').filter(Boolean);
+      const stale = changed.filter(f => cached.has(f));
+      if (stale.length) {
+        failed++;
+        console.error('\n  committed since the last sw.js change but CACHE is still "' + cacheNow +
+          '": ' + stale.join(', ') + ' — installed clients will never receive this.');
+      }
+    }
+  }
+} catch (e) { /* no git here — the other checks still hold the line */ }
+
 if (failed) {
   console.error('\n' + failed + ' problem(s) across ' + (checked + failed) + ' files.\n');
   process.exit(1);

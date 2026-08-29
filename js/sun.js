@@ -155,12 +155,19 @@ function sunPhase(now) {
 function sunIsEvening(now) {
   now = now || new Date();
   var w = sunWhere();
-  if (sunAltitude(now, w.lat, w.lon) >= 0) return false;
   var h = now.getHours();
   /* the small hours count as evening up to the reader's own day boundary,
      so evening mode and the record agree on when a day rolls; 4 stands in
      when no boundary has been chosen, which was the old fixed behaviour */
   var edge = Number(FL.prefs.dayEnd) || 4;
+  if (sunAltitude(now, w.lat, w.lon) >= 0) {
+    /* polar day: the sun will not set for weeks, and an examen gated on
+       darkness would simply vanish. Where there is genuinely no sunset
+       today, the clock stands in — the same promise the palette keeps. */
+    var t = sunTimes(now, w.lat, w.lon);
+    if (t.sunset === null) return h >= 21 || h < edge;
+    return false;
+  }
   return h >= 12 || h < edge;
 }
 

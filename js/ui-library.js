@@ -279,6 +279,12 @@ FL_VIEWS.library = {
       }
       libWork = parts[1];
       libPart = parts[2] || null;
+      /* a mistyped part id must say 'not here', not promise a book that will
+         appear 'once you open it online' — that promise would be false forever */
+      if (libPart && !(FL_LIBRARY[libWork].parts || []).some(function (pp) { return String(pp.part) === libPart; })) {
+        return '<a class="keep" href="#/library/read/' + libWork + '">← ' + esc(FL_LIBRARY[libWork].title) + '</a>' +
+               '<h1>Not here yet</h1><p class="note">That chapter is not part of this work.</p>';
+      }
       return libPart ? libReader(libWork, libPart) : libContents(libWork);
     }
 
@@ -293,6 +299,7 @@ FL_VIEWS.library = {
     var parts = (arg || '').split('/');
     if (parts[0] !== 'read' || !parts[1] || !parts[2]) return;
     var work = parts[1], part = parts[2];
+    if (!FL_LIBRARY[work] || !(FL_LIBRARY[work].parts || []).some(function (pp) { return String(pp.part) === part; })) return;
     if (FLTextHas(work, part)) return;
 
     FLTextLoad(work, part).then(function () {
@@ -300,6 +307,9 @@ FL_VIEWS.library = {
          yank someone who has already navigated away. */
       if (flRoute.view === 'library' && (flRoute.arg || '') === arg) render();
     }).catch(function () {
+      /* same guard as the success path: a slow failure must not write its
+         message into whatever page the reader has since moved to */
+      if (flRoute.view !== 'library' || (flRoute.arg || '') !== arg) return;
       var el = document.getElementById('lib-loading');
       if (!el) return;
       /* Do not branch on navigator.onLine. It reports true on a captive portal, and

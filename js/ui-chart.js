@@ -46,6 +46,13 @@ FL_ACTS.chartCity = function (el) {
 FL_ACTS.pickCity = function (el) {
   var c = FL_CITIES[+el.getAttribute('data-i')];
   var b = chartBirth();
+  /* capture-before-render: the date, time, system and offset fields are
+     uncontrolled, and the repaint below rebuilds them from the store —
+     without this, choosing the city ate whatever was already typed */
+  var d = (document.getElementById('b-date') || {}).value;   if (d) b.date = d;
+  var t = (document.getElementById('b-time') || {}).value;   if (t) b.time = t;
+  var sy = (document.getElementById('b-sys') || {}).value;   if (sy) b.sys = sy;
+  var o = (document.getElementById('b-offset') || {}).value; if (o !== undefined && o !== '') b.offset = o;
   b.place = c[0] + ', ' + c[1];
   b.lat = c[2]; b.lon = c[3]; b.zone = FL_ZONES[c[4]];
   FL.prefs.birth = b; flSave(true);

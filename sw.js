@@ -7,7 +7,7 @@
    index.html. A file in one and not the other is the single most common way this
    app breaks offline while looking fine online. */
 
-const CACHE = 'firstlight-v34';
+const CACHE = 'firstlight-v35';
 
 /* Scripture lives in its own cache, deliberately NOT versioned with the shell.
    The library is ~12 MB; tying it to CACHE would throw it away and re-download it
@@ -86,18 +86,28 @@ self.addEventListener('install', e => {
   e.waitUntil((async () => {
     const cache = await caches.open(CACHE);
     const failed = [];
+    let netFail = false;
     for (const url of ASSETS) {
       try {
         const res = await fetch(new Request(url, { cache: 'reload' }));
         if (!res.ok) { failed.push(url + ' → HTTP ' + res.status); continue; }
         await cache.put(url, res);
       } catch (err) {
+        /* a rejected fetch is a network blip — retryable; an HTTP status is a
+           deploy defect — permanent until the next deploy either way */
         failed.push(url + ' → ' + err.message);
+        netFail = true;
       }
     }
     if (failed.length) {
       console.error('First Light: ' + failed.length + ' of ' + ASSETS.length +
         ' assets did not precache, so offline will be incomplete.\n' + failed.join('\n'));
+      /* Fail the install ONLY for network failures: the browser discards this
+         worker and retries the whole install on the next check while the old,
+         complete worker keeps serving. HTTP errors install anyway — throwing
+         on a genuinely missing file would recreate addAll's permanent wedge,
+         and check-syntax now catches missing ASSETS before deploy. */
+      if (netFail) throw new Error('precache incomplete over the network — retrying on the next update check');
     } else {
       console.log('First Light: precached ' + ASSETS.length + ' assets into ' + CACHE + '.');
     }
@@ -140,7 +150,12 @@ self.addEventListener('fetch', e => {
      ignoreSearch is NOT used here. These URLs carry ?v=N identifying which bake of
      a text they are, and matching across that would serve last month's translation
      for this month's request. */
-  if (url.pathname.indexOf('/js/texts/') > -1) {
+  if (url.pathname.indexOf('/js/texts/') > -1 ||
+      url.pathname.indexOf('/js/vendor/') > -1 ||
+      url.pathname.indexOf('/js/data-cities.js') > -1) {
+    /* the chart's lazy payloads (astronomy engine, city list) ride the texts
+       cache: versioned by ?v= like the books, cached on first use, and
+       without this #/chart was permanently broken offline */
     e.respondWith(
       caches.open(TEXT_CACHE).then(cache =>
         cache.match(req).then(hit => hit || fetch(req).then(res => {
