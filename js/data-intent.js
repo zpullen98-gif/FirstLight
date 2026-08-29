@@ -4,6 +4,7 @@
    the LOCAL_* banks were already written as its offline fallback. */
 
 const INTENTS = [
+  "Recovery",
   "Courage",
   "Stillness",
   "Discipline",
@@ -30,6 +31,7 @@ const DEBRIEF_QUESTIONS = [
 ];
 
 const LOCAL_THEMES = {
+  Recovery: { theme: "The Day After", themeNote: "Last night was long and it cost something. Today asks nothing heroic — water, food, light, and the anchor hours of sleep. Repair is a practice, not a pause in one." },
   Courage: { theme: "The Narrow Gate", themeNote: "Courage is not the absence of fear but the decision that something matters more." },
   Stillness: { theme: "The Unmoved Center", themeNote: "Beneath every storm the depth of the sea is quiet. Begin there." },
   Discipline: { theme: "The Daily Oar", themeNote: "No single stroke crosses the water. Today asks only for today's stroke." },

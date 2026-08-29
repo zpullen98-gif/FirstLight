@@ -14,7 +14,7 @@
 
 var BREATH_PATTERNS = [
   { id: 'box', name: 'Box breath', phases: [['In', 4], ['Hold', 4], ['Out', 4], ['Hold', 4]],
-    note: 'Four equal sides. Used by people who need a steady hand under pressure, and the easiest place to start.' },
+    note: 'Four equal sides. Used by people who need a steady hand under pressure, and the easiest place to start. Before the rush is exactly what it is for.' },
   { id: 'coherent', name: 'Coherent breath', phases: [['In', 5.5], ['Out', 5.5]],
     note: 'About five and a half seconds each way — roughly five breaths a minute, the rate at which heart rhythm and breath fall into step.' },
   { id: '478', name: 'Four–seven–eight', phases: [['In', 4], ['Hold', 7], ['Out', 8]],
@@ -41,7 +41,7 @@ var SEQUENCES = [
       ['Sitting', 60, 'However you sit. The posture the rest of the practice is built on.']
     ] },
   { id: 'evening', name: 'Unwinding', mins: 10,
-    note: 'For the end of a working day. Entirely on the floor, and none of it requires strength.',
+    note: 'For the end of a working day. Entirely on the floor, and none of it requires strength. Legs up the wall is there on purpose: a standing shift pools blood in the feet and calves, and this is how they hand it back.',
     steps: [
       ['Legs up the wall', 180, 'Hips close to the wall or a foot away, whichever lets the low back rest.'],
       ['Reclined twist, right', 90, 'Knees to one side, shoulders staying down. Do not force the shoulder.'],
@@ -49,6 +49,33 @@ var SEQUENCES = [
       ['Knees to chest', 60, 'Rock slowly side to side if it helps.'],
       ['Reclined bound angle', 120, 'Soles together, knees wide, something under each thigh if they hang.'],
       ['Śavāsana', 180, 'Flat, arms away from the body, palms up. Do not skip this; it is where the work lands.']
+    ] },
+  { id: 'feet', name: 'Feet and calves', mins: 3,
+    note: 'For the standing trade, in work shoes, in a doorway. The feet carry every hour of the shift; three minutes returns some of the interest.',
+    steps: [
+      ['Slow calf raises', 40, 'Rise on both feet, three seconds up, three down. The calf is the second heart — this is the pump that clears a standing shift’s pooling.'],
+      ['Wall calf stretch, right', 30, 'Hands on the wall, right leg back, heel down. Straight knee first, then a soft bend for the deeper fibres.'],
+      ['Wall calf stretch, left', 30, 'The other side. The side that plants at the well is usually tighter.'],
+      ['Ankle circles', 30, 'One foot off the floor, big slow circles both directions. Balance on the standing leg is part of the work.'],
+      ['Sole roll', 50, 'Roll the arch of each foot over a bottle laid on its side — slow, with weight. The plantar fascia has been loaded since doors.']
+    ] },
+  { id: 'wrists', name: 'Wrists and grip', mins: 3,
+    note: 'For hands that shake tins, carry trays, and hold a knife — the repetitive strain nobody stretches for until it complains.',
+    steps: [
+      ['Flexor stretch, right', 30, 'Arm out, palm up; draw the fingers gently back with the other hand. The forearm’s underside — the shaking muscles.'],
+      ['Flexor stretch, left', 30, 'The other arm. The tin hand will tell you which one it is.'],
+      ['Extensor stretch, right', 30, 'Palm down now, fingers drawn toward you. The top of the forearm — the tray and knife side of the strain.'],
+      ['Extensor stretch, left', 30, 'The other arm, same slow pull.'],
+      ['Finger fans', 30, 'Spread the fingers wide, hold, release into a loose fist. Ten slow rounds. Grip is a muscle; so is letting go.']
+    ] },
+  { id: 'neck', name: 'Neck and shoulders', mins: 3,
+    note: 'For pass-window posture and the tray shoulder. All of it standing, none of it conspicuous.',
+    steps: [
+      ['Chin tucks', 30, 'Draw the chin straight back — a horizontal slide, not a nod. The head has been forward over a bar top all night.'],
+      ['Ear to shoulder, right', 30, 'Let the right ear sink toward the shoulder, left arm hanging heavy. No pulling; weight is enough.'],
+      ['Ear to shoulder, left', 30, 'The other side. The tray side will speak up.'],
+      ['Doorway chest opener', 45, 'Forearm on the door frame, elbow at shoulder height, step gently through. The front of the shoulder gives back the pass-window hunch.'],
+      ['Slow shoulder rolls', 45, 'Big circles backward, with the breath. Down the back on the exhale.']
     ] },
   { id: 'close', name: 'After close', mins: 12,
     note: 'For the hour after last call, when the body is still at service pace and sleep is nowhere near. Entirely on the floor. This is the other way down.',
