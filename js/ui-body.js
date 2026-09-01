@@ -130,7 +130,10 @@ FL_VIEWS.body = {
         '<div class="gt">' + esc(l[0]) + '</div><div class="gp">' + esc(l[1]) + '</div></div></div>';
     }).join('');
 
-    var vids = BODY_VIDEOS.map(function (v, i) {
+    /* One card builder for both groups. The index is the DOM id the live title
+       fetch writes into, so it has to be unique across the two lists, not per
+       list: the trade group is offset past the end of the first. */
+    function vidCard(v, i) {
       var startNote = v.start
         ? '<div class="vidnote" style="color:var(--accent)">Starts at ' +
           Math.floor(v.start / 60) + ':' + String(v.start % 60).padStart(2, '0') + '</div>'
@@ -146,6 +149,11 @@ FL_VIEWS.body = {
           '<div class="vidtitle" id="vt-' + i + '">…</div>' +
           '<div class="vidnote">' + esc(v.note) + '</div>' + startNote +
         '</div></div>';
+    }
+
+    var vids = BODY_VIDEOS.map(vidCard).join('');
+    var tradeVids = TRADE_VIDEOS.map(function (v, i) {
+      return vidCard(v, i + BODY_VIDEOS.length);
     }).join('');
 
     /* ——— the practice engine ——— */
@@ -205,11 +213,14 @@ FL_VIEWS.body = {
       '<div class="label">The practices</div>' +
       '<p class="px" style="color:var(--faint);margin-bottom:16px">Tap any practice to open it. Titles are drawn live from YouTube; the videos belong to their creators.</p>' +
       vids +
+      '<div class="label">For the body this trade builds</div>' +
+      '<p class="px" style="color:var(--faint);margin-bottom:16px">The sequences above are the three minute version of this ground, and they run with no connection at all. These are the long version, taught by people who teach it for a living: the sole and the fascia, the calf pump, the hinge that saves a back on a keg, and the wind down for a night that ends at sunrise.</p>' +
+      tradeVids +
       '<p class="mintro" style="margin-top:30px">Move within your own limits. Pain is information, not weakness — and none of this is medical advice.</p>';
   },
 
   after: function () {
-    BODY_VIDEOS.forEach(function (v, i) {
+    BODY_VIDEOS.concat(TRADE_VIDEOS).forEach(function (v, i) {
       fetchYouTubeTitle(v.id).then(function (info) {
         var el = document.getElementById('vt-' + i);
         if (el) el.textContent = info.title + (info.author ? '  ·  ' + info.author : '');

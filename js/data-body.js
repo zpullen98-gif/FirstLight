@@ -32,3 +32,26 @@ const BODY_VIDEOS=[
 {id:"OJAo8QVkRq0",frame:"The Work",note:"For the days when capability, not calm, is what you are building."},
 {id:"ka9xQQ9o7H4",frame:"The Steady Hour",note:"Moderate, repeatable, and meant to be come back to."},
 {id:"eAi7EAE6-cU",start:1054,frame:"The Long Form",note:"Opens partway in, at the section worth returning to."}];
+
+/* The trade practices.
+   The sequences in this chapter are the three minute, no network version of
+   this ground and they are the ones to reach for mid shift. These are the
+   long version, taught by people who teach it for a living, for the reader
+   who wants to know why the sole hurts on the first step and not only what
+   to do about it. Every id was checked against YouTube for a live title, a
+   matching channel, and embedding left switched on, because this chapter
+   plays the film inside the card. */
+const TRADE_VIDEOS=[
+{id:"q8N8jkmJP6o",frame:"The Drain",note:"The pose the chapter names, taught slowly: fifteen minutes against a wall after a close."},
+{id:"5D86b45yJzU",frame:"The First Step",note:"A physiotherapist on the sole and the fascia, including why the first step of the morning is the worst one."},
+{id:"IEfyCfCtIJA",frame:"The Calf Pump",note:"Calf and Achilles work you can do at the rail, and the reason the calf pump matters to a body that stands still."},
+{id:"Dn3GexXx228",frame:"The Hinge",note:"Four minutes on the hip hinge, with no bar and no load: the pattern that saves backs on kegs and cases."},
+{id:"dn5C-quCNrA",frame:"Setting Down",note:"Floor based low back relief from a physiotherapist, for the end of a long shift."},
+{id:"X3-gKPNyrTA",frame:"Off The Shoulders",note:"Ten minutes for the neck and upper back, none of it on the floor, for the hunch of the pass and the bar."},
+{id:"ko5Kbb2PTEs",frame:"The Overlooked Joint",note:"Wrists and forearms, graded from easy upward: the injury this trade earns and rarely treats."},
+{id:"yMNLa17g9uc",frame:"Standing Still",note:"Hips and hamstrings down through the shins, for legs that held one spot all night."},
+{id:"BgGGnLaZe_0",frame:"The Trade Itself",note:"A practice made for this industry, by name."},
+{id:"BsWMZrvls6k",frame:"Yogic Sleep",note:"Yoga nidra, lying down: rest for the nights when sleep is fragmented rather than short."},
+{id:"UxWWfyE3fLc",frame:"Coming Down",note:"Long passive holds with no sequence to keep up with, for a body still wired at four in the morning."},
+{id:"gH1Wx6byvUo",frame:"Before The Floor",note:"Five minutes done in bed, before any weight goes through the foot."}];
+
