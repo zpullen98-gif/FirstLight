@@ -273,6 +273,181 @@ edition thinking the almanac is wrong.
 
 ---
 
+## March — audited in full (31 of 31)
+
+The month where the failures moved up a layer. January's entries carried no
+references at all; February's carried references that pointed at the wrong passage.
+March's references are almost all correct — **exactly one is simply wrong** — and
+what fails instead is the English. **Six entries reproduce no published translation
+at all**, roughly seventeen need a translator named or a translation gap flagged,
+and **seven carried a pedigree that was false or overstated**. Seventeen of the
+thirty-one source lines changed. March is the month of the unattributed translation.
+
+### The one wrong reference
+
+**10 — "First, do nothing inconsiderately, nor without a purpose."** Cited to
+*Meditations* 4.2; the passage is **12.20**. Long's 4.2 is a different maxim that
+also turns on acting with a purpose, which is very likely how the slip happened.
+Marcus gives a second rule alongside it — "make thy acts refer to nothing else than
+to a social end" — and the surviving "First," now dangles without its "Second,".
+
+### Not by the author whose name they carried
+
+**2 — "It does not matter how slowly you go as long as you do not stop."** Not in
+the *Analects*: a full-text search of Legge returns no "slowly", no "do not stop"
+and no "cease" outside the licence boilerplate. It appears in **no section** of
+Wikiquote's Confucius page — not sourced, not disputed, not even misattributed. The
+Xunzi rumour recorded in an earlier handoff was tested and **not confirmed**:
+*Encouraging Learning* has the parallel thought (駑馬十駕，功在不舍 — the nag that
+covers the ground because it does not give up) but no sentence of this shape. The
+folk proverb 不怕慢，就怕站 means the same thing and is not the source; its
+conventional English is "better late than never". Now **Author unknown**.
+
+**4 — "The man who moves a mountain begins by carrying away small stones."** Not in
+the *Analects*, and — the check day 11 taught us to run — **absent from both standard
+Victorian collections of Chinese proverbs**: Davis, *The Chinese* (1836), and
+Scarborough, *A Collection of Chinese Proverbs* (1875). It circulates as often under
+"Chinese proverb" as under Confucius, and as often with "removes" for "moves". The
+image belongs to the Foolish Old Man who removed the mountains, *Liezi*, Tang Wen 3,
+who breaks stone and carries the earth off in baskets — a Daoist fable. Now **Author
+unknown**.
+
+**6 — "Discipline is the refining fire by which talent becomes ability."** Not a
+proverb. It is on **page 53 of *Splinters*, Roy L. Smith, Fleming H. Revell, 1929**
+(HathiTrust umn.31951001637850z), under the topical heading "Discipline—", among
+neighbours in the same voice ("Discipline is the trail every great man has
+travelled"). One caution kept in the note: the Library of Congress *Catalog of
+Copyright Entries* registers the book as "'Sentence sermons', arranged topically"
+and contemporary notices say Smith "has assembled a long list of quotations", so his
+authorship of this particular line is likely rather than certain.
+
+**14 — "Real knowledge is to know the extent of one's ignorance."** Not in the
+*Analects*. Five complete translations — Legge, Jennings, Lyall, Giles, Soothill —
+contain neither the sentence nor the phrase "real knowledge". The thought it answers
+to is 2.17, which March already carries properly at day 5; measuring the *extent* of
+one's ignorance is a Socratic turn Confucius never takes. Now **Attributed to
+Confucius** — a hedge, not a removal, so the tag stays.
+
+**25 — "Study the past if you would define the future."** Not in the *Analects* and
+no Chinese original has ever been produced. Earliest print appearance located is
+**Ballou's *Treasury of Thought*, 1872**, which sets it under PAST with nothing but
+the name attached; Edwards, Wood and Benham copy it through the 1890s, Benham filing
+it among proverbs as "(Chinese, Confucius.)" — immediately before "Stuffing is good
+for geese". Note the year: the 1871 date on the copyright page is a **registration**,
+not a publication, and the book was published by J. R. Osgood in 1872. The real
+article is *Analects* 2.23, where the next hundred ages may be known from what each
+dynasty took from and added to the last.
+
+**26 — "Practice is the hardest part of learning…"** Not a proverb and not old. It
+is **Ann Voskamp, *One Thousand Gifts*, 2010**, in her own narrative voice.
+Confirmed against the 2010 text specifically rather than the 2025 second-person
+rewrite, which reads "the hardest of your life".
+
+### The hedge that was right all along
+
+**11 — "The gem cannot be polished without friction, nor man perfected without
+trials."** The audit's first pass proposed demoting "Chinese proverb" to a bare
+"Proverb", on the grounds that no Chinese source could be found and the earliest
+dated appearance was a 1913 inscription at the Grove Park Inn calling it *Dutch*.
+The refutation pass overturned this decisively. **Sir John Francis Davis** — the
+leading British sinologist of the period — prints it among Chinese aphorisms in
+*The Chinese: A General Description of the Empire of China and its Inhabitants*,
+vol. 2 (London, 1836), page 157: "The gem cannot be polished without friction, nor
+man perfected without adversity." That is seventy-seven years before the "earliest"
+date, and the nineteenth-century trail around it is unmistakably Chinese (the
+*Chinese Repository* 1846, Kerr's *Select Phrases in the Canton Dialect* 1889).
+The Chinese shape is 玉不琢不成器，人不磨不成道 — jade uncut forms no vessel, a man
+unground attains no way. **"Chinese proverb" stands**, and would have been replaced
+by a manufactured provenance had the second pass not run.
+
+### Real passages, wording that is nobody's
+
+Six entries reproduce no published translation. Three now take the "After" prefix
+this file already uses for that case: **1** (*Analects* 1.4 — Zengzi asks three
+questions about failure, which the entry converts into three virtue-nouns), **8**
+(*Xunzi* 1) and **24** (*Meditations* 3.12 — Long abridged, with the disputed third
+adverb εὐμενῶς dropped). Three keep a bare citation and carry the gap in a note:
+**17** (*Analects* 9.19, where Lau is nearest, not Legge as first proposed), **18**
+(*Letters* 76.6, an epigram in circulation) and **27** (*Enchiridion* 5).
+
+### Numbering schemes
+
+Three this month, all *Analects*, and they do not run the same way. **7** is 14.29
+in Legge and **14.27** in the modern scheme — Legge runs *high*. **17** is 9.19
+modern and **9.18** in Legge — Legge runs *low*, having run one behind from Book IX
+chapter VII onward. **31** notes that the three counsels of 1.8 recur verbatim at
+9.25, which is 9.24 in Legge.
+
+### A tooling defect, recorded because it will matter again
+
+The repo's cached Legge (`.scripts/.cache/analects.txt`, Gutenberg #3330) is
+**corrupt in Book IX**: chapter labels run I–XXII, then XXV, XXIV, XXV again, then
+XXVI–XXX. Two chapters are labelled XXV and none is XXIII. Days 2, 17 and 31 all
+make Book IX claims off that file and all three happen to land correctly, but
+**September is a Confucian month and December carries a Xunzi entry** — do not trust
+it for Book IX numbers.
+
+### Two translator confusions, one of them a repeat
+
+Perseus text **1999.01.0237 is Higginson, not Long** — the day 27 pass asserted it
+was Long and used it as independent corroboration of Long's wording, which it is
+not. This is the second time this exact class of error has occurred here; the
+January adversarial pass corrected the mirror image. Recorded so it does not happen
+a third time: **Carter (1758)** has "the principles and notions which they form
+concerning things"; **Higginson** has "the views which they take of things"; **Long**
+has "the opinions about the things"; **Oldfather** has "their judgements about these
+things". The shipped day 27 line is Long with one word added, and the possessive is
+Oldfather's.
+
+---
+
+## Two rules, written in March because the file had been applying contradictory ones
+
+### The tradition tag
+
+January keeps the tag through a **complete** reattribution — day 4 to Elbert
+Hubbard, day 12 to "Anonymous, in print by 1912", day 23 to James Allen, all three
+still tagged Stoic. February day 19 **moves** the tag with the name. Both were
+defensible locally and together they are incoherent, and March initially applied
+both — proposing "Anonymous, in print by 1872" with the tag moved, which is January
+12's exact construction with the opposite tag decision.
+
+The rule, which fits every entry shipped in all three months:
+
+> A **hedged** name ("Attributed to X") keeps the tag. A name **removed with nothing
+> put in its place** ("Author unknown", "Source unknown") loses it, because the tag
+> would then be the only surviving provenance claim. A name **replaced** by a real
+> author or by a locating fact keeps the month's tag, which records where the entry
+> sits in the almanac's arrangement rather than asserting the new author's lineage.
+
+So March 2 and 4 move to Wisdom; **25 keeps Confucian**, matching January 12; 14
+keeps Confucian because it is hedged, not removed.
+
+### Editing a shipped quotation
+
+Four March days ship an English word demonstrably wrong against the source, and the
+audit decided them three different ways before this rule existed.
+
+> Edit a shipped quotation **only** where the drift damages the meaning **and** a
+> real published translator's, or attested earlier, wording exists to restore. Never
+> substitute wording of the almanac's own composition.
+
+**15** changes — "always the same" for 相近 flattens *nearly alike* into *identical*,
+which is precisely the gap Mencius and Xunzi went on to argue about, and Lionel
+Giles (1907) supplies the attested line. **25** changes — "define" for the
+nineteenth-century "divine" turns foreseeing into shaping, and "divine" is a
+restoration rather than a minting. **8 stands**: 輮 is the craftsman's steam-bending
+and "with force" misnames the mechanism, but the chapter's argument (the curve is
+permanent) survives, and the only alternative on offer was either a minted "with
+heat" or a wholly different Watson sentence. **27 stands**: "their" for "the"
+damages nothing.
+
+The second clause of that rule is why day 8's note states what 輮 *is* rather than
+declaring the line above it false. A card that prints a quotation and a note calling
+it wrong in the same breath helps nobody.
+
+---
+
 ## Method
 
 Verification is done against primary texts and reputable scholarship — Perseus, the
@@ -283,3 +458,22 @@ the principle that a false "verified" is the only error that survives into a shi
 book looking authoritative.
 
 Confidence is recorded as high only where the actual passage was located.
+
+### Additions earned by March
+
+The three already recorded above (the corrupt Book IX cache; Perseus 0237 is
+Higginson; the two new rules) and two more:
+
+**The refutation pass attacks the researcher, so a positive claim introduced by a
+*skeptic* has no challenger.** March shipped three findings that originated in the
+refutation pass rather than the research pass — day 6 (*Splinters* p. 53), day 11
+(Davis 1836) and day 26 (*One Thousand Gifts*). All three were re-verified by a
+third pass and all three hold, but the hole is structural and will not always close
+itself.
+
+**Notes are for the card; SOURCES.md is for the evidence.** The corrected March
+findings ran to 1,479 words of note text against January's 402 and February's 405,
+with four notes over a hundred words. `js/ui-today.js` renders a note as an
+untruncated div directly beneath the quotation, so a 116-word note prints under an
+eight-word proverb. Every March note was cut to the register of the first two months
+and the full argument moved here, which is what this file is for.

@@ -154,7 +154,7 @@ Validated against four published reference charts (NYC 1990, London 2000, Sydney
 the computed Ascendant sits at altitude 0 in the eastern half. Breath pacer,
 interval timers and written sequences in `practice.js`.
 
-**Phase 5 — in progress. January and February audited (60 of 366).**
+**Phase 5 — in progress. January, February and March audited (91 of 366).**
 See `SOURCES.md` for the full record.
 
 ## Traps, all verified — do not re-learn them
@@ -186,7 +186,10 @@ See `SOURCES.md` for the full record.
 
 ## What's left
 
-**Phase 5 — ten months remain** (March–December, 306 entries). Method that works:
+**Phase 5 — nine months remain** (April–December, 275 entries). March is done;
+see SOURCES.md, which now also carries the two editorial rules March forced into
+the open (when a tradition tag travels with a name, and when a shipped quotation
+may be edited). Method that works:
 a `Workflow` with 4–6 verify agents of ~6 entries each, then one adversarial agent
 told to *refute* everything claimed genuine, returning raw findings so a failed
 synthesis cannot lose the research. A 24-agent run hit a hard session limit; 5–6
@@ -203,7 +206,9 @@ weak and turned out to have a real citation, February's day 8 was too strong.
 April is heavily Laozi, where "attributed to" is doing a lot of load-bearing work.
 
 **Phase 6 — the second 366, "The Canons".** Not started. The existing year is
-**94% Stoic/Taoist/Confucian/Roman** with no Buddhist, Hindu, Jewish, Christian,
+**82.8% Stoic/Taoist/Confucian/Roman** (303 of 366 entries, counted directly from
+the `tradition` field in `js/data-year.js` after March's audit — an earlier "94%"
+here was never measured; it was 305 before March moved days 2 and 4 to Wisdom) with no Buddhist, Hindu, Jewish, Christian,
 Islamic, Sikh, Sufi, Zen or Indigenous voices, in an app whose Library teaches ten
 works across seven traditions. The `.jsx` drew on 17. Track switching is already
 wired: `FL.prefs.track` and the `<track>:<m>-<d>` prefix in `FL.kept`. Same twelve

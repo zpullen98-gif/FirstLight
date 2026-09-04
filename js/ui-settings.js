@@ -99,6 +99,10 @@ FL_ACTS.importChosen = function (el) {
 
 /* Which months have been through the citation audit.
 
+   THE AUDIT IS OF THE PHILOSOPHERS TRACK, and the line says so, because a second
+   366 now exists. A reader standing on another track must not read "January ·
+   February · March" as a statement about the corpus in front of them.
+
    Deliberately an explicit list, not derived from the data. The obvious derivation —
    "a month is audited when its entries carry work references" — is wrong and
    flattering: February onward already arrived from the artifact with references like
@@ -107,7 +111,7 @@ FL_ACTS.importChosen = function (el) {
    one verified are different things, and this app should not blur them.
 
    Update this when a month is finished, alongside SOURCES.md. */
-var AUDITED_MONTHS = [1, 2];
+var AUDITED_MONTHS = [1, 2, 3];
 var AUDIT_PARTIAL = {};   // month -> "23 of 31", while a month is mid-audit
 
 function auditedMonths() {
@@ -115,7 +119,7 @@ function auditedMonths() {
   var out = AUDITED_MONTHS.map(function (m) {
     return MONTHS[m - 1][0] + (AUDIT_PARTIAL[m] ? ' (' + AUDIT_PARTIAL[m] + ')' : '');
   });
-  return out.join(' · ') + ' — of twelve';
+  return out.join(' · ') + ' — of twelve, on the Philosophers track';
 }
 
 FL_VIEWS.settings = {

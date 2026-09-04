@@ -81,6 +81,89 @@ const CORRECTIONS = { 1: [
     note: '“Empires that rose and fell” is a translator’s flourish; Marcus wrote of changes of dominion.' }
 ],
 
+/* March. The references were largely sound — exactly one points at the wrong
+   passage — so the failures moved up a layer into the English: six entries
+   reproduce no published translation at all, and seven carried a pedigree that
+   was false or overstated. March is the month of the unattributed translation.
+
+   Two rules were written during this month because the file had been applying
+   contradictory ones. See SOURCES.md: the tradition tag travels with a name only
+   when nothing replaces it, and a shipped quotation is edited only where the
+   drift damages meaning AND an attested wording exists to restore. */
+3: [
+  { d: 1,  from: 'Zengzi, Analects 1.4', to: 'After Zengzi, Analects 1.4',
+    note: 'Zengzi asks these as questions about failure rather than naming three virtues, and no translator writes this sentence. The third divides them: Legge and Waley read it as what his teacher handed down, Lau and Slingerland as what he has taught without practising.' },
+  { d: 2,  from: 'Confucius', to: 'Author unknown', tradTo: 'Wisdom',
+    note: 'Not in the Analects, and no Chinese text of any age has been produced for it. Where the English came from has not been traced. The thought is real enough: Analects 9.19, the mound abandoned one basketful short.' },
+  { d: 3,  from: 'Epictetus, Discourses 2.18', to: 'Epictetus, Discourses 2.18.1' },
+  { d: 4,  from: 'Attributed to Confucius', to: 'Author unknown', tradTo: 'Wisdom',
+    note: 'Not in the Analects, and absent from both standard Victorian collections of Chinese proverbs, Davis 1836 and Scarborough 1875. It circulates as often as a Chinese proverb as under Confucius. The image recalls the Foolish Old Man of the Liezi, who carried the mountain away in baskets.' },
+  { d: 5,  from: 'Confucius, Analects 2.17', to: 'Confucius, Analects 2.17',
+    note: 'Legge’s wording, lightly compressed. He keeps the Master’s opening address: “Yu, shall I teach you what knowledge is?” — Yu being the disciple Zilu, who is being corrected to his face.' },
+  { d: 6,  from: 'Proverb', to: 'Roy L. Smith, Splinters, 1929',
+    note: 'Not a proverb. It stands on page 53 of Splinters, Roy L. Smith’s 1929 collection of sentence sermons, under the heading “Discipline”. Contemporary notices call the book assembled as well as written, so his authorship of this line is likely rather than certain.' },
+  { d: 7,  from: 'Confucius, Analects 14.29', to: 'Confucius, Analects 14.27',
+    note: 'Legge numbers this passage 14.29, and this English is his; 14.27 is the modern scheme used by Lau, Slingerland and the Chinese Text Project.' },
+  { d: 8,  from: 'Xunzi 1', to: 'After Xunzi 1, Encouraging Learning',
+    note: 'Xunzi’s 輮 is the craftsman’s steam-bending rather than force, and his point is that the curve is permanent: Watson has “even after the wood has dried, it will not straighten out again.” The English here is no translator’s.' },
+  { d: 9,  from: 'Confucius, Analects 2.15', to: 'Confucius, Analects 2.15',
+    note: 'The English is Arthur Waley’s, 1938. Legge’s 2.15 reads quite differently — “Learning without thought is labour lost; thought without learning is perilous.”' },
+  { d: 10, from: 'Marcus Aurelius, Meditations 4.2', to: 'Marcus Aurelius, Meditations 12.20',
+    note: 'The passage is at 12.20, not 4.2 — Long’s 4.2 is a different maxim that also turns on purpose, which is likely how the slip happened. Marcus gives a second rule with it: “make thy acts refer to nothing else than to a social end.”' },
+  { d: 11, from: 'Chinese proverb', to: 'Chinese proverb',
+    note: 'In English as a Chinese proverb since at least 1836, when John Francis Davis printed it among his aphorisms — “nor man perfected without adversity”. The Chinese shape is 玉不琢不成器，人不磨不成道: jade uncut forms no vessel, a man unground attains no way.' },
+  { d: 12, from: 'Attributed to Xunzi', to: 'Attributed to Xunzi',
+    note: 'A twentieth-century classroom maxim, not a translation of anything. The nearest real text is Xunzi 8, 儒效: not hearing is not as good as hearing, hearing as seeing, seeing as knowing, knowing as doing — five rungs, and no forgetting in any of them.' },
+  { d: 13, from: 'Laozi, Tao Te Ching 56', to: 'Laozi, Tao Te Ching 56',
+    note: 'Arthur Waley’s 1934 wording, exactly. Legge glosses more heavily — “He who knows (the Tao) does not (care to) speak (about it)” — but the Chinese, 知者不言，言者不知, is as bare as Waley makes it.' },
+  { d: 14, from: 'Confucius', to: 'Attributed to Confucius',
+    note: 'Not in the Analects: five complete translations contain neither this sentence nor the phrase “real knowledge”. The thought it answers to is 2.17, knowing what you know and admitting what you do not — measuring the extent of one’s ignorance is a Socratic turn Confucius never takes.' },
+  { d: 15, from: 'Confucius, Analects 17.2', to: 'Confucius, Analects 17.2',
+    quoteFrom: 'The nature of men is always the same; it is their habits that separate them.',
+    quoteTo:   'Men’s natures are alike; it is their habits that carry them far apart.',
+    note: 'The reference is right; the English had drifted. Lionel Giles (1907) wrote it this way. 性相近 is near to one another, not the same — Confucius stops short of identical natures, and that gap is exactly what Mencius and Xunzi went on to argue about.' },
+  { d: 16, from: 'Proverb', to: 'Proverb, from Spurgeon’s The Salt-Cellars, 1889',
+    note: 'Gathered by C. H. Spurgeon in The Salt-Cellars, 1889, page 89, with his own gloss: “the snails started early, and by keeping on they entered the ark.” The image is older than the proverb — a Methodist blacksmith’s consolation, in print by 1832.' },
+  { d: 17, from: 'Confucius, Analects 9.19', to: 'Confucius, Analects 9.19',
+    note: 'Legge numbers this 9.18 — from Book IX chapter VII he runs one behind the modern scheme the almanac follows. The English is no published translation; Lau is nearest: “if, before the very last basketful, I stop, then I shall have stopped.”' },
+  { d: 18, from: 'Seneca, Letters 76', to: 'Seneca, Letters 76.6',
+    note: 'Seneca’s Latin at 76.6 is nulli sapere casu obtigit. The English is an epigram in circulation rather than any published translation; Gummere’s Loeb renders it “Wisdom comes haphazard to no man”.' },
+  { d: 19, from: 'Xunzi, Encouraging Learning', to: 'Xunzi 1, Encouraging Learning',
+    note: 'The opening line of the Xunzi’s first chapter, where the text puts it in the mouth of “the gentleman” rather than stating it in Xunzi’s own voice. The wording is Burton Watson’s; Hutton has “Learning must never stop”.' },
+  { d: 20, from: 'Epictetus, Discourses 1.18', to: 'Epictetus, Discourses 1.18.18',
+    note: 'Higginson’s wording, revising Elizabeth Carter’s 1758 “Exercise yourself, for Heaven’s sake, in little things”; the Greek really does swear by the gods. The little things Epictetus has in view are a headache and an earache.' },
+  { d: 21, from: 'Confucius, Analects 1.8', to: 'Confucius, Analects 1.8',
+    note: 'One of the four counsels of Analects 1.8; day 31 carries another. All three recur verbatim later in the book, at 9.25 — 9.24 in Legge.' },
+  { d: 22, from: 'Chinese proverb', to: 'Chinese proverb, in Journey to the West, chapter 2',
+    note: 'The Chinese is 世上無難事，只怕有心人 — the Patriarch’s answer when Wukong protests that cloud-soaring is beyond him. Older forms survive: the Shilin Guangji has 人心自不堅, it is the heart that is not firm. 難事 is a hard thing rather than an impossible one.' },
+  { d: 23, from: 'Confucius, Analects 4.11', to: 'Confucius, Analects 4.11',
+    note: 'Verbatim Legge, and 4.11 in his numbering and the modern one alike. 懷土 is where translators part company: Legge’s “comfort” glosses a word meaning earth or land, which Muller renders “material things” and Lau “his native land”.' },
+  { d: 24, from: 'Marcus Aurelius, Meditations 3.12', to: 'After Marcus Aurelius, Meditations 3.12',
+    note: 'Long’s sentence, abridged. He gives three adverbs — “seriously, vigorously, calmly” — and the third, εὐμενῶς, is the one translators dispute: Farquharson has “with kindness”. Marcus also makes the happy life conditional on expecting nothing and fearing nothing.' },
+  { d: 25, from: 'Confucius', to: 'Anonymous, in print by 1872',
+    quoteFrom: 'Study the past if you would define the future.',
+    quoteTo:   'Study the past if you would divine the future.',
+    note: 'Not in the Analects, and no Chinese original has ever been produced. The earliest print appearance found is Ballou’s Treasury of Thought, 1872, which sets it under PAST with nothing but the name attached. “Divine” is the nineteenth-century form; “define” is a later drift that turns foreseeing into shaping.' },
+  { d: 26, from: 'Proverb', to: 'Ann Voskamp, One Thousand Gifts, 2010',
+    note: 'Not a proverb, and not old. It is Ann Voskamp’s own sentence, from One Thousand Gifts, 2010 — a modern devotional book. It appears nowhere in print before it, and no tradition has ever claimed it.' },
+  { d: 27, from: 'Epictetus, Enchiridion 5', to: 'Epictetus, Enchiridion 5',
+    note: 'Long’s wording with one word added — he has “the opinions about the things”. The possessive belongs to Oldfather’s line, “their judgements”. Epictetus makes it personal himself a few lines on: “that is, our opinions”.' },
+  { d: 28, from: 'Confucius, Analects 4.23', to: 'Confucius, Analects 4.23',
+    note: 'Legge’s phrasing. 約 is self-restraint, or holding to essentials, rather than caution about risk — Waley has “Those who err on the side of strictness are few indeed”.' },
+  { d: 30, from: 'Confucius, Analects 1.1', to: 'Confucius, Analects 1.1',
+    note: 'Legge’s phrasing, and the first of the three questions that open the Analects. 時習 is practice at due times rather than perseverance as such — Waley has “to learn and at due times to repeat what one has learnt”.' },
+  { d: 31, from: 'Confucius, Analects 1.8', to: 'Confucius, Analects 1.8',
+    note: 'The last of the four counsels in Analects 1.8. The same three counsels recur verbatim later in the book, at 9.25 — 9.24 in Legge.' }
+],
+
+/* September. One repair only, pending that month’s own audit: day 6 shipped the
+   source line “Xunzi, tradition”, where a tradition value had leaked into the
+   source field. Reduced to the bare “Xunzi” the rest of the year uses, which
+   asserts nothing new; the chapter it needs is September’s work. */
+9: [
+  { d: 6, from: 'Xunzi, tradition', to: 'Xunzi' }
+],
+
 /* February. These entries arrived WITH references, so the work was checking whether
    the reference says what it is claimed to. Healthier than January — eighteen stood —
    but the failures are subtler: a section number off by two books, hedges pitched at
