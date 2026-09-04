@@ -72,29 +72,41 @@ function go(view, arg) {
 
 var flRoute = { view: 'today', arg: null };
 
-/* Four clusters, because eleven equal items is not a menu — it is a list, and
+/* Five clusters, because eleven equal items is not a menu — it is a list, and
    on a 375px screen it wrapped to three ragged rows with the Vault orphaned on
    its own line. The clusters follow what a reader is actually doing:
 
      Today          the daily loop — one tap, no sub-row
      The Practice   the work: the body, the Vault's rehearsal room, the ladder
-     The Book       the reading: the 366, the Library's one door, the sky
+     The Book       the reading: the 366 and the sky
+     The Library    the scripture: seven traditions, the reading plans, the threads
      The Desk       the instruments: writing, finding, the record, the workings
 
-   The top row names the four; a second row appears only when the active
+   The top row names the five; a second row appears only when the active
    cluster holds more than one room. Each cluster remembers the room you were
    last in for the session, so 'The Book' goes back to the chapter you left.
    Hidden rooms light their home cluster for orientation — except Clear
    Mornings, which deliberately lights nothing: no trace is part of that
-   room's contract. */
+   room's contract.
+
+   THE LIBRARY IS ITS OWN CLUSTER ON PURPOSE. It used to sit inside 'The Book'
+   between the secular 366 and the sky, which made scripture look like one more
+   chapter of the same book rather than a room the reader chooses to enter. It
+   is now a door of its own, standing beside the others and entered only by
+   someone who meant to. Nothing here is hidden and nothing is pushed: the
+   religious material is one tap away for a reader who wants it and appears
+   nowhere in the morning for a reader who does not. */
 var NAV_CLUSTERS = [
   ['today',    'Today',        ['today']],
   ['practice', 'The Practice', ['body', 'vault', 'life']],
-  ['book',     'The Book',     ['year', 'library', 'astro']],
+  ['book',     'The Book',     ['year', 'astro']],
+  ['canon',    'The Library',  ['library']],
   ['desk',     'The Desk',     ['journal', 'search', 'stats', 'settings']]
 ];
-/* hidden views borrow a cluster so the reader stays oriented */
-var NAV_HOMES = { hall: 'book', threads: 'book', chart: 'book', reset: 'practice', floor: 'practice' };
+/* hidden views borrow a cluster so the reader stays oriented. The reading plans
+   and the threads are religious rooms reached from the Library, so they light
+   the Library rather than the Book they used to sit under. */
+var NAV_HOMES = { hall: 'canon', threads: 'canon', chart: 'book', reset: 'practice', floor: 'practice' };
 var flLastSub = {};   // cluster id -> last visited view, session-only
 
 function navClusterOf(view) {
@@ -148,7 +160,7 @@ document.addEventListener('keydown', function (e) {
   var t = e.target;
   if (t && (t.tagName === 'INPUT' || t.tagName === 'TEXTAREA' || t.tagName === 'SELECT' || t.isContentEditable)) return;
   if (e.key === '/') { location.hash = '#/search'; e.preventDefault(); return; }
-  if (/^[1-4]$/.test(e.key)) {
+  if (/^[1-5]$/.test(e.key)) {
     var c = NAV_CLUSTERS[Number(e.key) - 1];
     location.hash = '#/' + (flLastSub[c[0]] || c[2][0]);
     e.preventDefault();
@@ -172,8 +184,8 @@ function flOnboardHTML() {
     '<div class="label" style="margin-top:26px">One choice before you begin</div>' +
     '<div class="card">' +
       '<p class="px" style="margin-bottom:12px">First Light includes a religious Library — scripture and ' +
-      'reading plans across seven traditions. It stays behind its own door either way. ' +
-      'Show today’s readings on your morning page?</p>' +
+      'reading plans across seven traditions. It has its own tab either way, so you can go in whenever you ' +
+      'like and it will never come to you. Show today’s readings on your morning page?</p>' +
       '<div class="drawrow">' +
         '<button class="btn" data-act="onboardChoice" data-v="on">Show the readings</button>' +
         '<button class="keep" data-act="onboardChoice" data-v="off">Keep them in the Library</button>' +

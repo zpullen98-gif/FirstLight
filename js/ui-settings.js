@@ -205,8 +205,9 @@ FL_VIEWS.settings = {
       '<div class="label">The Library on your morning page</div>' +
       '<div class="card">' +
         '<p class="px" style="margin-bottom:10px">First Light includes a religious Library — scripture and ' +
-        'reading plans across seven traditions. It stays behind its own door either way; this only decides ' +
-        'whether today’s readings appear on your morning page and in search.</p>' +
+        'reading plans across seven traditions. It has its own tab either way, and says nothing on your ' +
+        'morning page unless you ask it to; this only decides whether today’s readings join the morning ' +
+        'and your searches.</p>' +
         '<select class="sel" data-change="setCanonLines" aria-label="Readings on the morning page">' +
           '<option value="off"' + (FL.prefs.canonLines === 'on' ? '' : ' selected') + '>Keep them behind their own door</option>' +
           '<option value="on"' + (FL.prefs.canonLines === 'on' ? ' selected' : '') + '>Show today’s readings</option>' +

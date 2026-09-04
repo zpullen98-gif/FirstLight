@@ -234,14 +234,16 @@ function todayReadingLines(doy) {
 
 /* The reader decides whether scripture appears on the morning page. Until they
    say yes — at first run or in Settings — the default path stays secular and
-   the Library keeps its one door. This is the promise the suite makes out loud:
-   the religious rooms exist, and nobody is walked into them. */
+   the Library keeps its own tab. This is the promise the suite makes out loud:
+   the religious rooms exist, and nobody is walked into them.
+
+   When this is off the morning says NOTHING about the Library. There was once a
+   todayCanonQuiet() here that rendered a faint "there is a Library, when you
+   want it" line into the reading slot; it is gone. A reader who answered the
+   question at first run should not be re-offered the answer every morning, and
+   the Library now stands in the top nav where anyone who changes their mind can
+   see it without being told. */
 function todayCanonOn() { return FL.prefs.canonLines === 'on'; }
-function todayCanonQuiet() {
-  return '<p class="px" style="color:var(--faint)">There is a Library, when you want it — ' +
-    'scripture and reading plans across seven traditions, kept behind ' +
-    '<a href="#/library">their own door</a>. Settings can put today’s readings here instead.</p>';
-}
 
 /* ——— the guided morning ——— */
 function todayGuided(m, d, e, doy, p) {
@@ -268,12 +270,19 @@ function todayGuided(m, d, e, doy, p) {
         return '<p class="refl">' + esc(REFLECTIONS[doy % REFLECTIONS.length]) + '</p>' +
           '<div style="margin-top:16px">' + jField(ref, 'Answer it, or don’t. A sentence counts.', flToday(), 5) + '</div>';
       } },
-    { label: 'The reading', body: function () {
-        if (!todayCanonOn()) return todayCanonQuiet();
-        return '<p class="px" style="color:var(--faint);margin-bottom:12px">Today across the five canons. ' +
-          'Open one, or none — the year keeps either way.</p>' + todayReadingLines(doy);
-      } }
   ];
+
+  /* The reading is a step ONLY for a reader who asked for it. It used to be the
+     fifth step either way, showing a pointer to the Library to someone who had
+     just declined the Library — spending a step of their morning on an offer
+     they had already answered. Four steps for them is the point: the scripture
+     lives behind its own tab and is entered deliberately, never walked into. */
+  if (todayCanonOn()) {
+    steps.push({ label: 'The reading', body: function () {
+      return '<p class="px" style="color:var(--faint);margin-bottom:12px">Today across the five canons. ' +
+        'Open one, or none — the year keeps either way.</p>' + todayReadingLines(doy);
+    } });
+  }
 
   if (todayStep >= steps.length) {
     var streak = flStreak();
@@ -396,9 +405,11 @@ function todayPage(m, d, e, doy, p) {
     '<div class="label">Reflection</div>' +
     '<p class="refl">' + esc(REFLECTIONS[doy % REFLECTIONS.length]) + '</p>' +
     '<div style="margin-top:14px">' + jField(jRef('day', flToday()), 'Answer it, or don’t. A sentence counts.', flToday(), 4) + '</div>' +
+    /* Nothing at all when the reader has not opted in — not even a labelled
+       section pointing at the Library. See the note on the guided step. */
     (todayCanonOn()
       ? '<div class="label">Today in the five canons</div><div class="card">' + todayReadingLines(doy) + '</div>'
-      : '<div class="label">The reading</div>' + todayCanonQuiet()) +
+      : '') +
     todayIntentPanel() +
     todaySortPanel() +
     '<div style="text-align:center;margin-top:26px">' +
