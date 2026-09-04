@@ -49,7 +49,7 @@ function trackKey(m, d) { return (FL.prefs.track || 'philosophers') + ':' + m + 
    at all, the note says so plainly. A clean citation needs no note and stays four
    elements long. */
 function dayEntry(m, d) {
-  var arr = Q[m] || [];
+  var arr = trackQ()[m] || [];
   var e = null;
   for (var i = 0; i < arr.length; i++) if (arr[i][0] === d) { e = arr[i]; break; }
   /* All 366 are present, so this is unreachable — if it fires it is a data bug and
