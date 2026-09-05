@@ -530,3 +530,55 @@ Sixteen verified survivors went unused and none was cut for provenance — they 
 held for the months they actually fit, chiefly March (Discipline and Habit) and
 April (Renewal and the Way).
 
+## February — 29 of 29
+
+46 candidates survived verification; 29 used, nothing padded. **The sourcing rule
+added after January worked.** Five entries are American against a cap of twelve,
+three British, and twenty-one are neither — Italy, Kenya, India, Australia, New
+Zealand, Poland, Germany, Bangladesh, Liberia, Chile, Pakistan, Switzerland, the
+Netherlands, Sweden, Spain. Seventeen women to twelve men. January's lean did not
+recur, and the constraint cost nothing in quality because the archives that verify
+cleanly outside the US — Nobel lecture texts, national broadcaster interviews,
+oral-history transcripts — are as datable as the American ones.
+
+**Fifteen of twenty-nine carry a note, which is more than the house standard, and
+the reason is specific rather than editorial indiscipline.** February's material is
+unusually full of speech that belongs to somebody other than the speaker, and in
+every one of those cases the note is doing attribution work — without it the card
+names the wrong person:
+
+- **Day 1** is Eliot Rosewater's line, not Vonnegut's own — a baptism speech inside
+  a novel.
+- **Day 7**, Edith Cavell's "patriotism is not enough", survives only through her
+  chaplain's report of her last evening. The widely printed "in the light of God and
+  eternity" is a slip: that phrase is the chaplain's own, two sentences earlier.
+- **Day 9**: the hand on Nikki Hamblin's shoulder, and the words quoted inside her
+  sentence, are Abbey D'Agostino's.
+- **Day 11** is Christiane Nüsslein-Volhard describing her mother, not her own work.
+- **Day 13**: Schweitzer spoke in French and the school magazine printed his
+  interpreter's phrase-by-phrase English.
+- **Day 19**: the sentences are what Isabel Allende says her daughter Paula taught
+  her, Paula having died in 1992 after a year in a coma.
+
+**A hedge deliberately not spent here.** Cicely Saunders's "You matter because you
+are you" is the best compassion sentence in the whole pool and carries the worst
+citation — a bare "attributed to", printed in at least three forms, usually with no
+source at all. With this many fully verified alternatives available, a February day
+was not worth a card whose note has to undercut its own quotation. It is held for
+November, where mortality is the subject and the hedge reads as honesty rather than
+as weakness.
+
+**Two things recorded for later months.** Denis Mukwege appears twice in the pool as
+two verifier records of one quotation; the second establishes that the quoted "no"
+in "saying 'no' to indifference" belongs to the Nobel Foundation's official English
+rather than to Mukwege, whose French reads *Agir, c'est refuser l'indifférence*. And
+Wangari Maathai appears on two different quotations. One is used here; the other is
+held for December. The rule forbids repeats only *within* a month, so that is
+permitted — but it should be somebody's decision rather than a duplicate that slips
+through.
+
+Seventeen verified survivors go forward. Six are Nobel-lecture and letter entries in
+Letters — Alexievich, Akhmatova, Adichie, Heaney, Ōe, Rilke — that lost only because
+February already had six Letters days. On this evidence September (Justice and
+Service) is already half written.
+
