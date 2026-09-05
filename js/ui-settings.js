@@ -24,6 +24,19 @@ FL_ACTS.setWeekAnchor = function (el) {
   toast('The practice week now starts on your rest day.');
 };
 
+FL_ACTS.setTrack = function (el) {
+  var t = flTrackById(el.value);
+  /* Refuse a track that is not finished rather than stranding the reader on a day
+     with no quotation: dayEntry() treats a missing day as a loud data bug. The
+     select only offers complete tracks, so this is a guard against a stale value,
+     not against the UI. */
+  if (!t || !flTrackComplete(t)) { render(); return; }
+  FL.prefs.track = t.id;
+  flSave(true);
+  render();
+  toast('Now reading ' + t.label + '. Your kept voices are held per track, so the ones you saved are still where you left them.');
+};
+
 FL_ACTS.setCanonLines = function (el) {
   FL.prefs.canonLines = el.value === 'on' ? 'on' : 'off';
   flSave(true);
@@ -122,6 +135,44 @@ function auditedMonths() {
   return out.join(' · ') + ' — of twelve, on the Philosophers track';
 }
 
+/* The track picker.
+
+   Only finished tracks are offered — flTracksOffered() filters on all 366 days
+   being present — but an unfinished one is NAMED with its day count rather than
+   hidden, because a reader who can see the shelf being built is better served than
+   one who cannot tell whether it exists. When only one track is finished there is
+   nothing to choose, so the card explains rather than showing a select with a
+   single option in it. */
+function trackCard() {
+  var offered = flTracksOffered();
+  var active = flActiveTrack();
+  var coming = FL_TRACKS.filter(function (t) { return !flTrackComplete(t); });
+
+  var pending = coming.map(function (t) {
+    return '<p class="vidnote" style="margin-top:10px">' + esc(t.label) + ' is being written — ' +
+      flTrackDays(t) + ' of 366 days so far. It is offered here once the year is complete.</p>';
+  }).join('');
+
+  if (offered.length < 2) {
+    return '<div class="card">' +
+      '<p class="px">You are reading <strong>' + esc(active.label) + '</strong>. ' + esc(active.blurb) + '</p>' +
+      pending + '</div>';
+  }
+
+  var opts = offered.map(function (t) {
+    return '<option value="' + esc(t.id) + '"' + (t.id === active.id ? ' selected' : '') + '>' +
+      esc(t.label) + '</option>';
+  }).join('');
+
+  return '<div class="card">' +
+    '<p class="px" style="margin-bottom:10px">Two years of voices, one per day, on the same twelve monthly ' +
+    'themes — so switching lands you on the same subject rather than the same sentence. What you keep is ' +
+    'held separately for each, and nothing you saved is lost by moving between them.</p>' +
+    '<select class="sel" data-change="setTrack" aria-label="Which year you are reading">' + opts + '</select>' +
+    '<p class="vidnote" style="margin-top:10px">' + esc(active.blurb) + '</p>' +
+    pending + '</div>';
+}
+
 FL_VIEWS.settings = {
   label: 'Settings',
   title: 'Settings',
@@ -217,6 +268,9 @@ FL_VIEWS.settings = {
           '<option value="on"' + (FL.prefs.canonLines === 'on' ? ' selected' : '') + '>Show today’s readings</option>' +
         '</select>' +
       '</div>' +
+
+      '<div class="label">Which year you are reading</div>' +
+      trackCard() +
 
       '<div class="label">Where the words come from</div>' +
       '<div class="card">' +
