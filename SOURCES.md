@@ -620,3 +620,113 @@ Eight strong entries go forward untouched, held for fit rather than for any doub
 Diane Nash's nonviolence-workshop line is the strongest of them and belongs to
 September, with Marta's Le Havre speech beside it.
 
+## April to December — the second half, and what running months in parallel cost
+
+From April the months were built three at a time to save wall-clock. That worked,
+and it had a price worth recording, because the price is invisible in every summary
+number and shows only in the detail.
+
+### Collisions
+
+Concurrent months cannot see each other's picks. Each was given every maker already
+written, so no finished month was ever repeated — but two months running at the same
+hour could and did land on the same person independently.
+
+**April and June** both chose Anne Lacaton and Václav Havel. Neither was committed,
+so both were resolved on which month the *quotation* belongs to. June kept Havel: the
+greengrocer who stops putting the official slogan in his shop window is Truth and
+Clarity, definitionally. April kept Lacaton: "transformation is the opportunity of
+doing more and better with what is already existing" is Renewal, definitionally.
+April's displaced Havel — "hope is not optimism" — is December's subject anyway.
+
+**May** collided with both on seven of its thirty-one days. April and June were
+already committed, so May yielded on all seven. This is the one case where the
+replacements were chosen by the editor of this file rather than by the month's own
+editor, who had sequenced the month deliberately; the citations are as sound as any
+other day, but the editorial hand on those seven is not the workflow's. Recorded
+because it is exactly the kind of thing that becomes invisible in a month's time.
+
+**July and September** collided on five. Neither was committed, so each kept what it
+was definitionally best at: July the nerve-under-threat lines (Malala choosing to
+speak knowing it might kill her; Marian Anderson choking on the anthem), September
+the two canonical justice sentences in the language (Soyinka's "the man dies in all
+who keep silent in the face of tyranny"; Lorde's "I am not free while any woman is
+unfree").
+
+**August and September** collided on Rachel Carson, and this one broke the pattern on
+purpose. August's line is the third sentence of *The Edge of the Sea* — "for no two
+successive days is the shore line precisely the same" — which does not merely fit a
+month on Impermanence, it states the theme outright. August also had nowhere to go:
+its Science pool was two deep and its only reserve was Frances Arnold, already at
+July day 18. September, with thirty-two held back, moved instead. **The rule that came
+out of it:** where a quotation *is* the month's theme rather than merely fitting it,
+and the other month can absorb the change, the other month moves — even when it is
+already committed.
+
+### The duplicate check, rebuilt twice
+
+Exact source-line matching missed **Ada Yonath / Ada E. Yonath** across May and June.
+Folding first names to an initial then matched **Aruna Roy to Arundhati Roy**, two
+different people both legitimately in September, and nearly cut one. The rule now:
+the surname must match **and** the first names must match in full, unless one of them
+is an initial standing for the other. Honorifics, accents and interview credits are
+folded; nothing else is.
+
+### Two months lost a curator to a content filter
+
+October's `sport-service` lane and November's `letters-stage` lane were each killed
+mid-run by a content filter on the agent's output — both on the two darkest themes in
+the year, where a lane asked for sixteen candidates about rest, endurance and dying
+and the accumulated output tripped a limit.
+
+**The failure is invisible in the numbers and obvious in the tags.** Both months
+reported the full count of days, zero shortfall, every citation verified — because the
+surviving lanes quietly covered for the missing one. October came back Sport 1,
+Service 1, Letters 8; November came back Letters 2, Stage 1. Each month was missing
+precisely the two domains its dead lane covered. Neither could be patched: October
+held one Sport and one Service in reserve, November held zero Letters and zero Stage.
+
+Re-running only the blocked lane fixed it. October's Sport went 1 to 5, Letters back
+to 6, and its verified pool grew from 48 to 68.
+
+Both briefs gained a clause first, which should have been there from the start and is
+right on its own terms rather than as a workaround: **keep the material publishable.**
+This is a reading someone meets at six in the morning. No graphic description of
+wounds, dying or atrocity; where a maker wrote from inside a catastrophe, prefer the
+sentence about the care they gave over the sentence about what they saw. A quotation
+that would need a content warning is the wrong quotation for this book, however
+powerful.
+
+**If a month ever reports a full count with a domain tag at one, suspect a dead lane
+before suspecting an editorial choice.**
+
+### What the carry mechanism was worth
+
+Every month returned its verified-but-unused entries tagged with the month they
+belonged to, and those were routed forward rather than thrown away. By December the
+mechanism had paid for itself completely: **29 pre-verified entries arrived from eight
+earlier months**, the verified pool reached 84 — the deepest of the year — and the
+month opens on Heaney's "walk on air against your better judgement", which July had
+verified and not used. September arrived with ten already routed to it, exactly as
+February and March had predicted six months earlier when they set that material aside.
+
+### Enterprise
+
+The tag was empty in January, February and March because no curator lane covered it —
+a briefing failure, not an editorial choice, and one nobody had been asked about. A
+fourth lane was written for it, carrying two warnings: business quotation is the most
+corrupted corner of an already corrupted genre, and the billionaire-founder register
+is out of scope, because this track is about the work rather than about scale. From
+April it never fell below three again. The lane produced Rose Blumkin's "Sell cheap
+and tell the truth", which June's editor flagged with the note this file should keep:
+*the tag stayed empty for three months, so spend it rather than hold it again.*
+
+### One rule the app itself forced
+
+`dayEntry()` returns element 2 as the byline and there is no author field, so a source
+line naming only a book prints **anonymously**. Twenty-two of January's did. Every
+source line on this track now leads with the maker's name. Two were worse than
+anonymous: day 29 would have printed "Pierre Curie" as the author of a sentence by
+**Marie** Curie — that being the title of the book she wrote about her husband — and
+day 10 led with Philip Schieber, the reporter, rather than Grace Hopper, who said it.
+
