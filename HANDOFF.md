@@ -16,7 +16,18 @@ Year** (all 366), **A Life Well Lived** (goal ladder), **The Library** (ten work
 seven traditions, plus chambers and threads), **The Body**, **Astrology** (+ a real
 natal chart at `#/chart`), **Vault**, and the tools row — **Journal**, **Search**,
 **The Record**, **Settings**. Plus `#/hall`, the five reading plans, reached from
-the Library and hidden from the nav so the religious section has one front door.
+the Library and hidden from the nav.
+
+**The nav is five clusters, and The Library is one of them.** It used to sit inside
+"The Book" between the secular 366 and the sky, which made scripture read as one
+more chapter of the same book. It is now its own top-level tab, with `#/hall` and
+`#/threads` lighting it rather than the Book. The matching half of that change is in
+Today: when `FL.prefs.canonLines` is off, the morning has **no reading step and no
+reading section at all** — not even a pointer. `todayCanonQuiet()` used to draw a
+faint "there is a Library, when you want it" line into the reading slot, which spent
+a step of the morning re-offering something the reader had already declined at first
+run. It is deleted. Do not reintroduce it: the tab is the discoverability, and the
+promise is that nobody is walked into the religious rooms.
 
 ## Origin
 
@@ -58,7 +69,9 @@ precede every view; `store.js` → `plan.js` → `sun.js` → `text-store.js` �
 
 | File | Declares |
 |---|---|
-| `js/data-year.js` | `MONTHS`, `Q` — the 366. Entries are `[day, quote, source, tradition, note?]` |
+| `js/data-year.js` | `MONTHS`, `Q` — the Philosophers 366. Entries are `[day, quote, source, tradition, note?]` |
+| `js/data-year-makers.js` | `MONTHS_MAKERS`, `Q_MAKERS` — the second track. **31 of 366 written** |
+| `js/tracks.js` | `FL_TRACKS`, `flActiveTrack`, `trackQ`, `trackMonths` — the corpus swap |
 | `js/data-practice.js` | `PRACTICES`, `REFLECTIONS` |
 | `js/data-intent.js` | `INTENTS`, `EXAMEN_QUESTIONS`, `LOCAL_*` — recovered from the `.jsx` |
 | `js/data-life.js` · `data-body.js` · `data-astro.js` · `data-canon.js` | content |
@@ -210,10 +223,36 @@ April is heavily Laozi, where "attributed to" is doing a lot of load-bearing wor
 the `tradition` field in `js/data-year.js` after March's audit — an earlier "94%"
 here was never measured; it was 305 before March moved days 2 and 4 to Wisdom) with no Buddhist, Hindu, Jewish, Christian,
 Islamic, Sikh, Sufi, Zen or Indigenous voices, in an app whose Library teaches ten
-works across seven traditions. The `.jsx` drew on 17. Track switching is already
-wired: `FL.prefs.track` and the `<track>:<m>-<d>` prefix in `FL.kept`. Same twelve
-monthly themes so the tracks are interchangeable day for day; cite to the Phase 5
-standard from the start.
+works across seven traditions. The `.jsx` drew on 17.
+
+**Track switching is now fully wired, and the first second-track is The Makers, not
+The Canons.** `js/tracks.js` holds the registry and the corpus swap — `trackQ()` and
+`trackMonths()` replaced every direct read of `Q` and the track-specific reads of
+`MONTHS`, so a third track is a data file and one registry entry. `FL.prefs.track`
+had namespaced the vault keys for a long time but nothing ever swapped the corpus;
+`dayEntry()` always read the one global `Q`.
+
+**A track is only offered once all 366 days exist.** `flTrackComplete()` counts
+them, `flTracksOffered()` filters on it, and `flActiveTrack()` falls back to the
+Philosophers when the preference names an unfinished track — which is what lets a
+half-written corpus sit in the repo safely, because `dayEntry()` treats a missing
+day as a loud data bug and is right to.
+
+**The Makers: 31 of 366.** January is written and in SOURCES.md. Method is a
+workflow per month: three curators propose sixteen candidates each in different
+domains, a verifier rules on every one, an editor selects and dates from survivors
+only. It is built *clean*, not audited clean afterwards — motivational quotation is
+the most corrupted body of text in English and auditing it later would be the
+Philosophers' January twelve times over. Two things the January run established:
+the source line must lead with the maker's name, because `dayEntry()` returns
+element 2 as the byline and there is no author field; and the pool leans American
+unless the curators are explicitly told to recruit outside the Paris Review and the
+Academy of Achievement, which the script now requires. Sixteen verified survivors
+are held for later months rather than thrown away.
+
+The Canons remains unstarted and is now a *third* track; same twelve monthly themes
+so the tracks are interchangeable day for day; cite to the Phase 5 standard from the
+start.
 
 **Also outstanding:**
 - Enable GitHub Pages, then verify on the real shared origin that the prefix-filtered
