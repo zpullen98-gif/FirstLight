@@ -238,7 +238,7 @@ Philosophers when the preference names an unfinished track — which is what let
 half-written corpus sit in the repo safely, because `dayEntry()` treats a missing
 day as a loud data bug and is right to.
 
-**The Makers: 151 of 366.** January through June are written, bar May and in SOURCES.md. Method is a
+**The Makers: 151 of 366.** January, February, March, April and June are written and
 workflow per month: three curators propose sixteen candidates each in different
 domains, a verifier rules on every one, an editor selects and dates from survivors
 only. It is built *clean*, not audited clean afterwards — motivational quotation is
