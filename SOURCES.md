@@ -477,3 +477,56 @@ with four notes over a hundred words. `js/ui-today.js` renders a note as an
 untruncated div directly beneath the quotation, so a 116-word note prints under an
 eight-word proverb. Every March note was cut to the register of the first two months
 and the full argument moved here, which is what this file is for.
+
+---
+
+# The Makers — the second track
+
+A second 366, motivational and inspirational, standing day for day beside the
+Philosophers. It is being built **clean rather than audited clean**: no line enters
+`js/data-year-makers.js` until a verifier has found it in a real source. The reason
+is that motivational quotation is the most corrupted body of text in English, and
+auditing it afterwards would be the January work of the first track repeated twelve
+times over.
+
+The method per month: three curators propose sixteen candidates each in different
+domains (letters and stage; sport and service; science and craft), a verifier rules
+on every candidate independently — VERIFIED, CORRECTED, HEDGE or REJECT — and an
+editor selects, dates and balances the month from the survivors only. Over-proposing
+is deliberate. Rejection is the expected outcome for a good share of candidates and
+the editor is explicitly forbidden to pad the month to reach the day count.
+
+## January — 31 of 31
+
+47 of 48 candidates survived verification; 31 were used. No person appears twice.
+Fifteen women, sixteen men; five entries from the nineteenth century, six from
+1901–1947, the rest from 1973 on.
+
+**One rule was added because of how this app renders a card.** `dayEntry()` returns
+element 2 as `s`, the byline, and there is no separate author field — so a source
+line naming only a book or an interview series prints **anonymously**. Twenty-two of
+the verifier's source lines did that. Every one now leads with the maker's name.
+This changes no claim; it makes the claim legible. Two were worse than anonymous:
+
+- **Day 29** read "Pierre Curie, trans. Charlotte and Vernon Kellogg". *Pierre
+  Curie* is the **title** of the book **Marie Curie** wrote about her husband, so
+  the card would have named the wrong Curie under his widow's sentence.
+- **Day 10** led with Philip Schieber, who is the *reporter*. The speaker is Grace
+  Hopper, and the speaker leads.
+
+**Day 10 is a substitution, not a verification.** The candidate — "The only phrase
+I've ever disliked is, 'Why, we've always done it that way'" — could not be
+established; every search hit traces back to a single textbook's unsourced
+pull-quote. What ships is the same thought in Hopper's own words, from a dated
+lecture with a named reporter.
+
+Three misattributions found and kept out, recorded so nobody proposes them again:
+**"A ship in port is safe"** is John A. Shedd, *Salt from My Attic* (1928), not
+Grace Hopper. **"I attribute my success to this: I never gave or took any excuse"**
+is not in *Florence Nightingale to Her Nurses*. And Wooden attributes **"Make each
+day your masterpiece"** to his father, not to himself.
+
+Sixteen verified survivors went unused and none was cut for provenance — they are
+held for the months they actually fit, chiefly March (Discipline and Habit) and
+April (Renewal and the Way).
+
