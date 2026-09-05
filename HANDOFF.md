@@ -70,7 +70,7 @@ precede every view; `store.js` → `plan.js` → `sun.js` → `text-store.js` �
 | File | Declares |
 |---|---|
 | `js/data-year.js` | `MONTHS`, `Q` — the Philosophers 366. Entries are `[day, quote, source, tradition, note?]` |
-| `js/data-year-makers.js` | `MONTHS_MAKERS`, `Q_MAKERS` — the second track. **60 of 366 written** |
+| `js/data-year-makers.js` | `MONTHS_MAKERS`, `Q_MAKERS` — the second track. **91 of 366 written** |
 | `js/tracks.js` | `FL_TRACKS`, `flActiveTrack`, `trackQ`, `trackMonths` — the corpus swap |
 | `js/data-practice.js` | `PRACTICES`, `REFLECTIONS` |
 | `js/data-intent.js` | `INTENTS`, `EXAMEN_QUESTIONS`, `LOCAL_*` — recovered from the `.jsx` |
@@ -238,7 +238,7 @@ Philosophers when the preference names an unfinished track — which is what let
 half-written corpus sit in the repo safely, because `dayEntry()` treats a missing
 day as a loud data bug and is right to.
 
-**The Makers: 60 of 366.** January and February are written and in SOURCES.md. Method is a
+**The Makers: 91 of 366.** January, February and March are written and in SOURCES.md. Method is a
 workflow per month: three curators propose sixteen candidates each in different
 domains, a verifier rules on every one, an editor selects and dates from survivors
 only. It is built *clean*, not audited clean afterwards — motivational quotation is

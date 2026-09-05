@@ -582,3 +582,41 @@ Letters — Alexievich, Akhmatova, Adichie, Heaney, Ōe, Rilke — that lost onl
 February already had six Letters days. On this evidence September (Justice and
 Service) is already half written.
 
+## March — 31 of 31
+
+50 verified survivors, 31 used, nothing padded. Four of them came from January's
+held-back pool and were not re-verified: Butler opens the month, Wooden sits at day
+14. Eight Americans against the cap of twelve (five counting by birth rather than
+citizenship — Karikó, Albers and Pépin were born and trained in Hungary, Germany and
+France), two British, and twenty-one neither. Seventeen women to fourteen men.
+
+**The Enterprise tag came out empty for the third month running**, and the editor
+correctly diagnosed it as a briefing failure rather than an editorial choice: not one
+of the fifty survivors carried the tag, because none of the three curator lanes
+covered it. A fourth lane now exists for it — founders, cooperative organisers,
+publishers, restaurateurs, people who ran an institution for decades — with two
+standing warnings attached. Business quotation is the most corrupted corner of an
+already corrupted genre, and the billionaire-founder register is explicitly out of
+scope: this track is about the work, not about scale.
+
+**One duplicate resolved.** Octavia Butler appeared twice in the pool as two verifier
+records of the same quotation carrying different source lines. The fuller ruling
+ships — it pins page 141 of *Bloodchild and Other Stories* and explicitly strikes the
+"first published in *Writers of the Future* vol. IX (1993)" clause as never
+scan-verified. The 1993 first printing is real enough to record here and not solid
+enough to print on a card.
+
+**Fourteen notes, and the same pattern as February holds**: they are doing attribution
+or edit-declaration work, not decoration. Four carry a hedge the verifier required
+(Ando, Kurosawa, Parker, Kipchoge). Three declare an edit the almanac itself made —
+Keller's dropped "In such cases", and the almanac's own opening capital on the Kafka
+and Albers entries. Four supply an antecedent the card would otherwise lack: Elena
+Reygadas's "they" is her daughters; Natalia Ginzburg's "master" is her vocation;
+Agatha Christie's "No," answers a question about heaven-born genius; and Sister Mary
+Aloysius needs identifying at all. Tenzing Norgay's declares that he did not write
+English and the book was a collaboration.
+
+Eight strong entries go forward untouched, held for fit rather than for any doubt.
+Diane Nash's nonviolence-workshop line is the strongest of them and belongs to
+September, with Marta's Le Havre speech beside it.
+
