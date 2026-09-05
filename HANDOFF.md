@@ -238,16 +238,22 @@ Philosophers when the preference names an unfinished track — which is what let
 half-written corpus sit in the repo safely, because `dayEntry()` treats a missing
 day as a loud data bug and is right to.
 
-**The Makers: 151 of 366.** January, February, March, April and June are written and
-workflow per month: three curators propose sixteen candidates each in different
-domains, a verifier rules on every one, an editor selects and dates from survivors
-only. It is built *clean*, not audited clean afterwards — motivational quotation is
+**The Makers: 151 of 366.** January, February, March, April and June are written
+and recorded in SOURCES.md; May is in progress. Method is a workflow per month:
+four curators propose in different domains, a verifier rules on every candidate,
+and an editor selects and dates from the survivors only. It is built *clean*, not audited clean afterwards — motivational quotation is
 the most corrupted body of text in English and auditing it later would be the
 Philosophers' January twelve times over. Two things the January run established:
 the source line must lead with the maker's name, because `dayEntry()` returns
 element 2 as the byline and there is no author field; and the pool leans American
 unless the curators are explicitly told to recruit outside the Paris Review and the
-Academy of Achievement, which the script now requires. Sixteen verified survivors
+Academy of Achievement, which the script now requires. A third rule came out of
+March: the Enterprise tag sat empty for three months because no curator lane
+covered it, so there is a fourth lane for it now and the editor must say out loud
+when a tag comes up empty. A fourth came out of running April, May and June at
+once: concurrent months cannot see each other's picks, so check for a repeated
+maker before writing a batch in, and resolve it from the month's own held-back
+pool rather than re-researching. Sixteen verified survivors
 are held for later months rather than thrown away.
 
 The Canons remains unstarted and is now a *third* track; same twelve monthly themes
