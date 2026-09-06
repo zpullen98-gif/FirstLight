@@ -56,6 +56,10 @@ window.addEventListener('fl:storage', function (e) {
 /* ——— routing ———
    "#/hall/bible" -> {view:'hall', arg:'bible'} */
 function parseHash() {
+  /* "#view" is the skip link's fragment, not a route. A hash with no slash
+     leaves the page where it is; treating it as a route sent every keyboard
+     reader from the Library back to Today. */
+  if (location.hash && location.hash.charAt(1) !== '/') return flRoute;
   var h = (location.hash || '').replace(/^#\/?/, '');
   var parts = h.split('/').filter(Boolean);
   var view = parts[0] || 'today';
@@ -71,6 +75,7 @@ function go(view, arg) {
 }
 
 var flRoute = { view: 'today', arg: null };
+var flRendered = false;   // true once the first navigate() has painted a view
 
 /* Five clusters, because eleven equal items is not a menu — it is a list, and
    on a 375px screen it wrapped to three ragged rows with the Vault orphaned on
@@ -173,8 +178,8 @@ document.addEventListener('keydown', function (e) {
 function flOnboardHTML() {
   return '<div class="kick">First Light</div>' +
     '<h1>Two minutes, most mornings</h1>' +
-    '<p class="note">Nothing leaves this phone. No account, no manager, no feed — what you write ' +
-    'stays in this browser, and exports to a file you own.</p>' +
+    '<p class="note">Your words never leave this device; if you are signed in, a count of mornings and your streak is recorded. ' +
+    'No manager, no feed: what you write stays in this browser, and exports to a file you own.</p>' +
     '<div class="pacer-disc" id="pacer-disc" aria-hidden="true"></div>' +
     '<div class="pacer-label" id="pacer-label">Ready</div>' +
     '<div class="ds" id="pacer-count"></div>' +
@@ -242,9 +247,12 @@ function render() {
 
 function navigate() {
   var next = parseHash();
+  /* the skip link: carry focus to the main column and change nothing else */
+  if (next === flRoute && flRendered) { var col = document.getElementById('view'); if (col) col.focus(); return; }
   var viewChanged = next.view !== flRoute.view;
   flRoute = next;
   render();
+  flRendered = true;
   if (viewChanged) {
     window.scrollTo(0, 0);
     /* Move focus to the new content. Without this a keyboard or screen-reader user

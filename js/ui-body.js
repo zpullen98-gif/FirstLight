@@ -146,7 +146,8 @@ FL_VIEWS.body = {
         '</div>' +
         '<div class="vidmeta">' +
           '<div class="vidframe-label">' + esc(v.frame) + '</div>' +
-          '<div class="vidtitle" id="vt-' + i + '">…</div>' +
+          '<div class="vidtitle" id="vt-' + i + '">' +
+            (v.title ? esc(v.title) + (v.author ? '  ·  ' + esc(v.author) : '') : '…') + '</div>' +
           '<div class="vidnote">' + esc(v.note) + '</div>' + startNote +
         '</div></div>';
     }
@@ -211,7 +212,7 @@ FL_VIEWS.body = {
       '<p class="px" style="color:var(--faint);margin-bottom:16px">Patañjali’s <em>Yoga Sūtras</em> set out eight limbs — <em>ashtanga</em> — of which the postures are only the third. The sequence matters: ethics first, then the body, then the breath, then the mind.</p>' +
       limbs +
       '<div class="label">The practices</div>' +
-      '<p class="px" style="color:var(--faint);margin-bottom:16px">Tap any practice to open it. Titles are drawn live from YouTube; the videos belong to their creators.</p>' +
+      '<p class="px" style="color:var(--faint);margin-bottom:16px">Tap any practice to open it. The videos belong to their creators; the titles were checked against YouTube and are refreshed when there is a connection.</p>' +
       vids +
       '<div class="label">For the body this trade builds</div>' +
       '<p class="px" style="color:var(--faint);margin-bottom:16px">The sequences above are the three minute version of this ground, and they run with no connection at all. These are the long version, taught by people who teach it for a living: the sole and the fascia, the calf pump, the hinge that saves a back on a keg, and the wind down for a night that ends at sunrise.</p>' +
@@ -223,8 +224,12 @@ FL_VIEWS.body = {
     BODY_VIDEOS.concat(TRADE_VIDEOS).forEach(function (v, i) {
       fetchYouTubeTitle(v.id).then(function (info) {
         var el = document.getElementById('vt-' + i);
-        if (el) el.textContent = info.title + (info.author ? '  ·  ' + info.author : '');
+        /* the baked title is already on the card; repaint only a changed one */
+        if (el && info.title && (info.title !== v.title || info.author !== (v.author || ''))) {
+          el.textContent = info.title + (info.author ? '  ·  ' + info.author : '');
+        }
       }).catch(function () {
+        if (v.title) return;   /* a baked title says nothing about the network */
         var el = document.getElementById('vt-' + i);
         /* An honest offline state, not a permanent "Loading…". The framing line
            below the title still says what the practice is for, so the card remains

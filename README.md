@@ -2,8 +2,11 @@
 
 A year of mornings, in an app that works on a plane.
 
-Three hundred sixty-six dated voices from the Stoics, the Taoists, and the Confucian
-tradition — one for every day of the year, including the leap day. Five scriptures
+Two years of dated voices, one for every day including the leap day, on two tracks:
+the Philosophers (the Stoics, the Taoists, and the Confucian tradition) and the
+Makers (writers, builders, athletes and organisers on the making of things), on the
+same twelve monthly themes, so a reader can switch mid-year and land on the same
+subject. Five scriptures
 read through across a year: the Bible, the Qur'an, the Rig Veda, the Dhammapada, and
 the Tanakh, each with its full text. A goal ladder at five altitudes, from the atoms
 of a day to the milestones of a year. A chapter on the body as every tradition here

@@ -730,3 +730,24 @@ anonymous: day 29 would have printed "Pierre Curie" as the author of a sentence 
 **Marie** Curie — that being the title of the book she wrote about her husband — and
 day 10 led with Philip Schieber, the reporter, rather than Grace Hopper, who said it.
 
+
+## The Philosophers, April to December: three corrections ahead of the audit
+
+Three entries were corrected on 5 September 2026 under the file's own rules, without
+opening the wider April to December audit, which remains the next content job (275
+entries, 59 of them carrying a bare name and no note).
+
+**1 April**, "Nature does not hurry, yet everything is accomplished", was flat
+"Laozi". The shipped Legge text of the Tao Te Ching contains neither "hurry" nor
+"everything is accomplished"; the line is a modern gloss on chapter 37. Now
+"Attributed to Laozi" with a note saying so. The Taoist tag stays: hedged, not removed.
+
+**30 May**, the fish proverb, keeps "Chinese proverb" and gains a note: the origin is
+unattested, the earliest printing found is Anne Isabella Thackeray Ritchie's *Mrs.
+Dymond* (1885), and no Chinese source has been located.
+
+**12 December**, "He who conquers others is strong; he who conquers himself is
+mighty", was hedged "Attributed to Laozi" although Legge's chapter 33, which the
+Library carries, has the passage with "overcomes" for "conquers". Cited flat as
+Tao Te Ching 33 with a note on the wording; the quotation itself stands, because the
+drift does not damage the meaning.

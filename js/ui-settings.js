@@ -70,16 +70,52 @@ FL_ACTS.clearLocation = function () {
   toast('Back to estimating from your time zone.');
 };
 
-FL_ACTS.exportRecord = function () {
-  var blob = new Blob([flExport()], { type: 'application/json' });
+function flDownloadRecord(json, name) {
+  var blob = new Blob([json], { type: 'application/json' });
   var url = URL.createObjectURL(blob);
   var a = document.createElement('a');
-  a.href = url; a.download = flExportFilename();
+  a.href = url; a.download = name;
   document.body.appendChild(a); a.click(); document.body.removeChild(a);
   /* Revoke late: Safari has been known to cancel the download if the URL dies
      before it has finished reading the blob. */
   setTimeout(function () { URL.revokeObjectURL(url); }, 30000);
   announce('Record exported.');
+}
+
+/* An installed iPhone app does not reliably honour a[download] on a blob URL,
+   and this is the only way a year of writing leaves the device. When the app is
+   running installed and the share sheet can take a file, the sheet goes first;
+   a dismissed sheet is not an error, and anything else falls through to the
+   download. "Copy the record" beside it is the path of last resort. */
+function flInstalled() {
+  try {
+    return navigator.standalone === true ||
+      (window.matchMedia && window.matchMedia('(display-mode: standalone)').matches);
+  } catch (e) { return false; }
+}
+
+FL_ACTS.exportRecord = function () {
+  var json = flExport(), name = flExportFilename();
+  try {
+    if (flInstalled() && navigator.share && navigator.canShare && typeof File === 'function') {
+      var file = new File([json], name, { type: 'application/json' });
+      if (navigator.canShare({ files: [file] })) {
+        navigator.share({ files: [file], title: name })
+          .then(function () { announce('Record shared.'); })
+          .catch(function (err) { if (!err || err.name !== 'AbortError') flDownloadRecord(json, name); });
+        return;
+      }
+    }
+  } catch (e) {}
+  flDownloadRecord(json, name);
+};
+
+FL_ACTS.copyRecord = function () {
+  var json = flExport();
+  var done = function () { toast('The record is on the clipboard. Paste it into a note or a message you can open on your next phone, and import it there.', 9000); };
+  var fail = function () { toast('The clipboard could not be reached. Export instead.'); };
+  if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(json).then(done, fail);
+  else fail();
 };
 
 FL_ACTS.importRecord = function () {
@@ -220,7 +256,7 @@ FL_VIEWS.settings = {
       '<div class="label">Where you are</div>' +
       '<div class="card">' + located +
         '<p class="vidnote" style="margin-top:10px">Used only on this device, only to compute the hour of the sun. ' +
-        'It is never sent anywhere — there is nowhere for it to be sent.</p>' +
+        'It never leaves this device; if you are signed in, only a count of mornings and your streak is recorded.</p>' +
       '</div>' +
 
       '<div class="label">Your record</div>' +
@@ -230,10 +266,12 @@ FL_VIEWS.settings = {
         '<div class="astrorow"><span class="k">Longest streak</span> ' + flLongestStreak() + '</div>' +
         '<div class="astrorow"><span class="k">Kept voices</span> ' + totalKept + '</div>' +
         '<div class="astrorow"><span class="k">Goals checked</span> ' + totalChecks + '</div>' +
-        '<p class="px" style="margin:14px 0 10px;color:var(--faint)">Everything lives on this device only. ' +
+        '<p class="px" style="margin:14px 0 10px;color:var(--faint)">Your words never leave this device; if you are signed in, a count of mornings and your streak is recorded. ' +
+        'Anyone who taps your name on this device can read this room, so use your own phone for what is yours alone. ' +
         'Export before you change phones, clear your browser, or do anything you might regret.</p>' +
         '<button class="btn" data-act="exportRecord">Export</button> ' +
-        '<button class="keep" data-act="importRecord">Import a backup</button>' +
+        '<button class="keep" data-act="importRecord">Import a backup</button> ' +
+        '<button class="keep" data-act="copyRecord">Copy the record</button>' +
         '<input type="file" id="fl-import" accept="application/json,.json" class="sr-only" data-change="importChosen">' +
         '<p class="vidnote" style="margin-top:10px">Importing merges — it adds what is missing and never deletes what is here.</p>' +
       '</div>' +
@@ -280,6 +318,9 @@ FL_VIEWS.settings = {
         'wrong byline, but the byline should not be wrong.</p>' +
         '<div class="astrorow" style="margin-top:12px"><span class="k">Audited so far</span> ' +
           esc(auditedMonths()) + '</div>' +
+        (flActiveTrack().id === 'makers'
+          ? '<p class="vidnote" style="margin-top:10px">Every line in The Makers was verified against its source before it entered the year.</p>'
+          : '') +
         '<p class="vidnote" style="margin-top:10px">The full record of what was checked and what ' +
         'changed is in SOURCES.md in the repository.</p>' +
       '</div>' +
@@ -295,6 +336,6 @@ FL_VIEWS.settings = {
       '<p class="px" style="margin-top:26px;text-align:center;color:var(--faint)">' +
         '<a class="readmini" href="#/clear">For anyone thinking about their drinking — a room of its own.</a></p>' +
 
-      '<p class="mintro" style="margin-top:16px">First Light keeps nothing about you anywhere but this device.</p>';
+      '<p class="mintro" style="margin-top:16px">Your words never leave this device; if you are signed in, a count of mornings and your streak is recorded.</p>';
   }
 };

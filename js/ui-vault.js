@@ -64,7 +64,7 @@ FL_VIEWS.vault = {
   label: 'Vault',
   title: 'The Vault',
   render: function () {
-    var prefix = (FL.prefs.track || 'philosophers') + ':';
+    var prefix = flActiveTrack().id + ':';
     var keys = Object.keys(FL.kept).filter(function (k) { return k.indexOf(prefix) === 0; });
 
     /* Keys arrive in insertion order, which is the order they were kept. Sorting by

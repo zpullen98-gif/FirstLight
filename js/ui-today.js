@@ -17,6 +17,7 @@
 
 var todayStep = 0;
 var todayReturnSeen = false;   // the return card shows once per sitting
+var todayKeptFired = null;     // the day key the kept event last went out for
 
 /* After three or more missed days, the first thing Today says is not a broken
    number — it is a door. The record keeps what you kept; the year kept your
@@ -38,7 +39,10 @@ FL_ACTS.returnBegin = function () { todayReturnSeen = true; todayStep = 0; rende
 var todayExamenKind = 'day';   // 'day' (Seneca's three) | 'shift' (the debrief)
 var todayForceMode = null;     // 'morning' | 'evening' | null (= follow the sun)
 
-function trackKey(m, d) { return (FL.prefs.track || 'philosophers') + ':' + m + '-' + d; }
+/* Keyed by the track actually being read, not the raw preference: flActiveTrack()
+   falls back to the Philosophers for a track that is unknown or unfinished, and
+   a voice kept under that fallback must be filed where it was read. */
+function trackKey(m, d) { return flActiveTrack().id + ':' + m + '-' + d; }
 
 /* Entries are [day, quote, source, tradition, note?].
 
@@ -286,9 +290,19 @@ function todayGuided(m, d, e, doy, p) {
 
   if (todayStep >= steps.length) {
     var streak = flStreak();
+    /* One event per day, the first time the kept state renders. The shared
+       layer listens for this rather than counting steps from outside, and the
+       day latch keeps "Walk it again" and every re-render from sending it twice. */
+    var keptDay = flToday();
+    if (todayKeptFired !== keptDay) {
+      todayKeptFired = keptDay;
+      try {
+        window.dispatchEvent(new CustomEvent('fl:morning-kept', { detail: { day: FL.days.length, streak: streak } }));
+      } catch (e) {}
+    }
     /* one line the reader knows by heart goes onto the floor with them,
        rotating through the by-heart shelf by the day */
-    var prefix = (FL.prefs.track || 'philosophers') + ':';
+    var prefix = flActiveTrack().id + ':';
     var known = Object.keys(FL.byheart).filter(function (k) {
       return FL.byheart[k] === 2 && k.indexOf(prefix) === 0;
     }).sort();
@@ -326,7 +340,7 @@ function todayGuided(m, d, e, doy, p) {
 
   return returnCard +
     '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
-    '<h1>' + esc(MONTHS[m - 1][1]) + '</h1>' +
+    '<h1>' + esc(trackMonths()[m - 1][1]) + '</h1>' +
     '<div class="steprow">' + dots + '</div>' +
     '<div class="label" style="margin-top:8px">' + esc(s.label) + '</div>' +
     s.body() +
@@ -397,8 +411,8 @@ function todayPage(m, d, e, doy, p) {
   return '<div class="disc" aria-hidden="true"></div>' +
     '<div class="kick">' + esc(flShiftedNow().toLocaleDateString(undefined, { weekday: 'long', month: 'long', day: 'numeric' })) + '</div>' +
     '<div class="streakline">' + esc(count) + '</div>' +
-    '<h1>' + esc(MONTHS[m - 1][1]) + '</h1>' +
-    '<p class="note">' + esc(MONTHS[m - 1][2]) + '</p>' +
+    '<h1>' + esc(trackMonths()[m - 1][1]) + '</h1>' +
+    '<p class="note">' + esc(trackMonths()[m - 1][2]) + '</p>' +
     todayVoice(m, d, e) +
     '<p class="refl" style="margin-top:10px">' + esc(TURN_PROMPTS[doy % TURN_PROMPTS.length]) + '</p>' +
     '<div class="label">Today’s practice</div>' + todayPractice(p) +

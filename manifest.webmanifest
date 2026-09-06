@@ -1,7 +1,7 @@
 {
   "name": "First Light — A Year of Mornings",
   "short_name": "First Light",
-  "description": "A year of mornings: 366 voices, five canons read through, a practice for the body, and a record of your own.",
+  "description": "A year of mornings: 732 voices on two tracks, five canons read through, a practice for the body, and a record of your own.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
@@ -17,7 +17,7 @@
   ],
   "shortcuts": [
     { "name": "The Year", "url": "./#/year" },
-    { "name": "The Study Hall", "url": "./#/hall" },
+    { "name": "The year's readings", "url": "./#/hall" },
     { "name": "The Vault", "url": "./#/vault" }
   ]
 }

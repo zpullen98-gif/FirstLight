@@ -234,6 +234,15 @@ h1 {
 }
 .keep:hover, .btn-ghost:hover { border-color: var(--accent); color: var(--accent); }
 .keep.on { border-color: var(--accent); color: var(--accent); }
+/* The touch floor. These pills keep their small type but stand 44px tall, the
+   same floor the step dots were given: at 22px, "Mark read" and "Keep" were the
+   things a wet thumb missed at 1am. inline-flex centres the label in the taller
+   box, and the margins hold 8px between neighbours. */
+.keep, .readmini, .tick {
+  min-height: 44px; box-sizing: border-box; display: inline-flex;
+  align-items: center; justify-content: center; vertical-align: middle;
+}
+.keep + .keep, .btn + .keep, .keep + .btn, .readmini + .readmini, .readmini + .tick, .tick + .tick { margin-left: 8px; }
 
 .btn {
   background: var(--ink); color: var(--bg); border: none; cursor: pointer;
