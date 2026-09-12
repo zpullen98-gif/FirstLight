@@ -34,6 +34,7 @@ before `plan.js` before `sun.js`.
 | `js/data-practice.js` | `PRACTICES`, `REFLECTIONS` |
 | `js/data-intent.js` | `INTENTS`, `EXAMEN_QUESTIONS`, `LOCAL_*` — recovered from `first-light.jsx` |
 | `js/data-uplift.js` | `UPLIFT` (film lines and voices for the morning page), `TEACHINGS` (three per month) |
+| `js/data-move.js` | `MOVE_WEEK` (seven weekday focuses), `MOVES` (21 timed sessions, the SEQUENCES shape), `moveToday`/`moveLevel`/`moveFor` |
 | `js/data-life.js` | `LIFE` — the five-tier goal ladder |
 | `js/data-body.js` | `BODY_TEACH`, `EIGHT_LIMBS`, `BODY_VIDEOS` |
 | `js/data-astro.js` | `SIGNS`, `A_HISTORY`, `A_ELEMENTS`, `A_MODES`, `A_PLANETS`, `A_HOUSES`, `A_ASPECTS`, `A_HOWTO`, `A_RELATIONS` |
