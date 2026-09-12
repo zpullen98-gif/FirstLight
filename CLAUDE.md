@@ -33,6 +33,7 @@ before `plan.js` before `sun.js`.
 | `js/data-year.js` | `MONTHS`, `Q` — the 366, extracted verbatim from the artifact |
 | `js/data-practice.js` | `PRACTICES`, `REFLECTIONS` |
 | `js/data-intent.js` | `INTENTS`, `EXAMEN_QUESTIONS`, `LOCAL_*` — recovered from `first-light.jsx` |
+| `js/data-uplift.js` | `UPLIFT` (film lines and voices for the morning page), `TEACHINGS` (three per month) |
 | `js/data-life.js` | `LIFE` — the five-tier goal ladder |
 | `js/data-body.js` | `BODY_TEACH`, `EIGHT_LIMBS`, `BODY_VIDEOS` |
 | `js/data-astro.js` | `SIGNS`, `A_HISTORY`, `A_ELEMENTS`, `A_MODES`, `A_PLANETS`, `A_HOUSES`, `A_ASPECTS`, `A_HOWTO`, `A_RELATIONS` |
