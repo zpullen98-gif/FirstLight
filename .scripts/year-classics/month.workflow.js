@@ -212,7 +212,7 @@ const REFUTE_PROMPT = (verdicts) => `${COMMON}
 YOUR JOB: REFUTE. A verifier passed these lines; try to break each one. Default to refuted=true when you are not sure. The lines, as the verifier would ship them:
 ${JSON.stringify(verdicts.map(v => ({ id: v.id, quote: v.quote, source: v.source, tradition: v.tradition, note: v.note, evidence: v.evidence })), null, 1)}
 
-For each, check: is the wording that of the named edition or translation (translation drift is this track's main failure mode; compare against the named translator's text if you can reach it); is the locator right; is the attribution right (the misattribution list in the brief names the famous traps); is the speaker named where it is a character's line; is the author banned or at cap (run shipped.js); is the line already shipped; is it in scope (no scripture, film, lyric, proverb, business, oratory, post-1999); is it publishable; does the source line lead with the name, carry no dash, and fit 140 characters; is the tag the form of the work. If you find a better or correct citation, put it in betterCitation.
+For each, check: is the wording that of the named edition or translation (translation drift is this track's main failure mode; compare against the named translator's text if you can reach it); is the locator right; is the attribution right (the misattribution list in the brief names the famous traps); is the speaker named where it is a character's line; is the author banned or at cap (run shipped.js); is the line already shipped; is it in scope (no scripture, film, lyric, proverb, business, oratory, post-1999); is it publishable; does the source line lead with the name, carry no dash, and fit 140 characters; is the tag the form of the work. If you find a better or correct citation, put it in betterCitation. A line the verifier ruled HEDGE is attacked like any other, since a hedge may ship and may ride the carry: try to locate it after all (then give the citation), try to show it is a known misattribution or a paraphrase minted later (then it is refuted), and check that its note says plainly what is and is not known. March's one hedge reached the carry without ever meeting a refuter.
 WRITE each refutation to ${WORK}/refutations/<id>.json BEFORE you return. Then return all of them through the schema.`
 
 const results = await pipeline(
@@ -220,7 +220,7 @@ const results = await pipeline(
   (ids) => agent(VERIFY_PROMPT(ids, false), { label: `verify:${ids[0]}..`, phase: 'Verify', schema: VERDICTS, effort: 'high' }),
   async (vr, ids) => {
     const verdicts = (vr && vr.verdicts) || []
-    const pass = verdicts.filter(v => v.verdict === 'VERIFIED' || v.verdict === 'CORRECTED')
+    const pass = verdicts.filter(v => v.verdict === 'VERIFIED' || v.verdict === 'CORRECTED' || v.verdict === 'HEDGE')
     if (!pass.length) return { verdicts, refutations: [] }
     const rr = await agent(REFUTE_PROMPT(pass), { label: `refute:${ids[0]}..`, phase: 'Refute', schema: REFUTATIONS, effort: 'high' })
     return { verdicts, refutations: (rr && rr.refutations) || [] }
@@ -289,7 +289,7 @@ The month came up ${edit.shortfall} short after verification. Read ${WORK}/propo
     chunk(more.map(c => c.id), 4),
     (ids) => agent(VERIFY_PROMPT(ids, false).replace('proposals-*.json', 'proposals-*.json (including proposals-' + lane.key + '-again.json)'), { label: `verify(again):${ids[0]}..`, phase: 'Verify', schema: VERDICTS, effort: 'high' }),
     async (vr, ids) => {
-      const pass = ((vr && vr.verdicts) || []).filter(v => v.verdict === 'VERIFIED' || v.verdict === 'CORRECTED')
+      const pass = ((vr && vr.verdicts) || []).filter(v => v.verdict === 'VERIFIED' || v.verdict === 'CORRECTED' || v.verdict === 'HEDGE')
       if (!pass.length) return { refutations: [] }
       const rr = await agent(REFUTE_PROMPT(pass), { label: `refute(again):${ids[0]}..`, phase: 'Refute', schema: REFUTATIONS, effort: 'high' })
       return { refutations: (rr && rr.refutations) || [] }

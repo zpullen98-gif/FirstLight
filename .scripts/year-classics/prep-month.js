@@ -87,7 +87,7 @@ const refutationOf = (id) => readJson(path.join(WORK, 'refutations', id + '.json
 const reverifyOf = (id) => readJson(path.join(WORK, 'reverify', id + '.json'), null);
 
 const needVerdict = proposals.filter(c => !verdictOf(c.id)).map(c => c.id);
-const needRefute = proposals.filter(c => { const v = verdictOf(c.id); return v && (v.verdict === 'VERIFIED' || v.verdict === 'CORRECTED') && !refutationOf(c.id); }).map(c => c.id);
+const needRefute = proposals.filter(c => { const v = verdictOf(c.id); return v && (v.verdict === 'VERIFIED' || v.verdict === 'CORRECTED' || v.verdict === 'HEDGE') && !refutationOf(c.id); }).map(c => c.id);
 const needReverify = proposals.filter(c => { const r = refutationOf(c.id); return r && r.refuted && !reverifyOf(c.id); }).map(c => c.id);
 const hasMonth = fs.existsSync(path.join(WORK, 'month.json'));
 

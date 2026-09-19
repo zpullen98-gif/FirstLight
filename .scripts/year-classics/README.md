@@ -15,6 +15,8 @@ rules live in `prep-month.js` (they are written into every `brief.json`) and in
    record; if the script must change, change it here and copy again. Args:
    `{ month, MM, root: 'C:/Users/zpull/FirstLight', todo }` where `todo` is
    `todo.json` plus `days` (the month's length; 29 for February).
+   After any change to the script, copy it again: the run copy must be
+   byte-identical (`cmp`) to the repo file.
    Four curator lanes of sixteen, then verifier, refuter, re-verifier, editor,
    critic: about forty agents and an hour. Agents write to `work/MM/` before
    they return, so a rate-limited run resumes from disk through step 1.
