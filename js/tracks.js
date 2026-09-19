@@ -84,7 +84,10 @@ function flTracksOffered() {
    beside ?nosw in CLAUDE.md. */
 function flPreviewTrack() {
   try {
-    var id = new URLSearchParams(location.search).get('preview');
+    /* "?preview=classics#/year" and "#/year?preview=classics" are the same door */
+    var hq = (location.hash || '').split('?')[1] || '';
+    var id = new URLSearchParams(location.search).get('preview') ||
+             new URLSearchParams(hq).get('preview');
     var t = id ? flTrackById(id) : null;
     return (t && !flTrackComplete(t)) ? t : null;
   } catch (e) { return null; }
