@@ -78,6 +78,9 @@ onboarded, dayEnd, weekAnchor, clearOpened, lat/lon...). Journal ref kinds:
 day, examen, debrief, voice, passage, clear — **'clear:' refs are structurally
 private: filtered out of the Journal view and search; they render only in
 #/clear. Keep those filters when touching either surface.**
+`morning` is written by the pacer's five-round latch and by a finished movement
+(practice.js) and read by nothing since Today lost its checklist; it stays because
+the schema is additive.
 **Schema changes are additive only — never rename or repurpose a field.**
 Readers have a year of mornings in there and a rename silently orphans all of it. To
 change a meaning, add a field and migrate in `flBootMigrate()`.
