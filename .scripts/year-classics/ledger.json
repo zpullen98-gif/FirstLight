@@ -80,15 +80,17 @@
    ]
   },
   "mary ann evans": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    2
    ]
   },
   "william shakespeare": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    2
    ]
   },
   "wis awa szymborska": {
@@ -110,9 +112,10 @@
    ]
   },
   "fyodor dostoevsky": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    2
    ]
   },
   "c. p. cavafy": {
@@ -134,9 +137,10 @@
    ]
   },
   "emily dickinson": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    2
    ]
   },
   "italo calvino": {
@@ -185,6 +189,156 @@
    "count": 1,
    "months": [
     1
+   ]
+  },
+  "mencius": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "naomi shihab nye": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "terence": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "etty hillesum": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "william wordsworth": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "simone weil": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "gabriela mistral": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "friedrich nietzsche": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "harper lee": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "kobayashi issa": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "jane austen": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "shantideva": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "rosa luxemburg": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "charlotte bronte": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "sophocles": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "toni morrison": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "arthur schopenhauer": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "gwendolyn brooks": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "leo tolstoy": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "iris murdoch": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "edwin markham": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "marcel proust": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "martin buber": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "lorraine hansberry": {
+   "count": 1,
+   "months": [
+    2
+   ]
+  },
+  "thornton wilder": {
+   "count": 1,
+   "months": [
+    2
    ]
   }
  }
