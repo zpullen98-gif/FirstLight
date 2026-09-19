@@ -206,6 +206,16 @@ const CORRECTIONS = { 1: [
     note: 'Legge numbers this 6.28; 6.30 is the modern scheme.' },
   { d: 27, from: 'Marcus Aurelius, Meditations 11', to: 'After Marcus Aurelius, Meditations 11.18',
     note: 'The eighth of the ten thoughts Marcus sets down against anger. The wording is a compression rather than any translator’s sentence.' }
+],
+
+/* November. One correction, found while building The Classics: the year called
+   this line a proverb while the app's own scripture pool (data-canon.js) and the
+   Buddhist thread both cite it as Dhammapada 204, and Calendar For Life credits
+   the Dhammapada too. A name replaced by a locating fact keeps the month's tag,
+   so Wisdom stays. */
+11: [
+  { d: 20, from: 'Proverb', to: 'After the Dhammapada 204',
+    note: 'A modern compression of Dhammapada 204, not any one translator’s sentence. Müller (1881) reads: Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships.' }
 ]};
 
 const list = CORRECTIONS[MONTH];

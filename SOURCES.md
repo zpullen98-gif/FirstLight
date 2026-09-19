@@ -731,11 +731,27 @@ anonymous: day 29 would have printed "Pierre Curie" as the author of a sentence 
 day 10 led with Philip Schieber, the reporter, rather than Grace Hopper, who said it.
 
 
-## The Philosophers, April to December: three corrections ahead of the audit
+## The Philosophers, April to December: four corrections ahead of the audit
 
 Three entries were corrected on 5 September 2026 under the file's own rules, without
 opening the wider April to December audit, which remains the next content job (275
-entries, 59 of them carrying a bare name and no note).
+entries, 59 of them carrying a bare name and no note). A fourth followed on
+18 September 2026, found while the Classics were being built.
+
+**20 November**, "Health is the greatest gift, contentment the greatest wealth,
+faithfulness the best relationship", was flat "Proverb" while the app's own
+scripture pool (`data-canon.js`) and the Buddhist thread both cite the same line as
+Dhammapada 204, and Calendar For Life credits the Dhammapada too. Now "After the
+Dhammapada 204": the wording is a modern compression that matches no published
+translator, so the hedge is "after" rather than a flat citation, and the note prints
+Müller's 1881 sentence. The Wisdom tag stays: a name replaced by a locating fact
+keeps the month's tag. Applied through `apply-citations.js`, which gained its
+first entry outside January to March.
+
+The lift bank had a smaller one the same day: the Peter Pan line, "Second star to
+the right and straight on till morning", is the 1953 film's wording and was cited
+to the film alone; the source now adds "after J. M. Barrie, Peter and Wendy
+(1911)", whose sentence is "Second to the right, and straight on till morning".
 
 **1 April**, "Nature does not hurry, yet everything is accomplished", was flat
 "Laozi". The shipped Legge text of the Tao Te Ching contains neither "hurry" nor
