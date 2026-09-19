@@ -15,6 +15,9 @@ py serve.py 8633
 `?nosw` on the URL skips service-worker registration — use it when debugging a
 caching problem, so you are not fighting the cache to look at the cache.
 
+`?preview=<track id>` lets the Year view read a track that is not yet complete
+(`#/year?preview=classics`), without keep buttons; nothing else honours it.
+
 `node .scripts/check-syntax.js` parses every `js/*.js` without executing it, and
 checks that `sw.js`'s precache list and `index.html`'s script tags agree. Run it
 after every change. With ~20 files in one global scope, a stray apostrophe in
@@ -31,6 +34,8 @@ before `plan.js` before `sun.js`.
 | File | Declares |
 |---|---|
 | `js/data-year.js` | `MONTHS`, `Q` — the 366, extracted verbatim from the artifact |
+| `js/data-year-makers.js` | `MONTHS_MAKERS`, `Q_MAKERS` — the second 366, built clean |
+| `js/data-year-classics.js` | `MONTHS_CLASSICS`, `Q_CLASSICS` — the third 366, landing a month at a time through `.scripts/year-classics/`; `.scripts/check-year.js` is its gate |
 | `js/data-practice.js` | `PRACTICES`, `REFLECTIONS` |
 | `js/data-intent.js` | `INTENTS`, `EXAMEN_QUESTIONS`, `LOCAL_*` — recovered from `first-light.jsx` |
 | `js/data-uplift.js` | `UPLIFT` (film lines and voices for the morning page), `TEACHINGS` (three per month) |
@@ -179,6 +184,7 @@ Phase 2 — IndexedDB scripture cache, per-canon start dates, completion marks.
 Phase 3 — journal, search, guided morning, evening examen, intent detour, heatmap.
 Phase 4 — real ephemeris and natal chart; the body practice engine.
 Phase 5 — audit all 366 citations.
-Phase 6 — the second 366 ("The Canons") as a switchable track.
+Phase 6 — a third 366, The Classics (philosophy and literature), in progress; The
+Canons (the religious-tradition balance) still owed after it.
 
 See `HANDOFF.md` for full context and the decisions worth not reversing.

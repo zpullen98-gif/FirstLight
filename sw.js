@@ -7,7 +7,7 @@
    index.html. A file in one and not the other is the single most common way this
    app breaks offline while looking fine online. */
 
-const CACHE = 'firstlight-v59';
+const CACHE = 'firstlight-v60';
 
 /* Scripture lives in its own cache, deliberately NOT versioned with the shell.
    The library is ~12 MB; tying it to CACHE would throw it away and re-download it
@@ -24,6 +24,7 @@ const ASSETS = [
 
   './js/data-year.js',
   './js/data-year-makers.js',
+  './js/data-year-classics.js',
   './js/data-practice.js',
   './js/data-intent.js',
   './js/data-uplift.js',
