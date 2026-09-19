@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-09",
+ "verdict": "VERIFIED",
+ "quote": "“The time that my journey takes is long and the way of it long. I came out on the chariot of the first gleam of light, and pursued my voyage through the wildernesses of worlds leaving my track on many a star and planet.”",
+ "source": "Rabindranath Tagore, Gitanjali (Song Offerings), poem 12, opening two paragraphs (trans. the author, 1912)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of Gitanjali (Macmillan, 1913 printing of the 1912 India Society edition), poem 12 downloaded and read in full",
+  "edition": "Gitanjali (Song Offerings), Macmillan, 1913; first London, The India Society, 1912",
+  "locator": "poem 12, first and second paragraphs",
+  "url": "https://www.gutenberg.org/cache/epub/7164/pg7164.txt"
+ },
+ "confidence": "high",
+ "reason": "Both paragraphs stand word for word at poem 12 in Tagore’s own English, and the prose poems carry no line breaks, so the two paragraphs run together as prose exactly as the landed poem 10 precedent does. Not shipped, not near a shipped line, not banned. Tagore has no landed line in the year; the editor should note that a verified poem 10 line and a December carry in of poem 57 also stand behind him, which would put him at three."
+}

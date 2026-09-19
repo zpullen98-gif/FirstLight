@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "You see things; and you say ‘Why?’ But I dream things that never were; and I say ‘Why not?’ I made the word dead to describe my old skin that I cast when I am renewed. I call that renewal being born.",
+ "source": "Bernard Shaw, Back to Methuselah, Part I, In the Beginning, Act I (1921) (The Serpent)",
+ "tradition": "Drama",
+ "note": "",
+ "speaker": "The Serpent",
+ "evidence": {
+  "where": "full text of the play read directly, Project Gutenberg ebook 13084 (Back to Methuselah: A Metabiological Pentateuch, by Bernard Shaw)",
+  "edition": "Project Gutenberg ebook 13084, first released 2004, updated 2024",
+  "locator": "Part I, In the Beginning, Act I, the Serpent to Eve, immediately after Eve asks what birth is",
+  "url": "https://www.gutenberg.org/cache/epub/13084/pg13084.txt"
+ },
+ "confidence": "high",
+ "reason": "The four sentences are contiguous and verbatim in the play, spoken by THE SERPENT to Eve just after she asks what birth is. The edition parenthetical was reduced to the year alone because the Constable printing itself was not opened."
+}

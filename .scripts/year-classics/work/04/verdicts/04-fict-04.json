@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-04",
+ "verdict": "VERIFIED",
+ "quote": "Life shrinks or expands in proportion to one’s courage.",
+ "source": "Anaïs Nin, The Diary of Anaïs Nin, Volume Three: 1939 to 1944, the entry of June 1941, ed. Gunther Stuhlmann (1969)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Open Library search inside the scanned volume The diary of Anais Nin, 1939 to 1944 returns the line in its own context: Virginia, he showed no feeling. Life shrinks or expands in proportion to one's courage. The rival reading according to one's courage returns no hit in that volume at all, and the sentence before it fixes the place: the paragraph about Robert, who showed no feeling when told he had hurt Virginia. A widely circulated blog transcription of page 125 prints according to and is wrong.",
+  "edition": "The Diary of Anaïs Nin, Volume Three: 1939 to 1944, ed. Gunther Stuhlmann, Harcourt, Brace and World, 1969 (scan diaryofanaisnin0003nina)",
+  "locator": "The entries headed June, 1941: a one sentence paragraph following the paragraph about Robert and Virginia, and preceding The world outside is too horrible to contemplate",
+  "url": "https://openlibrary.org/search/inside?q=%22showed+no+feeling.+Life+shrinks+or+expands+in+proportion+to%22"
+ },
+ "confidence": "high",
+ "reason": "The line is inside the published volume in exactly this wording, and the search decides the one thing that was in doubt, in proportion to against according to, by returning the diary for the first and nothing for the second. The page was not seen, so the locator is the entry rather than a page number. Oxford's quotation dictionary also places it at volume 3, June 1941. Not shipped, no near match, Nin at zero of three, not banned."
+}

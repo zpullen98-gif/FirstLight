@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "I will mount a long wind some day and break the heavy waves / And set my cloudy sail straight and bridge the deep, deep sea.",
+ "source": "Li Bai, The Hard Road, closing couplet, The Jade Mountain, p. 70 (trans. Witter Bynner, 1929)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "scan-backed Wikisource page transcription of The Jade Mountain, read as raw wikitext; the couplet closes the poem and the printed folio at the foot of the page is 70",
+  "edition": "The Jade Mountain: A Chinese Anthology, trans. Witter Bynner from the texts of Kiang Kang-hu (Alfred A. Knopf, 1929)",
+  "locator": "printed p. 70, THE HARD ROAD (Written to Music), final two lines, after the refrain Journeying is hard; scan sequence 114",
+  "url": "https://en.wikisource.org/wiki/Page:The_Jade_Mountain.djvu/114"
+ },
+ "confidence": "high",
+ "reason": "The couplet is verbatim and does close the poem, directly after the refrain the proposal quoted. A page was added: 70. The 1929 running head prints the poet as Li Po, which is the same man as Li Bai, so the modern byline stands."
+}

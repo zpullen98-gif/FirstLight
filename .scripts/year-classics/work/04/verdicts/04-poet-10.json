@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-10",
+ "verdict": "VERIFIED",
+ "quote": "“Oh, to be in England / Now that April’s there, / And who wakes in England / Sees, some morning, unaware, / That the lowest boughs and the brush-wood sheaf / Round the elm-tree bole are in tiny leaf, / While the chaffinch sings on the orchard bough / In England—now!”",
+ "source": "Robert Browning, Home-Thoughts, from Abroad, section I, lines 1 to 8, Dramatic Romances and Lyrics (1845)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource transcription of the scanned Bells and Pomegranates second series volume, which contains No. VII, Dramatic Romances and Lyrics; the whole poem read against the page",
+  "edition": "Bells and Pomegranates No. VII: Dramatic Romances and Lyrics, Edward Moxon, 1845",
+  "locator": "section I, lines 1 to 8",
+  "url": "https://en.wikisource.org/wiki/Bells_and_Pomegranates,_Second_Series/Home-Thoughts,_from_Abroad"
+ },
+ "confidence": "high",
+ "reason": "The eight lines match the 1845 printing exactly, including brush-wood sheaf and the em dash in England—now. The 1845 text really does read And who wakes in England where the later collected editions read And whoever wakes in England, and the same printing carries the unrevised Nobly Cape Saint Vincent in section III, which confirms the state of the text. Naming the 1845 volume in the source makes the shorter third line accountable. Not shipped, Browning at zero of three."
+}

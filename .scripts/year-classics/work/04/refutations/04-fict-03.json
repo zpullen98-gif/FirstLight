@@ -1,0 +1,18 @@
+{
+ "id": "04-fict-03",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "Fernando Pessoa, The Book of Disquiet, text 451, last lines (Bernardo Soares) (trans. Richard Zenith, 2001)",
+ "reason": "Attacked hard on the spelling and on the edition, and it survived both. The obvious refutation was translation drift, because the line circulates in at least three renderings: traveler with one l, and the quite different Travels are travellers version. I tested whether Open Library's search inside actually discriminates the two spellings rather than collapsing them, and it does. The query traveller with two l returns The book of disquietude and The Book of Disquiet and not Selected Prose; the query traveler with one l returns The Selected Prose of Fernando Pessoa and two Eric Kraft novels and not either Disquiet volume. The two result sets are disjoint, so the match is real and the two l spelling belongs to the Disquiet editions while the one l spelling belongs to Zenith's Selected Prose. That is the answer to the awkward piece of evidence in the file: Lapham's Quarterly prints the whole text, credits The Book of Disquietude, and sets traveler with one l, so Lapham's has Americanised or taken it from Selected Prose and cannot be used to settle the spelling. The scans can and do. I also settled which Disquiet edition, which the verifier had left open. Searching the incipit returns the snippet he'd done me a big favour. 451 Travel? One need only exist to travel from The Book of Disquiet, so that scan is a numbered Zenith arrangement carrying text 451, which is the Penguin text and not the 2017 complete edition, whose chronological arrangement drops those numbers. Naming 2001 is therefore right. The last lines claim holds too: Lapham's prints the text in full and it ends on these three sentences. Bernardo Soares in parentheses is correct rather than optional, since the book's own title names him as its author, and it follows the brief's speaker rule. Pessoa is not banned, stands at zero of three, returns no shipped or near hit, and appears once in the month. The Portuguese original is pre-1999 and the rule asks only that the translation be named, which it is. Tag Diary, no dash, 138 characters, inside the limit but only just. My betterCitation is not a correction but a tightening: text 451 is now evidenced on the page image and replacing the eight word incipit with it drops the line to 106 characters and gives a reader a number to look up.",
+ "checks": {
+  "wordingAgainstNamedTranslation": "confirmed: the two l traveller spelling is the Disquiet editions', proven by a disjoint search test against Selected Prose",
+  "locator": "confirmed and improved: the text is numbered 451 in the Zenith arrangement, and these are its last three sentences",
+  "attribution": "correct; Zenith is the translator whose wording this is",
+  "speaker": "Bernardo Soares named, correct",
+  "bannedOrAtCap": "not banned, 0 of 3 in the year",
+  "alreadyShipped": "no, shipped.js clean, no near-hit",
+  "scope": "in scope: pre-1999 original, publishable, a road line for the month",
+  "sourceLineForm": "leads with the name, no dash, 138 characters, 106 with the tightened locator"
+ },
+ "residual": "Lapham's Quarterly should be dropped from the evidence for the spelling, since it prints traveler with one l while crediting a Zenith title."
+}

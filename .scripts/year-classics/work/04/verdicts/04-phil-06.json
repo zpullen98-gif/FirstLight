@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-06",
+ "verdict": "VERIFIED",
+ "quote": "Travel is in my opinion a very profitable exercise; the soul is there continually employed in observing new and unknown things, and I do not know, as I have often said a better school wherein to model life than by incessantly exposing to it the diversity of so many other lives, fancies, and usances, and by making it relish a perpetual variety of forms of human nature.",
+ "source": "Michel de Montaigne, Essays, Book III, ch. 9, Of Vanity (trans. Charles Cotton, revised by W. Carew Hazlitt, 1877)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the Project Gutenberg plain text of the Cotton translation as revised by William Carew Hazlitt and read the sentence in place. The chapter heading OF VANITY stands at line 43178 under CHAPTER IX of Book III, and the sentence follows at line 44447, opening Besides these reasons, travel is in my opinion a very profitable exercise. The rest matches the proposal word for word, including the absent comma after said and a perpetual variety, both of which are the Hazlitt text and not slips.",
+  "edition": "Essays of Michel de Montaigne, trans. Charles Cotton, ed. William Carew Hazlitt (1877), Project Gutenberg ebook 3600",
+  "locator": "Book III, ch. 9, Of Vanity, the paragraph beginning Besides these reasons",
+  "url": "https://www.gutenberg.org/cache/epub/3600/pg3600.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is the named edition's, with only the four opening words Besides these reasons dropped and travel raised to a capital, which is ordinary quotation practice and does not change the sense. One warning for the editor: the fiction and essay lane proposes the same sentence in the same translation as 04-fict-13, so one of the two must go or Montaigne lands twice in April. shipped.js: not shipped, no near match, Montaigne at 0 of 3, not banned."
+}

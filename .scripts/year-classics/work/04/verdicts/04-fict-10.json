@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-10",
+ "verdict": "VERIFIED",
+ "quote": "One day, as he followed the course of a stream, he became unconscious of the distance he had travelled. All at once he came upon a grove of blossoming peach trees which lined either bank for hundreds of paces.",
+ "source": "Tao Yuanming, Peach Blossom Spring, the second and third sentences (trans. Cyril Birch, 1965)",
+ "speaker": "",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The Columbia Asia for Educators PDF of the complete document, which reprints Birch's translation with the publisher's permission. The PDF body is set in a subset font with a shifted encoding, so the text streams were decompressed and the encoding decoded before reading. The decoded first paragraph runs: During the reign-period Tai yuan of the Chin dynasty there lived in Wu-ling a certain fisherman. One day, as he followed the course of a stream, he became unconscious of the distance he had travelled. All at once he came upon a grove of blossoming peach trees which lined either bank for hundreds of paces. The credit line on the page reads: From Anthology of Chinese Literature, Volume I: From Early Times to the Fourteenth Century, edited by Cyril Birch (New York: Grove Press, 1965), 167 to 168.",
+  "edition": "Anthology of Chinese Literature, Volume I: From Early Times to the Fourteenth Century, ed. Cyril Birch (Grove Press, 1965), pp. 167 to 168",
+  "locator": "The second and third sentences of the opening paragraph, directly after the fisherman of Wu-ling is introduced",
+  "url": "https://afe.easia.columbia.edu/ps/china/taoqian_peachblossom.pdf"
+ },
+ "confidence": "high",
+ "reason": "Both sentences match Birch word for word, including travelled and the two commas in the first, and they do sit second and third in the paragraph as claimed. The page carries the publisher's permission statement, so it is the named translation and not a paraphrase of it. The anthology prints the author as T'ao Ch'ien; Tao Yuanming is the same man and is the byline the year already uses, so the name is kept. A fable, so Fiction, and the fifth century helps the month's spread of centuries. Tao Yuanming is new to the year and stands at none of three."
+}

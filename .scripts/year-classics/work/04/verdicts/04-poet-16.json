@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-16",
+ "verdict": "VERIFIED",
+ "quote": "I got out of bed / on two strong legs. / It might have been / otherwise. I ate / cereal, sweet / milk, ripe, flawless / peach. It might / have been otherwise.",
+ "source": "Jane Kenyon, Otherwise, lines 1 to 8, Otherwise: New and Selected Poems (Graywolf Press, 1996)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "The Academy of American Poets text at poets.org, reprinted by permission of Graywolf Press, fetched this run; the 1996 first book publication rests on the publisher and catalogue descriptions of the new poems section, not on the page itself",
+  "url": "https://poets.org/poem/otherwise",
+  "edition": "Otherwise: New and Selected Poems (Saint Paul: Graywolf Press, 1996), the new poems; the poem is also in Collected Poems (Graywolf, 2005)",
+  "locator": "Otherwise, lines 1 to 8 of 26, the opening"
+ },
+ "confidence": "high",
+ "reason": "The lineation is the point of risk here and poets.org settles it: the break is It might have been / otherwise. I ate, not the It might / have been otherwise often seen in web copies. Kenyon published four books in her lifetime, the last being Constance in 1993, and Otherwise appeared in the new poems of the 1996 volume she arranged before her death, so it is first published before 2000. Kenyon is not shipped, not banned, at zero of three."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-07",
+ "verdict": "VERIFIED",
+ "quote": "Above all, do not lose your desire to walk: every day I walk myself into a state of well-being and walk away from every illness; I have walked myself into my best thoughts, and I know of no thought so burdensome that one cannot walk away from it.",
+ "source": "Søren Kierkegaard, Letters and Documents, Letter 150, to Henriette Kierkegaard, 1847 (trans. Henrik Rosenmeier, 1978)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Roger Poole's review of the Rosenmeier volume in the London Review of Books, A Walk with Kierkegaard (1980), quotes the sentence in exactly this wording, colon and semicolon included, and attributes it to the 1847 letter to Jette. The Danish original behind it, Tab for Alt ikke Lysten til at gaae, is letter 150 in Breve og Aktstykker and carries the same colon and semicolons. Secondary citations place the English at Kierkegaard's Writings XXV, pp. 214 to 215. The printed page itself was not seen: the Internet Archive copy, lettersdocuments0000kier, is a lending item whose full text search is closed.",
+  "edition": "Letters and Documents, Kierkegaard's Writings XXV, trans. Henrik Rosenmeier (Princeton University Press, 1978)",
+  "locator": "Letter 150, to Henriette Kierkegaard, 1847, pp. 214 to 215",
+  "url": "https://www.lrb.co.uk/the-paper/v02/n03/roger-poole/a-walk-with-kierkegaard"
+ },
+ "confidence": "medium",
+ "reason": "The recipient is right and the popular attribution to his niece Henriette Lund is wrong: the letter is to his sister-in-law Sofie Henriette Kierkegaard, called Jette, who was ill and bedridden, which is what the advice answers. The wording is Rosenmeier's as a review of his volume prints it, so the proposal's quote stands, but the locator's aside about the introduction printing a semicolon could not be checked and is dropped. Confidence is medium because the page was read at one remove. shipped.js: not shipped, no near match, Kierkegaard at one of three from January, not banned."
+}

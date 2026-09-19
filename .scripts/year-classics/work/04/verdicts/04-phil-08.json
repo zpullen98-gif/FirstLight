@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "The Tao is in the Passage rather than the Path. It is the spirit of Cosmic Change,—the eternal growth which returns upon itself to produce new forms. It recoils upon itself like the dragon, the beloved symbol of the Taoists. It folds and unfolds as do the clouds.",
+ "source": "Okakura Kakuzō, The Book of Tea, ch. III, Taoism and Zennism (Fox, Duffield and Company, 1906)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the Project Gutenberg plain text of The Book of Tea and read the sentences in place. The chapter heading III. Taoism and Zennism stands at line 513 and the passage at lines 554 to 557, following the quoted Laotse passage that ends the Vanishing is the Reverting, and running on to The Tao might be spoken of as the Great Transition. The wording matches the proposal exactly; the plain text sets the dash as two hyphens, which the card renders as the printed comma and dash.",
+  "edition": "The Book of Tea (Fox, Duffield and Company, 1906), Project Gutenberg ebook 769",
+  "locator": "ch. III, Taoism and Zennism",
+  "url": "https://www.gutenberg.org/cache/epub/769/pg769.txt"
+ },
+ "confidence": "high",
+ "reason": "The four sentences are consecutive and unaltered in the named chapter, and the book was written in English, so no translator is named. shipped.js: not shipped, no near match, Okakura at 0 of 3, not banned. It carries the month's theme of the way as the passing along it."
+}

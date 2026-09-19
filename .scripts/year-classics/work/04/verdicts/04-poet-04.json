@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "Released from ice are brook and river / By the quickening glance of the gracious Spring; / The colors of hope to the valley cling, / And weak old Winter himself must shiver, / Withdrawn to the mountains, a crownless king.",
+ "source": "Johann Wolfgang von Goethe, Faust, Part One, Before the City-Gate (Faust) (trans. Bayard Taylor, 1870)",
+ "speaker": "Faust",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Taylor's Part One downloaded and searched; the five lines were read in place under the speech prefix FAUST, inside the scene headed BEFORE THE CITY-GATE, which the same file's table of contents numbers as scene II.",
+  "edition": "Faust, Part One, Translated Into English in the Original Metres, trans. Bayard Taylor, first published 1870; this text an illustrated reprint",
+  "locator": "Before the City-Gate, the opening of Faust's Easter walk speech to Wagner, German 'Vom Eise befreit sind Strom und Bäche'; the standard line numbers 903 to 907 were not checked against a numbered edition and are left out of the source",
+  "url": "https://www.gutenberg.org/cache/epub/14591/pg14591.txt"
+ },
+ "confidence": "high",
+ "reason": "Taylor's wording, lineation and American spelling of 'colors' all match. Taylor ends the fifth line with a colon and runs on, so the quotation is cut at that complete clause and the colon becomes the terminal full stop; no word is altered. Goethe stands at one of three."
+}

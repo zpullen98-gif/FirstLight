@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-06",
+ "verdict": "CORRECTED",
+ "quote": "Wanderer, your footsteps are / the road, and nothing more; / wanderer, there is no road, / the road is made by walking.",
+ "source": "Antonio Machado, Proverbios y cantares XXIX, lines 1 to 4, Poesías completas (1917) (trans. Betty Jean Craige, 1978)",
+ "tradition": "Poetry",
+ "note": "CORRECTED: the poem first appeared in the 1917 Poesías completas, not the 1912 Campos de Castilla, and the unconfirmed page 143 is dropped. The wording is settled: Betty Jean Craige posted these four lines on her University of Georgia page, credited to her Selected Poems of Antonio Machado, Louisiana State University Press, 1978.",
+ "speaker": "",
+ "evidence": {
+  "where": "Betty Jean Craige's own faculty page at the University of Georgia, headed 'From Selected Poems of Antonio Machado / By Betty Jean Craige, University of Georgia [published by Louisiana State University Press, 1978]', recovered from the Wayback Machine capture of 3 February 1999; it prints the English and the Spanish and reads exactly 'Wanderer, your footsteps are / the road, and nothing more; / wanderer, there is no road, / the road is made by walking.' The 1978 date is confirmed independently by the Library of Congress MARC record (LCCN 78057504, 'c1978') and the Open Library edition record OL4743657M. Wikiquote's rival 'footprints / path' rendering credited to Craige 1979 is therefore the corrupted one, and its 1979 date is wrong. The collection question is settled by the Wikiquote talk page, where JerryFriedman cites Biblioteca Digital Hispanica scans of both editions: the poem is absent from the 1912 Campos de Castilla and present in the 1917 Poesias completas. The printed page could still not be opened, so page 143 is not carried.",
+  "edition": "Selected Poems of Antonio Machado, translated and with an introduction by Betty Jean Craige, Louisiana State University Press, Baton Rouge, 1978",
+  "locator": "Proverbios y cantares XXIX, lines 1 to 4",
+  "url": "https://web.archive.org/web/19990203120456/http://www.cha.uga.edu/bjc/machado.htm"
+ },
+ "confidence": "high",
+ "reason": "The refutation's central charge, that these words are not Craige's, is itself refuted: the translator published this exact quatrain under her own name and credited it to the 1978 Louisiana State University Press book. Its date charge is also answered, at 1978, by the Library of Congress record. Its collection charge runs the wrong way, since the poem is in the 1917 Poesias completas and not in the 1912 Campos de Castilla. Only the page number stayed unconfirmed, and a page number is not required when the poem number and lines are given, so it is dropped rather than guessed."
+}

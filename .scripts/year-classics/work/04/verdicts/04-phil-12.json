@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-12",
+ "verdict": "CORRECTED",
+ "quote": "Yet often the mountain gives itself most completely when I have no destination, when I reach nowhere in particular, but have gone out merely to be with the mountain as one visits a friend with no intention but to be with him.",
+ "source": "Nan Shepherd, The Living Mountain, p. 15 (Canongate, 2011)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "The sentence begins with Yet in the printed text. The proposal dropped that word and supplied its own capital on Often, so the shipped line restores the edition’s wording. The locator is the page alone: the chapter was not confirmed, and the page is the reference the proposal itself gave.",
+ "evidence": {
+  "where": "Three separate copies of the sentence were read, a long review of the Canongate edition, a quotation page that groups passages by theme, and a search summary keyed to the page number, and all three print the same words beginning with Yet.",
+  "edition": "The Living Mountain (Canongate, 2011), with the Macfarlane introduction; first published by Aberdeen University Press, 1977",
+  "locator": "p. 15 of the Canongate edition of 2011",
+  "url": "https://oikofuge.com/shepherd-the-living-mountain/"
+ },
+ "confidence": "medium",
+ "reason": "The wording is settled and agrees across three copies, so only the dropped Yet needed correcting; a line ships in the wording that exists in the edition, and the version without Yet exists nowhere. The page number comes from secondary copies rather than an inspected page, and no source seen gave the chapter, which is why the source carries the page and nothing else. Shepherd is new to the year and the sentence is the anti summit line the month wants."
+}

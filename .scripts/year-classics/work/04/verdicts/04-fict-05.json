@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-05",
+ "verdict": "VERIFIED",
+ "quote": "But let us open our leaves like a flower, and be passive and receptive; budding patiently under the eye of Apollo and taking hints from every noble insect that favours us with a visit.",
+ "source": "John Keats, letter to John Hamilton Reynolds, 19 February 1818, Letters, XXXVII, ed. Sidney Colvin (Macmillan, 1891)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "The Colvin edition read end to end in the Project Gutenberg transcription of Letters of John Keats to His Family and Friends (Macmillan, 1891). The letter is headed XXXVII. TO JOHN HAMILTON REYNOLDS and dated [Hampstead, February 19, 1818.]; the sentence stands in the paragraph that ends with the thrush's song, four sentences before Keats says he was led into these thoughts by the beauty of the morning.",
+  "edition": "Letters of John Keats to His Family and Friends, ed. Sidney Colvin (Macmillan, 1891)",
+  "locator": "Letter XXXVII, to John Hamilton Reynolds, Hampstead, 19 February 1818, in the flower and the bee paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/35698/pg35698.txt"
+ },
+ "confidence": "high",
+ "reason": "Every word of the quotation matches the Colvin text exactly, including the semicolon and the British favours. Colvin runs on after visit with a dash and Sap will be given us for meat, and dew for drink; the quotation is cut at that dash and closed with a full stop, which shortens the sentence without altering a word of it. The letter, the date and the number are all as the proposal gives them. Keats is new to the year and stands at none of three."
+}

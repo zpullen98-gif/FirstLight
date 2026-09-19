@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-12",
+ "verdict": "CORRECTED",
+ "quote": "“A little madness in the Spring / Is wholesome even for the King, / But God be with the Clown, / Who ponders this tremendous scene— / This whole experiment of green, / As if it were his own!”",
+ "source": "Emily Dickinson, ‘A little madness in the Spring’, The Single Hound, poem XXXVIII (Little, Brown, 1914)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Corrected: the poem is number XXXVIII in The Single Hound, which numbers its poems straight through and has no Part II. That division belongs to a website, not to the 1914 book. The wording here is the 1914 text, with lower case madness and green where modern editions print capitals.",
+ "evidence": {
+  "where": "Wikisource page level transcription of the scanned djvu of the 1914 Little, Brown edition, page image for printed page 40, plus the pages either side to confirm that the numbering runs straight through with no part headings",
+  "edition": "The Single Hound: Poems of a Lifetime, ed. Martha Dickinson Bianchi, Little, Brown, 1914",
+  "locator": "poem XXXVIII",
+  "url": "https://en.wikisource.org/wiki/The_Single_Hound/A_little_madness_in_the_Spring"
+ },
+ "confidence": "high",
+ "reason": "The six lines match the 1914 printing exactly, lower case madness, comma after Clown, em dash after scene, lower case experiment of green. Only the locator was wrong: the book has no Part II, and the poem is numbered XXXVIII. The printed page number is 40 by the running head but a library site marks it 41, so the page is left out and the poem number carries the citation. Not shipped; this would be Dickinson’s third and last line of the year."
+}

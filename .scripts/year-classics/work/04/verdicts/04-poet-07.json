@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-07",
+ "verdict": "CORRECTED",
+ "quote": "I awake light-hearted this morning of spring, / Everywhere round me the singing of birds— / But now I remember the night, the storm, / And I wonder how many blossoms were broken.",
+ "source": "Meng Haoran, A Spring Morning, The Jade Mountain, p. 108 (trans. Witter Bynner, 1929)",
+ "tradition": "Poetry",
+ "note": "CORRECTED: the poem stands on page 108 of The Jade Mountain, not page 152. The number 152 is the scan sequence of the Internet Archive copy, not the printed folio. The 1929 edition prints the poet as Mêng Hao-jan. The wording, the line breaks and the long dash after birds are confirmed.",
+ "speaker": "",
+ "evidence": {
+  "where": "scan-backed Wikisource page transcription of The Jade Mountain, read as raw wikitext; the running folio printed at the foot of that page is 108",
+  "edition": "The Jade Mountain: A Chinese Anthology, trans. Witter Bynner from the texts of Kiang Kang-hu (Alfred A. Knopf, 1929)",
+  "locator": "printed p. 108, second poem on the page, under the heading Mêng Hao-jan; scan sequence 152 of The Jade Mountain.djvu",
+  "url": "https://en.wikisource.org/wiki/Page:The_Jade_Mountain.djvu/152"
+ },
+ "confidence": "high",
+ "reason": "The quatrain is verbatim, complete, and in Bynner’s lineation. Only the page was wrong: 152 is the scan index and 108 is the printed page, checked against the folios on neighbouring pages."
+}

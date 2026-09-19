@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-15",
+ "verdict": "VERIFIED",
+ "quote": "And the miraculous comes so close / to the ruined, dirty houses— / something not known to anyone at all, / but wild in our breast for centuries.",
+ "source": "Anna Akhmatova, ‘Everything is plundered’, lines 9 to 12, Anno Domini MCMXXI (trans. Stanley Kunitz with Max Hayward, 1973)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "Several reprints that credit the Kunitz with Hayward translation and agree word for word and line for line, among them the Art and Theology posting fetched this run, which gives the credit as Poems of Akhmatova (Boston: Mariner Books, 1997); the printed page was not opened",
+  "url": "https://artandtheology.org/2024/07/29/everything-is-plundered-by-anna-akhmatova/",
+  "edition": "Poems of Akhmatova, selected and translated by Stanley Kunitz with Max Hayward (Little, Brown, 1973); reprinted Mariner Books, 1997",
+  "locator": "‘Everything is plundered, betrayed, sold’ (Vsyo raskhishcheno, predano, prodano, June 1921), from Anno Domini MCMXXI (1922); the third and closing stanza, lines 9 to 12"
+ },
+ "confidence": "medium",
+ "reason": "The stanza is the closing four lines of a twelve line poem and the wording, lineation and the em dash after houses match every credited reprint of Kunitz with Hayward that I read. Confidence is medium because the check is against reprints, not the printed page, and the reprints credit the 1997 Mariner printing of the 1973 translation. The source names 1973, the year of the translation whose wording this is. Akhmatova is not shipped, not banned, at zero of three."
+}

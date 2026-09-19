@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-02",
+ "verdict": "VERIFIED",
+ "quote": "When I woke up to-day and got up and dressed myself, I suddenly began to feel as if everything in this life was open to me, and that I knew how I must live.",
+ "source": "Anton Chekhov, The Three Sisters, Act I (Irina) (trans. Julius West, 1916)",
+ "speaker": "Irina",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the West translation downloaded and searched; the sentence was read in place at the head of Irina's speech to Chebutikin, inside the Act I block, and the title page and translator credit were read in the same file.",
+  "edition": "Plays by Anton Tchekoff, Second Series, trans. Julius West (Charles Scribner's Sons, and Duckworth, 1916)",
+  "locator": "Act I, Irina to Ivan Romanovitch Chebutikin on her name-day, the sentence opening the speech that goes on to 'A man must work, toil in the sweat of his brow'",
+  "url": "https://www.gutenberg.org/cache/epub/7986/pg7986.txt"
+ },
+ "confidence": "high",
+ "reason": "Located word for word, hyphenated 'to-day' and all, in Act I of West's text, with the speech prefix IRINA and Chebutikin's reply on either side. Chekhov stands at two of three in the year, so a third line is within the cap, and the speech is Irina's waking and not her later disappointment."
+}

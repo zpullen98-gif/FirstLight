@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "May lily-dotted lakes delight your eye; / May shade-trees bid the heat of noonday cease; / May soft winds blow the lotus-pollen nigh; / May all your path be pleasantness and peace.",
+ "source": "Kālidāsa, Shakuntala, Act IV (Invisible beings) (trans. Arthur W. Ryder, 1912)",
+ "speaker": "Invisible beings",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the Ryder translation downloaded and searched; the four lines were read in place, with the speech prefix and the surrounding dialogue of Kanva, Sharngarava and Gautami.",
+  "edition": "Kalidasa: Translations of Shakuntala and Other Works, trans. Arthur W. Ryder (Everyman's Library, J. M. Dent and E. P. Dutton, 1912)",
+  "locator": "Act IV, the stanza spoken by Invisible beings as Shakuntala leaves the hermitage, immediately after Sharngarava's answer to Kanva and immediately before Gautami's 'My child, the fairies of the pious grove bid you farewell'",
+  "url": "https://www.gutenberg.org/cache/epub/16659/pg16659.txt"
+ },
+ "confidence": "high",
+ "reason": "The four lines stand word for word and point for point in Ryder's text, in this lineation, with the terminal full stop already in the edition. Kālidāsa is new to the year, so the cap is not in play, and the blessing is a going-out-on-the-road line for April."
+}

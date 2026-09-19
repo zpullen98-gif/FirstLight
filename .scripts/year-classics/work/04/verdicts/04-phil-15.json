@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-15",
+ "verdict": "CORRECTED",
+ "quote": "A subject to which few intellectuals ever give a thought is the right to be a vagrant, the freedom to wander. Yet vagrancy is deliverance, and life on the open road is the essence of freedom. To have the courage to smash the chains with which modern life has weighted us (under the pretext that it was offering us more liberty), then to take up the symbolic stick and bundle and get out!",
+ "source": "Isabelle Eberhardt, Pencilled Notes, in The Oblivion Seekers (trans. Paul Bowles, 1975)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "CORRECTED: Bowles has offering us more liberty, not giving us more liberty, and no comma before and get out. The page number could not be checked against the City Lights book, so it is dropped. The French original is Le droit à l’errance in Pages d’Islam, edited by Victor Barrucand.",
+ "evidence": {
+  "where": "Two independent witnesses to the Bowles wording, agreeing against the proposal: the text at The Anarchist Library, taken from spunk.org and titled On Vagrancy, which runs on through for no one is free who is not alone and to be an outsider who is at home everywhere, both Bowles phrases; and the JSTOR Daily essay on Eberhardt, which quotes the same sentence and cites The Oblivion Seekers. A review of the City Lights book ties the sentence for no one is free who is not alone to the piece Bowles titled Pencilled Notes. The French source was fixed at the Bibliotheque nationale de France, which prints Le droit à l’errance from Pages d’Islam, ed. Victor Barrucand, Fasquelle, pp. 279 to 281. The City Lights page itself was not seen: the Internet Archive scan of the 1975 book is lending only and its text returns 401, and HathiTrust holds no copy.",
+  "edition": "The Oblivion Seekers and Other Writings, trans. Paul Bowles, City Lights Books, San Francisco, 1975, 88 pages; translator and imprint confirmed from the MARC record of the scanned copy",
+  "locator": "The piece Pencilled Notes, its opening paragraph; page number unconfirmed and therefore not cited",
+  "url": "https://theanarchistlibrary.org/library/isabell-eberhardt-on-vagrancy"
+ },
+ "confidence": "medium",
+ "reason": "The passage is real, is Eberhardt, and exists in a named published translation, but the proposal misquoted it twice and its page number rests on nothing I could open. Two witnesses give the Bowles wording, so the line ships in that wording with the page dropped. Not shipped, Eberhardt at zero of three, not banned."
+}

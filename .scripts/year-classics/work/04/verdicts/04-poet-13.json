@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "The world stands out on either side / No wider than the heart is wide; / Above the world is stretched the sky,— / No higher than the soul is high.",
+ "source": "Edna St. Vincent Millay, Renascence, lines 203 to 206, Renascence and Other Poems (Mitchell Kennerley, 1917)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "The scan backed Wikisource Page namespace transcription of the 1917 Mitchell Kennerley edition, proofread against the scan Renascenceotherp00milluoft.pdf; page 28 fetched this run, and pages 15 to 28 fetched and counted to fix the line numbers",
+  "url": "https://en.wikisource.org/wiki/Page:Renascenceotherp00milluoft.pdf/28",
+  "edition": "Renascence and Other Poems (New York: Mitchell Kennerley, 1917), printed p. 14",
+  "locator": "Renascence, lines 203 to 206 of 214, in the closing twelve lines; first printed in The Lyric Year (Mitchell Kennerley, 1912)"
+ },
+ "confidence": "high",
+ "reason": "The four lines stand word for word on the scanned page, with the comma and em dash in ‘the sky,—’ exactly as proposed. I counted the verse lines across the whole poem, pages 15 to 28 of the scan, and got 214, which puts these at lines 203 to 206 as claimed. Millay is not shipped, not banned, at zero of three."
+}

@@ -33,9 +33,10 @@
    ]
   },
   "l. m. montgomery": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    4
    ]
   },
   "immanuel kant": {
@@ -51,16 +52,18 @@
    ]
   },
   "s ren kierkegaard": {
-   "count": 1,
-   "months": [
-    1
-   ]
-  },
-  "anton chekhov": {
    "count": 2,
    "months": [
     1,
-    3
+    4
+   ]
+  },
+  "anton chekhov": {
+   "count": 3,
+   "months": [
+    1,
+    3,
+    4
    ]
   },
   "dante alighieri": {
@@ -89,10 +92,11 @@
    ]
   },
   "william shakespeare": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    2
+    2,
+    4
    ]
   },
   "wis awa szymborska": {
@@ -197,9 +201,10 @@
    ]
   },
   "mencius": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    4
    ]
   },
   "naomi shihab nye": {
@@ -253,9 +258,10 @@
    ]
   },
   "kobayashi issa": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    4
    ]
   },
   "jane austen": {
@@ -301,15 +307,17 @@
    ]
   },
   "gwendolyn brooks": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    4
    ]
   },
   "leo tolstoy": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    4
    ]
   },
   "iris murdoch": {
@@ -482,9 +490,136 @@
    ]
   },
   "johann wolfgang von goethe": {
+   "count": 2,
+   "months": [
+    3,
+    4
+   ]
+  },
+  "antonio machado": {
    "count": 1,
    "months": [
-    3
+    4
+   ]
+  },
+  "sara teasdale": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "petrarch": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "nan shepherd": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "meng haoran": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "dogen": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "john keats": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "sarashina": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "okakura kakuzo": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "dorothy wordsworth": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "al-ghazali": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "christina rossetti": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "tao yuanming": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "rachel carson": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "robert browning": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "fernando pessoa": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "baruch spinoza": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "isabelle eberhardt": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "bernard shaw": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "karin boye": {
+   "count": 1,
+   "months": [
+    4
+   ]
+  },
+  "jack kerouac": {
+   "count": 1,
+   "months": [
+    4
    ]
   }
  }

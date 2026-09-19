@@ -1,0 +1,18 @@
+{
+ "id": "04-fict-01",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and survived. I located the named edition itself, not a reprint of it: a Wikisource insource search pins the passage to Page:Journals of Dorothy Wordsworth (Macmillan, 1897) (IA cu31924104001478).pdf/130, and that scan page carries the running header DOROTHY WORDSWORTH'S JOURNAL with the printed page number 106. So the p. 106 locator is confirmed on the page image, not inferred. The wording matches the Knight text word for word, including the three places where the proposal could have drifted: the full stop after beautiful, the comma before that blew upon them over the lake, and above all about and above them. That last one is the real trap, and the proposal is on the right side of it: the manuscript reading that Moorman's 1971 Oxford text prints is about and about them, so a proposal reading above them while naming Moorman would be refutable. It names Knight, and Knight reads above. The entry heading is Thursday, 15th, and 15 April 1802 was a Thursday, so the date in the source line is right. Attribution is Dorothy's own journal, not William's poem, and the misattribution list has no trap here; the famous daffodil confusion runs the other way, with the journal entry often handed to William Wordsworth, which this citation avoids. William Wordsworth stands at one line in the year and Dorothy is a different person, so there is no cap or twice-in-the-month collision; shipped.js returns no hit, no near-hit, zero for the year, not banned. Tag Diary is the form of the work. Scope is clean: prose journal, first printed 1897, no scripture, no oratory, no content warning, and it is a spring line for a spring month. The source line leads with the author's name, carries no dash, and runs 136 characters. The one thing I could not defend is the empty note, which is a style gap rather than a citation fault: the note should say that Knight's wording is the one being shipped and that Moorman differs, because a reader who checks the passage in the commoner modern edition will find a different sentence and think the card wrong.",
+ "checks": {
+  "wordingAgainstNamedEdition": "confirmed verbatim, Knight 1897, incl. about and above them",
+  "locator": "confirmed on the page image: printed p. 106, running header, entry of Thursday 15th",
+  "attribution": "correct; the usual error is to give the passage to William Wordsworth",
+  "speaker": "n/a, not a character's line",
+  "bannedOrAtCap": "not banned, 0 of 3 in the year",
+  "alreadyShipped": "no, shipped.js clean, no near-hit",
+  "scope": "in scope: Diary, pre-1999, publishable, on theme",
+  "sourceLineForm": "leads with the name, no dash, 136 characters"
+ },
+ "residual": "Note field is empty; it should record that Knight is the edition being followed and that Moorman's Oxford text reads about and about them with ampersands."
+}

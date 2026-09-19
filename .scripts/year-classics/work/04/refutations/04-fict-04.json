@@ -1,0 +1,18 @@
+{
+ "id": "04-fict-04",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "This is the one I expected to break, because the line is inspirational-poster famous and that is exactly the profile of the misattribution list. It does not break. The wording is inside the book. Open Library search inside the scan of The diary of Anais Nin, 1939 to 1944 returns the line in running context, Virginia, he showed no feeling. Life shrinks or expands in proportion to one's courage, so the sentence exists in the volume in the proposed wording rather than only in anthologies of it. I then ran the rival reading as a control. The query according to one's courage returns about forty six books, every one of them a quotation collection or a self-help title crediting Nin, and no edition of the Diary at all; the query in proportion to one's courage returns hundreds of the same kind of book plus, on the tighter context query, the Diary itself. So the direction of the error is settled: according to is the corrupted circulating form and in proportion to is the book, which is the opposite of what a refuter would hope for and the reason this one stands. The attribution is genuine Nin, not a case like the Emerson or Gandhi entries on the list where the famous name never wrote the words. The locator holds from two directions: the scan context, and the Oxford Reference quotation entry, which dates the line to June 1941 in volume three. The imprint is right too. Volume Three, 1939 to 1944, edited and prefaced by Gunther Stuhlmann, was published by Harcourt, Brace and World in 1969, which a December 1969 review of that volume confirms; Oxford's 1971 is a later printing, not the first publication, so the 1969 in the source line is correct and not a slip. Nin is not banned, stands at zero of three, has no shipped or near hit, and appears once in the month. Tag Diary is the form of the work. Scope is clean, publishable, and courage as expansion is a proper April line. The source line leads with the name, has no dash, and runs 115 characters. The only thing I would change is the empty note, which on a line this heavily circulated ought to record that the common according to one's courage version is wrong, so a reader who has seen it elsewhere is not left thinking the card misquoted.",
+ "checks": {
+  "wordingAgainstNamedEdition": "confirmed in the scan of the 1969 volume; the rival according to reading returns no hit in any edition of the Diary",
+  "locator": "confirmed twice: the scan context, and Oxford Reference dating it to June 1941 in volume three",
+  "attribution": "genuine Nin, not a misattribution-list case",
+  "speaker": "n/a",
+  "bannedOrAtCap": "not banned, 0 of 3 in the year",
+  "alreadyShipped": "no, shipped.js clean, no near-hit",
+  "scope": "in scope: Diary, 1969, publishable, on theme",
+  "sourceLineForm": "leads with the name, no dash, 115 characters"
+ },
+ "residual": "Note field is empty; it should record that the widely circulated according to one's courage wording is not the book's."
+}

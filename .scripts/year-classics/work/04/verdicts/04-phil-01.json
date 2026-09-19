@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-01",
+ "verdict": "CORRECTED",
+ "quote": "The Way is like a wide road. It is not at all difficult to find. The trouble with people is simply that they do not look for it.",
+ "source": "Mencius, Mencius, Book VI, Part B, 2 (trans. D. C. Lau, 1970)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "The wording was corrected by dropping the fourth sentence. Lau’s first three sentences are attested at VI.B.2, page 172 of the Penguin translation. The closing sentence about going home and finding teachers enough could not be found in Lau’s wording and may be a reconstruction, so the card ends at the third sentence.",
+ "evidence": {
+  "where": "An essay that quotes D. C. Lau’s Penguin Mencius directly, giving section and page as [VI:B:2, p. 172], alongside three other Lau passages with their own page numbers; the Penguin page itself was not seen, and archive.org search inside and Google Books were both unavailable this run",
+  "edition": "D. C. Lau, Mencius, Penguin Classics, 1970",
+  "locator": "Book VI, Part B, 2 (VI.B.2), p. 172, Mencius answering Ts’ao Chiao",
+  "url": "https://file770.com/like-a-wide-road/"
+ },
+ "confidence": "medium",
+ "reason": "The three sentences that ship are quoted verbatim from Lau with section and page by a source that names the 1970 Penguin edition and cites it consistently. The proposed fourth sentence is attested nowhere I could reach, and its opening You is not how Lau renders the short imperative that closes the passage in the Chinese, so it is dropped rather than shipped on faith. Not shipped elsewhere, not banned, Mencius stands at one of three and last appeared in month two."
+}

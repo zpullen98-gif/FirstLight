@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "Travellers who require that every nation should resemble their native country, had better stay at home.",
+ "source": "Mary Wollstonecraft, Letters Written During a Short Residence in Sweden, Norway, and Denmark, Letter V (J. Johnson, 1796)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "The full text of Project Gutenberg ebook 3529 was fetched and searched; the sentence was read in place in Letter V, with the paragraph around it about writers who consider the history of man on an enlarged scale and about blaming a people for their manners.",
+  "edition": "Letters Written During a Short Residence in Sweden, Norway, and Denmark (J. Johnson, 1796); Project Gutenberg ebook 3529, printing the Cassell’s National Library text of 1889",
+  "locator": "Letter V, in the paragraph following the remark on writers who have considered the history of man on a more enlarged scale",
+  "url": "https://www.gutenberg.org/cache/epub/3529/pg3529.txt"
+ },
+ "confidence": "high",
+ "reason": "Word for word in Letter V, including the double l of Travellers and the comma before had better, which many web copies drop. Wollstonecraft is new to the year and the book is a published volume of letters, so Correspondence is the right tag and it carries the month’s travel theme without preaching."
+}

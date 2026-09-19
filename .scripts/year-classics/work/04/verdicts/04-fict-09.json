@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-09",
+ "verdict": "VERIFIED",
+ "quote": "Spring is the time of plans and projects.",
+ "source": "Leo Tolstoy, Anna Karenina, Part Two, chapter 13 (trans. Constance Garnett, 1901)",
+ "speaker": "",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The full Garnett text downloaded from Project Gutenberg 1399 and searched. The sentence stands at line 7640, opening the second paragraph of Chapter 13, which begins at line 7633. PART TWO begins at line 5833 and PART THREE later, so the chapter is Part Two, chapter 13, exactly as proposed. The Gutenberg header names the translator as Constance Garnett. The paragraph before ends The real spring had come, and the sentence continues And, as he came out into the farmyard, Levin, like a tree in spring that knows not what form will be taken by the young shoots and twigs imprisoned in its swelling buds, hardly knew what undertakings he was going to begin upon now in the farm work that was so dear to him.",
+  "edition": "Anna Karenina, trans. Constance Garnett, Project Gutenberg 1399 (the Garnett text first published by Heinemann, 1901)",
+  "locator": "Part Two, chapter 13, the first sentence of the second paragraph, where Levin goes out to look after his farm after the thaw",
+  "url": "https://www.gutenberg.org/ebooks/1399.txt.utf-8"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in the Garnett text word for word, with the full stop as given, and the part and chapter are confirmed against the file's own division markers rather than against a quotation site. It is prose and ships as prose. Tolstoy stands at one of three for the year, from February, so a second line in April is within the cap and breaks no month rule."
+}

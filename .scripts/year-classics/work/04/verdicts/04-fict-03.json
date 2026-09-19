@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "Life is what we make of it. Travel is the traveller. What we see isn’t what we see but what we are.",
+ "source": "Fernando Pessoa, The Book of Disquiet, ‘Travel? One need only exist to travel’, last lines (Bernardo Soares) (trans. Richard Zenith, 2001)",
+ "tradition": "Diary",
+ "speaker": "Bernardo Soares, the assistant bookkeeper in whose voice the book is written",
+ "note": "",
+ "evidence": {
+  "where": "Open Library search inside the two Zenith scans returned the sentence in context from both: The book of disquietude: by Bernardo Soares, assistant bookkeeper in the city of Lisbon, and The Book of Disquiet, each reading particular type of sensations? Life is what we make of it. Travel is the traveller. What we see isn't what we see but what we are. The same search shows Zenith's Selected Prose of Fernando Pessoa printing traveler, so the spelling belongs to the edition. Lapham's Quarterly prints the whole text from The Book of Disquietude and it ends on these three sentences. Arquivo Pessoa gives the Portuguese: A vida e o que fazemos dela. As viagens sao os viajantes. O que vemos, nao e o que vemos, senao o que somos.",
+  "edition": "The Book of Disquiet, trans. Richard Zenith, Penguin, 2001; the same wording in The Book of Disquietude, Sheep Meadow Press, 1996",
+  "locator": "The text beginning Travel? One need only exist to travel, its last three sentences; a scholarly citation gives the 2002 Penguin page as 371 and Zenith's numbering as 451, neither seen on the page",
+  "url": "https://openlibrary.org/search/inside?q=%22Travel+is+the+traveller.+What+we+see%22"
+ },
+ "confidence": "high",
+ "reason": "The wording is confirmed inside both Zenith editions, not from an aggregator, and the Portuguese behind it is confirmed at Arquivo Pessoa from the Atica 1982 Livro do Desassossego. The double l is the reading of the editions named, so the source names the translator and year. The page number and fragment number are reported by others and are left out rather than asserted. Not shipped, no near match, Pessoa at zero of three, not banned, not on the misattribution list."
+}

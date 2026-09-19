@@ -1,0 +1,22 @@
+{
+ "month": 4,
+ "ok": false,
+ "problems": [
+  "Day 27 (Bernard Shaw, Back to Methuselah, Act I): the card runs two Serpent speeches together. ‘You see things; and you say “Why?” But I dream things that never were; and I say “Why not?”’ and ‘I made the word dead to describe my old skin that I cast when I am renewed. I call that renewal being born.’ are not contiguous in Act I, and the locator names only the act, so a reader cannot check the join. Either drop the second half, or give the exact page of a named edition and add a hedging note; as it stands it is an unmarked splice and the card carries no note.",
+  "The report block understates englishOriginal: it says 12, but the month has 13 lines originally written in English (days 4, 6, 10, 11, 15, 17, 21, 22, 23, 27, 29, 30, plus day 14, Okakura Kakuzō's The Book of Tea, which was written in English, not translated). The month is still under the cap of 16, so no line needs to change, but the figure should be corrected before the month lands."
+ ],
+ "checks": {
+  "count": "30 of 30 days, no shortfall, no padding",
+  "dayOrder": "1 to 30, in order, no gaps or repeats",
+  "quoteEndings": "all 30 end in a stop, question mark or exclamation mark",
+  "curlyQuotes": "no straight double quote anywhere in quote or source",
+  "sources": "all lead with the author's name, name a work, contain no dash, and are within 140 characters",
+  "translators": "every translated line names its translator and year (days 1, 2, 3, 5, 7, 8, 9, 12, 13, 16, 18, 19, 20, 24, 25, 26, 28)",
+  "tags": "all seven in vocabulary; Poetry 8, Drama 4, Philosophy 4, Essay 4, Fiction 4, Correspondence 3, Diary 3",
+  "notes": "notes appear only on days 1, 2, 8, 20, 22, 26, 28, all corrected or hedged, none containing a dash",
+  "persons": "no person twice in the month; Chekhov and Shakespeare reach three for the year, none exceeds the cap",
+  "banned": "no banned author present",
+  "balance": "women 10 (target 8), largest country England 5 (cap 10), centuries 11 (target 3), tags 7 (target 4)",
+  "deadLane": "no tag at zero or one; thinnest lanes Correspondence and Diary at three each"
+ }
+}

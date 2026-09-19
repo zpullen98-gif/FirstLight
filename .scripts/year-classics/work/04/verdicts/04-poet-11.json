@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-11",
+ "verdict": "VERIFIED",
+ "quote": "“Does the road wind up-hill all the way? / Yes, to the very end. / Will the day’s journey take the whole long day? / From morn to night, my friend.”",
+ "source": "Christina Rossetti, Up-Hill, lines 1 to 4, Goblin Market and Other Poems (Macmillan, 1862)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of the Macmillan collected volume, read inside its Goblin Market and Other Poems 1862 section; the whole of Up-Hill checked",
+  "edition": "Goblin Market, The Prince’s Progress, and Other Poems (Macmillan); the poem as printed in Goblin Market and Other Poems, Macmillan, 1862",
+  "locator": "Up-Hill, first stanza, lines 1 to 4",
+  "url": "https://www.gutenberg.org/cache/epub/16950/pg16950.txt"
+ },
+ "confidence": "high",
+ "reason": "The first stanza is word for word and the lineation is the printed lineation, with the indented answers kept as their own lines. The stanza asks and answers about the road only; the inn and the darkness come later in the poem, so nothing bleak is carried over. Not shipped, Rossetti at zero of three."
+}

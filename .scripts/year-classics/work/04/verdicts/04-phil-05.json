@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "If the way which I have pointed out as leading to this result seems exceedingly hard, it may nevertheless be discovered. Needs must it be hard, since it is so seldom found. How would it be possible, if salvation were ready to our hand, and could without great labour be found, that it should be by almost all men neglected? But all things excellent are as difficult as they are rare.",
+ "source": "Baruch Spinoza, Ethics, Part V, Proposition XLII, Note, the closing sentences (trans. R. H. M. Elwes, 1883)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the Project Gutenberg plain text of the Elwes translation and read the passage in place: PROP. XLII (Blessedness is not the reward of virtue, but virtue itself) stands at line 9671, its Note follows, and these four sentences are the last of the book, printed immediately before End of the Ethics. Every word and comma matches the proposal, including Needs must it be hard with no indeed.",
+  "edition": "The Ethics, trans. R. H. M. Elwes (1883), Project Gutenberg ebook 3800",
+  "locator": "Part V, Proposition XLII, Note, the closing sentences of the work",
+  "url": "https://www.gutenberg.org/cache/epub/3800/pg3800.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is exactly the Elwes text at the named place, and the place is genuinely the end of the Ethics, so the closing fame test holds. shipped.js: not shipped, no near match, Spinoza at 0 of 3, not banned. Nothing in it needs a content warning and it lands on the month's theme of a hard way kept to."
+}

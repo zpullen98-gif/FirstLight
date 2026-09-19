@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "When I left Queen’s my future seemed to stretch out before me like a straight road. I thought I could see along it for many a milestone. Now there is a bend in it. I don’t know what lies around the bend, but I’m going to believe that the best does.",
+ "source": "L. M. Montgomery, Anne of Green Gables, chapter XXXVIII, The Bend in the Road (L. C. Page, 1908) (Anne Shirley)",
+ "speaker": "Anne Shirley, to Marilla Cuthbert",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The full text downloaded from Project Gutenberg 45, which follows the 1908 L. C. Page first edition, and searched. The passage stands at lines 10630 to 10636, inside CHAPTER XXXVIII. The Bend in the Road, which begins at line 10504. It falls in Anne's speech to Marilla giving up the Redmond scholarship: Oh, I've dozens of plans, Marilla comes a few lines before, and It has a fascination of its own, that bend, Marilla follows directly after. Marilla answers I don't feel as if I ought to let you give it up, referring to the scholarship, which fixes both the speaker and the person addressed.",
+  "edition": "Anne of Green Gables (L. C. Page, 1908), in the Project Gutenberg 45 transcription of the first edition",
+  "locator": "Chapter XXXVIII, The Bend in the Road, in Anne's speech to Marilla giving up the Redmond scholarship",
+  "url": "https://www.gutenberg.org/ebooks/45.txt.utf-8"
+ },
+ "confidence": "high",
+ "reason": "All four sentences match the text exactly, in order and without a cut, and the chapter is confirmed from the file's own chapter heading rather than from a quotation site. The speaker is Anne and the hearer is Marilla, both shown by the surrounding dialogue, so the speaker goes in the source. The proposal left the 1908 page number unfixed; the chapter and its title locate the passage without one, so the page is simply dropped rather than guessed. Montgomery stands at one of three for the year, from January, so a second line in April is within the cap and in a different month."
+}

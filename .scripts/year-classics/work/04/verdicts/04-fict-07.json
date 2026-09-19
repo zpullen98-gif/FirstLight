@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-07",
+ "verdict": "VERIFIED",
+ "quote": "To-day I made the ascent of the highest mountain in this region, which is not improperly called Ventosum. My only motive was the wish to see what so great an elevation had to offer.",
+ "source": "Petrarch, The Ascent of Mount Ventoux, Familiares IV.1, opening sentences (trans. James Harvey Robinson, 1898)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Two independent presentations of the same 1898 translation: the Fordham Internet Medieval Sourcebook text, which carries Robinson's inline page marks and shows the mark (308) falling inside the first sentence, and the Hanover Historical Texts text, which names the translator and the bibliographic source outright. Both open with these two sentences word for word, and both end the letter signed Malaucene, April 26.",
+  "edition": "Petrarch: The First Modern Scholar and Man of Letters, trans. James Harvey Robinson with the collaboration of Henry Winchester Rolfe (G. P. Putnam, 1898), pp. 307 to 320",
+  "locator": "The opening two sentences of the letter to Dionisio da Borgo San Sepolcro, pp. 307 to 308",
+  "url": "https://history.hanover.edu/texts/petrarch/pet17.html"
+ },
+ "confidence": "high",
+ "reason": "The opening is verbatim in the named translation, including the hyphenated To-day and the Latin Ventosum, and the Hanover text supplies the translator and page range that the Fordham text leaves implicit. The source line names Robinson alone for length; Rolfe collaborated on the volume rather than on this letter's wording. The date is the traditional 26 April 1336, which suits April, and the scholarly doubt about when Petrarch actually wrote the letter up does not touch the text. Petrarch is new to the year, and the 14th century widens the month's spread."
+}

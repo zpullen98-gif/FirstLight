@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "All the same I’m not going to accept your kind invitation, for the time being at any rate. The reason is that my pink cactus is probably going to flower. It’s a very rare plant I’ve been given, and I’m told that in our climate it flowers only once every four years.",
+ "source": "Colette, Break of Day, the letter that opens the book, pp. 5 to 6 (Sido, the narrator’s mother) (trans. Enid McLeod, 1961)",
+ "speaker": "Sido, the narrator’s mother",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Independent full text search of the Internet Archive scans through openlibrary.org/search/inside. Four separate queries were run. The Break of Day scans return “All the same I'm not going to accept your kind invitation, for the time being at any rate”, with no comma after All the same, and “my pink cactus is probably going to flower. It's a very rare plant”, and “in our climate it flowers only once every four years. Now, I am already a very”, which fixes the full stop after four years. The comma variant that the first verdict inserted is real but belongs to a different setting: Gigi and Selected Writings alone returns “All the same, I'm not going to accept your kind invitation”. The 1961 edition is confirmed by Open Library record OL5828941M, Farrar, Straus and Cudahy, 143 pages, translated by Enid McLeod with an introduction by Glenway Wescott. The page span is fixed by the Break of Day snippet “I am the daughter of the woman who wrote that letter, that 6 BREAK OF DAY letter”, which carries the page 6 running head, and by The Lioness in Winter citing the passage as 1961:5. The pages themselves are lending restricted and were not opened, so the wording is witnessed through the scans' own text index rather than by eye. The French reads mon cactus rose va probablement fleurir, which supports probably against the finally of the loose web copies. shipped.js returns not shipped, nothing near, Colette at none of three, not banned.",
+  "edition": "Break of Day, trans. Enid McLeod, introd. Glenway Wescott (Farrar, Straus and Cudahy, 1961)",
+  "locator": "The letter from the narrator's mother that opens the book, pp. 5 to 6, before the narrator says she is the daughter of the woman who wrote that letter",
+  "url": "https://openlibrary.org/search/inside?q=%22not+going+to+accept+your+kind+invitation%22"
+ },
+ "confidence": "high",
+ "reason": "The refutation is upheld and the first verdict is overturned: the comma after All the same was not a restoration but an import from Gigi and Selected Writings, a different setting of the text, and the proposal's original wording is what the named 1961 McLeod Break of Day prints. Four independent full text queries against the Break of Day scans agree on every disputed point, so the line ships unchanged from the proposal and the verdict is VERIFIED rather than CORRECTED. The source line is rebuilt to the landed precedent, speaker before translation, and the unverifiable claim that Sido's real letter accepted the invitation is left off the card."
+}

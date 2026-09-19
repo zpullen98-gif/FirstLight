@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-12",
+ "verdict": "CORRECTED",
+ "quote": "All the same, I’m not going to accept your kind invitation, for the time being at any rate. The reason is that my pink cactus is probably going to flower. It’s a very rare plant I’ve been given, and I’m told that in our climate it flowers only once every four years.",
+ "source": "Colette, Break of Day, the letter that opens the book (trans. Enid McLeod, 1961) (Sido, the narrator’s mother)",
+ "speaker": "Sido, the narrator’s mother",
+ "tradition": "Fiction",
+ "note": "Corrected: a comma after All the same was missing and is restored. The wording follows two independent reproductions of Enid McLeod’s 1961 translation. The printed page was not opened, because the only scan is lending restricted, so confidence in the punctuation is medium. The letter opens the novel.",
+ "evidence": {
+  "where": "The edition was confirmed from the Internet Archive metadata for breakofdaynovel0000cole and from the Open Library record OL5828941M, which gives Break of Day, Farrar, Straus and Cudahy, New York, 1961, 143 pages, by statement Translated by Enid McLeod. Introd. by Glenway Wescott. The scan itself is access restricted and search inside returned nothing, so the wording rests on two independent reproductions of the opening letter, at Letters of Note and at HeadButler, which agree with each other in every word and in both commas. The French reads mon cactus rose va probablement fleurir, which supports probably and rules out the finally found in one loose blog quotation.",
+  "edition": "Break of Day, trans. Enid McLeod, introd. Glenway Wescott (Farrar, Straus and Cudahy, 1961)",
+  "locator": "The letter from the narrator's mother that opens the book, before the narrator says she is the daughter of the woman who wrote that letter",
+  "url": "https://archive.org/details/breakofdaynovel0000cole"
+ },
+ "confidence": "medium",
+ "reason": "The attribution, work, translator and edition all hold up: the 1961 Farrar, Straus and Cudahy Break of Day is McLeod's translation, and the letter does open the book. The proposal dropped the comma after All the same, which both reproductions carry, so the wording is corrected and the verdict is CORRECTED rather than VERIFIED. The unverified page numbers are dropped from the source. The proposal also wanted the note to say the letter Sido really wrote accepted the invitation; that claim could not be confirmed and one source says the opposite, so it is left out rather than printed on the card. Colette is new to the year and stands at none of three."
+}

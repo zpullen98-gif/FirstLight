@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "The roofs are shining from the rain, / The sparrows twitter as they fly, / And with a windy April grace / The little clouds go by. / Yet the back-yards are bare and brown / With only one unchanging tree— / I could not be so sure of Spring / Save that it sings in me.",
+ "source": "Sara Teasdale, April, the whole poem, Rivers to the Sea (Macmillan, 1915)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "Two Internet Archive scans of the Macmillan 1915 first edition, the Cornell copy and the Google scanned copy, read as OCR text this run, and Project Gutenberg ebook 596 as a clean transcription; the three agree",
+  "url": "https://archive.org/download/riverstosea02teasgoog/riverstosea02teasgoog_djvu.txt",
+  "edition": "Rivers to the Sea (New York: The Macmillan Company, 1915)",
+  "locator": "April, both quatrains, the complete eight line poem"
+ },
+ "confidence": "high",
+ "reason": "Both 1915 scans carry the dash after tree and the comma after fly, and Gutenberg 596 agrees; the proposal had only Gutenberg behind it, so the evidence here is the first edition itself. The printed page sets the opening word in small capitals, a convention used for every poem in the book, and it is rendered The. Teasdale is not shipped, not banned, at zero of three."
+}

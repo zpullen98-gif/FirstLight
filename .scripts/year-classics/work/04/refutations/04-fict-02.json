@@ -1,0 +1,18 @@
+{
+ "id": "04-fict-02",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and survived. I read the named translation itself at the Penn Digital Library transcription of Diaries of Court Ladies of Old Japan and the first sentence of the Sarashina Diary is exactly I was brought up in a distant province which lies farther than the farthest end of the Eastern Road, ending in a full stop, with the translators given as Annie Shepley Omori and Kochi Doi and the imprint Houghton Mifflin, 1920, and the diary occupying pp. 1 to 68. So translation, translators, year and the opening-sentence claim all hold, and the wording is the 1920 wording rather than a later rendering. Translation drift is the obvious attack on a line like this and it fails here because the proposal is not reaching for a modern version: Morris and Arntzen render the same opening quite differently, and a proposal that used their phrasing while crediting Omori and Doi would be refuted. This one does not. Setting I WAS in small capitals and dropping the footnote marker after province are typographic, not textual. The author name is the one point worth arguing and it still stands: Lady Sarashina is a convention of exactly this translation, which titles the work The Sarashina Diary and names her so; scholars call her the daughter of Sugawara no Takasue, but since the source line names the translation, the name it uses is the name that translation prints, and changing it would make the card disagree with its own cited edition. Not banned, zero for the year under sarashina, no shipped hit, no near-hit, and no second line by her in the month. Tag Diary is the form of the work. Scope is clean: eleventh-century memoir, not scripture, nothing needing a warning, and the opening of a travel diary is squarely on the month's road theme. The source line leads with the name, has no dash, and runs 106 characters. The empty note is the only soft spot: it would be worth saying that Lady Sarashina is the translators' name for the author and that the diary is otherwise known by the daughter of Sugawara no Takasue.",
+ "checks": {
+  "wordingAgainstNamedTranslation": "confirmed verbatim in the Omori and Doi 1920 text",
+  "locator": "confirmed: the opening sentence of the diary, which opens the volume, pp. 1 to 68",
+  "attribution": "correct as the named edition gives it; Lady Sarashina is that edition's name for the author",
+  "speaker": "n/a",
+  "bannedOrAtCap": "not banned, 0 of 3 in the year",
+  "alreadyShipped": "no, shipped.js clean, no near-hit",
+  "scope": "in scope: Diary, pre-1999, publishable, on theme",
+  "sourceLineForm": "leads with the name, no dash, 106 characters"
+ },
+ "residual": "Note field is empty; it should say that Lady Sarashina is the 1920 translators' name for the author, now usually called the daughter of Sugawara no Takasue."
+}

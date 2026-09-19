@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-12",
+ "verdict": "REJECT",
+ "quote": "Yet often the mountain gives itself most completely when I have no destination, when I reach nowhere in particular, but have gone out merely to be with the mountain as one visits a friend with no intention but to be with him.",
+ "source": "Nan Shepherd, The Living Mountain, chapter 2, The Recesses (Canongate, 2011), p. 15; first published 1977",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "I fetched the page-by-page reader of the Canongate 2011 paperback at readingandwalking.ca, which prints the sentence verbatim with its leading Yet, places it in chapter 2, The Recesses, and cites it as page 15. A web search returned the same wording across independent quotation pages. The printed page itself is not openable: both archive.org copies are lending-restricted.",
+  "edition": "The Living Mountain: A Celebration of the Cairngorm Mountains of Scotland (Canongate, 2011); first published Aberdeen University Press, 1977",
+  "locator": "Chapter 2, The Recesses, p. 15 of the Canongate 2011 text",
+  "url": "https://readingandwalking.ca/2019/05/27/49-nan-shepherd-the-living-mountain/"
+ },
+ "confidence": "high",
+ "reason": "The sentence is genuine and I confirmed its wording, chapter and page independently, so this is not a citation failure. It is a duplicate. The identical sentence, word for word and Yet for Yet, is already ruled VERIFIED as 04-fict-16, which survived a five-front refutation, carries the chapter as well as the page, and sets the publisher before the page as the landed precedents do. April cannot print the same sentence twice and rule 8 forbids the same person twice in a month, so one copy has to go and this is the weaker one: its locator gives the page alone and its own note concedes the chapter was unconfirmed, and its source line reverses house order. Reject this id and land 04-fict-16, which loses the month nothing."
+}

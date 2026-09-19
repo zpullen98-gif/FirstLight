@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-10",
+ "verdict": "CORRECTED",
+ "quote": "“Oh, to be in England / Now that April’s there, / And whoever wakes in England / Sees, some morning, unaware, / That the lowest boughs and the brush-wood sheaf / Round the elm-tree bole are in tiny leaf, / While the chaffinch sings on the orchard bough / In England—now!”",
+ "source": "Robert Browning, Home-Thoughts, from Abroad, lines 1 to 8, Dramatic Romances and Lyrics (1845); text: Poems (Chapman and Hall, 1849)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "CORRECTED: the wording now follows Browning’s first collected Poems of 1849, verified in two scans. The card before read who wakes and dated that to the 1845 pamphlet, but who wakes was found only in the Ward, Lock reprint of 1896, and no 1845 printing was opened. Every other edition reads whoever.",
+ "evidence": {
+  "where": "Two independent Internet Archive scans of Poems by Robert Browning, in Two Volumes, Vol. II, A New Edition, London: Chapman and Hall, 1849 (copies poemsbrowning02browrich and poemsbro02browuoft), read at the page; cross checked against the Vale Press Dramatic Romances and Lyrics (Ballantyne Press for Hacon and Ricketts, 1899) and against the Ward, Lock reprint the earlier verdict relied on",
+  "edition": "Robert Browning, Poems, in Two Volumes, Vol. II, A New Edition (London: Chapman and Hall, 1849)",
+  "locator": "Dramatic Romances and Lyrics section, Home-Thoughts, from Abroad, p. 343, lines 1 to 8",
+  "url": "https://archive.org/details/poemsbrowning02browrich"
+ },
+ "confidence": "high",
+ "reason": "The refutation holds on the point that matters. The Wikisource transcription behind the earlier verdict is proofread against Bells And Pomegranates Second Series, whose index gives Ward, Lock and Company, London, 1897, editor Thomas James Wise, so the rare reading who wakes was never checked against a Moxon 1845 copy and no 1845 scan is available. I read the 1849 Chapman and Hall Poems, Vol. II, p. 343 in two separate scans: it reads And whoever wakes in England, with brush-wood sheaf hyphenated and In England—now! with the long dash, and the 1899 Vale Press reprint agrees on whoever. The Ward, Lock volume does look like a faithful reprint of the 1845 state, since it keeps the original titles Italy in England, England in Italy, The Tomb at St. Praxed's and Claret and Tokay, which 1849 had already changed, and it keeps the Nelson stanza as section II; so who wakes may well be Browning's 1845 reading. But it rests on that one reprint, and a card may not date a rare reading to a book nobody opened. Shipping the received wording from an edition read at the page removes the doubt instead of hiding it. Everything else stands: attribution, work, in scope, publishable, verse lineation and head capitals correct, source 132 characters with no dash, and shipped.js reports not shipped, nothing near, Browning zero of three, not banned."
+}

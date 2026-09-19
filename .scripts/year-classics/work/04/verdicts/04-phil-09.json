@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "Life is occupied in both perpetuating itself and in surpassing itself; if all it does is maintain itself, then living is only not dying, and human existence is indistinguishable from an absurd vegetation; a life justifies itself only if its effort to perpetuate itself is integrated into its surpassing and if this surpassing has no other limits than those which the subject assigns himself.",
+ "source": "Simone de Beauvoir, The Ethics of Ambiguity, Part III, 2, Freedom and Liberation (trans. Bernard Frechtman, 1948)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Frechtman translation as printed by the Marxists Internet Archive was searched for the phrase absurd vegetation and for the opening clause; both halves of the sentence came back word for word, and the section heading was read off the chapter’s own list of headings.",
+  "edition": "The Ethics of Ambiguity, trans. Bernard Frechtman (Philosophical Library, 1948); Citadel Press reprints carry the same text",
+  "locator": "Part III, The Positive Aspect of Ambiguity, section 2, Freedom and Liberation",
+  "url": "https://www.marxists.org/reference/subject/ethics/de-beauvoir/ambiguity/ch03.htm"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands in Frechtman word for word, in Part III under the heading Freedom and Liberation, exactly where the proposal placed it. The shipped source names the part and section rather than the proposed pages 81 to 82, because the page range belongs to one printing and could not be checked, while the section is locatable in every edition. Beauvoir stands at one of three for the year, her other line landed in January, so the month rule is clear."
+}

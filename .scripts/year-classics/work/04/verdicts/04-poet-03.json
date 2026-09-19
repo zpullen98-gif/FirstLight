@@ -1,0 +1,17 @@
+{
+ "id": "04-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "And this our life, exempt from public haunt, / Finds tongues in trees, books in the running brooks, / Sermons in stones, and good in everything.",
+ "source": "William Shakespeare, As You Like It, Act 2, scene 1, lines 15 to 17, Folger Shakespeare Library edition (Duke Senior)",
+ "speaker": "Duke Senior",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "The Folger Shakespeare plain-text file was downloaded and the passage read in place; the speech is the first of the scene, so its lines were counted from the scene head and the three quoted lines fall at 15 to 17.",
+  "edition": "The Folger Shakespeare, As You Like It, Folger Shakespeare Library",
+  "locator": "Act 2, scene 1, lines 15 to 17, Duke Senior's opening speech in the Forest of Arden, the three lines after 'Wears yet a precious jewel in his head' and before Amiens answers",
+  "url": "https://folger-main-site-assets.s3.amazonaws.com/uploads/2022/11/as-you-like-it_TXT_FolgerShakespeare.txt"
+ },
+ "confidence": "high",
+ "reason": "The Folger text reads exactly as proposed, with 'everything' set as one word and a full stop closing the sentence, and the line count from the scene head confirms 15 to 17. Shakespeare stands at two of three in the year, so the third is within the cap."
+}

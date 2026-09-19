@@ -1,0 +1,2287 @@
+{
+ "month": 4,
+ "name": "April",
+ "theme": "Renewal and the Way",
+ "blurb": "Spring in the poets, and the path in the philosophers. Setting out, and the road that teaches.",
+ "days": 30,
+ "landedSoFar": 91,
+ "tagsSoFar": {
+  "Diary": 9,
+  "Correspondence": 7,
+  "Poetry": 21,
+  "Fiction": 17,
+  "Philosophy": 18,
+  "Essay": 10,
+  "Drama": 9
+ },
+ "vocabulary": [
+  "Philosophy",
+  "Poetry",
+  "Drama",
+  "Fiction",
+  "Essay",
+  "Correspondence",
+  "Diary"
+ ],
+ "rules": [
+  "A line from a NAMED WORK by a named author, philosophy or imaginative literature, first published before 2000.",
+  "Famous, meaning one of: the opening or closing line of a work; the sentence the work is known by; a locatable entry in a standard reference (a fame signal, never a verification).",
+  "It must help at six in the morning on this month's theme. Famous and bleak is out.",
+  "Every candidate carries a LOCATABLE citation before it is proposed: work, and book/chapter/letter/section/line, or edition and page. A translated line names the translator and year of the published translation whose wording it uses.",
+  "The source line LEADS with the author's name (the card prints it as the byline and has no author field), then the work, then the locator, then the translation in parentheses. A character's line names the speaker in parentheses after the locator. At most 140 characters. No em dash in the source or the note: use a colon.",
+  "The quotation ends in a full stop, question mark or exclamation mark. Curly quotes only; no straight double quote anywhere.",
+  "VERSE keeps its line breaks, marked \" / \" (a slash with a space each side), in the lineation of the edition named, with the poem's own capitals at the line head. A verse quotation is never run together as prose. Prose is never broken into lines.",
+  "No person twice in the month; at most three lines per person in the year. Authors on the banned list never.",
+  "Per month the editor balances: at most 10 entries from one country, at most 16 originally written in English, at least 8 women, at least 4 of the 7 tags, at least 3 centuries. Curators recruit toward that: name translators, go beyond the English canon.",
+  "Nothing already shipped in Q, Q_MAKERS, UPLIFT or this file: run node .scripts/year-classics/shipped.js \"<quote>\" \"<author>\" before proposing, and again before ruling.",
+  "Keep the material publishable: no graphic description of wounds, dying or atrocity. A quotation that would need a content warning is the wrong quotation, however powerful.",
+  "A confident false citation is worse than an honest \"attributed to\". Never mint wording. Where the trail runs out, HEDGE with a note that says so plainly.",
+  "The editor is forbidden to pad the month to reach the day count.",
+  "LANE FLOORS. The fiction-essay lane covers four forms and in February proposed sixteen with one diary line and one letter among them, so the month landed full with Diary and Correspondence at one each: the Makers' dead-lane symptom, from a live lane. From March the fiction-essay lane proposes at least three Diary and at least three Correspondence candidates in its sixteen; the poetry-drama lane at least four Drama; the philosophy lane at least two Essay. A lane that cannot meet its floor says so rather than padding."
+ ],
+ "outOfScope": [
+  "scripture and liturgy (the Library owns them)",
+  "film and television lines (the lift bank owns them)",
+  "song lyrics",
+  "proverbs and anonymous traditions (the Philosophers' Wisdom tag owns them)",
+  "business, self-help and motivational writing",
+  "speeches and oratory (the Makers' ground)",
+  "anything first published after 1999",
+  "anything that would need a content warning"
+ ],
+ "banned": [
+  "Marcus Aurelius",
+  "Confucius",
+  "Laozi",
+  "Lao Tzu",
+  "Seneca",
+  "Zhuangzi",
+  "Chuang Tzu",
+  "Epictetus",
+  "Publilius Syrus",
+  "Cicero"
+ ],
+ "personsAtCap": [],
+ "personsUsed": [
+  {
+   "person": "matsuo basho",
+   "count": 1
+  },
+  {
+   "person": "rainer maria rilke",
+   "count": 2
+  },
+  {
+   "person": "alfred tennyson",
+   "count": 1
+  },
+  {
+   "person": "clarice lispector",
+   "count": 1
+  },
+  {
+   "person": "epicurus",
+   "count": 1
+  },
+  {
+   "person": "l. m. montgomery",
+   "count": 1
+  },
+  {
+   "person": "immanuel kant",
+   "count": 1
+  },
+  {
+   "person": "sarojini naidu",
+   "count": 1
+  },
+  {
+   "person": "s ren kierkegaard",
+   "count": 1
+  },
+  {
+   "person": "anton chekhov",
+   "count": 2
+  },
+  {
+   "person": "dante alighieri",
+   "count": 1
+  },
+  {
+   "person": "hannah arendt",
+   "count": 1
+  },
+  {
+   "person": "sei shonagon",
+   "count": 1
+  },
+  {
+   "person": "mary ann evans",
+   "count": 2
+  },
+  {
+   "person": "william shakespeare",
+   "count": 2
+  },
+  {
+   "person": "wis awa szymborska",
+   "count": 1
+  },
+  {
+   "person": "henry david thoreau",
+   "count": 2
+  },
+  {
+   "person": "simone de beauvoir",
+   "count": 1
+  },
+  {
+   "person": "fyodor dostoevsky",
+   "count": 2
+  },
+  {
+   "person": "c. p. cavafy",
+   "count": 1
+  },
+  {
+   "person": "anne frank",
+   "count": 1
+  },
+  {
+   "person": "henri bergson",
+   "count": 1
+  },
+  {
+   "person": "emily dickinson",
+   "count": 2
+  },
+  {
+   "person": "italo calvino",
+   "count": 1
+  },
+  {
+   "person": "franz kafka",
+   "count": 1
+  },
+  {
+   "person": "katherine mansfield",
+   "count": 2
+  },
+  {
+   "person": "william james",
+   "count": 2
+  },
+  {
+   "person": "lu xun",
+   "count": 1
+  },
+  {
+   "person": "t. s. eliot",
+   "count": 1
+  },
+  {
+   "person": "albert camus",
+   "count": 1
+  },
+  {
+   "person": "philip larkin",
+   "count": 1
+  },
+  {
+   "person": "mencius",
+   "count": 1
+  },
+  {
+   "person": "naomi shihab nye",
+   "count": 1
+  },
+  {
+   "person": "terence",
+   "count": 1
+  },
+  {
+   "person": "etty hillesum",
+   "count": 1
+  },
+  {
+   "person": "william wordsworth",
+   "count": 1
+  },
+  {
+   "person": "simone weil",
+   "count": 2
+  },
+  {
+   "person": "gabriela mistral",
+   "count": 1
+  },
+  {
+   "person": "friedrich nietzsche",
+   "count": 2
+  },
+  {
+   "person": "harper lee",
+   "count": 1
+  },
+  {
+   "person": "kobayashi issa",
+   "count": 1
+  },
+  {
+   "person": "jane austen",
+   "count": 1
+  },
+  {
+   "person": "shantideva",
+   "count": 1
+  },
+  {
+   "person": "rosa luxemburg",
+   "count": 1
+  },
+  {
+   "person": "charlotte bronte",
+   "count": 1
+  },
+  {
+   "person": "sophocles",
+   "count": 1
+  },
+  {
+   "person": "toni morrison",
+   "count": 1
+  },
+  {
+   "person": "arthur schopenhauer",
+   "count": 1
+  },
+  {
+   "person": "gwendolyn brooks",
+   "count": 1
+  },
+  {
+   "person": "leo tolstoy",
+   "count": 1
+  },
+  {
+   "person": "iris murdoch",
+   "count": 2
+  },
+  {
+   "person": "edwin markham",
+   "count": 1
+  },
+  {
+   "person": "marcel proust",
+   "count": 1
+  },
+  {
+   "person": "martin buber",
+   "count": 1
+  },
+  {
+   "person": "lorraine hansberry",
+   "count": 1
+  },
+  {
+   "person": "thornton wilder",
+   "count": 1
+  },
+  {
+   "person": "aristotle",
+   "count": 1
+  },
+  {
+   "person": "anthony trollope",
+   "count": 1
+  },
+  {
+   "person": "hesiod",
+   "count": 1
+  },
+  {
+   "person": "abigail adams",
+   "count": 1
+  },
+  {
+   "person": "friedrich schiller",
+   "count": 1
+  },
+  {
+   "person": "samuel johnson",
+   "count": 1
+  },
+  {
+   "person": "wang yangming",
+   "count": 1
+  },
+  {
+   "person": "alexander pope",
+   "count": 1
+  },
+  {
+   "person": "harriet martineau",
+   "count": 1
+  },
+  {
+   "person": "blaise pascal",
+   "count": 1
+  },
+  {
+   "person": "seamus heaney",
+   "count": 1
+  },
+  {
+   "person": "henri-frederic amiel",
+   "count": 1
+  },
+  {
+   "person": "henrik ibsen",
+   "count": 1
+  },
+  {
+   "person": "maria montessori",
+   "count": 1
+  },
+  {
+   "person": "yoshida kenko",
+   "count": 1
+  },
+  {
+   "person": "horace",
+   "count": 1
+  },
+  {
+   "person": "sarah orne jewett",
+   "count": 1
+  },
+  {
+   "person": "miguel de cervantes",
+   "count": 1
+  },
+  {
+   "person": "elizabeth barrett browning",
+   "count": 1
+  },
+  {
+   "person": "quintilian",
+   "count": 1
+  },
+  {
+   "person": "amantine dupin",
+   "count": 1
+  },
+  {
+   "person": "annie dillard",
+   "count": 1
+  },
+  {
+   "person": "johann wolfgang von goethe",
+   "count": 1
+  }
+ ],
+ "carryIns": [
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-10",
+   "quote": "Our battered suitcases were piled on the sidewalk again; we had longer ways to go. But no matter, the road is life.",
+   "source": "Jack Kerouac, On the Road, Part Three, ch. 5, closing sentence (Sal Paradise)",
+   "tradition": "Fiction",
+   "note": "Verified against fifteen scans of the Viking and Penguin text; it closes chapter 5 of Part Three. A road line, for the month of the Way.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-fict-06",
+   "quote": "Mrs. Dalloway said she would buy the flowers herself.",
+   "source": "Virginia Woolf, Mrs Dalloway, the opening sentence (1925)",
+   "tradition": "Fiction",
+   "note": "Verified opening line. Held because January had more openings than days.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-12",
+   "quote": "Yes, of course it hurts when buds are breaking. Why else would the springtime falter?",
+   "source": "Karin Boye, Yes, Of Course It Hurts, lines 1 and 2, För trädets skull (1935) (trans. David McDuff, 1994)",
+   "tradition": "Poetry",
+   "note": "Verified in McDuff. Buds breaking: a spring line.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 2,
+   "id": "02-cfl-02",
+   "quote": "Travel is fatal to prejudice, bigotry and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things can not be acquired by vegetating in one little corner of the earth all one’s lifetime.",
+   "source": "Mark Twain, The Innocents Abroad, Conclusion (American Publishing Company, 1869)",
+   "tradition": "Essay",
+   "note": "Verified in the 1869 first edition, p. 650; the real text behind Calendar For Life candidate 1. A road line more than a kindness line.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 2,
+   "id": "02-cfl-03",
+   "quote": "There is no foreign land; it is the traveller only that is foreign, and now and again, by a flash of recollection, lights up the contrasts of the earth.",
+   "source": "Robert Louis Stevenson, The Silverado Squatters, Part II, With the Children of Israel, chapter III, The Return (Chatto and Windus, 1883)",
+   "tradition": "Essay",
+   "note": "CORRECTED: the sentence is in The Return, Part II, not The Scot Abroad. The real text behind Calendar For Life candidate 36. A road line.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 2,
+   "id": "02-cfl-05",
+   "quote": "The wide world is all about you: you can fence yourselves in, but you cannot for ever fence it out.",
+   "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, chapter 3, Three is Company (George Allen and Unwin, 1954) (Gildor Inglorion)",
+   "tradition": "Fiction",
+   "note": "Verified with the two-word for ever; the Calendar For Life copy modernised it. Only one Tolkien may land in a month and the bank carries many.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 2,
+   "id": "02-poet-15",
+   "quote": "You do not have to be good. / You do not have to walk on your knees / for a hundred miles through the desert repenting. / You only have to let the soft animal of your body / love what it loves.",
+   "source": "Mary Oliver, Wild Geese, lines 1 to 5, Dream Work (Atlantic Monthly Press, 1986), p. 14",
+   "tradition": "Poetry",
+   "note": "Verified against reprints crediting Dream Work, no comma before repenting; later printings add one. A renewal line.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 3,
+   "id": "03-cfl-02",
+   "quote": "Our life is March weather, savage and serene in one hour.",
+   "source": "Ralph Waldo Emerson, Representative Men, IV, Montaigne; or, the Skeptic (Phillips, Sampson and Company, 1850), p. 174",
+   "tradition": "Essay",
+   "note": "Verified in the 1850 first edition, p. 174. It says March but is about moods and the inconstancy of belief, not discipline; the refuter named it the first to drop. Spring weather, for April.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 3,
+   "id": "03-cfl-09",
+   "quote": "And we should consider every day lost on which we have not danced at least once.",
+   "source": "Friedrich Nietzsche, Thus Spoke Zarathustra, Third Part, On Old and New Tablets, 23 (Zarathustra) (trans. Walter Kaufmann, 1954)",
+   "tradition": "Philosophy",
+   "note": "Verified in Kaufmann, The Portable Nietzsche, p. 322. The source here puts the speaker before the translation, as the landed precedents do. Nietzsche stands at two of three after March.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 3,
+   "id": "03-cfl-12",
+   "quote": "You can’t get away from yourself by moving from one place to another.",
+   "source": "Ernest Hemingway, The Sun Also Rises, Book I, chapter 2 (Jake Barnes)",
+   "tradition": "Fiction",
+   "note": "Verified, Book I, chapter 2, Jake to Robert Cohn. The alternate to 03-cfl-04: one Hemingway per month.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 3,
+   "id": "03-poet-11",
+   "quote": "Climb Mount Fuji, / O snail, / but slowly, slowly.",
+   "source": "Kobayashi Issa, ‘Climb Mount Fuji’, in The Essential Haiku: Versions of Bashō, Buson, and Issa (trans. Robert Hass, 1994)",
+   "tradition": "Poetry",
+   "note": "Verified second hand, confidence medium: the Ecco page was not seen and the punctuation rests on a faithful reprint of Hass. Open the book before landing. Issa stands at one of three.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 3,
+   "id": "03-poet-13",
+   "quote": "Yes, there is goal and meaning in our path - / but it’s the way that is the labour’s worth.",
+   "source": "Karin Boye, In Motion, The Hearths (1927), lines 3 to 4 (trans. David McDuff, 1994)",
+   "tradition": "Poetry",
+   "note": "Verified on the Karin Boye Society page, credited to McDuff’s Complete Poems (Bloodaxe, 1994). The spaced hyphen after path is the web setting; check the printed page for the mark before landing. The way is the labour’s worth: April’s own line.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 3,
+   "id": "03-poet-16",
+   "quote": "Live not for battles won. / Live not for the-end-of-the-song. / Live in the along.",
+   "source": "Gwendolyn Brooks, Speech to the Young: Speech to the Progress-Toward, Blacks (1991), closing lines; first in Family Pictures (1970)",
+   "tradition": "Poetry",
+   "note": "Verified against Blacks (1991), not the 1970 Family Pictures page. Honest source: Gwendolyn Brooks, Speech to the Young: Speech to the Progress-Toward, Blacks (1991), closing lines; first in Family Pictures (1970). Brooks stands at one of three. Live in the along: the Way.",
+   "fitMonth": 4
+  }
+ ],
+ "cflCandidates": [
+  {
+   "cflId": 1,
+   "key": "JANUARY-1",
+   "book": "voyage(js)",
+   "subject": "Kaapse Klopse",
+   "text": "Travel is fatal to prejudice, bigotry, and narrow-mindedness",
+   "author": "Mark Twain",
+   "class": "named-person",
+   "listedAs": "Mark Twain",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 3,
+   "key": "JANUARY-3",
+   "book": "voyage(js)",
+   "subject": "Carnaval de Negros y Blancos",
+   "text": "I rebel, therefore we exist",
+   "author": "Albert Camus, The Rebel",
+   "class": "named-person-with-work",
+   "listedAs": "Albert Camus",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 6,
+   "key": "JANUARY-6",
+   "book": "voyage(js)",
+   "subject": "Internationale Grüne Woche",
+   "text": "Travel makes one modest. You see what a tiny place you occupy in the world",
+   "author": "Gustave Flaubert",
+   "class": "named-person",
+   "listedAs": "Gustave Flaubert",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 7,
+   "key": "JANUARY-7",
+   "book": "voyage(js)",
+   "subject": "Madrid Fusión",
+   "text": "One cannot think well, love well, sleep well, if one has not dined well",
+   "author": "Virginia Woolf",
+   "class": "named-person",
+   "listedAs": "Virginia Woolf",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 9,
+   "key": "JANUARY-9",
+   "book": "voyage(js)",
+   "subject": "Magh Mela",
+   "text": "At Prayag the soul of the world bathes",
+   "author": "Mark Twain",
+   "class": "named-person",
+   "listedAs": "Mark Twain",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 11,
+   "key": "JANUARY-11",
+   "book": "voyage(js)",
+   "subject": "Festival Nacional de Folklore de Cosquín",
+   "text": "The end of all our exploring will be to arrive where we started and know the place for the first time",
+   "author": "T.S. Eliot, Little Gidding",
+   "class": "named-person-with-work",
+   "listedAs": "T.S. Eliot",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 21,
+   "key": "FEBRUARY-1",
+   "book": "voyage(js)",
+   "subject": "Virgen de la Candelaria",
+   "text": "I can resist everything except temptation",
+   "author": "Oscar Wilde",
+   "class": "named-person",
+   "listedAs": "Oscar Wilde",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 23,
+   "key": "FEBRUARY-3",
+   "book": "voyage(js)",
+   "subject": "Chiang Mai Flower Festival",
+   "text": "Courage is found in unlikely places",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 27,
+   "key": "FEBRUARY-7",
+   "book": "voyage(js)",
+   "subject": "Tết, Vietnamese Lunar New Year",
+   "text": "We travel for romance, we travel for architecture, and we travel to be lost",
+   "author": "Ray Bradbury",
+   "class": "named-person",
+   "listedAs": "Ray Bradbury",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 30,
+   "key": "FEBRUARY-10",
+   "book": "voyage(js)",
+   "subject": "Carnival in Goa",
+   "text": "Work is the curse of the drinking classes",
+   "author": "Oscar Wilde",
+   "class": "named-person",
+   "listedAs": "Oscar Wilde",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 36,
+   "key": "FEBRUARY-16",
+   "book": "voyage(js)",
+   "subject": "Venice Carnival",
+   "text": "There are no foreign lands. It is the traveler only who is foreign",
+   "author": "Robert Louis Stevenson",
+   "class": "named-person",
+   "listedAs": "Robert Louis Stevenson",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 37,
+   "key": "FEBRUARY-17",
+   "book": "voyage(js)",
+   "subject": "Cafayate Vendimia",
+   "text": "Wine is bottled poetry",
+   "author": "Robert Louis Stevenson",
+   "class": "named-person",
+   "listedAs": "Robert Louis Stevenson",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 38,
+   "key": "FEBRUARY-18",
+   "book": "voyage(js)",
+   "subject": "Burns Night",
+   "text": "Should auld acquaintance be forgot, and never brought to mind",
+   "author": "Robert Burns, Auld Lang Syne",
+   "class": "named-person-with-work",
+   "listedAs": "Robert Burns",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 46,
+   "key": "FEBRUARY-26",
+   "book": "voyage(js)",
+   "subject": "Hay Festival Cartagena",
+   "text": "What matters in life is not what happens to you but what you remember and how you remember it",
+   "author": "Gabriel Garcia Marquez",
+   "class": "named-person",
+   "listedAs": "Gabriel Garcia Marquez",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 58,
+   "key": "FEBRUARY-38",
+   "book": "voyage(js)",
+   "subject": "Maslenitsa",
+   "text": "Do not go gentle into that good night",
+   "author": "Dylan Thomas",
+   "class": "named-person",
+   "listedAs": "Dylan Thomas",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 59,
+   "key": "MARCH-1",
+   "book": "voyage(js)",
+   "subject": "Omizutori",
+   "text": "The water-drawing rite, the ice-cold soles of the monks, the sound of their clogs",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 61,
+   "key": "MARCH-3",
+   "book": "voyage(js)",
+   "subject": "Adelaide Fringe",
+   "text": "Adelaide is the prettiest city of the trip",
+   "author": "Mark Twain, Following the Equator",
+   "class": "named-person-with-work",
+   "listedAs": "Mark Twain",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 74,
+   "key": "MARCH-16",
+   "book": "voyage(js)",
+   "subject": "Holi Festival of Colors",
+   "text": "We thought of life by analogy with a journey, a pilgrimage…but we missed the point the whole way along. It was a musical thing and you were supposed to sing or to dance while the music was being played",
+   "author": "Alan Watts",
+   "class": "named-person",
+   "listedAs": "Alan Watts",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 76,
+   "key": "MARCH-18",
+   "book": "voyage(js)",
+   "subject": "Fête du Jambon de Bayonne",
+   "text": "Two roads diverged in a wood, and I, I took the one less traveled by",
+   "author": "Robert Frost",
+   "class": "named-person",
+   "listedAs": "Robert Frost",
+   "opensLikeShipped": true
+  },
+  {
+   "cflId": 78,
+   "key": "MARCH-20",
+   "book": "voyage(js)",
+   "subject": "Ultra Music Festival",
+   "text": "Without music, life would be a mistake",
+   "author": "Friedrich Nietzsche, Twilight of the Idols",
+   "class": "named-person-with-work",
+   "listedAs": "Friedrich Nietzsche",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 82,
+   "key": "MARCH-24",
+   "book": "voyage(js)",
+   "subject": "Semana Santa de Antigua",
+   "text": "Beauty is no quality in things themselves, it exists merely in the mind which contemplates them",
+   "author": "David Hume",
+   "class": "named-person",
+   "listedAs": "David Hume",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 93,
+   "key": "APRIL-6",
+   "book": "voyage(js)",
+   "subject": "Time Warp",
+   "text": "Dance first. Think later. It’s the natural order",
+   "author": "Samuel Beckett",
+   "class": "named-person",
+   "listedAs": "Samuel Beckett",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 100,
+   "key": "APRIL-13",
+   "book": "voyage(js)",
+   "subject": "Marathon des Sables",
+   "text": "The desert is a place of revelation",
+   "author": "Wilfred Thesiger",
+   "class": "named-person",
+   "listedAs": "Wilfred Thesiger",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 109,
+   "key": "APRIL-22",
+   "book": "voyage(js)",
+   "subject": "Scoppio del Carro",
+   "text": "Beauty awakens the soul to act",
+   "author": "Dante Alighieri",
+   "class": "named-person",
+   "listedAs": "Dante Alighieri",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 124,
+   "key": "MAY-1",
+   "book": "voyage(js)",
+   "subject": "Beltane Fire Festival",
+   "text": "From the ashes a fire shall be woken",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 134,
+   "key": "MAY-11",
+   "book": "voyage(js)",
+   "subject": "Fiestas de San Isidro Labrador",
+   "text": "I am large, I contain multitudes",
+   "author": "Walt Whitman",
+   "class": "named-person",
+   "listedAs": "Walt Whitman",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 138,
+   "key": "MAY-15",
+   "book": "voyage(js)",
+   "subject": "Hangout Music Festival",
+   "text": "The only truth is music",
+   "author": "Jack Kerouac",
+   "class": "named-person",
+   "listedAs": "Jack Kerouac",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 145,
+   "key": "MAY-22",
+   "book": "voyage(js)",
+   "subject": "Mawazine",
+   "text": "He who sings frightens away his woes",
+   "author": "Miguel de Cervantes",
+   "class": "named-person",
+   "listedAs": "Miguel de Cervantes",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 150,
+   "key": "MAY-27",
+   "book": "voyage(js)",
+   "subject": "Cooper’s Hill Cheese-Rolling",
+   "text": "The real voyage of discovery consists not in seeking new landscapes, but in having new eyes",
+   "author": "Marcel Proust",
+   "class": "named-person",
+   "listedAs": "Marcel Proust",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 156,
+   "key": "JUNE-3",
+   "book": "voyage(js)",
+   "subject": "Primavera Sound",
+   "text": "Music expresses that which cannot be said and on which it is impossible to be silent",
+   "author": "Victor Hugo",
+   "class": "named-person",
+   "listedAs": "Victor Hugo",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 158,
+   "key": "JUNE-5",
+   "book": "voyage(js)",
+   "subject": "Gnaoua World Music Festival",
+   "text": "Music was my refuge. I could crawl into the space between the notes and curl my back to loneliness",
+   "author": "Dr. Maya Angelou",
+   "class": "named-person",
+   "listedAs": "Maya Angelou",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 159,
+   "key": "JUNE-6",
+   "book": "voyage(js)",
+   "subject": "Bordeaux Fete le Vin",
+   "text": "Wine is the most civilised thing in the world",
+   "author": "Ernest Hemingway",
+   "class": "named-person",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 167,
+   "key": "JUNE-14",
+   "book": "voyage(js)",
+   "subject": "The Governors Ball Music Festival",
+   "text": "If music be the food of love, play on",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 170,
+   "key": "JUNE-17",
+   "book": "voyage(js)",
+   "subject": "Bloomsday",
+   "text": "Yes I said yes I will Yes",
+   "author": "James Joyce, Ulysses",
+   "class": "named-person-with-work",
+   "listedAs": "James Joyce",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 175,
+   "key": "JUNE-22",
+   "book": "voyage(js)",
+   "subject": "Summer Solstice at Stonehenge",
+   "text": "Eternity is in love with the productions of time",
+   "author": "William Blake",
+   "class": "named-person",
+   "listedAs": "William Blake",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 179,
+   "key": "JUNE-26",
+   "book": "voyage(js)",
+   "subject": "Isle of Wight Festival",
+   "text": "It is the prettiest place I ever saw in my life, at home or abroad",
+   "author": "Charles Dickens",
+   "class": "named-person",
+   "listedAs": "Charles Dickens",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 182,
+   "key": "JUNE-29",
+   "book": "voyage(js)",
+   "subject": "Roskilde Festival",
+   "text": "Where words fail, music speaks",
+   "author": "Hans Christian Andersen",
+   "class": "named-person",
+   "listedAs": "Hans Christian Andersen",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 188,
+   "key": "JUNE-35",
+   "book": "voyage(js)",
+   "subject": "Calcio Storico Fiorentino",
+   "text": "A people that has not made its peace with its passions does not deserve to make its laws",
+   "author": "Niccolò Machiavelli",
+   "class": "named-person",
+   "listedAs": "Niccolo Machiavelli",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 197,
+   "key": "JULY-6",
+   "book": "voyage(js)",
+   "subject": "Montreux Jazz Festival",
+   "text": "Switzerland is a country where very few things begin, but many things end",
+   "author": "F. Scott Fitzgerald",
+   "class": "named-person",
+   "listedAs": "F. Scott Fitzgerald",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 199,
+   "key": "JULY-8",
+   "book": "voyage(js)",
+   "subject": "Athens & Epidaurus Festival",
+   "text": "Athens, the eye of Greece, mother of arts and eloquence",
+   "author": "John Milton",
+   "class": "named-person",
+   "listedAs": "John Milton",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 200,
+   "key": "JULY-9,PIL II",
+   "book": "voyage(js)",
+   "subject": "Running of the Bulls",
+   "text": "Never go on trips with anyone you do not love",
+   "author": "Ernest Hemingway",
+   "class": "named-person",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 207,
+   "key": "JULY-16",
+   "book": "voyage(js)",
+   "subject": "Brooks Falls Salmon and Brown Bears",
+   "text": "In wildness is the preservation of the world",
+   "author": "Henry David Thoreau",
+   "class": "named-person",
+   "listedAs": "Henry David Thoreau",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 210,
+   "key": "JULY-19",
+   "book": "voyage(js)",
+   "subject": "Mad Cool Festival",
+   "text": "To go to bed at night in Madrid is the most natural thing in the world and if you get there before morning you are a bit of a slacker",
+   "author": "Ernest Hemingway",
+   "class": "named-person",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 212,
+   "key": "JULY-21",
+   "book": "voyage(js)",
+   "subject": "Boryeong Mud Festival",
+   "text": "In every real man a child is hidden that wants to play",
+   "author": "Friedrich Nietzsche",
+   "class": "named-person",
+   "listedAs": "Friedrich Nietzsche",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 223,
+   "key": "JULY-32",
+   "book": "voyage(js)",
+   "subject": "Fuji Rock Festival",
+   "text": "Dance, when you’re broken open. Dance, if you’ve torn the bandage off. Dance in the middle of the fighting",
+   "author": "Rumi",
+   "class": "named-person",
+   "listedAs": "Rumi",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 224,
+   "key": "JULY-33",
+   "book": "voyage(js)",
+   "subject": "WOMAD",
+   "text": "Music is the shorthand of emotion",
+   "author": "Leo Tolstoy",
+   "class": "named-person",
+   "listedAs": "Leo Tolstoy",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 230,
+   "key": "JULY-39",
+   "book": "voyage(js)",
+   "subject": "Just for Laughs",
+   "text": "Against the assault of laughter, nothing can stand",
+   "author": "Mark Twain, The Mysterious Stranger",
+   "class": "named-person-with-work",
+   "listedAs": "Mark Twain",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 232,
+   "key": "JULY-41",
+   "book": "voyage(js)",
+   "subject": "Olavsfest",
+   "text": "A thousand words will not leave so deep an impression as one deed",
+   "author": "Henrik Ibsen",
+   "class": "named-person",
+   "listedAs": "Henrik Ibsen",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 236,
+   "key": "AUGUST-4",
+   "book": "voyage(js)",
+   "subject": "Salzburg Festival",
+   "text": "The limits of my language mean the limits of my world",
+   "author": "Ludwig Wittgenstein",
+   "class": "named-person",
+   "listedAs": "Ludwig Wittgenstein",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 237,
+   "key": "AUGUST-5",
+   "book": "voyage(js)",
+   "subject": "Edinburgh International Festival",
+   "text": "Music is the art which is most nigh to tears and memory",
+   "author": "Oscar Wilde",
+   "class": "named-person",
+   "listedAs": "Oscar Wilde",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 244,
+   "key": "AUGUST-12",
+   "book": "voyage(js)",
+   "subject": "Gozan no Okuribi",
+   "text": "This world of dew is a world of dew, and yet, and yet",
+   "author": "Kobayashi Issa",
+   "class": "named-person",
+   "listedAs": "Kobayashi Issa",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 250,
+   "key": "AUGUST-18",
+   "book": "voyage(js)",
+   "subject": "Wellington on a Plate",
+   "text": "Last, loneliest, loveliest, exquisite, apart On us, on us the unswerving season smiles, Who wonder ’mid our fern why men depart To seek the Happy Isles!",
+   "author": "Rudyard Kipling",
+   "class": "named-person",
+   "listedAs": "Rudyard Kipling",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 261,
+   "key": "AUGUST-29",
+   "book": "voyage(js)",
+   "subject": "Reading & Leeds Festivals",
+   "text": "We should consider every day lost on which we have not danced at least once",
+   "author": "Friedrich Nietzsche",
+   "class": "named-person",
+   "listedAs": "Friedrich Nietzsche",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 272,
+   "key": "AUGUST-40",
+   "book": "voyage(js)",
+   "subject": "Festa Major de Gràcia",
+   "text": "Nobody goes to bed in Madrid until they have killed the night",
+   "author": "Ernest Hemingway",
+   "class": "named-person",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 280,
+   "key": "SEPTEMBER-4",
+   "book": "voyage(js)",
+   "subject": "Naples Pizza Village",
+   "text": "Pizza is the gastronomic thermometer of the food market",
+   "author": "Alexandre Dumas",
+   "class": "named-person",
+   "listedAs": "Alexandre Dumas",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 296,
+   "key": "SEPTEMBER-20",
+   "book": "voyage(js)",
+   "subject": "Empire State Building Run-Up",
+   "text": "The city is a poem written by everybody at once",
+   "author": "Walt Whitman, paraphrased",
+   "class": "named-person-with-work",
+   "listedAs": "Walt Whitman",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 300,
+   "key": "SEPTEMBER-24",
+   "book": "voyage(js)",
+   "subject": "Braemar Highland Gathering",
+   "text": "My heart’s in the Highlands",
+   "author": "Robert Burns",
+   "class": "named-person",
+   "listedAs": "Robert Burns",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 312,
+   "key": "OCTOBER-9",
+   "book": "voyage(js)",
+   "subject": "Feria Nacional del Mole",
+   "text": "Mexico City is a place where all times coexist",
+   "author": "Octavio Paz",
+   "class": "named-person",
+   "listedAs": "Octavio Paz",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 314,
+   "key": "OCTOBER-11",
+   "book": "voyage(js)",
+   "subject": "Antarctic Peninsula Iceberg Window",
+   "text": "The ice was all between; the ice was all around",
+   "author": "Samuel Taylor Coleridge, The Rime of the Ancient Mariner",
+   "class": "named-person-with-work",
+   "listedAs": "Samuel Taylor Coleridge",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 325,
+   "key": "OCTOBER-22",
+   "book": "voyage(js)",
+   "subject": "Dev Deepawali",
+   "text": "Light, my light, the world-filling light, the eye-kissing light, heart-sweetening light",
+   "author": "Rabindranath Tagore",
+   "class": "named-person",
+   "listedAs": "Rabindranath Tagore",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 335,
+   "key": "NOVEMBER-7",
+   "book": "voyage(js)",
+   "subject": "Taste of Abu Dhabi",
+   "text": "The desert is a capricious lady, and sometimes she drives men crazy…It will test everything you have learned on your journey",
+   "author": "Paulo Coelho, The Alchemist",
+   "class": "named-person-with-work",
+   "listedAs": "Paulo Coelho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 340,
+   "key": "NOVEMBER-12",
+   "book": "voyage(js)",
+   "subject": "Hospices de Beaune Wine Auction",
+   "text": "Give me books, French wine, fruit, fine weather and a little music played out of doors by somebody I do not know",
+   "author": "John Keats",
+   "class": "named-person",
+   "listedAs": "John Keats",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 344,
+   "key": "NOVEMBER-16",
+   "book": "voyage(js)",
+   "subject": "Guadalajara International Book Fair",
+   "text": "He who reads much and walks much, sees much and knows much",
+   "author": "Miguel de Cervantes",
+   "class": "named-person",
+   "listedAs": "Miguel de Cervantes",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 349,
+   "key": "DECEMBER-1",
+   "book": "voyage(js)",
+   "subject": "Art Basel Miami Beach",
+   "text": "The job of the artist is always to deepen the mystery",
+   "author": "Francis Bacon",
+   "class": "named-person",
+   "listedAs": "Francis Bacon",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 351,
+   "key": "DECEMBER-3",
+   "book": "voyage(js)",
+   "subject": "Monarch Butterfly Overwintering",
+   "text": "The butterfly counts not months but moments, and has time enough",
+   "author": "Rabindranath Tagore",
+   "class": "named-person",
+   "listedAs": "Rabindranath Tagore",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 354,
+   "key": "DECEMBER-6",
+   "book": "voyage(js)",
+   "subject": "Día de Las Velitas",
+   "text": "The problem in public life is learning to overcome terror; the problem in married life is learning to overcome boredom",
+   "author": "Gabriel García Márquez",
+   "class": "named-person",
+   "listedAs": "Gabriel Garcia Marquez",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 357,
+   "key": "DECEMBER-9",
+   "book": "voyage(js)",
+   "subject": "Naples at Christmas",
+   "text": "Vedi Napoli e poi muori. (See Naples and die.)",
+   "author": "Johann Wolfgang von Goethe",
+   "class": "named-person",
+   "listedAs": "Johann Wolfgang von Goethe",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 358,
+   "key": "DECEMBER-10",
+   "book": "voyage(js)",
+   "subject": "Mevlana Whirling Dervishes",
+   "text": "Listen to the reed, how it tells a tale, complaining of separations",
+   "author": "Rumi, Masnavi",
+   "class": "named-person-with-work",
+   "listedAs": "Rumi",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 360,
+   "key": "DECEMBER-12",
+   "book": "voyage(js)",
+   "subject": "Edinburgh Hogmanay",
+   "text": "The place establishes an interest in people’s hearts; go where they will, they find no city of the same distinction",
+   "author": "Robert Louis Stevenson",
+   "class": "named-person",
+   "listedAs": "Robert Louis Stevenson",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 371,
+   "key": "LP-6",
+   "book": "living-pages",
+   "subject": "Battle of Towton Reenactment",
+   "text": "O piteous spectacle! O bloody times!",
+   "author": "William Shakespeare, Henry VI",
+   "class": "named-person-with-work",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 381,
+   "key": "LP-16",
+   "book": "living-pages",
+   "subject": "Tewkesbury Medieval Festival",
+   "text": "When the blast of war blows in our ears, then imitate the action of the tiger",
+   "author": "William Shakespeare, Henry V",
+   "class": "named-person-with-work",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 388,
+   "key": "LP-23",
+   "book": "living-pages",
+   "subject": "Battle of Bosworth Field Reenactment",
+   "text": "Now is the winter of our discontent made glorious summer",
+   "author": "William Shakespeare, Richard III",
+   "class": "named-person-with-work",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 399,
+   "key": "OW-2",
+   "book": "other-worlds",
+   "subject": "Paris Manga & Sci-Fi Show",
+   "text": "Anything one man can imagine, other men can make real",
+   "author": "Jules Verne",
+   "class": "named-person",
+   "listedAs": "Jules Verne",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 404,
+   "key": "OW-7",
+   "book": "other-worlds",
+   "subject": "Tolkien Reading Day",
+   "text": "Fantasy is a natural human activity",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 413,
+   "key": "OW-16",
+   "book": "other-worlds",
+   "subject": "Dokomi",
+   "text": "Man is most nearly himself when he achieves the seriousness of a child at play",
+   "author": "Heraclitus",
+   "class": "named-person",
+   "listedAs": "Heraclitus",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 415,
+   "key": "OW-18",
+   "book": "other-worlds",
+   "subject": "Elfia Spring at Castle Vorden",
+   "text": "Faerie is a perilous land, and in it are pitfalls for the unwary",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 417,
+   "key": "OW-20",
+   "book": "other-worlds",
+   "subject": "Tolkien Weekend at Sarehole Mill",
+   "text": "It was a kind of lost paradise",
+   "author": "J.R.R. Tolkien, on Sarehole",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 436,
+   "key": "OW-39",
+   "book": "other-worlds",
+   "subject": "Oxonmoot",
+   "text": "I am in fact a Hobbit, in all but size",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 438,
+   "key": "OW-41",
+   "book": "other-worlds",
+   "subject": "Hobbit Day",
+   "text": "It’s a dangerous business, Frodo, going out your door",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 439,
+   "key": "OW-42",
+   "book": "other-worlds",
+   "subject": "Hobbit Day at Hobbiton",
+   "text": "In a hole in the ground there lived a hobbit",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 440,
+   "key": "OW-43",
+   "book": "other-worlds",
+   "subject": "Elfia Autumn at Arcen Castle",
+   "text": "The realm of fairy-story is wide and deep and high",
+   "author": "J.R.R. Tolkien",
+   "class": "named-person",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 445,
+   "key": "OW-48",
+   "book": "other-worlds",
+   "subject": "Lucca Comics & Games",
+   "text": "A classic is a book that has never finished saying what it has to say",
+   "author": "Italo Calvino",
+   "class": "named-person",
+   "listedAs": "Italo Calvino",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 449,
+   "key": "OW-52",
+   "book": "other-worlds",
+   "subject": "CCXP São Paulo",
+   "text": "When you want something, all the universe conspires in helping you to achieve it",
+   "author": "Paulo Coelho",
+   "class": "named-person",
+   "listedAs": "Paulo Coelho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 454,
+   "key": "DY-5",
+   "book": "days-of-yore",
+   "subject": "Florida Renaissance Festival",
+   "text": "All the world’s a stage, and all the men and women merely players",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 455,
+   "key": "DY-6",
+   "book": "days-of-yore",
+   "subject": "Arizona Renaissance Festival",
+   "text": "Lord, what fools these mortals be",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 463,
+   "key": "DY-14",
+   "book": "days-of-yore",
+   "subject": "Ironfest",
+   "text": "What is the chief end of man? To get rich. In what way? Dishonestly if we can; honestly if we must…but we are all in the Gilded Age now",
+   "author": "Mark Twain",
+   "class": "named-person",
+   "listedAs": "Mark Twain",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 464,
+   "key": "DY-15",
+   "book": "days-of-yore",
+   "subject": "Haithabu Spring Viking Market",
+   "text": "Men may die of imagination",
+   "author": "Geoffrey Chaucer",
+   "class": "named-person",
+   "listedAs": "Geoffrey Chaucer",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 467,
+   "key": "DY-18",
+   "book": "days-of-yore",
+   "subject": "Gumeracha Medieval & Rare Trades Fair",
+   "text": "Our battered suitcases were piled on the sidewalk again; we had longer ways to go. But no matter, the road is life",
+   "author": "Jack Kerouac",
+   "class": "named-person",
+   "listedAs": "Jack Kerouac",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 477,
+   "key": "DY-28",
+   "book": "days-of-yore",
+   "subject": "Oregon Renaissance Faire",
+   "text": "We know what we are, but know not what we may be",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 479,
+   "key": "DY-30",
+   "book": "days-of-yore",
+   "subject": "Bristol Renaissance Faire",
+   "text": "Better a witty fool than a foolish wit",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 483,
+   "key": "DY-34",
+   "book": "days-of-yore",
+   "subject": "Kaltenberg Knights’ Tournament",
+   "text": "Take care, sir, those over there are not giants but windmills",
+   "author": "Miguel de Cervantes",
+   "class": "named-person",
+   "listedAs": "Miguel de Cervantes",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 488,
+   "key": "DY-39",
+   "book": "days-of-yore",
+   "subject": "Loxwood Joust",
+   "text": "A knight there was, and that a worthy man",
+   "author": "Geoffrey Chaucer",
+   "class": "named-person",
+   "listedAs": "Geoffrey Chaucer",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 489,
+   "key": "DY-40",
+   "book": "days-of-yore",
+   "subject": "Palio di Siena #2",
+   "text": "It was in Italy that I first learned what it is to see",
+   "author": "Johann Wolfgang von Goethe",
+   "class": "named-person",
+   "listedAs": "Johann Wolfgang von Goethe",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 490,
+   "key": "DY-41",
+   "book": "days-of-yore",
+   "subject": "Minnesota Renaissance Festival",
+   "text": "With mirth and laughter let old wrinkles come",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 491,
+   "key": "DY-42",
+   "book": "days-of-yore",
+   "subject": "New York Renaissance Faire",
+   "text": "Once more unto the breach, dear friends, once more",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 493,
+   "key": "DY-44",
+   "book": "days-of-yore",
+   "subject": "King Richard’s Faire",
+   "text": "A horse, a horse, my kingdom for a horse",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 496,
+   "key": "DY-47",
+   "book": "days-of-yore",
+   "subject": "Ohio Ren Fest Pirates Weekend",
+   "text": "God would permit us to be pirates",
+   "author": "Mark Twain",
+   "class": "named-person",
+   "listedAs": "Mark Twain",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 500,
+   "key": "DY-51",
+   "book": "days-of-yore",
+   "subject": "Texas Renaissance Festival",
+   "text": "O brave new world, that has such people in it",
+   "author": "William Shakespeare",
+   "class": "named-person",
+   "listedAs": "William Shakespeare",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 504,
+   "key": "DY-55",
+   "book": "days-of-yore",
+   "subject": "Pirates Week Festival",
+   "text": "Fifteen men on the dead man’s chest",
+   "author": "Robert Louis Stevenson, Treasure Island",
+   "class": "named-person-with-work",
+   "listedAs": "Robert Louis Stevenson",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 511,
+   "key": "I-1",
+   "book": "pilgrim-stop",
+   "subject": "Sarehole Mill",
+   "text": "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world",
+   "author": "J.R.R. Tolkien, The Hobbit",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 512,
+   "key": "I-2",
+   "book": "pilgrim-stop",
+   "subject": "Moseley Bog",
+   "text": "The wide world is all about you: you can fence yourselves in, but you cannot forever fence it out",
+   "author": "J.R.R. Tolkien, The Fellowship of the Ring",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 513,
+   "key": "I-3",
+   "book": "pilgrim-stop",
+   "subject": "Perrott’s Folly & Edgbaston Waterworks Tower",
+   "text": "From the ashes a fire shall be woken, a light from the shadows shall spring",
+   "author": "J.R.R. Tolkien, The Fellowship of the Ring",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 514,
+   "key": "I-4",
+   "book": "pilgrim-stop",
+   "subject": "The Birmingham Oratory",
+   "text": "I do not expect history to be anything but a long defeat, though it contains some samples of final victory",
+   "author": "J.R.R. Tolkien, in a letter",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 515,
+   "key": "I-5",
+   "book": "pilgrim-stop",
+   "subject": "Bodleian Library Tolkien Archive",
+   "text": "Still round the corner there may wait a new road or a secret gate",
+   "author": "J.R.R. Tolkien, The Fellowship of the Ring",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 516,
+   "key": "I-6",
+   "book": "pilgrim-stop",
+   "subject": "Exeter College & Merton College",
+   "text": "The Road goes ever on and on, down from the door where it began",
+   "author": "J.R.R. Tolkien, The Fellowship of the Ring",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 517,
+   "key": "I-7",
+   "book": "pilgrim-stop",
+   "subject": "20 Northmoor Road",
+   "text": "It’s a dangerous business, going out your front door. You step onto the Road, and there’s no knowing where you might be swept off to",
+   "author": "J.R.R. Tolkien, The Fellowship of the Ring",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 519,
+   "key": "I-9",
+   "book": "pilgrim-stop",
+   "subject": "The Oxford Botanic Garden",
+   "text": "It is not the strong who survive, nor the wise, but the small hands that do the work while the eyes of the great are elsewhere",
+   "author": "after J.R.R. Tolkien, The Lord of the Rings",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 520,
+   "key": "I-10",
+   "book": "pilgrim-stop",
+   "subject": "Tolkien’s Grave",
+   "text": "I at last with weary feet will turn towards the lighted inn, my evening-rest and sleep to meet",
+   "author": "J.R.R. Tolkien, The Lord of the Rings",
+   "class": "named-person-with-work",
+   "listedAs": "J.R.R. Tolkien",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 521,
+   "key": "II-1",
+   "book": "pilgrim-stop",
+   "subject": "Café Iruña",
+   "text": "I did not care what it was all about. All I wanted to know was how to live in it",
+   "author": "Ernest Hemingway, The Sun Also Rises",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 522,
+   "key": "II-2",
+   "book": "pilgrim-stop",
+   "subject": "Hotel La Perla",
+   "text": "The journey itself is my home",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 523,
+   "key": "II-3",
+   "book": "pilgrim-stop",
+   "subject": "Calle Estafeta",
+   "text": "Nobody ever lives their life all the way up except bullfighters",
+   "author": "Ernest Hemingway, The Sun Also Rises",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 524,
+   "key": "II-4",
+   "book": "pilgrim-stop",
+   "subject": "Plaza de Toros & Monumento a Hemingway",
+   "text": "Bullfighting is the only art in which the artist is in danger of death",
+   "author": "Ernest Hemingway, Death in the Afternoon",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 525,
+   "key": "II-5",
+   "book": "pilgrim-stop",
+   "subject": "Restaurante Casa Otano",
+   "text": "This wine is too good for toast-drinking, my dear. You don’t want to mix emotions up with a wine like that",
+   "author": "Ernest Hemingway, The Sun Also Rises",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 526,
+   "key": "II-6",
+   "book": "pilgrim-stop",
+   "subject": "Hostal Burguete",
+   "text": "You can’t get away from yourself by moving from one place to another",
+   "author": "Ernest Hemingway, The Sun Also Rises",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 527,
+   "key": "II-7",
+   "book": "pilgrim-stop",
+   "subject": "The Irati River",
+   "text": "I was a little ashamed, and regretted that I was such a rotten Catholic, but realized there was nothing I could do about it",
+   "author": "Ernest Hemingway, The Sun Also Rises",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 528,
+   "key": "II-8",
+   "book": "pilgrim-stop",
+   "subject": "Sobrino de Botín",
+   "text": "Oh, Jake, we could have had such a damned good time together. Yes. Isn’t it pretty to think so?",
+   "author": "Ernest Hemingway, The Sun Also Rises",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 529,
+   "key": "II-9",
+   "book": "pilgrim-stop",
+   "subject": "Cervecería Alemana",
+   "text": "It is awfully easy to be hard-boiled about everything in the daytime, but at night it is another thing",
+   "author": "Ernest Hemingway, The Sun Also Rises",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 543,
+   "key": "IV-1",
+   "book": "pilgrim-stop",
+   "subject": "Dukes Bar",
+   "text": "Never say no to adventures. Always say yes, otherwise you’ll lead a very dull life",
+   "author": "Ian Fleming",
+   "class": "named-person",
+   "listedAs": "Ian Fleming",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 544,
+   "key": "IV-2",
+   "book": "pilgrim-stop",
+   "subject": "St James’s Street",
+   "text": "Once is happenstance. Twice is coincidence. Three times is enemy action",
+   "author": "Ian Fleming, Goldfinger",
+   "class": "named-person-with-work",
+   "listedAs": "Ian Fleming",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 545,
+   "key": "IV-3",
+   "book": "pilgrim-stop",
+   "subject": "SIS Building",
+   "text": "Surround yourself with human beings, my dear James. They are easier to fight for than principles",
+   "author": "Ian Fleming, Casino Royale",
+   "class": "named-person-with-work",
+   "listedAs": "Ian Fleming",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 546,
+   "key": "IV-4",
+   "book": "pilgrim-stop",
+   "subject": "16 Victoria Square",
+   "text": "There is only one recipe for a best seller: you have to get the reader to turn over the page",
+   "author": "Ian Fleming",
+   "class": "named-person",
+   "listedAs": "Ian Fleming",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 548,
+   "key": "IV-6",
+   "book": "pilgrim-stop",
+   "subject": "Royal St George’s Golf Club",
+   "text": "I am a poet in deeds, not often in words",
+   "author": "Ian Fleming, Goldfinger",
+   "class": "named-person-with-work",
+   "listedAs": "Ian Fleming",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 551,
+   "key": "IV-9",
+   "book": "pilgrim-stop",
+   "subject": "St James the Great Church",
+   "text": "You only live twice: once when you are born, and once when you look death in the face",
+   "author": "Ian Fleming, You Only Live Twice",
+   "class": "named-person-with-work",
+   "listedAs": "Ian Fleming",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 552,
+   "key": "IV-10",
+   "book": "pilgrim-stop",
+   "subject": "Goldeneye",
+   "text": "I shall not waste my days in trying to prolong them. I shall use my time",
+   "author": "Ian Fleming, You Only Live Twice",
+   "class": "named-person-with-work",
+   "listedAs": "Ian Fleming",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 553,
+   "key": "PIL V",
+   "book": "pilgrim-trail",
+   "subject": "Every Day a Journey",
+   "text": "Days and months are travelers of eternity. So are the years that pass by",
+   "author": "Matsuo Bashō, The Narrow Road to the Deep North, 1689",
+   "class": "named-person-with-work",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 554,
+   "key": "V-1",
+   "book": "pilgrim-stop",
+   "subject": "Senju Ōhashi & Bashō Memorial Museum",
+   "text": "Spring is passing, the birds cry, and the fishes’ eyes are full of tears",
+   "author": "Matsuo Bashō, at Senju, The Narrow Road to the Deep North",
+   "class": "named-person-with-work",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 555,
+   "key": "V-2",
+   "book": "pilgrim-stop",
+   "subject": "Nikkō Tōshōgū",
+   "text": "A flash of lightning, into the gloom goes the heron’s cry",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 557,
+   "key": "V-4",
+   "book": "pilgrim-stop",
+   "subject": "Matsushima Bay",
+   "text": "The sea darkens; the voices of the wild ducks are faintly white",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 558,
+   "key": "V-5",
+   "book": "pilgrim-stop",
+   "subject": "Hiraizumi: Chūson-ji & Mōtsū-ji",
+   "text": "A cicada shell; it sang itself utterly away",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 559,
+   "key": "V-6",
+   "book": "pilgrim-stop",
+   "subject": "Yamadera",
+   "text": "Crossing long fields, frozen in its saddle, my shadow creeps by",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 560,
+   "key": "V-7",
+   "book": "pilgrim-stop",
+   "subject": "Mogami River & Sakata",
+   "text": "Coolness of the melons flecked with mud in the morning dew",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 561,
+   "key": "V-8",
+   "book": "pilgrim-stop",
+   "subject": "The Dewa Sanzan",
+   "text": "Of Mount Yudono I cannot speak, yet see how wet my sleeve",
+   "author": "Matsuo Bashō, at the Dewa Sanzan",
+   "class": "named-person-with-work",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 562,
+   "key": "V-9",
+   "book": "pilgrim-stop",
+   "subject": "Kanazawa",
+   "text": "First winter rain, even the monkey seems to want a raincoat",
+   "author": "Matsuo Bashō",
+   "class": "named-person",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 563,
+   "key": "V-10",
+   "book": "pilgrim-stop",
+   "subject": "Ōgaki",
+   "text": "Dividing like a clam from its shell, I depart for Futami, autumn is passing",
+   "author": "Matsuo Bashō, the closing verse of The Narrow Road to the Deep North",
+   "class": "named-person-with-work",
+   "listedAs": "Matsuo Basho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 576,
+   "key": "VII-1",
+   "book": "pilgrim-stop",
+   "subject": "Jean Cocteau Cinema & Beastly Books",
+   "text": "A reader lives a thousand lives before he dies; the man who never reads lives only one",
+   "author": "George R.R. Martin, A Dance with Dragons",
+   "class": "named-person-with-work",
+   "listedAs": "George R.R. Martin",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 577,
+   "key": "VII-2",
+   "book": "pilgrim-stop",
+   "subject": "Santa Fe",
+   "text": "I have lived a thousand lives and loved a thousand loves. I’ve walked on distant worlds and seen the end of time, because I read",
+   "author": "George R.R. Martin",
+   "class": "named-person",
+   "listedAs": "George R.R. Martin",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 578,
+   "key": "VII-3",
+   "book": "pilgrim-stop",
+   "subject": "Dubrovnik",
+   "text": "Why is it always the innocents who suffer most, when you high lords play your game of thrones?",
+   "author": "George R.R. Martin, A Clash of Kings",
+   "class": "named-person-with-work",
+   "listedAs": "George R.R. Martin",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 580,
+   "key": "VII-5",
+   "book": "pilgrim-stop",
+   "subject": "Castle Ward & the Northern Ireland Loop",
+   "text": "The north remembers",
+   "author": "George R.R. Martin, A Dance with Dragons",
+   "class": "named-person-with-work",
+   "listedAs": "George R.R. Martin",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 581,
+   "key": "VII-6",
+   "book": "pilgrim-stop",
+   "subject": "Lake Mývatn & Vatnajökull",
+   "text": "A cold wind was blowing from the north, and it made the trees rustle like living things",
+   "author": "George R.R. Martin, A Game of Thrones",
+   "class": "named-person-with-work",
+   "listedAs": "George R.R. Martin",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 589,
+   "key": "VIII-3",
+   "book": "pilgrim-stop",
+   "subject": "Logroño & La Rioja",
+   "text": "People always arrive at the right moment at the place where someone awaits them",
+   "author": "Paulo Coelho, The Pilgrimage",
+   "class": "named-person-with-work",
+   "listedAs": "Paulo Coelho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 590,
+   "key": "VIII-4",
+   "book": "pilgrim-stop",
+   "subject": "Burgos Cathedral",
+   "text": "A ship is safest in port, but that is not what ships were built for",
+   "author": "Paulo Coelho, The Pilgrimage",
+   "class": "named-person-with-work",
+   "listedAs": "Paulo Coelho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 592,
+   "key": "VIII-6",
+   "book": "pilgrim-stop",
+   "subject": "León & the Cathedral of Light",
+   "text": "When you travel, you experience, in a very practical way, the act of rebirth",
+   "author": "Paulo Coelho, The Pilgrimage",
+   "class": "named-person-with-work",
+   "listedAs": "Paulo Coelho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 594,
+   "key": "VIII-8",
+   "book": "pilgrim-stop",
+   "subject": "O Cebreiro",
+   "text": "We must never stop dreaming. Dreams provide nourishment for the soul, just as a meal does for the body",
+   "author": "Paulo Coelho, The Pilgrimage",
+   "class": "named-person-with-work",
+   "listedAs": "Paulo Coelho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 595,
+   "key": "VIII-9",
+   "book": "pilgrim-stop",
+   "subject": "Santiago de Compostela",
+   "text": "The extraordinary is always found in the ordinary and simple ways of everyday people",
+   "author": "Paulo Coelho, The Pilgrimage",
+   "class": "named-person-with-work",
+   "listedAs": "Paulo Coelho",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 610,
+   "key": "X-2",
+   "book": "pilgrim-stop",
+   "subject": "Walden Pond",
+   "text": "I went to the woods because I wished to live deliberately, to front only the essential facts of life",
+   "author": "Henry David Thoreau, Walden",
+   "class": "named-person-with-work",
+   "listedAs": "Henry David Thoreau",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 618,
+   "key": "X-10",
+   "book": "pilgrim-stop",
+   "subject": "Antarctica",
+   "text": "We shall not cease from exploration, and the end of all our exploring will be to arrive where we started and know the place for the first time",
+   "author": "T.S. Eliot, Four Quartets",
+   "class": "named-person-with-work",
+   "listedAs": "T.S. Eliot",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 714,
+   "key": "XIX-7",
+   "book": "pilgrim-stop",
+   "subject": "Caporetto",
+   "text": "I was always embarrassed by the words sacred, glorious, and sacrifice",
+   "author": "Ernest Hemingway, A Farewell to Arms",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 717,
+   "key": "XIX-10",
+   "book": "pilgrim-stop",
+   "subject": "Compiègne Forest",
+   "text": "The war that will end war",
+   "author": "H.G. Wells, 1914",
+   "class": "named-person-with-work",
+   "listedAs": "H.G. Wells",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 775,
+   "key": "XXV-2",
+   "book": "pilgrim-stop",
+   "subject": "Cape Sounion",
+   "text": "Place me on Sunium’s marbled steep, where nothing, save the waves and I, may hear our mutual murmurs sweep",
+   "author": "Lord Byron, on Cape Sounion",
+   "class": "named-person-with-work",
+   "listedAs": "Lord Byron",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 785,
+   "key": "XXVI-1",
+   "book": "pilgrim-stop",
+   "subject": "Rome",
+   "text": "Romans, remember to rule the peoples with your power",
+   "author": "Virgil, the Aeneid",
+   "class": "named-person-with-work",
+   "listedAs": "Virgil",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 790,
+   "key": "XXVI-6",
+   "book": "pilgrim-stop",
+   "subject": "Nîmes, Pont du Gard & Arles",
+   "text": "I have raised a monument more lasting than bronze",
+   "author": "Horace, Odes",
+   "class": "named-person-with-work",
+   "listedAs": "Horace",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 794,
+   "key": "XXVI-10",
+   "book": "pilgrim-stop",
+   "subject": "Ephesus & Aphrodisias",
+   "text": "No man ever steps in the same river twice",
+   "author": "Heraclitus of Ephesus",
+   "class": "named-person",
+   "listedAs": "Heraclitus of Ephesus",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 811,
+   "key": "XXVIII-5",
+   "book": "pilgrim-stop",
+   "subject": "The Gulf Stream off Cuba",
+   "text": "But man is not made for defeat. A man can be destroyed but not defeated",
+   "author": "Ernest Hemingway, The Old Man and the Sea",
+   "class": "named-person-with-work",
+   "listedAs": "Ernest Hemingway",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 814,
+   "key": "XXVIII-8",
+   "book": "pilgrim-stop",
+   "subject": "The South Island",
+   "text": "Many men go fishing all of their lives without knowing that it is not fish they are after",
+   "author": "Henry David Thoreau",
+   "class": "named-person",
+   "listedAs": "Henry David Thoreau",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 828,
+   "key": "MONTH-JANUARY",
+   "book": "month",
+   "subject": "JANUARY",
+   "text": "And now we welcome the new year, full of things that have never been",
+   "author": "Rainer Maria Rilke",
+   "class": "named-person",
+   "listedAs": "Rainer Maria Rilke",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 829,
+   "key": "MONTH-FEBRUARY",
+   "book": "month",
+   "subject": "FEBRUARY",
+   "text": "Give a man a mask, and he will tell you the truth",
+   "author": "Oscar Wilde",
+   "class": "named-person",
+   "listedAs": "Oscar Wilde",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 830,
+   "key": "MONTH-MARCH",
+   "book": "month",
+   "subject": "MARCH",
+   "text": "Our life is March weather, savage and serene in one hour",
+   "author": "Ralph Waldo Emerson",
+   "class": "named-person",
+   "listedAs": "Ralph Waldo Emerson",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 831,
+   "key": "MONTH-APRIL",
+   "book": "month",
+   "subject": "APRIL",
+   "text": "April is the cruelest month, breeding lilacs out of the dead land, mixing memory and desire, stirring dull roots with spring rain",
+   "author": "T.S. Eliot",
+   "class": "named-person",
+   "listedAs": "T.S. Eliot",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 833,
+   "key": "MONTH-JUNE",
+   "book": "month",
+   "subject": "JUNE",
+   "text": "In early June the world of leaf and blade and flowers explodes, and every sunset is different",
+   "author": "John Steinbeck",
+   "class": "named-person",
+   "listedAs": "John Steinbeck",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 837,
+   "key": "MONTH-OCTOBER",
+   "book": "month",
+   "subject": "OCTOBER",
+   "text": "The trees are in their autumn beauty, the woodland paths are dry, under the October twilight the water mirrors a still sky",
+   "author": "W.B. Yeats",
+   "class": "named-person",
+   "listedAs": "W.B. Yeats",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 838,
+   "key": "MONTH-NOVEMBER",
+   "book": "month",
+   "subject": "NOVEMBER",
+   "text": "Whenever it is a damp, drizzly November in my soul…I account it high time to get to sea as soon as I can",
+   "author": "Herman Melville",
+   "class": "named-person",
+   "listedAs": "Herman Melville",
+   "opensLikeShipped": false
+  },
+  {
+   "cflId": 839,
+   "key": "MONTH-DECEMBER",
+   "book": "month",
+   "subject": "DECEMBER",
+   "text": "God gave us memory so that we might have roses in December",
+   "author": "James M. Barrie",
+   "class": "named-person",
+   "listedAs": "J. M. Barrie",
+   "opensLikeShipped": false
+  }
+ ],
+ "misattributions": "# Famous, and not theirs\n\nPasted into every curator and verifier brief for The Classics. Each line below\ntravels under a name that did not write it. Propose the real author with the\nreal source, or leave it out; never the famous name.\n\n| The line | Travels as | What it is |\n|---|---|---|\n| Be the change you wish to see in the world | Gandhi | Not in Gandhi's works in that form. The nearest is a 1913 Indian Opinion passage on personal change reflecting in the world; the slogan is later. |\n| Well-behaved women seldom (rarely) make history | Marilyn Monroe, Eleanor Roosevelt | Laurel Thatcher Ulrich, \"Vertuous Women Found\", American Quarterly 28 (1976). |\n| Insanity is doing the same thing over and over and expecting different results | Einstein | Not Einstein. Earliest in print: a Narcotics Anonymous pamphlet (1981); also in Rita Mae Brown's Sudden Death (1983). |\n| What lies behind us and what lies before us are tiny matters compared to what lies within us | Emerson, Thoreau | Henry Stanley Haskins, Meditations in Wall Street (1940). |\n| This too shall pass | Lincoln, Solomon, the Sufis | A Persian adage. Lincoln tells it as an Eastern monarch's story in the Wisconsin State Fair address (1859); it is not his line. |\n| Be yourself; everyone else is already taken | Oscar Wilde | Not in Wilde. Twentieth-century, author unknown. |\n| I disapprove of what you say, but I will defend to the death your right to say it | Voltaire | Evelyn Beatrice Hall, The Friends of Voltaire (1906), summarising his attitude. |\n| Whatever you can do, or dream you can, begin it. Boldness has genius, power and magic in it | Goethe | John Anster's very free 1835 rendering of the Prelude to Faust; the German has nothing like it. |\n| The only thing necessary for the triumph of evil is for good men to do nothing | Edmund Burke | Not in Burke. The closest is John Stuart Mill's 1867 St Andrews address, and that is not the wording either. |\n| There is nothing to writing. All you do is sit down at a typewriter and bleed | Hemingway | Not Hemingway. Traced to sportswriter Red Smith, and not verbatim there. |\n| Write drunk, edit sober | Hemingway | Not Hemingway; nearest is Peter De Vries, Reuben, Reuben (1964), about a character. |\n| If you want to build a ship, don't drum up the men to gather wood | Saint-Exupéry | A paraphrase; the Citadelle passage says something adjacent and longer. Quote the real passage, in a named translation, or leave it. |\n| Dance like nobody's watching | Mark Twain | A 1987 country lyric (Susanna Clark and Richard Leigh, \"Come from the Heart\"). |\n| Not all who wander are lost | Tolkien | Tolkien wrote \"Not all those who wander are lost.\" Already shipped in the lift bank; excluded anyway. |\n| The definition of a friend is one soul in two bodies | Aristotle | Diogenes Laërtius reports it of Aristotle, Lives 5.20; cite Diogenes, not Aristotle's works. |\n| A journey of a thousand miles begins with a single step | Laozi | Real (Tao Te Ching 64) and shipped on the Philosophers; Laozi is banned here anyway. |\n| Hell is other people | Sartre | Real (Huis Clos, 1944) but nearly always misread; if proposed, the note must carry Sartre's own gloss. |\n| God is dead | Nietzsche | Real (The Gay Science 108, 125) but it is the madman's line and needs the context; not a morning line in any case. |\n| The unexamined life is not worth living | Socrates | Real: Plato, Apology 38a, and it is Plato's Socrates. Cite Plato, name the translator. |\n| Beauty will save the world | Dostoevsky | Real, but it is Ippolit REPORTING Myshkin in The Idiot, part 3, ch. 5. The speaker goes in the source. |\n| To thine own self be true | Shakespeare | Real, but the speaker is Polonius, Hamlet 1.3, and he is not offered as wisdom. Name him. |\n| Two roads diverged... I took the one less traveled by | Frost | Real, and shipped in the lift bank; excluded. Frost's own reading of the poem is ironic, which a note would have to say. |\n| Do not go gentle into that good night | Dylan Thomas | Real (1951), and grief; publishability decides, and the month. |\n| Everything happens for a reason | Aristotle, Marcus | No source. Out. |\n| Music is the universal language of mankind | Longfellow | Real, Outre-Mer (1835), but it is prose travel writing, and it is trite. |\n| Fortune favours the bold | Virgil | Real (Aeneid 10.284, audentes fortuna iuvat), and it is Turnus, speaking before he dies. Name the speaker or leave it. |\n\nTwo speaker traps to carry generally: a line spoken by a character is the\ncharacter's, and goes in the source in parentheses after the locator; a line\none character REPORTS of another is the reporter's, and the note says so.\n"
+}

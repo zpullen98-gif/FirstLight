@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "I never saw daffodils so beautiful. They grew among the mossy stones about and above them; some rested their heads upon these stones, as on a pillow, for weariness; and the rest tossed and reeled and danced, and seemed as if they verily laughed with the wind, that blew upon them over the lake; they looked so gay, ever glancing, ever changing.",
+ "source": "Dorothy Wordsworth, The Grasmere Journal, 15 April 1802, in Journals of Dorothy Wordsworth, ed. William Knight (Macmillan, 1897), p. 106",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Wikisource transcription of the Macmillan 1897 scan, proofread against the page images, read as raw HTML so the punctuation survived. The passage stands in the entry headed Thursday, 15th, after the sentence about the belt of daffodils the breadth of a country turnpike road, and the page markers around it read 106 and 107. Moorman's 1971 Oxford text was read alongside it and differs: no full stop after beautiful, ampersands, and about and about them, which is why the edition must be named.",
+  "edition": "Journals of Dorothy Wordsworth, ed. William Knight, Macmillan, 1897, vol. I (scan IA cu31924104001478)",
+  "locator": "Grasmere Journal, entry of Thursday 15th (April 1802), the walk past Gowbarrow Park on the shore of Ullswater; vol. I, p. 106",
+  "url": "https://en.wikisource.org/wiki/Journals_of_Dorothy_Wordsworth/Volume_1/Chapter_5"
+ },
+ "confidence": "high",
+ "reason": "Knight's 1897 wording matches the proposal character for character, including about and above them, the full stop after beautiful and the three semicolons. The entry date and the page are both confirmed on the transcribed page images. Not shipped, no near match, Dorothy Wordsworth at zero of three, not banned, not on the misattribution list."
+}

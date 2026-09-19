@@ -1,0 +1,17 @@
+{
+ "id": "04-phil-13",
+ "verdict": "VERIFIED",
+ "quote": "Patience, patience, patience, is what the sea teaches. Patience and faith. One should lie empty, open, choiceless as a beach—waiting for a gift from the sea.",
+ "source": "Anne Morrow Lindbergh, Gift from the Sea, chapter 1, The Beach (Pantheon, 1955)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The publisher-sanctioned excerpt from the fiftieth anniversary edition carried by NPR member station VPM, which prints the paragraph whole and names the chapter The Beach, and a second independent transcription of the same paragraph at awakin.org; both give the three sentences in this order and wording, following The sea does not reward those who are too anxious, too greedy, or too impatient",
+  "edition": "Gift from the Sea, Pantheon Books, 1955; paragraph checked against the fiftieth anniversary edition excerpt",
+  "locator": "Chapter 1, The Beach, in the paragraph on digging for treasures on the shore",
+  "url": "https://www.vpm.org/npr-news/2006-02-26/excerpts-gift-from-the-sea/"
+ },
+ "confidence": "high",
+ "reason": "The three sentences stand in the first chapter, The Beach, in exactly this wording, and the proposed locator is right. The em dash is the printed setting and landed Classics lines already carry closed em dashes. Not shipped, Lindbergh at zero of three, not banned, and it is an essay published in 1955."
+}

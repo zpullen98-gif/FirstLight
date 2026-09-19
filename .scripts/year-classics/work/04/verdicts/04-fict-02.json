@@ -1,0 +1,17 @@
+{
+ "id": "04-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "I was brought up in a distant province which lies farther than the farthest end of the Eastern Road.",
+ "source": "Lady Sarashina, The Sarashina Diary, the opening sentence (trans. Annie Shepley Omori and Kochi Doi, 1920)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The University of Pennsylvania Digital Library transcription of Diaries of Court Ladies of Old Japan, which prints the volume's own front matter and page markers. The diary opens the book and the first sentence stands at the head of the text, set as I WAS in small capitals, followed by I am ashamed to think that inhabitants of the Royal City will think me an uncultured girl. A footnote marker after province is dropped, as a card cannot carry it.",
+  "edition": "Diaries of Court Ladies of Old Japan, trans. Annie Shepley Omori and Kochi Doi, introduction by Amy Lowell, Houghton Mifflin, Boston and New York, 1920, pp. 1 to 68",
+  "locator": "The Sarashina Diary, A.D. 1009 to 1059, the opening sentence, text beginning on the third page of the volume",
+  "url": "https://digital.library.upenn.edu/women/omori/court/sarashina.html"
+ },
+ "confidence": "high",
+ "reason": "The wording is exactly the Omori and Doi sentence and it is the first sentence of the diary, which is the fame test claimed. The translators and 1920 edition are named, as they must be: Ivan Morris's 1971 version renders it as a part of the country beyond the end of the Great East Road. Lady Sarashina is the conventional English byline for the daughter of Sugawara no Takasue, who is named nowhere else. Not shipped, no near match, at zero of three, not banned."
+}
