@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "No coward soul is mine, no trembler in the world’s storm-troubled sphere: I see Heaven’s glories shine, and faith shines equal, arming me from fear.",
+ "source": "Emily Brontë, No Coward Soul Is Mine, lines 1 to 4, Wuthering Heights and Agnes Grey, with Literary Remains of Ellis Bell (1850)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "Wikisource transcription of The Complete Poems of Emily Brontë (1908), which reprints Charlotte Brontë’s 1850 text with her headnote, checked against a second transcription labelled as the 1850 revision; the 1850 Smith, Elder volume itself was not viewed (archive.org reprints lacked the poems).",
+  "edition": "Wuthering Heights and Agnes Grey, with Selections from the Literary Remains of Ellis and Acton Bell (Smith, Elder, 1850); text as reprinted in The Complete Poems of Emily Brontë (1908)",
+  "locator": "stanza 1, lines 1 to 4",
+  "url": "https://en.wikisource.org/wiki/The_Complete_Poems_of_Emily_Bront%C3%AB/No_Coward_Soul_Is_Mine"
+ },
+ "confidence": "high",
+ "reason": "Both witnesses print the four lines exactly as proposed, with the punctuation of Charlotte’s 1850 printing; the first stanza is the same in the manuscript and in the 1850 revision, so the wording is secure whichever text is taken. Not shipped, not banned, not at cap."
+}

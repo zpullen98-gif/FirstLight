@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-07",
+ "verdict": "VERIFIED",
+ "quote": "“I went to the woods because I wished to live deliberately, to front only the essential facts of life, and see if I could not learn what it had to teach, and not, when I came to die, discover that I had not lived.”",
+ "source": "Henry David Thoreau, Walden, ch. 2, ‘Where I Lived, and What I Lived For’, 1854",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Walden (ebook 205), grepped for the sentence; wording matches character for character",
+  "edition": "Walden; or, Life in the Woods, Ticknor and Fields, 1854, as reproduced by Project Gutenberg",
+  "locator": "Chapter 2, ‘Where I Lived, and What I Lived For’",
+  "url": "https://www.gutenberg.org/cache/epub/205/pg205.txt"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "The sentence is in Walden chapter 2 exactly as proposed, punctuation included."
+}

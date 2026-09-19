@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-05",
+ "verdict": "CORRECTED",
+ "quote": "“We shall not cease from exploration / And the end of all our exploring / Will be to arrive where we started / And know the place for the first time.”",
+ "source": "T. S. Eliot, Four Quartets, ‘Little Gidding’, part V, 1942",
+ "tradition": "Poetry",
+ "note": "The four lines are verse, printed here with the line breaks marked. The comma after exploration in the proposal is not Eliot’s. Wording from Little Gidding, Faber and Faber, 1942, as collected in Four Quartets, 1944.",
+ "evidence": {
+  "where": "Text of Little Gidding V as printed in Four Quartets (Faber and Faber, 1944), checked against the verse as reproduced online in extract form",
+  "edition": "Four Quartets, Faber and Faber, 1944 (Little Gidding first issued 1942)",
+  "locator": "‘Little Gidding’, part V, lines 26 to 29 of the section",
+  "url": "https://www.mindfulnesstherapy.co.uk/wp-content/uploads/2011/10/little-gidding-extracts.pdf"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "The passage is real and sits where the proposal says, but it is four verse lines with no comma after exploration; the shipped wording now keeps Eliot’s line breaks and punctuation."
+}

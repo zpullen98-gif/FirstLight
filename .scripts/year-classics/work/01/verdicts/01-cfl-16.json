@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-16",
+ "verdict": "VERIFIED",
+ "quote": "“But man is not made for defeat. A man can be destroyed but not defeated.”",
+ "source": "Ernest Hemingway, The Old Man and the Sea, unchaptered, after the first shark (Santiago) (Scribner, 1952)",
+ "tradition": "Fiction",
+ "speaker": "Santiago",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg Canada plain text of The Old Man and the Sea, produced from the 1952 Charles Scribner’s Sons edition",
+  "edition": "The Old Man and the Sea, Charles Scribner’s Sons, New York, 1952",
+  "locator": "Unchaptered; Santiago speaks it aloud after killing the mako, the first shark, and losing the harpoon",
+  "url": "https://gutenberg.ca/ebooks/hemingwaye-oldmanandthesea/hemingwaye-oldmanandthesea-00-t.txt"
+ },
+ "confidence": "high",
+ "reason": "The two spoken sentences are in the 1952 Scribner text exactly as proposed, split only by “he said”, which is dropped as narration. Santiago says them aloud after the first shark, so he is named as speaker."
+}

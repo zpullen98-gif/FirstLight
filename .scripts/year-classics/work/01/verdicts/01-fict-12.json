@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "“But that is the beginning of a new story—the story of the gradual renewal of a man, the story of his gradual regeneration, of his passing from one world into another, of his initiation into a new unknown life.”",
+ "source": "Fyodor Dostoevsky, Crime and Punishment, Epilogue, chapter 2, the closing paragraph (trans. Constance Garnett, 1914)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 2554, Crime and Punishment translated by Constance Garnett, closing paragraph of the Epilogue chapter II; Gutenberg renders the dash as two hyphens, printed editions as an em dash",
+  "edition": "Constance Garnett translation, Heinemann, 1914",
+  "locator": "Epilogue, chapter II, first sentence of the final paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/2554/pg2554.txt"
+ },
+ "confidence": "high",
+ "reason": "The Garnett closing paragraph carries this sentence word for word; it is the first of the paragraph’s two sentences, and the second (That might be the subject of a new story, but our present story is ended) follows it. The em dash inside the quotation is the translation’s own punctuation; the rule bars dashes only in source and note."
+}

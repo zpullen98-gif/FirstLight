@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-06",
+ "verdict": "CORRECTED",
+ "quote": "Ring out the old, ring in the new, ring, happy bells, across the snow: the year is going, let him go; ring out the false, ring in the true.",
+ "source": "Alfred Tennyson, In Memoriam A.H.H., section CIV, lines 5 to 8 (Edward Moxon, 1850; CVI in the final text)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Section number corrected. In the 1850 Moxon first edition the Ring out, wild bells poem is section CIV; it became CVI only after Tennyson inserted section LIX in 1851 and section XXXIX in 1869. The wording is the first edition’s.",
+ "evidence": {
+  "where": "Project Gutenberg 70950, the transcription of the Edward Moxon 1850 first edition, downloaded and grepped; the volume has 129 sections, the stanza stands under CIV, and CVI in that volume is I will not shut me from my kind",
+  "edition": "In Memoriam (Edward Moxon, Dover Street, 1850), first edition",
+  "locator": "section CIV, second stanza, lines 5 to 8",
+  "url": "https://www.gutenberg.org/cache/epub/70950/pg70950.txt"
+ },
+ "confidence": "high",
+ "reason": "The refutation stands: the 1850 edition numbers the poem CIV, so the earlier verdict’s CVI pointed at a different poem in the edition it named. The wording holds exactly. Not shipped, no near match, Tennyson at 0 of 3, not banned."
+}

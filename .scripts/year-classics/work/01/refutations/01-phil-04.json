@@ -1,0 +1,7 @@
+{
+ "id": "01-phil-04",
+ "refuted": true,
+ "wordingChecked": true,
+ "betterCitation": "Christine de Pizan, The Book of the City of Ladies, Part I, ch. 27 (Lady Reason) (trans. Earl Jeffrey Richards, 1982)",
+ "reason": "Wording holds: it matches Earl Jeffrey Richards, Persea 1982, Part I ch. 27, as Wikiquote prints it beside the Middle French (Si la coustume estoit de mettre les petites filles a l escole...), including the Richards touches the natural sciences and as well as sons; the little girls rendering the verifier rejected is Rosalind Brown-Grant (Penguin 1999), a different published translation, so that correction was right. Speaker holds: I.27 is Reason answering Christine on whether God wished women to learn, and the Hanover excerpt names Lady Reason as the defender of educating daughters there. shipped.js: not shipped, no near match, not banned, count 0. Source 124 chars, leads with the name, no dash; tag Philosophy fits. What fails is the page number: Wikiquote gives p. 63 for the [1982] 1983 printing, while a scholarly citation surfaced by search (Literary Foremothers, pressbooks) gives p. 67 for the Persea edition, and Richards was reissued by Persea in a revised 1998 edition with different pagination. I could not reach a scan of either printing, so p. 63 is unverified and edition-dependent. Part I, ch. 27 is independently right and satisfies the locator rule on its own; ship with the page dropped, as in betterCitation."
+}

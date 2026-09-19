@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-09",
+ "verdict": "CORRECTED",
+ "quote": "“Risk! Risk anything! Care no more for the opinions of others, for those voices. Do the hardest thing on earth for you. Act for yourself. Face the truth.”",
+ "source": "Katherine Mansfield, Journal of Katherine Mansfield, entry of 10 October 1922 (ed. J. Middleton Murry, 1927)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "The 1927 Journal dates this entry 10 October 1922, four days before her last birthday, under the heading The Final Step; the proposal dated it 14 October. The edition reads opinions, plural, not opinion. Checked in the Knopf printing of the Murry 1927 text, page 253.",
+ "evidence": {
+  "where": "Full OCR text of Journal of Katherine Mansfield, ed. J. Middleton Murry (Knopf, copyright 1927, sixth printing 1928), Internet Archive item journalofkatheri00mans, section The Final Step, pp. 252 to 253",
+  "edition": "Journal of Katherine Mansfield, ed. J. Middleton Murry, Knopf 1927 (same text as Constable 1927)",
+  "locator": "entry headed October 10 (1922), p. 253",
+  "url": "https://archive.org/details/journalofkatheri00mans"
+ },
+ "confidence": "high",
+ "reason": "The passage is in the 1927 Journal in this wording except for opinions in the plural, and the entry is dated October 10, not her birthday of October 14. Wording and date corrected from the scanned edition."
+}

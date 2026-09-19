@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-03",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "quote": "“Never did eye see the sun unless it had first become sunlike, and never can the soul have vision of the First Beauty unless itself be beautiful.”",
+ "source": "Plotinus, Enneads, I.6.9, On Beauty (trans. Stephen MacKenna, 1917)",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource transcription of MacKenna, Plotinus: The Ethical Treatises (1917), Ennead I.6 section 9; wording and spelling of sunlike confirmed verbatim",
+  "edition": "Stephen MacKenna, Plotinus: The Ethical Treatises, Medici Society, 1917",
+  "locator": "Ennead I.6 (On Beauty), section 9",
+  "url": "https://en.wikisource.org/wiki/Plotinus_(MacKenna)/Volume_1/Ennead_1.6"
+ },
+ "confidence": "high",
+ "reason": "Found in MacKenna 1917 at I.6.9 in exactly the proposed wording, including the unhyphenated sunlike. Not shipped, not at cap, not banned."
+}

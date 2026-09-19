@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-13",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Wording holds. The annotated transcription of the 1961 Grove Press text (samuelbeckettshappydays.wordpress.com) gives the first speech after the bell as WINNIE (gazing at zenith). Another heavenly day. with a full stop; Wikipedia confirms Grove Press, New York, 1961 as first publication (Faber followed). Opening line of the work, speaker named, Drama is the form, source 99 characters, leads with the name, no dash, curly quotes. shipped.js: not shipped, not near, not at cap, not banned. Two cautions for the editor, neither a refutation: the locator already says Winnie’s first words so the trailing (Winnie) is redundant, and the line is the ironic optimism of a woman buried to the waist, so a note giving that context would keep the card honest.",
+ "checked": {
+  "shipped": false,
+  "near": false,
+  "atCap": false,
+  "banned": false,
+  "sourceLength": 99,
+  "tag": "Drama",
+  "inScope": true,
+  "publishable": true
+ }
+}

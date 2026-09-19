@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-16",
+ "verdict": "VERIFIED",
+ "quote": "“For actually the earth had no roads to begin with, but when many men pass one way, a road is made.”",
+ "source": "Lu Xun, My Old Home, the closing sentence (the narrator) (trans. Yang Hsien-yi and Gladys Yang, 1960)",
+ "tradition": "Fiction",
+ "speaker": "the narrator",
+ "note": "",
+ "evidence": {
+  "where": "Marxists Internet Archive transcription of Selected Stories of Lu Hsun, Foreign Languages Press, Peking, 1960 (the Yang translation)",
+  "edition": "Selected Stories of Lu Hsun, Foreign Languages Press, Peking, 1960, trans. Yang Hsien-yi and Gladys Yang",
+  "locator": "My Old Home, final paragraph, last sentence",
+  "url": "https://www.marxists.org/archive/lu-xun/1921/01/x01.htm"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim the last sentence of the story in the Yangs’ translation as printed by Foreign Languages Press. It is the first-person narrator’s reflection, so the speaker is named. Not shipped, Lu Xun not at cap or banned."
+}

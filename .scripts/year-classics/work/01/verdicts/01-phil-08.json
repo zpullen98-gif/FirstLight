@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "“I do not wish them to have power over men; but over themselves.”",
+ "source": "Mary Wollstonecraft, A Vindication of the Rights of Woman, ch. 4, answering Rousseau",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of the 1792 work, read in full; the sentence follows Wollstonecraft’s quotation of Rousseau on educating women like men",
+  "edition": "A Vindication of the Rights of Woman, 1792 (Project Gutenberg ebook 3420)",
+  "locator": "Chapter 4, Observations on the State of Degradation to Which Woman Is Reduced by Various Causes",
+  "url": "https://www.gutenberg.org/cache/epub/3420/pg3420.txt"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "Found verbatim in chapter 4 immediately after the Rousseau quotation, so the locator holds. Original English, no translator needed. Not shipped, not at cap, not banned."
+}

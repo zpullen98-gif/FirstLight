@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "“In spring it is the dawn that is most beautiful.”",
+ "source": "Sei Shōnagon, The Pillow Book, section 1, the opening sentence (trans. Ivan Morris, 1967)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Ivan Morris translation, The Pillow Book of Sei Shonagon (Columbia University Press, 1967; Penguin Classics 1971), section 1 opening; checked against a blog transcription of the Morris text and reference summaries naming Haru wa akebono",
+  "edition": "The Pillow Book of Sei Shonagon, trans. Ivan Morris, Columbia University Press, 1967, vol. 1, section 1",
+  "locator": "section 1, the opening sentence",
+  "url": "http://biis-books.blogspot.com/2014/08/the-pillow-book-of-sei-shonagon.html"
+ },
+ "confidence": "high",
+ "reason": "Morris opens section 1 with exactly this sentence, followed by the line about light creeping over the hills; it is the most famous first sentence in Japanese prose and the wording matches the named translation."
+}

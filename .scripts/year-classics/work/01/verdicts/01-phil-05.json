@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-05",
+ "verdict": "CORRECTED",
+ "quote": "“Had Aristotle prepared victuals, he would have written more.”",
+ "source": "Sor Juana Inés de la Cruz, Reply to Sor Filotea de la Cruz, the philosophies of the kitchen (trans. Margaret Sayers Peden, 1982)",
+ "tradition": "Correspondence",
+ "note": "Trimmed to the sentence confirmed in Peden’s translation, first published in A Woman of Genius (1982) and reprinted in Poems, Protest, and a Dream (Penguin, 1997). The proposed lead-in clause about trivial details could not be checked against the edition, so it is left out.",
+ "evidence": {
+  "where": "Peden’s wording confirmed in the Los Angeles Review of Books essay on Sor Juana and in search summaries citing Poems, Protest, and a Dream (Penguin Classics); the 1982 Lime Rock Press edition itself was not opened",
+  "edition": "A Woman of Genius: The Intellectual Autobiography of Sor Juana Inés de la Cruz, trans. Margaret Sayers Peden, Lime Rock Press, 1982; reprinted in Poems, Protest, and a Dream, Penguin, 1997",
+  "locator": "Respuesta a Sor Filotea, the passage on the philosophies of the kitchen (the egg observations)",
+  "url": "https://lareviewofbooks.org/article/the-mexican-phoenix-rises-on-sor-juana-or-the-persistence-of-pop/"
+ },
+ "confidence": "medium",
+ "speaker": "",
+ "reason": "The line is real and Peden’s, but only the final sentence could be confirmed verbatim in her wording; the lead-in clause is left off rather than shipped unconfirmed. Not shipped, not at cap, not banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-13",
+ "verdict": "VERIFIED",
+ "quote": "“And it seemed as though in a little while the solution would be found, and then a new and splendid life would begin; and it was clear to both of them that they had still a long, long road before them, and that the most complicated and difficult part of it was only just beginning.”",
+ "source": "Anton Chekhov, The Lady with the Dog, section IV, the closing sentence (trans. Constance Garnett, 1917)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg transcription of Garnett’s The Tales of Chekhov, vol. 3, The Lady with the Dog and Other Stories (Chatto and Windus, 1917)",
+  "edition": "Constance Garnett, The Lady with the Dog and Other Stories, Chatto and Windus, 1917",
+  "locator": "section IV, final paragraph, last sentence",
+  "url": "https://www.gutenberg.org/cache/epub/13415/pg13415.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim the last sentence of the story in Garnett’s 1917 translation, confirmed against the Gutenberg text of that volume. Not shipped, Chekhov not at cap or banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "“Last year is dead, they seem to say, / Begin afresh, afresh, afresh.”",
+ "source": "Philip Larkin, The Trees, lines 11 and 12, High Windows (Faber and Faber, 1974)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Poetry Archive text of The Trees, printed by permission of Faber from Collected Poems (1993); High Windows (1974) is the first book publication",
+  "edition": "High Windows (Faber and Faber, 1974); Collected Poems (Faber, 1993)",
+  "locator": "lines 11 and 12, the closing couplet of the twelve line poem",
+  "url": "https://poetryarchive.org/poem/trees/"
+ },
+ "confidence": "high",
+ "reason": "The closing couplet of the twelve line poem, in exactly this wording with the line initial capital on Begin; the proposal’s lines 10 to 12 is tightened to 11 and 12. Not shipped, not at cap, not banned."
+}

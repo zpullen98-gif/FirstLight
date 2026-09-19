@@ -1,0 +1,7 @@
+{
+ "id": "01-cfl-05",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Holds. Wording checked against a full text of Little Gidding V (poetryverse.com) and the mindfulnesstherapy extract PDF the verifier cited: no comma after exploration, no end punctuation on the first three lines, full stop after time; the four lines match. Locator checked by counting part V from its first line, ignoring stanza breaks: line 25 is the single long line beginning With the drawing of this Love (some web settings turn Calling over as a runover, which is typesetting, not a line), so the four lines are 26 to 29 of the section. Publication: New English Weekly, October 1942, then the Faber pamphlet dated 1942; collected in Four Quartets, Harcourt 1943 and Faber 1944, so 1942 in the source and 1944 in the note are both right. shipped.js: not shipped, no near opening, Eliot count 0, not banned; a repo grep for the phrases hit only cfl-candidates.json. Source line leads with the name, 58 characters, no dash; tag Poetry is the form. In scope (poetry, 1942), on theme (know the place for the first time), publishable, not on the misattribution list. One thing to know rather than a fault: the poem is still in copyright in the UK to 2035 and the US to 2037; four lines with a full citation is ordinary short quotation."
+}

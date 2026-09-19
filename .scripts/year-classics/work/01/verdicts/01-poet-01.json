@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "“Some men say an army of horse and some men say an army on foot and some men say an army of ships is the most beautiful thing on the black earth. But I say it is what you love.”",
+ "source": "Sappho, Fragment 16, lines 1 to 4, If Not, Winter (trans. Anne Carson, 2002)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Anne Carson, If Not, Winter: Fragments of Sappho, page 27 of the Vintage paperback (extracted from a PDF of the book pages hosted by Baruch College, CUNY); wording matches exactly.",
+  "edition": "If Not, Winter: Fragments of Sappho (Alfred A. Knopf, 2002; Vintage, 2003)",
+  "locator": "fragment 16, lines 1 to 4, page 27",
+  "url": "https://files.blogs.baruch.cuny.edu/wp-content/blogs.dir/5917/files/2018/01/Pages-from-Sappho_Anne_Carson_trans_If_Not_Winter.pdf"
+ },
+ "confidence": "high",
+ "reason": "The proposed wording is Carson's, line for line, in the named edition. Not shipped, not near a shipped line, not banned, not at cap."
+}

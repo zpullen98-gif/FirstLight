@@ -1,0 +1,16 @@
+{
+ "id": "01-poet-10",
+ "verdict": "VERIFIED",
+ "quote": "“You must change your life.”",
+ "source": "Rainer Maria Rilke, Archaic Torso of Apollo, New Poems: The Other Part (1908), closing line (trans. Stephen Mitchell, 1982)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Academy of American Poets page printing Mitchell's translation with his credit line; Poetry Foundation credit for The Selected Poetry of Rainer Maria Rilke (Random House, 1982), p. 61",
+  "edition": "The Selected Poetry of Rainer Maria Rilke, trans. Stephen Mitchell (Random House, 1982), p. 61",
+  "locator": "line 14, the closing line",
+  "url": "https://poets.org/poem/archaic-torso-apollo"
+ },
+ "confidence": "high",
+ "reason": "Mitchell's closing line reads exactly as proposed, and the poem opens Der neuen Gedichte anderer Teil (1908). Not shipped, not at cap, not banned."
+}

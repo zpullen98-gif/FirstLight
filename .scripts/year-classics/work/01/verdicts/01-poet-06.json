@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "Ring out the old, ring in the new, ring, happy bells, across the snow: the year is going, let him go; ring out the false, ring in the true.",
+ "source": "Alfred Tennyson, In Memoriam A.H.H., section CVI, lines 5 to 8 (Edward Moxon, 1850)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "Project Gutenberg 70950, a transcription of the 1850 Edward Moxon first edition of In Memoriam, cross-checked with the Victorian Web text of section CVI.",
+  "edition": "In Memoriam (Edward Moxon, 1850), first edition",
+  "locator": "CVI, second stanza, lines 5 to 8",
+  "url": "https://www.gutenberg.org/ebooks/70950"
+ },
+ "confidence": "high",
+ "reason": "The 1850 first edition prints the stanza word for word and point for point as proposed. Not shipped, not banned, not at cap."
+}

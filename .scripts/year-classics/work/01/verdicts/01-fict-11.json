@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "“This book was written in good faith, reader.”",
+ "source": "Michel de Montaigne, Essays, To the Reader, the opening sentence (trans. Donald M. Frame, 1957)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Donald M. Frame, The Complete Essays of Montaigne (Stanford University Press, 1957), To the Reader; wording confirmed against web quotations of the Frame text (the opening continues: It warns you from the outset that in it I have set myself no goal but a domestic and private one) and from my own knowledge of the Frame, Screech and Cotton renderings, which differ here. The Stanford scan on the Internet Archive is lending only and could not be opened, so the page number is dropped from the locator.",
+  "edition": "The Complete Essays of Montaigne, trans. Donald M. Frame, Stanford University Press, 1957",
+  "locator": "To the Reader, first sentence",
+  "url": "https://archive.org/details/completeessaysof0000mont"
+ },
+ "confidence": "high",
+ "reason": "This is the Frame rendering of the first sentence of Au lecteur (Screech has You have here, Reader, a book whose faith can be trusted; Cotton has Reader, thou hast here an honest book), so translator and wording match. The unverified page number is left out of the shipped locator."
+}

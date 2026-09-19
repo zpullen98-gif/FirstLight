@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-09",
+ "verdict": "CORRECTED",
+ "quote": "It is perfectly true, as philosophers say, that life must be understood backwards. But they forget the other proposition, that it must be lived forwards.",
+ "source": "Søren Kierkegaard, Journals, IV A 164, 1843 (trans. Alexander Dru, 1938)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "The proposal read “as the philosophers say”. Dru’s translation has “as philosophers say”, with no article, as the Harper 1959 and Dover 2003 reprints of his selection show. The Danish entry is Papirer IV A 164 of 1843.",
+ "evidence": {
+  "where": "Open Library search inside of the Harper Torchbook reprint of Dru’s Journals of Kierkegaard (1959, scan page 262) and of the Dover reprint The Soul of Kierkegaard (2003, scan page 278); Wikiquote for the Danish text; the 1938 Oxford volume itself is a locked scan and was not opened",
+  "edition": "The Journals of Kierkegaard, trans. Alexander Dru; Harper Torchbooks 1959 reprint of the 1938 Oxford selection",
+  "locator": "IV A 164 (1843)",
+  "url": "https://openlibrary.org/search/inside?q=%22as+philosophers+say%2C+that+life+must+be+understood+backwards%22"
+ },
+ "confidence": "high",
+ "reason": "The line is real and Dru’s, but the popular wording adds “the” before “philosophers”; every scan of Dru’s translation reads “as philosophers say”, so the wording is corrected to the edition."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-14",
+ "verdict": "VERIFIED",
+ "quote": "“A book must be the axe for the frozen sea inside us.”",
+ "source": "Franz Kafka, Letters to Friends, Family, and Editors, to Oskar Pollak, 27 January 1904 (trans. Richard and Clara Winston, 1977)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Two quotation sites (WIST, The Marginalian) reproducing the Winston 1977 passage in full and naming the Schocken volume; the page number 16 was not independently confirmed so it is left out of the source",
+  "edition": "Letters to Friends, Family, and Editors, Schocken Books, 1977, trans. Richard and Clara Winston",
+  "locator": "letter to Oskar Pollak, 27 January 1904",
+  "url": "https://wist.info/kafka-franz/22920/"
+ },
+ "confidence": "high",
+ "reason": "The line is the Winston rendering of the 27 January 1904 letter to Pollak, word for word, in the 1977 Schocken collection. The full passage was checked; only the Schocken page number could not be confirmed and has been dropped."
+}

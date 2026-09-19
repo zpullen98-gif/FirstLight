@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-06",
+ "verdict": "VERIFIED",
+ "quote": "“And now let us believe in a long year that is given to us, new, untouched, full of things that have never been, full of work that has never been done, full of tasks, claims, and demands; and let us see that we learn to take it without letting fall too much of what it has to bestow upon those who demand of it necessary, serious, and great things.”",
+ "source": "Rainer Maria Rilke, Letters 1892 to 1910, to Clara Rilke, Capri, 1 January 1907 (trans. J. B. Greene and M. D. Herter Norton, 1945)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Internet Archive full-text OCR of the Norton 1945 edition (lettersofrainerm030932mbp), downloaded and grepped; the letter heading, the printed folio 253 at the head of the page carrying the sentence, and the title page naming both translators were all read in the scan.",
+  "edition": "Letters of Rainer Maria Rilke 1892 to 1910, translated by Jane Bannard Greene and M. D. Herter Norton, W. W. Norton, New York, 1945, p. 253",
+  "locator": "To Clara Rilke, Villa Discopoli, Capri (Italy), January 1, 1907; the closing sentence of the letter",
+  "url": "https://archive.org/stream/lettersofrainerm030932mbp/lettersofrainerm030932mbp_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is printed word for word in the named translation at the named place, and the scan was opened directly this time rather than taken from WIST. The refutation faulted only the en dash in the source line; the source now writes 1892 to 1910 in house style and runs to 131 characters. Not shipped, no near match, Rilke at 0 of 3, not banned."
+}

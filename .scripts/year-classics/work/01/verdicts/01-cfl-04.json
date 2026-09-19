@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-04",
+ "verdict": "VERIFIED",
+ "quote": "Now is the winter of our discontent made glorious summer by this sun of York.",
+ "source": "William Shakespeare, Richard III, Act 1, scene 1, lines 1 to 2 (Richard, Duke of Gloucester)",
+ "tradition": "Drama",
+ "speaker": "Richard, Duke of Gloucester",
+ "note": "",
+ "evidence": {
+  "where": "The Globe text (Clark and Wright) as served by the MIT Shakespeare site, which prints sun of York; the Folger edition was also checked and prints son of York",
+  "edition": "The Globe Shakespeare (Clark and Wright, 1864), the reading also of the Arden, Riverside and Penguin editions",
+  "locator": "Richard III, 1.1.1 to 2, the opening soliloquy",
+  "url": "http://shakespeare.mit.edu/richardiii/full.html"
+ },
+ "confidence": "high",
+ "reason": "The two opening lines are exact in the Globe, Arden, Riverside and Penguin texts; the early quartos and the Folio print Son of Yorke and the Folger keeps son, so sun is the majority modernised reading, not a mint. The semicolon that ends line 2 becomes the full stop the card needs. The speaker is the villain and the source names him, as the Polonius rule requires."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-10",
+ "verdict": "CORRECTED",
+ "quote": "Believe that life is worth living, and your belief will help create the fact.",
+ "source": "William James, Is Life Worth Living?, in The Will to Believe, final paragraph (1897)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "Not the closing sentence. It stands in the final paragraph, after “These, then, are my last words to you: Be not afraid of life”, and the essay closes with the Henry IV and Crillon anecdote. James italicises “is”, which the card cannot show.",
+ "evidence": {
+  "where": "Project Gutenberg #26659, The Will to Believe and Other Essays in Popular Philosophy (Longmans, Green, 1897), plain text, lines 2218 to 2227",
+  "edition": "The Will to Believe and Other Essays in Popular Philosophy, Longmans, Green, 1897",
+  "locator": "Is Life Worth Living?, final paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/26659/pg26659.txt"
+ },
+ "confidence": "high",
+ "reason": "The words are James’s exactly, but the locator was wrong: the sentence opens the final paragraph rather than ending the essay, and the original emphasises “is”."
+}

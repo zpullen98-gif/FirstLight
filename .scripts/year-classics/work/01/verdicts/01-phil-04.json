@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-04",
+ "verdict": "CORRECTED",
+ "speaker": "Lady Reason",
+ "tradition": "Philosophy",
+ "quote": "“If it were customary to send daughters to school like sons, and if they were then taught the natural sciences, they would learn as thoroughly and understand the subtleties of all the arts and sciences as well as sons.”",
+ "source": "Christine de Pizan, The Book of the City of Ladies, Part I, ch. 27, p. 63 (Lady Reason) (trans. Earl Jeffrey Richards, 1982)",
+ "note": "The wording was corrected. The proposed little girls sentence is a different English rendering, not Richards. Richards, Persea Books 1982, Part I chapter 27 page 63, reads as printed here, confirmed against the Middle French. Lady Reason is the speaker.",
+ "evidence": {
+  "where": "Wikiquote entry for Christine de Pizan, which prints the Middle French and the Richards 1982 rendering with Part I, ch. 27, p. 63; the little girls wording found only on unsourced quote sites",
+  "edition": "Earl Jeffrey Richards, The Book of the City of Ladies, Persea Books, 1982",
+  "locator": "Part I, ch. 27, p. 63",
+  "url": "https://en.wikiquote.org/wiki/Christine_de_Pizan"
+ },
+ "confidence": "medium",
+ "reason": "The passage is real and at the named place, but the proposed wording is not Richards; his sentence is different and is the one attested with the page number. The corrected line ships in Richards wording. Not shipped, not at cap, not banned."
+}

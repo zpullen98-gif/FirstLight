@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "One must imagine Sisyphus happy.",
+ "source": "Albert Camus, The Myth of Sisyphus, closing sentence of the essay (trans. Justin O’Brien, 1955)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Two independent course copies of the O’Brien translation (Hanover College history excerpts; University of Minnesota Duluth), both ending “The struggle itself toward the heights is enough to fill a man’s heart. One must imagine Sisyphus happy.”; O’Brien is the only published English translation, Knopf and Hamish Hamilton, 1955",
+  "edition": "The Myth of Sisyphus and Other Essays, trans. Justin O’Brien, Alfred A. Knopf, 1955",
+  "locator": "closing sentence of the title essay, before the Kafka appendix",
+  "url": "https://history.hanover.edu/courses/excerpts/111camus.html"
+ },
+ "confidence": "high",
+ "reason": "The line is the last sentence of the title essay in O’Brien’s 1955 translation, in exactly this wording; the work, locator and translator all check."
+}

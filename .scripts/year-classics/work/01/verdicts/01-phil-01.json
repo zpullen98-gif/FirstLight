@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-01",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "quote": "“All men by nature desire to know.”",
+ "source": "Aristotle, Metaphysics, Book I, ch. 1, 980a21 (trans. W. D. Ross, 1908)",
+ "note": "",
+ "evidence": {
+  "where": "Ross translation of the Metaphysics online at the MIT Internet Classics Archive; opening sentence of Book I confirmed verbatim",
+  "edition": "W. D. Ross, The Works of Aristotle, vol. VIII, Oxford, 1908",
+  "locator": "Book I (Alpha), ch. 1, 980a21, opening sentence",
+  "url": "http://classics.mit.edu/Aristotle/metaphysics.1.i.html"
+ },
+ "confidence": "high",
+ "reason": "The line is the opening sentence of the Metaphysics in Ross, confirmed verbatim in the Internet Classics Archive text; Ross prints ALL in capitals as a chapter opener, normalised here. Not shipped, not at cap, not banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-13",
+ "verdict": "VERIFIED",
+ "quote": "“The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is.”",
+ "source": "Marcel Proust, The Captive, ch. 2, the Vinteuil septet at the Verdurins’ (the narrator) (trans. C. K. Scott Moncrieff, 1929)",
+ "tradition": "Fiction",
+ "speaker": "the narrator",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg Australia plain text of The Captive, trans. C. K. Scott Moncrieff (eBook 0300501), Chapter II (continued), the septet at the Verdurins’",
+  "edition": "The Captive, trans. C. K. Scott Moncrieff, 1929 (Gutenberg Australia eBook 0300501)",
+  "locator": "Chapter II, during the andante of the Vinteuil septet; the sentence runs on to a semicolon at “that each of them is”",
+  "url": "https://gutenberg.net.au/ebooks03/0300501.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in Moncrieff’s Captive word for word, in chapter 2 at the Verdurins’ concert, exactly where the proposal placed it. The shipped cut runs to the semicolon so it ends on a whole thought rather than mid-clause; the proposed shorter cut is also verbatim."
+}

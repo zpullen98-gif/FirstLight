@@ -64,6 +64,7 @@ try { new (require('vm').Script)(candidate, { filename: REL }); } catch (e) { di
 
 /* ---- everything checked; now write ---- */
 fs.writeFileSync(FILE, candidate);
+fs.unlinkSync(candPath);   // the candidate only outlives a failure
 console.log(`\n  landed month ${m} (${month.entries.length} entries) into ${REL}: ${r.report.count} of 366${r.report.complete ? ', COMPLETE' : ''}`);
 
 /* the ledger, recounted from the file */

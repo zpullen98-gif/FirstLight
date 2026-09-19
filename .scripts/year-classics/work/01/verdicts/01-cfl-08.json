@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-08",
+ "verdict": "VERIFIED",
+ "quote": "“I am large, I contain multitudes.”",
+ "source": "Walt Whitman, Leaves of Grass, ‘Song of Myself’, section 51, 1881 text",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Leaves of Grass (ebook 1322, the 1891 to 1892 edition, which carries the 1881 wording), grepped: “Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes.)”",
+  "edition": "Leaves of Grass, 1881 to 1882 text as reprinted in the 1891 to 1892 edition",
+  "locator": "‘Song of Myself’, section 51, the parenthetical line after “Very well then I contradict myself”",
+  "url": "https://www.gutenberg.org/cache/epub/1322/pg1322.txt"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "The line is printed exactly so, in parentheses, in section 51 of the 1881 and later text; the 1855 edition has the ellipsis form, which the proposal correctly did not use."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-02",
+ "verdict": "VERIFIED",
+ "quote": "Listen to the reed how it tells a tale, complaining of separations.",
+ "source": "Rumi, Masnavi, Book I, line 1 (trans. Reynold A. Nicholson, 1926)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "OCR scan of Nicholson's volume II (the translation of Books I and II, 1926) on the Internet Archive, page 5, line 1; cross-checked with dar-al-masnavi.org, which records Nicholson's later corrections",
+  "edition": "The Mathnawí of Jalálu'ddín Rúmí, vol. II, ed. and trans. Reynold A. Nicholson, Gibb Memorial Series, 1926",
+  "locator": "Book I, line 1 (the Proem, the Song of the Reed)",
+  "url": "https://archive.org/details/in.ernet.dli.2015.70297"
+ },
+ "confidence": "high",
+ "reason": "The 1926 printing reads exactly this, ending in a dash that the ship copy replaces with a full stop; the words are untouched. Nicholson later corrected the line from the oldest manuscript to begin Listen to this reed how it complains, so the 1926 date in the source is the right one for this wording."
+}

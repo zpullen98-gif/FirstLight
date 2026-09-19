@@ -1,0 +1,7 @@
+{
+ "id": "01-cfl-08",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Holds. Downloaded Project Gutenberg ebook 1322 and grepped: the text opens with Come, said my soul (the 1891 to 1892 deathbed edition), the section numeral 51 stands 10 lines above the passage, and the lines read Do I contradict myself? / Very well then I contradict myself, / (I am large, I contain multitudes.) as the verifier says. The 1881 wording is what the deathbed edition reprints for Song of Myself, and the poem got that title and its section numbers in 1881, so section 51, 1881 text is the right locator; the 1855 text has the same words with Whitman's four-dot pauses and no parentheses. The proposal drops the enclosing parentheses, which removes punctuation around the line rather than altering a word; acceptable, and a one-line note could say the line is parenthetical in the source. shipped.js: not shipped, no near opening, Whitman count 0, not banned; repo grep for contain multitudes hit only cfl-candidates.json. Source line leads with the name, 70 characters, no dash; tag Poetry is the form. In scope, publishable, famous by any measure, not on the misattribution list. Nothing to correct."
+}

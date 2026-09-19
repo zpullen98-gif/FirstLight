@@ -53,6 +53,7 @@ const brief = {
     'Every candidate carries a LOCATABLE citation before it is proposed: work, and book/chapter/letter/section/line, or edition and page. A translated line names the translator and year of the published translation whose wording it uses.',
     'The source line LEADS with the author\'s name (the card prints it as the byline and has no author field), then the work, then the locator, then the translation in parentheses. A character\'s line names the speaker in parentheses after the locator. At most 140 characters. No em dash in the source or the note: use a colon.',
     'The quotation ends in a full stop, question mark or exclamation mark. Curly quotes only; no straight double quote anywhere.',
+    'VERSE keeps its line breaks, marked " / " (a slash with a space each side), in the lineation of the edition named, with the poem\'s own capitals at the line head. A verse quotation is never run together as prose. Prose is never broken into lines.',
     'No person twice in the month; at most three lines per person in the year. Authors on the banned list never.',
     'Per month the editor balances: at most 10 entries from one country, at most 16 originally written in English, at least 8 women, at least 4 of the 7 tags, at least 3 centuries. Curators recruit toward that: name translators, go beyond the English canon.',
     'Nothing already shipped in Q, Q_MAKERS, UPLIFT or this file: run node .scripts/year-classics/shipped.js "<quote>" "<author>" before proposing, and again before ruling.',

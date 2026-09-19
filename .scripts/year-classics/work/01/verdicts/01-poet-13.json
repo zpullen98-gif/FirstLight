@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "“Another heavenly day.”",
+ "source": "Samuel Beckett, Happy Days, Act I, Winnie’s first words after the bell (Grove Press, 1961) (Winnie)",
+ "tradition": "Drama",
+ "speaker": "Winnie",
+ "note": "",
+ "evidence": {
+  "where": "A Reader’s Guide to Samuel Beckett’s Happy Days, an annotated transcription of the 1961 Grove Press text, checked against the play’s Wikipedia entry for first publication",
+  "edition": "Happy Days (Grove Press, 1961)",
+  "locator": "Act I, Winnie’s first spoken line, after the bell rings and she gazes up",
+  "url": "https://samuelbeckettshappydays.wordpress.com/happy-days/"
+ },
+ "confidence": "high",
+ "reason": "The bell rings, Winnie looks up and says exactly these words: her first line in the play and the play’s first speech. Not shipped, not at cap, not banned."
+}

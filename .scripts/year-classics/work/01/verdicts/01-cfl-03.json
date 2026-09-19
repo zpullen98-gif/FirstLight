@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-03",
+ "verdict": "VERIFIED",
+ "quote": "In a hole in the ground there lived a hobbit.",
+ "source": "J. R. R. Tolkien, The Hobbit, ch. 1, ‘An Unexpected Party’, first sentence",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The first sentence of the novel in every edition from the first; not fetched from a scan because the work is in copyright, but the wording is beyond dispute and is the sentence the book is known by",
+  "edition": "The Hobbit, George Allen & Unwin, 1937",
+  "locator": "Chapter 1, An Unexpected Party, first sentence",
+  "url": ""
+ },
+ "confidence": "high",
+ "reason": "Opening line of a named work, wording exact, 1937 is within scope. shipped.js finds nothing shipped and Tolkien at zero of three, though the CFL bank carries many Tolkien lines and the editor should mind the cap across the year."
+}

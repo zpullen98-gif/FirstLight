@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "“Everything in the world began with a yes.”",
+ "source": "Clarice Lispector, The Hour of the Star, the opening sentence (Rodrigo S.M., the narrator) (trans. Giovanni Pontiero, 1986)",
+ "tradition": "Fiction",
+ "speaker": "Rodrigo S.M., the narrator",
+ "note": "",
+ "evidence": {
+  "where": "Wikiquote entry citing Pontiero's translation (New Directions 1992 printing of the Carcanet 1986 text, p. 11); The Millions essay confirming Carcanet first published Pontiero's version; multiple reference pages giving the same opening",
+  "edition": "The Hour of the Star, trans. Giovanni Pontiero, Carcanet, 1986 (New Directions, 1992)",
+  "locator": "the opening sentence of the narrative, after the dedication",
+  "url": "https://en.wikiquote.org/wiki/Clarice_Lispector"
+ },
+ "confidence": "high",
+ "reason": "Pontiero's translation opens with this exact sentence, followed by the molecule saying yes to another molecule; the line is the novel's known first sentence and the narrator Rodrigo S.M. speaks it."
+}

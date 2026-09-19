@@ -1,0 +1,7 @@
+{
+ "id": "01-poet-06",
+ "refuted": true,
+ "wordingChecked": true,
+ "betterCitation": "Alfred Tennyson, In Memoriam A.H.H., section CIV, lines 5 to 8 (Edward Moxon, 1850; CVI in the final text)",
+ "reason": "Wording holds but the locator contradicts the edition it cites. I downloaded Project Gutenberg 70950, the transcription of the 1850 Moxon first edition, and the stanza Ring out the old, ring in the new, / Ring, happy bells, across the snow: / The year is going, let him go; / Ring out the false, ring in the true. stands under the heading CIV, not CVI. The Ring out, wild bells poem is CVI only in the final text, after Tennyson inserted section LIX (1851) and section XXXIX (1869). A card that says section CVI (Edward Moxon, 1850) sends the reader to the wrong section of the very edition it names: in the 1850 volume CVI is a different poem. Fix by citing CIV for the 1850 text, or by citing CVI against a later edition (Eversley or 1884 Works). Everything else passes: author in his own voice, not shipped, no near match, yearCount 0, not banned (checked as Alfred Tennyson and Tennyson), in scope, publishable, source leads with the name, no dash, 83 characters, tag Poetry."
+}

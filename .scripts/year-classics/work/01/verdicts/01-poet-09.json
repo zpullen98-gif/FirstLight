@@ -1,0 +1,16 @@
+{
+ "id": "01-poet-09",
+ "verdict": "CORRECTED",
+ "quote": "“Rise, brothers, rise, the wakening skies pray to the morning light, the wind lies asleep in the arms of the dawn like a child that has cried all night.”",
+ "source": "Sarojini Naidu, Coromandel Fishers, lines 1 and 2, The Golden Threshold (William Heinemann, 1905)",
+ "tradition": "Poetry",
+ "note": "The 1905 edition prints a comma, not a semicolon, after the second rise, and titles the poem Coromandel Fishers without the article. Wording otherwise matches; the line break after light is dropped.",
+ "evidence": {
+  "where": "Project Gutenberg eBook 680, The Golden Threshold, full text; Wikisource transcription of the William Heinemann 1905 edition, Folk Songs, p. 31",
+  "edition": "The Golden Threshold (William Heinemann, London, 1905)",
+  "locator": "Folk Songs, Coromandel Fishers, lines 1 to 2, p. 31",
+  "url": "https://www.gutenberg.org/files/680/680.txt"
+ },
+ "confidence": "high",
+ "reason": "The opening couplet is in the 1905 Heinemann text exactly, except that the proposal put a semicolon where the edition has a comma and added The to the title. Not shipped, not at cap, not banned."
+}

@@ -1,0 +1,7 @@
+{
+ "id": "01-fict-06",
+ "refuted": false,
+ "wordingChecked": true,
+ "reason": "Wording confirmed verbatim: Project Gutenberg #71865 plain text (fetched 2026-09-18), line 99, the first sentence of the novel reads exactly \"Mrs. Dalloway said she would buy the flowers herself.\" Attribution, locator and tag are right; the sentence is narration, no speaker needed; shipped.js: not shipped, no near match, Virginia Woolf at 0 of 3, not banned. Source line is 62 characters, leads with the name, no dash. Two small evidence corrections, neither touching the wording: the copy Gutenberg transcribed is a Harcourt, Brace & World twenty-third printing (that imprint name dates from 1960 onward), so it is a later printing of the 1925 Harcourt text rather than the 1925 first printing itself; and the shipped source spells the title \"Mrs Dalloway\" (the usual UK form) while the quotation and the Harcourt text carry \"Mrs.\" Both are acceptable; the sentence is the same in the Hogarth and Harcourt settings.",
+ "betterCitation": ""
+}

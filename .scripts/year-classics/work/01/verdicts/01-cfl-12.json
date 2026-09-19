@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-12",
+ "verdict": "VERIFIED",
+ "quote": "“yes I said yes I will Yes.”",
+ "source": "James Joyce, Ulysses, episode 18, Penelope, closing words (Molly Bloom)",
+ "tradition": "Fiction",
+ "speaker": "Molly Bloom",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Ulysses (ebook 4300, from the 1922 Shakespeare and Company text), downloaded and read at its last line: “and his heart was going like mad and yes I said yes I will Yes.”",
+  "edition": "Ulysses, Shakespeare and Company, Paris, 1922; the closing words are identical in the 1961 Random House and 1984 Gabler texts",
+  "locator": "Episode 18, Penelope, the novel’s final words",
+  "url": "https://www.gutenberg.org/cache/epub/4300/pg4300.txt"
+ },
+ "confidence": "high",
+ "reason": "The five words are the novel’s last, read verbatim in the 1922 text on Gutenberg; the fragment begins lowercase because the sentence runs on from “and”, which the source line’s “closing words” covers. Molly Bloom is the speaker and is named."
+}

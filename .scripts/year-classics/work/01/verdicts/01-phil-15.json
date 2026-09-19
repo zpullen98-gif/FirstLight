@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-15",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "quote": "“Attention is the rarest and purest form of generosity.”",
+ "source": "Simone Weil, letter to Joë Bousquet, 13 April 1942 (trans. Raymond Rosenthal, 1976, in Pétrement, Simone Weil: A Life, p. 462)",
+ "note": "",
+ "evidence": {
+  "where": "Google Books snippets of four independent scholarly books (Fredriksson, A Phenomenology of Attention and the Unfamiliar; Wilkinson, Climate Wayfinding; Ramsey; The Process of Maturing) each citing this English wording to Pétrement, Simone Weil: A Life, Pantheon Books, 1976, p. 462; Wikiquote gives the French (L’attention est la forme la plus rare et la plus pure de la générosité) and the French edition, Correspondance, L’Âge d’Homme, 1982, p. 18; the page itself was not viewed",
+  "edition": "Simone Pétrement, Simone Weil: A Life, trans. Raymond Rosenthal, Pantheon Books, 1976",
+  "locator": "letter to Joë Bousquet, 13 April 1942, quoted at p. 462; French text in Correspondance (1982), p. 18",
+  "url": "https://en.wikiquote.org/wiki/Simone_Weil"
+ },
+ "confidence": "medium",
+ "reason": "The line is real, from the 13 April 1942 letter to Bousquet, and the English wording is Rosenthal’s in Pétrement’s biography, which several scholarly works cite at p. 462 of the 1976 Pantheon edition; I confirmed the page number through those citations rather than the page itself, so confidence is medium."
+}

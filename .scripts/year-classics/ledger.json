@@ -1,4 +1,191 @@
 {
-  "_readme": "Persons used in The Classics so far, keyed by check-year.js's personKey(). Written by land-month.js when a month lands; read by prep-month.js to tell the curators who is at the cap of three. Never edited by hand.",
-  "persons": {}
+ "_readme": "Persons used in The Classics so far, keyed by check-year.js's personKey(). Written by land-month.js when a month lands; read by prep-month.js to tell the curators who is at the cap of three. Never edited by hand.",
+ "persons": {
+  "matsuo basho": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "rainer maria rilke": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "alfred tennyson": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "clarice lispector": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "epicurus": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "l. m. montgomery": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "immanuel kant": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "sarojini naidu": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "s ren kierkegaard": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "anton chekhov": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "dante alighieri": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "hannah arendt": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "sei shonagon": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "mary ann evans": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "william shakespeare": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "wis awa szymborska": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "henry david thoreau": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "simone de beauvoir": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "fyodor dostoevsky": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "c. p. cavafy": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "anne frank": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "henri bergson": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "emily dickinson": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "italo calvino": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "franz kafka": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "katherine mansfield": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "william james": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "lu xun": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "t. s. eliot": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "albert camus": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  },
+  "philip larkin": {
+   "count": 1,
+   "months": [
+    1
+   ]
+  }
+ }
 }

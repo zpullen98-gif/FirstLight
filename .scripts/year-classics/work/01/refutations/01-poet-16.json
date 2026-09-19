@@ -1,0 +1,34 @@
+{
+ "id": "01-poet-16",
+ "refuted": true,
+ "wordingChecked": true,
+ "betterCitation": "C. P. Cavafy, Ithaka, lines 1 to 3, Collected Poems, rev. ed. (trans. Edmund Keeley and Philip Sherrard, Princeton University Press, 1992)",
+ "reason": "The words exist in a named published translation, but the verifier has the two Keeley and Sherrard editions backwards. hope the voyage is a long one is the 1992 REVISED edition, not the 1975 text. Evidence: (1) the Cavafy Archive’s own site (cavafy.com, Wayback capture 28 June 2015) prints As you set out for Ithaka / hope the voyage is a long one, / full of adventure, full of discovery. / Laistrygonians and Cyclops and credits it to Collected Poems, Revised Edition, Princeton University Press, 1992; (2) Google Books full-text search finds hope your road is a long one, with Laistrygonians, Cyclops, quoted in books printed BEFORE the revision: Gods and Heroes of the Greeks (Univ. of Massachusetts Press, 1976), Princeton Alumni Weekly (1981), Kapre-Karka, Love and the Symbolic Journey in the Poetry of Cavafy, Eliot, and Seferis (Pella, 1982), Overland (1984), Critical Essays on Homer (1987), while every hit for the voyage wording is 1998 or later; (3) the Poetry Foundation prints the road wording over Source: Collected Poems (Princeton, 1975); (4) Poetry for Students, citing the 1980 Princeton printing, gives the road wording. The E-Verse Radio transcription the verifier leaned on names no edition. The citation must therefore name the 1992 revised edition, whose wording ships. shipped.js: not shipped, not near, not at cap, not banned. Poetry tag right; the corrected source is 138 characters, leads with the name, no dash.",
+ "checked": {
+  "shipped": false,
+  "near": false,
+  "atCap": false,
+  "banned": false,
+  "sourceLength": 138,
+  "tag": "Poetry",
+  "inScope": true,
+  "publishable": true
+ },
+ "evidence": [
+  {
+   "where": "Cavafy Archive official site, Ithaka, Keeley and Sherrard text credited to the Revised Edition, Princeton 1992",
+   "url": "https://web.archive.org/web/20150628050059/http://www.cavafy.com/poems/content.asp?id=74&cat=1",
+   "reads": "hope the voyage is a long one"
+  },
+  {
+   "where": "Poetry Foundation, Ithaka, Source: C.P. Cavafy: Collected Poems (Princeton University Press, 1975)",
+   "url": "https://www.poetryfoundation.org/poems/51296/ithaka-56d22eef917ec",
+   "reads": "hope your road is a long one"
+  },
+  {
+   "where": "Google Books full-text hits dated 1976, 1981, 1982, 1984, 1987 for the road wording; none for the voyage wording before 1998",
+   "url": "https://www.google.com/books/feeds/volumes?q=%22hope+your+road+is+a+long+one%22",
+   "reads": "hope your road is a long one"
+  }
+ ]
+}

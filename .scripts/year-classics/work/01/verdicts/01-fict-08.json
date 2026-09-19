@@ -1,0 +1,16 @@
+{
+ "id": "01-fict-08",
+ "verdict": "VERIFIED",
+ "quote": "Marilla, isn’t it nice to think that tomorrow is a new day with no mistakes in it yet?",
+ "source": "L. M. Montgomery, Anne of Green Gables, chapter 21, the closing exchange (Anne Shirley) (1908)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #45, Anne of Green Gables, plain text; chapter XXI, A New Departure in Flavorings, after the liniment cake, followed by Marilla's reply that she will warrant Anne makes plenty of mistakes in it",
+  "edition": "Project Gutenberg #45 (text of the 1908 L. C. Page novel)",
+  "locator": "chapter XXI, the exchange with Marilla near the chapter's end",
+  "url": "https://www.gutenberg.org/cache/epub/45/pg45.txt"
+ },
+ "confidence": "high",
+ "reason": "The Gutenberg text was downloaded and grepped: the line appears in chapter XXI in exactly this wording, spoken by Anne to Marilla after the liniment cake, a few lines before the chapter ends. Not shipped, person not at cap, not banned, not on the misattribution list."
+}

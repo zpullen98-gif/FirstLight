@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-13",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "quote": "“One is not born, but rather becomes, a woman.”",
+ "source": "Simone de Beauvoir, The Second Sex, Book Two, Part IV, ch. XII (Childhood), opening sentence, p. 267 (trans. H. M. Parshley, 1953)",
+ "note": "",
+ "evidence": {
+  "where": "Parshley translation as cited page by page in the Cambridge Companion to Simone de Beauvoir (SS 267), Mann and Ferrari, On ne nait pas femme (1953, 267) and the Johns Hopkins Guide (267, Parshley trans.), via Google Books snippets; Wikiquote gives the same wording and page; the Parshley contents list numbers Childhood as ch. XII",
+  "edition": "The Second Sex, trans. and ed. H. M. Parshley, Alfred A. Knopf, 1953 (Vintage reprints keep the pagination)",
+  "locator": "Book Two (Woman’s Life Today), Part IV (The Formative Years), ch. XII (Childhood), first sentence, p. 267",
+  "url": "https://en.wikiquote.org/wiki/Simone_de_Beauvoir"
+ },
+ "confidence": "high",
+ "reason": "The wording is Parshley’s exact rendering of On ne nait pas femme: on le devient, the first sentence of Book Two, p. 267 of the 1953 Knopf edition, confirmed by several scholarly citations. The proposal numbered the chapter by the French edition (ch. 1); Parshley numbers it ch. XII, which the source now carries."
+}

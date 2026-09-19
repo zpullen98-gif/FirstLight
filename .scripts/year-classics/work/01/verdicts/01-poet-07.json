@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "A word is dead when it is said, some say. I say it just begins to live that day.",
+ "source": "Emily Dickinson, ‘A word is dead’ (Franklin 278), Poems, Third Series, ed. Mabel Loomis Todd, Life VI (1896)",
+ "tradition": "Poetry",
+ "note": "",
+ "speaker": "",
+ "evidence": {
+  "where": "Project Gutenberg 12241, a transcription of Poems by Emily Dickinson, Third Series, edited by Mabel Loomis Todd (Roberts Brothers, 1896).",
+  "edition": "Poems by Emily Dickinson, Third Series (Roberts Brothers, 1896)",
+  "locator": "Part I, Life, poem VI",
+  "url": "https://www.gutenberg.org/cache/epub/12241/pg12241.html"
+ },
+ "confidence": "high",
+ "reason": "The 1896 Todd edition prints the six lines exactly as proposed, in section I (Life) as poem VI. Not shipped, not banned, not at cap."
+}

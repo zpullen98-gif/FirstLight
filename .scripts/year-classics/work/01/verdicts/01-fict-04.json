@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-04",
+ "verdict": "VERIFIED",
+ "quote": "“I hope I will be able to confide everything to you, as I have never been able to confide in anyone, and I hope you will be a great source of comfort and support.”",
+ "source": "Anne Frank, The Diary of a Young Girl: The Definitive Edition, entry of 12 June 1942 (trans. Susan Massotty, 1995)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Anne Frank House timeline page quoting the 12 June 1942 line in the Massotty wording; the Definitive Edition (Doubleday, 1995) opens with this entry; NPR excerpt of the Definitive Edition timed out but the wording matches every source consulted",
+  "edition": "The Diary of a Young Girl: The Definitive Edition, ed. Otto H. Frank and Mirjam Pressler, trans. Susan Massotty, Doubleday, 1995",
+  "locator": "entry of 12 June 1942, the first entry",
+  "url": "https://www.annefrank.org/en/timeline/14/anne-receives-a-diary/"
+ },
+ "confidence": "high",
+ "reason": "The first entry of the Definitive Edition, dated 12 June 1942, is this one sentence in Massotty's wording, and the Anne Frank House reproduces it verbatim."
+}

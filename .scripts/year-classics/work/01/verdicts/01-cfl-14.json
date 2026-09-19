@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-14",
+ "verdict": "VERIFIED",
+ "quote": "“Light, my light, the world-filling light, the eye-kissing light, heart-sweetening light!”",
+ "source": "Rabindranath Tagore, Gitanjali (Song Offerings), poem 57, first line (trans. the author, 1912)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Gitanjali (Song Offerings), the 1912 English prose versions by Tagore with Yeats’s introduction (eBook 7164), section 57",
+  "edition": "Gitanjali (Song Offerings), Macmillan, 1912, the author’s own English",
+  "locator": "Poem 57, opening sentence",
+  "url": "https://www.gutenberg.org/cache/epub/7164/pg7164.txt"
+ },
+ "confidence": "high",
+ "reason": "Section 57 of the 1912 English Gitanjali opens with exactly this sentence, exclamation mark included. Tagore made the English versions himself, so no third-party translator is named."
+}

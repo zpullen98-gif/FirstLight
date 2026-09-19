@@ -1,0 +1,7 @@
+{
+ "id": "01-fict-05",
+ "refuted": false,
+ "wordingChecked": true,
+ "reason": "Wording confirmed verbatim: Project Gutenberg #145 plain text (fetched 2026-09-18), line 33039, the first sentence under the heading FINALE reads exactly \"Every limit is a beginning as well as an ending.\" Attribution, locator and tag (Fiction) are right; the line is the narrator’s, so no speaker is needed; shipped.js: not shipped, no near match, Mary Ann Evans at 0 of 3, not banned. Source line is 63 characters, leads with the name, no dash. One imprecision, not a wording fault: the Finale was first printed in Book VIII (December 1872), so \"(1871)\" dates the serial’s start, not this sentence. Prefer \"1871 to 1872\" (the brief forbids a dash) or \"1872\". Gutenberg #145 does not name its source edition, but this sentence has no spelling or hyphenation variant to drift on.",
+ "betterCitation": "George Eliot, Middlemarch, Finale, the opening sentence (1871 to 1872)"
+}

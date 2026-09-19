@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-16",
+ "verdict": "VERIFIED",
+ "quote": "“As you set out for Ithaka / hope the voyage is a long one, / full of adventure, full of discovery.”",
+ "source": "C. P. Cavafy, Ithaka, lines 1 to 3, Collected Poems (trans. Edmund Keeley and Philip Sherrard, Princeton University Press, 1975)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "E-Verse Radio transcription of the Keeley and Sherrard translation in the 1975 wording; the Poetry Foundation prints the 1992 revision (copyright 1975, 1992) which reads hope your road is a long one",
+  "edition": "C. P. Cavafy: Collected Poems, trans. Edmund Keeley and Philip Sherrard, ed. George Savidis (Princeton University Press, 1975)",
+  "locator": "lines 1 to 3, the opening of the poem, written 1911",
+  "url": "https://www.everseradio.com/ithaka-by-c-p-cavafy-translated-by-edmund-keeley-and-philip-sherrard/"
+ },
+ "confidence": "medium",
+ "reason": "The opening three lines in the 1975 Keeley and Sherrard wording, which the 1992 revised edition changed to hope your road is a long one; the citation names the 1975 edition whose wording ships. Confidence medium because I confirmed the 1975 wording through a transcription rather than the Princeton page itself. Not shipped, not at cap, not banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-09",
+ "verdict": "VERIFIED",
+ "quote": "“A classic is a book that has never finished saying what it has to say.”",
+ "source": "Italo Calvino, Why Read the Classics?, definition 6 (trans. Patrick Creagh, 1986)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The New York Review of Books, 9 October 1986, printing the essay in Patrick Creagh’s translation (copyright 1986 Harcourt Brace Jovanovich); definition 6 read verbatim there",
+  "edition": "The Uses of Literature, trans. Patrick Creagh, Harcourt Brace Jovanovich, 1986",
+  "locator": "Why Read the Classics?, definition 6 of the essay’s fourteen",
+  "url": "https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/"
+ },
+ "confidence": "high",
+ "reason": "The sentence is definition 6 of the essay in Creagh’s 1986 translation, read verbatim in the NYRB printing of that translation; the essay (L’Espresso, 1981) is the one the title of this year answers to. McLaughlin’s 1999 rendering differs, so the translator named is the one whose wording ships."
+}

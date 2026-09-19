@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-15",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Wording holds against a full Act III text (a school PDF of the play, extracted locally): BENEATHA Love him? There is nothing left to love. MAMA There is always something left to love. And if you ain’t learned that, you ain’t learned nothing. (Looking at her) Have you cried for that boy today? PBS American Masters prints the same two sentences to Mama. Random House, New York, 1959 is the first edition; the exchange is in every printing. Speaker named after the locator, Drama is the form, source 90 characters, leads with the name, no dash. shipped.js: not shipped, not near, not at cap, not banned. Publishable and warm, a fair morning line.",
+ "checked": {
+  "shipped": false,
+  "near": false,
+  "atCap": false,
+  "banned": false,
+  "sourceLength": 90,
+  "tag": "Drama",
+  "inScope": true,
+  "publishable": true
+ }
+}

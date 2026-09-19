@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-16",
+ "verdict": "CORRECTED",
+ "quote": "“As you set out for Ithaka / hope the voyage is a long one, / full of adventure, full of discovery.”",
+ "source": "C. P. Cavafy, Ithaka, lines 1 to 3, Collected Poems, rev. ed. (trans. Edmund Keeley and Philip Sherrard, Princeton University Press, 1992)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "The 1975 Keeley and Sherrard text reads hope your road is a long one. The voyage wording is the 1992 revised edition, so the citation now names that edition.",
+ "evidence": {
+  "where": "Google Books full text: the road wording is quoted in print in 1977 (Comparative Literature), 1981 (Princeton Alumni Weekly), 1982, 1987, 1988, 1989 and in a 1992 Duckworth volume citing Cavafy 1975 pp. 35 to 36; no printed hit for the voyage wording predates 1992; the Cavafy Archive credits its voyage text to the 1992 revised edition (per the refutation); the E-Verse transcription names no edition",
+  "edition": "C. P. Cavafy: Collected Poems, trans. Edmund Keeley and Philip Sherrard, ed. George Savidis, revised edition (Princeton University Press, 1992)",
+  "locator": "lines 1 to 3, the opening of the poem, written 1911",
+  "url": "https://www.google.com/books/feeds/volumes?q=%22your+road+is+a+long+one%22+cavafy"
+ },
+ "confidence": "medium",
+ "reason": "The refutation holds: every pre-1992 printed quotation of the Keeley and Sherrard opening reads road, one of them citing the 1975 Princeton edition by page, while the voyage wording appears only from the 1990s on and is credited by the Cavafy Archive to the 1992 revised edition. The line is genuine and famous; only the edition year was wrong. Confidence medium because the 1975 and 1992 scans on archive.org are lending-locked and I confirmed the chronology through printed quotations rather than the Princeton pages themselves. shipped.js: not shipped, not near, not at cap, not banned; source 138 characters."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-cfl-15",
+ "verdict": "VERIFIED",
+ "quote": "“One cannot think well, love well, sleep well, if one has not dined well.”",
+ "source": "Virginia Woolf, A Room of One’s Own, ch. 1 (1929)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg Australia plain text of A Room of One’s Own (eBook 0200791), chapter One, the dinner at Fernham",
+  "edition": "A Room of One’s Own, Hogarth Press, 1929",
+  "locator": "Chapter One, following “a good dinner is of great importance to good talk”",
+  "url": "https://gutenberg.net.au/ebooks02/0200791.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in chapter one of A Room of One’s Own word for word, right after the Fernham dinner. Citation is sound; the curator already flags the theme fit as thin, and that is the editor’s call, not a citation fault."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "“Barrabás came to us by sea, the child Clara wrote in her delicate calligraphy.”",
+ "source": "Isabel Allende, The House of the Spirits, chapter 1, the opening sentence (trans. Magda Bogin, 1985)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Magda Bogin translation (Knopf, 1985; Bantam 1993), chapter 1 Rosa the Beautiful, opening sentence; checked against Goodreads and other quotation pages carrying the Bogin wording and reference notes that the sentence returns at the close",
+  "edition": "The House of the Spirits, trans. Magda Bogin, Alfred A. Knopf, 1985",
+  "locator": "chapter 1, Rosa the Beautiful, the opening sentence",
+  "url": "https://www.goodreads.com/quotes/14423-barrabas-came-to-us-by-sea-the-child-clara-wrote"
+ },
+ "confidence": "high",
+ "reason": "Bogin's opening sentence reads exactly this and is repeated as the novel's last line; the wording matches the named translation in every source consulted."
+}

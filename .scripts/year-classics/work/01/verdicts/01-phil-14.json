@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-14",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "quote": "“Men, though they must die, are not born in order to die but in order to begin.”",
+ "source": "Hannah Arendt, The Human Condition, ch. V, §34, p. 246 (University of Chicago Press, 1958)",
+ "note": "",
+ "evidence": {
+  "where": "Polytropy’s section by section reading of The Human Condition (paragraph 34.6, p. 246) and Adriana Cavarero, A Child Has Been Born unto Us: Arendt on Birth, citing Arendt 1998, 246; the 1998 second edition keeps the 1958 pagination",
+  "edition": "The Human Condition, University of Chicago Press, 1958; second edition 1998, same pagination",
+  "locator": "ch. V (Action), §34 (Unpredictability and the Power of Promise), p. 246",
+  "url": "https://polytropy.com/2022/04/21/on-the-human-condition-of-hannah-arendt-10/"
+ },
+ "confidence": "high",
+ "reason": "The words appear verbatim on p. 246 as the close of a longer sentence (“like an ever-present reminder that men, though they must die, are not born in order to die but in order to begin”); the excerpt only capitalises the first word. Work, section and page as proposed."
+}

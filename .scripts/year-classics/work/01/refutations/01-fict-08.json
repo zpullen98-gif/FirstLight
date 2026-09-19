@@ -1,0 +1,7 @@
+{
+ "id": "01-fict-08",
+ "refuted": true,
+ "wordingChecked": true,
+ "reason": "Real line, right speaker, right chapter, but the shipped wording is not that of the named edition. The evidence names \"Project Gutenberg #45 (text of the 1908 L. C. Page novel)\". Two independent scans of the 1908 L. C. Page & Company first edition on archive.org (cu31924013243963, Cornell copy, \"Copyright, 1908 By L. C. Page & Company\"; and anneofgreengable00mont_11) both print, on page 246 under the running head A NEW DEPARTURE IN FLAVOURINGS: \"Marilla, isn’t it nice to think that to-morrow is a new day with no mistakes in it yet?\" The 1908 text hyphenates \"to-morrow\" throughout (20 hits, zero \"tomorrow\") and spells the chapter title \"Flavourings\"; Gutenberg #45 (Widger and Keller, no source edition named) has been modernised to \"tomorrow\" (23 hits, zero \"to-morrow\") and \"Flavorings\". So the shipped wording exists only in an unnamed modernised transcription, not in the 1908 edition the evidence claims. Fix: ship \"to-morrow\" with the 1908 L. C. Page edition and page 246, or name a modern edition whose text actually reads \"tomorrow\". Everything else passes: shipped.js not shipped, no near match, L. M. Montgomery at 0 of 3, not banned; speaker named; source 95 characters, no dash; Fiction tag right; theme fit exact.",
+ "betterCitation": "L. M. Montgomery, Anne of Green Gables, chapter 21, page 246 (Anne Shirley) (L. C. Page, Boston, 1908): “Marilla, isn’t it nice to think that to-morrow is a new day with no mistakes in it yet?”"
+}

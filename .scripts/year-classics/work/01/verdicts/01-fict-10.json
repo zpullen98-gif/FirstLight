@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-10",
+ "verdict": "VERIFIED",
+ "quote": "“We tell ourselves stories in order to live.”",
+ "source": "Joan Didion, The White Album, the title essay, opening sentence (Simon and Schuster, 1979)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Text of The White Album (1979) extracted with pdftotext from a PDF copy of the book; section 1 of the title essay opens with the sentence in small capitals, followed by The princess is caged in the consulate.",
+  "edition": "The White Album, Simon and Schuster, 1979",
+  "locator": "The White Album, section 1, first sentence",
+  "url": "https://en.wikipedia.org/wiki/We_Tell_Ourselves_Stories_in_Order_to_Live"
+ },
+ "confidence": "high",
+ "reason": "The sentence opens the title essay of The White Album exactly as proposed; the book was first published by Simon and Schuster in 1979, before the cutoff, and nothing of hers is shipped."
+}

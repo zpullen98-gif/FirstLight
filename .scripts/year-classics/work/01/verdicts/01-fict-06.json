@@ -1,0 +1,16 @@
+{
+ "id": "01-fict-06",
+ "verdict": "VERIFIED",
+ "quote": "Mrs. Dalloway said she would buy the flowers herself.",
+ "source": "Virginia Woolf, Mrs Dalloway, the opening sentence (1925)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #71865, Mrs. Dalloway, transcribed from the 1925 Harcourt, Brace edition via HathiTrust; the novel opens with this exact sentence. Corroborated by the Gutenberg Australia HTML text (0200991h), same wording. The Hogarth Press page number in the proposal was not checked, so the shipped locator omits it",
+  "edition": "Harcourt, Brace, New York, 1925 (Project Gutenberg #71865); Gutenberg Australia 0200991h",
+  "locator": "first sentence of the novel",
+  "url": "https://www.gutenberg.org/cache/epub/71865/pg71865.txt"
+ },
+ "confidence": "high",
+ "reason": "Two independent full texts of the novel were downloaded and grepped and both open with this sentence, character for character, including the full stop after Mrs. Not shipped, person not at cap, not banned, not on the misattribution list."
+}

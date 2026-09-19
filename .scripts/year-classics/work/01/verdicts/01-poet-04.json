@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "“Thence we came forth to rebehold the stars.”",
+ "source": "Dante Alighieri, Inferno, Canto XXXIV, line 139 (trans. Henry Wadsworth Longfellow, 1867)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource transcription of the 1867 Longfellow Divine Comedy, Inferno Canto XXXIV, closing line; also poets.org and danteinferno.info side by side texts.",
+  "edition": "The Divine Comedy of Dante Alighieri (Ticknor and Fields, 1867)",
+  "locator": "Inferno, Canto XXXIV, line 139",
+  "url": "https://en.wikisource.org/wiki/The_Divine_Comedy/Inferno/Canto_XXXIV"
+ },
+ "confidence": "high",
+ "reason": "Longfellow's closing line of the Inferno, exact wording confirmed in the 1867 text. Not shipped, not banned, not at cap."
+}

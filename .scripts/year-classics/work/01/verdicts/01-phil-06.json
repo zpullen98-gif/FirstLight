@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-06",
+ "verdict": "VERIFIED",
+ "quote": "“But all things excellent are as difficult as they are rare.”",
+ "source": "Baruch Spinoza, Ethics, Part V, Proposition 42, Scholium, the closing sentence (trans. R. H. M. Elwes, 1883)",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of the Elwes translation, read in full; the sentence closes the work",
+  "edition": "The Ethics, trans. R. H. M. Elwes, 1883 (Project Gutenberg ebook 3800)",
+  "locator": "Part V, Prop. XLII, Note, final sentence",
+  "url": "https://www.gutenberg.org/cache/epub/3800/pg3800.txt"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "Found verbatim as the last sentence of the Elwes translation. Not shipped, not at cap, not banned."
+}

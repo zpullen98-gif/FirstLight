@@ -1,4 +1,302 @@
 {
-  "_readme": "Verified survivors a month's editor did not use, each tagged with the month it fits, routed forward rather than thrown away. The Makers' carry delivered 29 pre-verified entries by December. Appended by land-month.js from month.json's `unused`; read by prep-month.js into the next month's brief. Never edited by hand.",
-  "entries": []
+ "_readme": "Verified survivors a month's editor did not use, each tagged with the month it fits, routed forward rather than thrown away. The Makers' carry delivered 29 pre-verified entries by December. Appended by land-month.js from month.json's `unused`; read by prep-month.js into the next month's brief. Never edited by hand.",
+ "entries": [
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-02",
+   "quote": "Listen to the reed how it tells a tale, complaining of separations.",
+   "source": "Rumi, Masnavi, Book I, line 1 (trans. Reynold A. Nicholson, 1926)",
+   "tradition": "Poetry",
+   "note": "Verified opening line. Nicholson later revised it after the oldest manuscript to Listen to this reed how it complains; the 1926 wording ships with the 1926 date. Held for a quieter month.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-03",
+   "quote": "In a hole in the ground there lived a hobbit.",
+   "source": "J. R. R. Tolkien, The Hobbit, ch. 1, ‘An Unexpected Party’, first sentence",
+   "tradition": "Fiction",
+   "note": "Verified opening line, pure delight; January had more openings than days. Mind the cap: the Calendar For Life bank carries many Tolkien lines.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-08",
+   "quote": "I am large, I contain multitudes.",
+   "source": "Walt Whitman, Leaves of Grass, ‘Song of Myself’, section 51, 1881 text",
+   "tradition": "Poetry",
+   "note": "Verified; parenthetical in the source. Not a beginning line so much as a truth-and-clarity line.",
+   "fitMonth": 6
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-09",
+   "quote": "A classic is a book that has never finished saying what it has to say.",
+   "source": "Italo Calvino, Why Read the Classics?, definition 6 (trans. Patrick Creagh, 1986)",
+   "tradition": "Essay",
+   "note": "Verified. Calvino appears in January with the opening of If on a winter’s night a traveler; one person per month.",
+   "fitMonth": 5
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-10",
+   "quote": "Our battered suitcases were piled on the sidewalk again; we had longer ways to go. But no matter, the road is life.",
+   "source": "Jack Kerouac, On the Road, Part Three, ch. 5, closing sentence (Sal Paradise)",
+   "tradition": "Fiction",
+   "note": "Verified against fifteen scans of the Viking and Penguin text; it closes chapter 5 of Part Three. A road line, for the month of the Way.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-11",
+   "quote": "And, when you want something, all the universe conspires in helping you to achieve it.",
+   "source": "Paulo Coelho, The Alchemist, Part One (Melchizedek, the king of Salem) (trans. Alan R. Clarke, 1993)",
+   "tradition": "Fiction",
+   "note": "Verified in Clarke’s translation with the leading And; Melchizedek speaks it. Hope rather than beginning.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-12",
+   "quote": "yes I said yes I will Yes.",
+   "source": "James Joyce, Ulysses, episode 18, Penelope, closing words (Molly Bloom)",
+   "tradition": "Fiction",
+   "note": "Verified closing words of the novel, lowercase because the sentence runs on. Bloomsday is 16 June.",
+   "fitMonth": 6
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-13",
+   "quote": "The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is.",
+   "source": "Marcel Proust, The Captive, ch. 2, the Vinteuil septet at the Verdurins’ (the narrator) (trans. C. K. Scott Moncrieff, 1929)",
+   "tradition": "Fiction",
+   "note": "Verified; the real Moncrieff sentence, not the circulating paraphrase about new landscapes. The full stop is the cut at a semicolon.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-14",
+   "quote": "Light, my light, the world-filling light, the eye-kissing light, heart-sweetening light!",
+   "source": "Rabindranath Tagore, Gitanjali (Song Offerings), poem 57, first line (trans. the author, 1912)",
+   "tradition": "Poetry",
+   "note": "Verified in Tagore’s own English of 1912. A light line for the dark month.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-15",
+   "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+   "source": "Virginia Woolf, A Room of One’s Own, ch. 1 (1929)",
+   "tradition": "Essay",
+   "note": "Verified. Woolf’s other survivor, the opening of Mrs Dalloway, is the stronger January line, and neither made the month; one person per month either way.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-cfl-16",
+   "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+   "source": "Ernest Hemingway, The Old Man and the Sea, unchaptered, after the first shark (Santiago) (Scribner, 1952)",
+   "tradition": "Fiction",
+   "note": "Verified in the 1952 Scribner text; Santiago says it aloud. A courage line.",
+   "fitMonth": 7
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-fict-03",
+   "quote": "Barrabás came to us by sea, the child Clara wrote in her delicate calligraphy.",
+   "source": "Isabel Allende, The House of the Spirits, chapter 1, the opening sentence (trans. Magda Bogin, 1985)",
+   "tradition": "Fiction",
+   "note": "Verified opening line in Bogin’s translation; it returns as the novel’s last line. Held for a month that can use a pure opening.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-fict-06",
+   "quote": "Mrs. Dalloway said she would buy the flowers herself.",
+   "source": "Virginia Woolf, Mrs Dalloway, the opening sentence (1925)",
+   "tradition": "Fiction",
+   "note": "Verified opening line. Held because January had more openings than days.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-fict-07",
+   "quote": "Ships at a distance have every man’s wish on board.",
+   "source": "Zora Neale Hurston, Their Eyes Were Watching God, chapter 1, the opening sentence (1937)",
+   "tradition": "Fiction",
+   "note": "Verified opening line. The paragraph goes on to say some ships never land, so it is hopeful only as a single sentence; place it with that in mind.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-fict-10",
+   "quote": "We tell ourselves stories in order to live.",
+   "source": "Joan Didion, The White Album, the title essay, opening sentence (Simon and Schuster, 1979)",
+   "tradition": "Essay",
+   "note": "Verified opening line. The essay goes on to test the claim, so the line is cooler than it reads alone; a truth-and-clarity line.",
+   "fitMonth": 6
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-fict-11",
+   "quote": "This book was written in good faith, reader.",
+   "source": "Michel de Montaigne, Essays, To the Reader, the opening sentence (trans. Donald M. Frame, 1957)",
+   "tradition": "Essay",
+   "note": "Verified opening line in Frame’s rendering. Good faith belongs with plain speech.",
+   "fitMonth": 6
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-fict-13",
+   "quote": "And it seemed as though in a little while the solution would be found, and then a new and splendid life would begin; and it was clear to both of them that they had still a long, long road before them, and that the most complicated and difficult part of it was only just beginning.",
+   "source": "Anton Chekhov, The Lady with the Dog, section IV, the closing sentence (trans. Constance Garnett, 1917)",
+   "tradition": "Fiction",
+   "note": "Verified closing line. Chekhov appears in January with Trofimov’s Welcome to the new life; one person per month.",
+   "fitMonth": 7
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-01",
+   "quote": "All men by nature desire to know.",
+   "source": "Aristotle, Metaphysics, Book I, ch. 1, 980a21 (trans. W. D. Ross, 1908)",
+   "tradition": "Philosophy",
+   "note": "Verified opening line of the Metaphysics in Ross. Held because January had more openings than days.",
+   "fitMonth": 5
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-03",
+   "quote": "Never did eye see the sun unless it had first become sunlike, and never can the soul have vision of the First Beauty unless itself be beautiful.",
+   "source": "Plotinus, Enneads, I.6.9, On Beauty (trans. Stephen MacKenna, 1917)",
+   "tradition": "Philosophy",
+   "note": "Verified in MacKenna 1917. A clarity line rather than a beginning line.",
+   "fitMonth": 6
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-04",
+   "quote": "If it were customary to send daughters to school like sons, and if they were then taught the natural sciences, they would learn as thoroughly and understand the subtleties of all the arts and sciences as well as sons.",
+   "source": "Christine de Pizan, The Book of the City of Ladies, Part I, ch. 27, p. 63 (Lady Reason) (trans. Earl Jeffrey Richards, 1982)",
+   "tradition": "Philosophy",
+   "note": "Corrected to Richards 1982; the little girls wording is Rosalind Brown-Grant, Penguin 1999. Page 63 is the 1982 Persea printing; the 1998 reissue paginates differently. Lady Reason speaks. A justice line.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-05",
+   "quote": "Had Aristotle prepared victuals, he would have written more.",
+   "source": "Sor Juana Inés de la Cruz, Reply to Sor Filotea de la Cruz, the philosophies of the kitchen (trans. Margaret Sayers Peden, 1982)",
+   "tradition": "Correspondence",
+   "note": "Corrected: trimmed to the sentence confirmed in Peden’s translation; the lead-in clause about trivial details was not checked. The refuter confirmed the wording in the Penguin 1997 reprint, p. 43, which the citation may name instead.",
+   "fitMonth": 5
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-06",
+   "quote": "But all things excellent are as difficult as they are rare.",
+   "source": "Baruch Spinoza, Ethics, Part V, Proposition 42, Scholium, the closing sentence (trans. R. H. M. Elwes, 1883)",
+   "tradition": "Philosophy",
+   "note": "Verified closing line of the Ethics in Elwes. A discipline line.",
+   "fitMonth": 3
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-08",
+   "quote": "I do not wish them to have power over men; but over themselves.",
+   "source": "Mary Wollstonecraft, A Vindication of the Rights of Woman, ch. 4, answering Rousseau",
+   "tradition": "Philosophy",
+   "note": "Verified in the 1792 text, immediately after the Rousseau quotation. A self-mastery line.",
+   "fitMonth": 3
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-15",
+   "quote": "Attention is the rarest and purest form of generosity.",
+   "source": "Simone Weil, letter to Joë Bousquet, 13 April 1942 (trans. Raymond Rosenthal, 1976, in Pétrement, Simone Weil: A Life, p. 462)",
+   "tradition": "Correspondence",
+   "note": "Verified in Rosenthal’s translation as quoted in Pétrement; page 462 rests on four scholarly citations, not the page itself. A kindness line.",
+   "fitMonth": 2
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-phil-16",
+   "quote": "Love is the extremely difficult realisation that something other than oneself is real.",
+   "source": "Iris Murdoch, The Sublime and the Good, Chicago Review 13.3 (1959), p. 51; in Existentialists and Mystics (1997), p. 215",
+   "tradition": "Essay",
+   "note": "Verified against the Chicago Review page itself. A compassion line.",
+   "fitMonth": 2
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-01",
+   "quote": "Some men say an army of horse and some men say an army on foot and some men say an army of ships is the most beautiful thing on the black earth. But I say it is what you love.",
+   "source": "Sappho, If Not, Winter, Fragment 16, lines 1 to 4 (trans. Anne Carson, 2002)",
+   "tradition": "Poetry",
+   "note": "Verified in Carson, p. 27. What you love: a February line.",
+   "fitMonth": 2
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-02",
+   "quote": "Tell me about a complicated man.",
+   "source": "Homer, The Odyssey, Book 1, line 1 (trans. Emily Wilson, 2017)",
+   "tradition": "Poetry",
+   "note": "Verified opening line of Wilson’s Odyssey. Held because January had more openings than days; a line for hard roads.",
+   "fitMonth": 7
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-03",
+   "quote": "Although the wind blows terribly here, the moonlight also leaks between the roof planks of this ruined house.",
+   "source": "Izumi Shikibu, ‘Although the wind’, The Ink Dark Moon (trans. Jane Hirshfield with Mariko Aratani, 1988)",
+   "tradition": "Poetry",
+   "note": "Verified in Hirshfield and Aratani. A stillness line.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-05",
+   "quote": "No coward soul is mine, no trembler in the world’s storm-troubled sphere: I see Heaven’s glories shine, and faith shines equal, arming me from fear.",
+   "source": "Emily Brontë, No Coward Soul Is Mine, lines 1 to 4, Wuthering Heights and Agnes Grey, with Literary Remains of Ellis Bell (1850)",
+   "tradition": "Poetry",
+   "note": "Verified in the 1850 text as reprinted in 1908. A courage line.",
+   "fitMonth": 7
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-10",
+   "quote": "You must change your life.",
+   "source": "Rainer Maria Rilke, Archaic Torso of Apollo, New Poems: The Other Part (1908), closing line (trans. Stephen Mitchell, 1982)",
+   "tradition": "Poetry",
+   "note": "Verified closing line in Mitchell. Rilke appears in January with the New Year letter; one person per month.",
+   "fitMonth": 3
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-12",
+   "quote": "Yes, of course it hurts when buds are breaking. Why else would the springtime falter?",
+   "source": "Karin Boye, Yes, Of Course It Hurts, lines 1 and 2, För trädets skull (1935) (trans. David McDuff, 1994)",
+   "tradition": "Poetry",
+   "note": "Verified in McDuff. Buds breaking: a spring line.",
+   "fitMonth": 4
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-13",
+   "quote": "Another heavenly day.",
+   "source": "Samuel Beckett, Happy Days, Act I, Winnie’s first words after the bell (Grove Press, 1961) (Winnie)",
+   "tradition": "Drama",
+   "note": "Verified opening line, but it is the ironic optimism of a woman buried to the waist, and a VERIFIED line may carry no note. Place it only where the source line can carry the context.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 1,
+   "id": "01-poet-15",
+   "quote": "There is always something left to love. And if you ain’t learned that, you ain’t learned nothing.",
+   "source": "Lorraine Hansberry, A Raisin in the Sun, Act III (Random House, 1959) (Mama, Lena Younger)",
+   "tradition": "Drama",
+   "note": "Verified against the Act III text; Mama to Beneatha. A compassion line.",
+   "fitMonth": 2
+  }
+ ]
 }

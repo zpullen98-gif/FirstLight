@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-11",
+ "verdict": "VERIFIED",
+ "quote": "For a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly.",
+ "source": "Henri Bergson, Creative Evolution, ch. I, p. 7 (trans. Arthur Mitchell, 1911)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #26163, Creative Evolution, authorized translation by Arthur Mitchell, Henry Holt and Company, 1911; the HTML edition places the sentence between its page 7 and page 8 markers",
+  "edition": "Creative Evolution, Henry Holt, 1911",
+  "locator": "Chapter I, The Evolution of Life, p. 7",
+  "url": "https://www.gutenberg.org/files/26163/26163-h/26163-h.htm"
+ },
+ "confidence": "high",
+ "reason": "Mitchell’s sentence reads “we find that, for a conscious being, to exist is to change, to change is to mature, to mature is to go on creating oneself endlessly”, on p. 7 of the 1911 Holt edition; the quotation lifts the clause verbatim."
+}

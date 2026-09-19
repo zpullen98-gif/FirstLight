@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "Welcome to the new life!",
+ "source": "Anton Chekhov, The Cherry Orchard, Act IV, the last exchange, answering Anya (Trofimov) (trans. Constance Garnett, 1923)",
+ "tradition": "Drama",
+ "note": "",
+ "speaker": "Trofimov",
+ "evidence": {
+  "where": "OCR of the Chatto and Windus reprint (1935) of The Cherry Orchard and Other Plays, translated by Constance Garnett, whose imprint page reads First published April 1923; page 3580 to 3582 of the OCR shows ANYA. Good-bye, home! Good-bye to the old life! then TROFIMOV. Welcome to the new life! Cross-checked with the Standard Ebooks Garnett text.",
+  "edition": "The Cherry Orchard and Other Plays, trans. Constance Garnett (Chatto and Windus, 1923; reprint 1935)",
+  "locator": "Act IV, Trofimov’s reply to Anya’s Good-bye to the old life, before Varya looks round the room and goes out",
+  "url": "https://archive.org/details/dli.ministry.11074"
+ },
+ "confidence": "high",
+ "reason": "Garnett’s 1923 wording is exactly the proposed line, spoken by Trofimov in the final exchange of Act IV. Not shipped, not banned, not at cap."
+}

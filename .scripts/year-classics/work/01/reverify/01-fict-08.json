@@ -1,0 +1,17 @@
+{
+ "id": "01-fict-08",
+ "verdict": "CORRECTED",
+ "quote": "Marilla, isn’t it nice to think that to-morrow is a new day with no mistakes in it yet?",
+ "source": "L. M. Montgomery, Anne of Green Gables, chapter 21, page 247 (Anne Shirley) (L. C. Page, 1908)",
+ "tradition": "Fiction",
+ "speaker": "Anne Shirley",
+ "note": "Wording corrected to the 1908 L. C. Page first edition, which prints the word with a hyphen, to-morrow; the unhyphenated form is a modernised transcription. The refutation placed the line on page 246, but page numbers sit at the foot of each page in that edition, and the line is on page 247, the chapter's last page.",
+ "evidence": {
+  "where": "Two full-text scans of the 1908 L. C. Page & Company first edition on archive.org (Cornell copy cu31924013243963 and anneofgreengable00mont_11), downloaded and grepped; Project Gutenberg #45 downloaded and grepped for comparison",
+  "edition": "Anne of Green Gables, L. C. Page & Company, Boston, 1908 (Copyright, 1908 By L. C. Page & Company)",
+  "locator": "chapter XXI, A New Departure in Flavourings, page 247, the closing exchange after the liniment cake; chapter XXII begins on page 248 per the table of contents",
+  "url": "https://archive.org/stream/cu31924013243963/cu31924013243963_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Both 1908 scans print to-morrow (20 hyphenated hits, zero unhyphenated) and Flavourings; Gutenberg #45 (Widger and Keller, no source edition named) modernises to tomorrow and Flavorings, so the proposed wording exists only in an unnamed transcription. The refutation stands on wording but misread the page: the foot-of-page number 246 closes the previous page, the passage sits on page 247, and the contents list puts chapter XXII at 248. Not shipped, no near match, Montgomery at 0 of 3, not banned."
+}

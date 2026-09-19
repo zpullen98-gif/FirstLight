@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-04",
+ "verdict": "CORRECTED",
+ "speaker": "Lady Reason",
+ "tradition": "Philosophy",
+ "quote": "“If it were customary to send daughters to school like sons, and if they were then taught the natural sciences, they would learn as thoroughly and understand the subtleties of all the arts and sciences as well as sons.”",
+ "source": "Christine de Pizan, The Book of the City of Ladies, Part I, ch. 27, p. 63 (Lady Reason) (trans. Earl Jeffrey Richards, 1982)",
+ "note": "The wording was corrected. The proposed little girls sentence is Rosalind Brown-Grant, Penguin 1999, not Richards. The line ships in Richards, Persea Books 1982, Part I chapter 27, where the Google Books scan of that edition shows it on page 63. Lady Reason is the speaker.",
+ "evidence": {
+  "where": "Google Books search inside the University of Michigan scan of the Persea 1982 edition (ISBN 0892550619, volume 8ZhiAAAAMAAJ), which returns the sentence on page 63; Wikiquote and todayinsci print the same wording with Part I, ch. 27, p. 63; Jansen, Reading Women’s Worlds (2011) names Lady Reason as the speaker of this critique",
+  "edition": "Earl Jeffrey Richards, The Book of the City of Ladies, Persea Books, New York, 1982",
+  "locator": "Part I, ch. 27, p. 63",
+  "url": "https://books.google.com/books?id=8ZhiAAAAMAAJ&q=%22customary+to+send+daughters+to+school+like+sons%22"
+ },
+ "confidence": "high",
+ "reason": "The refutation faulted only the page number as unverified and edition dependent. The 1982 Persea scan on Google Books places the sentence on page 63 in exactly this wording, so the earlier verdict stands; page 67 belongs to the revised 1998 Persea reissue. Not shipped, not at cap, not banned."
+}

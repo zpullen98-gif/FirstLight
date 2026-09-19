@@ -1,0 +1,16 @@
+{
+ "id": "01-fict-05",
+ "verdict": "VERIFIED",
+ "quote": "Every limit is a beginning as well as an ending.",
+ "source": "George Eliot, Middlemarch, Finale, the opening sentence (1871)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #145, Middlemarch, plain text; the Finale opens with this exact sentence",
+  "edition": "Project Gutenberg #145 (text of the 1871 to 1872 novel)",
+  "locator": "Finale, first sentence",
+  "url": "https://www.gutenberg.org/cache/epub/145/pg145.txt"
+ },
+ "confidence": "high",
+ "reason": "The Gutenberg text of Middlemarch was downloaded and grepped: the section headed FINALE begins with this sentence, character for character. Not shipped, not near a shipped line, person not at cap, not banned, not on the misattribution list."
+}

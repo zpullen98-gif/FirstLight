@@ -1,0 +1,17 @@
+{
+ "id": "01-phil-02",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "quote": "“Let no one be slow to seek wisdom when he is young nor weary in the search thereof when he is grown old.”",
+ "source": "Epicurus, Letter to Menoeceus, in Diogenes Laertius, Lives X.122 (trans. R. D. Hicks, 1925)",
+ "note": "",
+ "evidence": {
+  "where": "Hicks translation of the letter reproduced with translator credit at EpicureanFriends (Hicks, Bailey and Yonge versions side by side); Wikisource Book X identifies the text as Hicks; Perseus was down",
+  "edition": "R. D. Hicks, Diogenes Laertius, Lives of Eminent Philosophers, Loeb Classical Library vol. II, 1925",
+  "locator": "Book X, section 122, first sentence of the Letter to Menoeceus",
+  "url": "https://www.epicureanfriends.com/wcf/lexicon/entry/83-epicurus-letter-to-menoeceus/"
+ },
+ "confidence": "high",
+ "reason": "The opening sentence of the letter in Hicks matches the proposal word for word, confirmed in a secondary reproduction that credits Hicks 1925 explicitly; the Loeb page itself is paywalled. Not shipped, not at cap, not banned."
+}

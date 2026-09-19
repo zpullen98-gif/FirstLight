@@ -1,0 +1,17 @@
+{
+ "id": "01-poet-08",
+ "verdict": "CORRECTED",
+ "quote": "Welcome to the new life!",
+ "source": "Anton Chekhov, The Cherry Orchard, Act IV, answering Anya as the family leaves the house (Trofimov) (trans. Constance Garnett, 1923)",
+ "tradition": "Drama",
+ "speaker": "Trofimov",
+ "note": "Locator corrected. Trofimov answers Anya’s farewell to the old life as the young people leave the house, but it is not the last exchange of the play: Lopahin’s Till the spring, Lyubov and Gaev alone, and Firs’s closing speech all follow.",
+ "evidence": {
+  "where": "OCR of the Chatto and Windus volume on archive.org (dli.ministry.11074, imprint page First published April 1923, this printing 1935), downloaded and grepped: ANYA. Good-bye, home! Good-bye to the old life! then TROFIMOV. Welcome to the new life! then the stage direction Trofimov goes out with Anya, Varya looks round the room and goes out slowly, then Lopahin, Lyubov and Gaev, and Firs",
+  "edition": "The Cherry Orchard and Other Plays, translated by Constance Garnett (Chatto and Windus, London, first published April 1923)",
+  "locator": "Act IV, between the page 76 and page 78 running heads of the OCR (the 77 head is lost), Trofimov’s reply to Anya before Varya looks round the room and goes out",
+  "url": "https://archive.org/download/dli.ministry.11074/E09992_The_Cherry_Orchard_And_Other_Plays_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Garnett’s wording is the proposed line and the speaker is Trofimov, but the refutation stands on the locator: the exchange is followed by Lopahin, by Lyubov and Gaev alone, and by Firs, so it is not the last exchange. Not shipped, no near match, Chekhov at 0 of 3, not banned."
+}
