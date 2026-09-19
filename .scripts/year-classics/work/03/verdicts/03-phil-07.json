@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-07",
+ "verdict": "VERIFIED",
+ "quote": "Knowledge is the beginning of action and action is the completion of knowledge. Learning to be a sage involves only one effort. Knowledge and action should not be separated.",
+ "source": "Wang Yangming, Instructions for Practical Living, Part I, section 26 (trans. Wing-tsit Chan, 1963)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive full text of the Columbia University Press 1963 edition; section 26 on the page headed 30 reads exactly this after the bracketed editorial [The Teacher said,]; section 5 has the longer variant wording",
+  "edition": "Instructions for Practical Living and Other Neo-Confucian Writings by Wang Yang-ming, trans. Wing-tsit Chan (Columbia University Press, 1963)",
+  "locator": "Part I, section 26, p. 30",
+  "url": "https://archive.org/details/instructionsforp00wang"
+ },
+ "confidence": "high",
+ "reason": "The whole of section 26 matches the proposal word for word in Chan’s 1963 text, p. 30. Not shipped; Wang Yangming unused; not on the banned list."
+}

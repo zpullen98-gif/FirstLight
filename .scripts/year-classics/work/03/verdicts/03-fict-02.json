@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "Great works are performed not by strength, but perseverance; yonder palace was raised by single stones, yet you see its height and spaciousness. He that shall walk with vigour three hours a day, will pass in seven years a space equal to the circumference of the globe.",
+ "source": "Samuel Johnson, The History of Rasselas, Prince of Abissinia, ch. 13 (Imlac, to Prince Rasselas)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #652 plain text of Rasselas, read in place: lines 1302 to 1306 under CHAPTER XIII, RASSELAS DISCOVERS THE MEANS OF ESCAPE",
+  "edition": "Samuel Johnson, Rasselas, Prince of Abyssinia (Cassell’s National Library text); Project Gutenberg #652; first published 1759",
+  "locator": "Chapter XIII, the close of the speech given to “his companion” as the two rest from digging; the paragraph opens “Imlac procured instruments proper to hew stone”, so the companion is Imlac",
+  "url": "https://www.gutenberg.org/cache/epub/652/pg652.txt"
+ },
+ "confidence": "high",
+ "speaker": "Imlac, to Prince Rasselas",
+ "reason": "Both sentences are verbatim and consecutive in chapter XIII, closing Imlac’s speech to the discouraged Prince. Not shipped, Johnson unused this year, not banned."
+}

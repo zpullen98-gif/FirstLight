@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "True ease in writing comes from art, not chance, / As those move easiest who have learn’d to dance.",
+ "source": "Alexander Pope, An Essay on Criticism, Part II, lines 362 to 363 (1711)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 27889, Bartlett’s Familiar Quotations, 10th edition, which prints the couplet with ‘learn’d’ and the closing stop, citing Essay on Criticism, Part ii, line 162 (Part II begins at line 201, so lines 362 to 363 overall); cross-checked against Gutenberg ebook 7409, a school edition, which has the same couplet at lines 362 to 363 with ‘learned’ and no stop. The Poetry Foundation page refused the fetch (HTTP 403) and was not consulted.",
+  "edition": "Wording and pointing as in Bartlett’s Familiar Quotations, 10th ed. (Little, Brown, 1919); poem first published by W. Lewis, 1711, where the nouns are capitalised",
+  "locator": "An Essay on Criticism, Part II, lines 362 to 363",
+  "url": "https://www.gutenberg.org/cache/epub/27889/pg27889.txt"
+ },
+ "confidence": "high",
+ "reason": "Couplet located in two texts at the named place; the shipped spelling ‘learn’d’ and full stop are Bartlett’s printed form, with the 1711 capitals modernised as every modern edition does. Shipped check clean, Pope at 0 of 3."
+}

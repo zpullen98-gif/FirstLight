@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-09",
+ "verdict": "VERIFIED",
+ "quote": "And we should consider every day lost on which we have not danced at least once.",
+ "source": "Friedrich Nietzsche, Thus Spoke Zarathustra, Third Part, On Old and New Tablets, 23 (trans. Walter Kaufmann, 1954) (Zarathustra)",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "OCR full text of an open archive.org scan of The Portable Nietzsche, section 23 read in place: the second of its three sentences, between “both fit to dance with head and limbs.” and “And we should call every truth false which was not accompanied by at least one laugh.”",
+  "edition": "The Portable Nietzsche, selected and translated by Walter Kaufmann (Viking, 1954), p. 322",
+  "locator": "Thus Spoke Zarathustra, Third Part, On Old and New Tablets, section 23, p. 322",
+  "url": "https://archive.org/details/the-portable-nietzsche-walter-kaufmann"
+ },
+ "confidence": "high",
+ "speaker": "Zarathustra",
+ "reason": "Kaufmann’s wording is exactly as proposed, including the opening And, at section 23 of On Old and New Tablets, p. 322 of The Portable Nietzsche. Not shipped; Nietzsche has one line in the year (February); it is an alternate to 03-cfl-03, so the editor takes one Nietzsche at most."
+}

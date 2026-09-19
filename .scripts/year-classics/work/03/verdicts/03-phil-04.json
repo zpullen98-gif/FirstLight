@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-04",
+ "verdict": "VERIFIED",
+ "quote": "The glorious masterpiece of man is to live to purpose; all other things: to reign, to lay up treasure, to build, are but little appendices and props.",
+ "source": "Michel de Montaigne, Essays, Book III, ch. 13, Of Experience (trans. Charles Cotton, 1685 to 1686, rev. W. Carew Hazlitt, 1877)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 3600 plain text (Translator: Charles Cotton, Editor: William Carew Hazlitt, the 1877 edition), Book the Third, Chapter XIII, Of Experience, read directly",
+  "edition": "Essays of Michel de Montaigne, trans. Charles Cotton, ed. W. Carew Hazlitt, 1877",
+  "locator": "Book III, ch. 13, Of Experience",
+  "url": "https://www.gutenberg.org/ebooks/3600"
+ },
+ "confidence": "high",
+ "reason": "The sentence opens a paragraph in Of Experience in the Cotton and Hazlitt text, word for word including the colon. shipped.js: not shipped, no near match, Montaigne at 0 of 3, not banned."
+}

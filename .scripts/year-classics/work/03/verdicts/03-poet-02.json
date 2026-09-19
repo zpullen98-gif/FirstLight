@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-02",
+ "verdict": "VERIFIED",
+ "quote": "I know now, I understand at last, Constantine, that for us, whether we write or act, it is not the honour and glory of which I have dreamt that is important, it is the strength to endure.",
+ "source": "Anton Chekhov, The Sea-Gull, Act IV, her last speech to Treplieff (Nina) (trans. Marian Fell, 1912)",
+ "speaker": "Nina",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Archive.org OCR of the Cornell copy of Plays by Anton Tchekoff, translated by Marian Fell (Charles Scribner’s Sons; Copyright 1912, Published September 1912), page 220, running head THE SEA-GULL ACT IV; cross-checked with Project Gutenberg ebook 1754, which prints the same text without naming Fell",
+  "edition": "Plays by Anton Tchekoff, trans. Marian Fell (New York: Charles Scribner’s Sons, 1912)",
+  "locator": "The Sea-Gull, Act IV, p. 220, the sentence before One must know how to bear one’s cross, and one must have faith",
+  "url": "https://archive.org/details/cu31924063791770"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the scanned 1912 Scribner volume whose title page names Marian Fell, and in the Gutenberg transcription of it. Not shipped; Chekhov has one line in the year (January) and none in March."
+}

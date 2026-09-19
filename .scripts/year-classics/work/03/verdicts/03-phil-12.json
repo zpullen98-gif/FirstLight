@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "Keep the faculty of effort alive in you by a little gratuitous exercise every day.",
+ "source": "William James, The Principles of Psychology, vol. I, ch. IV, Habit, p. 126 (Henry Holt, 1890)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 57628, The Principles of Psychology vol. I, streamed and searched; the page number is from memory of the 1890 Holt pagination, since the e-text carries no page markers in the running text",
+  "url": "https://www.gutenberg.org/cache/epub/57628/pg57628.txt",
+  "edition": "The Principles of Psychology, vol. I (New York: Henry Holt, 1890)",
+  "locator": "ch. IV, Habit, the final practical maxim, p. 126"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in the Habit chapter, italicised in the edition and introduced by “As a final practical maxim, relative to these habits of the will, we may, then, offer something like this:”. It is a complete sentence with its own capital. Not shipped; James stands at one of three for the year, in January, so March is open."
+}

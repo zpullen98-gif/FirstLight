@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "Come now, have courage to be wise: begin: / You’re halfway over when you once plunge in: / He who puts off the time for mending, stands / A clodpoll by the stream with folded hands, / Waiting till all the water be gone past; / But it runs on, and will, while time shall last.",
+ "source": "Horace, Epistles, Book I, Epistle 2, to Lollius, lines 40 to 43 (trans. John Conington, 1870)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 5419, The Satires, Epistles, and Art of Poetry of Horace, header names John Conington; full text downloaded and searched",
+  "edition": "The Satires, Epistles, and Art of Poetry of Horace, trans. John Conington (Bell and Daldy, 1870)",
+  "locator": "Epistles, Book I, II. To Lollius; six consecutive lines rendering Latin 1.2.40 to 43 (dimidium facti qui coepit habet: sapere aude: incipe)",
+  "url": "https://www.gutenberg.org/cache/epub/5419/pg5419.txt"
+ },
+ "confidence": "high",
+ "reason": "All six lines found consecutively and in this lineation in Conington’s Epistle I.2, with his pointing; only the apostrophe is made curly. Shipped check clean, Horace at 0 of 3, not banned."
+}

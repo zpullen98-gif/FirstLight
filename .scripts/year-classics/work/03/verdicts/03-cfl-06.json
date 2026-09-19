@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-06",
+ "verdict": "VERIFIED",
+ "quote": "He who reads much and travels much sees and knows a great deal.",
+ "source": "Miguel de Cervantes, Don Quixote, Part II, chapter 25 (Don Quixote) (trans. John Ormsby, 1885)",
+ "tradition": "Fiction",
+ "speaker": "Don Quixote",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg etext 996 (Ormsby) downloaded and searched directly. The text reads: “Now I declare,” said Don Quixote, “he who reads much and travels much sees and knows a great deal. I say so because what amount of persuasion could have persuaded me that there are apes in the world that can divine as I have seen now with my own eyes?”",
+  "edition": "The Ingenious Gentleman Don Quixote of La Mancha, trans. John Ormsby, Smith, Elder and Co., London, 1885 (Project Gutenberg etext 996)",
+  "locator": "Part II, chapter XXV, the braying adventure and the puppet showman with the divining ape",
+  "url": "https://www.gutenberg.org/cache/epub/996/pg996.txt"
+ },
+ "confidence": "high",
+ "reason": "Found in Ormsby exactly as proposed; the only change is the capital H, since in the edition the words resume a sentence broken by said Don Quixote. It is the Calendar For Life literal wording that is unsourced, and the proposal already replaced it. The editor should know the setting is comic: he says it while being gulled by Master Pedro. Not shipped, Cervantes at zero of three, not banned."
+}

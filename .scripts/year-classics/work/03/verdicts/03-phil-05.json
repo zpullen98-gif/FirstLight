@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "Never in any case whatever is a genuine effort of the attention wasted.",
+ "source": "Simone Weil, Reflections on the Right Use of School Studies, in Waiting for God, p. 106 (trans. Emma Craufurd, 1951)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive scan of the essay from Waiting for God, a Harper and Row reprint of the G. P. Putnam’s Sons 1951 edition with the same pagination; the OCR text shows the sentence verbatim on the page numbered 106, and the title page reads Translated by Emma Craufurd",
+  "edition": "Waiting for God, trans. Emma Craufurd (G. P. Putnam’s Sons, 1951; Harper and Row reprint by arrangement)",
+  "locator": "p. 106; essay pp. 105 to 116",
+  "url": "https://archive.org/details/Weil1951ReflectionsOnTheRightUseOfSchoolStudiesWithAViewToTheLoveOfGod"
+ },
+ "confidence": "high",
+ "reason": "Sentence found word for word on p. 106 of the scanned Craufurd translation. Not shipped, Weil at one of three for the year and not yet used in March. The source line shortens the essay title to fit 140 characters."
+}

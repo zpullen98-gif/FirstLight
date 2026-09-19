@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-16",
+ "verdict": "VERIFIED",
+ "quote": "The sum of the whole matter is this: write quickly and you will never write well, write well and you will soon write quickly.",
+ "source": "Quintilian, Institutio Oratoria, X.3.10 (trans. H. E. Butler, 1922)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Bill Thayer’s LacusCurtius transcription of the Loeb edition, Book X chapter 3, fetched this run; the sentence is there word for word at section 10, between the ‘well-ordered household’ sentence and ‘curb the horses’.",
+  "url": "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/Quintilian/Institutio_Oratoria/10B*.html",
+  "edition": "The Institutio Oratoria of Quintilian, trans. H. E. Butler, Loeb Classical Library, vol. IV (1922)",
+  "locator": "X.3.10"
+ },
+ "confidence": "high",
+ "reason": "Located verbatim in Butler’s Loeb text at the section named. A treatise on the training of a writer, not a speech, so in scope; not shipped, not banned, Quintilian unused. The Loeb page number is dropped from the source because it was not seen."
+}

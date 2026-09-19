@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-02",
+ "verdict": "VERIFIED",
+ "quote": "Our life is March weather, savage and serene in one hour.",
+ "source": "Ralph Waldo Emerson, Representative Men, IV, Montaigne; or, the Skeptic (Phillips, Sampson and Company, 1850), p. 174",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The 1850 Phillips, Sampson and Company first edition, read in the archive.org OCR text of the scan representativeme00eme, where the sentence falls on p. 174 under the running head for Montaigne; or, the Skeptic; cross-checked against the Project Gutenberg text of Representative Men (etext 6312), same wording",
+  "edition": "Representative Men: Seven Lectures, Phillips, Sampson and Company, Boston, 1850",
+  "locator": "Lecture IV, Montaigne; or, the Skeptic, p. 174, between will rapidly alternate all opinions in his own life and We go forth austere, dedicated",
+  "url": "https://archive.org/download/representativeme00eme/representativeme00eme_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "A complete sentence of Emerson’s, exact in the 1850 first edition and in the Gutenberg text, in the Montaigne lecture as proposed; the page number was added from the scan. Not shipped, Emerson at zero of three, not banned."
+}

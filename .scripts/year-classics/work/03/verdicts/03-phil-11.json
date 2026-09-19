@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-11",
+ "verdict": "VERIFIED",
+ "quote": "It is not enough to know, we must also apply; it is not enough to will, we must also do.",
+ "source": "Johann Wolfgang von Goethe, Maxims and Reflections, Life and Character, VI, no. 324 (trans. T. Bailey Saunders, 1893)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 33670, The Maxims and Reflections of Goethe, streamed and searched (the scan is the 1906 Macmillan reprint; translator’s preface dated December 2, 1892; first edition 1893)",
+  "url": "https://www.gutenberg.org/cache/epub/33670/pg33670.txt",
+  "edition": "The Maxims and Reflections of Goethe, trans. Bailey Saunders (Macmillan, 1893; reprinted 1906)",
+  "locator": "Life and Character, part VI, maxim 324"
+ },
+ "confidence": "high",
+ "reason": "Maxim 324 reads exactly so in Saunders, under Life and Character VI. The German (Es ist nicht genug zu wissen, man muss auch anwenden) stands in the Betrachtungen im Sinne der Wanderer of the 1829 Wanderjahre, from memory. Not shipped, Goethe unused this year."
+}

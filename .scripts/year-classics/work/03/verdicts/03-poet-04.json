@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "’Tis early practice only makes the master.",
+ "source": "Friedrich Schiller, Wilhelm Tell, Act III, scene 1, to Hedwig (Tell) (trans. Theodore Martin, 1847)",
+ "speaker": "Wilhelm Tell",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Archive.org OCR of Bohn’s Standard Library, Schiller’s Works, Historical and Dramatic, vol. 2 (1872 Bell and Daldy reprint), page 496: Tell. ’Tis early practice only makes the master. Bohn’s preface, dated York Street, November 1846, states Wilhelm Tell is translated by Theodore Martin, Esq.; contents give Tell at pages 449 to 563. The Online Books Page lists the first printing as London: H. G. Bohn, 1847. Cross-checked with Project Gutenberg ebook 6788, which names Martin.",
+  "edition": "The Works of Frederick Schiller, vol. 2: Revolt of the Netherlands continued, Wallenstein and Wilhelm Tell (London: Henry G. Bohn, Bohn’s Standard Library, 1847)",
+  "locator": "Wilhelm Tell, Act III, scene 1, p. 496, Tell’s reply to Hedwig’s The boys begin to use the bow betimes (German: Früh übt sich, was ein Meister werden will)",
+  "url": "https://archive.org/details/worksfredericks00morrgoog"
+ },
+ "confidence": "high",
+ "reason": "The line is verbatim in the Bohn volume, whose preface names Theodore Martin as translator of Tell, and in the Gutenberg text. The proposer’s unconfirmed c. 1847 is now settled: preface November 1846, volume dated 1847. Martin was not yet knighted, so the source drops Sir. Not shipped; Schiller has no line in the year."
+}

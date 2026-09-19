@@ -1,0 +1,7 @@
+{
+ "id": "03-poet-07",
+ "refuted": false,
+ "reason": "Could not break it. Downloaded Gutenberg 5419 (header: Translator John Conington) and found the six lines consecutively at text lines 3471 to 3476 under Epistles, Book I, II. To Lollius, word for word and with Conington's line-end pointing (colon, colon, comma, comma, semicolon, full stop) and line-head capitals; the only difference is straight apostrophe in the e-text against the curly one the house rule requires. The Latin is Epistles 1.2.40 to 43 (dimidium facti qui coepit habet; sapere aude; / incipe. qui recte vivendi prorogat horam, / rusticus exspectat dum defluat amnis; at ille / labitur et labetur in omne volubilis aevum), so the locator is right; Conington expands four Latin lines to three couplets and the selection starts and ends on his couplet boundaries. First edition confirmed by catalogue search as Bell and Daldy, London, 1870 (posthumous; Conington died 1869). Verse lineation kept with ' / '. Source leads with the name, no dash, about 95 characters. shipped.js: not shipped, no near match, Horace yearCount 0, not banned (Horace is not on the banned list). 'Sapere aude' is genuinely Horace's, not a Kant misattribution. In scope, publishable, on theme.",
+ "betterCitation": "",
+ "wordingChecked": true
+}

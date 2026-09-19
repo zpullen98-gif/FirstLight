@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "The last result of wisdom stamps it true: / He only earns his freedom and existence, / Who daily conquers them anew.",
+ "source": "Johann Wolfgang von Goethe, Faust, Part Two, Act V, scene 6, Faust’s last speech (Faust) (trans. Bayard Taylor, 1871)",
+ "speaker": "Faust",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource, Faust (trans. Bayard Taylor), Act V, VI: Great Outer Court of the Palace, proofread against a scan of the Houghton Mifflin printing (index Faust-bayard-taylor-1912.djvu, scan pages 696 to 708); Taylor’s own endnote 168 to Part Two glosses these two lines",
+  "edition": "Faust: A Tragedy, The Second Part, trans. Bayard Taylor (Boston: James R. Osgood, 1871); Houghton Mifflin reprint",
+  "locator": "Second Part, Act V, scene VI, the three lines after Yes! to this thought I hold with firm persistence; German lines 11574 to 11576",
+  "url": "https://en.wikisource.org/wiki/Faust_(trans._Bayard_Taylor)/Act_V/VI"
+ },
+ "confidence": "high",
+ "reason": "The three lines read exactly so, in this lineation, in Taylor’s Second Part as transcribed from a page scan, in Faust’s final speech. Not shipped; Goethe has no line in the year. The year 1871 for Taylor’s Second Part is from my knowledge of the first edition, the scan consulted being a later reprint."
+}

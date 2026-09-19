@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-14",
+ "verdict": "VERIFIED",
+ "quote": "How we spend our days is, of course, how we spend our lives.",
+ "source": "Annie Dillard, The Writing Life, chapter 2 (1989)",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Both archive.org scans of the book (Harper and Row 1989, HarperPerennial 1990) are lending-restricted and their search-inside was refused, so the book itself was not read. Wording checked against Wikiquote’s Writing Life entry and The Marginalian’s block quotation of the passage, which agree exactly; the chapter confirmed from a chapter-by-chapter study guide that places the schedules passage (“chaos and whim”) in chapter 2",
+  "edition": "The Writing Life (New York: Harper and Row, 1989)",
+  "locator": "Chapter 2, opening the paragraph on schedules: followed by “What we do with this hour, and that one, is what we are doing. A schedule defends from chaos and whim.” The proposer’s p. 32 matches my memory of how the line is cited but was not confirmed against a scan, so the page is left out of the shipped source",
+  "url": "https://en.wikiquote.org/wiki/Annie_Dillard"
+ },
+ "confidence": "medium",
+ "speaker": "",
+ "reason": "The sentence is unquestionably Dillard’s and from The Writing Life, in this exact wording in every transcription of the passage; the chapter is corroborated, the page is not, so the source ships with chapter and year only. The shipped Makers line of hers is a different sentence; shipped.js finds no match and she has no Classics entry. Not banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-10",
+ "verdict": "VERIFIED",
+ "quote": "I can resist everything except temptation.",
+ "source": "Oscar Wilde, Lady Windermere’s Fan, First Act (Lord Darlington)",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of the play, the First Act exchange read in place: Lord Darlington’s reply “I couldn’t help it. I can resist everything except temptation.”, answered by Lady Windermere’s “You have the modern affectation of weakness.”",
+  "edition": "Lady Windermere’s Fan (first performed 1892; Elkin Mathews and John Lane, 1893); Project Gutenberg etext 790",
+  "locator": "First Act, Lord Darlington to Lady Windermere, after she calls the adjective unnecessary",
+  "url": "https://www.gutenberg.org/files/790/790-h/790-h.htm"
+ },
+ "confidence": "high",
+ "speaker": "Lord Darlington",
+ "reason": "The sentence is in the First Act in exactly this wording, spoken by Lord Darlington, who is named in the source. Not shipped, Wilde unused this year, not banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "Be moderate in thy sleep; for he who does not rise early does not get the benefit of the day; and remember, Sancho, diligence is the mother of good fortune, and indolence, its opposite, never yet attained the object of an honest ambition.",
+ "source": "Miguel de Cervantes, Don Quixote, Part II, ch. 43 (Don Quixote, to Sancho Panza) (trans. John Ormsby, 1885)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #996 plain text of Ormsby’s Don Quixote, read in place: lines 33967 to 33970 under CHAPTER XLIII, OF THE SECOND SET OF COUNSELS DON QUIXOTE GAVE SANCHO PANZA",
+  "edition": "The Ingenious Gentleman Don Quixote of La Mancha, trans. John Ormsby (Smith, Elder, 1885); Project Gutenberg #996",
+  "locator": "Part II, chapter XLIII, a whole paragraph of the counsels, between the advice on riding and “The last counsel I will give thee now”",
+  "url": "https://www.gutenberg.org/cache/epub/996/pg996.txt"
+ },
+ "confidence": "high",
+ "speaker": "Don Quixote, to Sancho Panza",
+ "reason": "The paragraph is word for word Ormsby’s in Part II, chapter 43, complete from its first word to its full stop. Not shipped, Cervantes unused this year, not banned."
+}

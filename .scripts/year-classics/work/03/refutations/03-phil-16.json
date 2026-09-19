@@ -1,0 +1,7 @@
+{
+ "id": "03-phil-16",
+ "refuted": false,
+ "reason": "Could not break it. I pulled the raw HTML of Thayer’s LacusCurtius transcription of Butler’s Loeb (vol. IV, 1922) this run: the section marker 10 stands immediately before ‘The sum of the whole matter is this: write quickly and you will never write well, write well and you will soon write quickly.’, word for word and comma for comma as the card has it, between the ‘well-ordered household’ sentence and ‘curb the horses’. X.3.10 is right (Latin: Summa haec est rei: cito scribendo non fit ut bene scribatur, bene scribendo fit ut cito). Quintilian is speaking in his own voice, so no speaker is needed. shipped.js: not shipped, nothing near, person unused, not banned (Cicero is banned, Quintilian is not). Source line leads with the name, no dash, 67 characters. Two things for the editor, neither a refutation: the tag Philosophy is a stretch for a treatise on rhetoric and education, though nothing in the closed vocabulary fits better (Essay is the only alternative); and the out-of-scope list bars speeches and oratory, which this is not: it is a treatise about training the orator, addressed to writers at this point.",
+ "betterCitation": "",
+ "wordingChecked": true
+}

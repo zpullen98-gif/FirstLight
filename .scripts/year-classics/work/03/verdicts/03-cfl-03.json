@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-03",
+ "verdict": "CORRECTED",
+ "quote": "The maturity of man—that means, to have reacquired the seriousness that one had as a child at play.",
+ "source": "Friedrich Nietzsche, Beyond Good and Evil, chapter IV, Apophthegms and Interludes, section 94 (trans. Helen Zimmern, 1907)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "The date of the translation was corrected. Helen Zimmern’s version was first published in 1907, not 1906: the Macmillan title page reads 1907 and its introduction is dated 23 August 1907. The wording is the same in the 1909 second edition. The line sometimes travels as Heraclitus; it is Nietzsche’s.",
+ "evidence": {
+  "where": "Section 94 read in three witnesses with identical wording: the archive.org scan of the 1907 Macmillan first edition of Zimmern’s authorised translation, the scan of the 1909 T. N. Foulis printing (Complete Works, volume five, marked Second Edition), and the Project Gutenberg text (etext 4363)",
+  "edition": "Beyond Good and Evil: Prelude to a Philosophy of the Future, authorised translation by Helen Zimmern, The Macmillan Company, New York, 1907 (printed at the Darien Press, Edinburgh, for T. N. Foulis)",
+  "locator": "Chapter IV, Apophthegms and Interludes, section 94, the whole aphorism",
+  "url": "https://archive.org/download/beyondgoodevilpr00nie/beyondgoodevilpr00nie_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The aphorism is whole and exact in Zimmern, dash included, at section 94. Only the translation year was wrong: the first edition is dated 1907 with Thomas Common’s introduction dated 23 August 1907, and the 1909 Foulis volume calls itself the second edition. Not shipped; Nietzsche has one February line, so this is two of three."
+}

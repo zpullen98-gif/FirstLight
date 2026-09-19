@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "I know now, I understand at last, Constantine, that for us, whether we write or act, it is not the honour and glory of which I have dreamt that is important, it is the strength to endure.",
+ "source": "Anton Chekhov, The Sea-Gull, Act IV, to Treplieff (Nina) (trans. Marian Fell, 1912)",
+ "speaker": "Nina",
+ "tradition": "Drama",
+ "note": "The wording is Marian Fell’s, page 220 of the 1912 Scribner volume. The proposal placed it in Nina’s last speech. It is not: it closes her long speech about the stage, and she speaks twice more before she runs out. The locator now says only Act IV, to Treplieff.",
+ "evidence": {
+  "where": "Archive.org full-text OCR of the Cornell copy of Plays by Anton Tchekoff (title leaf: Marian Fell; Charles Scribner’s Sons; Copyright 1912, Published September 1912), fetched this run; sentence verbatim on the page headed 220 THE SEA-GULL ACT IV. Cross-checked against Project Gutenberg ebook 1754, lines 2490 to 2493, identical, and read on to the end of the scene to count Nina’s speeches.",
+  "edition": "Plays by Anton Tchekoff, trans. Marian Fell (New York: Charles Scribner’s Sons, 1912)",
+  "locator": "The Sea-Gull, Act IV, p. 220, Nina to Treplieff, the sentence before One must know how to bear one’s cross, and one must have faith; her third speech from the end, not her last",
+  "url": "https://archive.org/details/cu31924063791770"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right and narrow: the sentence is verbatim in Fell 1912 and in Gutenberg 1754, but Nina has two further speeches after Treplieff answers, so “her last speech” was a false locator. With that claim dropped the line is sound: a whole sentence, not shipped, Chekhov at one in the year and none in March, not banned, on theme."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-05",
+ "verdict": "VERIFIED",
+ "quote": "Eternity is in love with the productions of time.",
+ "source": "William Blake, The Marriage of Heaven and Hell, Proverbs of Hell, plate 7 (c. 1790 to 1793)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg etext 45315 downloaded and searched directly: the line stands alone as a proverb, after He whose face gives no light shall never become a star and before The busy bee has no time for sorrow. That is the tenth proverb, on plate 7 of the illuminated book.",
+  "edition": "The Marriage of Heaven and Hell, John W. Luce and Company, Boston, 1906 (the Gutenberg copy text); the wording is the same in the standard Erdman text",
+  "locator": "Proverbs of Hell, plate 7, tenth proverb",
+  "url": "https://www.gutenberg.org/cache/epub/45315/pg45315.txt"
+ },
+ "confidence": "high",
+ "reason": "Read in place in the Gutenberg text, word for word as proposed, tenth of the Proverbs of Hell. Not shipped, no near match, Blake at zero of three, not banned, not on the misattribution list."
+}

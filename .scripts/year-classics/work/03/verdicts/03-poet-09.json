@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-09",
+ "verdict": "VERIFIED",
+ "quote": "Get leave to work / In this world,—’tis the best you get at all; / For God, in cursing, gives us better gifts / Than men in benediction.",
+ "source": "Elizabeth Barrett Browning, Aurora Leigh (1857), Third Book, lines 161 to 164 (Aurora Leigh)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 56621, a transcription of the Chapman and Hall 1857 edition, downloaded and read in place; lines counted from the head of the Third Book; fame signal checked in Hoyt’s New Cyclopedia of Practical Quotations (1922), p. 907, under WORK",
+  "edition": "Aurora Leigh (London: Chapman and Hall, 1857); Project Gutenberg ebook 56621",
+  "locator": "Third Book, metrical lines 161 to 164, in the verse paragraph beginning ‘When Romney Leigh and I had parted thus’, straight after ‘Three years I lived and worked.’",
+  "url": "https://www.gutenberg.org/cache/epub/56621/pg56621.txt"
+ },
+ "confidence": "high",
+ "speaker": "Aurora Leigh",
+ "reason": "The four lines stand in the 1857 text word for word, comma and dash included, and the full stop after ‘benediction’ is the edition’s own. Counting three stepped lines as shared, the passage is lines 161 to 164 of the Third Book; Hoyt’s (1922, p. 907) carries the first two lines as Bk. III, l. 164, which meets the reference test. Not shipped, Browning unused, not banned."
+}

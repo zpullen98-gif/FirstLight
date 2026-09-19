@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "I believe that before all else I am a reasonable human being, just as you are—or, at all events, that I must try and become one.",
+ "source": "Henrik Ibsen, A Doll’s House, Act III (Nora) (trans. R. Farquharson Sharp, 1910)",
+ "speaker": "Nora",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 2542, A Doll’s House, header names the translator as R. Farquharson Sharp; full text downloaded and searched",
+  "edition": "A Doll’s House, trans. R. Farquharson Sharp (Everyman’s Library, J. M. Dent, 1910)",
+  "locator": "Act III, Nora’s reply to Helmer’s ‘Before all else, you are a wife and a mother.’",
+  "url": "https://www.gutenberg.org/cache/epub/2542/pg2542.txt"
+ },
+ "confidence": "high",
+ "reason": "Found word for word in the Sharp text, Act III, as a complete sentence following ‘I don’t believe that any longer.’ The em dash is the edition’s own pointing; shipped check clean, Ibsen at 0 of 3, not banned."
+}

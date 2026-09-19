@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-01",
+ "verdict": "CORRECTED",
+ "quote": "For the things we have to learn before we can do them, we learn by doing them, e.g. men become builders by building and lyre-players by playing the lyre; so too we become just by doing just acts, temperate by doing temperate acts, brave by doing brave acts.",
+ "source": "Aristotle, Nicomachean Ethics, Book II, ch. 1, 1103a32 to 1103b2 (trans. W. D. Ross, 1925)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "The proposal dated the Ross translation 1908 and printed lyreplayers as one word. Ross’s Ethica Nicomachea first appeared in 1925 as volume IX of the Oxford Works of Aristotle, with a preface dated that year, and the printed text reads lyre-players. The wording is otherwise exactly Ross.",
+ "evidence": {
+  "where": "OCR of the Oxford volume IX (The Works of Aristotle, ed. W. D. Ross, Ethica Nicomachea by W. D. Ross, preface dated 1925) on archive.org, item dli.ernet.6106, read at 1103a32 to b2; cross-checked against the Internet Classics Archive text headed Translated by W. D. Ross",
+  "edition": "The Works of Aristotle Translated into English, vol. IX, Oxford, Clarendon Press, 1925",
+  "locator": "Book II, ch. 1, 1103a32 to 1103b2",
+  "url": "https://archive.org/details/dli.ernet.6106"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in Ross at the named Bekker lines; only the translation year (1925, not 1908) and the hyphen in lyre-players needed correcting. shipped.js: not shipped, no near match, Aristotle at 0 of 3, not banned."
+}

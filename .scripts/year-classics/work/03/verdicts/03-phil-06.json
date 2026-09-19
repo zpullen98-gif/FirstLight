@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-06",
+ "verdict": "VERIFIED",
+ "quote": "We call an individual disciplined when he is master of himself, and can, therefore, regulate his own conduct when it shall be necessary to follow some rule of life.",
+ "source": "Maria Montessori, The Montessori Method, ch. V, Discipline (trans. Anne E. George, 1912)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 39863, a transcription of the Frederick A. Stokes 1912 first American edition, translated from the Italian by Anne E. George; the sentence opens the third paragraph of Chapter V, Discipline, whose first section the contents page puts at p. 86",
+  "edition": "The Montessori Method, trans. Anne E. George (Frederick A. Stokes, 1912)",
+  "locator": "ch. V, Discipline, third paragraph, p. 86",
+  "url": "https://www.gutenberg.org/ebooks/39863"
+ },
+ "confidence": "high",
+ "reason": "Sentence found word for word in the Gutenberg text of the 1912 George translation. The proposal said fourth paragraph; it is the third, so the shipped source names the chapter only. Not shipped; Montessori unused this year."
+}

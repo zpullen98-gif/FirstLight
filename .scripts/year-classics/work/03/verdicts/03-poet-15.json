@@ -1,0 +1,16 @@
+{
+ "id": "03-poet-15",
+ "verdict": "VERIFIED",
+ "quote": "The pitcher cries for water to carry / and a person for work that is real.",
+ "source": "Marge Piercy, To be of use, To Be of Use (1973), closing lines",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "BillMoyers.com poet page (wording) and allpoetry.com full text (lineation of the last stanza), both fetched this run; the Poetry Foundation page, which credits Circles on the Water (Knopf, 1982), returned 403",
+  "url": "https://billmoyers.com/content/poet-marge-piercy/",
+  "edition": "To Be of Use (Doubleday, 1973); reprinted in Circles on the Water: Selected Poems of Marge Piercy (Alfred A. Knopf, 1982)",
+  "locator": "To be of use, final stanza, last two lines"
+ },
+ "confidence": "high",
+ "reason": "Two independent printings give the closing two lines in this wording, with the break after carry and a lower-case and at the head of the last line. The 1973 first publication is from memory and the search result’s credit to the 1982 selected poems agrees with the proposal. Not shipped, Piercy at 0."
+}

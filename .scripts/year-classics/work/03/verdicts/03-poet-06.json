@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "But between us and Goodness the gods have placed the sweat of our brows: long and steep is the path that leads to her, and it is rough at the first; but when a man has reached the top, then is she easy to reach, though before that she was hard.",
+ "source": "Hesiod, Works and Days, lines 289 to 292 (trans. Hugh G. Evelyn-White, 1914)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 348, Hesiod, the Homeric Hymns and Homerica, header names Hugh G. Evelyn-White; full text downloaded and searched",
+  "edition": "Hesiod, the Homeric Hymns and Homerica, trans. Hugh G. Evelyn-White (Loeb Classical Library, Heinemann, 1914)",
+  "locator": "Works and Days, in the paragraph Evelyn-White heads (ll. 286-292); the quoted sentence renders Greek lines 289 to 292",
+  "url": "https://www.gutenberg.org/cache/epub/348/pg348.txt"
+ },
+ "confidence": "high",
+ "reason": "Found word for word in Evelyn-White’s prose translation, the closing sentence of his paragraph for lines 286 to 292, addressed to Perses. Prose translation, so correctly given unbroken; shipped check clean, Hesiod at 0 of 3."
+}

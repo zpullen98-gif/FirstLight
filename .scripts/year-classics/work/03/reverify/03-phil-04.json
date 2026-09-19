@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-04",
+ "verdict": "CORRECTED",
+ "quote": "The glorious masterpiece of man is to live to purpose; all other things: to reign, to lay up treasure, to build, are but little appendices and props.",
+ "source": "Michel de Montaigne, Essays, Book III, ch. 13, Of Experience (trans. Charles Cotton, rev. W. Carew Hazlitt, Navarre Society, 1923)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "The wording is Hazlitt’s later revision of Cotton, as printed in the Navarre Society edition of 1923, volume 5, page 317. The proposal dated it 1877. The 1877 Reeves and Turner text reads differently: “The great and glorious masterpiece of man is to know how to live to purpose.” The edition named now matches the words.",
+ "evidence": {
+  "where": "Archive.org full-text OCR fetched and searched this run: two scans of the 1877 Reeves and Turner vol. III (essaysofmontaign03mont, essaysofmontaign03mo), the Navarre Society 1923 vol. 5 (essaysofmontaign0005unse, archive metadata: London, privately printed for the Navarre Society, 1923, volume 5), and Project Gutenberg 3600 plain text.",
+  "edition": "Essays of Montaigne, trans. Charles Cotton, ed. and rev. W. Carew Hazlitt (London: privately printed for the Navarre Society, 1923), 5 vols.",
+  "locator": "Book III, ch. 13, Of Experience; vol. 5, p. 317 (the page after the OCR folio 316), the sentence after “than he who has taken empires and cities.”",
+  "url": "https://archive.org/details/essaysofmontaign0005unse"
+ },
+ "confidence": "high",
+ "reason": "The refutation holds on the narrow point and I reproduced it: both 1877 scans read “The great and glorious masterpiece of man is to know how to live to purpose; all other things, to reign ... are, at most, but little appendices and props”, while the proposed wording is verbatim in the Navarre Society 1923 vol. 5 and in Gutenberg 3600, which mislabels itself 1877. The line is real, at III.13, not shipped, Montaigne 0 of 3, not banned; only the edition date was wrong, so it ships with the 1923 edition named (source 130 characters)."
+}

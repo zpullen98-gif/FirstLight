@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-14",
+ "verdict": "CORRECTED",
+ "quote": "And in fact I did cut it in punishment for such stupidity: for there seemed to me no cause for a head to be adorned with hair and naked of learning—which was the more desired embellishment.",
+ "source": "Sor Juana Inés de la Cruz, Reply to Sor Filotea (1691), in Poems, Protest, and a Dream, p. 15 (trans. Margaret Sayers Peden, 1997)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "The wording is Margaret Sayers Peden’s, page 15 of the 1997 Penguin edition. In her text these words close a longer sentence about hair that grew back faster than the Latin was learned, so the opening capital is the card’s and not the translator’s. The source now cites the edition whose page is given.",
+ "evidence": {
+  "where": "A scholarly essay (Metanexus, Baroque Consilience) that quotes the passage and cites Peden, Poems, Protest, and a Dream (Penguin, 1997), p. 15, printing the first word as ‘(A)nd’, which shows the excerpt begins mid sentence. The Penguin book itself was not seen. The Arenal and Powell translation words the passage differently, which confirms this wording as Peden’s.",
+  "url": "https://metanexus.net/baroque-consilience-sor-juana-ines-de-la-cruz/",
+  "edition": "Poems, Protest, and a Dream, trans. Margaret Sayers Peden (Penguin Classics, 1997); translation first published as A Woman of Genius (Lime Rock Press, 1982)",
+  "locator": "p. 15; Spanish in Obras completas, ed. Mendez Plancarte and Salceda, vol. 4, p. 446"
+ },
+ "confidence": "medium",
+ "reason": "Real line in the named translation at the named page, confirmed through a secondary scholarly citation. Corrected because the proposal presented a mid sentence excerpt as a full sentence and dated the translation 1982 while citing the 1997 page; the wording itself is unchanged."
+}

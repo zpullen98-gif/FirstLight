@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "To reform one’s maxims is nothing: it is but to change the title of the book. To learn new habits is everything, for it is to reach the substance of life. Life is but a tissue of habits.",
+ "source": "Henri-Frédéric Amiel, Amiel’s Journal, undated thought between 30 Dec. 1850 and 17 Feb. 1851 (trans. Mrs Humphry Ward, 1885)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 8545, Amiel’s Journal in Mrs Humphry Ward’s translation, full text streamed and searched",
+  "url": "https://www.gutenberg.org/cache/epub/8545/pg8545.txt",
+  "edition": "Amiel’s Journal: The Journal Intime of Henri-Frédéric Amiel, trans. Mrs Humphry Ward (Macmillan, 1885)",
+  "locator": "the last of four undated thoughts set off by asterisks after the entry of December 30, 1850 and immediately before February 17, 1851"
+ },
+ "confidence": "high",
+ "reason": "The three sentences stand verbatim and contiguous in Ward’s text; the paragraph opens with one earlier sentence (“In the conduct of life, habits count for more than maxims…”) that the excerpt fairly omits. Not shipped, Amiel unused this year, not banned."
+}

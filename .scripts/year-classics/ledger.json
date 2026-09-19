@@ -8,9 +8,10 @@
    ]
   },
   "rainer maria rilke": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    3
    ]
   },
   "alfred tennyson": {
@@ -56,9 +57,10 @@
    ]
   },
   "anton chekhov": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    3
    ]
   },
   "dante alighieri": {
@@ -100,9 +102,10 @@
    ]
   },
   "henry david thoreau": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    3
    ]
   },
   "simone de beauvoir": {
@@ -156,15 +159,17 @@
    ]
   },
   "katherine mansfield": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    3
    ]
   },
   "william james": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    3
    ]
   },
   "lu xun": {
@@ -222,9 +227,10 @@
    ]
   },
   "simone weil": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    3
    ]
   },
   "gabriela mistral": {
@@ -234,9 +240,10 @@
    ]
   },
   "friedrich nietzsche": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    3
    ]
   },
   "harper lee": {
@@ -306,9 +313,10 @@
    ]
   },
   "iris murdoch": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    3
    ]
   },
   "edwin markham": {
@@ -339,6 +347,144 @@
    "count": 1,
    "months": [
     2
+   ]
+  },
+  "aristotle": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "anthony trollope": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "hesiod": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "abigail adams": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "friedrich schiller": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "samuel johnson": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "wang yangming": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "alexander pope": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "harriet martineau": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "blaise pascal": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "seamus heaney": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "henri-frederic amiel": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "henrik ibsen": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "maria montessori": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "yoshida kenko": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "horace": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "sarah orne jewett": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "miguel de cervantes": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "elizabeth barrett browning": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "quintilian": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "amantine dupin": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "annie dillard": {
+   "count": 1,
+   "months": [
+    3
+   ]
+  },
+  "johann wolfgang von goethe": {
+   "count": 1,
+   "months": [
+    3
    ]
   }
  }

@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-08",
+ "verdict": "VERIFIED",
+ "quote": "Just as iron rusts unless it is used, and water putrifies or, in cold, turns to ice, so our intellect spoils unless it is kept in use.",
+ "source": "Leonardo da Vinci, Notebooks, no. 1177 (The Literary Works of Leonardo da Vinci, ed. J. P. Richter, trans. mainly Mrs R. C. Bell, 1883)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #5000, The Notebooks of Leonardo da Vinci, Complete (Richter, 1883); the full text downloaded and searched, with the preface checked for the translation credit",
+  "edition": "The Literary Works of Leonardo da Vinci, ed. Jean Paul Richter (London: Sampson Low, 1883), vol. II",
+  "locator": "Section XIX, Philosophical Maxims. Morals. Polemics and Speculations, no. 1177, second paragraph, after the Mount Etna sentence; the spelling putrifies is the edition’s. Preface: the translation “is mainly due to Mrs. R. C. Bell”",
+  "url": "https://www.gutenberg.org/cache/epub/5000/pg5000.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands under Richter no. 1177 in exactly this wording and spelling, and the preface credits the English mainly to Mrs R. C. Bell. Not shipped, no Leonardo line in the year, not banned."
+}

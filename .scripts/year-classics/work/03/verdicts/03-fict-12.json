@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "To work in silence and with all one’s heart, that is the writer’s lot; he is the only artist who must be a solitary, and yet needs the widest outlook upon the world.",
+ "source": "Sarah Orne Jewett, Letters of Sarah Orne Jewett, to Willa Cather, 13 December 1908, p. 250 (ed. Annie Fields, 1911)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "archive.org full-text OCR of the 1911 Houghton Mifflin volume (lettersofsarahor00jewe), fetched and searched this run; the Willa Cather Archive dates the letter 13 December 1908",
+  "edition": "Letters of Sarah Orne Jewett, ed. Annie Fields (Houghton Mifflin, Boston and New York, 1911)",
+  "locator": "To Miss Willa Sibert Cather, 148 Charles Street, Boston, Sunday, 13th of December [1908], pp. 247 to 250; the sentence falls on p. 250",
+  "url": "https://archive.org/stream/lettersofsarahor00jewe/lettersofsarahor00jewe_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands verbatim under the running head 250 SARAH ORNE JEWETT in the scan text, in the letter headed Sunday, 13th of December to Willa Sibert Cather; the index gives the Cather letters as 234 and 245 to 250. Fields prints no year; 1908 is the scholarly dating. Not shipped, person at zero, not banned."
+}

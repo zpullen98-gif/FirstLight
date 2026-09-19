@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-05",
+ "verdict": "CORRECTED",
+ "quote": "In the conduct of life, habits count for more than maxims, because habit is a living maxim, become flesh and instinct. To reform one’s maxims is nothing: it is but to change the title of the book. To learn new habits is everything, for it is to reach the substance of life. Life is but a tissue of habits.",
+ "source": "Henri-Frédéric Amiel, Amiel’s Journal, vol. I, pp. 7 to 8, undated thought after 30 December 1850 (trans. Mrs Humphry Ward, 1885)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "One word corrected. Ward’s Macmillan text of 1885 reads “become flesh and instinct”; “becomes” is a slip of the American A. L. Burt reprint, which Project Gutenberg follows. The locator now rests on the preceding entry and the page, because the entry that follows is dated 16 February in 1885 and 17 February from 1888.",
+ "evidence": {
+  "where": "archive.org OCR text of two Macmillan scans, downloaded and searched this run: the 1885 first edition (amielsjournal0000unse_p9u6) and the 1888 second edition (amielsjournaljou00amieuoft). Both read “a living maxim, become flesh and instinct”. In 1885 the paragraph runs across the page break into p. 8, follows the entry of 30th December 1850, and is followed by 16th February 1851; in 1888 the following entry is 17th February 1851. The earlier verdict rested on Project Gutenberg #8545, which follows the Burt reprint.",
+  "edition": "Amiel’s Journal: The Journal Intime of Henri-Frédéric Amiel, trans. Mrs Humphry Ward (London: Macmillan, 1885), vol. I",
+  "locator": "vol. I, pp. 7 to 8; undated thought printed after the entry of 30th December 1850 and before that of 16th February 1851",
+  "url": "https://archive.org/details/amielsjournal0000unse_p9u6"
+ },
+ "confidence": "high",
+ "reason": "The refutation holds and is small: the paragraph is Ward’s word for word except that the named 1885 edition has the participle “become”, not “becomes”, which I confirmed in the 1885 and 1888 Macmillan scans; the locator is re-anchored to the page and the preceding entry. Not shipped, Amiel at 0, not banned. Editor: 03-phil-09 is the tail of this same paragraph, so only one may land."
+}

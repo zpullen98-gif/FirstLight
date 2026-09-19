@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-11",
+ "verdict": "HEDGE",
+ "quote": "There is only one recipe for a best seller and it is a very simple one. You have to get the reader to turn over the page.",
+ "source": "Ian Fleming, attributed: How to Write a Thriller, Books and Bookmen, May 1963",
+ "tradition": "Essay",
+ "note": "The essay is Fleming’s and ran in Books and Bookmen in May 1963. The wording here comes from the Literary Hub reprint, which says it was pieced together from incomplete online copies and may differ from the magazine text. The magazine page was not seen.",
+ "evidence": {
+  "where": "Literary Hub reprint of the essay (also run on CrimeReads), read in place; its own headnote says the text was assembled from incomplete online sources, chiefly a Peter Morwood reprint, and is a slightly different edit from the Books and Bookmen version. No scan of the magazine or of the 1962 Show version was found.",
+  "edition": "Books and Bookmen, May 1963 (not seen); Literary Hub online reprint",
+  "locator": "The paragraph beginning “But these qualities will not make a best seller.”",
+  "url": "https://lithub.com/ian-fleming-explains-how-to-write-a-thriller/"
+ },
+ "confidence": "low",
+ "speaker": "",
+ "reason": "The trail ends in a composite online reprint that disclaims fidelity to the named printing, so the wording cannot be tied to Books and Bookmen. Fame is also thin: the line is in no standard reference and the proposer concedes as much, so the editor should treat this as a weak hedge and may fairly pass over it."
+}

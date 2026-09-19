@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-09",
+ "verdict": "CORRECTED",
+ "quote": "To reform one’s maxims is nothing: it is but to change the title of the book. To learn new habits is everything, for it is to reach the substance of life. Life is but a tissue of habits.",
+ "source": "Henri-Frédéric Amiel, Amiel’s Journal, undated thought after the entry of 30 Dec. 1850 (trans. Mrs Humphry Ward, 1885)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "From the undated thoughts printed after the entry of 30 December 1850 in Mrs Humphry Ward’s 1885 translation. The entry that follows is dated 16 February 1851 in the first edition and 17 February in the second, so the citation now names only the earlier date. The wording is the same in both editions.",
+ "evidence": {
+  "where": "archive.org OCR text of two scans of the 1885 Macmillan first edition (india.history.resource.89293, Vol. I; amielsjournal0000unse_p9u6), fetched and searched this run; Project Gutenberg 8545 (second edition text) for comparison",
+  "url": "https://archive.org/details/india.history.resource.89293",
+  "edition": "Amiel’s Journal: The Journal Intime of Henri-Frédéric Amiel, trans. Mrs Humphry Ward (London: Macmillan, 1885), Vol. I",
+  "locator": "third and last undated thought after the entry of 30th December 1850, immediately before the entry headed 16th February 1851 (17 February in the second edition and in Gutenberg 8545)"
+ },
+ "confidence": "high",
+ "reason": "The three sentences are verbatim and contiguous in both 1885 scans and in the second-edition e-text; only the closing date of the locator was a second-edition reading paired with the 1885 edition, as the refuter said. Dropping that date makes the citation true of the edition named. shipped.js: not shipped, nothing near, Amiel 0 of 3, not banned."
+}

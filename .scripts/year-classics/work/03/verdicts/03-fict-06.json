@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-06",
+ "verdict": "CORRECTED",
+ "quote": "Looking back, I imagine I was always writing. Twaddle it was, too. But better far write twaddle or anything, anything, than nothing at all.",
+ "source": "Katherine Mansfield, Journal of Katherine Mansfield, July 1922, Sierre; ed. J. Middleton Murry (Knopf, 1927), p. 246",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "The wording and the entry are as proposed. The page was corrected: in the 1927 Knopf edition the page numbers are printed at the foot, and the lines fall on page 246, not 245. They close the July 1922 Sierre entry, just before the editor’s note on her return to London.",
+ "evidence": {
+  "where": "archive.org scan journalofkatheri00mans (Knopf, 1927, second printing October 1927): the djvu text and the search-inside index, which puts the lines on leaf 296, one leaf after the page whose foot carries 245",
+  "edition": "Journal of Katherine Mansfield, ed. J. Middleton Murry (New York: Alfred A. Knopf, 1927)",
+  "locator": "July 1922, Sierre, last lines of the entry, p. 246 (scan leaf 296)",
+  "url": "https://archive.org/details/journalofkatheri00mans"
+ },
+ "confidence": "high",
+ "reason": "The three sentences are in the 1927 Knopf text exactly as proposed, closing the Sierre entry. The folios are footers (vii follows the first page of the introduction), so the passage, which follows the 245 folio and precedes the 246 folio, is on p. 246."
+}

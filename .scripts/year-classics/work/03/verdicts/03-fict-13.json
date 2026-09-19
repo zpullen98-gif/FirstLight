@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-13",
+ "verdict": "VERIFIED",
+ "quote": "But I maintain that she would come if we worked for her, and that so to work, even in poverty and obscurity, is worth while.",
+ "source": "Virginia Woolf, A Room of One’s Own, chapter 6, the closing sentence (1929)",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg Australia full text of A Room of One’s Own, fetched and the last paragraph read in place; the sentence is the final one before THE END",
+  "edition": "A Room of One’s Own (Hogarth Press, 1929); Gutenberg Australia 0200791h",
+  "locator": "Chapter 6, last sentence of the book, after “that we cannot expect, for that would be impossible.”",
+  "url": "https://gutenberg.net.au/ebooks02/0200791h.html"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "The sentence is the last of the book, word for word and comma for comma as proposed, with “worth while” as two words. It is Woolf’s own voice, not a character’s. Not shipped, Woolf unused this year, not banned."
+}

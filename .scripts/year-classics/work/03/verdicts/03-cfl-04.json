@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-04",
+ "verdict": "VERIFIED",
+ "quote": "I did not care what it was all about. All I wanted to know was how to live in it. Maybe if you found out how to live in it you learned from that what it was all about.",
+ "source": "Ernest Hemingway, The Sun Also Rises, Book II, chapter 14 (Jake Barnes) (Charles Scribner’s Sons, 1926)",
+ "tradition": "Fiction",
+ "speaker": "Jake Barnes",
+ "note": "",
+ "evidence": {
+  "where": "The Project Gutenberg text of the novel (etext 67138), made from the 1926 Scribner printing, read in place: the three sentences are consecutive in the first pages of chapter 14, after Perhaps as you went along you did learn something and before I wished Mike would not behave so terribly to Cohn",
+  "edition": "The Sun Also Rises, Charles Scribner’s Sons, New York, 1926",
+  "locator": "Book II, chapter 14, Jake awake and drunk in his room in Pamplona, thinking over paying for things",
+  "url": "https://www.gutenberg.org/cache/epub/67138/pg67138.txt"
+ },
+ "confidence": "high",
+ "reason": "Three consecutive sentences, word for word, in chapter 14 under Book II; Jake Barnes narrates, so he is named as the speaker. A reference line of the novel and a practice before theory line for the month. Not shipped, not banned; with the July carry of The Old Man and the Sea this makes two Hemingway lines in the year."
+}

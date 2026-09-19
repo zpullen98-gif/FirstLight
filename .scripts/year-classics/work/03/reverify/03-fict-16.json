@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-16",
+ "verdict": "CORRECTED",
+ "quote": "I have suffered, like other writers, from indolence, irresolution, distaste to my work, absence of “inspiration,” and all that: but I have also found that sitting down, however reluctantly, with the pen in my hand, I have never worked for one quarter of an hour without finding myself in full train.",
+ "source": "Harriet Martineau, Autobiography, vol. 1, Fourth Period, section I, p. 144 (ed. Maria Weston Chapman; Boston: Osgood, 1877)",
+ "tradition": "Essay",
+ "note": "Martineau’s sentence runs on after a colon: all the quarter hours of arguing and doubting whether to work she now regards as so much waste. The line is cut at that colon and given a full stop. The page number is that of the Boston edition; the London edition of 1877 is paged differently.",
+ "evidence": {
+  "where": "archive.org djvu full text of two scans, fetched with curl and read in place: the Cornell copy of the fourth edition (Houghton, Osgood, 1879) and the Boston first edition (James R. Osgood, 1877). Both print the passage identically under the running head “144 AUTOBIOGRAPHY. [1832.” in the paragraph beginning “One deep and steady conviction”; the contents list confirms Period IV, Section I (Times of work. Methods of work)",
+  "edition": "Harriet Martineau’s Autobiography, ed. Maria Weston Chapman, vol. 1 (Boston: James R. Osgood and Company, 1877); also the fourth edition (Houghton, Osgood and Company, 1879)",
+  "locator": "Vol. 1, Fourth Period (To Thirty-Seven Years Old), section I, p. 144",
+  "url": "https://archive.org/details/harrietmartineau01martuoft"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "Every word of the card is on p. 144 of the Boston edition in both scans, including “distaste to” and the comma inside the quotation mark; not shipped, Martineau 0 of 3, not banned. Corrected on the refuter’s two points: the source now names the Boston Osgood edition the page belongs to, and the note declares the cut at the colon. Fame rests on anthology use and is the editor’s call."
+}

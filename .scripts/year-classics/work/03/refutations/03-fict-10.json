@@ -1,0 +1,7 @@
+{
+ "id": "03-fict-10",
+ "refuted": false,
+ "wordingChecked": true,
+ "reason": "Tried to break it and could not. Downloaded Project Gutenberg #5115 (McKenzie, 1921) and read it in place: lines 13921 to 13922 print “Life is perhaps eternal, and therefore work is eternal. If this is so, let us do our day's work bravely.” The two sentences are consecutive, word for word, under the heading CCCII. TO GUSTAVE FLAUBERT, in Paris / Nohant, 12th January, 1876 (line 13870). Only the apostrophe is curled, as the rules require. No translation drift: this is McKenzie's wording, not a modern rendering (Steegmuller and Bray's 1993 volume words it differently). Attribution is Sand in her own voice; shipped.js resolves her to amantine dupin, 0 of 3, not shipped, nothing near, not banned. In scope: private letter, translation 1921. Publishable. Source leads with the name, the only hyphen is the one in the book's own title (no dash), 130 characters. Tag Correspondence is the form. Two small cautions for the editor, neither a refutation: the fame signal is the weakest of the four (the letter is the famous January 1876 reply to Flaubert, but this sentence is not the one it is best known by); and Gutenberg's header gives the translator as Aimée L. McKenzie while the book's own title page and preface sign A. L. McKenzie, so the accent rests on the catalogue record.",
+ "betterCitation": ""
+}

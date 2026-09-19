@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "The Habits of a vigorous mind are formed in contending with difficulties. All History will convince you of this, and that wisdom and penetration are the fruits of experience, not the Lessons of retirement and leisure.",
+ "source": "Abigail Adams, letter to John Quincy Adams, 19 January 1780, Adams Family Correspondence, vol. 3, p. 268 (Harvard, 1973)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Massachusetts Historical Society, Adams Papers Digital Edition, the transcription of Adams Family Correspondence vol. 3, fetched this run; Founders Online returned an empty page",
+  "edition": "Adams Family Correspondence, vol. 3, ed. L. H. Butterfield and Marc Friedlaender (Belknap Press of Harvard University Press, 1973)",
+  "locator": "Abigail Adams to John Quincy Adams, 19 January 1780, p. 268, the paragraph opening These are times in which a Genious would wish to live",
+  "url": "https://www.masshist.org/publications/adams-papers/index.php/view/ADMS-04-03-02-0207"
+ },
+ "confidence": "high",
+ "reason": "The two sentences stand verbatim, capitals included, on p. 268 of the Adams Papers text. The editors date it 19 January from the letterbook copy; C. F. Adams printed it in 1840 under 12 January, which explains the other date in circulation. Not shipped, person at zero, not banned."
+}

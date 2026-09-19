@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-08",
+ "verdict": "VERIFIED",
+ "quote": "I have finished a monument more lasting than bronze and loftier than the Pyramids’ royal pile, one that no wasting rain, no furious north wind can destroy, or the countless chain of years and the ages’ flight.",
+ "source": "Horace, Odes, Book III, ode 30, lines 1 to 5 (trans. C. E. Bennett, Loeb Classical Library, 1914)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "A scan of the Loeb volume on archive.org (item in.ernet.dli.2015.98705), OCR text downloaded and searched: page 279, Ode XXX, The Poet’s Immortal Fame, opens I HAVE finished a monument more lasting than bronze and loftier than the Pyramids’ royal pile, one that no wasting rain, no furious north wind can destroy, or the countless chain of years and the ages’ flight. I shall not altogether die ... The scan is a later Heinemann and Harvard reprint (its editors page lists Post and Warmington); the translation was first printed in 1914.",
+  "edition": "Horace, The Odes and Epodes, with an English translation by C. E. Bennett, Loeb Classical Library, William Heinemann and Harvard University Press (first printed 1914), p. 279",
+  "locator": "Odes III.30, lines 1 to 5 (Exegi monumentum aere perennius), the first sentence of Bennett’s prose",
+  "url": "https://archive.org/details/in.ernet.dli.2015.98705"
+ },
+ "confidence": "high",
+ "reason": "The Loeb page was opened this time and the sentence is there word for word; only the edition’s small capitals on the opening words are lowered. Bennett is prose, so no line breaks. The Calendar For Life wording (I have raised) is not Bennett and stays out. Not shipped, Horace at zero of three, not banned. The 1914 date is the known first printing; the scan read is a reprint."
+}

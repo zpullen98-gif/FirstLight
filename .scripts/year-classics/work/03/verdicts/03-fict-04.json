@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-04",
+ "verdict": "VERIFIED",
+ "quote": "But then I have always supposed it to be my own fault—because I would not take the trouble of practising.",
+ "source": "Jane Austen, Pride and Prejudice, ch. 31: vol. II, ch. 8 in the 1813 edition (Elizabeth Bennet, to Mr Darcy)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #1342 plain text (the 1894 George Allen edition), read in place: lines 7052 to 7054 under CHAPTER XXXI, where the dash is transcribed as a double hyphen. The first edition’s dash was not checked against a scan this run; it rests on the Allen text and on memory of the Chapman text",
+  "edition": "Jane Austen, Pride and Prejudice (George Allen, 1894); Project Gutenberg #1342; first published by T. Egerton, 1813",
+  "locator": "Chapter XXXI (volume II, chapter 8), at the pianoforte at Rosings, in the speech beginning “My fingers,” said Elizabeth, answering Darcy on conversing with strangers",
+  "url": "https://www.gutenberg.org/cache/epub/1342/pg1342.txt"
+ },
+ "confidence": "high",
+ "speaker": "Elizabeth Bennet, to Mr Darcy",
+ "reason": "The sentence is verbatim in chapter 31, in Elizabeth’s speech to Darcy at the instrument, with the dash after “fault”. Not shipped; Austen has one line this year (February), none in March, under the cap; not banned."
+}

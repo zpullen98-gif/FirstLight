@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-09",
+ "verdict": "VERIFIED",
+ "quote": "What is needed is constant work, day and night, constant reading, study, will. … Every hour is precious for it.",
+ "source": "Anton Chekhov, Letters of Anton Chekhov to His Family and Friends, to his brother Nikolay, Moscow, 1886 (trans. Constance Garnett, 1920)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #6408, the full text of Garnett, Letters of Anton Chekhov to His Family and Friends, fetched and searched this run",
+  "edition": "Letters of Anton Chekhov to His Family and Friends, trans. Constance Garnett (Chatto and Windus, London, and Macmillan, New York, 1920)",
+  "locator": "TO HIS BROTHER NIKOLAY, MOSCOW, 1886: the paragraph after the eight conditions of cultured people, just before the close",
+  "url": "https://www.gutenberg.org/cache/epub/6408/pg6408.txt"
+ },
+ "confidence": "high",
+ "reason": "Garnett prints: What is needed is constant work, day and night, constant reading, study, will.... Every hour is precious for it.... The two sentences are contiguous; the four dots are the edition’s own suspension points (Chekhov’s in the Russian), so nothing is omitted and the ellipsis is printed, not editorial. Not shipped, Chekhov at one of three and only in January, not banned."
+}

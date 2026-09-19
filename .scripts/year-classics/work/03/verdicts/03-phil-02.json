@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-02",
+ "verdict": "VERIFIED",
+ "quote": "The strength of a man’s virtue must not be measured by his efforts, but by his ordinary life.",
+ "source": "Blaise Pascal, Pensées, Section VI, no. 352 in Brunschvicg’s numbering (trans. W. F. Trotter, 1904)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 18269 plain text (the Dutton reprint of the Trotter translation with T. S. Eliot’s introduction), Section VI, The Philosophers, fragment 352, read in full; the file itself does not name Trotter, and the translator and the 1904 Temple Classics (J. M. Dent) first publication were confirmed from catalogue records for the same text",
+  "edition": "Pascal’s Pensées, trans. W. F. Trotter, Temple Classics, J. M. Dent, 1904; reprinted E. P. Dutton, 1958",
+  "locator": "Section VI, no. 352 (Brunschvicg)",
+  "url": "https://www.gutenberg.org/ebooks/18269"
+ },
+ "confidence": "high",
+ "reason": "Fragment 352 reads exactly this, complete, in the Trotter text. shipped.js: not shipped, no near match, Pascal at 0 of 3, not banned."
+}

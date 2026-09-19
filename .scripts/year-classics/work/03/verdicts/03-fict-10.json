@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-10",
+ "verdict": "VERIFIED",
+ "quote": "Life is perhaps eternal, and therefore work is eternal. If this is so, let us do our day’s work bravely.",
+ "source": "George Sand, The George Sand-Gustave Flaubert Letters, Letter CCCII, to Flaubert, 12 January 1876 (trans. Aimée L. McKenzie, 1921)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #5115, the full text of the McKenzie translation, fetched and searched this run",
+  "edition": "The George Sand-Gustave Flaubert Letters, trans. Aimée L. McKenzie, intro. Stuart P. Sherman (Boni and Liveright, New York, 1921)",
+  "locator": "Letter CCCII, TO GUSTAVE FLAUBERT, in Paris, Nohant, 12th January, 1876",
+  "url": "https://www.gutenberg.org/cache/epub/5115/pg5115.txt"
+ },
+ "confidence": "high",
+ "reason": "Both sentences stand verbatim and contiguous in Letter CCCII, headed Nohant, 12th January, 1876, in the McKenzie text. Not shipped, George Sand at zero of three, not banned; a letter, so Correspondence."
+}

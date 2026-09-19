@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-10",
+ "verdict": "CORRECTED",
+ "quote": "The essential thing “in heaven and in earth” is, apparently (to repeat it once more), that there should be long obedience in the same direction; there thereby results, and has always resulted in the long run, something which has made life worth living; for instance, virtue, art, music, dancing, reason, spirituality—anything whatever that is transfiguring, refined, foolish, or divine.",
+ "source": "Friedrich Nietzsche, Beyond Good and Evil, ch. V, The Natural History of Morals, section 188 (trans. Helen Zimmern, 1907)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "The wording and punctuation follow the 1907 Macmillan edition of Helen Zimmern’s translation, which prints a semicolon after direction. The common e-text, made from a later reprint, prints a comma there, and the proposal had copied it. The 1907 edition sets obedience in italics.",
+ "evidence": {
+  "where": "Wikisource page transcriptions (raw wikitext, proofread level 3) of the Internet Archive scan beyondgoodevilpr00nie, the 1907 Macmillan edition, pdf pages 127 and 128 (printed pp. 107 to 108), fetched this run; Project Gutenberg 4363 fetched for comparison and shows the comma",
+  "url": "https://en.wikisource.org/wiki/Page:Beyond_good_and_evil,_prelude_to_a_philosophy_of_the_future_(IA_beyondgoodevilpr00nie).pdf/127",
+  "edition": "Beyond Good and Evil: Prelude to a Philosophy of the Future, authorised translation by Helen Zimmern (New York: Macmillan, 1907)",
+  "locator": "Fifth Chapter, The Natural History of Morals, section 188, pp. 107 to 108"
+ },
+ "confidence": "high",
+ "reason": "The refutation holds and is curable: the 1907 text reads “direction; there thereby results”, every other word, the curly quotes, the parenthesis and the one dash match. With the semicolon restored the line is the named edition’s wording. shipped.js: not shipped, nothing near, Nietzsche 1 of 3, not banned. Editorial caution only: about 385 characters with an inward-pointing aside that cannot be cut without minting."
+}

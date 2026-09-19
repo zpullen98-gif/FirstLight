@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-07",
+ "verdict": "VERIFIED",
+ "quote": "Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.",
+ "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book II, chapter 2, The Council of Elrond (Elrond) (George Allen and Unwin, 1954)",
+ "tradition": "Fiction",
+ "speaker": "Elrond",
+ "note": "",
+ "evidence": {
+  "where": "WIST, which quotes the four-sentence passage (The road must be trod ... the eyes of the great are elsewhere) from an archive.org digital edition, page 268, and names Elrond; the same wording with the colon is returned by Tolkien Gateway, the LotrProject quote database and quotes.net. The lending scans on archive.org would not open to search, so the printed Allen and Unwin page was not read. The wording agrees with my own knowledge of the chapter.",
+  "edition": "The Fellowship of the Ring, George Allen and Unwin, London, 1954",
+  "locator": "Book II, chapter 2, The Council of Elrond: Elrond, just before Bilbo offers to take the Ring",
+  "url": "https://wist.info/tolkien-jrr/52014/"
+ },
+ "confidence": "medium",
+ "reason": "The real sentence behind Calendar For Life I-9, which is a paraphrase and must not ship; every independent transcription agrees on this wording, colon included, and on Elrond as speaker. Verified on the same footing as 02-cfl-05 (secondary transcriptions, printed page unopened), so the refuter should try the book text. CAP WARNING for the editor: the ledger shows Tolkien at zero, but carry.json already holds three verified Tolkien lines for months 4, 10 and 11, so landing this one means dropping one of those."
+}

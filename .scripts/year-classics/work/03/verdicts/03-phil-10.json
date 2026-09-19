@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "The essential thing “in heaven and in earth” is, apparently (to repeat it once more), that there should be long obedience in the same direction, there thereby results, and has always resulted in the long run, something which has made life worth living; for instance, virtue, art, music, dancing, reason, spirituality—anything whatever that is transfiguring, refined, foolish, or divine.",
+ "source": "Friedrich Nietzsche, Beyond Good and Evil, ch. V, The Natural History of Morals, section 188 (trans. Helen Zimmern, 1907)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 4363 (Zimmern text as reprinted in Levy’s Complete Works), streamed and searched; Wikisource transcription of the 1907 Macmillan title page for the translation date",
+  "url": "https://www.gutenberg.org/cache/epub/4363/pg4363.txt",
+  "edition": "Beyond Good and Evil, authorised translation by Helen Zimmern (New York: Macmillan, 1907); Complete Works, ed. Oscar Levy, vol. 12",
+  "locator": "Chapter V, The Natural History of Morals, section 188, mid-section"
+ },
+ "confidence": "high",
+ "reason": "Word for word in Zimmern section 188, including the awkward “there thereby results”; the e-text capitals on OBEDIENCE stand for the edition’s italics and are rightly lowered. The 1907 date is confirmed by the Macmillan title page. The quotation keeps the edition’s one dash; the editor should weigh its length (about 380 characters). Nietzsche is at one of three for the year."
+}

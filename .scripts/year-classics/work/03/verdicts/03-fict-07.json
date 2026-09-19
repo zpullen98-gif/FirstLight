@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-07",
+ "verdict": "VERIFIED",
+ "quote": "How vain it is to sit down to write when you have not stood up to live!",
+ "source": "Henry David Thoreau, Journal, 19 August 1851 (The Writings of Henry David Thoreau, Journal II, ed. Bradford Torrey, 1906)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #59031, Journal 02, 1850 to September 15, 1851, a transcription of the 1906 Houghton Mifflin edition; the full text downloaded and searched",
+  "edition": "The Writings of Henry David Thoreau, Journal II, ed. Bradford Torrey (Houghton Mifflin, 1906)",
+  "locator": "Entry headed Aug. 19 (1851); the sentence opens a paragraph and is followed by “Methinks that the moment my legs begin to move, my thoughts begin to flow”",
+  "url": "https://www.gutenberg.org/cache/epub/59031/pg59031.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in the 19 August 1851 entry of the 1906 Journal in exactly this wording, with its exclamation mark. Not shipped; Thoreau stands at one line in the year and has none in March."
+}

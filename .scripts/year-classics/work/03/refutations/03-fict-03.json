@@ -1,0 +1,7 @@
+{
+ "id": "03-fict-03",
+ "refuted": false,
+ "wordingChecked": true,
+ "reason": "Compared against the named translator’s text and it holds. Project Gutenberg #996 (Ormsby) read in place: lines 33967 to 33970 are a whole paragraph of Don Quixote’s second set of counsels and match the shipped line word for word and point for point, between the counsel on riding and “The last counsel I will give thee now”. The Part II CHAPTER XLIII heading is at line 33855 and XLIV at 34104, so Part II, ch. 43 is right (the Part I chapter XLIII is at 18404, a different place, so the Part number in the source is load-bearing and is present). Speaker is Don Quixote, hearer Sancho, both named. No drift: this is Ormsby’s wording, not Jarvis, Motteux or a modern version. The inner clause is a proverb Don Quixote quotes, but the line is a located sentence of a named work, so the proverb exclusion does not reach it. shipped.js: not shipped, nothing near, Cervantes at 0 of 3, not banned. Publishable. Tag Fiction is the form. Source line leads with the name, no dash, 107 characters. Editor’s flag, not a refutation: proposals-cfl.json carries a second Cervantes line for this month (03-cfl-06, Part II ch. 25, also Ormsby); the rule is no person twice in the month, so only one of the two may land.",
+ "betterCitation": ""
+}

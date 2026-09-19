@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-12",
+ "verdict": "VERIFIED",
+ "quote": "You can’t get away from yourself by moving from one place to another.",
+ "source": "Ernest Hemingway, The Sun Also Rises, Book I, chapter 2 (Jake Barnes)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of the novel, read in place: Jake to Cohn, “Listen, Robert, going to another country doesn’t make any difference. I’ve tried all that. You can’t get away from yourself by moving from one place to another. There’s nothing to that.”",
+  "edition": "The Sun Also Rises (Charles Scribner’s Sons, 1926); Project Gutenberg etext 67138",
+  "locator": "Book I, chapter 2, Jake Barnes answering Robert Cohn’s wish to go to South America",
+  "url": "https://www.gutenberg.org/cache/epub/67138/pg67138-images.html"
+ },
+ "confidence": "high",
+ "speaker": "Jake Barnes",
+ "reason": "The sentence stands complete in Book I, chapter 2 in this wording, spoken by Jake Barnes. Not shipped, Hemingway unused this year; it is an alternate to 03-cfl-04, so one Hemingway at most."
+}

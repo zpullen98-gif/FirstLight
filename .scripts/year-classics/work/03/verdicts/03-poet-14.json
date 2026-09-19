@@ -1,0 +1,16 @@
+{
+ "id": "03-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "Between my finger and my thumb / The squat pen rests. / I’ll dig with it.",
+ "source": "Seamus Heaney, Digging, Death of a Naturalist (1966), closing lines",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Faber and Faber’s own Poem of the Week page for Digging, fetched this run; the Poetry Foundation page returned 403",
+  "url": "https://www.faber.co.uk/journal/poem-of-the-week-digging-by-seamus-heaney/",
+  "edition": "Death of a Naturalist (Faber and Faber, 1966)",
+  "locator": "Digging, the opening poem of the book, last three lines"
+ },
+ "confidence": "high",
+ "reason": "The publisher’s page prints the three closing lines in exactly this wording and lineation and credits Death of a Naturalist. Closing line of a signature poem, on theme, not shipped, Heaney at 0."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "A small daily task, if it be really daily, will beat the labours of a spasmodic Hercules. It is the tortoise which always catches the hare.",
+ "source": "Anthony Trollope, An Autobiography, ch. 7, on the working diary he kept for each book (1883)",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg #5978 plain text of An Autobiography, read in place: the two sentences are consecutive at lines 3067 to 3068, under the heading CHAPTER VII (Doctor Thorne, The Bertrams, The West Indies and the Spanish Main)",
+  "edition": "Anthony Trollope, An Autobiography (Blackwood, 1883); Project Gutenberg #5978",
+  "locator": "Chapter VII, the paragraph on the diary of pages written per week, directly after “It has the force of the water-drop that hollows the stone.”",
+  "url": "https://www.gutenberg.org/cache/epub/5978/pg5978.txt"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "Both sentences stand consecutively and word for word in chapter VII as proposed. Not shipped, Trollope unused this year, not banned. Essay is the nearest tag in the closed vocabulary for an autobiography."
+}

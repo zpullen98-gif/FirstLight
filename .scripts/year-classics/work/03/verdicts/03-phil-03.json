@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "For to be possessed of a vigorous mind is not enough; the prime requisite is rightly to apply it.",
+ "source": "René Descartes, Discourse on the Method, Part I, first paragraph (trans. John Veitch, 1850)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 59 plain text, header Translator: John Veitch, Part I, first paragraph, read directly",
+  "edition": "Discourse on the Method, trans. John Veitch (Edinburgh, 1850), Project Gutenberg ebook 59",
+  "locator": "Part I, first paragraph",
+  "url": "https://www.gutenberg.org/ebooks/59"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands verbatim as a complete sentence in the first paragraph of Part I in Veitch. shipped.js: not shipped, no near match, Descartes at 0 of 3, not banned."
+}

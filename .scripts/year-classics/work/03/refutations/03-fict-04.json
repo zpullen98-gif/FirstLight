@@ -1,0 +1,7 @@
+{
+ "id": "03-fict-04",
+ "refuted": false,
+ "wordingChecked": true,
+ "reason": "The verifier left the first-edition dash unchecked; I checked it and it holds. Project Gutenberg #1342 (George Allen, 1894) read in place: lines 7052 to 7054 under CHAPTER XXXI (heading at 6912, XXXII at 7091) give the sentence verbatim with a double hyphen for the dash. The Wikisource transcription proofread against the scan of the 1813 first edition, volume 2, chapter 8, reads identically: “But then I have always supposed it to be my own fault—because I would not take the trouble of practising.” So the wording and the dash are those of the edition the source names, and ch. 31 equals vol. II, ch. 8. The speech is tagged “said Elizabeth” and Darcy answers it, so the speaker parenthesis is right. The em dash is inside the quotation, where the rules allow it; the source line itself has none, uses a colon, leads with the name, and is 108 characters. shipped.js: not shipped, nothing near, Austen at 1 of 3 (February only), not banned, and no other Austen line is proposed for March. In scope, publishable, tag Fiction is the form. One weakness that is the editor’s call and not a citation fault: the fame test. This is a quoted line on practice but it is not the sentence the novel is known by and I could not place it in a standard reference this run.",
+ "betterCitation": ""
+}

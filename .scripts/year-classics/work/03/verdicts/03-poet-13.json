@@ -1,0 +1,16 @@
+{
+ "id": "03-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "Yes, there is goal and meaning in our path - / but it’s the way that is the labour’s worth.",
+ "source": "Karin Boye, In Motion, The Hearths (1927), lines 3 to 4 (trans. David McDuff, 1994)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The Karin Boye Society’s online edition of David McDuff’s translations, credited to Karin Boye: Complete Poems (Bloodaxe, 1994); page fetched this run",
+  "url": "https://www.karinboye.se/verk/dikter/dikter-mcduff/in-motion.shtml",
+  "edition": "Karin Boye: Complete Poems, trans. David McDuff (Bloodaxe Books, 1994)",
+  "locator": "In Motion (I rörelse), from The Hearths (Härdarna, 1927), second couplet, lines 3 to 4"
+ },
+ "confidence": "high",
+ "reason": "The couplet stands as lines 3 to 4 of McDuff’s In Motion on the Karin Boye Society site, word for word as proposed, and matches the Swedish. The spaced hyphen after path is the Society’s setting and is kept as located; the printed book may set a dash there, which I could not see. Not shipped, not banned, Boye at 0."
+}

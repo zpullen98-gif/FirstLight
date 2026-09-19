@@ -1,0 +1,17 @@
+{
+ "id": "03-fict-13",
+ "verdict": "CORRECTED",
+ "quote": "But I maintain that she would come if we worked for her, and that so to work, even in poverty and obscurity, is worth while.",
+ "source": "Virginia Woolf, A Room of One’s Own, chapter 6, the closing sentence (1929)",
+ "tradition": "Essay",
+ "note": "She is Shakespeare’s sister, the gifted poet Woolf imagines, who died young and never wrote a word. The wording and the citation stand as proposed; only this note naming her was added.",
+ "evidence": {
+  "where": "Project Gutenberg Australia HTML of A Room of One’s Own, fetched again with curl and the last paragraph read in place; the sentence is the final one of the text, directly before THE END, and the same paragraph names “the dead poet who was Shakespeare’s sister”",
+  "edition": "A Room of One’s Own (Hogarth Press, 1929); Project Gutenberg Australia 0200791h",
+  "locator": "Chapter 6, last sentence of the book, following “that we cannot expect, for that would be impossible.”",
+  "url": "https://gutenberg.net.au/ebooks02/0200791h.html"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "Third independent reading finds the sentence word for word as the book’s last, “worth while” two words, in Woolf’s own voice; not shipped, Woolf 0 of 3, not banned. The refutation faulted only the bare pronoun, so the line ships with a note naming her; nothing in quote or source changed."
+}

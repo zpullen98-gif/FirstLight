@@ -1,0 +1,17 @@
+{
+ "id": "03-cfl-01",
+ "verdict": "VERIFIED",
+ "quote": "A thousand words leave not the same / Deep print as does a single deed.",
+ "source": "Henrik Ibsen, Brand, Act II (The Man) (trans. F. E. Garrett, 1894)",
+ "tradition": "Drama",
+ "speaker": "The Man",
+ "note": "",
+ "evidence": {
+  "where": "The Everyman’s Library Brand in Garrett’s translation, read in the archive.org OCR text of the scan brand00ibse, with the couplet seen in place between The way you showed, you went, at length and We seek you in the hamlet’s name; cross-checked against Herford’s 1894 version in a second scan, which renders the same couplet differently (A thousand speeches brand / Less deeply than one dint of deed)",
+  "edition": "Brand, trans. F. E. Garrett (first published 1894), Everyman’s Library, J. M. Dent and Sons, London, first published in this edition 1915, last reprinted 1951",
+  "locator": "Second Act, outside the cottage on the ness, the spokesman of the villagers (The Man) asking Brand to stay as their priest; p. 51",
+  "url": "https://archive.org/stream/brand00ibse/brand00ibse_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The couplet stands in Garrett’s printed verse in exactly this wording and lineation, spoken by The Man in the Second Act; the title page confirms Dent 1915, reprinted 1951, and the introduction lists Garrett’s translation as 1894. The Calendar For Life prose form is a paraphrase and is not used. Not shipped, Ibsen at zero of three, not banned."
+}

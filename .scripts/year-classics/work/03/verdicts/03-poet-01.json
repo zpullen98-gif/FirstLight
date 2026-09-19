@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "Refrain tonight, / And that shall lend a kind of easiness / To the next abstinence, the next more easy; / For use almost can change the stamp of nature.",
+ "source": "William Shakespeare, Hamlet, Act 3, scene 4, lines 186 to 189, Folger edition (Hamlet)",
+ "speaker": "Hamlet",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Folger Shakespeare Library online reader, Hamlet 3.4, fetched this run: continuous lines 2622 to 2625; line 190 (2626) follows with And either … the devil or throw him out",
+  "edition": "Folger Shakespeare Library edition, ed. Barbara A. Mowat and Paul Werstine",
+  "locator": "3.4.186 to 189; Refrain tonight, is the second half of line 186, after the Second Quarto passage ending That aptly is put on.",
+  "url": "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/4/"
+ },
+ "confidence": "high",
+ "reason": "Every word and the lineation match the Folger text, spoken by Hamlet to Gertrude. Folger prints no comma after nature and the sentence runs on into line 190, so the closing full stop marks a cut at a complete clause, as the standard reference entry makes it. Shakespeare stands at two in the year and none in March, so this is his third and last."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "03-poet-11",
+ "verdict": "VERIFIED",
+ "quote": "Climb Mount Fuji, / O snail, / but slowly, slowly.",
+ "source": "Kobayashi Issa, ‘Climb Mount Fuji’, in The Essential Haiku: Versions of Bashō, Buson, and Issa (trans. Robert Hass, 1994)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The Lilliput Review (Issa’s Untidy Hut) listing of Robert Hass’s Issa versions, which gives the haiku in three lines in this wording; agreed by other web reprints credited to Hass; the Ecco book itself was not opened, so no page is cited",
+  "edition": "The Essential Haiku: Versions of Bashō, Buson, and Issa, ed. and trans. Robert Hass (Hopewell, NJ: Ecco Press, 1994), Issa section",
+  "locator": "Issa section; the haiku is katatsuburi / sorosoro nobore / fuji no yama",
+  "url": "http://lilliputreview.blogspot.com/2009/03/robert-hass-issa-translations.html"
+ },
+ "confidence": "medium",
+ "speaker": "",
+ "reason": "The wording and three line layout match Hass’s published version as reprinted, and it is distinct from Blyth’s ‘O snail / Climb Mount Fuji, / But slowly, slowly!’, the one Salinger quotes. Confidence is medium only because the check is against reprints, not the Ecco page. Issa has one line in the year (February), none in March; not shipped, not banned."
+}

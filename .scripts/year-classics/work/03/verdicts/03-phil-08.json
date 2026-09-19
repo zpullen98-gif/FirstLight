@@ -1,0 +1,17 @@
+{
+ "id": "03-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "A beginner should not hold two arrows. It will make him rely on the second arrow and be careless with the first. Each time you shoot you should think not of hitting or missing the target but of making this one the decisive arrow.",
+ "source": "Yoshida Kenkō, Essays in Idleness, section 92 (the archery teacher) (trans. Donald Keene, 1967)",
+ "speaker": "the archery teacher",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Google Books phrase search returns the exact closing words in Keene’s Essays in Idleness (Columbia University Press, ISBN 0231112556) and in Shirane’s Traditional Japanese Literature, which reprints Keene; the full three sentences are transcribed with a citation to Keene, Tuttle 1967, section 92, on the Kyudo Notebook blog. The printed page itself was not viewed.",
+  "edition": "Essays in Idleness: The Tsurezuregusa of Kenkō, trans. Donald Keene (Columbia University Press, 1967; Tuttle reprint)",
+  "locator": "section 92",
+  "url": "https://karamatsu.wordpress.com/2013/05/17/kyudo-notebook-essays-in-idleness/"
+ },
+ "confidence": "medium",
+ "reason": "Keene’s wording confirmed by a Google Books hit inside his Columbia edition for the last clause and by a cited transcription of the full passage; the Sansom, Porter and McKinney renderings differ, so this is Keene’s. The teacher speaks, introduced by the words His teacher said. Not shipped; Kenkō unused."
+}
