@@ -1,0 +1,4 @@
+{
+  "_readme": "Persons used in The Classics so far, keyed by check-year.js's personKey(). Written by land-month.js when a month lands; read by prep-month.js to tell the curators who is at the cap of three. Never edited by hand.",
+  "persons": {}
+}

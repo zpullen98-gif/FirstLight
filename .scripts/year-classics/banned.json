@@ -1,0 +1,25 @@
+{
+  "_readme": "Authors excluded from The Classics outright. Ten or more entries on the Philosophers: the reader who wants them has a year of them, and theirs is the most corrupted quotation trade. check-year.js reads the same list from its CLASSICS_BANNED; this copy is the one the curator briefs are built from.",
+  "banned": [
+    "Marcus Aurelius",
+    "Confucius",
+    "Laozi",
+    "Lao Tzu",
+    "Seneca",
+    "Zhuangzi",
+    "Chuang Tzu",
+    "Epictetus",
+    "Publilius Syrus",
+    "Cicero"
+  ],
+  "out_of_scope": [
+    "scripture and liturgy (the Library owns them)",
+    "film and television lines (the lift bank owns them)",
+    "song lyrics",
+    "proverbs and anonymous traditions (the Philosophers' Wisdom tag owns them)",
+    "business, self-help and motivational writing",
+    "speeches and oratory (the Makers' ground)",
+    "anything first published after 1999",
+    "anything that would need a content warning"
+  ]
+}

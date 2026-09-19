@@ -1,0 +1,4 @@
+{
+  "_readme": "Verified survivors a month's editor did not use, each tagged with the month it fits, routed forward rather than thrown away. The Makers' carry delivered 29 pre-verified entries by December. Appended by land-month.js from month.json's `unused`; read by prep-month.js into the next month's brief. Never edited by hand.",
+  "entries": []
+}
