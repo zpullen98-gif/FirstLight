@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-06",
+ "verdict": "VERIFIED",
+ "quote": "She is a friend of my mind. She gather me, man. The pieces I am, she gather them and give them back to me in all the right order.",
+ "source": "Toni Morrison, Beloved, Part Three (Knopf, 1987, pp. 272 to 273) (Sixo, remembered by Paul D)",
+ "tradition": "Fiction",
+ "speaker": "Sixo, remembered by Paul D",
+ "note": "",
+ "evidence": {
+  "where": "Google Books snippets of the scholarly literature quoting the Knopf text: Toni Morrison's Beloved: A Casebook (Oxford, 1999) cites p. 272 and Middleton, Toni Morrison's Fiction (Routledge, 2016) cites pp. 272 to 273; wording checked against libquotes and Goodreads",
+  "edition": "Beloved, Alfred A. Knopf, 1987",
+  "locator": "Part Three, the penultimate chapter (counted as chapter 27), Paul D recalling Sixo on the Thirty-Mile Woman",
+  "url": "https://www.google.com/books/feeds/volumes?q=%22she+gather+me,+man%22+Beloved+Morrison"
+ },
+ "confidence": "high",
+ "reason": "The three sentences are Morrison's wording exactly, and the Knopf page range is carried by two scholarly citations. The reporter trap is handled in the source: Sixo's words as Paul D remembers them. Not shipped, person at zero of three, not banned."
+}

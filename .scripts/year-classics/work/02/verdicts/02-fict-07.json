@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-07",
+ "verdict": "CORRECTED",
+ "quote": "As far as the education of children is concerned I think they should be taught not the little virtues but the great ones. Not thrift but generosity and an indifference to money; not caution but courage and a contempt for danger; nor shrewdness but frankness and a love of truth; not tact but love for one’s neighbour and self-denial; not a desire for success but a desire to be and to know.",
+ "source": "Natalia Ginzburg, The Little Virtues, title essay, 1960, opening sentences (trans. Dick Davis, 1985)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "Davis’s printed text reads “nor shrewdness”, as in the Arcade and Daunt editions of The Little Virtues and the 1986 New York Times review; the proposal’s “not shrewdness” is the smoothed wording of anthologies. Translation first published by Carcanet in 1985.",
+ "evidence": {
+  "where": "Google Books snippet of The Little Virtues (Simon and Schuster / Arcade ebook, 2016, Davis translation) and of the New York Times Book Review, 1986; JacquiWine's Journal quoting the Daunt Books 2018 edition",
+  "edition": "The Little Virtues, trans. Dick Davis, Carcanet, 1985; Arcade ebook 2016; Daunt Books 2018",
+  "locator": "Title essay, Le piccole virtù (Nuovi Argomenti, 1960), opening two sentences",
+  "url": "https://www.google.com/books/feeds/volumes?q=%22nor+shrewdness+but+frankness+and+a+love+of+truth%22"
+ },
+ "confidence": "high",
+ "reason": "The passage opens the title essay in Davis's translation exactly as shipped, except that the editions of the book itself read nor shrewdness where the proposal had not shrewdness, so the wording is corrected to the printed text. Not shipped, person at zero of three, not banned."
+}

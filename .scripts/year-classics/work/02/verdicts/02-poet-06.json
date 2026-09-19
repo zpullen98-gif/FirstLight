@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "“If I can stop one heart from breaking, / I shall not live in vain; / If I can ease one life the aching, / Or cool one pain, / Or help one fainting robin / Unto his nest again, / I shall not live in vain.”",
+ "source": "Emily Dickinson, ‘If I can stop one heart from breaking’ (Fr982, J919), Poems, ed. Todd and Higginson (Roberts Brothers, 1890), Life VI",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg transcription of Poems by Emily Dickinson, First Series (1890), ebook 2678; the poem is Life VI and the seven lines match the proposal exactly.",
+  "edition": "Poems by Emily Dickinson, edited by Mabel Loomis Todd and T. W. Higginson (Roberts Brothers, Boston, 1890)",
+  "locator": "Section I, Life, poem VI, the whole poem",
+  "url": "https://www.gutenberg.org/cache/epub/2678/pg2678.txt"
+ },
+ "confidence": "high",
+ "reason": "The whole poem is in the 1890 first series at Life VI in this wording. Dickinson has one line in the year (month 1), so she is under the cap of three and not yet used in this month."
+}

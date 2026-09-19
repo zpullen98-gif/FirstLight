@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "How selfish soever man may be supposed, there are evidently some principles in his nature, which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it.",
+ "source": "Adam Smith, The Theory of Moral Sentiments, Part I, Section I, Chapter I, Of Sympathy (6th edition, 1790)",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Library of Economics and Liberty online text of the 6th edition (A. Millar, London, 1790), Part I, Section I, Chapter I, first sentence",
+  "edition": "6th edition, 1790 (first published 1759)",
+  "locator": "Part I, Section I, Chapter I, Of Sympathy, opening sentence",
+  "url": "https://www.econlib.org/library/Smith/smMS.html?chapter_num=2"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "The wording matches the opening sentence of the book word for word in the 6th edition text. Not shipped, not near any shipped line, Smith not at cap and not banned."
+}

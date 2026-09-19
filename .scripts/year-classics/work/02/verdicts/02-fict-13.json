@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-13",
+ "verdict": "VERIFIED",
+ "quote": "“If a man should importune me to give a reason why I loved him, I find it could no otherwise be expressed, than by making answer: because it was he, because it was I.”",
+ "source": "Michel de Montaigne, Essays, Book I, chapter 27, Of Friendship (trans. Charles Cotton, ed. W. C. Hazlitt, 1877)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #3600, Essays of Michel de Montaigne, Complete, translated by Charles Cotton, edited by William Carew Hazlitt (preface dated Kensington, November 1877), plain text; Book I, Chapter XXVII, Of Friendship, the paragraph on his union with La Boétie.",
+  "edition": "Charles Cotton translation, edited by W. C. Hazlitt, 1877, as reproduced by Project Gutenberg (#3600)",
+  "locator": "Book I, chapter 27, Of Friendship (chapter 28 in modern numbering)",
+  "url": "https://www.gutenberg.org/cache/epub/3600/pg3600.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in Book I, chapter 27 (Of Friendship) of the Cotton/Hazlitt text word for word; that edition numbers the essay 27, modern editions 28, and the source keeps the named edition’s numbering. Not shipped, no near match, Montaigne has no lines in the year yet, not banned."
+}

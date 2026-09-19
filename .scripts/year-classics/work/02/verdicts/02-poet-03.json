@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "I am a man, and nothing that concerns a man do I deem a matter of indifference to me.",
+ "source": "Terence, Heauton Timorumenos, Act 1, scene 1, line 77 (Chremes) (trans. Henry Thomas Riley, 1874)",
+ "speaker": "Chremes",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Perseus Digital Library, Riley’s translation of Heautontimorumenos, Act 1, scene 1, with the Latin (Homo sum: humani nihil a me alienum puto) in the footnote",
+  "edition": "The Comedies of Terence, trans. Henry Thomas Riley, Harper and Brothers, New York, 1874",
+  "locator": "Act 1, scene 1 (Latin line 77)",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.02.0115:act%3D1:scene%3D1"
+ },
+ "confidence": "high",
+ "reason": "Riley’s 1874 prose reads exactly as proposed, spoken by Chremes to Menedemus in the opening scene; line 77 is the Latin line number, which the locator keeps. Not shipped, not banned, first use of Terence."
+}

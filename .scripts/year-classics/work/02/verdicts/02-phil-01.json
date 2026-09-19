@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-01",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "confidence": "high",
+ "quote": "“It is justice, not charity, that is wanting in the world!”",
+ "source": "Mary Wollstonecraft, A Vindication of the Rights of Woman, Chapter 4 (1792)",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of A Vindication of the Rights of Woman (ebook 3420), full text downloaded and searched; the sentence sits in Chapter 4, Observations on the State of Degradation to Which Woman Is Reduced by Various Causes, following the words Asylums and Magdalens are not the proper remedies for these abuses.",
+  "edition": "Project Gutenberg ebook 3420, A Vindication of the Rights of Woman (1792)",
+  "locator": "Chapter 4",
+  "url": "https://www.gutenberg.org/cache/epub/3420/pg3420.txt"
+ },
+ "reason": "The sentence appears verbatim, exclamation mark included, in Chapter 4 of the Gutenberg text of the 1792 work. Nothing shipped, person unused in the year, author not banned."
+}

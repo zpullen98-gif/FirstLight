@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-05",
+ "verdict": "CORRECTED",
+ "quote": "“On that best portion of a good man’s life; / His little, nameless, unremembered acts / Of kindness and of love.”",
+ "source": "William Wordsworth, Lines written a few miles above Tintern Abbey, lines 35 to 37, Lyrical Ballads (J. and A. Arch, 1798)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Wording verified in the 1798 Lyrical Ballads text. The proposal had the line numbers the wrong way round: counted line by line in the 1798 printing the passage falls at 35 to 37, and the standard later text numbers it 33 to 35.",
+ "evidence": {
+  "where": "Project Gutenberg transcription of Lyrical Ballads (1798), ebook 9622, and the Wikisource Lyrical Ballads (1798) page; wording matches exactly, with the semicolon after life and no comma after unremembered.",
+  "edition": "Lyrical Ballads, with a Few Other Poems (J. and A. Arch, 1798)",
+  "locator": "Lines written a few miles above Tintern Abbey, lines 35 to 37 counted in the 1798 printing (33 to 35 in the standard text)",
+  "url": "https://www.gutenberg.org/cache/epub/9622/pg9622.txt"
+ },
+ "confidence": "high",
+ "reason": "The three lines are in the 1798 text exactly as proposed, but the proposal misstated the numbering; the line count is corrected and the wording ships as printed in 1798. Not shipped, not near a shipped line, not banned, not at cap."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-02",
+ "verdict": "VERIFIED",
+ "quote": "’Tis not my nature to join in hating, but in loving.",
+ "source": "Sophocles, Antigone, line 523 (Antigone) (trans. R. C. Jebb, 1891)",
+ "speaker": "Antigone",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Jebb’s printed translation as reprinted in The Tragedies of Sophocles (Cambridge, 1917) on Wikisource, checked against the Perseus Jebb text at line 523 (Perseus modernises the sentence to “It is not my nature to join in hate, but in love”; the proposal carries Jebb’s own printed wording)",
+  "edition": "R. C. Jebb, The Antigone of Sophocles, Cambridge University Press, 1891 (translation first printed 1888)",
+  "locator": "line 523",
+  "url": "https://en.wikisource.org/wiki/Tragedies_of_Sophocles_(Jebb_1917)/Antigone"
+ },
+ "confidence": "high",
+ "reason": "Jebb’s printed translation reads exactly as proposed at line 523, Antigone answering Creon; the Perseus copy is a modernised rendering of the same sentence, so the 1891 wording is the one to ship. Not shipped, not banned, first use of Sophocles."
+}

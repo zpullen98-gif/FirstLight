@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-03",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Essay",
+ "confidence": "high",
+ "quote": "“The greatest benefit we owe to the artist, whether painter, poet, or novelist, is the extension of our sympathies.”",
+ "source": "George Eliot, The Natural History of German Life, Westminster Review, July 1856; in The Essays of George Eliot, ed. Sheppard (1883), essay V",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of The Essays of George Eliot, edited by Nathan Sheppard (ebook 28289), full text downloaded and searched; the sentence appears in essay V, The Natural History of German Life (page marker 141 at the essay head), in the paragraph on social novels that follows the opera-chorus comparison and precedes the Scott passage.",
+  "edition": "The Essays of George Eliot, ed. Nathan Sheppard (Funk and Wagnalls, 1883), Project Gutenberg ebook 28289",
+  "locator": "Essay V, The Natural History of German Life, p. 141 ff.",
+  "url": "https://www.gutenberg.org/cache/epub/28289/pg28289.txt"
+ },
+ "reason": "Verbatim in the Sheppard edition of the 1856 Westminster Review essay. Mary Ann Evans has one line in the year (month 1), so she is under the cap and not yet in this month; not banned; nothing shipped."
+}

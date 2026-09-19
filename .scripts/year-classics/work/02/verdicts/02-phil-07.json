@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-07",
+ "verdict": "VERIFIED",
+ "quote": "I feel at home in the entire world wherever there are clouds and birds and human tears.",
+ "source": "Rosa Luxemburg, letter to Mathilde Wurm, 16 February 1917, from Wronke; The Letters of Rosa Luxemburg, p. 376 (trans. George Shriver, 2011)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Shriver's wording as printed by Verso itself (Lessons from the Life of Rosa Luxemburg blog) and in the Goodreads excerpt from The Letters of Rosa Luxemburg; the page is given as Letters 376 in the IMHO Journal essay Rosa Luxemburg's Birds, which cites the Verso 2011 edition",
+  "edition": "The Letters of Rosa Luxemburg, ed. Georg Adler, Peter Hudis and Annelies Laschitza, trans. George Shriver, Verso, 2011",
+  "locator": "Letter to Mathilde Wurm, 16 February 1917, written from Wronke prison, p. 376",
+  "url": "https://imhojournal.org/articles/rosa-luxemburgs-birds/"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in the Wurm letter of 16 February 1917 in Shriver's Verso translation, without a comma after world, and page 376 is attested by a scholarly essay citing that edition. It is the letter Luxemburg's correspondence is known by. Not shipped; Luxemburg at zero of three; not banned."
+}

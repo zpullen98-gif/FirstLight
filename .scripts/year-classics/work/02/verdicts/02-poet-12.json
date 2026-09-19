@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-12",
+ "verdict": "VERIFIED",
+ "quote": "“Warning, in music-words / devout and large, / that we are each other’s / harvest: / we are each other’s / business: / we are each other’s / magnitude and bond.”",
+ "source": "Gwendolyn Brooks, Paul Robeson, lines 10 to 17, the closing lines, Family Pictures (Broadside Press, 1970)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Academy of American Poets text of the poem, credited to The Essential Gwendolyn Brooks (Library of America, 2005), copyright 1970 Gwendolyn Brooks",
+  "edition": "Family Pictures (Broadside Press, 1970); text checked in The Essential Gwendolyn Brooks (Library of America, 2005) as printed by poets.org",
+  "locator": "lines 10 to 17, the last eight lines of a seventeen-line poem",
+  "url": "https://poets.org/poem/paul-robeson"
+ },
+ "confidence": "high",
+ "reason": "The eight closing lines match the proposal exactly in wording and lineation, and a line count puts Warning at line 10 and magnitude and bond at line 17. The 1970 copyright matches Family Pictures."
+}

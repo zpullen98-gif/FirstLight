@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "“For there is no friend like a sister / In calm or stormy weather; / To cheer one on the tedious way, / To fetch one if one goes astray, / To lift one if one totters down, / To strengthen whilst one stands.”",
+ "source": "Christina Rossetti, Goblin Market, lines 562 to 567, Goblin Market and Other Poems (Macmillan, 1862) (Laura)",
+ "tradition": "Poetry",
+ "speaker": "Laura",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 16950, the World’s Classics reprint of the 1862 Goblin Market and Other Poems text, which carries line numbers; line 560 is marked at Then joining hands to little hands, so the closing six lines are 562 to 567, spoken by Laura to the children. Wording matches exactly.",
+  "edition": "Goblin Market and Other Poems (Macmillan, 1862), as reprinted in The World’s Classics",
+  "locator": "Goblin Market, lines 562 to 567, the closing lines",
+  "url": "https://www.gutenberg.org/cache/epub/16950/pg16950.txt"
+ },
+ "confidence": "high",
+ "reason": "The six lines close the poem exactly as proposed and are Laura’s speech, so she is named. Not shipped, not near a shipped line, not banned, not at cap."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "02-cfl-08",
+ "verdict": "VERIFIED",
+ "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+ "source": "Virginia Woolf, A Room of One’s Own, chapter 1 (Hogarth Press, 1929)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg Australia full text of A Room of One’s Own, Chapter One, the luncheon at Oxbridge; the sentence read in place with the sentence before it",
+  "edition": "Hogarth Press, 1929",
+  "locator": "chapter 1",
+  "url": "https://gutenberg.net.au/ebooks02/0200791h.html"
+ },
+ "confidence": "high",
+ "reason": "Read in the full text of chapter 1, wording exact. Not shipped, Woolf has no lines in the year, and the line is her own narrative voice, so no speaker."
+}

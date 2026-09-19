@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "Boundless compassion for all living beings is the surest and most certain guarantee of pure moral conduct, and needs no casuistry.",
+ "source": "Arthur Schopenhauer, The Basis of Morality, Part III, Chapter VIII, (4) (trans. Arthur Brodrick Bullock, 1903)",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Bullock's translation (ebook 44929), Part III, Chapter VIII, The Proof Now Given Confirmed by Experience, numbered paragraph (4)",
+  "edition": "Arthur Brodrick Bullock translation, Swan Sonnenschein, London, 1903",
+  "locator": "Part III, Chapter VIII, The Proof Now Given Confirmed by Experience, (4); section 19 of the German",
+  "url": "https://www.gutenberg.org/cache/epub/44929/pg44929.txt"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "The sentence opens numbered paragraph (4) of Chapter VIII in Bullock exactly as proposed. Bullock's own title is The Basis of Morality, so the source uses that title for the edition whose wording ships. Not shipped, not near, not at cap, not banned."
+}

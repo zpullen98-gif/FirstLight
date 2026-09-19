@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-15",
+ "verdict": "VERIFIED",
+ "quote": "You do not have to be good. / You do not have to walk on your knees / for a hundred miles through the desert repenting. / You only have to let the soft animal of your body / love what it loves.",
+ "source": "Mary Oliver, Wild Geese, lines 1 to 5, Dream Work (Atlantic Monthly Press, 1986), p. 14",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Two independent reprints crediting Dream Work (Atlantic Monthly Press, 1986), both printing the third line without a comma before repenting; a later printing reproduced in Poetry for Students adds the comma. Page 14 confirmed by a search across dealer listings. Poetry Foundation and the Library of Congress pages refused the fetch.",
+  "edition": "Dream Work, The Atlantic Monthly Press, 1986, p. 14",
+  "locator": "Wild Geese, lines 1 to 5, the opening",
+  "url": "https://www.ayearofbeinghere.com/2015/10/mary-oliver-wild-geese.html"
+ },
+ "confidence": "high",
+ "reason": "The five opening lines match the Dream Work text as reprinted by two sources crediting that edition; the only variant in circulation is a comma before repenting in later printings, and the Dream Work wording is the one shipped. Not shipped, person at zero of three, not banned."
+}

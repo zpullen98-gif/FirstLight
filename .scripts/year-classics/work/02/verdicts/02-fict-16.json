@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-16",
+ "verdict": "VERIFIED",
+ "quote": "You become responsible, forever, for what you have tamed.",
+ "source": "Antoine de Saint-Exupéry, The Little Prince, chapter XXI (the fox) (trans. Katherine Woods, 1943)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "A scanned copy of the Katherine Woods translation (title page names her), the fox chapter read in full; the chapter number rests on the standard numbering of the book, since the scan carries page numbers rather than chapter heads",
+  "edition": "The Little Prince, trans. Katherine Woods (Reynal & Hitchcock, New York, 1943)",
+  "locator": "Chapter XXI, the fox’s farewell: “Men have forgotten this truth,” said the fox. “But you must not forget it. You become responsible, forever, for what you have tamed. You are responsible for your rose . . .”",
+  "url": "https://blogs.ubc.ca/edcp508/files/2016/02/TheLittlePrince.pdf"
+ },
+ "confidence": "high",
+ "speaker": "The fox",
+ "reason": "Woods’s wording is exactly as proposed and is the fox’s own line in the taming chapter; the French is “Tu deviens responsable pour toujours de ce que tu as apprivoisé.” Not shipped, person unused, not banned."
+}

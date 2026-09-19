@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "There is no charm equal to tenderness of heart.",
+ "source": "Jane Austen, Emma, Volume II, chapter 13 (Emma Woodhouse, to herself)",
+ "tradition": "Fiction",
+ "speaker": "Emma Woodhouse",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Emma, Project Gutenberg #158, searched by grep; the line opens a paragraph of Emma's reflection on Harriet, under the CHAPTER XIII heading that follows the VOLUME II heading (chapter 31 in continuous numbering).",
+  "edition": "Project Gutenberg #158 (plain text, three-volume division as first published 1815, dated 1816)",
+  "locator": "Volume II, chapter 13; chapter 31 continuous",
+  "url": "https://www.gutenberg.org/cache/epub/158/pg158.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the text, spoken by Emma to herself, and the chapter is where proposed. Nothing shipped by Austen in the year; not banned."
+}

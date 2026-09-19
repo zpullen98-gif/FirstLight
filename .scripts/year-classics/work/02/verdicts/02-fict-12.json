@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "“Let the tears of the poor man find with thee more compassion, but not more justice, than the pleadings of the rich.”",
+ "source": "Miguel de Cervantes, Don Quixote, Part II, chapter 42 (Don Quixote, to Sancho Panza) (trans. John Ormsby, 1885)",
+ "tradition": "Fiction",
+ "speaker": "Don Quixote, counselling Sancho Panza before he governs his island",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #996, Don Quixote, translated by John Ormsby, plain text; Part II, Chapter XLII, Of the counsels which Don Quixote gave Sancho Panza before he set out to govern the island.",
+  "edition": "John Ormsby translation, 1885, as reproduced by Project Gutenberg (#996)",
+  "locator": "Part II, chapter 42",
+  "url": "https://www.gutenberg.org/cache/epub/996/pg996.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in Part II, chapter 42 of the Ormsby translation word for word, as the knight’s counsel to Sancho. Not shipped, no near match, Cervantes has no lines in the year yet, not banned."
+}

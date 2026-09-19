@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "Yet minds are not conquered by force, but by love and high-mindedness.",
+ "source": "Baruch Spinoza, Ethics, Part IV, Appendix, XI (trans. R. H. M. Elwes, 1883)",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of the Elwes translation of the Ethics (ebook 3800), Part IV, Appendix, section XI, between X on envy and XII on association",
+  "edition": "R. H. M. Elwes translation, 1883 (Bohn's Philosophical Library)",
+  "locator": "Part IV, Appendix, XI",
+  "url": "https://www.gutenberg.org/cache/epub/3800/pg3800.txt"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "Section XI of the Part IV Appendix reads exactly this in Elwes; the Gutenberg file spells the hyphen as a double hyphen, which is its convention and not the edition's. Not shipped, not near, not at cap, not banned."
+}

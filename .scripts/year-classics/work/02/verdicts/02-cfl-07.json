@@ -1,0 +1,17 @@
+{
+ "id": "02-cfl-07",
+ "verdict": "VERIFIED",
+ "quote": "I rebel—therefore we exist.",
+ "source": "Albert Camus, The Rebel, Part One, The Rebel (trans. Anthony Bower, 1953)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Anthony Bower’s translation as quoted in a chapter-by-chapter reading of Part One (Vintage edition, p. 22) and in Wikiquote; the passage ends the chapter The Rebel with the cogito comparison and this sentence. The Internet Archive copies of the 1954 Knopf edition are lending-locked, so the page itself was not opened",
+  "edition": "trans. Anthony Bower, Hamish Hamilton, 1953 (Knopf, 1954)",
+  "locator": "Part One, The Rebel, closing paragraph",
+  "url": "https://en.wikiquote.org/wiki/Albert_Camus"
+ },
+ "confidence": "high",
+ "reason": "Bower’s rendering of Je me révolte, donc nous sommes closes Part One in exactly this wording; the sentence recurs in Part Five, but Part One is its first and defining statement. Camus has one January line, so the year count stays under the cap."
+}

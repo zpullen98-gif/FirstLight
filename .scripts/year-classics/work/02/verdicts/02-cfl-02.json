@@ -1,0 +1,17 @@
+{
+ "id": "02-cfl-02",
+ "verdict": "VERIFIED",
+ "quote": "Travel is fatal to prejudice, bigotry and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things can not be acquired by vegetating in one little corner of the earth all one’s lifetime.",
+ "source": "Mark Twain, The Innocents Abroad, Conclusion (American Publishing Company, 1869)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The 1869 American Publishing Company first edition, read in the archive.org OCR text of the Hartford printing, and cross-checked against the Project Gutenberg text (etext 3176), which has the same wording",
+  "edition": "The Innocents Abroad, or The New Pilgrims' Progress, American Publishing Company, Hartford, 1869",
+  "locator": "Conclusion, the paragraph on the excursion's benefits (first edition p. 650)",
+  "url": "https://archive.org/download/innocentsabroad00twairich/innocentsabroad00twairich_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Both sentences are in the Conclusion of the 1869 first edition in exactly this wording: no serial comma after bigotry, can not as two words, one's lifetime. The signature travel sentence of the book. Not shipped, Twain at zero of three, not banned."
+}

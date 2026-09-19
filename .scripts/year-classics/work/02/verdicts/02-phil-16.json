@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-16",
+ "verdict": "VERIFIED",
+ "quote": "“The best way to begin a day well is to think, on awakening, whether we cannot give pleasure during the day to at least one person.”",
+ "source": "Friedrich Nietzsche, Human, All-Too-Human, vol. I, section 589, The Day’s First Thought (trans. Helen Zimmern, 1909)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg 51935, Helen Zimmern’s translation of Human, All-Too-Human, Part I (T. N. Foulis, Edinburgh and London, 1909), Ninth Division, aphorism 589",
+  "edition": "T. N. Foulis, 1909 (Complete Works, ed. Oscar Levy)",
+  "locator": "vol. I, section 589, The Day’s First Thought",
+  "url": "https://www.gutenberg.org/cache/epub/51935/pg51935.txt"
+ },
+ "confidence": "high",
+ "reason": "Aphorism 589 in Zimmern’s 1909 text reads exactly this as its first sentence; the second sentence, on prayer, is left off and nothing is altered. Not shipped, not at cap, not banned."
+}

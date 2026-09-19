@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-14",
+ "verdict": "VERIFIED",
+ "quote": "There is a land of the living and a land of the dead and the bridge is love, the only survival, the only meaning.",
+ "source": "Thornton Wilder, The Bridge of San Luis Rey, Part Five: Perhaps an Intention, closing sentence (the Abbess, in thought)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #69768, full text of the first edition, checked line by line at the end of Part Five",
+  "edition": "A. & C. Boni, New York, 1927 (Gutenberg transcription from HathiTrust images)",
+  "locator": "Part Five: Perhaps an Intention, final paragraph and final sentence of the novel, inside the Abbess’s quoted thought",
+  "url": "https://www.gutenberg.org/ebooks/69768"
+ },
+ "confidence": "high",
+ "speaker": "The Abbess, Madre María del Pilar, in thought",
+ "reason": "The sentence closes the novel exactly in this wording and stands inside the Abbess’s quoted thought, so the speaker the proposal names is right. Not shipped anywhere in First Light, person unused, author not banned."
+}

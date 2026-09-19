@@ -59,7 +59,8 @@ const brief = {
     'Nothing already shipped in Q, Q_MAKERS, UPLIFT or this file: run node .scripts/year-classics/shipped.js "<quote>" "<author>" before proposing, and again before ruling.',
     'Keep the material publishable: no graphic description of wounds, dying or atrocity. A quotation that would need a content warning is the wrong quotation, however powerful.',
     'A confident false citation is worse than an honest "attributed to". Never mint wording. Where the trail runs out, HEDGE with a note that says so plainly.',
-    'The editor is forbidden to pad the month to reach the day count.'
+    'The editor is forbidden to pad the month to reach the day count.',
+    'LANE FLOORS. The fiction-essay lane covers four forms and in February proposed sixteen with one diary line and one letter among them, so the month landed full with Diary and Correspondence at one each: the Makers\' dead-lane symptom, from a live lane. From March the fiction-essay lane proposes at least three Diary and at least three Correspondence candidates in its sixteen; the poetry-drama lane at least four Drama; the philosophy lane at least two Essay. A lane that cannot meet its floor says so rather than padding.'
   ],
   outOfScope: banned.out_of_scope,
   banned: banned.banned,

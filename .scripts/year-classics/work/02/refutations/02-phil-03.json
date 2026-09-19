@@ -1,0 +1,7 @@
+{
+ "id": "02-phil-03",
+ "refuted": true,
+ "wordingChecked": true,
+ "reason": "The wording is verbatim in the Sheppard edition (Project Gutenberg ebook 28289, essay V, The Natural History of German Life) and the citation is sound, so the refutation is not on the text. It is on the month rule: no person twice in the month. The verdicts folder already holds 02-fict-01 as VERIFIED, George Eliot, Middlemarch, Book VIII, chapter 72 (Dorothea Brooke), and shipped.js resolves both to the same person, mary ann evans, who also carries a January line. Two Eliot lines cannot both land in February; one must be dropped, and the Middlemarch line (What do we live for, if it is not to make life less difficult to each other?) is the one that answers the month's blurb about what the novelists knew about other people, so this essay line is the one to cut, or to carry to a later month. Secondary: the source line is exactly 140 characters, at the limit. If kept instead of 02-fict-01, no change to the citation is needed.",
+ "betterCitation": ""
+}

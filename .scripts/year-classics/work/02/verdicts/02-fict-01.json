@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "What do we live for, if it is not to make life less difficult to each other?",
+ "source": "George Eliot, Middlemarch, Book VIII, chapter 72 (Dorothea Brooke)",
+ "tradition": "Fiction",
+ "speaker": "Dorothea Brooke",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Middlemarch, Project Gutenberg #145, searched by grep; the sentence sits in Dorothea's speech to Sir James and Mr Farebrother, under the heading CHAPTER LXXII within BOOK VIII.",
+  "edition": "Project Gutenberg #145 (plain text transcription of the 1871 to 1872 novel)",
+  "locator": "Book VIII, chapter 72 (LXXII), Dorothea speaking",
+  "url": "https://www.gutenberg.org/cache/epub/145/pg145.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording matches the located text exactly; the speaker, book and chapter are as proposed. Not shipped, not near a shipped line; the person (Mary Ann Evans) has one line in the year, in January, so neither the month rule nor the cap is touched."
+}

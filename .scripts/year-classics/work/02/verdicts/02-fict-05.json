@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-05",
+ "verdict": "VERIFIED",
+ "quote": "You never really understand a person until you consider things from his point of view … until you climb into his skin and walk around in it.",
+ "source": "Harper Lee, To Kill a Mockingbird, Part One, chapter 3 (Atticus Finch)",
+ "tradition": "Fiction",
+ "speaker": "Atticus Finch, to Scout",
+ "note": "",
+ "evidence": {
+  "where": "Google Books snippets of the novel itself (Harper Lee, To Kill a Mockingbird, and the Enhanced Edition), plus SparkNotes and GradeSaver placing it in chapter 3",
+  "edition": "To Kill a Mockingbird (J. B. Lippincott, 1960); Warner paperback 1982 pp. 29 to 30 as cited by McCutcheon",
+  "locator": "Part One, chapter 3, Atticus to Scout on the porch the evening of her first school day",
+  "url": "https://www.google.com/books/feeds/volumes?q=%22climb+into+his+skin+and+walk+around+in+it%22+%22Sir%3F%22"
+ },
+ "confidence": "high",
+ "reason": "The novel prints the sentence in two halves around Scout's interjection (point of view, a dash, Sir?, a dash, until you climb into his skin); the spaced ellipsis marks that omission and every word is Lee's. Not shipped, person at zero of three, not banned, and the speaker is named in the source."
+}

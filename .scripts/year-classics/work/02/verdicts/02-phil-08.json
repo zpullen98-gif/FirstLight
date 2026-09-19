@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "The love of our neighbor in all its fullness simply means being able to say to him: ‘What are you going through?’",
+ "source": "Simone Weil, Waiting for God, Reflections on the Right Use of School Studies, p. 115 (trans. Emma Craufurd, 1951)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Craufurd text of the essay on the Internet Archive (Harper Colophon 1973 printing of the Putnam 1951 translation, which keeps the Putnam pagination), the sentence read in place with its neighbours",
+  "edition": "Waiting for God, trans. Emma Craufurd, G. P. Putnam's Sons, 1951 (Harper Colophon reprint, 1973)",
+  "locator": "Reflections on the Right Use of School Studies with a View to the Love of God (written 1942), p. 115",
+  "url": "https://archive.org/details/Weil1951ReflectionsOnTheRightUseOfSchoolStudiesWithAViewToTheLoveOfGod"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim Craufurd on page 115 of the essay, and it is the sentence the essay is known by. Not shipped; Weil at zero of three; not banned. The editor should note it collides with the Weil carry-in 01-phil-15, since one Weil line is the month's limit; this verdict rules only on the line."
+}

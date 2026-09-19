@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "“He drew a circle that shut me out — / Heretic, rebel, a thing to flout. / But Love and I had the wit to win: / We drew a circle that took him in!”",
+ "source": "Edwin Markham, Outwitted, the whole poem, p. 1 (Voluntaries), The Shoes of Happiness, and Other Poems (Doubleday, Page, 1915)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive OCR text of the 1915 Doubleday, Page first edition (shoeshappines00markrich); Outwitted is the first poem under the heading Voluntaries, on page 1, in this wording with the dash after out.",
+  "edition": "The Shoes of Happiness, and Other Poems (Doubleday, Page and Company, Garden City, 1915)",
+  "locator": "Voluntaries, Outwitted, page 1, the whole quatrain",
+  "url": "https://archive.org/download/shoeshappines00markrich/shoeshappines00markrich_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The quatrain is the opening poem of the 1915 collection exactly as proposed. Not shipped, not near a shipped line, not banned, not at cap."
+}

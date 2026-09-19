@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "You must sit down, sayes Love, and taste my meat: / So I did sit and eat.",
+ "source": "George Herbert, Love (III), lines 17 to 18, The Temple (Cambridge, 1633)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "CCEL old-spelling transcription of The Temple (1633), Love (III), whole poem checked; the closing couplet reads as proposed with the 1633 spelling (sayes, meat) and the colon at the line end",
+  "edition": "The Temple: Sacred Poems and Private Ejaculations, Cambridge, 1633",
+  "locator": "lines 17 to 18, the last poem of The Church",
+  "url": "https://www.ccel.org/h/herbert/temple/Love3.html"
+ },
+ "confidence": "high",
+ "reason": "The closing lines are exactly as proposed in the 1633 spelling and lineation, and Love (III) is the final poem of The Church. A devotional lyric by a named author, not scripture or liturgy, so in scope. Not shipped, first use of Herbert."
+}

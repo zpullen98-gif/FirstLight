@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-15",
+ "verdict": "VERIFIED",
+ "quote": "I have learnt that all men live not by care for themselves but by love.",
+ "source": "Leo Tolstoy, What Men Live By, section XII (the angel Michael) (trans. Louise and Aylmer Maude, 1906)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #6157, What Men Live By and Other Tales, translated by L. and A. Maude, section XII read in full",
+  "edition": "Maude translation, first collected in Twenty-Three Tales (Oxford University Press, 1906); Gutenberg #6157",
+  "locator": "What Men Live By, section XII, the first sentence of the angel’s closing speech, immediately after “And the angel said:”",
+  "url": "https://www.gutenberg.org/files/6157/6157-h/6157-h.htm"
+ },
+ "confidence": "high",
+ "speaker": "The angel Michael",
+ "reason": "The Maude wording matches the proposal to the letter, including “learnt”, and it opens the angel’s final speech in section XII. Not shipped, Tolstoy unused this year, not banned."
+}

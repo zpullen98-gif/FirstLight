@@ -1,0 +1,7 @@
+{
+ "id": "02-poet-11",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Fetched the Favorite Poem Project page raw and read the HTML bytes: the English text is credited 'trans. Doris Dana, from Selected Poems of Gabriela Mistral (Baltimore: The Johns Hopkins University Press, 1971)' with Dana's 1961-1971 copyright, and its first four lines are exactly 'Little feet of children / blue with cold, / how can they see you and not cover you— / dear God!' (no comma after 'children' in the first stanza, though the last stanza has one; the dash is a true em dash, bytes E2 80 94). Lineation and capitals match; it is the opening of the poem, so the fame test is met and 'lines 1 to 4' is right. The four lines are publishable (the wounded and bleeding feet come later and are not quoted). shipped.js: not shipped, no near match, Mistral 0 of 3, not banned, not used this month. Source line leads with the name, no dash, names translator and year, 118 characters. Poetry tag right. Theme: compassion for the poorest children. Not refuted."
+}

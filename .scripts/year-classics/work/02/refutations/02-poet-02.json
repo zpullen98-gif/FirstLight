@@ -1,0 +1,7 @@
+{
+ "id": "02-poet-02",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "Sophocles, Antigone, line 523 (Antigone) (trans. R. C. Jebb, Part III: The Antigone, 2nd ed., Cambridge, 1891, p. 103)",
+ "reason": "Went past the verifier’s 1917 reprint to the edition the source actually names: the OCR of Jebb’s Part III, The Antigone, second edition, Cambridge University Press, 1891 (archive.org sophoclesplaysfr03soph, title page reads SECOND EDITION, 1891) prints at page 103, facing Greek line 523, “AN. ’Tis not my nature to join in hating, but in loving.” immediately after Creon’s “A foe is never a friend—not even in death.” So the wording is Jebb’s own 1891 wording, not only the 1917 reprint’s, and the apostrophe-initial ’Tis is his. The Perseus copy that reads “It is not my nature to join in hate, but in love” is Perseus’s modernised Jebb, so it is no evidence against the printed text. Speaker Antigone named; the line is the one the play is remembered by; translator and year given; shipped.js clean (not shipped, no near, first use of Sophocles, not banned). Drama is the form. On theme, publishable, 66 characters, no dash. The betterCitation only adds the edition and page for the file; the shipped source line is fine as it stands."
+}

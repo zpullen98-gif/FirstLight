@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "Life appears to me too short to be spent in nursing animosity or registering wrongs.",
+ "source": "Charlotte Brontë, Jane Eyre, chapter 6 (Helen Burns)",
+ "tradition": "Fiction",
+ "speaker": "Helen Burns",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Jane Eyre, Project Gutenberg #1260, searched by grep; the sentence is in Helen Burns's answer to Jane about Mrs Reed, between the CHAPTER VI and CHAPTER VII headings.",
+  "edition": "Project Gutenberg #1260 (plain text of the 1847 novel)",
+  "locator": "Chapter 6, Helen Burns speaking to Jane",
+  "url": "https://www.gutenberg.org/cache/epub/1260/pg1260.txt"
+ },
+ "confidence": "high",
+ "reason": "Exact wording, right chapter, right speaker. Not shipped, no near match; no Brontë line in the year yet."
+}

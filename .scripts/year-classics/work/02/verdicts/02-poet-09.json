@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-09",
+ "verdict": "VERIFIED",
+ "quote": "“Here is thy footstool and there rest thy feet where live the poorest, and lowliest, and lost.”",
+ "source": "Rabindranath Tagore, Gitanjali (Song Offerings), poem 10, opening sentence (the author’s own English, 1912)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of Gitanjali (Macmillan, 1913 printing of the 1912 India Society edition), poem 10, read in full",
+  "edition": "Gitanjali (Song Offerings), Macmillan, 1913; first London, India Society, 1912",
+  "locator": "poem 10, first sentence",
+  "url": "https://www.gutenberg.org/cache/epub/7164/pg7164.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence opens poem 10 exactly as proposed; the poems are prose poems, so it ships as prose with no line breaks. Not shipped, not at cap, not banned."
+}

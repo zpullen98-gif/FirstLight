@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-05",
+ "verdict": "CORRECTED",
+ "quote": "“On that best portion of a good man’s life; / His little, nameless, unremembered acts / Of kindness and of love.”",
+ "source": "William Wordsworth, Lines written a few miles above Tintern Abbey, lines 34 to 36, Lyrical Ballads (J. and A. Arch, 1798)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Wording verified in the 1798 Lyrical Ballads text. The line number is corrected: with the half line Though absent long counted as part of the line before it, as the standard text counts its own half line, the 1798 passage is lines 34 to 36, and the standard later text numbers it 33 to 35.",
+ "evidence": {
+  "where": "Project Gutenberg transcription of Lyrical Ballads (1798), ebook 9622, downloaded this run and counted physically from Five years have passed: the three lines are verbatim at physical verse lines 36 to 38 with the half line separate, 35 to 37 with it joined; the 1798 text carries one line more than the revised text before this passage.",
+  "edition": "Lyrical Ballads, with a Few Other Poems (J. and A. Arch, 1798)",
+  "locator": "Lines written a few miles above Tintern Abbey, lines 34 to 36 in the 1798 printing (33 to 35 in the standard text)",
+  "url": "https://www.gutenberg.org/cache/epub/9622/pg9622.txt"
+ },
+ "confidence": "high",
+ "reason": "Second re-verification: the wording is verbatim in the 1798 text (semicolon after life, no comma after unremembered) and neither the refuter nor the first verifier disputes it; the only fault was the line number, and my own count from the downloaded text agrees with the refuter that 34 to 36 is the count consistent with the standard 33 to 35. shipped.js: not shipped, no near line, Wordsworth at 0 for the year, not banned."
+}

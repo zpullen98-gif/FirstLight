@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "Somebody loves us all.",
+ "source": "Elizabeth Bishop, Filling Station, closing line, Questions of Travel (Farrar, Straus and Giroux, 1965)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The full poem at poets.org (Academy of American Poets), reprinted from The Complete Poems 1927 to 1979, whose last line this is; first collected in Questions of Travel",
+  "edition": "Questions of Travel, Farrar, Straus and Giroux, 1965; text checked in The Complete Poems 1927 to 1979 (FSG, 1983)",
+  "locator": "Filling Station, the final line",
+  "url": "https://poets.org/poem/filling-station"
+ },
+ "confidence": "high",
+ "reason": "The line is the last line of the poem exactly as printed at poets.org, and the poem was first collected in Questions of Travel in 1965. Not shipped, person at zero of three, not banned."
+}

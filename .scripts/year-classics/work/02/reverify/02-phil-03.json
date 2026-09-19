@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "“The greatest benefit we owe to the artist, whether painter, poet, or novelist, is the extension of our sympathies.”",
+ "source": "George Eliot, The Natural History of German Life, Westminster Review, July 1856; in Essays of George Eliot, ed. Sheppard (1883), essay V",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of The Essays of George Eliot, ed. Nathan Sheppard (ebook 28289), downloaded this run and searched; the sentence is verbatim at lines 4652 to 4654, in essay V, The Natural History of German Life, in the paragraph on social novels between the opera-chorus comparison and the Scott passage.",
+  "edition": "The Essays of George Eliot, ed. Nathan Sheppard (Funk and Wagnalls, 1883), Project Gutenberg ebook 28289",
+  "locator": "Essay V, The Natural History of German Life (essay begins p. 141)",
+  "url": "https://www.gutenberg.org/cache/epub/28289/pg28289.txt"
+ },
+ "confidence": "high",
+ "reason": "Second re-verification: the wording is verbatim in the Sheppard edition and the refuter conceded the citation, so the text stands; shipped.js reports nothing shipped, no near line, Mary Ann Evans at one line for the year (January), not banned. The refutation is a landing conflict, not a provenance fault: 02-fict-01 (Middlemarch, Dorothea) is also VERIFIED and unrefuted, and rule 8 allows one Eliot line per month, so the editor cannot land both in February; the refuter recommends keeping the Middlemarch line and carrying this essay line to a later month, and nothing in this verdict disputes that."
+}

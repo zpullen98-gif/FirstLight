@@ -1,0 +1,17 @@
+{
+ "id": "02-cfl-01",
+ "verdict": "VERIFIED",
+ "quote": "The only true voyage of discovery, the only fountain of Eternal Youth, would be not to visit strange lands but to possess other eyes, to behold the universe through the eyes of another, of a hundred others, to behold the hundred universes that each of them beholds, that each of them is.",
+ "source": "Marcel Proust, The Captive, chapter II, the Vinteuil septet (trans. C. K. Scott Moncrieff, 1929)",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg Australia full text of The Captive in Scott Moncrieff’s translation, the septet passage read in place under the heading CHAPTER II (continued)",
+  "edition": "Remembrance of Things Past, vol. 5, The Captive, trans. C. K. Scott Moncrieff (Knopf, 1929); Gutenberg Australia 0300501h",
+  "locator": "Chapter II, the narrator’s reflection during the andante of the Vinteuil septet at the Verdurins’, just before “The andante had just ended”",
+  "url": "https://gutenberg.net.au/ebooks03/0300501h.html"
+ },
+ "confidence": "high",
+ "speaker": "",
+ "reason": "The wording is Scott Moncrieff’s exactly, in chapter II of The Captive as proposed. In the edition the sentence runs on after a semicolon (“and this we can contrive with an Elstir, with a Vinteuil”); the card cuts at that clause boundary and closes with a full stop, no word altered. Not shipped, Proust unused, not banned."
+}

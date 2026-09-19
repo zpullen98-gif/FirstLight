@@ -82,12 +82,27 @@ const ledger = fs.existsSync(ledgerPath) ? JSON.parse(fs.readFileSync(ledgerPath
 ledger.persons = persons;
 fs.writeFileSync(ledgerPath, JSON.stringify(ledger, null, 1) + '\n');
 
-/* the carry: the editor's unused survivors, each with the month it fits */
+/* the carry: the editor's unused survivors, each with the month it fits.
+   Everything that was OFFERED to this month leaves the carry (the editor
+   re-lists what it did not use, with a fresh month, in `unused`), and so does
+   any entry whose line has since shipped, whichever month it was waiting for:
+   February used Proust's other eyes, which January had carried for April. */
 const carryPath = path.join(HERE, 'carry.json');
 const carry = fs.existsSync(carryPath) ? JSON.parse(fs.readFileSync(carryPath, 'utf8')) : { entries: [] };
-carry.entries = (carry.entries || []).filter(c => Number(c.fitMonth) !== m || c.fromMonth !== m);
-let carried = 0;
-for (const u of month.unused || []) { if (u && u.fitMonth) { carry.entries.push(Object.assign({ fromMonth: m }, u)); carried++; } }
+const shippedNow = new Set();
+for (const k of keys) for (const e of q[k]) shippedNow.add(gate.normText(e[1]));
+const offered = (carry.entries || []).filter(c => Number(c.fitMonth) === m).length;
+carry.entries = (carry.entries || []).filter(c => Number(c.fitMonth) !== m && !shippedNow.has(gate.normText(c.quote)));
+const seenCarry = new Set(carry.entries.map(c => gate.normText(c.quote)));
+let carried = 0, dropped = 0;
+for (const u of month.unused || []) {
+  if (!u || !u.fitMonth) continue;
+  const nq = gate.normText(u.quote);
+  if (shippedNow.has(nq) || seenCarry.has(nq)) { dropped++; continue; }   // shipped, or already waiting under another id
+  seenCarry.add(nq);
+  carry.entries.push(Object.assign({ fromMonth: m }, u));
+  carried++;
+}
 fs.writeFileSync(carryPath, JSON.stringify(carry, null, 1) + '\n');
 
 /* SOURCES.md */
@@ -108,6 +123,6 @@ if (fs.existsSync(srcNote)) {
 const tags = Object.entries(r.report.tags).sort((a, b) => b[1] - a[1]).map(([t, n]) => `${t} ${n}`).join(', ');
 console.log('  tags so far: ' + tags);
 console.log('  persons more than once: ' + (Object.entries(persons).filter(([, v]) => v.count > 1).map(([k, v]) => `${k} ${v.count}`).join(', ') || 'none'));
-console.log(`  carry: ${carried} routed forward, ${carry.entries.length} waiting`);
+console.log(`  carry: ${offered} offered to this month and cleared, ${carried} routed forward, ${dropped} dropped as shipped or duplicate, ${carry.entries.length} waiting`);
 if (month.report && month.report.shortfall) console.log('  NOTE the editor reported a shortfall: ' + JSON.stringify(month.report.shortfall));
 console.log('\n  next: node .scripts/check-syntax.js, bump data-year-classics.js ?v= in index.html and CACHE in sw.js, commit.\n');

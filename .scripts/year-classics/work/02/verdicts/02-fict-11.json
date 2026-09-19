@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "“Compassion is the chief law of human existence.”",
+ "source": "Fyodor Dostoevsky, The Idiot, Part II, chapter 5 (Prince Myshkin, in thought) (trans. Eva Martin, 1913)",
+ "tradition": "Fiction",
+ "speaker": "Prince Myshkin, in thought",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #2638, The Idiot, translated by Eva Martin, plain text; Part II, section V, Myshkin’s reverie on Rogojin as he walks through Petersburg (“Compassion will teach even Rogojin, it will show him how to reason. Compassion is the chief law of human existence.”).",
+  "edition": "Eva Martin translation, J. M. Dent, Everyman’s Library, 1913, as reproduced by Project Gutenberg (#2638)",
+  "locator": "Part II, chapter 5",
+  "url": "https://www.gutenberg.org/cache/epub/2638/pg2638.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in Part II, chapter 5 of the Martin translation word for word, as Myshkin’s own thought rather than a reported line, so the speaker is correctly named. Not shipped; Dostoevsky has one line in month 1 (count 1 of 3), none yet in month 2."
+}

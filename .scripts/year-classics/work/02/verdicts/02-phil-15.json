@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-15",
+ "verdict": "VERIFIED",
+ "quote": "“The good life is one inspired by love and guided by knowledge.”",
+ "source": "Bertrand Russell, What I Believe, chapter II, The Good Life (E. P. Dutton, 1925), p. 20",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg 73782 transcription of the E. P. Dutton 1925 edition (sentence set in italics after “My view is this:”) and the Wikisource page scan of the same edition, printed page 20",
+  "edition": "E. P. Dutton, New York, 1925",
+  "locator": "chapter II, The Good Life, p. 20",
+  "url": "https://en.wikisource.org/wiki/Page:What_I_believe_-_Russell_(1925).pdf/30"
+ },
+ "confidence": "high",
+ "reason": "Verified in the 1925 Dutton text, italicised as his creed; the chapter begins on p. 19 and the sentence falls on p. 20, so the locator is tightened to that page. Not shipped, not at cap, not banned."
+}

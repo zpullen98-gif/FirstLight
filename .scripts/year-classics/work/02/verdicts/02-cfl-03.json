@@ -1,0 +1,17 @@
+{
+ "id": "02-cfl-03",
+ "verdict": "CORRECTED",
+ "quote": "There is no foreign land; it is the traveller only that is foreign, and now and again, by a flash of recollection, lights up the contrasts of the earth.",
+ "source": "Robert Louis Stevenson, The Silverado Squatters, Part II, With the Children of Israel, chapter III, The Return (Chatto and Windus, 1883)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "The locator was corrected. The sentence is not in The Scot Abroad; it closes a paragraph in The Return, the third chapter of Part II, With the Children of Israel, in the 1883 Chatto and Windus first edition. The wording is the edition's own.",
+ "evidence": {
+  "where": "The 1883 Chatto and Windus first edition, read in the archive.org OCR scan, where the sentence falls under the heading The Return; cross-checked against the Project Gutenberg text (etext 516), which places it the same way",
+  "edition": "The Silverado Squatters, Chatto and Windus, London, 1883",
+  "locator": "Part II, With the Children of Israel, chapter III, The Return, the paragraph on incongruous memories",
+  "url": "https://archive.org/download/silveradosquatte00stevrich/silveradosquatte00stevrich_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact in the first edition, semicolon and British traveller included, but the chapter was wrong: the line sits in The Return in Part II, not in The Scot Abroad in Part I. A standard reference line, gentle enough for the month. Not shipped, Stevenson at zero of three."
+}

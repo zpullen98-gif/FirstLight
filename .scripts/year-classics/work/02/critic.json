@@ -1,0 +1,9 @@
+{
+ "ok": false,
+ "problems": [
+  "Makers' dead-lane symptom: the month is full at 29 of 29 while Diary stands at one (day 5, Hillesum) and Correspondence at one (day 16, Luxemburg); the report itself sets deadLaneSuspected true. Either both lanes produced only one survivor each or a lane failed silently; the editor should confirm the Diary and Correspondence curators ran and returned candidates before this count is accepted as the balance of the month.",
+  "Day 4 (Terence): the translation year 1874 is doubtful; Henry Thomas Riley's Terence appeared in the Bohn Classical Library in 1853, and 1874 is at most a reprint year. Confirm which printing the wording was checked in and cite that year, or 1853.",
+  "Day 10 (Mistral): the Doris Dana lineation and punctuation (whether Dana prints a comma after children in line 1) were not shown as verified against the 1971 Johns Hopkins page; a translated verse line needs its wording and lineation from the named edition. Verify or add a hedging note.",
+  "Day 6 (Wordsworth): the quotation opens mid-sentence with the preposition On, so the card reads as a fragment; consider starting at the half line Though absent long, or at line 33 in the standard numbering, so the line stands alone."
+ ]
+}

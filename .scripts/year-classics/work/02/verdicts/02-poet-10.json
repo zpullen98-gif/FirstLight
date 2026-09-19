@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-10",
+ "verdict": "VERIFIED",
+ "quote": "“Don’t kill that fly! / Look—it’s wringing its hands, / wringing its feet.”",
+ "source": "Kobayashi Issa, ‘Don’t kill that fly!’, The Essential Haiku, Issa section (trans. Robert Hass, 1994)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Modern American Poetry (maps-legacy.org) excerpt of Hass on Issa, printed with the Ecco Press 1994 permission credit naming this haiku; corroborated by two blogs transcribing the Issa section",
+  "edition": "The Essential Haiku: Versions of Basho, Buson, and Issa, ed. and trans. Robert Hass (Ecco, 1994)",
+  "locator": "Issa section; also quoted in the Introduction",
+  "url": "http://maps-legacy.org/poets/g_l/haas/haiku.htm"
+ },
+ "confidence": "high",
+ "reason": "Hass’s three lines match the proposal word for word, including the dash and the repeated wringing; the Ecco copyright credit on the page ties the text to the 1994 book. The archive.org scan is lending-only so no page number is given."
+}

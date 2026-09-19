@@ -1,0 +1,17 @@
+{
+ "id": "02-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "The quality of mercy is not strained. / It droppeth as the gentle rain from heaven / Upon the place beneath. It is twice blest: / It blesseth him that gives and him that takes.",
+ "source": "William Shakespeare, The Merchant of Venice, Act 4, scene 1, lines 190 to 193, Folger edition (Portia)",
+ "speaker": "Portia",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Folger Shakespeare Library online reader, The Merchant of Venice 4.1 (continuous lines 2099 to 2102; act-scene numbering 4.1.190 to 193)",
+  "edition": "Folger Shakespeare Library edition, ed. Barbara A. Mowat and Paul Werstine",
+  "locator": "4.1.190 to 193",
+  "url": "https://www.folger.edu/explore/shakespeares-works/the-merchant-of-venice/read/4/1/"
+ },
+ "confidence": "high",
+ "reason": "All four lines read exactly as proposed in the Folger text, in the Folger lineation, spoken by Portia in 4.1. Shakespeare has one line in the year (month 1) and none yet in month 2, so the cap and the month rule are clear."
+}

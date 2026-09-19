@@ -1,0 +1,17 @@
+{
+ "id": "02-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "There is no religion without love, and people may talk as much as they like about their religion, but if it does not teach them to be good and kind to man and beast it is all a sham.",
+ "source": "Anna Sewell, Black Beauty, Part I, chapter 13 (John Manly)",
+ "tradition": "Fiction",
+ "speaker": "John Manly",
+ "note": "Sewell’s sentence runs on: all a sham, James, and it won’t stand when things come to be turned inside out. The line is cut at the clause and given a full stop; every word before the cut is hers, spoken by John Manly to James in chapter 13, The Devil’s Trade Mark.",
+ "evidence": {
+  "where": "Full text of Black Beauty, Project Gutenberg #271, searched by grep; the words follow 'said John' in his reply to James's story of the schoolmaster, in the chapter listed as 13 The Devil's Trade Mark under Part I.",
+  "edition": "Project Gutenberg #271 (plain text of the 1877 novel)",
+  "locator": "Part I, chapter 13, The Devil's Trade Mark; John Manly to James Howard",
+  "url": "https://www.gutenberg.org/cache/epub/271/pg271.txt"
+ },
+ "confidence": "high",
+ "reason": "The words are Sewell's and the speaker and chapter are right, but the proposal presents a cut sentence as a whole one: the text continues after 'sham' with a dash and 'all a sham, James, and it won't stand when things come to be turned inside out.' Shipped as the trimmed clause with a note that says so. Not shipped, no near match, not banned."
+}

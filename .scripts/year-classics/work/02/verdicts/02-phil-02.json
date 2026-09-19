@@ -1,0 +1,17 @@
+{
+ "id": "02-phil-02",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "tradition": "Essay",
+ "confidence": "high",
+ "quote": "“The good we secure for ourselves is precarious and uncertain, is floating in mid-air, until it is secured for all of us and incorporated into our common life.”",
+ "source": "Jane Addams, Twenty Years at Hull-House, Chapter VI, The Subjective Necessity for Social Settlements (Macmillan, 1910)",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Twenty Years at Hull-House (ebook 1325), full text downloaded and searched; the words appear in Chapter VI, headed Subjective Necessity for Social Settlements, as the last clause of the long sentence listing the hopes of young settlement workers (that the good we secure for ourselves ...). The quotation lifts that clause with an initial capital.",
+  "edition": "Project Gutenberg ebook 1325, Twenty Years at Hull-House (Macmillan, 1910)",
+  "locator": "Chapter VI",
+  "url": "https://www.gutenberg.org/cache/epub/1325/pg1325.txt"
+ },
+ "reason": "Wording matches the 1910 text exactly; the line is the closing clause of a longer sentence, lifted with an initial capital, which is standard excerpting and not a rewording. Chapter VI reprints her 1892 Plymouth paper. Nothing shipped, person unused, not banned."
+}
