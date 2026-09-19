@@ -41,6 +41,19 @@ At months 3, 6, 9 and 12 the suite's wing is synced from
 `light/index.html` and `light/sw.js` are merged by hand. The wing's stamps are
 bumped from the WING's numbers, not the source's.
 
+Expect `tracks.js` and `ui-year.js` to reject whenever the source touches them:
+the wing swept their em dashes, so the patch's context lines do not match. The
+wing's only divergence in those two files IS the sweeps (six in `tracks.js`,
+all to a comma; three in `ui-year.js`: a colon in the header comment, a colon
+after voices, a comma in the month intro), so rebuild each from the source plus
+the sweeps, diff it against the source to prove nothing else differs, delete the
+`.rej`, and run `resync-light.mjs --finish`. Month 3 was done this way.
+
+The browser pane cannot register a service worker against the local suite
+server (every wing fails alike), so the worker is proved two ways instead:
+every ASSETS path exists on disk before publishing, and the handover is read on
+the live site after.
+
 ## What the work folder is
 
 `work/MM/` is committed. It is the evidence trail: every proposal, verdict,
