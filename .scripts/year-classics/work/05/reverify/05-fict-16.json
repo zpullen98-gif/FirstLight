@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-16",
+ "verdict": "HEDGE",
+ "quote": "The most exhausting thing in life, I have discovered, is being insincere.",
+ "source": "Anne Morrow Lindbergh, Gift from the Sea, chapter 2, Channelled Whelk (1955)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "HEDGE. The book was not opened. Gift from the Sea is in copyright and every library scan and full text service reachable here refused. Two independent reference readings place the sentence in chapter 2, Channelled Whelk, and agree on this wording, but no edition has been seen. A reported page 26 is not confirmed and is not claimed.",
+ "evidence": {
+  "where": "I retried the primary routes myself and they all failed again. Internet Archive full text search returned empty bodies, the search inside endpoints for the Gift from the Sea scans returned no response at all, and the Google Books API answered 429 with quota exhausted. What I could check directly was the secondary trail: Wikiquote gives Gift from the Sea (1955), chapter 2, and prints this exact wording with the continuation That is why so much of social life is exhausting; one is wearing a mask, and it notes that the shorter form without I have discovered is a paraphrase. A separate chapter by chapter reading of Channelled Whelk corroborates the chapter and cites page 26, but quotes the sentence with ellipses, so it supports the placement and not the wording.",
+  "edition": "Gift from the Sea, first published 1955, not opened",
+  "locator": "chapter 2, Channelled Whelk",
+  "url": "https://en.wikiquote.org/wiki/Anne_Morrow_Lindbergh"
+ },
+ "confidence": "medium",
+ "reason": "The refutation does not touch the quotation; it faults the shape of the first verdict's source line, and it is right. Attributed to Anne Morrow Lindbergh put the doubt on the author when the authorship is the one thing nobody disputes, and it broke rule 5 by not leading with her name. The hedge belongs in the note, which is how 04-fict-08 ships. So the line survives with a doubt rather than failing twice, and it is HEDGE. I also dropped the publisher from the source line: naming Pantheon implies a text that was read, and that is the same unsupported edition claim the refuter rightly struck from 05-cfl-02. If May can fill without this line, a wording no edition has confirmed is the first one the editor should drop."
+}

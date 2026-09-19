@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-09",
+ "verdict": "VERIFIED",
+ "quote": "Anyone who has received from God the gift of knowledge and true eloquence has a duty not to remain silent: rather should one be happy to reveal such talents.",
+ "source": "Marie de France, The Lais of Marie de France, Prologue, opening sentence (trans. Glyn S. Burgess and Keith Busby, 1986)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Burgess and Busby prose translation of the Prologue, checked against several independent quotations of the Penguin text and against the Old French opening lines 1 to 4",
+  "edition": "The Lais of Marie de France, trans. Glyn S. Burgess and Keith Busby, Penguin Classics, 1986",
+  "locator": "Prologue, first sentence",
+  "url": "https://archive.org/details/laisofmariedefra0000burg"
+ },
+ "confidence": "high",
+ "reason": "The wording is Burgess and Busby’s and it is the first sentence of their Prologue; the sentence that follows it in their text, on the good that is widely heard of enjoying its first blossom, matches too. It renders the Old French Ki Deus ad dune escience, lines 1 to 4. Burgess and Busby translate into prose, so the line ships as prose and no lineation is owed."
+}

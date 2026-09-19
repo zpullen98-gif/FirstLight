@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-09",
+ "verdict": "CORRECTED",
+ "quote": "One day as I was sitting alone in my study surrounded by books on all kinds of subjects, devoting myself to literary studies, my usual habit, my mind dwelt at length on the weighty opinions of various authors whom I had studied for a long time.",
+ "source": "Christine de Pizan, The Book of the City of Ladies, Part One, ch. 1, the opening sentence (trans. Earl Jeffrey Richards, 1982)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: the proposal stopped after subjects and closed a dependent clause with a full stop the edition does not have. The whole opening sentence is restored here from a scan of the Persea 1982 Richards translation, chapter 1. No page is claimed. The sentence sets a scene rather than offering counsel, which the editor should weigh.",
+ "evidence": {
+  "where": "The Internet Archive scan of the Persea Books 1982 Richards translation, chapter 1 read verbatim from the item full text; the Hanover College course excerpt matches it word for word, which is what the first verifier saw",
+  "url": "https://archive.org/details/christine-de-pizan-earl-jeffrey-richards-transl.-the-book-of-the-city-of-ladies-1982",
+  "edition": "trans. Earl Jeffrey Richards, Persea Books, 1982",
+  "locator": "Part One, ch. 1, the opening sentence"
+ },
+ "confidence": "high",
+ "reason": "The refutation was right that the proposed line was a fragment with a minted full stop and an unevidenced translator credit, and it said the fault was fixable by restoring the sentence. I opened the 1982 Richards text itself, which confirms the wording and the translator, so the citation is now sound rather than asserted. The theme doubt survives and the note carries it."
+}

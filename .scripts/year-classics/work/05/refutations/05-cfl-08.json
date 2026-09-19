@@ -1,0 +1,23 @@
+{
+ "id": "05-cfl-08",
+ "refuted": false,
+ "wordingChecked": true,
+ "verdictAttacked": "CORRECTED",
+ "quote": "The problem in public life is learning to overcome terror; the problem in married life is learning to overcome boredom.",
+ "source": "Gabriel García Márquez, Love in the Time of Cholera, chapter 4 (Fermina Daza) (trans. Edith Grossman, 1988)",
+ "reason": "I could not break it. I pulled the Grossman text the verdict names and found the sentence word for word, semicolon and terminal full stop included, inside the novel’s own quotation marks: She had defined it in a simpler way: “The problem in public life is learning to overcome terror; the problem in married life is learning to overcome boredom.” So it is Fermina Daza’s in direct speech, not the narrator’s, and not one character reporting another, which is the speaker trap the brief warns about; the corrected source names her, which is what the rule asks. The chapter holds: the same scan carries CHAPTER ONE through CHAPTER SIX and the passage falls between CHAPTER FOUR and CHAPTER FIVE, so the numbering is the translation’s own and not an ebook’s invention. The scan’s front matter reads TRANSLATED FROM THE SPANISH BY EDITH GROSSMAN, Alfred A. Knopf New York 1988, which is the edition claimed. The locator is right down to the scene: the sentence sits in the years of the Urbinos’ social ostracism and the Social Club ball follows in the next breath. Attribution is right, no misattribution-list trap applies, the line is not shipped, García Márquez is at zero of three and appears once in May, the novel is pre-2000, the source line is 106 characters, leads with the name, carries no dash, and runs work then locator then speaker then translation, and Fiction is the form of the work. It is wry rather than bleak and it is a maxim, which is the month.",
+ "betterCitation": "",
+ "otherChecks": {
+  "shipped": "not shipped anywhere in First Light; no near opening match",
+  "cap": "Gabriel García Márquez at 0 of 3 for the year; not banned; not used elsewhere in May",
+  "scope": "novel, Spanish 1985, English translation 1988, pre-2000 and in scope; publishable",
+  "sourceLine": "106 characters, leads with the name, no dash",
+  "tag": "Fiction is the form of the work"
+ },
+ "confidence": "high",
+ "evidence": {
+  "where": "the Knopf 1988 Grossman text, downloaded and searched for the sentence and for every CHAPTER heading, so the passage could be placed between CHAPTER FOUR and CHAPTER FIVE, with the surrounding paragraph read in full",
+  "url": "https://archive.org/stream/LoveInTheTimeOfCholera/Love+in+the+Time+of+Cholera_djvu.txt",
+  "locator": "chapter 4, after her father leaves the city, in the paragraph on the fear of the unknown that ruled that paradise of provincial frivolity"
+ }
+}

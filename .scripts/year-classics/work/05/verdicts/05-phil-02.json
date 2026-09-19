@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-02",
+ "verdict": "VERIFIED",
+ "quote": "So true is it that nothing is wretched, but thinking makes it so, and conversely every lot is happy if borne with equanimity.",
+ "source": "Boethius, The Consolation of Philosophy, Book II, Prose IV (Philosophy) (trans. H. R. James, 1897)",
+ "tradition": "Philosophy",
+ "speaker": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Project Gutenberg text of The Consolation of Philosophy, ebook 14328, translated into English prose and verse by H. R. James, was downloaded and searched. The sentence stands verbatim, comma for comma, after the passage on the man who would think himself nigh heaven if a small portion from the wreck of thy fortune fell to him, and before the question about who is so blest by Fortune as not to wish to change his state. The file's own title page names the publisher as Elliot Stock, 62 Paternoster Row, and the year as 1897, which confirms the translation year the citation claims. The section markers in the same file put the passage inside Book II, prose IV: Book II opens well before it, prose IV opens above it and Song IV follows it. Philosophy is the speaker throughout, addressing Boethius as thou.",
+  "edition": "The Consolation of Philosophy of Boethius, trans. H. R. James, Elliot Stock, London, 1897 (Gutenberg ebook 14328)",
+  "locator": "Book II, prose IV, the passage on exile and on the trifles that rob the fortunate of perfect happiness",
+  "url": "https://www.gutenberg.org/cache/epub/14328/pg14328.txt"
+ },
+ "confidence": "high",
+ "reason": "Located verbatim in the named translation at the named place, with the translator's year confirmed from the edition's own title page. Not shipped, no near match, Boethius at zero of three, not banned, not on the misattribution list. Counsel given by Philosophy herself, which is the month's theme exactly, and it is consolation rather than gloom."
+}

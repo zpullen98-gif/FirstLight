@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-05",
+ "verdict": "VERIFIED",
+ "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
+ "source": "David Hume, Essays, Moral, Political, and Literary, Of the Standard of Taste, para. 7 (Miller edition, pp. 229 to 230)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The Liberty Fund text of the Essays, read through the Online Library of Economics and Liberty, gives the sentence word for word inside the paragraph that begins with the argument that a thousand different sentiments excited by the same object are all right. The Digital Hume edition then numbers that paragraph ST 7 and cites it to Miller pages 229 to 230, which is the locator the proposal claimed",
+  "edition": "Essays, Moral, Political, and Literary, ed. Eugene F. Miller, revised edition, Liberty Fund, 1987",
+  "locator": "Of the Standard of Taste, paragraph 7 (Mil 229 to 30)",
+  "url": "https://davidhume.org/texts/empl1/st"
+ },
+ "confidence": "high",
+ "reason": "Wording, punctuation and locator all hold. The colon followed by a capital It is Hume's eighteenth century pointing and the Miller edition keeps it, so the card should keep it too rather than smooth it to a lower case it. Hume wrote in English, so no translator is named; the essay was first published in 1757 in Four Dissertations, and the Miller edition supplies the page anchor."
+}

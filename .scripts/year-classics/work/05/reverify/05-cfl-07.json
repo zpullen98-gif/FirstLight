@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-07",
+ "verdict": "CORRECTED",
+ "quote": "And, when you want something, all the universe conspires in helping you to achieve it.",
+ "source": "Paulo Coelho, The Alchemist, Part One (Melchizedek, the king of Salem) (trans. Alan R. Clarke, 1993)",
+ "speaker": "Melchizedek, the king of Salem",
+ "tradition": "Fiction",
+ "note": "CORRECTED. The proposed wording is the boy recalling the king later in Part One, where the translation closes it with a comma before he had said. This is Melchizedek’s own sentence, which Alan R. Clarke prints with the opening And and a full stop. Both carry the same counsel.",
+ "evidence": {
+  "where": "the Alan R. Clarke full text scan, downloaded and searched by me for every occurrence of conspire, with the PART ONE and PART TWO headings located so each occurrence could be placed; the refutation and the first verdict read alongside it",
+  "url": "https://ia801604.us.archive.org/26/items/achemistbook/books-library.online-12230111Ib9C3_djvu.txt",
+  "edition": "trans. Alan R. Clarke; the scan header reads Published 1992, ISBN 0-7225-3293-8, so no first edition publisher is claimed and only the translator and the standard 1993 date of the translation are named",
+  "locator": "Part One: Melchizedek is named in the same conversation and speaks this sentence well before the PART TWO heading; the boy’s recollection, the king’s later repetition in Part Two and the alchemist’s echo are four further renderings"
+ },
+ "confidence": "high",
+ "reason": "The refutation holds on every point I could test: the recollected wording ends in a comma before the speech tag, there are more than two renderings, and the scan names a 1992 HarperCollins UK printing rather than the 1993 HarperSanFrancisco first. The line itself is real, so it ships in Melchizedek’s own exact wording, which needs no silent cut."
+}

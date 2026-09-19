@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-01",
+ "verdict": "CORRECTED",
+ "quote": "It is not reason never to yield to reason!",
+ "source": "Sophocles, Antigone, Scene 3, his speech to his father (Haimon) (trans. Dudley Fitts and Robert Fitzgerald, 1939)",
+ "tradition": "Drama",
+ "speaker": "Haimon",
+ "note": "Corrected: the line number is dropped. The wording and the scene hold, but the Fitts and Fitzgerald lineation was not opened. A quotation database numbers this line 570 running through the play, a school printing of the same translation numbers it inside Scene 3, and the two do not agree.",
+ "evidence": {
+  "where": "a quotation database giving the Fitts and Fitzgerald rendering side by side with four other translations, and a textbook printing of the same translation whose text I extracted and read",
+  "url": "https://wist.info/sophocles/45146/",
+  "edition": "Dudley Fitts and Robert Fitzgerald, The Antigone of Sophocles: An English Version (Harcourt, Brace, 1939)",
+  "locator": "Scene 3, in Haimon’s speech to Kreon, immediately before the flood time image"
+ },
+ "confidence": "medium",
+ "reason": "The wording is Fitts and Fitzgerald’s and the speech is Haimon’s in Scene 3: both a quotation database and an anthology printing of their text read exactly this, with In flood time you can see how some trees bend following it. Only the line number failed, so the citation ships without one."
+}

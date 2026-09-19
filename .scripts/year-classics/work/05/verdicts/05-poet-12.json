@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-12",
+ "verdict": "VERIFIED",
+ "quote": "Living is no laughing matter: / you must live with great seriousness / like a squirrel, for example— / I mean without looking for something beyond and above living, / I mean living must be your whole occupation.",
+ "source": "Nâzim Hikmet, On Living, Part I, opening lines, in Poems of Nazim Hikmet (trans. Randy Blasing and Mutlu Konuk, 1994)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Academy of American Poets text of the poem, printed from the Persea volume with its publisher credit line",
+  "edition": "Poems of Nazim Hikmet, trans. Randy Blasing and Mutlu Konuk, Persea Books, 1994",
+  "locator": "On Living, Part I, lines 1 to 5",
+  "url": "https://poets.org/poem/living"
+ },
+ "confidence": "high",
+ "reason": "The five lines and their breaks match the Blasing and Konuk text, which carries the credit From Poems of Nazim Hikmet, copyright 1994 by Randy Blasing and Mutlu Konuk, Persea Books. Part I of the poem opens with them and the fifth line ends in a full stop. The dash after example is the poem’s own punctuation, not the source line’s."
+}

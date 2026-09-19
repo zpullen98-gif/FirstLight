@@ -1,0 +1,23 @@
+{
+ "id": "05-cfl-10",
+ "refuted": false,
+ "wordingChecked": true,
+ "verdictAttacked": "VERIFIED",
+ "quote": "That’s no way to treat adventures. Never say ‘no’ to adventures. Always say ‘yes’, otherwise you’ll lead a very dull life.",
+ "source": "Ian Fleming, Chitty-Chitty-Bang-Bang: The Magical Car, Adventure Number Two (Commander Caractacus Pott) (Jonathan Cape, 1964)",
+ "reason": "I could not break it. I pulled the Project Gutenberg Canada etext and read the raw HTML. The speech runs: Commander Pott said firmly, “That’s no way to treat adventures. Never say ‘no’ to adventures. Always say ‘yes’, otherwise you’ll lead a very dull life. Now then, passports—we’ll make for Calais, which is dead ahead…” Three contiguous sentences, the comma outside the closing quote on ‘yes’ exactly as the shipped line has it, and the third sentence ends on a real full stop, so the cut needs no note and there is no silent punctuation change of the kind that sank other lines. The locator is right to the beat: Jemima has just said she has only learned oui and non and that will not get her very far, and Calais is named in the next breath. The speaker form is the book’s own: the text introduces the family as Commander Caractacus Pott, father, Mimsie Pott, mother, and the twins, so the name in the source is not the film’s Caractacus Potts. The etext’s front matter reads First published by Jonathan Cape Ltd 1964 and its title page gives Chitty-Chitty-Bang-Bang / The Magical Car / Adventure Number Two, so the title and edition are right; the volume has no chapters, which makes Adventure Number Two the finest locator available. Fleming is not on the banned list and not in the misattribution list, he is at zero of three for the year and appears once in May, the line is not shipped and does not open like a shipped line, 1964 is pre-2000, the source line is 125 characters, leads with the name and carries no dash, the quotation uses curly quotes throughout, and Fiction is the form of the work. The fame leg is the thinnest: it is not an opening or closing line and not the sentence the book is known by, and its currency is quotation aggregators rather than a standard dictionary of quotations. I let that stand, since the brief calls a reference entry a fame signal and never a verification, and the line is the month’s definition in miniature: counsel a character gives on the way out of the door.",
+ "betterCitation": "",
+ "otherChecks": {
+  "shipped": "not shipped anywhere in First Light; no near opening match",
+  "cap": "Ian Fleming at 0 of 3 for the year; not banned; not used elsewhere in May",
+  "scope": "children’s novel, 1964, pre-2000 and in scope; a book line, not the 1968 film; publishable",
+  "sourceLine": "125 characters, leads with the name, no dash",
+  "tag": "Fiction is the form of the work"
+ },
+ "confidence": "high",
+ "evidence": {
+  "where": "the Project Gutenberg Canada etext, downloaded and read as raw HTML around the speech, plus the front matter, the title page and a search for every use of the name Caractacus and for chapter divisions",
+  "url": "https://gutenberg.ca/ebooks/flemingi-chittychittybangbang2/flemingi-chittychittybangbang2-00-h.html",
+  "locator": "Adventure Number Two, mid Channel, immediately after Jemima’s line about oui and non and immediately before Commander Pott sets course for Calais"
+ }
+}

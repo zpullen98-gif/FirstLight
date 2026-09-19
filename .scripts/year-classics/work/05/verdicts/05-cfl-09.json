@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-09",
+ "verdict": "VERIFIED",
+ "quote": "Give me Books, fruit, French wine and fine weather and a little music out of doors, played by somebody I do not know.",
+ "source": "John Keats, Letters, to Fanny Keats, Winchester, 28 August 1819 (ed. Sidney Colvin, 1891), p. 285",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "a page scan of Sidney Colvin’s edition, Letters of John Keats to his Family and Friends, where letter CXIII is headed TO FANNY KEATS, Winchester, August 28 [1819] and the sentence stands on p. 285 in exactly this wording, capital Books and capital French included",
+  "url": "https://ia800907.us.archive.org/28/items/india.history.resource.111526/111526_djvu.txt",
+  "edition": "ed. Sidney Colvin, Macmillan, 1891",
+  "locator": "letter CXIII, to Fanny Keats, Winchester, 28 August 1819, p. 285"
+ },
+ "confidence": "high",
+ "reason": "Word for word in Colvin, including the capitals the proposal kept and the word order that the Calendar For Life card had scrambled. The sentence runs on after a dash, so the full stop marks a cut at a complete imperative clause, which changes nothing in the sense."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "Whereof one cannot speak, thereof one must be silent.",
+ "source": "Ludwig Wittgenstein, Tractatus Logico-Philosophicus, proposition 7, the closing line (trans. C. K. Ogden, 1922)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource text of the Ogden translation, proposition 7 standing alone as the last line, corroborating the Project Gutenberg 5740 text of the same translation",
+  "url": "https://en.wikisource.org/wiki/Tractatus_Logico-Philosophicus/7",
+  "edition": "trans. C. K. Ogden, Kegan Paul, Trench, Trubner, London, 1922, p. 189",
+  "locator": "proposition 7, the closing line"
+ },
+ "confidence": "high",
+ "reason": "Verbatim Ogden, who renders the German as Whereof one cannot speak, thereof one must be silent; the later Pears and McGuinness translation reads differently, so naming Ogden and 1922 is what makes the wording true. It is the closing proposition of the book, which is the fame test the proposal claims."
+}

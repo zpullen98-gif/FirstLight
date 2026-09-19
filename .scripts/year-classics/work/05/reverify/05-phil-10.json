@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-10",
+ "verdict": "REJECT",
+ "quote": "Your silence will not protect you.",
+ "source": "Audre Lorde, Sister Outsider: Essays and Speeches, The Transformation of Silence into Language and Action (Crossing Press, 1984)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The Crossing Press text of Sister Outsider read from the Internet Archive scan: the book footnotes the piece as a paper delivered at the Modern Language Association Lesbian and Literature Panel, Chicago, 28 December 1977, first published in Sinister Wisdom 6 in 1978 and The Cancer Journals in 1980",
+  "url": "https://archive.org/details/crossing-press-feminist-series-geraldine-audre-lorde-sister-outsider-essays-and-",
+  "edition": "Crossing Press, 1984 text",
+  "locator": "The Transformation of Silence into Language and Action"
+ },
+ "confidence": "high",
+ "reason": "The wording is certain: Lorde writes My silences had not protected me. Your silence will not protect you. The scope objection is what kills it, and the book itself settles it. Lorde's own asterisked note calls the piece a paper delivered, the volume is subtitled Essays and Speeches, and the text speaks to a room present in front of her, some of you here today and the fact that we are here and that I speak these words. The brief puts speeches and oratory out of scope as the Makers' ground, and the closed vocabulary has no tag for the form. No correction to the citation can repair that, and this is the second failure."
+}

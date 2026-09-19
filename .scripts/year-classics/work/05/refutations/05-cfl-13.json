@@ -1,0 +1,19 @@
+{
+ "id": "05-cfl-13",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "Albert Camus, The Rebel, Part One, The Rebel, closing sentence (trans. Anthony Bower, 1953)",
+ "reason": "Attacked and survived, and the translation leg is the one I went at hardest, because this line exists in English in at least three renderings. I went to the full text scan of Bower at the Internet Archive that the evidence names and read the place itself. Three things came back confirmed at once. The front matter names Anthony Bower as translator, so the named translation is the one being read. The paragraph reads Rebellion is the common ground on which every man bases his first values, then the sentence, exactly as the proposal's evidence claims. And what follows is the heading 2 METAPHYSICAL REBELLION, so the sentence really is the last of Part One and the locator is right rather than inferred. The only wording question is the dash. The OCR of the scan renders it as a spaced hyphen, which is what OCR does to an em dash; the printed Bower carries an em dash, and the proposal prints one. That is the right call and not a drift. It also happens to be the correct correction of the Calendar For Life card, which travels as I rebel, therefore we exist with a comma and no locator at all; the comma form is a later smoothing and the em dash is Bower's. The attribution is not in doubt and is not on the misattribution list: the French is Je me revolte, donc nous sommes, and it is Camus's own sentence in his own voice, not a character's, so no speaker is owed. Bower's translation was first published in 1953, which is the year given. Camus stands at one of three for the year, from January, is not banned, and shipped.js returns no hit and no near-hit, so nothing collides. No other Camus stands in the May proposals or among the carry-ins held for May, so rule nine is clear. Scope is clean: a philosophical essay of 1951, English 1953, not scripture, not oratory, not a lyric, nothing needing a warning. Tag Philosophy is defensible for a book subtitled an essay on man in revolt, and the line is a maxim, which is what the month is for. The em dash sits inside the quotation, where the rule does not reach: rule five bans the dash in the source and the note, and both are clean here, the note being empty. The source line leads with the name and runs 88 characters. My one correction is small and does not touch the verdict: the locator says closing lines, plural, for a single sentence. Closing sentence is exact and the same length band, so I have put that form in betterCitation.",
+ "checks": {
+  "wordingAgainstNamedEdition": "confirmed in the Bower text itself; the em dash is Bower's, the comma form on the Calendar For Life card is a later smoothing",
+  "locator": "confirmed as the final sentence of Part One: the next thing in the text is the heading 2 METAPHYSICAL REBELLION",
+  "attribution": "correct, Camus's own sentence; not on the misattribution list",
+  "speaker": "n/a, not a character's line",
+  "bannedOrAtCap": "not banned, one of three in the year, from January",
+  "alreadyShipped": "no, shipped.js clean, no near-hit",
+  "scope": "in scope: Philosophy, 1951 French and 1953 English, publishable, a maxim for the month of maxims",
+  "sourceLineForm": "leads with the name, no dash in the source or note, 88 characters; the em dash is inside the quotation, which the rule does not reach",
+  "monthUniqueness": "no other Camus in the May proposals or the May carry-ins"
+ },
+ "residual": "Closing lines should read closing sentence. The note is empty and could usefully say that the Calendar For Life card's comma form is not Bower's."
+}

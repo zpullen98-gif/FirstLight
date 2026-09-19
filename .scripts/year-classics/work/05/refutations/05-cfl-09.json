@@ -1,0 +1,24 @@
+{
+ "id": "05-cfl-09",
+ "refuted": false,
+ "wordingChecked": true,
+ "verdictAttacked": "VERIFIED",
+ "quote": "Give me Books, fruit, French wine and fine weather and a little music out of doors, played by somebody I do not know.",
+ "source": "John Keats, Letters, to Fanny Keats, Winchester, 28 August 1819 (ed. Sidney Colvin, 1891), p. 285",
+ "reason": "I could not break the citation. I pulled the scan the verdict names and found the letter headed CXIII.—TO FANNY KEATS, Winchester, August 28 [1819], the preface signed S. C., May 1891, the title Letters of John Keats to his Family and Friends, and the running head 1819] TO FANNY KEATS 285 standing over the page that carries the sentence. So letter, correspondent, place, date, editor, year and page are all right, and the capital Books and the capital French are this edition’s own, which is the thing most renderings get wrong. The Calendar For Life card had the order scrambled and the verifier fixed it. One thing should move before it lands, and it is a note, not a citation. Colvin does not end the sentence: the page reads played by somebody I do not know—not pay the price of one’s time for a jig—but a little chance music, so the shipped full stop is a cut at a dash. The verdict knows this and says so in its reason field, but the note that ships on the card is empty, and the evidence line still claims the sentence stands in exactly this wording, which is not what the page shows. The project has ruled this way before: 03-fict-08 says a card that needs a note saying so cannot be VERIFIED. This should be CORRECTED with a note that the full stop marks a cut at a complete imperative clause where Colvin runs on after a dash. Everything else holds: Keats is at one of three and lands in April, not May, so a second line is inside the cap and not twice in the month; the letter is 1819, printed 1891, so pre-2000; the source line is 96 characters, leads with the name, carries no dash, and Correspondence is the form. The month fit is the weakest leg, since this is an inventory of what contents him rather than advice, but it reads as a small creed of sufficiency and that is a curator’s call, not a citation defect.",
+ "betterCitation": "",
+ "otherChecks": {
+  "shipped": "not shipped anywhere in First Light; no near opening match",
+  "cap": "John Keats at 1 of 3 for the year, from month 4; not banned; not used elsewhere in May",
+  "scope": "letter of 1819, published 1891, pre-2000 and in scope; publishable",
+  "sourceLine": "96 characters, leads with the name, no dash",
+  "tag": "Correspondence is the form of the work",
+  "noteFix": "rule CORRECTED and add: Colvin runs on after a dash, so the full stop marks a cut at a complete clause"
+ },
+ "confidence": "high",
+ "evidence": {
+  "where": "the Colvin scan the verdict cites, downloaded and read around the sentence: the letter heading, the editor’s signature and date in the preface, the running heads on pp. 284 to 286, and the whole paragraph that the sentence sits in",
+  "url": "https://ia800907.us.archive.org/28/items/india.history.resource.111526/111526_djvu.txt",
+  "locator": "letter CXIII, to Fanny Keats, Winchester, August 28 [1819], p. 285, between I adore fine Weather as the greatest blessing I can have and Why have you not written to me?"
+ }
+}

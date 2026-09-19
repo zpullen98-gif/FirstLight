@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-16",
+ "verdict": "CORRECTED",
+ "quote": "Now I become myself.",
+ "source": "May Sarton, Now I Become Myself, line 1, first sentence only, Collected Poems 1930 to 1993 (W. W. Norton, 1993)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "CORRECTED: the locator and the edition. The proposal said opening line and named the 1974 Collected Poems 1930 to 1973. Line 1 reads Now I become myself. It’s taken, so this is the first sentence, not the line. Two licensed reprints credit the 1993 Norton Collected; that volume itself was not opened.",
+ "evidence": {
+  "where": "The whole poem read in four independent reprints: The Writer’s Almanac, Literary Ladies Guide, A Year of Being Here, and Journey with Jesus. All four lineate line 1 as Now I become myself. It’s taken, and the first two carry permission credit lines naming the Norton Collected",
+  "edition": "Collected Poems 1930 to 1993 (W. W. Norton, 1993), named by the reprint credit lines. The Internet Archive copy is lending restricted and could not be opened, and the claim that the poem first appeared in The Land of Silence and Other Poems in 1953 could not be confirmed, so the source no longer asserts it",
+  "locator": "Now I Become Myself, line 1, the first sentence, which ends mid line before It’s taken",
+  "url": "https://writersalmanac.publicradio.org/index.php?date=2011/06/04"
+ },
+ "confidence": "medium",
+ "reason": "The refutation is right that opening line is false, and that is the fix: four witnesses show line 1 running on as Now I become myself. It’s taken, so the quotation is the first sentence and the full stop is the poem’s own. On the second doubt I got further than the earlier verdict but not all the way. Two licensed reprints, not one blog, credit the 1993 Norton Collected, which is why the citation stands; the volume itself is lending restricted and nobody has opened it, so the note says that plainly and the confidence is medium. This is not HEDGE, because HEDGE would print Attributed to and imply a doubt about authorship that does not exist: the line is the poem’s title and Sarton’s beyond question. Two editorial weaknesses the editor should weigh and I cannot rule on: at four words the card prints the same words as the line and in the title, and the sentence carries no counsel in a month themed Wisdom and Counsel."
+}

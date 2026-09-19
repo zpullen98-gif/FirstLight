@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-15",
+ "verdict": "VERIFIED",
+ "quote": "In sandy soil, when deep you delve, you reach the springs below; / The more you learn, the freer streams of wisdom flow.",
+ "source": "Tiruvalluvar, Tirukkural, chapter 40, Learning, couplet 396 (trans. G. U. Pope, 1886)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Two independent presentations of kural 396 give this English couplet word for word with the break after below; thirukkural.io labels it the G. U. Pope rendering and prints the Tamil beside it, and wisdomlib carries the same two lines in chapter 40",
+  "edition": "The Sacred Kurral of Tiruvalluva-Nayanar, trans. G. U. Pope (W. H. Allen, London, 1886)",
+  "locator": "Book II, chapter 40, Learning, couplet 396",
+  "url": "https://thirukkural.io/kural/396"
+ },
+ "confidence": "medium",
+ "reason": "The couplet sits where the proposal says it sits: chapter 40 is Learning and holds kurals 391 to 400, and the Tamil is thottanaith thoorum manarkeni, the sand well whose water rises with the digging. The wording matches Pope's 1886 verse rendering as two sites reproduce it. Confidence is medium rather than high only because the 1886 scan itself was not opened; nothing in the two reproductions disagrees. The quotation is a two line couplet and keeps its break."
+}

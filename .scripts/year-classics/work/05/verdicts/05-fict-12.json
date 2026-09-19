@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+ "source": "Antoine de Saint-Exupéry, The Little Prince, ch. XXI (the fox, to the little prince) (trans. Katherine Woods, 1943)",
+ "tradition": "Fiction",
+ "speaker": "the fox, to the little prince",
+ "note": "",
+ "evidence": {
+  "where": "Checked against a translation comparison study that sets the Woods 1943 English beside the French and beside every later English version. Woods reads: And now here is my secret, a very simple secret: It is only with the heart that one can see rightly; what is essential is invisible to the eye. The French is On ne voit bien qu’avec le coeur. L’essentiel est invisible pour les yeux. Later versions differ sharply, Howard 2000 giving One sees clearly only with the heart, which is why naming Woods matters.",
+  "url": "https://www.cjvlang.com/petitprince/foxsecret/foxsecret.html",
+  "edition": "The Little Prince, trans. Katherine Woods, Reynal and Hitchcock, 1943",
+  "locator": "chapter XXI, the fox’s secret at the parting"
+ },
+ "confidence": "high",
+ "reason": "The wording is Woods letter for letter and the chapter and speaker are right. The quotation begins after Woods’s colon, where Woods already prints a capital I, so no capital is invented and no note is owed. Saint-Exupery is on the misattribution list only for the build a ship paraphrase, which this is not."
+}

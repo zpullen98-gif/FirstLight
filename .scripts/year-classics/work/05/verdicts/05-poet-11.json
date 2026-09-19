@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-11",
+ "verdict": "VERIFIED",
+ "quote": "Well, son, I’ll tell you: / Life for me ain’t been no crystal stair.",
+ "source": "Langston Hughes, Mother to Son, opening lines, The Crisis, December 1922",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "standard texts of the poem and the reference record of its first printing; the poem entered Hughes’s first collection four years later",
+  "edition": "The Crisis, vol. 25, December 1922; reprinted in The Weary Blues, Alfred A. Knopf, 1926",
+  "locator": "lines 1 and 2",
+  "url": "https://poets.org/poem/mother-son"
+ },
+ "confidence": "high",
+ "reason": "The two lines are the poem’s opening, in the lineation every edition prints, with the colon after tell you and the full stop after crystal stair. First printing in The Crisis for December 1922 is the settled record. The speaker is the mother, but the poem is a monologue with no frame, so no speaker goes in the source."
+}

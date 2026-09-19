@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-08",
+ "verdict": "CORRECTED",
+ "quote": "I am angry nearly every day of my life, Jo; but I have learned not to show it; and I still hope to learn not to feel it, though it may take me another forty years to do so.",
+ "source": "Louisa May Alcott, Little Women, ch. VIII, Jo Meets Apollyon (Mrs March, to Jo) (Roberts Brothers, 1868)",
+ "tradition": "Fiction",
+ "speaker": "Mrs March, to Jo",
+ "note": "CORRECTED: the Roberts Brothers text punctuates with semicolons after Jo and after show it, where modernised reprints set commas. The speaker is Mrs March, whom her daughters call Marmee, answering Jo after the fall through the ice.",
+ "evidence": {
+  "where": "The Internet Archive scan of the Roberts Brothers Little Women, Part First, printed 1869 from the 1868 copyright deposit, was read against the Project Gutenberg modern text. The contents list gives CHAPTER VIII, Jo meets Apollyon, p. 108, and the passage stands on p. 119, four paragraphs after Mrs March says Watch and pray, dear. The scan reads my life, Jo ; but I have learned not to show it ; and I still hope, while Gutenberg sets commas at both points.",
+  "edition": "Little Women, or, Meg, Jo, Beth and Amy (Roberts Brothers, Boston; 1868 copyright, this printing 1869), p. 119; scan IA littlewomenormeg01alco",
+  "locator": "ch. VIII, Jo Meets Apollyon, spoken by Mrs March to Jo",
+  "url": "https://archive.org/download/littlewomenormeg01alco/littlewomenormeg01alco_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is Marmee’s, in chapter VIII as proposed, but the proposal reproduced a modernised text. The first edition’s semicolons are restored and the speaker named as the novel names her. Not shipped, no near match, Alcott at zero of three, not banned, not on the misattribution list."
+}

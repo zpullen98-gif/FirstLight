@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "Reading maketh a full man; conference a ready man; and writing an exact man.",
+ "source": "Francis Bacon, Essays or Counsels, Civil and Moral, Of Studies (1625)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Project Gutenberg text of The Essays or Counsels, Civil and Moral, of Francis Ld. Verulam Viscount St. Albans, ebook 575, was downloaded and searched. The sentence stands verbatim in Of Studies, immediately after the clause about distilled waters, flashy things, and immediately before And therefore, if a man write little, he had need have a great memory. The contents list in the same file runs to the fifty eight essays of the final 1625 collection, which is the edition the citation names. The wording is the received modern spelling text: the 1625 printing capitalises Man in all three limbs and modern editions lower it, so the words and the punctuation are the edition's and only the spelling convention is modern. The sentence also stood in the shorter 1597 Of Studies, so 1625 is the fuller essay rather than the line's first appearance.",
+  "edition": "The Essays or Counsels, Civil and Moral, 1625 collection, read in the Gutenberg modern spelling text, ebook 575",
+  "locator": "Of Studies, the sentence following the clause on distilled waters",
+  "url": "https://www.gutenberg.org/cache/epub/575/pg575.txt"
+ },
+ "confidence": "high",
+ "reason": "Found verbatim in the named essay of the named collection. Not shipped, no near match, Francis Bacon at zero of three, not banned, not on the misattribution list; the painter of the same name in the Calendar For Life list is a different person and irrelevant here. A maxim on three habits, which suits the month of counsel, and it holds the philosophy lane's Essay floor."
+}

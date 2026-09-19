@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-14",
+ "verdict": "VERIFIED",
+ "quote": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.",
+ "source": "Oscar Wilde, The Critic as Artist, Part II, in Intentions, 1891 (Gilbert)",
+ "speaker": "Gilbert",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource text of Intentions, The Critic as Artist; a search of the page returns one hit, inside a long speech of Gilbert's that begins The difference between objective and subjective work, and the heading above it reads A DIALOGUE: Part II",
+  "edition": "Intentions (Osgood, McIlvaine, 1891), The Critic as Artist, Part II",
+  "locator": "Part II, closing the speech that ends the objective form is the most subjective in matter",
+  "url": "https://en.wikisource.org/wiki/Intentions/The_Critic_as_Artist"
+ },
+ "confidence": "high",
+ "reason": "The two sentences are Wilde's own, consecutive and unaltered, and they sit in Part II of the dialogue in Gilbert's mouth, not Wilde's. This is the real text behind the card that travels as Give a man a mask. Note for the editor: the May carry in list already holds a Wilde line, 03-cfl-10, and one person may stand only once in a month."
+}

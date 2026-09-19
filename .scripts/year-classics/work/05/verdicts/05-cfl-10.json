@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-10",
+ "verdict": "VERIFIED",
+ "quote": "That’s no way to treat adventures. Never say ‘no’ to adventures. Always say ‘yes’, otherwise you’ll lead a very dull life.",
+ "source": "Ian Fleming, Chitty-Chitty-Bang-Bang: The Magical Car, Adventure Number Two (Commander Caractacus Pott) (Jonathan Cape, 1964)",
+ "speaker": "Commander Caractacus Pott",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "the Project Gutenberg Canada etext of Adventure Number Two, set from the Jonathan Cape 1964 first edition, read in the raw HTML: the three sentences run together in one speech and Calais is named in the next breath",
+  "url": "https://gutenberg.ca/ebooks/flemingi-chittychittybangbang2/flemingi-chittychittybangbang2-00-h.html",
+  "edition": "London: Jonathan Cape, 1964, first edition",
+  "locator": "Adventure Number Two, mid Channel, after Jemima worries about the language; Commander Pott then says they will make for Calais"
+ },
+ "confidence": "high",
+ "reason": "Exact, contiguous and in the named place. The children raise passports, francs and the language, and Commander Pott answers with these three sentences before setting course for Calais, so the proposed locator is right down to the port."
+}

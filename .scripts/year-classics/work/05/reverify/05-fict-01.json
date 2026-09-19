@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-01",
+ "verdict": "CORRECTED",
+ "quote": "No book was so bad but some good might be got out of it.",
+ "source": "Pliny the Younger, Letters, Book III, letter 5, to Baebius Macer, quoting his uncle Pliny the Elder (trans. Melmoth, rev. Bosanquet, 1909)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "Corrected: Pliny reports the maxim as his uncle Pliny the Elder's, inside quotation marks, in the account of the Elder's working day, so the words are the Elder's and the letter is the nephew's. The capital N is the card's, the clause standing mid sentence.",
+ "evidence": {
+  "where": "Project Gutenberg 2811, the Melmoth translation revised by F. C. T. Bosanquet, downloaded and read in place this run. Letter heading XXVII To BAEBIUS MACER stands at line 2113 and the next heading XXVIII To ANNIUS SEVERUS at line 2217, so the sentence at line 2161 is inside that letter. The paragraph reads: for every book he read he made extracts out of, indeed it was a maxim of his, that (quotation marks) no book was so bad but some good might be got out of it. The letter is the catalogue of the Elder Pliny's writings and his daily routine, which is Epistulae 3.5; the Latin at 3.5.10 is nullum esse librum tam malum ut non aliqua parte prodesset.",
+  "url": "https://www.gutenberg.org/cache/epub/2811/pg2811.txt",
+  "edition": "Letters of Pliny, trans. William Melmoth, revised by F. C. T. Bosanquet, 1909",
+  "locator": "Book III, letter 5, numbered XXVII To Baebius Macer in the 1909 selection"
+ },
+ "confidence": "high",
+ "reason": "Wording, letter and translation all hold on a second independent reading of the Gutenberg file, and the letter boundaries were checked against the headings on either side. The refutation is right that the line cannot ship as VERIFIED: the brief's speaker trap says a line one character reports of another is the reporter's and the note says so, and a card bylined Pliny the Younger over a maxim he twice marks as not his own, with an empty note and the Elder named only as his uncle, is the Beauty will save the world case in miniature. Naming the Elder in the source and disclosing the report and the raised capital fixes it, so this is CORRECTED, not REJECT."
+}

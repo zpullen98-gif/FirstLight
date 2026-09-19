@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-13",
+ "verdict": "VERIFIED",
+ "quote": "Do nothing which is of no use.",
+ "source": "Miyamoto Musashi, A Book of Five Rings, the Ground Book, the last of the nine rules for learning the Way (trans. Victor Harris, 1974)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "a complete running text of Victor Harris's translation, title page reading A Book of Five Rings (Go Rin No Sho), Written by Miyamoto Musashi, Translated by Victor Harris, with the translator notes included; the nine rules stand at the close of the Ground Book and this is the ninth",
+  "url": "http://www.yama-dojo.ca/resources/Miyamoto%20Musashi%20-%20Book%20of%20Five%20Rings.pdf",
+  "edition": "Victor Harris translation, first published by Allison and Busby and by the Overlook Press, 1974",
+  "locator": "the Ground Book, the ninth and last of the rules for men who want to learn the strategy"
+ },
+ "confidence": "medium",
+ "reason": "The proposer's own hedge is resolved: the wording sits at the named place in a complete text of the named translation, immediately after Pay attention even to trifles, and the rendering is distinctively Harris where other translators write of useless activity. The printed Overlook page itself was not opened, so the claim rests on a full reproduction of that translation rather than on the leaf."
+}

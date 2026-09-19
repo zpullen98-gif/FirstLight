@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "Ah, Brother, man’s a strangely fashioned creature / Who seldom is content to follow Nature, / But recklessly pursues his inclination / Beyond the narrow bounds of moderation, / And often, by transgressing Reason’s laws, / Perverts a lofty aim or noble cause.",
+ "source": "Molière, Tartuffe, Act One, scene 5 (Cléante) (trans. Richard Wilbur, 1963)",
+ "tradition": "Drama",
+ "speaker": "Cléante",
+ "note": "",
+ "evidence": {
+  "where": "No copy of Wilbur's printed text was opened: the Harcourt edition is in copyright and the online copies are locked PDFs. The six lines are quoted identically by several independent sources that name Wilbur, and the Los Angeles Review of Books article on Molière at 400 prints lines three to six word for word while adapting the first two into its own sentence. The decisive check is the French: Cléante's tirade in Act I, scene 5 runs Les hommes la plupart sont étrangement faits, Dans la juste nature on ne les voit jamais, La raison a pour eux des bornes trop petites, En chaque caractère ils passent ses limites, Et la plus noble chose, ils la gâtent souvent, Pour la vouloir outrer et pousser trop avant. That is six lines answering Wilbur's six one for one. The line after it in French, Que cela vous soit dit en passant mon beau-frère, is rendered A passing observation, but it applies, and Orgon's reply follows, which fixes both the place in the scene and the full stop after cause.",
+  "edition": "Molière, Tartuffe, trans. Richard Wilbur (Harcourt, Brace and World, 1963), reprinted in The Misanthrope and Tartuffe",
+  "locator": "Act I, scene 5, Cléante to Orgon; French lines 339 to 344 in the standard numbering of the 1669 five act text",
+  "url": "https://lareviewofbooks.org/article/is-not-a-face-quite-different-from-a-mask-moliere-at-400/"
+ },
+ "confidence": "medium",
+ "reason": "The attribution, work, act, scene, speaker and translator are all correct, and the wording is Wilbur's as far as several independent quoting sources agree; the lineation matches the French couplet for couplet. Confidence is medium only because the printed page was not opened, so the capital B of Brother rests on the quoting sources rather than on the edition. Not shipped, no near match, Molière at zero of three, not banned, not on the misattribution list."
+}

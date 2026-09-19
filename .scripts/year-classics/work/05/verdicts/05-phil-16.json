@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-16",
+ "verdict": "VERIFIED",
+ "quote": "If all Men are born Free, how is it that all Women are born Slaves?",
+ "source": "Mary Astell, Some Reflections upon Marriage, the 1706 Preface, printed as the Appendix in the fourth edition, 1730, p. 150",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the Duke University scan of the 1730 fourth edition on the Internet Archive, running head APPENDIX, p. 150, the sentence closing that page and running on to p. 151; the front matter states that the preface of the last edition is now printed at the latter end as an Appendix. Project Gutenberg 61143, the same edition, gives the italics on all Men are born Free",
+  "url": "https://archive.org/details/somereflectionsu00aste",
+  "edition": "Some Reflections upon Marriage, with Additions, the fourth edition, printed for William Parker, London, 1730",
+  "locator": "the Appendix, that is the Preface added to the third edition of 1706, p. 150"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim on the page, capitals and all: Men, Free, Women, Slaves, with all Men are born Free in italics. The source line says Preface and Appendix both, because the 1706 Preface is where she wrote it and the Appendix is where the 1730 edition prints it."
+}

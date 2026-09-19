@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-04",
+ "verdict": "VERIFIED",
+ "quote": "Trust thyself: every heart vibrates to that iron string.",
+ "source": "Ralph Waldo Emerson, Essays: First Series, Self-Reliance (James Munroe, 1841)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Three texts were opened. The scan of the Boston first edition, title page ESSAYS: BY R. W. EMERSON, JAMES MUNROE AND COMPANY, MDCCCXLI, entered for copyright in 1841 (Internet Archive item emersonralessays00emerrich), carries the sentence in Self-Reliance a few lines under the running head SELF-RELIANCE 39, with only a stray scan mark inside Trust thyself; the sentence after it reads Accept the place the divine Providence has found for you. Two later texts, Gutenberg ebook 2944 and the Merrill school edition of 1907 edited by Edna H. L. Turpin, ebook 16643, give the same sentence word for word, the latter with a bracketed note number after the colon. The 1841 and later texts do diverge a few lines on, where the Eternal was stirring at their heart becomes the absolutely trustworthy was seated at their heart, which shows the revision left this sentence untouched.",
+  "edition": "Essays, Boston: James Munroe and Company, 1841, first edition, Self-Reliance, around p. 39 to 40 (Internet Archive emersonralessays00emerrich)",
+  "locator": "Self-Reliance, the paragraph following the passage on envy and imitation and on God not having his work made manifest by cowards",
+  "url": "https://archive.org/download/emersonralessays00emerrich/emersonralessays00emerrich_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Confirmed in the 1841 first edition itself and in two later texts, identical in all three, so the edition claim is safe and no page number is asserted. Not shipped, no near match, Emerson at zero of three, not banned; the misattribution list warns only about what lies behind us, which is Haskins and is not this line. Counsel, and the sentence the essay is known by."
+}

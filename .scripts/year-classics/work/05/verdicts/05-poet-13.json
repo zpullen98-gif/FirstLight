@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "I got out of bed / on two strong legs. / It might have been / otherwise.",
+ "source": "Jane Kenyon, Otherwise, opening lines, Otherwise: New and Selected Poems (Graywolf Press, 1996)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The poem as reproduced by the Academy of American Poets and by Journey with Jesus, both printing the Graywolf text with its lineation; the two agree line for line",
+  "edition": "Otherwise: New and Selected Poems (Graywolf Press, 1996), the poem's first book appearance; the Academy credit line points at the later Collected Poems (Graywolf, 2005)",
+  "locator": "Otherwise, lines 1 to 4",
+  "url": "https://poets.org/poem/otherwise"
+ },
+ "confidence": "high",
+ "reason": "The wording, the punctuation and the line breaks are the poem's own, and these are the opening lines. The only thing the editor should know is that the fourth printed line runs on as otherwise. I ate, so the quotation stops at the poem's own full stop in the middle of that line; no punctuation is invented and the first three breaks are exact, so it needs no note. The poem was written after Kenyon's diagnosis and first collected in the 1996 volume, which is the book the locator names."
+}

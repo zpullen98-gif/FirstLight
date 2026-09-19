@@ -1,0 +1,18 @@
+{
+ "id": "05-cfl-02",
+ "refuted": true,
+ "wordingChecked": true,
+ "betterCitation": "Virginia Woolf, A Room of One’s Own, ch. 1 (1929)",
+ "reason": "Refuted, and not on the text. The wording and the placement are right: I fetched the named source, Project Gutenberg Australia ebook 0200791, and at line 541 the text reads One cannot think well, love well, sleep well, if one has not dined well, verbatim, sitting between the Fernham dinner and The lamp in the spine does not light on beef and prunes, exactly where the evidence puts it; the chapter headings ONE at line 60 and TWO at line 728 confirm chapter 1. So the verifier read the passage correctly. It fails on two things the verifier did not check. FIRST AND DECISIVE: this exact line is already in the carry. carry.json holds it as 01-cfl-15, Virginia Woolf, A Room of One’s Own, ch. 1 (1929), ruled Verified in January and held with fitMonth 11. Proposing it again as a fresh May candidate re-mints a line the track has already ruled on and would either double it or silently override a November hold. shipped.js could not catch this because carries are not shipped yet and it returned yearCount 0, which is exactly the blind spot a refuter is for. SECOND, THE CAP AND THE MONTH: the carry file already holds three Woolf lines. 01-fict-06, the opening of Mrs Dalloway, fitMonth 5. 01-cfl-15, this line, fitMonth 11. 03-fict-13, the closing sentence of A Room of One’s Own, fitMonth 12, whose note says December's by right. That is three of three under the year cap. Landing 05-cfl-02 in May makes a fourth Woolf claim and puts two Woolf lines in the same month alongside Mrs Dalloway, which rule 8 forbids outright: no person twice in the month. THIRD, a smaller fault in the citation as the verifier would ship it: the card names Hogarth Press, 1929, but the text actually read was Project Gutenberg Australia, whose own header states that it does not keep ebooks in compliance with a particular paper edition. The Hogarth imprint is therefore a claim the evidence cannot carry, and the British Hogarth and American Harcourt texts of 1929 are not identical throughout. The existing carry line, which names the year and no publisher, is the honest form and is the betterCitation given above. Everything else about the line is sound: not banned, not shipped, in scope, publishable, Essay is the form of the work, the source line leads with the name and carries no dash, and the counsel reading suits the month. It is simply not May's to take, and it is not new.",
+ "checks": {
+  "wordingAgainstNamedEdition": "wording confirmed verbatim in PGA 0200791, but that text is not the named Hogarth Press 1929 edition and PGA disclaims compliance with any paper edition",
+  "locator": "confirmed: chapter 1, between the Fernham dinner and the lamp in the spine sentence",
+  "attribution": "correct, Woolf's own prose",
+  "speaker": "n/a",
+  "bannedOrAtCap": "FAILS: carry.json already holds three Woolf lines, 01-fict-06 for May, 01-cfl-15 for November, 03-fict-13 for December; this would be a fourth and a second Woolf in May",
+  "alreadyShipped": "not shipped, but ALREADY CARRIED as 01-cfl-15 with fitMonth 11; shipped.js cannot see the carry file",
+  "scope": "in scope on its own terms: Essay, 1929, publishable, on theme",
+  "sourceLineForm": "leads with the name, no dash, 68 characters, but the Hogarth Press claim is unsupported"
+ },
+ "residual": "If the editor wants this sentence in May rather than November, that is a decision about the carry, not a new candidate: it means moving 01-cfl-15 and displacing one of the other two Woolf claims, because three is the year cap and Mrs Dalloway already has May."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-14",
+ "verdict": "CORRECTED",
+ "quote": "My candle burns at both ends; / It will not last the night; / But ah, my foes, and oh, my friends— / It gives a lovely light!",
+ "source": "Edna St. Vincent Millay, First Fig, the whole poem, A Few Figs from Thistles (Harper and Brothers, 1922)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "CORRECTED: the edition. The proposal named the Frank Shay first edition of 1920, which was not opened. The wording here is the Harper and Brothers text of copyright 1922, read in the Celebration of Women Writers transcription. The Frank Shay printing of 1921 also opens with First Fig; the 1922 book adds four later poems.",
+ "evidence": {
+  "where": "The whole poem read in the Celebration of Women Writers transcription, whose source note reads New York and London: Harper and Brothers, Copyright 1922, Published 1923, and again in Project Gutenberg ebook 4399, whose contents match that expanded text",
+  "edition": "A Few Figs from Thistles (Harper and Brothers, copyright 1922, published 1923). The Internet Archive scan of the Frank Shay second edition of 1921 carries nineteen poems and lacks Recuerdo, Macdougal Street, Midnight Oil and To Kathleen, which is how the expanded text is told apart",
+  "locator": "First Fig, the whole poem, four lines, the opening poem of the book",
+  "url": "https://digital.library.upenn.edu/women/millay/figs/figs.html"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right about the edition and right that this is a correction, not a kill. Project Gutenberg 4399 prints the four poems added after the first edition, so it is the expanded text and not the Frank Shay chapbook the proposal named. I went to a transcription that states its source edition and read First Fig there: word for word and stop for stop as proposed, ending in the exclamation mark, four line breaks kept, and the dash before the last line is the poem’s own punctuation rather than a source dash. The poem opens the book in every printing I could see, so the fame test holds and only the edition needed fixing."
+}

@@ -1,0 +1,19 @@
+{
+ "id": "05-cfl-11",
+ "verdict": "CORRECTED",
+ "quote": "It’s a dangerous business, Frodo, going out of your door.",
+ "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, ch. 3, Three is Company (Bilbo, quoted by Frodo)",
+ "speaker": "Bilbo Baggins, quoted by Frodo",
+ "tradition": "Fiction",
+ "note": "CORRECTED: trimmed to the sentence that stands whole. The book sets he used to say between the two sentences, so they run together in no edition, and the comma before that tag becomes the terminal stop. The words are Bilbo’s, quoted by Frodo to Pippin. The film says out your door.",
+ "evidence": {
+  "where": "Three is Company reproduced with its dialogue tags and quotation marks on Goodreads quote 302984, which prints the whole paragraph from He used often to say there was only one Road through the second sentence; WIST Quotations cites the same passage to an Archive.org scan of the book at page 72; under1000skies prints the film wording and shows the trap is live. No physical copy of a named edition was opened.",
+  "edition": "The Lord of the Rings, vol. 1, The Fellowship of the Ring, Book I, chapter 3, Three is Company (first published George Allen and Unwin, 1954)",
+  "locator": "Book I, ch. 3, Three is Company, Frodo quoting Bilbo to Pippin on the road out of Hobbiton",
+  "url": "https://wist.info/tolkien-jrr/52806/"
+ },
+ "confidence": "high",
+ "reason": "The refutation is upheld on the point it was made on and defeated on its proposed fix. The two sentences are real and are the book's and not the film's, but the chapter prints them as two quoted speeches with he used to say between them, so the joined run the proposal would print exists in no edition. The refuter's suggested repair reads It is a dangerous business and if you do not keep your feet, which would mint wording the book does not have: Tolkien writes It's and don't. The honest fix is the other one the refuter allowed, the first sentence alone, which is the famous one, is verbatim, stands as a complete utterance, and is this month's blurb exactly. shipped.js is clean on the trimmed line and Tolkien stands at zero of three. Note for the editor: 05-cfl-12 is also Tolkien and also from Three is Company, so rule nine lets only one of the pair stand in May.",
+ "priorVerdict": "CORRECTED, joined two-sentence form",
+ "refutationUpheld": true
+}

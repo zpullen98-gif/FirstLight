@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-06",
+ "verdict": "VERIFIED",
+ "quote": "Life is the art of drawing sufficient conclusions from insufficient premises.",
+ "source": "Samuel Butler, The Note-Books of Samuel Butler, ch. I, Lord, What is Man?, Life, ix (ed. Henry Festing Jones, 1912)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Project Gutenberg text of The Note-Books of Samuel Butler, transcribed from the 1912 A. C. Fifield edition. The chapter heading Lord, What is Man? was read, then the run of numbered fragments under the sub-heading Life, where item ix carries the sentence character for character, between viii on days running through him as water through a sieve and x on life being eight parts cards and two parts play.",
+  "edition": "The Note-Books of Samuel Butler, ed. Henry Festing Jones (A. C. Fifield, 1912), Project Gutenberg ebook 6173",
+  "locator": "ch. I, Lord, What is Man?, section Life, fragment ix",
+  "url": "https://www.gutenberg.org/cache/epub/6173/pg6173.txt"
+ },
+ "confidence": "high",
+ "reason": "Work, chapter, section, fragment number, editor and year are all as proposed, and the wording matches exactly. The note-books are Butler’s private jottings, so Diary is the right tag from the closed vocabulary. Not shipped, no near match, Butler at zero of three, not banned, not on the misattribution list."
+}

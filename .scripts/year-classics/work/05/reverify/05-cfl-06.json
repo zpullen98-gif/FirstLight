@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-06",
+ "verdict": "CORRECTED",
+ "quote": "The butterfly counts not months but moments, / and has time enough.",
+ "source": "Rabindranath Tagore, Fireflies, p. 15 (Macmillan, New York, 1928)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: the locator is now a page. The pieces in Fireflies are unnumbered but the pages are not, and this one sits on page 15 of the 1928 Macmillan setting. It is a two line poem and not a couplet, since the lines do not rhyme. Tagore wrote Fireflies in English.",
+ "evidence": {
+  "where": "I downloaded the full text layer of the Internet Archive scan the earlier verdict names and read the butterfly piece in its page context. It stands between the foot folios [14] and [15], so it is the piece on page 15, and it is set as two lines broken after moments with a lower case and at the head of line two and a full stop at the end. I then tested the line break rather than trusting it: normalising the OCR whitespace, the longest lines in the book run to 49 characters, and the two known runovers nearby wrap only because the next word would carry them past that. Line one here is 44 characters and taking the following word and would have made 48, which fits. A justification wrap would have taken it. The break is the edition's own",
+  "edition": "Fireflies, Macmillan, New York, 1928 (Internet Archive item fireflies0000tago)",
+  "locator": "page 15, the two line piece beginning The butterfly counts not months but moments",
+  "url": "https://archive.org/download/fireflies0000tago/fireflies0000tago_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The refutation was narrow and correct: the wording, the two line form and the edition all stand, and only the locator failed rule 4, which asks for edition and page where a work has no numbered divisions. The butterfly couplet was a description rather than a locator, and an inaccurate one. I confirmed page 15 independently from the scan's folios and also settled the doubt the first verdict left open, since its medium confidence rested on the text layer alone. The line width measurement shows the break after moments cannot be a wrap. Tagore wrote Fireflies in English, so no translator is owed. shipped.js is clean, Tagore stands at zero of three, 1928 is in scope, and the tag Poetry is right."
+}

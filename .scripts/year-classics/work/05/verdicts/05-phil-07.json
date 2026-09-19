@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-07",
+ "verdict": "HEDGE",
+ "quote": "In order to be happy, one must have freed oneself of prejudices, one must be virtuous, healthy, have tastes and passions, and be susceptible to illusions; for we owe most of our pleasures to illusions, and unhappy is the one who has lost them.",
+ "source": "Émilie du Châtelet, Discourse on Happiness, p. 349 (trans. Isabelle Bour and Judith P. Zinsser, 2009)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "HEDGE. Page 349 of Selected Philosophical and Scientific Writings, Chicago, 2009, was not opened. The wording follows the Bour and Zinsser translation as scholars quote it, and a second quotation of the same page prints prejudice in the singular. The French reads s’être défait des préjugés.",
+ "evidence": {
+  "where": "Two papers by Marcy P. Lascano quoting the Bour and Zinsser translation, both citing page 349: Émilie Du Châtelet on Illusions gives the whole sentence, Émilie du Châtelet's Theory of Happiness gives its first half. The Chicago volume itself is on Internet Archive only as a restricted lending copy, and search inside it is closed; the two paywalled journal articles on illusion in her theory of happiness could not be opened",
+  "edition": "Émilie du Châtelet, Selected Philosophical and Scientific Writings, ed. Judith P. Zinsser, trans. Isabelle Bour and Judith P. Zinsser, University of Chicago Press, 2009, p. 349",
+  "locator": "Discourse on Happiness, the list of the great machines of happiness, p. 349",
+  "url": "https://www.strivingessences.com/ewExternalFiles/LascanoduChateletonIllusions.pdf"
+ },
+ "confidence": "medium",
+ "reason": "The passage is certainly du Châtelet's and certainly on page 349 of the 2009 Chicago translation, and the French original behind it is secure. But the two transcriptions of that page disagree over prejudice and prejudices, so the trail ends in secondary sources and the page itself was never opened."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-03",
+ "verdict": "VERIFIED",
+ "quote": "The limits of my language mean the limits of my world.",
+ "source": "Ludwig Wittgenstein, Tractatus Logico-Philosophicus, proposition 5.6 (trans. C. K. Ogden, 1922)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Ogden translation itself: I read the Project Gutenberg source file of the 1922 Kegan Paul bilingual edition and found proposition 5.6 word for word, with the German Die Grenzen meiner Sprache bedeuten die Grenzen meiner Welt facing it",
+  "edition": "Tractatus Logico-Philosophicus, trans. C. K. Ogden, Kegan Paul, Trench, Trubner, 1922 (Project Gutenberg ebook 5740)",
+  "locator": "proposition 5.6",
+  "url": "https://www.gutenberg.org/files/5740/5740-t/5740-t.tex"
+ },
+ "confidence": "high",
+ "reason": "The wording is Ogden's exactly, at the number claimed, and the German original is printed alongside it in the same edition. Ogden italicises the first five words to carry Wittgenstein's own emphasis; a card cannot print italics, and dropping typographic emphasis changes no word, so the line still ships as VERIFIED. The German text is 1921 and this English edition 1922, which the source line already says."
+}

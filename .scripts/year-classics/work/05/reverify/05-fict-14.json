@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-14",
+ "verdict": "CORRECTED",
+ "quote": "Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider.",
+ "source": "Francis Bacon, The Essays or Counsels, Civil and Moral, Of Studies (1625, modernised spelling)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "CORRECTED: the wording shipped is a modernised spelling text of the Essays, which is the text that was read. The 1625 quarto prints the sentence in the original spelling of its day, so the card names the modernisation rather than claiming the quarto's own wording. It is the seventh sentence of Of Studies.",
+ "evidence": {
+  "where": "I downloaded Project Gutenberg ebook 575 myself and read Of Studies in full rather than trusting either earlier report. The sentence stands verbatim, semicolons and all, between the Crafty men contemn studies sentence and Some books are to be tasted. Counting from the head of the essay it is the seventh sentence, not the sixth as the first verdict recorded. PG 575 declares no base paper edition and its header gives only title and author, so the text is an unidentified modernised reprint. Internet Archive full text endpoints and the Google Books API were both unreachable this run, so the 1625 quarto itself was not opened.",
+  "edition": "The Essays or Counsels, Civil and Moral, modernised spelling text, Project Gutenberg ebook 575",
+  "locator": "Of Studies, seventh sentence of the essay",
+  "url": "https://www.gutenberg.org/cache/epub/575/pg575.txt"
+ },
+ "confidence": "high",
+ "reason": "The quotation itself survives the refutation untouched: I matched it character for character in the named text, so there is no drift and no splice. The refuter is right on both faults, and I confirmed both by counting the sentences myself. The first verdict called it the sixth sentence and it is the seventh, and the bare (1625) claimed quarto wording that the modernised text read here cannot supply. This is the same correction 03-fict-08 and 03-phil-04 were made to carry, so it is CORRECTED rather than VERIFIED, with the note the empty field owed."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-01",
+ "verdict": "VERIFIED",
+ "quote": "The unexamined life is not worth living.",
+ "source": "Plato, Apology, 38a (Socrates) (trans. Benjamin Jowett, 1892)",
+ "tradition": "Philosophy",
+ "speaker": "Socrates",
+ "note": "",
+ "evidence": {
+  "where": "Two independent copies of Jowett were opened and read as plain text. The Project Gutenberg Apology, ebook 1656, translator credited to Benjamin Jowett, carries the clause verbatim: and if I say again that daily to discourse about virtue, and of those other things about which you hear me examining myself and others, is the greatest good of man, and that the unexamined life is not worth living, you are still less likely to believe me. The Wikisource transcription, which states its source edition as The Dialogues of Plato in five volumes, vol. II, third edition, Oxford University Press, 1892, gives the same wording, which fixes the year the citation may name. The proposal is therefore a cut at a complete clause out of a longer sentence, taking Jowett's own words with a capital T and a full stop supplied; no word is altered or added. Jowett renders it without the for man that Grube and Fowler carry, so this wording belongs to Jowett and the translator must be named.",
+  "edition": "The Dialogues of Plato, trans. Benjamin Jowett, third edition, Oxford University Press, 1892, vol. II; read in the Gutenberg text of the Apology, ebook 1656",
+  "locator": "Apology 38a, in the sentence beginning and if I say again, where the clause stands lowercase between two commas",
+  "url": "https://www.gutenberg.org/cache/epub/1656/pg1656.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is Jowett's, confirmed in two copies, and the misattribution list requires exactly what is now cited: Plato as author, the translator named, and Socrates as the speaker. Not shipped, no near match, Plato at zero of three, not banned. The month asks for counsel and this is the oldest counsel it can print."
+}

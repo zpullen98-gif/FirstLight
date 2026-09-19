@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-02",
+ "verdict": "VERIFIED",
+ "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+ "source": "Virginia Woolf, A Room of One’s Own, chapter 1 (Hogarth Press, 1929)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "A Room of One's Own at Project Gutenberg Australia, ebook 0200791, read inside chapter one; the chapter divisions ONE and TWO were checked so the placement could be confirmed",
+  "edition": "A Room of One's Own (Hogarth Press, 1929), Project Gutenberg Australia ebook 0200791",
+  "locator": "chapter 1, immediately after the dinner at Fernham and before the sentence about the lamp in the spine",
+  "url": "https://gutenberg.net.au/ebooks02/0200791.txt"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in chapter one, in the paragraph that follows the plain dinner at Fernham. One flag for the editor, not for the card: May already holds a Woolf carry in, the Mrs Dalloway opening 01-fict-06, and rule 8 forbids the same person twice in a month, so one of the two has to move."
+}

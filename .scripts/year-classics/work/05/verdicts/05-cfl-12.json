@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-12",
+ "verdict": "VERIFIED",
+ "quote": "Courage is found in unlikely places.",
+ "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, ch. 3, Three is Company (Gildor Inglorion)",
+ "speaker": "Gildor Inglorion",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The close of Three is Company, where Frodo asks where he shall find courage and Gildor answers; the sentence and its said Gildor tag are reproduced consistently across quotation collections drawn from the book",
+  "edition": "The Fellowship of the Ring, Book I, chapter 3, Three is Company (George Allen and Unwin, 1954)",
+  "locator": "Book I, ch. 3, Three is Company, Gildor's parting words to Frodo",
+  "url": "https://lotr.fandom.com/wiki/Gildor_Inglorion"
+ },
+ "confidence": "high",
+ "reason": "The sentence is Gildor's, in the chapter and at the place named, and it is complete in itself; the comma before said Gildor is the dialogue tag's, so a terminal stop is the ordinary way to print it. Note for the editor: 05-cfl-11 is also Tolkien, and only one of the two can stand in May."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-11",
+ "verdict": "CORRECTED",
+ "quote": "It’s a dangerous business, Frodo, going out of your door. You step into the Road, and if you don’t keep your feet, there is no knowing where you might be swept off to.",
+ "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, ch. 3, Three is Company (Bilbo Baggins, recalled by Frodo)",
+ "speaker": "Bilbo Baggins, recalled by Frodo",
+ "tradition": "Fiction",
+ "note": "CORRECTED to mark the join: in the chapter the two sentences stand either side of the words he used to say, and they are Bilbo's words as Frodo recalls them. The book reads going out of your door and You step into the Road, where the film reads out your door and onto the road.",
+ "evidence": {
+  "where": "The text of Three is Company as printed in The Fellowship of the Ring, checked against quotation databases and reading notes that reproduce the passage with its he used to say tag",
+  "edition": "The Fellowship of the Ring, Book I, chapter 3, Three is Company (George Allen and Unwin, 1954)",
+  "locator": "Book I, ch. 3, Three is Company, Frodo speaking of Bilbo",
+  "url": "http://lotrproject.com/quotes/quote/60"
+ },
+ "confidence": "high",
+ "reason": "The wording is the book's, not the film's, and the passage is where the proposal says it is. It is ruled CORRECTED rather than VERIFIED because the quotation closes a gap the page contains: the printed text sets he used to say between the two sentences, and the words are Bilbo's as Frodo recalls them, which a card must say. Note for the editor: 05-cfl-12 is also Tolkien, and only one of the two can stand in May."
+}

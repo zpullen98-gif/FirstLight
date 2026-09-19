@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-07",
+ "verdict": "VERIFIED",
+ "quote": "A maxim is the exact and noble expression of an important and unquestionable truth. Good maxims are the germs of all excellence. When firmly impressed on the memory they nourish the will.",
+ "source": "Joseph Joubert, Pensées of Joubert, no. 137, Of Wisdom, Virtue, and Morality (trans. Henry Attwell, 1896)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Internet Archive scan of Pensées of Joubert, selected and translated by Henry Attwell (London, George Allen, 1896). The running head reads OF WISDOM, VIRTUE, AND MORALITY, and item 137 carries the three sentences exactly as proposed, between 136 on the morality of some folks and 138 on maxims being to the intellect what laws are to actions. The title page names Attwell as translator and 1896 as the year; a prefatory note calls it the second edition of his selection, with the French omitted.",
+  "edition": "Pensées of Joubert, selected and translated by Henry Attwell (George Allen, London, 1896), p. 39; scan IA pensesjoubert01joubgoog",
+  "locator": "no. 137, in the section Of Wisdom, Virtue, and Morality",
+  "url": "https://archive.org/download/pensesjoubert01joubgoog/pensesjoubert01joubgoog_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The number, the section, the translator and the year are all as proposed, and Attwell’s wording matches word for word, including unquestionable truth and the full stop before When firmly impressed, where other renderings use indisputable and a semicolon. Naming Attwell and 1896 is what keeps that distinction honest. Not shipped, no near match, Joubert at zero of three, not banned, not on the misattribution list."
+}

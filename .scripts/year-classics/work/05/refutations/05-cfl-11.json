@@ -1,0 +1,19 @@
+{
+ "id": "05-cfl-11",
+ "refuted": true,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Refuted on the quotation, not on the attribution. Every other leg of this line holds, and the verifier got the hard part right: the book reads going out of your door and You step into the Road, where the film reads going out your door and You step onto the road. I confirmed the film form is what the quotation sites actually carry: the Goodreads page for this line and the under1000skies page both print going out your door and step onto the road, so the trap is live and the proposal is on the right side of it. Chapter is right, Book I ch. 3 Three is Company; the speaker attribution Bilbo recalled by Frodo is right, since the paragraph runs Certainly it reminds me very much of Bilbo in the last years, then He used often to say there was only one Road, with Frodo speaking to Pippin about Bilbo. Tolkien is not banned, stands at zero of three, and shipped.js returns no hit and no near-hit. What fails is the text as it would print. In the 1954 chapter the two sentences are not one run: the first closes with a comma inside quotation marks, then Tolkien writes he used to say, then a fresh pair of quotation marks opens the second. The card would print a two-sentence sequence that exists in no edition of the book, and nothing in the quotation marks the cut. The note admits the join, but the note is not the quotation, and the standard for this track is that a line ships in wording that exists in a named edition. The fix is small and I would accept it on a re-verify: print the elision, either It is a dangerous business, Frodo, going out of your door. ... You step into the Road, and if you do not keep your feet, there is no knowing where you might be swept off to., or ship only the first sentence, which is the famous one and stands alone. Two further faults. The evidence names George Allen and Unwin, 1954 as the edition but describes checking quotation databases and reading notes, so the named edition was not opened, and the one URL given, lotrproject.com, does not resolve over HTTPS at all: the host serves a certificate for simply.com, so the cited page cannot be reached as cited. Second, 05-cfl-12 is also Tolkien and also from Three is Company. Rule nine forbids one person twice in a month, so at most one of the pair can land in May, and 05-cfl-12 is a single verbatim sentence with no splice in it. This is the one to send back.",
+ "checks": {
+  "wordingAgainstNamedEdition": "the individual sentences are correct for the book and correctly distinguished from the film, but the joined run does not exist: he used to say stands between them, inside its own punctuation",
+  "locator": "correct, Book I ch. 3 Three is Company",
+  "attribution": "correct, Tolkien; the misattribution list's Tolkien trap is Not all those who wander are lost, which this is not",
+  "speaker": "correct, Bilbo's words as Frodo recalls them to Pippin; both named in the source",
+  "bannedOrAtCap": "not banned, zero of three in the year",
+  "alreadyShipped": "no, shipped.js clean, no near-hit",
+  "scope": "in scope: Fiction, 1954, publishable, and exactly the month's blurb about counsel on the way out of the door",
+  "sourceLineForm": "leads with the name, no dash, 112 characters",
+  "monthUniqueness": "collides with 05-cfl-12, also Tolkien and also Three is Company"
+ },
+ "residual": "If the editor wants this line rather than 05-cfl-12, it can ship with the elision marked or trimmed to the first sentence alone, and the evidence should name a copy of the text that was actually opened, since the lotrproject URL does not resolve."
+}

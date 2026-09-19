@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "My candle burns at both ends; / It will not last the night; / But ah, my foes, and oh, my friends— / It gives a lovely light!",
+ "source": "Edna St. Vincent Millay, First Fig, the complete poem, A Few Figs from Thistles (Frank Shay, 1920)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The full text of A Few Figs from Thistles on Project Gutenberg, where First Fig is the opening poem and prints the four lines with the dash before the last line",
+  "edition": "A Few Figs from Thistles (Frank Shay, 1920), Project Gutenberg ebook 4399",
+  "locator": "First Fig, the whole poem, four lines",
+  "url": "https://www.gutenberg.org/cache/epub/4399/pg4399.txt"
+ },
+ "confidence": "high",
+ "reason": "Word for word and stop for stop as printed, including the dash after friends, which is the poem's own and not a source dash. The 1920 book indents the second and fourth lines; the slash form flattens that indentation, which is this file's convention for verse. Public domain, four lines, the whole poem, and the line Millay is known by. Note for the editor: three of the four candidates in this batch are twentieth century American women, which bears on the country and English caps rather than on this ruling."
+}

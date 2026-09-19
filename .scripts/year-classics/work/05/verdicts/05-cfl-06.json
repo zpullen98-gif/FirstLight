@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-06",
+ "verdict": "VERIFIED",
+ "quote": "The butterfly counts not months but moments, / and has time enough.",
+ "source": "Rabindranath Tagore, Fireflies, the butterfly couplet (Macmillan, 1928)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The Internet Archive scan of the first Macmillan edition. Its text shows the piece set as two lines broken after moments, with a lower case and opening the second line, which is how the neighbouring pieces on the same pages are set as well; two separate reads of the scan returned the same lineation",
+  "edition": "Fireflies, Macmillan, New York, 1928 (Internet Archive item fireflies0000tago)",
+  "locator": "the two line piece beginning The butterfly counts not months but moments",
+  "url": "https://archive.org/details/fireflies0000tago"
+ },
+ "confidence": "medium",
+ "reason": "The couplet is Tagore's own English, in Fireflies and not in Stray Birds, and the wording and the line break are as proposed. The locator is trimmed: the proposal added that the pieces carry no numbers in that edition, and the scan shows bracketed numbers near the piece that are almost certainly page numbers, so the claim is dropped rather than repeated unchecked. Confidence is medium because the lineation rests on the scan's text layer and not on my own reading of the page image."
+}

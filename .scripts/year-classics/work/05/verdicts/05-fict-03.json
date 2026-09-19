@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "It is not enough to be industrious; so are the ants. What are you industrious about?",
+ "source": "Henry David Thoreau, Familiar Letters, ed. F. B. Sanborn, to Harrison Blake, Concord, 16 November 1857, p. 371 (Houghton Mifflin, 1894)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Confirmed in two printings of Sanborn's edition. The 1894 Houghton Mifflin first edition, Internet Archive scan familiarletters00thoruoft, p. 371, under the heading TO HARRISON BLAKE (AT WORCESTER), CONCORD, November 16, 1857. Confirmed again in the 1906 enlarged edition, The Writings of Henry David Thoreau vol. VI, Project Gutenberg 43523, where the modern spacing gives the wording exactly as proposed.",
+  "url": "https://www.gutenberg.org/cache/epub/43523/pg43523.txt",
+  "edition": "Familiar Letters of Henry David Thoreau, ed. F. B. Sanborn, Houghton Mifflin, 1894; wording identical in the 1906 enlarged edition",
+  "locator": "p. 371, letter to Harrison Blake, Concord, 16 November 1857, following Why don't they take the hint?"
+ },
+ "confidence": "high",
+ "reason": "Author, work, editor, addressee, place, date and wording all check out, and the capital I is the sentence's own. The 1894 scan sets French spacing before the semicolon and question mark, which is that printing's typography rather than a different reading; the 1906 printing of the same edited text gives the punctuation as the card carries it."
+}

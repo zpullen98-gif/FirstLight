@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-08",
+ "verdict": "CORRECTED",
+ "quote": "The problem in public life is learning to overcome terror; the problem in married life is learning to overcome boredom.",
+ "source": "Gabriel García Márquez, Love in the Time of Cholera, chapter 4 (Fermina Daza) (trans. Edith Grossman, 1988)",
+ "speaker": "Fermina Daza",
+ "tradition": "Fiction",
+ "note": "CORRECTED: the sentence is Fermina Daza’s own, printed in quotation marks after the narrator says she had defined it in a simpler way, so the speaker belongs in the source. The proposal named none. The wording and the chapter are confirmed word for word in Edith Grossman’s 1988 translation.",
+ "evidence": {
+  "where": "a full text scan of Edith Grossman’s 1988 Knopf translation, searched for the sentence and for the chapter headings, which places the passage between CHAPTER FOUR and CHAPTER FIVE",
+  "url": "https://archive.org/stream/LoveInTheTimeOfCholera/Love+in+the+Time+of+Cholera_djvu.txt",
+  "edition": "trans. Edith Grossman, Alfred A. Knopf, 1988",
+  "locator": "chapter 4, the years of the Urbinos’ social ostracism, just before the memory of the Social Club ball"
+ },
+ "confidence": "high",
+ "reason": "Wording, work, chapter and translator all check out, but the novel gives the sentence to Fermina Daza in direct speech and the proposal carried no speaker. Under the project’s speaker rule that has to be corrected before it ships."
+}

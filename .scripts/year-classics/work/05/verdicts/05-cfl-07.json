@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-07",
+ "verdict": "CORRECTED",
+ "quote": "When you want something, all the universe conspires in helping you to achieve it.",
+ "source": "Paulo Coelho, The Alchemist, Part One (Melchizedek, the king of Salem) (trans. Alan R. Clarke, 1993)",
+ "speaker": "Melchizedek, the king of Salem",
+ "tradition": "Fiction",
+ "note": "CORRECTED. This exact wording is in Part One, where the boy recalls the old king. Where Melchizedek first speaks the line, Alan R. Clarke’s translation opens it with And, so the capital W here marks the recollection and not a silent cut. Both sentences are the king’s counsel, in Part One.",
+ "evidence": {
+  "where": "a full text scan of Alan R. Clarke’s English translation, read end to end for both occurrences, corroborated by Goodreads and LitCharts quote pages and by trade listings of the 1993 HarperSanFrancisco first English edition",
+  "url": "https://ia801604.us.archive.org/26/items/achemistbook/books-library.online-12230111Ib9C3_djvu.txt",
+  "edition": "trans. Alan R. Clarke, first English edition HarperSanFrancisco 1993 (scan carries ISBN 0-7225-3293-8)",
+  "locator": "Part One, the boy recalling the king after he is robbed in Tangier; Melchizedek speaks the first version earlier in Part One"
+ },
+ "confidence": "high",
+ "reason": "The line is real and the speaker is right, but the two forms sit in different places: Melchizedek says And, when you want something, all the universe conspires in helping you to achieve it, while the proposed wording is the boy quoting him later in Part One. The citation ships honestly only with that said."
+}

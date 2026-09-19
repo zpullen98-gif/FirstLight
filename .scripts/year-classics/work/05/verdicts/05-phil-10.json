@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-10",
+ "verdict": "CORRECTED",
+ "quote": "Your silence will not protect you.",
+ "source": "Audre Lorde, Sister Outsider, The Transformation of Silence into Language and Action, p. 41 (Crossing Press, 1984)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected: 1984 is the date of the collection, not of the line. Lorde read this as a paper at a Modern Language Association panel in December 1977, and Sinister Wisdom printed it in 1978. The wording and the page are those of Sister Outsider, where she gathered it with her essays.",
+ "evidence": {
+  "where": "Standard citations of the Crossing Press text of Sister Outsider and the headnote publication history Lorde prints with the piece; no scan of page 41 was opened",
+  "url": "https://en.wikipedia.org/wiki/Your_Silence_Will_Not_Protect_You",
+  "edition": "Crossing Press, 1984",
+  "locator": "The Transformation of Silence into Language and Action, p. 41"
+ },
+ "confidence": "high",
+ "reason": "The wording is fixed and uncontested and the page is cited consistently as 41. The scope question the curator raised is real: the piece was first read aloud, and the book's subtitle is Essays and Speeches. It reads as written academic prose collected in a named book, so I rule it an essay rather than oratory, and the note makes its origin plain for an editor who wants to overrule that."
+}

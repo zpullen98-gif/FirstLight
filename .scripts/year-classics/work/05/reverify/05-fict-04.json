@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "In truth, whatever is worth doing at all, is worth doing well; and nothing can be done well without attention.",
+ "source": "Lord Chesterfield, Letters to His Son, Letter LXXXI, Bath, 9 October 1746, Old Style (first published 1774)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "Corrected: the letter number is added because the maxim recurs in Letter LXXVII, from Dublin Castle, 10 March 1746, without the opening In truth, and that is the date the reference works give. In Letter LXXXI a colon follows attention, so the full stop marks a cut at a complete clause.",
+ "evidence": {
+  "where": "I read both occurrences in the 1774 first edition scan, Internet Archive identifier bim_eighteenth-century_letters-written-by-the-l_chesterfield-philip-dor_1774_1_4, downloaded this run, and listed the letter headings on either side. LETTER LXXXI, Bath, October 9th, O. S. 1746, p. 190, reads: which are requisite to make you agreeable and pleasing in society: In truth, whatever is worth doing at all, is worth doing well; and nothing can be done well without attention: I therefore carry the necessity of attention down to the lowest things, even to dancing and dress. LETTER LXXVII, Dublin Castle, March the 10th, 1746, reads: There is no surer sign in the world of a little, weak mind, than inattention. Whatever is worth doing at all, is worth doing well; and nothing can be done well without attention. The wording of the Bath letter is confirmed a second time in Project Gutenberg 3351, whose LETTER I is BATH, October 9, O. S. 1746, and whose index of subjects lists the maxim.",
+  "url": "https://archive.org/download/bim_eighteenth-century_letters-written-by-the-l_chesterfield-philip-dor_1774_1_4/bim_eighteenth-century_letters-written-by-the-l_chesterfield-philip-dor_1774_1_4_djvu.txt",
+  "edition": "Letters written by the late Right Honourable Philip Dormer Stanhope, Earl of Chesterfield, to his Son, published by Mrs Eugenia Stanhope, 1774, vol. I",
+  "locator": "Letter LXXXI, headed Bath, October 9th, O. S. 1746, p. 190, the paragraph beginning If care and application are necessary"
+ },
+ "confidence": "high",
+ "reason": "The refutation's central finding is correct and I confirmed it independently: the maxim stands in Chesterfield twice, and only the Bath letter of 9 October 1746 carries the In truth opening that this card quotes, while Wikiquote and Bartlett's give 10 March 1746 for the other. A citation that is right but looks misdated needs the note to say so, and the empty note was the defect. One correction to the refutation itself: the March letter is LETTER LXXVII, not LXXXVII; the headings run LXXV 8 February 1746, LXXVI 26 February 1746, LXXVII 10 March 1746, LXXVIII 5 April 1746, so the chronology settles it. The Bath letter is LXXXI, as the refutation said. The terminal full stop replaces a colon, which the note now discloses."
+}

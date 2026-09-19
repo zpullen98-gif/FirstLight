@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "He who knows only his own side of the case, knows little of that.",
+ "source": "John Stuart Mill, On Liberty, chapter II, Of the Liberty of Thought and Discussion (1859)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the full Project Gutenberg text of On Liberty and searched it; the sentence is present verbatim inside chapter II, whose heading the file prints as OF THE LIBERTY OF THOUGHT AND DISCUSSION",
+  "edition": "John Stuart Mill, On Liberty (1859), Project Gutenberg ebook 34901",
+  "locator": "chapter II, in the paragraph beginning What Cicero practised as the means of forensic success",
+  "url": "https://www.gutenberg.org/cache/epub/34901/pg34901.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording, the comma after case, and the chapter all match the full text exactly. The next sentences in the paragraph read His reasons may be good, and no one may have been able to refute them, which confirms the sentence is not a splice."
+}

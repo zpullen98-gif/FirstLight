@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-13",
+ "verdict": "VERIFIED",
+ "quote": "I rebel—therefore we exist.",
+ "source": "Albert Camus, The Rebel, Part One, The Rebel, closing lines (trans. Anthony Bower, 1953)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Full text scan of Bower's translation at the Internet Archive; the sentence closes Part One, after Rebellion is the common ground on which every man bases his first values, and the front matter names Anthony Bower as translator",
+  "edition": "The Rebel, translated by Anthony Bower, Part One, The Rebel",
+  "locator": "Part One, The Rebel, final sentence of the part",
+  "url": "https://archive.org/stream/in.ernet.dli.2015.507721/2015.507721.The-Rebel_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording, the translator and the place are all as proposed. Part One of The Rebel is the single chapter of that name, and the sentence is its closing formula, set against the Cartesian cogito in the sentences before it. The dash is Bower's own and stays inside the quotation; Camus stands at one of three for the year."
+}

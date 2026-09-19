@@ -1,0 +1,18 @@
+{
+ "id": "05-poet-06",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and survived. I downloaded the whole of Project Gutenberg 556, Rewards and Fairies by Rudyard Kipling, which is set from the 1910 book, and read the poem in place rather than trusting a quotation of it. The poem stands under the heading IF--, immediately after the closing dialogue of Brother Square-Toes and immediately before the story headed A PRIEST IN SPITE OF HIMSELF, which is where the 1910 volume puts it, so the locator is right. The poem is four stanzas of eight lines, so the closing four lines are lines 29 to 32, and they read If you can fill the unforgiving minute / With sixty seconds' worth of distance run, / Yours is the Earth and everything that's in it, / And--which is more--you'll be a Man, my son! That is the proposal word for word and mark for mark: the capital Earth, the capital Man, the apostrophes in seconds, that's and you'll, the comma after run and after in it, and the exclamation mark. The only difference is that Gutenberg renders the two dashes as double hyphens, which is that transcription's ASCII convention for the em dashes of the printed page; the card's em dashes are the printed form, not drift, and rule 6 forbids a dash only in the source line and the note, not inside the quotation. Attribution is not in dispute and the misattribution list has no Kipling trap. shipped.js returns no hit and no near-hit, so the poem is not already in Q, Q_MAKERS or UPLIFT; Kipling stands at 0 of 3 for the year, is not banned, and appears in no carry-in, so there is no twice-in-the-month collision. Tag Poetry is the form of the work. Scope is clean: a poem first printed in 1910, no scripture, no film, no lyric, no proverb, nothing needing a content warning. Fame is not in question, and the theme fit is the strongest of the month, since the whole poem is a father's counsel and these are the lines it arrives at. The source line leads with the author's name, carries no dash and no straight quote, and runs 82 characters.",
+ "checks": {
+  "wordingAgainstNamedEdition": "confirmed character for character against Project Gutenberg 556 (Rewards and Fairies, 1910); only difference is the transcription's double hyphens for em dashes",
+  "locator": "confirmed: the poem headed IF-- follows Brother Square-Toes and precedes A PRIEST IN SPITE OF HIMSELF; the quotation is lines 29 to 32, the fourth and last stanza",
+  "attribution": "correct; Kipling, and no misattribution trap applies",
+  "speaker": "n/a, not a character's line",
+  "bannedOrAtCap": "not banned, 0 of 3 in the year, not in the carry-ins",
+  "alreadyShipped": "no; shipped.js clean, no near-hit",
+  "scope": "in scope: Poetry, 1910, publishable, squarely on Wisdom and Counsel",
+  "sourceLineForm": "leads with the name, no dash, no straight quote, 82 characters"
+ },
+ "residual": "The poem's title is If-- with a terminal dash, and the source line prints it as bare If. That is forced by the no-dash rule and is the right trade, but it is worth knowing the title is being shortened. Second, the source line names Macmillan alone; Rewards and Fairies appeared in 1910 from Macmillan in London and Doubleday, Page in New York in the same year, and Macmillan is the right one to name for the British first edition. Third, the note is empty, which is defensible here since nothing about the line needs explaining."
+}

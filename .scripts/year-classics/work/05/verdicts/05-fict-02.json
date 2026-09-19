@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-02",
+ "verdict": "CORRECTED",
+ "quote": "You must find your own quiet centre of life, and write from that to the world.",
+ "source": "Sarah Orne Jewett, Letters of Sarah Orne Jewett, ed. Annie Fields, to Willa Cather, 13 December 1908, p. 249 (Houghton Mifflin, 1911)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "Corrected: Fields heads the letter only Sunday, 13th of December, with no year. The thirteenth of December 1908 was a Sunday and is the accepted date. On page 249 the sentence runs on, to the world that holds offices, and all society, all Bohemia, so the full stop marks a cut.",
+ "evidence": {
+  "where": "Full-text scan of the 1911 Houghton Mifflin volume edited by Annie Fields, Internet Archive copy lettersofsarahor00jewe. The running head LETTERS 249 stands immediately before the sentence, which reads: your vivid, exciting companionship in the office must not be your audience, you must find your own quiet centre of life, and write from that to the world that holds offices, and all society, all Bohemia; the city, the country, in short, you must write to the human heart.",
+  "url": "https://archive.org/stream/lettersofsarahor00jewe/lettersofsarahor00jewe_djvu.txt",
+  "edition": "Letters of Sarah Orne Jewett, ed. Annie Fields, Houghton Mifflin, 1911",
+  "locator": "p. 249, letter headed 148 Charles Street, Boston, Mass., Sunday, 13th of December, opening My dear Willa"
+ },
+ "confidence": "high",
+ "reason": "Wording and page confirmed in the 1911 edition, and the capital Y is the card's since the clause stands mid sentence. Two things the proposal claimed need saying plainly: the edition prints no year on the letter, and the cut at world drops a restrictive clause that names which world she means, so a card without a note would overstate what the page shows."
+}

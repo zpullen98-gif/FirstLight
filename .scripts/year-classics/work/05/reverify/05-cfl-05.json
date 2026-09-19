@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-05",
+ "verdict": "CORRECTED",
+ "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
+ "source": "David Hume, Essays, Moral, Political, and Literary, Of the Standard of Taste (ed. Miller, pp. 229 to 230)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected: the paragraph number came from a digital edition while the Miller print numbers only pages, so it is dropped. Hume sets this sentence out as the sceptical case, in reported speech, and the next paragraph restrains it, though he does hold that beauty is not in the object.",
+ "evidence": {
+  "where": "I pulled the whole of ST 7 from the Digital Hume text and read it against the refutation. The sentence is verbatim, colon, capital It and semicolon intact. The paragraph opens There is a species of philosophy, which cuts off all hopes of success in such an attempt, and its second sentence reads The difference, it is said, is very wide between judgment and sentiment, so the thousand sentiments, the Beauty sentence and the real sweet or real bitter are all inside that reported voice. ST 8 then opens But though this axiom, by passing into a proverb, seems to have attained the sanction of common sense and turns against it. Secondary scholarship agrees that the paragraph states the relativist case Hume goes on to restrain, while noting he does accept that beauty is not in the object",
+  "edition": "Essays, Moral, Political, and Literary, ed. Eugene F. Miller, revised edition, Liberty Fund, 1987",
+  "locator": "Of the Standard of Taste, Mil 229 to 30",
+  "url": "https://davidhume.org/texts/empl1/st"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right on both counts and neither is fatal. The wording and the pages hold, so this is not a forgery question; what failed was shipping it with an empty note, because the card would print as Hume's morning counsel a doctrine he introduces as somebody else's. The brief's closing rule covers exactly this: a line one voice reports of another is the reporter's, and the note says so. The locator also welded two systems, since the paragraph number is the digital edition's and the Miller print numbers no paragraphs. Both are repaired above. shipped.js is clean, Hume stands at zero of three, he is not banned, and the tag Essay is right."
+}

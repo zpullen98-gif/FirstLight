@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-13",
+ "verdict": "CORRECTED",
+ "quote": "I got out of bed / on two strong legs. / It might have been / otherwise.",
+ "source": "Jane Kenyon, Otherwise, lines 1 to 4, the fourth cut at its full stop, Otherwise: New and Selected Poems (Graywolf, 1996)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "CORRECTED: the locator. The proposal said opening lines, which claims four whole lines. The fourth printed line runs on as otherwise. I ate, so the quotation stops at the poem’s own full stop inside that line. The first three breaks are the book’s. Poets.org credits the 2005 Collected Poems for the same text.",
+ "evidence": {
+  "where": "The whole poem read in three independent reprints: the Academy of American Poets, Journey with Jesus, and ronnowpoetry. All three lineate the opening identically, with line 4 reading otherwise. I ate",
+  "edition": "Otherwise: New and Selected Poems (Graywolf Press, 1996), the poem’s first book appearance among the twenty new poems; Journey with Jesus credits that volume, poets.org credits Collected Poems (Graywolf, 2005), ronnowpoetry credits a 1997 printing",
+  "locator": "Otherwise, lines 1 to 4, the fourth line cut at the poem’s full stop after otherwise",
+  "url": "https://poets.org/poem/otherwise"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right and the fix is a locator, not a kill. I confirmed the lineation in three places: line 4 is otherwise. I ate, so a card saying opening lines would assert a fourth whole line the book does not have. The wording, punctuation and first three breaks are exact in all three witnesses, and the quotation ends at the poem’s own full stop, so nothing is invented. The corrected locator says the cut out loud. The 1996 volume is kept because Journey with Jesus credits it and the title poem is one of that book’s twenty new poems, which also settles the pre-2000 rule."
+}

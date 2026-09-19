@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "We live close together and we live far apart. We all go through the same things—it’s all just a different kind of the same thing.",
+ "source": "Susan Glaspell, Trifles, the one act, near the close (Mrs. Hale) (Plays, Small, Maynard and Company, 1920)",
+ "tradition": "Drama",
+ "speaker": "Mrs. Hale",
+ "note": "",
+ "evidence": {
+  "where": "the transcribed 1920 Small, Maynard volume Plays, read at the passage and at the title page and contents",
+  "url": "https://www.gutenberg.org/cache/epub/59432/pg59432.txt",
+  "edition": "Susan Glaspell, Plays (Boston: Small, Maynard and Company, 1920), copyright page and contents confirmed; Trifles is the first play in the volume",
+  "locator": "Trifles, the one act, in Mrs. Hale’s speech beginning I might have known she needed help, shortly before the curtain"
+ },
+ "confidence": "high",
+ "reason": "The 1920 text reads exactly this and ends the sentence in a full stop before the stage direction, so no cut is being disguised. The other transcription in circulation, Project Gutenberg 10623, is a modern gathering that also holds The Verge and Inheritors and so is not the 1920 volume; the citation names the 1920 one, which was checked."
+}

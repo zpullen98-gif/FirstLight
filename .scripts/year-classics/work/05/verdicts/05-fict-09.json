@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-09",
+ "verdict": "VERIFIED",
+ "quote": "It’s been my experience that you can nearly always enjoy things if you make up your mind firmly that you will.",
+ "source": "L. M. Montgomery, Anne of Green Gables, ch. V, Anne’s History (Anne Shirley, to Marilla Cuthbert)",
+ "tradition": "Fiction",
+ "speaker": "Anne Shirley, to Marilla Cuthbert",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded and searched the full Project Gutenberg transcription of the 1908 L. C. Page text. The sentence stands verbatim in chapter V, opening Anne’s speech on the drive: I’ve made up my mind to enjoy this drive. It’s been my experience that you can nearly always enjoy things if you make up your mind firmly that you will. Of course, you must make it up firmly.",
+  "url": "https://www.gutenberg.org/cache/epub/45/pg45.txt",
+  "edition": "Anne of Green Gables, L. C. Page and Company, 1908, via Project Gutenberg ebook 45",
+  "locator": "chapter V, Anne’s History"
+ },
+ "confidence": "high",
+ "reason": "Exact wording, exact chapter, exact speaker, with the full stop the text itself supplies. Public domain and machine checkable, so nothing is taken on trust. Montgomery stands at two of three for the year, so this is inside the cap, and it would be her last line of The Classics."
+}

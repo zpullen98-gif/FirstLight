@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-04",
+ "verdict": "VERIFIED",
+ "quote": "Eternity is in love with the productions of time.",
+ "source": "William Blake, The Marriage of Heaven and Hell, Proverbs of Hell, plate 7 (1790)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Two checks. The Project Gutenberg edition of The Marriage of Heaven and Hell gives the sentence with its closing full stop. The Wikisource transcription of copy D, which is taken from the plate images, shows that plate 7 is the one that carries the bird couplet and then opens the Proverbs of Hell, running from In seed time learn as far as If the fool would persist in his folly, and this proverb stands inside that run",
+  "edition": "The Marriage of Heaven and Hell, copy D (Wikisource transcription of the plate images); text confirmed against Project Gutenberg ebook 45315",
+  "locator": "Proverbs of Hell, plate 7",
+  "url": "https://en.wikisource.org/wiki/Page:The_Marriage_of_Heaven_and_Hell_-_copy_D.djvu/7"
+ },
+ "confidence": "high",
+ "reason": "Blake's own proverb, in his own book, on the plate claimed, with the punctuation claimed. The Proverbs of Hell occupy plates 7 to 10 and this one falls in the first group, between the proverb about the face that gives no light and the one about the busy bee. Blake engraved the work in English, so no translator is named, and 1790 is the conventional date of the work."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-08",
+ "verdict": "CORRECTED",
+ "quote": "Sweet words are like hony, a little may refresh, but too much gluts the stomach.",
+ "source": "Anne Bradstreet, Meditations Divine and Moral, meditation IX (ed. J. H. Ellis, 1867), p. 50",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "Nothing in the attribution was wrong. Meditation IX is confirmed on page 50 of the Ellis edition of 1867, whose spelling hony and whose comma these are. That edition prints the long s, so refresh and stomach are modernized here. Modern printings give honey and a semicolon.",
+ "evidence": {
+  "where": "Downloaded the scanned text of the 1867 Ellis edition from Internet Archive and read the meditations in sequence; the running head 50 Anne Bradstreet's Works stands immediately above the numeral IX and the sentence follows it",
+  "edition": "The Works of Anne Bradstreet in Prose and Verse, ed. John Harvard Ellis, Charlestown, Abram E. Cutter, 1867, p. 50",
+  "locator": "Meditations Diuine and morall, meditation IX, p. 50",
+  "url": "https://archive.org/download/worksofannebrads00brad/worksofannebrads00brad_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The meditation number, the page, the spelling hony and the comma are all confirmed in the 1867 edition. It is ruled CORRECTED rather than VERIFIED so the card can carry the note about that spelling and about the long s being modernized, following the ruling already asked for on the Leonardo putrifies line."
+}

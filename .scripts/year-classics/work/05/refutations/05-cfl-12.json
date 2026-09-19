@@ -1,0 +1,19 @@
+{
+ "id": "05-cfl-12",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and survived. The sentence is four words of plain English with no translation between it and the reader, so the usual failure mode of this track cannot touch it, and I could not find a variant rendering anywhere: every reproduction I reached carries Courage is found in unlikely places, said Gildor, with no drift in wording or punctuation. The locator is right. The exchange stands at the close of Book I ch. 3, Three is Company, where Frodo asks But where shall I find courage, and Gildor answers before telling him to sleep; chapter 4 is A Short Cut to Mushrooms, so the Gildor scene is inside chapter 3 as cited. The speaker is named in the source, which is what the rule requires, and Gildor Inglorion is the right name for him. This is not one of the speaker traps: Gildor says it himself, in his own person, and is not reporting anyone, so nothing is owed in a note. It is not a Tolkien misattribution either; the list's Tolkien entry is Not all those who wander are lost, a different line, already shipped in the lift bank and excluded. Tolkien is not banned, stands at zero of three in the year, and shipped.js returns no hit and no near-hit. Scope is clean: a novel published in 1954, not scripture, not a film line in origin however famous the films made it, not a lyric, not a proverb, nothing needing a warning. Tag Fiction is the form of the work. The source line leads with the author's name, carries no dash, and runs 96 characters. Theme fit is the strongest in the pair: the month's blurb is the counsel a character gives on the way out of the door, and this is literally that, an answer given to a frightened traveller at the end of a night's halt. The one thing I hold against it is the same thing I held against 05-cfl-11: the evidence names the Allen and Unwin 1954 edition but points at a fandom wiki, so the edition was not opened. For a four-word sentence reproduced identically by every source I checked, that is a thin worry rather than a refutation. What the editor must not do is land this and 05-cfl-11 in the same month. Both are Tolkien and both are from Three is Company, and rule nine allows one person once per month. I refuted 05-cfl-11 for an unmarked splice; this one is verbatim, and it is the one to keep.",
+ "checks": {
+  "wordingAgainstNamedEdition": "confirmed verbatim, no variant found; the named 1954 edition itself was not opened",
+  "locator": "confirmed, Book I ch. 3 Three is Company, Gildor's answer to Frodo's question about courage",
+  "attribution": "correct, Tolkien; not one of the listed Tolkien traps",
+  "speaker": "correct, Gildor Inglorion, named in the source; he speaks in his own person and reports no one",
+  "bannedOrAtCap": "not banned, zero of three in the year",
+  "alreadyShipped": "no, shipped.js clean, no near-hit",
+  "scope": "in scope: Fiction, 1954, publishable, on the month's theme of counsel",
+  "sourceLineForm": "leads with the name, no dash, 96 characters",
+  "monthUniqueness": "collides with 05-cfl-11, also Tolkien and also Three is Company; only one of the two may land in May"
+ },
+ "residual": "The note field is empty and can stay empty. The editor must drop 05-cfl-11 or this one, not both and not both."
+}

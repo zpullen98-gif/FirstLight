@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "If you can fill the unforgiving minute / With sixty seconds’ worth of distance run, / Yours is the Earth and everything that’s in it, / And—which is more—you’ll be a Man, my son!",
+ "source": "Rudyard Kipling, If, the closing four lines, Rewards and Fairies (Macmillan, 1910)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Project Gutenberg text of Rewards and Fairies, taken from the 1910 book, was downloaded whole and read at the poem. The poem stands under the heading IF and falls between the story Brother Square-Toes and the story A Priest in Spite of Himself, which is where the 1910 volume places it. The four lines match the proposal character for character, including the capital Earth, the capital Man, the apostrophes in seconds and that's and you'll, and the exclamation mark. Gutenberg renders the two dashes in the last line as double hyphens, which is that text's convention for the em dashes of the printed page.",
+  "edition": "Rewards and Fairies (Macmillan, 1910); Project Gutenberg ebook 556",
+  "locator": "the fourth and final stanza, lines 29 to 32, following the story Brother Square-Toes",
+  "url": "https://www.gutenberg.org/cache/epub/556/pg556.txt"
+ },
+ "confidence": "high",
+ "reason": "Exact match to the 1910 text, correct placement as the closing lines, correct book and year. The title is printed here without its dash because the source line may not carry one; the poem is titled both ways. Not shipped, no near match, Kipling at zero of three, not banned, not on the misattribution list."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-14",
+ "verdict": "VERIFIED",
+ "quote": "Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider.",
+ "source": "Francis Bacon, The Essays or Counsels, Civil and Moral, Of Studies (1625)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 575, the modern spelling text of The Essays or Counsels, Civil and Moral; the essay Of Studies was read in full and the sentence matched character for character",
+  "edition": "The Essays or Counsels, Civil and Moral (modernised spelling text, Project Gutenberg ebook 575)",
+  "locator": "Of Studies, sixth sentence of the essay",
+  "url": "https://www.gutenberg.org/cache/epub/575/pg575.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in Of Studies, semicolons and all, in the modern spelling text of the Essays. Bacon's 1625 original spells it Reade not to Contradict, and Confute, so the date on the card names the work rather than the spelling."
+}

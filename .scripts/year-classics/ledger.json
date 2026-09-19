@@ -289,9 +289,10 @@
    ]
   },
   "sophocles": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    5
    ]
   },
   "toni morrison": {
@@ -346,9 +347,10 @@
    ]
   },
   "lorraine hansberry": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    5
    ]
   },
   "thornton wilder": {
@@ -424,9 +426,10 @@
    ]
   },
   "henri-frederic amiel": {
-   "count": 1,
+   "count": 2,
    "months": [
-    3
+    3,
+    5
    ]
   },
   "henrik ibsen": {
@@ -454,15 +457,17 @@
    ]
   },
   "sarah orne jewett": {
-   "count": 1,
+   "count": 2,
    "months": [
-    3
+    3,
+    5
    ]
   },
   "miguel de cervantes": {
-   "count": 1,
+   "count": 2,
    "months": [
-    3
+    3,
+    5
    ]
   },
   "elizabeth barrett browning": {
@@ -490,10 +495,11 @@
    ]
   },
   "johann wolfgang von goethe": {
-   "count": 2,
+   "count": 3,
    "months": [
     3,
-    4
+    4,
+    5
    ]
   },
   "antonio machado": {
@@ -620,6 +626,156 @@
    "count": 1,
    "months": [
     4
+   ]
+  },
+  "joseph joubert": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "rudyard kipling": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "plato": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "louisa may alcott": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "sor juana ines de la cruz": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "francis bacon": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "marie de france": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "baltasar gracian": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "j. r. r. tolkien": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "jean baptiste poquelin": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "saadi": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "michel de montaigne": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "vincent van gogh": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "tiruvalluvar": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "zora neale hurston": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "leonardo da vinci": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "emilie du chatelet": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "mary wollstonecraft": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "natalia ginzburg": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "langston hughes": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "anne bradstreet": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "samuel butler": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "pliny the younger": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "antoine de saint-exupery": {
+   "count": 1,
+   "months": [
+    5
+   ]
+  },
+  "chesterfield": {
+   "count": 1,
+   "months": [
+    5
    ]
   }
  }

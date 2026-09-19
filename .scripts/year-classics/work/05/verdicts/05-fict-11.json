@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-11",
+ "verdict": "CORRECTED",
+ "quote": "The founding of libraries was like constructing more public granaries, amassing reserves against a spiritual winter.",
+ "source": "Marguerite Yourcenar, Memoirs of Hadrian, Tellus Stabilita (Hadrian) (trans. Grace Frick, 1954)",
+ "tradition": "Fiction",
+ "speaker": "Hadrian",
+ "note": "Corrected: the full stop marks a cut at a complete clause. Frick’s sentence runs on: against a spiritual winter which by certain signs, in spite of myself, I see ahead. Verified in the Secker and Warburg printing of Frick’s translation, section Tellus Stabilita, page 134.",
+ "evidence": {
+  "where": "Downloaded and searched a full scan of the Secker and Warburg London printing of Frick’s translation. The title page reads Translated from the French by Grace Frick in Collaboration with the Author. The section heading TELLUS STABILITA stands well before the passage and SAECULUM AUREUM well after it, and the running page number at the passage is 134. The text reads: The beauty of the gulfs bore fruit with the opening of harbours. The founding of libraries was like constructing more public granaries, amassing reserves against a spiritual winter which by certain signs, in spite of myself, I see ahead.",
+  "url": "https://archive.org/stream/in.ernet.dli.2015.125737/2015.125737.Memoirs-Of-Hadrian_djvu.txt",
+  "edition": "Memoirs of Hadrian, trans. Grace Frick in collaboration with the author, Secker and Warburg, London; the translation first published 1954",
+  "locator": "section Tellus Stabilita, page 134 in that printing"
+ },
+ "confidence": "high",
+ "reason": "The wording is the translation’s own and the section is right, so only the presentation needed fixing. The proposal buried the truncation inside the locator, where a 140 character source line cannot carry it; it belongs in a note, and a note means CORRECTED. The trimmed clause removes a foreboding the month does not want, which is a further reason to declare the cut."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "It is this, let me tell you—that the strongest man in the world is he who stands most alone.",
+ "source": "Henrik Ibsen, An Enemy of the People, Act V, his last speech (Dr Stockmann) (trans. R. Farquharson Sharp, 1911)",
+ "tradition": "Drama",
+ "speaker": "Dr Stockmann",
+ "note": "Corrected: this is Dr Stockmann’s last speech, not the closing line of the play. Two short speeches follow it, one from Mrs Stockmann and one from Petra, and Petra has the curtain. The wording is exactly Sharp’s.",
+ "evidence": {
+  "where": "the full text of the Sharp translation, downloaded and read to the end of Act V",
+  "url": "https://www.gutenberg.org/cache/epub/2446/pg2446.txt",
+  "edition": "trans. R. Farquharson Sharp, Ghosts, An Enemy of the People, The Warriors at Helgeland, Everyman’s Library 552 (J. M. Dent, 1911)",
+  "locator": "Act V, Dr Stockmann’s final speech, followed by Mrs Stockmann and then Petra"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the Sharp text, including the dash. The proposal called it the closing line and it is not: Mrs Stockmann says Oh, Thomas, Thomas! and Petra says Father! after it. The 1911 Everyman volume carrying Sharp’s version of this play is attested in library listings."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-07",
+ "verdict": "CORRECTED",
+ "quote": "In seed time learn, in harvest teach, in winter enjoy.",
+ "source": "William Blake, The Marriage of Heaven and Hell, Proverbs of Hell, the first proverb, plate 7 (1790)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Corrected the spelling. Blake engraved In seed time as two words on plate 7, and the standard text keeps it so. The hyphenated seed-time belongs to later printed editions, among them the Boston edition of 1906. The work, the locator and the place as the first of the Proverbs of Hell are right.",
+ "evidence": {
+  "where": "Two texts were read against each other. The Wikisource transcription, which follows the illuminated book at copy D, prints In seed time learn, in harvest teach, in winter enjoy, with no hyphen, and the Academy of American Poets text of the Proverbs of Hell prints it the same way and gives the second proverb as plow rather than plough. The Project Gutenberg text of the 1906 John W. Luce edition of Boston, produced from the Internet Archive images, prints In seed-time learn with the hyphen and plough with the u, which is where the proposal's wording comes from. In all three the line is the first of the Proverbs of Hell, and the Proverbs begin on plate 7.",
+  "edition": "Blake's own illuminated text, plate 7, copy D, as transcribed on Wikisource; compared with The Marriage of Heaven and Hell (Boston, John W. Luce, 1906), Project Gutenberg ebook 45315",
+  "locator": "Proverbs of Hell, the first proverb, plate 7 of The Marriage of Heaven and Hell",
+  "url": "https://en.wikisource.org/wiki/The_Marriage_of_Heaven_and_Hell"
+ },
+ "confidence": "high",
+ "reason": "The line is real, first in its place, and correctly attributed, but the proposal cited plate 7 while using a later printed edition's hyphen. Since plate 7 is the citation, the plate's own spelling ships. Not shipped, no near match, Blake at zero of three, not banned, not on the misattribution list."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-06",
+ "verdict": "VERIFIED",
+ "quote": "I do not care what case you put; let them be sea-captains, if you will.",
+ "source": "Margaret Fuller, Woman in the Nineteenth Century, on the offices women may fill (ed. Arthur B. Fuller, 1855)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the full Project Gutenberg text of the Arthur B. Fuller edition and searched it; the sentence sits in Part I, the essay Woman in the Nineteenth Century, not in the appended miscellanies",
+  "edition": "Woman in the Nineteenth Century, and Kindred Papers, ed. Arthur B. Fuller, Boston, 1855, Project Gutenberg ebook 8642",
+  "locator": "Part I, in the paragraph beginning But if you ask me what offices they may fill, I reply any",
+  "url": "https://www.gutenberg.org/cache/epub/8642/pg8642.txt"
+ },
+ "confidence": "high",
+ "reason": "Verbatim, with the hyphen in sea-captains and the semicolon as printed. The source names the 1855 edition that was actually opened rather than the 1845 first printing, which was not."
+}

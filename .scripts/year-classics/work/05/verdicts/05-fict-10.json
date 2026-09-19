@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-10",
+ "verdict": "VERIFIED",
+ "quote": "Two things everybody’s got tuh do fuh theyselves. They got tuh go tuh God, and they got tuh find out about livin’ fuh theyselves.",
+ "source": "Zora Neale Hurston, Their Eyes Were Watching God, ch. 20 (Janie Crawford, to Pheoby Watson)",
+ "tradition": "Fiction",
+ "speaker": "Janie Crawford, to Pheoby Watson",
+ "note": "",
+ "evidence": {
+  "where": "Read the closing pages of a library scan of the Harper Perennial Modern Classics text at the Internet Archive, fetched as a byte range rather than as a whole book. The sentences are the end of Janie’s last speech: It’s uh known fact, Pheoby, you got tuh go there tuh know there. Yo’ papa and yo’ mama and nobody else can’t tell yuh and show yuh. Two things everybody’s got tuh do fuh theyselves. They got tuh go tuh God, and they got tuh find out about livin’ fuh theyselves. A narrative line follows, so the closing quotation mark ends the speech. A scholarly citation of the same edition places it at page 192.",
+  "url": "https://archive.org/details/their-eyes-were-watching-god-zora-neale-hurston",
+  "edition": "Their Eyes Were Watching God, Harper Perennial Modern Classics, foreword by Edwidge Danticat; first published J. B. Lippincott, 1937",
+  "locator": "chapter 20, the last chapter, Janie’s closing speech to Pheoby"
+ },
+ "confidence": "high",
+ "reason": "Located in the text itself, dialect spellings and all, in the chapter and from the speaker proposed. The only editorial act is starting at a sentence boundary inside a speech, which needs no note. No page is claimed in the source line because printings repaginate."
+}

@@ -1,0 +1,24 @@
+{
+ "id": "05-cfl-07",
+ "refuted": true,
+ "wordingChecked": true,
+ "verdictAttacked": "CORRECTED",
+ "quote": "When you want something, all the universe conspires in helping you to achieve it.",
+ "source": "Paulo Coelho, The Alchemist, Part One (Melchizedek, the king of Salem) (trans. Alan R. Clarke, 1993)",
+ "reason": "The note is wrong on the one point it goes out of its way to make. I pulled the same Clarke scan the verifier names and read every occurrence of conspire in it. At the recollection the verifier relies on, the translation prints: “When you want something, all the universe conspires in helping you to achieve it,” he had said. The sentence closes on a COMMA before the speech tag, not a full stop. So the shipped line is not the exact wording after all: the capital W is honest, the terminal full stop is the silent cut, and the note says in so many words that there is no silent cut. A note that ships on the card cannot assert exactness that the page refutes. Second, the note and the evidence both say two occurrences. The Clarke text carries the king’s maxim in at least four renderings: Melchizedek’s own speech in Part One (“And, when you want something, all the universe conspires in helping you to achieve it.”), the narrator’s indirect version earlier in Part One (“the universe always conspires in your favor”), the boy’s recollection in Part One, and a THIRD direct quotation of the king in Part Two (“When you want something, all the universe conspires to help you achieve it,” the old king had said), before the alchemist echoes it again (“When a person really desires something, all the universe conspires to help that person to realize his dream”). The claim to have read the translation end to end for both occurrences is not borne out by the file. Third, the evidence calls that scan the 1993 HarperSanFrancisco first English edition; the scan’s own header reads Published 1992, and the ISBN it carries, 0-7225-3293-8, is the HarperCollins UK printing, not the HarperSanFrancisco first. The translator and year in the source line are right, but the evidence names the wrong physical book. The fix is small and the line can still ship: either take Melchizedek’s own speech, which is exact and already ends in a full stop, or keep the recollected wording and let the note say plainly that the full stop stands where the translation prints a comma before he had said.",
+ "betterCitation": "Paulo Coelho, The Alchemist, Part One (Melchizedek, the king of Salem) (trans. Alan R. Clarke, 1993)",
+ "betterQuote": "And, when you want something, all the universe conspires in helping you to achieve it.",
+ "otherChecks": {
+  "shipped": "not shipped anywhere in First Light; no near opening match",
+  "cap": "Paulo Coelho at 0 of 3 for the year; not banned; not used elsewhere in May",
+  "scope": "novel, Portuguese 1988, English translation 1993, so pre-2000 and in scope; not scripture, film, lyric, proverb or oratory; publishable",
+  "sourceLine": "100 characters, leads with the name, no dash, work then locator then speaker then translation, as the rule sets out",
+  "tag": "Fiction is the form of the work"
+ },
+ "confidence": "high",
+ "evidence": {
+  "where": "the same Alan R. Clarke scan the verdict cites, downloaded and searched for every occurrence of conspire, with the PART ONE, PART TWO and EPILOGUE headings located so each occurrence could be placed",
+  "url": "https://ia801604.us.archive.org/26/items/achemistbook/books-library.online-12230111Ib9C3_djvu.txt",
+  "locator": "Melchizedek’s speech and the boy’s recollection both fall before the PART TWO heading; the third direct quotation of the king falls after it"
+ }
+}

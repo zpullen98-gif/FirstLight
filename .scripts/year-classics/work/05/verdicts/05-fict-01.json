@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "No book was so bad but some good might be got out of it.",
+ "source": "Pliny the Younger, Letters, Book III, letter 5, to Baebius Macer, his uncle’s maxim (trans. Melmoth, rev. Bosanquet, 1909)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the Melmoth translation revised by F. C. T. Bosanquet (the Harvard Classics text), read in the Project Gutenberg transcription. The passage reads: indeed it was a maxim of his, that “no book was so bad but some good might be got out of it.” The Latin behind it is Epistulae 3.5.10, nullum esse librum tam malum ut non aliqua parte prodesset.",
+  "url": "https://www.gutenberg.org/cache/epub/2811/pg2811.txt",
+  "edition": "Letters of Pliny, trans. William Melmoth, revised by F. C. T. Bosanquet, 1909",
+  "locator": "Book III, letter 5 in the standard numbering; the 1909 selection heads it XXVII, To Baebius Macer"
+ },
+ "confidence": "high",
+ "reason": "The wording is exactly that of the named translation, in the letter named. The maxim is Pliny the Elder's, quoted by his nephew inside quotation marks, so the source line says whose maxim it is; the capital N is the card's, the clause being a complete sentence inside those marks."
+}

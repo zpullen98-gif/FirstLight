@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-01",
+ "verdict": "CORRECTED",
+ "quote": "Travel is fatal to prejudice, bigotry and narrow-mindedness, and many of our people need it sorely on these accounts.",
+ "source": "Mark Twain, The Innocents Abroad, the Conclusion (American Publishing Company, 1869)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected: the sentence stands in the Conclusion, which follows chapter LXI rather than belonging to it. The wording is the 1869 text's own, including the single comma in prejudice, bigotry and narrow-mindedness, where the line usually travels with a comma after bigotry.",
+ "evidence": {
+  "where": "The 1869 text on Project Gutenberg ebook 3176, read at the Conclusion; the chapter headings were checked so that the section break could be confirmed",
+  "edition": "The Innocents Abroad (American Publishing Company, 1869), Project Gutenberg ebook 3176",
+  "locator": "the Conclusion, in the paragraph beginning I have no fault to find with the manner in which our excursion was conducted",
+  "url": "https://www.gutenberg.org/cache/epub/3176/pg3176.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the Conclusion of The Innocents Abroad, and it keeps the proposal's punctuation exactly. The proposal's locator conflated the Conclusion with chapter LXI, which is a separate and earlier section in the 1869 text."
+}

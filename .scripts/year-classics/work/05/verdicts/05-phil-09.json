@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-09",
+ "verdict": "CORRECTED",
+ "quote": "One day as I was sitting alone in my study surrounded by books on all kinds of subjects.",
+ "source": "Christine de Pizan, The Book of the City of Ladies, Part One, ch. 1, the opening sentence (trans. Earl Jeffrey Richards, 1982)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: no page is claimed, because the Persea text itself was not opened. The wording as far as surrounded by books is cited from the 1982 translation at page 3 in scholarship, and the whole clause appears in several independent reproductions of Richards. Richards carries the sentence further, so the full stop marks a cut.",
+ "evidence": {
+  "where": "Independent reproductions of the Richards 1982 English text (Hanover College course excerpts, a Library of Congress sample page for a Penguin anthology) and a scholarly citation giving page 3; the Persea printing was not opened",
+  "url": "https://history.hanover.edu/courses/excerpts/165pisan.html",
+  "edition": "trans. Earl Jeffrey Richards, Persea Books, 1982",
+  "locator": "Part One, ch. 1, the opening sentence"
+ },
+ "confidence": "medium",
+ "reason": "The wording is Richards's and not Brown Grant's 1999 Penguin version, which opens differently, and it is reproduced identically in several places. The proposal's page 3 rests on a secondary citation only, so the page is dropped rather than claimed. The cut leaves a dependent clause, which the note now discloses."
+}

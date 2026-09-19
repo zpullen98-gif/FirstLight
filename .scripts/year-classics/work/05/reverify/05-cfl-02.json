@@ -1,0 +1,17 @@
+{
+ "id": "05-cfl-02",
+ "verdict": "REJECT",
+ "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+ "source": "Virginia Woolf, A Room of One’s Own, ch. 1 (1929)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "I opened carry.json directly rather than taking the refuter's word for it, and every part of the charge holds. The file carries 95 entries and exactly three are Woolf. 01-cfl-15 is this identical sentence, already ruled Verified in January, sourced as Virginia Woolf, A Room of One's Own, ch. 1 (1929), and held with fitMonth 11. 01-fict-06 is the Mrs Dalloway opening, held with fitMonth 5, which is this month. 03-fict-13 is the closing sentence of A Room of One's Own, held with fitMonth 12. That is three of three against the year cap, with May already spoken for. shipped.js returns clean for Woolf with yearCount 0 because it cannot see the carry file, which is the blind spot this pass exists to close.",
+  "edition": "carry.json, the year-classics carry file, read in full",
+  "locator": "entries 01-cfl-15 fitMonth 11, 01-fict-06 fitMonth 5, 03-fict-13 fitMonth 12",
+  "url": ""
+ },
+ "confidence": "high",
+ "reason": "The text is not in question. The refuter confirmed the wording and the placement in chapter 1 and so did the first verdict, and I do not dispute either. It is rejected as a candidate because it is not a new line and it is not May's. It is already carried as 01-cfl-15 for November, so proposing it again re-mints a ruling the track has made. Landing it in May would be a fourth Woolf claim against a cap of three and would put two Woolf lines in one month beside the Mrs Dalloway opening, which rule 8 forbids outright. The Hogarth Press, 1929 imprint on the card is a further unsupported claim, since the text actually read was Project Gutenberg Australia, which disclaims compliance with any paper edition. Moving this sentence into May is a decision about the carry for the editor to make, not a candidate for a verifier to pass."
+}

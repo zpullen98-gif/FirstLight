@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-02",
+ "verdict": "CORRECTED",
+ "quote": "You must find your own quiet centre of life, and write from that to the world.",
+ "source": "Sarah Orne Jewett, Letters of Sarah Orne Jewett, to Willa Cather, 13 December 1908, p. 249 (ed. Annie Fields, 1911)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "Corrected: the capital Y is the card's, since the clause runs on from must not be your audience. Fields heads the letter only Sunday, 13th of December, with no year; 13 December 1908 was a Sunday and is the accepted date. The full stop marks a cut at world, which continues that holds offices.",
+ "evidence": {
+  "where": "Internet Archive OCR of the 1911 Houghton Mifflin volume edited by Annie Fields, identifier lettersofsarahor00jewe, downloaded and read this run with whitespace normalised. The letter is headed 148 Charles Street, Boston, Mass., Sunday, 13th of December, opening My dear Willa, under the section head to miss willa sibert cather. Running head LETTERS 249 stands about thirteen printed lines above the sentence and the next running head 250 SARAH ORNE JEWETT follows it, so the sentence is on p. 249. The page reads: your vivid, exciting companionship in the office must not be your audience, you must find your own quiet centre of life, and write from that to the world that holds offices, and all society, all Bohemia; the city, the country, in short, you must write to the human heart.",
+  "url": "https://archive.org/download/lettersofsarahor00jewe/lettersofsarahor00jewe_djvu.txt",
+  "edition": "Letters of Sarah Orne Jewett, ed. Annie Fields, Houghton Mifflin, 1911",
+  "locator": "p. 249, letter to Willa Sibert Cather headed 148 Charles Street, Boston, Mass., Sunday, 13th of December"
+ },
+ "confidence": "high",
+ "reason": "I read the page myself rather than the earlier account of it, and the refutation is right on both counts. The book prints a lower case you mid sentence, so the raised capital is an alteration the card must disclose, exactly as 03-cfl-06 was made to disclose its capital H; and the running head is thirteen lines above the sentence, not immediately before it, though the page number is unaffected. Wording, page, letter and date hold. The verdict stays CORRECTED, with the capital now named in the note alongside the missing year and the cut. One matter for the editor, not a defect: 03-fict-12 comes from p. 250 of this same letter, so two of Jewett's three lines for the year would face each other."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-04",
+ "verdict": "VERIFIED",
+ "quote": "In truth, whatever is worth doing at all, is worth doing well; and nothing can be done well without attention.",
+ "source": "Lord Chesterfield, Letters to His Son, letter of 9 October 1746, Old Style, from Bath (first published 1774)",
+ "tradition": "Correspondence",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Letters to His Son, 1746 to 1747, Project Gutenberg 3351. The letter is headed BATH, October 9, O. S. 1746, DEAR BOY, and the sentence stands in the paragraph on the lesser accomplishments: In truth, whatever is worth doing at all, is worth doing well; and nothing can be done well without attention: I therefore carry the necessity of attention down to the lowest things. The same volume's index of subjects lists the maxim, which is the reference fame signal.",
+  "url": "https://www.gutenberg.org/cache/epub/3351/pg3351.txt",
+  "edition": "Letters to His Son, first published 1774; text read in the standard collected printing of the 1746 to 1747 letters",
+  "locator": "letter of 9 October 1746 Old Style, written from Bath, the paragraph beginning If care and application are necessary"
+ },
+ "confidence": "high",
+ "reason": "Date, place and wording are exact, and the second half that the proverb usually loses is there in the letter. The original runs on after attention with a colon; the terminal full stop is the house rule for a cut at a complete clause. The year names first publication, since the letter itself is of 1746."
+}

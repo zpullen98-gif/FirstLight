@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-05",
+ "verdict": "CORRECTED",
+ "quote": "Let mystery have its place in you; do not be always turning up your whole soil with the ploughshare of self-examination, but leave a little fallow corner in your heart ready for any seed the winds may bring.",
+ "source": "Henri-Frédéric Amiel, Amiel’s Journal, entry for 2 December 1851 (trans. Mrs Humphry Ward, 1885)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "CORRECTED: Macmillan’s text of Ward’s translation reads ploughshare; plowshare belongs to a later American resetting. The full stop marks a cut at a complete clause: in Amiel the sentence runs on, and reserve a nook of shadow for the passing bird.",
+ "evidence": {
+  "where": "Two printings of Ward’s translation were read side by side: the Internet Archive scan of the Macmillan volume (entry headed 2d December 1851, vol. I, pp. 34 to 35), and the Project Gutenberg text transcribed from an American setting (entry headed December 2, 1851). They agree word for word except that the Archive scan reads ploughshare and unexpected guest where Gutenberg reads plowshare and unexpected guests.",
+  "edition": "Amiel’s Journal, trans. Mrs Humphry Ward (Macmillan; first edition 2 vols 1885, second edition 1888, this printing copyright 1893), vol. I, pp. 34 to 35; scan IA amielsjournaljou01amieiala",
+  "locator": "Journal entry of 2 December 1851, the opening sentence of the entry",
+  "url": "https://archive.org/stream/amielsjournaljou01amieiala/amielsjournaljou01amieiala_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The passage is Amiel’s and stands at the head of the entry for 2 December 1851 in Ward’s translation, but the proposal took the American spelling plowshare, and its quotation stops at a comma in the text. Both are fixed here and the note says so. Not shipped, no near match, Amiel at one of three, not banned, not on the misattribution list."
+}

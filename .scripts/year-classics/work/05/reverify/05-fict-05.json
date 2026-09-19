@@ -1,0 +1,17 @@
+{
+ "id": "05-fict-05",
+ "verdict": "CORRECTED",
+ "quote": "Let mystery have its place in you; do not be always turning up your whole soil with the ploughshare of self-examination, but leave a little fallow corner in your heart ready for any seed the winds may bring.",
+ "source": "Henri-Frédéric Amiel, Amiel’s Journal, entry for 2 December 1851 (trans. Mrs Humphry Ward, 1888)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "CORRECTED: the translation year is 1888, not 1885. The entry is one Mrs Humphry Ward added to the second edition; the 1885 first edition has no 2 December 1851. Macmillan reads ploughshare, not the American plowshare. The full stop marks a cut at a complete clause: in Amiel the sentence runs on.",
+ "evidence": {
+  "where": "Three texts read in full, downloaded and searched locally, not quoted from a secondary source. (1) Internet Archive cu31924027696404, Macmillan and Co., London and New York, 1887, one volume, carrying only Mary A. Ward's original preface: the phrase mystery have its place does not occur anywhere in it, its 1851 entries are 16 Feb, 27 Feb, 25 Mar, 6 Apr, 7 Apr, 19 Jun, 2 Sep, 9 Nov, 18 Nov, and the text runs straight from every creature worth loving to Kindness is the principle of tact. (2) Internet Archive amielsjournaljou01amieiala, Macmillan, vol. I: its copyright page prints First Edition (2 Vols. Globe 8vo) 1885. Second Edition (1 Vol. Crown 8vo) 1888. Reprinted 1889, and its Preface to the Second Edition says Ward inserted a good many new passages taken from the last French edition. There the entry stands at pp. 34 to 35, headed 2d December 1851, reading ploughshare and unexpected guest. (3) Project Gutenberg 8545, an American setting, heads it December 2, 1851 and reads plowshare and unexpected guests. So the sentence first appeared in English in the 1888 second edition, and the proposal's 1885 named a book that does not contain it.",
+  "edition": "Amiel’s Journal: The Journal Intime of Henri-Frédéric Amiel, trans. Mrs Humphry Ward, second edition 1888; read in the Macmillan reprint scanned as IA amielsjournaljou01amieiala, vol. I, pp. 34 to 35",
+  "locator": "Journal entry of 2 December 1851, the opening sentence of the entry",
+  "url": "https://archive.org/download/amielsjournaljou01amieiala/amielsjournaljou01amieiala_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The refutation is correct and I reproduced it myself: the 1887 printing of Ward's first-edition text has no 2 December 1851 entry, and the entry appears only in printings descending from the 1888 second edition, whose preface says she added passages. Nothing else on the line breaks: wording, entry heading, the cut at a complete clause, and the Macmillan ploughshare all hold. shipped.js returns no shipped line and no near match, Amiel stands at one of three, and he is not banned."
+}

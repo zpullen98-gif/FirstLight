@@ -1,0 +1,17 @@
+{
+ "id": "05-poet-16",
+ "verdict": "CORRECTED",
+ "quote": "Now I become myself.",
+ "source": "May Sarton, Now I Become Myself, opening line, Collected Poems 1930 to 1993 (W. W. Norton, 1993)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "CORRECTED: the edition named. The wording is attested in reprints credited to Collected Poems 1930 to 1993 (W. W. Norton, 1993). The poem first appeared in The Land of Silence and Other Poems (Rinehart, 1953). The 1974 Collected Poems 1930 to 1973 was not opened. The poem’s first sentence ends where the quotation ends.",
+ "evidence": {
+  "where": "Reprints of the whole poem that carry a permission credit line; the credit names Collected Poems 1930 to 1993 and the text opens Now I become myself. It's taken / Time, many years and places",
+  "edition": "Collected Poems 1930 to 1993 (W. W. Norton, 1993); first published in The Land of Silence and Other Poems (Rinehart, 1953), which Open Library records",
+  "locator": "Now I Become Myself, line 1, first sentence",
+  "url": "https://www.ayearofbeinghere.com/2013/06/may-sarton-now-i-become-myself.html"
+ },
+ "confidence": "medium",
+ "reason": "The line is real and is the first sentence of the poem, which ends mid line at It's taken, so the full stop is the poem's own. It is ruled CORRECTED because the proposal's locator named Collected Poems 1930 to 1973 (Norton, 1974), a volume that exists and would contain a 1953 poem but that was not opened; the wording is attested to the 1993 Collected, and that is what a card can stand behind. Note for the editor: at four words the quotation is identical to the poem's title, so the card prints the same words twice, once as the line and once in the source."
+}

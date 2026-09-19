@@ -1,0 +1,17 @@
+{
+ "id": "05-phil-07",
+ "verdict": "HEDGE",
+ "quote": "In order to be happy, one must have freed oneself of prejudice, one must be virtuous, healthy, have tastes and passions, and be susceptible to illusions; for we owe most of our pleasures to illusions, and unhappy is the one who has lost them.",
+ "source": "Émilie du Châtelet, Discourse on Happiness, the great machines of happiness, p. 349 (trans. Isabelle Bour and Judith P. Zinsser, 2009)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "HEDGE. Page 349 of the Chicago 2009 volume was never opened. The wording is corrected to the singular prejudice, which is how the only full quotation of the sentence reads, in Marcy Lascano’s penultimate draft of her 2021 article on Du Châtelet and illusions. A second Lascano paper quotes the first half with prejudices.",
+ "evidence": {
+  "where": "I downloaded and extracted both Lascano PDFs myself with pdftotext rather than reading a summary. Émilie Du Châtelet on Illusions block quotes the whole sentence at (2009: 349) and reads prejudice, singular, followed by Far then, from seeking to make them disappear by the torch of reason. Émilie du Châtelet’s Theory of Happiness: Passions and Character quotes only the first half at (DH 349) and reads prejudices, plural. The earlier verdict spliced the plural opening onto the full sentence’s tail, a reading that exists in neither paper, and the refutation was right about that. The Chicago volume itself stayed shut: Internet Archive selectedphilosop0000duch returns item not available on both fulltext endpoints and the search inside API answers empty, the Google Books API is quota blocked, and philarchive returns 403 while jmphil sits behind Anubis.",
+  "edition": "Émilie du Châtelet, Selected Philosophical and Scientific Writings, ed. Judith P. Zinsser, trans. Isabelle Bour and Judith P. Zinsser, University of Chicago Press, 2009, p. 349",
+  "locator": "Discourse on Happiness, the list of the great machines of happiness, p. 349",
+  "url": "https://www.strivingessences.com/ewExternalFiles/LascanoduChateletonIllusions.pdf"
+ },
+ "confidence": "medium",
+ "reason": "The refutation was correct that the shipped wording was a splice, so the line does not survive as it stood, but the splice is a fault in the transcription and not in the passage, which is securely du Châtelet’s and securely on page 349. In the singular reading the whole sentence exists verbatim in a named scholarly quotation of the named translation, which I read for myself, so this is not a second failure. It is a HEDGE because the page was never opened and the same scholar’s two quotations of it disagree."
+}
