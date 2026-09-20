@@ -103,6 +103,39 @@ for (const u of month.unused || []) {
   carry.entries.push(Object.assign({ fromMonth: m }, u));
   carried++;
 }
+/* Carry hygiene, from 20 September 2026. Two kinds of entry can never ship and
+   were sitting in the pool making it look deeper than it is. A line whose
+   author has reached the cap of three for the year is dead however good it is:
+   September ended with eight of them waiting, four offered to months that
+   could not have taken them. And the same passage is sometimes held twice at
+   two lengths by two months' editors, so a later editor reads two candidates
+   where there is one. Both are RETIRED, not deleted: the carry is an evidence
+   trail, and prep-month.js reads `entries` and never sees the retired pile.
+   The shorter of a pair is the survivor, the same way a card is trimmed to the
+   sentence that stands whole. PROSE ONLY: with verse, the longer passage is
+   often the better card and choosing between four lines and two is an editor's
+   judgement, not a script's, so both stay in the pool and an editor picks. */
+const atCap = Object.entries(persons).filter(([, v]) => v.count >= 3).map(([p]) => p);
+const retired = carry.retired || [];
+const live = [];
+let capped = 0;
+for (const c of carry.entries) {
+  const who = atCap.find(p => gate.samePerson(p, gate.personKey(c.source)));
+  if (who) { retired.push(Object.assign({ retiredAt: m, why: `${who} reached the cap of three for the year` }, c)); capped++; continue; }
+  live.push(c);
+}
+let collapsed = 0;
+const kept = [];
+for (const c of live) {
+  const shorter = c.quote.includes(' / ') ? null : live.find(o => o !== c && c.quote.length > o.quote.length
+    && !o.quote.includes(' / ')
+    && gate.samePerson(gate.personKey(o.source), gate.personKey(c.source))
+    && gate.normText(c.quote).startsWith(gate.normText(o.quote)));
+  if (shorter) { retired.push(Object.assign({ retiredAt: m, why: `the same passage is held whole and shorter, as ${shorter.id}` }, c)); collapsed++; continue; }
+  kept.push(c);
+}
+carry.entries = kept;
+if (retired.length) carry.retired = retired;
 fs.writeFileSync(carryPath, JSON.stringify(carry, null, 1) + '\n');
 
 /* SOURCES.md */
@@ -123,6 +156,6 @@ if (fs.existsSync(srcNote)) {
 const tags = Object.entries(r.report.tags).sort((a, b) => b[1] - a[1]).map(([t, n]) => `${t} ${n}`).join(', ');
 console.log('  tags so far: ' + tags);
 console.log('  persons more than once: ' + (Object.entries(persons).filter(([, v]) => v.count > 1).map(([k, v]) => `${k} ${v.count}`).join(', ') || 'none'));
-console.log(`  carry: ${offered} offered to this month and cleared, ${carried} routed forward, ${dropped} dropped as shipped or duplicate, ${carry.entries.length} waiting`);
+console.log(`  carry: ${offered} offered to this month and cleared, ${carried} routed forward, ${dropped} dropped as shipped or duplicate, ${capped} retired at the cap, ${collapsed} collapsed into a shorter copy, ${carry.entries.length} waiting`);
 if (month.report && month.report.shortfall) console.log('  NOTE the editor reported a shortfall: ' + JSON.stringify(month.report.shortfall));
 console.log('\n  next: node .scripts/check-syntax.js, bump data-year-classics.js ?v= in index.html and CACHE in sw.js, commit.\n');
