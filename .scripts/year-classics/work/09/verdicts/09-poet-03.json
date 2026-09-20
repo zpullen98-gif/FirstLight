@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "I shall always be a flower girl to Professor Higgins, because he always treats me as a flower girl, and always will; but I know I can be a lady to you, because you always treat me as a lady, and always will.",
+ "source": "Bernard Shaw, Pygmalion, Act V, the speech to Colonel Pickering (Liza Doolittle)",
+ "speaker": "Liza Doolittle",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Read the speech in the Project Gutenberg text of Pygmalion, ebook 3825, where the sentence stands word for word as proposed, spoken by Liza to Pickering with Mrs Higgins answering two speeches later; the act headings in the same file place it inside Act V. The wording was then checked against a scanned Constable printing of Pygmalion: a play in five acts, which prints the same sentence with the same commas, and against several scanned quotation books. A second textual state exists, used by the My Fair Lady volumes, which reads how she is treated and drops the commas before because; the state quoted here is the one the play text prints. The Gutenberg transcriber's note warns that the printed text omits apostrophes in contractions, which is why a sentence without contractions was the right choice.",
+  "url": "https://www.gutenberg.org/files/3825/3825-h/3825-h.htm",
+  "edition": "Bernard Shaw, Pygmalion, Act V; Project Gutenberg 3825, checked against a scanned Constable printing",
+  "locator": "Act V, in the speech on the difference between a lady and a flower girl, Liza to Colonel Pickering"
+ },
+ "confidence": "high",
+ "reason": "Wording, speaker, addressee and act all check against a printed text. No publication year is named in the source because two textual states of the speech circulate and the scans seen do not settle which printing of 1916 carries which, and the rule asks for a year only when a translation is being quoted. Shaw stands at one for the year, is not banned, and shipped.js finds no match and no near match."
+}

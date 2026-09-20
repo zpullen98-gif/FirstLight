@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-03",
+ "verdict": "VERIFIED",
+ "quote": "To tame the Proud, the fetter’d Slave to free; / These are Imperial Arts, and worthy thee.",
+ "source": "Virgil, the Aeneid, Book VI, lines 1177 to 1178, Latin 6.853 (Anchises) (trans. John Dryden, 1697)",
+ "speaker": "Anchises",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource's transcription of The Works of Virgil translated by John Dryden, Aeneid Book VI, which keeps the seventeenth century capitals and prints the marginal line numbers; the two lines fall at 1177 and 1178, closing Anchises' speech on the Roman arts, and render Latin 6.851 to 853.",
+  "url": "https://en.wikisource.org/wiki/The_Works_of_Virgil_(Dryden)/Aeneid/Book_VI",
+  "edition": "The Works of Virgil, trans. John Dryden (Jacob Tonson, London, 1697)",
+  "locator": "Aeneis, Book VI, lines 1177 to 1178 in Dryden's lineation; Latin Aeneid 6.853"
+ },
+ "confidence": "high",
+ "reason": "Wording, capitals, line numbers and speaker all match the proposal against the Dryden transcription. Modernised reprints of Dryden lowercase the nouns and print a colon rather than a semicolon after free, so the capitals and the semicolon are correct only because the source names the 1697 edition, which it does. This is Anchises speaking to Aeneas in the underworld, not the poet, and the brief's speaker trap for Virgil is satisfied; Virgil stands at one for the year."
+}

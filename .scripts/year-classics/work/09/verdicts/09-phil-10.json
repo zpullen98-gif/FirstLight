@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "Woman is born free and remains equal to man in rights.",
+ "source": "Olympe de Gouges, Declaration of the Rights of Woman and of the Female Citizen, Article I (trans. Lynn Hunt, 1996)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Liberty, Equality, Fraternity archive at George Mason University, which prints Hunt translation of the Declaration with her credit line.",
+  "edition": "Lynn Hunt, trans. and ed., The French Revolution and Human Rights: A Brief Documentary History (Bedford/St. Martin, 1996), pp. 124 to 129",
+  "locator": "Article I, the first sentence",
+  "url": "https://revolution.chnm.org/d/293/"
+ },
+ "confidence": "high",
+ "reason": "Article I in Hunt translation reads exactly as proposed, followed by a second sentence on social distinctions that the quotation does not take. The Bedford page range in the proposal matches the credit line printed with the document."
+}

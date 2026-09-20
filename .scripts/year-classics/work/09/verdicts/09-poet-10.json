@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-10",
+ "verdict": "VERIFIED",
+ "quote": "Let a new earth rise. Let another world be born.",
+ "source": "Margaret Walker, For My People, the opening of the final stanza, Poetry, November 1937, and For My People (Yale, 1942)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The first printing, Poetry vol. 51 no. 2, November 1937, searched inside the scanned issue on the Internet Archive: the contents page lists For My People by Margaret Walker, and the last page of the poem carries the whole closing stanza, Let a new earth rise. Let another world be born. Let a bloody peace be written in the sky, down to Let a race of men now rise and take control. The Academy of American Poets prints the same stanza from This Is My Century: New and Collected Poems (University of Georgia Press, 1989), and its setting puts both sentences inside the first printed line of the stanza, with the rest of that line indented under it.",
+  "url": "https://archive.org/details/sim_poetry_1937-11_51_2",
+  "edition": "Poetry, November 1937 (first printing); the title poem of For My People (Yale University Press, 1942); text also in This Is My Century (University of Georgia Press, 1989)",
+  "locator": "the final stanza, its first two sentences"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact in two printings that were actually read, so no slash is needed and none is used: the long line runs on past these two sentences. Two small facts for the record. The 1937 magazine text ends the poem take control with an exclamation mark and sets issue forth, let a people with a comma, where later printings use a full stop and a semicolon, but neither variant touches the quoted sentences. The page of the 1942 Yale book was not seen, so the source names the 1937 printing first and the book second rather than resting the wording on a volume nobody opened."
+}

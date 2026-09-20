@@ -1,0 +1,27 @@
+{
+ "id": "09-cfl-06",
+ "verdict": "REJECT",
+ "quote": "What is the chief end of man? A. To get rich. In what way? A. Dishonestly if we can; honestly if we must.",
+ "source": "Mark Twain, The Revised Catechism, the opening question and answer, New-York Tribune, 27 September 1871, p. 6",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Second re-verification. The Library of Congress scan and OCR of the New-York Tribune for 27 September 1871, page 6, which the refutation reached and which prints the piece as a catechism: the heading, then First class in modern Moral Philosophy stand up and recite, then each question on its own line with its answer marked A. on the next. twainquotes.com, a website and not an edition, prints the run together form the proposal used, with double hyphen dashes and lowercase answers, and the Center for Mark Twain Studies carries the same condensed form. No named edition prints the proposal's wording, and none prints the earlier verdict's hybrid either. Ordering of the clauses confirmed as dishonestly if we can, honestly if we must.",
+  "url": "https://www.loc.gov/resource/sn83030214/1871-09-27/ed-1/?sp=6",
+  "edition": "New-York Tribune (New York), 27 September 1871, p. 6",
+  "locator": "page 6, the opening question and answer of The Revised Catechism"
+ },
+ "confidence": "high",
+ "reason": "The citation is sound and the Tribune text is confirmed, but no shippable wording exists: the paper sets a catechism in separate lines with A. before each answer, and the rules allow no line breaks in prose and no slashes outside verse, so every form the card could print is one no edition prints, which is minting. It also collides with the verified Twain on prejudice that two earlier months deliberately routed to September, and a creed for getting rich dishonestly does not help at six in the morning in a month about what is owed.",
+ "refutationUpheld": true,
+ "priorVerdict": "CORRECTED",
+ "shippedCheck": {
+  "shipped": [],
+  "near": [],
+  "person": "samuel clemens",
+  "yearCount": 0,
+  "atCap": false,
+  "banned": false
+ }
+}

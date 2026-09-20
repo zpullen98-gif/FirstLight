@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "What is wanted for women is equal rights, equal admission to all social privileges; not a position apart, a sort of sentimental priesthood.",
+ "source": "Harriet Taylor Mill, Enfranchisement of Women, Westminster and Foreign Quarterly Review, July 1851, on the Worcester resolutions",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Two transcriptions of the 1851 Westminster Review text: the Worcester Women History Project page reprinting Woman Rights Tracts No. 4 (Syracuse, 1852 or 1853), and the Wikisource text of the same printing.",
+  "edition": "Westminster and Foreign Quarterly Review, July 1851",
+  "locator": "the paragraph on the Worcester convention resolutions, second from the close",
+  "url": "https://www.wwhp.org/node/1674"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands in the penultimate paragraph, where the essay objects to the vague fourth resolution of the 1850 Worcester convention. Both witnesses of the 1851 printing read equal admission in the singular, which is the wording proposed; a later transcription of the Dissertations and Discussions reprint reads admissions, so the 1851 locator and this wording belong together."
+}

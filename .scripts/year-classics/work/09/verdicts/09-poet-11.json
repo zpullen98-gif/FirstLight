@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-11",
+ "verdict": "VERIFIED",
+ "quote": "Your fault beeing greater, why should you disdaine / Our beeing your equals, free from tyranny?",
+ "source": "Aemilia Lanyer, Salve Deus Rex Judaeorum, Eves Apologie, the stanza beginning Then let vs haue our Libertie againe (1611)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The 1611 first edition itself, in the Early English Books scan on the Internet Archive, downloaded as plain text and read at the stanza. It sets the eight lines Then let vs haue our Libertie againe, And challendge to your selues no Souraigntie; You came not in the world without our paine, Make that a barre against your crueltie; Your fault beeing greater, why should you disdaine Our beeing your equals, free from tyranny? If one weake woman simply did offend, This sinne of yours, hath no excuse, nor end. The running head of the section is Eues Apologie in defence of Women.",
+  "url": "https://archive.org/download/bim_early-english-books-1475-1640_salve-deus-rex-judaeorum_lanyer-aemilia-mrs_1611/bim_early-english-books-1475-1640_salve-deus-rex-judaeorum_lanyer-aemilia-mrs_1611_djvu.txt",
+  "edition": "Salve Deus Rex Judaeorum (Valentine Simmes for Richard Bonian, London, 1611), the first edition",
+  "locator": "Eves Apologie in defence of Women, the stanza beginning Then let vs haue our Libertie againe, lines 5 and 6 of that stanza"
+ },
+ "confidence": "high",
+ "reason": "The two lines are exact in the 1611 book, spelling and all: beeing twice, disdaine, and the question mark at the end. The proposal's hedge is answered by naming the stanza rather than the line numbers: the numbering in the 820s comes from modern editions and Susanne Woods's Oxford text of 1993 was not opened, so it is left out instead of being asserted. The speaker is not named either. The section sits inside the plea of Pilate's wife, which the poem introduces with heare the words of thy most worthy wife, but the poem later says Witnesse thy wife, O Pilate, speakes for all, in the third person, so the voice is not cleanly a character's and the line is left with Lanyer's own byline."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "Attention, attention must be finally paid to such a person.",
+ "source": "Arthur Miller, Death of a Salesman, Act One, Linda to her sons (Viking Press, 1949) (Linda Loman)",
+ "speaker": "Linda Loman",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded a scanned printed text of the complete play and read Linda’s speech to Biff and Happy. It runs from I don’t say he’s a great man to the quoted sentence, which is printed with the word order must be finally paid, not must finally be paid, the variant that circulates in quotation sites. The sentence is not the end of her speech: she goes straight on to You called him crazy.",
+  "url": "https://archive.org/download/deathofsalesmans00mill/deathofsalesmans00mill_djvu.txt",
+  "edition": "Scan of a printed complete text of the play issued with the 1966 Theatre Recording Society recording, following the Viking Press text of 1949",
+  "locator": "Act One, Linda to Biff and Happy, in the speech beginning I don’t say he’s a great man"
+ },
+ "confidence": "high",
+ "reason": "The wording, speaker and act are confirmed against a printed text, and the word order question that decides this line is settled the proposal's way. The source keeps Viking Press 1949 because that is the first edition of the play and the standard citation, while the page actually read was a later printing of the same text. Miller is at no count for the year; shipped.js finds no match."
+}

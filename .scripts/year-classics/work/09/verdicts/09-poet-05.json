@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "Yes, I’d give the Devil benefit of law, for my own safety’s sake.",
+ "source": "Robert Bolt, A Man for All Seasons, Act One, the exchange with Roper (Heinemann, 1960) (Sir Thomas More)",
+ "speaker": "Sir Thomas More",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the scanned text of the Heinemann printing of the play and read the Roper exchange in full. The sentence stands exactly as proposed, with a full stop, after the stage direction Quietly, and it is the last thing More says in that speech. The passage sits between the ACT ONE heading and the ACT TWO heading in the same scan, so the act is confirmed rather than assumed.",
+  "url": "https://archive.org/download/dli.ernet.502950/502950-A%20Man%20For%20All%20Seasons%281960%29_djvu.txt",
+  "edition": "Robert Bolt, A Man for All Seasons: A Play in Two Acts, Heinemann, first published 1960 (the scan is a 1960 to 1962 Heinemann printing)",
+  "locator": "Act One, More answering Roper on cutting down the laws, the closing sentence of the speech"
+ },
+ "confidence": "high",
+ "reason": "Wording, speaker, act and terminal stop all check against a printed Heinemann text. The film gives the line with an exclamation mark, which is why the stop mattered, and the play prints a full stop. Bolt stands at one for the year and is not banned; shipped.js finds no match and no near match."
+}

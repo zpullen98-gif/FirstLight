@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "Music to soothe all its sorrow, / Till war and crime shall cease; / And the hearts of men grown tender / Girdle the world with peace.",
+ "source": "Frances Ellen Watkins Harper, Songs for the People, the closing stanza, Poems (George S. Ferguson, 1896); first in Atlanta Offering, 1895",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Academy of American Poets text of the poem, which credits Poems (George S. Ferguson, 1896), checked against the transcription of the 1895 Atlanta Offering in African American Poetry: A Digital Anthology at Lehigh University.",
+  "edition": "Poems (George S. Ferguson, 1896); Atlanta Offering: Poems (Philadelphia, 1895)",
+  "locator": "Songs for the People, the eighth and final stanza",
+  "url": "https://poets.org/poem/songs-people"
+ },
+ "confidence": "high",
+ "reason": "Two independent texts of the poem, the 1896 Poems as carried by poets.org and the 1895 Atlanta Offering as transcribed at Lehigh, print the final stanza word for word and point for point as proposed. The stanza closes the poem, so the fame test holds."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-15",
+ "verdict": "VERIFIED",
+ "quote": "The notion of obligations comes before that of rights, which is subordinate and relative to the former.",
+ "source": "Simone Weil, The Need for Roots, Part One, the opening sentence (trans. Arthur Wills, 1952)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "full text search across scanned books returned the sentence quoted from the Wills translation in several scholarly monographs, each running straight on into the next sentence of the book",
+  "edition": "The Need for Roots, trans. Arthur Wills (Routledge and Kegan Paul, 1952), from L’Enracinement (Gallimard, 1949)",
+  "locator": "Part One, The Needs of the Soul, the first sentence of the book",
+  "url": "https://openlibrary.org/search/inside?q=%22The+notion+of+obligations+comes+before+that+of+rights%22"
+ },
+ "confidence": "high",
+ "reason": "Wills wording exact, and the witnesses continue with A right is not effectual by itself, but only in relation to the obligation to which it corresponds, which is the book’s second sentence. Weil stands at two for the year, so this closes her at three."
+}

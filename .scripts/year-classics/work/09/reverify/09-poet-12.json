@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-12",
+ "verdict": "CORRECTED",
+ "quote": "Yes, injured Woman! rise, assert thy right!",
+ "source": "Anna Laetitia Barbauld, The Rights of Woman, line 1, Works, ed. Lucy Aikin, vol. I, p. 185 (Longman, 1825)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected the locator to page 185 of the 1825 Works, line 1. The poem was printed after Barbauld died and it turns against its own opening: the last stanza tells woman to abandon each ambitious thought and closes that separate rights are lost in mutual love.",
+ "evidence": {
+  "where": "The 1825 first printing on the Internet Archive, downloaded whole as plain text and read from the title page to the end of the poem, independently of the first verdict.",
+  "url": "https://archive.org/download/worksofannlaetit01barbuoft/worksofannlaetit01barbuoft_djvu.txt",
+  "edition": "The Works of Anna Laetitia Barbauld, with a Memoir by Lucy Aikin, in two volumes, vol. I (Longman, Hurst, Rees, Orme, Brown, and Green, London, 1825)",
+  "locator": "The Rights of Woman, p. 185, line 1; the poem runs p. 185 to p. 187"
+ },
+ "confidence": "high",
+ "reason": "The scan confirms every citation fact: the title page, the contents entry The Rights of Woman 185, the page head at 185, and line 1 as YES, injured Woman! rise, assert thy right! with the opening word in the edition's typographic capitals. shipped.js returns nothing shipped, no near opening, Barbauld at 0 of 3, not banned. The refutation is right about the poem and wrong to sink it: the stanzas I read on the same scan run through Thy rights are empire: urge no meaner claim and Make treacherous Man thy subject, not thy friend, and the poem closes on p. 187 with That separate rights are lost in mutual love, so the opening is the position the poem retracts. That is the misattribution sheet's real but nearly always misread case, which the sheet resolves with a note rather than by dropping the line, as it does for Sartre and Frost. The fault was the empty note and a locator that carried an interpretive claim instead of a page, so the ruling is CORRECTED rather than REJECT: the page replaces the prose locator, the reading that the poem answers Wollstonecraft comes out of the source because it is a scholarly inference and not a printed fact, and the note carries the turn. One editor's matter, not a citation matter: September already holds two Wollstonecraft carry-ins, and this line put beside them without its note would read as agreement."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-03",
+ "verdict": "CORRECTED",
+ "quote": "To tame the Proud, the fetter’d Slave to free; / These are Imperial Arts, and worthy thee.",
+ "source": "Virgil, the Aeneid, Book VI, the close of Anchises’ speech, Latin 6.852 to 853 (Anchises) (trans. John Dryden, 1697, text of 1709)",
+ "speaker": "Anchises",
+ "tradition": "Poetry",
+ "note": "Corrected: the wording read is the 1709 Tonson octavo of Dryden, and the Latin is 6.852 to 853, not 6.853. The proposal line numbers 1177 and 1178 rest on a misplaced margin marker. Dryden’s fetter’d Slave to free renders parcere subiectis, spare the conquered; Anchises is naming the arts of empire.",
+ "evidence": {
+  "where": "I read the Wikisource transcription of Dryden's Aeneid Book VI and then the underlying Page namespace scan, and confirmed the edition and the marginal line numbers myself. The rendered chapter transcludes from Index:Virgil's Pastorals, Georgics and Aeneis - Dryden (1709) - volume 2.djvu, spanning pages 360 to 421 of the Tonson octavo of 1709; no 1697 folio was opened by anyone in this chain. On scan page 418 the margin prints 1160, 1165, 1170, 1175, 1180 and 1185. The marker 1170 sits on And soften into Flesh a Marble Face, which puts To tame the Proud at 1176 and These are Imperial Arts at 1177. Reading down from the 1180 marker gives the same answer, These are Imperial Arts at 1177, three lines above it. Only the 1175 marker, which sits on To rule Mankind and make the World obey, yields the proposal's 1177 and 1178, and it is the odd one of three, displaced by the braced triplet. Scan page 419 prints 1201 where 1200 belongs, which shows the printing's own markers drift. The wording, the capitals, the curly apostrophe in fetter'd, the semicolon after free and the terminal stop all match the scan character for character. The Latin was checked against the standard numbering: 6.851 tu regere imperio populos Romane memento, 6.852 hae tibi erunt artes pacique imponere morem, 6.853 parcere subiectis et debellare superbos. Dryden reverses the pair, so the couplet renders 6.852 to 853 and not 6.853 alone.",
+  "url": "https://en.wikisource.org/wiki/Page:Virgil%27s_Pastorals,_Georgics_and_Aeneis_-_Dryden_(1709)_-_volume_2.djvu/418",
+  "edition": "Virgil's Pastorals, Georgics and Aeneis, trans. John Dryden, volume 2 (Jacob Tonson, London, 1709), p. 418",
+  "locator": "Aeneis, Book VI, the close of Anchises' speech, lines 1176 to 1177 in the 1709 margins; Latin Aeneid 6.852 to 853"
+ },
+ "confidence": "medium",
+ "reason": "The refutation is right on all three points of fact and I confirmed each independently: the witness is the 1709 Tonson octavo and not the 1697 folio, the couplet falls at 1176 and 1177 by two of the three margin markers on its own page, and the Latin is 6.852 to 853. The wording itself is genuine Dryden and survives untouched, so this is a correction and not a rejection. The remaining doubt is the fourth objection, which the note now carries rather than hides: parcere subiectis means spare the conquered, so the fetter’d Slave to free is Dryden's own, and the couplet is the tail of a sentence whose head is To rule Mankind and make the World obey. Confidence is medium because the line numbers come from a printing whose markers demonstrably drift and because whether Virgil's byline may stand over Dryden's invention on a justice card is the editor's call, made with the note in hand."
+}

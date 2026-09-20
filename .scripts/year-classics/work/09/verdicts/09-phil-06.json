@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-06",
+ "verdict": "CORRECTED",
+ "quote": "In the happiness of his subjects lies his happiness; in their welfare his welfare; whatever pleases himself he shall not consider as good, but whatever pleases his subjects he shall consider as good.",
+ "source": "Kautilya, Arthashastra, Book I, chapter XIX, The Duties of a King (trans. R. Shamasastry, 1915)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "The locator named the Bangalore Government Press, which published the translation, in the place of the translator. The wording is R. Shamasastry’s and is verified at Book I, chapter XIX. Authorship and date are traditional: scholars treat the text as composite and place its compilation centuries later than 300 BCE.",
+ "evidence": {
+  "where": "The chapter text read in two independent presentations of the Shamasastry translation, agreeing word for word and in punctuation, both placing the sentence in Book I, chapter XIX under the heading The Duties of a King.",
+  "url": "https://www.wisdomlib.org/hinduism/book/kautilya-arthashastra/d/doc365597.html",
+  "edition": "Kautilya's Arthasastra, translated by R. Shamasastry (Government Press, Bangalore, 1915); the translation first appeared serially from 1905 and is reprinted with the same wording in later Mysore printings",
+  "locator": "Book I, chapter XIX, The Duties of a King"
+ },
+ "confidence": "high",
+ "reason": "The sentence is exact in Shamasastry, semicolons and all, at the chapter the proposal names. What was wrong was the citation form: the proposal wrote trans. Bangalore Government Press, naming the publisher where the translator belongs, and the translator field and locator disagreed with each other. The corrected source names R. Shamasastry and his year. The note also carries the honest caveat the brief asked for, that Kautilya as author and 300 BCE as a date are traditional rather than settled."
+}

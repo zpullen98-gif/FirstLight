@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "Terrible is the temptation to do good!",
+ "source": "Bertolt Brecht, The Caucasian Chalk Circle, scene 2, The Noble Child (the Singer) (trans. James and Tania Stern with W. H. Auden, 1960)",
+ "speaker": "the Singer",
+ "tradition": "Drama",
+ "note": "Corrected. The translator is not Eric Bentley. Bentley's Parables for the Theatre reads Fearful is the seductive power of goodness. This wording is the version by James and Tania Stern with W. H. Auden in Brecht, Plays Volume One, Methuen, 1960. The line closes scene 2, The Noble Child; the flight into the mountains is scene 3.",
+ "evidence": {
+  "where": "Full text search inside scanned books. The Methuen volume Plays Volume One, whose contents page reads The Caucasian Chalk Circle translated by James and Tania Stern, with W. H. Auden, prints THE SINGER loudly: Terrible is the temptation to do good! followed by Grusha now settles down to keep watch over the child; the same text appears in the Methuen Collected Plays, which carries the same translator credit, and in two teaching anthologies. The Bentley editions tell against the proposal: Parables for the Theatre and the Grove Press Caucasian Chalk Circle, in Bentley's revised English versions, both read evening and night were coming on. Fearful is the seductive power of goodness! The same scan of Plays Volume One shows the scene heading 2 THE NOBLE CHILD, so the scene number is right and the scene title in the proposal is wrong.",
+  "url": "https://openlibrary.org/search/inside?q=%22Terrible+is+the+temptation+to+do+good%22+%22Grusha+now+settles+down%22",
+  "edition": "Bertolt Brecht, Plays Volume One, Methuen, 1960, The Caucasian Chalk Circle trans. James and Tania Stern with W. H. Auden",
+  "locator": "scene 2, The Noble Child, the Singer as Grusha settles down to keep watch over the child"
+ },
+ "confidence": "high",
+ "reason": "The wording is real and printed, with the exclamation mark, but the attribution to Bentley is refuted by Bentley's own pages, which render the line quite differently. The scene title is corrected from The Flight into the Northern Mountains to The Noble Child. Brecht is unused in the year, is not banned, and shipped.js finds no match and no near match."
+}

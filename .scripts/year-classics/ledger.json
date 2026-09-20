@@ -42,10 +42,11 @@
    ]
   },
   "immanuel kant": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    7
+    7,
+    9
    ]
   },
   "sarojini naidu": {
@@ -90,10 +91,11 @@
    ]
   },
   "mary ann evans": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    2
+    2,
+    9
    ]
   },
   "william shakespeare": {
@@ -139,10 +141,11 @@
    ]
   },
   "anne frank": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    7
+    7,
+    9
    ]
   },
   "henri bergson": {
@@ -241,10 +244,11 @@
    ]
   },
   "simone weil": {
-   "count": 2,
+   "count": 3,
    "months": [
     2,
-    3
+    3,
+    9
    ]
   },
   "gabriela mistral": {
@@ -328,10 +332,11 @@
    ]
   },
   "leo tolstoy": {
-   "count": 2,
+   "count": 3,
    "months": [
     2,
-    4
+    4,
+    9
    ]
   },
   "iris murdoch": {
@@ -395,10 +400,11 @@
    ]
   },
   "abigail adams": {
-   "count": 2,
+   "count": 3,
    "months": [
     3,
-    7
+    7,
+    9
    ]
   },
   "friedrich schiller": {
@@ -453,10 +459,11 @@
    ]
   },
   "henrik ibsen": {
-   "count": 2,
+   "count": 3,
    "months": [
     3,
-    6
+    6,
+    9
    ]
   },
   "maria montessori": {
@@ -720,9 +727,10 @@
    ]
   },
   "saadi": {
-   "count": 1,
+   "count": 2,
    "months": [
-    5
+    5,
+    9
    ]
   },
   "michel de montaigne": {
@@ -763,10 +771,11 @@
    ]
   },
   "mary wollstonecraft": {
-   "count": 2,
+   "count": 3,
    "months": [
     5,
-    6
+    6,
+    9
    ]
   },
   "natalia ginzburg": {
@@ -826,9 +835,10 @@
    ]
   },
   "euripides": {
-   "count": 1,
+   "count": 2,
    "months": [
-    6
+    6,
+    9
    ]
   },
   "marie bashkirtseff": {
@@ -917,9 +927,10 @@
    ]
   },
   "john ruskin": {
-   "count": 1,
+   "count": 2,
    "months": [
-    6
+    6,
+    9
    ]
   },
   "aeschylus": {
@@ -977,9 +988,10 @@
    ]
   },
   "dag hammarskjold": {
-   "count": 1,
+   "count": 2,
    "months": [
-    7
+    7,
+    9
    ]
   },
   "emily bronte": {
@@ -1148,6 +1160,114 @@
    "count": 1,
    "months": [
     8
+   ]
+  },
+  "jane addams": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "chinua achebe": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "ibn khaldun": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "emma lazarus": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "christine de pizan": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "ursula k. le guin": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "aemilia lanyer": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "anna julia cooper": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "jean-jacques rousseau": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "arthur miller": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "william morris": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "bai juyi": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "kautilya": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "florence nightingale": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "bertolt brecht": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "yehuda amichai": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "martin luther king": {
+   "count": 1,
+   "months": [
+    9
+   ]
+  },
+  "john rawls": {
+   "count": 1,
+   "months": [
+    9
    ]
   }
  }

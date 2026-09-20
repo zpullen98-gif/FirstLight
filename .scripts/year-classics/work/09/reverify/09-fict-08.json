@@ -1,0 +1,30 @@
+{
+ "id": "09-fict-08",
+ "verdict": "REJECT",
+ "quote": "Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business.",
+ "source": "Charles Dickens, A Christmas Carol, Stave I, Marley’s Ghost (Chapman and Hall, 1843) (the Ghost of Jacob Marley)",
+ "speaker": "the Ghost of Jacob Marley",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Second re-verification, checking the refutation's claim directly against the repository rather than against the text. Every file the refutation names exists and says what it says it says. carry.json holds entry 02-fict-10 with this quotation character for character, fromMonth 2, tradition Fiction, source Charles Dickens, A Christmas Carol, Stave One (Jacob Marley's Ghost), note Verified in Stave One with the first-edition commas. A December line by its book, and fitMonth 12. work/02/verdicts/02-fict-10.json is a VERIFIED verdict at high confidence on the Gutenberg text of the Chapman and Hall setting. SOURCES.md line 911 routes the survivors by month and reads, for December, Renewal and Hope: Dickens's Mankind was my business, Arendt on forgiving. The month 9 brief's carryIns array does not contain it, because its fitMonth is 12 and this month only receives entries marked fitMonth 9, which is exactly how the fiction-essay lane came to re-propose a line February had already verified and sent away. shipped.js reports shipped empty, near empty, charles dickens at 1 of 3 from month 8, not at cap, not banned, which is true and which is why the gate did not catch it: the collision is in the carry, not in the shipped banks. The wording itself is not in doubt. The refutation downloaded Gutenberg 46 and found the ghost's speech reading Business! cried the Ghost, wringing its hands again. Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business. The dealings of my trade were but a drop of water in the comprehensive ocean of my business! The proposal matches it exactly, including the commas around all, and cuts at a full stop the text prints. The refutation's one correction is also right and is carried into the source line above for whichever month lands the line: the 1843 Chapman and Hall setting heads the chapter STAVE I, and Stave One is a later styling.",
+  "url": "https://www.gutenberg.org/cache/epub/46/pg46.txt",
+  "edition": "A Christmas Carol in Prose, Chapman and Hall, 1843, as the existing carry entry 02-fict-10 already cites it",
+  "locator": "Stave I, Marley’s Ghost, the speech beginning Business! cried the Ghost, wringing its hands again"
+ },
+ "confidence": "high",
+ "reason": "Nothing is wrong with the quotation and everything is wrong with landing it here. The identical sentence is already in the pipeline as carry entry 02-fict-10, verified in February and routed to December by SOURCES.md, so September would either print the same sentence twice in one year or take a line December is counting on. It would also put Dickens at three for the year with two of the three being one sentence, inside the cap and plainly wrong. shipped.js cannot see this because the collision is in carry.json rather than in the shipped banks, so the gate passing it is not an argument for it. Struck as a duplicate, with December keeping 02-fict-10 and taking the Stave I correction into its source line.",
+ "refutationUpheld": true,
+ "priorVerdict": "VERIFIED",
+ "shippedCheck": {
+  "shipped": [],
+  "near": [],
+  "person": "charles dickens",
+  "yearCount": 1,
+  "months": [
+   8
+  ],
+  "atCap": false,
+  "banned": false
+ }
+}

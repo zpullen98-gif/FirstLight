@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-02",
+ "verdict": "VERIFIED",
+ "quote": "If more of us valued food and cheer and song above hoarded gold, it would be a merrier world.",
+ "source": "J. R. R. Tolkien, The Hobbit, chapter XVIII, The Return Journey (George Allen and Unwin, 1937) (Thorin Oakenshield)",
+ "speaker": "Thorin Oakenshield",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The full text of chapter 18, The Return Journey, read online, with Thorin's dying speech to Bilbo intact; the chapter title and number confirmed against Tolkien Gateway's chapter listing for The Hobbit. One search result claimed the sentence belongs only to the 1977 television adaptation; the chapter text refutes that, and the adaptation's wording is different.",
+  "url": "https://esl-bits.eu/ESL.English.Learning.Audiobooks/The.Hobbit/18/text.html",
+  "edition": "The Hobbit, or There and Back Again (George Allen and Unwin, London, 1937)",
+  "locator": "chapter XVIII, The Return Journey, in Thorin's last speech"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact and the sentence sits in Thorin's dying speech, between Some courage and some wisdom, blended in measure and But sad or merry, I must leave it now. One caution for the editor and not for the citation: shipped.js puts Tolkien at two for the year, so this line takes him to the cap of three and closes out the three Tolkien carry-ins, one of which, small hands do them because they must, is marked for September as well."
+}

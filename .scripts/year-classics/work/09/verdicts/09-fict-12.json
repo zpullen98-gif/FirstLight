@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "We know that there is no help for us but from one another, that no hand will save us if we do not reach out our hand.",
+ "source": "Ursula K. Le Guin, The Dispossessed, chapter 9, the speech in Capitol Square, Nio Esseia (Shevek) (Harper and Row, 1974)",
+ "tradition": "Fiction",
+ "speaker": "Shevek",
+ "note": "",
+ "evidence": {
+  "where": "full text of the novel extracted from a scan and searched directly; the sentence sits inside Shevek’s speech, which falls between the opening of chapter 9 and the opening of chapter 10",
+  "edition": "The Dispossessed, chapter 9; first published by Harper and Row in 1974, written in English so no translator",
+  "locator": "chapter 9, Shevek addressing the demonstration in Capitol Square, Nio Esseia",
+  "url": "https://files.libcom.org/files/Le%20Guin%20-%20The%20Dispossessed.pdf"
+ },
+ "confidence": "high",
+ "reason": "The sentence is exact, including its full stop, and stands in the named chapter. The square is named in the text, so the locator now says Capitol Square within Nio Esseia."
+}

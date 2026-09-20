@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-10",
+ "verdict": "CORRECTED",
+ "quote": "Fellowship is life, and lack of fellowship is death: and the deeds that ye do upon the earth, it is for fellowship’s sake that ye do them.",
+ "source": "William Morris, A Dream of John Ball, chapter IV, The Voice of John Ball (John Ball) (Reeves and Turner, 1888)",
+ "tradition": "Fiction",
+ "speaker": "John Ball",
+ "note": "Morris writes one long sentence: Forsooth, brethren, fellowship is heaven, and lack of fellowship is hell, before the words quoted, and the sentence runs on past them. The quotation is cut at a complete clause, its first letter raised to a capital, and closed with a full stop no edition prints. Every word is in order.",
+ "evidence": {
+  "where": "Project Gutenberg ebook 357 and the Marxists Internet Archive transcription, both giving chapter IV as The Voice of John Ball and the same sermon wording",
+  "edition": "A Dream of John Ball, chapter IV; first serialised in The Commonweal in 1886 to 1887 and issued in book form by Reeves and Turner in 1888",
+  "locator": "chapter IV, John Ball’s sermon at the cross",
+  "url": "https://www.gutenberg.org/cache/epub/357/pg357-images.html"
+ },
+ "confidence": "high",
+ "reason": "The passage is genuine and in the named chapter, but the proposal presents a mid sentence excerpt as a whole sentence, so the cut and the raised capital have to be declared."
+}

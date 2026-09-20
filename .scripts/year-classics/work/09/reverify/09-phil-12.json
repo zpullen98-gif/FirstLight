@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-12",
+ "verdict": "CORRECTED",
+ "quote": "Freedom is always and exclusively freedom for the one who thinks differently.",
+ "source": "Rosa Luxemburg, The Russian Revolution, ch. 6, The Problem of Dictatorship: her marginal note (trans. Bertram D. Wolfe, 1940)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Luxemburg wrote The Russian Revolution in Breslau prison in 1918 and left it unfinished. She set this sentence in the margin beside the main text, not in the body. It is absent from Paul Levi’s first printing of 1922 and first appears in a later edition. Wolfe’s translation of 1940 places it in his chapter 6.",
+ "evidence": {
+  "where": "Read the Marxists Internet Archive transcription of the Wolfe translation, chapter 6, where the sentence stands in the body between the sentence on freedom for supporters of the government and the sentence on fanatical concepts of justice; the index page header names Workers Age Publishers, New York, 1940, Bertram Wolfe as translator, and Levi 1922 as first publication. Read the German article on the sentence, which states it is a Randbemerkung written in the fourth chapter beside the main text, absent from Levi 1922, first printed probably in the Paris edition of 1938. The 1940 pamphlet itself was not seen.",
+  "edition": "Bertram D. Wolfe, trans., The Russian Revolution (Workers Age Publishers, New York, 1940)",
+  "locator": "Chapter 6, The Problem of Dictatorship",
+  "url": "https://www.marxists.org/archive/luxemburg/1918/russian-revolution/ch06.htm"
+ },
+ "confidence": "medium",
+ "reason": "The wording is exact in the named translation at the named place, so the line is real and the earlier verdict was right about that much. Its reason was wrong on the point the refutation raised: the sentence is Luxemburg’s marginal note, and it is not in Levi’s 1922 text that Wolfe’s edition names as the first publication. The fix is a source line that says marginal note and a note that gives the prison manuscript and the printing history, so the card no longer presents a margin as body."
+}

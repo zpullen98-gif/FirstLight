@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-11",
+ "verdict": "VERIFIED",
+ "quote": "We are the only animal species in which the female depends on the male for food, the only animal species in which the sex-relation is also an economic relation.",
+ "source": "Charlotte Perkins Gilman, Women and Economics, chapter I (Small, Maynard and Company, 1898)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The University of Pennsylvania Digital Library transcription of the 1898 Small, Maynard first edition, and the Project Gutenberg text of the 1900 Putnam printing; both read identically.",
+  "edition": "Small, Maynard and Company, Boston, 1898",
+  "locator": "Chapter I, following the sentence beginning In view of these facts",
+  "url": "https://digital.library.upenn.edu/women/gilman/economics/economics.html"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in Chapter I, where Gilman first states the thesis the book is known by, and the wording and the hyphen in sex-relation are as printed. Two independent transcriptions agree."
+}

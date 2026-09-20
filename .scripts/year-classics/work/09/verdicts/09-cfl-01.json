@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-01",
+ "verdict": "VERIFIED",
+ "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+ "source": "Virginia Woolf, A Room of One’s Own, chapter one, after the dinner at Fernham (Hogarth Press, 1929)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the Project Gutenberg Australia text of A Room of One’s Own, downloaded and searched directly; the sentence falls between the chapter marker ONE and the chapter marker TWO, in the paragraph that ends the Fernham dinner",
+  "edition": "A Room of One’s Own, Hogarth Press, 1929; written in English, so no translator",
+  "locator": "chapter one, in Mary Seton’s sitting room after the dinner of soup, beef and prunes; the next sentence is The lamp in the spine does not light on beef and prunes",
+  "url": "https://gutenberg.net.au/ebooks02/0200791.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is exact, including its full stop, and the chapter is one as proposed. The locator gloss is tightened: the line follows the Fernham dinner, not the Oxbridge luncheon, which it answers from the other side. Note for the editor: Woolf is also proposed at 09-fict-15 this month, and rule eight allows only one line per person per month."
+}

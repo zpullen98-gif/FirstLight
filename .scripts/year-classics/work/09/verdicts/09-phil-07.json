@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-07",
+ "verdict": "CORRECTED",
+ "quote": "Justice is a habit whereby a man renders to each one his due by a constant and perpetual will.",
+ "source": "Thomas Aquinas, Summa Theologica, II-II, q. 58, a. 1, I answer that (trans. Fathers of the English Dominican Province, 1920)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "The line stands in the body of article 1, not in a reply to an objection. Aquinas offers it as a reformulation of the Roman jurists’ definition, introduced by if anyone would reduce it to the proper form of a definition, and he endorses it. The lifted clause takes a capital and a full stop.",
+ "evidence": {
+  "where": "The article read in the standard online text of the English Dominican Province translation, which prints the sentence inside the I answer that section of Secunda Secundae question 58 article 1.",
+  "url": "https://www.newadvent.org/summa/3058.htm",
+  "edition": "The Summa Theologica of St. Thomas Aquinas, translated by the Fathers of the English Dominican Province, second and revised edition (Burns Oates and Washbourne, London, 1920)",
+  "locator": "Secunda Secundae, question 58, article 1, the body of the article"
+ },
+ "confidence": "high",
+ "reason": "The translation prints: And if anyone would reduce it to the proper form of a definition, he might say that justice is a habit whereby a man renders to each one his due by a constant and perpetual will. The proposal shipped the inner clause alone, which is legitimate here because Aquinas is stating the definition he accepts, but it needs the capital, the terminal stop and a note. The proposal also said the reply, which reads as a reply to an objection; the sentence is in the respondeo. The article is answering the jurists' formula, so the note carries that too."
+}

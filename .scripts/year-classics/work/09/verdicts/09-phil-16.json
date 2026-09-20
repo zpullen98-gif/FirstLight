@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-16",
+ "verdict": "CORRECTED",
+ "quote": "Your silence will not protect you.",
+ "source": "Audre Lorde, Sister Outsider, The Transformation of Silence into Language and Action, p. 41 (The Crossing Press, 1984)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected: this is not new prose of 1984. Lorde delivered it as a paper at the Modern Language Association panel on lesbians and literature on 28 December 1977, and it was first printed in Sinister Wisdom in 1978. The wording and page given are those of Sister Outsider.",
+ "evidence": {
+  "where": "full text search across scanned books: the Sister Outsider scan carries the headnote naming the Modern Language Association panel of 28 December 1977, and a 1989 monograph quotes the sentence in its paragraph and cites it as 1977 stroke 1984, p. 41",
+  "edition": "Sister Outsider: Essays and Speeches (The Crossing Press, 1984), p. 41",
+  "locator": "The Transformation of Silence into Language and Action, the paragraph beginning My silences had not protected me",
+  "url": "https://openlibrary.org/search/inside?q=%22My+silences+had+not+protected+me.+Your+silence+will+not+protect+you%22"
+ },
+ "confidence": "high",
+ "reason": "Wording and page confirmed. The proposal flagged the risk correctly and the risk is real: the piece was spoken before it was printed, so the note carries its date and form rather than letting the card imply an essay written in 1984. It is a written paper printed in a journal and then in a book of prose, not platform oratory, so it stays in scope and keeps the Essay tag."
+}

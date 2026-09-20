@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-16",
+ "verdict": "VERIFIED",
+ "quote": "From the place where we are right / flowers will never grow / in the spring.",
+ "source": "Yehuda Amichai, The Place Where We Are Right, stanza 1, Selected Poetry of Yehuda Amichai (trans. Chana Bloch and Stephen Mitchell, 1986)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "A licensed reproduction of the poem at the On Being Project carrying the formal credit to Chana Bloch and Stephen Mitchell and to The Selected Poetry of Yehuda Amichai, with the lineation and the lower case f of flowers intact; the 1986 Harper and Row first edition and the University of California Press reissue were confirmed separately in library listings.",
+  "edition": "The Selected Poetry of Yehuda Amichai, trans. Chana Bloch and Stephen Mitchell (Harper and Row, 1986; University of California Press from 1996)",
+  "locator": "The Place Where We Are Right, the first stanza, lines 1 to 3",
+  "url": "https://onbeing.org/poetry/the-place-where-we-are-right/"
+ },
+ "confidence": "medium",
+ "reason": "Wording, lineation and the poem’s own lower case at the head of lines two and three are confirmed against a credited reproduction, and the translators, book and year are confirmed, but no page of the 1986 edition itself was seen. The first Hebrew publication date is still unconfirmed, so the source does not claim one."
+}

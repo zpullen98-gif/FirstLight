@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-02",
+ "verdict": "VERIFIED",
+ "quote": "Act in such a way that you always treat humanity, whether in your own person or in the person of any other, never simply as a means, but always at the same time as an end.",
+ "source": "Immanuel Kant, Groundwork of the Metaphysic of Morals, Second Section, Academy 4:429 (trans. H. J. Paton, 1948)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "A full scan of Paton's The Moral Law (Hutchinson's University Library) read as plain text. The sentence appears twice, word for word as proposed: in Paton's analysis, The Argument, under the heading The Formula of the End in Itself, and again in the translation itself, where the marginal number 67 of the second German edition falls inside it. Paton's separate commentary The Categorical Imperative (Chicago, 1948) gives a tighter literal rendering of the same formula, so the two must not be confused.",
+  "edition": "The Moral Law, or Kant's Groundwork of the Metaphysic of Morals, trans. H. J. Paton, Hutchinson's University Library, 1948",
+  "locator": "Second Section, Academy 4:429, at the marginal page 67 of Paton's text",
+  "url": "https://archive.org/details/morallaw029173mbp"
+ },
+ "confidence": "high",
+ "reason": "The wording is Paton's own, confirmed against a scan of his translation rather than against quotation sites. Academy 4:429 is the right place, and Kant stands at two for the year, so this line closes him."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "Sometimes I think it ain’t right to stand and watch them do it.",
+ "source": "Lillian Hellman, The Little Foxes, Act Three, the close of the speech on those who eat the earth (Addie) (Viking Press, 1939)",
+ "speaker": "Addie",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Full text search inside the scanned Viking Press printing of The Little Foxes: A Play in Three Acts of 1939. The page reads, in Addie's speech, Well, there are people who eat the earth and eat all the people on it like in the Bible with the locusts. Then there are people who stand around and watch them eat it. (Softly) Sometimes I think it ain't right to stand and watch them do it. Birdie answers in the next speech. The same page turned up in the 1969 Dramatists Play Service printing and in Plays by American Women. The act was placed by the same scan, which shows Act Three opening on page 100 as the same room two weeks later, and by Alice Griffin's Understanding Lillian Hellman, which describes the opening of act 3 as the scene with Alexandra, Addie and Horace in which Birdie recalls the past. Many quotation books print And other people who stand around, which is not the play text; the sentence quoted here is unaffected.",
+  "url": "https://openlibrary.org/search/inside?q=%22ain%27t+right+to+stand+and+watch+them+do+it%22",
+  "edition": "Lillian Hellman, The Little Foxes: A Play in Three Acts, The Viking Press, 1939",
+  "locator": "Act Three, the last sentence of Addie's speech on those who eat the earth, spoken softly"
+ },
+ "confidence": "high",
+ "reason": "The sentence is exact in the first printing, including the stage direction that precedes it and the terminal stop, and the speaker is Addie. The claim about the Paris Review interview was dropped from the source because it was not checked and the citation does not need it. Hellman is unused in the year, is not banned, and shipped.js finds no match and no near match."
+}

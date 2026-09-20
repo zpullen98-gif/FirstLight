@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-07",
+ "verdict": "CORRECTED",
+ "quote": "Give me your tired, your poor, / Your huddled masses yearning to breathe free, / The wretched refuse of your teeming shore. / Send these, the homeless, tempest-tost to me, / I lift my lamp beside the golden door!",
+ "source": "Emma Lazarus, The New Colossus, lines 10 to 14, The Poems of Emma Lazarus, vol. I, p. 203 (Houghton Mifflin, 1889) (the Mother of Exiles)",
+ "speaker": "the Mother of Exiles",
+ "tradition": "Poetry",
+ "note": "Corrected the locator. The quotation begins in the middle of line 10, after the words With silent lips, and runs to the end of the sonnet. In the 1889 Houghton Mifflin edition the poem opens on page 202 and these lines are printed on page 203. The poem encloses the speech in quotation marks, which the card drops.",
+ "evidence": {
+  "where": "Read the sonnet in the Wikisource transcription, which shows that line 10 is With silent lips followed by the opening of the statue’s speech, so the quotation starts mid line rather than at line 10. Then downloaded the scanned text of the 1889 Houghton Mifflin Poems of Emma Lazarus, volume I: the running head 202 sits above the poem, which begins there after the sonnet Success, and the quoted lines fall on the next page, before the running head for Venus of the Louvre. Wording and lineation match, including tempest-tost.",
+  "url": "https://archive.org/download/poemsofemmalazar01laza/poemsofemmalazar01laza_djvu.txt",
+  "edition": "The Poems of Emma Lazarus, in two volumes, vol. I, Houghton, Mifflin and Company, 1889, pp. 202 to 203",
+  "locator": "The New Colossus, from mid line 10 to line 14, the close of the sonnet"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact in the 1889 edition and the poem is a sonnet of 1883 written for the Bartholdi Pedestal Fund, so it is in scope. Only the locator needed work: lines 10 to 14 is true of the lines the quotation ends on but the speech begins mid line 10, and the quoted lines are printed on page 203, not 202 where the poem starts. Lazarus is at no count for the year; shipped.js finds no match."
+}

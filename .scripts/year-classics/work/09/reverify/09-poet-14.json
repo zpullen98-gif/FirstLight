@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-14",
+ "verdict": "CORRECTED",
+ "quote": "The sons of Adam are limbs of each other / Having been created of one essence. / When the calamity of time afflicts one limb / The other limbs cannot remain at rest.",
+ "source": "Saadi, The Gulistan, chapter I, The Manners of Kings, story 10, lines 1 to 4 (trans. Edward Rehatsek, 1888)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Corrected the chapter title. Rehatsek names chapter I The Manners of Kings in the contents, the chapter heading and the running heads. On the Conduct of Kings belongs to other English Gulistans. The wording of the four lines, including afflicts, stands exactly as the scan prints it.",
+ "evidence": {
+  "where": "The full Rehatsek text was downloaded and read at the passage itself. Chapter I is titled The Manners of Kings in the contents list, in the chapter display heading and in every running head. Story 10 carries the four lines verbatim, with the full stop after essence and after rest, and line five begins If you have no sympathy for the troubles of others, so the cut at line four is clean in a verse of six.",
+  "edition": "The Gulistan or Rose Garden of Sa'di, trans. Edward Rehatsek, first published 1888 by the Kama Shastra Society and reissued 1928 under Richard Burton's name; read in the Omphaloskepsis Books reprint of 2010 edited by David Rosenbaum, which reprints Rehatsek's wording under its own pagination.",
+  "locator": "chapter I, The Manners of Kings, story 10, the Bani Adam verse, lines 1 to 4; page 35 of the 2010 reprint, not of the 1888 edition, and no page reaches the card",
+  "url": "https://archive.org/download/TheGulistanOrRoseGardenOfSadi-EdwardRehatsek/The_Gulistan__Rehatsek_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right and the earlier verdict was right about the wording. Every word, capital, line break and full stop matches the scan, including afflicts where the widely circulated rendering reads affects. Only the chapter title was wrong, so the line survives as CORRECTED rather than failing twice. The earlier evidence also cited page 36 of what it called the 1888 edition; the lines stand on page 35 of a 2010 reprint, and that is repaired here."
+}

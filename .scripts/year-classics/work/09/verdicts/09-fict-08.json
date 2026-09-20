@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-08",
+ "verdict": "VERIFIED",
+ "quote": "Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business.",
+ "source": "Charles Dickens, A Christmas Carol, Stave One, Marley’s Ghost (Chapman and Hall, 1843) (the Ghost of Jacob Marley)",
+ "speaker": "the Ghost of Jacob Marley",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "the text of A Christmas Carol, read at the ghost’s speech in Stave One",
+  "url": "https://www.gutenberg.org/files/46/46-0.txt",
+  "edition": "A Christmas Carol in Prose, Chapman and Hall, 1843; Gutenberg text of that setting",
+  "locator": "Stave I, Marley’s Ghost, the speech beginning Business! cried the Ghost, wringing its hands again"
+ },
+ "confidence": "high",
+ "reason": "The two sentences are exact, with Dickens’s own commas in were, all, my business, and they are the second and third sentences of the ghost’s speech, cut before the drop of water in the comprehensive ocean of my business. The speaker is named as the rules require. Dickens stands at one for the year, from August, so September is clear."
+}

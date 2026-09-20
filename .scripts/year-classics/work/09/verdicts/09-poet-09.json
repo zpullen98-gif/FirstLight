@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-09",
+ "verdict": "VERIFIED",
+ "quote": "To sin by silence, when we should protest, / Makes cowards out of men. The human race / Has climbed on protest.",
+ "source": "Ella Wheeler Wilcox, Protest, lines 1 to 3, Poems of Problems, p. 154 (W. B. Conkey, 1914)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The scanned first edition on the Internet Archive, downloaded as plain text and read at the page itself. The contents page lists Protest at 154; the title page reads POEMS of PROBLEMS by ELLA WHEELER WILCOX, W. B. CONKEY COMPANY, CHICAGO, 1914, with the copyright notice of 1914. The poem runs from p. 154 to p. 155. The Marginalian's 2017 piece prints the same opening six lines.",
+  "url": "https://archive.org/download/poemsofproblems00wilc/poemsofproblems00wilc_djvu.txt",
+  "edition": "Poems of Problems (W. B. Conkey Company, Chicago, 1914)",
+  "locator": "Protest, p. 154, the opening lines"
+ },
+ "confidence": "high",
+ "reason": "The three lines open the poem word for word, in the lineation of the 1914 setting: To sin by silence, when we should protest, / Makes cowards out of men. The human race / Has climbed on protest. Had no voice been raised. The full stop after protest cuts line 3 at a sentence end, which is a cut and not a change of wording. The collection title and publisher no longer rest on secondary sources: the title page is in the scan, so the page number can be added and the proposal's hedge dropped."
+}

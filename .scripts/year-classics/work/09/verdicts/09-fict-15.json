@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-15",
+ "verdict": "CORRECTED",
+ "quote": "As a woman, I have no country. As a woman I want no country. As a woman my country is the whole world.",
+ "source": "Virginia Woolf, Three Guineas, section Three, on ‘our’ country (Hogarth Press, 1938) (the outsider)",
+ "tradition": "Essay",
+ "speaker": "the outsider",
+ "note": "Corrected the locator. The sentences stand in section Three, a page before the Society of Outsiders is named, so that heading was too far on. Woolf puts the words inside quotation marks in the mouth of the outsider, answering a demand that she fight for her country, and the cut raises her lower case as to a capital.",
+ "evidence": {
+  "where": "the Project Gutenberg Australia text of Three Guineas, downloaded and searched directly; the passage sits after the section marker Three and before the first naming of the Society of Outsiders",
+  "edition": "Three Guineas, Hogarth Press, 1938; written in English, so no translator",
+  "locator": "section Three, inside the speech Woolf gives the outsider about ‘our’ country; the printed text reads in fact, as a woman, I have no country",
+  "url": "https://gutenberg.net.au/ebooks02/0200931.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact apart from the raised capital at the cut, and the comma after As a woman is Woolf’s own. The passage is in section Three but before the Outsiders’ Society is named, so the locator is tightened and the speaker is kept. Note for the editor: Woolf is also proposed at 09-cfl-01 this month, and rule eight allows only one line per person per month."
+}

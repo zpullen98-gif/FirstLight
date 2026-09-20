@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "For there is no friend like a sister / In calm or stormy weather; / To cheer one on the tedious way, / To fetch one if one goes astray, / To lift one if one totters down, / To strengthen whilst one stands.",
+ "source": "Christina Rossetti, Goblin Market, the closing six lines, Goblin Market and Other Poems (Macmillan, 1862) (Laura)",
+ "speaker": "Laura",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Read the Wikisource transcription of the 1862 first edition, which is proofread page by page against the scan of Goblin Market and Other Poems. The poem ends on these six lines, word for word and break for break as proposed, with the semicolon after weather and the full stop after stands. The speaker is Laura, who calls the little ones, tells them of her early prime, joins their hands and bids them cling together in these words.",
+  "url": "https://en.wikisource.org/wiki/Goblin_Market_and_Other_Poems_(1862)/Goblin_Market",
+  "edition": "Christina Rossetti, Goblin Market and Other Poems, Macmillan, 1862, first edition",
+  "locator": "Goblin Market, the last six lines of the poem, spoken by Laura to the little ones"
+ },
+ "confidence": "high",
+ "reason": "Wording, lineation and speaker all check against the first edition. One detail in the proposal was wrong and does not reach the card: the 1862 text encloses the speech in double quotation marks, not single, and the shipped source carries no claim about them. Rossetti stands at one for the year, under the cap; shipped.js finds no match and no near match."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-04",
+ "verdict": "VERIFIED",
+ "quote": "I desire you would Remember the Ladies, and be more generous and favourable to them than your ancestors.",
+ "source": "Abigail Adams, letter to John Adams, Braintree, 31 March to 5 April 1776 (Adams Family Correspondence, Massachusetts Historical Society)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "the Massachusetts Historical Society transcript of the manuscript letter, read against the proposal",
+  "url": "https://www.masshist.org/digitaladams/archive/doc?id=L17760331aa",
+  "edition": "Adams Family Correspondence, Massachusetts Historical Society, Adams Papers digital edition",
+  "locator": "Letter from Abigail Adams to John Adams, 31 March to 5 April 1776, headed Braintree March 31, 1776, in the portion written on 31 March"
+ },
+ "confidence": "high",
+ "reason": "The transcript reads and by the way in the new Code of Laws which I suppose it will be necessary for you to make I desire you would Remember the Ladies, and be more generous and favourable to them than your ancestors. The lift begins at a clause and ends where the sentence ends, so the capital I and the full stop are the manuscript’s own, and the capitals on Remember and Ladies are kept. The Society itself heads the document 31 March to 5 April 1776. Abigail Adams stands at two for the year, so this is her third and last line."
+}

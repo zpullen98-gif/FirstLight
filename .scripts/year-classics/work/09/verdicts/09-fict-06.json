@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-06",
+ "verdict": "VERIFIED",
+ "quote": "Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny.",
+ "source": "Martin Luther King Jr., Letter from Birmingham Jail, 16 April 1963, in Why We Can’t Wait, ch. 5 (Harper and Row, 1964)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "a full text of the letter, read as a whole paragraph to check that the two sentences are consecutive and not stitched",
+  "url": "https://letterfromjail.com/",
+  "edition": "the standard circulating text of the letter, collected as chapter 5 of Why We Can’t Wait, Harper and Row, 1964",
+  "locator": "the paragraph beginning Moreover, I am cognizant of the interrelatedness of all communities and states"
+ },
+ "confidence": "medium",
+ "reason": "The two sentences run consecutively in the letter, between I cannot sit idly by in Atlanta and Whatever affects one directly, affects all indirectly, so joining them invents nothing. A letter, not oratory, so it clears the out of scope line on speeches. Confidence is medium because the page of the 1964 Harper and Row printing was not seen, only full texts of the letter."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "The sons of Adam are limbs of each other / Having been created of one essence. / When the calamity of time afflicts one limb / The other limbs cannot remain at rest.",
+ "source": "Saadi, The Gulistan, chapter I, On the Conduct of Kings, story 10, lines 1 to 4 (trans. Edward Rehatsek, 1888)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The full scanned text of Rehatsek’s Gulistan at the Internet Archive, read at the end of chapter one, story ten, page 36, where the four lines stand exactly as proposed, including the word afflicts.",
+  "edition": "The Gulistan or Rose Garden of Sa‘di, trans. Edward Rehatsek (completed 1888; reprinted 1928 under Richard Burton’s name)",
+  "locator": "chapter I, On the Conduct of Kings, story 10, the Bani Adam verse, lines 1 to 4, p. 36",
+  "url": "https://archive.org/stream/TheGulistanOrRoseGardenOfSadi-EdwardRehatsek/The_Gulistan__Rehatsek_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The scanned Rehatsek text carries all four lines verbatim at the close of story ten, and the cut after remain at rest lands on a full stop at the end of a complete couplet pair. Saadi stands at one line for the year, so the cap is clear."
+}

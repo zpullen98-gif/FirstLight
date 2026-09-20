@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-14",
+ "verdict": "VERIFIED",
+ "quote": "Caring involves stepping out of one’s own personal frame of reference into the other’s.",
+ "source": "Nel Noddings, Caring: A Feminine Approach to Ethics and Moral Education, ch. 1, p. 24 (University of California Press, 1984)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "full text search inside the University of California Press scan of Caring returned the sentence in the book itself, under the running head of chapter 1, Why Care about Caring?",
+  "edition": "Caring: A Feminine Approach to Ethics and Moral Education (University of California Press; scan of the 1986 printing of the 1984 setting)",
+  "locator": "ch. 1, p. 24, the paragraph beginning Caring involves",
+  "url": "https://openlibrary.org/search/inside?q=%22Caring+involves+stepping+out+of+one%27s+own+personal+frame+of+reference%22"
+ },
+ "confidence": "high",
+ "reason": "Two rival renderings circulate, one with own and one without. The scan of the book itself carries the proposal wording, with own, followed by When we care, we consider the other’s point of view. Page 24 is given independently by scholars citing the 1984 edition."
+}

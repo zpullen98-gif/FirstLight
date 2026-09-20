@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "Man is born free; and everywhere he is in chains.",
+ "source": "Jean-Jacques Rousseau, The Social Contract, Book I, chapter 1, the opening sentence (trans. G. D. H. Cole, 1913)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The full text of Cole's Everyman translation, The Social Contract and Discourses, J. M. Dent and Sons, translated with introduction by G. D. H. Cole. Book I, Chapter I, Subject of the First Book, opens: Man is born free; and everywhere he is in chains. The semicolon in the proposal is Cole's own, not a modernisation.",
+  "edition": "The Social Contract and Discourses, trans. G. D. H. Cole, Everyman's Library, J. M. Dent and Sons, 1913",
+  "locator": "Book I, chapter 1, Subject of the First Book, first sentence",
+  "url": "https://www.gutenberg.org/files/46333/46333-0.txt"
+ },
+ "confidence": "high",
+ "reason": "Cole's wording and punctuation match the proposal exactly, and the sentence does open Book I, chapter 1, after the short preamble. Rousseau is unused in the year and nothing here needs a warning."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-15",
+ "verdict": "CORRECTED",
+ "quote": "Thinking of this, secretly I grew ashamed; / And all day the thought lingered in my head.",
+ "source": "Bai Juyi, Watching the Reapers, the closing two lines, p. 41, More Translations from the Chinese (trans. Arthur Waley, 1919)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Corrected the locator. Watching the Reapers is poem 15 of the whole volume, not the fifteenth poem of the Po Chu-i section, where it stands fifth. The source now cites page 41 of More Translations from the Chinese, Knopf, 1919. Waley prints the poet as Po Chu-i and dates the poem A.D. 806. The wording is exact.",
+ "evidence": {
+  "where": "The Project Gutenberg transcription of the 1919 Knopf edition, read in full: the contents page puts Watching the Reapers at page 41 inside the PO CHÜ-I section, and the poem itself is headed [15] WATCHING THE REAPERS with the bracketed date A.D. 806.",
+  "edition": "More Translations from the Chinese, trans. Arthur Waley (Alfred A. Knopf, 1919)",
+  "locator": "PO CHÜ-I section, p. 41, poem 15 of the volume, the closing two lines",
+  "url": "https://www.gutenberg.org/files/16500/16500-0.txt"
+ },
+ "confidence": "high",
+ "reason": "The two closing lines are exact in Waley, semicolon and all, and the poem is a salaried officer ashamed of his own ease beside the reapers. Only the locator needed work: the number 15 counts poems across the whole book, while the poem is the fifth of the Po Chu-i group, so the page carries the citation instead."
+}

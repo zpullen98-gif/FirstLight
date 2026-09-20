@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-14",
+ "verdict": "CORRECTED",
+ "quote": "Why have women passion, intellect, moral activity—these three—and a place in society where no one of the three can be exercised?",
+ "source": "Florence Nightingale, Cassandra, the third paragraph, p. 25 (ed. Myra Stark, The Feminist Press, 1979)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "Corrected the page: the sentence stands on page 25 of the Feminist Press edition edited by Myra Stark, in the third paragraph of the essay, not on page 74. Nightingale wrote Cassandra in 1852, had it privately printed in 1860, and it was first published in 1928 in Ray Strachey’s The Cause.",
+ "evidence": {
+  "where": "two scholarly sources that cite the Feminist Press edition by page: the VictorianWeb essay on Nightingale as female sage, which quotes the sentence with (25) and calls it the third paragraph, and a peer reviewed Collegian article that also gives page 25; the Internet Archive record for the edition shows only 74 scanned images in all, so page 74 cannot hold it",
+  "edition": "Cassandra: An Essay, introduction by Myra Stark, epilogue by Cynthia MacDonald, The Feminist Press, Old Westbury, 1979",
+  "locator": "the third paragraph of the essay, p. 25",
+  "url": "https://victorianweb.org/genre/fn.html"
+ },
+ "confidence": "medium",
+ "reason": "The attribution and the wording are secure and the sentence opens the argument of Cassandra. The page was wrong and is now right on two independent scholarly citations, but nobody in this run has seen the printed page, so the dash spacing is the common reproduced form rather than a reading of the type."
+}

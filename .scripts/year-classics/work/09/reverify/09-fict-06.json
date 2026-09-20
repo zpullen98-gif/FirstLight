@@ -1,0 +1,27 @@
+{
+ "id": "09-fict-06",
+ "verdict": "CORRECTED",
+ "quote": "Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny.",
+ "source": "Martin Luther King Jr., Letter from Birmingham Jail, 16 April 1963, in Why We Can’t Wait, pp. 77 to 100",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected the edition. The proposal named chapter 5 of the Harper and Row printing of 1964, which nobody opened. The wording here is the Martin Luther King, Jr. Papers Project text of the letter, which records its publication in Why We Can’t Wait at pages 77 to 100. No 1964 book page was seen.",
+ "evidence": {
+  "where": "Second re-verification. The refutation was right that the first verdict rested on letterfromjail.com, an anonymous quotation site standing in for a named edition, so I went looking for a real one. The King Institute page the refutation cites no longer serves its text, and the Harper and Row book is closed: archive.org item whywecantwait0000king is lending restricted and its djvu.txt returns 403, BookReaderSearch, the petabox scrape endpoint and the public full text API all fail, Google Books is over quota and WebSearch is exhausted. What I did reach, through the Wayback Machine, is the Stanford King Institute PDF letterfrombirmingham_wwcw_0.pdf, whose text I decompressed and read in full. It is headed Liberation Curriculum, Martin Luther King, Jr. Papers Project, copyright 2004, copyright The Estate of Martin Luther King, Jr., then Letter from Birmingham Jail, 16 April 1963, My Dear Fellow Clergymen. It closes Yours for the cause of Peace and Brotherhood, Martin Luther King, Jr., followed by a Published in line reading: King, Martin Luther Jr. Letter from the Birmingham jail. In Why We Can't Wait, ed. Martin Luther King, Jr., 77 to 100, 1963. So the scholarly edition of King's papers publishes this text and itself names Why We Can't Wait, pages 77 to 100, as where it was published. The passage is verbatim in it and the two sentences are consecutive: Moreover, I am cognizant of the interrelatedness of all communities and states. I cannot sit idly by in Atlanta and not be concerned about what happens in Birmingham. Injustice anywhere is a threat to justice everywhere. We are caught in an inescapable network of mutuality, tied in a single garment of destiny. Whatever affects one directly, affects all indirectly. Two residual doubts, both recorded rather than hidden: the Papers Project citation dates the book 1963 when Harper and Row published it in 1964, and this text carries no author's note, which the 1964 chapter does, so it is not proved to be the book chapter line for line. That is why the source no longer asserts chapter 5 of a 1964 printing. Collision check run the way the Dickens line failed: grep for garment of destiny and for Injustice anywhere across the repo hits only this month's proposal, refutation and verdict, so nothing in carry.json or any other month holds it.",
+  "url": "https://web.archive.org/web/2019id_/https://kinginstitute.stanford.edu/sites/mlk/files/letterfrombirmingham_wwcw_0.pdf",
+  "edition": "Martin Luther King, Jr. Papers Project, Liberation Curriculum text of the letter, 2004, which records publication in Why We Can’t Wait at pp. 77 to 100",
+  "locator": "the letter of 16 April 1963, the paragraph beginning Moreover, I am cognizant of the interrelatedness of all communities and states"
+ },
+ "confidence": "medium",
+ "reason": "The refutation was right about the citation and wrong to leave the line without one. The words are exact in the Martin Luther King, Jr. Papers Project text, which is a named scholarly edition rather than a quotation site, and that edition itself points to Why We Can’t Wait at pages 77 to 100, so the corrected source claims only what was read. Confidence is medium because no physical 1964 Harper and Row page was opened, the Papers Project dates the book 1963, and the author’s note of the 1964 chapter is absent here, so the source no longer asserts chapter 5 of that printing. Scope holds: this is a letter, not oratory, and the month already carries Grimké’s Letters and Cooper’s and Addams’s public argument. Copyright is an editor’s call, not a citation defect: the estate licenses this text aggressively, and twenty four attributed words sit beside Baldwin, Rich and Piercy, who are in copyright too.",
+ "refutationUpheld": true,
+ "priorVerdict": "VERIFIED",
+ "shippedCheck": {
+  "shipped": [],
+  "near": [],
+  "person": "martin luther king",
+  "yearCount": 0,
+  "atCap": false,
+  "banned": false
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-12",
+ "verdict": "VERIFIED",
+ "quote": "Yes, injured Woman! rise, assert thy right!",
+ "source": "Anna Laetitia Barbauld, The Rights of Woman, the opening line, Works, ed. Lucy Aikin, vol. I, p. 185 (Longman, 1825)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The 1825 first printing on the Internet Archive, downloaded as plain text and read at the poem. The contents list The Rights of Woman at 185; the poem heads that page and its first line is YES, injured Woman! rise, assert thy right! with the opening word in capitals, as that edition sets the first word of a poem. The title page reads THE WORKS OF ANNA LAETITIA BARBAULD, WITH A MEMOIR BY LUCY AIKIN, IN TWO VOLUMES, VOL. I, LONDON: PRINTED FOR LONGMAN, HURST, REES, ORME, BROWN, AND GREEN, 1825.",
+  "url": "https://archive.org/download/worksofannlaetit01barbuoft/worksofannlaetit01barbuoft_djvu.txt",
+  "edition": "The Works of Anna Laetitia Barbauld, ed. Lucy Aikin, vol. I (Longman, Hurst, Rees, Orme, Brown, and Green, London, 1825)",
+  "locator": "The Rights of Woman, p. 185, line 1"
+ },
+ "confidence": "high",
+ "reason": "The opening line is exact, with the capital on Woman and both exclamation marks, and the page number is now from the scan rather than from report. Two things the editor should know. The poem is posthumous in print, so 1825 is the publication and the composition about 1792 is Aikin's dating, which is why the source gives only the printed year. The last stanza does turn on the summons, ending That separate rights are lost in mutual love, so the line ships as a summons that the poem later qualifies, which is a matter for the editor and not for the citation."
+}

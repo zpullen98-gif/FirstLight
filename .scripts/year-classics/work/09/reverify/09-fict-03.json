@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-03",
+ "verdict": "CORRECTED",
+ "quote": "In Louisville, at the corner of Fourth and Walnut, in the center of the shopping district, I was suddenly overwhelmed with the realization that I loved all those people, that they were mine and I theirs, that we could not be alien to one another even though we were total strangers.",
+ "source": "Thomas Merton, Conjectures of a Guilty Bystander, Part Three, The Night Spirit and the Dawn Air (Doubleday, 1966)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the tradition from Diary to Essay. Conjectures prints no dated entries. It is arranged in five titled parts, and the book describes itself as notes, opinions, experiences and reflections based on notebooks Merton kept since 1956. Part Three appeared as an essay in New Blackfriars in 1965. Merton’s dated journal is the separate A Search for Solitude.",
+ "evidence": {
+  "where": "Open Library search inside: three Doubleday 1966 scans and the Image scan show PART THREE The Night Spirit and the Dawn Air as a part heading with the part title as running head; the Image scan carries the book's own description of itself; Merton bibliographies list Part Three as a 1965 New Blackfriars piece",
+  "url": "https://openlibrary.org/search/inside.json?q=%22based+on+notebooks+Father+Merton%22",
+  "edition": "Conjectures of a Guilty Bystander, Doubleday, Garden City, 1966",
+  "locator": "Part Three, The Night Spirit and the Dawn Air, the rewriting of the notebook entry of 18 March 1958"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right about the form. The book's own front matter calls it a series of notes, opinions, experiences, and reflections based on notebooks Father Merton has kept since 1956, it prints no dated entries, and Part Three was published as an essay in New Blackfriars in 1965 before the book, so Essay is the honest tag and the Diary floor must not bank it. Wording, attribution and part are confirmed."
+}

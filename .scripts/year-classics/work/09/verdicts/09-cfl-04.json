@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-04",
+ "verdict": "CORRECTED",
+ "quote": "Why is it always the innocents who suffer most, when you high lords play your game of thrones?",
+ "source": "George R. R. Martin, A Game of Thrones, chapter 58, Eddard XV (Bantam Books, 1996) (Varys, to Eddard Stark)",
+ "speaker": "Varys",
+ "tradition": "Fiction",
+ "note": "The words are the tail of a longer sentence. Varys says If that’s true, Lord Eddard, tell me, before them, so the line is cut at the clause and its first letter raised. Calendar For Life credits A Clash of Kings; the chapter is Eddard XV in A Game of Thrones, where Varys visits Ned in the black cells.",
+ "evidence": {
+  "where": "The chapter is Eddard XV, chapter 58 of A Game of Thrones, confirmed against A Wiki of Ice and Fire's chapter page, LitCharts' chapter 58 Eddard summary and a chapter by chapter reading group; the fuller sentence, opening The High Septon once told me that as we sin, so do we suffer, was read on quotation pages that print the passage whole. No page scan of the Bantam text was reached, so the ellipsis before why rests on secondary witnesses.",
+  "url": "https://awoiaf.westeros.org/index.php/A_Game_of_Thrones-Chapter_58",
+  "edition": "A Game of Thrones (Bantam Books, New York, 1996)",
+  "locator": "chapter 58, Eddard XV, Varys in the black cells beneath the Red Keep"
+ },
+ "confidence": "high",
+ "reason": "The attribution, the book, the chapter and the speaker all hold, and the quoted clause is word for word; what the proposal did silently was lift a clause out of a sentence and capitalise it, which the note now states. The Calendar For Life entry that seeded this candidate names the wrong book. A second caution for the editor and not for the citation: this is a question about who pays, and the brief bars famous and bleak, so rule three is a judgement the month has to make."
+}

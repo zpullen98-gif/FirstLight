@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-04",
+ "verdict": "CORRECTED",
+ "quote": "Injustice brings about the ruin of civilization.",
+ "source": "Ibn Khaldun, The Muqaddimah, Chapter III, section 41, the section heading, vol. 2, p. 103 (trans. Franz Rosenthal, 1958)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "The locator is made precise. In Rosenthal the sentence is the printed heading of section 41 in Chapter III, volume 2, page 103, and it introduces the section rather than standing in its body. The heading is Ibn Khaldun’s own, in Rosenthal’s wording. The terminal stop replaces the colon that follows it in the text.",
+ "evidence": {
+  "where": "The full text of volume 2 of Rosenthal's translation. The table of contents lists section [41], Injustice brings about the ruin of civilization, at page 103, between [40] on page 102 and the section on access to the ruler on page 111, all inside Chapter III on dynasties. On page 103 the body runs: [41] Injustice brings about the ruin of civilization: It should be known that attacks on people's property remove the incentive to acquire and gain property. The running head on page 104 is Injustice, the Ruin of Civilization.",
+  "edition": "The Muqaddimah: An Introduction to History, trans. Franz Rosenthal, Bollingen Series XLIII, Princeton University Press, three volumes, 1958",
+  "locator": "Chapter III, section 41, volume 2, p. 103, the section heading",
+  "url": "https://archive.org/stream/THEMUQADDIMAHOFIBNKHALDUNVOLUME2/THE%20MUQADDIMAH%20OF%20IBN%20KHALDUN%20%20VOLUME%20%20%202_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is exactly Rosenthal's, and the volume and page are now in the locator. It is a section heading rather than a sentence from the body, which the note says plainly; the heading is authorial in the Arabic, so the line is Ibn Khaldun's and not minted by his translator."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "There is no wealth but life.",
+ "source": "John Ruskin, Unto This Last, Essay IV, Ad Valorem, section 77 (Smith, Elder, 1862); first in Cornhill Magazine, 1860",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the fourth essay, Ad Valorem, read in a complete online edition of Unto This Last, with the surrounding paragraph on consumption and production intact; the section number confirmed independently against the standard numbering used by Ruskin scholarship.",
+  "url": "https://quikscan.org/UTL/Chapter4/index.html",
+  "edition": "Unto This Last: Four Essays on the First Principles of Political Economy (Smith, Elder and Co., London, 1862); the four essays first ran in the Cornhill Magazine, August to November 1860",
+  "locator": "Essay IV, Ad Valorem, section 77"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands alone as its own paragraph at the end of section 77, immediately after the sentence on life being the end and aim of consumption, and is followed by Life, including all its powers of love, of joy, and of admiration. Ruskin sets it in full capitals for emphasis; the card prints it in sentence case, which changes the typography and not a word. Ruskin stands at one for the year, in June and in a different work, so he is clear of the cap."
+}

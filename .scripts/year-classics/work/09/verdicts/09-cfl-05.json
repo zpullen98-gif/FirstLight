@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-05",
+ "verdict": "VERIFIED",
+ "quote": "I was always embarrassed by the words sacred, glorious, and sacrifice and the expression in vain.",
+ "source": "Ernest Hemingway, A Farewell to Arms, Book Three, chapter 27 (Charles Scribner’s Sons, 1929) (Frederic Henry)",
+ "speaker": "Frederic Henry",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The Standard Ebooks text of A Farewell to Arms, chapter XXVII, where the sentence opens the passage that follows Frederic Henry's talk with Gino on the Bainsizza; the book division was checked against the novel's five book structure, in which Book Three runs from chapter 25 to chapter 32.",
+  "url": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms/text/chapter-27",
+  "edition": "A Farewell to Arms (Charles Scribner’s Sons, New York, 1929)",
+  "locator": "Book Three, chapter 27, printed as XXVII, after the conversation with Gino"
+ },
+ "confidence": "high",
+ "reason": "The sentence is exact, including the unpunctuated run of sacrifice and the expression in vain, and it is the first sentence of the famous passage, so it stands on its own without the stockyards sentences that follow and would need a content warning. Frederic Henry narrates, so he is named as the speaker. Hemingway stands at one for the year, but the August carry in 03-cfl-04 is a Hemingway line also marked for September, and only one of the two may land in the month."
+}

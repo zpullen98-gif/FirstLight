@@ -1,0 +1,17 @@
+{
+ "id": "09-fict-13",
+ "verdict": "VERIFIED",
+ "quote": "I sit on a man’s back, choking him and making him carry me, and yet assure myself and others that I am very sorry for him and wish to ease his lot by all possible means—except by getting off his back.",
+ "source": "Leo Tolstoy, What Then Must We Do?, chapter XVI (trans. Aylmer Maude, 1925)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the full Maude text scanned at the Internet Archive, downloaded and searched directly; the sentence falls between the chapter XVI heading and the chapter XVII heading in the same file",
+  "edition": "Aylmer Maude’s translation, first published 1925 in The World’s Classics, revised 1935, reprinted 1942; the scan’s own front matter states this",
+  "locator": "chapter XVI, closing the paragraph that begins I belong to the class who by various devices deprive the working people of necessities",
+  "url": "https://archive.org/download/WhatThenMustWeDo-English-LeoTolstoy/whatthenmustwedo_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Every word matches the Maude text, and the chapter is XVI as proposed. The source drops the series name because the translation year already identifies the printing and the line must stay short. Tolstoy stands at two for the year, so this is his third and last."
+}

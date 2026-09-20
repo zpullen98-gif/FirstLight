@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "Freedom is always and exclusively freedom for the one who thinks differently.",
+ "source": "Rosa Luxemburg, The Russian Revolution, chapter 6, The Problem of Dictatorship (trans. Bertram D. Wolfe, 1940)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Marxists Internet Archive text of Wolfe translation, chapter 6, where the sentence stands in the main text between the sentence on freedom for supporters of the government and the sentence on fanatical concepts of justice.",
+  "edition": "Bertram D. Wolfe, trans., The Russian Revolution (Workers Age Publishers, New York, 1940)",
+  "locator": "Chapter 6, The Problem of Dictatorship",
+  "url": "https://www.marxists.org/archive/luxemburg/1918/russian-revolution/ch06.htm"
+ },
+ "confidence": "high",
+ "reason": "The line is in the main text of chapter 6 in the named translation. The proposal worry about a footnote applies to the Gesammelte Werke, which prints the marginal passage as a note; Paul Levi 1922 edition, the text Wolfe translated, carries it in the body, so the locator as given is right. Luxemburg stands at one for the year."
+}

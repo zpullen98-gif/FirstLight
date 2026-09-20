@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-01",
+ "verdict": "VERIFIED",
+ "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+ "source": "Virginia Woolf, A Room of One’s Own, chapter one, after the dinner at Fernham (Hogarth Press, 1929)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "I downloaded the Project Gutenberg Australia plain text of A Room of One’s Own and searched it myself. The sentence wraps lines 541 and 542, between the chapter marker ONE at line 60 and the chapter marker TWO at line 728, so it is in chapter one. Line 533 places the scene in Mary Seton’s sitting room after the Fernham dinner, and line 542 reads The lamp in the spine does not light on beef and prunes. A WebFetch summary of the same file claimed chapter two; the line numbers show that summary is wrong.",
+  "edition": "A Room of One’s Own, Hogarth Press, 1929; Woolf’s own English, so no translator",
+  "locator": "chapter one, in Mary Seton’s sitting room after the dinner of soup, beef and prunes at Fernham; the preceding sentence ends a good dinner is of great importance to good talk",
+  "url": "https://gutenberg.net.au/ebooks02/0200791.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording, the terminal stop, the work and chapter one all hold under a direct search of the text, and the refutation conceded the citation and objected only to the month, so the line survives as a citation. The locator gloss drops the Oxbridge luncheon, which the sentence does not follow. EDITOR: rule eight bars two Woolfs in September, 09-fict-15 from Three Guineas is the stronger claimant for Justice and Service, and carry-in 07-fict-08 is a third Woolf marked for this month; this line should be carried to a month about the table rather than shipped in September."
+}

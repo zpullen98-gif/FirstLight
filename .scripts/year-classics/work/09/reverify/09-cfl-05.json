@@ -1,0 +1,17 @@
+{
+ "id": "09-cfl-05",
+ "verdict": "REJECT",
+ "quote": "I was always embarrassed by the words sacred, glorious, and sacrifice and the expression in vain.",
+ "source": "Ernest Hemingway, A Farewell to Arms, Book Three, chapter 27 (Charles Scribner’s Sons, 1929) (Frederic Henry)",
+ "speaker": "Frederic Henry",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "I read chapter XXVII of A Farewell to Arms in the Standard Ebooks text and found the sentence exact, comma for comma, including the serial comma after glorious and the unpunctuated run of sacrifice and the expression in vain. It follows Gino's What has been done this summer cannot have been done in vain and the narrator's I did not say anything. Book Three runs chapters XXV to XXXII, so chapter 27 is in Book Three as the proposal says. shipped.js returns no shipped line, no near match, Hemingway at one for the year with a cap of three, not banned. The source line is 109 characters, leads with the name, has no dash and carries the speaker after the locator. The citation needs no change.",
+  "url": "https://standardebooks.org/ebooks/ernest-hemingway/a-farewell-to-arms/text/chapter-27",
+  "edition": "A Farewell to Arms (Charles Scribner’s Sons, New York, 1929)",
+  "locator": "Book Three, chapter 27, printed XXVII, after the talk with Gino on the Bainsizza"
+ },
+ "confidence": "medium",
+ "reason": "The citation is flawless and I could not dent it either, so the rejection is on fit, which is where the refutation put it and where I agree. September's theme is Justice and Service and the blurb is what is owed; this sentence is the canonical statement that the vocabulary of obligation is an embarrassment, and in the novel it is the hinge on which Frederic Henry turns toward desertion. Rule 3 asks that the line help at six in the morning on the month's theme and puts famous and bleak out, and on a card about the debt to other people this reads as a refusal of the debt. There is a second, independent ground: rule 8 allows one Hemingway in the month, and the verified carry-in 03-cfl-04 from The Sun Also Rises is already marked fitMonth 9 and has prior claim on the slot. Having failed once on the refutation and again here, the line is out for September. Confidence is medium because fit is a judgement and the citation would need no work if a later month wanted it."
+}

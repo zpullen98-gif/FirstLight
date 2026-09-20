@@ -1,0 +1,17 @@
+{
+ "id": "09-poet-01",
+ "verdict": "CORRECTED",
+ "quote": "But when the laws are written down, rich and weak alike have equal justice.",
+ "source": "Euripides, The Suppliants, lines 433 to 434 (Theseus) (trans. E. P. Coleridge, 1938)",
+ "speaker": "Theseus",
+ "tradition": "Drama",
+ "note": "Corrected. The wording rich and weak is the Random House printing of Coleridge in The Complete Greek Drama of 1938, which Perseus carries; the Bohn text of 1891, reprinted in 1910, reads rich and poor. The Greek lines are 433 to 434, and the sentence runs on, so the full stop marks a cut at a complete clause.",
+ "evidence": {
+  "where": "Compared two digitised Coleridge texts against each other. Perseus prints the sentence as proposed and names its source as The Complete Greek Drama, ed. Whitney J. Oates and Eugene O'Neill, Jr., translated by E. P. Coleridge, Random House, New York, 1938. The Wikisource transcription of The Plays of Euripides, vol. 1, trans. Edward Philip Coleridge, p. 228 of the 1910 printing, and the Internet Classics Archive copy of the same translation both read rich and poor alike have equal justice, and if he have justice on his side. The Greek line numbers were checked against the Perseus Greek text of the Supplices, where the sentence answers lines 433 to 434.",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus:text:1999.01.0122:card=426",
+  "edition": "Euripides, The Suppliants, trans. E. P. Coleridge, in The Complete Greek Drama, ed. Oates and O'Neill, Random House, 1938",
+  "locator": "lines 433 to 434, Theseus answering the Theban herald"
+ },
+ "confidence": "high",
+ "reason": "The line is real and the wording exists, but not in the edition named: the 1891 Coleridge prints rich and poor, and the proposed rich and weak belongs to the 1938 Random House printing of the same translation. The locator is narrowed to the Greek lines 433 to 434. Euripides stands at one for the year, is not banned, and shipped.js finds no match and no near match."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "09-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "My final prayer: O my body, make of me always a man who questions!",
+ "source": "Frantz Fanon, Black Skin, White Masks, Conclusion, the final sentence (trans. Charles Lam Markmann, 1967)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Multiple independent citations of the Markmann translation give this exact wording as the closing sentence of the Conclusion, and the later Philcox translation is separately attested with different wording, which confirms the two renderings are being told apart rather than conflated. No page scan of the Grove text was seen.",
+  "url": "https://thecharnelhouse.org/2013/04/30/book-review-frantz-fanon-black-skin-white-masks/",
+  "edition": "Black Skin, White Masks, translated by Charles Lam Markmann (Grove Press, New York, 1967); Peau noire, masques blancs first published by Editions du Seuil, 1952",
+  "locator": "Conclusion, the final sentence"
+ },
+ "confidence": "high",
+ "reason": "The wording is Markmann's and is the last sentence of the book, so the fame test holds as a closing line. Richard Philcox renders it in 2008 as always make me a man who questions, which is the control: the sources that give the proposed wording are citing Markmann and not drifting between editions. Page numbers differ between printings, so the source names the Conclusion and the final sentence rather than a page. Fanon is unused in the year and is not banned. The line asks for a habit of questioning and carries nothing that would need a content warning."
+}
