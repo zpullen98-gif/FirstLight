@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "For all the toll the desert takes of a man it gives compensations, deep breaths, deep sleep, and the communion of the stars.",
+ "source": "Mary Austin, The Land of Little Rain, ch. 1, ‘The Land of Little Rain’ (Houghton Mifflin, 1903)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the full text downloaded and read this run, Project Gutenberg ebook 365; the sentence stands at lines 364 to 365, ten lines before the chapter ends and the next chapter, Water Trails of the Ceriso, begins",
+  "url": "https://www.gutenberg.org/cache/epub/365/pg365.txt",
+  "edition": "The Land of Little Rain, Houghton, Mifflin and Company, Boston and New York, 1903",
+  "locator": "ch. 1, ‘The Land of Little Rain’, in the closing paragraphs, just before the sentence about the Chaldeans"
+ },
+ "confidence": "high",
+ "reason": "The sentence matches the 1903 text word for word, commas included, and it sits where the proposal says, near the end of the first chapter. Not shipped anywhere in First Light, and Mary Austin has no other line in the year."
+}

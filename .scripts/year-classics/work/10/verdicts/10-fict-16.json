@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-16",
+ "verdict": "VERIFIED",
+ "quote": "There was no possibility of taking a walk that day.",
+ "source": "Charlotte Brontë, Jane Eyre, ch. 1, the opening sentence (Smith, Elder and Co., 1847)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "a scan of the first edition, volume I, opened at the first page of chapter I",
+  "edition": "Jane Eyre: An Autobiography, edited by Currer Bell, in three volumes, vol. I, London: Smith, Elder, and Co., Cornhill, 1847",
+  "locator": "vol. I, chapter I, page 1, the first sentence",
+  "url": "https://archive.org/details/janeeyreautobiog01bron"
+ },
+ "confidence": "high",
+ "reason": "The first edition of 1847 opens with exactly this sentence, and the wording is unchanged in later printings. Charlotte Brontë stands at two lines in the year, so a third is within the cap."
+}

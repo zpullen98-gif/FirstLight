@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "I pray the gods to quit me of my toils, / To close the watch I keep, this livelong year; / For as a watch-dog lying, not at rest, / Propped on one arm, upon the palace-roof / Of Atreus’ race, too long, too well I know / The starry conclave of the midnight sky.",
+ "source": "Aeschylus, Agamemnon, the opening speech, lines 1 to 6 (the Watchman) (trans. E. D. A. Morshead, 1881)",
+ "tradition": "Drama",
+ "speaker": "the Watchman",
+ "note": "",
+ "evidence": {
+  "where": "two independent texts read on the page and compared line by line: the Project Gutenberg House of Atreus and the Wikisource scan of the second edition of 1889",
+  "url": "https://www.gutenberg.org/cache/epub/8604/pg8604.txt",
+  "edition": "E. D. A. Morshead, The House of Atreus: being the Agamemnon, the Libation-Bearers and the Furies of Aeschylus, first published 1881, second edition 1889",
+  "locator": "Agamemnon, the first six lines of the Watchman’s opening speech, which stands before the entry of the Chorus"
+ },
+ "confidence": "high",
+ "reason": "The six lines are identical in the Gutenberg text and in the second edition of 1889, which differ only at line eight, so the wording is stable and the 1881 first edition can be named safely. Morshead ends line six with a comma and the sentence runs on; the cut falls at a complete clause and the terminal stop is the editor’s, as the proposal stated."
+}

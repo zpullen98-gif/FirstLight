@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "Let it come, as it will, and don’t / be afraid. God does not leave us / comfortless, so let evening come.",
+ "source": "Jane Kenyon, Let Evening Come, the final stanza, lines 16 to 18 (Graywolf Press, 1990)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the full text of the poem on poets.org, read this run, printing all eighteen lines in six tercets",
+  "url": "https://poets.org/poem/let-evening-come",
+  "edition": "text credited to Otherwise: New and Selected Poems, Graywolf Press, 1996; the poem first appeared in Let Evening Come, Graywolf Press, 1990",
+  "locator": "lines 16 to 18, the closing tercet"
+ },
+ "confidence": "high",
+ "reason": "The closing tercet matches the poets.org text word for word, including the lineation and the comma after as it will. Not shipped anywhere in First Light, and Kenyon has no other line in the year."
+}

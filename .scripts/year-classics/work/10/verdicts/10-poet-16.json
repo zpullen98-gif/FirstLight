@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-16",
+ "verdict": "REJECT",
+ "quote": "Earth’s crammed with heaven, / And every common bush afire with God: / But only he who sees, takes off his shoes.",
+ "source": "Elizabeth Barrett Browning, Aurora Leigh, Seventh Book, first edition of 1857 (Aurora)",
+ "tradition": "Poetry",
+ "speaker": "Aurora",
+ "note": "",
+ "evidence": {
+  "where": "js/data-year-classics.js in First Light, month 6, entry 14, which already ships this passage at greater length",
+  "url": "",
+  "edition": "Aurora Leigh, first edition, Chapman and Hall, 1857",
+  "locator": "Seventh Book, the double vision speech"
+ },
+ "confidence": "high",
+ "reason": "Already shipped. Month 6 carries the same passage running on through The rest sit round it and pluck blackberries, so this is a truncation of a line the reader has met. The shipped entry also records that the 1857 page images set a comma after takes off his shoes, not the full stop proposed here, and Browning is at two lines in the year with a stronger one already standing."
+}

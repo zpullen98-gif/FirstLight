@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-04",
+ "verdict": "VERIFIED",
+ "quote": "We must reserve a back shop all our own, entirely free, in which to establish our real liberty and our principal retreat and solitude.",
+ "source": "Michel de Montaigne, Essays, Book I, ch. 39, Of Solitude (trans. Donald M. Frame, 1958)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the Hermitary essay on Montaigne and solitude, which prints the sentence and names its translation in its bibliography, and a second online text of the essay that numbers it Book I, chapter XXXIX",
+  "edition": "Michel de Montaigne, The Complete Essays of Montaigne, trans. Donald M. Frame (Stanford University Press, 1958)",
+  "locator": "Book I, chapter 39, Of Solitude",
+  "url": "https://www.hermitary.com/solitude/montaigne.html"
+ },
+ "confidence": "high",
+ "reason": "The sentence is Frame word for word, and the chapter number 39 is confirmed by a second text of the essay. One caution for the editor, not a fault in the line: Montaigne stands at two for the year, and the carry-in 04-phil-06, Of Vanity, is also held for October, so only one Montaigne can land this month and a third would use up his last place."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-03",
+ "verdict": "CORRECTED",
+ "quote": "I pray the gods to quit me of my toils, / To close the watch I keep, this livelong year; / For as a watch-dog lying, not at rest, / Propped on one arm, upon the palace-roof / Of Atreus’ race, too long, too well I know / The starry conclave of the midnight sky, / Too well, the splendours of the firmament, / The lords of light, whose kingly aspect shows— / What time they set or climb the sky in turn— / The year’s divisions, bringing frost or fire.",
+ "source": "Aeschylus, Agamemnon, the opening speech, lines 1 to 10 (the Watchman) (trans. E. D. A. Morshead, 1881)",
+ "tradition": "Drama",
+ "speaker": "the Watchman",
+ "note": "Corrected: Morshead does not print a full stop at line six. It ends in a comma and the sentence runs on, so the quotation now runs to line ten and closes on his own full stop. Line eight reads shows in the 1881 first edition and signs in the revised second edition of 1889.",
+ "evidence": {
+  "where": "three texts downloaded and read line by line: the Project Gutenberg House of Atreus (ebook 8604), the Wikisource transcription of Morshead's 1881 first edition, and the Wikisource page scan transcription of the 1889 second edition (djvu p. 39)",
+  "url": "https://en.wikisource.org/wiki/The_House_of_Atreus/Agamemnon",
+  "edition": "E. D. A. Morshead, The House of Atreus: being the Agamemnon, the Libation-Bearers and the Furies of Aeschylus (Kegan Paul, 1881); second, revised edition 1889",
+  "locator": "Agamemnon, the Watchman's opening speech, lines 1 to 10, which is the first full sentence of the play and stands before the entry of the Chorus"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right and the fix it names is right. Both 1881 texts print a comma at the end of line six and carry the sentence to line ten, so the six line cut required a full stop that Morshead never wrote, which rule 12 forbids. Re-cut to lines 1 to 10 the quotation ends on the edition's own full stop and every word matches; shipped.js returns not shipped, no near match, Aeschylus 1 of 3 and standing only in month 7, not banned, and the source line is 103 characters. The softer objection about weariness is noted and left to the editor: the passage closes on the lords of light and the turning of the year, not on the complaint."
+}

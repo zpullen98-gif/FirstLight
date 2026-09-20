@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "Till rising and gliding out I wander’d off by myself, / In the mystical moist night-air, and from time to time, / Look’d up in perfect silence at the stars.",
+ "source": "Walt Whitman, When I Heard the Learn’d Astronomer, the closing three lines, Leaves of Grass, Book XX, By the Roadside",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the Project Gutenberg text of Leaves of Grass, downloaded and read this run; the poem stands at line 8906 of that file and the nearest preceding cluster heading is BOOK XX. BY THE ROADSIDE",
+  "url": "https://www.gutenberg.org/cache/epub/1322/pg1322.txt",
+  "edition": "Leaves of Grass, the 1891 to 1892 deathbed edition, which prints the elisions wander’d and Look’d",
+  "locator": "the last three of the poem’s eight lines, Book XX, By the Roadside"
+ },
+ "confidence": "high",
+ "reason": "The three lines match the scanned text exactly, including both elided spellings, the hyphen in night-air and the comma after from time to time. The poem first appeared in Drum-Taps in 1865. Whitman has no other line in the year."
+}

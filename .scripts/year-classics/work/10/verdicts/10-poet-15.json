@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-15",
+ "verdict": "VERIFIED",
+ "quote": "Evening, all things thou bringest / Which dawn spread apart from each other; / The lamb and the kid thou bringest, / Thou bringest the boy to his mother.",
+ "source": "Sappho, fragment 104a, the Hesperus fragment, in Wharton’s Sappho (trans. J. A. Symonds, 1883)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Bibelot, Volume I, Number V, which reprints Wharton's page of selected renderings for this fragment, read this run: the quatrain stands verbatim and is credited to J. A. Symonds, 1883, beside Edwin Arnold's 1869 version and Byron's imitation",
+  "url": "https://www.elfinspell.com/Bibelot1Sappho95.html",
+  "edition": "Henry Thornton Wharton, Sappho: Memoir, Text, Selected Renderings and a Literal Translation; Symonds rendering of 1883",
+  "locator": "fragment 95 in Wharton's numbering, 104a in Lobel and Page"
+ },
+ "confidence": "high",
+ "reason": "The four lines match the Symonds rendering exactly, with the semicolon after each other and the line-head capitals kept. The source no longer claims a Wharton edition and page that were not opened; the Symonds credit is what the witness carries. Sappho has no other line in the year."
+}

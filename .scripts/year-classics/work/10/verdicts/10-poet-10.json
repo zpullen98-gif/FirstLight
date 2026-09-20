@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-10",
+ "verdict": "CORRECTED",
+ "quote": "Some time now past in the Autumnal Tide, / When Phoebus wanted but one hour to bed, / The trees all richly clad, yet void of pride, / Where gilded o’re by his rich golden head.",
+ "source": "Anne Bradstreet, Contemplations, stanza 1, lines 1 to 4, Several Poems, 1678 (ed. J. H. Ellis, 1867, p. 370)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: Phœbus becomes Phoebus, the spelling the Ellis text prints. Where in line four is not a slip. Ellis, who follows the 1678 sheets, reads Where gilded o’re, and modern editions emend it to Were. The 1678 sheets themselves were not opened.",
+ "evidence": {
+  "where": "The Ellis edition itself, read this run as the Internet Archive full text of the 1867 volume. The stanza opens the poem on p. 370 under the drop capital, and the four lines read: Some time now past in the Autumnal Tide, When Phoebus wanted but one hour to bed, The trees all richly clad, yet void of pride, Where gilded o're by his rich golden head. The scan carries no œ ligature. Four independent modern transcriptions, at Wikipedia, Brinkerhoff Poetry, the UCF Open Anthology and Bartleby, all print Were and Phoebus and several print Sometime as one word, which is the emended line the note describes.",
+  "edition": "The Works of Anne Bradstreet in Prose and Verse, ed. John Harvard Ellis, Charlestown: A. E. Cutter, 1867, which reprints Several Poems, Boston, 1678",
+  "locator": "p. 370, Contemplations, stanza 1, lines 1 to 4 of a seven line stanza",
+  "url": "https://archive.org/details/worksofannebrads00brad"
+ },
+ "confidence": "high",
+ "reason": "The passage is where the proposal says it is and the unusual reading is genuine: Ellis prints Where, not Were, and prints o're, not o'er, so the proposal was right about the thing a reader will take for a typo, and the note has to stand on the card or the owner will silently fix it. Two things needed correcting. The Phœbus ligature appears in no witness I could reach, neither the Ellis scan nor any transcription, so it was minted typography and is dropped. The locator was loose and now names the page. Line four ends in a full stop in Ellis, so the quotation stops cleanly at the end of line four although the stanza runs to seven lines. One residual doubt, not worth the note: the scan shows a stop rather than a comma after pride in line three, which is more likely an artefact of the optical reading than the printer, and every transcription has the comma, so the comma stands. The 1678 sheets were not opened, but Ellis is the standard edition of them and is what the source names."
+}

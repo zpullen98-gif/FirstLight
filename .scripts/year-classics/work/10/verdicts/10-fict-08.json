@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-08",
+ "verdict": "VERIFIED",
+ "quote": "But to look at the stars always makes me dream, as simply as I dream over the black dots of a map representing towns and villages.",
+ "source": "Vincent van Gogh, The Complete Letters, letter 506 to Theo, Arles, c. 9 July 1888 (trans. Johanna van Gogh-Bonger, 1958)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Read the whole of letter 506 in the standard English text hosted at webexhibits.org, where the sentence appears word for word as proposed, headed Arles, c. 9 July 1888. The Van Gogh Museum's letters site confirms the concordance, listing the letter as 638 (642, 506), To Theo van Gogh, Arles, Monday 9 or Tuesday 10 July 1888. Lib Quotes traces this same English wording to Further Letters of Vincent van Gogh to His Brother, 1886-1889 (1929), the first English edition whose translation the 1958 Complete Letters carried over, and the 1958 edition credits its translation to Mrs J. van Gogh-Bonger with parts by C. de Dood.",
+  "edition": "The Complete Letters of Vincent van Gogh (New York Graphic Society, 1958), letter 506",
+  "locator": "letter 506 to Theo, Arles, c. 9 July 1888",
+  "url": "https://www.webexhibits.org/vangogh/letter/18/506.htm"
+ },
+ "confidence": "medium",
+ "reason": "The wording is confirmed in the standard English text and the letter number and date are confirmed against the Van Gogh Museum concordance, but the 1958 volume itself was not opened and the translation credit rests on the edition's own general statement, so medium rather than high. Only the wondering sentence ships: the passage that follows, about death and disease as means of locomotion, is left off."
+}

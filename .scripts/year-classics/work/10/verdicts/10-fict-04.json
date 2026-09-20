@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-04",
+ "verdict": "VERIFIED",
+ "quote": "In autumn the evenings, when the glittering sun sinks close to the edge of the hills and the crows fly back to their nests in threes and fours and twos; more charming still is a file of wild geese, like specks in the distant sky.",
+ "source": "Sei Shōnagon, The Pillow Book, section 1, the autumn sentence of the opening list (trans. Ivan Morris, 1967)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "A university teaching edition of the Morris translation printing the whole opening passage, which gives this sentence word for word and credits Ivan Morris; confirmed against a second witness of the Morris text",
+  "url": "https://chnm.gmu.edu/wwh/p/215.html",
+  "edition": "The Pillow Book of Sei Shōnagon, trans. Ivan Morris, Columbia University Press, 1967; the Penguin reprint of 1971 carries the same wording",
+  "locator": "section 1, In Spring It Is the Dawn, the third sentence of the four season list"
+ },
+ "confidence": "high",
+ "reason": "Word for word in Morris, including the semicolon and threes and fours and twos. One warning for the editor rather than a fault in the citation: month 1 already ships the spring sentence of this same list, In spring it is the dawn that is most beautiful, from the same section in the same translation, so October would print a second slice of one famous passage. Sei Shōnagon is at one line for the year and the tag Diary matches the shipped line."
+}

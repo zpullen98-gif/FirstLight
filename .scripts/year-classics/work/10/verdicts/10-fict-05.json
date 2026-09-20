@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-05",
+ "verdict": "VERIFIED",
+ "quote": "A very strange and solemn feeling came over me as I stood there, with no sound but the rustle of the pines, no one near me, and the sun so glorious, as for me alone.",
+ "source": "Louisa May Alcott, Her Life, Letters, and Journals, ch. III, Fruitlands, journal entry headed Concord, Thursday (ed. Cheney, 1889)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "Read the entry on the page in two independent transcriptions of Ednah D. Cheney's 1889 edition: the Project Gutenberg text (ebook 38049) and the americanliterature.com text. Both print the sentence word for word as proposed, inside the entry headed CONCORD, Thursday, in Chapter III, Fruitlands, a few entries after one dated January, 1845.",
+  "edition": "Louisa May Alcott: Her Life, Letters, and Journals, ed. Ednah D. Cheney (Roberts Brothers, 1889)",
+  "locator": "ch. III, Fruitlands, journal entry headed CONCORD, Thursday",
+  "url": "https://www.gutenberg.org/cache/epub/38049/pg38049.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording, the chapter and the entry heading are all confirmed on the page in Cheney's 1889 edition, and the shipped.js check finds nothing already shipped and Alcott at one of three. The entry is a girl alone in the autumn woods with no sound but the pines, which is the month's theme exactly."
+}

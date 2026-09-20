@@ -1,0 +1,7 @@
+{
+ "id": "10-poet-13",
+ "refuted": false,
+ "reason": "Attack failed on every axis. Wording: the full eighteen-line text on poets.org, fetched this run, closes exactly ‘Let it come, as it will, and don’t / be afraid. God does not leave us / comfortless, so let evening come.’ Character for character, including the lowercase line heads at ‘be’ and ‘comfortless’ that continue the sentence, and the line breaks fall where the quotation marks them. Locator: six tercets, so the closing tercet is lines 16 to 18. Confirmed. Attribution: Kenyon’s own poem, not a character’s line, no misattribution trap; ‘God does not leave us comfortless’ echoes John 14:18 but the line is Kenyon’s verse, not scripture, so the Library rule does not bite. Cap and ban: shipped.js returns jane kenyon, yearCount 0, atCap false, banned false, shipped [], near []. Scope: first collected in Let Evening Come (Graywolf Press, 1990), well before 1999, and nothing in it needs a warning. Form: source line leads with the name, no dash, 86 characters, ends in a full stop, curly apostrophe, tag Poetry is the form of the work. One nit, not a refutation: poets.org credits its text to Otherwise (1996) while the citation names the 1990 first book, which is the tidier and correct first appearance; the citation would only read cleaner if it separated the poem title from the identically titled volume.",
+ "betterCitation": "Jane Kenyon, ‘Let Evening Come’, Let Evening Come, final stanza, lines 16 to 18 (Graywolf Press, 1990)",
+ "wordingChecked": true
+}

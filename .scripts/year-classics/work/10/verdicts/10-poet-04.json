@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "Why, yes, it is Sunday every day, in every house, when people open their eyes.",
+ "source": "Maurice Maeterlinck, The Blue Bird, Act IV, scene 2 (the Happiness of Being Well) (trans. Alexander Teixeira de Mattos, 1909)",
+ "tradition": "Drama",
+ "speaker": "the Happiness of Being Well",
+ "note": "",
+ "evidence": {
+  "where": "the full text of the play, read on the page: the speech heading above the line reads THE HAPPINESS OF BEING WELL, and the scene heading above it reads SCENE 2, The Palace of Happiness, inside ACT IV",
+  "url": "https://www.gutenberg.org/cache/epub/8606/pg8606.txt",
+  "edition": "The Blue Bird: A Fairy Play in Six Acts, translated by Alexander Teixeira de Mattos, first published 1909",
+  "locator": "Act IV, scene 2, the Palace of Happiness; the Happiness of Being Well answers Tyltyl, who has just asked whether they are as fine as that every day"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim, and the act, the scene and the speaker are all confirmed from the headings around it. Maeterlinck closes with his four dots, so the terminal full stop is the editor’s, as the proposal stated. One caution for the editor: the fame signal is weak, since the line is not in the standard quotation collections and the play is known by its bird rather than by this sentence."
+}

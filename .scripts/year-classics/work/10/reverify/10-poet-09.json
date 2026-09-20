@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-09",
+ "verdict": "REJECT",
+ "quote": "Watching the moon / at dawn, / solitary, mid-sky, / I knew myself completely, / no part left out.",
+ "source": "Izumi Shikibu, The Ink Dark Moon (trans. Jane Hirshfield with Mariko Aratani, 1988)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Third ruling, run independently. The only public scan of the volume is the Internet Archive item inkdarkmoon00jane_0, the Vintage 1990 reprint, 246 images, and every derivative file on it carries private: true, so the pages cannot be reached. Search inside returns nothing for it on any endpoint tried, including ia-fts, ia-pub-fts-api and the archivelab mirror. No other scan exists: title:(ink dark moon) on archive.org returns exactly one item and it is a 2015 radio programme, and title:(women in praise of the sacred) returns none. Falling back to the secondary corpus, an Open Library full text search for “no part left out” with “mid-sky” returns eighteen printed books that disagree with each other. Eleven read at dawn, five read at midnight, and the close is printed three ways: completely, no part left out. / completely: no part left out. / completely. No part left out. None of the eighteen is the named edition. WebSearch was unavailable, its session budget being spent.",
+  "edition": "The Ink Dark Moon, Charles Scribner's Sons, 1988, reprinted Vintage 1990, trans. Jane Hirshfield with Mariko Aratani; not opened, and no public copy can be opened",
+  "locator": "none: the poems are unnumbered in every reprint seen, no page is cited anywhere, and the volume's own lineation of the five lines is unknown",
+  "url": "https://openlibrary.org/search/inside?q=%22no+part+left+out%22+%22mid-sky%22"
+ },
+ "confidence": "high",
+ "reason": "Third time of asking the volume still cannot be opened, and the eighteen secondary printings disagree on the second line, on the punctuation of the close and on which Hirshfield book prints which reading, so both the wording and the verse lineation the rules require would have to be chosen rather than found. HEDGE cannot save it because the doubt is not about the attribution, which nobody disputes, but about the words themselves, and the standard forbids minting those."
+}

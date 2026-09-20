@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-10",
+ "verdict": "CORRECTED",
+ "quote": "Meanwhile, let us have a sip of tea. The afternoon glow is brightening the bamboos, the fountains are bubbling with delight, the soughing of the pines is heard in our kettle. Let us dream of evanescence, and linger in the beautiful foolishness of things.",
+ "source": "Okakura Kakuzō, The Book of Tea, ch. I, The Cup of Humanity, the closing words (1906)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the punctuation. The 1906 text reads: let us dream of evanescence, and linger in the beautiful foolishness of things, with a comma before and. Okakura wrote the book in English, so no translator is named.",
+ "evidence": {
+  "where": "The Project Gutenberg text of The Book of Tea, read at the end of chapter I, which returns the paragraph verbatim and confirms it as the closing words of The Cup of Humanity",
+  "url": "https://www.gutenberg.org/files/769/769-h/769-h.htm",
+  "edition": "The Book of Tea (1906), written in English",
+  "locator": "chapter I, The Cup of Humanity, the final paragraph"
+ },
+ "confidence": "high",
+ "reason": "The paragraph is the closing of chapter I and the wording matches the 1906 text exactly except for one comma, which the proposal dropped before and linger. Okakura stands at one line for the year and appears once in this month, so the cap and the one person a month rule are both clear."
+}

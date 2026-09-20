@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-11",
+ "verdict": "CORRECTED",
+ "quote": "Leisure is a form of silence, of that silence which is the prerequisite of the apprehension of reality: only the silent hear and those who do not remain silent do not hear.",
+ "source": "Josef Pieper, Leisure the Basis of Culture, the title essay, ch. III, pp. 40 to 41 (trans. Alexander Dru, 1952)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "Corrected: the pages given are those of the Pantheon Books edition of 1952, not Faber, and the passage sits in chapter III of the title essay. The title in the Dru translation carries no comma. Gerald Malsbary renders the same sentence quite differently in 1998, so the translator must be named.",
+ "evidence": {
+  "where": "a scholarly article that quotes the sentence in full and cites it as Josef Pieper, Leisure The Basis of Culture, translated by Alexander Dru, introduction by T. S. Eliot, New York, Pantheon Books, 1952, pages 40 to 41. The chapter was fixed by two further checks: the 1998 Malsbary translation, read in full this run, carries the parallel sentence in its chapter III at page 50, and a reading blog working through chapter 3 quotes the sentence that immediately precedes it in Dru, leisure implies an attitude of non-activity, of inward calm, of silence.",
+  "url": "https://thetablet.org/the-meaning-of-leisure-and-the-meaning-of-worship/",
+  "edition": "Musse und Kult, 1948; Alexander Dru translation published 1952 by Faber and Faber in London and by Pantheon Books in New York, both with the T. S. Eliot introduction. The pages cited are the Pantheon ones.",
+  "locator": "the title essay, ch. III, pp. 40 to 41, directly after the sentence about an attitude of non-activity, of inward calm, of silence"
+ },
+ "confidence": "medium",
+ "reason": "The wording is Dru’s and not anyone else’s: the 1998 Malsbary translation, which I read in full, renders the same German as leisure is a form of that stillness that is the necessary preparation for accepting reality, so the two are easy to confuse and the translator has to be named. The Dru wording, translator, publisher and pages come from a single careful citation rather than from a scan I opened, and the chapter is inferred from the Malsbary parallel and from a blog quoting the adjoining sentence, so the confidence is medium rather than high. Not shipped anywhere in First Light, Pieper is not banned, and he has no other line in the year."
+}

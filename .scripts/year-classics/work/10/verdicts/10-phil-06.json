@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-06",
+ "verdict": "VERIFIED",
+ "quote": "Noise is the most impertinent of all forms of interruption. It is not only an interruption, but also a disruption of thought.",
+ "source": "Arthur Schopenhauer, Parerga and Paralipomena, ‘On Noise’, in Studies in Pessimism (trans. T. Bailey Saunders, 1890)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the full Saunders text downloaded and read this run, Project Gutenberg ebook 10732, The Essays of Arthur Schopenhauer: Studies in Pessimism; the two sentences stand at lines 2818 to 2820, in the essay ON NOISE which begins at line 2784, in its third paragraph, just after the sentence about the eleventh commandment",
+  "url": "https://www.gutenberg.org/cache/epub/10732/pg10732.txt",
+  "edition": "Studies in Pessimism: A Series of Essays, selected and translated by T. Bailey Saunders, Swan Sonnenschein, London, first published November 1890",
+  "locator": "‘On Noise’, third paragraph; Saunders’ own prefatory note says the volume is a selection from the Parerga"
+ },
+ "confidence": "high",
+ "reason": "Both sentences match the Saunders translation exactly and stand together in ‘On Noise’. The translator’s note at the head of the volume confirms the essays are drawn from the Parerga, so naming Parerga and Paralipomena as the work with Studies in Pessimism as the printed source is right. Not shipped; Schopenhauer stands at two lines in the year, so this is his third and last."
+}

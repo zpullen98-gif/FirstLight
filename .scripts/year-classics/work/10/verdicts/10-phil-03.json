@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-03",
+ "verdict": "CORRECTED",
+ "quote": "What a strange, demented feeling it gives me when I realize I have spent whole days before this inkstone, with nothing better to do, jotting down at random whatever nonsensical thoughts that have entered my head.",
+ "source": "Yoshida Kenkō, Essays in Idleness (Tsurezuregusa), the Preface (trans. Donald Keene, 1967)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "Corrected the wording. The Columbia University Press text of Keene reads whatever nonsensical thoughts that have entered my head, and quotation collections quietly drop the that. The reading was checked against that edition as cited, not against a copy of the 1967 printing.",
+ "evidence": {
+  "where": "the Wikipedia article on the Tsurezuregusa, which quotes the passage under a citation of the Columbia University Press edition of Keene, and a Japanese comparison page that sets the English translations side by side and labels this one Keene, 1967, 1998",
+  "edition": "Yoshida Kenkō, Essays in Idleness: The Tsurezuregusa of Kenkō, trans. Donald Keene (Columbia University Press, 1967; reissued 1998)",
+  "locator": "the Preface, the whole of it",
+  "url": "https://en.wikipedia.org/wiki/Tsurezuregusa"
+ },
+ "confidence": "medium",
+ "reason": "The line is Keene and it is the Preface, but the proposed wording drops one word. Every source that cites the Columbia volume by name keeps that, while the quote aggregators, which smooth awkward grammar rather than add it, drop it. The lending scans of Keene could not be opened, so the wording rests on the cited edition and not on a page I turned. Kenkō is shipped once already, at section 92, and that is a different passage."
+}

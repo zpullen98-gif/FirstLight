@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-05",
+ "verdict": "CORRECTED",
+ "quote": "Now we will count to twelve / and we will all keep still.",
+ "source": "Pablo Neruda, Keeping Quiet, the opening two lines, Extravagaria (trans. Alastair Reid, 1972)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Corrected the year. Alastair Reid’s Extravagaria was first published by Jonathan Cape in 1972, and Farrar, Straus and Giroux issued the American bilingual edition in 1974. The Spanish original is A callarse in Estravagario, Losada, 1958. The wording is attested in independent reprints crediting Reid. No printed copy was opened, so no page is given.",
+ "evidence": {
+  "where": "three independent online reprints read this run (Poetry Chaikhana, which credits Alastair Reid and the Farrar, Straus and Giroux bilingual Extravagaria, and On Being, which carries the Fundación Pablo Neruda permission line), plus bibliographic records for the translation: an AbeBooks listing of the Jonathan Cape 1972 first edition and the National Library of Scotland catalogue entry for Reid’s manuscript and typescript of Extravagaria, dated 1972 or before",
+  "url": "https://www.poetry-chaikhana.com/Poets/N/NerudaPablo/KeepingQuiet/index.html",
+  "edition": "Extravagaria, trans. Alastair Reid, first published Jonathan Cape, London, 1972; American bilingual edition Farrar, Straus and Giroux, 1974. Spanish original Estravagario, Losada, Buenos Aires, 1958",
+  "locator": "the opening two lines of A callarse / Keeping Quiet; no page of any printed volume was opened"
+ },
+ "confidence": "medium",
+ "reason": "The refutation is upheld on the one point it raised. Reid’s translation was first published in 1972, not 1974, so the card as it stood told a morning reader the wrong year for the translation; the fix is one digit. Everything else survives re-checking: I read the opening lines myself this run on two independent reprints and both give the same two line stanza, the same lower case and at the head of line two, no comma after twelve, and the terminal stop. shipped.js returns no match and no near match, Neruda stands at 0 of 3, and he is not banned. The remaining doubt is that no printed page was opened, which the note states."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-07",
+ "verdict": "VERIFIED",
+ "quote": "Every one knows what attention is. It is the taking possession by the mind, in clear and vivid form, of one out of what seem several simultaneously possible objects or trains of thought.",
+ "source": "William James, The Principles of Psychology, vol. I, ch. XI, ‘Attention’, pp. 403 to 404 (Henry Holt, 1890)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the Classics in the History of Psychology text of chapter XI, downloaded and read this run; it carries the original pagination in brackets, and the marker [p. 404] falls inside the sentence, after the word trains, which confirms the passage runs across pp. 403 to 404",
+  "url": "https://psychclassics.yorku.ca/James/Principles/prin11.htm",
+  "edition": "The Principles of Psychology, Henry Holt and Company, New York, 1890, vol. I",
+  "locator": "vol. I, ch. XI, ‘Attention’, pp. 403 to 404, the first two sentences of the paragraph that opens the definition"
+ },
+ "confidence": "high",
+ "reason": "The wording matches the 1890 text exactly, including Every one as two words and what seem several simultaneously possible objects. The page span given in the proposal is confirmed by the pagination marker inside the sentence. Not shipped; James stands at two lines in the year, so this is his third and last."
+}

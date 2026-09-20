@@ -1,0 +1,20 @@
+{
+ "id": "10-poet-12",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and it held, and it now rests on better evidence than the verifier had. The verifier leaned on LitCharts, a study site, and admitted the book was never opened. I fetched the Academy of American Poets text at poets.org/poem/summer-day, which prints the whole poem under an explicit permission line from the Charlotte Sheedy Literary Agency as agent for the author, with a copyright line beginning 1990, matching House of Light. That text is nineteen lines in a single stanza. Counting from Who made the world?, the five lines the proposal ships are lines 11 to 15 and they match character for character, including the curly apostrophe in the first word of line 11 and the lower-case line heads on into, how and which, and the passage closes on a full stop. So the locator, the lineation, the line breaks and the wording are all confirmed against an authorised printing. The source line is 79 characters, leads with the name, carries no dash, names work then locator then book and imprint, and the tag Poetry is the form of the work. shipped.js returns nothing shipped, no near match, Mary Oliver at 0 of 3, not banned. In scope at 1990, nothing needing a warning, and an attention poem that is the month's theme almost verbatim. One thing to record rather than refute: the note is empty, and since the evidence as filed rested on a study site it should now say that the text was checked against the Academy of American Poets' authorised printing and that the Beacon volume itself was not opened.",
+ "checks": {
+  "shippedJs": "not shipped, no near match, person 0 of 3, not banned",
+  "wordingVsNamedEdition": "read against the rights-holder-authorised full text at poets.org, 1990 copyright; exact match",
+  "locator": "correct: lines 11 to 15 of 19, single stanza",
+  "attribution": "correct; not on the misattribution list; not a character's line",
+  "scope": "in scope, 1990, Poetry",
+  "publishable": "yes",
+  "sourceLine": "leads with the name, no dash, 79 characters",
+  "tag": "Poetry, the form of the work, correct"
+ },
+ "sourcesRead": [
+  "https://poets.org/poem/summer-day"
+ ]
+}

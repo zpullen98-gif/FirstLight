@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-11",
+ "verdict": "CORRECTED",
+ "quote": "Up the dome of heaven / Like a great hill, / I watch them marching / Stately and still, / And I know that I / Am honored to be / Witness / Of so much majesty.",
+ "source": "Sara Teasdale, Stars, the last two stanzas, lines 13 to 20, Flame and Shadow, Part I (Macmillan, 1920)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: the poem runs to twenty lines in five stanzas, so its closing two stanzas are lines 13 to 20 and not lines 17 to 24. The wording, capitals and punctuation are those of the 1920 text. The alternating indents of the printed page cannot be shown in a single line.",
+ "evidence": {
+  "where": "The Project Gutenberg text of Flame and Shadow, downloaded and read in full this run. Stars stands in Part I, second poem, after Blue Squills. The poem has five quatrains, twenty lines, with every second line indented. The closing eight lines read exactly: Up the dome of heaven / Like a great hill, / I watch them marching / Stately and still, / And I know that I / Am honored to be / Witness / Of so much majesty. Two independent web renderings, at theotherpages.org, agree on five stanzas and twenty lines and on the same wording.",
+  "edition": "Flame and Shadow, Macmillan, 1920, as Project Gutenberg ebook 591 reproduces it",
+  "locator": "Part I, poem 2, lines 13 to 20 of 20",
+  "url": "https://www.gutenberg.org/files/591/old/fshad10.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording proposed is correct to the letter, including honored in the American spelling, the comma after hill, the comma after still and the full stop after majesty, and the one word line Witness. Only the arithmetic was wrong. The proposal counted six stanzas and gave lines 17 to 24, but the poem has five stanzas of four lines, so the last two stanzas are lines 13 to 20. The text was downloaded rather than read through a summariser, so the line breaks and the indents are certain. The proposal was also right that the alternating indents cannot survive the single line slash form, which is why the note says so. Part I and the position after Blue Squills are added to the source because Flame and Shadow is divided into numbered parts and the poem has a common title."
+}

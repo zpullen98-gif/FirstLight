@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-16",
+ "verdict": "CORRECTED",
+ "quote": "There is a really deep well inside me. And in it dwells God. Sometimes I am there, too.",
+ "source": "Etty Hillesum, An Interrupted Life: The Diaries of Etty Hillesum 1941 to 1943, the entry of 26 August 1941 (trans. Arno Pomerans, 1983)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "Corrected the translator credit. An Interrupted Life prints its translator as Arno Pomerans, not Arnold J. Pomerans, though the two names belong to the same man. No page is given because no copy of the edition was opened. For a diary the dated entry is the locator.",
+ "evidence": {
+  "where": "Open Library full text search across scanned books, which returns the passage in this wording in more than thirty published works. Several predate the 2002 complete edition and cite An Interrupted Life by name with the translator credit Arno Pomerans and the imprint Pantheon Books 1983, among them Ellen Jaffe-Gill, The Jewish Woman's Book of Wisdom, Lyn Klug, Soul Weaving, and Stephen C. Rowe, Living Philosophy. Three independent books place the passage at page 44 of An Interrupted Life: Philip Sheldrake, Befriending Our Desires, which prints the citation Hillesum 1985, p. 44, Maria Lichtmann, The Teacher's Way, and Brian J. Pierce, Jesus and the Prodigal Son. Two further works date the entry 26 August 1941, Jaffe-Gill and Serinity Young, Encyclopedia of Women and World Religion. The Internet Archive holds scans of both An Interrupted Life and the complete edition, and the search inside endpoint for each returned HTTP 403, so neither volume was opened. shipped.js reports the line not shipped, nothing near it, Etty Hillesum at one of three for the year and not banned, and she appears once in this month.",
+  "url": "https://openlibrary.org/search/inside?q=%22deep+well+inside+me%22+%22Interrupted+Life%22",
+  "edition": "An Interrupted Life: The Diaries of Etty Hillesum 1941 to 1943, trans. Arno Pomerans, Pantheon Books, 1983; the Dutch original Het verstoorde leven was first published in 1981",
+  "locator": "the diary entry of 26 August 1941, the first three sentences of the passage; page 44 in the printings cited by three secondary works, not asserted here"
+ },
+ "confidence": "medium",
+ "reason": "The refutation was right about the page and wrong about the work. It accepted the wording, the date, the attribution and the scope, and objected only that page 91 of the 2002 edition rested on one quotation site. Dropping the page settles that, since a dated entry is a diary's locator. The earlier verdict had moved to the 2002 edition because it could not confirm the entry appears in An Interrupted Life, but books published from 1988 onward quote this exact English wording and name An Interrupted Life, trans. Arno Pomerans, Pantheon 1983, which the 2002 edition postdates. So the proposal's own work stands and only the translator's name form is corrected to the one that book prints. Confidence is medium because the volume itself could not be opened."
+}

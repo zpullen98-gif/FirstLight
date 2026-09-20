@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "There was no one waterfall above another—it was a sound of waters in the air—the voice of the air.",
+ "source": "Dorothy Wordsworth, The Grasmere Journal, 29 April 1802, in Journals of Dorothy Wordsworth, ed. William Knight (Macmillan, 1897), p. 114",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "The scanned Knight edition at the Internet Archive, vol. I, where the entry headed Thursday, 29th falls between the page marks 114 and 115; the same wording at Wikisource, which prints Knight",
+  "url": "https://archive.org/stream/journalsdorothy00wordgoog/journalsdorothy00wordgoog_djvu.txt",
+  "edition": "Journals of Dorothy Wordsworth, ed. William Knight, Macmillan, 1897, vol. I (reprinted 1904)",
+  "locator": "The Grasmere Journal, the entry for Thursday 29 April 1802, p. 114, the sentences on John’s Grove"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in Knight, dashes and all, in the entry headed Thursday, 29th under April 1802. The edition is named because editions differ in punctuation here: Knight prints two dashes, while the editions made from the manuscript are looser. The citation follows the Dorothy Wordsworth line already shipped in month 4, which cites Knight for the daffodils entry of 15 April 1802 at p. 106. She stands at one line for the year and this is a different entry."
+}

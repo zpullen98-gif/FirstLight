@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-15",
+ "verdict": "VERIFIED",
+ "quote": "Begin here. It is raining.",
+ "source": "May Sarton, Journal of a Solitude, the opening entry, September 15th, 1970 (W. W. Norton, 1973)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "two sources read this run returned the opening of the journal in the same words: the date heading September 15th, then BEGIN here. It is raining. I look out on the maple, where a few leaves have turned yellow, and listen to Punch, the parrot, talking to himself and to the rain ticking gently against the windows. A reference article on the book states separately that the journal was begun on 15 September 1970 and ended on 30 September of the following year, which fixes the year the entry heading itself does not print.",
+  "url": "https://www.anthologialitt.com/post/may-sarton-journal-of-a-solitude",
+  "edition": "Journal of a Solitude, W. W. Norton, 1973",
+  "locator": "the opening entry, headed September 15th, the first two sentences"
+ },
+ "confidence": "high",
+ "reason": "The wording and the order of the two sentences are confirmed twice. The page sets the first word as BEGIN in full capitals, which is the edition's display style for the first word of the journal and not a different reading, so the line ships as Begin here. The entry heading prints the day and month only, so the source line supplies the year from the book's own dating of the journal rather than claiming it is printed there. Not shipped anywhere in First Light; May Sarton stands at one line in the year."
+}

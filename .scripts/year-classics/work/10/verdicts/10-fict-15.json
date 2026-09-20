@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-15",
+ "verdict": "VERIFIED",
+ "quote": "Above all, he learned from it how to listen, to listen with a still heart, with a waiting, open soul, without passion, without desire, without judgment, without opinions.",
+ "source": "Hermann Hesse, Siddhartha, part two, The Ferryman (trans. Hilda Rosner, 1951)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the German original located and read at the named place, and the English wording checked against the independent public domain translation to confirm it is Rosner and not that one",
+  "edition": "German: Siddhartha, Zweiter Teil, Der Fährmann; English wording as published by New Directions in the Hilda Rosner translation of 1951",
+  "locator": "part two, Der Fährmann: Vor allem lernte er von ihm das Zuhören, das Lauschen mit stillem Herzen, mit wartender, geöffneter Seele, ohne Leidenschaft, ohne Wunsch, ohne Urteil, ohne Meinung",
+  "url": "https://archive.org/download/8sidd10/8sidd10.txt"
+ },
+ "confidence": "medium",
+ "reason": "The passage is where the proposal says it is: part two, the chapter Der Fährmann, immediately after Siddhartha begins learning from the river. The public domain translation reads Most of all, he learned from it to listen, to pay close attention with a quiet heart, so the proposed wording is not that text and is the Rosner rendering reproduced consistently elsewhere. Confidence is medium because no Rosner page was opened and the spelling judgment rather than judgement rests on the American edition."
+}

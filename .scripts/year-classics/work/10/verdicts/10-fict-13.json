@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-13",
+ "verdict": "CORRECTED",
+ "quote": "In the highlands you woke up in the morning and thought: Here I am, where I ought to be.",
+ "source": "Isak Dinesen, Out of Africa, Book One, Kamante and Lulu, ch. 1, The Ngong Farm (Putnam, 1937)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the locator. Book One is titled Kamante and Lulu and The Ngong Farm is its first chapter, so the proposal gave the chapter title in the place of the book title. The wording is exact. Blixen wrote the book in English, so no translator is named.",
+ "evidence": {
+  "where": "A full text of Out of Africa read directly at the sentence, which also shows the part title Kamante and Lulu and the chapter heading 1 the ngong farm above I had a farm in Africa; first publication details checked separately",
+  "url": "https://readfrom.net/isak-dinesen/41849-out_of_africa.html",
+  "edition": "Out of Africa (G. P. Putnam's Sons, 1937), written in English and afterwards rewritten by the author in Danish",
+  "locator": "Book One, Kamante and Lulu, ch. 1, The Ngong Farm, in the description of the high air, two sentences after Up in this high air you breathed easily"
+ },
+ "confidence": "high",
+ "reason": "The sentence reads word for word as proposed, including the colon and the capital at Here, and it sits in the opening chapter where the proposal placed it. Only the shape of the locator needed fixing. The book is a memoir and the closed vocabulary has no such tag, so Essay is the nearest honest one. Dinesen has not stood in the year before, so nothing is at cap."
+}

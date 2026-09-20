@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-01",
+ "verdict": "VERIFIED",
+ "quote": "Beloved Pan, and all ye other gods who haunt this place, give me beauty in the inward soul; and may the outward and inward man be at one.",
+ "source": "Plato, Phaedrus, 279b to 279c, the closing prayer (Socrates) (trans. Benjamin Jowett, 1892)",
+ "tradition": "Philosophy",
+ "speaker": "Socrates",
+ "note": "",
+ "evidence": {
+  "where": "the Jowett text of the Phaedrus, read in full and searched for the passage",
+  "edition": "Plato, Phaedrus, trans. Benjamin Jowett (Project Gutenberg eBook 1636, from the Jowett Dialogues)",
+  "locator": "279b to 279c, the closing prayer of Socrates",
+  "url": "https://www.gutenberg.org/cache/epub/1636/pg1636.txt"
+ },
+ "confidence": "high",
+ "reason": "The Jowett text reads exactly as proposed, word for word and with the semicolon: Beloved Pan, and all ye other gods who haunt this place, give me beauty in the inward soul; and may the outward and inward man be at one. It is the closing prayer at 279b to 279c, and Jowett 1892 is already the house citation for Plato in this year."
+}

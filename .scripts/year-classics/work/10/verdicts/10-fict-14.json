@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-14",
+ "verdict": "CORRECTED",
+ "quote": "At any rate, that is happiness; to be dissolved into something complete and great.",
+ "source": "Willa Cather, My Ántonia, Book I, The Shimerdas, ch. II (Jim Burden) (1918)",
+ "tradition": "Fiction",
+ "speaker": "Jim Burden",
+ "note": "Corrected the locator. The sentence is not the closing words of the chapter but the second to last. Book I, chapter II ends with the sentence beginning When it comes to one. Cather frames the whole narrative as Jim Burden’s manuscript, so the speaker stands.",
+ "evidence": {
+  "where": "full text of My Ántonia, checked line by line for the garden passage and the chapter break that follows it",
+  "edition": "Project Gutenberg ebook 242, from the 1918 text",
+  "locator": "Book I. The Shimerdas, chapter II, final paragraph; chapter III begins on the next line",
+  "url": "https://www.gutenberg.org/cache/epub/242/pg242.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact, down to the semicolon, and the chapter and book are right. Only the claim that it is the closing words is wrong: one sentence follows it before chapter III."
+}

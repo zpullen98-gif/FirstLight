@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-02",
+ "verdict": "VERIFIED",
+ "quote": "You stir man to take pleasure in praising you, because you have made us for yourself, and our heart is restless until it rests in you.",
+ "source": "Augustine of Hippo, Confessions, Book I, ch. 1 (I.i.1) (trans. Henry Chadwick, 1991)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "a Dalhousie University Classics course reader of Confessions selections, whose Book I opening matches the Chadwick wording, plus several sources citing Chadwick, Oxford University Press, 1991",
+  "edition": "Augustine, Confessions, trans. Henry Chadwick (Oxford University Press, 1991)",
+  "locator": "Book I, i (1), the opening paragraph",
+  "url": "https://cdn.dal.ca/content/dam/dalhousie/pdf/fass/Classics/WbG/Augustine%E2%80%99s%20Confessions%20Selections%20for%20God%20Everyday%20and%20Everywhere.pdf"
+ },
+ "confidence": "high",
+ "reason": "The course reader prints the sentence verbatim as proposed, and it stands as its own sentence in Chadwick, so no capital has been invented at the head. The locator I.i.1 is right: it is the second sentence of the opening paragraph of Book I. Augustine stands at one line for the year, so the cap is clear."
+}

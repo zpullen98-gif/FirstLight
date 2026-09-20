@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "We call it a grain of sand, / but it calls itself neither grain nor sand.",
+ "source": "Wisława Szymborska, View with a Grain of Sand, lines 1 to 2, Ludzie na moście (1986) (trans. Stanisław Barańczak and Clare Cavanagh, 1995)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "two independent reprints of the Barańczak and Cavanagh translation, read this run, agreeing verbatim on the first stanza and its punctuation; the printed volume itself was not opened",
+  "url": "http://999poems.blogspot.com/2010/02/892-view-with-grain-of-sand-by-wislawa.html",
+  "edition": "View with a Grain of Sand: Selected Poems, Harcourt Brace, 1995; the same translation is reprinted in Poems New and Collected, 1998",
+  "locator": "the opening two lines of the first stanza"
+ },
+ "confidence": "medium",
+ "reason": "The proposal's own hedge can be dropped: both reprints print the comma after sand in line 1 and the stop after the second line, and both credit Barańczak and Cavanagh. This is Szymborska's third and last line of the year, after months 1 and 6, and she stands only once in October."
+}

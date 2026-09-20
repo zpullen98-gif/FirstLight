@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-10",
+ "verdict": "CORRECTED",
+ "quote": "Some time now past in the Autumnal Tide, / When Phœbus wanted but one hour to bed, / The trees all richly clad, yet void of pride, / Where gilded o’re by his rich golden head.",
+ "source": "Anne Bradstreet, Contemplations, stanza 1, lines 1 to 4, Several Poems, 1678 (ed. J. H. Ellis, 1867, p. 370)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: the ligature in Phœbus stands, because the page prints it. Where in line four is not a slip. Ellis follows the 1678 sheets and reads Where gilded o’re, and modern editions emend it to Were. The long s in past is expanded. The 1678 sheets themselves were not opened.",
+ "evidence": {
+  "where": "The page image of the Ellis edition, downloaded and read directly this run at full resolution rather than through the optical text. The stanza opens the poem under a drop capital S, so line one is Some time now past in the Autumnal Tide, with a long s in past. Line two prints Phœbus in italic with the œ ligature plainly formed, which settles the point the second ruling got backwards: the earlier verdict dropped the ligature on the strength of the flattened OCR text and said Ellis prints Phoebus, and it does not. Line three ends in a comma after pride, not the full stop the OCR shows. Line four reads Where gilded o’re by his rich golden head. and closes on a full stop, so the quotation stops cleanly although the stanza runs to seven lines. The running head reads CONTEMPLATIONS. [221], the bracketed 1678 signature. The page number is confirmed by the scan's own page_numbers.json, which puts leaf 460 at p. 370 inside a run of neighbouring leaves numbered 367, 371 and 373 at full confidence.",
+  "edition": "The Works of Anne Bradstreet in Prose and Verse, ed. John Harvard Ellis, Charlestown: A. E. Cutter, 1867, which reprints Several Poems, Boston, 1678",
+  "locator": "p. 370, Contemplations, stanza 1, lines 1 to 4 of a seven line stanza",
+  "url": "https://archive.org/download/worksofannebrads00brad/page/leaf460_w1200.jpg"
+ },
+ "confidence": "high",
+ "reason": "Read from the page image, every word of the proposal's quotation is right, including the two readings a modern eye will take for slips, Where for Were and o’re for o’er, and including the Phœbus ligature that the second ruling wrongly removed, so the correction is to restore the proposal's own wording and to fix the note that asserted the opposite. The locator is also corrected from a loose reference to the 1678 sheets to the page of the edition actually consulted."
+}

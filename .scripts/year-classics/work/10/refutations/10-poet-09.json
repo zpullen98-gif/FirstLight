@@ -1,0 +1,24 @@
+{
+ "id": "10-poet-09",
+ "refuted": true,
+ "wordingChecked": false,
+ "betterCitation": "",
+ "reason": "Refuted. Rule 4 requires a locatable citation before a line is proposed, and \"page not traced\" fails that on its face. Worse, the wording itself cannot be fixed. A full-text search of the Internet Archive book corpus (via openlibrary.org/search/inside) returns this poem in more than a dozen published books, and they disagree in two places. \"at dawn\" is printed by Joseph Goldstein, A Heart Full of Peace; Elias Amidon, Honoring the Earth; and Ruth Gordon, Time Is the Longest Distance. \"at midnight\" is printed by Jody Uttal, Painted Prayers; by Upaya Zen Center, which names The Ink Dark Moon and both translators; and by Poetry Chaikhana, which names Hirshfield's Women in Praise of the Sacred. The close also varies across those printings between \"completely,\", \"completely:\" and \"completely.\" with a capitalised \"No part left out.\" (so Women Practicing Buddhism, ed. Gregory and Mrozik). The verifier took the \"at dawn\" reading from Goodreads, a user-submitted quotation site, while both sources in its own evidence that name a Hirshfield volume print \"at midnight\". The evidence is also wrong about the Archive: a full scan of the book exists as inkdarkmoon00jane_0 (Vintage Classics reprint of the Scribner text), but its metadata carries noindex and access-restricted-item, so it is excluded from search inside and the page still cannot be reached. The volume attribution is contested too: Poetry Chaikhana assigns the poem to Women in Praise of the Sacred, ed. Jane Hirshfield, not to The Ink Dark Moon. Rule 7 cannot be met either, since the lineation of the edition named is unknown and the reprints lineate it three ways. shipped.js: not shipped, no near match, Izumi Shikibu at 1 of 3 (month 7), not banned, so nothing else bars it. But this is precisely the case the standard was written for. Not only the citation but the wording would be minted. Out unless the printed page is opened. If the editor insists on carrying it, the \"at midnight\" reading is the better supported of the two and the source line would have to say the volume was never opened and that the two readings are unreconciled.",
+ "checks": {
+  "shippedJs": "not shipped, no near match, person 1 of 3 (month 7), not banned",
+  "wordingVsNamedEdition": "the named edition could not be opened; secondary printings that name it disagree on line 2 and on the close",
+  "locator": "none; \"page not traced\" is not a locator under rule 4",
+  "attribution": "author not in dispute; the VOLUME is (The Ink Dark Moon vs Women in Praise of the Sacred)",
+  "scope": "in scope on date and form",
+  "publishable": "yes",
+  "sourceLine": "leads with the name, no dash, 113 characters, within 140",
+  "tag": "Poetry, the form of the work, correct"
+ },
+ "sourcesRead": [
+  "https://www.upaya.org/2016/05/ink-dark-moon-three-poems/",
+  "https://www.poetry-chaikhana.com/Poets/S/ShikibuIzumi/Watchingmoon/index.html",
+  "https://openlibrary.org/search/inside?q=%22no+part+left+out%22+%22mid-sky%22",
+  "https://openlibrary.org/search/inside?q=%22no+part+left+out%22+%22Izumi+Shikibu%22",
+  "https://archive.org/metadata/inkdarkmoon00jane_0"
+ ]
+}

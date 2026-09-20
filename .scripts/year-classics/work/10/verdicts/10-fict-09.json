@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-09",
+ "verdict": "CORRECTED",
+ "quote": "What one seems to want in art, in experiencing it, is the same thing that is necessary for its creation, a self-forgetful, perfectly useless concentration.",
+ "source": "Elizabeth Bishop, letter to Anne Stevenson, 8 January 1964, the Darwin letter, excerpted in Elizabeth Bishop and Her Art (1983)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected the edition. The wording is confirmed, and the passage was first made public as an excerpt in Elizabeth Bishop and Her Art in 1983. The Library of America volume of 2008 prints letters to Anne Stevenson, but that this one is among them could not be confirmed, so it is not cited.",
+ "evidence": {
+  "where": "The New York Review of Books, 25 February 2020, on Bishop's letters, which quotes the sentence in full, names the 1964 letter to Anne Stevenson as the Darwin letter and says it was excerpted in Elizabeth Bishop and Her Art in 1983; the same sentence is quoted identically in Bishop scholarship on the Darwin letter",
+  "url": "https://www.nybooks.com/online/2020/02/25/letters-elizabeth-bishops-art-form-or-something/",
+  "edition": "Elizabeth Bishop and Her Art, ed. Lloyd Schwartz and Sybil P. Estess (University of Michigan Press, 1983)",
+  "locator": "letter to Anne Stevenson, 8 January 1964, in the passage on Darwin, following Bishop's praise of his endless heroic observations"
+ },
+ "confidence": "medium",
+ "reason": "The sentence is genuine and the wording is stable across independent quotations, including a reliable editorial source that also dates the letter and names where it was first printed. The proposed locator, the Library of America Poems, Prose, and Letters of 2008, could not be confirmed to contain this particular letter: the publisher's description names Anne Stevenson among the recipients of the fifty-three letters selected, but no contents listing or page was found, and one scholarly article still cites the letter from the manuscript at Washington University. The citation is therefore moved to the printed excerpt that is confirmed."
+}

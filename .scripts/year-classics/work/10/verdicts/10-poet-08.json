@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-08",
+ "verdict": "CORRECTED",
+ "quote": "Thousands at his bidding speed / And post o’re Land and Ocean without rest: / They also serve who only stand and waite.",
+ "source": "John Milton, When I consider how my light is spent, lines 12 to 14, Poems (1673)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Corrected the edition. The old spellings o’re and waite belong to the Poems of 1673, verified in the Milton Reading Room text of that edition. Beeching’s Oxford text of 1900 was not opened and is not claimed. The quotation begins inside line 12, which opens Is Kingly.",
+ "evidence": {
+  "where": "the John Milton Reading Room at Dartmouth, read this run, which prints the sonnet with numbered lines from the Poems of 1673",
+  "url": "https://milton.host.dartmouth.edu/reading_room/sonnets/sonnet_19/text.shtml",
+  "edition": "Poems, 1673, in old spelling; the sonnet is numbered 19 in modern editions",
+  "locator": "line 12 from the words Thousands at his bidding through line 14, the closing line"
+ },
+ "confidence": "high",
+ "reason": "The three lines match the 1673 text word for word, including o’re, the colon after rest and waite. What was wrong was the named edition: the proposal credited the old spellings to Beeching, which was not checked, and the 1673 text is the safer citation. Milton has no other line in the year."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-06",
+ "verdict": "VERIFIED",
+ "quote": "When I pass the apple stalls I cannot help stopping and staring until I feel that I, myself, am changing into an apple, too—and that at any moment I may produce an apple, miraculously, out of my own being like the conjurer produces the egg.",
+ "source": "Katherine Mansfield, Collected Letters, vol. 1, to Dorothy Brett, 11 October 1917 (ed. O’Sullivan and Scott, 1984)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Read the letter's text on The American Reader, which prints the passage with the sentences on either side and credits The Collected Letters of Katherine Mansfield, Volume 1: 1903 to 1917, ed. Vincent O'Sullivan and Margaret Scott (Oxford, 1984). The wording matches the proposal exactly, including the em dash after too.",
+  "edition": "The Collected Letters of Katherine Mansfield, Volume 1: 1903-1917, ed. Vincent O'Sullivan and Margaret Scott (Clarendon Press / Oxford University Press, 1984)",
+  "locator": "letter to Dorothy Brett, 11 October 1917",
+  "url": "https://theamericanreader.com/11-october-1917-katherine-mansfield-to-dorothy-brett/"
+ },
+ "confidence": "medium",
+ "reason": "The wording, date and recipient are confirmed in a transcription that names the Clarendon edition, but the volume itself was not opened and no page is cited, so the confidence is medium rather than high. Mansfield stands at two of three, nothing is already shipped, and the line is attention pushed to the point of delight, which fits October."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-10",
+ "verdict": "CORRECTED",
+ "quote": "This being the case, if I were asked to name the chief benefit of the house, I should say: the house shelters daydreaming, the house protects the dreamer, the house allows one to dream in peace.",
+ "source": "Gaston Bachelard, The Poetics of Space, ch. 1, ‘The House. From Cellar to Garret’, p. 6 (trans. Maria Jolas, 1964)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "Corrected the wording against the Jolas scan at the Internet Archive. The sentence begins This being the case, and the edition spells daydreaming as one word: the hyphen that circulates online is an end of line break in the scan. The page, 6, is added.",
+ "evidence": {
+  "where": "the Internet Archive scan of the Jolas translation, downloaded and read in full this run (the djvu text, 563,847 bytes, matching the byte count the refuter reports). The paragraph reads: This being the case, if I were asked to name the chief benefit of the house, I should say: the house shelters day[break]dreaming, the house protects the dreamer, the house allows one to dream in peace. The next sentences read daydreaming and Daydreaming solid. Counted across the whole file: 170 solid daydream forms, 10 genuinely hyphenated ones, 13 end of line breaks on day. The running head reading 6 the poetics of space stands 20 lines above the sentence and the head reading 7 the house, from cellar to garret, the significance of the hut stands 25 lines below it, which places the passage on page 6.",
+  "url": "https://archive.org/download/G.BachelardThePoeticsOfSpace/G.%2C%20Bachelard%2C%20The%20Poetics%20of%20Space_djvu.txt",
+  "edition": "La poétique de l’espace, Presses Universitaires de France, 1958; English translation by Maria Jolas, Orion Press, New York, 1964, reprinted by Beacon Press with the same pagination",
+  "locator": "ch. 1, ‘The House. From Cellar to Garret. The Significance of the Hut’, p. 6"
+ },
+ "confidence": "high",
+ "reason": "I downloaded the same Jolas scan and read the paragraph myself: the sentence opens This being the case, so the proposal's capitalised If is a quotation site rendering that exists in no edition, and the hyphen in day-dreaming is a line break artefact, the edition spelling the word solid 170 times against 10 true hyphens. Work, chapter, page, translator and year were all sound, so only the wording needed repair. shipped.js: no match, no near match, Bachelard at 0 of 3, not banned."
+}

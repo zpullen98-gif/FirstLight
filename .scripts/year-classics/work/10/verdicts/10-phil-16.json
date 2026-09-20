@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-16",
+ "verdict": "CORRECTED",
+ "quote": "There is a really deep well inside me. And in it dwells God. Sometimes I am there, too.",
+ "source": "Etty Hillesum, Etty: The Letters and Diaries of Etty Hillesum 1941 to 1943, 26 August 1941, p. 91 (trans. Arnold J. Pomerans, 2002)",
+ "tradition": "Diary",
+ "speaker": "",
+ "note": "Corrected the edition. The wording given, including Sometimes I am there, too, is the complete edition edited by Klaas A. D. Smelik and translated by Arnold J. Pomerans, page 91. An Interrupted Life of 1983 is an abridgement and its page for this entry was not confirmed. The diary date is unchanged.",
+ "evidence": {
+  "where": "a quotation reference that cites the passage to a named page of a named edition, giving the entry date 26 August 1941 and page 91 of Etty: The Letters and Diaries of Etty Hillesum 1941 to 1943, edited by Klaas A. D. Smelik and translated by Arnold J. Pomerans, Eerdmans, 2002; the wording it returns runs on, There is a really deep well inside me. And in it dwells God. Sometimes I am there, too. But more often stones and grit block the well, and God is buried beneath. Then He must be dug out again. A separate search agreed on the same date and the same wording. Listings for the 1983 An Interrupted Life disagree among themselves on the translator's name, Arno or Arnold J. Pomerans, and on the year, 1983 or 1984, and gave no page for this entry.",
+  "url": "https://en.wikiquote.org/wiki/Etty_Hillesum",
+  "edition": "Etty: The Letters and Diaries of Etty Hillesum 1941 to 1943, ed. Klaas A. D. Smelik, trans. Arnold J. Pomerans, Wm. B. Eerdmans, 2002, p. 91; the Dutch original Het verstoorde leven was first published in 1981",
+  "locator": "the diary entry of 26 August 1941, the first three sentences of the passage"
+ },
+ "confidence": "medium",
+ "reason": "The wording is right and the date is right, but the edition named in the proposal is not the one the wording could be located in. An Interrupted Life is a selection from the diaries and I could not confirm that this entry appears in it, let alone on a page, and even its translator credit is given two ways in the trade listings. The complete Eerdmans edition carries a named translator, a named editor and a page, so the citation moves there. The translation postdates 1999, which the year's practice allows because the rule about first publication before 2000 binds the work and not the translation; the diaries were first published in 1981. Confidence is medium because the page reference comes from a quotation reference rather than from the volume itself."
+}

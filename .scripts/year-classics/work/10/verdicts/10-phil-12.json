@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "While washing the dishes one should only be washing the dishes, which means that while washing the dishes one should be completely aware of the fact that one is washing the dishes.",
+ "source": "Thich Nhat Hanh, The Miracle of Mindfulness, ch. 2, ‘Washing the dishes to wash the dishes’ (trans. Mobi Ho, 1976)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "a full text of the Mobi Ho translation read this run, which gives the table of contents as One, The Essential Discipline; Two, The Miracle Is to Walk on Earth; Three, A Day of Mindfulness; Four, The Pebble; Five, One Is All, All Is One: The Five Aggregates; Six, The Almond Tree in Your Front Yard; Seven, Three Wondrous Answers. The sentence stands in chapter Two under the sub-heading Washing the dishes to wash the dishes, and is followed by At first glance, that might seem a little silly: why put so much stress on a simple thing? A separate published excerpt reproduces the same sentence word for word under the same sub-heading, and a bookseller listing of the 1976 Beacon Press first edition confirms the chapter titles and the Mobi Ho translation.",
+  "url": "https://gist.github.com/moutons/66e6cbff7b19192b69e4",
+  "edition": "Phép lạ của sự tỉnh thức, written in Vietnamese in 1974 and published in 1975; English translation by Mobi Ho, Beacon Press, Boston, 1976, revised 1987",
+  "locator": "ch. 2, ‘The Miracle Is to Walk on Earth’, under the sub-heading ‘Washing the dishes to wash the dishes’, near the start of the chapter"
+ },
+ "confidence": "high",
+ "reason": "The wording matches the Mobi Ho text exactly across three independent reproductions, including the awkward repetition of washing the dishes three times, which is the point of the sentence and the reason it must not be tidied. The proposal named the sub-heading correctly but left out the chapter, which is Two and not One, so the chapter is added. It is a named work of contemplative philosophy, not scripture and not liturgy, so the Library rule does not claim it. Not shipped anywhere in First Light, Thich Nhat Hanh is not banned, and he has no other line in the year."
+}

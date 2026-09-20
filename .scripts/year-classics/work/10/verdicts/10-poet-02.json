@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-02",
+ "verdict": "VERIFIED",
+ "quote": "Thou hast come to a steed-famed land for rest, / O stranger worn with toil, / To a land of all lands the goodliest / Colonus’ glistening soil.",
+ "source": "Sophocles, Oedipus at Colonus, the Colonus ode, first strophe, from line 668 (the Chorus) (trans. F. Storr, 1912)",
+ "tradition": "Drama",
+ "speaker": "the Chorus",
+ "note": "",
+ "evidence": {
+  "where": "the full text of the Storr translation, read on the page; the four lines open the stanza marked Str. 1 and the full stop after soil is the translator’s own",
+  "url": "https://www.gutenberg.org/files/31/31-h/31-h.htm",
+  "edition": "The Oedipus Trilogy, translated by F. Storr, BA, from the Loeb Library edition, Harvard University Press and William Heinemann, first published 1912",
+  "locator": "Oedipus at Colonus, the first strophe of the Colonus ode, which begins at line 668 of the Greek, sung by the Chorus after Theseus leaves Oedipus"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim, and the Gutenberg front matter names F. Storr and the Loeb edition of 1912, so the translator and year are confirmed rather than assumed. Storr does not run line for line with the Greek, so the source gives the ode and the Greek line where it begins instead of a line range."
+}

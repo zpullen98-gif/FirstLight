@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-12",
+ "verdict": "CORRECTED",
+ "quote": "If I were asked to name the chief benefit of the house, I should say: the house shelters daydreaming, the house protects the dreamer, the house allows one to dream in peace.",
+ "source": "Gaston Bachelard, The Poetics of Space, ch. 1, The House. From Cellar to Garret, section I (trans. Maria Jolas, 1964)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the wording. The Jolas translation reads daydreaming as one word, and the sentence begins: if I were asked to name the chief benefit of the house. The opening clause is restored so the line stands on its own. It falls in section I of chapter 1.",
+ "evidence": {
+  "where": "A scan of the Jolas translation, Beacon Press printing with the Stilgoe foreword, read directly: the sentence is on page 6 and the running head on the facing pages reads the house, from cellar to garret, the significance of the hut",
+  "url": "https://archive.org/download/G.BachelardThePoeticsOfSpace/G.%2C%20Bachelard%2C%20The%20Poetics%20of%20Space_djvu.txt",
+  "edition": "The Poetics of Space, trans. Maria Jolas, 1964, read in the Beacon Press printing",
+  "locator": "chapter 1, The House. From Cellar to Garret. The Significance of the Hut, section I, page 6 in the Beacon printing"
+ },
+ "confidence": "high",
+ "reason": "The passage was read on the page: the text runs, This being the case, if I were asked to name the chief benefit of the house, I should say: the house shelters daydreaming, the house protects the dreamer, the house allows one to dream in peace. The proposal opened mid sentence at I should say, which leaves a fragment on the card, and hyphenated day-dreaming, which Jolas does not. The page is given only in the evidence because the Orion pagination of 1964 may differ. The editor should note that the philosophy lane also proposes Bachelard at 10-phil-10, and one person may stand once a month."
+}

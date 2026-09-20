@@ -1,0 +1,23 @@
+{
+ "id": "10-poet-10",
+ "refuted": true,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Refuted narrowly, on one character, and on a note that states the opposite of what the page shows. I did what the verifier did not: fetched the page image of the Ellis edition (Internet Archive worksofannebrads00brad, page_numbers.json puts p. 370 at leaf 460) and read it. The page prints, in italic, Phoebus WITH the oe ligature. The evidence's claim that \"the scan carries no oe ligature\" is an artefact of the OCR text, which flattens ligatures, and the note's \"Phoebus becomes Phoebus, the spelling the Ellis text prints\" is therefore backwards. That false reading was used to justify altering the quotation, so the line as proposed matches no single named edition: Ellis reads Where with the ligature, and the modern transcriptions that read Phoebus without it also read Were. Everything else is now verified from the page image and is right, which is more than the verifier had. The drop capital gives Some time as two words. Line 3 ends in a COMMA after pride, not the full stop the OCR shows. Line 4 is Where gilded o're, with a typographic apostrophe, closing on a full stop. The running head reads CONTEMPLATIONS. [221], the bracketed 1678 signature, and both the table of contents (\"Contemplations 370\") and the index (\"Contemplations, a Poem, 370-81\") confirm p. 370. The citation, the locator, the tag, the 140-character source line (108 characters, leads with the name, no dash) and the person's count (Anne Bradstreet 1 of 3, month 5, not banned, nothing shipped or near) are all sound, and the autumn evening at the head of a poem called Contemplations fits the month. The fix is one character: print the ligature, or keep the plain spelling and rewrite the note to say the ligature is expanded, exactly as the long s in past already is, rather than claiming Ellis prints it that way.",
+ "checks": {
+  "shippedJs": "not shipped, no near match, person 1 of 3 (month 5), not banned",
+  "wordingVsNamedEdition": "read from the page image of Ellis 1867, p. 370; matches in every respect except the oe ligature in Phoebus",
+  "locator": "correct: Contemplations, stanza 1, lines 1 to 4 of a seven line stanza, p. 370",
+  "attribution": "correct; not on the misattribution list",
+  "scope": "in scope, 1678, Poetry",
+  "publishable": "yes",
+  "sourceLine": "leads with the name, no dash, 108 characters",
+  "tag": "Poetry, the form of the work, correct",
+  "noteHonesty": "false where it counts: it asserts a spelling for the named edition that the page contradicts"
+ },
+ "sourcesRead": [
+  "https://archive.org/download/worksofannebrads00brad/worksofannebrads00brad_djvu.txt",
+  "https://archive.org/download/worksofannebrads00brad/worksofannebrads00brad_page_numbers.json",
+  "https://archive.org/download/worksofannebrads00brad/page/leaf460_w1200.jpg"
+ ]
+}

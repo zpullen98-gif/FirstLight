@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "Begin here. It is raining. I look out on the maple, where a few leaves have turned yellow, and listen to Punch, the parrot, talking to himself and to the rain ticking gently against the windows.",
+ "source": "May Sarton, Journal of a Solitude, the first entry, September 15th (W. W. Norton, 1973)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "Two independent quotations of the book’s opening, an anthology page printing extracts of Journal of a Solitude and a second web witness, both giving the date heading September 15th and the same wording; the Norton text itself is in copyright and no scan could be opened",
+  "url": "https://www.anthologialitt.com/post/may-sarton-journal-of-a-solitude",
+  "edition": "Journal of a Solitude, W. W. Norton, New York, 1973",
+  "locator": "the first entry, headed September 15th, the first sentences; the journal runs from that entry to the following September"
+ },
+ "confidence": "high",
+ "reason": "The wording is the book’s first sentences, with BEGIN set in small capitals in the printed opening and rendered here as Begin. The entry headings in Journal of a Solitude carry a day and month and no year, so the locator names no year, which matches the Sarton line already shipped in month 8, cited as the entry for October 6th. Sarton stands at one line for the year, in month 8, so she is clear of the cap and does not stand twice in October. Rain on the window and one yellow leaf is exactly the month."
+}

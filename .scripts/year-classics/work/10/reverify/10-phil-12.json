@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-12",
+ "verdict": "CORRECTED",
+ "quote": "While washing the dishes one should only be washing the dishes, which means that while washing the dishes one should be completely aware of the fact that one is washing the dishes.",
+ "source": "Thich Nhat Hanh, The Miracle of Mindfulness, ch. 1, ‘The Essential Discipline’, p. 3 (trans. Mobi Ho, 1976)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "Corrected the locator. The sentence stands in chapter One, The Essential Discipline, on page 3, not in chapter Two. The earlier citation printed the section heading Washing the dishes to wash the dishes where the chapter title belongs. Beacon's contents page puts chapter Two at page 11, well after this passage. The wording is verbatim.",
+ "evidence": {
+  "where": "an Internet Archive scan of the Beacon Press edition, downloaded and read this run, independently of the PDF the refuter used. Its copyright page reads 1975, 1976 by Thich Nhat Hanh, Preface and English translation 1975, 1976, 1987 by Mobi Ho, Translation of Phep la cua su tinh thuc. Its contents page reads: Translator's Preface by Mobi Ho vii; One, The Essential Discipline 1; Two, The Miracle Is to Walk on Earth 11; Three, A Day of Mindfulness 27; Four, The Pebble 33; Five, One Is All, All Is One: The Five Aggregates 45; Six, The Almond Tree in Your Front Yard 55; Seven, Three Wondrous Answers 69. The chapter One opening page carries the Allen and Joey anecdote, the section heading Washing the dishes to wash the dishes falls on the next page, and the sentence on the page after that, which is page 3. The chapter Two title appears five leaves later. The sentence is verbatim and is followed by At first glance, that might seem a little silly: why put so much stress on a simple thing?",
+  "url": "https://archive.org/download/miracle-of-mindfulness/Miracle%20of%20Mindfulness_djvu.txt",
+  "edition": "Phép lạ của sự tỉnh thức, written in Vietnamese in 1974 and published in 1975; English translation by Mobi Ho, Beacon Press, Boston, 1976, revised 1987. The scan read is a later Beacon printing of that translation, carrying the same contents pagination.",
+  "locator": "ch. 1, ‘The Essential Discipline’, p. 3, under the section heading ‘Washing the dishes to wash the dishes’"
+ },
+ "confidence": "high",
+ "reason": "The refutation holds and I confirmed it on a second, different scan: Beacon's own contents page begins chapter Two at page 11, and this sentence sits in chapter One, The Essential Discipline, on page 3, so the earlier verdict sent a reader to the wrong chapter and printed a section heading as the chapter title. The wording is verbatim in the Beacon text and nothing else in the citation was wrong. shipped.js: no match, no near match, Thich Nhat Hanh at 0 of 3, not banned."
+}

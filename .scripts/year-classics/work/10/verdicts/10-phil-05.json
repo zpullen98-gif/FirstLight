@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "I have discovered that all the unhappiness of men arises from one single fact, that they cannot stay quietly in their own chamber.",
+ "source": "Blaise Pascal, Pensées, section II, no. 139 in the Brunschvicg order (trans. W. F. Trotter, 1908)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the full Trotter text of the Pensées downloaded and read this run, Project Gutenberg ebook 18269 (the Everyman text with the T. S. Eliot introduction); the sentence stands at lines 2434 to 2436 of that file, inside fragment 139, headed Diversion, under SECTION II, THE MISERY OF MAN WITHOUT GOD",
+  "url": "https://www.gutenberg.org/cache/epub/18269/pg18269.txt",
+  "edition": "W. F. Trotter translation, 1908; the same translation carries the Pensées in The Harvard Classics vol. 48, 1910",
+  "locator": "section II, fragment 139 in the Brunschvicg numbering, second sentence of the fragment"
+ },
+ "confidence": "high",
+ "reason": "The wording matches the Trotter text word for word, including the comma before that they cannot stay quietly, and the fragment number and section are those the Trotter edition prints. Not shipped anywhere in First Light; Pascal stands at two lines in the year, so this is his third and last."
+}

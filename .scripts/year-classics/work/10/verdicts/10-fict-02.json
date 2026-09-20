@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "Every landscape is, as it were, a state of the soul, and whoever penetrates into both is astonished to find how much likeness there is in each detail.",
+ "source": "Henri-Frédéric Amiel, Amiel’s Journal, entry for 31 October 1852 (trans. Mrs Humphry Ward, 1885)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "The scanned Macmillan first edition of 1885 at the Internet Archive, vol. I, where the entry is headed 31st October 1852 (Lancy) and the sentence stands verbatim on p. 42; cross-checked against the Project Gutenberg text of the second edition",
+  "url": "https://archive.org/stream/amielsjournaljo01amiegoog/amielsjournaljo01amiegoog_djvu.txt",
+  "edition": "Amiel’s Journal: The Journal Intime of Henri-Frédéric Amiel, trans. Mrs Humphry Ward, Macmillan, 1885, vol. I",
+  "locator": "the entry of 31st October 1852 (Lancy), vol. I, p. 42, in the paragraph on the autumn garden at Lancy"
+ },
+ "confidence": "high",
+ "reason": "Word for word in Ward, including as it were, which the floating rendering Any landscape is a condition of the spirit does not preserve and which carries no source. The 1885 date was tested rather than assumed: the month 5 Amiel line had to be moved to 1888 because Ward added that entry to the second edition, but this entry stands in the scanned first edition of 1885, so 1885 is right. Amiel is at two lines for the year, in months 3 and 5, so this is his third and last."
+}

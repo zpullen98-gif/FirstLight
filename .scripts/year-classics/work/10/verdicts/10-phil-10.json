@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "If I were asked to name the chief benefit of the house, I should say: the house shelters day-dreaming, the house protects the dreamer, the house allows one to dream in peace.",
+ "source": "Gaston Bachelard, The Poetics of Space, ch. 1, ‘The House. From Cellar to Garret’, p. 6 (trans. Maria Jolas, 1964)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the full scanned text of the Jolas translation read this run at the Internet Archive. The sentence stands on page 6, in chapter 1, The House. From Cellar to Garret. The Significance of the Hut, and it reads day-dreaming with a hyphen, exactly as the proposal has it, with the colon after I should say and commas between the three clauses.",
+  "url": "https://archive.org/stream/G.BachelardThePoeticsOfSpace/G.,%20Bachelard,%20The%20Poetics%20of%20Space_djvu.txt",
+  "edition": "La poétique de l’espace, Presses Universitaires de France, 1958; English translation by Maria Jolas first published by the Orion Press, New York, 1964, and reprinted by Beacon Press with the same pagination",
+  "locator": "ch. 1, ‘The House. From Cellar to Garret. The Significance of the Hut’, section I, p. 6"
+ },
+ "confidence": "high",
+ "reason": "The wording, the punctuation and the hyphen in day-dreaming all match the Jolas text on the page, and the chapter and page are as proposed once the page number is added. The translator and year of the translation are correctly named, which matters here because later renderings of Bachelard differ. Not shipped anywhere in First Light, Bachelard is not banned, and he has no other line in the year."
+}

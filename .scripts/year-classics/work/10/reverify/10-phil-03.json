@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "What a strange, demented feeling it gives me when I realize I have spent whole days before this inkstone, with nothing better to do, jotting down at random whatever nonsensical thoughts have entered my head.",
+ "source": "Yoshida Kenkō, Essays in Idleness (Tsurezuregusa), the Preface (trans. Donald Keene, 1967)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "HathiTrust full-text phrase search, which matches the scanned 1967 Columbia printing itself; the refuter's transcription of a Keene course reader; the earlier verifier's Wikipedia reading, now set aside",
+  "edition": "Yoshida Kenkō, Essays in Idleness: The Tsurezuregusa of Kenkō, trans. Donald Keene (Columbia University Press, 1967; reissued 1998)",
+  "locator": "the Preface, the whole of it",
+  "url": "https://babel.hathitrust.org/cgi/ls?q1=%22nonsensical+thoughts+have+entered+my+head%22;a=srchls;anyall1=phrase;field1=ocr"
+ },
+ "confidence": "high",
+ "reason": "The phrase without that returns sixteen HathiTrust items and the list of them includes the digitized Essays in idleness; the Tsurezuregusa of Kenkō, Translated by Donald Keene, Published 1967, so the wording is matched inside the named printing and the 1967 date is now evidenced rather than assumed. The phrase with that returns zero items in the whole corpus, so the earlier verdict's correction ran backwards and the proposal as written is right; shipped.js reports not shipped, nothing near, Kenkō at 1 of 3 and not banned."
+}

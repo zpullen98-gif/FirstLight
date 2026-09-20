@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-12",
+ "verdict": "VERIFIED",
+ "quote": "I don’t know exactly what a prayer is. / I do know how to pay attention, how to fall down / into the grass, how to kneel down in the grass, / how to be idle and blessed, how to stroll through the fields, / which is what I have been doing all day.",
+ "source": "Mary Oliver, The Summer Day, lines 11 to 15, House of Light (Beacon Press, 1990)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "LitCharts' study text of the poem, consulted this run, independently states that The Summer Day is nineteen lines in a single stanza, first published in House of Light in 1990, and that the passage running from I don't know exactly what a prayer is to which is what I have been doing all day is lines 11 to 15. Because the proposal breaks that same passage into exactly five segments in the same order, the numbering and the line breaks pin each other. The publisher pages for House of Light at Penguin Random House and Beacon confirm the collection and the 1990 date. The Beacon page itself was not opened, and the full text is not lawfully reproduced online.",
+  "edition": "House of Light, Beacon Press, 1990",
+  "locator": "The Summer Day, lines 11 to 15 of 19",
+  "url": "https://www.litcharts.com/poetry/mary-oliver/the-summer-day"
+ },
+ "confidence": "medium",
+ "reason": "Nothing about the attribution is in doubt. The poem is Mary Oliver's, it is the poem she is best known by, and House of Light of 1990 is its first collection, which puts it inside the pre 2000 rule. The only open question the proposal raised was the lineation, and that is now closed from the other end: an independent line count of nineteen lines with this passage at lines 11 to 15 matches the five segments proposed, so the breaks fall where the proposal puts them and the locator stands as written. The quotation also ends where a sentence ends, which is what lets it stop at line 15 rather than running on into the two questions that close the poem. Confidence is medium rather than high only because the Beacon printing was not opened and the poem is in copyright, so no scan could be read. It suits the month: it hands back attention and idleness without asking the reader to believe anything."
+}

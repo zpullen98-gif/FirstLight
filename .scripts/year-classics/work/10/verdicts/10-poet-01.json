@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "They do come to you; but you do not hear them. You have not sat in the field in the evening listening for them. When the angelus rings you cross yourself and have done with it; but if you prayed from your heart, and listened to the thrilling of the bells in the air after they stop ringing, you would hear the voices as well as I do.",
+ "source": "Bernard Shaw, Saint Joan, scene V, the ambulatory in the cathedral of Rheims (Joan)",
+ "tradition": "Drama",
+ "speaker": "Joan",
+ "note": "",
+ "evidence": {
+  "where": "the full text of the play, read on the page: the passage was located and compared word for word, including the semicolons and the clause order",
+  "url": "http://gutenberg.net.au/ebooks02/0200811h.html",
+  "edition": "Saint Joan, Project Gutenberg Australia transcription of Shaw’s text, first published 1924",
+  "locator": "scene V, whose stage direction reads The ambulatory in the cathedral of Rheims, near the doors of the vestry; Joan answers Charles immediately after he asks why the voices never come to him"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in the full text. The stage direction fixes the setting as the ambulatory in the cathedral of Rheims, and the line is Joan’s reply to Charles. The locator is corrected only in phrasing, from Rheims cathedral to the words of the stage direction, so the verdict stands as verified."
+}

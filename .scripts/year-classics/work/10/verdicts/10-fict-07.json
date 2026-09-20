@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-07",
+ "verdict": "HEDGE",
+ "quote": "Be regular and orderly in your life like a bourgeois, so that you may be violent and original in your work.",
+ "source": "Gustave Flaubert, letter to Gertrude Tennant, 25 December 1876, Correspondance, vol. IV, p. 280 (translator unidentified)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Verified in French on page 280 of the fourth volume of the Correspondance, in the letter headed Jour de Noël 1876. The English is the wording that circulates everywhere, and no named translator could be found for it. The proposed credit to Francis Steegmuller in 1982 could not be confirmed, so none is claimed.",
+ "evidence": {
+  "where": "Downloaded the scanned text of Correspondance, tome IV (Charpentier) from archive.org and read the letter on the page. It is headed A MADAME TENNANT, Jour de Noël 1876, and on page 280 it reads: Voici un principe d'esthétique (vous voyez que je ramène tout à mon métier), une règle, dis-je, pour les artistes : Soyez réglé dans votre vie et ordinaire comme un bourgeois, afin d'être violent et original dans vos oeuvres. For the English I checked Wikiquote, Oxford Reference listings, two long blog investigations of the quotation and searches of Internet Archive and HathiTrust; every printing of this wording is unattributed, and the Steegmuller volumes are lending only, so the claim could not be tested.",
+  "edition": "Gustave Flaubert, Correspondance, tome IV (Charpentier), p. 280; scan correspondance04flauuoft",
+  "locator": "letter to Madame Tennant, headed Jour de Noël 1876, p. 280",
+  "url": "https://archive.org/details/correspondance04flauuoft/page/280"
+ },
+ "confidence": "high",
+ "reason": "The line is certainly Flaubert's and the French is confirmed at a named place, so this is not a misattribution. What fails is the translation credit: the rules require the translator and year of the published translation whose wording is used, and this English wording has no named translator anywhere I could reach. It may ship only with the honest parenthesis and the note."
+}

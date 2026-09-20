@@ -1,0 +1,17 @@
+{
+ "id": "10-fict-16",
+ "verdict": "CORRECTED",
+ "quote": "There was no possibility of taking a walk that day.",
+ "source": "Charlotte Brontë, Jane Eyre, ch. 1, the opening sentence (Jane Eyre) (Smith, Elder and Co., 1847)",
+ "tradition": "Fiction",
+ "speaker": "Jane Eyre",
+ "note": "Corrected: the speaker is now named after the locator. The title page presents the book as Jane Eyre: An Autobiography, edited by Currer Bell, and Jane narrates throughout in the first person, so the year's practice of naming first person narrators applies here as it does to Jim Burden and Jake Barnes. The wording is unchanged.",
+ "evidence": {
+  "where": "a Wikisource transcription of the 1847 first edition, volume I chapter I, cross checked against the Project Gutenberg text of the 1897 Service and Paton edition, and against the refutation and the earlier verdict for this id",
+  "edition": "Jane Eyre: An Autobiography, edited by Currer Bell, in three volumes, vol. I, London: Smith, Elder, and Co., 1847",
+  "locator": "vol. I, chapter I, page 1, the first sentence",
+  "url": "https://en.wikisource.org/wiki/Jane_Eyre_(1st_edition)/Volume_1/Chapter_1"
+ },
+ "confidence": "high",
+ "reason": "The text survives the refutation intact: the first edition opens with exactly this sentence, and the second sentence that follows matches in both the 1847 and 1897 texts, differing only in the hyphen of out-door. The single defect the refuter found was the citation form, and it is right: the same batch named Jim Burden for Cather's framed first person narration, so Jane Eyre must be named too. That is a correction, not a failure, so the line ships as CORRECTED. The refuter's weaker second objection is recorded and not relied on here: the sentence is famous as an opening and says little standing alone, and it spends Brontë's third and last slot for the year, both of which are editorial calls rather than citation doubts. shipped.js returns no shipped or near match, charlotte bronte at two of three, not banned, and she appears once in this month's proposals."
+}

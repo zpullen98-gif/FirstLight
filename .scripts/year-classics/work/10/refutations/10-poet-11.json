@@ -1,0 +1,20 @@
+{
+ "id": "10-poet-11",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and it held. I downloaded the Project Gutenberg etext of Flame and Shadow (ebook 591) and read the poem in place rather than trusting the verifier's account of it. Stars is the second poem of Part I, immediately after Blue Squills, exactly as the locator says. It is five quatrains, twenty lines, every second line indented. The closing eight lines read Up the dome of heaven / Like a great hill, / I watch them marching / Stately and still, / And I know that I / Am honored to be / Witness / Of so much majesty. That is word for word, capital for capital, comma for comma what the proposal ships, and it closes on a full stop. The verifier's correction from lines 17 to 24 over to lines 13 to 20 is right. The source line is 99 characters, leads with the name, carries no dash, and the tag Poetry is the form of the work. shipped.js returns nothing shipped, no near match, Sara Teasdale at 1 of 3 (April), not banned, so neither the cap nor the one-a-month rule bites. In scope at 1920, publishable, and a night poem of stillness that sits squarely on the month's theme. Two residues that are not enough to refute and should be recorded rather than fixed: the stanza break between line 16 and line 17 is flattened into an ordinary slash, and the note mentions only the alternating indents, so it could say the stanza break is lost too; and the Gutenberg etext is not the Macmillan sheets, so the imprint rests on the standard bibliographic record rather than on a scan. Neither touches the wording.",
+ "checks": {
+  "shippedJs": "not shipped, no near match, person 1 of 3 (month 4), not banned",
+  "wordingVsNamedEdition": "read against the Gutenberg text of the 1920 collection; exact match",
+  "locator": "correct: Part I, poem 2, lines 13 to 20 of 20, the last two stanzas",
+  "attribution": "correct; not on the misattribution list",
+  "scope": "in scope, 1920, Poetry",
+  "publishable": "yes",
+  "sourceLine": "leads with the name, no dash, 99 characters",
+  "tag": "Poetry, the form of the work, correct"
+ },
+ "sourcesRead": [
+  "https://www.gutenberg.org/files/591/old/fshad10.txt"
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "Mysticism is the art of union with Reality.",
+ "source": "Evelyn Underhill, Practical Mysticism, ch. I, ‘What is Mysticism?’, the displayed definition (1914)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the full text downloaded and read this run, Project Gutenberg ebook 21774, which transcribes the E. P. Dutton and Company printing of Practical Mysticism: A Little Book for Normal People. The sentence stands at line 271 of that file, set in italic and introduced by the words Here is the definition, inside CHAPTER I, WHAT IS MYSTICISM?, which runs from line 229 to line 455. Underhill repeats her own definition twice later, at lines 382 and 3400, each time quoting it back.",
+  "url": "https://www.gutenberg.org/cache/epub/21774/pg21774.txt",
+  "edition": "Practical Mysticism, first published by J. M. Dent and Sons, London, 1914; the text read this run is the E. P. Dutton and Company, New York printing of the same book",
+  "locator": "ch. I, ‘What is Mysticism?’, the italic displayed definition, immediately followed by It is not expected that the inquirer will find great comfort in this sentence"
+ },
+ "confidence": "high",
+ "reason": "The sentence matches word for word, with Reality capitalised, and it is the book’s own formally displayed definition rather than a paraphrase lifted from running prose. The proposal put it about a third of the way into chapter I; it actually stands nearer the opening, so the locator now names the displayed definition, which is how a reader finds it in any edition. Not shipped anywhere in First Light, Underhill is not banned, and she has no other line in the year."
+}

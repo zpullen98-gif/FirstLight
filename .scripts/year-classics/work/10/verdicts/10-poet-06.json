@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "And I shall have some peace there, for peace comes dropping slow, / Dropping from the veils of the morning to where the cricket sings; / There midnight’s all a glimmer, and noon a purple glow, / And evening full of the linnet’s wings.",
+ "source": "W. B. Yeats, The Lake Isle of Innisfree, the second stanza, lines 5 to 8, The Rose (1893)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the Project Gutenberg text of The Collected Works in Verse and Prose of William Butler Yeats, Vol. 1, downloaded and read line by line this run; the contents place the poem at page 154 under the section heading THE ROSE",
+  "url": "https://www.gutenberg.org/cache/epub/49608/pg49608.txt",
+  "edition": "Collected Works in Verse and Prose, Vol. 1, Shakespeare Head Press, 1908, reproducing the text of The Rose",
+  "locator": "the second stanza, lines 5 to 8 of twelve"
+ },
+ "confidence": "high",
+ "reason": "All four lines match the scanned text word for word and point for point, including the semicolon at the end of line 6 and both apostrophes. First printed in the National Observer on 13 December 1890 and collected in The Rose, both confirmed. Yeats has no other line in the year."
+}

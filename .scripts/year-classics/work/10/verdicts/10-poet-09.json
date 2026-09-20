@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-09",
+ "verdict": "HEDGE",
+ "quote": "Watching the moon / at dawn, / solitary, mid-sky, / I knew myself completely, / no part left out.",
+ "source": "Izumi Shikibu, attributed to The Ink Dark Moon, page not traced (trans. Jane Hirshfield with Mariko Aratani, 1988)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "The volume was not opened. Two Hirshfield readings circulate, this one at dawn and another at midnight, and the sources disagree about which book prints which. No page or poem number could be traced, so both the reading and the volume rest on secondary sources rather than on the printed page.",
+ "evidence": {
+  "where": "Secondary sources only, read this run. Goodreads prints the at dawn reading in these five lines and ties it to the book record for The Ink Dark Moon. Upaya Zen Center prints the same poem as at midnight and credits it to Izumi Shikibu, trans. Jane Hirshfield and Mariko Aratani, The Ink Dark Moon, with a garbled imprint of Vintage 1986. Poetry Chaikhana prints at midnight and credits Women in Praise of the Sacred: 43 Centuries of Spiritual Poetry by Women, ed. Jane Hirshfield. No scan of either volume is public: archive.org holds only a radio programme under the title, and Women Writers Online and Google Books were not reachable. The Journal of Asian Studies review confirms the imprint as Charles Scribner's Sons, 1988, viii, 116 pp.",
+  "edition": "The Ink Dark Moon, Charles Scribner's Sons, 1988, trans. Jane Hirshfield with Mariko Aratani; not opened",
+  "locator": "none traced: the poems are unnumbered in every reprint seen and no page is cited anywhere",
+  "url": "https://www.upaya.org/2016/05/ink-dark-moon-three-poems/"
+ },
+ "confidence": "low",
+ "reason": "The poem is certainly Izumi Shikibu's and the English is certainly Hirshfield's, so nothing here is misattributed or minted. What cannot be established is the wording, which is the whole question. The proposal's own account, that The Ink Dark Moon prints at dawn and the later anthology prints at midnight, is contradicted by Upaya, which credits the at midnight reading to The Ink Dark Moon itself, while Poetry Chaikhana credits that same reading to the anthology. So the at midnight reading has the wider support and the at dawn reading has the narrower, and the two disagree about the volume as well. Rule 4 wants a locatable citation and rule 7 wants the lineation of a named edition, and neither survives a trail that ends at three quotation pages. A card that says The Ink Dark Moon prints at dawn would be exactly the confident false citation the standard forbids, so the volume is carried as an attribution and the note says why. The editor should prefer a line that can be opened."
+}

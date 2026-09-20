@@ -1,0 +1,17 @@
+{
+ "id": "10-phil-13",
+ "verdict": "VERIFIED",
+ "quote": "Silence remains, inescapably, a form of speech (in many instances, of complaint or indictment) and an element in a dialogue.",
+ "source": "Susan Sontag, Styles of Radical Will, ‘The Aesthetics of Silence’, the opening essay (Farrar, Straus and Giroux, 1969)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "a full reprint of the essay read this run, which returned the sentence word for word together with the two sentences before it: A genuine emptiness, a pure silence, are not feasible, either conceptually or in fact. If only because the art-work exists in a world furnished with many other things, the artist who creates silence or emptiness must produce something dialectical: a full void, an enriching emptiness, a resonating or eloquent silence. The table of contents of Styles of Radical Will was checked separately and puts The Aesthetics of Silence first.",
+  "url": "http://mainstreamweekly.net/article11464.html",
+  "edition": "Styles of Radical Will, Farrar, Straus and Giroux, 1969, the opening essay; the essay is dated 1967 and is reported to have first appeared in Aspen no. 5 and 6, which I did not confirm independently this run and so left out of the source line",
+  "locator": "‘The Aesthetics of Silence’, in the passage arguing that a pure silence is not feasible, immediately after the sentence about a full void and an enriching emptiness"
+ },
+ "confidence": "high",
+ "reason": "The wording matches, including the parenthesis and both commas around inescapably, and the sentence does the work the proposer claims: it closes the argument that silence is never mere absence. The proposed locator carried the Aspen first printing as well, which would put the source line over 140 characters, so the line ships with the book locator only. Not shipped anywhere in First Light. Sontag stands at two lines in the year, so this is her third and last."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "10-poet-05",
+ "verdict": "CORRECTED",
+ "quote": "Now we will count to twelve / and we will all keep still.",
+ "source": "Pablo Neruda, Keeping Quiet, the opening two lines, Extravagaria (trans. Alastair Reid, 1974)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "Corrected the locator. Alastair Reid’s wording is confirmed in two independent reprints that credit the Farrar, Straus and Giroux Extravagaria, but no copy of that volume was opened, so the page range 27 to 29 is dropped rather than asserted. The Spanish original is A callarse in Estravagario, 1958.",
+ "evidence": {
+  "where": "two independent online reprints read this run, both crediting Alastair Reid and the Farrar, Straus and Giroux bilingual Extravagaria: Poetry Chaikhana and The Marginalian",
+  "url": "https://www.poetry-chaikhana.com/Poets/N/NerudaPablo/KeepingQuiet/index.html",
+  "edition": "Extravagaria, Farrar, Straus and Giroux, 1974, trans. Alastair Reid; the Spanish is A callarse in Estravagario, Losada, 1958",
+  "locator": "the opening two lines of the poem; no page of the 1974 volume was opened"
+ },
+ "confidence": "medium",
+ "reason": "The wording, the lineation across two lines and the lower case and at the head of line two agree across two independent reprints that name Reid and the 1974 volume, so the line and the translator are safe. The page range was asserted without a scan and is removed."
+}
