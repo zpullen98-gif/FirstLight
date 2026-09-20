@@ -76,10 +76,11 @@
    ]
   },
   "hannah arendt": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    7
+    7,
+    8
    ]
   },
   "sei shonagon": {
@@ -360,17 +361,19 @@
    ]
   },
   "lorraine hansberry": {
-   "count": 2,
+   "count": 3,
    "months": [
     2,
-    5
+    5,
+    8
    ]
   },
   "thornton wilder": {
-   "count": 2,
+   "count": 3,
    "months": [
     2,
-    7
+    7,
+    8
    ]
   },
   "aristotle": {
@@ -535,9 +538,10 @@
    ]
   },
   "petrarch": {
-   "count": 1,
+   "count": 2,
    "months": [
-    4
+    4,
+    8
    ]
   },
   "nan shepherd": {
@@ -553,15 +557,17 @@
    ]
   },
   "dogen": {
-   "count": 1,
+   "count": 2,
    "months": [
-    4
+    4,
+    8
    ]
   },
   "john keats": {
-   "count": 1,
+   "count": 2,
    "months": [
-    4
+    4,
+    8
    ]
   },
   "sarashina": {
@@ -619,9 +625,10 @@
    ]
   },
   "baruch spinoza": {
-   "count": 1,
+   "count": 2,
    "months": [
-    4
+    4,
+    8
    ]
   },
   "isabelle eberhardt": {
@@ -763,9 +770,10 @@
    ]
   },
   "natalia ginzburg": {
-   "count": 1,
+   "count": 2,
    "months": [
-    5
+    5,
+    8
    ]
   },
   "langston hughes": {
@@ -836,9 +844,10 @@
    ]
   },
   "susan sontag": {
-   "count": 1,
+   "count": 2,
    "months": [
-    6
+    6,
+    8
    ]
   },
   "su shi": {
@@ -1007,6 +1016,138 @@
    "count": 1,
    "months": [
     7
+   ]
+  },
+  "heraclitus": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "elizabeth bishop": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "murasaki shikibu": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "willa cather": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "ovid": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "virginia woolf": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "augustine of hippo": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "francois villon": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "tennessee williams": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "heloise": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "jorge luis borges": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "ono no komachi": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "kamo no chomei": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "may sarton": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "praxilla": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "samuel beckett": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "mary wortley montagu": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "charles dickens": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "percy bysshe shelley": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "f. scott fitzgerald": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "tang xianzu": {
+   "count": 1,
+   "months": [
+    8
+   ]
+  },
+  "giuseppe tomasi di lampedusa": {
+   "count": 1,
+   "months": [
+    8
    ]
   }
  }

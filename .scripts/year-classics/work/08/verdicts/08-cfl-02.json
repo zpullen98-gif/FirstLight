@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-02",
+ "verdict": "VERIFIED",
+ "quote": "Listen to this reed how it complains: it is telling a tale of separations.",
+ "source": "Rumi, The Masnavi, Book I, line 1, the opening line (trans. Reynold A. Nicholson, 1926)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Dar al-Masnavi, the Rumi scholarship site of Ibrahim Gamard, prints the parallel translations of the Song of the Reed and gives this exact wording, with the colon, under the heading Translation by Nicholson, 1926, distinguishing it from Nicholson's abbreviated rhymed version of 1950. Line 1 is a single line of the prose rendering, so no internal line break is needed; Nicholson's line runs on into line 2, and the terminal stop is editorial.",
+  "url": "https://www.dar-al-masnavi.org/reedsong.html",
+  "edition": "The Mathnawi of Jalalu'ddin Rumi, trans. Reynold A. Nicholson, Book I (E. J. W. Gibb Memorial Series, 1926)",
+  "locator": "Book I, line 1, the opening line"
+ },
+ "confidence": "high",
+ "reason": "The opening line of the Masnavi in Nicholson's 1926 translation, in this wording and punctuation. The Masnavi is a didactic poem, not scripture or liturgy, so it is in scope, and Rumi stands once in the year so far."
+}

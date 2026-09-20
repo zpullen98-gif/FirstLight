@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-06",
+ "verdict": "VERIFIED",
+ "quote": "A free man thinks of death least of all things; and his wisdom is a meditation not of death but of life.",
+ "source": "Baruch Spinoza, Ethics, Part IV, Proposition 67 (trans. R. H. M. Elwes, 1883)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Elwes translation of the Ethics downloaded in full and read at Part IV, PROP. LXVII, where the sentence stands verbatim as the proposition itself, followed by its Proof; the title page names R. H. M. Elwes as translator.",
+  "url": "https://www.gutenberg.org/cache/epub/3800/pg3800.txt",
+  "edition": "The Chief Works of Benedict de Spinoza, trans. R. H. M. Elwes (1883)",
+  "locator": "Part IV, Proposition 67 (PROP. LXVII)"
+ },
+ "confidence": "high",
+ "reason": "Word for word the Elwes rendering of Ethics IV, Prop. 67, matching the Latin homo liber de nulla re minus quam de morte cogitat. Author, work, locator, translator and wording are all as proposed, and Spinoza stands at one line in the year."
+}

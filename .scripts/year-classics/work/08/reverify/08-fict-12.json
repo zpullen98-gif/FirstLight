@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-12",
+ "verdict": "CORRECTED",
+ "quote": "Time is the substance I am made of. Time is a river which sweeps me along, but I am the river; it is a tiger which destroys me, but I am the tiger; it is a fire which consumes me, but I am the fire.",
+ "source": "Jorge Luis Borges, Labyrinths, A New Refutation of Time, the closing paragraph (trans. James E. Irby, 1962)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "The wording is not Ruth L. C. Simms’s. Her 1964 Other Inquisitions reads that carries me away and that mangles me at page 187. This sentence is the Labyrinths English of 1962, so the work, translator and year are corrected to match the words actually printed.",
+ "evidence": {
+  "where": "The refutation was checked against two independent open sources. Bruno Bosteels, The Jargon of Finitude in Radical Philosophy, quotes Other Inquisitions 1937 to 1952, trans. Ruth L. C. Simms, University of Texas Press, 1964, p. 187 as a river that carries me away and a tiger that mangles me, which is not the proposed wording. The Marginalian quotes the proposed wording letter for letter and cites Labyrinths, 1962. Wikiquote, the first verifier’s source, files the essay under Other Inquisitions and names Simms while printing the Labyrinths English, which is how the wrong translator was attached. Every scan of Labyrinths on the Internet Archive is lending restricted and returned 401 or 403, so the printed credit Translated by J.E.I. at the foot of the essay rests on the refuter’s reading of a scan and on general knowledge of the volume, not on a page I opened. shipped.js reports the line unshipped, no near opening, Borges at 0 of 3, not banned.",
+  "url": "https://www.radicalphilosophy.com/article/the-jargon-of-finitude",
+  "edition": "Labyrinths: Selected Stories and Other Writings, ed. Donald A. Yates and James E. Irby (New Directions, 1962)",
+  "locator": "A New Refutation of Time, the closing paragraph"
+ },
+ "confidence": "medium",
+ "reason": "The refutation holds. The proposed English is the Labyrinths translation and not Simms’s, whose 1964 text reads differently at both hinges, so the earlier verdict would have printed one translator’s words under another’s name. The passage itself is genuine, in scope and unshipped, so the fix is the citation rather than the line. Confidence is medium only because the translator initials at the foot of the essay were not seen on a page I could open."
+}

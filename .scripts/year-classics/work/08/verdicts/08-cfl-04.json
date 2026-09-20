@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-04",
+ "verdict": "VERIFIED",
+ "quote": "I have finished a monument more lasting than bronze and loftier than the Pyramids’ royal pile, one that no wasting rain, no furious north wind can destroy, or the countless chain of years and the ages’ flight.",
+ "source": "Horace, Odes, Book III, ode 30, lines 1 to 5 (trans. C. E. Bennett, 1914)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The WIST quotations archive prints this exact wording, down to the two apostrophes, and labels it Bennett (Loeb) against Odes 3.30.1 to 5, alongside sixteen other named translations of the same passage, which rules out a drifting anonymous rendering. The Latin was checked against the Bennett school edition of the Odes at the Internet Archive: Exegi monumentum aere perennius, regalique situ pyramidum altius, quod non imber edax, non Aquilo impotens possit diruere aut innumerabilis annorum series et fuga temporum. Bennett's Loeb Odes and Epodes is Loeb Classical Library 33, first published 1914 and revised 1927. Bennett's Loeb is a prose translation of the verse, so it is quoted as prose, with no slashes.",
+  "url": "https://wist.info/horace/72450/",
+  "edition": "Horace, Odes and Epodes, trans. C. E. Bennett, Loeb Classical Library 33, 1914",
+  "locator": "Book III, ode 30, lines 1 to 5"
+ },
+ "confidence": "high",
+ "reason": "The sentence is the opening of Odes 3.30 and the English is Bennett's Loeb prose, verbatim. One source dated the Loeb 1912; the volume itself is Loeb 33 of 1914, which is the year kept. Horace stands once in the year so far, in March, so a second is within the cap of three."
+}

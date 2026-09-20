@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "For nothing is fixed, forever and forever and forever, it is not fixed; the earth is always shifting, the light is always changing, the sea does not cease to grind down rock.",
+ "source": "James Baldwin, Nothing Personal, the closing lines (Atheneum, 1964)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Two independent transcriptions of the closing passage of Nothing Personal, quoted at length and agreeing word for word, including the sentences on generations and on the sea rising that follow the line taken here.",
+  "url": "https://rucstylesense.wordpress.com/2017/02/03/james-baldwin-nothing-personal/",
+  "edition": "Nothing Personal, text by James Baldwin with photographs by Richard Avedon (Atheneum, New York, 1964)",
+  "locator": "the closing lines of the final section"
+ },
+ "confidence": "medium",
+ "reason": "The wording is confirmed twice over and the sentence is the opening of the famous closing paragraph, so the locator is honest. The 1964 Atheneum book is unpaginated, which is why the source names the closing lines rather than a page."
+}

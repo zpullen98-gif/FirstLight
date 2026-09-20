@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-09",
+ "verdict": "VERIFIED",
+ "quote": "Whatever we had missed, we possessed together the precious, the incommunicable past.",
+ "source": "Willa Cather, My Ántonia, Book V, Cuzak’s Boys, chapter III, the closing sentence (Jim Burden) (1918)",
+ "speaker": "Jim Burden",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Full text of My Ántonia downloaded from Project Gutenberg (ebook 242, the 1918 text) and searched directly; the sentence is the last line of the file before the end-of-book marker, and the preceding sentence is the one about the same road bringing them together again.",
+  "url": "https://www.gutenberg.org/cache/epub/242/pg242.txt",
+  "edition": "My Ántonia (1918), Project Gutenberg ebook 242",
+  "locator": "Book V, Cuzak’s Boys, chapter III, final sentence"
+ },
+ "confidence": "high",
+ "reason": "Located as the closing sentence of the novel, in exactly this wording and punctuation. Jim Burden is the first person narrator, so the speaker goes in the source after the locator."
+}

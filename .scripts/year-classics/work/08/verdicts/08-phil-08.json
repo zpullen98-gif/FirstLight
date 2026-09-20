@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "Duration is the continuous progress of the past which gnaws into the future and which swells as it advances.",
+ "source": "Henri Bergson, Creative Evolution, chapter I (trans. Arthur Mitchell, 1911)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Mitchell translation downloaded in full and read in place: the sentence falls inside chapter I, after the passage on duration not being one instant replacing another and before the sentence on memory not being a faculty of putting away recollections. The front matter names Arthur Mitchell as translator.",
+  "url": "https://www.gutenberg.org/cache/epub/26163/pg26163.txt",
+  "edition": "Creative Evolution, trans. Arthur Mitchell (Henry Holt, 1911)",
+  "locator": "chapter I"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in Mitchell's chapter I, in the position claimed, with the surrounding argument intact. Author, work, chapter, translator and year are all as proposed, and Bergson stands at one line in the year."
+}

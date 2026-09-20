@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "What then is time? If no one asks me, I know: if I wish to explain it to one that asketh, I know not.",
+ "source": "Augustine of Hippo, Confessions, Book XI, chapter 14 (trans. E. B. Pusey, 1838)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Read Pusey’s Confessions in full text and found the sentence verbatim in Book XI, in the paragraph that opens At no time then hadst Thou not made any thing, which is chapter 14.",
+  "url": "https://www.gutenberg.org/cache/epub/3296/pg3296.txt",
+  "edition": "E. B. Pusey, The Confessions of St Augustine, Library of the Fathers, Oxford, 1838",
+  "locator": "Book XI, chapter 14"
+ },
+ "confidence": "high",
+ "reason": "The colon, the semicolon-free cadence and the archaic asketh are all Pusey’s, and the passage sits where the traditional chapter 14 of Book XI begins. Nothing in it is scripture or liturgy, so it stays inside the philosophy lane."
+}

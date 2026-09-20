@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-03",
+ "verdict": "VERIFIED",
+ "quote": "As they step into the same rivers, other and still other waters flow upon them.",
+ "source": "Heraclitus, Fragments, B12 in Diels and Kranz, fragment L in Kahn (trans. Charles H. Kahn, 1979)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Two independent secondary sources that quote Kahn directly give this exact English wording and identify it as Kahn's fragment L, corresponding to Diels and Kranz B12: an essay on Heraclitus at bryankam.com that cites Kahn L by number, and a discussion of Heraclitean flux at The Immanent Frame. The Greek behind it is potamoisi toisin autoisin embainousin, hetera kai hetera hudata epirrei. The shipped.js check returns no shipped line, no near match, Heraclitus at zero for the year and not banned.",
+  "url": "https://www.bryankam.com/p/a-river-of-difference",
+  "edition": "Charles H. Kahn, The Art and Thought of Heraclitus, Cambridge University Press, 1979",
+  "locator": "DK B12, Kahn fragment L"
+ },
+ "confidence": "high",
+ "reason": "The wording is Kahn's, not a paraphrase, and the locator given in the proposal is right. It is also the antidote to the slogan about never stepping in the same river twice, which is the later doxographic compression, so the note has nothing to correct. Added Kahn's own fragment number so the line can be found in the translation named as well as in Diels and Kranz."
+}

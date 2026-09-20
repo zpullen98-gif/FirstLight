@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "God knows I never sought anything in you except yourself; I wanted simply you, nothing of yours.",
+ "source": "Heloise, The Letters of Abelard and Heloise, The Personal Letters, Letter 1 (trans. Betty Radice, 1974)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected the locator. In Betty Radice’s Penguin of 1974 the numbered sequence begins with Heloise’s first letter as Letter 1, and Letter 2 is Abelard’s reply. The Latin numbering, where her first letter is Epistola II, caused the error. The unconfirmed page reference is dropped. Wording confirmed in a Penguin printing of Radice.",
+ "evidence": {
+  "where": "I read the Internet Archive catalogue record for the 1974 Penguin itself (item lettersofabelard00abel, Harmondsworth, Penguin, 1974, ISBN 0140442979). Its contents note reads: Historia calamitatum ... The personal letters. Letter 1. Heloise to Abelard ; Letter 2. Abelard to Heloise ; Letter 3. Heloise to Abelard ; Letter 4. Abelard to Heloise ... So in this edition the Historia is not numbered as a letter and Heloise’s first letter is Letter 1, which refutes the proposed Letter 2. For the wording I ran both halves of the sentence through OpenLibrary’s full-text search of Internet Archive scans. Forbidden Fruit: From The Letters of Abelard and Heloise (Penguin Great Loves), which reprints Radice, returns the snippet God knows I never sought anything in you except yourself; I wanted simply you, nothing of yours, with the semicolon as proposed and not the full stop that quotation sites print. Other scans continue I looked for no marriage-bond, no marriage portion, which is the refusal-of-marriage argument Heloise makes in her first letter and not in her second, so the letter is also right on internal grounds. No page of the 1974 printing was seen: its scan is access restricted, so no page number is claimed.",
+  "url": "https://archive.org/metadata/lettersofabelard00abel",
+  "edition": "The Letters of Abelard and Heloise, trans. Betty Radice (Penguin Classics, 1974); wording confirmed in Penguin’s reprint of that translation, Forbidden Fruit (Penguin Great Loves)",
+  "locator": "The Personal Letters, Letter 1"
+ },
+ "confidence": "high",
+ "reason": "The refutation is sound and I confirmed it at first hand: the wording is Radice’s, and the edition’s own contents note puts Heloise’s first letter at Letter 1, so the line ships with the letter number fixed and the unverifiable page dropped. It survives as a citation; whether a declaration of constancy belongs in a month about impermanence is the editor’s call, not a verification fault."
+}

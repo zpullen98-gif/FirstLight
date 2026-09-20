@@ -1,0 +1,7 @@
+{
+ "id": "08-fict-10",
+ "refuted": false,
+ "wordingChecked": true,
+ "reason": "Attack failed. I downloaded Project Gutenberg ebook 1400 myself and found the passage: “That was a memorable day to me, for it made great changes in me. But it is the same with any life. Imagine one selected day struck out of it, and think how different its course would have been. Pause you who read this, and think for a moment of the long chain of iron or gold, of thorns or flowers, that would never have bound you, but for the formation of the first link on one memorable day.” The heading “Chapter X.” follows immediately, so this is the closing sentence of chapter 9, as claimed. The quotation matches word for word. Pip is the first-person narrator who turns and addresses the reader here, so the speaker is correctly named. shipped.js: not shipped, no near match, Charles Dickens at 0 of 3, not banned. Source line is 81 characters, leads with the name, no dash, no straight double quote; the quotation ends in a full stop; Fiction is the form; publishable; in scope. Two nits that do not touch the citation: the verifier’s evidence prints “But, it is the same with any life” with a comma the text does not have, and 1861 is the volume year while this chapter appeared in All the Year Round in December 1860. The year of the book is the standard citation and is what the source line gives. It stands.",
+ "betterCitation": ""
+}

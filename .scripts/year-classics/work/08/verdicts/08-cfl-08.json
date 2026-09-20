@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-08",
+ "verdict": "HEDGE",
+ "quote": "Should auld acquaintance be forgot, / And never brought to mind?",
+ "source": "Attributed to Robert Burns, Auld lang syne, lines 1 to 2, The Scots Musical Museum, vol. V, no. 413 (1796)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "The two lines are printed at that place. Johnson published the song unsigned and marked it Z, his mark for an old song with additions, and Burns told him three of the five stanzas were old. This wording is first attested in his text, so the byline is honest only as an attribution.",
+ "evidence": {
+  "where": "The Scots Musical Museum itself, read this run: song CCCCXIII, headed Auld Langsyne, an old Scotch drinking Song, with additions by Burns. The text under the music reads Should auld acquaintance be forgot, And never brought to mind? Stenhouse's note on the same song records Johnson's Z mark, Burns's letter to Thomson about taking it down from an old man's singing, and his admission to Johnson that three of the five stanzas were old.",
+  "edition": "The Scots Musical Museum in six volumes, vol. V, song 413, with Stenhouse's notes (W. Blackwood and Sons reissue of the 1796 volume)",
+  "locator": "vol. V, no. 413, lines 1 to 2, and the editorial note to the same song",
+  "url": "https://archive.org/details/scotsmusicalmuse05john"
+ },
+ "confidence": "medium",
+ "reason": "The text is located and the wording holds: line 1 ends in a comma and line 2 in a question mark, and it is mind, not min'. What does not hold is the flat byline. Five stanzas stand in the Museum, Burns told Johnson two of them were his, Johnson printed the song unsigned under the Z mark for old songs with additions, and Burns told Thomson he took it down from an old man's singing. Cromek thought that pose a fiction and Kinsley prints the song among Burns's works, so the record is contested rather than settled, and the formula itself predates him in Watson's Choice Collection of 1711. No earlier text carries this wording, so the line is his to quote but not his to claim, which is what an attribution line is for. Confidence is medium: the citation is certain and the authorship call is the judgement."
+}

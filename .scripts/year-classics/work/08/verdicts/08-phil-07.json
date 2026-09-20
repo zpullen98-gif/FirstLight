@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-07",
+ "verdict": "VERIFIED",
+ "quote": "If by eternity is understood not endless temporal duration but timelessness, then he lives eternally who lives in the present.",
+ "source": "Ludwig Wittgenstein, Tractatus Logico-Philosophicus, proposition 6.4311 (trans. C. K. Ogden, 1922)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource page image and transcription of page 189 of the 1922 Kegan Paul English edition, where 6.4311 runs: Death is not an event of life. Death is not lived through. Then this sentence. Then the visual field sentence. The distinct Ogden phrasing of the surrounding sentences confirms the translation.",
+  "url": "https://en.wikisource.org/wiki/Page:Wittgenstein_-_Tractatus_Logico-Philosophicus,_1922.djvu/189",
+  "edition": "Tractatus Logico-Philosophicus, trans. C. K. Ogden (Kegan Paul, 1922)",
+  "locator": "proposition 6.4311"
+ },
+ "confidence": "high",
+ "reason": "The sentence is the third of four in 6.4311 in the 1922 Ogden text, quoted verbatim. It is not the later Pears and McGuinness wording, which reads eternal life belongs to those who live in the present, so naming Ogden is correct."
+}

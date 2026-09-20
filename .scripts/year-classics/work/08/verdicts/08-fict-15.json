@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-15",
+ "verdict": "VERIFIED",
+ "quote": "I had a farm in Africa, at the foot of the Ngong Hills.",
+ "source": "Isak Dinesen, Out of Africa, Book One, The Ngong Farm, the opening sentence (Putnam, 1937)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The opening sentence of Out of Africa, one of the best known first lines in English, confirmed by reference sources on the book and its structure; the first section is Book One, Kamante and Lulu, whose first chapter is titled The Ngong Farm. Wikipedia confirms first publication by Putnam in 1937 under the pen name Isak Dinesen. The book is still in copyright, so no free full text was opened and the wording rests on the standard rendering, which is uniform across sources.",
+  "url": "https://en.wikipedia.org/wiki/Out_of_Africa",
+  "edition": "Out of Africa (Putnam, London, 1937), written in English by Karen Blixen as Isak Dinesen",
+  "locator": "Book One, Kamante and Lulu, first chapter, The Ngong Farm, opening sentence"
+ },
+ "confidence": "high",
+ "reason": "The line is the first sentence of the named work in this wording. The chapters of Book One are titled rather than numbered, so the shipped locator names the chapter by its title and drops the chapter number from the proposal."
+}

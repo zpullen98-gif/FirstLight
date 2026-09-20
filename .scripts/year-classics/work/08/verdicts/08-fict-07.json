@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-07",
+ "verdict": "VERIFIED",
+ "quote": "It is possible that some word of me may have come to you, though even this is doubtful, since an insignificant and obscure name will scarcely penetrate far in either time or space.",
+ "source": "Petrarch, Letter to Posterity, the opening sentence, p. 59 (trans. James Harvey Robinson, 1898)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "the full scan of Robinson's 1898 volume, read at the page",
+  "edition": "Petrarch, the First Modern Scholar and Man of Letters, trans. James Harvey Robinson with Henry Winchester Rolfe (1898)",
+  "locator": "p. 59, Francesco Petrarca to Posterity, the first sentence after the salutation",
+  "url": "https://archive.org/download/petrarchfirstmod00petrrich/petrarchfirstmod00petrrich_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Robinson's page 59 reads 'Greeting. It is possible that some word of me may have come to you, though even this is doubtful, since an insignificant and obscure name will scarcely penetrate far in either time or space.' The proposed wording matches exactly, and only the page was added."
+}

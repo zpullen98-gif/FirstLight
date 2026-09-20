@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-06",
+ "verdict": "CORRECTED",
+ "quote": "Nothing beside remains. Round the decay / Of that colossal wreck, boundless and bare / The lone and level sands stretch far away.",
+ "source": "Percy Bysshe Shelley, ‘Ozymandias’, lines 12 to 14, Rosalind and Helen, A Modern Eclogue; with Other Poems (C. and J. Ollier, 1819), p. 92",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "The proposal cited the first printing in The Examiner of 11 January 1818. That printing reads No thing beside remains and Colossal Wreck, with a comma after bare. The wording quoted here is that of the collected volume of 1819, page 92, so the citation names that book.",
+ "evidence": {
+  "where": "Wikisource's proofread Page namespace transcription of the 1819 volume scan, Page:Rosalind and Helen (Shelley).djvu/106, read as raw wikitext. Its header carries the printed page number 92 and the poem is headed SONNET. OZYMANDIAS., closing with FINIS. The last three lines return character for character as proposed: Nothing as one word, colossal wreck in lower case, no punctuation after bare, a full stop after away. Wikisource's transcription of The Examiner of 11 January 1818, signed Glirastes, was read for comparison and prints No thing beside remains, Colossal Wreck with both words capitalised, and a comma after bare. The earlier verdict's note said that printing reads colossal Wreck, which is wrong on the first word, so the note is replaced. The refutation's suggested page 98 is also wrong: the scan's own page header reads 92. The lines are the closing lines of the sonnet, so the fame test holds on the strongest ground. No speaker is named because the traveller who reports the scene is unnamed in every printing and the 1819 text sets no quotation marks that would fix where the report ends. Gate run this session: shipped [], near [], percy bysshe shelley at 0 of 3 for the year, not banned, not at cap.",
+  "url": "https://en.wikisource.org/wiki/Page:Rosalind_and_Helen_(Shelley).djvu/106",
+  "edition": "Rosalind and Helen, A Modern Eclogue; with Other Poems, London: C. and J. Ollier, 1819, p. 92",
+  "locator": "lines 12 to 14, the closing lines"
+ },
+ "confidence": "high",
+ "reason": "The refutation was right that the quotation and the 1819 citation stand and the old note was false, so the line ships with a corrected note; the refutation's own page number was wrong and the proofread scan gives p. 92."
+}

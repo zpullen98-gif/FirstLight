@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "The flowers withered, / Their color faded away, / While meaninglessly / I spent my days in the world / And the long rains were falling.",
+ "source": "Ono no Komachi, Kokinshu, poem 113, in Anthology of Japanese Literature (trans. Donald Keene, 1955)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The Kokinshu section of Donald Keene's Anthology of Japanese Literature (Grove Press, 1955) was read in a transcription of the anthology itself. It prints the romanised Japanese, hana no iro wa, utsurinikeri na, itazura ni, wa ga mi yo ni furu, nagame seshi ma ni, then the five English lines exactly as proposed, attributes the poem to Ono no Komachi and credits the translation to Donald Keene. The Japanese is Kokinshu 113, the poem Komachi is best known by. The page number 78 given in the proposal was not confirmed on the page itself, only a section range, so the page has been dropped from the source and the Kokinshu number carries the locator.",
+  "url": "https://en.wikisource.org/wiki/Anthology_of_Japanese_Literature/Kokinsh%C5%AB",
+  "edition": "Anthology of Japanese Literature, ed. and trans. Donald Keene, New York: Grove Press, 1955",
+  "locator": "Kokinshu, poem 113, in the Kokinshu selection of the anthology"
+ },
+ "confidence": "high",
+ "reason": "The five lines, the lineation, the poet and the translator all hold in Keene's 1955 anthology; only the unconfirmed page number was left out of the source."
+}

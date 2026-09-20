@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "See how deepest purple, brightest scarlet / open their beauty only to dry well crumbling.",
+ "source": "Tang Xianzu, The Peony Pavilion, scene 10, The Interrupted Dream, p. 44 (Bridal Du) (trans. Cyril Birch, 2nd ed. 2002)",
+ "speaker": "Bridal Du",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Cyril Birch's English wording was located in two independent quotations of his translation, both crediting The Peony Pavilion (Indiana University Press, 2nd edition, 2002) at p. 44, and both giving the couplet in the two line form proposed with a lower case open at the head of the second line. The scene is Birch's scene 10, The Interrupted Dream, his rendering of Jingmeng, and the aria to the tune Zao luo pao is sung by the heroine, whom Birch names Bridal Du, on her first walk in the garden. The Chinese line it renders is the celebrated opening of that aria. The 1980 first edition and the 2002 second edition carry the same translation; the page cited belongs to the second edition, so the source names that edition rather than 1980.",
+  "url": "https://en.wikiquote.org/wiki/The_Peony_Pavilion",
+  "edition": "The Peony Pavilion: Mudan Ting, trans. Cyril Birch, Indiana University Press, 2nd edition, 2002, p. 44",
+  "locator": "scene 10, The Interrupted Dream, the aria to Zao luo pao, sung by Bridal Du"
+ },
+ "confidence": "medium",
+ "reason": "The wording is Birch's and the scene, the speaker and the page all hold, but the copy of Birch was not opened and the page rests on quotations of it, so the confidence is medium rather than high."
+}

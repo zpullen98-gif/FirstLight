@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "Better by far you should forget and smile / Than that you should remember and be sad.",
+ "source": "Christina Rossetti, ‘Remember’, lines 13 to 14, Goblin Market and Other Poems (Macmillan, 1862)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The text of Remember as printed in Goblin Market and Other Poems (Macmillan, 1862) was read out in full from the volume's text and the sonnet ends on exactly these two lines, with Than capitalised at the head of line 14 and a full stop after sad. The poem is a Petrarchan sonnet of fourteen lines, so lines 13 and 14 are the closing couplet as the proposal states, and the couplet is the line the poem is known by. Christina Rossetti stands once in the year so far, in month 4, so the cap of three is not reached and no second Rossetti stands in August.",
+  "url": "https://en.wikisource.org/wiki/Goblin_Market_and_Other_Poems_(1862)",
+  "edition": "Goblin Market and Other Poems, London: Macmillan, 1862",
+  "locator": "Remember, lines 13 to 14, the closing couplet"
+ },
+ "confidence": "high",
+ "reason": "The wording, the lineation, the poem, the volume and the line numbers all hold in the 1862 Macmillan text."
+}

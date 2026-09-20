@@ -48,15 +48,6 @@
   },
   {
    "fromMonth": 1,
-   "id": "01-fict-03",
-   "quote": "Barrabás came to us by sea, the child Clara wrote in her delicate calligraphy.",
-   "source": "Isabel Allende, The House of the Spirits, chapter 1, the opening sentence (trans. Magda Bogin, 1985)",
-   "tradition": "Fiction",
-   "note": "Verified opening line in Bogin’s translation; it returns as the novel’s last line. Held for a month that can use a pure opening.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 1,
    "id": "01-fict-07",
    "quote": "Ships at a distance have every man’s wish on board.",
    "source": "Zora Neale Hurston, Their Eyes Were Watching God, chapter 1, the opening sentence (1937)",
@@ -255,15 +246,6 @@
   },
   {
    "fromMonth": 3,
-   "id": "03-cfl-05",
-   "quote": "Eternity is in love with the productions of time.",
-   "source": "William Blake, The Marriage of Heaven and Hell, Proverbs of Hell, plate 7 (c. 1790 to 1793)",
-   "tradition": "Poetry",
-   "note": "Verified, the tenth Proverb of Hell, plate 7. Time and what is made in it: an impermanence line more than a discipline line.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 3,
    "id": "03-cfl-07",
    "quote": "Yet such is oft the course of deeds that move the wheels of the world: small hands do them because they must, while the eyes of the great are elsewhere.",
    "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book II, chapter 2, The Council of Elrond (Elrond) (George Allen and Unwin, 1954), p. 283",
@@ -444,15 +426,6 @@
   },
   {
    "fromMonth": 4,
-   "id": "03-cfl-02",
-   "quote": "Our life is March weather, savage and serene in one hour.",
-   "source": "Ralph Waldo Emerson, Representative Men, IV, Montaigne; or, the Skeptic (Phillips, Sampson and Company, 1850), p. 174",
-   "tradition": "Essay",
-   "note": "Verified in the 1850 first edition, p. 174. It is about the inconstancy of moods, which is impermanence rather than renewal, and the March refuter named it the first to drop.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 4,
    "id": "03-cfl-09",
    "quote": "And we should consider every day lost on which we have not danced at least once.",
    "source": "Friedrich Nietzsche, Thus Spoke Zarathustra, Third Part, On Old and New Tablets, 23 (Zarathustra) (trans. Walter Kaufmann, 1954)",
@@ -468,15 +441,6 @@
    "tradition": "Essay",
    "note": "Verified travel line held: it widens the circle rather than counselling, and Twain is unused in the year.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 5,
-   "id": "05-cfl-06",
-   "quote": "The butterfly counts not months but moments, / and has time enough.",
-   "source": "Rabindranath Tagore, Fireflies, p. 15 (Macmillan, New York, 1928)",
-   "tradition": "Poetry",
-   "note": "Corrected in re-verification to a page locator. Held: a two line poem about moments, for the month of passing things.",
-   "fitMonth": 8
   },
   {
    "fromMonth": 5,
@@ -606,15 +570,6 @@
   },
   {
    "fromMonth": 5,
-   "id": "05-poet-14",
-   "quote": "My candle burns at both ends; / It will not last the night; / But ah, my foes, and oh, my friends— / It gives a lovely light!",
-   "source": "Edna St. Vincent Millay, First Fig, the whole poem, A Few Figs from Thistles (Harper and Brothers, 1922)",
-   "tradition": "Poetry",
-   "note": "Corrected the edition to the Harper text of 1922. Held: a candle that will not last the night is impermanence.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 5,
    "id": "05-poet-16",
    "quote": "Now I become myself.",
    "source": "May Sarton, Now I Become Myself, line 1, first sentence only, Collected Poems 1930 to 1993 (W. W. Norton, 1993)",
@@ -723,15 +678,6 @@
   },
   {
    "fromMonth": 6,
-   "id": "06-fict-11",
-   "quote": "He could see plainly that she was not herself. That is, he could not see that she was becoming herself and daily casting aside that fictitious self which we assume like a garment with which to appear before the world.",
-   "source": "Kate Chopin, The Awakening, chapter XIX (1899)",
-   "tradition": "Fiction",
-   "note": "Verified in chapter XIX of 1899. Casting aside the fictitious self, which is a truth line held for want of a day.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 6,
    "id": "06-fict-13",
    "quote": "Good prose is like a window pane.",
    "source": "George Orwell, Why I Write, the final paragraph (Gangrel, No. 4, Summer 1946)",
@@ -768,15 +714,6 @@
   },
   {
    "fromMonth": 6,
-   "id": "06-phil-05",
-   "quote": "The public must decide whether it wishes to continue on the present road, and it can do so only when in full possession of the facts.",
-   "source": "Rachel Carson, Silent Spring, chapter 2, The Obligation to Endure (Houghton Mifflin, 1962)",
-   "tradition": "Essay",
-   "note": "Verified in chapter 2 of Silent Spring. Full possession of the facts, a public truth line.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 6,
    "id": "06-phil-06",
    "quote": "We are learning that a standard of social ethics is not attained by travelling a sequestered byway, but by mixing on the thronged and common road where all must turn out for one another, and at least see the size of one another’s burdens.",
    "source": "Jane Addams, Democracy and Social Ethics, chapter I, Introduction (Macmillan, 1902)",
@@ -810,15 +747,6 @@
    "tradition": "Drama",
    "note": "Corrected to the graveyard scene and to Emily, since in Act III she is married. No edition was opened, so the reading rests on eight published books.",
    "fitMonth": 11
-  },
-  {
-   "fromMonth": 6,
-   "id": "06-poet-08",
-   "quote": "I’m nobody! Who are you? / Are you nobody, too?",
-   "source": "Emily Dickinson, ‘I’m nobody! Who are you?’, Poems, Second Series, Life I, lines 1 to 2 (Roberts Brothers, 1891)",
-   "tradition": "Poetry",
-   "note": "Verified in Poems, Second Series of 1891. Two lines only, in that edition’s lineation.",
-   "fitMonth": 8
   },
   {
    "fromMonth": 6,
@@ -876,15 +804,6 @@
   },
   {
    "fromMonth": 6,
-   "id": "01-poet-01",
-   "quote": "Some men say an army of horse and some men say an army on foot and some men say an army of ships is the most beautiful thing on the black earth. But I say it is what you love.",
-   "source": "Sappho, If Not, Winter, Fragment 16, lines 1 to 4 (trans. Anne Carson, 2002)",
-   "tradition": "Poetry",
-   "note": "Carried from January, verified in Carson, p. 27. Before it lands, the four lines must be marked with slashes in Carson’s lineation, which nobody has yet checked against the page; it is carried as prose.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 6,
    "id": "03-phil-03",
    "quote": "For to be possessed of a vigorous mind is not enough; the prime requisite is rightly to apply it.",
    "source": "René Descartes, Discourse on the Method, Part I, first paragraph (trans. John Veitch, 1850)",
@@ -903,15 +822,6 @@
   },
   {
    "fromMonth": 6,
-   "id": "05-cfl-05",
-   "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
-   "source": "David Hume, Essays, Moral, Political, and Literary, Of the Standard of Taste (ed. Miller, pp. 229 to 230)",
-   "tradition": "Essay",
-   "note": "Corrected in re-verification. Held: Hume sets the sentence out as the sceptical case and the next paragraph restrains it, so it wants a month about seeing clearly.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 6,
    "id": "05-cfl-08",
    "quote": "The problem in public life is learning to overcome terror; the problem in married life is learning to overcome boredom.",
    "source": "Gabriel García Márquez, Love in the Time of Cholera, chapter 4 (Fermina Daza) (trans. Edith Grossman, 1988)",
@@ -927,15 +837,6 @@
    "tradition": "Essay",
    "note": "Verified. Held: the mask line is about how truth gets said, so it wants the month of plain speech.",
    "fitMonth": 10
-  },
-  {
-   "fromMonth": 6,
-   "id": "05-fict-16",
-   "quote": "The most exhausting thing in life, I have discovered, is being insincere.",
-   "source": "Anne Morrow Lindbergh, Gift from the Sea, chapter 2, Channelled Whelk (1955)",
-   "tradition": "Essay",
-   "note": "Hedged: Gift from the Sea was never opened and the reference readings agree on chapter 2. Held for a month about sincerity.",
-   "fitMonth": 8
   },
   {
    "fromMonth": 6,
@@ -966,39 +867,12 @@
   },
   {
    "fromMonth": 6,
-   "id": "03-cfl-04",
-   "quote": "I did not care what it was all about. All I wanted to know was how to live in it. Maybe if you found out how to live in it you learned from that what it was all about.",
-   "source": "Ernest Hemingway, The Sun Also Rises, Book II, chapter 14 (Jake Barnes) (Charles Scribner’s Sons, 1926)",
-   "tradition": "Fiction",
-   "note": "Verified in the Scribner text of 1926. Held: Jake wants to know how to live in it, which is a search for clarity.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 6,
    "id": "03-cfl-10",
    "quote": "I can resist everything except temptation.",
    "source": "Oscar Wilde, Lady Windermere’s Fan, First Act (Lord Darlington)",
    "tradition": "Drama",
    "note": "Verified, First Act. Held: the inversion is wit about self-knowledge and the play rebukes it in the next line.",
    "fitMonth": 12
-  },
-  {
-   "fromMonth": 7,
-   "id": "07-cfl-04",
-   "quote": "Against the assault of laughter nothing can stand.",
-   "source": "Mark Twain, The Mysterious Stranger, ch. 10 (Satan) (Harper and Brothers, 1916)",
-   "tradition": "Fiction",
-   "note": "Verified. Held: laughter is the weapon here, not endurance, so it wants the lighter month.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 7,
-   "id": "07-cfl-06",
-   "quote": "Music was my refuge. I could crawl into the spaces between the notes and curl my back to loneliness.",
-   "source": "Maya Angelou, Singin’ and Swingin’ and Gettin’ Merry Like Christmas, chapter 1, the opening sentences (Random House, 1976)",
-   "tradition": "Essay",
-   "note": "Verified. Held: Maya Angelou stands in July with Still I Rise, and one person may stand once a month.",
-   "fitMonth": 8
   },
   {
    "fromMonth": 7,
@@ -1164,48 +1038,12 @@
   },
   {
    "fromMonth": 7,
-   "id": "03-poet-10",
-   "quote": "But he that dares not grasp the thorn / Should never crave the rose.",
-   "source": "Anne Brontë, The Narrow Way (1848), lines 15 to 16, in The Complete Poems of Anne Brontë (ed. Clement Shorter, 1920), p. 145",
-   "tradition": "Poetry",
-   "note": "Verified in Shorter’s 1920 Complete Poems, p. 145: he that, not he who. Add the page to the source. Held to keep March under the cap for lines originally in English.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 7,
-   "id": "04-poet-08",
-   "quote": "I will mount a long wind some day and break the heavy waves / And set my cloudy sail straight and bridge the deep, deep sea.",
-   "source": "Li Bai, The Hard Road, closing couplet, The Jade Mountain, p. 70 (trans. Witter Bynner, 1929)",
-   "tradition": "Poetry",
-   "note": "Verified. One Bynner poem landed already and only one may stand in a month, and the hard road is a courage line.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 7,
    "id": "01-poet-12",
    "quote": "Yes, of course it hurts when buds are breaking. Why else would the springtime falter?",
    "source": "Karin Boye, Yes, Of Course It Hurts, lines 1 and 2, För trädets skull (1935) (trans. David McDuff, 1994)",
    "tradition": "Poetry",
    "note": "Verified in McDuff. Held because April landed the other Boye, and one person may stand once a month; the pain of growth suits the month of courage.",
    "fitMonth": 10
-  },
-  {
-   "fromMonth": 7,
-   "id": "02-cfl-05",
-   "quote": "The wide world is all about you: you can fence yourselves in, but you cannot for ever fence it out.",
-   "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, chapter 3, Three is Company (George Allen and Unwin, 1954) (Gildor Inglorion)",
-   "tradition": "Fiction",
-   "note": "Verified with the two-word for ever. Tolkien's small hands is already held for September, so this goes to July.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 7,
-   "id": "05-cfl-10",
-   "quote": "That’s no way to treat adventures. Never say ‘no’ to adventures. Always say ‘yes’, otherwise you’ll lead a very dull life.",
-   "source": "Ian Fleming, Chitty-Chitty-Bang-Bang: The Magical Car, Adventure Number Two (Commander Caractacus Pott) (Jonathan Cape, 1964)",
-   "tradition": "Fiction",
-   "note": "Verified. Held: Commander Pott’s counsel is about saying yes to danger, which suits a month of trial.",
-   "fitMonth": 8
   },
   {
    "fromMonth": 7,
@@ -1254,33 +1092,6 @@
   },
   {
    "fromMonth": 7,
-   "id": "06-poet-04",
-   "quote": "My way of joking is to tell the truth. It’s the funniest joke in the world.",
-   "source": "Bernard Shaw, John Bull’s Other Island, Act II, his reply to Nora Reilly (Peter Keegan)",
-   "tradition": "Drama",
-   "note": "Verified as Peter Keegan’s reply to Nora Reilly. Held because the drama lane was already full.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 7,
-   "id": "01-cfl-08",
-   "quote": "I am large, I contain multitudes.",
-   "source": "Walt Whitman, Leaves of Grass, ‘Song of Myself’, section 51, 1881 text",
-   "tradition": "Poetry",
-   "note": "Verified; parenthetical in the source. Not a beginning line so much as a truth-and-clarity line.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 7,
-   "id": "04-phil-06",
-   "quote": "Travel is in my opinion a very profitable exercise; the soul is there continually employed in observing new and unknown things, and I do not know, as I have often said a better school wherein to model life than by incessantly exposing to it the diversity of so many other lives, fancies, and usances, and by making it relish a perpetual variety of forms of human nature.",
-   "source": "Michel de Montaigne, Essays, Book III, ch. 9, Of Vanity (trans. Charles Cotton, revised by W. Carew Hazlitt, 1877)",
-   "tradition": "Essay",
-   "note": "Verified. Another Montaigne is already held for May, so this goes on to the month of clear seeing.",
-   "fitMonth": 8
-  },
-  {
-   "fromMonth": 7,
    "id": "03-cfl-12",
    "quote": "You can’t get away from yourself by moving from one place to another.",
    "source": "Ernest Hemingway, The Sun Also Rises, Book I, chapter 2 (Jake Barnes)",
@@ -1298,13 +1109,382 @@
    "fitMonth": 12
   },
   {
-   "fromMonth": 7,
+   "fromMonth": 8,
+   "id": "08-cfl-02",
+   "quote": "Listen to this reed how it complains: it is telling a tale of separations.",
+   "source": "Rumi, The Masnavi, Book I, line 1, the opening line (trans. Reynold A. Nicholson, 1926)",
+   "tradition": "Poetry",
+   "note": "",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-cfl-06",
+   "quote": "As firmly cemented clam shells / Fall apart in autumn, / So I must take to the road again, / Farewell, my friends.",
+   "source": "Matsuo Bashō, The Narrow Road to the Deep North, the closing verse at Ogaki (trans. Nobuyuki Yuasa, 1966)",
+   "tradition": "Poetry",
+   "note": "",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-fict-15",
+   "quote": "I had a farm in Africa, at the foot of the Ngong Hills.",
+   "source": "Isak Dinesen, Out of Africa, Book One, The Ngong Farm, the opening sentence (Putnam, 1937)",
+   "tradition": "Essay",
+   "note": "",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-fict-16",
+   "quote": "In spite of illness, in spite even of the arch-enemy sorrow, one can remain alive long past the usual date of disintegration if one is unafraid of change, insatiable in intellectual curiosity, interested in big things, and happy in small ways.",
+   "source": "Edith Wharton, A Backward Glance, A First Word, third paragraph (D. Appleton-Century, 1934)",
+   "tradition": "Essay",
+   "note": "",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-01",
+   "quote": "Wherefore he resolved to have a moving image of eternity, and when he set in order the heaven, he made this image eternal but moving according to number, while eternity itself rests in unity; and this image we call time.",
+   "source": "Plato, Timaeus, 37d (Timaeus) (trans. Benjamin Jowett, 1892)",
+   "tradition": "Philosophy",
+   "note": "The cosmology at 37d is spoken by Timaeus of Locri, not by Plato in his own voice, so the speaker is named after the locator, as the year’s other Plato lines do. The Jowett wording is unchanged and was checked against the 1892 text.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-02",
+   "quote": "Some races wax and others wane, and in a short space the tribes of living things are changed, and like runners hand on the torch of life.",
+   "source": "Lucretius, De Rerum Natura, Book II, lines 77 to 79 (trans. Cyril Bailey, 1910)",
+   "tradition": "Philosophy",
+   "note": "",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-05",
+   "quote": "Life is a pure flame, and we live by an invisible Sun within us.",
+   "source": "Thomas Browne, Hydriotaphia, Urn-Burial, chapter V (1658)",
+   "tradition": "Essay",
+   "note": "",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-07",
+   "quote": "If by eternity is understood not endless temporal duration but timelessness, then he lives eternally who lives in the present.",
+   "source": "Ludwig Wittgenstein, Tractatus Logico-Philosophicus, proposition 6.4311 (trans. C. K. Ogden, 1922)",
+   "tradition": "Philosophy",
+   "note": "",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-08",
+   "quote": "Duration is the continuous progress of the past which gnaws into the future and which swells as it advances.",
+   "source": "Henri Bergson, Creative Evolution, chapter I (trans. Arthur Mitchell, 1911)",
+   "tradition": "Philosophy",
+   "note": "",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-09",
+   "quote": "Life is not a series of gig lamps symmetrically arranged; life is a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end.",
+   "source": "Virginia Woolf, Modern Fiction, The Common Reader (Hogarth Press, 1925)",
+   "tradition": "Essay",
+   "note": "Corrected the wording. The Common Reader of 1925 reads life is a luminous halo. The reading but a luminous halo belongs to the earlier version of the essay, Modern Novels, printed in the Times Literary Supplement in 1919.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-10",
+   "quote": "Attachment is a manufacturer of illusions and whoever wants reality ought to be detached.",
+   "source": "Simone Weil, Gravity and Grace, Detachment, p. 59 (trans. Arthur Wills, 1952)",
+   "tradition": "Philosophy",
+   "note": "Corrected the locator. The sentence stands in the chapter Detachment on page 59 of the Wills translation, published by Putnam in New York in 1952, not on page 13. The wording is verbatim in that text.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-12",
+   "quote": "For nothing is fixed, forever and forever and forever, it is not fixed; the earth is always shifting, the light is always changing, the sea does not cease to grind down rock.",
+   "source": "James Baldwin, Nothing Personal, the closing passage (Atheneum, 1964)",
+   "tradition": "Essay",
+   "note": "",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-13",
+   "quote": "The answer must be, I think, that beauty and grace are performed whether or not we will or sense them. The least we can do is try to be there.",
+   "source": "Annie Dillard, Pilgrim at Tinker Creek, chapter 1, Heaven and Earth in Jest (Harper’s Magazine Press, 1974)",
+   "tradition": "Essay",
+   "note": "",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-phil-15",
+   "quote": "I think we are well advised to keep on nodding terms with the people we used to be, whether we find them attractive company or not.",
+   "source": "Joan Didion, Slouching Towards Bethlehem, On Keeping a Notebook (Farrar, Straus and Giroux, 1968)",
+   "tradition": "Essay",
+   "note": "",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-poet-07",
+   "quote": "Better by far you should forget and smile / Than that you should remember and be sad.",
+   "source": "Christina Rossetti, ‘Remember’, lines 13 to 14, Goblin Market and Other Poems (Macmillan, 1862)",
+   "tradition": "Poetry",
+   "note": "",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-poet-12",
+   "quote": "Though a country be sundered, hills and rivers endure; / And spring comes green again to trees and grasses / Where petals have been shed like tears / And lonely birds have sung their grief.",
+   "source": "Du Fu, A Spring View, lines 1 to 4, The Jade Mountain, p. 148 (trans. Witter Bynner with Kiang Kang-hu, 1929)",
+   "tradition": "Poetry",
+   "note": "",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-poet-13",
+   "quote": "Though leaves are many, the root is one; / Through all the lying days of my youth / I swayed my leaves and flowers in the sun; / Now I may wither into the truth.",
+   "source": "W. B. Yeats, The Coming of Wisdom with Time, the whole poem, The Green Helmet and Other Poems (Cuala Press, 1910)",
+   "tradition": "Poetry",
+   "note": "",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-poet-15",
+   "quote": "We look at the world once, in childhood. / The rest is memory.",
+   "source": "Louise Glück, Nostos, the closing lines, Meadowlands (Ecco Press, 1996)",
+   "tradition": "Poetry",
+   "note": "",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-poet-16",
+   "quote": "But not because of its magnificence / Dear is the Casuarina to my soul: / Beneath it we have played; though years may roll, / O sweet companions, loved with love intense, / For your sakes, shall the tree be ever dear.",
+   "source": "Toru Dutt, Our Casuarina Tree, stanza 3, lines 1 to 5, Ancient Ballads and Legends of Hindustan (Kegan Paul, Trench and Co., 1882)",
+   "tradition": "Poetry",
+   "note": "Corrected the locator. Each stanza of the poem runs to eleven lines and the quotation is only the first five of stanza three, so the locator now names those lines. The wording stands as printed, with the colon after soul and the comma after sakes.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "01-fict-03",
+   "quote": "Barrabás came to us by sea, the child Clara wrote in her delicate calligraphy.",
+   "source": "Isabel Allende, The House of the Spirits, chapter 1, the opening sentence (trans. Magda Bogin, 1985)",
+   "tradition": "Fiction",
+   "note": "Verified opening line in Bogin’s translation; it returns as the novel’s last line. Held for a month that can use a pure opening.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "03-cfl-05",
+   "quote": "Eternity is in love with the productions of time.",
+   "source": "William Blake, The Marriage of Heaven and Hell, Proverbs of Hell, plate 7 (c. 1790 to 1793)",
+   "tradition": "Poetry",
+   "note": "Verified, the tenth Proverb of Hell, plate 7. Time and what is made in it: an impermanence line more than a discipline line.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "03-cfl-02",
+   "quote": "Our life is March weather, savage and serene in one hour.",
+   "source": "Ralph Waldo Emerson, Representative Men, IV, Montaigne; or, the Skeptic (Phillips, Sampson and Company, 1850), p. 174",
+   "tradition": "Essay",
+   "note": "Verified in the 1850 first edition, p. 174. It is about the inconstancy of moods, which is impermanence rather than renewal, and the March refuter named it the first to drop.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "05-cfl-06",
+   "quote": "The butterfly counts not months but moments, / and has time enough.",
+   "source": "Rabindranath Tagore, Fireflies, p. 15 (Macmillan, New York, 1928)",
+   "tradition": "Poetry",
+   "note": "Corrected in re-verification to a page locator. Held: a two line poem about moments, for the month of passing things.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "05-poet-14",
+   "quote": "My candle burns at both ends; / It will not last the night; / But ah, my foes, and oh, my friends— / It gives a lovely light!",
+   "source": "Edna St. Vincent Millay, First Fig, the whole poem, A Few Figs from Thistles (Harper and Brothers, 1922)",
+   "tradition": "Poetry",
+   "note": "Corrected the edition to the Harper text of 1922. Held: a candle that will not last the night is impermanence.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "06-fict-11",
+   "quote": "He could see plainly that she was not herself. That is, he could not see that she was becoming herself and daily casting aside that fictitious self which we assume like a garment with which to appear before the world.",
+   "source": "Kate Chopin, The Awakening, chapter XIX (1899)",
+   "tradition": "Fiction",
+   "note": "Verified in chapter XIX of 1899. Casting aside the fictitious self, which is a truth line held for want of a day.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "06-phil-05",
+   "quote": "The public must decide whether it wishes to continue on the present road, and it can do so only when in full possession of the facts.",
+   "source": "Rachel Carson, Silent Spring, chapter 2, The Obligation to Endure (Houghton Mifflin, 1962)",
+   "tradition": "Essay",
+   "note": "Verified in chapter 2 of Silent Spring. Full possession of the facts, a public truth line.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "06-poet-08",
+   "quote": "I’m nobody! Who are you? / Are you nobody, too?",
+   "source": "Emily Dickinson, ‘I’m nobody! Who are you?’, Poems, Second Series, Life I, lines 1 to 2 (Roberts Brothers, 1891)",
+   "tradition": "Poetry",
+   "note": "Verified in Poems, Second Series of 1891. Two lines only, in that edition’s lineation.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "01-poet-01",
+   "quote": "Some men say an army of horse and some men say an army on foot and some men say an army of ships is the most beautiful thing on the black earth. But I say it is what you love.",
+   "source": "Sappho, If Not, Winter, Fragment 16, lines 1 to 4 (trans. Anne Carson, 2002)",
+   "tradition": "Poetry",
+   "note": "Carried from January, verified in Carson, p. 27. Before it lands, the four lines must be marked with slashes in Carson’s lineation, which nobody has yet checked against the page; it is carried as prose.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "05-cfl-05",
+   "quote": "Beauty is no quality in things themselves: It exists merely in the mind which contemplates them; and each mind perceives a different beauty.",
+   "source": "David Hume, Essays, Moral, Political, and Literary, Of the Standard of Taste (ed. Miller, pp. 229 to 230)",
+   "tradition": "Essay",
+   "note": "Corrected in re-verification. Held: Hume sets the sentence out as the sceptical case and the next paragraph restrains it, so it wants a month about seeing clearly.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "05-fict-16",
+   "quote": "The most exhausting thing in life, I have discovered, is being insincere.",
+   "source": "Anne Morrow Lindbergh, Gift from the Sea, chapter 2, Channelled Whelk (1955)",
+   "tradition": "Essay",
+   "note": "Hedged: Gift from the Sea was never opened and the reference readings agree on chapter 2. Held for a month about sincerity.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "03-cfl-04",
+   "quote": "I did not care what it was all about. All I wanted to know was how to live in it. Maybe if you found out how to live in it you learned from that what it was all about.",
+   "source": "Ernest Hemingway, The Sun Also Rises, Book II, chapter 14 (Jake Barnes) (Charles Scribner’s Sons, 1926)",
+   "tradition": "Fiction",
+   "note": "Verified in the Scribner text of 1926. Held: Jake wants to know how to live in it, which is a search for clarity.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "07-cfl-04",
+   "quote": "Against the assault of laughter nothing can stand.",
+   "source": "Mark Twain, The Mysterious Stranger, ch. 10 (Satan) (Harper and Brothers, 1916)",
+   "tradition": "Fiction",
+   "note": "Verified. Held: laughter is the weapon here, not endurance, so it wants the lighter month.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "07-cfl-06",
+   "quote": "Music was my refuge. I could crawl into the spaces between the notes and curl my back to loneliness.",
+   "source": "Maya Angelou, Singin’ and Swingin’ and Gettin’ Merry Like Christmas, chapter 1, the opening sentences (Random House, 1976)",
+   "tradition": "Essay",
+   "note": "Verified. Held: Maya Angelou stands in July with Still I Rise, and one person may stand once a month.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "03-poet-10",
+   "quote": "But he that dares not grasp the thorn / Should never crave the rose.",
+   "source": "Anne Brontë, The Narrow Way (1848), lines 15 to 16, in The Complete Poems of Anne Brontë (ed. Clement Shorter, 1920), p. 145",
+   "tradition": "Poetry",
+   "note": "Verified in Shorter’s 1920 Complete Poems, p. 145: he that, not he who. Add the page to the source. Held to keep March under the cap for lines originally in English.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "04-poet-08",
+   "quote": "I will mount a long wind some day and break the heavy waves / And set my cloudy sail straight and bridge the deep, deep sea.",
+   "source": "Li Bai, The Hard Road, closing couplet, The Jade Mountain, p. 70 (trans. Witter Bynner, 1929)",
+   "tradition": "Poetry",
+   "note": "Verified. One Bynner poem landed already and only one may stand in a month, and the hard road is a courage line.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "02-cfl-05",
+   "quote": "The wide world is all about you: you can fence yourselves in, but you cannot for ever fence it out.",
+   "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, chapter 3, Three is Company (George Allen and Unwin, 1954) (Gildor Inglorion)",
+   "tradition": "Fiction",
+   "note": "Verified with the two-word for ever. Tolkien’s small hands is already held for September, so this goes to July.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "05-cfl-10",
+   "quote": "That’s no way to treat adventures. Never say ‘no’ to adventures. Always say ‘yes’, otherwise you’ll lead a very dull life.",
+   "source": "Ian Fleming, Chitty-Chitty-Bang-Bang: The Magical Car, Adventure Number Two (Commander Caractacus Pott) (Jonathan Cape, 1964)",
+   "tradition": "Fiction",
+   "note": "Verified. Held: Commander Pott’s counsel is about saying yes to danger, which suits a month of trial.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
+   "id": "06-poet-04",
+   "quote": "My way of joking is to tell the truth. It’s the funniest joke in the world.",
+   "source": "Bernard Shaw, John Bull’s Other Island, Act II, his reply to Nora Reilly (Peter Keegan)",
+   "tradition": "Drama",
+   "note": "Verified as Peter Keegan’s reply to Nora Reilly. Held because the drama lane was already full.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 8,
+   "id": "01-cfl-08",
+   "quote": "I am large, I contain multitudes.",
+   "source": "Walt Whitman, Leaves of Grass, ‘Song of Myself’, section 51, 1881 text",
+   "tradition": "Poetry",
+   "note": "Verified; parenthetical in the source. Not a beginning line so much as a truth-and-clarity line.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 8,
+   "id": "04-phil-06",
+   "quote": "Travel is in my opinion a very profitable exercise; the soul is there continually employed in observing new and unknown things, and I do not know, as I have often said a better school wherein to model life than by incessantly exposing to it the diversity of so many other lives, fancies, and usances, and by making it relish a perpetual variety of forms of human nature.",
+   "source": "Michel de Montaigne, Essays, Book III, ch. 9, Of Vanity (trans. Charles Cotton, revised by W. Carew Hazlitt, 1877)",
+   "tradition": "Essay",
+   "note": "Verified. Another Montaigne is already held for May, so this goes on to the month of clear seeing.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 8,
    "id": "02-cfl-03",
    "quote": "There is no foreign land; it is the traveller only that is foreign, and now and again, by a flash of recollection, lights up the contrasts of the earth.",
    "source": "Robert Louis Stevenson, The Silverado Squatters, Part II, With the Children of Israel, chapter III, The Return (Chatto and Windus, 1883)",
    "tradition": "Essay",
    "note": "Corrected: the sentence is in The Return, Part II. Held: it is the traveller only that is foreign is a correction of the eye, which is June.",
-   "fitMonth": 8
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 8,
+   "id": "08-poet-15-displaced",
+   "quote": "The world of dew / Is the world of dew, / And yet . . . / And yet . . .",
+   "source": "Kobayashi Issa, The Year of My Life, pp. 103 to 104, the elegy for his daughter (trans. Nobuyuki Yuasa, 1960)",
+   "tradition": "Poetry",
+   "note": "Held, not refused: the verse ends on the translator’s ellipsis, so it cannot carry the terminal stop every card needs. It would need a translation that closes on a stop, and nothing else about it was in doubt.",
+   "fitMonth": 11
   }
  ]
 }

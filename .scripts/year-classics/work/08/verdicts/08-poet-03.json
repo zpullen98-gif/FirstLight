@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-03",
+ "verdict": "CORRECTED",
+ "quote": "Let us do something, while we have the chance!",
+ "source": "Samuel Beckett, Waiting for Godot, Act II (Vladimir) (trans. the author, Grove Press, 1954)",
+ "speaker": "Vladimir",
+ "tradition": "Drama",
+ "note": "The page range could not be confirmed against the 1954 Grove printing, so the citation stands at Act II, where Vladimir says the line while Pozzo is calling for help. The English is Beckett’s own translation of his French text of 1952.",
+ "evidence": {
+  "where": "Act II of Waiting for Godot, inside Vladimir’s speech beginning Let us not waste our time in idle discourse; Grove Press 1954 confirmed as the first English edition, translated from the French by the author",
+  "edition": "Waiting for Godot: A Tragicomedy in Two Acts (Grove Press, 1954)",
+  "locator": "Act II",
+  "url": "https://www.shmoop.com/study-guides/waiting-for-godot/vladimir-quotes-2.html"
+ },
+ "confidence": "high",
+ "reason": "The wording, the act, the speaker and the translator are all correct. Only the locator changed: pp. 96 to 97 was not verifiable against the 1954 Grove pagination, and an act locator is locatable on its own, so the unconfirmed pages were dropped rather than printed as fact."
+}

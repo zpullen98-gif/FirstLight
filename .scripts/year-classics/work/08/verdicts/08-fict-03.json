@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-03",
+ "verdict": "CORRECTED",
+ "quote": "Imitate the trees. Learn to lose in order to recover, and remember that nothing stays the same for long, not even pain, psychic pain.",
+ "source": "May Sarton, Journal of a Solitude, the entry for October 6th (W. W. Norton, 1973)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "Corrected the citation. The wording and the entry are right, so only the page reference is changed: p. 34 could not be confirmed against the 1973 Norton text, and the dated entry locates the passage on its own.",
+ "evidence": {
+  "where": "Downloaded the full scanned text of Journal of a Solitude (Internet Archive item journal-of-a-solitude-2014-may-sarton) and searched it. The sentences appear verbatim under the heading October 6th, in the paragraph that begins by asking whether anything in nature despairs except man and ends: Sit it out. Let it all pass. Let it go. The paragraph before it is the one about the trees letting fall the riches of a season. The copy searched is a later reissue, so its pagination does not settle the page of the 1973 first edition.",
+  "url": "https://archive.org/download/journal-of-a-solitude-2014-may-sarton/Journal%20of%20a%20Solitude%20%282014%29%20-%20May%20Sarton_djvu.txt",
+  "edition": "Journal of a Solitude (W. W. Norton, 1973); text checked in a later reissue",
+  "locator": "the entry for October 6th"
+ },
+ "confidence": "high",
+ "reason": "Author, work, entry date and wording all check out word for word against the text, including the comma before psychic pain. The excerpt starts at a sentence boundary within the paragraph, so nothing is elided silently. Only the unconfirmed page number is dropped."
+}

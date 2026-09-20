@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-12",
+ "verdict": "VERIFIED",
+ "quote": "Though a country be sundered, hills and rivers endure; / And spring comes green again to trees and grasses / Where petals have been shed like tears / And lonely birds have sung their grief.",
+ "source": "Du Fu, A Spring View, lines 1 to 4, The Jade Mountain, p. 148 (trans. Witter Bynner with Kiang Kang-hu, 1929)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the scanned text of the 1929 Knopf Jade Mountain and read A Spring View under Tu Fu: the first four lines match the proposal word for word and break for break. The book’s index of first lines gives the page as 148.",
+  "url": "https://archive.org/download/jademountainchin00heng/jademountainchin00heng_djvu.txt",
+  "edition": "Witter Bynner with Kiang Kang-hu, The Jade Mountain, Alfred A. Knopf, 1929, p. 148",
+  "locator": "A Spring View, lines 1 to 4"
+ },
+ "confidence": "high",
+ "reason": "Wording, lineation, translator and edition all check against the 1929 scan, and the page number is added from the index of first lines. Du Fu is at no count for the year. One editor’s flag, not a citation fault: the carry in Li Bai line is another Bynner poem held for August, and the carry note says only one Bynner may stand in a month."
+}

@@ -1,0 +1,25 @@
+{
+ "id": "08-cfl-08",
+ "verdict": "REJECT",
+ "quote": "Should auld acquaintance be forgot, / And never brought to mind?",
+ "source": "Attributed to Robert Burns, Auld lang syne, The Scots Musical Museum, vol. V, no. 413 (Blackwood reissue, 1839)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The archive item both earlier passes relied on, checked again this run: its title page is the Blackwood and Cadell reissue of 1839, not the 1796 volume the locator names. The Auld Langsyne underlay there is syllabic and hyphenated and does not present the proposed two lines as lines 1 to 2, and the stanza closes And days o lang syne. Stenhouse's note in the same set records Johnson's Z mark, Burns's account of taking the song down from an old man's singing, his admission that three of the five stanzas were old, and the ancestor in Watson's Choice Collection of 1711.",
+  "edition": "The Scotish Musical Museum, vol. V, song CCCCXIII, William Blackwood and Sons and Thomas Cadell, 1839",
+  "locator": "vol. V, no. 413, with the editorial note to the same song",
+  "url": "https://archive.org/details/scotsmusicalmuse05john"
+ },
+ "confidence": "high",
+ "reason": "Two of the refuter's three grounds hold on my own check, and either is enough. Scope: the brief puts song lyrics out of scope, and this is a song, printed in a song museum under a tune, headed as an old Scotch drinking song and marked Z for old verses with additions; the house precedent is the June Burns, taken from the printed Kilmarnock Poems. Citation: the leaf that was read is the 1839 Blackwood and Cadell reissue, not the 1796 volume V the locator names, and its underlay is hyphenated and does not carry the proposed lineation, so the edition's own wording and punctuation for lines 1 to 2 remain unestablished. The byline compounds it, since the stanza being shipped belongs to the old fragment rather than to Burns's two added stanzas, and an Attributed to line that does not say so reads as a hedge while working as a claim. The wording itself is genuine and standard in the scholarly editions, and Burns is at one of three, unbanned, unshipped and alone in the month, so nothing else bars it. Having failed once on refutation and again here on the same two grounds, it is a reject rather than a hedge.",
+ "checks": {
+  "shipped": [],
+  "near": [],
+  "person": "robert burns",
+  "yearCount": 1,
+  "atCap": false,
+  "banned": false
+ }
+}

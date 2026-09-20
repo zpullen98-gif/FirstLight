@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "God knows I never sought anything in you except yourself; I wanted simply you, nothing of yours.",
+ "source": "Heloise, The Letters of Abelard and Heloise, Letter 2, Heloise to Abelard (trans. Betty Radice, 1974)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected the citation. The wording is Betty Radice’s and the letter is Heloise’s first to Abelard, Letter 2 in that edition. The page reference is dropped because p. 51 could not be confirmed against the 1974 Penguin text. The letter number locates the passage.",
+ "evidence": {
+  "where": "Located in reproductions of Heloise’s first letter that cite Betty Radice’s Penguin Classics translation of 1974, with the semicolon as proposed rather than the full stop that some quotation sites print. The Penguin edition prints the Historia Calamitatum as Letter 1 and Heloise’s reply as Letter 2, so the letter number is a sound locator. No copy of the 1974 pagination was seen.",
+  "url": "https://andreacefalo.com/2013/02/08/star-crossed-lovers-week-heloises-first-letter-to-abelard/",
+  "edition": "The Letters of Abelard and Heloise, trans. Betty Radice (Penguin Classics, 1974)",
+  "locator": "Letter 2, Heloise to Abelard"
+ },
+ "confidence": "medium",
+ "reason": "The sentence is real, the translation named is the one whose wording is quoted, and the letter is correctly identified. Only the page is unverifiable, and it is replaced by the letter number, which the rules accept as a locator."
+}

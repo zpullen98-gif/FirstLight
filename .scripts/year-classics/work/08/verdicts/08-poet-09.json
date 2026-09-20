@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-09",
+ "verdict": "CORRECTED",
+ "quote": "Loveliest of what I leave behind is the sunlight, / and loveliest after that the shining stars, and the moon’s face, / but also cucumbers that are ripe, and pears, and apples.",
+ "source": "Praxilla, Hymn to Adonis, fragment 747 PMG (Adonis) (trans. Richmond Lattimore, Greek Lyrics, 1960)",
+ "speaker": "Adonis",
+ "tradition": "Poetry",
+ "note": "Corrected the wording to Lattimore’s published rendering: he writes what I leave behind, not what I have left behind, and keeps lower case at the second and third line heads. No page of Greek Lyrics was sighted, so the wording rests on three independent citations of that translation.",
+ "evidence": {
+  "where": "Three independent citations of Lattimore’s Greek Lyrics agree on this wording: a University of Miami classics fragment page whose translations are Lattimore’s Greek Lyrics, a reader quoting the University of Chicago Press 1960 edition, and Tom Clark’s posting of the fragment. The Internet Archive copies of Greek Lyrics are lending restricted, so no page image was seen. The proposal’s wording was found only on one blog.",
+  "url": "https://web.as.miami.edu/personal/corax/greekpoetryfrr.html",
+  "edition": "Richmond Lattimore, Greek Lyrics, University of Chicago Press, 1960",
+  "locator": "Praxilla fragment 747 Page, Poetae Melici Graeci"
+ },
+ "confidence": "medium",
+ "reason": "The fragment, the attribution to Praxilla, the hymn and the speaker Adonis are all secure, and the fragment number is the standard PMG 747. What was wrong was the English: two renderings circulate under Lattimore’s name and the better attested one is the one supplied here, with the edition’s own lower case at the line heads. Praxilla is at no count for the year and is not banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-14",
+ "verdict": "VERIFIED",
+ "quote": "All photographs are memento mori. To take a photograph is to participate in another person’s (or thing’s) mortality, vulnerability, mutability.",
+ "source": "Susan Sontag, On Photography, In Plato’s Cave (Farrar, Straus and Giroux, 1977)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "A PDF of the complete essay In Plato's Cave posted as course material, downloaded and its text extracted this run. The sentences appear verbatim: 'All photographs are memento mori. To take a photograph is to participate in another person's (or thing's) mortality, vulnerability, mutability. Precisely by slicing out this moment and freezing it, all photographs testify to time's relentless melt.'",
+  "edition": "On Photography, Farrar, Straus and Giroux, 1977; In Plato's Cave is the opening essay, the quoted sentences falling at about p. 15 of that setting",
+  "locator": "In Plato's Cave, in the paragraph beginning 'All photographs are memento mori', following the sentence about a beautiful subject that has aged or decayed or no longer exists",
+  "url": "https://openlab.citytech.cuny.edu/chengphotoarth1100f2019/files/2018/02/Susan-Sontag-In-Platos-Cave.pdf"
+ },
+ "confidence": "high",
+ "reason": "Word for word and mark for mark, including the two parentheses and the three nouns in that order, the proposal matches the essay text read this run. The essay, the book, the publisher and the year are all correct as proposed, so nothing needed changing. The material is publishable: memento mori is named, not described, and the sentence carries no wound or deathbed. Susan Sontag stands once already in the year, in month 6, so this is her second of three."
+}

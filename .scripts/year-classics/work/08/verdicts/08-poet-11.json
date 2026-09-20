@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-11",
+ "verdict": "VERIFIED",
+ "quote": "But where are the snows of yester-year?",
+ "source": "François Villon, The Ballad of Dead Ladies, the refrain, Rossetti’s Complete Poetical Works, p. 237 (trans. Dante Gabriel Rossetti, 1870)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Fetched Representative Poetry Online’s text of the poem and searched it: the line stands four times, three stanza refrains and the envoy, spelled yester-year each time and worded exactly as proposed. RPO gives its copy text as The Complete Poetical Works of Dante Gabriel Rossetti, ed. W. M. Rossetti, Roberts Brothers, Boston, 1887, pages 237 to 238.",
+  "url": "https://rpo.library.utoronto.ca/content/ballad-dead-ladies",
+  "edition": "The Complete Poetical Works of Dante Gabriel Rossetti, ed. W. M. Rossetti, Roberts Brothers, 1887, pp. 237 to 238",
+  "locator": "the refrain of The Ballad of Dead Ladies, Rossetti’s version of Villon’s Ballade des dames du temps jadis"
+ },
+ "confidence": "high",
+ "reason": "The refrain, its hyphenated yester-year and the 1887 pages are all as proposed, and Rossetti is the named translator whose wording ships. The line is a single line of verse, so no slashes are needed. Villon is at no count for the year and is not banned."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-06",
+ "verdict": "VERIFIED",
+ "quote": "As firmly cemented clam shells / Fall apart in autumn, / So I must take to the road again, / Farewell, my friends.",
+ "source": "Matsuo Bashō, The Narrow Road to the Deep North, the closing verse at Ogaki (trans. Nobuyuki Yuasa, 1966)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Terebess Asia Online hosts the full text of Yuasa's translation. The work's last words are this verse, introduced by the sentence As I stepped into the boat, I wrote, and the four lines stand there with exactly these capitals and this terminal stop. The page's bibliography names the edition as Matsuo Basho, The Narrow Road to the Deep North, translated by Nobuyuki Yuasa, Penguin Books, original edition 1966, reprinted 1996. The verse is the Futami pun on the parting clam shell at Ogaki, where Basho leaves for Ise. The shipped.js check returns no shipped line and no near match, with Basho at one for the year.",
+  "url": "https://terebess.hu/english/haiku/basho2.html",
+  "edition": "Matsuo Bashō, The Narrow Road to the Deep North and Other Travel Sketches, trans. Nobuyuki Yuasa, Penguin Classics, 1966",
+  "locator": "the closing verse of the work, at Ogaki"
+ },
+ "confidence": "high",
+ "reason": "Located in the full text of the named translation, in this lineation and wording, and it is genuinely the closing verse, so the fame test holds. Yuasa renders haiku in four English lines, which is why the slashes give four and not three. Basho stands once in the year so far, in January."
+}

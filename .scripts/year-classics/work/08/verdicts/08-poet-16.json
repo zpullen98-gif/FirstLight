@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-16",
+ "verdict": "CORRECTED",
+ "quote": "But not because of its magnificence / Dear is the Casuarina to my soul: / Beneath it we have played; though years may roll, / O sweet companions, loved with love intense, / For your sakes, shall the tree be ever dear.",
+ "source": "Toru Dutt, Our Casuarina Tree, stanza 3, lines 1 to 5, Ancient Ballads and Legends of Hindustan (Kegan Paul, Trench and Co., 1882)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected the locator. Each stanza of the poem runs to eleven lines and the quotation is only the first five of stanza three, so the locator now names those lines. The wording stands as printed, with the colon after soul and the comma after sakes.",
+ "evidence": {
+  "where": "Academy of American Poets reading text of Our Casuarina Tree, checked for the five lines, the colon at line two, the comma after sakes and the full stop at line five; reference accounts give the poem as five stanzas of eleven lines, fifty five in all, in the 1882 volume.",
+  "url": "https://poets.org/poem/our-casuarina-tree",
+  "edition": "Ancient Ballads and Legends of Hindustan (London: Kegan Paul, Trench and Co., 1882), Miscellaneous Poems",
+  "locator": "stanza 3, lines 1 to 5"
+ },
+ "confidence": "medium",
+ "reason": "The five lines are right word for word and stanza three is right, but the stanza has eleven lines and the proposal's locator pointed at all of them, so the lines are now named. Confidence is medium only because the check was made against a reading text rather than a scan of the 1882 printing."
+}

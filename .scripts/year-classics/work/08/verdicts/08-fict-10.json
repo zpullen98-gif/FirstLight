@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-10",
+ "verdict": "VERIFIED",
+ "quote": "Pause you who read this, and think for a moment of the long chain of iron or gold, of thorns or flowers, that would never have bound you, but for the formation of the first link on one memorable day.",
+ "source": "Charles Dickens, Great Expectations, chapter 9, the closing sentence (Pip) (1861)",
+ "speaker": "Pip",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Great Expectations downloaded from Project Gutenberg (ebook 1400) and searched directly; the sentence closes the chapter that ends before the heading Chapter X, and it follows the sentences beginning That was a memorable day to me and Imagine one selected day struck out of it.",
+  "url": "https://www.gutenberg.org/cache/epub/1400/pg1400.txt",
+  "edition": "Great Expectations, Project Gutenberg ebook 1400",
+  "locator": "chapter 9, final sentence"
+ },
+ "confidence": "high",
+ "reason": "Located word for word at the end of chapter 9, in the position claimed. Pip is the narrator addressing the reader, so he is named after the locator."
+}

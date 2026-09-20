@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-16",
+ "verdict": "VERIFIED",
+ "quote": "In spite of illness, in spite even of the arch-enemy sorrow, one can remain alive long past the usual date of disintegration if one is unafraid of change, insatiable in intellectual curiosity, interested in big things, and happy in small ways.",
+ "source": "Edith Wharton, A Backward Glance, A First Word (D. Appleton-Century, 1934)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Full text of A Backward Glance downloaded from Project Gutenberg Australia and searched directly. The sentence opens the third paragraph of the prefatory section A First Word, after the paragraph on habit, and runs on into the sentence about sorting and setting down her memories. The transcription prints can in capitals because the book italicises it; the shipped wording keeps ordinary lower case.",
+  "url": "https://gutenberg.net.au/ebooks02/0200271.txt",
+  "edition": "A Backward Glance (D. Appleton-Century, 1934), Project Gutenberg Australia transcription",
+  "locator": "A First Word, third paragraph"
+ },
+ "confidence": "high",
+ "reason": "Located word for word in the named section of the named work, with only the italic on can lost in plain text."
+}

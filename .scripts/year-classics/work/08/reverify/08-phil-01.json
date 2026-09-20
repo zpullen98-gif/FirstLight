@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-01",
+ "verdict": "CORRECTED",
+ "quote": "Wherefore he resolved to have a moving image of eternity, and when he set in order the heaven, he made this image eternal but moving according to number, while eternity itself rests in unity; and this image we call time.",
+ "source": "Plato, Timaeus, 37d (Timaeus) (trans. Benjamin Jowett, 1892)",
+ "speaker": "Timaeus",
+ "tradition": "Philosophy",
+ "note": "The cosmology at 37d is spoken by Timaeus of Locri, not by Plato in his own voice, so the speaker is named after the locator, as the year's other Plato lines do. The Jowett wording is unchanged and was checked against the 1892 text.",
+ "evidence": {
+  "where": "Downloaded the Jowett Timaeus from Project Gutenberg and searched it myself rather than relying on either earlier ruling. The sentence stands in the dialogue at one place only, character for character and semicolon for semicolon as proposed, between 'Now the nature of the ideal being was everlasting' and 'For there were no days and nights and months and years before the heaven was created', which is the standard Stephanus 37d. I then listed every speech tag in the file and confirmed the last one before the passage is TIMAEUS, with no tag intervening, so the whole cosmology is his speech. The only other occurrence of the phrase is in Jowett's own analysis at the front, which the proposal did not take.",
+  "url": "https://www.gutenberg.org/cache/epub/1572/pg1572.txt",
+  "edition": "Benjamin Jowett, The Dialogues of Plato, third edition, 1892",
+  "locator": "Timaeus 37d, spoken by Timaeus"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right and it is a citation fix, not a kill: the wording is exactly Jowett's, but the words belong to Timaeus, and the brief's speaker trap says plainly that a line spoken by a character goes in the source in parentheses after the locator, with the Turnus entry adding name the speaker or leave it. The year's other two Plato lines and its Boethius already follow that form, so the third must. shipped.js returns no match and no near match, Plato at two of three, not banned."
+}

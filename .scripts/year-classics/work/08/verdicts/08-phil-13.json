@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-13",
+ "verdict": "VERIFIED",
+ "quote": "The answer must be, I think, that beauty and grace are performed whether or not we will or sense them. The least we can do is try to be there.",
+ "source": "Annie Dillard, Pilgrim at Tinker Creek, chapter 1, Heaven and Earth in Jest (Harper’s Magazine Press, 1974)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The publisher's own chapter sample PDF (Harper) headed 'Pilgrim at Tinker Creek, By Annie Dillard, Chapter One: Heaven and Earth in Jest', read this run, which fixes the chapter and its title; the sample breaks off before the mockingbird page, so the sentence itself was corroborated from several independent quotation collections that reproduce it in one identical wording, and from chapter summaries that place the mockingbird free fall and the tree-falls-in-the-forest conundrum in chapter 1. No scan of the page itself was read: the Internet Archive copies are lending restricted and search inside is closed.",
+  "edition": "Pilgrim at Tinker Creek, Harper's Magazine Press, 1974; the sample PDF is from the Harper setting",
+  "locator": "chapter 1, Heaven and Earth in Jest, in the mockingbird free fall passage, immediately after the sentence 'The fact of his free fall was like the old philosophical conundrum about the tree that falls in the forest.'",
+  "url": "https://www.exodusbooks.com/samples/harper/6910sample.pdf"
+ },
+ "confidence": "medium",
+ "reason": "The attribution, the work and the chapter are not in doubt, and the wording with the distinctive 'whether or not we will or sense them' is reproduced identically across independent sources; the two shortened renderings in circulation ('whether or not we sense them') drop words rather than add them, which is the ordinary direction of quoter's smoothing, so the longer form is the book's. Confidence is medium only because the page was never seen in a scan. The proposal's wording, chapter and chapter title all hold; I added the publisher and year so the source names an edition. Note for the editor: Annie Dillard already stands once in the year, in month 3, so this is her second of three, and nothing bars it."
+}

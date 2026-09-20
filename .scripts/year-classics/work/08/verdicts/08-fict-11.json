@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "The flow of the river is ceaseless and its water is never the same.",
+ "source": "Kamo no Chōmei, An Account of My Hut, the opening sentence, Anthology of Japanese Literature (trans. Donald Keene, 1955)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Keene’s translation as reproduced from Anthology of Japanese Literature on Wikisource, read directly, and corroborated by the Columbia Asia for Educators reading and a separate posting of the Keene text; all three open with this sentence, followed by the sentence about bubbles that float in the pools.",
+  "url": "https://en.wikisource.org/wiki/Anthology_of_Japanese_Literature/An_Account_of_My_Hut",
+  "edition": "Anthology of Japanese Literature, ed. Donald Keene (Grove Press, 1955), An Account of My Hut",
+  "locator": "opening sentence"
+ },
+ "confidence": "high",
+ "reason": "The opening sentence of Keene’s 1955 translation, in this wording. The proposal names the right translator and year, so only the anthology needed tidying into the source line."
+}

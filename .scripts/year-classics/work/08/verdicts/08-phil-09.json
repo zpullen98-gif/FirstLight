@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-09",
+ "verdict": "CORRECTED",
+ "quote": "Life is not a series of gig lamps symmetrically arranged; life is a luminous halo, a semi-transparent envelope surrounding us from the beginning of consciousness to the end.",
+ "source": "Virginia Woolf, Modern Fiction, The Common Reader (Hogarth Press, 1925)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the wording. The Common Reader of 1925 reads life is a luminous halo. The reading but a luminous halo belongs to the earlier version of the essay, Modern Novels, printed in the Times Literary Supplement in 1919.",
+ "evidence": {
+  "where": "Full text of The Common Reader, First Series at Project Gutenberg Australia, downloaded and read directly at the Modern Fiction essay; the sentence follows the passage on an ordinary mind on an ordinary day and precedes Is it not the task of the novelist.",
+  "url": "https://gutenberg.net.au/ebooks03/0300031h.html",
+  "edition": "The Common Reader, First Series (1925), Modern Fiction",
+  "locator": "Modern Fiction, the paragraph beginning Examine for a moment an ordinary mind on an ordinary day"
+ },
+ "confidence": "high",
+ "reason": "The passage is in Modern Fiction where claimed, but the proposal carried the 1919 Modern Novels reading, which breaks the semicolon into a fragment. The Common Reader text repeats the word life and that is the wording now supplied."
+}

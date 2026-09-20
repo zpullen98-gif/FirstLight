@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-02",
+ "verdict": "VERIFIED",
+ "quote": "Some races wax and others wane, and in a short space the tribes of living things are changed, and like runners hand on the torch of life.",
+ "source": "Lucretius, De Rerum Natura, Book II, lines 77 to 79 (trans. Cyril Bailey, 1910)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Read the scanned text of Bailey’s translation, Oxford at the Clarendon Press, 1910, and found the sentence verbatim; checked the Latin separately to confirm the line numbers.",
+  "url": "https://archive.org/download/onnatureofthings01lucruoft/onnatureofthings01lucruoft_djvu.txt",
+  "edition": "Cyril Bailey, Lucretius on the Nature of Things, Oxford, Clarendon Press, 1910",
+  "locator": "Book II, lines 77 to 79 (augescunt aliae gentes ... vitai lampada tradunt)"
+ },
+ "confidence": "high",
+ "reason": "Bailey’s prose renders the three Latin lines exactly as proposed, and the Latin text confirms augescunt aliae gentes at line 77 and vitai lampada tradunt at line 79. Bailey translates into prose, so the line ships as prose rather than with slashes."
+}

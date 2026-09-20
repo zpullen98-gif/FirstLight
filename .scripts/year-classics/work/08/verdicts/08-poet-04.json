@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-04",
+ "verdict": "CORRECTED",
+ "quote": "I didn’t go to the moon, I went much further—for time is the longest distance between two places.",
+ "source": "Tennessee Williams, The Glass Menagerie, scene seven (Tom Wingfield) (Random House, 1945)",
+ "speaker": "Tom Wingfield",
+ "tradition": "Drama",
+ "note": "The publisher was corrected. The Glass Menagerie was first published by Random House in 1945, and New Directions reprinted it in 1949, so no New Directions edition of 1945 exists. The wording of the closing speech is unchanged.",
+ "evidence": {
+  "where": "Scene seven of The Glass Menagerie, the opening of Tom’s closing speech; publication history checked in rare book catalogue records, which give Random House 1945 as the first edition and New Directions 1949 as the reprint",
+  "edition": "The Glass Menagerie (Random House, 1945)",
+  "locator": "scene seven, the closing speech",
+  "url": "https://www.biblio.com/book/glass-menagerie-williams-tennessee/d/1442042467"
+ },
+ "confidence": "high",
+ "reason": "The line, the scene and the speaker are right, but the edition was not: New Directions did not publish the play until 1949. One transcription online drops the word two, and the received text of the speech reads between two places, which is what ships."
+}

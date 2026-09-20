@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "Life is a pure flame, and we live by an invisible Sun within us.",
+ "source": "Thomas Browne, Hydriotaphia, Urn-Burial, chapter V (1658)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Hydriotaphia chapter V in the University of Chicago Penelope edition of Browne's works, read directly; the sentence sits between the sentence on God and resurrection and the sentence beginning A small fire sufficeth for life.",
+  "url": "http://penelope.uchicago.edu/hydrionoframes/hydrio5.html",
+  "edition": "Hydriotaphia, Urn-Burial (1658), chapter V, Penelope reading text of Browne's works",
+  "locator": "chapter V"
+ },
+ "confidence": "high",
+ "reason": "Located in chapter V of Urn-Burial, in the position claimed, and the surrounding sentences match. The edition prints Sun with a capital, which is the wording now supplied; the locator is given in the roman numeral the work uses."
+}

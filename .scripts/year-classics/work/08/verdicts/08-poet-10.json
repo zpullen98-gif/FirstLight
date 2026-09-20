@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-10",
+ "verdict": "VERIFIED",
+ "quote": "All things are changing; nothing dies.",
+ "source": "Ovid, Metamorphoses, Book XV, line 165 (Pythagoras) (trans. Frank Justus Miller, Loeb Classical Library, 1916)",
+ "speaker": "Pythagoras",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Downloaded the scanned text of the Loeb Metamorphoses and read the passage: the Latin omnia mutantur, nihil interit carries the marginal line number 165, and Miller’s facing English on the page numbered 377 reads All things are changing; nothing dies, inside Pythagoras’s speech. The Loeb Classical Library’s own page for LCL 43, p. 377 returns the same sentence.",
+  "url": "https://archive.org/download/ovid-metamorphoses-loeb/Ovid_Metamorphoses_Loeb_djvu.txt",
+  "edition": "Frank Justus Miller, Ovid: Metamorphoses, Loeb Classical Library vol. 2 (LCL 43), Heinemann and Putnam, 1916, p. 377",
+  "locator": "Metamorphoses XV.165"
+ },
+ "confidence": "high",
+ "reason": "Wording, book, line, translator and edition all check against the scanned Loeb page, and the speaker is Pythagoras, who is named in the source as the rules require. Ovid is at no count for the year and is not banned."
+}

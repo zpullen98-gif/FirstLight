@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "The art of losing isn’t hard to master; / so many things seem filled with the intent / to be lost that their loss is no disaster.",
+ "source": "Elizabeth Bishop, One Art, lines 1 to 3, Geography III (Farrar, Straus and Giroux, 1976)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Academy of American Poets reading text of One Art, checked for the first three lines, their end punctuation and their line head capitals; reference accounts of the poem confirm first publication in 1976 and collection in Geography III the same year.",
+  "url": "https://poets.org/poem/one-art",
+  "edition": "Geography III (New York: Farrar, Straus and Giroux, 1976)",
+  "locator": "lines 1 to 3, the opening tercet"
+ },
+ "confidence": "high",
+ "reason": "The opening tercet matches word for word, with the semicolon after master and the full stop after disaster, and lines two and three keep the poet's lower case line heads, which the shipped quotation preserves. The line is unshipped and Bishop is not at the cap."
+}

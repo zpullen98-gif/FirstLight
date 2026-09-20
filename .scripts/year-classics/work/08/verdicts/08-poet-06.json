@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-06",
+ "verdict": "CORRECTED",
+ "quote": "Nothing beside remains. Round the decay / Of that colossal wreck, boundless and bare / The lone and level sands stretch far away.",
+ "source": "Percy Bysshe Shelley, ‘Ozymandias’, lines 12 to 14, Rosalind and Helen, A Modern Eclogue; with Other Poems (C. and J. Ollier, 1819)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "The wording quoted, with colossal wreck in lower case, is that of the collected volume of 1819. The first printing, in The Examiner of 11 January 1818, reads colossal Wreck, so the citation has been moved to the book in which Shelley gathered the poem.",
+ "evidence": {
+  "where": "Two transcriptions of the 1818 Examiner printing were read, one a line by line transcription of that number and one a scholarly text built on the Bodleian manuscript with readings from the 1819 volume; both print Wreck with a capital W. The text labelled as the 1819 Rosalind and Helen printing prints colossal wreck entirely in lower case, with no comma after bare and a full stop after away, which is the wording proposed. The three lines are the closing lines of the sonnet, so the fame test holds. No speaker is named because the closing lines sit inside the traveller's report in some printings and outside it in others, and no printing gives the traveller a name.",
+  "url": "https://en.wikipedia.org/wiki/Ozymandias",
+  "edition": "Rosalind and Helen, A Modern Eclogue; with Other Poems, London: C. and J. Ollier, 1819",
+  "locator": "lines 12 to 14, the closing lines"
+ },
+ "confidence": "high",
+ "reason": "The lines are Shelley's and the wording is real, but it belongs to the 1819 collected printing and not to the 1818 Examiner printing the proposal named, which capitalises Wreck."
+}

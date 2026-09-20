@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-01",
+ "verdict": "VERIFIED",
+ "quote": "A classic is a book that has never finished saying what it has to say.",
+ "source": "Italo Calvino, Why Read the Classics?, definition 6, The New York Review of Books, 9 October 1986 (trans. Patrick Creagh)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The New York Review of Books text of Why Read the Classics? was read: the sentence stands as the numbered definition 6, between definition 5 on every reading of a classic being a rereading and definition 7 on the traces of previous readings, and the article credits the translation to Patrick Creagh. The later Martin McLaughlin translation renders the same definition as a book which has never exhausted all it has to say to its readers, so the wording proposed is Creagh's and the source must name him.",
+  "url": "https://www.nybooks.com/articles/1986/10/09/why-read-the-classics/",
+  "edition": "The New York Review of Books, 9 October 1986, trans. Patrick Creagh, English translation copyright Harcourt Brace Jovanovich",
+  "locator": "definition 6 of fourteen"
+ },
+ "confidence": "high",
+ "reason": "The wording, the number of the definition and the translator all hold in the 1986 Creagh translation, which is the one this wording comes from."
+}

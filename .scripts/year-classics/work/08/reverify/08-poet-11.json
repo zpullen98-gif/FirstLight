@@ -1,0 +1,17 @@
+{
+ "id": "08-poet-11",
+ "verdict": "CORRECTED",
+ "quote": "But where are the snows of yester-year?",
+ "source": "François Villon, The Ballad of Dead Ladies, the refrain, line 8 (trans. Dante Gabriel Rossetti, 1870)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected the citation. Page 237 belongs to the Complete Poetical Works of 1887, not to the Poems of 1870 where the translation stands at pages 176 to 177, so the refrain is now located by line in Rossetti’s translation of 1870. The wording of the refrain is unchanged.",
+ "evidence": {
+  "where": "Downloaded the full text of Rossetti’s Poems (Boston: Roberts Brothers, 1870) from the Internet Archive item poemsros00rossuoft and read the poem as printed. It stands under the heading Three Translations from François Villon, 1450, listed in the contents at page 176, with the refrain spelled yester-year at lines 8, 16, 24 and in the envoy. Representative Poetry Online prints the identical wording from the Complete Poetical Works of 1887, pages 237 to 238, so there is no drift between the two editions.",
+  "url": "https://archive.org/download/poemsros00rossuoft/poemsros00rossuoft_djvu.txt",
+  "edition": "Dante Gabriel Rossetti, Poems (Boston: Roberts Brothers, 1870), pp. 176 to 177; corroborated by The Complete Poetical Works of Dante Gabriel Rossetti, ed. W. M. Rossetti (Roberts Brothers, 1887), pp. 237 to 238",
+  "locator": "The Ballad of Dead Ladies, line 8, the first of the four appearances of the refrain"
+ },
+ "confidence": "high",
+ "reason": "The refuter attacked the bibliography, not the line, and was right: the proposal and the first verdict pair page 237, which is a page of the 1887 Complete Poetical Works, with the year 1870, which is the year of Poems, so the reader is sent to a page in a book that does not exist under that date. I read the 1870 Roberts Brothers printing myself and the translation is there at pages 176 to 177, refrain hyphenated exactly as proposed, which settles the one doubt Wikipedia raised by dating Rossetti’s Villon to a sixth edition of 1872. Locating the refrain by line rather than by a borrowed page fixes the defect without claiming a page I have not seen in the edition whose year is named. Everything else holds: Villon and Rossetti are both at 0 of 3 and neither is banned, shipped.js finds nothing shipped and nothing near for three renderings of the line, the question mark is allowed, the single verse line needs no slashes, the source is 100 characters with no dash, and the ubi sunt refrain is the August theme in one question."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-11",
+ "verdict": "VERIFIED",
+ "quote": "The remedy for unpredictability, for the chaotic uncertainty of the future, is contained in the faculty to make and keep promises.",
+ "source": "Hannah Arendt, The Human Condition, chapter V, section 33 (University of Chicago Press, 1958)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Two independent readings of section 33 agree on the wording and the placement: a long quotation of the passage in The Marginalian, which prints the sentence on forgiving immediately before it, and a university course reader on chapter V that cites the same passage at p. 237.",
+  "url": "https://www.themarginalian.org/2021/07/14/hannah-arendt-forgiveness/",
+  "edition": "The Human Condition (University of Chicago Press, 1958), chapter V, Action",
+  "locator": "section 33, Irreversibility and the Power To Forgive"
+ },
+ "confidence": "medium",
+ "reason": "The sentence is the second of the paired remedies that open section 33, where Arendt names forgiving against irreversibility and promising against unpredictability, and the wording matches. The page is commonly given as 237, but no scan of the page itself was opened, so the shipped source stops at the section."
+}

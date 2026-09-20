@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-05",
+ "verdict": "CORRECTED",
+ "quote": "I am certain of nothing but of the holiness of the Heart’s affections, and the truth of Imagination.",
+ "source": "John Keats, letter to Benjamin Bailey, 22 November 1817, Letters of John Keats to His Family and Friends, p. 41 (ed. Sidney Colvin, 1891)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "The citation now names the edition whose wording this is: Sidney Colvin's 1891 Letters of John Keats to His Family and Friends, p. 41, which prints a comma after affections. The Rollins text of 1958 could not be opened, and reference books citing it give a shorter reading without the second of.",
+ "evidence": {
+  "where": "Colvin's 1891 edition, in two independent scans, with Milnes 1848 agreeing on the reading",
+  "edition": "Letters of John Keats to His Family and Friends, ed. Sidney Colvin (Macmillan, 1891)",
+  "locator": "p. 41, letter to Benjamin Bailey, 22 November 1817",
+  "url": "https://archive.org/download/india.history.resource.111526/111526_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is on p. 41 of Colvin's 1891 edition and reads 'I am certain of nothing but of the holiness of the Heart's affections, and the truth of Imagination.' The Gutenberg text of the same edition and Milnes's 1848 Life, Letters, and Literary Remains agree word for word, so only the comma and the named edition needed fixing."
+}

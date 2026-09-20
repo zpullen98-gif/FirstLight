@@ -1,0 +1,9 @@
+{
+ "ok": false,
+ "problems": [
+  "The report's women count is wrong: it claims 12, but only 11 of the 31 lines are by women (days 2, 3, 4, 6, 8, 10, 13, 18, 19, 21, 22). The target of at least 8 is still met, so this is a metadata correction, not a reselection.",
+  "The report's country table is wrong: it lists Germany 1, but no entry in the month is by a German author, and the listed counts for the other twelve countries sum to 30, not 31. Recount the table before it is trusted; the at-most-10 cap is still met either way (United States 8).",
+  "Day 15 (Kobayashi Issa, the dew verse) does not end in a full stop, question mark or exclamation mark: it ends in a suspension ellipsis, 'And yet . . .'. The last character is a period only incidentally. Either close the quotation at a stop or record the ellipsis as a deliberate exception in the note.",
+  "Day 26 (F. Scott Fitzgerald, The Notebooks, section E, entry 335) is tagged Diary, but the Notebooks are a commonplace book of epigrams, not a dated journal, and this entry is a wisecrack rather than an entry made on a day. Either retag it (Essay is the nearest honest tag in the closed vocabulary) or add a note saying why the Diary tag is being stretched."
+ ]
+}

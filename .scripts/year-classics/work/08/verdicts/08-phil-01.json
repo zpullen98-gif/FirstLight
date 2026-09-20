@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-01",
+ "verdict": "VERIFIED",
+ "quote": "Wherefore he resolved to have a moving image of eternity, and when he set in order the heaven, he made this image eternal but moving according to number, while eternity itself rests in unity; and this image we call time.",
+ "source": "Plato, Timaeus, 37d (trans. Benjamin Jowett, 1892)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Read the full Jowett Timaeus text and searched it directly; the sentence stands in the dialogue itself, not in Jowett’s introduction, and matches the proposal word for word and stop for stop.",
+  "url": "https://www.gutenberg.org/cache/epub/1572/pg1572.txt",
+  "edition": "Benjamin Jowett, The Dialogues of Plato, third edition, 1892",
+  "locator": "Timaeus 37d"
+ },
+ "confidence": "high",
+ "reason": "The wording is exactly Jowett’s, in the passage that follows the maker’s wish to make the universe eternal, and 37d is the standard Stephanus locator for the moving image of eternity. Plato stands at two lines for the year, so a third is within the cap."
+}

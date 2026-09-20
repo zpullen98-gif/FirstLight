@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-07",
+ "verdict": "VERIFIED",
+ "quote": "Switzerland is a country where very few things begin, but many things end.",
+ "source": "F. Scott Fitzgerald, The Notebooks of F. Scott Fitzgerald, section E, Epigrams, Wise Cracks and Jokes, entry 335 (ed. Bruccoli, 1978)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "A continuous transcription of section E of the Notebooks, read this run in sequence: entry 334 is the Pthodemy Club note, 335 is this sentence, 336 is the snot machine. The numbering is Bruccoli's, the only numbered edition. The novel was also checked and ruled out: the Project Gutenberg Australia text of Tender Is the Night holds five occurrences of Switzerland and none is this sentence.",
+  "edition": "The Notebooks of F. Scott Fitzgerald, ed. Matthew J. Bruccoli, Harcourt Brace Jovanovich, 1978",
+  "locator": "section E, Epigrams, Wise Cracks and Jokes, entry 335",
+  "url": "http://fitzgerald.narod.ru/notes/notebooks_e.html"
+ },
+ "confidence": "medium",
+ "reason": "The wording, the section and the entry number all hold, and the sentence sits where the proposal said it sits, so it ships as proposed with the work, the section and the number in the source. The quote sites hang this line on Tender Is the Night, and that is wrong: the novel says Switzerland was an island, washed on one side by the waves of thunder, which is a different sentence, so the notebook citation is the one that survives. Confidence is medium rather than high because the printed Bruccoli page was not opened, only a transcription of it, and the entry number cannot be confirmed against the leaf itself."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "As autumn advances, the Tsuchimikado mansion looks unutterably beautiful.",
+ "source": "Murasaki Shikibu, The Diary of Lady Murasaki, the opening sentence (trans. Richard Bowring, 1996)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "The Wikipedia article on The Diary of Lady Murasaki gives the opening of Richard Bowring’s translation in exactly this wording, continuing with the branches by the lake and the tufts of grass on the banks of the stream taking on their colour in the evening light. Penguin Classics published Bowring’s translation under this title in 1996, a revision of his 1982 Princeton version; the Wikipedia footnote cites a later Penguin reprint of the same text.",
+  "url": "https://en.wikipedia.org/wiki/The_Diary_of_Lady_Murasaki",
+  "edition": "The Diary of Lady Murasaki, trans. Richard Bowring (Penguin Classics, 1996)",
+  "locator": "the opening sentence"
+ },
+ "confidence": "high",
+ "reason": "The line is the first sentence of the diary in the named translation, in this wording, and the fame test is the opening. Translator and year are named, the tag is Diary, and the eleventh century Japanese source widens the month."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-10",
+ "verdict": "CORRECTED",
+ "quote": "Attachment is a manufacturer of illusions and whoever wants reality ought to be detached.",
+ "source": "Simone Weil, Gravity and Grace, Detachment, p. 59 (trans. Arthur Wills, 1952)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected the locator. The sentence stands in the chapter Detachment on page 59 of the Wills translation, published by Putnam in New York in 1952, not on page 13. The wording is verbatim in that text.",
+ "evidence": {
+  "where": "Internet Archive scan of Gravity and Grace in the Arthur Wills translation, full text read directly; the sentence follows the paragraph on affliction and attachment and precedes As soon as we know that something is real.",
+  "url": "https://ia902904.us.archive.org/31/items/gravityandgrace/Gravity%20and%20grace_djvu.txt",
+  "edition": "Gravity and Grace, trans. Arthur Wills (G. P. Putnam's Sons, New York, 1952)",
+  "locator": "Detachment, p. 59"
+ },
+ "confidence": "high",
+ "reason": "The wording is exactly the Wills translation and was read on the page, so the named translator is right. Only the page was wrong: the chapter Detachment opens at p. 57 and this sentence sits on p. 59."
+}

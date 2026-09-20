@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-06",
+ "verdict": "CORRECTED",
+ "quote": "No entertainment is so cheap as reading, nor any pleasure so lasting.",
+ "source": "Lady Mary Wortley Montagu, letter to the Countess of Bute, 28 January 1753, The Letters and Works, vol. 2, p. 236 (ed. W. Moy Thomas, 1898)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "The date is corrected. The sentence stands in the letter to the Countess of Bute written from Lovere on 28 January 1753, about the education of her granddaughter. The quotation books date it 30 May 1756 and cite Halsband, which could not be opened. Two printed editions carry the 1753 date.",
+ "evidence": {
+  "where": "the 1803 Works, vol. 4, and the 1898 Letters and Works, vol. 2, both read verbatim",
+  "edition": "The Letters and Works of Lady Mary Wortley Montagu, ed. Lord Wharncliffe, revised W. Moy Thomas (1898), vol. 2",
+  "locator": "p. 236, letter to the Countess of Bute, Lovere, 28 January N.S. 1753",
+  "url": "https://archive.org/download/lettersworksofla0002wmoy/lettersworksofla0002wmoy_djvu.txt"
+ },
+ "confidence": "medium",
+ "reason": "The wording is exact in two printed editions, both of which head the letter 'To the Countess of Bute, Louvere, Jan. 28, N.S. 1753', and the sentence appears only once in either. The 30 May 1756 date and the Halsband page come from quotation reference books that could not be checked against Halsband himself, and those two editions share one textual lineage, so the date is corrected but not beyond question."
+}

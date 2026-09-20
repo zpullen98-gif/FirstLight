@@ -1,0 +1,17 @@
+{
+ "id": "08-phil-04",
+ "verdict": "CORRECTED",
+ "quote": "Firewood becomes ash, and it does not become firewood again. Yet, do not suppose that the ash is after and the firewood before.",
+ "source": "Dōgen, Shōbōgenzō, Genjōkōan, section 6, Enlightenment Unfolds, pp. 35 to 39 (trans. Robert Aitken and Kazuaki Tanahashi, 1999)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Two corrections. The translation is by Robert Aitken and Kazuaki Tanahashi together, not Tanahashi alone, and section 6 of Enlightenment Unfolds is added. Dōgen's own next sentence is restored to the quotation, because the first sentence alone asserts the one way passage he immediately tells the reader not to suppose.",
+ "evidence": {
+  "where": "Fetched the Genjōkōan parallel concordance and extracted the Aitken and Tanahashi column section by section instead of reading around one sentence. Both sentences are verbatim there. The credit line on that column reads: Actualizing the Fundamental Point, tr. Robert Aitken and Kazuaki Tanahashi, revised at San Francisco Zen Center and later at Berkeley Zen Center, published in Tanahashi, Enlightenment Unfolds, Boston, Shambhala, 35 to 9, earlier version in Moon in a Dewdrop, 69 to 73. I checked the section number rather than accepting it: in that column section 4 is 'To study the buddha way is to study the self', which is the line the house shipped in month 04 as section 4, and the firewood passage is section 6, so the numbering matches house practice exactly. The concordance credit prints the year as 2000; Open Library records Enlightenment Unfolds, Shambhala, first published 1999 with printings in 1999 and 2000, so 1999 stands.",
+  "url": "https://terebess.hu/zen/dogen/KS-Genjo.html",
+  "edition": "Kazuaki Tanahashi, Enlightenment Unfolds, Boston, Shambhala, 1999, pages 35 to 39",
+  "locator": "Shōbōgenzō, Genjōkōan, section 6"
+ },
+ "confidence": "high",
+ "reason": "The wording survives, so this is a fix. Two things were wrong: the source line named no section or page at all, where month 04 ships the same fascicle with section and page, and it credited Tanahashi alone. The heavier fault is the sense. The proposed single sentence states the one way irreversibility that Dōgen forbids in his very next words, and the brief keeps a standing rule that a real line which is nearly always misread ships only with its gloss. Restoring the second sentence, verbatim in the same printing, is self correcting on the card and keeps the month from reading bleak. shipped.js on the two sentence line returns no match and no near match, Dōgen at one of three, not banned."
+}

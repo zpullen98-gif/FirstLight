@@ -1,0 +1,17 @@
+{
+ "id": "08-cfl-05",
+ "verdict": "CORRECTED",
+ "quote": "The world of dew / Is the world of dew, / And yet . . . / And yet . . .",
+ "source": "Kobayashi Issa, The Year of My Life, pp. 103 to 104, the elegy for his daughter (trans. Nobuyuki Yuasa, 1960)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected the locator. The dew verse stands in the passage on the death of Issa's daughter, at pages 103 to 104 of Yuasa's translation. It is not the closing haiku of Oraga Haru, which ends on a separate verse about trusting the Buddha as the year runs out.",
+ "evidence": {
+  "where": "The San Mateo Buddhist Temple prints the passage and the haiku from Yuasa's translation with exactly this four line lineation and these capitals, citing Nobuyuki Yuasa, The Year of My Life: A Translation of Issa's Oraga Haru, pages 103 to 104. A second source quoting Yuasa gives the identical four lines and the same pages. Reference readings on Oraga Haru agree that the concluding poem of the work is nanigoto mo anata makase no toshi no kure, the year ending in trust in Amida, not the dew verse, which is why the proposal's closing haiku was struck. Yuasa's translation was published by the University of California Press in 1960 and revised in 1972.",
+  "url": "https://sanmateobuddhisttemple.org/from-issas-the-year-of-my-life/",
+  "edition": "Kobayashi Issa, The Year of My Life: A Translation of Issa's Oraga Haru, trans. Nobuyuki Yuasa, University of California Press, 1960",
+  "locator": "pp. 103 to 104, in the passage on the death of his daughter"
+ },
+ "confidence": "medium",
+ "reason": "The wording, the four line lineation and the page range are Yuasa's and agree across two sources that quote the book, but no scan of the page itself was opened, so the page range is carried on their authority rather than on sight. The only substantive error was the claim that this is the closing haiku, which it is not. Issa stands twice in the year, in February and April, so this is his third and last."
+}

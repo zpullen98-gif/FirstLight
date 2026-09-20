@@ -1,0 +1,17 @@
+{
+ "id": "08-fict-12",
+ "verdict": "CORRECTED",
+ "quote": "Time is the substance I am made of. Time is a river which sweeps me along, but I am the river; it is a tiger which destroys me, but I am the tiger; it is a fire which consumes me, but I am the fire.",
+ "source": "Jorge Luis Borges, Other Inquisitions, A New Refutation of Time, the closing paragraph (trans. Ruth L. C. Simms, 1964)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "The proposal stopped at the river and put a full stop where Simms has a semicolon. The sentence runs on through the tiger and the fire, and it is restored here in the wording of the 1964 translation.",
+ "confidence": "high",
+ "evidence": {
+  "where": "Reference readings of the Simms translation, which is named as the first English version of Otras inquisiciones, agree on this wording with which and destroys and on the semicolons; the paragraph begins And yet, and yet and ends with the sentence about the world being real. The printed 1964 volume was not opened.",
+  "url": "https://en.wikiquote.org/wiki/Jorge_Luis_Borges",
+  "edition": "Other Inquisitions, 1937 to 1952, trans. Ruth L. C. Simms (University of Texas Press, 1964)",
+  "locator": "A New Refutation of Time, closing paragraph"
+ },
+ "reason": "The passage is real and stands where the proposal says, but the quotation had been cut mid sentence and repunctuated, which is the kind of silent alteration the standard forbids. The full sentence is supplied in the named translation’s wording."
+}
