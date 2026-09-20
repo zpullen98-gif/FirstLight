@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-08",
+ "verdict": "CORRECTED",
+ "quote": "We never know how high we are / Till we are called to rise; / And then, if we are true to plan, / Our statures touch the skies.",
+ "source": "Emily Dickinson, ‘We never know how high we are’ (Fr1197, J1176), Poems, Third Series, ed. Mabel Loomis Todd, Life XIV (1896)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: Aspiration is Mabel Loomis Todd’s title, not Dickinson’s, so the poem is cited by its first line and its standard numbers, and the Life section is restored. The wording is Todd’s 1896 text. Editions from the manuscripts read asked to rise in line 2.",
+ "evidence": {
+  "where": "The 1896 first edition itself, the Roberts Brothers scan at archive.org, item poemsthird00dickuoft, downloaded and read this run: the running head POEMS. 27 stands above XIV. ASPIRATION and the next folio 28 POEMS. follows the last line, so the poem sits whole on page 27. Project Gutenberg 12242 agrees word for word, and its Third Series preface is signed M. L. T., Amherst, October 1896. The scan backed Wikisource transcription of the 1924 Complete Poems, page 73, prints the same Todd text as poem XCVII. The manuscript reading was traced through Open Library full text search, which returns 135 printings of Till we are asked to rise, one of them an editorial variant note giving 1.2 asked to rise and 1.6 a normal thing against the text it annotates. The numbers come from the Wikipedia Dickinson concordance, whose columns are headed J# and Fr# after Johnson 1960 and Franklin 1998, and whose row gives first publication 1896, 1896 position 1.014 and 1924 position 1.097, both of which I confirmed at the scans.",
+  "edition": "Poems by Emily Dickinson, Third Series, edited by Mabel Loomis Todd (Boston: Roberts Brothers, 1896), Part I Life, poem XIV, page 27",
+  "locator": "Life XIV, titled Aspiration by Todd, lines 1 to 4 of 8, page 27; Johnson 1176, Franklin 1197",
+  "url": "https://archive.org/download/poemsthird00dickuoft/poemsthird00dickuoft_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The refutation does not break a word of the citation and I could not break one either. The 1896 text is exact at the first edition scan, semicolon after rise and full stop after skies included, so the wording ships inside a named edition as the standard requires. What was wrong was what the card did not say. It printed Todd’s invented title Aspiration as though it were the poem’s name, dropped the Life section, carried no numbers, and left the note empty, which would have put one Dickinson card under a Victorian editor’s title beside two already landed under first line and Franklin number. The source now matches those two, and the note discloses that the title is Todd’s and that editions from the manuscripts read asked to rise. I confirm that variant as far as the public record allows: the two public domain printings, 1896 and the Todd derived 1924, both read called, while the asked reading is attested in 135 full text hits including a variant note that also gives a normal thing for the 1896 a daily thing. Johnson and Franklin are in copyright and I did not open either, which is why the note says editions from the manuscripts rather than naming one. shipped.js: not shipped, nothing near, Emily Dickinson at 2 of 3 from months 1 and 2, not banned, so this takes her last slot of the year; the ledger confirms the April and June Dickinson lines went unused. In scope, verse, publishable, and on theme, since it says the measurement only happens once the day asks."
+}

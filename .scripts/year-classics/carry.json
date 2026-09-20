@@ -48,15 +48,6 @@
   },
   {
    "fromMonth": 1,
-   "id": "01-cfl-16",
-   "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
-   "source": "Ernest Hemingway, The Old Man and the Sea, unchaptered, after the first shark (Santiago) (Scribner, 1952)",
-   "tradition": "Fiction",
-   "note": "Verified in the 1952 Scribner text; Santiago says it aloud. A courage line.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 1,
    "id": "01-fict-03",
    "quote": "Barrabás came to us by sea, the child Clara wrote in her delicate calligraphy.",
    "source": "Isabel Allende, The House of the Spirits, chapter 1, the opening sentence (trans. Magda Bogin, 1985)",
@@ -75,48 +66,12 @@
   },
   {
    "fromMonth": 1,
-   "id": "01-fict-13",
-   "quote": "And it seemed as though in a little while the solution would be found, and then a new and splendid life would begin; and it was clear to both of them that they had still a long, long road before them, and that the most complicated and difficult part of it was only just beginning.",
-   "source": "Anton Chekhov, The Lady with the Dog, section IV, the closing sentence (trans. Constance Garnett, 1917)",
-   "tradition": "Fiction",
-   "note": "Verified closing line. Chekhov appears in January with Trofimov’s Welcome to the new life; one person per month.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 1,
    "id": "01-phil-04",
    "quote": "If it were customary to send daughters to school like sons, and if they were then taught the natural sciences, they would learn as thoroughly and understand the subtleties of all the arts and sciences as well as sons.",
    "source": "Christine de Pizan, The Book of the City of Ladies, Part I, ch. 27, p. 63 (Lady Reason) (trans. Earl Jeffrey Richards, 1982)",
    "tradition": "Philosophy",
    "note": "Corrected to Richards 1982; the little girls wording is Rosalind Brown-Grant, Penguin 1999. Page 63 is the 1982 Persea printing; the 1998 reissue paginates differently. Lady Reason speaks. A justice line.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 1,
-   "id": "01-poet-02",
-   "quote": "Tell me about a complicated man.",
-   "source": "Homer, The Odyssey, Book 1, line 1 (trans. Emily Wilson, 2017)",
-   "tradition": "Poetry",
-   "note": "Verified opening line of Wilson’s Odyssey. Held because January had more openings than days; a line for hard roads.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 1,
-   "id": "01-poet-03",
-   "quote": "Although the wind blows terribly here, the moonlight also leaks between the roof planks of this ruined house.",
-   "source": "Izumi Shikibu, ‘Although the wind’, The Ink Dark Moon (trans. Jane Hirshfield with Mariko Aratani, 1988)",
-   "tradition": "Poetry",
-   "note": "Verified in Hirshfield and Aratani. A stillness line.",
-   "fitMonth": 10
-  },
-  {
-   "fromMonth": 1,
-   "id": "01-poet-05",
-   "quote": "No coward soul is mine, no trembler in the world’s storm-troubled sphere: I see Heaven’s glories shine, and faith shines equal, arming me from fear.",
-   "source": "Emily Brontë, No Coward Soul Is Mine, lines 1 to 4, Wuthering Heights and Agnes Grey, with Literary Remains of Ellis Bell (1850)",
-   "tradition": "Poetry",
-   "note": "Verified in the 1850 text as reprinted in 1908. A courage line.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 1,
@@ -264,30 +219,12 @@
   },
   {
    "fromMonth": 2,
-   "id": "02-poet-07",
-   "quote": "For there is no friend like a sister / In calm or stormy weather; / To cheer one on the tedious way, / To fetch one if one goes astray, / To lift one if one totters down, / To strengthen whilst one stands.",
-   "source": "Christina Rossetti, Goblin Market, lines 562 to 567, Goblin Market and Other Poems (Macmillan, 1862) (Laura)",
-   "tradition": "Poetry",
-   "note": "Verified, the closing lines of the poem. Lifting one who totters is a trial line.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 2,
    "id": "02-poet-09",
    "quote": "Here is thy footstool and there rest thy feet where live the poorest, and lowliest, and lost.",
    "source": "Rabindranath Tagore, Gitanjali (Song Offerings), poem 10, opening sentence (the author’s own English, 1912)",
    "tradition": "Poetry",
    "note": "Verified in the Macmillan text; a prose poem, so no line breaks. January routed Light, my light to December; one Tagore per month.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 2,
-   "id": "02-poet-13",
-   "quote": "My heart is moved by all I cannot save: / so much has been destroyed / I have to cast my lot with those / who age after age, perversely, / with no extraordinary power, / reconstitute the world.",
-   "source": "Adrienne Rich, Natural Resources, closing six lines, The Dream of a Common Language (W. W. Norton, 1978)",
-   "tradition": "Poetry",
-   "note": "Verified against three postings crediting the 1978 edition; the Norton page itself was not opened. A trial line.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 2,
@@ -354,24 +291,6 @@
   },
   {
    "fromMonth": 3,
-   "id": "03-poet-02",
-   "quote": "I know now, I understand at last, Constantine, that for us, whether we write or act, it is not the honour and glory of which I have dreamt that is important, it is the strength to endure.",
-   "source": "Anton Chekhov, The Sea-Gull, Act IV, to Treplieff (Nina) (trans. Marian Fell, 1912)",
-   "tradition": "Drama",
-   "note": "CORRECTED: the locator is Act IV, to Treplieff, not her last speech; she speaks twice more. Wording is Fell’s, p. 220 of the 1912 Scribner volume. Chekhov landed in March with the letter to Nikolay and stands at two of three. The strength to endure: July.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 3,
-   "id": "03-poet-10",
-   "quote": "But he that dares not grasp the thorn / Should never crave the rose.",
-   "source": "Anne Brontë, The Narrow Way (1848), lines 15 to 16, in The Complete Poems of Anne Brontë (ed. Clement Shorter, 1920), p. 145",
-   "tradition": "Poetry",
-   "note": "Verified in Shorter’s 1920 Complete Poems, p. 145: he that, not he who. Add the page to the source. Held to keep March under the cap for lines originally in English.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 3,
    "id": "03-poet-12",
    "quote": "I’ve learned to live simply, wisely, / To look at the sky and pray to God, / And to take long walks before evening / To wear out this useless anxiety.",
    "source": "Anna Akhmatova, ‘I’ve learned to live simply, wisely’ (1912), Rosary (1914), lines 1 to 4 (trans. Judith Hemschemeyer, 1990)",
@@ -405,15 +324,6 @@
    "tradition": "Philosophy",
    "note": "Verified in the 1792 text, immediately after the Rousseau quotation. Carried to March and not used, to hold the count of lines originally in English; power over themselves is also what September means by justice.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 4,
-   "id": "04-fict-04",
-   "quote": "Life shrinks or expands in proportion to one’s courage.",
-   "source": "Anaïs Nin, The Diary of Anaïs Nin, Volume Three: 1939 to 1944, the entry of June 1941, ed. Gunther Stuhlmann (1969)",
-   "tradition": "Diary",
-   "note": "Verified. A courage line before it is a renewal line, so it goes to the month that is about courage.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 4,
@@ -480,15 +390,6 @@
   },
   {
    "fromMonth": 4,
-   "id": "04-poet-08",
-   "quote": "I will mount a long wind some day and break the heavy waves / And set my cloudy sail straight and bridge the deep, deep sea.",
-   "source": "Li Bai, The Hard Road, closing couplet, The Jade Mountain, p. 70 (trans. Witter Bynner, 1929)",
-   "tradition": "Poetry",
-   "note": "Verified. One Bynner poem landed already and only one may stand in a month, and the hard road is a courage line.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 4,
    "id": "04-poet-09",
    "quote": "The time that my journey takes is long and the way of it long. I came out on the chariot of the first gleam of light, and pursued my voyage through the wildernesses of worlds leaving my track on many a star and planet.",
    "source": "Rabindranath Tagore, Gitanjali (Song Offerings), poem 12, opening two paragraphs (trans. the author, 1912)",
@@ -525,30 +426,12 @@
   },
   {
    "fromMonth": 4,
-   "id": "01-poet-12",
-   "quote": "Yes, of course it hurts when buds are breaking. Why else would the springtime falter?",
-   "source": "Karin Boye, Yes, Of Course It Hurts, lines 1 and 2, För trädets skull (1935) (trans. David McDuff, 1994)",
-   "tradition": "Poetry",
-   "note": "Verified in McDuff. Held because April landed the other Boye, and one person may stand once a month; the pain of growth suits the month of courage.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 4,
    "id": "02-cfl-02",
    "quote": "Travel is fatal to prejudice, bigotry and narrow-mindedness, and many of our people need it sorely on these accounts. Broad, wholesome, charitable views of men and things can not be acquired by vegetating in one little corner of the earth all one’s lifetime.",
    "source": "Mark Twain, The Innocents Abroad, Conclusion (American Publishing Company, 1869)",
    "tradition": "Essay",
    "note": "Verified in the 1869 first edition, p. 650, and the real text behind Calendar For Life candidate 1. It argues against prejudice, so it goes to the month of justice.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 4,
-   "id": "02-cfl-05",
-   "quote": "The wide world is all about you: you can fence yourselves in, but you cannot for ever fence it out.",
-   "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, chapter 3, Three is Company (George Allen and Unwin, 1954) (Gildor Inglorion)",
-   "tradition": "Fiction",
-   "note": "Verified with the two-word for ever. Tolkien's small hands is already held for September, so this goes to July.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 4,
@@ -606,24 +489,6 @@
   },
   {
    "fromMonth": 5,
-   "id": "05-cfl-10",
-   "quote": "That’s no way to treat adventures. Never say ‘no’ to adventures. Always say ‘yes’, otherwise you’ll lead a very dull life.",
-   "source": "Ian Fleming, Chitty-Chitty-Bang-Bang: The Magical Car, Adventure Number Two (Commander Caractacus Pott) (Jonathan Cape, 1964)",
-   "tradition": "Fiction",
-   "note": "Verified. Held: Commander Pott’s counsel is about saying yes to danger, which suits a month of trial.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 5,
-   "id": "05-cfl-12",
-   "quote": "Courage is found in unlikely places.",
-   "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, ch. 3, Three is Company (Gildor Inglorion)",
-   "tradition": "Fiction",
-   "note": "Verified. Held: Gildor’s line names courage, and one Tolkien a month is the rule.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 5,
    "id": "05-fict-03",
    "quote": "It is not enough to be industrious; so are the ants. What are you industrious about?",
    "source": "Henry David Thoreau, Familiar Letters, ed. F. B. Sanborn, to Harrison Blake, Concord, 16 November 1857, p. 371 (Houghton Mifflin, 1894)",
@@ -648,24 +513,6 @@
    "tradition": "Fiction",
    "note": "Corrected: the full stop marks a cut at a complete clause. Held: libraries as granaries is a public duty, not private counsel.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 5,
-   "id": "05-phil-02",
-   "quote": "So true is it that nothing is wretched, but thinking makes it so, and conversely every lot is happy if borne with equanimity.",
-   "source": "Boethius, The Consolation of Philosophy, Book II, Prose IV (Philosophy) (trans. H. R. James, 1897)",
-   "tradition": "Philosophy",
-   "note": "Verified. Held: Philosophy tells Boethius that nothing is wretched but thinking makes it so, which is consolation under trial.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 5,
-   "id": "05-phil-04",
-   "quote": "Trust thyself: every heart vibrates to that iron string.",
-   "source": "Ralph Waldo Emerson, Essays: First Series, Self-Reliance (James Munroe, 1841)",
-   "tradition": "Essay",
-   "note": "Verified. Held: Trust thyself is self-reliance under pressure more than counsel from an elder.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 5,
@@ -750,15 +597,6 @@
   },
   {
    "fromMonth": 5,
-   "id": "05-poet-12",
-   "quote": "Living is no laughing matter: / you must live with great seriousness / like a squirrel, for example— / I mean without looking for something beyond and above living, / I mean living must be your whole occupation.",
-   "source": "Nâzim Hikmet, On Living, Part I, opening lines, in Poems of Nazim Hikmet (trans. Randy Blasing and Mutlu Konuk, 1994)",
-   "tradition": "Poetry",
-   "note": "Verified. Held: living with great seriousness is a charge to hold on, which is July.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 5,
    "id": "05-poet-13",
    "quote": "I got out of bed / on two strong legs. / It might have been / otherwise.",
    "source": "Jane Kenyon, Otherwise, lines 1 to 4, the fourth cut at its full stop, Otherwise: New and Selected Poems (Graywolf, 1996)",
@@ -822,15 +660,6 @@
   },
   {
    "fromMonth": 5,
-   "id": "03-poet-01",
-   "quote": "Refrain tonight, / And that shall lend a kind of easiness / To the next abstinence, the next more easy; / For use almost can change the stamp of nature.",
-   "source": "William Shakespeare, Hamlet, Act 3, scene 4, lines 186 to 189, Folger edition (Hamlet)",
-   "tradition": "Drama",
-   "note": "Verified in the Folger text. NOT AVAILABLE: Shakespeare stands at three of three for the year and cannot land again, so this line is dead whatever month wants it.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 5,
    "id": "04-poet-12",
    "quote": "A little madness in the Spring / Is wholesome even for the King, / But God be with the Clown, / Who ponders this tremendous scene— / This whole experiment of green, / As if it were his own!",
    "source": "Emily Dickinson, ‘A little madness in the Spring’, The Single Hound, poem XXXVIII (Little, Brown, 1914)",
@@ -864,15 +693,6 @@
    "tradition": "Poetry",
    "note": "Verified in the Riverside lineation. Middle English on the page, which suits a month with room for older spelling.",
    "fitMonth": 10
-  },
-  {
-   "fromMonth": 6,
-   "id": "06-fict-04",
-   "quote": "All letters, methinks, should be free and easy as one’s discourse; not studied as an oration, nor made up of hard words like a charm.",
-   "source": "Dorothy Osborne, Letters from Dorothy Osborne to Sir William Temple, Letter 33, pp. 160 to 161 (ed. Edward Abbott Parry, 1888)",
-   "tradition": "Correspondence",
-   "note": "Corrected to Letter 33 in Parry’s edition of 1888, running across pages 160 and 161. The undated heading is kept as Parry prints it.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 6,
@@ -918,15 +738,6 @@
    "tradition": "Essay",
    "note": "Verified in the final paragraph of Gangrel, Summer 1946. Held because Orwell can stand once in a month.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 6,
-   "id": "06-fict-14",
-   "quote": "I wished to tell the truth, for truth always conveys its own moral to those who are able to receive it.",
-   "source": "Anne Brontë, The Tenant of Wildfell Hall, Preface to the Second Edition, 22 July 1848",
-   "tradition": "Essay",
-   "note": "Verified in the Preface to the second edition of 1848. A plain statement of purpose.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 6,
@@ -993,24 +804,6 @@
   },
   {
    "fromMonth": 6,
-   "id": "06-phil-16",
-   "quote": "Freedom is always and exclusively freedom for the one who thinks differently.",
-   "source": "Rosa Luxemburg, The Russian Revolution, ch. 6, The Problem of Dictatorship (trans. Bertram D. Wolfe, 1940)",
-   "tradition": "Philosophy",
-   "note": "Verified in Wolfe’s translation of 1940. Freedom for the one who thinks differently, a line about dissent.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 6,
-   "id": "06-poet-04",
-   "quote": "My way of joking is to tell the truth. It’s the funniest joke in the world.",
-   "source": "Bernard Shaw, John Bull’s Other Island, Act II, his reply to Nora Reilly (Peter Keegan)",
-   "tradition": "Drama",
-   "note": "Verified as Peter Keegan’s reply to Nora Reilly. Held because the drama lane was already full.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 6,
    "id": "06-poet-06",
    "quote": "Do any human beings ever realize life while they live it?",
    "source": "Thornton Wilder, Our Town, Act III, the graveyard scene (Emily)",
@@ -1056,15 +849,6 @@
   },
   {
    "fromMonth": 6,
-   "id": "01-cfl-08",
-   "quote": "I am large, I contain multitudes.",
-   "source": "Walt Whitman, Leaves of Grass, ‘Song of Myself’, section 51, 1881 text",
-   "tradition": "Poetry",
-   "note": "Verified; parenthetical in the source. Not a beginning line so much as a truth-and-clarity line.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 6,
    "id": "01-fict-10",
    "quote": "We tell ourselves stories in order to live.",
    "source": "Joan Didion, The White Album, the title essay, opening sentence (Simon and Schuster, 1979)",
@@ -1107,24 +891,6 @@
    "tradition": "Philosophy",
    "note": "Verified in Veitch; the 1850 date is from memory, not from a scan. Right application of the mind: a clarity line.",
    "fitMonth": 9
-  },
-  {
-   "fromMonth": 6,
-   "id": "04-phil-06",
-   "quote": "Travel is in my opinion a very profitable exercise; the soul is there continually employed in observing new and unknown things, and I do not know, as I have often said a better school wherein to model life than by incessantly exposing to it the diversity of so many other lives, fancies, and usances, and by making it relish a perpetual variety of forms of human nature.",
-   "source": "Michel de Montaigne, Essays, Book III, ch. 9, Of Vanity (trans. Charles Cotton, revised by W. Carew Hazlitt, 1877)",
-   "tradition": "Essay",
-   "note": "Verified. Another Montaigne is already held for May, so this goes on to the month of clear seeing.",
-   "fitMonth": 7
-  },
-  {
-   "fromMonth": 6,
-   "id": "03-cfl-12",
-   "quote": "You can’t get away from yourself by moving from one place to another.",
-   "source": "Ernest Hemingway, The Sun Also Rises, Book I, chapter 2 (Jake Barnes)",
-   "tradition": "Fiction",
-   "note": "Verified, Jake to Robert Cohn. It corrects the traveller rather than sending him out, so it reads as a truth line and not an April line.",
-   "fitMonth": 7
   },
   {
    "fromMonth": 6,
@@ -1217,22 +983,328 @@
    "fitMonth": 12
   },
   {
-   "fromMonth": 6,
+   "fromMonth": 7,
+   "id": "07-cfl-04",
+   "quote": "Against the assault of laughter nothing can stand.",
+   "source": "Mark Twain, The Mysterious Stranger, ch. 10 (Satan) (Harper and Brothers, 1916)",
+   "tradition": "Fiction",
+   "note": "Verified. Held: laughter is the weapon here, not endurance, so it wants the lighter month.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-cfl-06",
+   "quote": "Music was my refuge. I could crawl into the spaces between the notes and curl my back to loneliness.",
+   "source": "Maya Angelou, Singin’ and Swingin’ and Gettin’ Merry Like Christmas, chapter 1, the opening sentences (Random House, 1976)",
+   "tradition": "Essay",
+   "note": "Verified. Held: Maya Angelou stands in July with Still I Rise, and one person may stand once a month.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-fict-03",
+   "quote": "Do you not see how necessary a World of Pains and troubles is to school an Intelligence and make it a soul?",
+   "source": "John Keats, letter to George and Georgiana Keats, 14 February to 3 May 1819, the entry of 21 April (ed. Gittings, 1970)",
+   "tradition": "Correspondence",
+   "note": "Verified. Held: the world of pains that schools an intelligence is a line about becoming, not about holding.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-fict-07",
+   "quote": "I can’t do much with my hands; so I will make a battering-ram of my head and make a way through this rough-and-tumble world.",
+   "source": "Louisa May Alcott, Her Life, Letters, and Journals, letter to her father of 29 November 1856, p. 89 (ed. Ednah D. Cheney, 1889)",
+   "tradition": "Correspondence",
+   "note": "Corrected: this is not a journal entry of 1850. Cheney prints it in chapter five, Authorship, inside a letter written from Boston to her father on 29 November 1856, her twenty-fourth birthday, on page 89 of the Roberts Brothers edition. The tag becomes Correspondence. The wording is exact.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-fict-08",
+   "quote": "I will not be ‘famous’, ‘great’. I will go on adventuring, changing, opening my mind and my eyes, refusing to be stamped and stereotyped.",
+   "source": "Virginia Woolf, A Writer’s Diary, the entry of 29 October 1933 (ed. Leonard Woolf, Hogarth Press, 1953)",
+   "tradition": "Diary",
+   "note": "Verified. Held for a later month.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-fict-10",
+   "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will; which I now exert to leave you.",
+   "source": "Charlotte Brontë, Jane Eyre, vol. II, ch. 8 (ch. 23), the orchard at Thornfield (Jane Eyre) (Smith, Elder, 1847)",
+   "tradition": "Fiction",
+   "note": "Corrected: the proposal cut the sentence short and closed it with a full stop no edition prints. The 1847 Smith, Elder first edition, volume II, chapter VIII, runs on to which I now exert to leave you, with a semicolon before it. Held: Charlotte Bronte stands in July with Life.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-fict-13",
+   "quote": "The unknown, the unforetold, the unproven, that is what life is based on. Ignorance is the ground of thought. Unproof is the ground of action.",
+   "source": "Ursula K. Le Guin, The Left Hand of Darkness, ch. 5, The Domestication of Hunch (Faxe) (1969)",
+   "tradition": "Fiction",
+   "note": "Corrected: the novel reads the unproven, not the unprovable. Held: ignorance as the ground of thought is a line about not knowing rather than about courage.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-phil-02",
+   "quote": "That which does not kill me, makes me stronger.",
+   "source": "Friedrich Nietzsche, The Twilight of the Idols, Maxims and Missiles, 8 (trans. Anthony M. Ludovici, 1911)",
+   "tradition": "Philosophy",
+   "note": "Verified. Held: the most abused sentence in the trade, and at six in the morning it is harder than the month needs.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-phil-05",
+   "quote": "Nevertheless, not to extinguish our free will, I hold it to be true that Fortune is the arbiter of one-half of our actions, but that she still leaves us to direct the other half, or perhaps a little less.",
+   "source": "Niccolò Machiavelli, The Prince, chapter XXV (trans. W. K. Marriott, 1908)",
+   "tradition": "Philosophy",
+   "note": "Verified. Held: fortune and the half we still direct is a line about agency, and the Philosophy lane was full.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-phil-06",
+   "quote": "Man is but a reed, the most feeble thing in nature, but he is a thinking reed.",
+   "source": "Blaise Pascal, Pensées, Brunschvicg fragment 347 (trans. W. F. Trotter, 1910)",
+   "tradition": "Philosophy",
+   "note": "Corrected punctuation. The Trotter translation of 1910, printed in the Harvard Classics volume of Pascal, sets a comma after in nature where the proposal set a semicolon. Two separate scans of that printing agree. The semicolon belongs to the later Everyman printing of the same translation, so the year and the wording must match.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-phil-12",
+   "quote": "But I ask no favors for my sex. I surrender not our claim to equality. All I ask of our brethren is, that they will take their feet from off our necks, and permit us to stand upright on that ground which God designed us to occupy.",
+   "source": "Sarah Moore Grimké, Letters on the Equality of the Sexes, Letter II, Woman Subject Only to God, p. 10 (Isaac Knapp, 1838)",
+   "tradition": "Correspondence",
+   "note": "Verified. Held: the Correspondence lane took three and this one belongs with Fuller and Cooper.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-phil-14",
+   "quote": "To conquer fear is the beginning of wisdom, in the pursuit of truth as in the endeavour after a worthy manner of life.",
+   "source": "Bertrand Russell, Unpopular Essays, ch. 7, An Outline of Intellectual Rubbish (George Allen and Unwin, 1950)",
+   "tradition": "Essay",
+   "note": "Corrected: the spelling follows the George Allen and Unwin text, which reads endeavour. Held: to conquer fear is the beginning of wisdom sits close to Kant, and Kant took the day.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-poet-02",
+   "quote": "In every town and every village and every mud hut in the world there is always a man who loves children and who will fight to make a good world for them.",
+   "source": "Lillian Hellman, Watch on the Rhine, Act Three, his farewell to his children (Kurt Müller) (Random House, 1941)",
+   "tradition": "Drama",
+   "note": "Corrected wording: the printed play carries the longer form with the three and joined clauses, not the 1943 film version. Held: the Drama lane took three.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-poet-05",
+   "quote": "The fairest action of our human life, / Is scorning to revenge an injury: / For who forgives without a further strife, / His adversary’s heart to him doth tie.",
+   "source": "Elizabeth Cary, The Tragedy of Mariam, the close of Act 4, lines 1 to 4 (Chorus) (1613 quarto)",
+   "tradition": "Drama",
+   "note": "Corrected: the spelling is modernised from the 1613 quarto but the pointing is the quarto pointing, comma in line 1 and colon in line 2. Held: forbearance rather than endurance.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-poet-06",
+   "quote": "What is there / like fortitude! What sap / went through that little thread / to make the cherry red!",
+   "source": "Marianne Moore, Nevertheless, the last four lines, in the collection Nevertheless (Macmillan, 1944)",
+   "tradition": "Poetry",
+   "note": "Corrected: the quotation now starts at What is there, so the verse keeps Moore own line breaks. Held: the Poetry lane was the fattest in the month.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-poet-08",
+   "quote": "We never know how high we are / Till we are called to rise; / And then, if we are true to plan, / Our statures touch the skies.",
+   "source": "Emily Dickinson, ‘We never know how high we are’ (Fr1197, J1176), Poems, Third Series, ed. Mabel Loomis Todd, Life XIV (1896)",
+   "tradition": "Poetry",
+   "note": "Corrected: Aspiration is Todd title, not Dickinson, so the poem is cited by first line and standard numbers. Held: Dickinson stands at two for the year and the last slot should be chosen deliberately.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 7,
+   "id": "07-poet-14",
+   "quote": "For I’se still goin’, honey, / I’se still climbin’, / And life for me ain’t been no crystal stair.",
+   "source": "Langston Hughes, Mother to Son, the closing three lines, The Crisis, December 1922 (the mother)",
+   "tradition": "Poetry",
+   "note": "Verified. Held: the Poetry lane was full and Mother to Son wants a month that can give it the whole stair.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 7,
+   "id": "01-poet-02",
+   "quote": "Tell me about a complicated man.",
+   "source": "Homer, The Odyssey, Book 1, line 1 (trans. Emily Wilson, 2017)",
+   "tradition": "Poetry",
+   "note": "Verified opening line of Wilson’s Odyssey. Held because January had more openings than days; a line for hard roads.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "02-poet-07",
+   "quote": "For there is no friend like a sister / In calm or stormy weather; / To cheer one on the tedious way, / To fetch one if one goes astray, / To lift one if one totters down, / To strengthen whilst one stands.",
+   "source": "Christina Rossetti, Goblin Market, lines 562 to 567, Goblin Market and Other Poems (Macmillan, 1862) (Laura)",
+   "tradition": "Poetry",
+   "note": "Verified, the closing lines of the poem. Lifting one who totters is a trial line.",
+   "fitMonth": 12
+  },
+  {
+   "fromMonth": 7,
+   "id": "02-poet-13",
+   "quote": "My heart is moved by all I cannot save: / so much has been destroyed / I have to cast my lot with those / who age after age, perversely, / with no extraordinary power, / reconstitute the world.",
+   "source": "Adrienne Rich, Natural Resources, closing six lines, The Dream of a Common Language (W. W. Norton, 1978)",
+   "tradition": "Poetry",
+   "note": "Verified against three postings crediting the 1978 edition; the Norton page itself was not opened. A trial line.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 7,
+   "id": "03-poet-10",
+   "quote": "But he that dares not grasp the thorn / Should never crave the rose.",
+   "source": "Anne Brontë, The Narrow Way (1848), lines 15 to 16, in The Complete Poems of Anne Brontë (ed. Clement Shorter, 1920), p. 145",
+   "tradition": "Poetry",
+   "note": "Verified in Shorter’s 1920 Complete Poems, p. 145: he that, not he who. Add the page to the source. Held to keep March under the cap for lines originally in English.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "04-poet-08",
+   "quote": "I will mount a long wind some day and break the heavy waves / And set my cloudy sail straight and bridge the deep, deep sea.",
+   "source": "Li Bai, The Hard Road, closing couplet, The Jade Mountain, p. 70 (trans. Witter Bynner, 1929)",
+   "tradition": "Poetry",
+   "note": "Verified. One Bynner poem landed already and only one may stand in a month, and the hard road is a courage line.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "01-poet-12",
+   "quote": "Yes, of course it hurts when buds are breaking. Why else would the springtime falter?",
+   "source": "Karin Boye, Yes, Of Course It Hurts, lines 1 and 2, För trädets skull (1935) (trans. David McDuff, 1994)",
+   "tradition": "Poetry",
+   "note": "Verified in McDuff. Held because April landed the other Boye, and one person may stand once a month; the pain of growth suits the month of courage.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "02-cfl-05",
+   "quote": "The wide world is all about you: you can fence yourselves in, but you cannot for ever fence it out.",
+   "source": "J. R. R. Tolkien, The Fellowship of the Ring, Book I, chapter 3, Three is Company (George Allen and Unwin, 1954) (Gildor Inglorion)",
+   "tradition": "Fiction",
+   "note": "Verified with the two-word for ever. Tolkien's small hands is already held for September, so this goes to July.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "05-cfl-10",
+   "quote": "That’s no way to treat adventures. Never say ‘no’ to adventures. Always say ‘yes’, otherwise you’ll lead a very dull life.",
+   "source": "Ian Fleming, Chitty-Chitty-Bang-Bang: The Magical Car, Adventure Number Two (Commander Caractacus Pott) (Jonathan Cape, 1964)",
+   "tradition": "Fiction",
+   "note": "Verified. Held: Commander Pott’s counsel is about saying yes to danger, which suits a month of trial.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "05-phil-04",
+   "quote": "Trust thyself: every heart vibrates to that iron string.",
+   "source": "Ralph Waldo Emerson, Essays: First Series, Self-Reliance (James Munroe, 1841)",
+   "tradition": "Essay",
+   "note": "Verified. Held: Trust thyself is self-reliance under pressure more than counsel from an elder.",
+   "fitMonth": 9
+  },
+  {
+   "fromMonth": 7,
+   "id": "05-poet-12",
+   "quote": "Living is no laughing matter: / you must live with great seriousness / like a squirrel, for example— / I mean without looking for something beyond and above living, / I mean living must be your whole occupation.",
+   "source": "Nâzim Hikmet, On Living, Part I, opening lines, in Poems of Nazim Hikmet (trans. Randy Blasing and Mutlu Konuk, 1994)",
+   "tradition": "Poetry",
+   "note": "Verified. Held: living with great seriousness is a charge to hold on, which is July.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "06-fict-04",
+   "quote": "All letters, methinks, should be free and easy as one’s discourse; not studied as an oration, nor made up of hard words like a charm.",
+   "source": "Dorothy Osborne, Letters from Dorothy Osborne to Sir William Temple, Letter 33, pp. 160 to 161 (ed. Edward Abbott Parry, 1888)",
+   "tradition": "Correspondence",
+   "note": "Corrected to Letter 33 in Parry’s edition of 1888, running across pages 160 and 161. The undated heading is kept as Parry prints it.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 7,
+   "id": "06-fict-14",
+   "quote": "I wished to tell the truth, for truth always conveys its own moral to those who are able to receive it.",
+   "source": "Anne Brontë, The Tenant of Wildfell Hall, Preface to the Second Edition, 22 July 1848",
+   "tradition": "Essay",
+   "note": "Verified in the Preface to the second edition of 1848. A plain statement of purpose.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
+   "id": "06-phil-16",
+   "quote": "Freedom is always and exclusively freedom for the one who thinks differently.",
+   "source": "Rosa Luxemburg, The Russian Revolution, ch. 6, The Problem of Dictatorship (trans. Bertram D. Wolfe, 1940)",
+   "tradition": "Philosophy",
+   "note": "Verified in Wolfe’s translation of 1940. Freedom for the one who thinks differently, a line about dissent.",
+   "fitMonth": 11
+  },
+  {
+   "fromMonth": 7,
+   "id": "06-poet-04",
+   "quote": "My way of joking is to tell the truth. It’s the funniest joke in the world.",
+   "source": "Bernard Shaw, John Bull’s Other Island, Act II, his reply to Nora Reilly (Peter Keegan)",
+   "tradition": "Drama",
+   "note": "Verified as Peter Keegan’s reply to Nora Reilly. Held because the drama lane was already full.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "01-cfl-08",
+   "quote": "I am large, I contain multitudes.",
+   "source": "Walt Whitman, Leaves of Grass, ‘Song of Myself’, section 51, 1881 text",
+   "tradition": "Poetry",
+   "note": "Verified; parenthetical in the source. Not a beginning line so much as a truth-and-clarity line.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "04-phil-06",
+   "quote": "Travel is in my opinion a very profitable exercise; the soul is there continually employed in observing new and unknown things, and I do not know, as I have often said a better school wherein to model life than by incessantly exposing to it the diversity of so many other lives, fancies, and usances, and by making it relish a perpetual variety of forms of human nature.",
+   "source": "Michel de Montaigne, Essays, Book III, ch. 9, Of Vanity (trans. Charles Cotton, revised by W. Carew Hazlitt, 1877)",
+   "tradition": "Essay",
+   "note": "Verified. Another Montaigne is already held for May, so this goes on to the month of clear seeing.",
+   "fitMonth": 8
+  },
+  {
+   "fromMonth": 7,
+   "id": "03-cfl-12",
+   "quote": "You can’t get away from yourself by moving from one place to another.",
+   "source": "Ernest Hemingway, The Sun Also Rises, Book I, chapter 2 (Jake Barnes)",
+   "tradition": "Fiction",
+   "note": "Verified, Jake to Robert Cohn. It corrects the traveller rather than sending him out, so it reads as a truth line and not an April line.",
+   "fitMonth": 10
+  },
+  {
+   "fromMonth": 7,
    "id": "01-fict-06",
    "quote": "Mrs. Dalloway said she would buy the flowers herself.",
    "source": "Virginia Woolf, Mrs Dalloway, the opening sentence (1925)",
    "tradition": "Fiction",
    "note": "Verified opening line. Held: Mrs Dalloway buying the flowers herself is plain speech about a whole life, and it offers no counsel.",
-   "fitMonth": 7
+   "fitMonth": 12
   },
   {
-   "fromMonth": 6,
+   "fromMonth": 7,
    "id": "02-cfl-03",
    "quote": "There is no foreign land; it is the traveller only that is foreign, and now and again, by a flash of recollection, lights up the contrasts of the earth.",
    "source": "Robert Louis Stevenson, The Silverado Squatters, Part II, With the Children of Israel, chapter III, The Return (Chatto and Windus, 1883)",
    "tradition": "Essay",
    "note": "Corrected: the sentence is in The Return, Part II. Held: it is the traveller only that is foreign is a correction of the eye, which is June.",
-   "fitMonth": 7
+   "fitMonth": 8
   }
  ]
 }

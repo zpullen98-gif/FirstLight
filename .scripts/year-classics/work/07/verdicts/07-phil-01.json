@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-01",
+ "verdict": "VERIFIED",
+ "quote": "Have courage to use your own reason!",
+ "source": "Immanuel Kant, An Answer to the Question: What Is Enlightenment?, opening paragraph (trans. Lewis White Beck, 1963)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Three independent full texts of the essay in the translation that reads self-incurred tutelage, which is Beck's: the SUNY Ulster course text, the UCSB history course text, and the Columbia CCREAD posting named in search results. All give the motto as Have courage to use your own reason! Two further sources confirm the translation is Lewis White Beck's, printed in Kant on History (Indianapolis: Bobbs-Merrill, Library of Liberal Arts, 1963). A scan of Beck's printed volume itself was not opened; the Internet Archive copy of On History would not serve its text. Marxists.org carries the Cambridge text instead, translated by Mary J. Gregor in 1996, which reads Have courage to make use of your own understanding! so the two renderings are clearly distinguishable and the one proposed is Beck's, not Gregor's.",
+  "url": "http://people.sunyulster.edu/voughth/kant.htm",
+  "edition": "Kant on History, ed. and trans. Lewis White Beck, Bobbs-Merrill Library of Liberal Arts, 1963",
+  "locator": "opening paragraph, the sentence rendering Sapere aude"
+ },
+ "confidence": "medium",
+ "reason": "The sentence, its position in the opening paragraph and the wording are all confirmed, and the wording is specific to Beck rather than to Gregor or Humphrey. Confidence is medium only because the printed 1963 volume was not opened directly; the attribution rests on course texts carrying Beck's rendering plus two sources naming Beck as its translator. Kant stands at one line of three for the year and last appeared in January, so nothing bars him here."
+}

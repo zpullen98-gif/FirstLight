@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "Oh, I’ve never forgotten for long at a time that living is struggle.",
+ "source": "Thornton Wilder, The Skin of Our Teeth, Act III, near the end (Mr Antrobus) (Harper and Brothers, 1942)",
+ "speaker": "Mr Antrobus",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "HathiTrust full text phrase search on Oh, I’ve never forgotten for long at a time returned The Skin of Our Teeth: Play in Three Acts by Thornton Wilder, and the same for never forgotten for long at a time that living is struggle. Wikiquote prints the surrounding speech, assigns it to Antrobus in Act Three, and continues I know that every good and excellent thing in the world stands moment by moment on the razor edge of danger.",
+  "edition": "The Skin of Our Teeth: A Play in Three Acts (Harper and Brothers, 1942)",
+  "locator": "Act III, Antrobus back at home in Excelsior near the close",
+  "url": "https://en.wikiquote.org/wiki/The_Skin_of_Our_Teeth"
+ },
+ "confidence": "high",
+ "reason": "Two independent phrase searches inside the printed play carry the opening Oh and the rest of the sentence, and a quotation source places it in Act III in Antrobus’s closing speech. It is a full sentence and ends in a stop."
+}

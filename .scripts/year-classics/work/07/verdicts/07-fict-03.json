@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "Do you not see how necessary a World of Pains and troubles is to school an Intelligence and make it a soul?",
+ "source": "John Keats, letter to George and Georgiana Keats, 14 February to 3 May 1819, the entry of 21 April (ed. Gittings, 1970)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "A transcription of the vale of Soul-making passage citing Gittings’s Oxford selection, which prints this capitalisation, together with the Mapping Keats’s Progress chronology at the University of Victoria, which places the passage in the entry of 21 April 1819.",
+  "edition": "The Letters of John Keats: A New Selection, ed. Robert Gittings (Oxford University Press, 1970), pp. 248 to 251",
+  "locator": "journal letter of 14 February to 3 May 1819, the entry of 21 April",
+  "url": "https://johnkeats.uvic.ca/1819-04-21.html"
+ },
+ "confidence": "high",
+ "reason": "Wording, work, addressees and locator are all as proposed. Keats’s own capitals, World of Pains and Intelligence, are kept because Gittings prints them; an older edition lowercases both, so the edition is named in the source."
+}

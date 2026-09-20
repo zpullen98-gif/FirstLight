@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-16",
+ "verdict": "CORRECTED",
+ "quote": "Courage is indispensable because in politics not life but the world is at stake.",
+ "source": "Hannah Arendt, Between Past and Future, What Is Freedom?, section II, p. 156 (Viking, 1961)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected: the section can be pinned after all. The sentence closes section II of What Is Freedom? on p. 156 of the Viking edition of 1961, where it follows the claim that courage frees people from their worry about life for the freedom of the world.",
+ "evidence": {
+  "where": "A scan of the first edition at the Internet Archive, item hannah-arendt-between-past-and-future, whose title page reads Between Past and Future: Six Exercises in Political Thought, The Viking Press, New York, 1961; the sentence sits under the running head 156 Between Past and Future and is immediately followed by the section number III",
+  "edition": "Between Past and Future: Six Exercises in Political Thought (New York: The Viking Press, 1961)",
+  "locator": "What Is Freedom?, section II, p. 156, the closing sentence of the section",
+  "url": "https://archive.org/download/hannah-arendt-between-past-and-future/Hannah%20Arendt%20-%20Between%20Past%20and%20Future_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact in the 1961 Viking text and the essay was right; only the locator was incomplete, and the scan supplies the section and the page. Arendt stands at one of three for the year."
+}

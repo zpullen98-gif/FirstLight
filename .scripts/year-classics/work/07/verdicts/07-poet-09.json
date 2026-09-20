@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-09",
+ "verdict": "VERIFIED",
+ "quote": "Just like moons and like suns, / With the certainty of tides, / Just like hopes springing high, / Still I’ll rise.",
+ "source": "Maya Angelou, Still I Rise, lines 9 to 12, And Still I Rise (Random House, 1978)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the poem on the Academy of American Poets site, read whole and the lines counted from the top; its credit line names the book, the copyright year and the publisher",
+  "url": "https://poets.org/poem/still-i-rise",
+  "edition": "And Still I Rise (New York: Random House, 1978); poets.org prints the credit From And Still I Rise by Maya Angelou, Copyright 1978 by Maya Angelou, reprinted by permission of Random House, Inc.",
+  "locator": "third quatrain, lines 9 to 12: stanza one is lines 1 to 4 and the sassiness stanza is lines 5 to 8"
+ },
+ "confidence": "high",
+ "reason": "Word for word the poem as printed, and the count is exact: the moons and suns quatrain is the third, so lines 9 to 12. The collection is Angelou's third, published by Random House in 1978, which puts it inside the pre 2000 rule. Angelou stands at zero for the year and is not banned, and the shipped check found neither the line nor a line that opens like it. Verse, so the line breaks are kept with a spaced slash and each line head carries the poem's own capital."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-13",
+ "verdict": "VERIFIED",
+ "quote": "The cause of freedom is not the cause of a race or a sect, a party or a class,—it is the cause of human kind, the very birthright of humanity.",
+ "source": "Anna Julia Cooper, A Voice from the South, Woman Versus the Indian, pp. 120 to 121 (Aldine Printing House, 1892)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the 1892 Aldine Printing House printing scanned by the Internet Archive, item voicefromsouth00coop; the sentence breaks across the page turn, opening at the foot of p. 120 and closing under the running head on p. 121, inside the essay headed WOMAN VERSUS THE INDIAN which the contents list begins at p. 80",
+  "edition": "A Voice from the South. By a Black Woman of the South (Xenia, Ohio: Aldine Printing House, 1892)",
+  "locator": "Woman Versus the Indian, pp. 120 to 121",
+  "url": "https://archive.org/download/voicefromsouth00coop/voicefromsouth00coop_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Every word matches the 1892 scan, including human kind as two words, which modern repostings silently close up to humankind. The comma and dash before it is the cause are as printed. Cooper has not appeared in the year and is not banned."
+}

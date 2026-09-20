@@ -1,0 +1,17 @@
+{
+ "id": "07-cfl-01",
+ "verdict": "VERIFIED",
+ "quote": "I rebel—therefore we exist.",
+ "source": "Albert Camus, The Rebel, ch. 1, the closing sentence (trans. Anthony Bower, 1953)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Scan of the Penguin Modern Classics text at the Internet Archive, read this run: the last page of chapter 1 carries the running head THE REBEL and is followed by the chapter head 2 METAPHYSICAL REBELLION",
+  "edition": "Penguin Books in association with Hamish Hamilton; the Bower translation first published by Hamish Hamilton, 1953, reissued in Penguin Modern Classics, 1971",
+  "locator": "ch. 1, The Rebel, the closing sentence, p. 28 in the Penguin setting",
+  "url": "https://archive.org/stream/in.ernet.dli.2015.507721/2015.507721.The-Rebel_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The chapter closes exactly as proposed: In our daily trials, rebellion plays the same role as does the cogito in the category of thought: it is the first clue. But this clue lures the individual from his solitude. Rebellion is the common ground on which every man bases his first values. I rebel, therefore we exist. Wording, translator, chapter and page all hold. The page number is dropped from the shipped source because it belongs to the Penguin setting and not to the 1953 Hamish Hamilton edition the source names; the chapter close locates the line in any printing. The Penguin compositor sets the dash spaced, the American Bower text sets it closed up as printed here; the words are identical either way."
+}

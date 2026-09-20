@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "My own state of mind synthesizes these two feelings and transcends them: my mind is pessimistic, but my will is optimistic.",
+ "source": "Antonio Gramsci, Letters from Prison, letter to Carlo, 19 December 1929 (trans. Lynne Lawner, 1973)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "CORRECTED: the wording and the provenance. The proposed English is Raymond Rosenthal’s, not Lawner’s; this sentence is Lawner’s own rendering of the letter. The formula itself is Romain Rolland’s, which Gramsci took up in 1920 and credited to him; here, in prison, he turns it on himself.",
+ "evidence": {
+  "where": "The refutation’s first-hand read of Lynne Lawner’s published translation (letter 41, headed Turi, December 19, 1929), which matches my own knowledge of that edition; plus a scholarly article I fetched and read, which carries the proposed English and footnotes it to a different translator and printing, and which states that the phrase is Romain Rolland’s; plus Italian sources for the original sentence of the letter.",
+  "edition": "Antonio Gramsci, Letters from Prison, trans. Lynne Lawner (Quartet, 1979; translation copyright 1973), letter 41. The competing English is Letters from Prison, ed. Frank Rosengarten, trans. Raymond Rosenthal (Columbia University Press, 2011), vol. 1, p. 300.",
+  "locator": "letter to Carlo, Turi, 19 December 1929",
+  "url": "https://viewpointmag.com/2020/05/28/pessimism-of-the-will/"
+ },
+ "confidence": "medium",
+ "reason": "The letter, the date and the addressee are right and the Italian checks out, so this is not a misattributed line: Gramsci writes the sentence himself. Both of the refutation’s objections are answered rather than repeated. The translator credit was wrong, so the line now ships in Lawner’s wording, which was read in her volume; the proposed English belongs to Rosenthal and I could reach only a secondary footnote for it, which also gives 2011 and p. 300 rather than the claimed 1994 and p. 299. The silent provenance is now stated: the formula is Rolland’s and the note says so."
+}

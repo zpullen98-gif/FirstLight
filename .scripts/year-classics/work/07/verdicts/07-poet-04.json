@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "Zeus, who guided men to think, / who has laid it down that wisdom / comes alone through suffering.",
+ "source": "Aeschylus, Agamemnon, lines 176 to 178, the Hymn to Zeus (the Chorus) (trans. Richmond Lattimore, 1953)",
+ "speaker": "the Chorus",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "HathiTrust full text phrase search on Zeus, who guided men to think and on who has laid it down that wisdom returned Aeschylus volumes of Greek tragedy in English translation. A scholarly posting quotes the stanza at lines 176 to 183 in Lattimore’s wording with the same lineation, the same has laid it down, and a full stop after suffering.",
+  "edition": "Aeschylus I: Oresteia, trans. Richmond Lattimore (University of Chicago Press, 1953)",
+  "locator": "Agamemnon, lines 176 to 178, within the Hymn to Zeus at 160 to 183",
+  "url": "https://insearchoforder.wordpress.com/2010/01/23/aeschylus-agamemnon-176-183-trans-richmond-lattimore/"
+ },
+ "confidence": "high",
+ "reason": "Lattimore’s three lines are confirmed in his lineation, with lower case line heads as he prints them and the variant who laid it down ruled out. The Greek at 176 to 178 is exactly this clause, so the line numbers hold."
+}

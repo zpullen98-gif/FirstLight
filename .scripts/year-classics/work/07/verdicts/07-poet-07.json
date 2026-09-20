@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "To strive, to seek, to find, and not to yield.",
+ "source": "Alfred Tennyson, Ulysses, the closing line, Poems, vol. 2 (Edward Moxon, 1842) (Ulysses)",
+ "speaker": "Ulysses",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of The Early Poems of Alfred Lord Tennyson, read this run, where the line stands last in Ulysses",
+  "edition": "Poems by Alfred Tennyson, in two volumes (London: Edward Moxon, 1842); Ulysses is in volume 2",
+  "locator": "Ulysses, the closing line (line 70)",
+  "url": "https://www.gutenberg.org/cache/epub/8601/pg8601.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is verbatim and final in the text read this run, closing the sentence that begins One equal temper of heroic hearts. Ulysses was written in 1833 and first published in the two volume Poems of 1842 from Edward Moxon, with the new poems in volume 2. The poem is a dramatic monologue, so the speaker is Ulysses and the source names him. Tennyson stands at one of three for the year and is not in this month otherwise."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-05",
+ "verdict": "CORRECTED",
+ "quote": "The fairest action of our human life / Is scorning to revenge an injury: / For who forgives without a further strife, / His adversary’s heart to him doth tie.",
+ "source": "Elizabeth Cary, The Tragedy of Mariam, Act 4, the chorus that closes the act, lines 1 to 4 (1613) (Chorus)",
+ "speaker": "Chorus",
+ "tradition": "Drama",
+ "note": "Corrected: line 2 ends in a colon, not a semicolon, in the 1613 quarto and in modern editions alike. The spelling here is modernised: the quarto prints humane, iniurie, aduersaries. The speaker is the chorus, a company of Jews who judge by their own lights, so the source names them.",
+ "evidence": {
+  "where": "Malone Society Reprint of the 1613 quarto (ed. A. C. Dunstan with W. W. Greg, 1914), full text read this run, plus a modernised annotated classroom text of Act 4 read as a PDF this run",
+  "edition": "The Tragedy of Mariam, 1613 quarto, Malone Society Reprints 1914; wording modernised as standard editions print it",
+  "locator": "the Chorus at the close of Act 4, lines 1 to 4 (Malone reprint, beside line 1905; numbered about 628 to 631 in act line numbering)",
+  "url": "https://archive.org/download/tragedyofmariam100caryrich/tragedyofmariam100caryrich_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The quatrain is genuinely Cary’s and opens the chorus that closes Act 4, as the proposal said. Two independent texts agree that line 2 closes with a colon: the quarto reads Is scorning to reuenge an iniurie: and the modernised text reads Is scorning to revenge an injury:. The locator was also loose, since the quarto is in old spelling and the proposed wording is not, so the citation now says 1613 without claiming the quarto’s own letters."
+}

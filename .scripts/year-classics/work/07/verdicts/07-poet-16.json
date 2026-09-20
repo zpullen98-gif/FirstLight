@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-16",
+ "verdict": "VERIFIED",
+ "quote": "Manfully, fearlessly, / The day of trial bear, / For gloriously, victoriously, / Can courage quell despair!",
+ "source": "Charlotte Brontë, Life, the closing four lines, Poems by Currer, Ellis, and Acton Bell (Aylott and Jones, 1846)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "the University of Pennsylvania digital text of the 1846 volume, which reproduces the title page imprint and the poem in full",
+  "edition": "Poems by Currer, Ellis, and Acton Bell (London: Aylott and Jones, 8 Paternoster Row, 1846)",
+  "locator": "Life, by Currer, the last four lines of the closing stanza",
+  "url": "https://digital.library.upenn.edu/women/bronte/poems/poems.html"
+ },
+ "confidence": "high",
+ "reason": "The four lines close the poem in the 1846 text, with that stanza's punctuation and the exclamation kept. Charlotte Brontë stands at one line for the year, from month two, so she is clear of the cap and of the one per month rule."
+}

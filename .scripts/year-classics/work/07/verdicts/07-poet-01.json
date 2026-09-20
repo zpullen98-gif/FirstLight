@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "When a man takes an oath, Meg, he’s holding his own self in his own hands.",
+ "source": "Robert Bolt, A Man for All Seasons, Act Two, in the Tower, to Meg (Sir Thomas More) (Heinemann, 1960)",
+ "speaker": "Sir Thomas More",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "A HathiTrust full text phrase search on the exact words returned the printed play A Man for All Seasons: A Play in Two Acts by Robert Bolt, alongside two critical studies of it. A LitCharts quotation page prints the same sentence, places it in Act 2 at page 140, and names More speaking to Margaret.",
+  "edition": "A Man for All Seasons: A Play in Two Acts (Heinemann, 1960)",
+  "locator": "Act Two, the Tower scene, More to his daughter Margaret",
+  "url": "https://www.litcharts.com/lit/a-man-for-all-seasons/quotes"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in the printed play, not only in the 1966 screenplay, and the phrase search hits the two act stage text itself. It is the first sentence of More’s answer to Meg and ends in a full stop where the play continues Like water."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "07-cfl-06",
+ "verdict": "VERIFIED",
+ "quote": "Music was my refuge. I could crawl into the spaces between the notes and curl my back to loneliness.",
+ "source": "Maya Angelou, Singin’ and Swingin’ and Gettin’ Merry Like Christmas, chapter 1, the opening sentences (Random House, 1976)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Open Library full text search inside three scanned editions of the memoir returned the sentence with the plural spaces; the following sentence, In my rented room (cooking privileges down the hall), I would play a record, is in the same scans; Wikipedia's article on the book notes that after the epigraph music is the first word in the book",
+  "edition": "Random House, 1976; wording confirmed in the Bantam 1977 and Virago 1985 printings of the same text",
+  "locator": "chapter 1, the opening sentences, after the blues epigraph",
+  "url": "https://openlibrary.org/search/inside?q=%22I+could+crawl+into+the+spaces+between+the+notes%22"
+ },
+ "confidence": "high",
+ "reason": "The line is in the named work at the named place, and the proposal's wording is the book's: spaces between the notes, plural. The Calendar For Life card carries the popular corruption with the singular space, which this ruling does not follow. The quote sites that circulate it are secondary, but the scanned book itself was searched and the sentence and its continuation are both there."
+}

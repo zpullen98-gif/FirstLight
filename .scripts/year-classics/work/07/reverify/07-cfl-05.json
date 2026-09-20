@@ -1,0 +1,17 @@
+{
+ "id": "07-cfl-05",
+ "verdict": "REJECT",
+ "quote": "Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off—then, I account it high time to get to sea as soon as I can.",
+ "source": "Herman Melville, Moby-Dick; or, The Whale, chapter 1, Loomings, the opening paragraph (Ishmael) (Harper and Brothers, 1851)",
+ "speaker": "Ishmael",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Moby-Dick (ebook 2701) fetched and read this run; chapter 1, Loomings, first paragraph read in full, lines 846 to 858 of the file",
+  "edition": "Harper and Brothers, 1851, in the standard text carried by Project Gutenberg",
+  "locator": "chapter 1, Loomings, the opening paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/2701/pg2701.txt"
+ },
+ "confidence": "high",
+ "reason": "The citation is sound and I confirmed it independently: the sentence is verbatim, Ishmael speaks it, the locator and 1851 title are right, Melville is at zero of three and not banned. I reject on the two grounds the refutation raises, both of which survive my own reading of the paragraph. The proposed ellipsis cuts about sixty words and keeps twenty-five, and what it cuts is the reason for the mood: the coffin warehouses, the funerals, and the hypos clause that ends in needing a strong moral principle to stay off the street. Two sentences later Melville glosses the whole thing as his substitute for pistol and ball. A quotation that is only publishable because an ellipsis hides the passage's own crisis is a paraphrase wearing quotation marks, and the card sends the reader to the very paragraph it conceals. Rule 3 bites as well: July is Courage in Trial, and this is melancholy and departure, the impulse to leave rather than to hold, opening on a damp drizzly November at six in the morning. The earlier verdict's note also misdescribed its own elision, naming only the coffin and funeral clauses. Repairing the note would make the card honest and would also make it plainly a voyage line, not a July line. The clean uncut alternative the refutation names, Call me Ishmael., is a different line and not mine to substitute here."
+}

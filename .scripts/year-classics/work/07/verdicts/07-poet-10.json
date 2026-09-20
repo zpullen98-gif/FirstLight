@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-10",
+ "verdict": "VERIFIED",
+ "quote": "We know what trembles on the scales, / and what we must steel ourselves to face. / The bravest hour strikes on our clocks: / may courage not abandon us!",
+ "source": "Anna Akhmatova, Courage, lines 1 to 4, Poems of Akhmatova (trans. Stanley Kunitz with Max Hayward, 1973)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "A translation comparison page that sets three English Courages side by side and assigns this opening to Kunitz and Hayward, distinguishing it from the D. M. Thomas and Yevgeny Bonver versions; the Internet Archive catalogue record for Poems of Akhmatova, whose contents list carries Courage; a Thomas text that dates the poem 23 February 1942. The printed 1973 page was not opened",
+  "url": "https://ruverses.com/anna-akhmatova/courage/",
+  "edition": "Poems of Akhmatova, selected and translated by Stanley Kunitz with Max Hayward, first published 1973 (An Atlantic Monthly Press book, Little, Brown), reissued by Houghton Mifflin 1997",
+  "locator": "the opening quatrain of the poem, lines 1 to 4, rendering Мы знаем, что ныне лежит на весах through И мужество нас не покинет"
+ },
+ "confidence": "medium",
+ "reason": "The poem is certainly Akhmatova's, written during the war and among her best known, so there is no attribution question; the live question was whose English this is, and the comparison page assigns this exact opening to Kunitz and Hayward against two rival versions that read quite differently. The translator credit is given as on the title page, Stanley Kunitz with Max Hayward, rather than the looser and. Confidence is medium and not high because the wording was confirmed in reproductions of the translation rather than on the 1973 page itself. Kunitz sets his line heads in sentence case, so the lowercase and and may are the edition's own and are kept. Akhmatova stands at zero for the year and is not banned."
+}

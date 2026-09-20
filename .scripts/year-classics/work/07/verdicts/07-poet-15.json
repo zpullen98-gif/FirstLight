@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-15",
+ "verdict": "VERIFIED",
+ "quote": "But where danger threatens / That which saves from it also grows.",
+ "source": "Friedrich Hölderlin, Patmos, lines 3 to 4, Poems and Fragments (trans. Michael Hamburger, 1966)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Several independent postings of Hamburger's opening quatrain agreeing word for word, and the Internet Archive catalogue record for the volume",
+  "edition": "Friedrich Hölderlin: Poems and Fragments, trans. Michael Hamburger (The University of Michigan Press, 1966)",
+  "locator": "Patmos, lines 3 and 4 of the opening quatrain, after Near is / And difficult to grasp, the God",
+  "url": "https://archive.org/details/friedrichholderl0000mich"
+ },
+ "confidence": "medium",
+ "reason": "Hamburger's wording and his line break after threatens are attested consistently, and this is the honest rendering rather than the circulating slogan. The printed page itself was not opened, and some booksellers date the Michigan printing 1967, so the source names the translation year only and not a publisher."
+}

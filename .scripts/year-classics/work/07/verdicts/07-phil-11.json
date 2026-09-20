@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-11",
+ "verdict": "VERIFIED",
+ "quote": "I do not care what case you put; let them be sea-captains, if you will.",
+ "source": "Margaret Fuller, Woman in the Nineteenth Century, and Kindred Papers, ed. Arthur B. Fuller (1855), p. 174",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Page scan text of the 1855 Boston edition at the Internet Archive, where the running head 174 WOMAN IN THE NINETEENTH CENTURY stands directly above the sentence; wording cross-checked against Project Gutenberg ebook 8642 of the same edition",
+  "edition": "Woman in the Nineteenth Century, and Kindred Papers, ed. Arthur B. Fuller, copyright 1855, preface dated Boston, May 10th, 1855",
+  "locator": "p. 174, answering the question what offices women may fill",
+  "url": "https://archive.org/stream/womaninnineteent00fullrich/womaninnineteent00fullrich_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The page claim holds: the passage opens on p. 174 of the Arthur B. Fuller edition, two sentences after the running head. Wording and the semicolon match, and the preceding sentence, I reply any, is left out without changing the sense. Fuller is unshipped and at none of three."
+}

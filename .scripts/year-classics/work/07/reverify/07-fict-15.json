@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-15",
+ "verdict": "REJECT",
+ "quote": "Your silence will not protect you.",
+ "source": "Audre Lorde, The Cancer Journals, The Transformation of Silence into Language and Action (1980)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The PDF named in the first verdict, downloaded and extracted with pdftotext. Its headnote reads: This speech by Audre Lorde was originally delivered at the Lesbian and Literature panel of the Modern Language Association's December 28, 1977 meeting. It was then published in many of Audre's books, including The Cancer Journals and Sister Outsider. This is the full text of the version appearing in The Cancer Journals, published 1980 by spinsters press. The sentence stands on the page as: My silences had not protected me. Your silence will not protect you. The piece opens: I would like to preface my remarks on the transformation of silence into language and action with a poem. No copy of the Crossing Press setting of 1984 was opened by anyone in this chain. Web search was exhausted for the session, so the 1984 wording remains unchecked.",
+  "url": "https://interminablerambling.com/wp-content/uploads/2023/12/2a815-thetransformationofsilenceintolanguageandaction_byaudrelorde.pdf",
+  "edition": "The Cancer Journals, 1980, as reproduced in the PDF above; the proposed Sister Outsider, Crossing Press, 1984 was not consulted",
+  "locator": "The Transformation of Silence into Language and Action, the paragraph beginning I was going to die, if not sooner then later"
+ },
+ "confidence": "high",
+ "reason": "Both grounds of the refutation check out against the document itself: the text read is the Cancer Journals setting of 1980, so the Crossing Press 1984 edition named in the source line was never opened, and the headnote's first four words call the piece a speech delivered at an MLA panel, which the text confirms when it opens by prefacing its remarks. The brief puts speeches and oratory out of scope on the Makers' ground, and the closed vocabulary has no tag for a delivered paper, so the Essay tag does not describe the form; out of scope is a REJECT ground and no note can cure it. The attribution, the wording and the publishability are not in doubt, and the person is at zero of three, so if the owner rules that a conference paper gathered in a prose collection counts as an essay, this line can return on the 1980 text with the delivery disclosed in a note."
+}

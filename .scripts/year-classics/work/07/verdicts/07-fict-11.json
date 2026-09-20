@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It’s when you know you’re licked before you begin but you begin anyway and you see it through no matter what.",
+ "source": "Harper Lee, To Kill a Mockingbird, ch. 11, to Jem after Mrs Dubose (Atticus Finch) (1960)",
+ "speaker": "Atticus Finch",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "A full text of Part One, chapter 11 was read. Atticus says to Jem: I wanted you to see what real courage is, instead of getting the idea that courage is a man with a gun in his hand. It's when you know you're licked before you begin but you begin anyway and you see it through no matter what. You rarely win, but sometimes you do. Mrs. Dubose won, all ninety-eight pounds of her. The two sentences the proposal takes are consecutive and complete, and match that text word for word, including the absence of a comma before but you begin anyway, which several study editions insert. The occasion is right: Atticus speaks after Mrs Dubose's death, explaining what Jem's reading aloud to her was for. A printed Lippincott copy was not opened, so the source names the year of first publication and no publisher.",
+  "edition": "To Kill a Mockingbird (J. B. Lippincott, 1960), consulted as an online full text of Part One, chapter 11",
+  "locator": "Part One, ch. 11, Atticus to Jem after the death of Mrs Dubose",
+  "url": "https://americanliterature.com/author/harper-lee/book/to-kill-a-mockingbird/part-one-chapter-11"
+ },
+ "confidence": "high",
+ "reason": "Wording, speaker, chapter and occasion all hold against a full text of chapter 11, and independent study sources quoting the passage agree on the wording. Nothing is truncated mid sentence or joined across a gap. Shipped.js reports the line unshipped, Lee at one of three for the year and unbanned. It is the month's plainest definition of courage, it needs no content warning, and it is usable at six in the morning."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-02",
+ "verdict": "VERIFIED",
+ "quote": "That which does not kill me, makes me stronger.",
+ "source": "Friedrich Nietzsche, The Twilight of the Idols, Maxims and Missiles, 8 (trans. Anthony M. Ludovici, 1911)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg's text of The Twilight of the Idols in Ludovici's translation, read at aphorism 8 of Maxims and Missiles with aphorisms 7 and 9 either side to fix the numbering. Ludovici prints an italic rubric before the sentence, From the military school of life., and then the sentence exactly as proposed, comma included. The rubric is a heading, not part of the sentence, so quoting the sentence whole is faithful. Other published renderings differ and were checked against this one: Kaufmann reads what does not destroy me, and Hollingdale reads what does not kill me makes me stronger without the comma, so the wording proposed is specifically Ludovici's.",
+  "url": "https://www.gutenberg.org/files/52263/52263-h/52263-h.htm",
+  "edition": "The Complete Works of Friedrich Nietzsche, ed. Oscar Levy, Vol. XVI, trans. Anthony M. Ludovici, 1911",
+  "locator": "Maxims and Missiles, aphorism 8"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in Ludovici at the named number, including the comma that the popular rendering usually drops, and the work title The Twilight of the Idols is Ludovici's own. Two flags for the editor rather than the citation: Nietzsche stands at two lines of three for the year, so this would close him out, and a Nietzsche line also sits among the Calendar For Life candidates."
+}

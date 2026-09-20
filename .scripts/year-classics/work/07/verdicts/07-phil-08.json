@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-08",
+ "verdict": "CORRECTED",
+ "quote": "If all Men are born free, how is it that all Women are born Slaves?",
+ "source": "Mary Astell, Reflections upon Marriage, Preface to the third edition, London, 1706",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "Corrected to the book itself. The 1706 third edition is titled Reflections upon Marriage, without Some, and its added Preface carries the line. A scan of that edition prints Slaves with a capital S. The locator now names the Preface rather than a page of a modern reprint, and a widespread variant asking why are all Women born Slaves is not Astell's wording.",
+ "evidence": {
+  "where": "The Internet Archive scan of the 1706 third edition, identifier reflectionsuponm00aste, downloaded and read locally. The Preface prints the sentence in italic: If all Men are born free, how is it that all Women are born Slaves? as they must be if the being subjected to the inconstant, uncertain, unknown, arbitrary Will of Men, be the perfect Condition of Slavery? The title page of that scan reads Reflections upon Marriage, The Third Edition, To which is Added A Preface, in Answer to some Objections, printed in London, 1706. The Internet Encyclopedia of Philosophy quotes the same sentence and cites it to page 18 of Astell: Political Writings, ed. Patricia Springborg, Cambridge, 1996, where Reflections upon Marriage runs from page 1 to page 80, which corroborates the proposal's page. Wikipedia prints a different and shorter version of the question, which the 1706 scan refutes.",
+  "url": "https://archive.org/download/reflectionsuponm00aste/reflectionsuponm00aste_djvu.txt",
+  "edition": "Reflections upon Marriage, third edition, London, printed for R. Wilkin, 1706",
+  "locator": "the Preface added to the third edition"
+ },
+ "confidence": "high",
+ "reason": "The question is Astell's and stands in the 1706 Preface, read in facsimile, so it ships in that edition's own wording and capitals. Three things were off: the work title of the 1706 edition drops Some, the printed text capitalises Slaves, and the citation rested on a modern reprint page rather than the edition itself. Only the opening If has been given a capital, which the original also has since the question begins a sentence there. Astell stands at none of three for the year and is not banned."
+}

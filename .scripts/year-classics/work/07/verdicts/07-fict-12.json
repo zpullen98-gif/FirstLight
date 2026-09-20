@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-12",
+ "verdict": "CORRECTED",
+ "quote": "I thought: hope cannot be said to exist, nor can it be said not to exist. It is just like roads across the earth. For actually the earth had no roads to begin with, but when many men pass one way, a road is made.",
+ "source": "Lu Xun, My Old Home, the closing lines, Selected Stories of Lu Hsun (trans. Yang Xianyi and Gladys Yang, 1960)",
+ "speaker": "",
+ "tradition": "Fiction",
+ "note": "Corrected: the Yangs print the clause as I thought: hope cannot be said to exist, with hope in lower case. The proposal dropped I thought and capitalised hope, a sentence no edition prints. The words are restored. The volume is Selected Stories of Lu Hsun, Foreign Languages Press, Peking, 1960.",
+ "evidence": {
+  "where": "The Lu Xun Internet Archive transcription of the Yangs' Selected Stories of Lu Hsun was downloaded and its closing paragraph read whole. It runs: As I dozed, a stretch of jade-green seashore spread itself before my eyes, and above a round golden moon hung in a deep blue sky. I thought: hope cannot be said to exist, nor can it be said not to exist. It is just like roads across the earth. For actually the earth had no roads to begin with, but when many men pass one way, a road is made. That page credits Selected Stories of Lu Hsun, Foreign Languages Press, Peking, 1960 and 1972. Independent quotation records carry the same reading with I thought and lower case hope. A printed copy of the volume was not opened.",
+  "edition": "Selected Stories of Lu Hsun, trans. Yang Hsien-yi and Gladys Yang, Foreign Languages Press, Peking, 1960",
+  "locator": "My Old Home (1921), the closing paragraph",
+  "url": "https://www.marxists.org/archive/lu-xun/1921/01/x01.htm"
+ },
+ "confidence": "high",
+ "reason": "The passage is the closing paragraph of the story and the Yangs' wording of it is not in doubt. What was wrong is the wording at the head of the quotation: the proposal cut away I thought and raised hope to a capital, making a sentence the translation does not contain, so the clause is restored. Shipped.js reports the line unshipped, Lu Xun at one of three for the year and unbanned. Hope as a road made by walking is on theme and needs no content warning."
+}

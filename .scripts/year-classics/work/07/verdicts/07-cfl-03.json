@@ -1,0 +1,17 @@
+{
+ "id": "07-cfl-03",
+ "verdict": "REJECT",
+ "quote": "Do not go gentle into that good night.",
+ "source": "Dylan Thomas, Do not go gentle into that good night, line 1, Collected Poems 1934 to 1952 (Dent, 1952)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Standard reference and the poem's publication history, checked this run: Thomas sent the villanelle to Marguerite Caetani in March 1951 and it appeared in Botteghe Oscure that year, then in In Country Sleep and Other Poems and in the Dent Collected Poems",
+  "edition": "Collected Poems 1934 to 1952, J. M. Dent, 1952; first printed in Botteghe Oscure VIII, 1951",
+  "locator": "line 1, the first refrain of the villanelle",
+  "url": "https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night"
+ },
+ "confidence": "medium",
+ "reason": "The citation is sound: the line is line 1 of the villanelle, first printed in Botteghe Oscure in 1951 and collected by Dent in 1952. The rejection is on publishability, which the misattribution list left to this pass. The work is an address to a dying father and ends And you, my father, there on the sad height, and because the poem is titled by its own first line the source line hands the reader the whole deathbed. Rule 11 says a quotation that would need a content warning is the wrong quotation however powerful, and rule 3 wants a line that helps at six in the morning. July already holds courage lines that carry no dying parent, so this one goes out. Confidence is medium because the location is certain and the call is editorial: an editor who wants it can overturn this without touching the citation."
+}

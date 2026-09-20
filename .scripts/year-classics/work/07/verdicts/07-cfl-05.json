@@ -1,0 +1,17 @@
+{
+ "id": "07-cfl-05",
+ "verdict": "CORRECTED",
+ "quote": "Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul … then, I account it high time to get to sea as soon as I can.",
+ "source": "Herman Melville, Moby-Dick; or, The Whale, chapter 1, Loomings, the opening paragraph (Ishmael) (Harper and Brothers, 1851)",
+ "speaker": "Ishmael",
+ "tradition": "Fiction",
+ "note": "Corrected: the quotation now begins where the sentence's own capital falls, at Whenever I find myself growing grim about the mouth, as the 1851 text prints it. The proposal began mid sentence and capitalised a lowercase whenever. The ellipsis marks the elided clauses about coffin warehouses and funerals.",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Moby-Dick (ebook 2701), chapter 1, Loomings, first paragraph, fetched and read this run",
+  "edition": "Harper and Brothers, 1851, in the standard text carried by Project Gutenberg",
+  "locator": "chapter 1, Loomings, the opening paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/2701/pg2701.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the Gutenberg text: whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; ... then, I account it high time to get to sea as soon as I can. Only the starting point and its capital needed fixing, and the elision drops the coffin and funeral clauses, which is also what publishability wants at six in the morning. Elision marked with a spaced ellipsis is already house style, used in the February and March months."
+}

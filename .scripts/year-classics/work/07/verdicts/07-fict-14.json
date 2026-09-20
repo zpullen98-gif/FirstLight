@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-14",
+ "verdict": "CORRECTED",
+ "quote": "The virtue of Prosperity is temperance; the virtue of Adversity is fortitude; which in morals is the more heroical virtue.",
+ "source": "Francis Bacon, Essays, V, Of Adversity, p. 23 (ed. Mary Augusta Scott, 1908)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected to the wording of Scott’s edition of 1908, page 23, which capitalises Prosperity and Adversity and prints the sentence whole. The essay first appeared in 1625, where the spelling is Vertue of Prosperitie and Heroicall Vertue, and other modern texts run the clause on from But to speak in a mean.",
+ "evidence": {
+  "where": "The Wikisource transcription of the page scan of Mary Augusta Scott’s edition, page 23, compared with the Project Gutenberg text of the 1884 Works, which prints the clause with commas and no capitals",
+  "url": "https://en.wikisource.org/wiki/Page:Essays_of_Francis_Bacon_1908_Scott.djvu/133",
+  "edition": "The Essays of Francis Bacon, ed. Mary Augusta Scott, 1908",
+  "locator": "Essay V, Of Adversity, p. 23"
+ },
+ "confidence": "high",
+ "reason": "The sentence is genuine Bacon and the essay is right, but the proposal cited the 1625 edition while giving modern spelling, and the 1625 printing reads Vertue of Prosperitie. Scott’s 1908 page carries the proposed wording almost exactly, capitals apart, so the citation moves to the edition whose words these are."
+}

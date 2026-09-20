@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "We never know how high we are / Till we are called to rise; / And then, if we are true to plan, / Our statures touch the skies.",
+ "source": "Emily Dickinson, Aspiration, lines 1 to 4, Poems, Third Series, ed. Mabel Loomis Todd (Roberts Brothers, 1896)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Poems by Emily Dickinson, Three Series, Complete, read this run; the Third Series section carries Todd’s preface dated Amherst, October 1896",
+  "edition": "Poems by Emily Dickinson, Third Series, ed. Mabel Loomis Todd (Boston: Roberts Brothers, 1896), Part I, Life, poem XIV",
+  "locator": "Aspiration, lines 1 to 4 of 8",
+  "url": "https://www.gutenberg.org/cache/epub/12242/pg12242.txt"
+ },
+ "confidence": "high",
+ "reason": "Word for word and point for point the same in the 1896 text, including the semicolon after rise, the commas around if we are true to plan, and the full stop after skies. The title Aspiration is Todd’s, and so is called, where Dickinson’s manuscript reads asked and ends in a dash; naming Todd as editor in the source is what makes the wording honest, and it is the 1896 text that ends in a full stop. Dickinson stands at two of three for the year, so this is her last."
+}

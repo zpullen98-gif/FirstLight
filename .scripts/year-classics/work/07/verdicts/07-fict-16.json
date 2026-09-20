@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-16",
+ "verdict": "CORRECTED",
+ "quote": "What saves a man is to take a step. Then another step. It is always the same step, but you have to take it.",
+ "source": "Antoine de Saint-Exupéry, Wind, Sand and Stars, ch. 2, The Men (Guillaumet) (trans. Lewis Galantière, 1939)",
+ "speaker": "Guillaumet",
+ "tradition": "Essay",
+ "note": "Corrected: the sentence is in chapter 2, The Men, not in Prisoner of the Sand. Saint-Exupéry prints it in quotation marks as the words of the pilot Guillaumet, who spoke them at Mendoza after walking out of the Andes, so the speaker stands in the source. Galantière’s wording of 1939 is exact.",
+ "evidence": {
+  "where": "The full text of Galantière’s translation read directly: the sentence sits in chapter 2 inside Guillaumet’s reported speech, a few lines before I swear that what I went through, no animal would have gone through, and the narrator then addresses him by name",
+  "url": "https://kyl.neocities.org/books/%5BBIO%20EXU%5D%20wind,%20sand,%20and%20stars.pdf",
+  "edition": "Wind, Sand and Stars, trans. Lewis Galantière, first published 1939",
+  "locator": "ch. 2, The Men, in Guillaumet’s account of the Andes crossing"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact in Galantière, but two things in the proposal were wrong. The chapter is The Men, the second of the ten, while Prisoner of the Sand is the eighth and tells of the Libyan desert instead. And the words are not Saint-Exupéry’s own: he sets them in quotation marks as Guillaumet’s, so the speaker must be named or the card credits the wrong man."
+}

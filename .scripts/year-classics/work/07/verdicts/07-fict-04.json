@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "I’m a pessimist because of intelligence, but an optimist because of will.",
+ "source": "Antonio Gramsci, Letters from Prison, letter to Carlo Gramsci, 19 December 1929 (trans. Raymond Rosenthal, 1994)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "CORRECTED: the translator. This English is Raymond Rosenthal’s, in Letters from Prison edited by Frank Rosengarten, volume 1, page 299. Lynne Lawner’s 1973 selection could not be checked, so it is not claimed. The Italian of 19 December 1929 to Carlo reads sono pessimista con l’intelligenza, ma ottimista per la volontà.",
+ "evidence": {
+  "where": "A scholarly article that quotes this sentence and its continuation and footnotes the Columbia edition by volume and page, plus Italian sources carrying the original wording of the letter of 19 December 1929 to Carlo.",
+  "edition": "Letters from Prison, ed. Frank Rosengarten, trans. Raymond Rosenthal (Columbia University Press, 1994), vol. 1, p. 299",
+  "locator": "letter to Carlo Gramsci, 19 December 1929",
+  "url": "https://viewpointmag.com/2020/05/28/pessimism-of-the-will/"
+ },
+ "confidence": "medium",
+ "reason": "The line, the date and the addressee are right and the Italian original checks out. The proposed translator does not: the only English I could tie to a named page is Rosenthal’s. Quotation sites also put a parenthesis in the letter disclaiming the phrase, which no text of the letter supports, so it is left out."
+}

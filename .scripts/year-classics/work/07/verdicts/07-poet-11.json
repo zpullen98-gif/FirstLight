@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-11",
+ "verdict": "VERIFIED",
+ "quote": "Although the wind / blows terribly here, / the moonlight also leaks / between the roof planks / of this ruined house.",
+ "source": "Izumi Shikibu, Although the wind, the complete tanka, The Ink Dark Moon (trans. Jane Hirshfield with Mariko Aratani, 1990)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The poem printed whole in Tricycle with a full credit line naming both translators, the book, the publisher and the year; the same translation carried under the same title by the Poetry Foundation",
+  "url": "https://tricycle.org/magazine/izumi-shikibu/",
+  "edition": "The Ink Dark Moon: Love Poems by Ono no Komachi and Izumi Shikibu, Women of the Ancient Court of Japan, trans. Jane Hirshfield with Mariko Aratani (Vintage, 1990; first published Scribner, 1988)",
+  "locator": "the whole five line tanka, untitled and known by its first line Although the wind"
+ },
+ "confidence": "high",
+ "reason": "Word for word the Hirshfield and Aratani rendering, in their five line lineation and with the closing full stop, and it is the entire poem rather than an extract. The imprint is left out of the source line because the 1990 paperback is variously cited as Vintage Books and Vintage Classics; naming the translation and its year satisfies the citation rule without picking that fight. Izumi Shikibu wrote at the Heian court around the year 1000, which is inside the pre 2000 rule by a wide margin and brings an eleventh century and a Japanese line into the month. She stands at zero for the year and is not banned, and the shipped check found nothing."
+}

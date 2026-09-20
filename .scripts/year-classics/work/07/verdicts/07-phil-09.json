@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "These are the times that try men’s souls. The summer soldier and the sunshine patriot will, in this crisis, shrink from the service of their country; but he that stands it now, deserves the love and thanks of man and woman.",
+ "source": "Thomas Paine, The American Crisis, Number I, opening sentences (ed. M. D. Conway, The Writings of Thomas Paine, Vol. I, 1894)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Conway's edition of The Writings of Thomas Paine, Volume I (1774 to 1779), read in full text at Project Gutenberg ebook 3741; the opening of The Crisis I matches word for word",
+  "edition": "The Writings of Thomas Paine, Volume I, ed. Moncure Daniel Conway (G. P. Putnam's Sons, 1894)",
+  "locator": "The Crisis I, first two sentences",
+  "url": "https://www.gutenberg.org/cache/epub/3741/pg3741.txt"
+ },
+ "confidence": "high",
+ "reason": "Conway's text reads exactly as proposed, including their country, the full stop after souls, and lower case now, which is the point the curator flagged. Conway sets only the opening word THESE in capitals, a section-opening convention rather than a difference of wording, so it ships sentence case. Paine is unshipped, unbanned and at none of three."
+}

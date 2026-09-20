@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-05",
+ "verdict": "CORRECTED",
+ "quote": "It’s really a wonder that I haven’t dropped all my ideals, because they seem so absurd and impossible to carry out. Yet I keep them, because in spite of everything I still believe that people are really good at heart.",
+ "source": "Anne Frank, The Diary of a Young Girl, the entry of 15 July 1944 (trans. B. M. Mooyaart-Doubleday, 1952)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "Corrected: the famous line is not a sentence in this translation but a clause inside one, and the proposal capitalised it as though it stood alone. The wording here is Mooyaart-Doubleday’s, with no comma after everything. The comma and the reading truly good at heart belong to Susan Massotty’s translation of 1995.",
+ "evidence": {
+  "where": "The English Wikiquote entry for Anne Frank, which prints the Dutch of 15 July 1944 beside both published English renderings and marks the really good at heart wording as the variant translation; a transcript of the Mooyaart-Doubleday text keyed to the heading Saturday, 15th July 1944; the University of Dayton Rose rare book commentary on the same entry, which quotes the Massotty wording instead. No page of the 1952 Doubleday printing was opened, since the book is under copyright and the scans are lending only.",
+  "edition": "Anne Frank: The Diary of a Young Girl, trans. B. M. Mooyaart-Doubleday (Doubleday, 1952)",
+  "locator": "the entry of 15 July 1944",
+  "url": "https://en.wikiquote.org/wiki/Anne_Frank"
+ },
+ "confidence": "medium",
+ "reason": "The passage, the date and the translator are all right; only the shape of the quotation was wrong, because the proposal lifted a subordinate clause and gave it a capital. Shipping the two sentences as the edition prints them keeps the famous words intact and gives them their antecedent, since the ideals are what she keeps. Anne Frank stands at one of three for the year and is not at cap."
+}

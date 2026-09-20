@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "Perhaps all the dragons in our lives are princesses who are only waiting to see us act, just once, with beauty and courage.",
+ "source": "Rainer Maria Rilke, Letters to a Young Poet, Letter Eight, Borgeby gård, 12 August 1904 (trans. Stephen Mitchell, 1984)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "The Rilke Archive text of Letter Eight, which prints the heading Borgeby Gård, Flädie, Sweden, 12th August 1904 in K. W. Maurer’s translation, plus a quotation database and several postings that carry this exact English and credit it to Stephen Mitchell.",
+  "edition": "Letters to a Young Poet, trans. Stephen Mitchell (Random House, 1984)",
+  "locator": "Letter Eight, 12 August 1904",
+  "url": "https://rilkepoetry.com/letters-to-a-young-poet/letter-eight/"
+ },
+ "confidence": "medium",
+ "reason": "The passage is certainly Rilke’s and sits in Letter Eight, whose date and place the archive text confirms. The proposed English is the Mitchell rendering, distinct from Maurer’s and from Herter Norton’s, and I could name it only from secondary sources rather than the printed page, so the confidence is medium and not high."
+}

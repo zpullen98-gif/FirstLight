@@ -1,0 +1,11 @@
+{
+ "id": "07-fict-09",
+ "refuted": false,
+ "wordingChecked": true,
+ "reason": "Attacked and it holds. I downloaded the Internet Archive OCR of the 1813 Egerton first edition, volume II, myself and read the page: it prints \"There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me.\" The verifier's correction is right and the quotation-site form \"at every attempt\" is the corruption. The Gutenberg text (#1342) was downloaded separately and agrees on \"with every attempt\", so the reading is not an artefact of one scan. The locator is right by count, not by assumption: in that volume the passage falls between the headings for chapter VIII and chapter IX, and volume II chapter I opens \"Miss Bingley's letter arrived, and put an end to doubt\", which is chapter 24 in modern numbering, so volume II chapter VIII is chapter 31. The scene is right: Elizabeth at the pianoforte at Rosings, answering Darcy, preceded by \"turned to him with an arch smile\" and followed by his \"I shall not say that you are mistaken.\" The speaker is her own, not reported of anyone, and she is named. Austen is not on the banned list, not on the misattribution list, stands at one of three for the year (month 2), and shipped.js returns no shipped or near match. In scope: a novel of 1813, no scripture, film, lyric, proverb, business or oratory, nothing needing a content warning. Tag Fiction is the form of the work. The source line leads with the name, carries no dash, uses curly quotes only, and runs 104 characters. Nothing to refute.",
+ "betterCitation": "",
+ "sources": [
+  "https://archive.org/download/JaneAusten-PrideandPrejudice-1sted-1813-vol2/JaneAusten-PrideandPrejudice-1sted-1813-vol2_djvu.txt (downloaded and read)",
+  "https://www.gutenberg.org/cache/epub/1342/pg1342.txt (downloaded and read, second witness)"
+ ]
+}

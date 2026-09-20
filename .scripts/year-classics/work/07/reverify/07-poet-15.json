@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-15",
+ "verdict": "VERIFIED",
+ "quote": "But where danger threatens / That which saves from it also grows.",
+ "source": "Friedrich Hölderlin, Patmos, lines 3 to 4, Poems and Fragments (trans. Michael Hamburger, 1966)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Full text search inside the Internet Archive scan of the 1966 University of Michigan Press volume, via Open Library search inside, which returns the passage itself and not a catalogue record; corroborated by the wording in print in Sherrard, Enright, Derrida, Werner Marx and Fitzgerald, all before 2004",
+  "edition": "Friedrich Hölderlin: Poems and Fragments, trans. Michael Hamburger (The University of Michigan Press, 1966)",
+  "locator": "Patmos, lines 3 and 4 of the opening quatrain: the scan reads “God. But where danger threatens That which saves from it also grows. In gloomy places dwell The eagles”, so the lines follow “Near is / And difficult to grasp, the God.” and the sentence closes before Im Finstern wohnen die Adler",
+  "url": "https://openlibrary.org/search/inside?q=%22That+which+saves+from+it+also+grows%22"
+ },
+ "confidence": "high",
+ "reason": "The refutation rested on one point, that the wording could be shown only in the 2004 Anvil text, and that point is now disproved: searching inside the 1966 Michigan scan (friedrichholderl0000mich, creator Michael Hamburger, publisher The University of Michigan Press, date 1966) returns the exact line in the opening quatrain with the following sentence about the eagles, which is the passage and not the catalogue. The translator was never in doubt, the line break after threatens and the terminal stop are the edition's own, and shipped.js reports no shipped or near match, Hölderlin at zero for the year, and no ban."
+}

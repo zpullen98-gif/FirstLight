@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "I do not wish them to have power over men; but over themselves.",
+ "source": "Mary Wollstonecraft, A Vindication of the Rights of Woman, chapter 4, answering Rousseau on the education of women (1792)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Full text of A Vindication of the Rights of Woman read at Project Gutenberg ebook 3420 and cross-checked against the Marxists Internet Archive chapter 4 page; the sentence stands in chapter 4 with the semicolon as proposed",
+  "edition": "A Vindication of the Rights of Woman (1792), chapter 4",
+  "locator": "chapter 4, Observations on the State of Degradation to Which Woman Is Reduced by Various Causes, immediately after the quotation from Rousseau",
+  "url": "https://www.gutenberg.org/cache/epub/3420/pg3420.txt"
+ },
+ "confidence": "high",
+ "reason": "Located in chapter 4, where it answers Rousseau's line that educating women lessens their power over men. The chapter title is too long to ride inside a 140 character source, so the source names chapter 4 and what she is answering, which locates the passage on the page. Wollstonecraft goes to three of three for the year with this line."
+}

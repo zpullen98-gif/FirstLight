@@ -1,0 +1,18 @@
+{
+ "id": "07-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "I should say that courage is a sort of endurance of the soul, if I am to speak of the universal nature which pervades them all.",
+ "source": "Plato, Laches, 192b to c (Laches) (trans. Benjamin Jowett, 1892)",
+ "tradition": "Philosophy",
+ "speaker": "Laches",
+ "translator": "Benjamin Jowett, 1892",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg's Laches in Jowett's translation, read at the point where Socrates has just asked for the quality common to courage in war, at sea, in illness and in poverty. The sentence stands there verbatim and it is Laches who says it, answering Socrates. The Gutenberg text carries no Stephanus numbers, so the locator was fixed separately: the Greek at 192b is kartereia tis tes psyches, an endurance of the soul, and Socrates' objection that endurance joined with folly is hurtful follows through 192c. Perseus and the standard summaries place the definition at 192b to c.",
+  "url": "https://www.gutenberg.org/cache/epub/1584/pg1584.txt",
+  "edition": "The Dialogues of Plato, translated into English by Benjamin Jowett, third edition, 1892",
+  "locator": "Laches 192b to c"
+ },
+ "confidence": "high",
+ "reason": "Wording verbatim in Jowett, speaker correctly identified as Laches rather than Socrates, and the Stephanus range confirmed independently of the Gutenberg text. Plato stands at one line of three for the year and last appeared in May, so he is free."
+}

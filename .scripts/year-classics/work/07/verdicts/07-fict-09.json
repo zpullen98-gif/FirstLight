@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-09",
+ "verdict": "CORRECTED",
+ "quote": "There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me.",
+ "source": "Jane Austen, Pride and Prejudice, vol. II, ch. 8 (ch. 31), at Rosings (Elizabeth Bennet) (Egerton, 1813)",
+ "speaker": "Elizabeth Bennet",
+ "tradition": "Fiction",
+ "note": "Corrected to the wording of the 1813 first edition: my courage always rises with every attempt to intimidate me, not at every attempt. Volume II, chapter VIII of that edition is chapter 31 in modern numbering. Elizabeth says it to Darcy at the pianoforte at Rosings.",
+ "evidence": {
+  "where": "The 1813 first edition, volume II, was downloaded from the Internet Archive as searchable OCR text and read. Its chapter VIII prints Elizabeth's speech at the pianoforte at Rosings: You mean to frighten me, Mr. Darcy, by coming in all this state to hear me? But I will not be alarmed though your sister does play so well. There is a stubbornness about me that never can bear to be frightened at the will of others. My courage always rises with every attempt to intimidate me. It is preceded by Elizabeth turned to him with an arch smile and followed by Darcy's I shall not say that you are mistaken. Counting the chapter headings in that volume places the passage in chapter VIII, which is chapter 31 of the novel. The Project Gutenberg text and the janeausten.org chapter text both read rises with every attempt. No text consulted reads at every attempt; that form appears only on quotation sites.",
+  "edition": "Pride and Prejudice: A Novel, in Three Volumes, vol. II (T. Egerton, 1813), first edition",
+  "locator": "vol. II, ch. VIII (ch. 31), Elizabeth to Darcy at the pianoforte at Rosings",
+  "url": "https://archive.org/download/JaneAusten-PrideandPrejudice-1sted-1813-vol2/JaneAusten-PrideandPrejudice-1sted-1813-vol2_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The speech is Elizabeth's and stands exactly where the proposal says, so the author, work, volume, chapter, scene and speaker all hold. Only the wording was wrong: the first edition and every full text consulted read with every attempt, not at every attempt, so the ship wording is corrected. Shipped.js reports the line unshipped, Austen at one of three for the year and unbanned, and courage in a drawing room is publishable and on theme."
+}

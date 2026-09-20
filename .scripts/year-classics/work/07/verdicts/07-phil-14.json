@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-14",
+ "verdict": "CORRECTED",
+ "quote": "To conquer fear is the beginning of wisdom, in the pursuit of truth as in the endeavour after a worthy manner of life.",
+ "source": "Bertrand Russell, Unpopular Essays, ch. 7, An Outline of Intellectual Rubbish (George Allen and Unwin, 1950)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected: the spelling follows the edition, so the edition is named. The George Allen and Unwin text of Unpopular Essays, chapter 7, reads endeavour; transcriptions of the American printing of the 1943 essay read endeavor. The sentence sits in the passage on fear, not at the close of the essay.",
+ "evidence": {
+  "where": "A scan of the George Allen and Unwin printing of Unpopular Essays held by the Internet Archive, item in.ernet.dli.2015.462628, reads endeavour (the OCR drops a letter, giving afer for after); the line falls on the page after the foot marker 138, inside chapter VII, which the contents list runs from p. 95 to p. 145. The 1943 American text at panarchy.org reads endeavor",
+  "edition": "Unpopular Essays (London: George Allen and Unwin, Ruskin House, Museum Street), chapter VII",
+  "locator": "ch. 7, An Outline of Intellectual Rubbish",
+  "url": "https://archive.org/download/in.ernet.dli.2015.462628/2015.462628.Unpopular-Essays_djvu.txt"
+ },
+ "confidence": "medium",
+ "reason": "The sentence is genuine and the wording otherwise exact, but the proposal gave no edition while proposing the American spelling, and pagination differs between the Allen and Unwin cloth edition and the Unwin Books paperback, so a chapter number is cited rather than a page. Russell has not appeared in the year."
+}

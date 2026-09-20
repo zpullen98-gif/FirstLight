@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-06",
+ "verdict": "CORRECTED",
+ "quote": "Man is but a reed, the most feeble thing in nature, but he is a thinking reed.",
+ "source": "Blaise Pascal, Pensées, Brunschvicg fragment 347 (trans. W. F. Trotter, 1910)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "Corrected punctuation. The Trotter translation of 1910, printed in the Harvard Classics volume of Pascal, sets a comma after in nature where the proposal set a semicolon. Two separate scans of that printing agree. The semicolon belongs to the later Everyman printing of the same translation, so the year and the wording must match.",
+ "evidence": {
+  "where": "Two independent Internet Archive scans of the 1910 printing, thoughtstrbywftr00pascuoft and thoughtslettersm028185mbp, downloaded and searched locally. Both print fragment 347 as Man is but a reed, the most feeble thing in nature, but he is a thinking reed, with a comma. The first scan carries the full imprint: Thoughts, tr. by W. F. Trotter, letters, tr. by M. L. Booth, minor works, tr. by O. W. Wight, New York, P. F. Collier, 1910. Semicolons elsewhere in the same paragraph of both scans are rendered correctly, so the comma is not an artifact. The Project Gutenberg text of the Everyman and Dutton printing of the same Trotter translation, with the T. S. Eliot introduction first published in 1931, reads the sentence with a semicolon instead, which is where the proposal's wording comes from. Fragment 347 is the standard Brunschvicg number for the thinking reed, and the Everyman printing states that its notes follow Brunschvicg.",
+  "url": "https://archive.org/download/thoughtstrbywftr00pascuoft/thoughtstrbywftr00pascuoft_djvu.txt",
+  "edition": "Blaise Pascal: Thoughts, Letters, Minor Works, Harvard Classics vol. 48, Thoughts trans. W. F. Trotter, P. F. Collier, 1910",
+  "locator": "fragment 347, the opening sentence"
+ },
+ "confidence": "high",
+ "reason": "The line, the translator and the fragment number are all right; only the punctuation belonged to a different printing of the same translation. Shipping Trotter 1910 with the comma keeps the wording and the named edition in agreement. Pascal stands at two lines of three for the year, from March and June, so a third is allowed and no month is doubled."
+}

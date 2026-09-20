@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-07",
+ "verdict": "CORRECTED",
+ "quote": "I can’t do much with my hands; so I will make a battering-ram of my head and make a way through this rough-and-tumble world.",
+ "source": "Louisa May Alcott, Her Life, Letters, and Journals, letter to her father of 29 November 1856, p. 89 (ed. Ednah D. Cheney, 1889)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected: this is not a journal entry of 1850. Cheney prints it in chapter five, Authorship, inside a letter written from Boston to her father on 29 November 1856, her twenty-fourth birthday, on page 89 of the Roberts Brothers edition. The tag becomes Correspondence. The wording is exact.",
+ "evidence": {
+  "where": "The Internet Archive full text of the Roberts Brothers edition, read at the passage itself. The letter is headed To her Father, written from Mrs. Reed’s, BOSTON, Nov. 29, 1856, and the sentence stands on page 89 within chapter five, Authorship. The surrounding lines about birthdays being dismal times and the birthday pin upon my bosom confirm the date, since Alcott was born on 29 November 1832.",
+  "edition": "Louisa May Alcott: Her Life, Letters, and Journals, ed. Ednah D. Cheney (Roberts Brothers, Boston, 1889)",
+  "locator": "chapter V, Authorship, p. 89, letter to Amos Bronson Alcott, 29 November 1856",
+  "url": "https://archive.org/details/louisamayalcotth00alcouoft"
+ },
+ "confidence": "high",
+ "reason": "The sentence is real and the wording matches the 1889 text word for word, including the semicolon, but every other part of the citation was wrong: it is a letter and not a journal, the year is 1856 and not 1850, and she was twenty-four and not a teenager. Correcting it also moves the line into the Correspondence lane, which the month needs. Alcott stands at one of three for the year."
+}

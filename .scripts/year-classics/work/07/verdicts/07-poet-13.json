@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "The world stands out on either side / No wider than the heart is wide; / Above the world is stretched the sky,— / No higher than the soul is high.",
+ "source": "Edna St. Vincent Millay, Renascence, the closing verse paragraph, lines 1 to 4, Renascence and Other Poems (Mitchell Kennerley, 1917)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 109, the full text of Renascence and Other Poems, plus a second full-text posting of the 1917 volume",
+  "edition": "Renascence and Other Poems (New York: Mitchell Kennerley, 1917)",
+  "locator": "Renascence, the closing verse paragraph of twelve lines, its first four",
+  "url": "https://www.gutenberg.org/files/109/109-h/109-h.htm"
+ },
+ "confidence": "high",
+ "reason": "The four lines stand word for word in the 1917 text, including the comma and dash after sky. The locator is sharpened to say lines 1 to 4 of that paragraph, because the paragraph runs eight lines further and a reader should not expect these to be the last words of the poem."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "In every town and every village and every mud hut in the world there is always a man who loves children and who will fight to make a good world for them.",
+ "source": "Lillian Hellman, Watch on the Rhine, Act Three, his farewell to his children (Kurt Müller) (Random House, 1941)",
+ "speaker": "Kurt Müller",
+ "tradition": "Drama",
+ "note": "Corrected wording. The proposed version, with every town, every village, every mud hut, is how the 1943 film renders the speech and how it travels online. Full text search of the printed play returns the longer form with the three and joined clauses, which is what ships. The author, work, act and speaker were right.",
+ "evidence": {
+  "where": "HathiTrust full text phrase search across in copyright volumes. The phrase every mud hut in the world returned the Random House printings of the play and the Four Plays volume; In every town and every village and every mud hut in the world returned the same play; every mud hut in the world there is always a man who loves children and who will fight to make a good world for them returned it as well, so the two probes overlap and fix the whole sentence. The comma only forms returned nothing from the play. An EBSCO research starter places the farewell in Act Three.",
+  "edition": "Watch on the Rhine: A Play in Three Acts (Random House, 1941)",
+  "locator": "Act Three, Kurt taking leave of Joshua, Babette and Bodo",
+  "url": "https://babel.hathitrust.org/cgi/ls?q1=%22In+every+town+and+every+village+and+every+mud+hut+in+the+world%22&anyall1=phrase&field1=ocr&a=srchls&athtype=all"
+ },
+ "confidence": "medium",
+ "reason": "The word sequence of the play is settled by two overlapping phrase searches inside the printed text, and the film wording is ruled out. The page images are locked, so the internal commas of the sentence could not be read and none have been added."
+}

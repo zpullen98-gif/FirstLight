@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-12",
+ "verdict": "VERIFIED",
+ "quote": "A joy it will be one day, perhaps, to remember even this.",
+ "source": "Virgil, The Aeneid, Book 1, line 203 of the Latin, to his men after the storm (Aeneas) (trans. Robert Fagles, 2006)",
+ "speaker": "Aeneas",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "A page that sets eight English versions of Aeneid 1.203 side by side, from Dryden to Kline, and prints the Fagles 2006 rendering in exactly this wording; the Latin line and its place in Aeneas' speech confirmed against the standard references",
+  "url": "http://stephenfrug.blogspot.com/2021/09/the-aeneid-book-1-line-203.html",
+  "edition": "Virgil, The Aeneid, trans. Robert Fagles (New York: Viking, 2006)",
+  "locator": "Aeneid 1.203 of the Latin, forsan et haec olim meminisse iuvabit, closing Aeneas' speech to his men on the Libyan shore after the storm; Fagles' English lineation runs ahead of the Latin, so the Latin line is the stable locator"
+ },
+ "confidence": "high",
+ "reason": "The wording is Fagles and no one else: Fitzgerald has remembering even this will be a pleasure, Mandelbaum has you will rejoice to recall even this, and the comparison page prints this sentence under Fagles 2006. The locator is honest in naming the Latin line rather than an English one, because Fagles does not follow the Latin numbering. The speaker goes in the source, as the brief's speaker trap requires: this is Aeneas rallying his men, not Virgil in his own voice, which is also what makes it a trial line rather than a slogan. Not the Virgil on the misattribution list, which is fortune favours the bold at 10.284 and belongs to Turnus. Virgil stands at zero for the year and is not banned."
+}

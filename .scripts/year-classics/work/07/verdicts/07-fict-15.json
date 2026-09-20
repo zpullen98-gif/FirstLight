@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-15",
+ "verdict": "VERIFIED",
+ "quote": "Your silence will not protect you.",
+ "source": "Audre Lorde, Sister Outsider, The Transformation of Silence into Language and Action (Crossing Press, 1984)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The full text of the piece read directly, where the sentence stands as printed: My silences had not protected me. Your silence will not protect you. The headnote gives the publication history, a paper read at a Modern Language Association panel on 28 December 1977, then printed in Lorde’s books",
+  "url": "https://interminablerambling.com/wp-content/uploads/2023/12/2a815-thetransformationofsilenceintolanguageandaction_byaudrelorde.pdf",
+  "edition": "Sister Outsider: Essays and Speeches, The Crossing Press, 1984",
+  "locator": "The Transformation of Silence into Language and Action"
+ },
+ "confidence": "high",
+ "reason": "The wording is fixed and uncontested and the essay is the right one. Two things for the editor: the piece was first read aloud at an MLA panel and the book is subtitled Essays and Speeches, so the scope rule about oratory is in play, though it reads as written prose gathered in a book of essays; and month 5 ruled this same line, id 05-phil-10, with p. 41 in the source, a page I could not confirm myself, so I leave it out."
+}

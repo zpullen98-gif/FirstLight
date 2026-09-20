@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "For I’se still goin’, honey, / I’se still climbin’, / And life for me ain’t been no crystal stair.",
+ "source": "Langston Hughes, Mother to Son, the closing three lines, The Crisis, December 1922 (the mother)",
+ "speaker": "the mother",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Academy of American Poets text of the poem, which records first publication in The Crisis and the public domain status, and the standard encyclopaedia article on the poem",
+  "edition": "The Crisis, December 1922; reprinted in The Weary Blues (Knopf, 1926)",
+  "locator": "the last three lines, following Don’t you fall now",
+  "url": "https://poets.org/poem/mother-son"
+ },
+ "confidence": "high",
+ "reason": "The three lines are the closing lines as printed, with the poem's own elisions kept. The whole poem is the mother speaking to her son, so the mother is named as speaker. Hughes stands at one line for the year and last appeared in month five."
+}

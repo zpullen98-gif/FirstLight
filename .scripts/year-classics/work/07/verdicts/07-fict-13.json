@@ -1,0 +1,17 @@
+{
+ "id": "07-fict-13",
+ "verdict": "CORRECTED",
+ "quote": "The unknown, the unforetold, the unproven, that is what life is based on. Ignorance is the ground of thought. Unproof is the ground of action.",
+ "source": "Ursula K. Le Guin, The Left Hand of Darkness, ch. 5, The Domestication of Hunch (Faxe) (1969)",
+ "speaker": "Faxe",
+ "tradition": "Fiction",
+ "note": "Corrected: the novel reads the unproven, not the unprovable. The sentence is Faxe’s, spoken in the Forest of Otherhord, and the dialogue tag said Faxe’s soft voice in the forest has been lifted out of it, which is why the speaker stands in the source.",
+ "evidence": {
+  "where": "A full electronic text of the novel read directly at the chapter 5 passage, with the reading corroborated by quotation databases that print the same sentence",
+  "url": "https://www.sackett.net/Ursula-K.-Le-Guin-The-Left-Hand-of-Darkness-.pdf",
+  "edition": "Text of the 1969 novel as carried in a complete electronic text; no print edition was opened",
+  "locator": "ch. 5, The Domestication of Hunch, at Otherhord"
+ },
+ "confidence": "high",
+ "reason": "The passage is where the curator said it was and the chapter title is right, but the text reads unproven and the proposal read unprovable, a one-word difference that would have shipped a wording no edition carries. Faxe speaks it, so the speaker goes in the source."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-04",
+ "verdict": "VERIFIED",
+ "quote": "But all things excellent are as difficult as they are rare.",
+ "source": "Baruch Spinoza, Ethics, Part V, Note to Proposition XLII, the closing sentence (trans. R. H. M. Elwes, 1883)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource's Ethics, Part 5, read to the end. The Note to Proposition XLII closes with the run beginning If the way which I have pointed out as leading to this result seems exceedingly hard, and the final sentence of the whole book is the one proposed, word for word. The Wikisource header names the translator as R. H. M. Elwes, from his English version of Spinoza's chief works. The Latin behind it is Sed omnia praeclara tam difficilia quam rara sunt.",
+  "url": "https://en.wikisource.org/wiki/Ethics_(Spinoza)/Part_5",
+  "edition": "The Chief Works of Benedict de Spinoza, trans. R. H. M. Elwes, George Bell and Sons, 1883",
+  "locator": "Part V, Note to Proposition XLII, the last sentence of the Ethics"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in Elwes, and the claim that it is the closing sentence of the book holds: nothing follows it in Part V. Spinoza stands at one line of three for the year and last appeared in April, so he is free."
+}

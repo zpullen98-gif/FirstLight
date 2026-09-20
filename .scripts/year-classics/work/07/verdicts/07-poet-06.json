@@ -1,0 +1,17 @@
+{
+ "id": "07-poet-06",
+ "verdict": "CORRECTED",
+ "quote": "What is there / like fortitude! What sap / went through that little thread / to make the cherry red!",
+ "source": "Marianne Moore, Nevertheless, the last four lines, in the collection Nevertheless (Macmillan, 1944)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: the proposed three lines began in mid line. Moore’s closing tercet opens with like fortitude!, and What sap ends that line. The quotation now starts at What is there, the last line of the tercet before, so the verse keeps the poet’s own line breaks. Book and poem share the title.",
+ "evidence": {
+  "where": "A full transcription of the poem read as a PDF this run, checked against a second source that quotes the closing four lines with the same lineation",
+  "edition": "Nevertheless (New York: Macmillan, 1944), the title poem",
+  "locator": "the final tercet and the last line of the tercet before it",
+  "url": "https://eclass.uoa.gr/modules/document/file.php/ENL605/Marianne%20Moore%20-%20Nevertheless.pdf"
+ },
+ "confidence": "high",
+ "reason": "The poem is in tercets, and the last two run: The weak overcomes its / menace, the strong over / comes itself. What is there // like fortitude! What sap / went through that little thread / to make the cherry red! The proposal called What sap the head of a line, which it is not, and dropped the cry the poem is known by. Taking the last four lines fixes the lineation and restores the famous phrase. The transcription had small slips elsewhere in the poem, but the closing four lines are confirmed twice."
+}

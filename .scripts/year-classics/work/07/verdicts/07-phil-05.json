@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "Nevertheless, not to extinguish our free will, I hold it to be true that Fortune is the arbiter of one-half of our actions, but that she still leaves us to direct the other half, or perhaps a little less.",
+ "source": "Niccolò Machiavelli, The Prince, chapter XXV (trans. W. K. Marriott, 1908)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The full Marriott text downloaded from Project Gutenberg and searched locally. The sentence stands at line 3452, inside chapter XXV, which begins at line 3439 and ends where chapter XXVI begins at line 3555. The chapter heading reads WHAT FORTUNE CAN EFFECT IN HUMAN AFFAIRS AND HOW TO WITHSTAND HER. The Gutenberg header names W. K. Marriott as translator. The wording matches the proposal exactly, character for character, apart from a footnote marker after the word actions which a quotation properly drops. The translation year was confirmed separately against the Internet Archive record princethe00machuoft, The Prince, London: J. M. Dent, New York: E. P. Dutton, 1908, which is Marriott's Everyman translation.",
+  "url": "https://www.gutenberg.org/cache/epub/1232/pg1232.txt",
+  "edition": "The Prince, trans. W. K. Marriott, J. M. Dent and E. P. Dutton, 1908",
+  "locator": "chapter XXV, the fourth sentence of the chapter"
+ },
+ "confidence": "high",
+ "reason": "The sentence is in the named work at the named place in the named translation, verified against the full text rather than a quotation site, and the 1908 date of Marriott's translation is confirmed by a library record of the printed volume. Machiavelli is not banned and stands at none of three for the year."
+}

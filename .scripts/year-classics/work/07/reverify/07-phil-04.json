@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-04",
+ "verdict": "CORRECTED",
+ "quote": "But all things excellent are as difficult as they are rare.",
+ "source": "Baruch Spinoza, Ethics, Part V, Note to Proposition XLII, the last sentence (trans. R. H. M. Elwes, 1891)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "Corrected: the translation year. The Ethics sits in Volume II of Elwes’s Chief Works. Catalogues date that volume 1883 in one record and 1884 in another, so the citation now names the revised edition of 1891, George Bell and Sons, whose title page and closing page, p. 271, were read directly.",
+ "evidence": {
+  "where": "I downloaded two full texts and read them locally. First, the Internet Archive scan chiefworksofbene02spin: its title page reads BOHN’S PHILOSOPHICAL LIBRARY, SPINOZA’S WORKS, Vol. II, THE CHIEF WORKS OF BENEDICT DE SPINOZA, TRANSLATED FROM THE LATIN, WITH AN INTRODUCTION BY R. H. M. ELWES, De Intellectus Emendatione, Ethica, Select Letters, REVISED EDITION, LONDON: GEORGE BELL AND SONS, YORK STREET, COVENT GARDEN, 1891. On p. 271 of that volume the Ethics ends: If the way which I have pointed out as leading to this result seems exceedingly hard, it may nevertheless be discovered. Needs must it be hard, since it is so seldom found. How would it be possible, if salvation were ready to our hand, and could without great labour be found, that it should be by almost all men neglected? But all things excellent are as difficult as they are rare. The Correspondence follows, so this is the last sentence of the Ethics. Second, Project Gutenberg 3800, the Elwes Ethics, gives the same paragraph word for word and prints End of the Ethics directly after it. On the year: the earlier verifier took 1883 from Wikisource, which names no edition and carries the notice that it is not backed by a scan. The refuter found the Digital Library of India scan of Volume II dated 1884. A second Digital Library of India scan of Volume II, dli.bengal.10689.1494, George Bell and Sons, London, is dated 1883. Neither is a title page reading and they contradict each other, so the first printing year of Volume II cannot be settled from here. The 1891 revised edition is the one whose title page I actually opened, and its wording is the wording shipped. shipped.js: no exact match, no near match, Spinoza at one of three for the year from April, not banned.",
+  "url": "https://archive.org/details/chiefworksofbene02spin",
+  "edition": "The Chief Works of Benedict de Spinoza, Vol. II, trans. R. H. M. Elwes, revised edition, London: George Bell and Sons, 1891 (Bohn’s Philosophical Library)",
+  "locator": "Part V, Note to Proposition XLII, p. 271, the last sentence of the Ethics"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in Elwes and is the last sentence of the book, so the refutation did not touch the quotation itself; only the edition year was wrong. Rather than choose between two contradictory catalogue dates for the first printing of Volume II, the card now names the 1891 revised edition, whose title page and closing page I read."
+}

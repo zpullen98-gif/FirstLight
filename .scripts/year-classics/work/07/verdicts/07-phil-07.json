@@ -1,0 +1,17 @@
+{
+ "id": "07-phil-07",
+ "verdict": "CORRECTED",
+ "quote": "He said not: Thou shalt not be tempested, thou shalt not be travailed, thou shalt not be afflicted; but He said: Thou shalt not be overcome.",
+ "source": "Julian of Norwich, Revelations of Divine Love, chapter LXVIII (ed. Grace Warrack, 1901)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "Corrected the credit. Warrack's title page calls the book a version from the manuscript in the British Museum, edited by Grace Warrack, Methuen, 1901, so the source reads ed. rather than trans. The wording is hers and is unchanged. Her introduction prints a variant with distressed; chapter LXVIII, which is the locator, reads afflicted.",
+ "evidence": {
+  "where": "The Grace Warrack text downloaded from Project Gutenberg and searched locally. The sentence appears twice: as the chapter head of chapter LXVIII at line 7502 and again in the body of that chapter at line 7531, where the scan carries two obvious optical errors for the word shalt. The chapter head gives the clean reading and matches the proposal word for word, with tempested, travailed and afflicted in that order. The title page reproduced in the same file reads Revelations of Divine Love, recorded by Julian, Anchoress at Norwich, a version from the MS. in the British Museum, edited by Grace Warrack, Methuen and Company, London, 1901, and the Gutenberg metadata lists Warrack as editor rather than translator. Warrack's own introduction at line 1924 quotes the sentence with distressed in the third clause, a variant that does not affect the chapter LXVIII text.",
+  "url": "https://www.gutenberg.org/cache/epub/52958/pg52958.txt",
+  "edition": "Revelations of Divine Love, ed. Grace Warrack, Methuen, London, 1901",
+  "locator": "chapter LXVIII"
+ },
+ "confidence": "high",
+ "reason": "The wording, the chapter and the 1901 Warrack edition are all confirmed from the edition itself, and only the word translator needed fixing. On scope: this is a named prose work by a named author, not scripture or liturgy, and the year already carries Shantideva, al-Ghazali, Dogen, Buber and Weil, so religious philosophy by a named hand is established here rather than in the Prayer tab. The sentence reports divine speech inside Julian's own narration, so no speaker parenthesis is owed. Julian stands at none of three for the year."
+}
