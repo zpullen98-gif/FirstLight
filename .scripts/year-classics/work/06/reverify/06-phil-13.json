@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-13",
+ "verdict": "CORRECTED",
+ "quote": "Untruth naturally afflicts historical information.",
+ "source": "Ibn Khaldun, The Muqaddimah, the opening of Book One of the Kitab al-Ibar (trans. Franz Rosenthal, 1958)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: the section. Rosenthal keeps the Introduction and Book One apart, and his Introduction opens with another sentence. This one stands in the opening pages of Book One of the Kitab al-Ibar, confirmed in two copies of his translation. No page is printed because no page was opened.",
+ "evidence": {
+  "where": "I read the sentence myself in two independent copies of Rosenthal's translation. First the oceanlibrary chunked HTML, where the nearest heading above the sentence is Book One of the Kitab Al-'Ibar and the same file's INTRODUCTION opens instead with IT SHOULD BE KNOWN that history is a discipline that has a great number of approaches. Then I downloaded a separate PDF of the same translation and extracted its text with pdftotext: 12,786 lines, the sentence occurs exactly once, at line 62, three sentences after the Book One opening IT SHOULD be known that history, in matter of fact, is information about human social organization, and Rosenthal's own table of contents in that file lists Introductory material and Introductory material of Book One, Kitab al 'Ibar as separate things. The refutation of the first verdict is upheld on the locator and the wording survives it intact, character for character, with the following sentence There are various reasons that make this unavoidable and the first reason, partisanship for opinions and schools.",
+  "edition": "Franz Rosenthal's translation, Bollingen Series XLIII, Pantheon Books, 1958, three volumes",
+  "locator": "the opening discussion of Book One of the Kitab al-Ibar, under its subtitle on the nature of civilization; the seven reasons for untruth follow there. Not the Introduction, which is a different section. No page number is shipped: the reference site's volume 1, pages 35 to 36 does not match the scans I read and the printed page was never opened.",
+  "url": "https://traditionalhikma.com/wp-content/uploads/2015/08/The-Muqaddimah-by-Ibn-Khaldun-Translated-by-Franz-Rosenthal.pdf"
+ },
+ "confidence": "high",
+ "reason": "The refutation was right and narrow: the wording is Rosenthal's verbatim, but the sentence sits at the head of Book One, not in the Muqaddimah's Introduction, and the confusion is worse than usual because the work's subtitle is An Introduction to History. I reproduced both findings independently, so the line ships with the section corrected. Ibn Khaldun is unshipped, unbanned, at zero for the year, and a fourteenth century note on why reports go wrong is exactly this month's ground."
+}

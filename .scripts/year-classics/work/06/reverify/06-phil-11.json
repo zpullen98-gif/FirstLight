@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-11",
+ "verdict": "CORRECTED",
+ "quote": "It is a task to come to see the world as it is.",
+ "source": "Iris Murdoch, The Sovereignty of Good, The Sovereignty of Good Over Other Concepts, p. 89 (Routledge, 2014)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: the sentence is on page 89 of the Routledge edition of 2014, in the essay The Sovereignty of Good Over Other Concepts. The proposal cited page 91 of the 1970 printing and an earlier reading cited page 90. The running head of the page that carries the sentence reads 89.",
+ "evidence": {
+  "where": "the scan the earlier verdict names, fetched again and extracted a second time with pdftotext in layout mode, which prints each running head at the head of its own sheet; the copyright page reads First published 1970 by Routledge and Kegan Paul, Routledge Classics 2001, Routledge Great Minds 2014",
+  "edition": "The Sovereignty of Good, Routledge Great Minds, 2014, chapter 3",
+  "locator": "p. 89, running head the sovereignty of good over other concepts 89; the sentence follows But the background condition of such habit and such action, in human beings, is a just mode of vision and a good quality of consciousness, and the page ends up intermediaries invented by human selfishness to make the",
+  "url": "https://eganphilosophy.com/wp-content/uploads/2022/05/Murdoch-The-Sovereignty-of-Good-Over-Other-Concepts.pdf"
+ },
+ "confidence": "high",
+ "reason": "The refutation is right and the first verdict is off by one page. In a layout extraction the head of each sheet carries its own folio, and the sheet holding the sentence reads 89; the next sheet reads 90 and opens difficult task of virtue look easier and more attractive. The wording is verbatim, shipped.js returns no exact and no near match, and Murdoch stands at two of three for the year, so the line ships on the corrected citation."
+}

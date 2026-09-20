@@ -1,0 +1,18 @@
+{
+ "id": "06-fict-11",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and survived, and I went a layer below the verifier to do it. The verifier read the transcluded chapter; I read the two scanned pages the chapter is built from, by fetching the raw wikitext of Page:The Awakening - Kate Chopin.djvu/161 and /162, which carry the running heads THE AWAKENING 147 and 148 of the 1899 Herbert S. Stone printing. Page 147 ends: It sometimes entered Mr. Pontellier's mind to wonder if his wife were not growing a little unbalanced mentally. He could see plainly that she was not herself. That. Page 148 begins: is, he could not see that she was becoming herself and daily casting aside that fictitious self which we assume like a garment with which to appear before the world. So the card's two sentences are verbatim, they are contiguous in the source, and the only thing between them is a page turn, which is not a splice. The next sentence, Her husband let her alone as she requested, is cleanly left off. The locator holds: this is chapter XIX, and the chapter opens Edna could not help but think that it was very foolish, very childish, to have stamped upon her wedding ring, so the quarrel about the atelier and then this paragraph sit where the card says they sit. The 1899 date is the date of the scan's own printing. No translation is involved, so the drift that kills lines on this track cannot reach it. Attribution is clean: it is Chopin's narration, not a character's speech and not one character reporting another, so nothing is owed in parentheses after the locator and neither of the brief's two speaker traps applies. Nothing on the misattribution list touches Chopin. shipped.js: kate chopin, no shipped hit, no near hit, zero of three for the year, not banned. Source line leads with the name, carries no dash, no straight double quote, and is 46 characters. Tag Fiction is the form of the work. Scope is clean: 1899, prose fiction, nothing needing a warning; the paragraph is about a marriage misreading itself, not about the drowning the novel ends in, so the publishability rule is satisfied and the card does not borrow the book's ending. On theme it is exact: the sentence turns on the difference between looking at somebody and seeing them. I could not break it.",
+ "checks": {
+  "wordingAgainstNamedEdition": "confirmed verbatim against the 1899 first-edition scan, pages 147 and 148, read as raw page text rather than as the transcluded chapter",
+  "locator": "confirmed chapter XIX; the chapter's own opening sentence checked as well",
+  "attribution": "correct; Chopin's narration, not a character's line and not reported speech",
+  "speaker": "n/a",
+  "bannedOrAtCap": "not banned, 0 of 3 for the year",
+  "alreadyShipped": "no; shipped.js clean, no near hit",
+  "scope": "in scope: 1899 prose fiction, publishable, on theme",
+  "sourceLineForm": "leads with the name, no dash, no straight quote, 46 characters, tag Fiction"
+ },
+ "residual": "One editorial point that does not refute it. The quotation opens on He and she with no antecedent, and the source line names only the novel and the chapter, so a reader at six in the morning meets two pronouns cold. The March correction on 03-phil-14 treated exactly this, an it with no antecedent, as something the note should carry rather than something that sinks the line. A one-line note saying the he is Leonce Pontellier and the she is Edna would cost nothing and would leave the card self-explaining. The verifier left the note empty."
+}

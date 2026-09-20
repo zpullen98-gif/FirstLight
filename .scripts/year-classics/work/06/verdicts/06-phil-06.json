@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-06",
+ "verdict": "VERIFIED",
+ "quote": "We are learning that a standard of social ethics is not attained by travelling a sequestered byway, but by mixing on the thronged and common road where all must turn out for one another, and at least see the size of one another’s burdens.",
+ "source": "Jane Addams, Democracy and Social Ethics, chapter I, Introduction (Macmillan, 1902)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 15487, the full text of Democracy and Social Ethics, downloaded and searched. The sentence is verbatim, including the possessive in one another's burdens, and it opens its own paragraph. The paragraph before it ends with a rule of living as well as a test of faith, and the sentence after begins To follow the path of social morality. The paragraph sits inside CHAPTER I, whose title in the table of contents and at the head of the text is INTRODUCTION, and well before CHAPTER II, CHARITABLE EFFORT.",
+  "edition": "The Macmillan Company, New York, 1902, set up and electrotyped March 1902, in the Citizen's Library of Economics, Politics, and Sociology; the title page and imprint are reproduced in the scan",
+  "locator": "chapter I, Introduction; the printed page range for the chapter is 1 to 12, but no page number is claimed because the scan is reflowed",
+  "url": "https://www.gutenberg.org/cache/epub/15487/pg15487.txt"
+ },
+ "confidence": "high",
+ "reason": "Located word for word in a scan of the 1902 Macmillan text at the chapter and title the proposal named, with a full stop already in place and only a curly apostrophe to set. Addams is at zero for the year, unbanned, and the shipped check returns nothing. Turning out for one another on the common road and seeing the size of another person's burden is plain sighted moral seeing, which is June's ground, and it asks nothing bleak of a reader at six in the morning."
+}

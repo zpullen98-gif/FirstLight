@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "If this book be not the exact, the absolute, the strict truth, it has no right to exist.",
+ "source": "Marie Bashkirtseff, The Journal of Marie Bashkirtseff, Author’s Preface (trans. Mathilde Blind, 1890)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "A full scan of Mathilde Blind's translation was downloaded as searchable text and read. The sentence stands verbatim in the Author's Preface, three sentences in, after it is precisely because I hope to be read that I am absolutely sincere and before I not only say all the time what I think. The title page of the same scan reads The Journal of Marie Bashkirtseff, translated with an introduction by Mathilde Blind, Cassell and Company, London, Paris and Melbourne, 1890, which confirms the translator and the translation year.",
+  "edition": "The Journal of Marie Bashkirtseff, trans. Mathilde Blind, Cassell and Company, 1890; the French Journal de Marie Bashkirtseff was published in 1887",
+  "locator": "Author's Preface, third sentence of the second paragraph; no page number is claimed because the preface pages carry roman numerals the scan renders unreliably",
+  "url": "https://archive.org/stream/TheJournalOfMarieBashkirtseffTranslatedWithAnIntroductionBy/The_journal_of_Marie_Bashkirtseff_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is in the named work at the named place in the named translation, word for word, and shipped.js reports it unshipped with Bashkirtseff unused and unbanned. Staking a book's right to exist on strict truth is the month's theme stated as a condition, and it is publishable as it stands."
+}

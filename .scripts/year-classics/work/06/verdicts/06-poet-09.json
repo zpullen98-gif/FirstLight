@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-09",
+ "verdict": "CORRECTED",
+ "quote": "Earth’s crammed with heaven, / And every common bush afire with God: / But only he who sees, takes off his shoes, / The rest sit round it, and pluck blackberries, / And daub their natural faces unaware / More and more, from the first similitude.",
+ "source": "Elizabeth Barrett Browning, Aurora Leigh, Seventh Book, first edition of 1857 (Aurora)",
+ "speaker": "Aurora",
+ "tradition": "Poetry",
+ "note": "Corrected against the page images of the 1857 first edition. That text sets a comma after takes off his shoes, where the proposal had a semicolon; everything else stands. The lines are Aurora’s own narration in the Seventh Book, and the quotation begins in the middle of a verse line.",
+ "evidence": {
+  "where": "Wikisource page images and transcription of the 1857 first edition of Aurora Leigh, read at the leaf carrying the passage. The surrounding lines run: In such a little tremour of the blood / The whole strong clamour of a vehement soul / Doth utter itself distinct. Earth’s crammed with heaven, and the first person wrist and the self naming I, Aurora on the same leaf confirm that this is Aurora narrating, not dialogue. No precise line number could be fixed from a numbered scholarly text, so the locator names the Book and the edition rather than lines.",
+  "edition": "Elizabeth Barrett Browning, Aurora Leigh (Chapman and Hall, 1857), first edition",
+  "locator": "Seventh Book, the passage beginning Earth’s crammed with heaven",
+  "url": "https://en.wikisource.org/wiki/Page:Aurora_Leigh_a_Poem.djvu/313"
+ },
+ "confidence": "high",
+ "reason": "The passage is in the named work at the named Book, in the edition’s own lineation, with one punctuation correction. Barrett Browning stands at one for the year and is unbanned, and the line ends in a full stop. It is the month’s claim in verse: the world is already full and the whole difference is whether you look, which is a morning thought and needs no warning."
+}

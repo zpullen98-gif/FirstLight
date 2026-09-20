@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "The words of truth are naturally simple, and justice needs no subtle interpretations, for it has a fitness in itself; but the words of injustice, being sick in themselves, require clever treatment.",
+ "source": "Euripides, The Phoenician Women, line 469 (Polyneices) (trans. E. P. Coleridge, 1938)",
+ "speaker": "Polyneices",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Perseus Digital Library text of Euripides, Phoenissae, in the E. P. Coleridge English translation, read at the card beginning line 469. The page prints the sentence word for word as proposed, with has and not hath, and with being sick in themselves and not being rotten in themselves. The adjacent card ending at line 468 closes with Jocasta, which confirms that line 469 opens Polyneices' speech.",
+  "edition": "E. P. Coleridge translation as reproduced by Perseus from The Complete Greek Drama, ed. Whitney J. Oates and Eugene O'Neill Jr. (New York: Random House, 1938)",
+  "locator": "Euripides, Phoenissae 469 to 472, the opening sentence of Polyneices' speech; the line marker for 470 falls inside the sentence",
+  "url": "https://www.perseus.tufts.edu/hopper/text?doc=Eur.+Phoen.+469&fromdoc=Perseus%3Atext%3A1999.01.0118"
+ },
+ "confidence": "high",
+ "reason": "The wording proposed is the wording the named translation prints, at the named line, in the mouth of the named speaker, and it ends in a full stop. Euripides is unbanned, unshipped and at zero for the year. The sentence argues that a true case can be put plainly and only a crooked one needs handling, which is the month's theme stated on a stage, and it carries no material needing a warning."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-14",
+ "verdict": "VERIFIED",
+ "quote": "I wished to tell the truth, for truth always conveys its own moral to those who are able to receive it.",
+ "source": "Anne Brontë, The Tenant of Wildfell Hall, Preface to the Second Edition, 22 July 1848",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "A full text of the novel opened and searched as plain text. The heading reads AUTHOR'S PREFACE TO THE SECOND EDITION and the preface is signed July 22nd, 1848, immediately before the first chapter. The quoted words close the preface's second paragraph, which runs My object in writing the following pages was not simply to amuse the Reader; neither was it to gratify my own taste, nor yet to ingratiate myself with the Press and the Public: I wished to tell the truth, for truth always conveys its own moral to those who are able to receive it. Every word, comma and the final stop match the proposal. The clause follows a colon, so it begins where the page begins a new thought and its opening capital is the word I, which the page already capitalises; nothing is minted.",
+  "edition": "John Murray, London, 1920, with an introduction by Mrs Humphrey Ward, reproducing the 1848 second edition preface",
+  "locator": "Preface to the Second Edition, second paragraph, dated 22 July 1848",
+  "url": "https://www.gutenberg.org/cache/epub/969/pg969.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is where the proposal said it was, word for word, and the preface's date confirms the locator. The excerpt starts after a colon rather than at a full stop, which is ordinary excerpting and costs the reader nothing because the first word is I. Anne Brontë is not banned, stands at zero for the year, and nothing of hers is shipped. A novelist answering critics who wanted her to soften the book is plain speech about truth, which is the month's ground, and there is nothing here that would need a warning."
+}

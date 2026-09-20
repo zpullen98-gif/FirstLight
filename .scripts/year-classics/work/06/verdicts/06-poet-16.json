@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-16",
+ "verdict": "VERIFIED",
+ "quote": "Myself when young did eagerly frequent / Doctor and Saint, and heard great Argument / About it and about: but evermore / Came out by the same Door as in I went.",
+ "source": "Omar Khayyám, Rubáiyát of Omar Khayyám, quatrain XXVII, first edition (trans. Edward FitzGerald, 1859)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 246, which prints the first and the fifth editions in full. Quatrain XXVII of the first edition was read and matches the proposal word for word, capital for capital. The fifth edition differs at two points, which confirms that the proposal is the first edition text and not a conflation.",
+  "edition": "Rubáiyát of Omar Khayyám, first edition (Bernard Quaritch, 1859), trans. Edward FitzGerald",
+  "locator": "quatrain XXVII, four lines",
+  "url": "https://www.gutenberg.org/cache/epub/246/pg246.txt"
+ },
+ "confidence": "high",
+ "reason": "An exact first edition match. The fifth edition reads great argument and the same door where in I went, so naming the first edition in the source is what keeps this wording honest."
+}

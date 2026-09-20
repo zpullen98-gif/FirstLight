@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-06",
+ "verdict": "CORRECTED",
+ "quote": "I hope it is no very cynical asperity not to confess obligations where no benefit has been received, or to be unwilling that the Publick should consider me as owing that to a Patron, which Providence has enabled me to do for myself.",
+ "source": "Samuel Johnson, letter to Lord Chesterfield, 7 February 1755, in Boswell, Life of Johnson, under 1755",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected to the wording Boswell prints in the Life of Johnson, which is the letter's published source: obligations in the plural, and Publick in the old spelling. The proposal followed a modernised teaching text. The manuscript copy behind the Hyde edition differs again and reads cinical asperity, so an edition has to be named.",
+ "evidence": {
+  "where": "The letter was read in full in the text of Boswell's Life of Johnson, downloaded as plain text and searched. Boswell reads obligations where no benefit has been received and the Publick should consider me, with Patron and Providence capitalised. Four other transcriptions were compared. A Rutgers teaching text and a private readings page both read obligation in the singular and the Public, and the readings page preserves the spelling cinical, which marks that family as descending from the surviving manuscript copy rather than from Boswell. A modernised Wikisource text and another web transcription read obligations and lowercase everything. The autograph is lost, so no transcription can be checked against Johnson's own paper; naming Boswell fixes which text is being quoted. The sentence stands in the paragraph that begins Is not a Patron, my Lord, and that paragraph is the penultimate one, the last beginning Having carried on my work thus far, so the proposal's locator was right.",
+  "edition": "James Boswell, The Life of Samuel Johnson, the letter as printed under the year 1755; read in the Charles Grosvenor Osgood text, Project Gutenberg ebook 1564",
+  "locator": "letter of 7 February 1755 to the Earl of Chesterfield, the penultimate paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/1564/pg1564.txt"
+ },
+ "confidence": "medium",
+ "reason": "The letter and the paragraph are certain and famous, and shipped.js reports the line unshipped with Johnson at one for the year. The wording is not, because two genuine traditions exist and the proposal's string matched neither exactly, so it ships in Boswell's wording with Boswell named. It is a courteous refusal to pretend a gratitude never owed, which is plain speech on the month's theme."
+}

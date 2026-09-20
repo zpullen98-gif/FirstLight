@@ -1,0 +1,21 @@
+{
+ "month": 6,
+ "ok": true,
+ "problems": [],
+ "checks": {
+  "count": "30 of 30 days, no shortfall, no padding",
+  "dayOrder": "1 to 30, strictly ascending, no gaps",
+  "terminalStop": "all 30 quotations end in . ? or !",
+  "curlyQuotes": "no straight double quote anywhere in quote, source or note",
+  "sourceForm": "every source leads with the author's name, names a work, has no em dash or en dash (only the hyphens in Al-Kindi and the title The George Sand-Gustave Flaubert Letters), and the longest is under 140 characters",
+  "translators": "all 15 translated lines name a translator; day 9 names Burton Watson as attributed, consistent with its hedge",
+  "verse": "days 3, 9, 14, 20 keep line breaks marked with a slash and a space each side; no prose is broken into lines",
+  "tags": "all in vocabulary; Philosophy 6, Poetry 5, Essay 5, Correspondence 4, Drama 4, Fiction 3, Diary 3",
+  "notes": "notes appear only on days 1, 2, 3, 4, 9, 14, 19, 21, 23, 24, 25, every one of them a corrected or hedged line; no dash in any note",
+  "persons": "30 distinct persons, none banned; highest year totals after this month are Murdoch, Cervantes and Thoreau at 3, all within cap",
+  "shipped": "shipped.js run on all 30 lines: no exact match, no near match, no cap breach, no banned author",
+  "balance": "women 11 (>=8), English-original 15 (<=16), largest country UK 8 (9 if Scotland is folded in, <=10), 7 of 7 tags (>=4), 8 centuries (>=3)",
+  "deadLane": "no dead-lane symptom: the thinnest tags are Fiction and Diary at 3, neither at zero or one"
+ },
+ "notedNotAProblem": "The brief's carry-in 04-fict-08 claims the Peden rendering of the Sor Juana sentence landed on 5 May. shipped.js finds no such shipped line, so the brief note is stale and day 21 is clear."
+}

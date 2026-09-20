@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-14",
+ "verdict": "CORRECTED",
+ "quote": "To experience means to know facts just as they are, to know in accordance with facts by completely relinquishing one’s own fabrications.",
+ "source": "Nishida Kitarō, An Inquiry into the Good, Part I, ch. 1, the opening sentence (trans. Masao Abe and Christopher Ives, 1990)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: an earlier reading cut the sentence at they are and closed it with a stop the book does not have. The whole sentence ships. Every witness prints it so, and a scholarly citation places it at page 3 of the Abe and Ives translation. The Yale page itself was not opened.",
+ "evidence": {
+  "where": "The refutation is upheld and its two open questions are now answered. On the sentence boundary: Andrew Feenberg's essay Experience and Culture: Nishida's Path To the Things Themselves, hosted at Simon Fraser University, quotes the sentence that immediately follows, What we usually refer to as experience is adulterated with some sort of thought, so by pure I am referring to the state of experience just as it is without the least addition of deliberative discrimination, and cites it as Nishida, 1990: 3. The three witnesses that print the quoted line all break off at fabrications with an ellipsis before that same following sentence, so the full stop after fabrications is the book's own and not the card's. On the translator: Feenberg's reference list gives the 1990 volume as An Inquiry into the Good, trans. M. Abe and C. Ives, Yale University Press, New Haven, which is the edition and pagination every witness is citing. The Yale page was still not opened: the archive.org copy inquiryintogood0000nish is a lending item whose full text search returns nothing, and the De Gruyter article refuses automated fetches.",
+  "edition": "An Inquiry into the Good, trans. Masao Abe and Christopher Ives, Yale University Press, 1990; the Japanese original is Zen no kenkyū, 1911",
+  "locator": "Part I, ch. 1, Pure Experience, the first sentence of the text, page 3 in the Yale edition according to every citing source",
+  "url": "https://www.sfu.ca/~andrewf/nshbkck.htm"
+ },
+ "confidence": "medium",
+ "reason": "The refutation's charge was that the first verdict minted a sentence by trimming one, and it was correct. Restoring the whole sentence removes the minting, and the wording now agrees with four independent witnesses. The translator attribution still rests on a scholar's citation rather than on the Yale page, so confidence stays medium and the note says so. Nishida is unshipped, unbanned, at zero for the year, nowhere else in June, and knowing facts just as they are is the month's own request."
+}

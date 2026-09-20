@@ -1,0 +1,17 @@
+{
+ "id": "06-cfl-07",
+ "verdict": "VERIFIED",
+ "quote": "Men may dyen of ymaginacioun, / So depe may impressioun be take.",
+ "source": "Geoffrey Chaucer, The Canterbury Tales, The Miller’s Tale, lines 3612 to 3613, The Riverside Chaucer (the Miller)",
+ "speaker": "the Miller",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "A Middle English teaching transcript of the Miller’s Prologue and Tale, plus the Harvard Chaucer lineation",
+  "url": "https://socrates.acadiau.ca/courses/engl/rcunningham/1406_21-22/txts/millers_tale.html",
+  "edition": "The Riverside Chaucer, Fragment I",
+  "locator": "lines 3612 to 3613, following Lo, which a greet thyng is affeccioun at 3611"
+ },
+ "confidence": "high",
+ "reason": "The transcript gives the couplet in this spelling and punctuation, and its numbering counts from the Miller’s Prologue at 3109, which places the two lines at 3612 and 3613 in Riverside lineation. The words are the Miller’s as teller."
+}

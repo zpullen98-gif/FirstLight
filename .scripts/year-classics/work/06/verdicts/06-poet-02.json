@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "It is this, let me tell you—that the strongest man in the world is he who stands most alone.",
+ "source": "Henrik Ibsen, An Enemy of the People, Act V, his last speech (Dr. Stockmann) (trans. R. Farquharson Sharp, 1911)",
+ "speaker": "Dr. Stockmann",
+ "tradition": "Drama",
+ "note": "Corrected: this is Dr. Stockmann's last speech, not the closing words of the play. Two short speeches follow it, from Mrs. Stockmann and then from Petra, who has the final word. The wording itself is verified in the Farquharson Sharp translation, which many quotation sites render loosely as a bare aphorism.",
+ "evidence": {
+  "where": "Wikisource text of An Enemy of the People, Act V, in the Farquharson Sharp translation, read at the end of the act. It prints the sentence exactly as proposed, including the dash after let me tell you, and it shows Mrs. Stockmann and Petra each speaking once after it. The Project Gutenberg copy of the same Sharp translation was opened as well but its later acts were not served. Quotation sites carry a different rendering opening You see, the point is that, which is another translation and not this one.",
+  "edition": "R. Farquharson Sharp translation, Everyman's Library, 1911",
+  "locator": "Act V, Dr. Stockmann's last speech, near the close of the play",
+  "url": "https://en.wikisource.org/wiki/An_Enemy_of_the_People_(Ibsen)/Act_V"
+ },
+ "confidence": "high",
+ "reason": "The sentence is real and Sharp's, but the proposal's fame test called it the closing words of the play and it is not: Mrs. Stockmann and Petra speak after it, so the locator was corrected to his last speech. Ibsen stands at one for the year and is unbanned. The line is about holding a true report alone rather than about defeat, so it reads at six in the morning."
+}

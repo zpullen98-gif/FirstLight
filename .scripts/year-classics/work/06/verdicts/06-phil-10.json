@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "We know truth, not only by the reason, but also by the heart, and it is in this last way that we know first principles; and reason, which has no part in it, tries in vain to impugn them.",
+ "source": "Blaise Pascal, Pensées, Section IV, Of the Means of Belief, no. 282 (trans. W. F. Trotter, 1910)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "the full text of Project Gutenberg 18269, Pascal's Pensées with the introduction by T. S. Eliot, which is the Dutton edition carrying W. F. Trotter's translation; the file was downloaded and the fragment read in place",
+  "edition": "Pascal's Pensées, trans. W. F. Trotter, E. P. Dutton, introduction by T. S. Eliot",
+  "locator": "Section IV, headed OF THE MEANS OF BELIEF, fragment 282, the opening sentence",
+  "url": "https://www.gutenberg.org/cache/epub/18269/pg18269.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim, including We know truth rather than We know the truth, and it stands as the first sentence of fragment 282. The section heading in the text is OF THE MEANS OF BELIEF, and fragment 282 falls inside Section IV, as the proposal said. Trotter is not named in the Gutenberg header, but the Dutton text with Eliot's introduction is his translation."
+}

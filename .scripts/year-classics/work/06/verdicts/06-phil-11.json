@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-11",
+ "verdict": "CORRECTED",
+ "quote": "It is a task to come to see the world as it is.",
+ "source": "Iris Murdoch, The Sovereignty of Good, The Sovereignty of Good Over Other Concepts, p. 90 (Routledge, 2014)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: the sentence was located on p. 90 of the Routledge edition of 2014, in the essay The Sovereignty of Good Over Other Concepts. The proposal cited p. 91 of the Routledge and Kegan Paul printing of 1970, which was not opened, so the source now names the edition that was.",
+ "evidence": {
+  "where": "a scan of the Routledge printing of the essay, text extracted and read in place; the running head on the facing pages reads the sovereignty of good over other concepts, and the page numbers run 76 to 101 across the essay",
+  "edition": "The Sovereignty of Good, Routledge, first published 1970 by Routledge and Kegan Paul, Routledge Classics 2001, Routledge Great Minds 2014",
+  "locator": "The Sovereignty of Good Over Other Concepts, p. 90, in the paragraph beginning Of course virtue is good habit and dutiful action",
+  "url": "https://eganphilosophy.com/wp-content/uploads/2022/05/Murdoch-The-Sovereignty-of-Good-Over-Other-Concepts.pdf"
+ },
+ "confidence": "high",
+ "reason": "The wording is verbatim and the essay is the one the proposal named, so only the edition and page needed fixing. The sentence closes a paragraph on attention and just vision, and a separate page 91 sentence about joining the world as it really is is probably what the secondary citations of page 91 point at. Murdoch stands at two for the year, so a third line is allowed."
+}

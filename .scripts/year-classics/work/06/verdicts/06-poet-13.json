@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "Although the wind / blows terribly here, / the moonlight also leaks / between the roof planks / of this ruined house.",
+ "source": "Izumi Shikibu, The Ink Dark Moon, the poem beginning ‘Although the wind’ (trans. Jane Hirshfield with Mariko Aratani, 1988)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Tricycle: The Buddhist Review, which prints the poem in full with the publisher’s permission line; the lineation there matches the proposal line for line. The Scribner first edition of 1988 was confirmed through dealer and catalogue listings for ISBN 9780684189710.",
+  "edition": "The Ink Dark Moon: Love Poems by Ono no Komachi and Izumi Shikibu, Women of the Ancient Court of Japan (Charles Scribner’s Sons, 1988); reissued by Vintage in 1990",
+  "locator": "the untitled tanka beginning Although the wind, five lines",
+  "url": "https://tricycle.org/magazine/izumi-shikibu/"
+ },
+ "confidence": "high",
+ "reason": "The five lines, their breaks and their capitals are exactly as the Hirshfield and Aratani rendering prints them, and the terminal stop is the poem’s own. Izumi Shikibu has not been used this year and is not banned."
+}

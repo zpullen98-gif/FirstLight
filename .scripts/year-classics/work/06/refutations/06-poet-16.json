@@ -1,0 +1,16 @@
+{
+ "id": "06-poet-16",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and it held, and I checked it against the named edition rather than against a report of it. I downloaded Project Gutenberg ebook 246, which prints FitzGerald's first and fifth editions in full, and read both. The first edition runs from the 'First Edition' heading to the 'Fifth Edition' heading, and quatrain XXVII inside it reads 'Myself when young did eagerly frequent / Doctor and Saint, and heard great Argument / About it and about: but evermore / Came out by the same Door as in I went.' That is the proposal word for word, capital for capital, break for break, closing stop included. The fifth edition's quatrain XXVII differs at exactly the two points the verifier named, 'great argument' lowercase and 'the same door where in I went', which proves the proposal is first edition text and not a conflation of the two, and makes 'first edition' in the source line load-bearing and correct rather than decorative. Rule 7 is satisfied: four lines, slashed, in the edition's lineation, with the poem's own capitals at each line head. The one real attack available is on the attribution, since FitzGerald's quatrain is a free recasting rather than a rendering of any one Persian ruba'i, but the source names the translator and the year, which is exactly what rule 4 asks of a translated line, and it is the universal convention for this text; that is not a misattribution, and the quatrain is not on the brief's misattribution list. Not a character's line, so no speaker to name. shipped.js is clean under both 'Omar Khayyam' and 'Edward FitzGerald', with no exact and no near hit, both at 0 for the year and neither banned, and there is no second Khayyam in June's verdicts. Scope: 1859, poetry, publishable, nothing needing a warning. Source leads with the name, carries no dash, and runs 102 characters, the shortest of the four. Tag Poetry is the form. Theme: a man confessing that all the disputation left him exactly where he began is plain speech about the limits of one's own knowing, wry rather than bleak, and it sits well at six in the morning on a month about truth and clarity.",
+ "checked": {
+  "shippedJs": "clean for both 'Omar Khayyam' and 'Edward FitzGerald': shipped [], near [], yearCount 0, atCap false, banned false",
+  "sources": [
+   "https://www.gutenberg.org/cache/epub/246/pg246.txt"
+  ],
+  "bookEvidence": "first edition quatrain XXVII at lines 692 to 695 of the Gutenberg text, inside the 'First Edition' section that begins at line 479 and ends where 'Fifth Edition' begins at line 1095; the fifth edition's XXVII at lines 1309 to 1312 reads 'great argument' and 'the same door where in I went'",
+  "sourceLineChars": 102,
+  "inMonthDuplicate": false
+ }
+}

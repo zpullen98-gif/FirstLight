@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "The public must decide whether it wishes to continue on the present road, and it can do so only when in full possession of the facts.",
+ "source": "Rachel Carson, Silent Spring, chapter 2, The Obligation to Endure (Houghton Mifflin, 1962)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "A full scan of Silent Spring opened and searched as text. The sentence stands verbatim in chapter 2, The Obligation to Endure, as the penultimate sentence of the chapter. It follows It is the public that is being asked to assume the risks that the insect controllers calculate, and is followed by the closing sentence quoting Jean Rostand, The obligation to endure gives us the right to know. The next heading in the file is 3. Elixirs of Death, which fixes the sentence at the end of chapter 2.",
+  "edition": "Read in a Crest reprint, Fawcett Publications, Greenwich, Connecticut, carrying the foreword by Paul Brooks; the work's edition of record is Houghton Mifflin, 1962, and the wording is identical",
+  "locator": "chapter 2, The Obligation to Endure, the penultimate sentence of the chapter; no page number is claimed because the scan is a reprint setting",
+  "url": "https://library.uniteddiversity.coop/More_Books_and_Reports/Silent_Spring-Rachel_Carson-1962.pdf"
+ },
+ "confidence": "high",
+ "reason": "The proposal shipped with its own HEDGE because the page had not been opened. The page is now open and the sentence is there word for word, with the chapter title and both neighbouring sentences matching, so the hedge is discharged and the locator text loses the hedge clause. Carson stands at one for the year and is neither banned nor shipped with this line; an essay sentence about needing the facts before choosing the road is squarely the month's theme and carries no content warning."
+}

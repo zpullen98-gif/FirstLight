@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-14",
+ "verdict": "HEDGE",
+ "quote": "Why can’t I tell the true shape of Lu-shan? / Because I myself am in the mountain.",
+ "source": "Su Shi, Written on the Wall at West Forest Temple, 1084, closing couplet (trans. attributed to Burton Watson, 1994)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Hedged. No printed copy was opened. Two secondary witnesses give this wording exactly. A third spells the mountain without its hyphen and misnames the translator, so it carries less weight. Wikiquote alone supplies the Copper Canyon page of 1994, so the page number is dropped. The 1994 book is an expanded collection.",
+ "evidence": {
+  "where": "Secondary witnesses only. Wikiquote's Su Shi page prints the four lines and cites Selected Poems of Su Tung-p'o, trans. Burton Watson (Port Townsend, Wash.: Copper Canyon Press, 1994), p. 108. leonarddurso.com prints the identical four lines, including the hyphenated Lu-shan, with no citation. poetryandplaces.com prints Lushan, capitalises the second line head, and names the translator Burton Weston, which discredits it as a witness. Both Internet Archive copies are lending restricted and search inside is refused: sutungposelectio0000sush and sutungpo0000unse for the Columbia volume of 1965, and selectedpoemsofs0000sush for the Copper Canyon volume of 1994. HathiTrust returns a Cloudflare 403, the Google Books API returned quota exhausted, and the archive full text endpoints did not respond. Catalogue records state that many of the poems first appeared in Su Tung-p'o: Selections from a Sung Dynasty Poet (Columbia University Press, 1965), which the Journal of Asian Studies review confirms as Watson's 1965 translation, but the 1994 book is an expanded selection of 115 poems, so this poem cannot be assumed to stand in the 1965 volume.",
+  "edition": "Selected Poems of Su Tung-p'o, trans. Burton Watson (Copper Canyon Press, 1994), cited at p. 108 by Wikiquote only; earlier related edition Su Tung-p'o: Selections from a Sung Dynasty Poet (Columbia University Press, 1965)",
+  "locator": "lines 3 and 4 of a four line poem of 1084",
+  "url": "https://en.wikiquote.org/wiki/Su_Shi"
+ },
+ "confidence": "medium",
+ "reason": "The refutation was right that nobody has opened a page and that the two blogs disagree inside the quoted fragment at Lu-shan against Lushan. A third witness, Wikiquote, now agrees with the hyphenated rendering and names an edition and page, and the dissenting blog misspells the translator's name, so the wording survives at two witnesses to one. The refutation's proposed correction to 1965 does not hold either: the 1994 Copper Canyon book is an expanded selection of which only many poems came from the 1965 Columbia volume, so the earlier year cannot be asserted for this poem without seeing that book's contents. With the trail ending in secondary sources on both the wording and the year, the honest ruling is HEDGE: the page number is dropped and the translation is marked as attributed. Su Shi is at zero for the year, is not banned, shipped.js is clean with no near hit, the poem is of 1084 and in scope, and the source line runs 114 characters with no dash."
+}

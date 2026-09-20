@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-07",
+ "verdict": "CORRECTED",
+ "quote": "I ask no favors for my sex. I surrender not our claim to equality. All I ask of our brethren is, that they will take their feet from off our necks, and permit us to stand upright on that ground which God designed us to occupy.",
+ "source": "Sarah Moore Grimké, Letters on the Equality of the Sexes, Letter II, to Mary S. Parker, 7th mo. 17, 1837 (Isaac Knapp, 1838)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected: verified in the 1838 Isaac Knapp text, where the printed sentence opens with the word But. The quotation begins at I, so that one conjunction is dropped and nothing else is altered. The letter is dated Newburyport, 7th mo. 17, 1837, and addressed to Mary S. Parker.",
+ "evidence": {
+  "where": "Project Gutenberg ebook 69485, produced from Internet Archive images of the 1838 Isaac Knapp printing, downloaded and searched. The passage reads But I ask no favors for my sex. I surrender not our claim to equality. All I ask of our brethren is, that they will take their feet from off our necks, and permit us to stand upright on that ground which God designed us to occupy. It sits under the heading LETTER II, WOMAN SUBJECT ONLY TO GOD, dated Newburyport, 7th mo. 17, 1837. The title page reads ADDRESSED TO MARY S. PARKER, PRESIDENT OF THE Boston Female Anti-Slavery Society, BOSTON, PUBLISHED BY ISAAC KNAPP, 25, CORNHILL, 1838.",
+  "edition": "Boston: published by Isaac Knapp, 25 Cornhill, 1838",
+  "locator": "Letter II, Woman Subject Only to God, Newburyport, 7th mo. 17, 1837; the passage falls in the paragraph that ends with shrink back into that obscurity",
+  "url": "https://www.gutenberg.org/cache/epub/69485/pg69485.txt"
+ },
+ "confidence": "high",
+ "reason": "The passage is in the named letter of the named edition, verbatim, and the terminal stop is already there. The only departure is the dropped opening But, which the card cannot carry without reading as a fragment of an argument it does not print, so the verdict is CORRECTED rather than VERIFIED and the note says exactly what was dropped. The proposal's chapter title read Woman Subject Only to God, and the 1838 heading is WOMAN SUBJECT ONLY TO GOD, so the source now uses the letter number and the date instead. Grimké is at zero for the year, unbanned and unshipped; the tag Correspondence is right for a published letter, and the lane keeps its Essay floor through 06-phil-05 and 06-phil-06."
+}

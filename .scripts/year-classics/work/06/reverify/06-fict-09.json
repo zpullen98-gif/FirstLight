@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-09",
+ "verdict": "VERIFIED",
+ "quote": "To think is to forget differences, generalize, make abstractions.",
+ "source": "Jorge Luis Borges, Funes the Memorious, in Labyrinths, closing pages (trans. James E. Irby, 1962)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Open Library full text search inside the scanned book returns the exact phrase from within two scans of Labyrinths: Selected Stories and Other Writings by Jorge Luis Borges, each snippet continuing In the teeming world, which is the sentence the refutation reports as Irby's. A second search inside returns the permissions credit in Object Lessons: The Paris Review Presents the Art of the Short Story, Funes, the Memorious by Jorge Luis Borges, translated by James E. Irby, from Labyrinths, and the same credit in Alazraki, Critical Essays on Jorge Luis Borges, translated by James E. Irby, in Labyrinths. A Washington State University teaching page quotes the sentence with the one that follows it, In the teeming world of Funes, there were only details, almost immediate in their presence, and cites Labyrinths, New Directions, p. 66. The Hurley rendering was ruled out at first hand: the PMC article Borges and the art of forgetting quotes Hurley as To think is to ignore (or forget) differences, to generalize, to abstract, under Hurley's title Funes, His Memory. No page image of Labyrinths was opened.",
+  "url": "https://openlibrary.org/search/inside?q=%22To+think+is+to+forget+differences%2C+generalize%2C+make+abstractions%22",
+  "edition": "Jorge Luis Borges, Labyrinths: Selected Stories and Other Writings, ed. Donald A. Yates and James E. Irby (New Directions, 1962); Funes the Memorious translated by James E. Irby; story first published in La Nacion, June 1942",
+  "locator": "The closing pages of the story, in the paragraph beginning I suspect, nevertheless, that he was not very capable of thought, cited at p. 66 of the New Directions text"
+ },
+ "confidence": "medium",
+ "reason": "The proposal as filed is right and the first verdict's correction was not: its note said the proposed wording matches the later Hurley translation, which is false, since Hurley reads to ignore (or forget) differences, to generalize, to abstract and retitles the story Funes, His Memory. The wording proposed is Irby's in Labyrinths, and I located it inside the scanned book itself rather than in a search summary, with Irby's translator credit for this story confirmed twice in print. Confidence is medium and not high because no page image was opened, so the page and the paragraph rest on published citations; the locator ships as closing pages, which those citations and the refuter's reading of the Kerrigan text both support. Borges stands at zero for the year, is not banned, and shipped.js returns no hit and no near hit."
+}

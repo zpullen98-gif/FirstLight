@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-09",
+ "verdict": "CORRECTED",
+ "quote": "To think is to forget a difference, to generalize, to abstract.",
+ "source": "Jorge Luis Borges, Funes, the Memorious, in Ficciones, closing pages (trans. Anthony Kerrigan, 1962)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "Corrected: the proposed wording is not in the Ficciones text read for this verdict, and Irby's Labyrinths pages could not be opened. The line ships in Anthony Kerrigan's rendering, verified in a scan of the Ficciones text, where the story is titled Funes, the Memorious. The wording proposed matches the later Hurley translation.",
+ "evidence": {
+  "where": "A scanned course copy of the Ficciones text was fetched and its content streams extracted and read in place. The passage reads: I suspect, nevertheless, that he was not very capable of thought. To think is to forget a difference, to generalize, to abstract. In the overly replete world of Funes there were nothing but details, almost contiguous details. The copy is identified as the Ficciones text by its story heading FUNES, THE MEMORIOUS, by the prologue to Artifices dated Buenos Aires, August 29, 1944, and by the numbering sentence He told me that toward 1886 he had devised a new system of enumeration and that in a very few days he had gone beyond twenty-four thousand, which culturedarm's three-way comparison gives as Kerrigan's against Irby's and Hurley's. Kerrigan as the translator of this story is corroborated by that comparison and by his 1954 first English version of it.",
+  "url": "https://sosapadilla.github.io/files/teaching/ND/Intermediate_macro/FunestheMemorious.pdf",
+  "edition": "Jorge Luis Borges, Ficciones, ed. and trans. Anthony Kerrigan (Grove Press, 1962); story first published in La Nacion, June 1942",
+  "locator": "The closing pages of the story, in the paragraph beginning I suspect, nevertheless, that he was not very capable of thought, two paragraphs before the dawn and Ireneo's face"
+ },
+ "confidence": "medium",
+ "reason": "The sentence is real and I read it in place, but not in the wording or the translation proposed: the proposal names Irby and Labyrinths while its wording is the one that circulates from Hurley's Collected Fictions, which I could not open either. The wording I could actually read is Kerrigan's, so that is what ships. Confidence is medium because the scan's title page was not seen; the edition is identified from internal evidence and a published comparison. Not shipped, Borges is at zero for the year, not banned, and the line carries no content warning."
+}

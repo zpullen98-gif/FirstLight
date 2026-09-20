@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-09",
+ "verdict": "CORRECTED",
+ "quote": "He that would seriously set upon the search of truth, ought in the first place to prepare his mind with a love of it.",
+ "source": "John Locke, An Essay Concerning Human Understanding, Book IV, ch. XIX, Of Enthusiasm, section 1 (ed. Fraser, 1894, vol. II, p. 428)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: the comma after truth is restored from Fraser's Clarendon edition of 1894, where the chapter stands at volume II, page 428. Online texts drop it. Fraser's footnote confirms that Of Enthusiasm was added in the fourth edition of 1700, so the sentence is not in the Essay of 1690.",
+ "evidence": {
+  "where": "Alexander Campbell Fraser's collated edition, Oxford, Clarendon Press, 1894, vol. II, read as the scanned full text on archive.org; cross checked against the separate 1801 printing of the chapter, An Essay on Enthusiasm, which gives the same comma",
+  "edition": "An Essay Concerning Human Understanding, collated and annotated by A. C. Fraser, Clarendon Press, 1894, vol. II",
+  "locator": "Book IV, ch. XIX, section 1, marginal note Love of Truth necessary, p. 428",
+  "url": "https://archive.org/details/cu31924016872172"
+ },
+ "confidence": "high",
+ "reason": "The sentence opens the chapter in Fraser's edition, with a comma after truth and a full stop after love of it, followed by a capitalised For. The proposal's commaless wording matches only the derivative web etexts, so the located edition's wording is supplied instead. Fraser's own footnote dates the chapter to the fourth edition, which the source now reflects."
+}

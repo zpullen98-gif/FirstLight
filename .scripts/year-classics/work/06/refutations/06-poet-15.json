@@ -1,0 +1,16 @@
+{
+ "id": "06-poet-15",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked hardest of the four, because the verifier had rewritten the edition and the year, and it held on every point I could test from the book itself. I downloaded the OCR text of the Internet Archive scan of the 1995 Harcourt Brace volume and read it. The title page reads 'View with a Grain of Sand, Selected Poems, Translated from the Polish by Stanislaw Baranczak and Clare Cavanagh, A Harvest Original, Harcourt Brace and Company', and the copyright page reads 'Copyright 1995 by Harcourt Brace and Company', so the named edition and the two translators are right. The sentence stands verbatim in the body of the poem, capital M to final stop, with nothing added or dropped. The locator is right in both halves: the table of contents lists 'Under One Small Star 91', and in the body the running page number 90 falls immediately before the poem's heading, so the poem opens on page 91; and the line does stand directly after 'My apologies to the felled tree for the table's four legs.' The section heading above the poem is 'from COULD HAVE 1972', which independently confirms the note's claim that the Polish original is in Wszelki wypadek of 1972, and confirms the year correction: this Baranczak and Cavanagh rendering is 1995, and Poems New and Collected of 1998 reprints it. I could find no other rendering that this could have drifted from; the Krynski and Maguire version was the obvious rival and this is not it. The quoted sentence is one complete line of the poem, so rule 7 needs no slashes and none are used, and it is not run together from several lines. shipped.js is clean under both spellings of the name, Szymborska stands at one for the year and would go to two, under the cap, and there is no second Szymborska in June's verdicts. Scope: pre-2000, poetry, publishable, and the poem's harder lines about open wounds are nowhere near the quoted sentence. Source leads with the name, no dash, 131 characters. Tag Poetry is the form. Theme fit is the strongest of the four: an honest accounting of the scale of one's own answers is exactly June's ground.",
+ "checked": {
+  "shippedJs": "clean under both 'Wisława Szymborska' and 'Wislawa Szymborska': shipped [], near [], yearCount 1 (month 1), cap 3, atCap false, banned false",
+  "sources": [
+   "https://archive.org/download/wislawa-szymborska-view-with-a-grain-of-sand/Wislawa%20Szymborska%20-%20View%20with%20a%20Grain%20of%20Sand_%20Selected%20Poems%20%281995%2C%20Harcourt%29_djvu.txt"
+  ],
+  "bookEvidence": "TOC line 'Under One Small Star 91'; body page marker '90' immediately precedes the title heading 'UNDER ONE SMALL STAR'; quotation at line 5319 of the OCR text, following the felled tree line; section heading 'from COULD HAVE 1972'; title page names Baranczak and Cavanagh; copyright page 1995 Harcourt Brace",
+  "sourceLineChars": 131,
+  "inMonthDuplicate": false
+ }
+}

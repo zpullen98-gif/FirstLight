@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "Hundreds of people can talk for one who can think, but thousands can think for one who can see. To see clearly is poetry, prophecy, and religion,—all in one.",
+ "source": "John Ruskin, Modern Painters, Volume III, Part IV, ch. XVI, Of Modern Landscape, section 28 (1856)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Two scanned printings of Modern Painters Volume III were downloaded and searched in place, and a transcription of the 1856 text was read as well. The 1907 Universal Library scan gives section 28 of Chapter XVI, Of Modern Landscape, at page 287: the greatest thing a human soul ever does in this world is to see something, and tell what it saw in a plain way. Hundreds of people can talk for one who can think, but thousands can think for one who can see. To see clearly is poetry, prophecy, and religion, all in one. That scan preserves the dash before all in one and drops the comma across the line break at reli-gion; the 1906 scan preserves the comma and drops every dash, including the one at impressed upon me, that; the Wuppertal transcription of the 1856 text carries both. Hence religion, then the dash, then all in one.",
+  "url": "https://archive.org/download/modernpainters03rusk/modernpainters03rusk_djvu.txt",
+  "edition": "John Ruskin, Modern Painters, Volume III, Part IV, Of Many Things (Smith, Elder and Co., 1856); read in the 1907 and 1906 reprints and in a transcription of the 1856 text",
+  "locator": "Part IV, Chapter XVI, Of Modern Landscape, section 28, immediately after the sentence on the greatest thing a human soul ever does and immediately before the paragraph on Thinkers and Seers"
+ },
+ "confidence": "high",
+ "reason": "Verbatim at the named section in three independent witnesses, and the locator the proposal gave is exactly right. The dash inside the quotation is Ruskin's own and is left as printed; the house rule bars a dash from the source line and the note, which this verdict keeps clear. Not shipped, Ruskin is at zero for the year, not banned, and the line needs no content warning."
+}

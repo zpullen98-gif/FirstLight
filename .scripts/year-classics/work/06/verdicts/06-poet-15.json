@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-15",
+ "verdict": "CORRECTED",
+ "quote": "My apologies to great questions for small answers.",
+ "source": "Wisława Szymborska, Under One Small Star, in View with a Grain of Sand, p. 91 (trans. Stanisław Barańczak and Clare Cavanagh, 1995)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: the edition and the year. The line stands verbatim on page 91 of View with a Grain of Sand, Harcourt, 1995, where this Barańczak and Cavanagh rendering first appeared. Poems New and Collected of 1998 reprints it, so the translation year is 1995 and not 1998.",
+ "evidence": {
+  "where": "The scanned text of the 1995 Harcourt volume on the Internet Archive was downloaded and searched. The sentence appears verbatim in the body of the poem, and the table of contents gives the poem on page 91.",
+  "edition": "View with a Grain of Sand: Selected Poems (Harcourt Brace, 1995), trans. Stanisław Barańczak and Clare Cavanagh",
+  "locator": "Under One Small Star, p. 91, the line following the apology to the felled tree; the Polish original is in Wszelki wypadek, 1972",
+  "url": "https://archive.org/details/wislawa-szymborska-view-with-a-grain-of-sand"
+ },
+ "confidence": "high",
+ "reason": "The wording, the translators and the poem are right and were read in a scan of the book. Only the named edition was wrong: the proposal cited the 1998 collected volume for a translation published in 1995."
+}

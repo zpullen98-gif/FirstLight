@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-10",
+ "verdict": "CORRECTED",
+ "quote": "I, too, dislike it.",
+ "source": "Marianne Moore, Poetry, line 1, Complete Poems (Macmillan and Viking, 1967)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected. The early printings of 1919 and 1924 read I too, dislike it, with one comma, and they carry the long sentence over a line break, so the proposed wording and locator did not belong to the same edition. This ships the opening line of Moore’s own final three line text.",
+ "evidence": {
+  "where": "Representative Poetry Online, whose copy text is Observations (The Dial Press, 1924), pages 30 to 31, transcribes the opening as I too, dislike it: there are things that are important beyond all this / fiddle., with the sentence broken before fiddle and only one comma. The Academy of American Poets prints the same single comma reading from Others for 1919 (1920). Slate’s account of Moore’s five decades of revision gives the 1967 Complete Poems text as the three line version opening I, too, dislike it. and confirms that the long version sits in that book’s back matter as the Original Version. No scan of Observations itself was reachable, so the safe edition is the one whose wording and lineation are not in dispute.",
+  "edition": "The Complete Poems of Marianne Moore (Macmillan and Viking, 1967)",
+  "locator": "Poetry, line 1 of the three line text",
+  "url": "https://rpo.library.utoronto.ca/content/poetry-0"
+ },
+ "confidence": "medium",
+ "reason": "The line is real and famous, but the proposal married the later punctuation to the earlier long text and cited a 1924 book that sets it differently and over two lines. Rather than mint a hybrid, the verdict ships the wording Moore left as her final text, where the sentence is one line and complete. Moore is unbanned and stands at nought for the year. A poet opening a poem called Poetry by saying she dislikes it is plain speech, which is the month."
+}

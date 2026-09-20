@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-02",
+ "verdict": "VERIFIED",
+ "quote": "God offers to every mind its choice between truth and repose.",
+ "source": "Ralph Waldo Emerson, Intellect, essay XI in Essays: First Series (1841)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Full text of Intellect at emersoncentral.com, which prints the sentence and the one that follows it, Take which you please, you can never have both. A competing rendering travels as a choice between repose and truth; the edition text gives its choice between truth and repose, so the proposal has it right. Essay order checked against the 1841 contents, where Intellect stands eleventh of twelve.",
+  "url": "https://emersoncentral.com/texts/essays-first-series/intellect/",
+  "edition": "Essays: First Series, 1841",
+  "locator": "essay XI, Intellect"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the edition text and the essay number is confirmed against the collection contents. The widely circulated variant wording was checked and rejected in favour of the printed one."
+}

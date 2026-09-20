@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-14",
+ "verdict": "CORRECTED",
+ "quote": "Why can’t I tell the true shape of Lu-shan? / Because I myself am in the mountain.",
+ "source": "Su Shi, Written on the Wall at West Forest Temple, closing couplet, in Selected Poems of Su Tung-p’o (trans. Burton Watson, 1994)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected: the page number is dropped. The wording is Burton Watson’s and independent sources give it identically, but page 108 of the Copper Canyon edition of 1994 rests on one secondary citation and the book was not opened. The poem is four lines, so the closing couplet locates the line in any edition.",
+ "evidence": {
+  "where": "Two independent web renderings of Watson’s translation, one of which keeps the line breaks, agree on the wording including the hyphen in Lu-shan. Wikiquote supplies the Copper Canyon page, and that is a secondary citation. The Internet Archive holds only the 1965 Columbia volume and it is lending restricted, so search inside was refused.",
+  "edition": "Selected Poems of Su Tung-p’o, trans. Burton Watson (Copper Canyon Press, 1994); the rendering descends from Su Tung-p’o: Selections from a Sung Dynasty Poet (Columbia University Press, 1965)",
+  "locator": "lines 3 and 4 of a four line poem of 1084",
+  "url": "https://leonarddurso.com/2018/12/16/written-on-the-wall-at-west-forest-temple-by-su-tung-po/"
+ },
+ "confidence": "medium",
+ "reason": "The couplet is genuinely Watson’s and genuinely closes the poem, so the line ships, but the page could not be seen and a page number nobody has opened is the kind of confident detail the standard forbids."
+}

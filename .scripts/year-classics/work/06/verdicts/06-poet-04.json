@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "My way of joking is to tell the truth. It’s the funniest joke in the world.",
+ "source": "Bernard Shaw, John Bull’s Other Island, Act II, his reply to Nora Reilly (Peter Keegan)",
+ "speaker": "Peter Keegan",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of John Bull's Other Island, read at Act II. Keegan speaks the two sentences to Nora Reilly after she tells him he is joking, and the edition prints It's with the apostrophe rather than Shaw's usual bare Its. The proposal's act, speaker and addressee all match the text.",
+  "edition": "Project Gutenberg ebook 3612, John Bull's Other Island (Bernard Shaw)",
+  "locator": "Act II, Keegan's reply to Nora Reilly at the round tower",
+  "url": "https://www.gutenberg.org/cache/epub/3612/pg3612.txt"
+ },
+ "confidence": "high",
+ "reason": "Located in the named act in the named mouth, in this wording, ending in a full stop. Shaw stands at one for the year and is unbanned. Keegan names his own method when he is accused of joking, which is the month's subject put as a joke, and it is short enough to read before six in the morning without any material needing a warning."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-16",
+ "verdict": "VERIFIED",
+ "quote": "I shall be employed about things, not words!",
+ "source": "Mary Wollstonecraft, A Vindication of the Rights of Woman, the Introduction (1792)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "A full text of the Vindication opened and searched as plain text. The words stand verbatim in the Introduction, in the paragraph beginning This is a rough sketch of my plan, which runs I shall disdain to cull my phrases or polish my style, I aim at being useful, and sincerity will render me unaffected, and then I shall not waste my time in rounding periods, nor in fabricating the turgid bombast of artificial feelings, which, coming from the head, never reach the heart. I shall be employed about things, not words! and, anxious to render my sex more respectable members of society, I shall try to avoid that flowery diction. The exclamation mark is the page's own and the opening word is the page's own capital I, so nothing is minted; the sentence runs on after the mark, and the excerpt stops at a terminal stop the page prints. The fame test the proposal claimed, an entry in a standard reference, could not be confirmed for this line.",
+  "edition": "A Vindication of the Rights of Woman, London, 1792",
+  "locator": "the Introduction, the paragraph beginning This is a rough sketch of my plan",
+  "url": "https://www.gutenberg.org/cache/epub/3420/pg3420.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is real, is in the Introduction as proposed, and carries its own exclamation mark, so it ships whole rather than trimmed. Wollstonecraft stands at one for the year, from May, so a second is inside the cap of three and does not repeat a person inside this month. The weak point is the fame claim, not the citation: this is a famous book but it is not clear the sentence has a standard reference entry, and the editor should weigh that. Her vow to serve things rather than words is the cleanest statement of the month's theme and needs no warning."
+}

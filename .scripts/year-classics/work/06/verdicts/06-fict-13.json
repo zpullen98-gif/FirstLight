@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-13",
+ "verdict": "VERIFIED",
+ "quote": "Good prose is like a window pane.",
+ "source": "George Orwell, Why I Write, the final paragraph (Gangrel, No. 4, Summer 1946)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "A full transcription of Why I Write opened and searched as text at the Marxists Internet Archive. The sentence stands verbatim, spelled window pane as two words; windowpane and window-pane do not occur in the file. It sits in the closing paragraph, after And yet it is also true that one can write nothing readable unless one constantly struggles to efface one's own personality, and before I cannot say with certainty which of my motives are the strongest. The essay ends four sentences later on humbug generally, so the paragraph is the last. A scholarly chapter on Orwell's views on language quotes the same sentence from Collected Essays, Journalism and Letters with the two word spelling and places it at the essay's climax, which is a second independent agreement. A summary of the Orwell Foundation page returned the one word spelling, and that reading was set aside because the transcription and the scholarly citation agree against it.",
+  "edition": "First printed in Gangrel, No. 4, London, Summer 1946; the wording checked is the text reprinted in Collected Essays, Journalism and Letters",
+  "locator": "the final paragraph of the essay",
+  "url": "https://www.marxists.org/archive/orwell/1946/why-i-write.htm"
+ },
+ "confidence": "high",
+ "reason": "Wording, work and first publication all hold. The proposed locator read the closing page, which is a claim about how a 1946 periodical was typeset; the sentence is in the final paragraph, so the shipped locator says that instead and no longer depends on anyone's pagination. Nothing was corrected, only made precise. Orwell is not banned, stands at zero for the year, and the line is already shipped nowhere. Six words about seeing through a sentence are exactly the month's theme and need no content warning."
+}

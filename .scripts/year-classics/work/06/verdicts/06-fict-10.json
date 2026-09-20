@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-10",
+ "verdict": "VERIFIED",
+ "quote": "‘But he hasn’t got anything on,’ a little child said.",
+ "source": "Hans Christian Andersen, The Emperor’s New Clothes, at the procession near the close (trans. Jean Hersholt, 1949)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The Hans Christian Andersen Centre at the University of Southern Denmark hosts Jean Hersholt's translation in full. The sentence reads: “But he hasn't got anything on,” a little child said. The next sentences run: “Did you ever hear such innocent prattle?” said its father, and the tale then gives “But he hasn't got anything on!” the whole town cried out at last. The proposal's wording matches Hersholt exactly, including the comma inside the speech and the closing full stop.",
+  "url": "https://andersen.sdu.dk/vaerk/hersholt/TheEmperorsNewClothes_e.html",
+  "edition": "The Complete Andersen, trans. Jean Hersholt (The Limited Editions Club, New York, 1949); tale first published in Eventyr, fortalte for Boern, 1837",
+  "locator": "The procession, at the moment the child speaks, a few lines before the whole town takes up the cry"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in the named translation at the named place, read on the Andersen Centre's own text. The speaker is named inside the quotation itself, so no speaker parenthesis is added to the source line. The quotation ends in a full stop and uses curly marks throughout; single curly marks carry the child's speech, as the card wraps the whole line. Not shipped, Andersen is at zero for the year, not banned, nothing needing a content warning."
+}

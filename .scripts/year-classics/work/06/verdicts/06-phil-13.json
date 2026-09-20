@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-13",
+ "verdict": "VERIFIED",
+ "quote": "Untruth naturally afflicts historical information.",
+ "source": "Ibn Khaldun, The Muqaddimah, Introduction, on why untruth afflicts historical reporting (trans. Franz Rosenthal, 1958)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "A full-text copy of Rosenthal's translation read online, which prints the sentence and the sentence after it exactly as proposed, followed by the list of reasons beginning with partisanship for opinions and schools. Corroborated against two further scans of the same translation and against a reference quotation site that cites the passage to volume 1 of the Rosenthal text.",
+  "edition": "Franz Rosenthal's translation, Bollingen Series XLIII, Pantheon Books, 1958, three volumes; the same translation as reprinted with Dawood's editing in 1967",
+  "locator": "the Introduction, in the discussion of the errors to which historians are liable and why they occur; the next sentence reads There are various reasons that make this unavoidable. A reference site cites volume 1, pages 35 to 36, but that page range rests on the 1967 printing and was not opened, so the shipped source stays at section level",
+  "url": "https://oceanlibrary.com/server/chunked/d68b24838e7ab1d188aaed8444dee621/f10a2a01bed167c05957ffede8eebc30.html"
+ },
+ "confidence": "high",
+ "reason": "The wording is Rosenthal's own, verbatim, with its terminal stop, and the following sentence the proposal named is there, which fixes the place in the Introduction. Ibn Khaldun is unshipped, unbanned and at zero for the year, and a fourteenth century working note on why reports go wrong belongs in a month about truth and clarity. The proposal hedged only on the page number, and the source now carries no page number to be wrong about."
+}

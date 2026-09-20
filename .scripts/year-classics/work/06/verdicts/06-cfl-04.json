@@ -1,0 +1,17 @@
+{
+ "id": "06-cfl-04",
+ "verdict": "VERIFIED",
+ "quote": "One cannot think well, love well, sleep well, if one has not dined well.",
+ "source": "Virginia Woolf, A Room of One’s Own, chapter 1 (1929)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg of Australia text, downloaded whole and searched; the sentence read in its paragraph, and the chapter divisions counted so that the paragraph falls between the headings ONE and TWO",
+  "url": "http://gutenberg.net.au/ebooks02/0200791.txt",
+  "edition": "A Room of One’s Own, 1929 (Project Gutenberg of Australia eBook 0200791)",
+  "locator": "chapter 1, in the Fernham dinner passage, after the sentence on heart, body and brain all mixed together"
+ },
+ "confidence": "high",
+ "reason": "Word for word, and in chapter 1: the paragraph sits well inside the first of the six numbered sections, in the account of the dinner at Fernham. It is Woolf’s own narrating voice, not a character, so no speaker is named. Caution for the editor, not a fault in the citation: the Mrs Dalloway carry in 01-fict-06 is already held for June, and one person can appear only once in a month."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-05",
+ "verdict": "VERIFIED",
+ "quote": "How odd it is that every one should not see that all observation must be for or against some view, if it is to be of any service.",
+ "source": "Charles Darwin, letter to Henry Fawcett, 18 September 1861, Darwin Correspondence Project letter 3257",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "The Darwin Correspondence Project transcript of DCP-LETT-3257 was fetched twice, by its letter page and by its docId page, and both returned the sentence word for word as proposed: every one should not see, with the comma before if it is to be of any service. The manuscript closes the sentence with a dash after service, which the card drops for a full stop. Darwin is answering Fawcett about the British Association discussion of his method, so the sentence is about observation in science and not a general maxim. The widely circulated form reads anyone and ends with an exclamation mark and no comma; that is the reading of Francis Darwin's printed selection, not of the transcript, and it is not what ships here.",
+  "edition": "Darwin Correspondence Project, University of Cambridge, transcript of letter DCP-LETT-3257",
+  "locator": "letter to Henry Fawcett, dated Sept. 18th, assigned 18 September 1861; the sentence stands in the body of the letter",
+  "url": "https://www.darwinproject.ac.uk/letter/DCP-LETT-3257.xml"
+ },
+ "confidence": "high",
+ "reason": "The wording, the recipient, the date and the letter number are all confirmed in the Correspondence Project's own transcript, and shipped.js reports the line unshipped, Darwin unused and unbanned. It says that clear seeing is not blank seeing, which is the month's ground, and it asks nothing of the reader at six in the morning."
+}

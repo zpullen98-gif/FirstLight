@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "To have some account of my thoughts, manners, acquaintance and actions, when the hour arrives in which time is more nimble than memory, is the reason which induces me to keep a Journal. A Journal in which I must confess my every thought, must open my whole heart!",
+ "source": "Frances Burney, The Early Diary of Frances Burney, the first entry, Poland Street, 27 March 1768 (ed. Annie Raine Ellis, 1889)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "A page scan of the Annie Raine Ellis edition was downloaded as searchable text and read. The Juvenile Journal opens under the heading Addressed to a Certain Miss Nobody, Poland Street, London, March 27, and the sentences stand word for word as proposed, including and rather than an ampersand, the lower case hour, the reading in which rather than at which, the full stop after Journal and the capital A that begins A Journal, and my every thought. A second Ellis scan and a 1907 reprint of the same edition were checked and agree. A popular web transcription of the line from the later Diary and Letters of Madame d Arblay prints at which time and a colon, so the edition named here is what fixes the wording.",
+  "edition": "The Early Diary of Frances Burney, 1768 to 1778, ed. Annie Raine Ellis, George Bell and Sons, London, 1889, vol. I",
+  "locator": "the first entry of the Juvenile Journal, Poland Street, London, March 27, 1768; the proposal's page 4 is dropped because the scan's running heads could not be read with confidence at that opening, and the entry itself is locator enough",
+  "url": "https://archive.org/download/earlydiaryfranc01burngoog/earlydiaryfranc01burngoog_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentences are in the named work at the named place in the named edition, in exactly this wording, and shipped.js reports the line unshipped, Burney unused and unbanned. A fifteen year old setting the terms of honest writing is plain speech about truth, which is the month, and nothing in it needs a warning."
+}

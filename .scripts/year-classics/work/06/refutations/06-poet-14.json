@@ -1,0 +1,18 @@
+{
+ "id": "06-poet-14",
+ "refuted": true,
+ "wordingChecked": false,
+ "betterCitation": "Su Shi, Written on the Wall at West Forest Temple, closing couplet (trans. Burton Watson, 1965)",
+ "reason": "Refuted on two grounds, and the second is the one that matters. FIRST, the translation year in the source line is wrong by the verifier's own standard. Rule 4 requires the year of the published translation whose wording is used. The source says trans. Burton Watson, 1994, but the verifier's own evidence field says the rendering descends from Su Tung-p'o: Selections from a Sung Dynasty Poet, Columbia University Press, 1965, and Copper Canyon's own listing confirms that the 1994 book is an expanded collection into which the poems of the 1965 Columbia volume were carried. So 1994 is a reissue year, not a translation year. This is exactly the fault the same verifier corrected on 06-poet-15, where it refused 1998 for a 1995 rendering; applied evenly it refuses 1994 here. SECOND, and fatally, the wording is not settled. The verifier wrote that two independent web renderings agree on the wording including the hyphen in Lu-shan. They do not. leonarddurso.com gives 'a single peak; / far, near' with a semicolon and a lowercase line head and reads Lu-shan; poetryandplaces.com gives 'a single peak: / Far, near' with a colon and a capital, reads Lushan with no hyphen, and misspells the translator as Burton Weston. The two disagree INSIDE the quoted fragment, at Lu-shan against Lushan, which is the one word the verifier singled out as agreeing. Neither is a named edition: one is a WordPress blog, the other a poetry blog, and Wikiquote, which supplies the dropped page 108, is a third-hand citation. No copy of either the Copper Canyon 1994 or the Columbia 1965 was opened: the Internet Archive holds sutungposelectio0000sush and sutungpo0000unse, both the 1965 Columbia volume, and both are lending restricted, so search inside is refused; HathiTrust returned 403; no Google Books snippet was reachable. Rule 7 also requires the lineation and line-head capitals of the edition named, and nobody has seen that page, which is precisely why the two blogs could differ on a capital. Translation drift is this track's named failure mode and this is a clean instance of it. Everything else about the line is fine: Su Shi is at 0 for the year and not banned, shipped.js is clean with no near hit, no second Su Shi in June, the poem is of 1084 and in scope, the tag Poetry is the form, the source leads with the name, carries no dash and runs 129 characters, and the closing couplet of a four line poem is a sound locator. The fault is the citation, not the line. betterCitation names the year the rendering was first published, but it is offered as the corrected form and not as a verified one: it still needs the printed page opened to settle Lu-shan against Lushan and the line-head capital, and until someone does that the honest ruling is that this line does not yet exist in a wording anyone has seen in a named edition.",
+ "checked": {
+  "shippedJs": "run twice, clean: person su shi, yearCount 0, atCap false, banned false, shipped [], near []",
+  "sources": [
+   "https://leonarddurso.com/2018/12/16/written-on-the-wall-at-west-forest-temple-by-su-tung-po/",
+   "https://poetryandplaces.com/2020/09/30/written-on-the-wall-of-west-forest-temple-by-su-shi/",
+   "https://archive.org/metadata/sutungposelectio0000sush",
+   "https://www.coppercanyonpress.org/books/selected-poems-of-su-tung-po/"
+  ],
+  "sourceLineChars": 129,
+  "inMonthDuplicate": false
+ }
+}

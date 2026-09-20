@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-01",
+ "verdict": "VERIFIED",
+ "quote": "To see what is in front of one’s nose needs a constant struggle.",
+ "source": "George Orwell, In Front of Your Nose, Tribune, 22 March 1946, penultimate paragraph",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Two independent full texts of the essay read end to end: The Orwell Foundation and orwell.ru. Both show the sentence opening the penultimate paragraph, the one that goes on to recommend keeping a diary, with the final paragraph running from In private life most people are fairly realistic to the closing words about solid reality.",
+  "url": "https://www.orwellfoundation.com/the-orwell-foundation/orwell/essays-and-other-works/in-front-of-your-nose/",
+  "edition": "Tribune, London, 22 March 1946; reprinted in The Collected Essays, Journalism and Letters, vol. IV, 1968",
+  "locator": "penultimate paragraph"
+ },
+ "confidence": "high",
+ "reason": "Wording, work, paper and date all confirmed verbatim in two full texts, and the paragraph position the proposal claimed is the right one. One flag for the editor rather than the citation: Orwell is also proposed this month at 06-fict-13, and only one line per person can land in a month."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-03",
+ "verdict": "CORRECTED",
+ "quote": "The question is not what you look at, but what you see.",
+ "source": "Henry David Thoreau, Journal, entry of 5 August 1851, vol. II, p. 373 (ed. Bradford Torrey, 1906)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "Corrected: the 1906 Journal volume names Bradford Torrey alone as its editor, not Torrey with Francis H. Allen, who joined the edition later. The volume and page are added. The date and the wording stand as proposed.",
+ "evidence": {
+  "where": "A full scan of volume VIII of The Writings of Henry David Thoreau, which is Journal II, was downloaded as searchable text and read. The sentence closes the paragraph beginning Ah, what a poor, dry compilation is the Annual of Scientific Discovery, under the dated heading Aug. 5 with the running head 1851 A MUSICAL PERFORMER 373. The Walden Woods Project's own misquotation page gives the same date and the same wording and warns only against the looser popular rendering about what matters.",
+  "edition": "The Writings of Henry David Thoreau, vol. VIII, Journal II, 1850 to September 15, 1851, ed. Bradford Torrey, Houghton Mifflin, Boston and New York, 1906",
+  "locator": "entry of 5 August 1851, Journal vol. II, p. 373",
+  "url": "https://archive.org/download/writingsofhenryd08thor/writingsofhenryd08thor_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is on the page in the wording proposed, but the proposal's editors were wrong for a 1906 volume, so the citation is corrected rather than passed. Thoreau stands at two for the year, so this is his third and last, and shipped.js reports the line unshipped. Attention rather than scenery is the month's ground."
+}

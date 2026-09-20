@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-07",
+ "verdict": "CORRECTED",
+ "quote": "O wad some Pow’r the giftie gie us / To see oursels as others see us!",
+ "source": "Robert Burns, To a Louse, final stanza, lines 1 to 2, Poems, Chiefly in the Scottish Dialect (Kilmarnock, 1786)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected against the 1786 Kilmarnock text digitised by the National Library of Scotland. The proposal read Power and ithers. Both the Kilmarnock edition and the 1787 Edinburgh edition print Pow’r and others, so the line ships in the wording Burns published. The familiar ithers is in neither.",
+ "evidence": {
+  "where": "Three eighteenth century texts were fetched and searched directly, not summarised. The Eighteenth Century Poetry Archive diplomatic transcription of the Kilmarnock edition, made from National Library of Scotland page images and carrying the page breaks at 193 and 194, numbers these as lines 43 and 44 of 48 and prints O wad some Pow'r the giftie gie us / To see oursels as others see us! The Internet Archive scan of the 1786 Kilmarnock volume reads the same. Two separate Internet Archive scans of the 1787 Edinburgh edition also read others, with the long s of the period. No eighteenth century witness consulted reads ithers or Power. The stanza is the poem's last, so the closing fame test holds, and the full title on the page is To a Louse, On Seeing one on a Lady's Bonnet at Church.",
+  "edition": "Poems, Chiefly in the Scottish Dialect (Kilmarnock: John Wilson, 1786), pp. 193 to 194",
+  "locator": "To a Louse, final stanza, lines 43 and 44 of 48",
+  "url": "https://www.eighteenthcenturypoetry.org/works/cbu86-w0260.shtml"
+ },
+ "confidence": "high",
+ "reason": "The couplet is real, is Burns's, and closes the poem at the named place, but the proposed wording was the modernised one: Power for Pow’r and ithers for others. Three eighteenth century witnesses settle it, so the line ships in the Kilmarnock wording with the line break kept and the poem's own capitals at each line head. shipped.js returns nothing shipped and nothing near, and Burns stands at zero for the year."
+}

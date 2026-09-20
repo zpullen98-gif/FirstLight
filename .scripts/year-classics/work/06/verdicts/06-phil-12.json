@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "We ought not to be ashamed of appreciating the truth and of acquiring it wherever it comes from, even if it comes from races distant and nations different from us.",
+ "source": "Al-Kindi, On First Philosophy, p. 58 (trans. Alfred L. Ivry, 1974)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "the scanned full text of Ivry's translation, Al-Kindi's Metaphysics: A Translation of Ya'qub ibn Ishaq al-Kindi's Treatise On First Philosophy, State University of New York Press, 1974; the sentence was read in place between the printed page numbers 57 and 58",
+  "edition": "Al-Kindi's Metaphysics, trans. Alfred L. Ivry, State University of New York Press, 1974",
+  "locator": "On First Philosophy, the opening section, p. 58, following the remark on being grateful to the fathers of those who have contributed any truth",
+  "url": "https://archive.org/details/al-kindis-metaphysics"
+ },
+ "confidence": "high",
+ "reason": "The wording is Ivry's exactly. The printed text carries an editorial slash before even if, marking the Arabic page break in Abu Rida's edition, and that mark is dropped as it is not part of the sentence. The page is 58, as the proposal guessed, and the proposal's claim about the address to al-Mu'tasim is left out of the source because the page is the part that was confirmed."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-07",
+ "verdict": "VERIFIED",
+ "quote": "I do not enjoy making ‘desolation,’ believe me, but I cannot change my eyes!",
+ "source": "Gustave Flaubert, letter CCCI to George Sand, December 1875, The George Sand-Gustave Flaubert Letters (trans. Aimée L. McKenzie, 1921)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "The whole McKenzie translation was downloaded as plain text and letter CCCI was read in full. Its heading is CCCI. TO GEORGE SAND, December, 1875, and the sentence stands in the third paragraph, word for word as proposed: I do not enjoy making desolation, believe me, but I cannot change my eyes! The printed text sets desolation in double quotation marks with the comma inside, and the card carries the house curly singles instead; no word is altered. Sand's letter of the 18th, to which this replies, was read in the same file and it is she who sets the word DESOLATION against her own consolation, so the quotation marks in Flaubert's answer are him quoting her back. The title page names Aimée L. McKenzie as translator, and the translation was published in 1921.",
+  "edition": "The George Sand-Gustave Flaubert Letters, trans. Aimée L. McKenzie, 1921; read in Project Gutenberg ebook 5115",
+  "locator": "letter CCCI, Flaubert to George Sand, December 1875, third paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/5115/pg5115.txt"
+ },
+ "confidence": "high",
+ "reason": "The letter, its number, its date, its direction and its wording are all confirmed in the named translation, and shipped.js reports the line unshipped, Flaubert unused and unbanned. Answering a friend who wanted comfort, he concedes everything except how he sees, which is the month's theme said plainly and without gloom."
+}

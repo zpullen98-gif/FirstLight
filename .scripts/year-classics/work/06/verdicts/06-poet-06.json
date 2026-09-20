@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "Do any human beings ever realize life while they live it?",
+ "source": "Thornton Wilder, Our Town, Act III, her question to the Stage Manager (Emily Webb)",
+ "speaker": "Emily Webb",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Our Town is still in copyright and no full text is served, so no printed edition was opened. The wording and the placement were checked against two independent readings of the Act III graveyard scene, the LitCharts act guide and a search return carrying the same exchange, which agree on the clause and on the speakers: Emily asks it of the Stage Manager after reliving her twelfth birthday, and he answers No, then the saints and poets, maybe. The printed sentence continues after the question mark with every, every minute?, so the card stops at a question mark the edition itself prints and adds nothing. Speaker and act are not in doubt.",
+  "edition": "Our Town: A Play in Three Acts, first published 1938; no copy opened",
+  "locator": "Act III, the graveyard scene, Emily's question to the Stage Manager",
+  "url": "https://www.litcharts.com/lit/our-town/act-3"
+ },
+ "confidence": "medium",
+ "reason": "The attribution, work, act and speaker are certain and the clause is quoted identically by the sources consulted, but no edition was opened and the sentence runs on past the question mark, so confidence is medium rather than high. shipped.js returns nothing shipped and nothing near, and Wilder stands at one for the year. The question is the month's theme put as a question, and it wakes the reader rather than weighing on them."
+}

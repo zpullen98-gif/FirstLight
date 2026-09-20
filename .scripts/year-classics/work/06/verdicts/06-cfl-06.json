@@ -1,0 +1,17 @@
+{
+ "id": "06-cfl-06",
+ "verdict": "VERIFIED",
+ "quote": "I am in fact a Hobbit (in all but size).",
+ "source": "J. R. R. Tolkien, The Letters of J. R. R. Tolkien, letter 213, to Deborah Webster, 25 October 1958 (ed. Humphrey Carpenter, 1981)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the Carpenter selection, letter 213 read in place",
+  "url": "https://tolkiengateway.net/wiki/Letter_213",
+  "edition": "The Letters of J. R. R. Tolkien, ed. Humphrey Carpenter with Christopher Tolkien, 1981",
+  "locator": "letter 213, headed From a letter to Deborah Webster 25 October 1958"
+ },
+ "confidence": "high",
+ "reason": "The sentence opens its paragraph in letter 213 exactly as proposed, punctuation included, and the list of hobbit habits follows it. Carpenter heads the item as an extract from the letter of 25 October 1958."
+}

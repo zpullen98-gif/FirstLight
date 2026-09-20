@@ -1,0 +1,16 @@
+{
+ "id": "06-poet-13",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Attacked and it held. The wording was compared against two independent printings that carry the publisher's own permission line for the named translation, and both give the five lines, the breaks, the line-head capitals and the closing full stop exactly as proposed: Tricycle, which prints the Knopf Doubleday and Vintage permission note with the Hirshfield translation copyright, and A Year of Being Here, which credits The Ink Dark Moon, Vintage Classics 1990. No drift anywhere inside the quotation. The Poetry Foundation also carries the poem under the same credit, though its page returned 403 to me. Locator: the poem is untitled in the book, so the poem beginning 'Although the wind' is the standard first-line locator and the whole poem is quoted, which makes the citation locatable without a page. Edition year: the Scribner first edition is 1988, and the 1990 Vintage reissue is the later printing, so 1988 is the year of the published translation whose wording is used; this is the same test the verifier correctly applied to Szymborska, and it passes here. Attribution: not on the misattribution list, no speaker to name since it is not a character's line. shipped.js: no exact hit, no near hit, Izumi Shikibu at 0 for the year, not banned, and no second Izumi Shikibu anywhere in June's verdicts. Scope: 1988 book, Heian court poetry, not scripture despite the Buddhist magazine that reprints it, no content warning. Source line leads with the name, has no dash, uses curly single quotes only, and runs 123 characters. Tag Poetry is the form of the work. Theme fit is the only soft spot: the poem is usually read as consolation in ruin rather than plain speech, but June's blurb is 'Seeing what is there, and saying it', and the poem is an exact act of seeing what is there. That is an editor's call, not a citation fault, and it is not ground to refute.",
+ "checked": {
+  "shippedJs": "run twice, clean: person izumi shikibu, yearCount 0, atCap false, banned false, shipped [], near []",
+  "sources": [
+   "https://tricycle.org/magazine/izumi-shikibu/",
+   "https://www.ayearofbeinghere.com/2014/01/izumi-shikibu-untitled-although-wind.html"
+  ],
+  "sourceLineChars": 123,
+  "inMonthDuplicate": false
+ }
+}

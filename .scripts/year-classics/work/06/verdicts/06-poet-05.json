@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "We live close together and we live far apart.",
+ "source": "Susan Glaspell, Trifles, the one act, near the close, in Plays (1920) (Mrs Hale)",
+ "speaker": "Mrs Hale",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Two digitised texts of Trifles were opened and searched, not summarised. The Project Gutenberg edition of Plays by Susan Glaspell (ebook 59432), produced from Internet Archive page images of the 1920 Small, Maynard and Company volume, prints the speech at the head of Mrs. Hale's long answer to Mrs. Peters: I might have known she needed help! I know how things can be for women. I tell you, it's queer, Mrs. Peters. We live close together and we live far apart. The Project Gutenberg four play collection (ebook 10623) prints the same sentence verbatim. The quoted sentence is a complete sentence in both, with no truncation. The 1920 volume sets the speaker as MRS. HALE with a stop; the other sets it MRS HALE, and the card follows the house style already used for Mrs Dalloway. The speech falls about a tenth of the way from the end of the one act, so near the close is accurate.",
+  "edition": "Plays by Susan Glaspell (Boston: Small, Maynard and Company, 1920)",
+  "locator": "Trifles, the one act, Mrs Hale's speech to Mrs Peters near the close",
+  "url": "https://www.gutenberg.org/cache/epub/59432/pg59432.txt"
+ },
+ "confidence": "high",
+ "reason": "The wording is verbatim in the 1920 Plays and in a second independent transcription, the attribution and the one act locator are right, and shipped.js returns nothing shipped and nothing near, with Glaspell at zero for the year and unbanned. It is plain speech about how little we look at the people nearest us, which is the month's ground, and it carries no image that would need a warning."
+}

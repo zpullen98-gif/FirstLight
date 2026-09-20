@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "I’m nobody! Who are you? / Are you nobody, too?",
+ "source": "Emily Dickinson, ‘I’m nobody! Who are you?’, Poems, Second Series, Life I, lines 1 to 2 (Roberts Brothers, 1891)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "The Todd and Higginson text was downloaded and read directly rather than summarised. In the Project Gutenberg file of Poems by Emily Dickinson, Three Series, Complete, the Second Series opens with Mabel Loomis Todd's preface dated Amherst, August 1891, then its epigraph beginning My nosegays are for captives, then the heading I. LIFE. and the numeral I, then the untitled poem: I'm nobody! Who are you? / Are you nobody, too? / Then there's a pair of us, don't tell! / They'd banish us, you know. That is the printed Second Series structure, so Life I is right. The 1891 editors regularised the punctuation, so these lines differ from the manuscript reading Are you, Nobody, too, which is why the card names the edition. The imprint is Boston: Roberts Brothers, 1891, editors Todd and Higginson.",
+  "edition": "Poems by Emily Dickinson, Second Series, ed. Mabel Loomis Todd and T. W. Higginson (Boston: Roberts Brothers, 1891)",
+  "locator": "Book I, Life, poem I, lines 1 and 2, untitled in this edition",
+  "url": "https://www.gutenberg.org/cache/epub/12242/pg12242.txt"
+ },
+ "confidence": "high",
+ "reason": "The two lines match the 1891 edition word for word and the Life I locator is confirmed from the text itself, so the named edition carries the wording. The line break is kept and each line head keeps its own capital. shipped.js returns nothing shipped and nothing near; Dickinson stands at two for the year, so this is her third and last slot, which is worth spending on the poem she is best known by."
+}

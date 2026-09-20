@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "All letters, methinks, should be free and easy as one’s discourse; not studied as an oration, nor made up of hard words like a charm.",
+ "source": "Dorothy Osborne, Letters from Dorothy Osborne to Sir William Temple, Letter 33, pp. 160 to 161 (ed. Edward Abbott Parry, 1888)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected: in Parry’s edition the sentence stands in Letter 33, not Letter 40, running across pages 160 and 161. The date October 1653 is dropped because that edition prints no date for the letter. The wording is Parry’s and is unchanged.",
+ "evidence": {
+  "where": "A full scan of the Parry edition was downloaded as searchable text and read. The sentence runs across a page turn, free and easy as one's discourse ; not studied as an oration, at the foot of page 160 under the running head Letters from Dorothy Osborne, and nor made up of hard words like a charm at the head of page 161 under Life at Chicksands. It is preceded by I like your letters in themselves and followed by the gentleman who said winter began to salute us. Parry's headnote to Letter 33 stands before it and his Letter 34 begins after it, which fixes the number. No date is printed with the letter.",
+  "edition": "Letters from Dorothy Osborne to Sir William Temple, 1652 to 54, ed. Edward Abbott Parry, 1888 (Cornell copy, DA429.T28A3 1888)",
+  "locator": "Letter 33, in the Life at Chicksands section, pp. 160 to 161",
+  "url": "https://archive.org/download/cu31924014196046/cu31924014196046_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is Osborne's and is on the page in this wording, but the proposal's letter number and date do not match the named edition, so the citation is corrected. Later editions renumber her letters, which is why the editor is named. Shipped.js reports the line unshipped and Osborne unused and unbanned, and a rule against performing on the page is plain speech for the month."
+}

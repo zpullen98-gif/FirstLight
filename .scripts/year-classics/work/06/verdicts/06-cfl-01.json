@@ -1,0 +1,17 @@
+{
+ "id": "06-cfl-01",
+ "verdict": "VERIFIED",
+ "quote": "I was always embarrassed by the words sacred, glorious, and sacrifice and the expression in vain.",
+ "source": "Ernest Hemingway, A Farewell to Arms, Book III, chapter 27 (Frederic Henry) (Charles Scribner’s Sons, 1929)",
+ "speaker": "Frederic Henry",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of the Scribner first edition, downloaded whole and searched; the sentence read in its paragraph, and the chapter and book headings counted back from it",
+  "url": "https://www.gutenberg.org/cache/epub/75201/pg75201.txt",
+  "edition": "New York: Charles Scribner’s Sons, 1929 (Project Gutenberg eBook 75201, released January 2025)",
+  "locator": "BOOK III, CHAPTER XXVII; the sentence opens the paragraph that begins I did not say anything"
+ },
+ "confidence": "high",
+ "reason": "Word for word the Scribner text, in Book III, chapter XXVII, in Frederic Henry’s narration after Gino speaks of what cannot have been done in vain. The book number is set in roman to match the Sun Also Rises line already held for June. Caution for the editor, not a fault in the citation: two Hemingway carry ins, 03-cfl-12 and 03-cfl-04, are already held for this month, so at most one of the three can land under the one person a month rule, and Hemingway stands at zero for the year."
+}

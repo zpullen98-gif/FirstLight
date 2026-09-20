@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-14",
+ "verdict": "CORRECTED",
+ "quote": "To experience means to know facts just as they are.",
+ "source": "Nishida Kitarō, An Inquiry into the Good, Part I, ch. 1, opening sentence (trans. Masao Abe and Christopher Ives, 1990)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected: the quotation is trimmed to the work's opening sentence. The proposal joined two clauses with a comma, and the continuation about relinquishing one's own fabrications could not be checked against the Yale page. Only the opening sentence is attested identically in every witness consulted, so only it ships.",
+ "evidence": {
+  "where": "Two secondary scholarly sources quoting the Abe and Ives translation, the Kyoto School of Philosophy quotation pages, which cite the passage to page 3 and give the longer form with a comma and then an ellipsis before by pure I am referring to the state of experience just as it is without the least addition of deliberative discrimination. The Yale volume itself was not opened, and a search for the alternative two sentence form returned no literal witness either, so the punctuation after the opening sentence is unsettled.",
+  "edition": "An Inquiry into the Good, trans. Masao Abe and Christopher Ives, Yale University Press, 1990; the Japanese original is Zen no kenkyū, 1911",
+  "locator": "Part I, ch. 1, Pure Experience, the first sentence of the text, page 3 in the Yale edition according to the citing sources",
+  "url": "https://thekyotoschoolofphilosophy.wordpress.com/quotations/"
+ },
+ "confidence": "medium",
+ "reason": "The line is real, it is the opening of the work, and every witness agrees on the opening sentence word for word. The witnesses differ on whether what follows is joined by a comma or begins a new sentence, and no scan of the Yale page settled it, so the quotation stops where the evidence stops rather than minting a join. Nishida is unshipped, unbanned and at zero for the year, and knowing facts just as they are is the month's own request."
+}

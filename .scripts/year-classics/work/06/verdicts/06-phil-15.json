@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-15",
+ "verdict": "VERIFIED",
+ "quote": "Every man takes the limits of his own field of vision for the limits of the world.",
+ "source": "Arthur Schopenhauer, Studies in Pessimism, Further Psychological Observations (trans. T. Bailey Saunders, 1890)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "The Project Gutenberg text of Studies in Pessimism in Saunders's translation, read for this sentence. It prints the line verbatim with its terminal stop, under the heading Further Psychological Observations, and the next sentence calls it an error of the intellect as inevitable as the error of the eye that makes heaven and earth appear to meet at the horizon, exactly as the proposal said.",
+  "edition": "Studies in Pessimism: A Series of Essays, trans. T. Bailey Saunders, Swan Sonnenschein, 1890; Project Gutenberg ebook 10732",
+  "locator": "the essay Further Psychological Observations; the German is in Parerga und Paralipomena, volume 2, among the psychological remarks",
+  "url": "https://www.gutenberg.org/files/10732/10732-h/10732-h.htm"
+ },
+ "confidence": "high",
+ "reason": "Located verbatim in the named translation under the named heading, with the corroborating next sentence. Schopenhauer stands at one for the year from February and is neither banned nor at cap. The line diagnoses the reader's own eye rather than condemning the world, and the sentence that follows softens it into an ordinary optical mistake, so it reads at six in the morning as a correction and not as gloom."
+}

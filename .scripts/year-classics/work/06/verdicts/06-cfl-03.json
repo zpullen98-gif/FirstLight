@@ -1,0 +1,17 @@
+{
+ "id": "06-cfl-03",
+ "verdict": "VERIFIED",
+ "quote": "Travel is fatal to prejudice, bigotry and narrow-mindedness, and many of our people need it sorely on these accounts.",
+ "source": "Mark Twain, The Innocents Abroad, Conclusion (1869)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of the 1869 American Publishing Company edition, downloaded whole and searched; the sentence read in its paragraph, and the Conclusion heading counted back from it",
+  "url": "https://www.gutenberg.org/cache/epub/3176/pg3176.txt",
+  "edition": "The Innocents Abroad, Hartford: American Publishing Company, 1869 (Project Gutenberg eBook 3176)",
+  "locator": "CONCLUSION, in the paragraph beginning I have no fault to find with the manner in which our excursion was conducted"
+ },
+ "confidence": "high",
+ "reason": "Word for word in the Conclusion, and the proposal is right to print no comma after bigotry: the edition reads prejudice, bigotry and narrow-mindedness, while the Calendar For Life card adds a serial comma. Twain stands at zero for the year and does not collide with anyone held for June, though June already holds Montaigne and Stevenson on travel, which is the editor’s balance to judge."
+}

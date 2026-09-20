@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "He could see plainly that she was not herself. That is, he could not see that she was becoming herself and daily casting aside that fictitious self which we assume like a garment with which to appear before the world.",
+ "source": "Kate Chopin, The Awakening, chapter XIX (1899)",
+ "tradition": "Fiction",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Wikisource's chapter XIX of The Awakening, set from a scanned edition, was read in place. The paragraph runs: It sometimes entered Mr. Pontellier's mind to wonder if his wife were not growing a little unbalanced mentally. He could see plainly that she was not herself. That is, he could not see that she was becoming herself and daily casting aside that fictitious self which we assume like a garment with which to appear before the world. The proposal's two sentences are verbatim. Project Gutenberg's text of the novel carries the same reading.",
+  "url": "https://en.wikisource.org/wiki/The_Awakening_(Chopin)/Chapter_XIX",
+  "edition": "Kate Chopin, The Awakening (Herbert S. Stone and Company, Chicago and New York, 1899)",
+  "locator": "Chapter XIX, the paragraph on Mr Pontellier's view of his wife, just after Edna gives up her Tuesdays at home"
+ },
+ "confidence": "high",
+ "reason": "Verbatim in chapter XIX, in the author's own narration, not a character's speech, so no speaker is named. Not shipped, Chopin is at zero for the year, not banned, and the line needs no content warning. One editorial caution for the lander: the quotation opens on He and she, whose antecedents are Mr Pontellier and Edna in the sentence before, so the card carries the pronouns without their names."
+}

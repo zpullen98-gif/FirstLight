@@ -1,0 +1,17 @@
+{
+ "id": "06-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "There is no department of inquiry in which it is not full as easy to miss truth as to find it, even when the materials from which truth is to be drawn are actually present to our senses.",
+ "source": "Harriet Martineau, How to Observe: Morals and Manners, Part I, Introduction, the opening sentence (Charles Knight, 1838)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 33944, produced from Internet Archive images of the 1838 Charles Knight printing, downloaded and searched. The sentence is verbatim and is the first sentence of the text of PART I, REQUISITES FOR OBSERVATION, INTRODUCTION, standing immediately after the two epigraphs, the Latin tag and the line from De Jouy. It is followed by A child does not catch a gold fish in water at the first trial. The title page reads LONDON, CHARLES KNIGHT AND CO. 22, LUDGATE STREET, 1838.",
+  "edition": "London: Charles Knight and Co., 22 Ludgate Street, 1838, printed by Samuel Bentley",
+  "locator": "Part I, Requisites for Observation, Introduction, the opening sentence of the text, printed page 1; the page is given by the table of contents, not by the reflowed scan",
+  "url": "https://www.gutenberg.org/cache/epub/33944/pg33944.txt"
+ },
+ "confidence": "high",
+ "reason": "Located word for word at the place the proposal named, and the opening claim holds: it is the first sentence of the book's text, the epigraphs above it being quotations from Voltaire, Rogers and De Jouy rather than Martineau's own prose. Martineau is at one for the year, unbanned, and the shipped check is clean. A handbook of observation that begins by admitting how easily the eye misses truth with the evidence in front of it is the month's theme stated at the source, and it is bracing rather than bleak."
+}

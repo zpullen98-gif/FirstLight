@@ -1,0 +1,17 @@
+{
+ "id": "06-cfl-08",
+ "verdict": "CORRECTED",
+ "quote": "Give me Books, fruit, French wine and fine weather and a little music out of doors, played by somebody I do not know.",
+ "source": "John Keats, Letters of John Keats to His Family and Friends, letter CXIII to Fanny Keats, 28 August 1819 (ed. Sidney Colvin, 1891)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "The circulating wording reorders the list and rewrites the clause. Colvin’s edition reads Books, fruit, French wine, and then a little music out of doors, played by somebody I do not know. That wording is restored here. The sentence runs on after know, so the closing full stop is the card’s.",
+ "evidence": {
+  "where": "Colvin’s edition read in full text, letter CXIII located and the passage read in place",
+  "url": "https://www.gutenberg.org/cache/epub/35698/pg35698.txt",
+  "edition": "Letters of John Keats to His Family and Friends, ed. Sidney Colvin, 1891",
+  "locator": "letter CXIII, To Fanny Keats, Winchester, August 28 [1819]"
+ },
+ "confidence": "high",
+ "reason": "The letter is genuine and correctly dated, but the proposed wording is a modern rearrangement. Colvin prints Give me Books, fruit, French wine and fine weather and a little music out of doors, played by somebody I do not know, and the sentence continues past that point."
+}

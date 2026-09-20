@@ -1,0 +1,17 @@
+{
+ "id": "06-cfl-02",
+ "verdict": "CORRECTED",
+ "quote": "What we see there are not giants but windmills, and what seem to be their arms are the sails that turned by the wind make the millstone go.",
+ "source": "Miguel de Cervantes, Don Quixote, Part I, ch. VIII (Sancho Panza) (trans. John Ormsby, 1885)",
+ "speaker": "Sancho Panza",
+ "tradition": "Fiction",
+ "note": "Corrected wording. Ormsby breaks the speech with a narrative tag, so the address and the sentence about the windmills are not one sentence on the page. The proposal joined them with a comma. The line now ships as the sentence alone, word for word in Ormsby, with a capital at the head.",
+ "evidence": {
+  "where": "Project Gutenberg text of the Ormsby translation, downloaded whole and searched; the speech read in its dialogue, and the chapter heading read above it",
+  "url": "https://www.gutenberg.org/cache/epub/996/pg996.txt",
+  "edition": "John Ormsby translation, first published 1885 (Project Gutenberg eBook 996)",
+  "locator": "Part I, chapter VIII, Of the good fortune which the valiant Don Quixote had in the terrible and undreamt of adventure of the windmills"
+ },
+ "confidence": "high",
+ "reason": "The page reads: Look, your worship, said Sancho; what we see there are not giants but windmills, and what seem to be their arms are the sails that turned by the wind make the millstone go. The proposal deleted the tag and joined the two halves, which mints a sentence Ormsby never prints, so the address goes and the located sentence ships. The chapter, the translator and the speaker were all right. Cervantes stands at two for the year, so this would take him to the cap of three."
+}

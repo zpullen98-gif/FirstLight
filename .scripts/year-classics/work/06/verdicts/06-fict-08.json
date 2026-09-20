@@ -1,0 +1,17 @@
+{
+ "id": "06-fict-08",
+ "verdict": "VERIFIED",
+ "quote": "I’ll make my report as if I told a story, for I was taught as a child on my homeworld that Truth is a matter of the imagination.",
+ "source": "Ursula K. Le Guin, The Left Hand of Darkness, chapter 1, opening sentence (Genly Ai)",
+ "speaker": "Genly Ai",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The novel itself was not opened; the wording was settled from several independent quotations that agree letter for letter, including a sourced Wikiquote entry that gives the whole opening paragraph and cites The Left Hand of Darkness, 1969, chapter 1, page 1. Truth carries a capital T, homeworld is one word, and the sentence continues The soundest fact may fail or prevail in the style of its telling. The chapter opens with a short archival label, From the Archives of Hain, a transcript heading naming Genly Ai as First Mobile on Gethen, and this is the first sentence of the narrative after it, which is why it is universally cited as the novel's opening line. The source keeps the plainer chapter 1, opening sentence rather than the proposal's phrase the opening sentence of the novel, and names Genly Ai, since the report is his.",
+  "edition": "The Left Hand of Darkness, first published 1969; wording confirmed against a sourced Wikiquote citation to chapter 1, p. 1, and against multiple concurring quotations",
+  "locator": "chapter 1, A Parade in Erhenrang, the opening sentence of Genly Ai's report",
+  "url": "https://en.wikiquote.org/wiki/Ursula_K._Le_Guin"
+ },
+ "confidence": "medium",
+ "reason": "The line, the work, the chapter and the speaker are right and shipped.js reports it unshipped with Le Guin unused and unbanned, but no edition was opened, so the confidence is not high. It refuses the split between an accurate report and a true one, which is an honest place to start a day, and it is in scope at 1969."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "06-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "The truth is rarely pure and never simple.",
+ "source": "Oscar Wilde, The Importance of Being Earnest, First Act (Algernon Moncrieff)",
+ "speaker": "Algernon Moncrieff",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of The Importance of Being Earnest, read at the First Act. Jack ends his confession with the sentence That, my dear Algy, is the whole truth pure and simple, and Algernon answers with the line proposed, in this wording and with this terminal stop. The speaker is Algernon and not Jack, as the proposal says.",
+  "edition": "Project Gutenberg ebook 844, The Importance of Being Earnest: A Trivial Comedy for Serious People",
+  "locator": "First Act, Algernon's reply to Jack's the whole truth pure and simple",
+  "url": "https://www.gutenberg.org/cache/epub/844/pg844.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is in the named act, in the named mouth, in this exact wording, and it is written in English so no translator is owed. Wilde is unshipped and at zero for the year. One editorial caution for the month rather than the citation: two Wilde carry ins are already held for June and only one person may appear per month, so the editor must choose among the three."
+}
