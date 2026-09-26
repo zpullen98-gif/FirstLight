@@ -35,7 +35,7 @@ before `plan.js` before `sun.js`.
 |---|---|
 | `js/data-year.js` | `MONTHS`, `Q` — the 366, extracted verbatim from the artifact |
 | `js/data-year-makers.js` | `MONTHS_MAKERS`, `Q_MAKERS` — the second 366, built clean |
-| `js/data-year-classics.js` | `MONTHS_CLASSICS`, `Q_CLASSICS` — the third 366, landing a month at a time through `.scripts/year-classics/`; `.scripts/check-year.js` is its gate |
+| `js/data-year-classics.js` | `MONTHS_CLASSICS`, `Q_CLASSICS` — the third 366, complete on 26 September 2026, built a month at a time through `.scripts/year-classics/` (the work folders are the evidence trail); `.scripts/check-year.js` is its gate |
 | `js/data-practice.js` | `PRACTICES`, `REFLECTIONS` |
 | `js/data-intent.js` | `INTENTS`, `EXAMEN_QUESTIONS`, `LOCAL_*` — recovered from `first-light.jsx` |
 | `js/data-uplift.js` | `UPLIFT` (film lines and voices for the morning page), `TEACHINGS` (three per month) |
@@ -184,7 +184,7 @@ Phase 2 — IndexedDB scripture cache, per-canon start dates, completion marks.
 Phase 3 — journal, search, guided morning, evening examen, intent detour, heatmap.
 Phase 4 — real ephemeris and natal chart; the body practice engine.
 Phase 5 — audit all 366 citations.
-Phase 6 — a third 366, The Classics (philosophy and literature), in progress; The
-Canons (the religious-tradition balance) still owed after it.
+Phase 6 — a third 366, The Classics (philosophy and literature), complete on
+26 September 2026; The Canons (the religious-tradition balance) still owed after it.
 
 See `HANDOFF.md` for full context and the decisions worth not reversing.
