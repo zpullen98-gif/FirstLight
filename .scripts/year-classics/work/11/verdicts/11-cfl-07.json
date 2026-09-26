@@ -1,0 +1,16 @@
+{
+ "id": "11-cfl-07",
+ "verdict": "VERIFIED",
+ "quote": "Eternity is in love with the productions of time.",
+ "source": "William Blake, The Marriage of Heaven and Hell, Proverbs of Hell, plate 7 (1790)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Known text of the Proverbs of Hell (Erdman, Complete Poetry and Prose of William Blake), where it is the tenth proverb, on plate 7; no web page opened for this run",
+  "edition": "The Marriage of Heaven and Hell, etched c. 1790, text as in David V. Erdman, ed., Complete Poetry and Prose (1965, rev. 1982)",
+  "locator": "Proverbs of Hell, plate 7"
+ },
+ "confidence": "high",
+ "reason": "A Proverb of Hell on plate 7, in exactly this wording. It is an authored proverb, not an anonymous tradition, so it is in scope. Blake is at 0 of 3; the carry-in 05-poet-07 is also a Blake proverb from the same plate, so only one of the two can stand in November."
+}

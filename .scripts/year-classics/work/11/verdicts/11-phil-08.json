@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "I am in love with this green earth; the face of town and country; the unspeakable rural solitudes, and the sweet security of streets.",
+ "source": "Charles Lamb, Essays of Elia, New Year’s Eve (London Magazine, January 1821; collected 1823)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 10343, The Works of Charles and Mary Lamb, volume 2, Elia and The Last Essays of Elia, ed. E. V. Lucas; the essay New Year’s Eve was read and the sentence matched character for character",
+  "edition": "The Works of Charles and Mary Lamb, vol. 2, ed. E. V. Lucas (Methuen, 1903), text of Elia, 1823",
+  "locator": "New Year’s Eve, the paragraph beginning The elders, with whom I was brought up, a few sentences after I am not content to pass away like a weaver’s shuttle",
+  "url": "https://www.gutenberg.org/cache/epub/10343/pg10343.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands verbatim in New Year’s Eve, which appeared in the London Magazine for January 1821 and in Elia in 1823. Lamb has no lines in the year. The surrounding paragraph is a reluctance to die, but the sentence itself is a thanksgiving for the world and is not bleak."
+}

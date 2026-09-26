@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-15",
+ "verdict": "REJECT",
+ "quote": "Whenever I find myself growing grim about the mouth; whenever it is a damp, drizzly November in my soul; whenever I find myself involuntarily pausing before coffin warehouses, and bringing up the rear of every funeral I meet; and especially whenever my hypos get such an upper hand of me, that it requires a strong moral principle to prevent me from deliberately stepping into the street, and methodically knocking people’s hats off—then, I account it high time to get to sea as soon as I can.",
+ "source": "Herman Melville, Moby-Dick; or, The Whale, chapter 1, Loomings (Ishmael) (Harper and Brothers, 1851)",
+ "speaker": "Ishmael",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of Moby-Dick (ebook 2701), downloaded and grepped this run; chapter 1, Loomings, first paragraph, lines 846 to 860 of the file; month 7 reverify of the same sentence (07-cfl-05) and the November refutation read",
+  "url": "https://www.gutenberg.org/cache/epub/2701/pg2701.txt",
+  "edition": "Moby-Dick; or, The Whale, Harper and Brothers, New York, 1851, in the standard text carried by Project Gutenberg",
+  "locator": "chapter 1, Loomings, first paragraph, the sentence beginning Whenever I find myself growing grim about the mouth; the next sentence is This is my substitute for pistol and ball."
+ },
+ "confidence": "high",
+ "reason": "The citation is sound: verbatim, Ishmael, chapter 1, Melville 0 of 3, not shipped. It fails a second time on content: the next sentence glosses the voyage as a substitute for pistol and ball, the honest note that fix requires is itself a content warning, which rule 11 says marks the wrong quotation, and at ninety words of melancholy it fails rule 3 for a mortality month."
+}

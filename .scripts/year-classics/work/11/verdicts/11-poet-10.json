@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-10",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "quote": "And the miraculous comes so close / to the ruined, dirty houses— / something not known to anyone at all, / but wild in our breast for centuries.",
+ "source": "Anna Akhmatova, ‘Everything is plundered, betrayed, sold’, lines 9 to 12, Poems of Akhmatova (trans. Stanley Kunitz with Max Hayward, 1973)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Three independent reprints of the Kunitz and Hayward text (Poetry Chaikhana from Hirshfield, Women in Praise of the Sacred; artandtheology.org; A Year of Being Here, crediting Little, Brown 1973), all agreeing on the closing stanza with the dash after houses. The 1973 page was not opened.",
+  "edition": "Poems of Akhmatova, sel. and trans. Stanley Kunitz with Max Hayward (Little, Brown, 1973); Russian written June 1921, in Anno Domini MCMXXI (Petropolis, 1922)",
+  "locator": "closing stanza, lines 9 to 12 of 12",
+  "url": "https://www.poetry-chaikhana.com/Poets/A/AkhmatovaAnn/Everythingis/index.html"
+ },
+ "confidence": "medium",
+ "reason": "The closing stanza is word for word as proposed in three reprints credited to Kunitz and Hayward, and the poem is twelve lines so the locator holds. The excerpt leaves out the death imagery of the first stanza. The held carry-in 03-poet-12 is also Akhmatova, so only one can land this month."
+}

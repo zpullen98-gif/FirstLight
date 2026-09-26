@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-15",
+ "verdict": "VERIFIED",
+ "quote": "A sheltered life can be a daring life as well. For all serious daring starts from within.",
+ "source": "Eudora Welty, One Writer’s Beginnings, III, Finding a Voice, the closing lines (Harvard University Press, 1984)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Independent secondary witnesses quoting the book’s last lines (the NEH Humanities feature on Welty, the Christian Science Monitor, a writing-coach essay), all agreeing on the wording and on its place as the close of Finding a Voice; the Harvard text is in copyright and no scan was opened",
+  "url": "https://www.neh.gov/humanities/2014/marchapril/feature/the-quiet-greatness-eudora-welty",
+  "edition": "One Writer’s Beginnings, Harvard University Press, Cambridge, Mass., 1984",
+  "locator": "part III, Finding a Voice, the last two sentences of the book, after As you have seen, I am a writer who came of a sheltered life"
+ },
+ "confidence": "medium",
+ "reason": "The two sentences are the close of the book, which ends part three, and the witnesses agree on every word. The quotation starts at a sentence boundary, so nothing is cut inside a sentence. Welty has no line this year."
+}

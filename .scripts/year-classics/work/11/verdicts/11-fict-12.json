@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "There is grandeur in this view of life, with its several powers, having been originally breathed into a few forms or into one; and that, whilst this planet has gone cycling on according to the fixed law of gravity, from so simple a beginning endless forms most beautiful and most wonderful have been, and are being, evolved.",
+ "source": "Charles Darwin, On the Origin of Species, ch. XIV, the closing sentence, p. 490 (John Murray, 1859)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Darwin Online transcription of the first edition (F373), page 490, and Project Gutenberg eBook 1228 (the 1859 first edition text)",
+  "edition": "Charles Darwin, On the Origin of Species (John Murray, 1859), first edition",
+  "locator": "Chapter XIV, Recapitulation and Conclusion, last sentence, p. 490",
+  "url": "https://darwin-online.org.uk/content/frameset?itemID=F373&viewtype=text&pageseq=508"
+ },
+ "confidence": "high",
+ "reason": "Exact first-edition wording, without the 'by the Creator' added from the second edition, on p. 490 of the 1859 Murray printing; the page is added to the source."
+}

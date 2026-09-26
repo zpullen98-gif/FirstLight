@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "I neither want to die nor do I want to want to die; I want to live for ever and ever and ever.",
+ "source": "Miguel de Unamuno, Tragic Sense of Life, chapter III, The Hunger of Immortality (trans. J. E. Crawford Flitch, 1921)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 14636, the Dover reprint (1954) of Crawford Flitch’s Macmillan translation of 1921, read in full text",
+  "url": "https://www.gutenberg.org/ebooks/14636",
+  "edition": "Tragic Sense of Life, trans. J. E. Crawford Flitch, Macmillan, London, 1921 (Dover unaltered republication, 1954)",
+  "locator": "chapter III, The Hunger of Immortality, the paragraph beginning Faced with this risk"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact in Flitch’s text, chapter III. It is the part after the semicolon of a sentence that opens I do not want to die, no; cutting there drops only the dash and the no, and the clause is a full thought that begins with a capital I on its own. Unamuno has no line yet this year."
+}

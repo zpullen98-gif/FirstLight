@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-07",
+ "verdict": "VERIFIED",
+ "quote": "I have found a dream of beauty at which one might look all one’s life and sigh.",
+ "source": "Isabella Bird, A Lady’s Life in the Rocky Mountains, Letter I, Lake Tahoe, September 2, the opening sentence (John Murray, 1879)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg EBook 755, a text carrying the author's notes to the second and third editions of 1879 and 1880",
+  "edition": "A Lady’s Life in the Rocky Mountains (London: John Murray, 1879)",
+  "locator": "Letter I, headed LAKE TAHOE, September 2, first sentence",
+  "url": "https://www.gutenberg.org/files/755/755-h/755-h.htm"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim as the first words of Letter I under the heading Lake Tahoe, September 2. The book is her letters to her sister, so Correspondence stands."
+}

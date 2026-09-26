@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-09",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "quote": "There’s no life / that couldn’t be immortal / if only for a moment. / Death / always arrives by that very moment too late.",
+ "source": "Wisława Szymborska, ‘On Death, Without Exaggeration’, lines 40 to 44 (trans. Stanisław Barańczak and Clare Cavanagh, 1995)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Full poem text on poetseers.org (Nobel poets library), counted line by line: 48 lines, the quotation is lines 40 to 44 across a stanza break after moment; wording agrees with the Barańczak and Cavanagh text reprinted widely and in Nothing Twice. Harcourt 1995 page not opened.",
+  "edition": "View with a Grain of Sand: Selected Poems, trans. Stanisław Barańczak and Clare Cavanagh (Harcourt Brace, 1995); Polish in Ludzie na moście (1986)",
+  "locator": "lines 40 to 44 of 48",
+  "url": "https://www.poetseers.org/nobel-prize-for-literature/wislawa-szymborska/library/on-death-without-exaggeration/"
+ },
+ "confidence": "medium",
+ "reason": "Wording, lineation and the proposed line numbers all check against an independent full text of the Barańczak and Cavanagh translation. Not shipped; Szymborska would reach her third line of the year, and the held carry-in 10-poet-14 is also hers, so only one can land this month."
+}

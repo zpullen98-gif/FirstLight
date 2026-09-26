@@ -1,0 +1,11 @@
+{
+ "id": "11-phil-13",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "Bertrand Russell, Portraits from Memory and Other Essays, How to Grow Old, p. 52 (Simon and Schuster, 1956)",
+ "reason": "I pulled the djvu text of the Simon and Schuster 1956 scan (portraitsfrommem011249mbp) straight from its item server and read the paragraph: An individual human existence should be like a river, dash, small at first, narrowly contained within its banks, and rushing passionately past boulders and over waterfalls. Grad-ually the river grows wider. The card matches word for word, and the sentence ends at its own full stop. It sits on printed page 52, under the running head PORTRAITS FROM MEMORY, and How to Grow Old heads page 53, so the locator is right; the page can go in the source if the editor wants it. Archive full-text search shows boulders in dozens of reprints and rocks only in Chinese English-reading textbooks, which bears out the note. The London Allen and Unwin scan is restricted and I did not open it, but no evidence suggests the two 1956 printings differ. shipped.js: not shipped, no near opening, Russell at 0, not banned. It is an essay, in English, pre-2000, publishable, and a gentle mortality line that suits the month. The source is about 103 characters, leads with the name and has no dash. The em dash sits only in the quotation, where Russell put it. Editorial only: carry 07-phil-14 is also Russell, so the month takes one or the other.",
+ "evidence": {
+  "where": "ia601807.us.archive.org/20/items/portraitsfrommem011249mbp/portraitsfrommem011249mbp_djvu.txt, fetched and read this run; archive.org full-text search for rushing passionately past",
+  "locator": "How to Grow Old, the paragraph on the fear of death, printed p. 52 (Simon and Schuster, 1956)"
+ }
+}

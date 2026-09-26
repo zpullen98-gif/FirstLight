@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "To die will be an awfully big adventure.",
+ "source": "J. M. Barrie, Peter Pan, Act III, The Mermaids’ Lagoon (Peter) (Charles Scribner’s Sons, 1928)",
+ "tradition": "Drama",
+ "speaker": "Peter",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 78131, Peter Pan (the play), whose front matter gives the original publication as New York: Charles Scribner’s Sons, 1928; read in full text. The same sentence stands in the novel Peter and Wendy (1911), Gutenberg 26654, chapter 8.",
+  "edition": "Peter Pan, or The Boy Who Would Not Grow Up, Charles Scribner’s Sons, 1928",
+  "locator": "ACT III, THE MERMAIDS’ LAGOON, after Wendy is drawn away by the kite: PETER (with a drum beating in his breast as if he were a real boy at last). To die will be an awfully big adventure.",
+  "url": "https://www.gutenberg.org/ebooks/78131"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in the 1928 Scribner text, Act III, speaker confirmed. It stands near the close of the act rather than as its last words, since the stage business of the nest follows. shipped.js clear, Barrie 0 of 3, not banned."
+}

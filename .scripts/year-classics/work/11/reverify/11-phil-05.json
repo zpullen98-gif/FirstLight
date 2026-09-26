@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-05",
+ "verdict": "CORRECTED",
+ "quote": "Men fear death, as children fear to go in the dark; and as that natural fear in children, is increased with tales, so is the other.",
+ "source": "Francis Bacon, The Essays or Counsels, Civil and Moral, Of Death, the opening sentence (1625, modernised spelling)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected: the wording is a modernised spelling text of the 1625 Essays, which is the text that was read. The 1625 quarto prints the sentence in the spelling of its day, beginning Men feare Death, so the card names the modernisation. The essay first appeared in 1612.",
+ "evidence": {
+  "where": "Project Gutenberg ebook 575, modern spelling text of the 1625 Essays, downloaded and searched (line 225); original spelling checked in Alfred S. West's 1908 Cambridge edition on Wikisource, Bacon's Essays/Of Death",
+  "edition": "The Essays or Counsels, Civil and Moral, 1625 collection, Gutenberg modern spelling text, ebook 575",
+  "locator": "Of Death, the first sentence of the essay",
+  "url": "https://www.gutenberg.org/cache/epub/575/pg575.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is genuine and opens Of Death, and the wording matches the Gutenberg modern spelling text character for character, but the bare (1625) claimed the quarto's wording, which reads Men feare Death. The source now follows the house convention already shipped for Of Studies. Bacon is at two, so this is his third and last."
+}

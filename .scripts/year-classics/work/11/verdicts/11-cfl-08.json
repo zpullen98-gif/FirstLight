@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-08",
+ "verdict": "VERIFIED",
+ "quote": "You only live twice: / Once when you are born / And once when you look death in the face.",
+ "source": "Ian Fleming, You Only Live Twice, the epigraph, printed as after Bashō (Jonathan Cape, 1964)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Full text of the novel in a digital copy (mural.uv.es PDF), read with pdftotext: the epigraph page prints the three lines with the credit After BASHO, Japanese poet, 1643-94; in chapter 11, Anatomy Class, Bond composes the verse for Tiger Tanaka, who says it has the wrong number of syllables. Not the Cape first edition itself",
+  "edition": "Jonathan Cape, 1964 (text read in an unofficial digital copy)",
+  "locator": "epigraph; composed by Bond in chapter 11, Anatomy Class",
+  "url": "http://mural.uv.es/cyntsomo/1964_you_only_live_twice[1].pdf"
+ },
+ "confidence": "medium",
+ "reason": "The epigraph reads exactly as proposed, full stop included. It is Fleming's own verse: the novel has Bond write it in chapter 11 and Tiger calls it a failed haiku, so the Bashō credit is Fleming's joke and the card rightly credits Fleming. Fleming is at 0 of 3 and shipped check is clean; the Cape page itself was not opened."
+}

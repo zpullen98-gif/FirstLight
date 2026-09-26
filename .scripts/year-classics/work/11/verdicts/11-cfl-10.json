@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-10",
+ "verdict": "REJECT",
+ "quote": "“You cannot step twice into the same rivers; for fresh waters are ever flowing in upon you.”",
+ "source": "Heraclitus, Fragments, fragments 41 and 42, Early Greek Philosophy (trans. John Burnet, 1908)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Burnet, Early Greek Philosophy, chapter III (Internet Archive copy of the 1920 edition, which keeps the same wording); First Light work/08/month.json, day 1, for the shipped rendering",
+  "edition": "John Burnet, Early Greek Philosophy, 2nd edition, A. and C. Black, 1908",
+  "locator": "fragments 41 and 42 in Burnet's numbering (DK B91 and B12 conflated)",
+  "url": "https://archive.org/details/rlgrk"
+ },
+ "confidence": "high",
+ "reason": "The Burnet wording is real, but it is another rendering of the river fragment, B12, already shipped in August as Kahn's “As they step into the same rivers, other and still other waters flow upon them.” shipped.js missed it only because the openings differ. Burnet also folds Plato's paraphrase (B91) into it."
+}

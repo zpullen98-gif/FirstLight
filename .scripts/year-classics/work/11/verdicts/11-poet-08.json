@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "In this world / we walk on the roof of hell, / gazing at flowers.",
+ "source": "Kobayashi Issa, In this world (yo no naka wa), hokku, The Essential Haiku (trans. Robert Hass, 1994)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "four independent postings that credit Hass and The Essential Haiku (Lilliput Review’s survey of the Hass Issa translations, Lady Nyo’s and In My Mind In My Heart’s excerpts from the book, and the Goodreads entry); the Ecco scans on the Internet Archive are lending only and could not be searched",
+  "url": "http://lilliputreview.blogspot.com/2009/03/robert-hass-issa-translations.html",
+  "edition": "The Essential Haiku: Versions of Bashō, Buson, and Issa, ed. and trans. Robert Hass (Hopewell, N.J.: Ecco Press, 1994)",
+  "locator": "the Issa section; page not seen. The Japanese is yo no naka wa / jigoku no ue no / hanami kana"
+ },
+ "confidence": "medium",
+ "reason": "Every copy that credits the Hass book agrees on the words, lineation, lowercase line heads and the comma after hell, and Hass is its known translator, so it stands as verified on the practice used for Rich in July; the Ecco page was not opened. Issa is at two of three, and the Issa carry-in 08-poet-15-displaced is also in the November pool: only one Issa can land."
+}

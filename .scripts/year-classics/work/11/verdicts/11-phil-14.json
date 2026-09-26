@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-14",
+ "verdict": "CORRECTED",
+ "quote": "To celebrate a festival means: to live out, for some special occasion and in an uncommon manner, the universal assent to the world as a whole.",
+ "source": "Josef Pieper, In Tune with the World: A Theory of Festivity, p. 23 (trans. Richard and Clara Winston, 1965)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected the page. The wording is confirmed in the 1965 Harcourt printing, but p. 30 belongs to the 1999 St. Augustine's Press reprint. Two independent citations of the 1965 and 1973 printings give p. 23; that page was not seen directly.",
+ "evidence": {
+  "where": "Internet Archive full-text search of the 1965 Harcourt, Brace and World scan (intunewithworldt0000piep), which returns the whole sentence; page from citations in Homily Service, November 1976 (p. 23) and Taiwan Mission, July 1993 (1973:23); Humanum Review cites the 1999 reprint at p. 30",
+  "edition": "In Tune with the World: A Theory of Festivity, trans. Richard and Clara Winston, Harcourt, Brace and World, 1965",
+  "locator": "p. 23 (1965); p. 30 in the St. Augustine's Press reprint of 1999",
+  "url": "https://archive.org/details/intunewithworldt0000piep"
+ },
+ "confidence": "medium",
+ "reason": "The wording is exact in the 1965 Winston translation, and it is the book's definitional sentence; the proposal's page came from the 1999 reprint while naming the 1965 publisher, so the locator is corrected to the page the 1965 printing is cited at."
+}

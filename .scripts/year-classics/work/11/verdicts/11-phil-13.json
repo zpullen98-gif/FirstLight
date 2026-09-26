@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-13",
+ "verdict": "CORRECTED",
+ "quote": "An individual human existence should be like a river—small at first, narrowly contained within its banks, and rushing passionately past boulders and over waterfalls.",
+ "source": "Bertrand Russell, Portraits from Memory and Other Essays, How to Grow Old (George Allen and Unwin, 1956)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the wording. Both 1956 printings read past boulders, not past rocks, and set a dash after river where the proposal had a colon. The rocks wording belongs to later reprints and quotation sites.",
+ "evidence": {
+  "where": "Internet Archive full-text search of two scans of the book: George Allen and Unwin, London, 1956 (portraitsfrommem00russrich) and Simon and Schuster, New York (portraitsfrommem011249mbp, leaf 58, printed p. 52 by the scan's page map)",
+  "edition": "Portraits from Memory and Other Essays, George Allen and Unwin, 1956; Simon and Schuster, 1956",
+  "locator": "How to Grow Old, the river paragraph near the close of the essay",
+  "url": "https://archive.org/details/portraitsfrommem011249mbp"
+ },
+ "confidence": "high",
+ "reason": "The line is real and is the essay's signature image, but the proposal carried the popular corruption rocks for Russell's boulders and a colon for his dash; both first printings agree on boulders and the dash."
+}

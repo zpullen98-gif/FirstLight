@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-16",
+ "verdict": "CORRECTED",
+ "quote": "The wine is bottled poetry.",
+ "source": "Robert Louis Stevenson, The Silverado Squatters, Part I, In the Valley, chapter III, Napa Wine (Chatto and Windus, 1883)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the locator to Part I, In the Valley. The words are a clause from a longer sentence about the Californian vineyards still undiscovered, those virtuous Bonanzas where the wine is bottled poetry; the clause is cut at the colon and its first letter raised.",
+ "evidence": {
+  "where": "Project Gutenberg text of The Silverado Squatters (ebook 516), transcribed from the 1906 Chatto and Windus edition; contents and chapter heading read, the paragraph read in full",
+  "url": "https://www.gutenberg.org/cache/epub/516/pg516.txt",
+  "edition": "The Silverado Squatters, Chatto and Windus (first published 1883; text read in the 1906 printing)",
+  "locator": "Part I, In the Valley, chapter III, Napa Wine, the paragraph beginning Wine in California is still in the experimental stage"
+ },
+ "confidence": "medium",
+ "reason": "The clause is verbatim: and the wine is bottled poetry, closing a relative clause about vineyards not yet found, followed by a colon. Cutting at the clause and raising its letter follows the month 9 Varys precedent, and the note says so; the popular form Wine is bottled poetry, without the article, is the corrupted version and does not ship. In context the wine is that of vineyards still to be found, so the line reads slightly more general than Stevenson wrote it. Stevenson is at zero of three and not banned; shipped.js finds no match."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "O let the soul her slumbers break, / Let thought be quickened, and awake, / Awake to see / How soon this life is past and gone, / And death comes softly stealing on, / How silently!",
+ "source": "Jorge Manrique, Coplas por la muerte de su padre, stanza I, lines 1 to 6 (trans. Henry Wadsworth Longfellow, 1833)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the 1833 first edition, read in the Internet Archive scan of the Boston Public Library (Ticknor) copy, and compared with the Project Gutenberg Complete Poetical Works",
+  "url": "https://archive.org/details/coplasdedonjorge00manr",
+  "edition": "Coplas de Don Jorge Manrique, translated from the Spanish (Boston: Allen and Ticknor, 1833), first edition per BAL 12054",
+  "locator": "Stanzas composed by Don Jorge Manrique on the death of his father Don Rodrigo, stanza I, lines 1 to 6. The 1833 text reads awake, with a comma at the end of line 2; the later collected text in Gutenberg 1365 reads awake; with a semicolon"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in the 1833 first edition. The wording is identical to the proposal except one punctuation mark: the 1833 printing has a comma after awake where later collected editions have a semicolon, so the line ships in the wording of the edition the source names."
+}

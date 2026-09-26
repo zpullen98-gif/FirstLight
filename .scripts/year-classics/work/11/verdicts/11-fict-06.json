@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-06",
+ "verdict": "VERIFIED",
+ "quote": "A Letter always feels to me like immortality because it is the mind alone without corporeal friend.",
+ "source": "Emily Dickinson, Letters, L330, to Thomas Wentworth Higginson, June 1869 (ed. Thomas H. Johnson, 1958)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Dickinson Electronic Archives, Dickinson/Higginson correspondence, Letter 330 (Johnson numbering), read in context",
+  "edition": "The Letters of Emily Dickinson, ed. Thomas H. Johnson and Theodora Ward (Harvard University Press, 1958)",
+  "locator": "L330, June 1869",
+  "url": "https://archive.emilydickinson.org/correspondence/higginson/l330.html"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands verbatim, with Dickinson's capital L on Letter, in the June 1869 letter to Higginson numbered 330 in Johnson. The same letter closes on Gratitude is the timid wealth of those who have nothing, so the month fit holds."
+}

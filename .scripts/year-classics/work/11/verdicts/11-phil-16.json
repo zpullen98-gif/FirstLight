@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-16",
+ "verdict": "CORRECTED",
+ "quote": "In general, the intensity and dedication with which very many human activities are pursued cannot be explained without reference to the awareness that our opportunities are finite, that we cannot choose these activities indefinitely many times.",
+ "source": "Martha Nussbaum, The Therapy of Desire, chapter 6, Mortal Immortals, p. 229 (Princeton University Press, 1994)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "Corrected the work. The sentence is not in Love’s Knowledge; it closes an argument in Mortal Immortals: Lucretius on Death and the Voice of Nature, first printed in Philosophy and Phenomenological Research, December 1989, then chapter 6 of The Therapy of Desire. The opening And is cut and the capital raised.",
+ "evidence": {
+  "where": "Internet Archive full-text search: the sentence is absent from both Love's Knowledge scans (lovesknowledge00mart, lovesknowledgees00nuss_0) and present in Philosophy and Phenomenological Research 50.2 (December 1989) and three scans of The Therapy of Desire; page 229 read from one scan's text and page map",
+  "edition": "The Therapy of Desire: Theory and Practice in Hellenistic Ethics, Princeton University Press, 1994",
+  "locator": "chapter 6, Mortal Immortals: Lucretius on Death and the Voice of Nature, p. 229",
+  "url": "https://archive.org/details/therapyofdesire0000mart"
+ },
+ "confidence": "high",
+ "reason": "The wording is exact but the proposal placed it in Transcending Humanity in Love's Knowledge, where full-text search finds no trace of it; it belongs to the Lucretius essay, collected as chapter 6 of The Therapy of Desire."
+}

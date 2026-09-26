@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-09",
+ "verdict": "VERIFIED",
+ "quote": "“Do not go gentle into that good night, / Old age should burn and rave at close of day; / Rage, rage against the dying of the light.”",
+ "source": "Dylan Thomas, Do not go gentle into that good night, lines 1 to 3, In Country Sleep and Other Poems (New Directions, 1952)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Publication record (Botteghe Oscure 1951, first in book form in In Country Sleep, New Directions 1952) confirmed through Wikipedia and first-edition bookseller listings; the opening tercet's wording and punctuation confirmed against the standard text as widely reprinted. The New Directions page itself was not opened.",
+  "edition": "In Country Sleep and Other Poems, New Directions, New York, 1952",
+  "locator": "lines 1 to 3, the opening tercet of the villanelle",
+  "url": "https://en.wikipedia.org/wiki/Do_not_go_gentle_into_that_good_night"
+ },
+ "confidence": "high",
+ "reason": "The opening tercet is exact, lineated as the poem prints it, and the villanelle first appeared in book form in the New Directions volume of 1952. Not shipped, Thomas at zero this year, and the poem urges heat against dying without describing it, so it is publishable in the mortality month."
+}

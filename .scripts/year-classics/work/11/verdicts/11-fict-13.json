@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-13",
+ "verdict": "VERIFIED",
+ "quote": "That living word awakened my soul, gave it light, hope, joy, set it free!",
+ "source": "Helen Keller, The Story of My Life, chapter IV, the well-house (Doubleday, Page and Company, 1903)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of The Story of My Life (ebook 2397), chapter IV, read directly",
+  "url": "https://www.gutenberg.org/files/2397/2397-h/2397-h.htm",
+  "edition": "The Story of My Life, Doubleday, Page and Company, New York, 1903",
+  "locator": "chapter IV, the paragraph after the teacher spells water into her hand at the well-house"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands word for word in chapter IV of the Gutenberg text of the 1903 book. The proposal's locator said the water pump at Tuscumbia; Keller writes of the well-house, so the locator is given in her word. Keller has no line this year, and the moment of the word water is the sentence the book is known by."
+}

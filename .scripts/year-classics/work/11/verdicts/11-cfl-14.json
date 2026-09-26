@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-14",
+ "verdict": "CORRECTED",
+ "quote": "The trees are in their autumn beauty, / The woodland paths are dry, / Under the October twilight the water / Mirrors a still sky; / Upon the brimming water among the stones / Are nine and fifty swans.",
+ "source": "W. B. Yeats, The Wild Swans at Coole, the opening stanza, The Wild Swans at Coole (Macmillan, 1919)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected the wording to the edition named. The Macmillan printing of 1919 reads nine and fifty swans, without hyphens; the hyphenated nine-and-fifty is the reading of later collected editions.",
+ "evidence": {
+  "where": "Project Gutenberg text of The Wild Swans at Coole (ebook 32491), transcribed from the Macmillan Company edition, New York, published March 1919; the transcription keeps hyphens elsewhere in the poem (bell-beat), so the unhyphened reading is the print's",
+  "url": "https://www.gutenberg.org/cache/epub/32491/pg32491.txt",
+  "edition": "The Wild Swans at Coole, The Macmillan Company, 1919",
+  "locator": "title poem, stanza 1, lines 1 to 6"
+ },
+ "confidence": "high",
+ "reason": "The opening stanza is verbatim in the 1919 Macmillan text except that the proposal hyphenated nine and fifty, which that edition does not. Yeats stands at one of three (month 10, Innisfree) and is not banned; shipped.js finds no match. The editor should note the carry-in 08-poet-13 is also Yeats, and only one can stand in November. The stanza is October, but the poem goes on to count nineteen autumns, so beauty and passing time come together."
+}

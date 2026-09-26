@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "There are no dead.",
+ "source": "Maurice Maeterlinck, The Blue Bird, Act V, scene 2, The Graveyard (Tyltyl) (trans. Alexander Teixeira de Mattos, 1910)",
+ "tradition": "Drama",
+ "speaker": "Tyltyl",
+ "note": "The act number belongs to the six act edition of 1910, where a new Palace of Happiness act was inserted as Act IV. In the five act first edition of 1909 the Graveyard falls in Act IV, so the year is given as 1910.",
+ "evidence": {
+  "where": "Project Gutenberg ebook 8606, The Blue Bird: A Fairy Play in Six Acts, trans. Teixeira de Mattos, read in full text; the translator’s note is dated Chelsea, 14 November 1910 and says the new act appears for the first time in this edition.",
+  "edition": "The Blue Bird: A Fairy Play in Six Acts, trans. Alexander Teixeira de Mattos, six act edition, 1910",
+  "locator": "ACT V, SCENE 2, The Graveyard, the last speech before CURTAIN: MYTYL Where are the dead?.... TYLTYL There are no dead....",
+  "url": "https://www.gutenberg.org/cache/epub/8606/pg8606.txt"
+ },
+ "confidence": "high",
+ "reason": "Wording, scene, speaker and position read verbatim; the four points are this translator’s full stop plus suspension, cut to a stop as in the October line. Corrected only the year, since Act V numbering exists only from the 1910 edition. The editor should know the shipped October Maeterlinck line cites Act IV, Palace of Happiness with 1909, but that act first appeared in 1910."
+}

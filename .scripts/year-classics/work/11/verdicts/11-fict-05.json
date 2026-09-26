@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-05",
+ "verdict": "CORRECTED",
+ "quote": "Just as we take the train to go to Tarascon or Rouen, we take death to go to a star.",
+ "source": "Vincent van Gogh, letter 638 to Theo van Gogh, Arles, 9 or 10 July 1888 (trans. Imogen Forster and Sue Dyson, 2009)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected the translation credit and the language. Van Gogh wrote this letter in French, not Dutch, and the Van Gogh Museum edition of 2009 credits its French letters to Imogen Forster and Sue Dyson jointly, without naming a translator for each letter. The wording is exact.",
+ "evidence": {
+  "where": "Van Gogh Museum and Huygens ING online edition, letter 638, English translation read in full context; the edition's About page for the translator credit; French original confirmed as French",
+  "edition": "Vincent van Gogh: The Letters, ed. Leo Jansen, Hans Luijten and Nienke Bakker (Van Gogh Museum, 2009)",
+  "locator": "letter 638, 1v, note 20",
+  "url": "https://vangoghletters.org/vg/letters/let638/letter.html"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the 2009 edition's translation of letter 638 to Theo, Arles, 9 or 10 July 1888. The proposal named no translator and gave Dutch as the original language, so the credit is corrected."
+}

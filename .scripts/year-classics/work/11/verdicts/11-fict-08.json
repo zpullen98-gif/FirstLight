@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-08",
+ "verdict": "CORRECTED",
+ "quote": "I lingered round them, under that benign sky; watched the moths fluttering among the heath, and hare-bells; listened to the soft wind breathing through the grass; and wondered how any one could ever imagine unquiet slumbers, for the sleepers in that quiet earth.",
+ "source": "Emily Brontë, Wuthering Heights, vol. II, ch. XX, the closing sentence (Lockwood) (Thomas Cautley Newby, 1847)",
+ "speaker": "Lockwood",
+ "tradition": "Fiction",
+ "note": "Corrected the wording to the first edition of 1847, which the locator names: it has a comma after heath and another after unquiet slumbers. Later printings drop them or change the punctuation. The chapter is XXXIV in single volume editions.",
+ "evidence": {
+  "where": "Wikisource transcription of the first edition, Wuthering Heights (1st edition), Volume 2, Chapter XX; compared with Project Gutenberg EBook 768, whose later text reads sky: and harebells with commas",
+  "edition": "Wuthering Heights, by Ellis Bell (London: Thomas Cautley Newby, 1847), vol. II",
+  "locator": "vol. II, ch. XX, final paragraph",
+  "url": "https://en.wikisource.org/wiki/Wuthering_Heights_(1st_edition)/Volume_2/Chapter_20"
+ },
+ "confidence": "medium",
+ "reason": "The closing sentence is real and the locator is right, but the proposed punctuation matches no edition I opened. The 1847 transcription has heath, and hare-bells and unquiet slumbers, for the sleepers. The 1847 wording is supplied, taken from a scan-backed transcription. The page image itself was not opened."
+}

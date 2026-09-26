@@ -1,0 +1,8 @@
+{
+ "id": "11-cfl-02",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "I downloaded the text layer of the Digital Library of India scan the evidence names (archive.org dli.venugopal.844, file 058_djvu.txt; metadata date 1928, creator Tagore). It reads The butterfly counts not months but moments, then on its own line and has time enough. and nothing else in that block. The folio [ 14 ] stands above it; the next pieces (My thoughts, like sparks; The tree gazes in love; Let my love, like sunlight) are followed by [ 17 ], so the OCR has dropped [15] and [16] and the butterfly sits alone on page 15, which agrees with the May refutation's reading of the hOCR of fireflies0000tago. Lineation: the break after moments with a lower case and at the head of line two is the edition's, and the May reverify showed it cannot be a justification wrap. Tagore wrote Fireflies in English, so there is no translator and no drift. Attribution right; nothing on the misattribution list. shipped.js clean, Tagore at 0 of 3, not banned. In scope (1928), publishable, ends in a full stop, verse keeps its break as ' / '. Source line 65 characters, leads with the name, no dash; Poetry is the form. The Calendar For Life candidate (cflId 351) runs it as one prose line; the card rightly restores the edition's two lines. Nothing to break.",
+ "evidence": {"where": "archive.org/download/dli.venugopal.844/058_djvu.txt, fetched this run, lines 145 to 178", "locator": "p. 15, between folio [14] and folio [17] with [15] and [16] lost in OCR"}
+}

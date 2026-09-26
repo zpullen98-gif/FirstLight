@@ -1,0 +1,7 @@
+{
+ "id": "11-fict-15",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "Eudora Welty, One Writer’s Beginnings, III, Finding a Voice, the closing lines (Harvard University Press, 1984), p. 104",
+ "reason": "Wording checked against the named edition after all: Internet Archive full-text search of onewritersbeginn00eudo (metadata: Cambridge, Mass., Harvard University Press, 1984) returns “of a sheltered life. A sheltered life can be a daring life as well. For all serious daring starts from within.” followed by the page number 104 and nothing after, so these are the last two sentences of the book. Six other scanned printings (1985, 1991, 2002, the omnibus) carry the same wording. The preceding sentence is As you have seen, I am a writer who came of a sheltered life, so the card starts cleanly at a sentence head. Locator: part III, Finding a Voice, closing lines, correct; the page (104 in the 1984 Harvard printing) can be added, which is the betterCitation. shipped.js: not shipped, no near opening, Welty at 0 of 3, not banned. In scope: a 1984 memoir, not a speech (the book grew from the Massey Lectures, but the citation is to the printed book and these lines are its closing). Publishable. Source line leads with the name, 111 characters (120 with the page), no dash, curly apostrophe. Tag Essay is the nearest form for memoir. Soft point: the line is about courage from within more than gratitude or mortality; placement is the editor’s call. Evidence field should now say the Harvard text WAS reached. Nothing to break."
+}

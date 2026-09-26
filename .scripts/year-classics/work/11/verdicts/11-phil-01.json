@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-01",
+ "verdict": "VERIFIED",
+ "quote": "So death, the most terrifying of ills, is nothing to us, since so long as we exist, death is not with us; but when death comes, then we do not exist.",
+ "source": "Epicurus, Letter to Menoeceus, 125, in Epicurus: The Extant Remains, p. 85 (trans. Cyril Bailey, 1926)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the archive.org OCR of Bailey's Epicurus: The Extant Remains (Oxford, Clarendon Press, 1926), read in place in the Letter to Menoeceus",
+  "edition": "Cyril Bailey, Epicurus: The Extant Remains, Oxford, Clarendon Press, 1926",
+  "locator": "III. To Menoeceus, section 125 (margin number), p. 85",
+  "url": "https://archive.org/details/BaileyEpicurusTheExtantRemainsCyrilBailey"
+ },
+ "confidence": "high",
+ "reason": "Bailey's 1926 text on p. 85, beside the margin number 125, reads word for word as proposed, semicolon included; EpicureanFriends' Bailey transcription agrees. Not shipped, nothing near, Epicurus at 1 of 3, not banned, and the only Epicurus in the month's proposals."
+}

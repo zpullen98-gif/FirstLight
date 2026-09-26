@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-05",
+ "verdict": "CORRECTED",
+ "quote": "Let them a journey new begin, / But I at last with weary feet / Will turn towards the lighted inn, / My evening-rest and sleep to meet.",
+ "source": "J. R. R. Tolkien, The Return of the King, Book VI, chapter 6, Many Partings (George Allen and Unwin, 1955) (Bilbo Baggins)",
+ "speaker": "Bilbo Baggins",
+ "tradition": "Fiction",
+ "note": "Corrected the tag from Poetry to Fiction. These are the last four lines of the walking song Bilbo murmurs in Rivendell, verse set inside a novel, and The Classics tags such verse by the form of the work. The wording matches every transcription consulted; the 1955 printed page itself was not opened.",
+ "evidence": {
+  "where": "The first verdict and the refutation (a raw fetch of a transcription of the third version of the walking song, plus Wikipedia and fan pages), checked against my own knowledge of the text; house tagging precedent read in js/data-year-classics.js (verse from Shakespeare, Goethe, Aeschylus, Ibsen, Tang Xianzu tagged by the form of the work, Drama). No new web access this run; the 1955 Allen and Unwin page was not opened",
+  "edition": "George Allen and Unwin, 1955",
+  "locator": "Book VI, chapter 6, Many Partings, lines 5 to 8 of Bilbo's third version of The Road Goes Ever On",
+  "url": "https://en.wikipedia.org/wiki/The_Road_Goes_Ever_On_(song)"
+ },
+ "confidence": "high",
+ "reason": "Wording, lineation, speaker and locator hold across both earlier passes and my own reading; the only failure is the tag, which the house precedent settles as Fiction. shipped.js is clean and Tolkien is at 2 of 3, so this spends his last line of the year while two Tolkien carry-ins also sit in the pool."
+}

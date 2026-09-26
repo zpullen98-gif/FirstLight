@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-08",
+ "verdict": "HEDGE",
+ "quote": "In this world / we walk on the roof of hell, / gazing at flowers.",
+ "source": "Kobayashi Issa, In this world (yo no naka wa), hokku, The Essential Haiku, the Issa section (trans. Robert Hass, 1994)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "The translation is certainly Hass’s, but the Ecco page was not opened, so no page is given. The lowercase line heads and the comma after hell follow Lilliput Review; other postings capitalise the line heads, and the earlier Milosz and Hass rendering in The Separate Notebooks (1984) prints Hell with no comma.",
+ "evidence": {
+  "where": "This run: archive.org metadata and search-inside for both Ecco copies (essentialhaikuve00hass, essentialhaikuve0000unse) return Item not available and the OCR text is 403; Google Books API was over quota. Web search and fetches of Lilliput Review (lowercase heads, comma after hell, from a Hass Issa PDF on PoemHunter) and Lady Nyo’s 2020 excerpt from The Essential Haiku (capitalised heads, comma after hell); Goodreads and A Nest Made of Words also credit Hass. The refutation’s Separate Notebooks point was read, not re-checked.",
+  "url": "http://lilliputreview.blogspot.com/2009/03/robert-hass-issa-translations.html",
+  "edition": "The Essential Haiku: Versions of Bashō, Buson, and Issa, ed. and trans. Robert Hass (Hopewell, N.J.: Ecco Press, 1994), not opened",
+  "locator": "the Issa section, page not seen; the Japanese is yo no naka wa / jigoku no ue no / hanami kana"
+ },
+ "confidence": "medium",
+ "reason": "The words and the translator are sound across every posting and shipped.js is clean (Issa 2 of 3, not banned), but no one has opened the Ecco page and the postings disagree on capitals and punctuation, so the refutation stands against VERIFIED and the line survives only as a HEDGE. Only one Issa can land in November: the carry-in 08-poet-15-displaced competes."
+}

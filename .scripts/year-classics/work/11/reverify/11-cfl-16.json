@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-16",
+ "verdict": "REJECT",
+ "quote": "The wine is bottled poetry.",
+ "source": "Robert Louis Stevenson, The Silverado Squatters, Part I, In the Valley, chapter III, Napa Wine (Chatto and Windus, 1883)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg plain text of The Silverado Squatters (ebook 516, transcribed from the 1906 Chatto and Windus impression), downloaded and grepped this run; the paragraph read around line 514",
+  "url": "https://www.gutenberg.org/cache/epub/516/pg516.txt",
+  "edition": "The Silverado Squatters, Chatto and Windus, first published 1883; text read in the 1906 impression",
+  "locator": "chapter III, Napa Wine, the sentence those virtuous Bonanzas, where the soil has sublimated under sun and stars to something finer, and the wine is bottled poetry: these still lie undiscovered"
+ },
+ "confidence": "medium",
+ "reason": "The words are verbatim, but only as the tail of a relative clause about vineyards that, Stevenson says, still lie undiscovered. Lifted alone with a raised capital, the card turns a prophecy into a maxim, and its fame belongs to the misquote Wine is bottled poetry. It also serves Gratitude and Mortality only thinly. It fails a second time and is out."
+}

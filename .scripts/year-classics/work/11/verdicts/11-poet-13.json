@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-13",
+ "verdict": "VERIFIED",
+ "quote": "come celebrate / with me that everyday / something has tried to kill me / and has failed.",
+ "source": "Lucille Clifton, won’t you celebrate with me, lines 11 to 14, The Book of Light (Copper Canyon Press, 1993)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the licensed text on Poetry in Voice, credited to The Book of Light, copyright 1993, used with the permission of Copper Canyon Press; the Poetry Foundation page refused the fetch; the printed book was not opened",
+  "url": "https://poetryinvoice.ca/read/poems/wont-you-celebrate-me",
+  "edition": "The Book of Light (Copper Canyon Press, 1993)",
+  "locator": "the fourteen-line poem; the quotation begins at come celebrate in the middle of line 11 and runs to the close at line 14"
+ },
+ "confidence": "high",
+ "reason": "Read word for word in a licensed reprint crediting the 1993 Copper Canyon edition: lineation, lower case, everyday as one word and the closing full stop all match. Not shipped, the person is new to the year, and the survival line is plain, not graphic."
+}

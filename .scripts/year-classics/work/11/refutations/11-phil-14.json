@@ -1,0 +1,11 @@
+{
+ "id": "11-phil-14",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Archive full-text search restricted to the 1965 Harcourt, Brace and World scan (intunewithworldt0000piep) returns, in the Winstons wording: To celebrate a festival means: to live out, for some special occa-sion and in an uncommon manner, the universal assent to the world as a whole. The card matches, colon included. The same search shows it is the sentence the book is known by: Harvey Cox, Worship, Adam and a dozen others quote it. The page holds up. Beyond the verifier two citations, three editions of Liturgy with Style and Grace (1978, 1984, 1998) print In Tune with the World, page 23, and Adam, Foundations of Liturgy (1992), cites (23). Only the 1999 reprint citers (Flannery O Connor studies) give 30, so p. 23 for 1965 is well corroborated. I could not open the page image itself because the scan is lending-only and its search-inside endpoint refused, and the note already says so plainly. shipped.js: not shipped, no near; Pieper at 1 (October), under cap, not banned. The source is about 104 characters, leads with the name, has no dash and names the translators and year. Philosophy is the form. Assent to the world as a whole is a gratitude line for the month.",
+ "evidence": {
+  "where": "archive.org full-text search: intunewithworldt0000piep (1965) for the sentence; liturgywithstyle0000litu, liturgywithstyle0000huck, liturgywithstyle0000huck_a9d6 for page 23; foundationsoflit0000adam for (23)",
+  "locator": "p. 23 in the 1965 Harcourt printing, by four independent citations"
+ }
+}

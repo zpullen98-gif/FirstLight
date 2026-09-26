@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-09",
+ "verdict": "VERIFIED",
+ "quote": "For the sake of goodness and love, man shall let death have no sovereignty over his thoughts.",
+ "source": "Thomas Mann, The Magic Mountain, ch. VI, Snow (Hans Castorp) (trans. H. T. Lowe-Porter, 1927)",
+ "speaker": "Hans Castorp",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Standard Ebooks transcription of H. T. Lowe-Porter's translation (US public domain), chapter 6, section 7, Snow; the sentence is set in italics inside Hans Castorp's waking reflection on the dream",
+  "edition": "Thomas Mann, The Magic Mountain, trans. H. T. Lowe-Porter (Knopf, 1927)",
+  "locator": "Chapter VI, Snow, near the close of the dream passage, just before 'And with this, I awake'",
+  "url": "https://standardebooks.org/ebooks/thomas-mann/the-magic-mountain/h-t-lowe-porter/text/single-page"
+ },
+ "confidence": "high",
+ "reason": "Exact wording found in Lowe-Porter's text, italicised, in the Snow section of chapter VI. It is Hans Castorp's thought, so he is named as speaker; the Woods rendering (grant death no dominion) is a different translation and is not used."
+}

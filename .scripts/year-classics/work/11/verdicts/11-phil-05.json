@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "Men fear death, as children fear to go in the dark; and as that natural fear in children, is increased with tales, so is the other.",
+ "source": "Francis Bacon, Essays or Counsels, Civil and Moral, Of Death, the opening sentence (1625)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 575, the modern spelling text of The Essays or Counsels, Civil and Moral (the fifty eight essays of the 1625 collection), downloaded and searched; the sentence opens the essay Of Death and matches character for character, including the comma after children",
+  "edition": "The Essays or Counsels, Civil and Moral, 1625 collection, read in the Gutenberg modern spelling text, ebook 575",
+  "locator": "Of Death, the first sentence of the essay",
+  "url": "https://www.gutenberg.org/cache/epub/575/pg575.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is the opening of Of Death in the received modern spelling text, the same edition and citation convention used for the two Bacon lines already shipped in months 5 and 7. Bacon stands at two for the year, so this is his third and last, and he is not otherwise in November."
+}

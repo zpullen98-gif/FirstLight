@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-12",
+ "verdict": "REJECT",
+ "quote": "“A man can be destroyed but not defeated.”",
+ "source": "Ernest Hemingway, The Old Man and the Sea, unchaptered, after the first shark (Santiago) (Scribner, 1952)",
+ "tradition": "Fiction",
+ "speaker": "Santiago",
+ "note": "",
+ "evidence": {
+  "where": "First Light work/07/month.json, day 31, which ships “But man is not made for defeat. A man can be destroyed but not defeated.”; wording verified in January (01-cfl-16) against the Project Gutenberg Canada text of the 1952 Scribner edition",
+  "edition": "The Old Man and the Sea, Charles Scribner’s Sons, 1952",
+  "locator": "unchaptered, Santiago aloud after killing the mako",
+  "url": "https://gutenberg.ca/ebooks/hemingwaye-oldmanandthesea/hemingwaye-oldmanandthesea-00-t.txt"
+ },
+ "confidence": "high",
+ "reason": "The line is real but already shipped: July day 31 carries this sentence inside the two-sentence quotation. shipped.js missed it because the shipped line opens with But man is not made for defeat. The proposed page 103 was not checked against the 1952 printing."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-03",
+ "verdict": "CORRECTED",
+ "quote": "Give me Books, fruit, French wine and fine weather and a little music out of doors, played by somebody I do not know.",
+ "source": "John Keats, Letters of John Keats to His Family and Friends, letter CXIII, to Fanny Keats, 28 August 1819, p. 285 (ed. Sidney Colvin, 1891)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "The wording is Colvin’s exactly, capitals included. Colvin does not end the sentence at know: it runs on after a dash to a little chance music and a summer passed quietly. The full stop here marks a cut at a complete clause. The source now names the edition’s title and letter number.",
+ "evidence": {
+  "where": "Project Gutenberg text of Colvin’s edition (eBook 35698), letter CXIII read whole this run; p. 285 rests on the page scan read and confirmed in the May rulings 05-cfl-09 and its refutation",
+  "edition": "Letters of John Keats to His Family and Friends, ed. Sidney Colvin, Macmillan, 1891",
+  "locator": "letter CXIII, To Fanny Keats, Winchester, August 28 [1819], p. 285",
+  "url": "https://www.gutenberg.org/cache/epub/35698/pg35698.txt"
+ },
+ "confidence": "high",
+ "reason": "The letter, date and wording hold, but the printed sentence continues past know after a dash, and the May refutation ruled that a cut needing a note cannot be VERIFIED. EDITOR: the same line is carry-in 05-cfl-09; Keats is at two of three, so this would be his last."
+}

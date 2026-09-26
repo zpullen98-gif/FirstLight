@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "To the family—that dear octopus from whose tentacles we never quite escape, nor, in our inmost hearts, ever quite wish to.",
+ "source": "Dodie Smith, Dear Octopus, Act III, the Grand Toast at the golden wedding dinner (Nicholas) (1938)",
+ "tradition": "Drama",
+ "speaker": "Nicholas",
+ "note": "",
+ "evidence": {
+  "where": "the 1938 London edition of the play, read through Internet Archive full-text search of two 1938 scans and the 1939 Samuel French acting edition; the sentence, the lines on either side of it and the Act III headings were all matched",
+  "url": "https://archive.org/details/dearoctopus0000dodi_a4w6",
+  "edition": "Dear Octopus: A Comedy in Three Acts (London, 1938); cross-checked against the Samuel French acting edition of 1939, which drops the comma after escape",
+  "locator": "Act III (The Dining-room, Sunday evening), Nicholas proposing Grand Toast: ‘and to those who have gone, and those who are to come. To the family… Ladies and gentlemen, Grand Toast.’ Earlier in the act Hilda asks whether he will do Grand Toast tonight"
+ },
+ "confidence": "high",
+ "reason": "The proposal had not opened the play. The 1938 text now read has the exact wording, dash and commas included, as part of the toast Nicholas proposes in Act III, so attribution, speaker and locator all stand."
+}

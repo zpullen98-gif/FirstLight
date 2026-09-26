@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-06",
+ "verdict": "VERIFIED",
+ "quote": "I have finished a monument more lasting than bronze and loftier than the Pyramids’ royal pile, one that no wasting rain, no furious north wind can destroy, or the countless chain of years and the ages’ flight.",
+ "source": "Horace, Odes, Book III, ode 30, lines 1 to 5, p. 279 (trans. C. E. Bennett, Loeb Classical Library, 1914)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Bennett's 1914 Loeb prose translation, as recorded by the March verifier for carry-in 03-cfl-08 (p. 279, unchanged in the 1927 revision); opening wording reconfirmed by search attributing it to Bennett",
+  "edition": "C. E. Bennett, Horace: The Odes and Epodes, Loeb Classical Library, 1914",
+  "locator": "Odes III.30, lines 1 to 5, p. 279",
+  "url": "https://www.loebclassics.com/view/horace-odes/2004/pb_LCL033.217.xml?readMode=recto"
+ },
+ "confidence": "high",
+ "reason": "Exegi monumentum in Bennett's prose, the opening of the ode; the same text was already verified as carry-in 03-cfl-08, so this candidate duplicates that carry-in and the editor should land only one of them. Horace is at 1 of 3 and nothing is shipped."
+}

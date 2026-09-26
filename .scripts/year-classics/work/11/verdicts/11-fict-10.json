@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-10",
+ "verdict": "CORRECTED",
+ "quote": "Yes, she thought, laying down her brush in extreme fatigue, I have had my vision.",
+ "source": "Virginia Woolf, To the Lighthouse, Part III, section 14, the closing sentence (Lily Briscoe) (Hogarth Press, 1927)",
+ "speaker": "Lily Briscoe",
+ "tradition": "Fiction",
+ "note": "Corrected the locator. The Hogarth first edition of 1927 misnumbers the sections of The Lighthouse and prints the last one as 14; section XIII is the American numbering. The wording was checked against a scan of the Hogarth text and is unchanged.",
+ "evidence": {
+  "where": "Scan of the Hogarth Press first edition (1927), extracted text; cross-checked against the Project Gutenberg Australia text",
+  "edition": "Virginia Woolf, To the Lighthouse (Hogarth Press, 1927)",
+  "locator": "III, The Lighthouse, final section headed 14, last sentence of the novel, pp. 319 to 320",
+  "url": "https://web.english.upenn.edu/~cavitch/pdf-library/Woolf_To-the_Lighthouse.pdf"
+ },
+ "confidence": "high",
+ "reason": "The line is the novel's closing sentence, word for word, but the proposal paired the Hogarth edition with the American section number XIII; in the Hogarth printing the final section is headed 14."
+}

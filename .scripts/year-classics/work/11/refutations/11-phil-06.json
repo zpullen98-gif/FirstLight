@@ -1,0 +1,7 @@
+{
+ "id": "11-phil-06",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "David Hume, My Own Life, the closing sentence, p. 35, in The Life of David Hume, Esq. (Strahan and Cadell, 1777)",
+ "reason": "Holds. I fetched the Wikisource page transcriptions of The Life of David Hume, Esq. Written by Himself (1777), which are validated at page-quality level 4 against the scans. Page 35 reads exactly: “I cannot say there is no vanity in making this funeral oration of myself, but I hope it is not a misplaced one; and this is a matter of fact which is easily cleared and ascertained.” The dateline “April 18, 1776.” follows it, so the locator (the last sentence before the dateline) is right. The title page (djvu page 10) reads LONDON: PRINTED FOR W. STRAHAN; AND T. CADELL, IN THE STRAND. MDCCLXXVII, so (Strahan, 1777) is accurate, if short. The attribution is Hume’s own and not on the misattribution list. shipped.js: not shipped, no near match, Hume at 0 of 3, not banned. It is in scope (autobiographical prose from 1777, not oratory, despite the words “funeral oration”) and publishable: a cheerful self-epitaph with nothing graphic, which suits a month on mortality. The source line leads with the name, has no dash and runs to about 115 characters. The tag is Essay; the vocabulary has no memoir tag, and a short autobiography is closest to Essay. The only improvement is to print the page. The betterCitation adds p. 35 and Cadell and drops the redundant dateline (112 characters). This is optional."
+}

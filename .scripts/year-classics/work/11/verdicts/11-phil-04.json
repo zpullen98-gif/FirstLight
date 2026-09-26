@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-04",
+ "verdict": "VERIFIED",
+ "quote": "If we had no winter the spring would not be so pleasant: if we did not sometimes tast of adversity, prosperity would not be so welcome.",
+ "source": "Anne Bradstreet, Meditations Divine and Moral, meditation XIV (ed. J. H. Ellis, 1867), p. 51",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "two archive.org OCR copies of Ellis's 1867 Works of Anne Bradstreet in Prose and Verse (cu31924021996354 and worksofannebrads00brad), meditations read in sequence",
+  "edition": "The Works of Anne Bradstreet in Prose and Verse, ed. John Harvard Ellis, Charlestown, Abram E. Cutter, 1867",
+  "locator": "Meditations Diuine and morall, XIV, p. 51 (running head Meditations. 51 above it)",
+  "url": "https://archive.org/details/cu31924021996354"
+ },
+ "confidence": "high",
+ "reason": "Ellis prints XIV as proposed, colon and the spelling tast included (the OCR reads the long s as f or l); only the long s is modernised. The source uses the house form from May's Bradstreet line. Not shipped, nothing near, Bradstreet at 2 of 3, not banned."
+}

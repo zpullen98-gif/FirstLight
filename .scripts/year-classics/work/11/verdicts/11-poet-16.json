@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-16",
+ "verdict": "VERIFIED",
+ "quote": "I strove with none, for none was worth my strife. / Nature I loved and, next to Nature, Art: / I warm’d both hands before the fire of life; / It sinks, and I am ready to depart.",
+ "source": "Walter Savage Landor, Finis, the whole poem, no. 576, The Oxford Book of English Verse (ed. Arthur Quiller-Couch, 1900)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 66619, The Oxford Book of English Verse 1250 to 1900, full text downloaded and searched; the first-line index confirms number 576",
+  "url": "https://www.gutenberg.org/cache/epub/66619/pg66619.txt",
+  "edition": "The Oxford Book of English Verse, 1250 to 1900, ed. Arthur Quiller-Couch (Clarendon Press, 1900)",
+  "locator": "no. 576, headed Finis, four lines"
+ },
+ "confidence": "high",
+ "reason": "The four lines are verbatim in Quiller-Couch no. 576, including the full stop after strife, the comma placement in Nature I loved and, and warm’d. The source line carries only the title Finis because that is the heading the named edition prints. Not shipped and the person is new to the year."
+}

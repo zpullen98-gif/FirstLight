@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-11",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "quote": "A day so happy. / Fog lifted early, I worked in the garden. / Hummingbirds were stopping over honeysuckle flowers. / There was no thing on earth I wanted to possess.",
+ "source": "Czesław Miłosz, Gift, lines 1 to 4, Berkeley 1971, The Collected Poems 1931 to 1987 (trans. the author, 1988)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Scottish Poetry Library text from New and Collected Poems 1931 to 2001 (Penguin, 2001, copyright 1988 onward), plus Poetry Chaikhana and A Year of Being Here, the latter stating the poem was translated from the Polish by Miłosz himself. All agree on the nine lines.",
+  "edition": "The Collected Poems 1931 to 1987 (Ecco Press, 1988), the author's own translation; reprinted in New and Collected Poems 1931 to 2001",
+  "locator": "lines 1 to 4 of 9, dated Berkeley 1971",
+  "url": "https://www.scottishpoetrylibrary.org.uk/poem/gift-0/"
+ },
+ "confidence": "medium",
+ "reason": "The opening four lines of the nine-line poem match exactly across three reprints, and the self-translation credit is confirmed by a reprint citing the Ecco edition. The quotation stops at the poem's own full stop after possess."
+}

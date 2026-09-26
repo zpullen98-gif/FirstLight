@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "Drift on the Stream of Infinite Flux, / Without joy, without fear: / When you must go—then go, / And make as little fuss as you can.",
+ "source": "Tao Yuanming, Substance, Shadow, and Spirit, the close of Spirit expounds (trans. Arthur Waley, 1918)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "the Constable 1918 first edition, read in the Cornell copy scanned by the Internet Archive and in the Project Gutenberg transcription of that edition; also compared with the Wikisource transcription of the 1919 Knopf printing",
+  "url": "https://www.gutenberg.org/ebooks/42290",
+  "edition": "A Hundred and Seventy Chinese Poems, translated by Arthur Waley (London: Constable and Company, 1918)",
+  "locator": "Substance, Shadow, and Spirit (p. 73 onward), the section headed Spirit expounds, its last four lines, which close the poem. The Constable scan and Gutenberg both read Without joy, without fear; the 1919 Knopf transcription on Wikisource reads Without joy; without fear"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in the 1918 Constable text named by the proposal: the comma in line 2 is confirmed by the scan as well as by Gutenberg. The American printing differs by a semicolon, which is why the year and edition matter."
+}

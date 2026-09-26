@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "And so I betake myself to that course, which is almost as much as to see myself go into my grave: for which, and all the discomforts that will accompany my being blind, the good God prepare me!",
+ "source": "Samuel Pepys, The Diary of Samuel Pepys, 31 May 1669, the closing words (ed. Henry B. Wheatley, George Bell, 1893)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 4200, The Diary of Samuel Pepys, Complete, the Mynors Bright transcription edited by Henry B. Wheatley (London: George Bell and Sons, 1893 onward)",
+  "edition": "Wheatley edition, George Bell and Sons",
+  "locator": "the final paragraph of the diary, dated May 31, 1669",
+  "url": "https://www.gutenberg.org/ebooks/4200"
+ },
+ "confidence": "high",
+ "reason": "Found verbatim as the last sentence of the diary, dated 31 May 1669, in Wheatley’s text, colon and exclamation included. Pepys is unused this year and the line is not shipped."
+}

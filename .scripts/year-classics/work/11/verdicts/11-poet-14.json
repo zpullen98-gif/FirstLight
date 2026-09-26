@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "O world, I cannot hold thee close enough! / Thy winds, thy wide grey skies! / Thy mists, that roll and rise!",
+ "source": "Edna St. Vincent Millay, God’s World, lines 1 to 3, Renascence and Other Poems (Mitchell Kennerley, 1917)",
+ "tradition": "Poetry",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 109, Renascence, and Other Poems, full text downloaded and searched",
+  "url": "https://www.gutenberg.org/cache/epub/109/pg109.txt",
+  "edition": "Renascence and Other Poems (Mitchell Kennerley, 1917), Project Gutenberg transcription",
+  "locator": "God’s World, first stanza, lines 1 to 3"
+ },
+ "confidence": "high",
+ "reason": "The three opening lines are verbatim in the Gutenberg text of the 1917 book, grey spelled as proposed and each line ending on its exclamation mark. Not shipped and the person is new to the year."
+}

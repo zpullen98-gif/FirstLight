@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "It seems to me that our three basic needs, for food and security and love, are so mixed and mingled and entwined that we cannot straightly think of one without the others.",
+ "source": "M. F. K. Fisher, The Gastronomical Me, the Foreword (Duell, Sloan and Pearce, 1943)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Two independent printed witnesses quoting the foreword: the Christian Science Monitor (1 July 1988) and Slate (November 2013, on the book’s seventieth anniversary), agreeing word for word; the book itself is in copyright and no scan was opened",
+  "url": "https://www.csmonitor.com/1988/0701/rfood.html",
+  "edition": "The Gastronomical Me, Duell, Sloan and Pearce, New York, 1943",
+  "locator": "the Foreword, the paragraph answering why do you write about food, after like most other humans, I am hungry"
+ },
+ "confidence": "medium",
+ "reason": "Two independent witnesses, one from Fisher’s lifetime, give the sentence in identical wording in the book’s foreword, and it is the passage the book is known by. The 1943 page itself was not opened, which is why confidence is medium rather than high. Fisher has no line yet this year."
+}

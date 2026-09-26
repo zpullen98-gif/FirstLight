@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-03",
+ "verdict": "HEDGE",
+ "quote": "Nothing but a breath—a comma—separates life from life everlasting. It is very simple really.",
+ "source": "Margaret Edson, Wit, Ashford’s flashback on Death be not proud (E. M. Ashford) (Faber and Faber, 1999)",
+ "speaker": "E. M. Ashford",
+ "tradition": "Drama",
+ "note": "The line is Edson’s, spoken by E. M. Ashford, but the printed Faber page was not opened, so no page is given. The wording follows LitCharts and a 2015 essay on the play. The 2001 film, and sources quoting it, end Very simple, really.",
+ "evidence": {
+  "where": "Both earlier passes (LitCharts character and quotes pages; Lavelle Porter, Against the Sentimental Humanities, 2015; Note and Query 2014; archive.org Faber scans witplay00edso and wit00marg, lending only). This run: web search corroborates the play wording on jhrehab.org and LitCharts, and search snippets of the IMDb quotes page for the 2001 HBO film give Very simple, really, which accounts for the variant (alivingpencil.com also gives it, unsourced). IMDb itself returned 403. No printed page opened.",
+  "edition": "Wit: A Play, Faber and Faber, New York, 1999 (not opened)",
+  "locator": "the flashback in which Professor E. M. Ashford corrects the student Vivian Bearing on the punctuation of Donne’s Death be not proud; secondary sources place it at pp. 13 to 15 and disagree, so no page is printed",
+  "url": "https://www.litcharts.com/lit/wit/characters/e-m-ashford-d-phil"
+ },
+ "confidence": "medium",
+ "reason": "Authorship, play, speaker and scope are sound and shipped.js is clean (Edson 0 of 3), but no one has opened the Faber page and the page claims conflict, so the confident pp. 14 to 15 the refutation struck stays out. The variant second sentence traces to the 2001 film, which supports the play wording, but the line ships only as a HEDGE with no page."
+}

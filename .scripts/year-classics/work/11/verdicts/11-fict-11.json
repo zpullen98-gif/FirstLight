@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-11",
+ "verdict": "VERIFIED",
+ "quote": "For now he knew what Shalimar knew: If you surrendered to the air, you could ride it.",
+ "source": "Toni Morrison, Song of Solomon, chapter 15, the closing sentence (Alfred A. Knopf, 1977)",
+ "speaker": "",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Full text of a later paperback printing on the Internet Archive, grepped for the closing sentence; reference readings (Goodreads, libquotes) agree on the wording and the capital If",
+  "edition": "Toni Morrison, Song of Solomon (Alfred A. Knopf, 1977); the text read was a later reprint",
+  "locator": "Chapter 15, the last sentence of the novel",
+  "url": "https://archive.org/details/song-of-solomon-toni-morrison"
+ },
+ "confidence": "high",
+ "reason": "The sentence closes the novel exactly as proposed, including the capital after the colon. It is narration of Milkman's knowledge, not dialogue, so no speaker is named."
+}

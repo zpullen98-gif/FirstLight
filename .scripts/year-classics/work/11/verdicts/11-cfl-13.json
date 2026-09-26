@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-13",
+ "verdict": "VERIFIED",
+ "quote": "Last, loneliest, loveliest, exquisite, apart— / On us, on us the unswerving season smiles, / Who wonder ’mid our fern why men depart / To seek the Happy Isles!",
+ "source": "Rudyard Kipling, A Song of the English, The Song of the Cities, the Auckland stanza, The Seven Seas (Methuen, 1896)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of The Seven Seas (ebook 27870), transcribed from the D. Appleton and Company printing, copyright 1896; fetched and read this run",
+  "url": "https://www.gutenberg.org/cache/epub/27870/pg27870.txt",
+  "edition": "The Seven Seas, 1896 (Methuen, London; Appleton, New York, same year and text)",
+  "locator": "A Song of the English, section The Song of the Cities, the stanza headed Auckland"
+ },
+ "confidence": "high",
+ "reason": "The four lines stand verbatim under the heading Auckland in The Song of the Cities, a section of A Song of the English, with the dash after apart and the exclamation at Happy Isles. Kipling stands at one of three (month 5) and is not banned; shipped.js finds no match. The Happy Isles are the Isles of the Blessed, so a place thanking its season and doubting the search for paradise elsewhere carries both halves of the theme. The source now names the parent poem the section belongs to."
+}

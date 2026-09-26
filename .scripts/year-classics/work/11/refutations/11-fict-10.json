@@ -1,0 +1,7 @@
+{
+ "id": "11-fict-10",
+ "refuted": false,
+ "reason": "Survives, with one evidence correction. Extracted the Penn PDF: it is a scan of the Hogarth Press first edition (title page: Leonard and Virginia Woolf at the Hogarth Press, 52 Tavistock Square, 1927; printed by R. and R. Clark). The final section of III, The Lighthouse, is headed 14 in the scan ('\"He must have reached it,\" said Lily Briscoe aloud'), and the scan's Part III numbering runs 12, 13, 14 with the Cam section ('It was like that then, the island') headed 11, which is 10 in the American and most modern texts, so the note's claim that Hogarth's numbering runs one ahead and ends at 14 holds. The closing words 'Yes, she thought, laying down her brush in extreme fatigue, I have had my vision.' are present before THE END. But the evidence locator 'pp. 319 to 320' is wrong: p. 318 opens section 14, p. 319 ends at 'Yes, with all its green and blues,' (a different Yes), and the whole closing sentence sits on p. 320. The source line carries no page, so it ships as is; if a page is wanted it is p. 320. Lily's thought, speaker named. shipped.js: not shipped, Woolf 1 of 3 (month 8). Editor: a Woolf carry-in (01-cfl-15) also sits in the November pool, one person per month.",
+ "betterCitation": "Virginia Woolf, To the Lighthouse, Part III, section 14, the closing sentence, p. 320 (Lily Briscoe) (Hogarth Press, 1927)",
+ "wordingChecked": true
+}

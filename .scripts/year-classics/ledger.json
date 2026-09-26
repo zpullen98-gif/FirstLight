@@ -29,9 +29,10 @@
    ]
   },
   "epicurus": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    11
    ]
   },
   "l. m. montgomery": {
@@ -108,10 +109,11 @@
    ]
   },
   "wis awa szymborska": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    6
+    6,
+    11
    ]
   },
   "henry david thoreau": {
@@ -129,10 +131,11 @@
    ]
   },
   "fyodor dostoevsky": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    2
+    2,
+    11
    ]
   },
   "c. p. cavafy": {
@@ -156,10 +159,11 @@
    ]
   },
   "emily dickinson": {
-   "count": 2,
+   "count": 3,
    "months": [
     1,
-    2
+    2,
+    11
    ]
   },
   "italo calvino": {
@@ -289,9 +293,10 @@
    ]
   },
   "shantideva": {
-   "count": 1,
+   "count": 2,
    "months": [
-    2
+    2,
+    11
    ]
   },
   "rosa luxemburg": {
@@ -480,10 +485,11 @@
    ]
   },
   "yoshida kenko": {
-   "count": 2,
+   "count": 3,
    "months": [
     3,
-    10
+    10,
+    11
    ]
   },
   "horace": {
@@ -618,9 +624,10 @@
    ]
   },
   "tao yuanming": {
-   "count": 1,
+   "count": 2,
    "months": [
-    4
+    4,
+    11
    ]
   },
   "rachel carson": {
@@ -754,10 +761,11 @@
    ]
   },
   "vincent van gogh": {
-   "count": 2,
+   "count": 3,
    "months": [
     5,
-    10
+    10,
+    11
    ]
   },
   "tiruvalluvar": {
@@ -1004,16 +1012,18 @@
    ]
   },
   "dag hammarskjold": {
-   "count": 2,
+   "count": 3,
    "months": [
     7,
-    9
+    9,
+    11
    ]
   },
   "emily bronte": {
-   "count": 1,
+   "count": 2,
    "months": [
-    7
+    7,
+    11
    ]
   },
   "friedrich holderlin": {
@@ -1291,9 +1301,10 @@
    ]
   },
   "mary oliver": {
-   "count": 1,
+   "count": 2,
    "months": [
-    10
+    10,
+    11
    ]
   },
   "w. b. yeats": {
@@ -1309,9 +1320,10 @@
    ]
   },
   "josef pieper": {
-   "count": 1,
+   "count": 2,
    "months": [
-    10
+    10,
+    11
    ]
   },
   "sappho": {
@@ -1333,9 +1345,10 @@
    ]
   },
   "maurice maeterlinck": {
-   "count": 1,
+   "count": 2,
    "months": [
-    10
+    10,
+    11
    ]
   },
   "thich nhat hanh": {
@@ -1354,6 +1367,108 @@
    "count": 1,
    "months": [
     10
+   ]
+  },
+  "jorge manrique": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "jane kenyon": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "robert falcon scott": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "charles lamb": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "j. m. synge": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "czes aw mi osz": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "david hume": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "miguel de unamuno": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "j. m. barrie": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "lucille clifton": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "thomas mann": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "m. f. k. fisher": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "dodie smith": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "martha nussbaum": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "george santayana": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "raymond carver": {
+   "count": 1,
+   "months": [
+    11
+   ]
+  },
+  "walter savage landor": {
+   "count": 1,
+   "months": [
+    11
    ]
   }
  }

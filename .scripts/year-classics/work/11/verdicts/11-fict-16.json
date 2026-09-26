@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-16",
+ "verdict": "VERIFIED",
+ "quote": "There is a communion of more than our bodies when bread is broken and wine drunk.",
+ "source": "M. F. K. Fisher, The Gastronomical Me, the Foreword, near its close (Duell, Sloan and Pearce, 1943)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "The NEH article on Fisher, a Painted Prayerbook post quoting the Foreword’s last paragraph, and a Real Story essay on Fisher, all giving There is a communion; Goodreads prints There is communion without the article, the lone variant. The 1943 text was not opened; archive.org copies of The Art of Eating are restricted",
+  "url": "https://www.neh.gov/article/mfk-fisher-taught-americans-how-nourish-bodies-and-souls",
+  "edition": "The Gastronomical Me, Duell, Sloan and Pearce, New York, 1943",
+  "locator": "Foreword, the last paragraph, directly after We must eat and directly before And that is my answer, when people ask me: Why do you write about hunger, and not wars or love?"
+ },
+ "confidence": "medium",
+ "reason": "The sentence sits in the last paragraph of the Foreword, just before Fisher’s answer to why she writes about hunger. Three witnesses give There is a communion and only Goodreads drops the article, so the fuller wording ships. Fisher has no line this year. It is about the table, not the sacrament, so the scripture exclusion does not apply."
+}

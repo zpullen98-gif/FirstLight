@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-12",
+ "verdict": "VERIFIED",
+ "speaker": "",
+ "quote": "When it’s over, I want to say: all my life / I was a bride married to amazement. / I was the bridegroom, taking the world into my arms.",
+ "source": "Mary Oliver, When Death Comes, lines 21 to 23, New and Selected Poems (Beacon Press, 1992)",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Poetry Chaikhana full text (credited to New and Selected Poems), counted: 28 lines, the quotation is lines 21 to 23, with the colon after say. Verbatim Kindle highlights from Devotions (Penguin Press, 2017) on Goodreads also carry the colon. Some web reprints drop it. The Beacon page was not opened.",
+  "edition": "New and Selected Poems (Beacon Press, 1992); reprinted in Devotions (Penguin Press, 2017)",
+  "locator": "lines 21 to 23 of 28",
+  "url": "https://www.poetry-chaikhana.com/Poets/O/OliverMary/WhenDeathCom/index.html"
+ },
+ "confidence": "medium",
+ "reason": "Line numbers check against a full text, and the colon is confirmed by verbatim e-book highlights from the author's own later selection, so the reprints without it are the corrupt ones. Oliver would reach her second line of the year."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "11-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "No man at all can be living for ever, and we must be satisfied.",
+ "source": "J. M. Synge, Riders to the Sea, the closing line (Maurya) (Maunsel, 1911)",
+ "tradition": "Drama",
+ "speaker": "Maurya",
+ "note": "",
+ "evidence": {
+  "where": "Two early printings read on the page: Project Gutenberg ebook 994 (the John W. Luce, Boston, 1911 text with the Edward J. O’Brien introduction) and the Maunsel, Dublin, 1911 volume The Tinker’s Wedding, Riders to the Sea, and The Shadow of the Glen (archive.org tinkersweddingr01synggoog). Both print the sentence identically as the last words of Maurya’s last speech, followed by the stage direction She kneels down again and the curtain falls slowly.",
+  "edition": "Maunsel and Company, Dublin, 1911 (copyright 1904), wording identical in Luce, Boston, 1911",
+  "locator": "the final speech, MAURYA, continuing, the last sentence before the curtain",
+  "url": "https://www.gutenberg.org/cache/epub/994/pg994.txt"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in two independent 1911 printings as the play’s last spoken sentence, speaker confirmed by the heading. The source names an edition actually opened; the Elkin Mathews 1905 printing the proposal names was not opened, though the wording is the settled text. shipped.js clear, Synge 0 of 3."
+}

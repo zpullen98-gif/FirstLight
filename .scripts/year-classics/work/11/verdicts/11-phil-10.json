@@ -1,0 +1,17 @@
+{
+ "id": "11-phil-10",
+ "verdict": "VERIFIED",
+ "quote": "There is no cure for birth and death save to enjoy the interval.",
+ "source": "George Santayana, Soliloquies in England and Later Soliloquies, 24, War Shrines (Charles Scribner’s Sons, 1922)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg ebook 48429, a transcription of the Scribner first American edition of 1922, read in full text; the Santayana Edition at IU Indianapolis gives p. 97 for the passage",
+  "url": "https://www.gutenberg.org/ebooks/48429",
+  "edition": "Soliloquies in England and Later Soliloquies, Charles Scribner’s Sons, New York, 1922",
+  "locator": "soliloquy 24, War Shrines, following Wealth is dismal and poverty cruel unless both are festive"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands whole and exact in War Shrines, numbered 24 in the table of contents of the 1922 Scribner edition. A complete sentence, not a cut, and Santayana has no line yet this year."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-08",
+ "verdict": "CORRECTED",
+ "quote": "You only live twice: / Once when you are born / And once when you look death in the face.",
+ "source": "Ian Fleming, You Only Live Twice, the epigraph, the verse Bond writes in chapter 11, Anatomy Class (Jonathan Cape, 1964)",
+ "speaker": "",
+ "tradition": "Fiction",
+ "note": "Corrected the tag to Fiction and the source line. The verse is Fleming’s own: Bond writes it for Tiger in chapter 11 and Tiger says it has the wrong number of syllables for a haiku. The After Basho credit on the epigraph page is Fleming’s conceit, and no Basho poem stands behind it.",
+ "evidence": {
+  "where": "Local plain text of the novel (scratchpad yolt.txt, from the digital copy the first verifier used), grepped this run: the epigraph page prints the three lines with a full stop, credited After BASHO, Japanese poet, 1643-94; chapter 11, Anatomy Class, has Bond compose it and Tiger reject it as a haiku. Not the Cape 1964 page itself",
+  "edition": "Jonathan Cape, 1964 (text read in an unofficial digital copy)",
+  "locator": "epigraph before Part One; chapter 11, Anatomy Class, Bond's verse for Tiger Tanaka",
+  "url": "http://mural.uv.es/cyntsomo/1964_you_only_live_twice[1].pdf"
+ },
+ "confidence": "medium",
+ "reason": "Wording confirmed a third time in the text, and the verse is Fleming's own, so the byline stands; the refuter's two points both hold, the tag by house precedent and the Basho credit as a false trail, and both are correctable. shipped.js is clean and Fleming is at 0 of 3, though a Casino Royale carry-in sits in the same pool, one per month."
+}

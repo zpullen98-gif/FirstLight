@@ -1,0 +1,8 @@
+{
+ "id": "11-cfl-03",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "I fetched Gutenberg eBook 35698 in both plain text and HTML. Plain text: the heading CXIII.--TO FANNY KEATS. Winchester, August 28 [1819]. and within the letter Give me Books, fruit, French wine and fine weather and a little music out of doors, played by somebody I do not know--not pay the price of one's time for a jig--but a little chance music. Capital Books, lower case fine weather, and the comma after doors are all Colvin's, exactly as the card has them. The HTML page anchors put [Pg 285] inside the preceding sentence (no[Pg 285] chill'd red noses), so the quoted sentence is on page 285; the contents list gives letter 113 starting at 283 and 114 at 286. The Gutenberg copy is the Crown 8vo reprint of 1925, whose title verso lists the first edition of June 1891; the May refutation read an 1891-prefaced scan with running head 1819] TO FANNY KEATS 285 over the same sentence, so the page holds across printings. The note honestly states the cut at the dash, which was the one defect the May refuter found. shipped.js: not shipped, no near opening, Keats at 2 of 3 (months 4, 8), so this would be his third and last; not banned. In scope (1819 letter, printed 1891), publishable. Source line 139 characters, just under the 140 limit, leads with the name, no dash; Correspondence is the form. Editorial only: the carry 07-fict-03 also offers Keats for November, and only one may stand.",
+ "evidence": {"where": "gutenberg.org/cache/epub/35698/pg35698.txt lines 10905 to 10954 and pg35698-images.html page anchor Page_285, fetched this run", "locator": "letter CXIII, to Fanny Keats, Winchester, August 28 [1819], p. 285"}
+}

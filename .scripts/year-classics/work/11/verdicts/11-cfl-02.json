@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-02",
+ "verdict": "VERIFIED",
+ "quote": "The butterfly counts not months but moments, / and has time enough.",
+ "source": "Rabindranath Tagore, Fireflies, p. 15 (Macmillan, New York, 1928)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Digital Library of India scan of the first Macmillan printing of Fireflies on the Internet Archive (dli.venugopal.844); the page image itself viewed: the two lines stand alone under an Artzybasheff decoration with the folio [15] at the foot; a second scan (fireflies-tagore) gives the same lineation",
+  "edition": "Fireflies, decorations by Boris Artzybasheff, The Macmillan Company, New York, 1928 (published February 1928)",
+  "locator": "p. 15, the second line indented and lower case as printed",
+  "url": "https://archive.org/details/dli.venugopal.844"
+ },
+ "confidence": "high",
+ "reason": "Read on the page image of the 1928 Macmillan first printing: wording, comma, line break and full stop exact, and the folio is 15. Tagore wrote Fireflies in English himself, so no translator is named. Not shipped, Tagore at none of three, not banned."
+}

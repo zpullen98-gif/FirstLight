@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-14",
+ "verdict": "CORRECTED",
+ "quote": "If man were never to fade away like the dews of Adashino, never to vanish like the smoke over Toribeyama, but lingered on forever in the world, how things would lose their power to move us!",
+ "source": "Yoshida Kenkō, Essays in Idleness, section 7 (trans. Donald Keene, 1967)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "Corrected the wording. The proposal dropped a clause from the middle of Keene’s sentence without marking the cut; his translation reads but lingered on forever in the world before the close, and the line now ships whole.",
+ "evidence": {
+  "where": "Wikiquote’s Kenkō page citing Keene’s section 7, and several independent quotations of the Keene sentence carrying the clause; the Stanford Encyclopedia of Philosophy entry on Japanese Aesthetics cites the passage to Keene 1967, p. 7, in a shortened form. The Columbia volume itself was not opened",
+  "url": "https://en.wikiquote.org/wiki/Yoshida_Kenk%C5%8D",
+  "edition": "Essays in Idleness: The Tsurezuregusa of Kenkō, trans. Donald Keene, Columbia University Press, New York, 1967",
+  "locator": "section 7, the opening sentence; p. 7 per the SEP citation"
+ },
+ "confidence": "medium",
+ "reason": "The line is real and correctly placed at section 7 in Keene, but the proposal cut but lingered on forever in the world out of the sentence with no mark, which makes it a stitched quotation. The full sentence is restored. Kenkō stands at two lines, in months 3 and 10, so this is his third and last, and he is not repeated in November."
+}

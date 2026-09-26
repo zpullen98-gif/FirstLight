@@ -1,0 +1,17 @@
+{
+ "id": "11-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "Life is a gift, life is happiness, each minute might have been an age of happiness.",
+ "source": "Fyodor Dostoevsky, letter to Mikhail, 22 December 1849, Letters and Reminiscences, p. 11 (trans. Koteliansky and Murry, 1923)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "Corrected the page. In the Chatto and Windus edition of 1923 the letter opens on page 1 and this sentence falls on page 11, not page 6. The wording is exact.",
+ "evidence": {
+  "where": "archive.org scan dostoevskyletter00dostuoft, Dostoevsky: Letters and Reminiscences, trans. S. S. Koteliansky and J. Middleton Murry (London: Chatto and Windus, 1923), OCR text and running heads",
+  "edition": "Chatto and Windus, 1923",
+  "locator": "Letter to his Brother, The Peter and Paul Fortress, December 22, 1849, p. 11",
+  "url": "https://archive.org/details/dostoevskyletter00dostuoft"
+ },
+ "confidence": "high",
+ "reason": "The sentence is verbatim in the Koteliansky and Murry translation, in the letter dated 22 December 1849, under the page 11 running head; the proposal’s page 6 was wrong. Dostoevsky goes to three of three with this line."
+}

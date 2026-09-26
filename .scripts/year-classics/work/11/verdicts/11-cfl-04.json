@@ -1,0 +1,17 @@
+{
+ "id": "11-cfl-04",
+ "verdict": "VERIFIED",
+ "quote": "Music was my refuge. I could crawl into the spaces between the notes and curl my back to loneliness.",
+ "source": "Maya Angelou, Singin’ and Swingin’ and Gettin’ Merry Like Christmas, chapter 1, the opening sentences (Random House, 1976)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Open Library search inside, run this session, returns the sentence with the plural spaces in four scanned editions of the memoir (Bantam 1977, Virago 1985 and two others) and in biographies naming the book; the singular space appears only in quotation anthologies; a web search confirms the passage follows the blues epigraph and runs on to In my rented room (cooking privileges down the hall). The scans are lending-restricted, so the page itself was not opened",
+  "edition": "Random House, 1976; the same text in the Bantam 1977 and Virago 1985 printings",
+  "locator": "chapter 1, the opening sentences after the epigraph",
+  "url": "https://openlibrary.org/search/inside?q=%22crawl+into+the+spaces+between+the+notes%22"
+ },
+ "confidence": "high",
+ "reason": "The book’s own wording, plural spaces, and its opening after the epigraph, in agreement with the July ruling 07-cfl-06 and its refutation. Angelou is at one of three, not banned, not shipped. The Calendar For Life card’s singular space is the quote trade’s corruption and is not followed."
+}
