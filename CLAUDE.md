@@ -1,6 +1,6 @@
 # First Light — A Year of Mornings
 
-An offline-first daily-practice PWA. 366 dated voices, five scripture year-plans,
+An offline-first daily-practice PWA. 366 dated voices, the Readings (ten works, a passage a day),
 a goal ladder, a body chapter, an astrology chapter, and a vault of kept words.
 
 Rebuilt from `~/Downloads/first_light_year_4.html`, a single-file claude.ai artifact.
@@ -43,17 +43,18 @@ before `plan.js` before `sun.js`.
 | `js/data-life.js` | `LIFE` — the five-tier goal ladder |
 | `js/data-body.js` | `BODY_TEACH`, `EIGHT_LIMBS`, `BODY_VIDEOS` |
 | `js/data-astro.js` | `SIGNS`, `A_HISTORY`, `A_ELEMENTS`, `A_MODES`, `A_PLANETS`, `A_HOUSES`, `A_ASPECTS`, `A_HOWTO`, `A_RELATIONS` |
-| `js/data-canon.js` | `BIBLE_BOOKS`, `TANAKH_BOOKS`, `JUZ`, `SURAH_AYAHS`, `JUZ_START`, `DHP_CH`, `RV_MANDALAS`, `POOLS` |
+| `js/data-canon.js` | `BIBLE_BOOKS`, `TANAKH_BOOKS`, `JUZ`, `SURAH_AYAHS`, `JUZ_START`, `DHP_CH`, `RV_MANDALAS` (canon structure; `JUZ_START` is also read by `.scripts/plans/legacy.js`) |
 | `js/data-library.js` | `FL_LIBRARY` — **generated**, do not hand-edit; run `.scripts/build-library.js` |
+| `js/data-plans.js` | `FL_PLANS`, **generated**: do not hand-edit; run `.scripts/plans/build-plans.js`, gate `.scripts/check-plans.js` |
 | `js/data-traditions.js` | `FL_TRADITIONS` — the seven authored chambers |
 | `js/data-threads.js` | `FL_THREADS` — eight cross-tradition threads |
 | `js/text-store.js` | `FLTextLoad`, `FLTextPut`, `FLTextCached`, `FLTextForget`, `FLBytes` |
 | `js/texts/**` | **generated** scripture, loaded on demand, never precached |
 | `js/registry.js` | `FL_VIEWS`, `FL_ACTS` — must load before any view |
 | `js/store.js` | `FL` (the record), `flSave`, `flBoot`, `flStreak`, `flExport`, `flImport` |
-| `js/plan.js` | `doyOf`, `MLEN`, `PLAN_*`, `HALL_YEARS`, `canonState/Doy/Progress` |
+| `js/plan.js` | `doyOf`, `MLEN`, `HALL_YEARS`, `hallById`; the Readings: `planDef`, `planDays`, `planDay`, `planAtom`, `planLabelRange`, `planDayLabel`, `planState`, `planPeek`, `planToday`, `planProgress`, `planMarkRead`, `planBeginAgain`, `planCarry`, `planCarryAll`, `planConvertRead`, `courseDays`, `courseReady` |
 | `js/sun.js` | `sunAltitude`, `sunPhase`, `sunIsEvening`, `sunApply`, `sunDescribe` |
-| `js/canon.js` | `READERS` — the five scripture fetchers |
+| `js/reading.js` | a plan's day to library text: `readPartsFor`, `readLoad`, `readRender` (prints the numbers the labels cite), `readSaveCanon`; the teachings and courses loaders (`readTeach*`, `readCourse*`); `PLAN_OF_WORK` |
 | `js/ui-*.js` | one `FL_VIEWS` entry each |
 | `js/app.js` | `esc`, `announce`, `toast`, hash router, `render()`, SW registration |
 
@@ -112,8 +113,9 @@ change a meaning, add a field and migrate in `flBootMigrate()`.
 A write that genuinely fails raises a `fl:storage` event and an assertive toast. It
 must never return as though it worked — that was the artifact's defining bug.
 
-Scripture text will go to **IndexedDB** in Phase 2, not `localStorage` (far past the
-~5 MB ceiling) and not Cache Storage (see below).
+Scripture text never goes in `localStorage` (far past the ~5 MB ceiling) and there is
+no IndexedDB: the texts are baked into `js/texts/**` and cached on first read by the
+service worker (see The Library below).
 
 ## The wellness wing (2026-08 pass)
 
@@ -151,6 +153,43 @@ Bump `TEXT_CACHE` only when a text is re-baked, and bump `FL_TEXT_V` in
 `js/texts/**` is deliberately **absent** from the service worker's `ASSETS`. Those
 files are cached on first read by the fetch handler instead, which is what makes
 "open it once and it stays" true without a second storage system.
+
+## The Readings (#/hall, under Soul)
+
+Ten works divided into days of about ten minutes (230 words a minute, 2,300 words),
+cut only at natural boundaries, and later a daily course per tradition.
+
+- **`js/data-plans.js` is generated.** `.scripts/plans/` (config, atoms, divide,
+  legacy, runtime, build-plans) reads `js/texts/**` and writes it;
+  `divisions.json` locks each plan's division hash (`div`), and the build refuses
+  a change unless run with `--refreeze`, which keeps the old division in `prior`.
+  `node .scripts/check-plans.js` (and `--selftest`) is the gate: atoms, caps,
+  labels parsed back by its own grammar, the lock, the legacy map, migration, the
+  teaching and course files, and the owner's rules.
+- **The record is `FL.readings[id]`** = `{start, read:{day:1}, div, carried, rounds}`,
+  id a plan id or `course-<tradition>`. Day one is the day the reader first marks;
+  today's reading is the first day not yet read (a missed morning waits). `FL.canon`
+  (the retired calendar plans' ticks) is never written by the app and never deleted:
+  `planCarry` maps it through `prior.legacy` at boot and after an import, adding
+  only days newly covered, so a day the reader unticked stays unticked, and only in
+  the first read-through (after Begin again the calendar is remembered, not marked).
+  An import merges each record through `planImport`: days read join as a union
+  only within one read-through (a backup that has begun again fewer times brings
+  no days; one that has begun again more times replaces the round in progress),
+  a record under another division is converted first, and `planCarryMerge` joins
+  the two devices' carried ticks, marking a day only both together cover.
+- **Labels are one function**, `planLabelRange`: the exact passage ("An-Nisa 4:94
+  to 4:147", "Dhammapada 90 to 99, The Venerable (Arhat)"), "to" for ranges, no
+  dash, no Juz, no composite book names. The reader prints the same numbers.
+- **Teachings and courses ship only complete.** `js/texts/teachings/<plan>.js` and
+  `js/texts/courses/<tr>.js` are listed in `FL_PLANS.teach` / `FL_PLANS.courses`
+  only when the gate has passed the whole set, and load through
+  `FLTextLoad(work, part, ver)` under their own hash, never `FL_TEXT_V`.
+- **Nothing of it reaches Today.** `ui-today.js` must not mention `FL_PLANS`,
+  `planToday`, `hallById`, `readRender`, `POOLS` or `#/hall`; the gate fails if it
+  does. Traditions are never ranked (the works in the Library's shelf order, the
+  courses in `FL_TRADITIONS` order). No em dash or " -- " anywhere in the Readings'
+  files; text, not glyphs.
 
 ## Dev gotchas (hard-won)
 
@@ -201,7 +240,8 @@ words. Astrological glyphs are the one deliberate exception — they are the not
 ## Where this is going
 
 Phase 1 (done) — persistence, routing, offline, palette, real streaks, export/import.
-Phase 2 — IndexedDB scripture cache, per-canon start dates, completion marks.
+Phase 2 (done): local scripture (`js/texts/**`), completion marks; then the Readings
+(2026-09-26): exact days, day one the day you begin, teachings and courses to come.
 Phase 3 — journal, search, guided morning, evening examen, intent detour, heatmap.
 Phase 4 — real ephemeris and natal chart; the body practice engine.
 Phase 5 — audit all 366 citations.

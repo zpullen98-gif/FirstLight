@@ -53,7 +53,7 @@ function libShelf() {
     '<p class="note">Complete scriptures, ' + FLBytes(bytesAll) + ' of them. Each book is stored the first time you open it, and needs no connection afterwards.</p>' +
     '<div class="drawrow" style="justify-content:center;margin-top:18px">' +
       '<a class="keep" href="#/threads">The threads — one question, seven answers</a>' +
-      '<a class="keep" href="#/hall">The year’s reading plans</a>' +
+      '<a class="keep" href="#/hall">The Readings</a>' +
     '</div>';
 
   out += FL_TRADITIONS.map(function (tr) {
@@ -281,9 +281,17 @@ function libReader(workId, part) {
   return back + '<h1>' + esc(L.title) + '</h1>' +
     '<p class="note">' + esc(L.translation) + ' · ' + data.length +
       (data[0] && data[0].title ? ' sections' : ' chapters') + '</p>' +
-    data.map(function (c) {
+    data.map(function (c, ci) {
       var head = c.title ? esc(c.title) : ((workId === 'gita' ? 'Chapter ' : '') + c.n);
-      return '<div class="chaphead">' + head + '</div>' + c.b.map(libBlock).join('');
+      /* the Zhuangzi's paragraphs carry the numbers the Readings cite
+         ("Zhuangzi 2.14"): block 0 is the chapter's title, paragraph n is
+         block n, and Giles' index at the end is left unnumbered */
+      var back0 = -1;
+      return '<div class="chaphead">' + head + '</div>' + c.b.map(function (b, k) {
+        if (workId !== 'zhuangzi') return libBlock(b);
+        if (b.length === 1 && String(b[0]).trim() === '_INDEX_') back0 = k;
+        return (k > 0 && back0 < 0) ? readBlock(b, (ci + 1) + '.' + k) : libBlock(b);
+      }).join('');
     }).join('') + libCredit(L) + libNextPrev(workId, part);
 }
 

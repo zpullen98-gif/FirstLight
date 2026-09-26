@@ -22,7 +22,7 @@ the nav (owner's request, 26 September 2026) is a home line and four tabs:
   practices then the trade's long versions), The Walk-In.
 - **Heart**: Reflection, Journal, A Life Well Lived (goal ladder), The Record.
 - **Soul**: The Library (ten works, seven traditions, plus chambers), The Readings
-  (`#/hall`, the five reading plans), The Threads.
+  (`#/hall`, ten works a passage a day, and the tradition courses once they land), The Threads.
 
 Keys 1 to 4 open the tabs; "/" opens Search. Clear Mornings and the Line-Up are
 listed nowhere and light nothing.
@@ -85,15 +85,16 @@ precede every view; `store.js` → `plan.js` → `sun.js` → `text-store.js` �
 | `js/data-intent.js` | `INTENTS`, `EXAMEN_QUESTIONS`, `LOCAL_*` — recovered from the `.jsx` |
 | `js/data-life.js` · `data-body.js` · `data-astro.js` · `data-canon.js` | content |
 | `js/data-library.js` | `FL_LIBRARY` — **generated**, run `.scripts/build-library.js` |
+| `js/data-plans.js` | `FL_PLANS`, **generated**: run `.scripts/plans/build-plans.js`; the gate is `.scripts/check-plans.js` |
 | `js/data-traditions.js` | `FL_TRADITIONS` — seven authored chambers |
 | `js/data-threads.js` | `FL_THREADS` — eight cross-tradition threads |
 | `js/data-cities.js` | `FL_CITIES`, `FL_ZONES` — **generated**, 4,000 cities |
 | `js/registry.js` | `FL_VIEWS`, `FL_ACTS` |
 | `js/store.js` | `FL`, `flSave`, `flBoot`, `flStreak`, `flExport`, `flImport` |
-| `js/plan.js` | `doyOf`, `MLEN`, `PLAN_*`, `HALL_YEARS`, `canonState/Doy/Progress/MarkRead` |
+| `js/plan.js` | `doyOf`, `MLEN`, `HALL_YEARS`, `hallById`, and the Readings runtime (`planDef`, `planDay`, `planLabelRange`, `planToday`, `planProgress`, `planMarkRead`, `planBeginAgain`, `planCarry`, `planCarryAll`, `courseDays`, `courseReady`) |
 | `js/sun.js` | `sunAltitude`, `sunPhase`, `sunIsEvening`, `sunApply` |
 | `js/text-store.js` | `FLTextLoad/Put/Has/Cached/Forget`, `FLBytes`, `FL_TEXT_V` |
-| `js/reading.js` | maps plan units to library text; `readRender`, `readSaveCanon` |
+| `js/reading.js` | a plan's day to library text; `readRender` (prints the numbers the labels cite), `readSaveCanon`, the teachings and courses loaders |
 | `js/journal.js` · `search.js` | writing and search |
 | `js/astro-chart.js` · `astro-wheel.js` | ephemeris maths and the SVG wheel |
 | `js/practice.js` | breath pacer, sequence timer |
@@ -163,6 +164,27 @@ app prints his editor's note rather than claiming the hymn is unavailable.
 and its four live fetchers are deleted. The whole Bible saves to a device in **14
 seconds**. Per-canon personal start dates and completion marks with a progress bar;
 marking updates in place so scroll position survives.
+
+**The Readings (2026-09-26).** The calendar plans are retired. Each work is divided
+into days of about ten minutes (2,300 words at 230 a minute), cut only at natural
+boundaries: Bible 330 days, Tanakh 267, Rig Veda 126, Qur'an 66, Zhuangzi 44,
+Analects 21, Upanishads 12, Tao Te Ching 81, Dhammapada 26, Gita 18 (Besant's
+verse-numbered translation; Arnold stays on the shelf and keeps a door to the plan).
+`.scripts/plans/` builds `js/data-plans.js`; `divisions.json` locks each division;
+`node .scripts/check-plans.js` and `--selftest` are the gate.
+
+- The page shows the exact passage ("2 Chronicles 5 to 6", "An-Nisa 4:94 to 4:147")
+  and "Read X of Y", never minutes, word counts or streaks. Day one is the day the
+  reader begins; today's reading is the first day not yet read.
+- The record is `FL.readings[id]` (`{start, read, div, carried, rounds}`). The old
+  `FL.canon` ticks carry over at boot and on import through each plan's
+  `prior.legacy` (a verbatim copy of the old division is `.scripts/plans/legacy.js`);
+  `FL.canon` is never written by the app and never deleted.
+- Teachings (`js/texts/teachings/<plan>.js`) and the seven tradition courses
+  (`js/texts/courses/<tr>.js`, route `#/hall/course-<tr>`) are wired and hidden:
+  each appears only when `FL_PLANS.teach` / `FL_PLANS.courses` lists a complete set
+  that has passed the gate. They load under their own hash, never `FL_TEXT_V`.
+- Nothing of the Readings reaches Today; the gate checks `ui-today.js`.
 
 **Phase 3.** Journal (attached to a day, a kept voice, a passage, or the examen;
 autosave; in the export), guided five-step morning, evening examen keyed to
@@ -283,5 +305,6 @@ start.
 - Offline: load once, stop the server, reload. Only un-saved scripture may report
   needing a connection.
 - Dates: Feb 28 / 29 / Mar 1 in both a leap and a common year; the quote, reflection
-  and all five canon readings must stay in step.
+  must stay in step. (The Readings no longer follow the calendar: day one is the
+  day the reader begins.)
 - Deploy ritual: bump `?v=N` in `index.html` **and** `CACHE` in `sw.js`. Both.

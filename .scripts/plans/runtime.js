@@ -22,7 +22,7 @@ const C = require('./config');
 
 const EXPORTS = ['planDef', 'planDays', 'planDay', 'planAtom', 'planLabelRange', 'planDayLabel',
   'planState', 'planToday', 'planProgress', 'planMarkRead', 'planBeginAgain', 'planCarry',
-  'planCarryAll', 'planCount', 'courseDays', 'courseReady', 'planLength', 'hallById'];
+  'planCarryAll', 'planCarryMerge', 'planImport', 'planCount', 'courseDays', 'courseReady', 'planLength', 'hallById'];
 
 function read(rel) { return fs.readFileSync(path.join(C.ROOT, rel), 'utf8'); }
 

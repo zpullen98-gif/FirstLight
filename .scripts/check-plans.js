@@ -30,7 +30,10 @@
    Migration (C10), through the app's own planCarry: the worked examples,
    computed from the real divisions; idempotence; a day unticked stays
    unticked after a later import; a record under an earlier division
-   converts; progress counts days 1..N only; and a randomised property test.
+   converts; progress counts days 1..N only; calendar ticks never fill a
+   round begun again; two devices' carried ticks joined by an import mark
+   what only both together cover; an import joins days read only within
+   one read-through; and a randomised property test.
    Teachings (T) and courses (K): a manifest entry exists if and only if the
    file does and the set is complete; see checkTeachings and checkCourses.
    Owner rules (O): nothing of the Readings on Today; the stale promises
@@ -207,7 +210,10 @@ function parseLabel(P, label) {
       return [ends[0], ends[ends.length - 1]];
     }
     case 'dhammapada': {
-      m = label.match(/^Dhammapada (\d+)(?: to (\d+))?(?: \((.+)\))?$/);
+      /* "Dhammapada 90 to 99, The Venerable (Arhat)": the chapter's title
+         after a comma when the day is one chapter; no Dhammapada title
+         holds a comma, so the first comma is the separator */
+      m = label.match(/^Dhammapada (\d+)(?: to (\d+))?(?:, ([^,]+))?$/);
       if (!m) bad();
       const a0 = num(m[1]) - 1, a1 = (m[2] ? num(m[2]) : num(m[1])) - 1;
       const total = st[st.length - 1];
@@ -625,15 +631,78 @@ function checkMigration(ctx, opts) {
     if (rt0.rounds.length !== 1 || rt0.rounds[0].n !== 1 || keys(rt0.read).length || rt0.start !== null) fail(errs, 'C10', 'tao', 'begin again did not keep a round and start over');
 
     /* begin again after a carry: the next boot's carry must leave the new
-       round empty (carried is kept, so nothing is newly covered), and must
-       not put the old calendar's start back on it */
+       round empty, and must not put the old calendar's start back on it;
+       nor may calendar ticks that arrive later (an import of a calendar-era
+       backup) fill it: the calendar belongs to the first read-through */
     rt.setFL({ canon: { bible: { start: '2026-03-01', done: set(range(1, 5)) } }, readings: {} });
     rt.planCarry('bible');
     rt.planBeginAgain('bible');
     rt.planCarry('bible');
+    range(6, 10).forEach(od => { rt.FL.canon.bible.done[od] = 1; });
+    rt.planCarry('bible');
     r = rt.FL.readings.bible;
+    if (J(keys(r.carried)) !== J(range(1, 10))) fail(errs, 'C10', 'bible', 'after begin again the calendar ticks were not remembered as carried: ' + J(keys(r.carried)));
     if (keys(r.read).length || rt.planToday('bible') !== 1 || r.rounds.length !== 1) fail(errs, 'C10', 'bible', 'a carry after begin again refilled the new round: read ' + J(keys(r.read)) + ', today ' + rt.planToday('bible') + ', rounds ' + r.rounds.length);
     if (r.start !== null) fail(errs, 'C10', 'bible', 'a carry after begin again put the old start ' + r.start + ' on the new round');
+
+    /* two devices, each carrying its own calendar ticks at boot, then one
+       imports the other (flImport's order: canon joined, planImport, the
+       carry). A day only the two sets cover together was offered on
+       neither device, so it is marked: the result equals one device
+       holding both sets. */
+    const boot = done => {
+      const dv = loadRuntime({ plans: plans, patch: opts.patch });
+      dv.setFL({ canon: { bible: { start: '2026-03-01', done: set(done) } }, readings: {} });
+      dv.planCarry('bible');
+      return dv;
+    };
+    const importInto = (dev, from) => {
+      const rec = JSON.parse(J(from.FL));
+      Object.keys(rec.canon).forEach(id => {
+        const m = dev.FL.canon[id] || (dev.FL.canon[id] = { start: null, done: {} });
+        Object.keys(rec.canon[id].done || {}).forEach(k => { m.done[k] = 1; });
+      });
+      Object.keys(rec.readings).forEach(id => dev.planImport(id, rec.readings[id]));
+      dev.planCarryAll();
+    };
+    const phone = boot(range(1, 5)), tablet = boot([1, 2, 3, 4, 6]);
+    importInto(phone, tablet);
+    const wantBoth = cover('bible', range(1, 6));
+    r = phone.FL.readings.bible;
+    if (J(keys(r.read)) !== J(wantBoth)) fail(errs, 'C10', 'bible', 'two devices: read ' + J(keys(r.read)) + ' after the import, expected ' + J(wantBoth) + ' (as one device holding both sets)');
+    if (J(keys(r.carried)) !== J(range(1, 6))) fail(errs, 'C10', 'bible', 'two devices: carried ' + J(keys(r.carried)));
+    const snapM = J(phone.FL.readings);
+    if (phone.planCarryAll() || J(phone.FL.readings) !== snapM) fail(errs, 'C10', 'bible', 'two devices: a carry after the import was not idempotent');
+    notes.push('two devices, old days 1 to 5 and 1, 2, 3, 4, 6: read ' + J(wantBoth) + ', today Day ' + phone.planToday('bible') + ' ' + phone.planDayLabel('bible', phone.planToday('bible')));
+    /* a day this device unticked stays unticked when the other device's backup arrives */
+    const phone2 = boot(range(1, 5)), untick2 = cover('bible', range(1, 5))[0];
+    phone2.planMarkRead('bible', untick2, false);
+    const tablet2 = boot(range(1, 5));
+    tablet2.planMarkRead('bible', untick2, false);
+    importInto(phone2, tablet2);
+    if (phone2.FL.readings.bible.read[untick2]) fail(errs, 'C10', 'bible', 'two devices: day ' + untick2 + ', unticked by the reader, was ticked again by an import');
+
+    /* imports across Begin again: days join only within one read-through */
+    const fresh = () => { const dv = loadRuntime({ plans: plans, patch: opts.patch }); dv.setFL({ canon: {}, readings: {} }); return dv; };
+    const markAll = (dv, id) => { for (let d = 1; d <= dv.planDays(id); d++) dv.planMarkRead(id, d); };
+    const gA = fresh();
+    markAll(gA, 'gita');
+    const before18 = JSON.parse(J(gA.FL));
+    gA.planBeginAgain('gita');
+    gA.planImport('gita', before18.readings.gita);
+    r = gA.FL.readings.gita;
+    if (keys(r.read).length || r.start !== null || gA.planToday('gita') !== 1 || r.rounds.length !== 1) fail(errs, 'C10', 'gita', 'an older backup undid begin again: read ' + J(keys(r.read)) + ', start ' + r.start + ', rounds ' + r.rounds.length);
+    /* A has begun again and read day 1; B is still finished */
+    const gB = fresh();
+    markAll(gB, 'gita');
+    gA.planMarkRead('gita', 1);
+    const recA = JSON.parse(J(gA.FL)), recB = JSON.parse(J(gB.FL));
+    gB.planImport('gita', recA.readings.gita);
+    r = gB.FL.readings.gita;
+    if (J(keys(r.read)) !== J([1]) || r.rounds.length !== 1) fail(errs, 'C10', 'gita', 'a finished device importing one that has begun again: read ' + J(keys(r.read)) + ', rounds ' + r.rounds.length);
+    gA.planImport('gita', recB.readings.gita);
+    r = gA.FL.readings.gita;
+    if (J(keys(r.read)) !== J([1]) || r.rounds.length !== 1 || gA.planToday('gita') !== 2) fail(errs, 'C10', 'gita', 'a device that has begun again importing a finished one: read ' + J(keys(r.read)) + ', rounds ' + r.rounds.length);
 
     /* the randomised property test */
     let seed = 20260926;
@@ -833,9 +902,9 @@ function checkOwner(files) {
           f.indexOf('js/texts/teachings/') === 0 || f.indexOf('js/texts/courses/') === 0)) return;
     files[f].split('\n').forEach((line, i) => { if (DASH.test(line)) fail(errs, 'O', f, 'a dash on line ' + (i + 1) + ': ' + line.trim().slice(0, 80)); });
   });
-  /* The calendar plans' descriptions say "in a year"; the next commit rewrites
-     them with the old plans. Until the old plans are gone this is reported,
-     not failed; once chunkPlan leaves plan.js it fails. */
+  /* The calendar plans' descriptions said "in a year". They left plan.js
+     with the calendar plans, so the check is armed: any "in a year" there
+     fails (were chunkPlan ever back, it would only be reported). */
   const plan = files['js/plan.js'] || '';
   const armed = !/function chunkPlan\b/.test(plan);
   const hits = plan.split('\n').filter(l => /in a year/i.test(l)).length;
@@ -957,7 +1026,11 @@ function selftest() {
   expectFail('carry that marks a partly read day', 'C10', () => {}, { patch: [['if (!marked[a]) { all = false; break; }', 'if (!marked[a] && a === P.days[k]) { all = false; break; }']] });
   expectFail('carry that forgets the start date', 'C10', () => {}, { patch: [['if (!r.start && !r.rounds.length && canon && canon.start) r.start = canon.start;', '']] }, /start not carried/);
   expectFail('carry that puts the old start on a new round', 'C10', () => {}, { patch: [['if (!r.start && !r.rounds.length && canon && canon.start)', 'if (!r.start && canon && canon.start)']] }, /old start/);
-  expectFail('begin again that forgets what was carried', 'C10', () => {}, { patch: [['r.rounds.push({ start: r.start, end: flToday(), n: planProgress(id).done });', 'r.rounds.push({ start: r.start, end: flToday(), n: planProgress(id).done }); r.carried = {};']] }, /refilled the new round/);
+  expectFail('carry that fills a new round with calendar ticks', 'C10', () => {}, { patch: [['if (!r.rounds.length) for (var d in now) if (!before[d])', 'for (var d in now) if (!before[d])']] }, /refilled the new round/);
+  expectFail('an import that joins two carried sets without marking', 'C10', () => {}, { patch: [['for (var d in now) if (!mine[d] && !yours[d]) r.read[d] = 1;', '']] }, /two devices: read/);
+  expectFail('an import that marks what either device had offered', 'C10', () => {}, { patch: [['if (!mine[d] && !yours[d]) r.read[d] = 1;', 'r.read[d] = 1;']] }, /two devices: day/);
+  expectFail('an import that joins read days across begin again', 'C10', () => {}, { patch: [['if (tr >= mr && read) {', 'if (read) {']] }, /undid begin again/);
+  expectFail('an import from a later round that keeps this one', 'C10', () => {}, { patch: [['if (tr > mr) { r.read = {}; r.start = null; }', '']] }, /finished device importing/);
   expectFail('progress that counts stray keys', 'C10', () => {}, { patch: [['for (var d = 1; d <= n; d++) if (read[d]) done++;', 'for (var d in read) done++;']] });
   expectFail('no conversion through prior', 'C10', () => {}, { patch: [['if (map) r.read = planCovered(P, planMarkPairs(map, r.read, {}));', 'if (map) r.read = {};']] });
   expectFail('legacy ranges the runtime disagrees with', 'C10', ctx => { const l = P(ctx).gita.prior.legacy; l[3] -= 1; l[4] -= 1; });
@@ -1042,8 +1115,8 @@ function selftest() {
   expectFail('an em dash in plan.js', 'O', ctx => { ctx.files['js/plan.js'] += '\n/* a ' + EM + ' b */'; });
   expectFail('a spaced double hyphen in ui-hall.js', 'O', ctx => { ctx.files['js/ui-hall.js'] += '\n/* a ' + DD + ' b */'; });
   expectFail('a dash in a teaching file', 'O', ctx => { ctx.files['js/texts/teachings/tao.js'] = 'FLTextPut("teachings","tao",{"s":"a ' + EM + ' b"});'; });
-  expectFail('"in a year" once the calendar plans are gone', 'O', ctx => {
-    ctx.files['js/plan.js'] = ctx.files['js/plan.js'].replace(/function chunkPlan\b/, 'function chunkPlanGone'); });
+  expectFail('"in a year" back in a HALL_YEARS description', 'O', ctx => {
+    ctx.files['js/plan.js'] += "\n  'The whole Bible in a year.',"; }, /in a year/);
 
   console.log('\n  the real data');
   const r = runAll(base);
@@ -1054,8 +1127,10 @@ function selftest() {
   try {
     const rt = loadRuntime({ noPlans: true });
     if (rt.planDef('bible') !== null || rt.planDays('bible') !== 0 || rt.planCarryAll() !== 0 || rt.planLabelRange('bible', 0, 1) !== '' || rt.courseReady('hindu')) throw new Error('answers without FL_PLANS were not empty');
-    if (rt.planLength('bible') !== 366) throw new Error('the old planLength changed');
-    held++; console.log('  ok   plan.js loads and answers empty without FL_PLANS; planLength keeps its old answers');
+    if (rt.planLength) throw new Error('the calendar planLength is still in plan.js');
+    const h = rt.hallById('bible');
+    if (!h || h.length !== 9 || h[4] !== null || !/Genesis to Revelation\.$/.test(h[3])) throw new Error('HALL_YEARS without FL_PLANS: ' + JSON.stringify(h && h[3]));
+    held++; console.log('  ok   plan.js loads and answers empty without FL_PLANS; HALL_YEARS keeps its shape and names no length');
   } catch (e) { failures.push('runtime without FL_PLANS: ' + e.message); }
 
   if (failures.length) {
