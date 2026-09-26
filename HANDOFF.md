@@ -11,17 +11,26 @@ Deploy from a branch → `main` / `(root)`. The Save button is inline beside the
 dropdowns, not at the bottom of the page, and only appears once the branch is
 changed from *None*.
 
-Fourteen views: **Today** (guided morning / evening examen / whole page), **The
-Year** (all 366), **A Life Well Lived** (goal ladder), **The Library** (ten works,
-seven traditions, plus chambers and threads), **The Body**, **Astrology** (+ a real
-natal chart at `#/chart`), **Vault**, and the tools row — **Journal**, **Search**,
-**The Record**, **Settings**. Plus `#/hall`, the five reading plans, reached from
-the Library and hidden from the nav.
+The app opens on **Today** (guided morning / evening examen / whole page). Above it,
+the nav (owner's request, 26 September 2026) is a home line and four tabs:
 
-**The nav is five clusters, and The Library is one of them.** It used to sit inside
+- **The home line**: "First Light" on the left goes to Today; **Search** and
+  **Settings** sit small on the right. They light no tab.
+- **Mind**: The Year (all 366), The Vault, The Floor Book, Astrology (+ a real natal
+  chart at `#/chart`, which lights Mind without a sub-row slot).
+- **Body**: The Body, **Videos** (`#/videos`, all 18 films on one shelf, the
+  practices then the trade's long versions), The Walk-In.
+- **Heart**: Reflection, Journal, A Life Well Lived (goal ladder), The Record.
+- **Soul**: The Library (ten works, seven traditions, plus chambers), The Readings
+  (`#/hall`, the five reading plans), The Threads.
+
+Keys 1 to 4 open the tabs; "/" opens Search. Clear Mornings and the Line-Up are
+listed nowhere and light nothing.
+
+**Soul holds the religious material and nothing else.** The Library used to sit inside
 "The Book" between the secular 366 and the sky, which made scripture read as one
-more chapter of the same book. It is now its own top-level tab, with `#/hall` and
-`#/threads` lighting it rather than the Book. The matching half of that change is in
+more chapter of the same book. It is now a tab of its own, with `#/hall` and
+`#/threads` beside it, and astrology is secular and lives under Mind. The matching half of that change is in
 Today: when `FL.prefs.canonLines` is off, the morning has **no reading step and no
 reading section at all** — not even a pointer. `todayCanonQuiet()` used to draw a
 faint "there is a Library, when you want it" line into the reading slot, which spent

@@ -61,6 +61,25 @@ Rendering is the house pattern: one `render()` writing string-concatenated HTML 
 `<main id="view">`, one delegated handler keyed on `data-act` / `data-change`, a
 hash router (`#/view/arg`), state in one object.
 
+## The nav
+
+`renderNav()` in `js/app.js` builds three tiers from `NAV_CLUSTERS`, `NAV_UTILS`,
+`NAV_HOMES`, `NAV_UNLISTED` and `NAV_LABELS`. The app opens on Today.
+
+- **The home line**: "First Light" (to `#/today`) on the left, Search and Settings
+  small on the right. None of them lights a tab.
+- **Four tabs**: Mind (year, vault, floor, astro; chart lights it), Body (body,
+  videos, reset), Heart (reflect, journal, life, stats), Soul (library, hall,
+  threads). A tab links to the room last visited in it this session.
+- **The sub-row** lists the open tab's rooms. `NAV_LABELS` overrides a view's label
+  there (vault shows "The Vault", hall "The Readings", threads "The Threads").
+
+Soul holds ONLY the religious material: the Library is a door a reader enters by
+choosing to, never mixed with secular rooms. Clear Mornings and the Line-Up are in
+`NAV_UNLISTED`: listed nowhere, lighting nothing. Any other registered, non-hidden
+view missing from every list is appended to the home line's utilities, so a new view
+can never become unreachable. Keys 1 to 4 open the tabs; "/" opens Search.
+
 **Everything the reader typed goes through `esc()`.** The artifact never interpolated
 user input so it had no escaping; this app has a journal coming in Phase 3.
 
@@ -108,7 +127,9 @@ Ten hospitality-wellness features shipped in order; the load-bearing rules:
   inherits it. Views needing today's m/d/weekday use `flShiftedNow()`, never
   `new Date()`. sunIsEvening's small-hours edge reads the same pref.
 - **Hidden rooms**: #/reset (Walk-In), #/floor (Floor Book), #/clear (Clear
-  Mornings), #/lineup (Line-Up). The Walk-In and Line-Up record NOTHING by
+  Mornings), #/lineup (Line-Up). The Walk-In and the Floor Book keep their
+  hidden flag but are listed in their tab's sub-row (Body and Mind); Clear
+  Mornings and the Line-Up are listed nowhere and light no tab. The Walk-In and Line-Up record NOTHING by
   written decision; the Line-Up must stay stateless (boot skips flMarkDay for
   it). FL.clear is counted, never chained — do not wire it into flStreak, ever.
 - **FL.sessions** counts finished sequences only — never the Walk-In's pacer.
