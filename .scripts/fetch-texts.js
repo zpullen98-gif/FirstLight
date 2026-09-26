@@ -475,6 +475,159 @@ async function gita() {
   return { chapters: chapters.length, blocks: chapters.reduce((s, c) => s + c.b.length, 0) };
 }
 
+/* ═══════════════════════ THE GITA, VERSE BY VERSE — Besant ═══════════════════════
+   Arnold's "Song Celestial" is a poem, and it carries no verse numbers: no day of a
+   reading plan and no key verse could be cited as "Gita 2.47" from it. The plan
+   reads from this one instead, and Arnold stays on the shelf for the poem.
+
+   Annie Besant's translation, fourth edition (1922), is the one verse-numbered
+   public-domain Gita that is proofread and can be fetched honestly: sacred-texts
+   refuses scripts (and this file does not forge a browser), Swarupananda survives
+   only as uncorrected scans, and Telang is marked incomplete on Wikisource. It is
+   fetched through the same Wikisource API, with the same courtesy, as the Rig Veda.
+
+   Each page gives the Sanskrit, then a speaker line ("Arjuna said:"), then the
+   English ending in its number "(47)". The Sanskrit, the page numbers and the
+   footnote markers are dropped; the footnotes themselves are not kept. The
+   colophon names the chapter ("entitled: YOGA BY THE SANKHYA."). The standard
+   count is 700; GITA_ERRATA holds each place the page's markers do not give it,
+   every entry checked against the scan before it was written. */
+const STANDARD_GITA = [47, 72, 43, 42, 29, 47, 30, 28, 34, 42, 55, 20, 34, 27, 20, 24, 28, 78];
+/* Where the page's verse numbers differ from the standard 700, checked against
+   the page before being written:
+     13  Besant numbers Arjuna's opening question as verse 1, so the chapter
+         runs to 35; the standard text (and Shankara's) leaves it unnumbered.
+         It is kept as the chapter's preface (pre), and the rest are 13.1 to
+         13.34, so 13.1 is "This body, O son of Kunti", as every edition cites it.
+   Two slips in the English markers need no erratum, because a verse is keyed
+   on the Sanskrit's own number: 17.19 is marked (20) and 18.14 is marked (15). */
+const GITA_ERRATA = {
+  13: function (c) {
+    c.pre = c.v.shift();
+    c.v.forEach(function (r) { r[0] -= 1; });
+  },
+  /* the transcription spells the eighth colophon's title "INDESCTRUCTIBLE" */
+  8: function (c) {
+    c.title = c.title.replace('Indesctructible', 'Indestructible');
+    c.end = c.end.replace('INDESCTRUCTIBLE', 'INDESTRUCTIBLE');
+  }
+};
+
+function titleCase(s) {
+  const small = /^(a|an|and|as|at|by|for|in|of|on|or|the|to|with)$/i;
+  return s.toLowerCase().replace(/[.:]\s*$/, '').split(/\s+/).map(function (w, i) {
+    if (i > 0 && small.test(w)) return w;
+    return w.charAt(0).toUpperCase() + w.slice(1);
+  }).join(' ');
+}
+
+function parseBesant(html, n) {
+  let h = html
+    .replace(/<style[\s\S]*?<\/style>/g, '')
+    .replace(/<sup[^>]*class="reference"[\s\S]*?<\/sup>/g, '')
+    .replace(/<span[^>]*class="pagenum[^"]*"[\s\S]*?<\/span>\s*<\/span>/g, '')
+    .replace(/<div[^>]*class="reflist[\s\S]*$/g, '')
+    .replace(/<ol[^>]*class="references[\s\S]*$/g, '');
+  const text = h.replace(/<br\s*\/?>/g, '\n').replace(/<\/(p|div|dd|dt|li|h\d)>/g, '\n')
+    .replace(/<[^>]+>/g, '')
+    .replace(/&#160;|&nbsp;/g, ' ').replace(/&#32;/g, ' ').replace(/&#8203;/g, '')
+    .replace(/&amp;/g, '&').replace(/&quot;/g, '"').replace(/&#39;/g, "'")
+    .replace(/&lt;/g, '<').replace(/&gt;/g, '>');
+  const all = text.split('\n').map(s => s.replace(/\s+/g, ' ').trim()).filter(Boolean);
+  const start = all.findIndex(s => /DISCOURSE\.?$/.test(s));
+  const stop = all.findIndex(s => /^Thus in the glorious/.test(s));
+  if (start < 0 || stop < 0 || stop <= start) throw new Error('discourse ' + n + ': heading or colophon not found');
+  /* the colophon, and the title it names on the line after "entitled:" */
+  let end = all[stop], title = '';
+  for (let i = stop + 1; i < all.length && i < stop + 4; i++) {
+    if (/^[A-Z][A-Z .,'-]+\.?$/.test(all[i])) { title = all[i]; end += ' ' + all[i]; break; }
+  }
+  /* A verse is keyed on the Sanskrit's own number, which closes every verse
+     (a double danda around Devanagari digits). The English marker at the end of
+     each rendering is the transcriber's and carries slips (an unclosed "(42",
+     a repeated "(20)", a missing "(31)"), so it is read only to be compared
+     with the Sanskrit number, and then dropped. */
+  const DEV = /[\u0900-\u097F]/;
+  const dig = s => Number(String(s).replace(/[\u0966-\u096F]/g, d => String(d.charCodeAt(0) - 0x966)));
+  const SPEAK = /^([A-Z][A-Za-z\u00C0-\u024F\u1E00-\u1EFF' -]{1,40}) said:$/;
+  const v = [], slips = [];
+  let cur = null;
+  for (let i = start + 1; i < stop; i++) {
+    const line = all[i];
+    /* the Sanskrit colophon ("iti ... gita ...") carries the chapter's own number
+       in the same double danda, and is not a verse; verses may also open with
+       iti (15.20, 18.63), so it takes both words to end the verses */
+    if (/^\u0907\u0924\u093F/.test(line) && /\u0917\u0940\u0924\u093E/.test(line)) break;
+    const m = line.match(/\u0965\s*([\u0966-\u096F]+)\s*\u0965/);
+    if (m) { cur = { num: dig(m[1]), parts: [], who: '' }; v.push(cur); continue; }
+    if (DEV.test(line)) continue;
+    if (!cur) continue;
+    const sp = line.match(SPEAK);
+    if (sp) { cur.who = sp[1]; continue; }
+    cur.parts.push(line);
+  }
+  const rows = v.map(r => {
+    let t = r.parts.join(' ').replace(/\s+/g, ' ').trim();
+    const mk = t.match(/\s*\(?(\d{1,2})\)?\s*$/);
+    if (mk && /[()]/.test(mk[0])) {
+      if (Number(mk[1]) !== r.num) slips.push(n + '.' + r.num + ' marked (' + mk[1] + ')');
+      t = t.slice(0, t.length - mk[0].length).trim();
+    }
+    const row = [r.num, t];
+    if (r.who) row.push(r.who);
+    return row;
+  });
+  return { n, title: title ? titleCase(title) : '', v: rows, end, slips };
+}
+
+async function gitaBesant() {
+  const chapters = [];
+  const report = [];
+  for (let n = 1; n <= 18; n++) {
+    const url = 'https://en.wikisource.org/w/api.php?action=parse&page=' +
+      encodeURIComponent('Bhagavad-Gita (Besant 4th)/Discourse ' + n) +
+      '&prop=text&format=json&formatversion=2&maxlag=5';
+    const j = await get(url, { json: true, cacheKey: 'gita-besant-' + pad(n) + '.json' });
+    const c = parseBesant(j.parse.text, n);
+    const fix = GITA_ERRATA[n];
+    if (fix) fix(c);
+    /* the page's own markers must now run 1 to the standard count, in order */
+    const nums = c.v.map(r => r[0]);
+    const want = STANDARD_GITA[n - 1];
+    const ok = nums.length === want && nums.every((x, i) => x === i + 1);
+    if (!ok) {
+      const seen = {}; const dup = []; nums.forEach(x => { if (seen[x]) dup.push(x); seen[x] = 1; });
+      const missing = []; for (let k = 1; k <= want; k++) if (!seen[k]) missing.push(k);
+      const disorder = nums.filter((x, i) => i > 0 && x !== nums[i - 1] + 1).length;
+      report.push('discourse ' + n + ': ' + nums.length + ' markers, standard ' + want +
+        (dup.length ? '; repeated ' + dup.join(',') : '') + (missing.length ? '; missing ' + missing.join(',') : '') +
+        (disorder ? '; ' + disorder + ' out of sequence' : '') + (c.pre ? '; has pre' : ''));
+    }
+    const empty = c.v.filter(r => !r[1]).map(r => r[0]);
+    if (empty.length) report.push('discourse ' + n + ': no English for ' + empty.join(','));
+    if (!c.title) report.push('discourse ' + n + ': no title found in the colophon');
+    if (c.slips.length) console.log('  page marker slips, the Sanskrit number kept: ' + c.slips.join('; '));
+    delete c.slips;
+    chapters.push(c);
+    if (!lastFromCache) await sleep(5000);
+  }
+  if (report.length) {
+    console.log('\n  the page does not give the standard count as it stands:\n    ' + report.join('\n    '));
+    throw new Error(report.length + ' discourse(s) need an erratum; see above');
+  }
+  const verses = chapters.reduce((s, c) => s + c.v.length, 0);
+  if (verses !== 700) throw new Error('expected 700 verses, got ' + verses);
+  const v247 = chapters[1].v[46][1];
+  if (!/Thy business is with the action only/.test(v247)) throw new Error('2.47 does not read as Besant prints it: ' + v247);
+  emit('gita-besant', 'all', chapters);
+  manifest('gita-besant', {
+    title: 'The Bhagavad Gita, verse by verse', translation: 'Annie Besant, fourth edition, 1922',
+    license: 'Public domain', source: 'Wikisource', whole: true,
+    chapters: chapters.map(c => ({ n: c.n, title: c.title, verses: c.v.length }))
+  });
+  return { chapters: chapters.length, verses };
+}
+
 /* The Zhuangzi — Herbert Giles. 33 chapters. */
 async function zhuangzi() {
   const body = await gutenberg(59709, 'zhuangzi.txt');
@@ -633,7 +786,7 @@ async function upanishads() {
 module.exports = { get, emit, manifest, gutenberg, clean, pad, sleep, lines, parseHymn, OUT };
 
 /* ═══════════════════════ runner ═══════════════════════ */
-const WORKS = { bible, tanakh, quran, dhammapada, rigveda, gita, zhuangzi, tao, analects, upanishads };
+const WORKS = { bible, tanakh, quran, dhammapada, rigveda, gita, 'gita-besant': gitaBesant, zhuangzi, tao, analects, upanishads };
 
 /* Guard the runner: without it, `require`-ing this file to reuse a helper silently
    re-runs every fetch in the library. */

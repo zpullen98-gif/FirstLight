@@ -248,6 +248,20 @@ function libReader(workId, part) {
       }).join('') + libCredit(L) + libNextPrev(workId, part);
   }
 
+  /* gita-besant: [{n, title, pre?, v:[[num, text, speaker?], …], end}]. Verse by
+     verse under the standard numbers the daily readings cite; the speaker line
+     where the page gives one (only when the speaker changes); the colophon last. */
+  if (workId === 'gita-besant') {
+    return back + '<h1>' + esc(L.title) + '</h1>' +
+      '<p class="note">' + esc(L.translation) + ' · 700 verses</p>' +
+      data.map(function (c) {
+        return '<div class="chaphead">' + c.n + '. ' + esc(c.title) + '</div>' +
+          (c.pre ? libGitaVerse(c.pre, '') : '') +
+          c.v.map(function (v) { return libGitaVerse(v, c.n + '.' + v[0]); }).join('') +
+          '<p class="ds" style="margin-top:10px">' + esc(c.end) + '</p>';
+      }).join('') + libCredit(L) + libNextPrev(workId, part);
+  }
+
   /* analects: [{n,title,ch:[{n,b:[[line,…],…]}]}] */
   if (workId === 'analects') {
     return back + '<h1>' + esc(L.title) + '</h1>' +
@@ -271,6 +285,14 @@ function libReader(workId, part) {
       var head = c.title ? esc(c.title) : ((workId === 'gita' ? 'Chapter ' : '') + c.n);
       return '<div class="chaphead">' + head + '</div>' + c.b.map(libBlock).join('');
     }).join('') + libCredit(L) + libNextPrev(workId, part);
+}
+
+/* One verse of the numbered Gita: the speaker when the page names one, then the
+   verse under its number. The preface verse (13's opening question, which the
+   standard text leaves unnumbered) carries no number. */
+function libGitaVerse(v, num) {
+  return (v[2] ? '<div class="ds" style="margin-top:12px">' + esc(v[2]) + ' said:</div>' : '') +
+    '<p class="passage">' + (num ? '<span class="vnum">' + esc(num) + '</span>' : '') + esc(v[1]) + '</p>';
 }
 
 /* The foot of a book in a multi-book work. Without this the Bible could only
@@ -353,6 +375,16 @@ function libTextOf(workId) {
         out.push((i + 1) + '. ' + c.title);
         out.push('');
         c.v.forEach(function (v) { out.push(v[0] + '  ' + v[1]); });
+      } else if (workId === 'gita-besant') {
+        out.push(n + '. ' + c.title);
+        out.push('');
+        if (c.pre) { if (c.pre[2]) out.push(c.pre[2] + ' said:'); out.push(c.pre[1]); out.push(''); }
+        c.v.forEach(function (v) {
+          if (v[2]) out.push(v[2] + ' said:');
+          out.push(n + '.' + v[0] + '  ' + v[1]);
+        });
+        out.push('');
+        out.push(c.end);
       } else if (c.ch) {                       /* analects */
         out.push('BOOK ' + n + (c.title ? ' · ' + c.title : ''));
         out.push('');
