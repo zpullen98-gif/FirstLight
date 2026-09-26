@@ -1,0 +1,214 @@
+/* The Readings: build js/data-plans.js.
+
+   Every work is read from js/texts/** (atoms.js), divided into days of
+   about ten minutes (divide.js), and written with its old calendar plan as
+   atom ranges (legacy.js), so ticks carry over.
+
+   Each division is locked in divisions.json by its hash (div). Teachings
+   are written against fixed days, so a build whose division differs from
+   the lock refuses to write anything. When a change is intended, run with
+   --refreeze: the new division is locked and the old one is kept, with its
+   days, under prior[<old div>] so readers' records convert.
+
+   Usage:
+     node .scripts/plans/build-plans.js                 build (a no-op when nothing changed)
+     node .scripts/plans/build-plans.js --refreeze      accept the divisions as they now fall
+     node .scripts/plans/build-plans.js --report        every day's label and words, then a summary
+     node .scripts/plans/build-plans.js --summary       the summary only
+     node .scripts/plans/build-plans.js --show <plan> <day>   print that day's passage */
+'use strict';
+const fs = require('fs');
+const path = require('path');
+const crypto = require('crypto');
+const C = require('./config');
+const { buildAtoms } = require('./atoms');
+const { divide } = require('./divide');
+const { legacyDays } = require('./legacy');
+
+const LOCK = path.join(__dirname, 'divisions.json');
+const OUT = path.join(C.ROOT, 'js', 'data-plans.js');
+
+/* The division's identity: how many atoms each seg holds and where every
+   day begins and ends. Words are left out on purpose, so a corrected typo
+   in a text does not unlock the teachings written against these days. */
+function divHash(seg, pairs) {
+  const src = JSON.stringify([seg.map(s => s[2]), pairs]);
+  return crypto.createHash('sha1').update(src).digest('hex').slice(0, 10);
+}
+function pairsOf(days) {
+  const p = [];
+  days.forEach(d => p.push(d[0], d[1]));
+  return p;
+}
+function flatDays(days) {
+  const p = [];
+  days.forEach(d => p.push(d[0], d[1], d[2]));
+  return p;
+}
+
+function readLock() {
+  if (!fs.existsSync(LOCK)) return null;
+  return JSON.parse(fs.readFileSync(LOCK, 'utf8'));
+}
+
+/* Build every plan in memory. Nothing is written here. */
+function buildAll() {
+  const out = {};
+  for (const p of C.PLANS) {
+    const built = buildAtoms(p.id);
+    const days = divide(built);
+    const pairs = pairsOf(days);
+    const legacy = legacyDays(p.id, built);
+    const plan = {
+      work: p.work, unit: p.unit, div: divHash(built.seg, pairs),
+      seg: built.seg, days: flatDays(days),
+      prior: { legacy: pairsOf(legacy) }
+    };
+    if (built.blocks) plan.blocks = built.blocks;
+    out[p.id] = { plan, built, days, pairs };
+  }
+  return out;
+}
+
+/* Join the lock's history into each plan's prior, and check (or, with
+   refreeze, move) the lock. Returns { plans, lock, changed[] } or throws. */
+function applyLock(all, lock, refreeze) {
+  const next = { note: 'The Readings: the locked division of each plan. Written by build-plans.js --refreeze; never edit by hand.',
+                 plans: {} };
+  const differs = [];
+  for (const p of C.PLANS) {
+    const cur = all[p.id];
+    const was = lock && lock.plans && lock.plans[p.id];
+    const prior = Object.assign({}, (was && was.prior) || {});
+    if (was && was.div !== cur.plan.div) {
+      /* An earlier division converts only if it numbers the same atoms. One
+         over a different count (a text re-baked or split differently) would
+         mark the wrong passages, so it is left out, and a record under it
+         keeps its day numbers (planCarry's fallback for an unknown div). */
+      const wasAtoms = was.pairs.length ? was.pairs[was.pairs.length - 1] + 1 : 0;
+      const same = wasAtoms === cur.built.atoms.length;
+      differs.push(p.id + ': ' + was.div + ' in the lock, ' + cur.plan.div + ' built' +
+        (same ? '' : ' (' + wasAtoms + ' atoms then, ' + cur.built.atoms.length + ' now: the earlier division is not kept as a prior)'));
+      if (refreeze && same) prior[was.div] = was.pairs;
+    }
+    delete prior[cur.plan.div];
+    next.plans[p.id] = { div: cur.plan.div, days: cur.days.length, pairs: cur.pairs, prior: prior };
+    /* every earlier division stays readable, so old records convert */
+    Object.keys(prior).sort().forEach(h => { cur.plan.prior[h] = prior[h]; });
+  }
+  if (!lock && !refreeze) throw new Error('no divisions.json yet: run with --refreeze to freeze the first divisions');
+  if (differs.length && !refreeze) {
+    throw new Error('the divisions differ from the lock, so nothing was written:\n  ' + differs.join('\n  ') +
+      '\nIf the change is intended, run with --refreeze (teachings written against the old days must then be redone).');
+  }
+  return { next, differs };
+}
+
+function render(all) {
+  const lines = [];
+  lines.push('/* First Light: the Readings, divided into days.');
+  lines.push('');
+  lines.push('   Generated by .scripts/plans/build-plans.js from js/texts/**. Do not edit by');
+  lines.push('   hand; re-run the build, and the gate (.scripts/check-plans.js).');
+  lines.push('');
+  lines.push('   Each plan: work (the library work it reads), unit (its atom), div (the');
+  lines.push('   hash of the locked division), seg ([shown name, text part, atoms, extra]');
+  lines.push('   in order; extra is the first paragraph number of a Zhuangzi chapter and');
+  lines.push('   the section number of an Upanishad), days (flat triples: first atom, last');
+  lines.push('   atom, words), prior (earlier divisions as flat pairs; legacy is the old');
+  lines.push('   calendar plan). The Upanishads add blocks: per atom [entry, from, to, ...],');
+  lines.push('   the block ranges the reader prints. Word counts are for the gate and are');
+  lines.push('   never shown. teach and courses list only complete, validated sets. */');
+  lines.push('');
+  lines.push('var FL_PLANS = {');
+  lines.push('"v": 1, "target": ' + C.TARGET + ',');
+  lines.push('"plans": {');
+  C.PLANS.forEach((p, i) => {
+    const pl = all[p.id].plan;
+    const keys = ['work', 'unit', 'div', 'seg', 'days', 'prior'].concat(pl.blocks ? ['blocks'] : []);
+    lines.push(JSON.stringify(p.id) + ': {');
+    keys.forEach((k, j) => lines.push(' ' + JSON.stringify(k) + ': ' + JSON.stringify(pl[k]) + (j < keys.length - 1 ? ',' : '')));
+    lines.push('}' + (i < C.PLANS.length - 1 ? ',' : ''));
+  });
+  lines.push('},');
+  lines.push('"teach": {},');
+  lines.push('"courses": {}');
+  lines.push('};');
+  return lines.join('\n') + '\n';
+}
+
+function median(a) {
+  const s = a.slice().sort((x, y) => x - y);
+  return s.length % 2 ? s[(s.length - 1) / 2] : Math.round((s[s.length / 2 - 1] + s[s.length / 2]) / 2);
+}
+
+function summary(all, rt) {
+  const rows = [];
+  let total = 0;
+  for (const p of C.PLANS) {
+    const w = all[p.id].days.map(d => d[2]);
+    total += w.length;
+    rows.push('  ' + p.id.padEnd(11) + String(w.length).padStart(4) + ' days   min ' + String(Math.min(...w)).padStart(5) +
+      '   median ' + String(median(w)).padStart(5) + '   max ' + String(Math.max(...w)).padStart(5) +
+      '   mean ' + String(Math.round(w.reduce((s, x) => s + x, 0) / w.length)).padStart(5) + '   div ' + all[p.id].plan.div);
+  }
+  rows.push('  ' + 'all'.padEnd(11) + String(total).padStart(4) + ' days');
+  return rows.join('\n');
+}
+
+function main() {
+  const args = process.argv.slice(2);
+  const refreeze = args.includes('--refreeze');
+  const all = buildAll();
+
+  if (args[0] === '--show') {
+    const id = args[1], d = +args[2];
+    if (!all[id] || !(d >= 1) || d > all[id].days.length) { console.error('usage: --show <plan> <day>'); process.exit(1); }
+    const { loadRuntime } = require('./runtime');
+    const rt = loadRuntime({ plans: { plans: { [id]: all[id].plan }, teach: {}, courses: {} } });
+    const day = all[id].days[d - 1];
+    console.log(id + ', day ' + d + ' of ' + all[id].days.length + ': ' + rt.planLabelRange(id, day[0], day[1]) + ' (' + day[2] + ' words)\n');
+    for (let a = day[0]; a <= day[1]; a++) {
+      const t = all[id].built.atoms[a].text();
+      console.log('[' + rt.planLabelRange(id, a, a) + ']');
+      if (t.length) console.log(t.join('\n'));
+      console.log('');
+    }
+    return;
+  }
+
+  if (args.includes('--report') || args.includes('--summary')) {
+    const { loadRuntime } = require('./runtime');
+    const plans = {};
+    C.PLANS.forEach(p => { plans[p.id] = all[p.id].plan; });
+    const rt = loadRuntime({ plans: { plans: plans, teach: {}, courses: {} } });
+    if (args.includes('--report')) {
+      for (const p of C.PLANS) {
+        console.log('\n' + p.id + ' (' + p.work + ', ' + all[p.id].days.length + ' days)');
+        all[p.id].days.forEach((d, i) => console.log('  ' + String(i + 1).padStart(4) + '  ' +
+          String(d[2]).padStart(5) + '  ' + rt.planLabelRange(p.id, d[0], d[1])));
+      }
+      console.log('');
+    }
+    console.log(summary(all));
+    return;
+  }
+
+  let applied;
+  try { applied = applyLock(all, readLock(), refreeze); } catch (e) { console.error('build-plans: ' + e.message); process.exit(1); }
+  const text = render(all);
+  const lockText = JSON.stringify(applied.next, null, 1) + '\n';
+  const prevOut = fs.existsSync(OUT) ? fs.readFileSync(OUT, 'utf8') : null;
+  const prevLock = fs.existsSync(LOCK) ? fs.readFileSync(LOCK, 'utf8') : null;
+  let wrote = [];
+  if (refreeze && prevLock !== lockText) { fs.writeFileSync(LOCK, lockText, 'utf8'); wrote.push('divisions.json'); }
+  if (prevOut !== text) { fs.writeFileSync(OUT, text, 'utf8'); wrote.push('js/data-plans.js'); }
+  console.log(summary(all));
+  if (applied.differs.length) console.log('\n  refrozen: ' + applied.differs.join('; '));
+  console.log('\n  ' + (wrote.length ? 'wrote ' + wrote.join(' and ') : 'unchanged: js/data-plans.js matches the lock and the texts') +
+    ' (' + (Buffer.byteLength(text) / 1024).toFixed(1) + ' KB)');
+}
+
+if (require.main === module) main();
+
+module.exports = { buildAll, applyLock, render, divHash, pairsOf, flatDays, readLock, LOCK, OUT };
