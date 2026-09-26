@@ -1,4 +1,4 @@
-/* First Light — the year's readings.
+/* First Light: the year's readings.
 
    The practice half of the Library: every work, divided into daily portions.
    Five canons run 366 days; five short reads run the length of the work.
@@ -15,9 +15,9 @@ var hallSaving = {};      // canonId -> true while a download is running
 
 FL_ACTS.hallPick = function (el) { hallMonth = +el.getAttribute('data-m'); render(); };
 
-/* ——— reading progress ———
+/* --- reading progress ---
    The plan can run on the calendar, so that everyone reading the Bible on the third
-   of March is on the same passage — the shared-liturgy arrangement, and the one the
+   of March is on the same passage: the shared-liturgy arrangement, and the one the
    artifact hardcoded. Or it can start the day you begin, which is the only way
    someone opening this in August gets to read Genesis rather than being dropped at
    day 227 with no way back.
@@ -41,7 +41,7 @@ FL_ACTS.canonFollowCalendar = function (el) {
 /* Update in place rather than re-rendering.
 
    A full render on every tick throws away scroll position, and this list is
-   thirty-one rows deep — marking the eleventh of the month would bounce you back to
+   thirty-one rows deep: marking the eleventh of the month would bounce you back to
    the top, which makes the control feel punitive to use. Only three things change:
    the button, its row, and the progress figures. */
 FL_ACTS.markRead = function (el) {
@@ -125,7 +125,7 @@ FL_ACTS.saveCanon = function (el) {
     if (bar) {
       bar.textContent = r.failed.length
         ? r.loaded + ' of ' + (r.loaded + r.failed.length) + ' saved; the rest could not be reached.'
-        : 'Held here — always available.';
+        : 'Held here: always available.';
     }
     announce('Saved for offline.');
     render();
@@ -173,7 +173,7 @@ FL_VIEWS.hall = {
     var h = hallById(canonId);
     var now = flShiftedNow();
     var st = canonState(canonId);
-    /* The reader's own day in this plan — the calendar day if they follow it, or
+    /* The reader's own day in this plan: the calendar day if they follow it, or
        days-since-they-began if they started it themselves. */
     var doy = canonDoy(canonId);
     var prog = canonProgress(canonId);
@@ -193,10 +193,10 @@ FL_VIEWS.hall = {
         '<div class="progtrack"><div class="progbar" style="width:' + prog.pct + '%"></div></div>' +
         (st.start
           ? '<p class="px" style="margin-top:12px">Begun ' + esc(jPrettyDate(st.start)) + '. ' +
-            'Missing a morning costs you nothing — the day you are on is the day you have reached, not the date.</p>' +
+            'Missing a morning costs you nothing: the day you are on is the day you have reached, not the date.</p>' +
             '<button class="keep" data-act="canonFollowCalendar" data-canon="' + canonId + '">Follow the calendar instead</button>'
           : '<p class="px" style="margin-top:12px">Following the calendar, so everyone reading this canon today is on the same passage. ' +
-            'The older discipline — but it means starting mid-book, and there is no way back to the beginning.</p>' +
+            'The older discipline, but it means starting mid-book, and there is no way back to the beginning.</p>' +
             '<button class="keep" data-act="canonStartToday" data-canon="' + canonId + '">Begin at day one today</button>') +
       '</div>';
 
@@ -261,7 +261,7 @@ FL_VIEWS.hall = {
     readCanonState(canonId).then(function (st) {
       if (!st.ready) return;
       if (st.whole) {
-        host.innerHTML = '<p class="px" id="save-' + canonId + '">Held here — always available.</p>' +
+        host.innerHTML = '<p class="px" id="save-' + canonId + '">Held here: always available.</p>' +
           '<div class="ds" style="margin-top:6px">' + st.total + (st.total === 1 ? ' file' : ' files') +
           ' · ' + FLBytes(st.bytes) + '</div>' +
           '<button class="keep" data-act="forgetCanon" data-canon="' + canonId + '">Remove from this device</button>';

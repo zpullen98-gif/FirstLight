@@ -210,12 +210,13 @@ function flOnboardHTML() {
       ((typeof pacer !== 'undefined' && pacer.on) ? 'Let it fade' : 'Try ten slow breaths first') + '</button></div>' +
     '<div class="label" style="margin-top:26px">One choice before you begin</div>' +
     '<div class="card">' +
-      '<p class="px" style="margin-bottom:12px">First Light includes a religious Library — scripture and ' +
-      'reading plans across seven traditions. It has its own tab either way, so you can go in whenever you ' +
-      'like and it will never come to you. Show today’s readings on your morning page?</p>' +
+      '<p class="px" style="margin-bottom:12px">First Light includes a religious Library: scripture and ' +
+      'daily readings across seven traditions, in the Soul tab. You can go in whenever you like, and it ' +
+      'will never come to you: your morning page shows none of it, whatever you choose. Should scripture ' +
+      'also reach the goal ladder’s quotations and your searches?</p>' +
       '<div class="drawrow">' +
-        '<button class="btn" data-act="onboardChoice" data-v="on">Show the readings</button>' +
-        '<button class="keep" data-act="onboardChoice" data-v="off">Keep them in the Library</button>' +
+        '<button class="btn" data-act="onboardChoice" data-v="on">Let it into the ladder and search</button>' +
+        '<button class="keep" data-act="onboardChoice" data-v="off">Keep it all in Soul</button>' +
       '</div>' +
       '<p class="vidnote" style="margin-top:10px">You can change this any time in Settings.</p>' +
     '</div>';

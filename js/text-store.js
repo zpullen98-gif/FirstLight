@@ -1,4 +1,4 @@
-/* First Light — loading scripture.
+/* First Light: loading scripture.
 
    The library is about 12 MB of text. That cannot be precached with the shell and it
    cannot sit in localStorage, so it lives in js/texts/<work>/<part>.js and loads on
@@ -9,7 +9,7 @@
    - It matches the house rule that content ships as .js declaring globals, never
      .json fetched at runtime.
    - The service worker caches it like any other same-origin script, so "download
-     this book for offline" is just "load it once" — no second storage system, no
+     this book for offline" is just "load it once": no second storage system, no
      IndexedDB schema to migrate, no quota negotiation.
    - It works from file:// as well as http://.
 
@@ -52,7 +52,7 @@ function FLTextLoad(work, part) {
       s.remove();
       reject(new Error('offline-or-missing'));
     };
-    /* A script can load successfully and still not call FLTextPut — a truncated
+    /* A script can load successfully and still not call FLTextPut: a truncated
        file, or a proxy that served an error page with a 200. Without this the
        promise would hang forever and the reader would watch a spinner that never
        resolves, which is precisely the failure the old Study Hall shipped. */
@@ -93,7 +93,7 @@ function FLTextLoadMany(work, parts, onProgress) {
   });
 }
 
-/* ——— what is already on the device ———
+/* --- what is already on the device ---
    Asks the cache directly rather than tracking it in localStorage, so the answer
    stays true after a browser eviction, a version bump, or a reader who cleared
    storage on one device but not another. */

@@ -1,10 +1,10 @@
-/* First Light — the almanac calendar and the five reading plans.
+/* First Light: the almanac calendar and the five reading plans.
 
    Loads after data-canon.js: it consumes BIBLE_BOOKS, TANAKH_BOOKS, JUZ,
    SURAH_AYAHS, JUZ_START, DHP_CH and RV_MANDALAS, and builds the 366-day plans
    plus HALL_YEARS from them.
 
-   ——— THE DAY-OF-YEAR RULE ———
+   --- THE DAY-OF-YEAR RULE ---
    The artifact computed the day of the year two different ways. `doyOf()` used a
    fixed table with February pinned at 29; `renderToday()` used the real calendar.
    In a common year these disagree by one from March onward, so the rotating
@@ -13,12 +13,12 @@
    This file settles it: the fixed 366-slot table is the only one, and every
    caller uses it.
 
-   That is a deliberate choice, not a convenience. The almanac is dated — the
+   That is a deliberate choice, not a convenience. The almanac is dated: the
    first of January is Seneca every year, and it would be a poor almanac if a
    given date drew a different voice depending on the year. A fixed table
    guarantees date → voice is permanent. The cost is that in a common year slot 60
    is never reached, so the leap-day voice appears once in four years. That is the
-   right cost: the artifact's own subtitle promises "366 voices — one for every day
+   right cost: the artifact's own subtitle promises "366 voices, one for every day
    of the year, including the leap day", and a voice reserved for the twenty-ninth
    of February should be rare. */
 
@@ -41,10 +41,10 @@ function doyToMD(doy) {
   return [m + 1, doy];
 }
 function isLeap(y) { return (y % 4 === 0 && y % 100 !== 0) || y % 400 === 0; }
-/* True when this slot has no date in the given year — slot 60 outside a leap year. */
+/* True when this slot has no date in the given year: slot 60 outside a leap year. */
 function doySkipped(doy, y) { return doy === 60 && !isLeap(y === undefined ? new Date().getFullYear() : y); }
 
-/* ——— plan construction (verbatim from the artifact) ——— */
+/* --- plan construction (verbatim from the artifact) --- */
 
 function chunkPlan(units, daysTotal) {
   var plan = [], i = 0;
@@ -63,7 +63,7 @@ function bookUnits(books) {
 function rangeLabel(day) {
   var a = day[0], b = day[day.length - 1];
   if (a[0] === b[0]) return a[0] + ' ' + (a[1] === b[1] ? a[1] : a[1] + '–' + b[1]);
-  return a[0] + ' ' + a[1] + ' – ' + b[0] + ' ' + b[1];
+  return a[0] + ' ' + a[1] + ', ' + b[0] + ' ' + b[1];
 }
 
 var PLAN_BIBLE_UNITS = chunkPlan(bookUnits(BIBLE_BOOKS), 366);
@@ -74,7 +74,7 @@ var PLAN_TANAKH = PLAN_TANAKH_UNITS.map(rangeLabel);
 /* The Tanakh counts several books as one; map each composite to its fetchable parts.
    Note the chapter counts follow Jewish numbering (Joel 4, Malachi 3), which is why
    they differ from the same books in BIBLE_BOOKS (Joel 3, Malachi 4). That is not a
-   typo in either list — the two canons genuinely divide those books differently. */
+   typo in either list: the two canons genuinely divide those books differently. */
 var TANAKH_PARTS = {
   'Samuel': [['I Samuel', 31], ['II Samuel', 24]],
   'Kings': [['I Kings', 22], ['II Kings', 25]],
@@ -124,7 +124,7 @@ var PLAN_QURAN = (function () {
   for (var j = 0; j < 30; j++) {
     var days = 12 + (j < 6 ? 1 : 0);
     for (var k = 1; k <= days; k++) {
-      p.push('Juz’ ' + (j + 1) + ' — begins at ' + JUZ[j] + '  ·  day ' + k + ' of ' + days);
+      p.push('Juz’ ' + (j + 1) + ': begins at ' + JUZ[j] + '  ·  day ' + k + ' of ' + days);
     }
   }
   return p;
@@ -152,36 +152,36 @@ var PLAN_VEDA_UNITS = (function () {
 var PLAN_VEDA = PLAN_VEDA_UNITS.map(function (day) {
   var a = day[0], b = day[day.length - 1];
   if (a[0] === b[0]) return 'Rig Veda, Mandala ' + a[0] + ', Hymn' + (a[1] === b[1] ? ' ' + a[1] : 's ' + a[1] + '–' + b[1]);
-  return 'Rig Veda, Mandala ' + a[0] + ' Hymn ' + a[1] + ' – Mandala ' + b[0] + ' Hymn ' + b[1];
+  return 'Rig Veda, Mandala ' + a[0] + ' Hymn ' + a[1] + ', Mandala ' + b[0] + ' Hymn ' + b[1];
 });
 
-/* ——— the five canons ———
+/* --- the five canons ---
    [id, name, subtitle, planDescription, plan[], epigraph, epigraphSource, blurb, teachings] */
 var HALL_YEARS = [
  ['bible', 'The Bible', 'The Christian Scriptures',
-  'Whole Bible in a year — all 1,189 chapters, Genesis to Revelation, three to four chapters a day.', PLAN_BIBLE,
+  'Whole Bible in a year: all 1,189 chapters, Genesis to Revelation, three to four chapters a day.', PLAN_BIBLE,
   'In the beginning was the Word, and the Word was with God, and the Word was God.', 'John 1:1',
   'Two testaments, one arc: creation, covenant, incarnation, and the promised restoration of all things.',
   'Incarnation · Grace · Resurrection · the Kingdom of God · Agape'],
  ['quran', 'The Qur’an', 'The Recitation',
-  'The thirty ajza’ across the year — each juz’ held for twelve or thirteen days, as the month of Ramadan holds it for one.', PLAN_QURAN,
+  'The thirty ajza’ across the year: each juz’ held for twelve or thirteen days, as the month of Ramadan holds it for one.', PLAN_QURAN,
   'In the name of God, the Most Gracious, the Most Merciful.', 'The Basmala',
   'Revealed over twenty-three years, held whole in living memory by millions.',
   'Tawhid · Prophethood · the Day of Judgment · Rahma · the Straight Path'],
- ['veda', 'The Vedas', 'Śruti — That Which Was Heard',
-  'All 1,028 hymns of the Rig Veda in a year — two to three hymns a day through the ten mandalas.', PLAN_VEDA,
+ ['veda', 'The Vedas', 'Śruti: That Which Was Heard',
+  'All 1,028 hymns of the Rig Veda in a year: two to three hymns a day through the ten mandalas.', PLAN_VEDA,
   'Truth is one; the wise call it by many names.', 'Rig Veda 1.164.46',
   'The oldest scriptures still in daily use, carried by voice for three millennia, culminating in the Upanishads.',
   'Ṛta · Brahman and Atman · Yajña · Om · the Four Ends of Life'],
  ['pali', 'The Tripiṭaka', 'The Pali Canon',
-  'The complete Dhammapada in a year — all 423 verses, one or two a day, chapter by chapter.', PLAN_PALI,
+  'The complete Dhammapada in a year: all 423 verses, one or two a day, chapter by chapter.', PLAN_PALI,
   'Mind precedes all things; mind is their chief, mind is their maker.', 'Dhammapada 1',
   'The Buddha’s teaching as his first hearers preserved it: discipline, discourse, and analysis.',
   'the Four Noble Truths · the Eightfold Path · the Three Marks · Dependent Origination · the Brahmavihāras'],
  ['tanakh', 'The Hebrew Bible', 'Tanakh',
-  'The whole Tanakh in a year — all 929 chapters in the traditional order: Torah, Prophets, Writings.', PLAN_TANAKH,
+  'The whole Tanakh in a year, all 929 chapters in the traditional order: Torah, Prophets, Writings.', PLAN_TANAKH,
   'Hear, O Israel: the Lord our God, the Lord is one.', 'Deuteronomy 6:4',
-  'Teaching, Prophets, and Writings — a covenant carried in a portable homeland of words.',
+  'Teaching, Prophets, and Writings: a covenant carried in a portable homeland of words.',
   'Brit · Torah as Teaching · Tzedek · Teshuvah · Shabbat']
 ];
 
@@ -190,12 +190,12 @@ function hallById(id) {
   return null;
 }
 
-/* ——— personal reading progress ———
+/* --- personal reading progress ---
    The artifact locked every plan to the calendar: open the Bible year in August and
    you begin at day 227, with no way to read the first 226 chapters. These helpers
    back the Phase 2 UI, where a canon starts the day you enter it and remembers what
    you actually finished. `start` null means the reader has chosen to follow the
-   calendar instead, which stays available on purpose — a shared cycle is the older
+   calendar instead, which stays available on purpose: a shared cycle is the older
    and in some ways better discipline. */
 function canonState(id) {
   if (!FL.canon[id]) FL.canon[id] = { start: null, done: {} };

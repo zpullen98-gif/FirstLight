@@ -1,8 +1,8 @@
-/* First Light — the day's reading, from the local library.
+/* First Light: the day's reading, from the local library.
 
    This replaces canon.js, which fetched every passage live from four third-party
    services: bible-api.com, alquran.cloud, Sefaria and Wikisource. That was the
-   artifact's design and it had three problems — it needed a connection for the one
+   artifact's design and it had three problems: it needed a connection for the one
    thing the app most wants to do offline, one of the four paths had been dead since
    before this rebuild, and reading a whole year through it meant thousands of
    requests against operators who explicitly ask people not to.
@@ -73,7 +73,7 @@ function readHasLocally(canonId, doy) {
   return parts.length > 0 && parts.every(function (p) { return FLTextHas(p.work, p.part); });
 }
 
-/* ——— rendering ——— */
+/* --- rendering --- */
 function readVerses(list) {
   return '<p class="passage">' + list.map(function (v) {
     return '<span class="vnum">' + esc(String(v[0])) + '</span>' + esc(v[1]) + ' ';
@@ -108,7 +108,7 @@ function readRender(canonId, doy) {
     out = groups.map(function (g) {
       var s = all[g.n - 1];
       if (!s) return '';
-      return '<div class="chaphead">' + s.n + '. ' + esc(s.name) + ' — ' + esc(s.tr) + '</div>' +
+      return '<div class="chaphead">' + s.n + '. ' + esc(s.name) + ': ' + esc(s.tr) + '</div>' +
              readVerses(g.v.map(function (a) { return [a, s.v[a - 1] || '']; }));
     }).join('');
 
@@ -188,7 +188,7 @@ function readCanonState(canonId) {
 
 /* Pull an entire canon onto the device. Same-origin script loads, so this is seconds
    rather than the forty-minute polite crawl the live-fetch design would have needed
-   — and it asks nothing of anyone else's servers. */
+   , and it asks nothing of anyone else's servers. */
 function readSaveCanon(canonId, onProgress) {
   var w = readWorkOf(canonId);
   if (!w || !FL_LIBRARY[w]) return Promise.reject(new Error('unknown canon'));
