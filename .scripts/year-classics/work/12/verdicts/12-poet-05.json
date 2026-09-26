@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-05",
+ "verdict": "VERIFIED",
+ "quote": "If any of you should find him, would you be so very kind as to give him back to us?... We need him for our happiness, later on.",
+ "source": "Maurice Maeterlinck, The Blue Bird, Act VI, scene 2, The Awakening, the closing lines (Tyltyl) (trans. Alexander Teixeira de Mattos, 1910)",
+ "speaker": "Tyltyl",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 8606, The Blue Bird: A Fairy Play in Six Acts, trans. Alexander Teixeira de Mattos (six act edition, 1910), downloaded and read",
+  "edition": "Teixeira de Mattos, six act edition, Methuen / Dodd, Mead, 1910",
+  "locator": "ACT VI, SCENE 2, The Awakening, Tyltyl's address to the audience immediately before CURTAIN, the last words of the play",
+  "url": "https://www.gutenberg.org/cache/epub/8606/pg8606.txt"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim as the last speech before CURTAIN, stage direction stepping to the front of the stage and addressing the audience. The edition ends on four points, closed to a full stop as on the October and November cards; year 1910 because Act VI exists only in the six act edition. This would be Maeterlinck's third and last, and his third Blue Bird card in three months, which the editor may weigh."
+}

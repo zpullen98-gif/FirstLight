@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-01",
+ "verdict": "VERIFIED",
+ "quote": "In the middle of winter I at last discovered that there was in me an invincible summer.",
+ "source": "Albert Camus, Return to Tipasa, the end of the first section, The Myth of Sisyphus and Other Essays (trans. Justin O’Brien, 1955)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "archive.org OCR of a reprint of O’Brien’s The Myth of Sisyphus and Other Essays (Vintage International printing), read in place in Return to Tipasa; Wikiquote’s Return to Tipasa entry for the context and the rival 1968 Kennedy wording",
+  "edition": "Justin O’Brien, The Myth of Sisyphus and Other Essays, Knopf, 1955 (read in a later Vintage printing)",
+  "locator": "Return to Tipasa, the last sentence before the ornament that breaks the essay, p. 202 of the printing read",
+  "url": "https://archive.org/details/the-myth-of-sisyphus_202509"
+ },
+ "confidence": "high",
+ "reason": "The scan reads word for word as proposed, closing the first section just before the printed ornament; the popular depths-of-winter wording is Ellen Conroy Kennedy’s 1968 version, not O’Brien’s. Not shipped, Camus at 1 of 3; the editor must note the Camus carry-in 02-cfl-07 also fits December, and only one may land."
+}

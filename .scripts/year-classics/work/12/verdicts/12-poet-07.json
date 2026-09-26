@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-07",
+ "verdict": "VERIFIED",
+ "quote": "a crystal willow, a poplar of water, / a tall fountain the wind arches over, / a tree deep-rooted yet dancing still, / a course of a river that turns, moves on, / doubles back, and comes full circle, / forever arriving.",
+ "source": "Octavio Paz, Sunstone, the closing six lines (trans. Eliot Weinberger, 1987)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "archive.org full text of a 2004 Burning Man Books (Scriptor Press) printing of Sunstone in the Weinberger text, which prints the opening and the closing six lines with this wording and lineation; the same six lines, same lineation, quoted in José Quiroga's criticism on Encyclopedia.com, whose sources list the Weinberger Collected Poems, New Directions, pp. 3 to 35. The New Directions page itself was not seen",
+  "edition": "Eliot Weinberger, The Collected Poems of Octavio Paz 1957 to 1987, New Directions, 1987",
+  "locator": "the last six lines, repeating the first six; the poem ends on a colon, closed here to a full stop",
+  "url": "https://archive.org/stream/BM332004paz/BM33_2004_paz_djvu.txt"
+ },
+ "confidence": "medium",
+ "reason": "Wording and six line lineation read in a printed reprint of the Weinberger text and in published criticism, both ending on forever arriving with a colon; the closing lines repeat the opening exactly, preceded by the sun's magic of mirrors revived. Medium only because the New Directions page was not seen."
+}

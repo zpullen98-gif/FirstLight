@@ -72,9 +72,10 @@
    ]
   },
   "dante alighieri": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    12
    ]
   },
   "hannah arendt": {
@@ -207,9 +208,10 @@
    ]
   },
   "albert camus": {
-   "count": 1,
+   "count": 2,
    "months": [
-    1
+    1,
+    12
    ]
   },
   "philip larkin": {
@@ -219,10 +221,11 @@
    ]
   },
   "mencius": {
-   "count": 2,
+   "count": 3,
    "months": [
     2,
-    4
+    4,
+    12
    ]
   },
   "naomi shihab nye": {
@@ -238,10 +241,11 @@
    ]
   },
   "etty hillesum": {
-   "count": 2,
+   "count": 3,
    "months": [
     2,
-    10
+    10,
+    12
    ]
   },
   "william wordsworth": {
@@ -457,9 +461,10 @@
    ]
   },
   "seamus heaney": {
-   "count": 1,
+   "count": 2,
    "months": [
-    3
+    3,
+    12
    ]
   },
   "henri-frederic amiel": {
@@ -493,9 +498,10 @@
    ]
   },
   "horace": {
-   "count": 1,
+   "count": 2,
    "months": [
-    3
+    3,
+    12
    ]
   },
   "sarah orne jewett": {
@@ -605,10 +611,11 @@
    ]
   },
   "dorothy wordsworth": {
-   "count": 2,
+   "count": 3,
    "months": [
     4,
-    10
+    10,
+    12
    ]
   },
   "al-ghazali": {
@@ -775,9 +782,10 @@
    ]
   },
   "zora neale hurston": {
-   "count": 1,
+   "count": 2,
    "months": [
-    5
+    5,
+    12
    ]
   },
   "leonardo da vinci": {
@@ -814,10 +822,11 @@
    ]
   },
   "anne bradstreet": {
-   "count": 2,
+   "count": 3,
    "months": [
     5,
-    10
+    10,
+    12
    ]
   },
   "samuel butler": {
@@ -890,9 +899,10 @@
    ]
   },
   "hans christian andersen": {
-   "count": 1,
+   "count": 2,
    "months": [
-    6
+    6,
+    12
    ]
   },
   "oscar wilde": {
@@ -1089,9 +1099,10 @@
    ]
   },
   "virginia woolf": {
-   "count": 1,
+   "count": 2,
    "months": [
-    8
+    8,
+    12
    ]
   },
   "augustine of hippo": {
@@ -1345,10 +1356,11 @@
    ]
   },
   "maurice maeterlinck": {
-   "count": 2,
+   "count": 3,
    "months": [
     10,
-    11
+    11,
+    12
    ]
   },
   "thich nhat hanh": {
@@ -1469,6 +1481,120 @@
    "count": 1,
    "months": [
     11
+   ]
+  },
+  "hiratsuka raicho": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "ludwig van beethoven": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "ernst bloch": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "oodgeroo noonuccal": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "anne sullivan": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "ralph waldo emerson": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "octavio paz": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "alexandre dumas": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "teresa of avila": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "g. k. chesterton": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "yosano akiko": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "vaclav havel": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "abraham lincoln": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "frances hodgson burnett": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "arthur rimbaud": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "e. b. white": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "franz rosenzweig": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "thomas hardy": {
+   "count": 1,
+   "months": [
+    12
+   ]
+  },
+  "tony kushner": {
+   "count": 1,
+   "months": [
+    12
    ]
   }
  }

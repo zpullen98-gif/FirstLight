@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-03",
+ "verdict": "VERIFIED",
+ "quote": "Whither, then, do the wings of the gate open? Thou knowest it not? INTO LIFE.",
+ "source": "Franz Rosenzweig, The Star of Redemption, Part III, Gate, the closing sentences, p. 424 (trans. William W. Hallo, 1971)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Open Library search inside the archive.org scans of Hallo’s translation (Holt, Rinehart and Winston 1971 and Beacon 1972), both reading the closing words just before the Indices; Maybaum’s Trialogue and Santner’s On the Psychotheology of Everyday Life quote the same wording, Santner citing p. 424",
+  "edition": "William W. Hallo, The Star of Redemption, Holt, Rinehart and Winston, 1971, from the second German edition of 1930",
+  "locator": "Part III, the closing section Gate, the last three sentences of the book, p. 424",
+  "url": "https://archive.org/details/starofredemption0000rose"
+ },
+ "confidence": "medium",
+ "reason": "Both Hallo scans read Whither, then, do the wings of the gate open? Thou knowest it not? INTO LIFE, with Hallo’s capitals. The OCR shows no point after LIFE before the Indices heading, so the terminal stop follows the German INS LEBEN. and house rule 6. Not shipped, Rosenzweig at 0 of 3."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-12",
+ "verdict": "VERIFIED",
+ "quote": "At first people refuse to believe that a strange new thing can be done, then they begin to hope it can be done, then they see it can be done—then it is done and all the world wonders why it was not done centuries ago.",
+ "source": "Frances Hodgson Burnett, The Secret Garden, chapter XXVII, In the Garden, opening paragraph (Frederick A. Stokes, 1911)",
+ "speaker": "",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #113, The Secret Garden",
+  "edition": "Gutenberg #113, text of the 1911 first edition",
+  "locator": "Chapter XXVII, In the Garden, fourth sentence of the opening paragraph",
+  "url": "https://www.gutenberg.org/cache/epub/113/pg113.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence opens the last chapter's first paragraph exactly as proposed, with the single dash before then it is done. It is the narrator's own voice, so no speaker. Burnett is at zero of three and nothing shipped."
+}

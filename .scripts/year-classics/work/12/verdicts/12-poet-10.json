@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-10",
+ "verdict": "VERIFIED",
+ "quote": "So little cause for carollings / Of such ecstatic sound / Was written on terrestrial things / Afar or nigh around, / That I could think there trembled through / His happy good-night air / Some blessed Hope, whereof he knew / And I was unaware.",
+ "source": "Thomas Hardy, The Darkling Thrush, the closing stanza, lines 25 to 32, Poems of the Past and the Present (1901)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 3168, transcribed from the Macmillan edition of 1919",
+  "edition": "Poems of the Past and the Present, Macmillan and Co., 1919",
+  "locator": "The Darkling Thrush, fourth and last stanza, dated December 1900",
+  "url": "https://www.gutenberg.org/cache/epub/3168/pg3168.txt"
+ },
+ "confidence": "high",
+ "reason": "Read in full in the Gutenberg text: all eight lines, carollings with two l’s, the capital H of Hope and the final full stop match exactly. The poem is dated December 1900, and it is the closing stanza of a famous poem, which fits December’s hope."
+}

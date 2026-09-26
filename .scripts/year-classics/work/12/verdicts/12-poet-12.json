@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-12",
+ "verdict": "VERIFIED",
+ "quote": "Triumph of living, triumph of breathing, triumph of being!",
+ "source": "Edith Södergran, Triumph of Being, line 5, Septemberlyran (1918) (trans. David McDuff, 1984)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "archive.org full text of Soul Food: Nourishing Poems for Starved Minds (Bloodaxe, 2007), which prints the poem as translated from the Finland Swedish by David McDuff; line position confirmed on The Reader’s printing of the poem",
+  "edition": "David McDuff, Edith Södergran: Complete Poems, Bloodaxe Books, 1984, as reprinted by Bloodaxe",
+  "locator": "line 5, after four opening lines ending that fades last.",
+  "url": "https://archive.org/details/soulfoodnourishi0000unse"
+ },
+ "confidence": "medium",
+ "reason": "The line is word for word in a Bloodaxe anthology that credits McDuff, and it is the fifth line of the poem, the one the title comes from; a whole verse line, one sentence, needing no slash. The Complete Poems page itself was not seen, so the page number is dropped and confidence is medium in case the 1992 revision reworded it."
+}

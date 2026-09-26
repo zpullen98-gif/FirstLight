@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-02",
+ "verdict": "VERIFIED",
+ "quote": "After the wet dark days, the country seems more populous. It peoples itself in the sunbeams. The garden, mimic of spring, is gay with flowers.",
+ "source": "Dorothy Wordsworth, The Alfoxden Journal, the opening entry, 20 January 1798 (ed. William Knight, Macmillan, 1897)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #42856, Journals of Dorothy Wordsworth, vol. I, ed. William Knight (Macmillan, 1897), read directly",
+  "edition": "Journals of Dorothy Wordsworth, ed. William Knight, vol. I (Macmillan, 1897)",
+  "locator": "Alfoxden, January 20th 1798, sentences three to five of the first entry",
+  "url": "https://www.gutenberg.org/cache/epub/42856/pg42856.txt"
+ },
+ "confidence": "high",
+ "reason": "The three sentences stand exactly so in the first Alfoxden entry in Knight, after two sentences on the green paths and the young wheat, so the opening entry is the right locator. Dorothy Wordsworth is at two of three (April, October), not twice in December; nothing shipped."
+}

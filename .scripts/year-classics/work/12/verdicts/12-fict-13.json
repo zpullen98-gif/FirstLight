@@ -1,0 +1,17 @@
+{
+  "id": "12-fict-13",
+  "verdict": "CORRECTED",
+  "quote": "‘Now I’ve got everything,’ Moomintroll said to himself. ‘I’ve got the whole year. Winter too. I’m the first Moomin to have lived through an entire year.’",
+  "source": "Tove Jansson, Moominland Midwinter, chapter 6, The First of Spring, near the close (Moomintroll) (trans. Thomas Warburton, 1958)",
+  "speaker": "Moomintroll",
+  "tradition": "Fiction",
+  "note": "CORRECTED the locator only. The wording matches a reader transcription of the Warburton text at p. 132, but the scans are lending restricted, so it is medium confidence. The proposal said the narrator marks where the tale should stop; that could not be confirmed and is not the book's last line, so the locator now says near the close.",
+  "evidence": {
+    "where": "Reader transcription of the Warburton translation with page number on Goodreads; web reproductions agreeing word for word; chapter list confirming chapter 6, The First of Spring; Internet Archive scans (Avon 1976, FSG 1992) exist but are lending restricted and could not be read",
+    "edition": "Moominland Midwinter, trans. Thomas Warburton (Ernest Benn, 1958); later Farrar, Straus and Giroux reprints",
+    "locator": "chapter 6, The First of Spring, p. 132 in the transcribing reader's edition",
+    "url": "https://www.goodreads.com/user_status/show/1034487508"
+  },
+  "confidence": "medium",
+  "reason": "The line is real and in Warburton's wording, but the proposed locator claimed a narrative marker that could not be found and implied a closing line; the locator is corrected to the chapter and near the close."
+}

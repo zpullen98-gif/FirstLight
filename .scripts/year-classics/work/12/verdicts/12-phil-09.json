@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-09",
+ "verdict": "VERIFIED",
+ "quote": "Hope is definitely not the same thing as optimism. It is not the conviction that something will turn out well, but the certainty that something makes sense, regardless of how it turns out.",
+ "source": "Václav Havel, Disturbing the Peace, p. 181 (trans. Paul Wilson, 1990)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "A peer-reviewed article (Mind & Society, 2020, PMC7247435) that quotes the two sentences verbatim and cites Disturbing the Peace: A Conversation with Karel Hvížďala, trans. Paul Wilson (Knopf, 1990), p. 181; the Yale Forum on Religion and Ecology cites the preceding sentences of the same passage at p. 181 of Wilson; the Havel Center gives pp. 181 to 182. The Knopf scan on archive.org is lending restricted and was not seen.",
+  "edition": "Václav Havel, Disturbing the Peace, trans. Paul Wilson, Alfred A. Knopf, 1990 (first American edition)",
+  "locator": "p. 181, Havel’s answer on hope in the closing conversation",
+  "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7247435/"
+ },
+ "confidence": "medium",
+ "reason": "The wording and page are attested by a scholarly citation of the Knopf edition and agree with every other reprint I reached. The proposed chapter number and title, ch. 5, The Politics of Hope, could not be confirmed against the book this run, so the source ships on the page alone. In scope: a book written for the page, not a speech. Havel 0 of 3, not banned, not shipped."
+}

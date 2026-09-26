@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-03",
+ "verdict": "VERIFIED",
+ "quote": "Fortune, we go forth to reign; / Wake me not if this is vision, / Let me sleep not if ’tis true. / But whichever of them is it, / To act right is what imports me.",
+ "source": "Pedro Calderón de la Barca, Life Is a Dream, Act III, scene IV, the close of the scene (Sigismund) (trans. Denis Florence MacCarthy, 1873)",
+ "speaker": "Sigismund",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 6363, a transcription of the 1873 volume, read in full at the passage",
+  "edition": "Calderon’s Dramas: Life Is a Dream, trans. Denis Florence MacCarthy (London: Henry S. King and Co., 1873)",
+  "locator": "Act the Third, Scene IV, Sigismund's speech after Clotaldo's exit, before the stage direction Exeunt all, drums beating",
+  "url": "https://www.gutenberg.org/cache/epub/6363/pg6363.txt"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in MacCarthy's 1873 translation at Act III, scene IV, with the edition's lineation and a full stop after imports me. The only change is the straight apostrophe in ’tis curled. The Spanish obrar bien es lo que importa is the play's most cited resolution."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-12",
+ "verdict": "VERIFIED",
+ "quote": "Hence, given the right nourishment there is nothing that will not grow, and deprived of it there is nothing that will not wither away.",
+ "source": "Mencius, Mencius, Book VI, Part A, 8 (trans. D. C. Lau, 1970)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "The passage location was confirmed against the Chinese text and Charles Muller’s parallel translation (6A:8, 故苟得其養，無物不長；苟失其養，無物不消); Lau’s English wording is from knowledge of the Penguin translation, as the archive.org Lau scans are lending restricted and Google Books blocked the search this run, so the printed page was not seen",
+  "edition": "D. C. Lau, Mencius, Penguin Classics, 1970",
+  "locator": "Book VI, Part A, 8, the Ox Mountain passage, the sentence before Mencius quotes Confucius on holding on and letting go",
+  "url": "http://www.acmuller.net/con-dao/mencius.html"
+ },
+ "confidence": "medium",
+ "reason": "The Ox Mountain passage is VI.A.8 and this is the sentence that renders its moral, 苟得其養無物不長, in Lau’s wording as I know it; the Lau page itself was not reached, so confidence is medium. Mencius stands at 2 of 3 (months 2 and 4, different passages), is not banned, and the line is not shipped."
+}

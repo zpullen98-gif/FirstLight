@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-13",
+ "verdict": "CORRECTED",
+ "quote": "But we have only begun / to love the earth. / We have only begun / to imagine the fulness of life. / How could we tire of hope? / —so much is in bud.",
+ "source": "Denise Levertov, Beginners, the lines after the Swinburne epigraph, Candles in Babylon (New Directions, 1982)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected wording to the 1982 New Directions text, which spells fulness with one l, and to its lower case line heads: Levertov’s own lines begin to love and to imagine after the capitalised Swinburne quotation. Wording checked in the scan of Candles in Babylon; the lower case in two critical studies that quote the book.",
+ "evidence": {
+  "where": "archive.org full-text search of the scanned first edition of Candles in Babylon (candlesinbabylon00leve), cross-checked against Poems 1972 to 1982 (2001), Collected Poems (2013), Rodgers, Denise Levertov (1993) and Greene, Denise Levertov: A Poet’s Life (2012)",
+  "edition": "Candles in Babylon (New Directions, 1982)",
+  "locator": "Beginners, lines 5 to 10, directly after the four Swinburne lines",
+  "url": "https://archive.org/details/candlesinbabylon00leve"
+ },
+ "confidence": "high",
+ "reason": "The poem, book and place are right, but the scan reads fulness, not fullness, and the critical quotations show to love and to imagine in lower case; the proposal carried the anthology spelling and invented capitals."
+}

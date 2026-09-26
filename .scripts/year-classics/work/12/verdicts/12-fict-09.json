@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-09",
+ "verdict": "VERIFIED",
+ "quote": "Live, then, and be happy, beloved children of my heart, and never forget that until the day when God shall deign to reveal the future to man, all human wisdom is summed up in these two words,—‘Wait and hope.’",
+ "source": "Alexandre Dumas, The Count of Monte Cristo, chapter 117, the farewell letter (Edmond Dantès) (trans. anonymous, Chapman and Hall, 1846)",
+ "speaker": "Edmond Dantès, in his letter to Morrel and Valentine",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #1184, the anonymous English translation first issued by Chapman and Hall in 1846; letter text read directly",
+  "edition": "Anonymous translation (Chapman and Hall, 1846), Gutenberg #1184",
+  "locator": "Chapter 117, The Fifth of October, closing paragraph of the Count's letter, immediately before the signature",
+  "url": "https://www.gutenberg.org/cache/epub/1184/pg1184.txt"
+ },
+ "confidence": "high",
+ "reason": "Wording matches the Gutenberg text of the standard anonymous translation word for word, including the comma and dash before Wait and hope; the letter sits in chapter 117 and the novel ends on Valentine repeating the two words. Dumas is at zero of three and not banned; nothing shipped."
+}

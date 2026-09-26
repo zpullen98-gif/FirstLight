@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-07",
+ "verdict": "REJECT",
+ "quote": "My most honored ladies, may God be praised, for now our City is entirely finished and completed, where all of you who love glory, virtue, and praise may be lodged in great honor, ladies from the past as well as from the present and future, for it has been built and established for every honorable lady.",
+ "source": "Christine de Pizan, The Book of the City of Ladies, III.19.1, p. 254 (trans. Earl Jeffrey Richards, 1982)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive djvu full text of the Richards translation (Persea Books, 1982), downloaded and read in place: contents line 19 at p. 254, and III.19.1 through III.19.6; Wikiquote Christine de Pizan page checked for a fame signal",
+  "edition": "The Book of the City of Ladies, trans. Earl Jeffrey Richards (Persea Books, 1982)",
+  "locator": "Part III, ch. 19, The End of the Book: Christine Addresses the Ladies, III.19.1, first sentence, p. 254",
+  "url": "https://archive.org/details/christine-de-pizan-earl-jeffrey-richards-transl.-the-book-of-the-city-of-ladies-1982"
+ },
+ "confidence": "high",
+ "reason": "Wording verified verbatim at III.19.1, p. 254, but it fails rule 2 a second time: it opens the last chapter, not the book's closing line (five sections follow to III.19.6), the curator's fameTest of closing is wrong, it is not the sentence the work is known by, and no standard reference entry was found (Wikiquote omits it). Same ground on which April dropped a verified Kalidasa."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-11",
+ "verdict": "VERIFIED",
+ "quote": "The day the mountains move has come. / I speak, but no one believes me. / For a time the mountains have been asleep, / But long ago they all danced with fire. / It doesn’t matter if you believe this, / My friends, as long as you believe: / All the sleeping women / Are now awake and moving.",
+ "source": "Yosano Akiko, The Day the Mountains Move, Rambling Thoughts, section 1, Seitō, September 1911 (trans. Laurel Rasplica Rodd, 1991)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "archive.org full-text search of Recreating Japanese Women, 1600 to 1945 (University of California Press, 1991) itself, where the poem is printed in Rodd’s chapter, Yosano Akiko and the Taishō Debate over the New Woman; the credits of The Essential Feminist Reader (2007) and Feminist Theory Reader name Rodd as translator from that volume",
+  "edition": "Recreating Japanese Women, 1600 to 1945, ed. Gail Lee Bernstein, University of California Press, 1991",
+  "locator": "chapter 8, p. 180 (page from Dennis Smith’s note in Japan: A Reinterpretation, which cites Rodd in Bernstein, Recreating, p. 180)",
+  "url": "https://archive.org/details/recreatingjapane0000unse"
+ },
+ "confidence": "high",
+ "reason": "The 1991 volume carries this exact text in Rodd’s own chapter, and two anthologies credit it as translated by Laurel Rasplica Rodd from that book, which settles the translator the proposer held at medium. Every line was matched in snippets, including the colon after believe. Other translations (Bardsley, Rexroth) differ, so the Rodd credit is load bearing."
+}

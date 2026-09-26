@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-14",
+ "verdict": "VERIFIED",
+ "quote": "Imagine you wake up / with a second chance: The blue jay / hawks his pretty wares / and the oak still stands, spreading / glorious shade. If you don’t look back, / the future never happens.",
+ "source": "Rita Dove, Dawn Revisited, lines 1 to 6, On the Bus with Rosa Parks (W. W. Norton, 1999)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "archive.org full-text search of the scanned Norton first edition (onbuswithrosapar00dove), with the Carole Weinstein Poetry Prize reprint and Good Poems for Hard Times (2005) agreeing",
+  "edition": "On the Bus with Rosa Parks (W. W. Norton, 1999)",
+  "locator": "Dawn Revisited, lines 1 to 6",
+  "url": "https://archive.org/details/onbuswithrosapar00dove"
+ },
+ "confidence": "high",
+ "reason": "The scanned 1999 Norton text matches the proposal word for word and line for line, including the capital after the colon."
+}

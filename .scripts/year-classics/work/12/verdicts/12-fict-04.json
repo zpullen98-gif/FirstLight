@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-04",
+ "verdict": "CORRECTED",
+ "quote": "We should be willing to act as a balm for all wounds.",
+ "source": "Etty Hillesum, An Interrupted Life, the last diary entry, October 1942 (trans. Arnold J. Pomerans, 1983)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "The sentence closes the diary as the 1983 selection prints it. In the manuscript a line written in capitals follows it, and the complete edition renders the Dutch as a wish to be a balm on many wounds, so it is not strictly the last sentence of the diaries.",
+ "evidence": {
+  "where": "Pantheon 1983 and Holt 1996 scans on archive.org are lending restricted and could not be read; wording confirmed through the British Library European Studies blog (27 January 2025), Philip Knight's paper citing the Eerdmans complete edition, and consistent secondary quotation of the Pomerans translation",
+  "edition": "An Interrupted Life: The Diaries of Etty Hillesum 1941 to 1943, trans. Arnold J. Pomerans (Pantheon, 1983)",
+  "locator": "final diary entry, October 1942 (dated 10 October by the British Library, 13 October by other sources); Dutch: Men zou een pleister op vele wonden willen zijn",
+  "url": "https://bl.iro.bl.uk/concern/generic_works/c85418ff-f989-4ed1-963d-7a2c4e5787e6"
+ },
+ "confidence": "medium",
+ "reason": "The line is real and is the last sentence of the diaries as Pomerans's 1983 selection prints them, but the proposal called it the closing sentence of the diaries outright; Knight, citing the complete edition, reports a further capitalised line on the last page. The locator is narrowed to the last entry. Hillesum is at two of three; nothing shipped."
+}

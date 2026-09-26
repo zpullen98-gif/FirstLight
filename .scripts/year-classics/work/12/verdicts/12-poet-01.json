@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-01",
+ "verdict": "VERIFIED",
+ "quote": "The world only spins forward. We will be citizens. The time has come. Bye now. You are fabulous creatures, each and every one. And I bless you: More Life. The Great Work Begins.",
+ "source": "Tony Kushner, Angels in America: Perestroika, Epilogue, the closing lines, p. 148 (Prior Walter) (Theatre Communications Group, 1994)",
+ "speaker": "Prior Walter",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive full-text search over the scanned Theatre Communications Group printings of Perestroika (items angelsinamericag00tony and angelsinamericag0001kush, 1996) and the TCG combined edition (isbn_9781559362313, 2003); every scan agrees word for word, with END OF PLAY and page 148 directly below in the single-volume printings",
+  "edition": "Angels in America, Part Two: Perestroika (Theatre Communications Group, 1994; revised printing 1996)",
+  "locator": "Epilogue: Bethesda, February 1990, Prior's address to the audience, the last lines of the play, p. 148",
+  "url": "https://archive.org/details/angelsinamericag0001kush"
+ },
+ "confidence": "high",
+ "reason": "The OCR of the TCG edition itself carries the exact wording, including the colon before More Life and the capitals on More Life and The Great Work Begins, and places it on p. 148 above END OF PLAY. The quotation opens mid-speech after We won't die secret deaths anymore, which is a clean sentence boundary; the edition sets the last four sentences on separate lines for emphasis, but it is dramatic prose, so it ships as prose."
+}

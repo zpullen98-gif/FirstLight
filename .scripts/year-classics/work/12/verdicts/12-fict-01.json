@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-01",
+ "verdict": "VERIFIED",
+ "quote": "Blessed be God, at the end of the last year I was in very good health, without any sense of my old pain, but upon taking of cold.",
+ "source": "Samuel Pepys, The Diary of Samuel Pepys, the opening entry, January 1659/60, vol. I (ed. Henry B. Wheatley, George Bell, 1893)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #4125, the Wheatley text (George Bell and Sons, 1893), read directly",
+  "edition": "The Diary of Samuel Pepys, ed. Henry B. Wheatley, vol. I (George Bell and Sons, 1893)",
+  "locator": "January 1659-1660, the first sentence of the diary",
+  "url": "https://www.gutenberg.org/cache/epub/4125/pg4125.txt"
+ },
+ "confidence": "high",
+ "reason": "The sentence is the first of the diary in Wheatley, word for word and comma for comma; Wheatley's note explains the old pain as the stone he was cut for in 1658. Pepys is at zero of three, not banned, nothing shipped."
+}

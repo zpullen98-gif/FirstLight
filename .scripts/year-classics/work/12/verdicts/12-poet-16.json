@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-16",
+ "verdict": "CORRECTED",
+ "quote": "Look up, my people, / The dawn is breaking, / The world is waking / To a new bright day, / When none defame us, / No restriction tame us, / Nor colour shame us, / Nor sneer dismay.",
+ "source": "Oodgeroo Noonuccal, A Song of Hope, lines 1 to 8, We Are Going (Jacaranda Press, 1964)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "Corrected against the scan of the 1964 Jacaranda first edition, published under the name Kath Walker: it reads a new bright day, not a bright new day, and has commas after breaking, day and each rhyming line. The web transcriptions follow a later reprint.",
+ "evidence": {
+  "where": "archive.org full-text search of the scanned first edition of We Are Going (wearegoing0000kath) and My People (Jacaranda, 1990), both reading To a new bright day with the commas; The Conversation article on the poem agrees on new bright day",
+  "edition": "We Are Going (Jacaranda Press, 1964)",
+  "locator": "A Song of Hope, first stanza, lines 1 to 8",
+  "url": "https://archive.org/details/wearegoing0000kath"
+ },
+ "confidence": "medium",
+ "reason": "The poem and the book are right, but the proposal carried the Creative Spirits transcription; the 1964 and 1990 Jacaranda scans read new bright day and are pointed with commas. OCR punctuation, and the first line not seen in the 1964 snippet, hold it to medium."
+}

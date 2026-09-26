@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-11",
+ "verdict": "VERIFIED",
+ "quote": "Hope means hoping when things are hopeless, or it is no virtue at all.",
+ "source": "G. K. Chesterton, Heretics, ch. XII, Paganism and Mr. Lowes Dickinson (John Lane, 1905)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg text of Heretics (eBook 470), chapter XII, Paganism and Mr. Lowes Dickinson",
+  "edition": "G. K. Chesterton, Heretics, John Lane, The Bodley Head, 1905",
+  "locator": "ch. XII, the paragraph on the three paradoxical virtues: charity, hope and faith",
+  "url": "https://www.gutenberg.org/ebooks/470"
+ },
+ "confidence": "high",
+ "reason": "The sentence stands whole in chapter XII between the matching sentences on charity and faith, in exactly this wording. It is the book’s famous line, and the passage goes on to say the virtue of hope exists only in earthquake and eclipse, which suits the dark month. Chesterton 0 of 3, not banned, not shipped."
+}

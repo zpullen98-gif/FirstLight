@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-05",
+ "verdict": "VERIFIED",
+ "quote": "From these pages I hope at least the following will endure: my trust in the people, and my faith in men and in the creation of a world in which it will be easier to love.",
+ "source": "Paulo Freire, Pedagogy of the Oppressed, Preface, the closing paragraph before the thanks (trans. Myra Bergman Ramos, 1970)",
+ "speaker": "",
+ "tradition": "Philosophy",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive scan of the Penguin Education printing of the Myra Bergman Ramos translation, text extracted and the Preface read to its end",
+  "edition": "trans. Myra Bergman Ramos (Herder and Herder, 1970; Penguin Education reprint)",
+  "locator": "Preface, the paragraph immediately before the thanks to Elza",
+  "url": "https://archive.org/details/PedagogyOfTheOppressed-English-PauloFriere"
+ },
+ "confidence": "high",
+ "reason": "Located verbatim, punctuation included, as the last paragraph of the Preface before the acknowledgements in the Ramos translation. The 30th anniversary revision of 2000 reads men and women, so the source rightly names the 1970 translation whose wording this is."
+}

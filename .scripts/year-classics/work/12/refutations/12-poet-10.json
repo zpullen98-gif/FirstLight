@@ -1,0 +1,8 @@
+{
+ "id": "12-poet-10",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "I downloaded Project Gutenberg eBook 3168 myself (credits: transcribed from the 1919 Macmillan and Co. Wessex edition) and read the poem. The fourth and last stanza reads: So little cause for carollings / Of such ecstatic sound / Was written on terrestrial things / Afar or nigh around, / That I could think there trembled through / His happy good-night air / Some blessed Hope, whereof he knew / And I was unaware. That matches the card to the letter, including the capital H of Hope, the comma after around and the hyphen in good-night. The poem has four eight-line stanzas, so lines 25 to 32 is right, and the text is dated December 1900. Hardy speaks in his own voice, no speaker owed, nothing on the misattribution list. shipped.js: not shipped, no near opening, Hardy at 0 of 3, not banned. In scope, publishable, the closing stanza of a work (rule 2 met on its face), and it turns winter bleakness into hope, which is December's theme exactly. Source line 111 characters, leads with the name, no dash; tag Poetry is the form. One soft point: the source dates the book 1901 while the wording was checked in the 1919 Wessex text. The first edition was issued in November 1901 (title page dated 1902) and I know of no revision to this stanza between the two, but I could not open the 1901 printing itself. The poem's first appearance, in The Graphic of 29 December 1900 under the title By the Century's Deathbed, should not be cited in its place.",
+ "evidence": {"where": "gutenberg.org/cache/epub/3168/pg3168.txt, downloaded and grepped this run (lines 2841 to 2880)", "locator": "The Darkling Thrush, stanza 4, lines 25 to 32, dated December 1900"}
+}

@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-08",
+ "verdict": "VERIFIED",
+ "quote": "And, in the dawn, armed with an ardent patience, we shall enter magnificent cities.",
+ "source": "Arthur Rimbaud, A Season in Hell, Farewell, the second to last paragraph (trans. Louise Varèse, 1961)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "archive.org full text of the New Directions paperbook A Season in Hell and The Drunken Boat, translated by Louise Varèse (copyright 1945, 1952, 1961; NDP97 1961, reissued 2011); confirmed by archive.org full-text hits in The Art and Craft of Poetry (1981) and God at the Edge (2000) with identical wording",
+  "edition": "Louise Varèse, A Season in Hell and The Drunken Boat, New Directions, 1961 (revising the 1945 translation)",
+  "locator": "Farewell, the paragraph beginning Meanwhile this is the vigil, second to last before the date April-August 1873",
+  "url": "https://archive.org/stream/a-season-in-hell-and-the-drunken-boat-arthur-rimbaud/A_Season_in_Hell_and_The_Drunken_Boat_-_Arthur_Rimbaud_djvu.txt"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in the Varèse New Directions text, including the leading And and the commas. Dated 1961 because that revised text is the one read; the 1945 wording was not seen. Not shipped, Rimbaud at none of three, not banned, and the line is famous (Neruda closed his Nobel lecture on it)."
+}

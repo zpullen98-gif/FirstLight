@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-10",
+ "verdict": "CORRECTED",
+ "quote": "Our life is an apprenticeship to the truth, that around every circle another can be drawn; that there is no end in nature, but every end is a beginning; that there is always another dawn risen on mid-noon, and under every deep a lower deep opens.",
+ "source": "Ralph Waldo Emerson, Circles, Essays, Essay X, the opening paragraph, p. 249 (James Munroe, 1841)",
+ "tradition": "Essay",
+ "speaker": "",
+ "note": "The locator was corrected. In the 1841 James Munroe edition this sentence closes the opening paragraph of Essay X on page 249; it is not the second paragraph. Later editions print a verse motto above the essay, and the 1841 page has none. The wording, with its comma after truth, is the 1841 text.",
+ "evidence": {
+  "where": "The page image and OCR of the 1841 Boston James Munroe first edition of Essays on archive.org (emersonralessays00emerrich), page 249, checked against a second 1841 Munroe scan (essays20emergoog); the later Project Gutenberg text drops the comma after truth",
+  "edition": "Ralph Waldo Emerson, Essays, James Munroe and Company, Boston, 1841",
+  "locator": "Essay X, Circles, p. 249, last sentence of the first paragraph (page 250 begins mid-paragraph two)",
+  "url": "https://archive.org/details/emersonralessays00emerrich"
+ },
+ "confidence": "high",
+ "reason": "Seen on the printed 1841 page: the wording matches to the letter, but the sentence ends the essay’s first paragraph, not the second, and the book of 1841 was titled Essays rather than First Series. Emerson 0 of 3 and not shipped; the editor should note that another Emerson carry-in (05-phil-04, Trust thyself) is also offered for December and only one may land."
+}

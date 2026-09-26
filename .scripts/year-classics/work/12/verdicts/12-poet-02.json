@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "History says, Don’t hope / On this side of the grave. / But then, once in a lifetime / The longed-for tidal wave / Of justice can rise up, / And hope and history rhyme.",
+ "source": "Seamus Heaney, The Cure at Troy, near the close, the second stanza of Human beings suffer (Chorus) (Noonday Press, 1991)",
+ "speaker": "Chorus",
+ "tradition": "Drama",
+ "note": "Corrected the capital: the printed play reads History says, Don’t hope, and so do Opened Ground and 100 Poems. The wording was checked in the Noonday text of 1991, the American issue of the Faber and Field Day edition of 1990; Heaney’s later collections change the stop after grave to a comma.",
+ "evidence": {
+  "where": "Internet Archive full-text search over the scanned book itself (cureattroyvers00hean, New York: Noonday Press, 1991), cross-checked against the scans of Opened Ground (1998) and 100 Poems (Faber, 2018)",
+  "edition": "The Cure at Troy: A Version of Sophocles’ Philoctetes (Noonday Press, 1991)",
+  "locator": "the Chorus speech that begins Human beings suffer, second six-line stanza, near the close of the play; page number not recovered",
+  "url": "https://archive.org/details/cureattroyvers00hean"
+ },
+ "confidence": "high",
+ "reason": "The line is real and correctly placed, but the proposal lowercased don’t on a theory about the stanza; the edition prints Don’t with a capital, as every Heaney printing found does. Wording otherwise agrees, including the full stop after grave and the comma after rise up in the play text."
+}

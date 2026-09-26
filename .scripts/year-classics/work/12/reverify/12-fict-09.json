@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-09",
+ "verdict": "CORRECTED",
+ "quote": "Live, then, and be happy, beloved children of my heart! and never forget, that until the day when God will deign to reveal the future to man, all human wisdom is contained in these two words,— ‘Wait and hope.’",
+ "source": "Alexandre Dumas, The Count of Monte Cristo, The Fifth of October, vol. II p. 463 (Edmond Dantès) (trans. anonymous, Chapman and Hall, 1846)",
+ "speaker": "Edmond Dantès, Count of Monte Cristo, in his farewell letter to Maximilian Morrel",
+ "tradition": "Fiction",
+ "note": "The wording is corrected to the Chapman and Hall printing of 1846, read in its page images. That printing has will deign and is contained where the Project Gutenberg text has shall deign and is summed up. The locator is now the volume and page of that edition.",
+ "evidence": {
+  "where": "Page images of the Chapman and Hall 1846 edition, vol. II (Oxford copy scanned by Google), read directly; cross-checked against Routledge 1888 vol. V, Donohue 1895 and Collins 1900 text layers, all of which agree with 1846",
+  "edition": "The Count of Monte-Cristo, London: Chapman and Hall, 1846, 2 vols., anonymous translation, vol. II",
+  "locator": "vol. II p. 463, running head The Fifth of October, closing paragraph of the Count's letter before the signature",
+  "url": "https://archive.org/details/countmontecrist03dumagoog/page/n501"
+ },
+ "confidence": "high",
+ "reason": "The refutation was right that the Gutenberg wording is not the 1846 wording; the 1846 page itself reads will deign and is contained, matching every other reprint checked. The line is real and correctly attributed, so it ships in the named edition's wording. Dumas is at zero of three, not banned, nothing shipped."
+}

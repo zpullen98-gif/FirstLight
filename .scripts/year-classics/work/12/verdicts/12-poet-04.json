@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-04",
+ "verdict": "VERIFIED",
+ "quote": "Do you believe in fairies? Say quick that you believe! If you believe, clap your hands!",
+ "source": "J. M. Barrie, Peter Pan, Act IV, The Home Under the Ground, near the close (Peter) (Charles Scribner’s Sons, 1928)",
+ "speaker": "Peter",
+ "tradition": "Drama",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 78131, transcribed from the Scribner 1928 edition, read at the passage",
+  "edition": "Peter Pan, or The Boy Who Would Not Grow Up (New York: Charles Scribner’s Sons, 1928)",
+  "locator": "Act IV, The Home Under the Ground, Peter's appeal to the audience after Tink drinks the poison, just before Act V",
+  "url": "https://www.gutenberg.org/cache/epub/78131/pg78131.txt"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim in the 1928 Scribner text; the three sentences run continuously with no stage direction between them. Tink is saved in the next direction, so the line carries no content-warning weight. Barrie stands at one of three, from month 11, and this is a different line."
+}

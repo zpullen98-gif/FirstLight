@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-02",
+ "verdict": "CORRECTED",
+ "quote": "History says, Don’t hope / On this side of the grave. / But then, once in a lifetime / The longed-for tidal wave / Of justice can rise up, / And hope and history rhyme.",
+ "source": "Seamus Heaney, The Cure at Troy, near the close, third stanza of the speech Human beings suffer (Chorus) (Noonday Press, 1991)",
+ "speaker": "Chorus",
+ "tradition": "Drama",
+ "note": "Corrected two things. The printed play capitalises Don’t after History says. The lines open the third stanza of the Chorus speech Human beings suffer, not the second: the stanza of the innocent in gaols comes between. Wording and pointing follow the Noonday text of 1991, the American issue of the Faber and Field Day edition of 1990.",
+ "evidence": {
+  "where": "The first re-verifier's and the refuter's Internet Archive full-text searches over the Noonday scan (cureattroyvers00hean, lending restricted, metadata confirmed this run: New York, Noonday Press, 1991), which agree on wording and give the stanza order; my own knowledge of the speech agrees with that order. The in-book search endpoint returned 403 to me this run.",
+  "edition": "The Cure at Troy: A Version of Sophocles’ Philoctetes (New York: Noonday Press, 1991)",
+  "locator": "the Chorus speech that begins Human beings suffer, near the close of the play: stanza one Human beings suffer, stanza two The innocent in gaols, stanza three History says; page number not recovered",
+  "url": "https://archive.org/details/cureattroyvers00hean"
+ },
+ "confidence": "high",
+ "reason": "The line is real, correctly attributed and publishable, and both checks of the Noonday scan agree on its wording with the capital D; only the locator was wrong, since the refutation shows it opens the third stanza, which matches the known order of the speech. Heaney is at one of three, nothing shipped or near."
+}

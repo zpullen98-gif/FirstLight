@@ -1,0 +1,7 @@
+{
+ "id": "12-fict-01",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "Could not break it. Re-read Project Gutenberg #4125 (the Wheatley/Bright text, with Wheatley's bracketed notes): under the heading JANUARY 1659-1660 the diary's first sentence reads, to the letter and comma, 'Blessed be God, at the end of the last year I was in very good health, without any sense of my old pain, but upon taking of cold.' Wheatley's vol. I is George Bell and Sons, 1893, so edition and locator hold. shipped.js: not shipped, no near match, Pepys at 0 of 3, not banned. Attribution undisputed (opening sentence of the Diary, famous as such, rule 2). In scope (diary, 1660, published 1825 onward), Diary is the right tag, publishable (the old pain is the stone, not described). Source leads with the name, no dash, no straight quote, 126 characters. Two small cautions only: 'the opening entry' is really the opening sentence, which stands before the dated Jan. 1st entry, so 'the opening sentence' would be more exact; and '1659/60' carries a bare slash that the card uses for verse breaks (without spaces, so it should not trip the parser, but 'January 1660 N.S.' avoids the risk). Theme fit is modest (a year-end health report that opens a nine-year diary), which is the editor's call, not a refutation."
+}

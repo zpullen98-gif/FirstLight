@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-09",
+ "verdict": "VERIFIED",
+ "quote": "I mean, you must take living so seriously / that even at seventy, for example, you’ll plant olive trees— / and not for your children, either, / but because although you fear death you don’t believe it, / because living, I mean, weighs heavier.",
+ "source": "Nâzim Hikmet, On Living, Part I, the closing lines, in Poems of Nazim Hikmet (trans. Randy Blasing and Mutlu Konuk, 1994)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "poets.org text of On Living, whose credit line reads From Poems of Nazim Hikmet, translated by Randy Blasing and Mutlu Konuk, Persea Books, copyright 1994",
+  "edition": "Poems of Nazim Hikmet, trans. Randy Blasing and Mutlu Konuk, Persea Books, 1994",
+  "locator": "Part I, the last five lines, ending weighs heavier.",
+  "url": "https://poets.org/poem/living"
+ },
+ "confidence": "high",
+ "reason": "The five lines match the poets.org text word for word, dash after olive trees and full stop after heavier included, and close Part I. The year is set to 1994, the Persea volume whose credit the checked text carries and the edition the May Hikmet verdict already cites; the 1986 Selected Poetry was not seen."
+}

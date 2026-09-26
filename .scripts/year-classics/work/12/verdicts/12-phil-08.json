@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-08",
+ "verdict": "VERIFIED",
+ "quote": "In the beginning, woman was truly the sun. An authentic person.",
+ "source": "Hiratsuka Raichō, In the Beginning, Woman Was the Sun, the Seitō manifesto (September 1911), opening sentences (trans. Teruko Craig, 2006)",
+ "speaker": "",
+ "tradition": "Essay",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive full-text search inside the Craig translation (inbeginningwoman0000hira, lending restricted), which returns this wording in four places; Bardsley and Tomida print the same two sentences",
+  "edition": "In the Beginning, Woman Was the Sun: The Autobiography of a Japanese Feminist, trans. Teruko Craig (Columbia University Press, 2006)",
+  "locator": "the manifesto’s opening as quoted in the autobiography and the translator’s introduction",
+  "url": "https://archive.org/details/inbeginningwoman0000hira"
+ },
+ "confidence": "high",
+ "reason": "Craig’s text reads exactly In the beginning, woman was truly the sun. An authentic person., lower case as proposed; Bardsley capitalises Woman and Sun, so the Craig wording is the one named. The line stops before the bleak moon sentence that follows, and the manifesto is the most famous opening in Japanese feminism."
+}

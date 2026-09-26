@@ -1,0 +1,15 @@
+{
+ "month": 12,
+ "MM": "12",
+ "lanesMissing": [
+  "philosophy",
+  "poetry-drama",
+  "fiction-essay",
+  "cfl"
+ ],
+ "proposals": 0,
+ "needVerdict": [],
+ "needRefute": [],
+ "needReverify": [],
+ "hasMonth": false
+}

@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-05",
+ "verdict": "VERIFIED",
+ "quote": "You can not now realize that you will ever feel better. Is not this so? And yet it is a mistake. You are sure to be happy again.",
+ "source": "Abraham Lincoln, Letter to Fanny McCullough, 23 December 1862, Collected Works, ed. Roy P. Basler, vol. 6 (1953)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive full-text search across dozens of printed editions (Robinson, Abraham Lincoln as a Man of Letters 1918; The Works of Abraham Lincoln 1908; The Lincoln Ideals 1959; Basler, Lincoln 1975; Lincoln in His Own Words 1993; Of the People, citing the Basler Collected Works) all giving this exact run of sentences with 'can not' as two words; House Divided Project transcription of the full letter.",
+  "edition": "The Collected Works of Abraham Lincoln, ed. Roy P. Basler (Rutgers University Press, 1953), vol. 6",
+  "locator": "letter of 23 December 1862, Executive Mansion; vol. 6, pp. 16 to 17 by recollection, page not opened",
+  "url": "https://housedivided.dickinson.edu/sites/lincoln/letter-to-fanny-mccullough-december-23-1862/"
+ },
+ "confidence": "high",
+ "reason": "The wording, including the two-word 'can not' and the question, matches every printed text of the letter; a letter on the page, which is where the brief asks for Lincoln. Not shipped, Lincoln at zero of three, not banned."
+}

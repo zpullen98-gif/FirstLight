@@ -1,0 +1,7 @@
+{
+ "id": "12-fict-10",
+ "refuted": false,
+ "reason": "I read the raw HTML of the named page (andersen.sdu.dk, Hersholt, The Complete Andersen). Its final paragraph ends: 'He rustled his feathers and held his slender neck high, as he cried out with full heart: \"I never dreamed there could be so much happiness, when I was the ugly duckling.\"' The wording matches word for word. Only the inner straight double quotes have become curly single quotes, which is house style. It is the closing sentence of the tale, so the locator is right. The swan is named as speaker. Hersholt's Complete Andersen dates from 1949. shipped.js shows nothing shipped and nothing near, and Andersen stands at 1 of 3 (June). The source is 104 characters, leads with the name and has no dash. Fiction is the right tag. A closing line and a line of renewal, so it fits December and I could not break it.",
+ "betterCitation": "",
+ "wordingChecked": true
+}

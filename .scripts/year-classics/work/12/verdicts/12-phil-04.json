@@ -1,0 +1,17 @@
+{
+ "id": "12-phil-04",
+ "verdict": "VERIFIED",
+ "quote": "Thus our happiness will never consist (and it is right that it should not consist) in complete enjoyment, which would leave nothing more to be desired and would make our mind stupid; but it must consist in a perpetual progress to new pleasures and new perfections.",
+ "source": "Gottfried Wilhelm Leibniz, The Principles of Nature and of Grace, section 18, the closing sentence, p. 424 (trans. Robert Latta, 1898)",
+ "tradition": "Philosophy",
+ "speaker": "",
+ "note": "",
+ "evidence": {
+  "where": "archive.org OCR of Latta’s 1898 Clarendon Press volume (Cornell copy), read in place; viachrista.org transcription of the same text agrees",
+  "edition": "Robert Latta, The Monadology and Other Philosophical Writings, Oxford, Clarendon Press, 1898",
+  "locator": "Principles of Nature and of Grace, section 18, the closing sentence, p. 424 (running head confirms the page)",
+  "url": "https://archive.org/details/cu31924016874038"
+ },
+ "confidence": "high",
+ "reason": "Latta’s p. 424 reads exactly as proposed, with his bracketed gloss [esprit] after mind, which is the translator’s editorial insertion and rightly dropped. It is the last sentence of the treatise. Not shipped, Leibniz at 0 of 3, not banned."
+}

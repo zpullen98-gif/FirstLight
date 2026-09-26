@@ -1,0 +1,17 @@
+{
+  "id": "12-fict-13",
+  "verdict": "REJECT",
+  "quote": "‘Now I’ve got everything,’ Moomintroll said to himself. ‘I’ve got the whole year. Winter too. I’m the first Moomin to have lived through an entire year.’",
+  "source": "Tove Jansson, Moominland Midwinter, chapter 6, The First of Spring (Moomintroll) (trans. Thomas Warburton, 1958)",
+  "speaker": "Moomintroll",
+  "tradition": "Fiction",
+  "note": "",
+  "evidence": {
+    "where": "The first verdict and the refutation on file (a reader's page-by-page transcription of the Warburton text on Goodreads, the line at p. 132 of 176, with later passages at pp. 136 to 150). I re-fetched the same Goodreads reader's status page, which now shows p. 150 of 176 and later material. No web search budget was left and no printed page was seen.",
+    "edition": "Moominland Midwinter, trans. Thomas Warburton (Ernest Benn, 1958)",
+    "locator": "chapter 6, The First of Spring, about p. 132 of 176 in the transcribing reader's edition",
+    "url": "https://www.goodreads.com/user_status/show/1034487508"
+  },
+  "confidence": "medium",
+  "reason": "The wording and attribution look genuine, but the line fails rule 2 twice. It is not the opening or closing line, since at least a fifth of the book follows it. It is not the sentence the book is known by, and no standard reference entry was found. The proposed closing locator was also inaccurate."
+}

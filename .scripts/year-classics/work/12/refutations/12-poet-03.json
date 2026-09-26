@@ -1,0 +1,7 @@
+{
+ "id": "12-poet-03",
+ "refuted": false,
+ "reason": "Could not break it. Gutenberg eBook 6363 has the 1873 Henry S. King title page (Calderon’s Dramas, trans. Denis Florence Mac-Carthy, London, 1873), and Act the Third, Scene IV ends with Sigismund: Fortune, we go forth to reign; / Wake me not if this is vision, / Let me sleep not if ’tis true. / But whichever of them is it, / To act right is what imports me. The wording, the pointing and the line heads match exactly. The full stop after imports me is MacCarthy’s own, so the quotation ends on a complete sentence. The speaker is named and the scene numbering is MacCarthy’s. Calderón is not banned and has no lines this year, and shipped.js finds nothing shipped or near. Source is 138 characters, within the cap, leads with the name, no dash. Drama is the right tag. Two small caveats. The close of the scene is loose, because the speech runs three more lines (If ’tis true, because it is so; ...) before Exeunt, so the quotation is the opening of the scene’s closing speech. And on fame, the Spanish obrar bien es lo que importa is the play’s widely quoted moral, but I had no web search this run to confirm a standard-reference entry, so rule 2 rests on that and not on a checked reference.",
+ "betterCitation": "",
+ "wordingChecked": true
+}

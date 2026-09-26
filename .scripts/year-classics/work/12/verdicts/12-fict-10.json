@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-10",
+ "verdict": "VERIFIED",
+ "quote": "He rustled his feathers and held his slender neck high, as he cried out with full heart: ‘I never dreamed there could be so much happiness, when I was the ugly duckling.’",
+ "source": "Hans Christian Andersen, The Ugly Duckling, the closing sentence (the swan) (trans. Jean Hersholt, 1949)",
+ "speaker": "the ugly duckling, now a swan",
+ "tradition": "Fiction",
+ "note": "",
+ "evidence": {
+  "where": "The Hans Christian Andersen Centre, University of Southern Denmark, Hersholt translation page",
+  "edition": "Jean Hersholt, The Complete Andersen (1949)",
+  "locator": "final sentence of the tale",
+  "url": "https://andersen.sdu.dk/vaerk/hersholt/TheUglyDuckling_e.html"
+ },
+ "confidence": "high",
+ "reason": "The Andersen Centre's Hersholt text ends with exactly this sentence; only the inner double quotes become curly single quotes by house style. Andersen stands at one of three (June), so he may appear once in December."
+}

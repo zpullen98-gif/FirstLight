@@ -1,0 +1,17 @@
+{
+ "id": "12-poet-06",
+ "verdict": "VERIFIED",
+ "quote": "From the most holy water I returned / Regenerate, in the manner of new trees / That are renewed with a new foliage, / Pure and disposed to mount unto the stars.",
+ "source": "Dante Alighieri, Purgatorio, Canto XXXIII, lines 142 to 145, the closing lines (trans. Henry Wadsworth Longfellow, 1867)",
+ "speaker": "",
+ "tradition": "Poetry",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook 1002, Divine Comedy, Longfellow's Translation, Purgatory, downloaded and read",
+  "edition": "Henry Wadsworth Longfellow, The Divine Comedy of Dante Alighieri: Purgatorio, 1867",
+  "locator": "Canto XXXIII, the final tercet and closing single line (lines 142 to 145), after Matilda leads him to Eunoe",
+  "url": "https://www.gutenberg.org/cache/epub/1002/pg1002.txt"
+ },
+ "confidence": "high",
+ "reason": "Read verbatim as the last four lines of the canticle, lineation and line-head capitals as printed. Not shipped; Dante stands at one of three (month 1), so this is his second."
+}

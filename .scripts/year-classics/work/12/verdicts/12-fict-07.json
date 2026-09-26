@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-07",
+ "verdict": "VERIFIED",
+ "quote": "I will seize Fate by the throat; it shall certainly not bend and crush me completely — Oh, it would be so lovely to live a thousand lives.",
+ "source": "Ludwig van Beethoven, Letter to Franz Gerhard Wegeler, 16 November 1801, The Letters of Beethoven, vol. I (trans. Emily Anderson, 1961)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive full-text search of several scans of Emily Anderson, The Letters of Beethoven (Macmillan, 1961), vol. I, giving 'crush me completely — Oh, it would be so lovely to live a thousand lives — No indeed, I realize now'; the opening clause 'I will seize Fate by the throat; it shall certainly not bend and crush me completely' in books quoting Anderson (Beethoven, 1972; Tame, Beethoven and the Spiritual Path, 1994; Kolodin, The Interior Beethoven, 1975). Scans are lending only, so the page was not opened.",
+  "edition": "The Letters of Beethoven, collected, translated and edited by Emily Anderson (Macmillan, 1961), vol. I",
+  "locator": "letter to Wegeler, Vienna, 16 November 1801",
+  "url": "https://archive.org/details/lettersofbeethov0001ludw"
+ },
+ "confidence": "medium",
+ "reason": "Anderson's wording as proposed; the Anderson scans set the dash spaced, so it is supplied spaced here, and in Anderson the sentence runs on after 'lives' with a dash, so the terminal stop closes an excerpt, not a sentence. Not shipped, Beethoven at zero, not banned."
+}

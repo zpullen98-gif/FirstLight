@@ -1,0 +1,8 @@
+{
+ "id": "12-phil-02",
+ "refuted": false,
+ "wordingChecked": true,
+ "betterCitation": "",
+ "reason": "The verifier could not read the MIT scan. Open Library’s full-text index of that scan can be queried, though. I ran search inside for true genesis is not at the beginning, and it returns a hit in principleofhope0003bloc (The Principle of Hope, MIT Press, 1986, the Plaice, Plaice and Knight volume 3, scan leaf 514). The hit reads: world, of a right world. True genesis is not at the beginning but at the end, and it... So the translators’ own wording is True genesis, with no article and no comma after beginning. That matches the card. The rival forms (The true genesis..., beginning, but) belong to other translations (On Karl Marx, Herder 1971; Zipes; Bronner), so the card has not drifted toward them. This is the book’s last paragraph, third sentence from the end, in ch. 55 (Karl Marx and Humanity: Stuff of Hope). Ending the quotation at the clause boundary with a full stop is a plain truncation, the way Levitas and Löwy quote it, and the source line says first clause. shipped.js: not shipped, no near opening, Bloch at 0 of 3, not banned. The source line is 137 characters with no dash, leads with the name and names all three translators. Philosophy is the right tag. Publishable, and on theme. One soft point, not a refutation: the printed page could not be opened (lending restricted), so the page stays out, as the verifier left it.",
+ "evidence": {"where": "openlibrary.org/search/inside.json?q=\"true genesis is not at the beginning\": hit in archive.org principleofhope0003bloc (MIT Press 1986), leaf 514, plus 40 secondary quotations", "locator": "ch. 55, the final paragraph, sentence beginning True genesis"}
+}

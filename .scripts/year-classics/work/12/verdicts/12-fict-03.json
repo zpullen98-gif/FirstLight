@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-03",
+ "verdict": "VERIFIED",
+ "quote": "Since it has pleased Providence to place me in this station, I shall do my utmost to fulfil my duty towards my country; I am very young and perhaps in many, though not in all things, inexperienced, but I am sure that very few have more real goodwill and more real desire to do what is fit and right than I have.",
+ "source": "Queen Victoria, The Queen’s Journal, 20 June 1837, in The Letters of Queen Victoria, vol. I, ch. VI (John Murray, 1907)",
+ "speaker": "",
+ "tradition": "Diary",
+ "note": "",
+ "evidence": {
+  "where": "Project Gutenberg eBook #20023, The Letters of Queen Victoria, vol. I, ed. A. C. Benson and Viscount Esher (John Murray, 1907), read directly",
+  "edition": "The Letters of Queen Victoria, vol. I, 1837 to 1843, ed. A. C. Benson and Viscount Esher (John Murray, 1907)",
+  "locator": "Chapter VI, 1837, Extract from the Queen's Journal, Tuesday, 20th June 1837, the paragraph after she dressed",
+  "url": "https://www.gutenberg.org/cache/epub/20023/pg20023.txt"
+ },
+ "confidence": "high",
+ "reason": "Word for word in the printed journal extract of 20 June 1837 in Benson and Esher, chapter VI, including goodwill as one word and the semicolon. A head of state quoted from the page, as rule 14 invites; Victoria is at zero of three; nothing shipped."
+}

@@ -1,0 +1,17 @@
+{
+ "id": "12-fict-08",
+ "verdict": "VERIFIED",
+ "quote": "Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day.",
+ "source": "E. B. White, Letter to Mr. Nadeau, 30 March 1973, the closing sentences, Letters of E. B. White (Harper and Row, 1976)",
+ "speaker": "",
+ "tradition": "Correspondence",
+ "note": "",
+ "evidence": {
+  "where": "Internet Archive full-text search inside four scans of the 1976 first edition of Letters of E. B. White (lettersofebwhite00whit and others) and the 2006 revised edition: the letter headed NADEAU, North Brooklin, Maine, 30 March 1973, closes 'Hang on to your hat. Hang on to your hope. And wind the clock, for tomorrow is another day. Sincerely, E. B. White'. The letter is in the 1976 edition, not only the 2006 revision.",
+  "edition": "Letters of E. B. White, ed. Dorothy Lobrano Guth (Harper and Row, 1976)",
+  "locator": "letter to Mr. Nadeau, 30 March 1973, the closing sentences before the signature",
+  "url": "https://archive.org/details/lettersofebwhite00whit"
+ },
+ "confidence": "high",
+ "reason": "Exact wording, 'Hang on to' as three words, found in the 1976 edition itself, so the first-published-before-2000 rule holds. A closing line and a morning chore, squarely on theme. Not shipped, White at zero, not banned."
+}
