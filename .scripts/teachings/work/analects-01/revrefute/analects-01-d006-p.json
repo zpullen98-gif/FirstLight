@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d006-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2270601", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 6 and the live revision (raw, 2023-03-25). The gloss on 哀公問：「弟子孰爲好學？」... sits directly under Legge's 6.2 line and carries no author tag (no 孔曰, 馬曰, 包曰, 鄭曰, 王曰, 周曰), so it is He Yan's own and naming He Yan is correct. 凡人任情 ... 顔淵任道 carries 'led by the Way where ordinary men follow feeling'; 怒不過分 and 怒當其理，不移易也 carry 'anger kept to its due and never shifted'; 有不善，未嘗復行 carries 'no wrong ever done twice'. No drift. Plain sense matches day.js 6.2 (the Duke Ai asked which of the disciples loved to learn; Confucius replied naming Yen Hui) and repeats no four words of the key. verse.js ok (Analects 6.2, at 120); entry-check ok; 44 words. Revision year 2023 confirmed by the Wikisource API. No school needed, no comparison, tone plain.",
+ "better": ""
+}

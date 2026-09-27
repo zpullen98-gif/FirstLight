@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If right principles prevailed through the empire, there would be no use for me to change its state.",
+ "ref": "Analects 18.6",
+ "at": [
+  465
+ ],
+ "s": "When a recluse urges Tsze-lu to quit a world swept by disorder, the Master sighs that he must keep company with mankind; Zhu Xi, on 18.6, reads him as seeking to change the world by the Way precisely because it lacks the Way.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 18.6, zh.wikisource (Sishu zhangju jizhu, juan 9), revision 2560458 (2025)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2560458",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷九, revision 2560458",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 18.6 (子路行以告。夫子憮然曰 ...)",
+    "via": "packet"
+   }
+  ],
+  "words": "天下若已平治，則我無用變易之。正為天下無道，故欲以道易之耳。",
+  "lang": "Classical Chinese",
+  "gloss": "If the world were already at peace and in order, I would have no need to change it. It is precisely because the world is without the Way that I wish to change it by means of the Way.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 18.6, at 465). Zhu Xi’s comment on the closing line of 18.6 (子路行以告。夫子憮然曰) says in his own words that if the world were in order he would not need to change it, and that he wishes to change it by the Way precisely because it lacks the Way; the reading paraphrases this without addition. Plain sense is faithful to day.js: Chieh-ni urges Tsze-lu to follow those who have withdrawn from the world, and the Master answers with a sigh that he must associate with mankind. Source line matches the packet edition and revision. entry-check ok."
+}

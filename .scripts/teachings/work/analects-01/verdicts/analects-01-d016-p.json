@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘No,’ was the answer; ‘I seek a unity all-pervading.’",
+ "ref": "Analects 15.2",
+ "at": [
+  380
+ ],
+ "s": "The Master asks Tsze-kung whether he takes him for a man of wide learning and memory; He Yan, in his own note on 15.2, reads the unity as knowing the origin of every good, so that all are known through one, without much learning.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, own note on 15.2, zh.wikisource (the jijie notes in Lunyu zhushu, juan 15), revision 7904695 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7904695",
+    "edition": "zh.wikisource 論語註疏/卷15 (the 集解 notes only), revision 7904695",
+    "locator": "He Yan, Lunyu jijie, untagged note on 15.2 (曰：「非也，予一以貫之。」)",
+    "via": "packet"
+   }
+  ],
+  "words": "善有元，事有會，天下殊塗而同歸，百慮而一致。知其元則眾善舉矣，故不待多學而一知之。",
+  "lang": "Classical Chinese",
+  "gloss": "Good has its origin and affairs their meeting point; all under heaven reach the same end by different roads, one conclusion through a hundred thoughts. Know the origin and the many goods are all raised; so he need not wait on much learning, but knows them by the one.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 15.2, at 380). In the packet He Yan’s note on the closing line of 15.2 (非也，予一以貫之) is untagged, so it is his own, not a gathered gloss (the two earlier lines of 15.2 carry Kong Anguo’s tagged notes and are not used). It says knowing the origin raises all goods, so he need not rely on much learning but knows them by one; the reading paraphrases this without addition. Plain sense is faithful to day.js: the Master asks Ts’ze whether he thinks him one who learns many things and keeps them in memory. Source revision 7904695 dated 2026-06-28 by the Wikisource API. entry-check ok."
+}

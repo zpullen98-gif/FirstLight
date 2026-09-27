@@ -1,0 +1,11 @@
+{
+ "id": "analects-01-d008-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7904524",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 8: in He Yan’s Jijie (Lunyu zhushu juan 8, rev 7904524) the one note on 8.17 子曰：「學如不及，猶恐失之。」 is 學自外入，至熟乃可長久。如不及，猶恐失之。, untagged, so He Yan’s own (the 孔曰 notes sit on 8.16 and 8.19), and naming ‘He Yan’ for an untagged note follows the plan trap and the batch’s other entries. The paraphrase (learning enters from outside, lasts only when thoroughly ripened, hence the fear of losing it) is carried; ‘hence’ makes explicit the link the note draws by setting 如不及，猶恐失之 after the ripening clause, not a new claim. The paraphrase is not Zhu Xi’s (his note is about the heart staying alarmed) nor Legge’s (a heading only). Plain sense matches day.js: 8.16 censures the ardent who are not upright, 8.18 praises Shun and Yu, and 8.17 is a charge on study; no four key words repeated. verse.js ok (Analects 8.17, at 200); entry-check ok; 45 words, at the cap; verb ‘explains’.",
+ "better": ""
+}

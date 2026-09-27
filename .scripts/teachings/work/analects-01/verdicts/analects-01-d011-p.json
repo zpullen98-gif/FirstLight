@@ -1,0 +1,48 @@
+{
+ "id": "analects-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘While you are not able to serve men, how can you serve their spirits?’ Chi Lu added, ‘I venture to ask about death?’ He was answered, ‘While you do not know life, how can you know about death?’",
+ "ref": "Analects 11.11",
+ "at": [
+  263
+ ],
+ "s": "Chi Lu asks how to serve the spirits of the dead, then about death; He Yan’s collection, on 11.11, gives Chen Qun, who reads them as withholding an answer, since spirits and death are hard to make clear and talk of them profits nothing.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, Chen Qun’s gloss on 11.11, zh.wikisource (the Jijie notes in Lunyu zhushu, juan 11), revision 1375235 (2018)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "sensitivity": "none",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1375235",
+    "edition": "zh.wikisource 論語註疏/卷11 (the 集解 notes only), revision 1375235",
+    "locator": "He Yan, Lunyu jijie, note tagged 陳曰 on 11.11 (季路問事鬼神)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/chineseclassics01legg",
+    "edition": "James Legge, The Chinese Classics vol. 1 (2nd ed. 1893), OCR text",
+    "locator": "note on 11.4 (陳羣 as given in Ho Yen) and note on 11.11",
+    "via": "packet"
+   }
+  ],
+  "words": "陳曰：“鬼神及死事難明，語之無益，故不答。”",
+  "lang": "Classical Chinese",
+  "gloss": "Chen says: ‘Spirits and the matter of death are hard to make clear, and speaking of them brings no benefit; so he did not answer.’",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 11.11, at 263): three whole sentences from one unit, no dash. He Yan’s collection has a single note on 11.11, tagged 陳曰; the tag is Chen Qun, one of the gathered scholars named in He Yan’s preface, and Legge’s packet note on 11.4 names 陳羣 ‘as given in Ho Yen’. The sentence opens with He Yan’s collection and credits the gloss to Chen Qun, as the plan trap requires. The reading (withholding an answer because spirits and death are hard to make clear and talk of them profits nothing) matches the gloss exactly. Legge’s note on 11.11 confirms that the older interpreters took it so. Plain sense faithful to day.js. Revision 1375235 dated 2018-03-01 by the Wikisource API. entry-check ok."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The Master said, ‘Learn as if you could not reach your object, and were always fearing also lest you should lose it.’",
+ "ref": "Analects 8.17",
+ "at": [
+  200
+ ],
+ "s": "Between a saying on the ardent who are not upright and praise of Shun and Yu, the Master gives a charge on study; He Yan, on 8.17, explains that learning enters from outside and lasts only when thoroughly ripened, hence the fear of losing it.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, on 8.17, zh.wikisource (the Jijie notes in Lunyu zhushu, juan 8), revision 7904524 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7904524",
+    "edition": "zh.wikisource 論語註疏/卷08 (the 集解 notes only), revision 7904524 (2026-06-28)",
+    "locator": "He Yan, Lunyu jijie, untagged note on 8.17 (子曰：「學如不及，猶恐失之。」)",
+    "via": "packet"
+   }
+  ],
+  "words": "學自外入，至熟乃可長久。如不及，猶恐失之。",
+  "lang": "Classical Chinese",
+  "gloss": "Learning comes in from outside; only when it is thoroughly ripened can it last long. [So one learns] as if not reaching it, and still fears to lose it. (Untagged: He Yan’s own note.)",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 8.17, at 200). He Yan’s note on 8.17 is the only note on the chapter and is untagged, so it is his own, and it carries the reading (learning enters from outside, lasts only when ripened, hence the fear of losing it). CHANGED the plain sense only: the proposal called 8.16 a lament, but day.js 8.16 is a censure of the ardent who are not upright, the stupid who are not attentive and the simple who are not sincere (Zhu Xi even calls it a strong rejection), not grief; it now reads a saying on the ardent who are not upright. Reading, src and key unchanged. Revision 7904524 dated 2026-06-28 by the Wikisource API. entry-check ok on the corrected entry."
+}

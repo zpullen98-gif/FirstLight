@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘Not so. He who offends against Heaven has none to whom he can pray.’",
+ "ref": "Analects 3.13",
+ "at": [
+  52
+ ],
+ "s": "Asked by Wang-sun Chia about a proverb on courting the furnace, the Master rejects it; Zhu Xi, on 3.13, reads Heaven as principle, beyond comparison with corner or furnace: one who defies principle cannot pray his way out, and should flatter neither.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 3.13, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 2), revision 2063643 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2063643",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷二, revision 2063643",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 3.13 (子曰：不然，獲罪於天，無所禱也)",
+    "via": "packet"
+   }
+  ],
+  "words": "天，即理也；其尊無對，非奧竈之可比也。逆理，則獲罪於天矣，豈媚於奧竈所能禱而免乎？言但當順理，非特不當媚竈，亦不可媚於奧也。",
+  "lang": "Classical Chinese",
+  "gloss": "Heaven is principle itself; its honour has no equal, and the corner and the furnace cannot be compared with it. To go against principle is to offend against Heaven: how could flattering the corner or the furnace pray one free of that? He means one should simply follow principle: not only should one not flatter the furnace, one may not flatter the corner either.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 3.13, at 52). Zhu Xi’s comment on the Master’s answer in 3.13 says Heaven is principle, beyond comparison with corner or furnace, that one who goes against principle cannot pray his way free by flattering either, and that one should flatter neither; the reading paraphrases this without addition. He Yan’s collection (Kong Anguo: Heaven as a figure for the ruler) differs and is not used. Plain sense faithful: Wang-sun Chia asks about the furnace proverb and the Master answers ‘Not so’. Revision year confirmed by the Wikisource API (2021-08-07). entry-check ok."
+}

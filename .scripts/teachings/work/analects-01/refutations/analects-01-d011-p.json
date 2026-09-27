@@ -1,0 +1,13 @@
+{
+ "id": "analects-01-d011-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1375235",
+  "found": true
+ },
+ "attacks": [
+  "form"
+ ],
+ "reason": "Substance holds: packet.js analects 11 shows the only Jijie note on 11.11 is 陳曰：“鬼神及死事難明，語之無益，故不答。”, verbatim the evidence; 陳曰 is Chen Qun (one of the scholars in He Yan’s preface; Legge’s packet note on 11.4 names 陳羣 as given in Ho Yen), and the sentence credits him, not He Yan, as the plan trap requires; hard to make clear (難明), talk profits nothing (語之無益), no answer (不答) all carried without drift. verse.js ok (Analects 11.11, at 263) and entry-check ok. But the sentence breaks on form: in “who reads them as withholding an answer” the pronoun “them” has no possible antecedent in the sentence except Chi Lu’s two questions or “the spirits of the dead”, and neither withholds anything; the replies, which are what Chen Qun means (故不答: he did not answer), are never named. A reader at six in the morning gets a garbled reading. Fix by naming the replies; the repaired sentence below passes entry-check (45 words).",
+ "better": "Chi Lu asks how to serve the spirits of the dead, then about death; He Yan’s collection, on 11.11, gives Chen Qun, who takes both replies as declining to answer, since spirits and death are hard to make clear and talk of them profits nothing."
+}

@@ -1,0 +1,170 @@
+{
+ "analects-01-d001-p": {
+  "d": 1,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2598582"
+ },
+ "analects-01-d002-p": {
+  "d": 2,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2270598"
+ },
+ "analects-01-d003-p": {
+  "d": 3,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2063643"
+ },
+ "analects-01-d004-p": {
+  "d": 4,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2270600"
+ },
+ "analects-01-d005-p": {
+  "d": 5,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2281474"
+ },
+ "analects-01-d006-p": {
+  "d": 6,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2270601"
+ },
+ "analects-01-d007-p": {
+  "d": 7,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2285801"
+ },
+ "analects-01-d008-p": {
+  "d": 8,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7904524"
+ },
+ "analects-01-d009-p": {
+  "d": 9,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2030329"
+ },
+ "analects-01-d010-p": {
+  "d": 10,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2018280"
+ },
+ "analects-01-d011-p": {
+  "d": 11,
+  "who": "he-yan",
+  "afterRefutation": true,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1375235"
+ },
+ "analects-01-d012-p": {
+  "d": 12,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2358541"
+ },
+ "analects-01-d013-p": {
+  "d": 13,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2412885"
+ },
+ "analects-01-d014-p": {
+  "d": 14,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2371072"
+ },
+ "analects-01-d015-p": {
+  "d": 15,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2412885"
+ },
+ "analects-01-d016-p": {
+  "d": 16,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7904695"
+ },
+ "analects-01-d017-p": {
+  "d": 17,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2304542"
+ },
+ "analects-01-d018-p": {
+  "d": 18,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=432755"
+ },
+ "analects-01-d019-p": {
+  "d": 19,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2560458"
+ },
+ "analects-01-d020-p": {
+  "d": 20,
+  "who": "he-yan",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=432753"
+ },
+ "analects-01-d021-p": {
+  "d": 21,
+  "who": "zhu-xi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2611553"
+ }
+}

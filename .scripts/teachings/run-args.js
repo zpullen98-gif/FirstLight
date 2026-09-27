@@ -32,9 +32,16 @@ if (ri > -1) {
    run; each named entry goes through one more revision round (a revision and
    its refuter), then the editor and the critic read again */
 if (a.includes('--revise-critic')) {
-  const c = lib.readJSON(path.join(B.dir, 'critic.json')) || lib.readJSON(path.join(B.dir, 'critic-1.json'));
+  const c = lib.lastCritic(B.dir);
   const byId = {};
-  ((c && c.problems) || []).filter(p => p && p.id).forEach(p => { (byId[p.id] = byId[p.id] || { id: p.id, d: p.d, problems: [] }).problems.push({ problem: p.problem, fix: p.fix }); });
+  const add = (id, p) => { (byId[id] = byId[id] || { id, d: +id.match(/-d(\d{3})-/)[1], problems: [] }).problems.push({ problem: p.problem, fix: p.fix }); };
+  /* a problem with the batch as a whole reaches every entry its text names */
+  const idRe = new RegExp(B.name.replace(/[-]/g, '\\-') + '-d\\d{3}-[ps]', 'g');
+  ((c && c.problems) || []).forEach(p => {
+    if (!p) return;
+    if (p.id) add(p.id, p);
+    else [...new Set(((p.problem || '') + ' ' + (p.fix || '')).match(idRe) || [])].forEach(id => add(id, p));
+  });
   revise = revise.concat(Object.values(byId));
   todo.lanesMissing = [];
 }

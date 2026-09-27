@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d016-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7904695", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 16 and the raw wikitext of revision 7904695 (API timestamp 2026-06-28, so the year holds): the note on 曰：「非也，予一以貫之。」 is untagged (the two earlier lines of 15.2 carry 孔曰 glosses), so it is He Yan's own, and 善有元，事有會 ... 知其元則眾善舉矣，故不待多學而一知之 is there verbatim. Knowing the origin of every good, all known through one, not relying on much learning, is that note without addition. verse.js ok (Analects 15.2, at 380, no dash; the '--' sits in Tsze-kung's reply, a separate unit). Plain sense matches day.js (the Master asks Ts'ze whether he is one who learns many things and keeps them in memory), repeats no four words of the key. No school needed, no comparison, tone plain. entry-check ok (44 words, src 120 chars).",
+ "better": ""
+}

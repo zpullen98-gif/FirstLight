@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d015-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2412885", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 15: Zhu Xi's untagged comment on the line 以直報怨，以德報德。 opens 於其所怨者，愛憎取捨，一以至公而無私，所謂直也。於其所德者，則必以德報之，不可忘也, exactly the evidence and his own words (no 程子 or other tag before it). The paraphrase (love and hate, taking and refusing, governed by utmost impartiality without self-interest; kindness never to be forgotten) is carried; 'justice' is Legge's word for the 直 he defines, used unquoted. His note on the first line naming the Laozi is not drawn in, so no other tradition is named (rule 4). He Yan's jijie has only 德，恩惠之德 at this point, so Zhu Xi is the fuller and right name. Plain sense matches day.js 14.36 (someone asks about recompensing injury with kindness; the Master asks with what kindness would then be recompensed) and repeats no four words of the key verse. verse.js ok (Analects 14.36, at 367, the Master's own unit). entry-check ok, no warnings.",
+ "better": ""
+}

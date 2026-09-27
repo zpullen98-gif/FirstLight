@@ -1,0 +1,11 @@
+{
+ "id": "analects-01-d003-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2063643",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 3 and the raw wikitext of revision 2063643 (timestamp 2021-08-07): Zhu Xi’s comment on 子曰：不然，獲罪於天，無所禱也 carries 天，即理也；其尊無對，非奧竈之可比也。逆理，則獲罪於天矣，豈媚於奧竈所能禱而免乎？言但當順理，非特不當媚竈，亦不可媚於奧也 verbatim, and every clause of the paraphrase (Heaven as principle, beyond comparison with corner or furnace, one who goes against principle cannot pray his way free, flatter neither) is in it. Kong Anguo in He Yan’s collection reads Heaven as a figure for the ruler, so the reading is distinctively Zhu Xi’s. Only blemish: the closing ‘and should flatter neither’ grammatically takes ‘one who defies principle’ as subject, where Zhu Xi says generally that one should simply follow principle and flatter neither; the substance is his, so not refuted, but a tighter wording is offered. verse.js ok (Analects 3.13, at 52, no dash). Plain sense matches day.js (Wang-sun Chia asks about the furnace saying; the Master answers ‘Not so’). entry-check ok (42 words, src 110 characters).",
+ "better": "Optional tightening of the close: ‘... reads Heaven as principle, beyond comparison with corner or furnace: no flattery of either can pray away an offence against principle, and one should simply follow it.’ (re-run entry-check if adopted)"
+}

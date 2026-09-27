@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d005-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2281474", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 5 and the raw wikitext of revision 2281474 (論語集注卷三, dated 2023-05-03 by the Wikisource API): Zhu Xi's own note (no quoted authority) on 十室之邑，必有忠信如丘者焉 carries 夫子生知而未嘗不好學，故言此以勉人。言美質易得，至道難聞，學之至則可以為聖人 verbatim. 'A spur to others' is 勉人, 'fine endowments easily found' is 美質易得 (he names loyalty and good faith like the sage's as fine native endowment), 'the highest Way hard to hear' is 至道難聞, 'learning carried through can make a sage' is 學之至則可以為聖人: no addition. His division agrees with Legge here (5.27 is the book's last chapter in both). Plain sense matches day.js: 5.27 closes the book, which appraises disciples and officers (with some other worthies), and here the Master speaks of himself; no key words repeated. Key verse is the line commented on, verse.js ok (Analects 5.27, at 118). No school, comparison or tone problem. entry-check ok.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d019-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2560458", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 19: Zhu Xi's commentary on 子路行以告。夫子憮然曰 ... 天下有道，丘不與易也 (Legge 18.6; Zhu Xi also has eleven chapters in book 18, so the numbering agrees) carries 天下若已平治，則我無用變易之。正為天下無道，故欲以道易之耳 verbatim; 'change the world by the Way precisely because it lacks the Way' is 正為天下無道，故欲以道易之 without addition. The key verse is the very line he comments on, contains no dash (the '--' falls earlier in the unit), verse.js ok (Analects 18.6, at 465). Plain sense matches day.js: Chieh-ni's flood of disorder and his urging to follow those who withdraw from the world, then the Master's sigh about associating with mankind; no key-verse words repeated. No school needed, no comparison, tone plain. entry-check ok. Revision year 2025 is the one used for this revision throughout the batch; not independently re-dated.",
+ "better": ""
+}

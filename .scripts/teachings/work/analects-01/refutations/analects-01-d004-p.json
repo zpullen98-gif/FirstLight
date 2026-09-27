@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d004-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2270600", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 4 and the raw wikitext of revision 2270600 (論語集解/02, dated 2023-03-25 by the Wikisource API): the only gloss after 子曰：「人之過也，各於其黨。觀過，斯知仁矣。」 is tagged 孔曰 and reads 小人不能爲君子之行，非小人之過，當恕而勿責之。觀過，使賢愚各當其所，則爲仁矣 verbatim, so crediting Kong Anguo through He Yan's collection is the form the plan prescribes. 'Falling short of the gentleman as no fault' is 不能爲君子之行，非小人之過, and 'fitting each to his place as virtue' is 使賢愚各當其所，則爲仁 (仁 as virtue follows Legge's rendering for this book). The paraphrase compresses and adds nothing. Plain sense matches day.js: 4.6 says the Master has not seen one who loved virtue, and 4.7 turns to faults; no four words of the key repeated. Key is the line glossed, verse.js ok (Analects 4.7, at 72). No school needed, no comparison, tone plain. entry-check ok.",
+ "better": ""
+}

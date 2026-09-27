@@ -1,0 +1,48 @@
+{
+ "id": "analects-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The Master said, ‘While you are not able to serve men, how can you serve their spirits?’ Chi Lu added, ‘I venture to ask about death?’ He was answered, ‘While you do not know life, how can you know about death?’",
+ "ref": "Analects 11.11",
+ "at": [
+  263
+ ],
+ "s": "Chi Lu asks how to serve the spirits of the dead, then about death; He Yan’s collection, on 11.11, gives Chen Qun, who takes both replies as declining to answer, since spirits and death are hard to make clear and talk of them profits nothing.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, Chen Qun’s gloss on 11.11, zh.wikisource (the Jijie notes in Lunyu zhushu, juan 11), revision 1375235 (2018)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "sensitivity": "none",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1375235",
+    "edition": "zh.wikisource 論語註疏/卷11 (the 集解 notes only), revision 1375235",
+    "locator": "He Yan, Lunyu jijie, note tagged 陳曰 on 11.11 (季路問事鬼神)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/chineseclassics01legg",
+    "edition": "James Legge, The Chinese Classics vol. 1 (2nd ed. 1893), OCR text",
+    "locator": "note on 11.4 (陳羣 as given in Ho Yen) and note on 11.11",
+    "via": "packet"
+   }
+  ],
+  "words": "陳曰：“鬼神及死事難明，語之無益，故不答。”",
+  "lang": "Classical Chinese",
+  "gloss": "Chen says: ‘Spirits and the matter of death are hard to make clear, and speaking of them brings no benefit; so he did not answer.’",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "confidence": "high",
+ "reason": "Second judgement, agreeing with the refuter on form only. Re-ran day.js and verse.js (ok, Analects 11.11, at 263). Re-opened packet.js analects 11: He Yan’s collection has a single note on 11.11, 陳曰：“鬼神及死事難明，語之無益，故不答。”, verbatim the evidence; Legge’s packet note on 11.4 names 陳羣 as given in Ho Yen, so crediting Chen Qun (not He Yan) follows the plan trap. Changed only the sentence: “reads them as withholding an answer” had no fitting antecedent for “them”; now “takes both replies as declining to answer”, which is exactly 故不答. Zhu Xi on the same chapter reads the replies as a deep answer, not a refusal; the entry names only Chen Qun, so no disagreement is resolved. entry-check ok (45 words)."
+}

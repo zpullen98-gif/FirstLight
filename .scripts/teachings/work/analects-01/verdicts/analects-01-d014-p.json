@@ -1,0 +1,48 @@
+{
+ "id": "analects-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘He who speaks without modesty will find it difficult to make his words good.’",
+ "ref": "Analects 14.21",
+ "at": [
+  352
+ ],
+ "s": "After judgements on princes and their ministers, the day’s passage closes on a saying about speech; He Yan’s collection, on 14.21, gives Ma Rong, who reads unashamed speech as coming from substance within, and the gathering of that substance as what is hard.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, Ma Rong’s gloss on 14.21, zh.wikisource (the jijie notes in Lunyu zhushu, juan 14), revision 2371072 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2371072",
+    "edition": "zh.wikisource 論語註疏/卷14 (the 集解 notes only), revision 2371072 (timestamp 2024-03-04)",
+    "locator": "He Yan, Lunyu jijie, note on 14.21 (子曰：“其言之不怍，則為之也難。”), tagged 馬曰 (Ma Rong)",
+    "via": "packet"
+   },
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2412885",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷七, revision 2412885 (read for comparison)",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 14.21",
+    "via": "packet"
+   }
+  ],
+  "words": "馬曰：“怍，慚也。內有其實，則言之不慚。積其實者，為之難。”",
+  "lang": "Classical Chinese",
+  "gloss": "Ma Rong says: zuo means to be ashamed. When one has the substance within, one speaks of it without shame. Accumulating that substance is what is hard to do.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 14.21, at 352), the last unit of the day. The only jijie note on 14.21 is tagged 馬曰, so it is Ma Rong’s gloss and the sentence credits him through He Yan’s collection as the plan requires, not He Yan himself. His words carry the reading: unashamed speech comes from having the substance within, and gathering that substance is the hard part. This differs from Legge’s ‘without modesty’ and from Zhu Xi (大言不慚, boastful talk without resolve), and the sentence attributes only Ma Rong’s view, adding nothing of the translator’s. Plain sense faithful: 14.17 to 14.20 judge Duke Hwan, Kwan Chung, Kung-shu Wan’s minister and Duke Ling’s officers, and 14.21 closes day 14. Revision 2371072 confirmed 2024 by the Wikisource API. entry-check ok with no warnings."
+}

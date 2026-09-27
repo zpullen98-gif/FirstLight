@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘Is it not pleasant to learn with a constant perseverance and application?",
+ "ref": "Analects 1.1",
+ "at": [
+  0
+ ],
+ "s": "The book opens with the Master’s three questions, on learning, distant friends and calm when unknown; Zhu Xi, on 1.1, reads learning as imitating those who awoke first, to understand the good and recover an original goodness, and the application as a bird’s repeated flights.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 1.1, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 1), revision 2598582 (2025)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2598582",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷一, revision 2598582",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 1.1 (子曰：學而時習之，不亦說乎)",
+    "via": "packet"
+   }
+  ],
+  "words": "學之為言效也。人性皆善，而覺有先後，後覺者必效先覺之所為，乃可以明善而復其初也。習，鳥數飛也。",
+  "lang": "Classical Chinese",
+  "gloss": "To learn means to imitate. Human nature is all good, but people awaken to it earlier or later; those who awaken later must imitate what those who awoke first do, and so can understand the good and return to what they were at first. 習 is a bird flying again and again.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 1.1, at 0). Zhu Xi’s commentary on the first line of 1.1 glosses 學 as 效, imitating those who awoke first so as to understand the good and return to the original state of a nature he calls wholly good, and glosses 習 as a bird’s repeated flights; the reading paraphrases this without addition (‘original goodness’ joins his 人性皆善 to 復其初). He Yan’s collection (Ma Rong, Wang Su) was also read and differs, so no false attribution. Plain sense faithful to the three questions of 1.1 in day.js and repeats none of the key verse. Revision year confirmed by the Wikisource API (2025-09-17). entry-check ok."
+}

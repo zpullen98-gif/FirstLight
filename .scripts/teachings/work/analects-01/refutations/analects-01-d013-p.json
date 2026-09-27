@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d013-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2412885", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 13: Zhu Xi's untagged comment on the line 孔子曰：「吾黨之直者異於是。父為子隱，子為父隱，直在其中矣。」 reads 父子相隱，天理人情之至也。故不求為直，而直在其中, exactly the evidence; the following 謝氏曰 (Shun fleeing with his father) is not drawn in, so no borrowed attribution. Paraphrase (utmost of heavenly principle and human feeling; uprightness comes unsought) is carried whole. He Yan's jijie has no gloss on this line (only 孔曰 and 周曰 on the Duke's words), so Zhu Xi is the right name. verse.js ok (Analects 13.18, at 319, a Confucius unit, not apparatus, the line Zhu Xi comments on). Plain sense: Legge's Duke speaks of 'those' who would 'bear witness' if 'their father' stole; 'a son who testifies' slightly singularises Legge's conditional plural but matches the Chinese 其父攘羊，而子證之 and adds no doctrine. Tone: 'shielding' is a mild word for 隱 (conceal) in a law-sensitive passage, but the key verse printed above says 'conceals the misconduct', so nothing is hidden from the reader; not a landing attack. entry-check ok, no warnings.",
+ "better": "Optional wording: 'reads father and son concealing each other' in place of 'shielding each other', to keep Zhu Xi's 相隱 at full strength in a law passage."
+}

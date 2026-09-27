@@ -1,0 +1,11 @@
+{
+ "id": "analects-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2030329",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 9: He Yan’s Jijie (Lunyu zhushu juan 9, rev 2030329) on 子曰：“歲寒然後知松柏之後彫也。” has the evidence verbatim and untagged (孔曰 and 馬曰 sit on 9.25 and 9.26), so it is his own; 喻凡人處治世亦能自脩整，與君子同；在濁世，然後知君子之正不苟容 carries ‘a figure: in settled times common men also order themselves, and only a muddied age makes the gentleman’s uprightness known’ without addition. It is not Zhu Xi’s reading (he gives Fan and Xie on profit, harm and loyal ministers) nor Legge’s (‘men are known in times of adversity’). Plain sense attacked: day.js 9.26 praises Yu (Tsze-lu) in the tattered robe, but the chapter ends with the Master checking Tsze-lu for repeating the ode (‘by no means sufficient’), so ‘after praising’ gives only half of what precedes; it is true as far as it goes and adds nothing false, so it does not break the entry. verse.js ok (Analects 9.27, at 231); entry-check ok; 40 words; verb ‘reads’.",
+ "better": "Plain sense could name the check that closes 9.26, e.g. ‘After praising Tsze-lu’s unashamed poverty and then checking his pride in it, the Master turns to trees in the cold’ (then trim the reading to stay within 45 words)."
+}

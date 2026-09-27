@@ -1,0 +1,48 @@
+{
+ "id": "analects-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The father conceals the misconduct of the son, and the son conceals the misconduct of the father. Uprightness is to be found in this.",
+ "ref": "Analects 13.18",
+ "at": [
+  319
+ ],
+ "s": "After the Duke of Sheh praises a son who testifies that his father stole a sheep, Confucius answers him; Zhu Xi, on 13.18, reads father and son shielding each other as the utmost of heavenly principle and human feeling, in which uprightness comes unsought.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 13.18, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 7), revision 2412885 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2412885",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷七, revision 2412885 (timestamp 2024-05-25)",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 13.18, second line (孔子曰：「吾黨之直者異於是。父為子隱，子為父隱，直在其中矣。」)",
+    "via": "packet"
+   },
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2371796",
+    "edition": "zh.wikisource 論語註疏/卷13 (the 集解 notes only), revision 2371796 (read for comparison: no gloss on the second line of 13.18)",
+    "locator": "He Yan, Lunyu jijie, 13.18",
+    "via": "packet"
+   }
+  ],
+  "words": "父子相隱，天理人情之至也。故不求為直，而直在其中。",
+  "lang": "Classical Chinese",
+  "gloss": "Father and son concealing each other is the utmost of heavenly principle and human feeling. So they do not seek to be upright, and yet uprightness is found in it.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "law",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 13.18, at 319, the second unit of 13.18). Zhu Xi’s commentary on the line 父為子隱，子為父隱，直在其中矣 says in his own words that mutual concealment of father and son is the utmost of heavenly principle and human feeling, and that they do not seek uprightness yet it is found there; the reading paraphrases exactly this, and the Xie comment that follows (Shun fleeing with his father) is not drawn in. Plain sense is faithful to day.js: the Duke of Sheh calls upright those who would bear witness when a father steals a sheep, and Confucius replies; the Chinese behind it names a son (而子證之), so ‘a son who testifies’ is within the passage. The hard matter (concealing a theft rather than testifying) is stated in one plain clause. Revision 2412885 confirmed 2024 by the Wikisource API. entry-check ok with no warnings."
+}

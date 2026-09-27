@@ -1,0 +1,11 @@
+{
+ "id": "analects-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2285801",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 7: Zhu Xi (Lunyu jizhu juan 4, rev 2285801) on 子疾病，子路請禱 ... 丘之禱久矣 holds the evidence verbatim, and continues 而但告以無所事禱之意, so ‘indirect refusal’ (不直拒之, only telling him there was no call to pray) is his; 悔過遷善，以祈神之佑 carries ‘repentance and amendment to seek the spirits’ help’; 聖人未嘗有過，無善可遷，其素行固已合於神明 carries ‘a sage whose conduct accorded with them had nothing to repent’. 素行合於神明 also stands in Kong Anguo’s gloss in He Yan, but Zhu Xi adopts it in his own text, so the attribution holds. Locator right: Zhu Xi counts 37 chapters in book 7 as Legge does, and 7.34 opens 子疾病 in both. Plain sense matches day.js (the Master very sick, Tsze-lu asks leave to pray, the Master answers), no four key words repeated, no doctrine. The key is the very line Zhu Xi comments on. verse.js ok (Analects 7.34, at 180); entry-check ok, no warnings; 44 words, one semicolon, verb ‘reads’.",
+ "better": ""
+}

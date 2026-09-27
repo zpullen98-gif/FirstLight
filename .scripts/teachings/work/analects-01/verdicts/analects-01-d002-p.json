@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘Learning without thought is labour lost; thought without learning is perilous.’",
+ "ref": "Analects 2.15",
+ "at": [
+  30
+ ],
+ "s": "Among sayings on learning and knowing, just before a warning against strange doctrines, the Master pairs study with reflection; He Yan, on 2.15, takes the peril of thinking without study as weariness, for such thought gets nothing in the end and wears out the spirit.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, on 2.15, zh.wikisource (Lunyu jijie/01, proofread), revision 2270598 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2270598",
+    "edition": "zh.wikisource 論語集解/01, revision 2270598",
+    "locator": "He Yan, Lunyu jijie, untagged note on 2.15 (思而不學則殆)",
+    "via": "packet"
+   }
+  ],
+  "words": "不學而思，終卒不得，使人精神疲怠。",
+  "lang": "Classical Chinese",
+  "gloss": "To think without learning gets nothing in the end, and makes a person’s spirit weary and slack.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 2.15, at 30). In He Yan’s Jijie the note on the second half of 2.15 (思而不學則殆) carries no author tag, so it is He Yan’s own (Bao Xian’s tagged note covers only the first half, and is not used); it reads 殆 as weariness (疲怠) and says such thought gets nothing in the end. The reading says exactly this. Plain sense faithful: 2.11 to 2.18 are sayings on learning and knowledge, and 2.16 on strange doctrines follows. Zhu Xi (danger, unsettled, for want of practice) also read; the attribution is correct. Revision year confirmed by the Wikisource API (2023-03-25). entry-check ok."
+}

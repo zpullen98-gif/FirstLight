@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If, in my person, I commit offences, they are not to be attributed to you, the people of the myriad regions. If you in the myriad regions commit offences, these offences must rest on my person.",
+ "ref": "Analects 20.1",
+ "at": [
+  496
+ ],
+ "s": "Among the words of ancient kings, T’ang, having told God he dare not pardon the sinner, turns to the people; Zhu Xi, on 20.1, reads it as a king who counts their offences truly his own doing, blaming himself heavily and others lightly.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 20.1, zh.wikisource (Sishu zhangju jizhu, juan 10), revision 2611553 (2025)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2611553",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷十, revision 2611553",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 20.1, the section 曰：「予小子履 ... 罪在朕躬。」",
+    "via": "packet"
+   }
+  ],
+  "words": "又言君有罪非民所致，民有罪實君所為，見其厚於責己薄於責人之意。",
+  "lang": "Classical Chinese",
+  "gloss": "He further says that the ruler’s offences are not brought about by the people, while the people’s offences are truly the ruler’s own doing: this shows his mind to lay blame heavily on himself and lightly on others.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 20.1, at 496, the T’ang unit). Zhu Xi’s comment on 予小子履 ... 罪在朕躬 says the people’s offences are truly the ruler’s doing and that this shows his mind to blame himself heavily and others lightly; the reading carries exactly that. Plain sense is faithful to day.js: T’ang announces to God that he dare not pardon the sinner, then addresses the people of the myriad regions, within a chapter of the ancient kings’ words. Source line matches packet revision 2611553. entry-check ok."
+}

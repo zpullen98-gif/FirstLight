@@ -17,6 +17,18 @@
    "relanded": [
     "tao-01"
    ]
+  },
+  "analects": {
+   "batches": [
+    "analects-01"
+   ],
+   "days": 21,
+   "of": 21,
+   "by": {
+    "zhu-xi": 11,
+    "he-yan": 10
+   },
+   "hedged": 0
   }
  }
 }

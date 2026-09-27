@@ -1,0 +1,48 @@
+{
+ "id": "analects-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘Recompense injury with justice, and recompense kindness with kindness.’",
+ "ref": "Analects 14.36",
+ "at": [
+  367
+ ],
+ "s": "Asked about repaying injury with kindness, the Master asks what would then repay kindness; Zhu Xi, on 14.36, reads justice here as love and hate, taking and refusing, all ruled by utmost fairness without self-interest, and kindness received as never to be forgotten.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 14.36, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 7), revision 2412885 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2412885",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷七, revision 2412885 (timestamp 2024-05-25)",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on the third line of 14.36 (以直報怨，以德報德。)",
+    "via": "packet"
+   },
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2371072",
+    "edition": "zh.wikisource 論語註疏/卷14 (the 集解 notes only), revision 2371072 (read for comparison)",
+    "locator": "He Yan, Lunyu jijie, 14.36",
+    "via": "packet"
+   }
+  ],
+  "words": "於其所怨者，愛憎取捨，一以至公而無私，所謂直也。於其所德者，則必以德報之，不可忘也。",
+  "lang": "Classical Chinese",
+  "gloss": "Towards one who has wronged him, his loving and hating, taking and refusing, are all governed by utmost impartiality with nothing selfish: this is what is called uprightness (Legge’s ‘justice’). Towards one who has been kind to him, he must repay kindness with kindness and may not forget it.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 14.36, at 367, the third unit of 14.36). Zhu Xi’s comment sits on exactly this line and defines 直 as love and hate, taking and refusing, all by utmost impartiality without selfishness, and kindness as something that must be repaid and never forgotten; the reading paraphrases this without addition, and ‘justice’ is Legge’s word for the 直 that Zhu Xi glosses. His identification of the questioner’s saying with the Laozi (on the first line) is not drawn in, so no other tradition is named. Plain sense faithful to day.js: someone asks about recompensing injury with kindness and the Master asks with what kindness would then be recompensed; it repeats no four words of the key verse. entry-check ok with no warnings."
+}

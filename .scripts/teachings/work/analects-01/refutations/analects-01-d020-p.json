@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d020-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=432753", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 20: in He Yan's collection the gloss on 問於曾子。曾子曰：上失其道，民散久矣。如得其情，則哀矜而勿喜 (19.19, the line holding the key verse) is tagged 馬曰 and reads 民之離散為輕漂犯法，乃上之所為，非民之過 verbatim, so crediting Ma Rong through 'He Yan’s collection' follows the plan trap and 'the people’s lawbreaking as the doing of those above, not the people’s own fault' is carried word for word. Zhu Xi's note here is Xie's (謝氏曰), so the He Yan choice is the right one. Plain sense matches Legge: the Mang chief appoints Yang Fu, who consults Tsang, whose answer opens with the rulers' failure; 'long' leans on Legge's trailing 'for a long time', a tolerable compression. Hard passage (law) stated plainly, the reading attributed. verse.js ok (Analects 19.19, at 489); entry-check ok.",
+ "better": ""
+}

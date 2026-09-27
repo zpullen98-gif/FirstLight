@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘Am I a bitter gourd! How can I be hung up out of the way of being eaten?’",
+ "ref": "Analects 17.7",
+ "at": [
+  440
+ ],
+ "s": "Invited by the rebel Pi Hsi, the Master answers Tsze-lu’s protest; He Yan, in his own note on 17.7, reads the gourd as hung in one place because it does not eat, whereas the Master, who eats, must go in every direction.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, own note on 17.7, zh.wikisource (the jijie notes in Lunyu zhushu, juan 17), revision 432755 (2015)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=432755",
+    "edition": "zh.wikisource 論語註疏/卷17 (the 集解 notes only), revision 432755",
+    "locator": "He Yan, Lunyu jijie, untagged note on the last line of 17.7 (吾豈匏瓜也哉？焉能係而不食？)",
+    "via": "packet"
+   }
+  ],
+  "words": "匏，瓠也。言瓠瓜得係一處者，不食故也。吾自食物，當東西南北，不得如不食之物，係滯一處。",
+  "lang": "Classical Chinese",
+  "gloss": "Pao is a gourd. It means a gourd can be tied up in one place because it does not eat. I am one who eats, and must go east, west, south and north; I cannot be like a thing that does not eat, tied and stuck in one place.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 17.7, at 440). He Yan’s note on 吾豈匏瓜也哉 is untagged (the earlier lines of 17.7 carry Kong Anguo’s tagged glosses), so it is his own; it takes 不食 as the gourd not eating, hence tied in one place, while the Master eats and must go in every direction. The reading paraphrases it without addition; it is He Yan’s reading, not Legge’s translation, which takes the gourd as not being eaten. Plain sense faithful to day.js: Pi Hsi, in rebellion at Chung-mau, invites the Master and Tsze-lu protests. Source revision 432755 dated 2015-04-09 by the Wikisource API. entry-check ok."
+}

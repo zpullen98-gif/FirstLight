@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘The faults of men are characteristic of the class to which they belong. By observing a man’s faults, it may be known that he is virtuous.’",
+ "ref": "Analects 4.7",
+ "at": [
+  72
+ ],
+ "s": "After lamenting that no lover of virtue is seen, the Master turns to failings; He Yan’s collection, on 4.7, gives Kong Anguo’s reading, which takes the small man’s falling short of the gentleman as no fault, and fitting each to his place as virtue.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie (Kong Anguo’s gloss), on 4.7, zh.wikisource (Lunyu jijie/02, proofread), revision 2270600 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2270600",
+    "edition": "zh.wikisource 論語集解/02 (He Yan’s 集解 alone, proofread), revision 2270600",
+    "locator": "He Yan, Lunyu jijie, gloss on 4.7 (子曰：「人之過也，各於其黨。觀過，斯知仁矣。」), tagged 孔曰 (Kong Anguo)",
+    "via": "packet"
+   }
+  ],
+  "words": "孔曰：黨，黨類。小人不能爲君子之行，非小人之過，當恕而勿責之。觀過，使賢愚各當其所，則爲仁矣。",
+  "lang": "Classical Chinese",
+  "gloss": "Kong Anguo says: dang is class or kind. That the small man cannot act as the gentleman acts is not the small man’s fault; he should be forgiven and not blamed. To observe faults so that the worthy and the foolish each fit their proper place is benevolence.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 4.7, at 72). The packet’s He Yan text (revision 2270600) gives a single gloss on 4.7, tagged 孔曰, so it is correctly credited to Kong Anguo through He Yan’s collection in the form the plan prescribes. It says the small man’s inability to act as the gentleman is not his fault, to be forgiven, and that observing faults so the worthy and foolish each fit their place is benevolence; the reading paraphrases both halves without addition. Plain sense is faithful: 4.6 laments never having seen one who loved virtue, and 4.7 turns to faults. Source line matches the packet edition and revision. entry-check ok."
+}

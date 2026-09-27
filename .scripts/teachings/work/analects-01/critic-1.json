@@ -1,0 +1,17 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 3,
+   "id": "analects-01-d003-p",
+   "problem": "The plain sense names only “a proverb on courting the furnace”, so the reading’s “corner or furnace” brings in a corner the reader has not met (an image left without its point); and in “one who defies principle cannot pray his way out, and should flatter neither” the advice to court neither is pinned grammatically on the offender, whereas Zhu Xi (言但當順理，非特不當媚竈，亦不可媚於奧也) gives it as the general rule: simply follow principle.",
+   "fix": "Asked by Wang-sun Chia about a proverb preferring the furnace to the south-west corner, the Master rejects it; Zhu Xi, on 3.13, reads Heaven as principle: no prayer to corner or furnace clears one who defies it, so one should follow principle and court neither. (45 words; entry-check ok)"
+  },
+  {
+   "d": 6,
+   "id": "analects-01-d006-p",
+   "problem": "“Asked by the Duke Ai who loved learning” reads first as a description of the Duke (the Duke Ai, who loved learning), not as his question; the garden path costs the reader the sense of the whole opening clause.",
+   "fix": "Change to “Asked by the Duke Ai which disciple loved learning, Confucius names Yen Hui; …” with the rest unchanged (44 words; entry-check ok)."
+  }
+ ]
+}

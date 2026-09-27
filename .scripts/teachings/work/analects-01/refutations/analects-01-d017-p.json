@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d017-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2304542", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 17 and the raw wikitext of revision 2304542 (API timestamp 2023-08-01): in Zhu Xi's chapter marked [16.2] (same division as Legge), the commentary on the last line 天下有道，則庶人不議 reads 上無失政，則下無私議。非箝其口使不敢言也, verbatim, unattributed to any quoted scholar, so his own. The paraphrase (no private criticism below when government above does not fail, not mouths gagged into silence) carries exactly those two clauses. verse.js ok (Analects 16.2, at 421), and the key is the very line he comments on. Plain sense matches day.js: authority descending from the son of Heaven to princes, Great officers and their subsidiary ministers, then the common people; 'retainers' is a fair English for Legge's 'subsidiary ministers' (Legge's note: family ministers), not a text term, but not wrong. No school, no comparison, tone plain. entry-check ok (41 words).",
+ "better": ""
+}

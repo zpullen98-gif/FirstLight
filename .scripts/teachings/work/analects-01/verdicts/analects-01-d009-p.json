@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d009-p",
+ "d": 9,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘When the year becomes cold, then we know how the pine and the cypress are the last to lose their leaves.’",
+ "ref": "Analects 9.27",
+ "at": [
+  231
+ ],
+ "s": "After praising Tsze-lu’s unashamed poverty, the Master turns to trees in the cold; He Yan, on 9.27, reads it as a figure: in settled times common men also order themselves, and only a muddied age makes the gentleman’s uprightness known.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, on 9.27, zh.wikisource (the Jijie notes in Lunyu zhushu, juan 9), revision 2030329 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2030329",
+    "edition": "zh.wikisource 論語註疏/卷09 (the 集解 notes only), revision 2030329 (2021-05-18)",
+    "locator": "He Yan, Lunyu jijie, untagged note on 9.27 (子曰：“歲寒然後知松柏之後彫也。”)",
+    "via": "packet"
+   }
+  ],
+  "words": "大寒之歲，眾木皆死，然後知松柏小彫傷；平歲則眾木亦有不死者，故須歲寒而後別之。喻凡人處治世亦能自脩整，與君子同；在濁世，然後知君子之正不苟容。",
+  "lang": "Classical Chinese",
+  "gloss": "In a year of great cold all the trees die, and then it is known that the pine and cypress are only a little withered; in an ordinary year many trees also survive, so it takes a cold year to tell them apart. It is a figure: ordinary men in a well-governed age can also keep themselves in order, the same as the gentleman; only in a muddied age is the gentleman’s uprightness, which will not stoop to please, known. (Untagged: He Yan’s own note.)",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 9.27, at 231). He Yan’s note on 9.27 in the packet is untagged, so it is his own (the tagged Kong and Ma notes sit on 9.25 and 9.26, not here); it explicitly calls the saying a figure (喻) for ordinary men ordering themselves in settled times and the gentleman’s uprightness known only in a muddied age, which the sentence paraphrases without addition. Plain sense faithful to day.js: 9.26 praises Yu (Tsze-lu) standing unashamed in a tattered robe beside men in furs, and 9.27 follows; no four words of the key repeated. Revision 2030329 dated 2021-05-18 by the Wikisource API. entry-check ok."
+}

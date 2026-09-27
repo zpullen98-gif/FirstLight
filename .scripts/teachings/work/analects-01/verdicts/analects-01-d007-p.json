@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘My praying has been for a long time.’",
+ "ref": "Analects 7.34",
+ "at": [
+  180
+ ],
+ "s": "Gravely ill, asked by Tsze-lu for leave to pray, the Master replies; Zhu Xi, on 7.34, reads it as an indirect refusal: prayer is repentance and amendment to seek the spirits’ help, and a sage whose conduct accorded with them had nothing to repent.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 7.34, zh.wikisource (Sishu zhangju jizhu, juan 4), revision 2285801 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2285801",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷四, revision 2285801 (2023-05-10)",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 7.34 (子疾病，子路請禱)",
+    "via": "packet"
+   }
+  ],
+  "words": "禱者，悔過遷善，以祈神之佑也。無其理則不必禱，既曰有之，則聖人未嘗有過，無善可遷。其素行固已合於神明，故曰：「丘之禱久矣。」又士喪禮，疾病行禱五祀。蓋臣子迫切之至情，有不能自已者，初不請於病者而後禱也。故孔子之於子路，不直拒之",
+  "lang": "Classical Chinese",
+  "gloss": "Praying is repenting of faults and moving to the good, to ask the protection of the spirits. If there were no such principle there would be no need to pray; since he said there was, then: the sage never had a fault and had no good to move to; his constant conduct already accorded with the spirits, so he said, My praying has been for a long time. Also, in the rites for a dying officer, prayers are offered to the five household spirits in grave illness; this is the urgent feeling of ministers and sons that cannot hold itself back, and they do not first ask the sick man before praying. So Confucius, with Tsze-lu, did not refuse him outright.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 7.34, at 180). Read Zhu Xi on the whole of 7.34 in the packet: he defines prayer as 悔過遷善 to seek the spirits’ protection, says the sage had no fault and no good to move to and his conduct already accorded with the spirits, and says Confucius did not refuse Tsze-lu outright but told him there was no call to pray; the sentence (indirect refusal, repentance and amendment, nothing to repent) carries exactly this without addition. Kong Anguo’s note in He Yan also has 素行合於神明, but the entry cites Zhu Xi, whose own text holds it. Plain sense faithful to day.js (Master very sick, Tsze-lu asks leave to pray, the Master answers) and repeats no four words of the key. Revision 2285801 dated 2023-05-10 by the Wikisource API. entry-check ok."
+}

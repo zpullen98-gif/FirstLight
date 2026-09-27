@@ -1,0 +1,11 @@
+{
+ "id": "analects-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2598582",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 1 and the raw wikitext of revision 2598582 (timestamp 2025-09-17 by the Wikisource API): Zhu Xi’s comment on the first line of 1.1 (學而時習之，不亦說乎) carries 學之為言效也。人性皆善，而覺有先後，後覺者必效先覺之所為，乃可以明善而復其初也。習，鳥數飛也 verbatim. ‘Imitating those who awoke first’ is 效先覺之所為, ‘understand the good’ is 明善, ‘recover an original goodness’ joins 復其初 to his 人性皆善 in the same sentence, and the bird’s repeated flights is 鳥數飛, all without addition; the tagged He Yan glosses (Ma Rong, Wang Su) differ, so no false attribution. Key verse is the very line he comments on, verse.js ok (Analects 1.1, at 0, no dash). Plain sense matches day.js: the three questions of 1.1 on learning, friends from distant quarters, and no discomposure when unnoticed; no four-word run from the key verse. No school needed, no comparison, tone plain, British spelling. entry-check ok (45 words, src 109 characters).",
+ "better": ""
+}

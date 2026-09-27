@@ -1,0 +1,11 @@
+{
+ "id": "analects-01-d002-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2270598",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 2 and the raw wikitext of revision 2270598 (timestamp 2023-03-25): after 思而不學則殆 the note reads {{*|不學而思，終卒不得，使人精神疲怠。}} with no author tag, while the note on the first half is tagged 包曰 (Bao Xian); so by the brief’s rule it is He Yan’s own, and crediting him by name is correct (the standard 論語注疏 text also leaves it untagged). The paraphrase (the peril of 殆 taken as weariness, such thought gets nothing in the end, wears out the spirit) is 終卒不得，使人精神疲怠 without addition; ‘for’ makes the link causal where he juxtaposes, a harmless connective. Zhu Xi reads 殆 as danger and unsettledness, so the attribution is distinctive and not borrowed. verse.js ok (Analects 2.15, at 30, no dash). Plain sense matches day.js: 2.11 to 2.17 turn on learning, teaching and knowing, and 2.16 on the study of strange doctrines follows at once; no key-verse run repeated. entry-check ok (45 words, src 96 characters).",
+ "better": ""
+}

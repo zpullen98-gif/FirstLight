@@ -1,0 +1,241 @@
+{
+ "lane": "L1",
+ "plan": "analects",
+ "batch": "analects-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "analects-01-d001-p",
+    "key": "The Master said, ‘Is it not pleasant to learn with a constant perseverance and application?",
+    "ref": "Analects 1.1",
+    "at": [
+     0
+    ],
+    "s": "The book opens with the Master’s three questions, on learning, distant friends and calm when unknown; Zhu Xi, on 1.1, reads learning as imitating those who awoke first, to understand the good and recover an original goodness, and the application as a bird’s repeated flights.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 1.1, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 1), revision 2598582 (2025)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "學之為言效也。人性皆善，而覺有先後，後覺者必效先覺之所為，乃可以明善而復其初也。習，鳥數飛也。",
+     "gloss": "To learn means to imitate. Human nature is wholly good, but people awaken to it earlier or later; those who awaken later must imitate what those who awakened first do, and then they can understand the good and return to what they were at the beginning. Practice (習) is a bird flying again and again."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d001-s",
+    "key": "‘The superior man bends his attention to what is radical. That being established, all practical courses naturally grow up.",
+    "ref": "Analects 1.2",
+    "at": [
+     1
+    ],
+    "s": "The philosopher Yu, having said the filial seldom rebel, turns to the ground of conduct; He Yan, on 1.2, takes the root as a foundation that must stand before anything is completed, and serving father and elder brothers as the start of full benevolence.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie, on 1.2, zh.wikisource (Lunyu jijie/01, proofread), revision 2270598 (2023)",
+    "basis": {
+     "source": "he-yan",
+     "words": "本，基也。基立而後可大成。…先能事父兄，然後仁道可大成。",
+     "gloss": "[Untagged, He Yan’s own, on the line of the root:] The root is the foundation. Only when the foundation stands can there be great completion. … [On the next line, filial piety as the root of benevolence:] First be able to serve father and elder brothers; after that the Way of benevolence can be brought to full completion."
+    }
+   }
+  },
+  {
+   "d": 2,
+   "primary": {
+    "id": "analects-01-d002-p",
+    "key": "The Master said, ‘Learning without thought is labour lost; thought without learning is perilous.’",
+    "ref": "Analects 2.15",
+    "at": [
+     30
+    ],
+    "s": "Among sayings on learning and knowing, just before a warning against strange doctrines, the Master pairs study with reflection; He Yan, on 2.15, takes the peril of thinking without study as weariness, for such thought gets nothing in the end and wears out the spirit.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie, on 2.15, zh.wikisource (Lunyu jijie/01, proofread), revision 2270598 (2023)",
+    "basis": {
+     "source": "he-yan",
+     "words": "不學而思，終卒不得，使人精神疲怠。",
+     "gloss": "[Untagged, He Yan’s own, on “thought without learning is perilous”:] To think without learning is in the end to get nothing, and it leaves a person’s spirit weary and slack."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d002-s",
+    "key": "‘At seventy, I could follow what my heart desired, without transgressing what was right.’",
+    "ref": "Analects 2.4",
+    "at": [
+     19
+    ],
+    "s": "The Master traces his growth by decades from fifteen, and this is the final stage; Zhu Xi, on 2.4, reads it as acting at ease, the heart’s wishes of themselves never passing the measure of the square, and hitting the mark without effort.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 2.4, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 1), revision 2598582 (2025)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "從，隨也。矩，法度之器，所以為方者也。隨其心之所欲，而自不過於法度，安而行之，不勉而中也。",
+     "gloss": "To follow is to go along with. The ju is the instrument of measure, that by which a square is made. He goes along with what his heart desires and of itself it does not pass the measure: he acts at ease, and hits the mark without striving."
+    }
+   }
+  },
+  {
+   "d": 3,
+   "primary": {
+    "id": "analects-01-d003-p",
+    "key": "The Master said, ‘Not so. He who offends against Heaven has none to whom he can pray.’",
+    "ref": "Analects 3.13",
+    "at": [
+     52
+    ],
+    "s": "Asked by Wang-sun Chia about a proverb on courting the furnace, the Master rejects it; Zhu Xi, on 3.13, reads Heaven as principle, beyond comparison with corner or furnace: one who defies principle cannot pray his way out, and should flatter neither.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 3.13, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 2), revision 2063643 (2021)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "天，即理也；其尊無對，非奧竈之可比也。逆理，則獲罪於天矣，豈媚於奧竈所能禱而免乎？言但當順理，非特不當媚竈，亦不可媚於奧也。",
+     "gloss": "Heaven is principle itself; its honour has no equal, and the south-west corner and the furnace are not to be compared with it. To go against principle is to offend against Heaven: how could flattering the corner or the furnace pray one free of that? He means that one should simply follow principle: not only should one not flatter the furnace, one may not flatter the corner either."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d003-s",
+    "key": "‘In festive ceremonies, it is better to be sparing than extravagant. In the ceremonies of mourning, it is better that there be deep sorrow than a minute attention to observances.’",
+    "ref": "Analects 3.4",
+    "at": [
+     43
+    ],
+    "s": "Lin Fang asks what comes first in ceremonies, and the Master praises the question; He Yan’s collection, on 3.4, gives Bao Xian’s reading, which takes the lines as ceremony’s root intent, and the mourner’s fault as easy composure where grief is due.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie (Bao Xian’s gloss), on 3.4, zh.wikisource (Lunyu jijie/02, proofread), revision 2270600 (2023)",
+    "basis": {
+     "source": "he-yan",
+     "words": "包曰：易，和易也。言禮之本意，失於奢，不如儉。喪，失於和易，不如哀戚。",
+     "gloss": "Bao Xian says: yi (易) means easy composure. It says that, as to the root intent of ceremony, erring toward extravagance is not as good as frugality; in mourning, erring toward easy composure is not as good as grief."
+    }
+   }
+  },
+  {
+   "d": 4,
+   "primary": {
+    "id": "analects-01-d004-p",
+    "key": "The Master said, ‘The faults of men are characteristic of the class to which they belong. By observing a man’s faults, it may be known that he is virtuous.’",
+    "ref": "Analects 4.7",
+    "at": [
+     72
+    ],
+    "s": "After lamenting that no lover of virtue is seen, the Master turns to failings; He Yan’s collection, on 4.7, gives Kong Anguo’s reading, which takes the small man’s falling short of the gentleman as no fault, and fitting each to his place as virtue.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie (Kong Anguo’s gloss), on 4.7, zh.wikisource (Lunyu jijie/02, proofread), revision 2270600 (2023)",
+    "basis": {
+     "source": "he-yan",
+     "words": "孔曰：黨，黨類。小人不能爲君子之行，非小人之過，當恕而勿責之。觀過，使賢愚各當其所，則爲仁矣。",
+     "gloss": "Kong Anguo says: dang (黨) is one’s class or kind. That the small man cannot act as the gentleman acts is no fault of the small man; he should be forgiven, not blamed. To observe faults so that the worthy and the foolish each fit their proper place: that is benevolence."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d004-s",
+    "key": "The Master said, ‘Shan, my doctrine is that of an all-pervading unity.’ The disciple Tsang replied, ‘Yes.’",
+    "ref": "Analects 4.15",
+    "at": [
+     80
+    ],
+    "s": "The Master addresses Tsang, and the other disciples later ask its meaning; Zhu Xi, on 4.15, reads the unity as one undivided principle in the sage’s mind, fitting each matter, and the quick reply as the tacit grasp of one long practised in its uses.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 4.15, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 2), revision 2063643 (2021)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "聖人之心，渾然一理，而泛應曲當，用各不同。曾子於其用處，蓋已隨事精察而力行之，但未知其體之一爾。夫子知其真積力久，將有所得，是以呼而告之。曾子果能默契其指，即應之速而無疑也。",
+     "gloss": "The sage’s mind is one undivided principle, which answers everything broadly and fits each case exactly, its uses all different. In its uses Tsang had already examined each matter closely and practised it with effort, but did not yet know that their substance is one. The Master knew his long and real accumulation of effort and that he was about to attain it, so he called him and told him. Tsang did indeed tacitly grasp the meaning, and so answered at once and without doubt."
+    }
+   }
+  },
+  {
+   "d": 5,
+   "primary": {
+    "id": "analects-01-d005-p",
+    "key": "The Master said, ‘In a hamlet of ten families, there may be found one honourable and sincere as I am, but not so fond of learning.’",
+    "ref": "Analects 5.27",
+    "at": [
+     118
+    ],
+    "s": "Ending a book that weighs disciples and officers, the Master speaks of himself; Zhu Xi, on 5.27, reads it as a spur to others: fine endowments are easily found, the highest Way hard to hear, and learning carried through can make a sage.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 5.27, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 3), revision 2281474 (2023)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "夫子生知而未嘗不好學，故言此以勉人。言美質易得，至道難聞，學之至則可以為聖人，不學則不免為鄉人而已。",
+     "gloss": "The Master knew from birth, yet never failed to love learning, and so he said this to spur others on. He means that fine endowments are easily found but the highest Way is hard to hear; learning carried to the utmost can make one a sage, while without learning one remains no more than a villager."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d005-s",
+    "key": "Tsze-kung said, ‘The Master’s personal displays of his principles and ordinary descriptions of them may be heard. His discourses about man’s nature, and the way of Heaven, cannot be heard.’",
+    "ref": "Analects 5.12",
+    "at": [
+     103
+    ],
+    "s": "Tsze-kung, whom the Master has just told he falls short, describes his teacher’s instruction; He Yan, on 5.12, takes nature as what one receives in order to live, and Heaven’s way as origin, growth and daily renewal, both too deep and subtle to be heard.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie, on 5.12, zh.wikisource (Lunyu jijie/03, proofread), revision 2270601 (2023)",
+    "basis": {
+     "source": "he-yan",
+     "words": "性者，人之所受以生也。天道者，元亨日新之道。深微，故不可得而聞也。",
+     "gloss": "[Untagged, He Yan’s own:] Nature is what a person receives in order to live. The way of Heaven is the way of origination and growth, renewed day by day. They are deep and subtle, and so cannot be heard."
+    }
+   }
+  },
+  {
+   "d": 6,
+   "primary": {
+    "id": "analects-01-d006-p",
+    "key": "He did not transfer his anger; he did not repeat a fault.",
+    "ref": "Analects 6.2",
+    "at": [
+     120
+    ],
+    "s": "Asked by the Duke Ai who loved learning, Confucius names Yen Hui; He Yan, on 6.2, reads him as led by the Way where ordinary men follow feeling, his anger kept to its due and never shifted, and no wrong ever done twice.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie, on 6.2, zh.wikisource (Lunyu jijie/03, proofread), revision 2270601 (2023)",
+    "basis": {
+     "source": "he-yan",
+     "words": "凡人任情，喜怒違理。顔淵任道，怒不過分。遷者，移也。怒當其理，不移易也。不貳過者，有不善，未嘗復行。",
+     "gloss": "[Untagged, He Yan’s own:] Ordinary people give rein to feeling, and their joy and anger go against principle. Yan Yuan gave himself to the Way, and his anger did not go beyond its due. To transfer is to shift: his anger fitted its reason and did not shift. Not repeating a fault: when he had done something not good, he never did it again."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d006-s",
+    "key": "‘Now the man of perfect virtue, wishing to be established himself, seeks also to establish others; wishing to be enlarged himself, he seeks also to enlarge others.",
+    "ref": "Analects 6.28",
+    "at": [
+     146
+    ],
+    "s": "After calling a benefactor of all the people a sage, the Master describes the virtuous man; Zhu Xi, on 6.28, reads it as the virtuous mind extending self to others, in which heavenly principle is seen flowing unbroken, the aptest picture of virtue’s substance.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 6.28, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 3), revision 2281474 (2023)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "以己及人，仁者之心也。於此觀之，可以見天理之周流而無閒矣。狀仁之體，莫切於此。",
+     "gloss": "To reach from oneself to others is the mind of the virtuous. Looking at this, one can see heavenly principle flowing everywhere without a break. For describing the substance of virtue, nothing comes closer than this."
+    }
+   }
+  }
+ ]
+}

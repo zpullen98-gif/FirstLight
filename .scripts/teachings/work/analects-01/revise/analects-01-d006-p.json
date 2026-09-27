@@ -1,0 +1,35 @@
+{
+ "id": "analects-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "He did not transfer his anger; he did not repeat a fault.",
+ "ref": "Analects 6.2",
+ "at": [120],
+ "s": "Asked by the Duke Ai which disciple loved learning, Confucius names Yen Hui; He Yan, on 6.2, reads him as led by the Way where ordinary men follow feeling, his anger kept to its due and never shifted, and no wrong ever done twice.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, on 6.2, zh.wikisource (Lunyu jijie/03, proofread), revision 2270601 (2023)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2270601",
+    "edition": "zh.wikisource 論語集解/03 (He Yan’s 集解 alone, proofread), revision 2270601",
+    "locator": "He Yan, Lunyu jijie, untagged gloss on 6.2 (哀公問：「弟子孰爲好學？」 ...)",
+    "via": "packet"
+   }
+  ],
+  "words": "凡人任情，喜怒違理。顔淵任道，怒不過分。遷者，移也。怒當其理，不移易也。不貳過者，有不善，未嘗復行。",
+  "lang": "Classical Chinese",
+  "gloss": "Ordinary people give rein to feeling, and their joy and anger go against principle. Yan Yuan gave himself to the Way, and his anger did not exceed its due. To transfer is to shift: his anger fitted its reason and did not shift. Not repeating a fault: when he did something not good, he never did it again.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: 'Asked by the Duke Ai who loved learning' first parses as a relative clause describing the Duke. Legge's 6.2 (day.js) has 'The Duke Ai asked which of the disciples loved to learn', so 'which disciple loved learning' is faithful and removes the garden path. Only the opening clause changed; reading, commentator, evidence (the untagged gloss, He Yan's own), key, ref, at and src unchanged. verse.js ok (Analects 6.2, at 120); entry-check ok."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘In a hamlet of ten families, there may be found one honourable and sincere as I am, but not so fond of learning.’",
+ "ref": "Analects 5.27",
+ "at": [
+  118
+ ],
+ "s": "Ending a book that weighs disciples and officers, the Master speaks of himself; Zhu Xi, on 5.27, reads it as a spur to others: fine endowments are easily found, the highest Way hard to hear, and learning carried through can make a sage.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 5.27, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 3), revision 2281474 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2281474",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷三, revision 2281474",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on 5.27 (子曰：「十室之邑，必有忠信如丘者焉 ...)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫子生知而未嘗不好學，故言此以勉人。言美質易得，至道難聞，學之至則可以為聖人，不學則不免為鄉人而已。",
+  "lang": "Classical Chinese",
+  "gloss": "The Master knew from birth yet never failed to love learning, so he said this to spur others on. He means that fine native endowment is easily found but the highest Way is hard to hear; learning carried to its utmost can make a sage, while without learning one remains merely a villager.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 5.27, at 118). Zhu Xi’s commentary on 5.27 in the packet (revision 2281474) says the Master said this to spur others (勉人), that fine endowments are easily found and the highest Way hard to hear, and that learning carried to its utmost can make a sage; the reading carries exactly these three points without addition. Plain sense is faithful: 5.27 closes Book 5, which appraises disciples (Kung-ye Ch’ang, Tsze-lu, Zan Yu and others) and officers (Tsang Wan, Tsze-wan, Ch’en Wan, Ning Wu), and here the Master speaks of himself. Source line matches the packet edition and revision. entry-check ok."
+}

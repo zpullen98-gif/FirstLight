@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When you have found out the truth of any accusation, be grieved for and pity them, and do not feel joy at your own ability.",
+ "ref": "Analects 19.19",
+ "at": [
+  489
+ ],
+ "s": "Yang Fu, made chief criminal judge, consults the philosopher Tsang, who begins from rulers long failed in their duties; He Yan’s collection, on 19.19, gives Ma Rong, who reads the people’s lawbreaking as the doing of those above, not the people’s own fault.",
+ "by": "he-yan",
+ "by2": "",
+ "hedge": "",
+ "src": "He Yan, Lunyu jijie, Ma Rong’s gloss on 19.19, zh.wikisource (Lunyu zhushu, juan 19, the jijie notes), revision 432753 (2015)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=432753",
+    "edition": "zh.wikisource 論語註疏/卷19 (the 集解 notes only), revision 432753",
+    "locator": "He Yan, Lunyu jijie, gloss tagged 馬曰 (Ma Rong) on 19.19 (問於曾子。曾子曰 ...)",
+    "via": "packet"
+   }
+  ],
+  "words": "馬曰：“民之離散為輕漂犯法，乃上之所為，非民之過，當哀矜之，勿自喜能得其情。”",
+  "lang": "Classical Chinese",
+  "gloss": "Ma Rong says: that the people have scattered and drift lightly into breaking the law is the doing of those above, not the people’s fault; one should grieve for them and pity them, and not be pleased with oneself for getting at the facts.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "law",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 19.19, at 489). In He Yan’s collection the gloss on 問於曾子。曾子曰 ... 哀矜而勿喜 is tagged 馬曰, so it is Ma Rong’s and the sentence credits him through He Yan’s collection as the plan’s trap requires; it says the people’s lawbreaking is the doing of those above and not their fault, which the reading paraphrases without addition. Plain sense is faithful: Yang Fu, appointed chief criminal judge, consults Tsang, who first says the rulers have failed in their duties for a long time. Source line matches packet revision 432753. entry-check ok."
+}

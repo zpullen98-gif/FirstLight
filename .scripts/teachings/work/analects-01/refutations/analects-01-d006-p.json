@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d006-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2270601", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 6 and the raw wikitext of revision 2270601 (論語集解/03, dated 2023-03-25 by the Wikisource API): the single gloss after 哀公問：「弟子孰爲好學？」 ... 未聞好學者也。 carries no author tag and reads 凡人任情，喜怒違理。顔淵任道，怒不過分。遷者，移也。怒當其理，不移易也。不貳過者，有不善，未嘗復行 verbatim; untagged notes are He Yan's own under the plan's rule, so naming He Yan directly is right. 'Led by the Way where ordinary men follow feeling' is 凡人任情 ... 顔淵任道, 'anger kept to its due and never shifted' is 怒不過分 ... 怒當其理，不移易, 'no wrong ever done twice' is 有不善，未嘗復行: no drift. Key is the exact clause glossed, begins a sentence inside the unit, no dash, verse.js ok (Analects 6.2, at 120). Plain sense matches day.js (the Duke Ai asks which disciple loved to learn, Confucius names Yen Hui); no four key words repeated. No school, comparison or tone problem. entry-check ok.",
+ "better": ""
+}

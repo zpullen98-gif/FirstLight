@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘When right principles prevail in the kingdom, there will be no discussions among the common people.’",
+ "ref": "Analects 16.2",
+ "at": [
+  421
+ ],
+ "s": "Confucius traces authority slipping from the son of Heaven down to retainers, then turns to the common people; Zhu Xi, on 16.2, reads it as no private criticism below when government above does not fail, not as mouths gagged into silence.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 16.2, zh.wikisource (Sishu zhangju jizhu, Lunyu jizhu juan 8), revision 2304542 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2304542",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷八, revision 2304542",
+    "locator": "Zhu Xi, Lunyu jizhu, commentary on the last line of 16.2 (天下有道，則庶人不議。)",
+    "via": "packet"
+   }
+  ],
+  "words": "上無失政，則下無私議。非箝其口使不敢言也。",
+  "lang": "Classical Chinese",
+  "gloss": "When those above make no failure of government, those below have no private criticism. It is not that their mouths are clamped so that they dare not speak.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 16.2, at 421). Zhu Xi’s comment sits directly on 天下有道，則庶人不議 and says in his own words that when government above does not fail there is no private criticism below, and that this is not a clamping of mouths; the reading carries exactly that. Plain sense is faithful to day.js: the chapter traces ceremonies, music and expeditions passing from the son of Heaven to princes, great officers and their subsidiary ministers (Zhu Xi glosses 陪臣 as household retainers), then ends on the common people. Source revision 2304542 dated 2023-08-01 by the Wikisource API. entry-check ok."
+}

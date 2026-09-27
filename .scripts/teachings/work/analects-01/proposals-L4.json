@@ -1,0 +1,124 @@
+{
+ "lane": "L4",
+ "plan": "analects",
+ "batch": "analects-01",
+ "days": [
+  {
+   "d": 19,
+   "primary": {
+    "id": "analects-01-d019-p",
+    "key": "If right principles prevailed through the empire, there would be no use for me to change its state.",
+    "ref": "Analects 18.6",
+    "at": [
+     465
+    ],
+    "s": "When a recluse urges Tsze-lu to quit a world swept by disorder, the Master sighs that he must keep company with mankind; Zhu Xi, on 18.6, reads him as seeking to change the world by the Way precisely because it lacks the Way.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 18.6, zh.wikisource (Sishu zhangju jizhu, juan 9), revision 2560458 (2025)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "言所當與同群者，斯人而已，豈可絕人逃世以為潔哉？天下若已平治，則我無用變易之。正為天下無道，故欲以道易之耳。",
+     "gloss": "It means: those one ought to flock with are these people and no others; how could one cut oneself off from people and flee the world and count that as purity? If the world were already at peace and in order, I would have no need to change it. It is precisely because the world is without the Way that I wish to change it by the Way."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d019-s",
+    "key": "‘I am different from all these. I have no course for which I am predetermined, and no course against which I am predetermined.’",
+    "ref": "Analects 18.8",
+    "at": [
+     467
+    ],
+    "s": "Having judged the men who withdrew from the world, pair by pair, the Master sets himself apart; He Yan’s collection, on 18.8, gives Ma Rong, who takes him to be bound neither to advance nor to withdraw, but to go only where righteousness lies.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie, Ma Rong’s gloss on 18.8, zh.wikisource (Lunyu zhushu, juan 18, the jijie notes), revision 2067764 (2021)",
+    "basis": {
+     "source": "he-yan",
+     "words": "馬曰：“亦不必進，亦不必退，唯義所在。”",
+     "gloss": "Ma Rong says: He is not bound to advance, nor bound to withdraw; he goes only where righteousness lies."
+    }
+   }
+  },
+  {
+   "d": 20,
+   "primary": {
+    "id": "analects-01-d020-p",
+    "key": "When you have found out the truth of any accusation, be grieved for and pity them, and do not feel joy at your own ability.",
+    "ref": "Analects 19.19",
+    "at": [
+     489
+    ],
+    "s": "Yang Fu, made chief criminal judge, consults the philosopher Tsang, who begins from rulers long failed in their duties; He Yan’s collection, on 19.19, gives Ma Rong, who reads the people’s lawbreaking as the doing of those above, not the people’s own fault.",
+    "by": "he-yan",
+    "by2": "",
+    "hedge": "",
+    "src": "He Yan, Lunyu jijie, Ma Rong’s gloss on 19.19, zh.wikisource (Lunyu zhushu, juan 19, the jijie notes), revision 432753 (2015)",
+    "basis": {
+     "source": "he-yan",
+     "words": "馬曰：“民之離散為輕漂犯法，乃上之所為，非民之過，當哀矜之，勿自喜能得其情。”",
+     "gloss": "Ma Rong says: That the people have scattered and drift lightly into breaking the law is the doing of those above, not the people’s fault; one should grieve for them and pity them, and not be pleased with oneself for getting at the facts."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d020-s",
+    "key": "Tsze-hsia said, ‘The mean man is sure to gloss his faults.’",
+    "ref": "Analects 19.8",
+    "at": [
+     478
+    ],
+    "s": "In a book of the disciples’ sayings, Tsze-hsia speaks of how the petty man meets his errors; Zhu Xi, on 19.8, explains it as following from a dread of amending faults but none of deceiving oneself, so that the gloss compounds the fault.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 19.8, zh.wikisource (Sishu zhangju jizhu, juan 10), revision 2611553 (2025)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "文，飾之也。小人憚於改過，而不憚於自欺，故必文以重其過。",
+     "gloss": "To gloss is to cover with ornament. The petty man dreads correcting his faults but does not dread deceiving himself, and so he must gloss them, and thereby adds weight to his fault."
+    }
+   }
+  },
+  {
+   "d": 21,
+   "primary": {
+    "id": "analects-01-d021-p",
+    "key": "If, in my person, I commit offences, they are not to be attributed to you, the people of the myriad regions. If you in the myriad regions commit offences, these offences must rest on my person.",
+    "ref": "Analects 20.1",
+    "at": [
+     496
+    ],
+    "s": "Among the words of ancient kings, T’ang, having told God he dare not pardon the sinner, turns to the people; Zhu Xi, on 20.1, reads it as a king who counts their offences truly his own doing, blaming himself heavily and others lightly.",
+    "by": "zhu-xi",
+    "by2": "",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 20.1, zh.wikisource (Sishu zhangju jizhu, juan 10), revision 2611553 (2025)",
+    "basis": {
+     "source": "zhu-xi",
+     "words": "又言君有罪非民所致，民有罪實君所為，見其厚於責己薄於責人之意。此其告諸侯之辭也。",
+     "gloss": "He further says that the ruler’s offences are not brought about by the people, while the people’s offences are truly the ruler’s doing, which shows his mind to blame himself heavily and others lightly. This is his address to the feudal lords."
+    }
+   },
+   "standby": {
+    "id": "analects-01-d021-s",
+    "key": "If there shall be distress and want within the four seas, the Heavenly revenue will come to a perpetual end.",
+    "ref": "Analects 20.1",
+    "at": [
+     496
+    ],
+    "s": "Passing the throne to Shun, Yao bids him hold fast the Mean; Zhu Xi, on 20.1, reads it as a warning that the ruler’s revenue ends for ever if the people are in want, and He Yan’s collection gives Bao Xian’s reading, that holding the Mean reaches the ends of the four seas and Heaven’s revenue lasts long.",
+    "by": "zhu-xi",
+    "by2": "he-yan",
+    "hedge": "",
+    "src": "Zhu Xi, Lunyu jizhu, on 20.1, zh.wikisource revision 2611553 (2025); He Yan, Lunyu jijie, Bao Xian’s gloss, zh.wikisource revision 2112907 (2022)",
+    "basis": {
+     "source": "zhu-xi; he-yan",
+     "words": "四海之人困窮，則君祿亦永絕矣，戒之也。 … 包曰：“允，信也。困，極也。永，長也。言為政信執其中則能窮極四海，天祿所以長終。”",
+     "gloss": "[Zhu Xi:] If the people within the four seas are in distress and want, the ruler’s revenue too will be cut off for ever: it is a warning to him. … [He Yan’s collection, Bao Xian:] 允 means truly; 困 means to the utmost; 永 means long. It means that if in governing one truly holds to the mean, one can reach to the utmost bounds of the four seas, and that is how Heaven’s revenue lasts long to its end."
+    }
+   }
+  }
+ ]
+}

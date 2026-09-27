@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The stable being burned down, when he was at court, on his return he said, ‘Has any man been hurt?’ He did not ask about the horses.",
+ "ref": "Analects 10.12",
+ "at": [
+  246
+ ],
+ "s": "In a book of his ways at court, at table and at home, a stable burns; Zhu Xi, on 10.12, reads the silence about horses not as indifference but as fear for people leaving no leisure to ask, since principle values people above beasts.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 10.12, zh.wikisource (Sishu zhangju jizhu, juan 5), revision 2018280 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "sensitivity": "none",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2018280",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷五, revision 2018280",
+    "locator": "Zhu Xi, Lunyu jizhu, note on 10.12 (廄焚。子退朝，曰：「傷人乎？」不問馬。)",
+    "via": "packet"
+   }
+  ],
+  "words": "非不愛馬，然恐傷人之意多，故未暇問。蓋貴人賤畜，理當如此。",
+  "lang": "Classical Chinese",
+  "gloss": "It was not that he did not care for the horses; but his fear that people had been hurt was great, so he had no leisure to ask. For to value people and hold beasts cheap is as principle requires.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 10.12, at 246). Zhu Xi’s whole note on 10.12 in the packet is the two sentences quoted; the reading (not indifference, fear for people leaving no leisure to ask, people valued above beasts by principle) paraphrases it without addition. He Yan’s collection gives Zheng Xuan’s 重人賤畜 to the same effect, not used. Plain sense faithful: Book 10 describes his ways at court, at table and at home (day.js 10.1 to 10.18). Revision 2018280 dated 2021-02-21 by the Wikisource API. entry-check ok."
+}

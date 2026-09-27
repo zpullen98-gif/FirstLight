@@ -1,0 +1,11 @@
+{
+ "id": "analects-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2358541",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 12: Zhu Xi’s note on the first line of 12.1 (顏淵問仁。子曰：「克己復禮為仁。…」) contains the evidence span verbatim and contiguously (克，勝也 … 本心之德復全於我矣). Self as the body’s selfish desires (己，謂身之私慾也), propriety as the measured pattern of heavenly principle (禮者，天理之節文也), recovery making the heart’s virtue whole again (勝私慾而復於禮…本心之德復全於我) are all his words; ‘whose recovery’ fits either antecedent, since Zhu equates the heart’s whole virtue with heavenly principle (莫非天理). The reading is Zhu Xi’s own, not Cheng Yi’s or Xie’s, which follow after the circle. Juan 6 covers books 11 and 12. verse.js ok (Analects 12.1, at 278), whole sentence, no dash. Plain sense true to day.js: Yen Yuan asks, the Master answers, and the four ‘not’ prohibitions follow when he asks for the steps; compressed but not false. No comparison, no school required, entry-check ok, 43 words.",
+ "better": ""
+}

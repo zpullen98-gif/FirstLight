@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d003-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2063643", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 3 and the live revision (raw, 2021-08-07). Zhu Xi's own untagged comment sits on 子曰：不然，獲罪於天，無所禱也 (his 3.13, same chapter as Legge's; the 謝氏 note after the circle is excluded from the evidence). 天，即理也 carries 'Heaven as principle'; 逆理，則獲罪於天矣，豈媚於奧竈所能禱而免乎 carries 'no prayer to corner or furnace clears one who defies it'; 言但當順理，非特不當媚竈，亦不可媚於奧也 carries 'follow principle and court neither'. No drift. Plain sense matches day.js 3.13 (Legge: pay court to the furnace than to the south-west corner; the Master answers 'Not so') and shares no four words with the key. verse.js ok (Analects 3.13, at 52); entry-check ok; 45 words; British spelling; no dash (Wang-sun and south-west are hyphenated names as Legge prints them). Revision year 2021 confirmed by the Wikisource API. No school needed, no comparison, tone plain.",
+ "better": ""
+}

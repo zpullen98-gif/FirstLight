@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d014-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2371072", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 14: the jijie note on [14.21] 子曰：“其言之不怍，則為之也難。” is the only note there and is tagged 馬曰, reading 怍，慚也。內有其實，則言之不慚。積其實者，為之難, character for character the evidence. The sentence opens 'He Yan’s collection' and names Ma Rong, as the plan trap requires, and does not credit He Yan with the tagged gloss. Paraphrase (unashamed speech from substance within; gathering that substance is what is hard) is carried without addition. It differs in valence from Legge's 'without modesty' and from Zhu Xi's 大言不慚 (boastful talk), but the sentence attributes only Ma Rong's view and takes nothing from the translator, which is what rule 10 and the translator trap ask. Plain sense checked against day.js: 14.15 to 14.20 judge Tsang Wu-chung, dukes Wan and Hwan, Kwan Chung, Hsien and Duke Ling's officers, and 14.21 is the last unit of day 14. verse.js ok (Analects 14.21, at 352). entry-check ok, no warnings.",
+ "better": ""
+}

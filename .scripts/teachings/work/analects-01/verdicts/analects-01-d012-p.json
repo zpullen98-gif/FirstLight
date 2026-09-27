@@ -1,0 +1,42 @@
+{
+ "id": "analects-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Master said, ‘To subdue one’s self and return to propriety, is perfect virtue.",
+ "ref": "Analects 12.1",
+ "at": [
+  278
+ ],
+ "s": "Yen Yuan asks about perfect virtue, and the Master answers, then lists four prohibitions; Zhu Xi, on 12.1, reads the self as the body’s selfish desires and propriety as the ordered pattern of heavenly principle, whose recovery makes the heart’s virtue whole again.",
+ "by": "zhu-xi",
+ "by2": "",
+ "hedge": "",
+ "src": "Zhu Xi, Lunyu jizhu, on 12.1, zh.wikisource (Sishu zhangju jizhu, juan 6), revision 2358541 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "sensitivity": "none",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2358541",
+    "edition": "zh.wikisource 四書章句集註/論語集注卷六, revision 2358541",
+    "locator": "Zhu Xi, Lunyu jizhu, note on 12.1 (顏淵問仁。子曰：「克己復禮為仁。…」)",
+    "via": "packet"
+   }
+  ],
+  "words": "克，勝也。己，謂身之私慾也。復，反也。禮者，天理之節文也。為仁者，所以全其心之德也。蓋心之全德，莫非天理，而亦不能不壞於人欲。故為仁者必有以勝私慾而復於禮，則事皆天理，而本心之德復全於我矣。",
+  "lang": "Classical Chinese",
+  "gloss": "‘Subdue’ is to overcome. ‘Self’ means the selfish desires of the body. ‘Return’ is to go back. Propriety is the measured pattern of heavenly principle. Practising perfect virtue is the means to make whole the virtue of the heart. The heart’s whole virtue is nothing but heavenly principle, yet it cannot but be damaged by human desires. So one who practises perfect virtue must overcome selfish desire and return to propriety; then every affair is heavenly principle, and the virtue of the original heart is whole again in him.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Analects 12.1, at 278). Zhu Xi’s note on the first line of 12.1 glosses 己 as 身之私慾 and 禮 as 天理之節文, and says that overcoming selfish desire and returning to propriety makes the original heart’s virtue whole again; the reading paraphrases these without addition. The entry stands unchanged; only the evidence is given as one contiguous span (the proposer’s basis joined two parts with an ellipsis, which a machine re-find would not match). Plain sense faithful to day.js: Yen Yuan asks, the Master answers, and on being asked for the steps gives four prohibitions. Revision 2358541 dated 2024-01-20 by the Wikisource API. entry-check ok."
+}

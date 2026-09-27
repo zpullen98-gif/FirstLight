@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d021-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2611553", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 21: Zhu Xi's commentary on 曰：予小子履 ... 萬方有罪，罪在朕躬 (20.1) carries 又言君有罪非民所致，民有罪實君所為，見其厚於責己薄於責人之意 verbatim; 'counts their offences truly his own doing, blaming himself heavily and others lightly' is 民有罪實君所為 and 厚於責己薄於責人 without addition. Key verse is the closing two sentences of T'ang's address in one unit, no dash, verse.js ok (Analects 20.1, at 496). Plain sense follows day.js: after Yao and Shun, T'ang says he dare not pardon the sinner, then addresses 'you, the people of the myriad regions' (Zhu Xi calls it an address to the princes, but the plain sense rightly follows the translation's own terms); no four-word run from the key verse. God as the translation prints it. No comparison, no school needed. entry-check ok.",
+ "better": ""
+}

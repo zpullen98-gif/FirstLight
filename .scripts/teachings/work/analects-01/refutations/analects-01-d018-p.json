@@ -1,0 +1,8 @@
+{
+ "id": "analects-01-d018-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=432755", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js analects 18 and the raw wikitext of revision 432755 (API timestamp 2015-04-09): the note on 吾豈匏瓜也哉？焉能係而不食？ is untagged (the lines before carry 孔曰), so it is He Yan's own, and 匏，瓠也。言瓠瓜得係一處者，不食故也。吾自食物，當東西南北，不得如不食之物，係滯一處 is there verbatim. Gourd tied in one place because it does not eat, the Master who eats must go every direction: exactly the note. The reading takes 不食 as the gourd not eating, where Legge's translation in the key has 'being eaten'; the sentence gives He Yan's reading, not the translator's, so this is correct attribution rather than drift. verse.js ok (Analects 17.7, at 440, two whole sentences ending ! and ?, no dash). Plain sense matches day.js (Pi Hsi in rebellion invites, Tsze-lu protests, the Master answers). No school, no comparison, tone plain. entry-check ok (42 words).",
+ "better": ""
+}
