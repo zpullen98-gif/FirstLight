@@ -1,0 +1,43 @@
+{
+ "id": "veda-04-d118-p",
+ "d": 118,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "So mighty is his greatness; yea, greater than this is Purusa. All creatures are one-fourth of him, three-fourths eternal life in heaven.",
+ "ref": "Rig Veda 10.90.3",
+ "at": [
+  926,
+  3
+ ],
+ "s": "Having called Purusa all that was and will be, the hymn measures him; Sāyaṇa, on 10.90.3, reads the world, past, present and to come, as his greatness, not his true nature, and the quarter as marking it small beside Brahman, which has no measure.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.90.3, sa.wikisource (the printed edition is not named), revision 336240 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AF%E0%A5%A6&oldid=336240",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 336240 (printed edition not named)",
+    "locator": "on 10.90.3 (the packet prints 10.90.1 to 4 as one block of commentary; this is the part on verse 3, marked by its pratīka एतावान् ... महिमा)",
+    "via": "packet"
+   }
+  ],
+  "words": "अतीतानागतवर्तमानरूपं जगद्यावदस्ति “एतावान् सर्वोऽपि “अस्य पुरुषस्य “महिमा स्वकीयसामर्थ्यविशेषः। न तु तस्य वास्तवस्वरूपम् । … यद्यपि 'सत्यं ज्ञानमनन्तं ब्रह्म' (तै. आ. ८.१; तै. उ. २.१ ) इत्याम्नातस्य परब्रह्मण इयत्ताभावात् पादचतुष्टयं निरूपयितुमशक्यं तथापि जगदिदं ब्रह्मस्वरूपापेक्षयाल्पमिति विवक्षितत्वात् पादत्वोपन्यासः",
+  "lang": "Sanskrit",
+  "gloss": "The world, as much as there is of it, in the form of past, future and present: all this much is the greatness of this Purusa, his own particular power, not his real nature … though the supreme Brahman, having no measure, cannot be set out in four quarters, still a quarter is spoken of because what is meant is that this world is small compared with the nature of Brahman.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: ‘the world of all three times’ renders kālatraya too literally for a reader at six in the morning. Re-opened packet.js veda 118 --verse 10.90.3: Sāyaṇa glosses the world as अतीतानागतवर्तमानरूपं (in the form of past, future and present), so ‘the world, past, present and to come’ is his own wording in plain English. To stay within 45 words, the second ‘the world’ becomes ‘it’; nothing else changes: commentator, place, reading and source line as before. verse.js ok (Rig Veda 10.90.3, at [926,3]); entry-check ok (44 words); no four-word run from the key."
+}

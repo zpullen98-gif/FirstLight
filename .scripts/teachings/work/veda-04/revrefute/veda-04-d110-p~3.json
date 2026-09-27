@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d110-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AA%E0%A5%AA&oldid=328215",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 110 --verse 10.44.6 and the pinned revision itself (action=raw, oldid 328215; wiki API timestamp 2021-12-15, so the src year holds). Sāyaṇa's words are there: ye tvatprasādarahitā janāḥ (without Indra's grace, the comment addressing he indra), kepayaḥ glossed pāpakarmāṇo janāḥ (evildoers), īrmaiva as ṛṇenaiva, nyaviśanta as nīcair aviśanta, adhogatiṃ prāptāḥ (brought low by debt): no drift. Yāska, Nirukta 5.25 (Sāyaṇa's own citation nir. 5, 25 and Sarup's section close in the packet): 'remained here, i.e. in this very place, or in debt, or in this world' carries 'stayed in this very world, or in debt'. The difference is slight but real (Sāyaṇa adds grace, evildoing and the downward course; Yāska keeps this world as an alternative), named and not resolved; Sāyaṇa's 'tathā ca yāskaḥ' was weighed and does not erase Yāska's extra option. Plain clause checked on day.js: 10.44.5 bids Indra sit on the holy grass, 10.44.7 wishes the evil-hearted others far away; context, no four-word run. This revision changed only src (adds the work Vedārthaprakāśa, 158 characters, under the 160 cap). verse.js ok (Rig Veda 10.44.6, at [880,6]); entry-check ok, no errors or warns, 56 words (cap 60 with two commentators).",
+ "better": ""
+}

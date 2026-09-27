@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d111-p",
+ "d": 111,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Agni, we know thy three powers in three stations, we know thy forms in many a place divided. We know what name supreme thou hast in secret: we know the source from which thou hast proceeded.",
+ "ref": "Rig Veda 10.45.2",
+ "at": [
+  881,
+  2
+ ],
+ "s": "After a verse on Agni’s three births, the singer claims to know the god whole; Sāyaṇa, on 10.45.2, reads the three as fire, wind and sun, the many places as the sacrificial fires, and the secret name as hidden from those without the Veda.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.45.2, sa.wikisource ऋग्वेदः सूक्तं १०.४५, revision 296628 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AA%E0%A5%AB&oldid=296628",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.४५, revision 296628 (2020)",
+    "locator": "10.45.2, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n130/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888)",
+    "locator": "10.45.2, translation",
+    "via": "packet"
+   }
+  ],
+  "words": "हे “अग्ने “ते तव “त्रेधा त्रिषु स्थानेषु पृथिव्यन्तरिक्षद्युलोकेषु स्थितानि “त्रयाणि अग्निवाय्वादित्याख्यानि त्रीणि रूपाणि “विद्म वयं जानीमः। किंच हे अग्ने “ते तव “धाम धामानि स्थानानि “विभृता विभृतानि “पुरुत्रा बहुधा बहूनि वा गार्हपत्याहवनीयान्वाहार्यपचनादीनि “विद्म । किंच “ते तव “गुहा गूढम् अवेदविद्भिरविज्ञातं “परमम् उत्कृष्टं वेदे प्रसिद्धं “यत् “नाम अस्ति तत् “विद्म वेदविदो वयं विजानीमः",
+  "lang": "Sanskrit",
+  "gloss": "O Agni, we know thy three forms named Agni, Vāyu and Āditya, standing threefold, in three places: earth, mid-air and heaven. And we know thy stations, dispersed in many ways or many in number: the Gārhapatya, Āhavanīya, Anvāhāryapacana fires and the rest. And the supreme name of thine, well known in the Veda, which is hidden, unknown to those who do not know the Veda: that we who know the Veda know.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 10.45.2, at [881,2]). Opened the Sāyaṇa packet for 10.45 (sa.wikisource rev 296628, dated 7 December 2020), introduction, 10.45.1 and 10.45.2: on 10.45.2 he takes the three as agnivāyvādityākhyāni trīṇi rūpāṇi (the forms called Agni, Vāyu, Āditya: fire, wind, sun) in earth, mid-air and heaven; the many stations as gārhapatya, āhavanīya, anvāhāryapacana and the rest (the sacrificial fires); and the secret name as avedavidbhir avijñātam (unknown to those who do not know the Veda). The reading follows his words without addition. Wilson’s note on this verse names Mahidhara, not Sāyaṇa, so it is not used. Plain sense: 10.45.1 tells Agni’s three births, and verse 2 claims knowledge of the god’s forms, stations, name and source: faithful. Evidence is a contiguous span copied from the packet. entry-check ok."
+}

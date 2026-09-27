@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d122-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A8%E0%A5%A7&oldid=400427",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 122 --verse 10.121.1. Sāyaṇa’s words found verbatim: kasmai; atra kiṃśabdo ’nirjñātasvarūpatvāt prajāpatau vartate; yadvā sṛṣṭyarthaṃ kāmayata iti kaḥ; yadvā kaṃ sukham, tadrūpatvāt ka ity ucyate. These carry all three alternatives exactly as the sentence gives them, with the first kept as the interrogative word applied to Prajāpati (not as a name), which the correction got right. The fourth account (the Aitareya Brāhmaṇa story of Indra and Prajāpati) is omitted; the sentence does not claim to be exhaustive, so selection, not drift. Attribution: Wilson’s note says ‘the commentators prefer’ a proper name and reports only the Indra story; the three reasons in the sentence are Sāyaṇa’s own words, not Wilson’s. Yāska (Nirukta 10.23) treats the verse but only glosses vidh; not needed. Plain sense checked in day.js: the refrain ‘What God shall we adore with our oblation’ ends 10.121.1 to 9 and 10.121.10 lacks it and names Prajapati, so ‘whose verses, but the last, end on one question’ is exact; no four-word reuse; ‘What’ is one quoted key-verse word in curly quotes. Key verse ends in ‘?’, allowed for the key; the sentence itself has none. verse.js ok (Rig Veda 10.121.1); entry-check.js ok on R-d122-p.json. Revision 400427 timestamp 2024-02-03 confirmed by me from the Wikisource API.",
+ "better": ""
+}

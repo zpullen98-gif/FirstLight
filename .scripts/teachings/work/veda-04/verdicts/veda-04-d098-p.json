@@ -1,0 +1,61 @@
+{
+ "id": "veda-04-d098-p",
+ "d": 98,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The man who reads the essence stored by saints, the Pavamani hymns, Tastes food completely purified, made sweet by Matarisvan’s touch.",
+ "ref": "Rig Veda 9.67.31",
+ "at": [
+  789,
+  31
+ ],
+ "s": "After prayers to be made pure, the hymn’s last two verses turn to whoever studies these hymns; Sāyaṇa, on 9.67.31, reads the essence as the heart of the Veda gathered by the seers, and the food as sinless, first sweetened by the pure wind.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.67.31, sa.wikisource (the printed edition is not named), revision 363110 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AC%E0%A5%AD&oldid=363110",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.६७, revision 363110 (2022)",
+    "locator": "9.67.31, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n313/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888)",
+    "locator": "9.67.31, translation and note 5",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/in.ernet.dli.2015.104119",
+    "edition": "R. T. H. Griffith, The Hymns of the Rigveda, 2nd ed., vol. 2 (1897)",
+    "locator": "notes on 9.67",
+    "via": "packet"
+   },
+   {
+    "url": "https://sa.wikisource.org/w/api.php?action=query&prop=revisions&revids=315685|363110&rvprop=timestamp|ids&format=json",
+    "edition": "sa.wikisource revision metadata",
+    "locator": "revid 363110, timestamp 2022-12-13",
+    "via": "webfetch"
+   }
+  ],
+  "words": "“यः जनः “पावमानीः पवमानदेवताकाः सर्वा ऋचः तद्रूपम् “ऋषिभिः सूक्तद्रष्टृभिर्मधुच्छन्दःप्रभृतिभिः “संभृतं संपादितं “रसं वेदरसभूतं सारं सूक्तसंघम् “अध्येति अधीते “सः जनः “सर्वं भोज्यजातं “पूतं परिशुद्धमेव अश्नाति । परिपूतं पापरहितमन्नं भक्षयति । कथमस्य पूतत्वं तत्राह । स्वस्याशनात्प्रागेव “मातरिश्वना । मातर्यन्तरिक्षे श्वसितीति मातरिश्वा वायुः । स च वायुः पवित्रमेव । पवित्रेण वायुना \"स्वदितं स्वादूकृतं परिपूतमेवान्नं पश्चात् स नरोऽश्नाति",
+  "lang": "Sanskrit",
+  "gloss": "The man who studies the Pāvamānī, all the verses whose deity is Pavamāna, the essence gathered by the seers who saw the hymns, Madhucchandas and the rest, the essence that is the sap and core of the Veda, the collection of hymns: that man eats all his food purified, eats food purified and free of sin. How is it pure? Before his eating, by Mātariśvan, the wind that breathes in the mother, the atmosphere; that wind is itself pure. Food sweetened and purified by the pure wind the man afterwards eats.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 9.67.31, at [789,31]). Sāyaṇa on 9.67.31 glosses rasa as vedarasabhūtaṃ sāraṃ sūktasaṅgham gathered by the seers who saw the hymns, the food as pāparahitam, and Mātariśvan as the pure wind that sweetens the food before (prāg eva) the man eats; Wilson note 5 reports the same. The sentence carries each of these without addition (heart renders sāra). Plain sense faithful: 9.67 has 32 verses, 31 and 32 both speak of whoever studies the Pavamānī, and they follow the prayers to be made pure (vv. 22 to 27) and the plea for Alayya’s axe. Revision year 2022 confirmed from the wiki revision metadata. entry-check ok."
+}

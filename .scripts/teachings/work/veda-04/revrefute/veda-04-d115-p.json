@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d115-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/download/nighantuniruktao00yask/nighantuniruktao00yask_djvu.txt",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Sarup full text from the pinned cache (.scripts/.cache/teachings/src/veda-nighantuniruktao00yask_djvu.txt, sha1 7f42e0ddd5309466f04fbe6111a4509b2885411a, equal to sources/veda-lock.json and to the cited download url). After [Here ends the nineteenth section.], under page head [1. 20 and footnote X. 71. 5; cf. N. 1. 8, Yaska quotes the stanza and explains: that man wanders with a barren delusion, i. e. with a symbol of speech; speech grants him no desires; The meaning of speech is called its fruit and flower (then the alternatives, sacrificial and deity stanzas, or deity and soul). Both evidence pieces match by machine. Semblance renders vakpratirupaya (Sarup symbol), which Sayana on 10.71.5 repeats and explicitly sends to Nirukta 1.20, so the attribution to Yaska and the locator are right, and the roster trap (name him only where the Nirukta treats the verse) is met. The reading claims only the two glosses, omitting the alternatives, no drift; mere reciter (Sayana) was rightly removed. Plain sense: 10.71.4 sets one who has hearing but never heard Vak against one to whom she shows her beauty, and 10.71.5 turns to the man with fruitless speech: faithful context, Vak spelt as the day prints it, no four-word run. No school, comparison or tone issue. verse.js ok (Rig Veda 10.71.5, at [907,5]); entry-check.js ok, no errors or warns, on scratch/RR-d115-p.json.",
+ "better": ""
+}

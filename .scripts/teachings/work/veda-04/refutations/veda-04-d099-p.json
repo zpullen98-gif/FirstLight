@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d099-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AE%E0%A5%A9&oldid=322742",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 99 --verse 9.83.1: the Sanskrit under the 9.83.1 label (pavitraṃ te vitataṃ brahmaṇaspate ... atapta-tanūr na tad āmo aśnute śṛtāsa id vahantas tat samāśata, ॥१) is the same verse as Griffith’s 9.83.1 in day.js, so no numbering shift. Sāyaṇa’s words are found verbatim: atapta-tanūḥ payovratādinā asaṃtapta-gātraḥ āmaḥ aparipakvo na aśnute ... śṛtāsa id śṛtā evaṃ paripakvā eva vahantaḥ yāgaṃ nirvahantaḥ tat pavitraṃ samāśata. They carry the paraphrase: the raw as one whose limbs the milk vow and the like have not heated, and the dressed (the ripened) who bear, that is carry the sacrifice through, as those who reach the filter. The sentence fuses śṛtāsaḥ with vahantaḥ as the verse itself does (śṛtāsa id vahantaḥ is one subject), so it is not drift, though it leaves out his gloss ‘ripened’. The reading is his, not Wilson’s: Wilson’s ‘raw (liquid)’ differs, and the sentence attributes only Sāyaṇa’s person-and-vow reading. Plain sense: 9.83.1 opens the hymn (capitalised SPREAD), Griffith addresses Brahmanaspati and his filter, and ‘sets the raw against the dressed’ reuses no four key-verse words and does not name the commentator. No school, no comparison, no softening. verse.js ok (Rig Veda 9.83.1, at [805,1]); entry-check.js ok on a fresh scratch copy (R-d099-p.json), 42 words, no errors or warns. Revision 322742 timestamp 2021-10-24 in L1r-revdates.json (Wikisource API), so ‘(2021)’ stands.",
+ "better": "Closer to his gloss: ‘... and the dressed as those ripened by it who carry the sacrifice through.’ (śṛtāḥ = paripakvāḥ; vahantaḥ = yāgaṃ nirvahantaḥ), if the cap allows."
+}

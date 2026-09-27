@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d097-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AC%E0%A5%AC&oldid=315685",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 97 --verse 9.66.2 and the pinned revision itself (action=raw of oldid 315685): the Sanskrit under 9.66.2 (tābhyāṃ viśvasya rājasi ye pavamāna dhāmanī pratīcī soma tasthatuḥ) is Griffith’s 9.66.2, so no numbering shift. Sāyaṇa’s words are found verbatim on the page: dhāmanī = pūrvapakṣāparapakṣau of Soma latārūpa, by ekaikaparṇavṛddhihrāsa, and devāḥ khalu somasya ekaikavṛddhihrāsābhyāṃ kalāḥ pibanti. They carry the paraphrase: the Two as the (former and latter) fortnights, the creeper gaining and losing leaf by leaf, the gods drinking his digits one by one. ‘Drink him digit by digit’ compresses kalāḥ pibanti but does not go beyond it; the sentence gives his first reading and omits his alternative (the two names aṃśu and Soma), which is not drift. The reading is Sāyaṇa’s own Sanskrit, not Wilson’s: Wilson note 1 reports it and Webster’s bracketed remark is not used. Plain sense: 9.66.1 ends ‘A Friend to be besought by friends’, and 9.66.2 turns to his rule; no four key-verse words, commentator not named. No school needed, no comparison, no tone issue. verse.js ok (Rig Veda 9.66.2, at [788,2]); entry-check.js ok on a fresh scratch copy (R-d097-p.json), no errors or warns. Revision 315685 timestamp 2021-08-09 re-fetched from the Wikisource API, so ‘(2021)’ stands.",
+ "better": "If room allows, ‘the gods drink his digits one by one’ sits a shade closer to kalāḥ pibanti than ‘drink him digit by digit’."
+}

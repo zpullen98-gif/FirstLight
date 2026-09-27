@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d124-p",
+ "d": 124,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Munis, girdled with the wind, wear garments soiled of yellow hue. They, following the wind’s swift course go where the Gods have gone before.",
+ "ref": "Rig Veda 10.136.2",
+ "at": [
+  972,
+  2
+ ],
+ "s": "After the long-haired one who upholds heaven and earth, the hymn turns to the Munis; Sāyaṇa, on 10.136.2, takes them as sons of Vātaraśana, seers of things beyond sense, clad in soiled bark, who by worship of breath attain the wind’s own state.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.136.2, sa.wikisource (printed edition not named), revision 319729 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A9%E0%A5%AC&oldid=319729",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 319729 (printed edition not named)",
+    "locator": "on 10.136.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n375/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.136.2",
+    "via": "packet"
+   }
+  ],
+  "words": "\"वातरशनाः वातरशनस्य पुत्राः \"मुनयः अतीन्द्रियार्थदर्शिनो जूतिवातजूतिप्रभृतयः “पिशङ्गा पिशङ्गानि कपिलवर्णानि \"मला मलिनानि वल्कलरूपाणि वासांसि “वसते आच्छादयन्ति । … यदा “देवासः देवाः तपसो महिम्ना दीप्यमानाः सन्तः \"अविक्षत देवतास्वरूपं प्राविशन् । … तदा ते वातस्य वायोः “ध्राजिं गतिम् \"अनु “यन्ति अनुगच्छन्ति । प्राणोपासनया प्राणरूपिणो वायुभावं प्रपन्ना इत्यर्थः ॥",
+  "lang": "Sanskrit",
+  "gloss": "Girdled with the wind: the sons of Vātaraśana; the Munis: seers of things beyond the senses, Jūti, Vātajūti and the rest; they wear tawny, soiled garments made of bark. … When, as gods, shining by the greatness of their austerity, they entered the very form of deity, … then they follow the course of the wind, Vāyu: that is, by worshipping breath they have reached the state of Vāyu, whose form is breath.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). The plain sense (after the long-haired one of 10.136.1, the hymn turns to the Munis) is faithful to day.js. At 10.136.2 Sāyaṇa glosses vātaraśanāḥ as sons of Vātaraśana, munayaḥ as seers of things beyond the senses (Jūti, Vātajūti and others), malā as soiled garments of bark, and closes: by worship of breath they have reached the state of Vāyu. Wilson’s translation follows (sons of Vātaraśana, vestments of bark). Every element of the reading is in his words; revision 319729 dated 2021 by the Wikisource API; gate ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d120-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A6%E0%A5%A7&oldid=368305",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 120 --verse 10.101.2 (and 10.101.1, and the whole hymn packet). Sāyaṇa’s words are found verbatim at 10.101.2: dhiyaḥ = karmāṇi cayanapradeśakarṣaṇādīni; aritraparaṇīṃ karṣaṇādirūpeṇa aritreṇa pārayitavyāṃ nāvaṃ cayanākhyām; āyudhāni sīrayugādīni. They carry ship as the piling, carried across by an oar that is ploughing, and implements as ploughs and yokes. ‘Of the fire altar’ is not in the 10.101.2 gloss itself, but his own commentary sets it: on 10.101.1 the speakers are agniṃ ceṣyamāṇā ṛtvijaḥ (priests about to pile Agni) and on 10.101.5 he writes agnicayanapradeśakarṣaṇa, so cayana here is the agnicayana; attack on drift tried and not landed. Plain sense checked against day.js: 10.101.1 bids the friends wake and kindle Agni; 10.101.3 onward yokes, furrow, seed, sickle, wells; ‘working like farmers’ is a fair context clause and does not name the commentator or reuse four key-verse words. Reading is Sāyaṇa’s own, not Wilson’s (Wilson only translates ‘ship propelled by oars’, ‘weapons’). No school needed, no comparison, no tone issue. verse.js ok (Rig Veda 10.101.2, at [937,2]); entry-check.js ok on fresh scratch copy R-d120-p.json. Revision 368305 timestamp 2023-02-26 confirmed by me from the Wikisource API, so ‘(2023)’ stands.",
+ "better": "Optionally tighter to the 10.101.2 words alone: ‘takes the ship as the piling (cayana), carried across by an oar that is ploughing, and the implements as ploughs and yokes’; the ‘fire altar’ gloss rests on his notes to 10.101.1 and 10.101.5."
+}

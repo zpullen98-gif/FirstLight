@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d105-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AD&oldid=207987",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 105 --verse 10.7.3: the Sanskrit under 10.7.3 (agniṃ manye pitaram agnim āpim ... agner anīkaṃ bṛhataḥ saparyaṃ divi śukraṃ yajataṃ sūryasya) matches Griffith’s 10.7.3 in day.js. Sāyaṇa’s words found verbatim: bṛhataḥ mahataḥ agneḥ anīkam āhavanīyākhyaṃ mukhaṃ saparyaṃ paricarāmi, tatra luptopamam etat, divi dyuloke sthitaṃ yajataṃ yaṣṭavyaṃ pūjanīyaṃ sūryasya saṃbandhi śukraṃ dīptimat maṇḍalaṃ yathā kaścid abhipretārthasiddhaye ārādhayati tadvat. They carry the whole paraphrase: the second half read as an elided simile (luptopamā), the singer (aham stotā, at the head of the same gloss) serving Agni’s face called the Āhavanīya, as someone worships the sun’s bright disc to gain a desired end. Webster’s bracketed note in Wilson also reports Sāyaṇa referring the line to the Āhavanīya fire, but the sentence rests on Sāyaṇa’s own Sanskrit, not on it. Plain sense: 10.7.1 asks Agni for good luck for sacrifice, 10.7.3 names him father, kinsman, brother and friend; faithful, no four-word run, commentator not named. No school, comparison or tone issue. verse.js ok (Rig Veda 10.7.3, at [843,3]); entry-check.js ok on scratch/R-d105-p.json. Revision 207987 dated 2019-07-28 by the Wikisource API, so (2019) stands.",
+ "better": ""
+}

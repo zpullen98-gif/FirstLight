@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d119-p",
+ "d": 119,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "With Soma as their Sovran Lord the Plants hold colloquy and say: O King, we save from death the man whose cure a Brahman undertakes.",
+ "ref": "Rig Veda 10.97.22",
+ "at": [
+  933,
+  22
+ ],
+ "s": "Near the close of a hymn in which a healer calls on the Plants to free his patient, the Plants themselves speak; Sāyaṇa, on 10.97.22, takes the Brahman as a physician who knows the power of herbs, and the one saved as his patient.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.97.22, sa.wikisource (the printed edition is not named), revision 317292 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AF%E0%A5%AD&oldid=317292",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 317292 (printed edition not named)",
+    "locator": "on 10.97.22",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n287/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.97.22",
+    "via": "packet"
+   }
+  ],
+  "words": "\"ओषधयः सर्वाः “सोमेन “राज्ञा \"सह “सं वदन्ते संवादं कुर्वन्ति । किमिति तदुच्यते । “यस्मै रुग्णाय “ब्राह्मणः ओषधिसामर्थ्यज्ञो ब्राह्मणो वैद्यः “कृणोति करोति चिकित्सां “तं रुग्णं हे “राजन् “पारयामसि पारयामः ॥",
+  "lang": "Sanskrit",
+  "gloss": "All the plants hold converse with Soma the king. What do they say? That is told: the sick man for whom a Brahman, a Brahman physician who knows the power of the plants, makes, that is, makes a cure: him, the sick man, O king, we carry through.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.97.22 and at [933,22] match). The reading is Sāyaṇa’s: in the packet at 10.97.22 he glosses brāhmaṇaḥ as a Brahman physician who knows the power of the plants (oṣadhisāmarthyajño brāhmaṇo vaidyaḥ), kṛṇoti as makes a cure, and the one they carry through as the sick man (rugṇa); read with the whole hymn’s commentary, which sets it for curing fever and the like. CHANGED only the plain sense: the proposal’s ‘they speak with Soma, their king’ paraphrased the key verse’s own first line, which rule 2 forbids; it now gives context only (a healer calling on the Plants to free his patient, as 10.97.2 and 10.97.5 have it, before the Plants themselves speak), 44 words. Evidence copied from the packet exactly: its first word opens with a straight quote, not the proposal’s curly one. Revision 317292 dated 2021-08-21 by the Wikisource API. Gate ok on the corrected entry."
+}

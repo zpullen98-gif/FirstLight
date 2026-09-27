@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d125-p",
+ "d": 125,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "By Faith is Agni kindled, through Faith is oblation offered up. We celebrate with praises Faith upon the height of happiness.",
+ "ref": "Rig Veda 10.151.1",
+ "at": [
+  987,
+  1
+ ],
+ "s": "Opening a hymn that calls on Faith at dawn, noon and sunset, the verse honours her in the rite; Sāyaṇa, on 10.151.1, takes faith as a particular longing in a person, who lights the fires only when an exceeding regard for them arises in him.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.151.1, sa.wikisource (printed edition not named), revision 208435 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AB%E0%A5%A7&oldid=208435",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 208435 (printed edition not named)",
+    "locator": "on 10.151.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n393/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.151.1",
+    "via": "packet"
+   }
+  ],
+  "words": "पुरुषगतोऽभिलाषविशेषः श्रद्धा । तथा “श्रद्धया “अग्निः गार्हपत्यादिः “समिध्यते संदीप्यते । यदा हि पुरुषे श्रद्धाग्निगोचर आदरातिशयो जायते तदैष पुरुषोऽग्नीन् प्रज्वालयति नान्यदा । “श्रद्धया एव हविः पुरोडाशादिहविश्च “हूयते ।",
+  "lang": "Sanskrit",
+  "gloss": "Faith (śraddhā) is a particular longing present in a person. So by faith Agni, the householder’s fire and the rest, is kindled: for only when an exceeding regard, faith directed to the fires, arises in a person does he light the fires, and not otherwise. By faith alone is the oblation, the rice-cake and the rest, offered.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). The reading is Sāyaṇa’s at 10.151.1 (faith a particular longing in a person; only when an exceeding regard for the fires arises does he kindle them, not otherwise); he also gives an alternative (the fire kindled by the seer named Śraddhā), which the sentence does not deny. CHANGED: the plain sense was a dangling participial fragment with no subject or verb (Opening a hymn to Faith, called on at dawn...; ), so it now reads that the verse honours Faith in the rite, and the reading drops sacred and and not otherwise to keep within 45 words. Source line unchanged (revision 208435, 2019, checked by the Wikisource API); corrected entry passes entry-check."
+}

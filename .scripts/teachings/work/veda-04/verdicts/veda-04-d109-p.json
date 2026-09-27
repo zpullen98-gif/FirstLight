@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d109-p",
+ "d": 109,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "“Play not with dice, [but] cultivate your corn-land. Enjoy the gain, and deem that wealth sufficient. There are your cattle, there your wife, O gambler”: So this good Savitr himself has told me.",
+ "ref": "Rig Veda 10.34.13",
+ "at": [
+  870,
+  13
+ ],
+ "s": "Near the close of a gambler’s lament for the wife and home his dice have cost him, counsel comes from a god; Sāyaṇa, on 10.34.13, reads the counsel as the secret of dharma, declared by Savitṛ, maker of revealed and remembered teaching.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.34.13, sa.wikisource ऋग्वेदः सूक्तं १०.३४, revision 206574 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A9%E0%A5%AA&oldid=206574",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.३४, revision 206574 (2019)",
+    "locator": "10.34.13, commentary; 10.34 introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n102/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888)",
+    "locator": "10.34.13, translation",
+    "via": "packet"
+   }
+  ],
+  "words": "“तत्र कृषौ “गावः भवन्ति । “तत्र “जाया भवति । “तत् एव धर्मरहस्यं श्रुतिस्मृतिकर्ता “सविता सर्वस्य प्रेरकः “अयं दृष्टिगोचरः “अर्थः ईश्वरः “वि “चष्टे विविधमाख्यातवान्",
+  "lang": "Sanskrit",
+  "gloss": "There, in farming, are cows; there is a wife. That very secret of dharma Savitṛ, maker of śruti and smṛti (revealed and remembered teaching), impeller of all, this lord within sight, has declared in many ways.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 10.34.13, at [870,13]). Opened the Sāyaṇa packet for the whole of 10.34 (sa.wikisource rev 206574, dated 14 July 2019): his introduction says the thirteenth verse praises farming, and on 10.34.13 he glosses the counsel and adds tat eva dharmarahasyaṃ śrutismṛtikartā savitā ... vi caṣṭe (that very secret of dharma Savitṛ, maker of śruti and smṛti, has declared). Wilson (vol. 6) translates accordingly. Plain sense matches the hymn (gambler losing wife and home, verse 13 of 14, counsel from Savitr): faithful. ONE CHANGE: the proposal said declared by Savitṛ “as maker of” revealed and remembered teaching, which makes the epithet a reason or capacity; Sāyaṇa gives śrutismṛtikartā only as an appositive epithet, so the sentence now reads “declared by Savitṛ, maker of revealed and remembered teaching”. Evidence is a contiguous span copied from the packet. entry-check ok."
+}

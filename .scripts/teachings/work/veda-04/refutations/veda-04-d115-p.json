@@ -1,0 +1,8 @@
+{
+ "id": "veda-04-d115-p",
+ "refuted": true,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AD%E0%A5%A7&oldid=333626", "found": true},
+ "attacks": ["drift", "attribution"],
+ "reason": "Re-opened by packet.js veda 115 --verse 10.71.5 (API: revision 333626 is page 10.71, 2022-03-14). The evidence words are there verbatim and do carry 'fruit and flower = the meaning of speech' and 'mere reciter who has not understood'. verse.js ok (907,5); entry-check ok. But the sentence breaks on its anaphora: the plain sense sets up 'one called dull in friendship' (Griffith's first half) and the reading then says Sāyaṇa takes 'this man' as a mere reciter. In Sāyaṇa the first-half man (sthirapīta) is the knower of meaning and is PRAISED (इत्यर्थज्ञः प्रशस्तः), and only the second half's eṣa, a different man, is the blamed reciter (अनन्तरमुत्तरार्धेन केवलपाठको निन्द्यते; Wilson likewise: 'They call one man firmly established... another wanders'). So a reader is told Sāyaṇa reads the dull-in-friendship man as the reciter, which is the opposite of his reading of that man. The verdict itself noticed the divergence but let the linking 'this man' stand. Fix the plain sense so it does not name the first-half man; the candidate in better passes entry-check (scratch/R-d115-better.json).",
+ "better": "Setting those to whom Vak unveils herself against those who only hear her, the hymn turns to one who hears in vain; Sāyaṇa, on 10.71.5, reads fruit and flower as the meaning of speech, and the man who wanders as a mere reciter without it."
+}

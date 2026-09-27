@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d108-p",
+ "d": 108,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "A man should think on wealth and strive to win it by adoration on the path of Order, Counsel himself with his own mental insight, and grasp still nobler vigour with his spirit.",
+ "ref": "Rig Veda 10.31.2",
+ "at": [
+  867,
+  2
+ ],
+ "s": "After a prayer to pass beyond all troubles, the hymn to all the gods turns to a man’s duties; Sāyaṇa, on 10.31.2, takes the counsel as meditating on the gods at the offering, and the nobler vigour as the all-pervading self, grasped in meditation.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.31.2, sa.wikisource (the printed edition is not named), revision 202075 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A9%E0%A5%A7&oldid=202075",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 202075 (printed edition not named)",
+    "locator": "on 10.31.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n94/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils (OCR)",
+    "locator": "10.31.2",
+    "via": "packet"
+   }
+  ],
+  "words": "“उत अपि च “स्वेन आत्मीयेन “क्रतुना प्रज्ञानेन । मनसेत्यर्थः । “सं “वदेत । संवादोऽत्र समाध्यानमुच्यते । हविर्गृहीत्वा वषट्करिष्यन् विश्वान् देवान् मनसाध्यायेदित्यर्थः । विश्वेषां देवानां यागानन्तरं च तत्प्रसादात् “श्रेयांसम् अतिशयेन प्रशस्यमात्मानं “दक्षं प्रवृद्धं सर्वव्यापिनं “मनसा ध्यानसाधनेनान्तःकरणेन “जगृभ्यात् गृह्णीयात्",
+  "lang": "Sanskrit",
+  "gloss": "And with his own kratu, his understanding, that is, with the mind, let him converse: conversing here means meditation; the meaning is, taking the oblation and about to say vaṣaṭ, let him meditate in mind on all the gods. And after the sacrifice to all the gods, by their grace, let him grasp the most excellent self, dakṣa, grown great, all-pervading, with the mind, the inner organ that is the means of meditation.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.31.2 and at [867,2] match). Plain sense: 10.31 is a Viśvedeva hymn (Sāyaṇa’s introduction: vaiśvadevam); verse 1 prays to pass over all troubles and verse 2 says what a man should do: faithful. In the Sanskrit packet on 10.31.2 Sāyaṇa takes saṃvadeta as samādhyāna, meditating on all the gods while holding the oblation before vaṣaṭ, and śreyāṃsaṃ dakṣam as the most excellent, all-pervading self (ātmānam) grasped with the mind as the means of meditation. Wilson’s translation renders the object as the best of the deities, but the sentence follows Sāyaṇa’s own Sanskrit, which says ātmānam. No drift. Revision 202075 dated 2019-05-19 by the Wikisource API. Gate ok."
+}

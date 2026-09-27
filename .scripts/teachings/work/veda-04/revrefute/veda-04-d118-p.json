@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d118-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AF%E0%A5%A6&oldid=336240",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 118 --verse 10.90.3 (pinned revision 336240, matching sources/veda-lock.json). Both quoted runs stand verbatim in the block, in the part that follows the pratika etavan asya mahima and comes before the tripad urdhva udait gloss of 10.90.4, so the locator on 10.90.3 is right. His words carry the whole reading with no drift: atitanagatavartamanarupam jagat is the world, past, present and to come; mahima svakiyasamarthyavisesah, na tu tasya vastavasvarupam is his greatness and not his true nature; parabrahmana iyattabhavat is Brahman having no measure; jagad idam brahmasvarupapeksaya alpam iti vivaksitatvat padatvopanyasah is the quarter marking the world as small beside Brahman. This is Sayana's own Sanskrit, not Wilson's note, which only paraphrases the greatness clause. Plain sense: 10.90.2 calls Purusa all that hath been and is to be, and 10.90.3 to 4 give him quarters, so the context clause is faithful and adds nothing; no four-word run from the key, commentator not named before the semicolon. No school needed (roster gives none; one commentator), no comparison, no tone issue (Brahman is his term, attributed to him). verse.js ok (Rig Veda 10.90.3, at [926,3]); entry-check.js ok, no errors or warns, on a fresh scratch copy (scratch/rr-d118.json). Revision 336240 timestamp 2022-04-20 fetched from the sa.wikisource API, so (2022) stands.",
+ "better": ""
+}

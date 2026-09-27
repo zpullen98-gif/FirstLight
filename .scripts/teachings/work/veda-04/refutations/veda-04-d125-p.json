@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d125-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AB%E0%A5%A7&oldid=208435",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 125 --verse 10.151.1 and the raw text of revision 208435 (2019-08-01, via the Wikisource API): puruṣagato 'bhilāṣaviśeṣaḥ śraddhā and yadā hi puruṣe śraddhāgnigocara ādarātiśayo jāyate tadaiṣa puruṣo 'gnīn prajvālayati nānyadā carry the whole paraphrase (faith a particular longing in a person; he lights the fires only when an exceeding regard for them arises in him) without drift. Sāyaṇa also offers an alternative (yadvā: the fire kindled by the hymn's seer Śraddhā) and takes the Śraddhā of the second line as the presiding deity; the sentence gives his first gloss only and denies neither. The Nirukta also treats the verse (9.31) but is not named, so nothing is misattributed. Plain sense: 10.151.5 calls on Faith in the early morning, at noonday and at sunset, so the context clause is faithful and repeats no four key words. verse.js ok (Rig Veda 10.151.1, at [987,1]); entry-check ok on scratch R5-d125-p.json; src year 2019 confirmed.",
+ "better": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d121-p",
+ "d": 121,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The liberal die not, never are they ruined: the liberal suffer neither harm nor trouble.",
+ "ref": "Rig Veda 10.107.8",
+ "at": [
+  943,
+  8
+ ],
+ "s": "Praising the sacrificial Guerdon and those who give it, the hymn names their reward; Sāyaṇa, on 10.107.8, takes the liberal as those who feed others by giving wealth, and their not dying as their attaining the state of gods.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.107.8, sa.wikisource (the printed edition is not named), revision 208417 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A6%E0%A5%AD&oldid=208417",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.१०७, revision 208417 (printed edition not named)",
+    "locator": "on 10.107.8",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n315/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.107.8",
+    "via": "packet"
+   }
+  ],
+  "words": "“भोजाः भोजयितारो धनादिदानेन दातारः “न “मम्रुः न म्रियन्ते । देवत्वं भजन्त इत्यर्थः ।। … निकृष्टां गतिं “न “ईयुः न प्राप्नुवन्ति ॥ … तथा “न “रिष्यन्ति । कैश्चिदप्यहिंसिता भवन्ति ।",
+  "lang": "Sanskrit",
+  "gloss": "The bhojāḥ: those who feed (others), givers by the gift of wealth and the like, do not die: the meaning is that they attain the state of gods. … They do not reach a low course. … And they are not harmed: they are unhurt by anyone.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.107.8 and at [943,8] match). The reading is Sāyaṇa’s: at 10.107.8 he glosses bhojāḥ as bhojayitāraḥ, givers by the gift of wealth and the like, and na mamruḥ as na mriyante, explained as devatvaṃ bhajante (they attain the state of gods); Wilson follows (givers of enjoyment do not die). CORRECTED the plain sense only: the proposal said the Guerdon was given to priests, which comes from Sāyaṇa’s hymn introduction (ṛtvigbhyo dīyamānā dakṣiṇā), not from Griffith’s text, which speaks of sacrificial Guerdon and Meed at sacrifice; the context clause now reads the sacrificial Guerdon and those who give it. Revision 208417 dated 2019-07-31 by the Wikisource API. Gate ok."
+}

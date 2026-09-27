@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d123-p",
+ "d": 123,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "That One Thing, breathless, breathed by its own nature: apart from it was nothing whatsoever.",
+ "ref": "Rig Veda 10.129.2",
+ "at": [
+  965,
+  2
+ ],
+ "s": "In a hymn on the time when neither non-existent nor existent was, which asks whence creation came, the verse tells what alone there was; Sāyaṇa, on 10.129.2, takes the One as Brahman, known throughout the Vedānta, and ‘its own nature’ as māyā, undivided from it.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.129.2, sa.wikisource (printed edition not named), revision 402226 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A8%E0%A5%AF&oldid=402226",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 402226 (printed edition not named)",
+    "locator": "on 10.129.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n361/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.129.2",
+    "via": "packet"
+   }
+  ],
+  "words": "“तत्” सकलवेदान्तप्रसिद्धं ब्रह्मतत्त्वम् “आनीत्” प्राणितवत्। … स्वस्मिन् धीयते ध्रियत आश्रित्य वर्तत इति स्वधा माया। तया तद्ब्रह्मैकमविभागापन्नमासीत्।",
+  "lang": "Sanskrit",
+  "gloss": "‘That’ is the reality of Brahman, well known throughout the Vedānta; ‘breathed’: it was as though breathing. … Svadhā (‘its own nature’) is what is placed and held in oneself, what exists resting on it: māyā. With it that Brahman was one, having come to be undivided.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement with the refutation in hand: the refuter is right on both counts and the entry can be put right. Key verse verbatim (verse.js ok, Rig Veda 10.129.2, at [965,2]). Opened packet.js veda 123 --verse 10.129.2 and 10.129.1: Sāyaṇa glosses tat as the reality of Brahman known throughout the Vedānta and svadhā as māyā, with which that Brahman was one, undivided (avibhāgāpannam); Wilson’s unbracketed note agrees he takes svadhā as Māyā. Reading holds. CHANGED: (1) the reading quoted six words of the key verse (‘That One Thing’, ‘its own nature’), over rule 3’s three; now only ‘its own nature’ is quoted and the first becomes the One. (2) The context clause said the hymn asks what was before existent and non-existent; 10.129.1 says neither then was, and 10.129.6 asks whence creation came, so the clause now says that. Entry-check ok."
+}

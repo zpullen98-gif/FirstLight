@@ -1,0 +1,89 @@
+{
+ "lane": "L1",
+ "plan": "veda",
+ "batch": "veda-04",
+ "days": [
+  {
+   "d": 97,
+   "primary": {
+    "id": "veda-04-d097-p",
+    "key": "O’er all thou rulest with these Two which, Soma Pavamana, stand, Turned, as thy stations, hitherward.",
+    "ref": "Rig Veda 9.66.2",
+    "at": [
+     788,
+     2
+    ],
+    "s": "After Soma is hailed as a friend besought by friends, the singer turns to his rule; Sāyaṇa, on 9.66.2, reads the Two as the bright and dark fortnights, in which Soma the creeper gains and loses leaf by leaf and the gods drink his nectar.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.66.2, sa.wikisource (the printed edition is not named), revision 315685 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“धामनी पूर्वपक्षापरपक्षयोर्लतारूपस्य सोमस्य तवैकैकपर्णवृद्धिहासाभ्यां तव स्वभूतौ पूर्वादिपक्षौ … “ताभ्यां त्वं “विश्वस्य सर्वस्य लोकस्य “राजसि स्वामी भवसि … द्युलोके देवेभ्यः स्वसुधामयकलादानेन तेषां प्रीणयिता भवसि । देवाः खलु सोमस्यैकैकवृद्धिहासाभ्यां कलाः पिबन्ति",
+     "gloss": "The two stations: yours, the former and the latter fortnights, of you, Soma, who have the form of a creeper, through the growth and loss of one leaf at a time … by these two you rule the whole world, you are its lord … in heaven, by giving the gods your digits full of nectar, you delight them. The gods indeed drink the digits of Soma through its growth and waning, one by one."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d097-s",
+    "key": "O Indu, visible to all pour out for us abundant food: Soma, be thou our prosperer.",
+    "ref": "Rig Veda 9.65.13",
+    "at": [
+     787,
+     13
+    ],
+    "s": "Among prayers that Soma bring rain, kine and strength, the singer asks for nourishment; Sāyaṇa, on 9.65.13, takes the ‘prosperer’ as the one who makes known the road to heaven and brings the worshipper to it.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.65.13, sa.wikisource (the printed edition is not named), revision 330583 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "आगमय । प्रयच्छेत्यर्थः । किंच हे “सोम अभिषूयमाण पवमान “अस्मभ्यं “गातुवित् स्वर्गमार्गस्य लम्भयिता ज्ञापयिता भव",
+     "gloss": "Bring it to us, that is, give it. And, Soma, as you are pressed and purified, be for us the one who brings us to the road to heaven and makes it known."
+    }
+   }
+  },
+  {
+   "d": 98,
+   "primary": {
+    "id": "veda-04-d098-p",
+    "key": "The man who reads the essence stored by saints, the Pavamani hymns, Tastes food completely purified, made sweet by Matarisvan’s touch.",
+    "ref": "Rig Veda 9.67.31",
+    "at": [
+     789,
+     31
+    ],
+    "s": "After prayers to be made pure, the hymn’s last two verses turn to whoever studies these hymns; Sāyaṇa, on 9.67.31, reads the essence as the heart of the Veda gathered by the seers, and the food as sinless, first sweetened by the pure wind.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.67.31, sa.wikisource (the printed edition is not named), revision 363110 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“पावमानीः पवमानदेवताकाः सर्वा ऋचः तद्रूपम् “ऋषिभिः सूक्तद्रष्टृभिर्मधुच्छन्दःप्रभृतिभिः “संभृतं संपादितं “रसं वेदरसभूतं सारं सूक्तसंघम् “अध्येति अधीते “सः जनः “सर्वं भोज्यजातं “पूतं परिशुद्धमेव अश्नाति । परिपूतं पापरहितमन्नं भक्षयति … स च वायुः पवित्रमेव । पवित्रेण वायुना \"स्वदितं स्वादूकृतं परिपूतमेवान्नं पश्चात् स नरोऽश्नाति",
+     "gloss": "The Pāvamānī, all the verses whose deity is Pavamāna, in that form: the essence gathered by the seers who saw the hymns, Madhucchandas and the rest, the essence that is the sap of the Veda, the collection of hymns. Whoever studies it, that man eats all his food purified, eats food purified and free of sin … and that wind is itself pure. Afterwards the man eats food made sweet and purified by the pure wind."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d098-s",
+    "key": "He goes upon his way, unresting, to the cows, over the roaring sound which Sarya’s Daughter loves.",
+    "ref": "Rig Veda 9.72.3",
+    "at": [
+     794,
+     3
+    ],
+    "s": "As the singers cleanse Soma and mingle him with milk, the verse follows his unresting course; Sāyaṇa, on 9.72.3, takes the Daughter as the Dawn, whose loved sound the roar of the pressing drowns, for at that hour the noise of pressing Soma is great.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.72.3, sa.wikisource (the printed edition is not named), revision 314038 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "ततः शब्दायमानः सोमः “सूर्यस्य आदित्यस्य “दुहितुः उषस: “प्रियं “रवं शब्दं “तिरः तिरस्करोति । तस्मिन्काले सोमाभिषवध्वनिर्महान् भवतीत्यर्थः",
+     "gloss": "Then Soma, sounding, overpowers the sound dear to the daughter of Sūrya, the sun: to Uṣas, the Dawn. The meaning is that at that time the noise of the pressing of Soma is great."
+    }
+   }
+  }
+ ]
+}

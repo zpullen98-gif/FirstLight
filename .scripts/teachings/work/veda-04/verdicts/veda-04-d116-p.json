@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d116-p",
+ "d": 116,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Ye will not find him who produced these creatures: another thing hath risen up among you. Enwrapt in misty cloud, with lips that stammer, hymn-chanters wander and are discontented.",
+ "ref": "Rig Veda 10.82.7",
+ "at": [
+  918,
+  7
+ ],
+ "s": "Closing the second hymn to Visvakarman, the verse turns to its hearers; Sāyaṇa, on 10.82.7, reads the mist as ignorance veiling the supreme Lord, whose reality is other than the individual self, and the chanters as seeking only enjoyment here and hereafter.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.82.7, sa.wikisource (the printed edition is not named), revision 353423 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AE%E0%A5%A8&oldid=353423",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.८२, revision 353423",
+    "locator": "Sāyaṇa, commentary on 10.82.7",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n228/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888)",
+    "locator": "translation and notes on 10.82.7",
+    "via": "packet"
+   }
+  ],
+  "words": "न ह्यहंप्रत्ययगम्यं जीवरूपं विश्वकर्मणः परमेश्वरस्य तत्त्वं किंतु “युष्माकम् अहंप्रत्ययगम्यानां जीवानाम् “अन्तरम् “अन्यत् अहंप्रत्ययगम्यादतिरिक्तं सर्ववेदान्तवेद्यमीश्वरतत्त्वं “बभूव भवति विद्यते । … “नीहारेण “प्रावृताः यूयं नीहारसदृशेनाज्ञानेनाच्छन्नाः। अतो न जानीथ । … एवमज्ञानमपि नात्यन्तमसदीश्वरतत्त्वावरकत्वात् नापि सत् बोधमात्रनिवर्त्यत्वात् । … केवलमैहिकामुष्मिकभोगपरा वर्तध्वेऽतो विश्वकर्माणं देवं न जानीथेत्यर्थः ॥",
+  "lang": "Sanskrit",
+  "gloss": "For the reality of Viśvakarman, the supreme Lord, is not the form of the individual self that the notion ‘I’ reaches; rather the Lord’s reality, known from the whole Vedānta, is other than you individual selves whom the notion ‘I’ reaches, beyond what it reaches: it is, it exists. … Covered with mist: you are wrapped in an ignorance like mist; so you do not know. … So ignorance too is not wholly unreal, since it covers the reality of the Lord, nor real, since knowledge alone removes it. … You live intent only on enjoyment in this world and the next, and so you do not know the god Viśvakarman: that is the meaning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 10.82.7, at [918,7]); 10.82 is the second of the two Visvakarman hymns in day.js (10.81, 10.82) and 10.82.7 is its last verse, addressed to ye, so the context clause is faithful and repeats none of the verse. Sāyaṇa on 10.82.7 (packet, sa.wikisource rev 353423) says the reality of Viśvakarman the supreme Lord is not the individual self reached by the notion I but other than it, that the hearers are covered by an ignorance like mist which covers the Lord’s reality, and that they live intent only on enjoyment in this world and the next; the sentence paraphrases exactly this. Wilson’s note (Webster bracket and Wilson note 3) reports the same gloss. Nirukta does not treat the verse. Evidence pieces re-found by machine in the packet text. entry-check ok."
+}

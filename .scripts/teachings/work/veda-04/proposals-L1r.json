@@ -1,0 +1,171 @@
+{
+ "lane": "L1r",
+ "plan": "veda",
+ "batch": "veda-04",
+ "days": [
+  {
+   "d": 99,
+   "primary": {
+    "id": "veda-04-d099-p",
+    "key": "The raw, whose mass hath not been heated gains not this: they only which are dressed, which bear, attain to it.",
+    "ref": "Rig Veda 9.83.1",
+    "at": [
+     805,
+     1
+    ],
+    "s": "Opening a hymn that hails Brahmanaspati’s filter, the verse sets the raw against the dressed; Sāyaṇa, on 9.83.1, reads the raw as one whose body no milk vow or like observance has heated, and the dressed as those carrying the sacrifice through.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.83.1, sa.wikisource ऋग्वेदः सूक्तं ९.८३, revision 322742 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “ब्रह्मणस्पते मन्त्रस्य स्वामिन् सोम … तव “तत् पवित्रम् \"अतप्ततनूः पयोव्रतादिना असंतप्तगात्रः \"आमः अपरिपक्वो \"न “अश्नुते न व्याप्नोति । “शृतास \"इत् शृता एवं परिपक्वा एव \"वहन्तः यागं निर्वहन्तः “तत् पवित्रं \"समाशत व्याप्नुवन्ति ।",
+     "gloss": "O Brahmaṇaspati, lord of the mantra, Soma … That filter of yours the one whose body is unheated, whose limbs have not been heated by the milk vow and the like, the raw, the unripe, does not reach. Only the cooked, only the ripened, carrying the sacrifice through to its end, reach that filter."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d099-s",
+    "key": "Within the lustrous region of the heavens the Son makes the third secret name of Mother and of Sire.",
+    "ref": "Rig Veda 9.75.2",
+    "at": [
+     797,
+     2
+    ],
+    "s": "As Soma, the tongue of sacrifice, pours his juice, the verse turns to a son; Sāyaṇa, on 9.75.2, takes the Son as the sacrificer, who gains at the pressing a third name unknown to his parents at his naming: one who has offered Soma.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.75.2, sa.wikisource ऋग्वेदः सूक्तं ९.७५, revision 336927 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“पुत्रः यजमानः “पित्रोः मातापित्रोः “अपीच्यम् अन्तर्हितं यत् “नाम । तौ न जानीतो नामकरणवेलायाम् । तस्मात्तयोरपरिज्ञायमानं तत् “तृतीयं नाम \"दिवः द्युलोकस्य “रोचने दीप्यमाने सोमेऽभिषूयमाणे सति “अधि “दधाति अत्यन्तं धारयति । नक्षत्रव्यावहारिकनाम्नी प्रभाष्य सोमयाजीति तृतीयमस्य नाम इति भगवता बौधायनेनोक्तम्",
+     "gloss": "The son is the sacrificer; the name hidden from his father and mother: they do not know it at the time of the naming. So that third name, unknown to them, he takes and holds fast in the shining of heaven, that is, when the shining Soma is being pressed. Having declared the star name and the name in common use, “Somayājin” (one who has offered Soma) is his third name: so the revered Baudhāyana has said."
+    }
+   }
+  },
+  {
+   "d": 100,
+   "primary": {
+    "id": "veda-04-d100-p",
+    "key": "He glideth like a serpent from his ancient skin, and like a playful horse the Tawny Steer hath run.",
+    "ref": "Rig Veda 9.86.44",
+    "at": [
+     808,
+     44
+    ],
+    "s": "Near the end of a long hymn, singers are bidden to praise Soma as he flows; Sāyaṇa, on 9.86.44, reads the old skin as the one Soma sheds in the pressing, and the gliding as his stream slipping out through the filter.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.86.44, sa.wikisource ऋग्वेदः सूक्तं ९.८६, revision 324716 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“अहिर्न अहिरिव \"जूर्णां जीर्णां “त्वचम् “अति “सर्पति अतिमुञ्चति । अभिषवादिकर्मणा त्वचं मुञ्चतीत्यर्थः । तद्वदतिसर्पति धारा दशापवित्रात्",
+     "gloss": "Like a snake: as a snake glides beyond, sheds, its worn, old skin. The meaning is that through the work of pressing and the rest he sheds his skin. In the same way his stream glides out beyond the woollen filter."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d100-s",
+    "key": "Let not the double-tongued delight them with thy juice.",
+    "ref": "Rig Veda 9.85.1",
+    "at": [
+     807,
+     1
+    ],
+    "s": "Opening a hymn that sends Soma to Indra, the singer prays that sickness and fiends stay far off; Sāyaṇa, on 9.85.1, takes the double-tongued as sinners, joined to truth and falsehood both, who are not to drink their share and be cheered.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.85.1, sa.wikisource ऋग्वेदः सूक्तं ९.८५, revision 283272 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"ते तव \"रसस्य स्वांशं रसं पीत्वा \"मा \"मत्सत मा माद्यन्तु । के। “द्वयाविनः । द्वयं सत्यानृतम् । तेन युक्ताः । पापिन इत्यर्थः ।",
+     "gloss": "Let them not, having drunk their own share of your juice, be exhilarated, let them not be gladdened. Who? The dvayāvins: the pair is truth and falsehood; those joined to it; the meaning is, sinners."
+    }
+   }
+  },
+  {
+   "d": 101,
+   "primary": {
+    "id": "veda-04-d101-p",
+    "key": "Father of holy hymns, Soma flows onward the Father of the earth, Father of heaven: Father of Agni, Surya’s generator, the Father who begat Indra and Visnu.",
+    "ref": "Rig Veda 9.96.5",
+    "at": [
+     818,
+     5
+    ],
+    "s": "After a shared prayer for welfare, the hymn turns to Soma’s titles; Sāyaṇa, on 9.96.5, reads all this begetting as coming to pass at the pressing, since Soma strengthens the gods, and Indra’s begetting as the gladness he stirs when drunk.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.96.5, sa.wikisource ऋग्वेदः सूक्तं ९.९६, revision 307921 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“सोमः अभिषूयमाणः “पवते पात्रेषु क्षरति । … किंच “दिवः द्युलोकस्य “जनिता प्रादुर्भावयिता तथा “पृथिव्याः जनयिता “अग्नेः जनयिता प्रकाशयिता “सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य “जनिता “इन्द्रस्य “जनिता पानेन मदस्य जनयिता “उत अपि च “विष्णोः ब्यापकस्य “जनिता जनयिता । एतत् सर्वं सोमेऽभिषूयमाणे भवतीति । सोमो हि देवानाप्याययतीति ॥",
+     "gloss": "Soma, being pressed, flows: streams into the vessels. … Further, of heaven the begetter, the one who makes it appear, and of earth the begetter; of Agni the begetter, the one who makes him shine; of Sūrya, the sun who sets all things moving, the begetter; of Indra the begetter: by being drunk, the begetter of his exhilaration; and of Viṣṇu, the pervader, the begetter. All this comes about when Soma is being pressed; for Soma makes the gods swell with strength."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d101-s",
+    "key": "They, clothed in glory, have become immortal.",
+    "ref": "Rig Veda 9.94.4",
+    "at": [
+     816,
+     4
+    ],
+    "s": "Amid lines ringing on the word glory, Soma, born for it, gives it to his singers; Sāyaṇa, on 9.94.4, takes the glory as the prosperity Soma grants his praisers, and their immortality as godhood or freedom from death.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.94.4, sa.wikisource ऋग्वेदः सूक्तं ९.९४, revision 325656 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "स सोमः “श्रिये “जातः संपदर्थं प्रादुर्भूतो भवति । … “जरितृभ्यः स्तोतृभ्यः “श्रियं “वयः अन्नं जीवनं वा “दधाति विदधाति प्रयच्छति । तेन दत्तां “श्रियं “वसानाः आच्छादयन्तः स्तोतारः “अमृतत्वं देवत्वममरणं वा “आयन प्राप्नुवन् ।",
+     "gloss": "That Soma is born for glory: he has come forth for the sake of prosperity. … To those who praise him he grants glory and food, or life. Wearing the glory given by him, clothed in it, the praisers attained immortality: godhood, or not dying."
+    }
+   }
+  },
+  {
+   "d": 102,
+   "primary": {
+    "id": "veda-04-d102-p",
+    "key": "Part, like a knotted tangle, while they cleanse thee, O Soma, righteous and unrighteous conduct.",
+    "ref": "Rig Veda 9.97.18",
+    "at": [
+     819,
+     18
+    ],
+    "s": "After asking Soma to set the winds free like unbraided hair, the singer asks a second untying; Sāyaṇa, on 9.97.18, hears a plea that the singer, bound by sins, be untied from them like a knot, and given a straight path and strength.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.97.18, sa.wikisource ऋग्वेदः सूक्तं ९.९७, revision 402120 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "पुनानः पूयमानस्त्वं ग्रथितं पापैर्बद्धं मां वि ष्य मुञ्च । पापेभ्यो विश्लेषय । कथमिव । ग्रन्थिं न यथा कश्चित् ग्रन्थिं विश्लेषयति । … किंच हे सोम त्वम् ऋजुम् अवक्रं गातुं मार्गं च वृजिनं बलं च मह्यं देहि ।",
+     "gloss": "You, as you are purified, set free me who am tied, bound by sins: separate me from sins. How? As someone unties a knot. … And, Soma, give me a straight path, one not crooked, and strength (vṛjina taken as strength)."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d102-s",
+    "key": "Three are the voices that the Courser utters: he speaks the thought of prayer, the law of Order.",
+    "ref": "Rig Veda 9.97.34",
+    "at": [
+     819,
+     34
+    ],
+    "s": "After Soma is bidden into the beaker and towards the sun, the verse turns to the rite’s voices; Sāyaṇa, on 9.97.34, takes the Courser as the sacrificer and the three voices as praises in the form of the Ṛk, the Yajus and the Sāman.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.97.34, sa.wikisource ऋग्वेदः सूक्तं ९.९७, revision 402120 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "वह्रिर्वोढा यजमानः तिस्रोवाचः ऋग्यजुःसामात्मिकाः स्तुतीः प्रेरयति । तथा ऋतस्य यज्ञस्य धीतिं धारयित्रीं ब्रह्मणः परिवृढस्य सोमस्य मनीषां मनसईशित्रीं कल्याणीं वाचं च प्रेरयति ।",
+     "gloss": "The bearer (vahni) is the sacrificer: he sends forth three voices, praises that have the form of the Ṛk, the Yajus and the Sāman. Likewise he sends forth the thought that upholds the sacrifice, and the fair speech, mistress of the mind, of the mighty Soma (brahman)."
+    }
+   }
+  }
+ ]
+}

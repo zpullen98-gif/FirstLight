@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d111-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AA%E0%A5%AB&oldid=296628",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the Sāyaṇa packet on 10.45.2 (rev 296628, 2020-12-07 confirmed): trayāṇi agnivāyvādityākhyāni trīṇi rūpāṇi (three forms named Agni, Vāyu, Āditya, i.e. fire, wind, sun); dhāma ... gārhapatyāhavanīyānvāhāryapacanādīni (the sacrificial fires); guhā gūḍham avedavidbhir avijñātam (hidden, unknown to those who do not know the Veda). Wilson’s note mentions Mahidhara giving the same interpretation, but the Sanskrit on the page is Sāyaṇa’s own, so attribution holds. Plain sense checked: 10.45.1 gives Agni’s three births (heaven, among men, the waters), verse 2 claims knowledge of his forms, stations, secret name and source. verse.js ok (ref 10.45.2, at [881,2]); entry-check ok. No attack landed.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d100-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AE%E0%A5%AC&oldid=324716",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 100 --verse 9.86.44: the Sanskrit under 9.86.44 (vipaścite pavamānāya gāyata ... ahir na jūrṇām ati sarpati tvacam atyo na krīḷann asarad vṛṣā hariḥ, ॥४४) matches Griffith’s 9.86.44 in day.js. Sāyaṇa’s words found verbatim: ahir na ahir iva jūrṇāṃ jīrṇāṃ tvacam ati sarpati atimuñcati. abhiṣavādikarmaṇā tvacaṃ muñcatīty arthaḥ. tadvad atisarpati dhārā daśāpavitrāt. They carry both halves of the paraphrase: the old skin as what Soma sheds through the pressing and the other rites, and the gliding as his stream passing out from the woollen filter; nothing more is claimed. The reading is his (Wilson’s translation only renders the simile; his one note here, on the moon, belongs to 9.86.45). Plain sense: 9.86 runs to 48 verses so 44 is near the end, and the first half of this same verse (not in the key) bids the singers, whom Sāyaṇa calls the priests, to sing to Pavamāna; no four key-verse words reused, commentator not named. No school, comparison or tone issue. verse.js ok (Rig Veda 9.86.44, at [808,44]); entry-check.js ok on a fresh scratch copy (R-d100-p.json), 42 words, no errors or warns. Revision 324716 dated 2021-11-15 by the Wikisource API, so ‘(2021)’ stands.",
+ "better": ""
+}

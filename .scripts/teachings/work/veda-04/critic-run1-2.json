@@ -1,0 +1,17 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 110,
+   "id": "veda-04-d110-p",
+   "problem": "Spread, and a softened hard passage. Yāska treats this key verse (Nirukta 5.25, in the day's own packet), and Sāyaṇa's commentary on 10.44.6 quotes him there (तथा च यास्कः ... (निरु. ५, २५)). The two genuinely differ on the key line. Sāyaṇa takes only debt: ईर्मैव ऋणेनैव ... नीचैरविशन्त, those without Indra's grace are evildoers who went down. Yāska gives alternatives: in Sarup's words they 'remained here, i.e. in this very place, or in debt, or in this world'. After the revisions the batch still has Sāyaṇa on 29 of 30 days (the gate warns), and critic-1 wrongly called d115 the only day where Yāska had a real comment. The plain sense on this exclusion verse is also vague: 'the singer turns to the fate of others' does not state the passage in one plain clause as rule 6 asks.",
+   "fix": "Use the two-commentator form (60-word cap; both schools are empty, so none is named), with evidence from the packet for Yāska (Sarup, Nirukta 5.25) and for Sāyaṇa (sa.wikisource revision 328215). For example: 'Midway through a hymn inviting Indra to the Soma, the singer sets the first callers of the gods against those who failed to board and sank; Sāyaṇa, on 10.44.6, reads those as evildoers without Indra’s grace, sunk low by debt, and Yāska, Nirukta 5.25, as those left in this very world, or in debt.' Then run entry-check.js and verse.js."
+  },
+  {
+   "d": 0,
+   "id": "",
+   "problem": "Critic-1's source-line problem was never revised and is still there. Days 97, 99 to 102 and 109 to 114 give the Wikisource page title (ऋग्वेदः सूक्तं m.h) with no note on the edition. Days 98, 103 to 108 and 116 to 122 give '(the printed edition is not named)' with no page title. Days 123 to 126 use a third form: 'Vedārthaprakāśa, on Rig Veda …, sa.wikisource (printed edition not named)', with an extra comma and no 'the'. The same source should be cited the same way across the batch.",
+   "fix": "Use one form for every Sāyaṇa src, within 160 characters. For example: 'Sāyaṇa, Vedārthaprakāśa on Rig Veda m.h.v, sa.wikisource ऋग्वेदः सूक्तं m.h (the printed edition is not named), revision N (year)'. Keep each entry's own revision and year, which match its packet. The Yāska src on d115 stays as it is."
+  }
+ ]
+}

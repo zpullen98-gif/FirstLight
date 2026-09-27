@@ -1,0 +1,8 @@
+{
+ "id": "veda-04-d116-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AE%E0%A5%A8&oldid=353423", "found": true},
+ "attacks": [],
+ "reason": "Re-opened by packet.js --verse 10.82.7 and by the pinned oldid itself (API confirms revision 353423 is page ऋग्वेदः सूक्तं १०.८२, timestamp 2022-10-05, so the year holds). Sāyaṇa's words are at 10.82.7: नीहारसदृशेनाज्ञानेनाच्छन्नाः (mist = ignorance), अज्ञानम् ... ईश्वरतत्त्वावरकत्वात् (it veils the Lord's reality), युष्माकम् ... जीवानाम् अन्तरम् अन्यत् ... ईश्वरतत्त्वं (the Lord's reality other than the individual selves), केवलमैहिकामुष्मिकभोगपरा (intent only on enjoyment here and hereafter). The verse has one subject (all the predicates attach to those who wander, the uktha-reciters), so applying the closing gloss to the chanters is not drift; Wilson's note independently reports the same gloss. Plain sense checked against day.js: 10.82 is the second Visvakarman hymn (after 10.81), 10.82.7 is its last verse and is addressed to 'ye'. verse.js ok (918,7), entry-check ok, no school needed, no comparison, no softening.",
+ "better": ""
+}

@@ -1,0 +1,61 @@
+{
+ "id": "veda-04-d097-p",
+ "d": 97,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "O’er all thou rulest with these Two which, Soma Pavamana, stand, Turned, as thy stations, hitherward.",
+ "ref": "Rig Veda 9.66.2",
+ "at": [
+  788,
+  2
+ ],
+ "s": "After Soma is hailed as a friend besought by friends, the singer turns to his rule; Sāyaṇa, on 9.66.2, reads the Two as the fortnights, in which Soma the creeper gains and loses leaf by leaf and the gods drink him digit by digit.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.66.2, sa.wikisource ऋग्वेदः सूक्तं ९.६६, revision 315685 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AC%E0%A5%AC&oldid=315685",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.६६, revision 315685 (2021)",
+    "locator": "9.66.2, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n309/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888)",
+    "locator": "9.66.2, translation and note 1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/in.ernet.dli.2015.104119",
+    "edition": "R. T. H. Griffith, The Hymns of the Rigveda, 2nd ed., vol. 2 (1897)",
+    "locator": "notes on 9.66",
+    "via": "packet"
+   },
+   {
+    "url": "https://sa.wikisource.org/w/api.php?action=query&prop=revisions&revids=315685|363110&rvprop=timestamp|ids&format=json",
+    "edition": "sa.wikisource revision metadata",
+    "locator": "revid 315685, timestamp 2021-08-09",
+    "via": "webfetch"
+   }
+  ],
+  "words": "“ये “धामनी पूर्वपक्षापरपक्षयोर्लतारूपस्य सोमस्य तवैकैकपर्णवृद्धिहासाभ्यां तव स्वभूतौ पूर्वादिपक्षौ । यद्वा ये धामनी नामनी अंशुसोमात्मके अपि “प्रतीची त्वदभिमुखं गच्छन्तौ गच्छती वा पक्षौ नामनी वा “तस्थतुः उपजग्मतुः “ताभ्यां त्वं “विश्वस्य सर्वस्य लोकस्य “राजसि स्वामी भवसि । पूर्वादिपक्षाभ्यां सर्वलोकस्योपनायकत्वात्तस्य स्वामी भवसि । पृथिव्यामंशुनाम्ना मनुष्याणां सर्वेषामभीप्सितदानेन तस्य लोकस्य द्युलोके देवेभ्यः स्वसुधामयकलादानेन तेषां प्रीणयिता भवसि । देवाः खलु सोमस्यैकैकवृद्धिहासाभ्यां कलाः पिबन्ति",
+  "lang": "Sanskrit",
+  "gloss": "O Soma, the two stations (dhāmanī) are your own former and latter fortnights, of you Soma in the form of a creeper, through the growth and loss of one leaf at a time; or else the two names, aṃśu and Soma. Facing you they came near; by these two you rule the whole world and are its lord. On earth, under the name aṃśu, by granting all men their desires, and in heaven by giving the gods your digits full of nectar, you delight them. The gods indeed drink the digits of Soma as they grow and wane one by one.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 9.66.2, at [788,2]). Sāyaṇa on 9.66.2 takes dhāmanī first as pūrvāparapakṣau, the two fortnights of Soma as creeper, waxing and waning one leaf at a time, and adds that the gods drink his kalāḥ (digits) one by one; Wilson note 1 reports the same. Corrected two phrases to stay inside his words: \"bright and dark fortnights\" became \"the fortnights\" (he says pūrva/apara, former and latter, not bright and dark), and \"the gods drink his nectar\" became \"the gods drink him digit by digit\" (his words are kalāḥ pibanti, ekaika). Source line now names the page and the revision year, confirmed as 2021 from the wiki revision metadata. He also offers an alternative (the two names aṃśu and Soma); the sentence gives his first reading. Plain sense faithful: 9.66.1 hails Soma as a friend to be besought by friends; 9.66.2 turns to his rule. entry-check ok."
+}

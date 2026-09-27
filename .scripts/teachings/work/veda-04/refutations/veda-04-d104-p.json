@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d104-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A8&oldid=343045",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 104 --verse 10.2.4: the Sanskrit under 10.2.4 (yad vo vayaṃ pramināma vratāni viduṣāṃ devā aviduṣṭarāsaḥ, agniṣ ṭad viśvam ā pṛṇāti vidvān yebhir devāṃ ṛtubhiḥ kalpayāti) matches Griffith’s 10.2.4 in day.js. Sāyaṇa’s words found verbatim: pramināma prahiṃsitavantaḥ, bhavatsu jānatsu nityanaimittikakarmāṇi vilopitavanta ity arthaḥ, vidvān etat sarvaṃ jānānaḥ agniḥ sviṣṭakṛt tat etat viśvaṃ sarvaṃ karmajātam ā pṛṇāti āpūrayatu, phalasahitaṃ karotv ity arthaḥ. They carry the paraphrase: Agni named as Sviṣṭakṛt, knowing all this (the lapse just described), filling up the whole body of rites, that is, making it complete with its fruit. “maker of the well-offered rite” only glosses the name su-iṣṭa-kṛt and claims nothing further; “each rite” for viśvaṃ karmajātam is fair. Wilson’s translation (“may the wise Agni complete the whole”) agrees; Webster’s bracketed note is not used. Plain sense: 10.2.1 to 10.2.5 ask Agni, lord of seasons, to worship the gods in season, and 10.2.4 to 10.2.5 own the mortals’ neglect; faithful, no four-word run, commentator not named. No school, comparison or tone issue. verse.js ok (Rig Veda 10.2.4, at [838,4]); entry-check.js ok on scratch/R-d104-p.json. Revision 343045 dated 2022-08-10 by the Wikisource API, so (2022) stands.",
+ "better": ""
+}

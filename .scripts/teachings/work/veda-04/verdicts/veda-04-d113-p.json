@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d113-p",
+ "d": 113,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Wise Deities, who have dominion o’er the world, ye thinkers over all that moves not and that moves, Save us from uncommitted and committed sin, preserve us from all sin to-day for happiness.",
+ "ref": "Rig Veda 10.63.8",
+ "at": [
+  899,
+  8
+ ],
+ "s": "In a hymn asking the All-Gods and Adityas, stanza after stanza, for happiness, the singer seeks release from wrongdoing; Sāyaṇa, on 10.63.8, reads ‘committed’ sin as the body’s and ‘uncommitted’ as the mind’s, done by no hand or foot.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.63.8, sa.wikisource ऋग्वेदः सूक्तं १०.६३, revision 275531 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AC%E0%A5%A9&oldid=275531",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.६३, revision 275531 (2020)",
+    "via": "packet",
+    "locator": "10.63.8, commentary (and the whole hymn)"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n178/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888; ed. Cowell and Webster)",
+    "locator": "10.63.8, translation, and Webster’s note on it",
+    "via": "packet"
+   }
+  ],
+  "words": "अथ प्रत्यक्षकृतः । हे “देवासः देवा य उक्तगुणाः “ते यूयं “नः अस्मान् “कृतात् कायिकात्पापात् “अकृतात् करचरणादिभिरकृतात् “एनसः किंतु मानसात्पापाच्च “अद्य अस्मिन्दिने “स्वस्तये अविनाशायायुषोऽभिवृद्धये “पिपृत पारयत । पापरहितान् कुरुतेत्यर्थः",
+  "lang": "Sanskrit",
+  "gloss": "Then he addresses them directly. O gods, you who have the qualities just named, carry us over, this day, from sin that is done, bodily sin, and from sin not done with hands, feet and the like, but rather mental sin; for well-being, that is, for not perishing and for the lengthening of life. The sense is: make us free of sin.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 10.63.8, at [899,8]). Sāyaṇa on 10.63.8 glosses kṛtāt as kāyikāt pāpāt (bodily sin) and akṛtāt as sin not done with hands and feet, kintu mānasāt pāpāt (but mental sin); Webster’s bracketed note in Wilson reports the same of Sāyaṇa. The sentence carries exactly this; the two quoted words are within the three-word limit. Plain sense: the hymn is to the All-Gods and Adityas, and svastaye closes stanza after stanza (Griffith’s note on 14); faithful. Revision 275531 dated 2020-09-29 (Wikisource API). Evidence contiguous from the packet. entry-check ok."
+}

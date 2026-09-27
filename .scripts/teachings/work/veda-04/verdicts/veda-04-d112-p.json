@@ -1,0 +1,55 @@
+{
+ "id": "veda-04-d112-p",
+ "d": 112,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "HERE is one light for thee, another yonder: enter the third and he therewith united. Uniting with a body be thou welcome, dear to the Gods in their sublimest birthplace.",
+ "ref": "Rig Veda 10.56.1",
+ "at": [
+  892,
+  1
+ ],
+ "s": "Opening a hymn that speaks to Vajin and praises the Fathers, the verse offers him three lights; Sāyaṇa, on 10.56.1, hears a father speaking to his dead son, and reads the lights as fire, wind and sun, for his warmth, breath and self to join.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.56.1, sa.wikisource ऋग्वेदः सूक्तं १०.५६, revision 321754 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AB%E0%A5%AC&oldid=321754",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.५६, revision 321754 (2021)",
+    "via": "packet",
+    "locator": "10.56.1, commentary (and the whole hymn, introduction to 10.56.7)"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n157/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888; ed. Cowell and Webster)",
+    "locator": "10.56.1, translation",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/in.ernet.dli.2015.104119",
+    "edition": "R. T. H. Griffith, The Hymns of the Rigveda, 2nd ed., vol. 2 (1897)",
+    "locator": "notes on 10.56.1 to 7",
+    "via": "packet"
+   }
+  ],
+  "words": "एतदादिभिर्बृहदुक्थो वाजिनं नाम स्वपुत्रं मृतं वदति । हे मृत पुत्र “ते तव “इदम् । उपरि ज्योतिषेति वक्ष्यमाणत्वादत्रेदंशब्देन ज्योतिरभिधीयते । इदं ज्योतिरग्न्याख्यम् “एकम् एकोंऽशः । अतस्तमग्निं तव देहगताग्न्यंशेन बाह्यमग्निं “सं “विशस्व संगच्छस्व । तथा “पर “उ अन्योऽपि “ते तत्र “एकं वाय्वावाख्योंऽशः ते तव प्राणवाय्वाख्येनांशेन से विशस्व । शरीराग्निप्राणवाय्वोर्बाह्याग्निवाय्वो श्चैकत्वादंशत्वमिति भावः । तथा “तृतीयेन “ज्योतिषा आदित्याख्येन तेजसा तवात्मना सं विशस्व ।",
+  "lang": "Sanskrit",
+  "gloss": "With this and the following verses Bṛhaduktha speaks to his own dead son, named Vājin. O dead son, this is yours: since “light” is said below, “this” here means a light. This light, called fire, is one portion: so, by the portion of fire that is in your body, join the outer fire. And the other one yonder is yours, the portion called wind: by your portion called the breath, join it. The sense is that they are portions because the body’s fire and breath are one with the outer fire and wind. And with the third light, the radiance called the sun, join with your self.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 10.56.1, at [892,1]). Sāyaṇa opens 10.56.1 by saying Bṛhaduktha addresses his dead son Vājin with this and the following verses, and takes the three lights as fire, wind and the sun, to be joined by the fire in the body, the breath and the self; he confirms the frame at 10.56.7 (svāṃ prajāṃ vājinaṃ mṛtaṃ putram). ‘Warmth’ renders his dehagata agni-aṃśa (the fire-portion in the body) fairly. Plain sense: the hymn addresses Vajin (named at 10.56.2) and turns to the Fathers at 10.56.4 to 6; the verse speaks of one light, another, and a third; faithful, and it repeats no four words of the key. Revision 321754 dated 2021-09-28 (Wikisource API). Evidence is a contiguous span of the packet (the proposer’s basis used ellipses). entry-check ok."
+}

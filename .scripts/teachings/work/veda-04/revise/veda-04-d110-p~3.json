@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d110-p",
+ "d": 110,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Far went our earliest invocation of the Gods, and won us glories that can never be surpassed. They who could not ascend the ship of sacrifice, sink down in desolation, trembling with alarm.",
+ "ref": "Rig Veda 10.44.6",
+ "at": [
+  880,
+  6
+ ],
+ "s": "Between bidding Indra sit on the holy grass and wishing the evil-hearted far away, the singer sets two fates at the sacrifice side by side; Sāyaṇa, on 10.44.6, reads those left behind as evildoers without Indra’s grace, brought low by debt, and Yāska, Nirukta 5.25, as those who stayed in this very world, or in debt.",
+ "by": "sayana",
+ "by2": "yaska",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.44.6, sa.wikisource revision 328215 (2021); Yāska, Nirukta 5.25, in Lakshman Sarup, The Nighantu and the Nirukta (1921)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AA%E0%A5%AA&oldid=328215",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.४४, revision 328215 (2021; printed edition not named)",
+    "locator": "10.44.6, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/nighantuniruktao00yask",
+    "edition": "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask (OCR)",
+    "locator": "Nirukta 5.25, on 10.44.6",
+    "via": "packet"
+   }
+  ],
+  "words": "ये त्वत्प्रसादरहिता जनाः “यज्ञियां यज्ञसंबन्धिनीम् । यज्ञमयीमित्यर्थः । “नावम् “आरुहम् आरोढुं “न “शेकुः न शक्नुवन्ति “ते “केपयः कुत्सितपूयकर्माणः पापकर्माणो जनाः “ईर्मैंव ऋणेनैव “न्यविशन्त नीचैरविशन्त । अधोगतिं प्राप्ता इत्यर्थः … Now those, who were not able to ascend the ship of sacrifice, remained here, i.e. in this very place, or in debt, or in this world.",
+  "lang": "Sanskrit (Sāyaṇa); English (Sarup’s translation of Yāska)",
+  "gloss": "Sāyaṇa: those people without your (Indra’s) grace could not ascend the ship made of sacrifice; they, kepayaḥ, doers of foul deeds, people of evil acts, sank down by debt itself, went low, that is, reached the downward course … Yāska (Sarup): those who could not ascend the ship of sacrifice remained here, in this very place, or in debt, or in this world.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource); Sarup 1921 public domain",
+  "supports": true
+ },
+ "sensitivity": "exclusion",
+ "confidence": "high",
+ "reason": "Problem holds: rule 9 wants the work after the name, and the roster gives Sāyaṇa’s work as the Vedārthaprakāśa, which the packet edition line names (Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.४४, revision 328215). Only src changed (158 characters); key, sentence and evidence unchanged, and the evidence strings re-found in packet.js veda 110 --verse 10.44.6 (Sāyaṇa’s gloss and Sarup’s Yāska, Nirukta 5.25). verse.js ok (10.44.6, [880,6]); entry-check ok on scratch/crit4/110b.json."
+}

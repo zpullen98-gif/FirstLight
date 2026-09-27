@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d112-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AB%E0%A5%AC&oldid=321754",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 112 --verse 10.56.1 and --verse 10.56.7. The Sanskrit under 10.56.1 (idaṃ ta ekaṃ para ū ta ekaṃ tṛtīyena jyotiṣā saṃ viśasva) is Griffith’s 10.56.1 in day.js, so no numbering shift. Sāyaṇa’s words are found verbatim: etad-ādibhir bṛhaduktho vājinaṃ nāma svaputraṃ mṛtaṃ vadati (a father to his dead son, frame repeated at 10.56.7: svāṃ prajāṃ vājinaṃ mṛtaṃ putram); jyotir agny-ākhyam, vāyv-ākhyo ’ṃśaḥ, āditya-ākhyena tejasā (fire, wind, sun); deha-gata-agny-aṃśena, prāṇa-vāyv-ākhyena aṃśena, tava ātmanā (the body’s fire, the breath, the self). ‘Warmth’ for the fire-portion in the body is a fair English for dehagata agni, not a new claim. The reading is his: Wilson’s translation follows it but the sentence attributes nothing of Wilson’s or Webster’s. Plain sense: 10.56.1 opens the hymn (capitalised HERE), Vajin is addressed at 10.56.2, the Fathers at 10.56.4 to 6; ‘offers him three lights’ reuses no four key words and does not name the commentator. No school needed, no comparison, death stated plainly without softening or drama. verse.js ok (Rig Veda 10.56.1, at [892,1]); entry-check.js ok on scratch/R-d112-p.json, no errors or warns. Revision 321754 timestamp 2021-09-28 (Wikisource API, re-queried), page title 10.56, so ‘(2021)’ stands.",
+ "better": "Not a refutation, but the app’s text of the key verse reads ‘enter the third and he therewith united’, where Griffith printed ‘be therewith united’: an OCR slip in the app’s own Griffith. The key must stay verbatim, so the operator may wish to correct the source text (and re-run verse.js) before this ships, since the garbled imperative is the first line a reader meets."
+}

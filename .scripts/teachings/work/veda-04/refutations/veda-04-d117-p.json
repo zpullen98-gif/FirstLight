@@ -1,0 +1,8 @@
+{
+ "id": "veda-04-d117-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AE%E0%A5%AE&oldid=363752", "found": true},
+ "attacks": [],
+ "reason": "Re-opened by packet.js --verse 10.88.15 and by the pinned oldid itself (API confirms revision 363752 is page ऋग्वेदः सूक्तं १०.८८, timestamp 2022-12-23, so the year holds). Sāyaṇa at 10.88.15: द्वौ मार्गौ देवयानपितृयाणाख्यौ (the two roads are the gods' way and the fathers' way); पितरं ... द्यां मातरं ... पृथिवीं ... अन्तरा द्यावापृथिव्योर्मध्ये (all between heaven and earth); अग्निना संस्कृतं सत् एजत् देवलोकं पितृलोकं च गच्छत् ताभ्यां ... मार्गाभ्यां समेति (made ready by fire, going to the gods' and fathers' worlds by those two roads). 'hallowed by fire' is a fair gloss of अग्निना संस्कृतं and 'those worlds' is carried by देवलोकं पितृलोकं. Verse numbering matches (packet labels 10.88.15; Wilson likewise). Plain sense checked against day.js: 10.88 praises Agni Vaisvanara, set 'as the Sun' (10.88.6) and 'as Surya' (10.88.11); verse 15 is in the singer's first person. verse.js ok (924,15), entry-check ok, no school needed, no comparison (Sāyaṇa's Gita citation is not brought into the sentence).",
+ "better": ""
+}

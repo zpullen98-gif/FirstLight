@@ -1,0 +1,171 @@
+{
+ "lane": "L5",
+ "plan": "veda",
+ "batch": "veda-04",
+ "days": [
+  {
+   "d": 123,
+   "primary": {
+    "id": "veda-04-d123-p",
+    "key": "That One Thing, breathless, breathed by its own nature: apart from it was nothing whatsoever.",
+    "ref": "Rig Veda 10.129.2",
+    "at": [
+     965,
+     2
+    ],
+    "s": "In a hymn asking what was before existent and non-existent and whence creation came, the verse tells what alone there was; Sāyaṇa, on 10.129.2, takes ‘That One Thing’ as Brahman, known throughout the Vedānta, and ‘its own nature’ as māyā, with which it lay undivided.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.129.2, sa.wikisource (printed edition not named), revision 402226 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“तत्” सकलवेदान्तप्रसिद्धं ब्रह्मतत्त्वम् “आनीत्” प्राणितवत्। … स्वस्मिन् धीयते ध्रियत आश्रित्य वर्तत इति स्वधा माया। तया तद्ब्रह्मैकमविभागापन्नमासीत्।",
+     "gloss": "‘That’ is the reality of Brahman, well known throughout the Vedānta; ‘breathed’: it was as though breathing. … Svadhā (‘its own nature’) is what is placed and held in oneself, what exists resting on it: māyā. With it that Brahman was one, having come to be undivided."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d123-s",
+    "key": "I TRAVEL with the Rudras and the Vasus, with the Adityas and All-Gods I wander. I hold aloft both Varuna and Mitra, Indra and Agni, and the Pair of Asvins.",
+    "ref": "Rig Veda 10.125.1",
+    "at": [
+     961,
+     1
+    ],
+    "s": "Opening a hymn in which a woman speaks throughout as the Queen, giver of the word; Sāyaṇa, on 10.125.1, hears Vāk, daughter of Ambhṛṇa, who, one with Brahman, the world’s cause, bears the gods, the world appearing in her as silver in mother-of-pearl.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.125.1, sa.wikisource (printed edition not named), revision 400730 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“अहं सूक्तस्य द्रष्ट्री वागाम्भृणी यद्ब्रह्म जगत्कारणं तद्रूपा भवन्ती … उभौ अहम् एव ब्रह्मीभूता “बिभर्मि धारयामि। … मयि हि सर्वं जगच्छुक्तौ रजतमिवाध्यस्तं सद्दृश्यते ।",
+     "gloss": "‘I’: Vāk Āmbhṛṇī (daughter of Ambhṛṇa), the seer of the hymn, taking the form of that Brahman which is the cause of the world … I alone, having become Brahman, bear, that is uphold, both … For in me the whole world is seen, superimposed like silver on mother-of-pearl."
+    }
+   }
+  },
+  {
+   "d": 124,
+   "primary": {
+    "id": "veda-04-d124-p",
+    "key": "The Munis, girdled with the wind, wear garments soiled of yellow hue. They, following the wind’s swift course go where the Gods have gone before.",
+    "ref": "Rig Veda 10.136.2",
+    "at": [
+     972,
+     2
+    ],
+    "s": "After the long-haired one who upholds heaven and earth, the hymn turns to the Munis; Sāyaṇa, on 10.136.2, takes them as sons of Vātaraśana, seers of things beyond sense, clad in soiled bark, who by worship of breath attain the wind’s own state.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.136.2, sa.wikisource (printed edition not named), revision 319729 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"वातरशनाः वातरशनस्य पुत्राः \"मुनयः अतीन्द्रियार्थदर्शिनो जूतिवातजूतिप्रभृतयः “पिशङ्गा पिशङ्गानि कपिलवर्णानि \"मला मलिनानि वल्कलरूपाणि वासांसि “वसते आच्छादयन्ति । … यदा “देवासः देवाः तपसो महिम्ना दीप्यमानाः सन्तः \"अविक्षत देवतास्वरूपं प्राविशन् । … तदा ते वातस्य वायोः “ध्राजिं गतिम् \"अनु “यन्ति अनुगच्छन्ति । प्राणोपासनया प्राणरूपिणो वायुभावं प्रपन्ना इत्यर्थः ॥",
+     "gloss": "Girdled with the wind: the sons of Vātaraśana; the Munis: seers of things beyond the senses, Jūti, Vātajūti and the rest; they wear tawny, soiled garments made of bark. … When, as gods, shining by the greatness of their austerity, they entered the very form of deity, … then they follow the course of the wind, Vāyu: that is, by worshipping breath they have reached the state of Vāyu, whose form is breath."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d124-s",
+    "key": "IN the Tree clothed with goodly leaves where Yama drinketh with the Gods, The Father, Master of the house, tendeth with love our ancient Sires.",
+    "ref": "Rig Veda 10.135.1",
+    "at": [
+     971,
+     1
+    ],
+    "s": "Opening a hymn on a child, a wheel-less car and the seat where Yama is hymned with flute and song; Yāska, Nirukta 12.29, takes Yama drinking with the gods as the sun going together with its rays, and the Father as the protector of all.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 12.29, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "Yama goes together with the gods, i. e. the sun with rays. There may the protector or supporter of us all long for the old ones.",
+     "gloss": "Yama ‘drinks’, that is goes together, with the gods: the sun with its rays. There the protector or supporter of all (the verse’s ‘Father, Master of the house’) longs for the ancient ones."
+    }
+   }
+  },
+  {
+   "d": 125,
+   "primary": {
+    "id": "veda-04-d125-p",
+    "key": "By Faith is Agni kindled, through Faith is oblation offered up. We celebrate with praises Faith upon the height of happiness.",
+    "ref": "Rig Veda 10.151.1",
+    "at": [
+     987,
+     1
+    ],
+    "s": "Opening a hymn to Faith, called on at dawn, at noon and at sunset; Sāyaṇa, on 10.151.1, takes faith as a particular longing in a person, who lights the sacred fires only when an exceeding regard for them arises in him, and not otherwise.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.151.1, sa.wikisource (printed edition not named), revision 208435 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "पुरुषगतोऽभिलाषविशेषः श्रद्धा । तथा “श्रद्धया “अग्निः गार्हपत्यादिः “समिध्यते संदीप्यते । यदा हि पुरुषे श्रद्धाग्निगोचर आदरातिशयो जायते तदैष पुरुषोऽग्नीन् प्रज्वालयति नान्यदा । “श्रद्धया एव हविः पुरोडाशादिहविश्च “हूयते ।",
+     "gloss": "Faith (śraddhā) is a particular longing present in a person. So by faith Agni, the householder’s fire and the rest, is kindled: for only when an exceeding regard, faith directed to the fires, arises in a person does he light the fires, and not otherwise. By faith alone is the oblation, the rice-cake and the rest, offered."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d125-s",
+    "key": "SAVITAR fixed the earth with bands to bind it, and made heaven steadfast where no prop supported. Savitar milked, as ’twere a restless courser, air, sea bound fast to what no foot had trodden.",
+    "ref": "Rig Veda 10.149.1",
+    "at": [
+     985,
+     1
+    ],
+    "s": "Opening a hymn to Savitar that later asks him to come down as a husband comes to his wife; Yāska, Nirukta 10.32, takes what Savitar milks as the cloud fastened in boundless space, and so hears in him the atmospheric god.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 10.32, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "Savitr has milked the cloud fastened in the atmosphere, i.e. fastened in the illimitable space … What other god than the atmospheric one would the seer have thus described ? The sun is called Savitr also.",
+     "gloss": "Savitṛ has milked the cloud fastened in the atmosphere, that is, fastened in illimitable space … What god other than the atmospheric one would the seer have described in this way? The sun too is called Savitṛ."
+    }
+   }
+  },
+  {
+   "d": 126,
+   "primary": {
+    "id": "veda-04-d126-p",
+    "key": "FROM Fervour kindled to its height Eternal Law and Truth were born: Thence was the Night produced, and thence the billowy flood of sea arose.",
+    "ref": "Rig Veda 10.190.1",
+    "at": [
+     1026,
+     1
+    ],
+    "s": "Opening a three-verse hymn of origins that ends with the Creator forming sun, moon, heaven and earth; Sāyaṇa, on 10.190.1, takes ‘Law’ as true intention and ‘Truth’ as true speech, both born of the fervour Brahmā spent before creation contemplating what he would make.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.190.1, sa.wikisource (printed edition not named), revision 340861 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "ऋतमिति सत्यनाम । ऋतं मानसं यथार्थसंकल्पनं सत्यं वाचिकं यथार्थभाषणम् । चकाराभ्यामन्यदपि शास्त्रीयं धर्मजातं समुच्चीयते । तत्सर्वमभीद्धादभितप्ताद्ब्रह्मणा पुरा सृष्ट्यर्थं कृतात्तपसोऽधि । … तपश्चात्र स्रष्टव्यपर्यालोचनलक्षणम् ।",
+     "gloss": "Ṛta (‘Law’) is a name for truth: ṛta is of the mind, a true intention; satya (‘Truth’) is of speech, a true statement. The two ‘and’s take in the rest of the duties the scriptures teach. All this arose from the fervent austerity (tapas) done of old by Brahmā for the sake of creation (so Wilson’s note on the verse reads ब्रह्मणा) … and tapas here has the character of contemplating what is to be created."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d126-s",
+    "key": "Assemble, speak together: let your minds be all of one accord, As ancient Gods unanimous sit down to their appointed share.",
+    "ref": "Rig Veda 10.191.2",
+    "at": [
+     1027,
+     2
+    ],
+    "s": "In the Rig Veda’s last hymn, after a verse to Agni, a gathering is called to one purpose; Sāyaṇa, on 10.191.2, takes it as a charge to the singers to drop their quarrels, speak one word and accept wealth as the gods accept their shares.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.191.2, sa.wikisource (printed edition not named), revision 208444 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे स्तोतारः यूयं “सं “गच्छध्वम् । संगताः संभूता भवत” ॥ … तथा “सं “वदध्वं सह वदत । परस्परं विरोधं परित्यज्यैकविधमेव वाक्यं ब्रूतेति यावत् । … “यथा “पूर्वे पुरातनाः “देवाः “संजानानाः ऐकमत्यं प्राप्ता हविर्भागम् \"उपासते यथास्वं स्वीकुर्वन्ति तथा यूयमपि वैमत्यं परित्यज्य धनं स्वीकुरुतेति शेषः ॥",
+     "gloss": "O praisers, come together: be joined and united. … Likewise speak together, speak with one another: that is, setting aside your opposition to one another, say one and the same word. … As the ancient gods, having come to one mind, accept their share of the oblation each as is his own, so you too, setting aside disagreement, accept wealth: so the sense is completed."
+    }
+   }
+  }
+ ]
+}

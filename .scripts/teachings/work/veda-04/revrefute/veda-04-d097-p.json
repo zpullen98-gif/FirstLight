@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d097-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AC%E0%A5%AC&oldid=315685",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 97 --verse 9.66.2 (pinned revision 315685, matching sources/veda-lock.json); the evidence matches the packet by machine (whitespace and punctuation ignored). Sayana glosses dhamani as purvapaksaaparapaksau, the two fortnights, belonging to Soma latarupa through ekaikaparnavrddhihrasa (the gain and loss of one leaf at a time), and closes devah khalu somasya ekaikavrddhihrasabhyam kalah pibanti (the gods drink the portions of Soma by their growth and decline one by one): waxing and waning, leaf by leaf, the gods drinking his portions are all in his words. Attacks tried: (drift) the drinking sentence follows his second alternative (the two names amsu and Soma, earth and heaven), but it is phrased by the same vrddhihrasa one by one that defines the fortnights, and somasya kalah is literally his portions, so tying it to the fortnights with when does not go beyond him; (attribution) the alternative reading is omitted, not misattributed, and the fortnights are his first gloss, as Wilson note 1 also reports; (plain) 9.66.1 hails Soma as a Friend to be besought by friends and 9.66.2 turns to his rule over all, faithful, no four-word run from the key, commentator not named before the semicolon; no school needed, no comparison, no tone issue. verse.js ok (Rig Veda 9.66.2, at [788,2]); entry-check.js ok, no errors or warns, on scratch/RR-d097-p.json. Revision 315685 timestamp 2021-08-09 fetched from the sa.wikisource API, so (2021) stands.",
+ "better": "Optional fuller form if length allows: add his alternative, or else as his two names, amsu on earth and Soma in heaven; not required."
+}

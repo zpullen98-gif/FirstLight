@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d106-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AC&oldid=333348",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 106 --verse 10.16.3 and, independently, the raw wikitext of sa.wikisource revision 333348 (action=raw): the Sanskrit labelled 10.16.3 (sūryaṃ cakṣur gacchatu vātam ātmā ... dharmaṇā) is Griffith’s 10.16.3, so no numbering shift; the evidence words are found verbatim in the revision. Sāyaṇa addresses the preta, glosses ātmā as prāṇa going to vātaṃ bāhyaṃ vāyum (the outer air) and dharmaṇā as sukṛtena, going to heaven or earth tatphalaṃ bhoktum (to enjoy its fruit, ca taken as disjunctive): this carries both halves of the paraphrase without drift. The reading is his own Sanskrit, not Wilson’s (Wilson’s note only says the Scholiast understands transmigration). Plain sense: 10.16.1 to 2 ask Agni (Jatavedas) to send the dead man to the Fathers and 10.16.3 turns to address him; no four key-verse words reused, commentator not named before the semicolon, no doctrine. No school needed, no comparison, cremation stated plainly. verse.js ok (Rig Veda 10.16.3, at [852,3]); entry-check.js ok on scratch/RF-d106-p.json with no errors or warns. Wikisource API gives revision 333348 the timestamp 2022-03-04, so ‘(2022)’ stands. Only quibble: Griffith’s verses 1 and 2 say ‘send’ and ‘give him over’; ‘bear’ is 10.16.4’s word, which comes after the key verse, but the substance of the context clause is right.",
+ "better": "Context clause could use the text’s own verb: ‘At the pyre, having asked Agni to send the dead man to the Fathers, the singer turns to him; ...’"
+}

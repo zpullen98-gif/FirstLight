@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d107-p",
+ "d": 107,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "As the days follow days in close succession, as with the seasons duly come the seasons, As each successor fails not his foregoer, so form the lives of these, O great Ordainer.",
+ "ref": "Rig Veda 10.18.5",
+ "at": [
+  854,
+  5
+ ],
+ "s": "In a hymn that sends Death away from the living, the singer turns to the Ordainer; Sāyaṇa, on 10.18.5, takes the successor who does not forsake his foregoer as a son who does not leave his father by dying first.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.18.5, sa.wikisource (the printed edition is not named), revision 353436 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AE&oldid=353436",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 353436 (printed edition not named)",
+    "locator": "on 10.18.5",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n57/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils (OCR)",
+    "locator": "10.18.5",
+    "via": "packet"
+   }
+  ],
+  "words": "यथा च “पूर्वं पूर्वकालीनं पितरम् \"अपरः अर्वाक्कालीनः पुत्रः \"न \"जहाति न परित्यजति पूर्वमरणेन । “एव \"एवं तेनैवोक्तप्रकारेण हे “धातः सर्वेषां धारयितरेतन्नामक देव “एषाम् अस्मत्कुलीनानां जीवानाम् \"आयूंषि जीवनानि “कल्पय समर्थय",
+  "lang": "Sanskrit",
+  "gloss": "And as the later one, the son born after, does not abandon the former, the father born before, by dying first: just so, in the very way described, O Dhātṛ, sustainer of all, god of that name, arrange (make) the lives of these living members of our family.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.18.5 and at [854,5] match). Plain sense: hymn 10.18 opens by sending Death (Mṛtyu) away and setting a rampart for the living; Sāyaṇa’s introduction makes verses 1 to 4 Death’s and verse 5 Dhātṛ’s, the Ordainer the verse addresses: faithful. In the Sanskrit packet on 10.18.5 Sāyaṇa glosses aparaḥ as the later-born son and pūrvam as the earlier-born father, whom he does not leave by dying first (pūrvamaraṇena); Wilson’s note repeats this as the comment’s reading. No drift. Revision 353436 dated 2022-10-05 by the Wikisource API. Gate ok."
+}

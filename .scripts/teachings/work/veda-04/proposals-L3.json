@@ -1,0 +1,253 @@
+{
+ "lane": "L3",
+ "plan": "veda",
+ "batch": "veda-04",
+ "days": [
+  {
+   "d": 109,
+   "primary": {
+    "id": "veda-04-d109-p",
+    "key": "“Play not with dice, [but] cultivate your corn-land. Enjoy the gain, and deem that wealth sufficient. There are your cattle, there your wife, O gambler”: So this good Savitr himself has told me.",
+    "ref": "Rig Veda 10.34.13",
+    "at": [
+     870,
+     13
+    ],
+    "s": "Near the close of a gambler’s lament for the wife and home his dice have cost him, counsel comes from a god; Sāyaṇa, on 10.34.13, reads the counsel as the secret of dharma, declared by Savitṛ as maker of revealed and remembered teaching.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.34.13, sa.wikisource ऋग्वेदः सूक्तं १०.३४, revision 206574 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “कितव \"बहु मन्यमानः मद्वचने विश्वासं कुर्वंस्त्वम् “अक्षैर्मा “दीव्यः द्यूतं मा कुरु । “कृषिमित् कृषिमेव “कृषस्व कुरु। “वित्ते कृष्या संपादिते धने “रमस्व रतिं कुरु । “तत्र कृषौ “गावः भवन्ति । “तत्र “जाया भवति । “तत् एव धर्मरहस्यं श्रुतिस्मृतिकर्ता “सविता सर्वस्य प्रेरकः “अयं दृष्टिगोचरः “अर्थः ईश्वरः “वि “चष्टे विविधमाख्यातवान्",
+     "gloss": "O gambler, trusting my word, do not play with dice, do not gamble; plough the ploughland alone; delight in the wealth that farming brings. There, in farming, are cows; there is a wife. That very secret of dharma Savitṛ, maker of śruti and smṛti (revealed and remembered teaching), impeller of all, this lord within sight, has declared in many ways."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d109-s",
+    "key": "The stranger asks the way of him who knows it: taught by the skillful guide he travels onward. This is, in truth, the blessing of instruction: he finds the path that leads directly forward.",
+    "ref": "Rig Veda 10.32.7",
+    "at": [
+     868,
+     7
+    ],
+    "s": "After the singer tells how Indra saw where Agni lay hidden in the waters, the hymn turns to guidance; Sāyaṇa, on 10.32.7, reads it as an incidental praise of instruction, whose fruit is a straight road, or water found by the thirsty.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.32.7, sa.wikisource ऋग्वेदः सूक्तं १०.३२, revision 402277 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "सेयमनुशासनस्तुतिः प्रासङ्गिकी। … पन्थानमजानन् पुरुषः “क्षेत्रविदं क्षेत्रज्ञं पुरुषम् “अप्राट् पृष्टवान् । … “अनुशासनस्य मार्गोपदेशरूपस्य “एतद्वै एतत्खलु “भद्रं भजनीयं कल्याणकरम् । किं तत् । “उत अपि च अञ्जसीनाम् ऋजुना मार्गेण गन्तव्यानामपां “स्रुतिं मार्गं पिपासितः सन् “विन्दति लभते । यद्वा । अञ्जसीनामिति स्रुतेर्विशेषणम् । ऋजुमकुटिलमप्रयासेन गन्तव्यं मार्ग लभते खलु",
+     "gloss": "This praise of instruction is incidental. … A man who does not know the road has asked a man who knows it. … This indeed is the good, the auspicious thing, of instruction, which takes the form of teaching the road. What is it? Being thirsty, he finds the course of the waters that are reached by a straight road. Or else: añjasīnām qualifies the course, and he finds a straight road, not crooked, travelled without toil."
+    }
+   }
+  },
+  {
+   "d": 110,
+   "primary": {
+    "id": "veda-04-d110-p",
+    "key": "Far went our earliest invocation of the Gods, and won us glories that can never be surpassed. They who could not ascend the ship of sacrifice, sink down in desolation, trembling with alarm.",
+    "ref": "Rig Veda 10.44.6",
+    "at": [
+     880,
+     6
+    ],
+    "s": "Midway through a hymn inviting Indra to the Soma, the singer turns to the fate of others; Sāyaṇa, on 10.44.6, reads the ship as made of sacrifice, and those who miss it as evildoers, lacking Indra’s grace, sunk low by debt.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.44.6, sa.wikisource ऋग्वेदः सूक्तं १०.४४, revision 328215 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे इन्द्रं तव प्रसादात् ते “पृथक् “प्रायन् देवलोकान् पृथग्गच्छन्ति … \"ये त्वत्प्रसादरहिता जनाः “यज्ञियां यज्ञसंबन्धिनीम् । यज्ञमयीमित्यर्थः । “नावम् “आरुहम् आरोढुं “न “शेकुः न शक्नुवन्ति “ते “केपयः कुत्सितपूयकर्माणः पापकर्माणो जनाः “ईर्मैंव ऋणेनैव “न्यविशन्त नीचैरविशन्त । अधोगतिं प्राप्ता इत्यर्थः",
+     "gloss": "O Indra, by your grace they go their separate ways to the worlds of the gods … Those people who are without your grace could not ascend the ship belonging to sacrifice, that is, made of sacrifice; they, the kepayaḥ, doers of foul deeds, people of evil acts, sank down by debt itself, went low: that is, they reached the downward course."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d110-s",
+    "key": "Poor, without kin or friend or ties of blood am I. Save me before it be too late, from this my curse.",
+    "ref": "Rig Veda 10.39.6",
+    "at": [
+     875,
+     6
+    ],
+    "s": "Between praise of the Asvins as healers and a roll of those they rescued, the singer turns to a personal plea; Sāyaṇa, on 10.39.6, hears the singer as Ghoṣā and takes ‘without kin’ as said of the curse that is coming upon her.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.39.6, sa.wikisource ऋग्वेदः सूक्तं १०.३९, revision 402131 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “अश्विना अश्विनौ “वां युवाम् “इयं घोषा अहम् “अह्वे आह्वयामि । “मे मम संबन्धिनम् इममाह्वानं “शृणुतम् । … “अनापिः अबन्धुः “अज्ञा अकृतज्ञा असजात्यामतिः अश्रद्धेया चाभिशस्तिः मामागच्छति । “तस्या अभिशस्तेः “पुरा प्रागेव “अव “स्पृतं मामवपारयतम्",
+     "gloss": "O Aśvins, I, this Ghoṣā, call you. Hear this call of mine. … A curse comes upon me: kinless (anāpiḥ, that is, without a relative), ungrateful, not of my kin, not to be trusted. Before that curse, beforehand, carry me across it."
+    }
+   }
+  },
+  {
+   "d": 111,
+   "primary": {
+    "id": "veda-04-d111-p",
+    "key": "Agni, we know thy three powers in three stations, we know thy forms in many a place divided. We know what name supreme thou hast in secret: we know the source from which thou hast proceeded.",
+    "ref": "Rig Veda 10.45.2",
+    "at": [
+     881,
+     2
+    ],
+    "s": "After a verse on Agni’s three births, the singer claims to know the god whole; Sāyaṇa, on 10.45.2, reads the three as fire, wind and sun, the many places as the sacrificial fires, and the secret name as hidden from those without the Veda.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.45.2, sa.wikisource ऋग्वेदः सूक्तं १०.४५, revision 296628 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “अग्ने “ते तव “त्रेधा त्रिषु स्थानेषु पृथिव्यन्तरिक्षद्युलोकेषु स्थितानि “त्रयाणि अग्निवाय्वादित्याख्यानि त्रीणि रूपाणि “विद्म वयं जानीमः। किंच हे अग्ने “ते तव “धाम धामानि स्थानानि “विभृता विभृतानि “पुरुत्रा बहुधा बहूनि वा गार्हपत्याहवनीयान्वाहार्यपचनादीनि “विद्म । किंच “ते तव “गुहा गूढम् अवेदविद्भिरविज्ञातं “परमम् उत्कृष्टं वेदे प्रसिद्धं “यत् “नाम अस्ति तत् “विद्म वेदविदो वयं विजानीमः",
+     "gloss": "O Agni, we know thy three forms, named Agni, Vāyu and Āditya (fire, wind and sun), standing threefold, in three places: earth, mid-air and heaven. And, O Agni, we know thy stations, dispersed in many ways or many in number: the Gārhapatya, Āhavanīya, Anvāhāryapacana fires and the rest. And the supreme name of thine, well known in the Veda, which is hidden (guhā), unknown to those who do not know the Veda: that we who know the Veda know."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d111-s",
+    "key": "This goal mine elder brothers erst selected, as he who drives a car the way to travel. So,Varuna, I fled afar through terror, as flies the wild-bull from an archer’s bowstring.",
+    "ref": "Rig Veda 10.51.6",
+    "at": [
+     887,
+     6
+    ],
+    "s": "Answering the gods who have found him hidden in the waters and plants, Agni explains his flight; Sāyaṇa, on 10.51.6, reads the elder brothers as three who were slain while bearing the oblation, and the flight as fear of the same death.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.51.6, sa.wikisource ऋग्वेदः सूक्तं १०.५१, revision 372752 (2023)",
+    "basis": {
+     "source": "sayana",
+     "words": "अनयाग्निः स्वपलायननिमित्तमाह । हे देवाः “अग्नेः मम “पूर्वे पूर्वमुत्पन्नाः “भ्रातरः भूपतिभुवनपतिर्भूतानां पतिरिति त्रयोऽग्रजाः “एतम् \"अर्थं हविर्वहनाख्यमर्थम् \"अन्वावरीवुः अनुक्रमेण वृतवन्तः । … ते भ्रातरस्तथा कुर्वन्तो हताः । “तस्मात् मरणात् \"भिया भीत्या हे \"वरुण “दूरं देशम् \"आयम्",
+     "gloss": "With this verse Agni tells the reason for his flight. O gods, the brothers of me, Agni, born before, the three elder-born, Bhūpati, Bhuvanapati and Bhūtānāṃ Pati, chose in turn this task called the bearing of the oblation. … Those brothers, doing so, were slain. From that death, out of fear, O Varuṇa, I went to a distant place."
+    }
+   }
+  },
+  {
+   "d": 112,
+   "primary": {
+    "id": "veda-04-d112-p",
+    "key": "HERE is one light for thee, another yonder: enter the third and he therewith united. Uniting with a body be thou welcome, dear to the Gods in their sublimest birthplace.",
+    "ref": "Rig Veda 10.56.1",
+    "at": [
+     892,
+     1
+    ],
+    "s": "Opening a hymn that speaks to Vajin and praises the Fathers, the verse offers him three lights; Sāyaṇa, on 10.56.1, hears a father speaking to his dead son, and reads the lights as fire, wind and sun, for his warmth, breath and self to join.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.56.1, sa.wikisource ऋग्वेदः सूक्तं १०.५६, revision 321754 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "एतदादिभिर्बृहदुक्थो वाजिनं नाम स्वपुत्रं मृतं वदति । हे मृत पुत्र “ते तव “इदम् । … इदं ज्योतिरग्न्याख्यम् “एकम् एकोंऽशः । अतस्तमग्निं तव देहगताग्न्यंशेन बाह्यमग्निं “सं “विशस्व संगच्छस्व । तथा “पर “उ अन्योऽपि “ते तत्र “एकं वाय्वावाख्योंऽशः ते तव प्राणवाय्वाख्येनांशेन से विशस्व । … तथा “तृतीयेन “ज्योतिषा आदित्याख्येन तेजसा तवात्मना सं विशस्व । सूर्यगतात्मचैतन्यदेहगतात्मचैतन्ययोरभेदादंशत्वम्",
+     "gloss": "With this and the following verses Bṛhaduktha speaks to his own son, named Vājin, who is dead. O dead son, this of yours … this light, called fire, is one portion: so join, by the portion of fire that was in your body, the outer fire. And the other one yonder is the portion called wind: join it by your portion called the breath. … And with the third light, the radiance called the sun, join with your self: they are portions because the conscious self in the sun and the conscious self in the body are not different."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d112-s",
+    "key": "Behold the Gods’ high wisdom in its greatness: he who died yesterday to-day is living.",
+    "ref": "Rig Veda 10.55.5",
+    "at": [
+     891,
+     5
+    ],
+    "s": "In a hymn on Indra’s secret name, a verse on the old waking the young Moon ends in wonder; Sāyaṇa, on 10.55.5, hears Indra praised as Time, and takes the one who dies as stirring again the next day, in another birth.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.55.5, sa.wikisource ऋग्वेदः सूक्तं १०.५५, revision 195210 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अनया कालात्मक इन्द्रः स्तूयते । … “युवानं “सन्तं पुरुषं “पलितः जरा “जगार निगिरतीन्द्राज्ञया । … “देवस्य कलात्मकस्येन्द्रस्य “महित्वा महत्त्वेनोपेतं “काव्यं सामर्थ्यं “पश्य पश्यत हे जनाः । तथा जरसा प्राप्तः “अद्य “ममार म्रियते । “स “ह्यः परेद्युः “समान सम्यक् चेष्टते । पुनर्जन्मान्तरे प्रादुर्भवतीत्यर्थः",
+     "gloss": "With this verse Indra in the form of Time is praised. … Old age, the grey one, swallows the man who is young, at Indra’s command. … Behold, O people, the power, endowed with greatness, of the god, Indra in the form of Time. So, overtaken by old age, he dies today; he, the next day, stirs well: that is, he appears again in another birth."
+    }
+   }
+  },
+  {
+   "d": 113,
+   "primary": {
+    "id": "veda-04-d113-p",
+    "key": "Wise Deities, who have dominion o’er the world, ye thinkers over all that moves not and that moves, Save us from uncommitted and committed sin, preserve us from all sin to-day for happiness.",
+    "ref": "Rig Veda 10.63.8",
+    "at": [
+     899,
+     8
+    ],
+    "s": "In a hymn asking the All-Gods and Adityas, stanza after stanza, for happiness, the singer seeks release from wrongdoing; Sāyaṇa, on 10.63.8, reads ‘committed’ sin as the body’s and ‘uncommitted’ as the mind’s, done by no hand or foot.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.63.8, sa.wikisource ऋग्वेदः सूक्तं १०.६३, revision 275531 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “देवासः देवा य उक्तगुणाः “ते यूयं “नः अस्मान् “कृतात् कायिकात्पापात् “अकृतात् करचरणादिभिरकृतात् “एनसः किंतु मानसात्पापाच्च “अद्य अस्मिन्दिने “स्वस्तये अविनाशायायुषोऽभिवृद्धये “पिपृत पारयत । पापरहितान् कुरुतेत्यर्थः",
+     "gloss": "O gods, you who have the qualities named, carry us across, this day, from sin that is done, bodily sin, and from sin not done by hands, feet and the like, but mental sin; for well-being, that is, for not perishing and for the lengthening of life. That is: make us free of sin."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d113-s",
+    "key": "The will and thoughts within my breast exert their power: they yearn with love, and fly to all the regions round. None other comforter is found save only these: my longings and my hopes are fixt upon the Gods.",
+    "ref": "Rig Veda 10.64.2",
+    "at": [
+     900,
+     2
+    ],
+    "s": "After asking which of the gods will hear and help, the singer turns inward; Sāyaṇa, on 10.64.2, takes the understandings in the heart as wishing to perform rites such as the Agnihotra, and the desires as flying to the gods for their fruit.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.64.2, sa.wikisource ऋग्वेदः सूक्तं १०.६४, revision 315576 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हृत्सु हृदयेषु धीतयः निधातव्या निहिताः क्रतवः प्रज्ञाः क्रतूयन्ति अग्निहोत्रादिकर्म कर्तुमिच्छन्ति । तदेवाह । वेनाः कान्ताः प्रज्ञाः वेनन्ति देवान् कामयन्ते । … तथा दिशः अस्माभिर्निर्दिश्यमानाः प्रेर्यमाणाः कामाः आ पतयन्ति देवान् फलावाप्तय आगच्छन्ति । यतः एभ्यः देवेभ्यः अन्यः देवः एषां कामानां मर्डिता सुखयिता न विद्यते",
+     "gloss": "In the hearts, the understandings (kratavaḥ) that are set there wish to perform acts such as the Agnihotra. He says the same again: the lovely understandings long for the gods. … So the desires we direct and send forth fly to the gods, come to them to win their fruit; since no god other than these gods exists who gives joy to these desires."
+    }
+   }
+  },
+  {
+   "d": 114,
+   "primary": {
+    "id": "veda-04-d114-p",
+    "key": "Like a dark steed adorned with pearl, the Fathers have decorated heaven With constellations. They set the light in day, in night the darkness. Brhaspati cleft the rock and found the cattle.",
+    "ref": "Rig Veda 10.68.11",
+    "at": [
+     904,
+     11
+    ],
+    "s": "Near the close of a hymn on Bṛhaspati winning the cows from Vala, the singer looks to the night sky; Sāyaṇa, on 10.68.11, reads ‘the Fathers’ as the guarding gods, who lit heaven with the lunar mansions when Bṛhaspati broke the rock.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.68.11, sa.wikisource ऋग्वेदः सूक्तं १०.६८, revision 314349 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“पितरः पालयितारो देवाः “द्यां द्युलोकं “नक्षत्रेभिः अश्विन्यादिभि: “अभि “अपिंशन् अभितोऽदीपयन्। … तत्र दृष्टान्तः। “श्यावं “न यथा श्याववर्णम् “अश्वं “कृशनेभिः सौवर्णैराभरणैरलंकुर्वन्ति तद्वत् । … यदा \"बृहस्पतिः “अद्रिं वलेनाधिष्ठितं शिलोच्चयं “भिनत अभिनत् विभिद्य च तत्र स्थितान् “गाः पशून् “विदत् अविदत् अलभत । … तदा देवा एवमकार्षुरित्यर्थः",
+     "gloss": "The Fathers, the gods who protect, lit up heaven, the world of the sky, all around with the lunar mansions, Aśvinī and the rest. … The comparison: as men adorn a dark-coloured horse with golden ornaments, so they did. … When Bṛhaspati broke the rock, the mass of stone that Vala held, and, having broken it, found the cows that stood there: then the gods did thus. That is the sense."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d114-s",
+    "key": "Like as a father bears his son, O Agni, Vadhryasva bare thee in his lap and served thee. Thou, Youngest God, having enjoyed his fuel, didst vanquish those of old though they were mighty.",
+    "ref": "Rig Veda 10.69.10",
+    "at": [
+     905,
+     10
+    ],
+    "s": "In a hymn to Vadhryaśva’s fire, now kindled by the Sumitras, the singer recalls its first keeper; Sāyaṇa, on 10.69.10, hears Vadhryaśva as the singer’s own father, and reads the lap as the altar, where he fed the fire with oblations.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.69.10, sa.wikisource ऋग्वेदः सूक्तं १०.६९, revision 208161 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “अग्ने “त्वाम् “उपस्थे पृथिव्या उपस्थान उतरवेद्यां “सपर्यन् । परिचर्याकर्मा । परिचरन् “वध्र्यश्वः मम पिता “अबिभः धृतवान् हविर्भिः पोषितवान्वा । कथमिव । “पितेव यथा पिता समीपे “पुत्रं स्थापयति पोषयति वा",
+     "gloss": "O Agni, serving you (saparyan, a word for attendance) on the lap, the lap of the earth, the northern altar, Vadhryaśva, my father, bore you, or nourished you with oblations. Like what? As a father sets his son near him, or nourishes him."
+    }
+   }
+  }
+ ]
+}

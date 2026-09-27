@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d126-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AF%E0%A5%A6&oldid=340861",
+  "found": true
+ },
+ "attacks": ["drift", "attribution"],
+ "reason": "Re-opened via packet.js veda 126 --verse 10.190.1 (sa.wikisource rev 340861, timestamp confirmed 2022-07-21 by the Wikisource API) and Wilson vol. 6 note. verse.js ok (10.190.1, at [1026,1]); entry-check ok (44 words); plain sense faithful (10.190.3 Dhatar forms Sun, Moon, Heaven, Earth; no four-word overlap); locator right; no school needed; no comparison; tone fine. The words are found and carry most of the paraphrase: ṛtaṃ mānasaṃ yathārthasaṃkalpanaṃ (true intention of the mind), satyaṃ vācikaṃ yathārthabhāṣaṇam (true speech), born of tapas kindled brahmaṇā purā sṛṣṭyartham kṛtāt, tapas being sraṣṭavyaparyālocana (contemplating what is to be made). What lands: the sentence names the performer confidently as ‘Brahmā’ (with the macron, i.e. the four-faced creator god), but ब्रह्मणा is the instrumental of both masculine Brahmā and neuter brahman and Sāyaṇa does not disambiguate; his own proof-texts point the other way, since Taittirīya Āraṇyaka 8.6 (= Taittirīya Upaniṣad 2.6, ‘sa tapas taptvā idaṃ sarvam asṛjata’) has the Self/Brahman as subject and Muṇḍaka 1.1.9 (‘yasya jñānamayaṃ tapaḥ’) the omniscient Brahman, and the gloss then continues ‘tasmād eva īśvarāt’. The only support for the god Brahmā is Wilson’s diacritic-less note ‘the penance of Brahma preceding creation’, which is Wilson’s reading of Sāyaṇa, not Sāyaṇa’s words, and the entry carries no hedge. ‘Before creation’ likewise comes from Wilson; the Sanskrit says ‘of old, for the sake of creation’. Under the standard (a confident attribution beyond his words does not ship), drop the named agent. The better wording below passes entry-check (45 words) and every clause of it is in the Sanskrit.",
+ "better": "Opening a three-verse hymn of origins that ends with the Creator forming sun, moon, heaven and earth; Sāyaṇa, on 10.190.1, takes ‘Law’ as true intention and ‘Truth’ as true speech, both born of fervour spent of old for creation, contemplating what was to be made."
+}

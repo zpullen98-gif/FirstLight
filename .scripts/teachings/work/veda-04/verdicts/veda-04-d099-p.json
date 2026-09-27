@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d099-p",
+ "d": 99,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The raw, whose mass hath not been heated gains not this: they only which are dressed, which bear, attain to it.",
+ "ref": "Rig Veda 9.83.1",
+ "at": [
+  805,
+  1
+ ],
+ "s": "Opening a hymn that hails Brahmanaspati’s filter, the verse sets the raw against the dressed; Sāyaṇa, on 9.83.1, reads the raw as one whose body no milk vow or like observance has heated, and the dressed as those carrying the sacrifice through.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.83.1, sa.wikisource ऋग्वेदः सूक्तं ९.८३, revision 322742 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AE%E0%A5%A9&oldid=322742",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.८३, revision 322742 (2021)",
+    "locator": "9.83.1, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n347/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888)",
+    "locator": "9.83.1, translation",
+    "via": "packet"
+   }
+  ],
+  "words": "तव “तत् पवित्रम् \"अतप्ततनूः पयोव्रतादिना असंतप्तगात्रः \"आमः अपरिपक्वो \"न “अश्नुते न व्याप्नोति । “शृतास \"इत् शृता एवं परिपक्वा एव \"वहन्तः यागं निर्वहन्तः “तत् पवित्रं \"समाशत व्याप्नुवन्ति ।",
+  "lang": "Sanskrit",
+  "gloss": "That filter of yours the one whose body is unheated, whose limbs have not been heated by the milk vow and the like, the raw, the unripe, does not reach. Only the cooked, only the ripened ones, carrying the sacrifice through to its end, reach that filter.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 9.83.1, at [805,1]). Sāyaṇa on 9.83.1 glosses atapta-tanūḥ as payovratādinā asaṃtapta-gātraḥ (limbs not heated by the milk vow and the like) and āmaḥ as aparipakvaḥ, and takes śṛtāsaḥ as paripakvāḥ who reach the filter while vahantaḥ, yāgaṃ nirvahantaḥ (carrying the sacrifice through); Wilson (vol. 5) translates the same way with “bearing (the sacrifice)”. The sentence follows his words; it pairs the dressed with the bearing, as the verse and his gloss both do. Plain sense: the hymn opens on Brahmanaspati’s spread filter and the verse contrasts raw and dressed; faithful, no commentator named. Revision 322742 dated 2021-10-24. Evidence is a contiguous span of the packet (the proposer’s basis used an ellipsis). entry-check ok."
+}

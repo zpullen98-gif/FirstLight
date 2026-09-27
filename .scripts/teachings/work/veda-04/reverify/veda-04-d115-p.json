@@ -1,0 +1,31 @@
+{
+ "id": "veda-04-d115-p",
+ "d": 115,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "He wanders on in profitless illusion: the Voice he heard yields neither fruit, nor blossom.",
+ "ref": "Rig Veda 10.71.5",
+ "at": [907, 5],
+ "s": "Setting those to whom Vak unveils herself against those who only hear her, the hymn turns to one who hears in vain; Sāyaṇa, on 10.71.5, reads fruit and flower as the meaning of speech, and the man who wanders as a mere reciter without it.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.71.5, sa.wikisource (the printed edition is not named), revision 333626 (2022)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AD%E0%A5%A7&oldid=333626", "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.७१, revision 333626 (printed edition not named)", "locator": "on 10.71.5", "via": "packet"},
+   {"url": "https://archive.org/details/rigvedasanhitc06wils/page/n205/mode/1up", "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils", "locator": "10.71.5", "via": "packet"}
+  ],
+  "words": "अनन्तरमुत्तरार्धेन केवलपाठको निन्द्यते। “एषः अविज्ञातार्थः पुरुषः “अधेन्वा धेनुत्वविवर्जितया कामानामदोग्ध्र्या देवमनुष्यस्थानेषु वाक्प्रतिरूपया “मायया “चरति । किं कुर्वन् । “अफलामपुष्पाम् । वाचोऽर्थः पुष्पफलम् । अर्थवर्जिताम् ।",
+  "lang": "Sanskrit",
+  "gloss": "Then, in the second half, the mere reciter is blamed. This man, who has not understood the meaning, goes about with an illusion that is no milch cow, yielding no wishes, a semblance of speech in the places of gods and men. Doing what? Fruitless, flowerless: the meaning of speech is its flower and fruit; speech empty of meaning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Refuter upheld on the anaphora, entry corrected rather than rejected. verse.js ok (Rig Veda 10.71.5, at [907,5]). Re-read Sāyaṇa on 10.71.4 and 10.71.5 in the packet: on 10.71.5 the first half's sthirapīta man is the knower of meaning and is praised (इत्यर्थज्ञः प्रशस्तः), and only the second half (अनन्तरमुत्तरार्धेन केवलपाठको निन्द्यते) blames the eṣaḥ who has not understood the meaning; Wilson follows (one man firmly established, another wanders). The earlier sentence named the first-half man ('one called dull in friendship') and then said Sāyaṇa reads 'this man' as a mere reciter, attributing to him the opposite of his reading of that man. Changed only the plain sense to 'one who hears in vain' and 'this man' to 'the man who wanders', so the reading attaches to the second-half figure, which is the one the key verse holds. The reading (fruit and flower = meaning of speech; the wanderer a mere reciter without it) is carried verbatim by the evidence. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d108-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A9%E0%A5%A7&oldid=202075",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 108 --verse 10.31.2 and the raw wikitext of revision 202075: the Sanskrit labelled 10.31.2 (pari cin marto draviṇaṃ mamanyād ... śreyāṃsaṃ dakṣaṃ manasā jagṛbhyāt) is Griffith’s 10.31.2, no shift; the evidence words are found verbatim. Sāyaṇa says saṃvadeta here means samādhyāna: holding the oblation, about to utter vaṣaṭ, let him meditate in mind on all the gods (carries ‘meditating on the gods at the offering’); and śreyāṃsam = atiśayena praśasyam ātmānam, dakṣam = pravṛddhaṃ sarvavyāpinam, grasped manasā dhyānasādhanena antaḥkaraṇena (carries ‘the all-pervading self, grasped in meditation’). The sentence omits his ‘after the sacrifice, by their grace’ but adds nothing. Attack tested and not landed: Wilson’s translation renders the object as ‘the best and most mighty (of the universal deities)’ with no note (checked in the cached vol. 6 OCR), so Wilson does not report the ātman gloss; but the sentence cites Sāyaṇa’s own Sanskrit, which in the opened revision plainly reads ātmānam ... sarvavyāpinam, and no other edition of the bhāṣya could be found online to test for a variant. Plain sense: 10.31.1 prays to ‘pass triumphant over all our troubles’, the hymn is to the gods collectively (Sāyaṇa’s vaiśvadevam), verse 2 turns to what a man should do; no four key-verse words reused. No school, no comparison, ritual reading stated as his. verse.js ok (Rig Veda 10.31.2, at [867,2]); entry-check.js ok on scratch/RF-d108-p.json, no errors or warns. API timestamp for 202075 is 2019-05-19, so ‘(2019)’ stands.",
+ "better": "Residual risk worth recording for the operator: Wilson, who normally follows Sāyaṇa, does not render ātmānam here; if a printed edition of the Vedārthaprakāśa (Müller or Vaidika Samshodhana Mandala) is ever to hand, confirm ‘praśasyam ātmānam’ at 10.31.2."
+}

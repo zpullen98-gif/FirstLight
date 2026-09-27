@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d115-p",
+ "d": 115,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "He wanders on in profitless illusion: the Voice he heard yields neither fruit, nor blossom.",
+ "ref": "Rig Veda 10.71.5",
+ "at": [
+  907,
+  5
+ ],
+ "s": "Setting those to whom Vak unveils herself against those who only hear her, the hymn turns to one who hears in vain; Yāska, Nirukta 1.20, reads fruit and flower as the meaning of speech, and the illusion as a semblance of speech.",
+ "by": "yaska",
+ "by2": "",
+ "hedge": "",
+ "src": "Yāska, Nirukta 1.20, in Lakshman Sarup, The Nighantu and the Nirukta, archive.org nighantuniruktao00yask (1921)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/download/nighantuniruktao00yask/nighantuniruktao00yask_djvu.txt",
+    "edition": "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask (OCR full text; sha1 7f42e0dd matches the pinned copy)",
+    "locator": "Nirukta 1.20 (page head [1. 20; footnote X. 71. 5; cf. N. 1. 8), text line 24790 onward",
+    "via": "webfetch"
+   },
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AD%E0%A5%A7&oldid=333626",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 333626 (printed edition not named)",
+    "locator": "on 10.71.5, closing reference ‘(निरु. १.२०) इत्यादि निरुक्तमत्रानुसंधेयम्’",
+    "via": "packet"
+   }
+  ],
+  "words": "But that man wanders with a barren delusion, i. e. with a symbol of speech. To him (speech) does not grant desires … The meaning of speech is called its fruit and flower.",
+  "lang": "English (Sarup’s translation of Yāska’s Sanskrit)",
+  "gloss": "Yāska, on the second half of 10.71.5: that man wanders with a barren illusion, a mere likeness of speech, which grants him none of the wishes speech should grant; the meaning of speech is called its fruit and flower (he adds as alternatives the sacrificial and deity stanzas, or the deity and the soul).",
+  "licence": "public domain (Sarup 1921)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds. Sāyaṇa’s own commentary on 10.71.5 closes by sending the reader to Nirukta 1.20 (‘अप्येकं वाक्सख्ये स्थिरपीतम्’ (निरु. १.२०) इत्यादि निरुक्तमत्रानुसंधेयम्), and his gloss vāco’rthaḥ puṣpaphalam, and vākpratirūpayā māyayā, are Yāska’s. Opened Sarup’s full text live at the archive.org download url (identical by sha1 to the pinned cache): after ‘Here ends the nineteenth section’, with the page head [1. 20 and the footnote ‘X. 71. 5; cf. N. 1. 8’, Yāska quotes the stanza and explains that man wandering with a barren delusion as ‘a symbol of speech’ that grants him no desires, and ‘The meaning of speech is called its fruit and flower’. Sāyaṇa’s reading does not genuinely differ (he follows Yāska and only narrows the man to a kevalapāṭhaka, a mere reciter), so by rule 3 one commentator is named, Yāska, the source of the gloss, and the reading is cut to what Yāska’s words carry: fruit and flower as the meaning of speech, the illusion as a semblance (pratirūpa, Sarup’s ‘symbol’) of speech. ‘Mere reciter’ is dropped because it is Sāyaṇa’s, not Yāska’s. Key and plain sense unchanged. src names the Nirukta section and Sarup’s edition (translation volume 1921). verse.js ok (10.71.5, [907,5]); entry-check ok on scratch/V-d115-p.json, no warns. This also eases the spread warning (Sāyaṇa 30 of 30)."
+}

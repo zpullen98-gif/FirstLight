@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d099-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AE%E0%A5%A9&oldid=322742",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 99 --verse 9.83.1 (pinned revision 322742, matching sources/veda-lock.json); evidence matches the packet by machine. Sayana: atapta-tanuh payovratadina asamtaptagatrah, amah aparipakvah (unheated in body by the milk vow and the like, the raw, unripe) does not reach the filter; srtasa it srta evam paripakva eva (only the dressed, thus ripened), vahantah yagam nirvahantah (bearing, carrying the sacrifice through) reach it. The reading gives each gloss to its own word with no addition: milk vow or like observance is payovrata-adi, the ripened is paripakvah, carrying the sacrifice through is yagam nirvahantah. Wilson/Webster renders raw (liquid), but the entry follows Sayana own words, not the translation, so no translator leak. Plain sense: 9.83.1 opens the hymn addressing Brahmanaspati and his spread filter (the sieve continues in 9.83.2 and 9.83.5), and the verse contrasts the raw and the dressed: faithful, no four-word run from the key. No school, comparison or tone issue. verse.js ok (Rig Veda 9.83.1, at [805,1]); entry-check.js ok, no errors or warns, on scratch/RR-d099-p.json. Revision 322742 timestamp 2021-10-24 fetched from the sa.wikisource API, so (2021) stands.",
+ "better": ""
+}

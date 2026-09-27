@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d104-p",
+ "d": 104,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When we most ignorant neglect the statutes of you, O Deities with whom is knowledge, Wise Agni shall correct our faults and failings, skilled to assign each God his fitting season.",
+ "ref": "Rig Veda 10.2.4",
+ "at": [
+  838,
+  4
+ ],
+ "s": "In a hymn asking Agni to worship the gods in season, the singers own their lapses; Sāyaṇa, on 10.2.4, takes Agni as Sviṣṭakṛt, maker of the well-offered rite, who knows what was neglected and fills up each rite with its fruit.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.2.4, sa.wikisource (the printed edition is not named), revision 343045 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A8&oldid=343045",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.२, revision 343045 (2022)",
+    "locator": "10.2.4, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n14/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888)",
+    "locator": "10.2.4, translation and notes",
+    "via": "packet"
+   }
+  ],
+  "words": "“प्रमिनाम प्रहिंसितवन्तः। भवत्सु जानत्सु नित्यनैमित्तिककर्माणि विलोपितवन्त इत्यर्थः । “विद्वान् एतत् सर्वं “जानानः अग्निः स्विष्टकृत् “तत् एतत् विश्वं सर्वं कर्मजातम् “आ “पृणाति आपूरयतु। फलसहितं करोत्वित्यर्थः",
+  "lang": "Sanskrit",
+  "gloss": "We have violated: that is, while you who know look on, we have let the regular and occasional rites lapse. Knowing all this, Agni Sviṣṭakṛt, may he fill up all of it, the whole body of rites; the meaning is, may he make it complete with its fruit.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 10.2.4, at [838,4]). Sāyaṇa on 10.2.4 (sa.wikisource rev 343045, 2022-08-10 by the API) glosses pramināma as having let the nitya and naimittika rites lapse, names the knowing Agni as Sviṣṭakṛt, and has him fill up the whole body of rites, that is, make it complete with its fruit, by the seasons fit for offering. The sentence’s reading matches; “maker of the well-offered rite” only glosses the name Sviṣṭakṛt. Plain sense: the hymn (10.2.1 to 10.2.5) asks Agni, lord of seasons, to worship the gods in season, and 10.2.4 to 10.2.5 own the worshippers’ ignorance and neglect; faithful. Sāyaṇa’s introduction (Sviṣṭakṛt anuvākyā) and his note that 10.2.4 is the yājyā of the vratapatīṣṭi read. Wilson’s translation of 10.2.4 (“may the wise Agni complete the whole”) agrees. entry-check ok."
+}

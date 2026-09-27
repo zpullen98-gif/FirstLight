@@ -1,0 +1,89 @@
+{
+ "lane": "S1",
+ "plan": "veda",
+ "batch": "veda-04",
+ "days": [
+  {
+   "d": 116,
+   "primary": {
+    "id": "veda-04-d116-p",
+    "key": "Ye will not find him who produced these creatures: another thing hath risen up among you. Enwrapt in misty cloud, with lips that stammer, hymn-chanters wander and are discontented.",
+    "ref": "Rig Veda 10.82.7",
+    "at": [
+     918,
+     7
+    ],
+    "s": "Closing the second hymn to Visvakarman, the verse turns to its hearers; Sāyaṇa, on 10.82.7, reads the mist as ignorance veiling the supreme Lord, whose reality is other than the individual self, and the chanters as seeking only enjoyment here and hereafter.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.82.7, sa.wikisource (the printed edition is not named), revision 353423 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "न ह्यहंप्रत्ययगम्यं जीवरूपं विश्वकर्मणः परमेश्वरस्य तत्त्वं किंतु “युष्माकम् अहंप्रत्ययगम्यानां जीवानाम् “अन्तरम् “अन्यत् अहंप्रत्ययगम्यादतिरिक्तं सर्ववेदान्तवेद्यमीश्वरतत्त्वं “बभूव भवति विद्यते । … “नीहारेण “प्रावृताः यूयं नीहारसदृशेनाज्ञानेनाच्छन्नाः। अतो न जानीथ । … एवमज्ञानमपि नात्यन्तमसदीश्वरतत्त्वावरकत्वात् नापि सत् बोधमात्रनिवर्त्यत्वात् । … केवलमैहिकामुष्मिकभोगपरा वर्तध्वेऽतो विश्वकर्माणं देवं न जानीथेत्यर्थः ॥",
+     "gloss": "For the reality of Viśvakarman, the supreme Lord, is not the form of the individual self that the notion ‘I’ reaches; rather the Lord’s reality, known from the whole Vedānta, is other than you individual selves whom the notion ‘I’ reaches, beyond what it reaches: it is, it exists. … Covered with mist: you are wrapped in an ignorance like mist; so you do not know. … So ignorance too is not wholly unreal, since it covers the reality of the Lord, nor real, since knowledge alone removes it. … You live intent only on enjoyment in this world and the next, and so you do not know the god Viśvakarman: that is the meaning."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d116-s",
+    "key": "TRUTH is the base that bears the earth; by Surya are the heavens sustained. By Law the Adityas stand secure, and Soma holds his place in heaven.",
+    "ref": "Rig Veda 10.85.1",
+    "at": [
+     921,
+     1
+    ],
+    "s": "Opening Surya’s bridal hymn with praise of Soma, the singer names what upholds each world; Sāyaṇa, on 10.85.1, takes the truth, in one reading, as dharma, the opposite of falsehood, without which earth bears no crops, and the Law as sacrifice, which feeds the gods.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.85.1, sa.wikisource (the printed edition is not named), revision 401018 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "यद्वा । सत्येन अनृतप्रतियोगिना धर्मण भूमिरुत्तभितोद्धृता फलिता भवतीत्यर्थः । असति सत्ये भूम्यां सस्यादयो न फलन्ति । … “ऋतेन यज्ञेन आदित्याः अदितेः पुत्रा देवाः \"तिष्ठन्ति । यज्ञे यजमानदत्तेन खल्वाहुत्या देवा उपजीवन्ति ।",
+     "gloss": "Or else: by truth, the opposite of falsehood, that is by dharma, the earth is held up, raised, made fruitful: that is the meaning. When truth is absent, crops and the like bear no fruit on the earth. … By ṛta, that is by sacrifice, the Ādityas, the gods, sons of Aditi, stand; for in the sacrifice the gods live on the offering the sacrificer gives."
+    }
+   }
+  },
+  {
+   "d": 117,
+   "primary": {
+    "id": "veda-04-d117-p",
+    "key": "I have heard mention of two several pathways, ways of the Fathers and of Gods and mortals. On these two paths each moving creature travels, each thing between the Father and the Mother.",
+    "ref": "Rig Veda 10.88.15",
+    "at": [
+     924,
+     15
+    ],
+    "s": "In a hymn to Agni Vaisvanara as fire and Sun, the singer turns to two roads; Sāyaṇa, on 10.88.15, reads them as the gods’ way and the fathers’ way, by which all between heaven and earth, hallowed by fire, goes to those worlds.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.88.15, sa.wikisource (the printed edition is not named), revision 363752 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“पितॄणां “देवानां च “उत अपि “मर्त्यानां मनुष्याणां च “द्वे “स्रुती द्वौ मार्गौ देवयानपितृयाणाख्यौ “अहम् “अशृणवम् अश्रौषम् । “यत् विश्वं “पितरं पालकत्वेन पितृभूतां द्यां “मातरं “च धारकत्वेन मातृभूतां पृथिवीं च \"अन्तरा द्यावापृथिव्योर्मध्ये भवति तत् “इदं “विश्वम् अग्निना संस्कृतं सत् “एजत् देवलोकं पितृलोकं च गच्छत् “ताभ्यां देवयानपितृयाणाख्याभ्यां मार्गाभ्यां “समेति गच्छति ।",
+     "gloss": "Of the fathers and the gods, and of mortals, men too: two paths, two roads named the way of the gods and the way of the fathers, I have heard. Whatever all there is between the father, heaven, a father because it protects, and the mother, earth, a mother because it upholds, that is in the middle of heaven and earth: this all, made ready by fire, moving, going to the world of the gods and the world of the fathers, goes by those two roads named the way of the gods and the way of the fathers."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d117-s",
+    "key": "Him, verily, the moons, the mountains followed, the tall trees followed and the plants and herbage. Yearning with love both Worlds approached, the Waters waited on Indra when he first had being.",
+    "ref": "Rig Veda 10.89.13",
+    "at": [
+     925,
+     13
+    ],
+    "s": "In a hymn extolling Indra and bidding him strike down those who wrong Mitra and Varuna, the verse tells of his birth; Sāyaṇa, on 10.89.13, reads the ‘moons’ as the months, and each thing named as its presiding deity, following Indra as he appears.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.89.13, sa.wikisource (the printed edition is not named), revision 340915 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“जायमानं प्रादुर्भवन्तम् “इन्द्रं \"मासाः चैत्रादयः “अनु “अजिहत अनुगच्छन्ति । “अह इति पूरणः । “वनानि अरण्यान्यपीन्द्रम् “अनु अजिहत । “इत् इति पूरणः । “ओषधीः ओषध्योऽपि इन्द्रम् “अनु गच्छन्ति । “पर्वतासः पर्वता अपीन्द्रम् “अनु गच्छन्ति। “वावशाने कामयमाने “रोदसी द्यावापृथिव्यावपि “इन्द्रम् अनु गच्छतः । “आपः उदकान्यपीन्द्रम् “अनु गच्छन्ति । मासाद्यधिष्ठातृदेवताः प्रादुर्भवन्तमिन्द्रमनुगच्छन्तीत्यर्थः ॥",
+     "gloss": "Indra being born, appearing: the months, Caitra and the rest, went after him, follow him. The particle ‘aha’ fills out the line. The forests too followed Indra. The particle ‘it’ fills out the line. The plants too follow Indra; the mountains too follow Indra. Heaven and earth, longing, desiring, also follow Indra. The waters too follow Indra. The meaning is: the presiding deities of the months and the rest follow Indra as he appears."
+    }
+   }
+  }
+ ]
+}

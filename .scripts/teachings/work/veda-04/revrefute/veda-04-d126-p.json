@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d126-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AF%E0%A5%A6&oldid=340861",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 126 --verse 10.190.1 (pinned revision 340861, matching sources/veda-lock.json). The three quoted runs stand verbatim in the commentary under 10.190.1: rtam manasam yatharthasamkalpanam satyam vacikam yatharthabhasanam (Law as true intention, Truth as true speech; Griffith's Law renders rta and Truth satya, so the mapping holds); abhitaptad brahmana pura srstyartham krtat tapasah (fervour performed for the sake of creation; for creation, not Wilson's preceding creation, and no agent named in the sentence, which is safe since brahmana is ambiguous); tapas catra srastavyaparyalocanalaksanam (fervour as contemplating what is to be created). The sentence gives his first reading and leaves out his alternative (yadva: from the shining Supreme Self as material cause), which is not drift since it claims no exclusivity. It is Sayana's own Sanskrit, not Wilson's note. Plain sense: 10.190.3 has Dhatar, the great Creator, form Sun, Moon, Heaven and Earth, and the hymn has three verses, so opens and ending are right; no four-word run from the key. No school, comparison or tone issue; British fervour; two key words quoted in curly quotes, within the three allowed. verse.js ok (Rig Veda 10.190.1, at [1026,1]); entry-check.js ok, no errors or warns (scratch/rr-d126.json), 45 words, at the cap. Revision 340861 timestamp 2022-07-21 fetched from the sa.wikisource API, so (2022) stands. One residual risk, not enough to refute: the relative clause which he explains could be read as attaching to creation rather than fervour; sense and the critic history favour fervour.",
+ "better": "If a word can be spared, tie the gloss to the fervour unambiguously, e.g. born of a fervour for creation that he explains as contemplating what would be made."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d117-p",
+ "d": 117,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I have heard mention of two several pathways, ways of the Fathers and of Gods and mortals. On these two paths each moving creature travels, each thing between the Father and the Mother.",
+ "ref": "Rig Veda 10.88.15",
+ "at": [
+  924,
+  15
+ ],
+ "s": "In a hymn to Agni Vaisvanara as fire and Sun, the singer turns to two roads; Sāyaṇa, on 10.88.15, reads them as the gods’ way and the fathers’ way, by which all between heaven and earth, hallowed by fire, goes to those worlds.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.88.15, sa.wikisource (the printed edition is not named), revision 363752 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AE%E0%A5%AE&oldid=363752",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.८८, revision 363752",
+    "locator": "Sāyaṇa, commentary on 10.88.15",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n252/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888)",
+    "locator": "translation and notes on 10.88.15",
+    "via": "packet"
+   }
+  ],
+  "words": "“पितॄणां “देवानां च “उत अपि “मर्त्यानां मनुष्याणां च “द्वे “स्रुती द्वौ मार्गौ देवयानपितृयाणाख्यौ “अहम् “अशृणवम् अश्रौषम् । “यत् विश्वं “पितरं पालकत्वेन पितृभूतां द्यां “मातरं “च धारकत्वेन मातृभूतां पृथिवीं च \"अन्तरा द्यावापृथिव्योर्मध्ये भवति तत् “इदं “विश्वम् अग्निना संस्कृतं सत् “एजत् देवलोकं पितृलोकं च गच्छत् “ताभ्यां देवयानपितृयाणाख्याभ्यां मार्गाभ्यां “समेति गच्छति ।",
+  "lang": "Sanskrit",
+  "gloss": "Of the fathers and the gods, and of mortals, men too: two paths, two roads named the way of the gods and the way of the fathers, I have heard. Whatever all there is between the father, heaven, a father because it protects, and the mother, earth, a mother because it upholds, that is in the middle of heaven and earth: this all, made ready by fire, moving, going to the world of the gods and the world of the fathers, goes by those two roads named the way of the gods and the way of the fathers.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 10.88.15, at [924,15]); hymn 10.88 praises Agni as fire at night and Sun at morn (10.88.6, 11) and as Vaisvanara (12 to 14); the context clause repeats none of the verse. Sāyaṇa on 10.88.15 (packet, sa.wikisource rev 363752) names the two paths devayāna and pitṛyāṇa and says all that lies between heaven the father and earth the mother, prepared (saṃskṛta) by fire, goes by them to the world of the gods and the world of the fathers; the sentence carries this without addition (‘hallowed’ renders saṃskṛta in its ritual sense). Wilson’s note confirms he cites Gita 8.24 to 26 on the two paths. Nirukta does not treat the verse. Evidence re-found by machine in the packet text. entry-check ok."
+}

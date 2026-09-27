@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d098-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AC%E0%A5%AD&oldid=363110",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 98 --verse 9.67.31 and the pinned revision itself (action=raw of oldid 363110): the Sanskrit under 9.67.31 (yaḥ pāvamānīr adhyety ṛṣibhiḥ saṃbhṛtaṃ rasam, sarvaṃ sa pūtam aśnāti svaditaṃ mātariśvanā) is Griffith’s 9.67.31. Sāyaṇa’s words are found verbatim: ṛṣibhiḥ sūktadraṣṭṛbhiḥ ... saṃbhṛtaṃ ... rasaṃ vedarasabhūtaṃ sāraṃ sūktasaṃgham; pūtaṃ ... pāparahitam annaṃ; svasyāśanāt prāg eva mātariśvanā ... sa ca vāyuḥ pavitram eva, pavitreṇa vāyunā svaditaṃ. They carry every clause: the essence as the core (sāra) of the Veda gathered by the seers, the food as sinless, sweetened first (prāg eva) by the wind, which is pure. The reading is his own Sanskrit; Wilson note 5 only reports the Mātariśvan gloss. Plain sense: day.js shows 9.67 ends at 32, verses 31 and 32 both speak of whoever reads the Pavamānī, and the prayers to be made pure (22 to 27) come before; no four key-verse words, commentator not named. No school, comparison or tone issue. verse.js ok (Rig Veda 9.67.31, at [789,31]); entry-check.js ok on a fresh scratch copy (R-d098-p.json), no errors or warns. Revision 363110 timestamp 2022-12-13 re-fetched from the Wikisource API, so ‘(2022)’ stands.",
+ "better": ""
+}

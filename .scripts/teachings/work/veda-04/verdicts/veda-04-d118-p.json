@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d118-p",
+ "d": 118,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "So mighty is his greatness; yea, greater than this is Purusa. All creatures are one-fourth of him, three-fourths eternal life in heaven.",
+ "ref": "Rig Veda 10.90.3",
+ "at": [
+  926,
+  3
+ ],
+ "s": "Having called Purusa all that was and will be, the hymn measures him; Sāyaṇa, on 10.90.3, reads the world of all three times as his greatness, not his true nature, and the quarter as marking the world small beside Brahman, which has no measure.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.90.3, sa.wikisource (the printed edition is not named), revision 336240 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AF%E0%A5%A6&oldid=336240",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 336240 (printed edition not named)",
+    "locator": "on 10.90.3 (the packet prints 10.90.1 to 4 as one block of commentary; this is the part on verse 3)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n260/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.90.3",
+    "via": "packet"
+   }
+  ],
+  "words": "अतीतानागतवर्तमानरूपं जगद्यावदस्ति “एतावान् सर्वोऽपि “अस्य पुरुषस्य “महिमा स्वकीयसामर्थ्यविशेषः। न तु तस्य वास्तवस्वरूपम् । वास्तवस्तु \"पुरुषः अतः महिम्नोऽपि “ज्यायान् अतिशयेनाधिकः । एतच्चोभयं स्पष्टीक्रियते । “अस्य पुरुषस्य “विश्वा सर्वाणि “भूतानि कालत्रयवर्तीनि प्राणिजातानि “पादः चतुर्थोंऽशः। “अस्य पुरुषस्य अवशिष्टं “त्रिपात् स्वरूपम् “अमृतं विनाशरहितं सत् “दिवि द्योतनात्मके स्वप्रकाशस्वरूपे व्यवतिष्ठत इति शेषः । यद्यपि 'सत्यं ज्ञानमनन्तं ब्रह्म' (तै. आ. ८.१; तै. उ. २.१ ) इत्याम्नातस्य परब्रह्मण इयत्ताभावात् पादचतुष्टयं निरूपयितुमशक्यं तथापि जगदिदं ब्रह्मस्वरूपापेक्षयाल्पमिति विवक्षितत्वात् पादत्वोपन्यासः",
+  "lang": "Sanskrit",
+  "gloss": "The world, as much as there is of it, in the form of past, future and present: all this much is the greatness of this Purusa, his own particular power, not his real nature; his real self is greater than that greatness … though the supreme Brahman, having no measure, cannot be set out in four quarters, still a quarter is spoken of because what is meant is that this world is small compared with the nature of Brahman.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.90.3 and at [926,3] match). The plain sense recalls 10.90.2 (Purusa is all that has been and is to be) and says the hymn then measures him: faithful, and it repeats no four-word run of the key. Opened the whole Sanskrit commentary on 10.90 in the packet (verses 1 to 4 are commented as one block): on verse 3 Sāyaṇa takes the world of past, future and present as Purusa’s greatness, his power, and not his real nature (na tu tasya vāstavasvarūpam), and says that although Brahman has no measure (iyattābhāvāt) the quarter is named because this world is small beside Brahman’s nature. The reading follows these words exactly. Wilson’s translation of 10.90.3 agrees in sense. Revision 336240 dated 2022-04-20 by the Wikisource API. Gate ok."
+}

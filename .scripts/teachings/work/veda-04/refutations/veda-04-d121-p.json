@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d121-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A6%E0%A5%AD&oldid=208417",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 121 --verse 10.107.8. Sāyaṇa’s words found verbatim: bhojāḥ bhojayitāro dhanādidānena dātāraḥ; na mamruḥ na mriyante, devatvaṃ bhajanta ity arthaḥ; plus the further glosses (nyartham = nikṛṣṭāṃ gatiṃ na īyuḥ; na riṣyanti = kaiścid apy ahiṃsitāḥ). They carry both halves of the reading: the liberal as feeders, givers by the gift of wealth, and their not dying as attaining the state of gods. ‘Feed others by giving wealth’ joins his two appositives (bhojayitāraḥ, dhanādidānena dātāraḥ) into one phrase; tried as drift and not landed, since the causative bhojayitṛ is one who feeds and the means named is gift of wealth. The reading is his, not Wilson’s (Wilson: ‘givers of enjoyment do not die’, without the devatva gloss). Plain sense checked in day.js: the hymn praises Guerdon (10.107.1 to 7) and its givers (8 to 11); ‘names their reward’ fits and reuses no four key-verse words; the earlier priest-framing from the hymn intro was already removed. Key verse stops before the dash in 8c, as rule 8 requires. verse.js ok (Rig Veda 10.107.8); entry-check.js ok on R-d121-p.json. Revision 208417 timestamp 2019-07-31 confirmed by me from the Wikisource API.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d103-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%A7%E0%A5%A6%E0%A5%AD&oldid=400618",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 103 --verse 9.107.20: the Sanskrit under 9.107.20 (utāhaṃ naktam uta soma te divā ... ghṛṇā tapantam ati sūryaṃ paraḥ śakunā iva paptima) matches Griffith’s 9.107.20 in day.js. Sāyaṇa’s words found verbatim: te vayaṃ ghṛṇā dīptyā tapantaṃ jvalantaṃ paraḥ paramasthānasthitaṃ sūryaṃ tadātmakaṃ tvām ati paptima, tatra sthitaṃ tvāṃ prāptum atipetima, yathā suparṇādayaḥ pakṣiṇaḥ sūryam atigacchanti tadvat. They carry every part of the paraphrase: the blazing sun as Soma himself (tadātmakaṃ tvām), in the highest place (paramasthānasthitam), flown to in order to reach him (prāptum atipetima), as birds pass beyond the sun. Wilson’s note on this verse independently reports that Sāyaṇa makes paraḥ agree with sūryam and explains sūryam as the Soma, so the reading is his, not the translator’s. “fly up” slightly renders ati-pat (fly beyond) but the goal is the highest place, so no real drift. Plain sense: 9.107.19 asks help against the many fiends that follow the singer (Griffith’s own wording), 9.107.20 speaks of his nearness to Soma; no four-word run, commentator not named. No school, comparison or tone issue. verse.js ok (Rig Veda 9.107.20, at [829,20]); entry-check.js ok on scratch/R-d103-p.json, no errors or warns. Revision 400618 dated 2024-02-11 by the Wikisource API, so (2024) stands.",
+ "better": ""
+}

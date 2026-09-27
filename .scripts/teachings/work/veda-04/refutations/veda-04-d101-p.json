@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d101-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AF%E0%A5%AC&oldid=307921",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 101 --verse 9.96.5: the Sanskrit under 9.96.5 (somaḥ pavate janitā matīnāṃ janitā divo janitā pṛthivyāḥ ... janitendrasya janitota viṣṇoḥ, ॥५) matches Griffith’s 9.96.5 in day.js. Sāyaṇa’s words found verbatim: indrasya janitā pānena madasya janayitā ... etat sarvaṃ some ’bhiṣūyamāṇe bhavatīti. somo hi devān āpyāyayatīti. They carry the whole paraphrase: all this begetting comes about while Soma is being pressed, because Soma makes the gods swell with strength, and Indra’s begetting is the begetting of his exhilaration (mada) by being drunk; ‘gladness’ for mada is Griffith’s own register and not a softening of a hard passage. The reading is his, not Wilson’s (Wilson only translates ‘generator’; his notes here are on rathasani and the Sāma Veda parallels). Plain sense: 9.96.4 is a prayer for prosperity and happiness voiced as the wish of the assembled friends and of the speaker, and 9.96.5 and 9.96.6 are strings of Soma’s titles, so the context clause is faithful, reuses no four key-verse words and does not name the commentator. No school, comparison or tone issue. verse.js ok (Rig Veda 9.96.5, at [818,5]); entry-check.js ok on a fresh scratch copy (R-d101-p.json), 41 words, no errors or warns. Revision 307921 dated 2021-04-22 by the Wikisource API, so ‘(2021)’ stands.",
+ "better": ""
+}

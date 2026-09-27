@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d122-p",
+ "d": 122,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "IN the beginning rose Hiranyagarbha, born Only Lord of all created beings. He fixed and holdeth up this earth and heaven. What God shall we adore with our oblation?",
+ "ref": "Rig Veda 10.121.1",
+ "at": [
+  957,
+  1
+ ],
+ "s": "The verse opens a hymn whose verses, but the last, end on one question; Sāyaṇa, on 10.121.1, takes ‘What’ as pointing to Prajapati, whose nature is not known, or as his name Ka, since he desires to create, or since he is happiness.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.121.1, sa.wikisource (the printed edition is not named), revision 400427 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A8%E0%A5%A7&oldid=400427",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.१२१, revision 400427 (printed edition not named)",
+    "locator": "on 10.121.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n346/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.121.1",
+    "via": "packet"
+   }
+  ],
+  "words": "“कस्मै । अत्र किंशब्दोऽनिर्ज्ञातस्वरूपत्वात् प्रजापतौ वर्तते । यद्वा । सृष्ट्यर्थं कामयत इति कः । कमेर्डप्रत्ययः । यद्वा । कं सुखम् । तद्रूपत्वात् क इत्युच्यते ।",
+  "lang": "Sanskrit",
+  "gloss": "Kasmai: here the word kim (what, who) stands for Prajāpati, because his own nature is not ascertained. Or: he desires (kāmayate) for the sake of creation, hence Ka; the suffix ḍa after kam. Or: kam is happiness; because he has that form he is called Ka.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.121.1 and at [957,1] match). Plain sense faithful: the refrain closes verses 1 to 9 and verse 10 instead names Prajapati. At 10.121.1 Sāyaṇa gives four accounts of kasmai: the pronoun kim applied to Prajāpati because his nature is not known; Ka as one who desires for creation; Ka as kam, happiness; and the Aitareya Brāhmaṇa story of Indra and Prajāpati. He adds that as the pronoun the dative ending is regular, and as a derived name it is by irregularity. CORRECTED the reading: the proposal made all three reasons explain Ka as a name, but in the first he keeps the interrogative word itself, referring to Prajāpati; the sentence now separates the pronoun from the name. Wilson’s note confirms the commentators take it as a proper name and reports the Indra story. Revision 400427 dated 2024-02-03 by the Wikisource API. Gate ok."
+}

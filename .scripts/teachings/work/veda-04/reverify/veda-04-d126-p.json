@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d126-p",
+ "d": 126,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "FROM Fervour kindled to its height Eternal Law and Truth were born: Thence was the Night produced, and thence the billowy flood of sea arose.",
+ "ref": "Rig Veda 10.190.1",
+ "at": [
+  1026,
+  1
+ ],
+ "s": "Opening a three-verse hymn of origins that ends with the Creator forming sun, moon, heaven and earth; Sāyaṇa, on 10.190.1, takes ‘Law’ as true intention and ‘Truth’ as true speech, both born of fervour spent of old for creation, contemplating what was to be made.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 10.190.1, sa.wikisource (printed edition not named), revision 340861 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AF%E0%A5%A6&oldid=340861",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.१९०, revision 340861",
+    "locator": "commentary on 10.190.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n425/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils (OCR)",
+    "locator": "10.190.1 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "ऋतमिति सत्यनाम । ऋतं मानसं यथार्थसंकल्पनं सत्यं वाचिकं यथार्थभाषणम् । चकाराभ्यामन्यदपि शास्त्रीयं धर्मजातं समुच्चीयते । तत्सर्वमभीद्धादभितप्ताद्ब्रह्मणा पुरा सृष्ट्यर्थं कृतात्तपसोऽधि । अध्युपर्यर्थे । उपर्यजायत । उदपद्यत । ‘ तपस्तप्त्वेदं सर्वमसृजत ' (तै. आ. ८. ६ ) इति श्रुतेः । तपश्चात्र स्रष्टव्यपर्यालोचनलक्षणम् ।",
+  "lang": "sa",
+  "gloss": "Ṛta is a name for truth: ṛta is of the mind, a true intention; satya is of speech, a true statement. The two “and”s take in the rest of the duties the scriptures teach. All this arose upon the kindled tapas performed of old by brahmaṇā (instrumental; Sāyaṇa does not say whether the god Brahmā or brahman) for the sake of creation (“having done tapas he created all this”, Taittirīya Āraṇyaka 8.6). Tapas here has the character of contemplating what is to be created.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement: the refuter is right in part. Key verse verbatim (verse.js ok, Rig Veda 10.190.1, at [1026,1]); plain sense faithful (10.190.3 has Dhatar the Creator forming Sun, Moon, Heaven, Earth). Re-opened packet on 10.190.1: Sāyaṇa glosses ṛta as mental true resolve (yathārthasaṃkalpana), satya as verbal true speech, born of kindled tapas done brahmaṇā purā sṛṣṭyartham, tapas being srastavyaparyālocana. But brahmaṇā is ambiguous (masculine Brahmā or neuter brahman), his proof-texts (TĀ 8.6, Muṇḍaka 1.1.9) point to the Self/Brahman, and the named god Brahmā and ‘before creation’ come only from Wilson’s note, not Sāyaṇa’s words. Changed the reading to drop the named agent and ‘before’: ‘both born of fervour spent of old for creation, contemplating what was to be made’, every clause in the Sanskrit. Gloss revised likewise. Evidence re-found verbatim in packet output; entry-check ok."
+}

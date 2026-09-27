@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d102-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AF%E0%A5%AD&oldid=402120",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 102 --verse 9.97.18: the Sanskrit text under the 9.97.18 label (granthiṃ na vi ṣya grathitaṃ punāna ṛjuṃ ca gātuṃ vṛjinaṃ ca soma) is the same verse as Griffith's 9.97.18 in day.js, so no numbering shift. Sāyaṇa's words there, grathitaṃ pāpair baddhaṃ māṃ vi ṣya muñca ... granthiṃ na yathā kaścit granthiṃ viśleṣayati ... ṛjum avakraṃ gātuṃ mārgaṃ ca vṛjinaṃ balaṃ ca mahyaṃ dehi, carry every part of the paraphrase (the speaker bound by sins, loosed from them as one unties a knot, given a straight path and strength) and claim nothing more; Wilson's translation on the same verse agrees. The reading is his, not Griffith's (Griffith's 'righteous and unrighteous conduct' differs from Sāyaṇa's 'strength', and the sentence attributes only Sāyaṇa's). Plain sense: 9.97.17 asks Indu to send the Winds, setting them free like unbraided locks, and 9.97.18 asks for a parting like a knotted tangle, so 'a second untying' is faithful context, does not reuse four key-verse words and does not name the commentator. No school needed, no comparison, no softening. verse.js ok (Rig Veda 9.97.18, at [819,18]); entry-check.js ok on a fresh scratch copy (R-d102-p.json), no errors or warns. Revision 402120 timestamp 2024-05-02 confirmed via the Wikisource API, so '(2024)' in src stands.",
+ "better": ""
+}

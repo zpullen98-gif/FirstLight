@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d114-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AC%E0%A5%AE&oldid=314349",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 114 --verse 10.68.11. The Sanskrit under 10.68.11 (abhi śyāvaṃ na kṛśanebhir aśvaṃ nakṣatrebhiḥ pitaro dyām apiṃśan ... bṛhaspatir bhinad adriṃ vidad gāḥ) is Griffith’s 10.68.11 in day.js. Sāyaṇa’s words found verbatim: pitaraḥ pālayitāro devāḥ (the Fathers as the protecting gods); nakṣatrebhiḥ aśviny-ādibhiḥ (the lunar mansions, Aśvinī and the rest); apiṃśan abhito ’dīpayan, with his note that piś here means lighting; yadā bṛhaspatir adriṃ ... abhinat ... tadā devā evam akārṣuḥ (when Bṛhaspati broke the rock, then the gods did this). The sentence carries this without drift. It is Sāyaṇa’s, not Wilson’s: Wilson’s own note says ‘properly the Pitris ... the Angirasas’, a different view the sentence does not use. Plain sense: 10.68 is to Bṛhaspati winning the cows from Vala’s rock, and verse 11 is the second-last of twelve; ‘the singer looks to the night sky’ is light framing of a verse on heaven hung with constellations, reuses no four key words, and does not name the commentator. ‘the Fathers’ quoted is two key words. No school, no comparison, no softening. verse.js ok (Rig Veda 10.68.11, at [904,11]); entry-check.js ok on scratch/R-d114-p.json, no errors or warns. Revision 314349 timestamp 2021-07-24 (Wikisource API, re-queried), page title 10.68, so ‘(2021)’ stands.",
+ "better": "Closer to the verse’s own frame: ‘the singer turns to heaven hung with stars’ in place of ‘looks to the night sky’, since the verse also sets light in the day; optional, the entry stands as written."
+}

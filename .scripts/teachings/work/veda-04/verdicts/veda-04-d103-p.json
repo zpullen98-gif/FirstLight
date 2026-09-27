@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d103-p",
+ "d": 103,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Close to thy bosom am I, Soma, day and night. O Tawny-hued, for friendship sake. Surya himself refulgent with his glow have we o’ertaken in his course like birds.",
+ "ref": "Rig Veda 9.107.20",
+ "at": [
+  829,
+  20
+ ],
+ "s": "After a plea against the fiends that beset him, the singer speaks of his closeness to Soma; Sāyaṇa, on 9.107.20, takes the blazing sun as Soma himself in the highest place, whom the singers fly up to reach, as birds fly beyond the sun.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.107.20, sa.wikisource (the printed edition is not named), revision 400618 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%A7%E0%A5%A6%E0%A5%AD&oldid=400618",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.१०७, revision 400618 (2024)",
+    "locator": "9.107.20, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n409/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888)",
+    "locator": "9.107.20, translation and notes",
+    "via": "packet"
+   }
+  ],
+  "words": "ते वयं “घृणा दीप्त्या “तपन्तं ज्वलन्तं “परः परमस्थानस्थितं “सूर्यं तदात्मकं त्वाम् “अति “पप्तिम । तत्र स्थितं त्वां प्राप्तुमतिपेतिम । कथमिव । “शकुनाइव । यथा सुपर्णादयः पक्षिणः सूर्यमतिगच्छन्ति तद्वत्",
+  "lang": "Sanskrit",
+  "gloss": "We have flown beyond the sun, blazing with radiance, standing in the highest place: you, who are of its nature. To reach you standing there we flew beyond. How? Like birds: as Suparṇa and the other birds go beyond the sun.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 9.107.20, at [829,20]). Sāyaṇa on 9.107.20 (sa.wikisource rev 400618, 2024-02-11 by the API) glosses paraḥ as paramasthānasthitam, takes sūryam as tadātmakaṃ tvām (Soma of the sun’s nature), says the singers flew beyond to reach Soma standing there, like Suparṇa and other birds that pass beyond the sun. Wilson’s note (vol. 5) independently reports the same: Sāyaṇa makes paraḥ agree with sūryam and explains sūryam as the Soma. Plain sense: 9.107.19 asks help against many fiends, 9.107.20 speaks of the singer’s nearness to Soma; faithful, no four-word run from the verse, commentator not named there. “fly up to reach” is a fair paraphrase of atipetima … prāptum. Whole hymn commentary read (introduction: seven ṛṣis, Pavamāna Soma). entry-check ok."
+}

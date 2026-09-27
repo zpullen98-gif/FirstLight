@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d106-p",
+ "d": 106,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Sun receive thine eye, the Wind thy spirit; go, as thy merit is, to earth or heaven.",
+ "ref": "Rig Veda 10.16.3",
+ "at": [
+  852,
+  3
+ ],
+ "s": "At the pyre, having asked Agni to bear the dead to the Fathers, the singer turns to the dead man; Sāyaṇa, on 10.16.3, takes the spirit as the breath, going to the outer wind, and merit as good deeds, whose fruit he goes to enjoy.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.16.3, sa.wikisource (the printed edition is not named), revision 333348 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AC&oldid=333348",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 333348 (printed edition not named)",
+    "locator": "on 10.16.3",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n50/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils (OCR)",
+    "locator": "10.16.3",
+    "via": "packet"
+   }
+  ],
+  "words": "हे प्रेत त्वदीयं चक्षुः इन्द्रियं सूर्यं गच्छतु प्राप्नोतु । आत्मा प्राणः वातं बाह्यं वायुं गच्छतु । अपि च त्वमपि धर्मणा सुकृतेन तत्फलं भोक्तुं द्या च ।",
+  "lang": "Sanskrit",
+  "gloss": "O departed one, let your eye, the sense organ, go to the sun, reach it; the ātmā, that is the breath (prāṇa), let it go to the wind, the outer air. And you too, by dharman, that is by good deeds, to enjoy their fruit, go to heaven and (ca)...",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.16.3 and at [852,3] match). Plain sense: hymn 10.16 is the cremation hymn; verses 1 and 2 ask Agni (Jatavedas) to send the dead man to the Fathers, and verse 3 turns to address him: faithful, and no four words of the verse repeated. In the Sanskrit packet on 10.16.3 Sāyaṇa addresses the preta, glosses ātmā as prāṇa going to the outer wind (bāhyaṃ vāyum), and dharmaṇā as sukṛtena, going to heaven or earth to enjoy its fruit (tatphalaṃ bhoktum); Wilson’s note on the passage confirms the Scholiast reads it of transmigration. The reading carries his words without drift. Revision 333348 dated 2022-03-04 by the Wikisource API. Gate ok."
+}

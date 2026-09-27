@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d102-p",
+ "d": 102,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Part, like a knotted tangle, while they cleanse thee, O Soma, righteous and unrighteous conduct.",
+ "ref": "Rig Veda 9.97.18",
+ "at": [
+  819,
+  18
+ ],
+ "s": "After asking Soma to set the winds free like unbraided hair, the singer asks a second untying; Sāyaṇa, on 9.97.18, hears a plea that the singer, bound by sins, be untied from them like a knot, and given a straight path and strength.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.97.18, sa.wikisource ऋग्वेदः सूक्तं ९.९७, revision 402120 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AF%E0%A5%AD&oldid=402120",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.९७, revision 402120 (2024)",
+    "locator": "9.97.18, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n381/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888)",
+    "locator": "9.97.18, translation",
+    "via": "packet"
+   }
+  ],
+  "words": "पुनानः पूयमानस्त्वं ग्रथितं पापैर्बद्धं मां वि ष्य मुञ्च । पापेभ्यो विश्लेषय । कथमिव । ग्रन्थिं न यथा कश्चित् ग्रन्थिं विश्लेषयति । षो अन्तकर्मणि इत्यस्य लोटि रूपम् । किंच हे सोम त्वम् ऋजुम् अवक्रं गातुं मार्गं च वृजिनं बलं च मह्यं देहि ।",
+  "lang": "Sanskrit",
+  "gloss": "Being purified, loose me, who am tied, bound by sins: separate me from sins. How? As one unties a knot. (vi ṣya is the imperative of ṣo, to end.) And, Soma, give me a straight, uncrooked path and strength (vṛjina glossed as bala).",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 9.97.18, at [819,18]). Sāyaṇa on 9.97.18 glosses grathitam as pāpair baddham mām, asks Soma to loose him from sins as one unties a knot, and asks for a straight path (ṛju gātu) and strength (vṛjina = bala); Wilson (vol. 5) translates the same way. The reading matches his words without drift. Plain sense: 9.97.17 asks Soma to set the Winds free like unbraided hair, 9.97.18 asks for a parting like a knotted tangle, so a second untying is faithful and names no commentator. src revision 402120 dated 2024-05-02 by the lock. entry-check ok."
+}

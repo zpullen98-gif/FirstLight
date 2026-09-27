@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d113-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AC%E0%A5%A9&oldid=275531",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 113 --verse 10.63.8. The Sanskrit under 10.63.8 (ya īśire bhuvanasya pracetaso viśvasya sthātur jagataś ca mantavaḥ; te naḥ kṛtād akṛtād enasas pari adyā devāsaḥ pipṛtā svastaye) is Griffith’s 10.63.8 in day.js; the 10.61 verse-count shift does not reach 10.63. Sāyaṇa’s words found verbatim: kṛtāt kāyikāt pāpāt, akṛtāt kara-caraṇādibhir akṛtāt enasaḥ kiṃtu mānasāt pāpāc ca: committed sin as bodily, uncommitted as sin not done with hands, feet and the like but mental. The sentence carries exactly this; ‘no hand or foot’ is his kara-caraṇa. Webster’s bracketed note in Wilson reports the same of Sāyaṇa (‘from actual bodily sin and from mental sin’), so the reading is Sāyaṇa’s, not Webster’s own. Plain sense: 10.63 is to the Gods, with the All-Gods named at 10.63.6 and the Adityas throughout; ‘for happiness’ closes stanzas 5 and 7 to 14; ‘seeks release from wrongdoing’ reuses no four key words. Quoted key words ‘committed’, ‘uncommitted’ are within the limit. No school, no comparison, no softening. verse.js ok (Rig Veda 10.63.8, at [899,8]); entry-check.js ok on scratch/R-d113-p.json, no errors or warns. Revision 275531 timestamp 2020-09-29 (Wikisource API, re-queried), page title 10.63, so ‘(2020)’ stands.",
+ "better": ""
+}

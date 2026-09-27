@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d124-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A9%E0%A5%AC&oldid=319729",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 124 --verse 10.136.2 and the raw text of revision 319729 (2021-08-31, via the Wikisource API): the Sanskrit under 10.136.2 is munayo vātaraśanāḥ piśaṅgā vasate malā, the same verse as Griffith's 10.136.2, and Sāyaṇa's words vātaraśanasya putrāḥ, munayaḥ atīndriyārthadarśinaḥ, malā malināni valkalarūpāṇi vāsāṃsi, and prāṇopāsanayā prāṇarūpiṇo vāyubhāvaṃ prapannāḥ carry each part (sons of Vātaraśana, seers of things beyond sense, soiled bark garments, reaching the wind's state by worship of breath) and nothing more; Wilson's translation on the verse agrees (sons of Vātaraśana, vestments of bark). The patronymic is Sāyaṇa's, not Griffith's (who has girdled with the wind), and the sentence attributes it to him. Plain sense matches 10.136.1 (the long-haired one supports Agni, moisture, heaven and earth) and repeats no four key words. No school needed, no comparison, tone plain. verse.js ok (Rig Veda 10.136.2, at [972,2]); entry-check ok on scratch R5-d124-p.json; src year 2021 confirmed.",
+ "better": ""
+}

@@ -1,0 +1,253 @@
+{
+ "lane": "L4",
+ "plan": "veda",
+ "batch": "veda-04",
+ "days": [
+  {
+   "d": 115,
+   "primary": {
+    "id": "veda-04-d115-p",
+    "key": "He wanders on in profitless illusion: the Voice he heard yields neither fruit, nor blossom.",
+    "ref": "Rig Veda 10.71.5",
+    "at": [
+     907,
+     5
+    ],
+    "s": "Setting those to whom Vak unveils herself against those who only hear her, the hymn turns to one called dull in friendship; Sāyaṇa, on 10.71.5, reads fruit and flower as the meaning of speech, and this man as a mere reciter without it.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.71.5, sa.wikisource (the printed edition is not named), revision 333626 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "अनन्तरमुत्तरार्धेन केवलपाठको निन्द्यते। “एषः अविज्ञातार्थः पुरुषः “अधेन्वा धेनुत्वविवर्जितया कामानामदोग्ध्र्या देवमनुष्यस्थानेषु वाक्प्रतिरूपया “मायया “चरति । किं कुर्वन् । “अफलामपुष्पाम् । वाचोऽर्थः पुष्पफलम् । अर्थवर्जिताम् । … केवलं पाठमात्रेणैव श्रुतवान् स चरति ।",
+     "gloss": "Then, in the latter half, the mere reciter is blamed. This man, who has not understood the meaning, goes about with an illusion that is no milch cow, milking out no wishes, a mere semblance of speech in the places of gods and men. Doing what? Fruitless, flowerless: the meaning of speech is its flower and fruit; speech empty of meaning … he has heard it by recitation alone, and so he goes about."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d115-s",
+    "key": "These Brahmanaspati produced with blast and smelting, like a Smith, Existence, in an earlier age of Gods, from Non-existence sprang.",
+    "ref": "Rig Veda 10.72.2",
+    "at": [
+     908,
+     2
+    ],
+    "s": "Having promised to tell the births of the Gods, the hymn turns to how they were made; Sāyaṇa, on 10.72.2, takes Brahmanaspati as Aditi and the non-existent as Brahman, so called for lacking name and form, whence gods with name and form arose.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.72.2, sa.wikisource (the printed edition is not named), revision 202640 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“ब्रह्मणः अन्नस्य “पतिः अदितिः “एता एतानि देवानां जनिमानि “कर्मारइव स यथा भस्त्रयाग्निमुपधमति प्रज्वलनार्थमेवं “सम् “अधमत् उदपादयदित्यर्थः । … “असतः नामरूपवर्जितत्वेनासत्समानाद्ब्रह्मणः सकाशात् “सत् नामरूपविशिष्टं देवादिकम् “अजायत प्रादुरभूत् ।",
+     "gloss": "Brahmaṇaspati: the lord of brahman, that is, of food: Aditi. These: these births of the gods. Like a smith: as a smith blows up the fire with the bellows to make it blaze, so she blew them together, that is, brought them forth … from the non-existent, from Brahman, which is like the non-existent in being without name and form, the existent, the gods and the rest, marked by name and form, was born, came to light."
+    }
+   }
+  },
+  {
+   "d": 118,
+   "primary": {
+    "id": "veda-04-d118-p",
+    "key": "So mighty is his greatness; yea, greater than this is Purusa. All creatures are one-fourth of him, three-fourths eternal life in heaven.",
+    "ref": "Rig Veda 10.90.3",
+    "at": [
+     926,
+     3
+    ],
+    "s": "Having called Purusa all that was and will be, the hymn measures him; Sāyaṇa, on 10.90.3, reads the world of all three times as his greatness, not his true nature, and the quarter as marking the world small beside Brahman, which has no measure.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.90.3, sa.wikisource (the printed edition is not named), revision 336240 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "अतीतानागतवर्तमानरूपं जगद्यावदस्ति “एतावान् सर्वोऽपि “अस्य पुरुषस्य “महिमा स्वकीयसामर्थ्यविशेषः। न तु तस्य वास्तवस्वरूपम् । … परब्रह्मण इयत्ताभावात् पादचतुष्टयं निरूपयितुमशक्यं तथापि जगदिदं ब्रह्मस्वरूपापेक्षयाल्पमिति विवक्षितत्वात् पादत्वोपन्यासः",
+     "gloss": "The world, as much of it as there is, in the form of past, future and present: all this much is the greatness of this Purusa, his own particular power, and not his real nature … since the supreme Brahman has no measure, four quarters cannot be set out in it; still, because what is meant is that this world is small compared with the nature of Brahman, a quarter is spoken of."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d118-s",
+    "key": "When Gods prepared the sacrifice with Purusa as their offering, Its oil was spring, the holy gift was autumn; summer was the wood.",
+    "ref": "Rig Veda 10.90.6",
+    "at": [
+     926,
+     6
+    ],
+    "s": "Turning from Purusa’s birth to the Gods’ sacrifice, the hymn names its materials; Sāyaṇa, on 10.90.6, reads it as a sacrifice in the mind, for no outer materials yet existed, and the Gods conceived Purusa himself as the oblation.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.90.6, sa.wikisource (the printed edition is not named), revision 336240 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“देवाः उत्तरसृष्टिसिद्धयर्थं बाह्यद्रव्यस्यानुत्पन्नत्वेन हविरन्तरसंभवात् पुरुषस्वरूपमेव मनसा हविष्ट्वेन संकल्प्य “पुरुषेण पुरुषाख्येन “हविषा मानसं यज्ञम् “अतन्वत अन्वतिष्ठन् तदानीम् “अस्य यज्ञस्य “वसन्तः वसन्तर्तुरेव “आज्यम् “आसीत् अभूत् । तमेवाज्यत्वेन संकल्पितवन्त इत्यर्थः ।",
+     "gloss": "The gods, to accomplish the creation that was to follow, since outer materials had not yet come into being and so no other oblation was to be had (the page prints saṃbhavāt; the sense asks asaṃbhavāt), conceived in the mind the very form of Purusa as the oblation, and with the oblation called Purusa carried out a mental sacrifice; then spring, the season itself, was the ghee of this sacrifice: the meaning is that they conceived it as the ghee."
+    }
+   }
+  },
+  {
+   "d": 119,
+   "primary": {
+    "id": "veda-04-d119-p",
+    "key": "With Soma as their Sovran Lord the Plants hold colloquy and say: O King, we save from death the man whose cure a Brahman undertakes.",
+    "ref": "Rig Veda 10.97.22",
+    "at": [
+     933,
+     22
+    ],
+    "s": "Near the end of a hymn that calls on the Plants to heal a sick man, they speak with Soma, their king; Sāyaṇa, on 10.97.22, takes the Brahman as a physician who knows the power of herbs, and the one saved as his patient.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.97.22, sa.wikisource (the printed edition is not named), revision 317292 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“ओषधयः सर्वाः “सोमेन “राज्ञा \"सह “सं वदन्ते संवादं कुर्वन्ति । किमिति तदुच्यते । “यस्मै रुग्णाय “ब्राह्मणः ओषधिसामर्थ्यज्ञो ब्राह्मणो वैद्यः “कृणोति करोति चिकित्सां “तं रुग्णं हे “राजन् “पारयामसि पारयामः ॥",
+     "gloss": "All the plants hold converse with Soma the king. What do they say? That is told: the sick man for whom a Brahman, a Brahman physician who knows the power of the plants, makes, that is, makes a cure: him, the sick man, O king, we carry through."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d119-s",
+    "key": "She who flashed brilliant as the falling lightning brought me delicious presents from the waters.",
+    "ref": "Rig Veda 10.95.10",
+    "at": [
+     931,
+     10
+    ],
+    "s": "In the dialogue between Pururavas and the nymph Urvasi, who has left him, he recalls her gifts and hopes for a son; Yāska, Nirukta 11.36, takes the gifts she brought as the waters of the atmosphere.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 11.36, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "Who shone like a flasli of lightning bringing to me the desired watery (gifts), i. e. waters of the world of the atmosphere.",
+     "gloss": "Who shone like a flash of lightning, bringing to me the desired watery gifts, that is, the waters of the world of the atmosphere."
+    }
+   }
+  },
+  {
+   "d": 120,
+   "primary": {
+    "id": "veda-04-d120-p",
+    "key": "Make pleasant hymns, spin out your songs and praises: build ye a ship equipped with oars for transport. Prepare the implements, make all things ready, and let the sacrifice, my friends, go forward.",
+    "ref": "Rig Veda 10.101.2",
+    "at": [
+     937,
+     2
+    ],
+    "s": "Calling friends to wake and kindle Agni, the hymn sets them working like farmers; Sāyaṇa, on 10.101.2, takes the ship as the piling of the fire altar, carried through by ploughing as by an oar, and the implements as ploughs and yokes.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.101.2, sa.wikisource (the printed edition is not named), revision 368305 (2023)",
+    "basis": {
+     "source": "sayana",
+     "words": "अग्निं चेष्यमाणा ऋत्विजो वदन्ति । … “धियः कर्माणि चयनप्रदेशकर्षणादीनि “आ “तनुध्वं विस्तारयत । तथा “अरित्रपरणीं कर्षणादिरूपेणारित्रेण पारयितव्यां नावं चयनाख्यां “कृणुध्वं कुरुध्वम् । तथा “आयुधा आयुधानि सीरयुगादीनि “अरम् अलं “कृणुध्वम् ।",
+     "gloss": "The priests, about to pile the fire, speak … Works: the works of ploughing the site of the piling and the rest; spread them out. And make the ship that is to be carried across by the oar, the oar being the ploughing and the like: the ship called the piling. And make ready the weapons: the ploughs, the yokes and the rest."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d120-s",
+    "key": "Refresh the horses, win the prize before you: equip a chariot fraught with happy fortune. Pour forth the well with stone wheel, wooden buckets, the drink of heroes, with the trough for armour.",
+    "ref": "Rig Veda 10.101.7",
+    "at": [
+     937,
+     7
+    ],
+    "s": "Among calls to yoke the ploughs, sow and draw water, the verse turns to horses, chariot and well; Yāska, Nirukta 5.26, reads it as the seer likening a battle to a well, with armour standing in for its pails.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 5.26, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "Having pails of armour: let your armours be the substitutes for pails … Pour down the drink for men, water for men. The seer compares a battle witli the characteristic of a well.",
+     "gloss": "Having pails of armour: let your armours stand in for pails … Pour down the drink for men, that is, water for men. The seer compares a battle with the character of a well."
+    }
+   }
+  },
+  {
+   "d": 121,
+   "primary": {
+    "id": "veda-04-d121-p",
+    "key": "The liberal die not, never are they ruined: the liberal suffer neither harm nor trouble.",
+    "ref": "Rig Veda 10.107.8",
+    "at": [
+     943,
+     8
+    ],
+    "s": "Praising the Guerdon given to priests and those who give it, the hymn names their reward; Sāyaṇa, on 10.107.8, takes the liberal as those who feed others by giving wealth, and their not dying as their attaining the state of gods.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.107.8, sa.wikisource (the printed edition is not named), revision 208417 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“भोजाः भोजयितारो धनादिदानेन दातारः “न “मम्रुः न म्रियन्ते । देवत्वं भजन्त इत्यर्थः ।। अत एव “न्यर्थम् … निकृष्टां गतिं “न “ईयुः न प्राप्नुवन्ति ॥",
+     "gloss": "The bhojāḥ: those who feed, givers, by the gift of wealth and the like, do not die: the meaning is that they attain the state of gods. Hence nyartham … they do not go to a low course, they do not reach one."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d121-s",
+    "key": "One of these Birds hath passed into the sea of air: thence he looks round and views this universal world. With simple heart I have beheld him from anear: his Mother kisses him and he returns her kiss.",
+    "ref": "Rig Veda 10.114.4",
+    "at": [
+     950,
+     4
+    ],
+    "s": "After two Birds sit where the Gods take their portion, the verse follows one; Yāska, Nirukta 10.46, hears in it the delight of a seer who had seen for himself, told as a narrative, and takes the Mother as the speech of the middle air.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 10.46, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "With a pure mind I saw him. Here the seer, w^ho had intuitive insight into reality, (expresses) his pleasure in a narration.^ The mother, i. e. atmospheric speech, kisses him and he kisses the mother.",
+     "gloss": "With a pure mind I saw him: here the seer, who had seen the reality for himself, expresses his pleasure in the form of a narrative. The mother, that is, the speech of the middle air, kisses him, and he kisses the mother."
+    }
+   }
+  },
+  {
+   "d": 122,
+   "primary": {
+    "id": "veda-04-d122-p",
+    "key": "IN the beginning rose Hiranyagarbha, born Only Lord of all created beings. He fixed and holdeth up this earth and heaven. What God shall we adore with our oblation?",
+    "ref": "Rig Veda 10.121.1",
+    "at": [
+     957,
+     1
+    ],
+    "s": "The verse opens a hymn whose verses, but the last, end on one question; Sāyaṇa, on 10.121.1, takes ‘What’ as Ka, Prajapati’s name, since his nature is unknown, or since he desires to create, or since he is happiness.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.121.1, sa.wikisource (the printed edition is not named), revision 400427 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“कस्मै । अत्र किंशब्दोऽनिर्ज्ञातस्वरूपत्वात् प्रजापतौ वर्तते । यद्वा । सृष्ट्यर्थं कामयत इति कः । कमेर्डप्रत्ययः । यद्वा । कं सुखम् । तद्रूपत्वात् क इत्युच्यते ।",
+     "gloss": "Kasmai: here the word kim (what, who) stands for Prajāpati, because his own nature is not known. Or: he desires (kāmayate) for the sake of creation, hence Ka; the suffix ḍa is added to kam. Or: kam is happiness; because he has that form he is called Ka."
+    }
+   },
+   "standby": {
+    "id": "veda-04-d122-s",
+    "key": "Let the rich satisfy the poor implorer, and bend his eye upon a longer pathway. Riches come now to one, now to another, and like the wheels of cars are ever rolling.",
+    "ref": "Rig Veda 10.117.5",
+    "at": [
+     953,
+     5
+    ],
+    "s": "In a hymn praising the giving of food and blaming those who hoard it, the verse urges the wealthy; Sāyaṇa, on 10.117.5, takes the longer pathway as the path of good deeds, and the rolling of riches as the reason wealth should be given.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.117.5, sa.wikisource (the printed edition is not named), revision 219288 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "धनवन्तं पुरुषं दाने प्रेरयति । “तव्यान् तवीयान् धनैरतिशयेन प्रवृद्धः पुरुषः “नाधमानाय याचमानायातिथये “पृणीयादित् धनानि दद्यादेव ॥ … दीर्घतमं “पन्थां पन्थानं सुकृतमार्गम् “अनु “पश्येत अनुपश्येत् । व्यत्ययेनात्मनेपदम्। तत्र कारणमाह। “रायः धनानि “ओ “हि। … तस्माद्धनानि देयानीति भावः ॥",
+     "gloss": "He urges the wealthy man to give. The stronger man, the one greatly grown in wealth, should indeed give wealth to the one who begs, the guest who asks … (if he gives) he would look along the longest path, the path of good deeds; the middle voice is by exception. He states the reason for this: riches, surely, turn about … therefore wealth is to be given: that is the sense."
+    }
+   }
+  }
+ ]
+}

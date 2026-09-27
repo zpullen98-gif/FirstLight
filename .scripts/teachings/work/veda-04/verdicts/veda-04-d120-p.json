@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d120-p",
+ "d": 120,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Make pleasant hymns, spin out your songs and praises: build ye a ship equipped with oars for transport. Prepare the implements, make all things ready, and let the sacrifice, my friends, go forward.",
+ "ref": "Rig Veda 10.101.2",
+ "at": [
+  937,
+  2
+ ],
+ "s": "Calling friends to wake and kindle Agni, the hymn sets them working like farmers; Sāyaṇa, on 10.101.2, takes the ship as the piling of the fire altar, carried through by ploughing as by an oar, and the implements as ploughs and yokes.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.101.2, sa.wikisource (the printed edition is not named), revision 368305 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A6%E0%A5%A7&oldid=368305",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.१०१, revision 368305 (printed edition not named)",
+    "locator": "on 10.101.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n300/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888), archive.org rigvedasanhitc06wils",
+    "locator": "10.101.2",
+    "via": "packet"
+   }
+  ],
+  "words": "“धियः कर्माणि चयनप्रदेशकर्षणादीनि “आ “तनुध्वं विस्तारयत । तथा “अरित्रपरणीं कर्षणादिरूपेणारित्रेण पारयितव्यां नावं चयनाख्यां “कृणुध्वं कुरुध्वम् । तथा “आयुधा आयुधानि सीरयुगादीनि “अरम् अलं “कृणुध्वम् ।",
+  "lang": "Sanskrit",
+  "gloss": "Works (dhiyaḥ): the works of ploughing the site of the piling and the rest; spread them out. And make the ship that is to be carried across by an oar which takes the form of ploughing and the like: the ship called the piling (cayana). And make the weapons (āyudhā), the ploughs, yokes and the rest, ready.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Rig Veda 10.101.2 and at [937,2] match). Plain sense faithful to day.js: 10.101.1 bids the friends wake with one mind and kindle Agni, and the hymn goes on to ploughs, yokes, furrow, seed, sickle, well and buckets. Reading the whole commentary on 10.101: Sāyaṇa opens with the priests about to pile the fire speaking (on v.1), and at 10.101.2 glosses dhiyaḥ as the works of ploughing the site of the piling, the oar-driven ship as the ship called the piling, carried across by an oar that is ploughing and the like, and āyudhā as ploughs, yokes and the rest. Every element of the reading is in his words; Wilson follows (weapons, ship propelled by oars). Revision 368305 dated 2023-02-26 by the Wikisource API. Gate ok."
+}

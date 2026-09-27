@@ -1,0 +1,8 @@
+{
+ "id": "veda-04-d118-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AF%E0%A5%A6&oldid=336240", "found": true},
+ "attacks": [],
+ "reason": "Re-opened by packet.js veda 118 --verse 10.90.3 (API: revision 336240 is page 10.90, 2022-04-20). The block on 10.90.1 to 4 is continuous, but the part on verse 3 is marked by its pratīka एतावान् ... महिमा, so 'on 10.90.3' holds. His words carry the whole reading: अतीतानागतवर्तमानरूपं जगद् ... महिमा ... न तु तस्य वास्तवस्वरूपम् (world of three times = his greatness, not his real nature) and परब्रह्मण इयत्ताभावात् ... जगदिदं ब्रह्मस्वरूपापेक्षयाल्पमिति विवक्षितत्वात् पादत्वोपन्यासः (Brahman has no measure; the quarter marks the world as small beside it). No drift. Plain sense checked against day.js: 10.90.2 calls Purusa all that has been and is to be, and verse 3 measures him; no four-word run from the key. verse.js ok (926,3); entry-check ok. No school required by the roster, no comparison, tone even.",
+ "better": ""
+}

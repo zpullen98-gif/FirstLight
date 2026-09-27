@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d101-p",
+ "d": 101,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Father of holy hymns, Soma flows onward the Father of the earth, Father of heaven: Father of Agni, Surya’s generator, the Father who begat Indra and Visnu.",
+ "ref": "Rig Veda 9.96.5",
+ "at": [
+  818,
+  5
+ ],
+ "s": "After a shared prayer for welfare, the hymn turns to Soma’s titles; Sāyaṇa, on 9.96.5, reads all this begetting as coming to pass at the pressing, since Soma strengthens the gods, and Indra’s begetting as the gladness he stirs when drunk.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.96.5, sa.wikisource ऋग्वेदः सूक्तं ९.९६, revision 307921 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AF%E0%A5%AC&oldid=307921",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.९६, revision 307921 (2021)",
+    "locator": "9.96.5, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n376/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888)",
+    "locator": "9.96.5, translation",
+    "via": "packet"
+   }
+  ],
+  "words": "“दिवः द्युलोकस्य “जनिता प्रादुर्भावयिता तथा “पृथिव्याः जनयिता “अग्नेः जनयिता प्रकाशयिता “सूर्यस्य सर्वस्य प्रेरकस्यादित्यस्य “जनिता “इन्द्रस्य “जनिता पानेन मदस्य जनयिता “उत अपि च “विष्णोः ब्यापकस्य “जनिता जनयिता । एतत् सर्वं सोमेऽभिषूयमाणे भवतीति । सोमो हि देवानाप्याययतीति",
+  "lang": "Sanskrit",
+  "gloss": "Further, begetter of heaven, the one who makes it appear, and begetter of earth; begetter of Agni, the one who makes him shine; begetter of Sūrya, the sun who sets all things moving; begetter of Indra: by being drunk, begetter of his exhilaration; and also begetter of Viṣṇu, the pervader. All this comes about when Soma is being pressed; for Soma makes the gods swell with strength.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 9.96.5, at [818,5]). Sāyaṇa on 9.96.5 glosses Indra’s janitā as pānena madasya janayitā (by being drunk, begetter of his exhilaration) and closes: etat sarvaṃ some ’bhiṣūyamāṇe bhavati, somo hi devān āpyāyayati (all this happens when Soma is pressed, for Soma strengthens the gods). The sentence carries exactly this. Plain sense: 9.96.4 is a prayer for welfare voiced as the wish of the assembled friends and the singer, and 9.96.5 to 6 list Soma’s titles; faithful. Revision 307921 dated 2021-04-22. Evidence is a contiguous span of the packet (the proposer’s basis used an ellipsis). entry-check ok."
+}

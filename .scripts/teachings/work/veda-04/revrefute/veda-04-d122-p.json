@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d122-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%A8%E0%A5%A7&oldid=400427",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 122 --verse 10.121.1 and the pinned revision itself (action=raw, oldid 400427; wiki API timestamp 2024-02-03, so the src year holds). In his comment on 10.121.1 Sāyaṇa glosses kasmai three ways, then a fourth: kiṃśabdo 'nirjñātasvarūpatvāt prajāpatau vartate (the word 'what' stands for Prajāpati, his nature being unascertained); sṛṣṭyarthaṃ kāmayata iti kaḥ (Ka, since he desires for creation); kaṃ sukham, tadrūpatvāt ka ity ucyate (Ka, since he is happiness). The sentence carries those three without drift. Leaving out the fourth (the Aitareya Brāhmaṇa story of Indra and Prajāpati) is an omission, not a claim beyond his words. Plain clause checked on day.js: verses 10.121.1 to 9 close on the refrain and verse 10 names Prajapati instead, so 'all but the last' is exact, it is context, and there is no four-word run from the key. 'Prajapati' is spelled as Griffith prints it in 10.121.10. No school, comparison or tone issue. verse.js ok (Rig Veda 10.121.1, at [957,1]); entry-check ok, no errors or warns, 44 words, src 118 characters.",
+ "better": ""
+}

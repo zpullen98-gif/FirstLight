@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d114-p",
+ "d": 114,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Like a dark steed adorned with pearl, the Fathers have decorated heaven With constellations. They set the light in day, in night the darkness. Brhaspati cleft the rock and found the cattle.",
+ "ref": "Rig Veda 10.68.11",
+ "at": [
+  904,
+  11
+ ],
+ "s": "Near the close of a hymn on Bṛhaspati winning the cows from Vala, the singer looks to the night sky; Sāyaṇa, on 10.68.11, reads ‘the Fathers’ as the guarding gods, who lit heaven with the lunar mansions when Bṛhaspati broke the rock.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.68.11, sa.wikisource ऋग्वेदः सूक्तं १०.६८, revision 314349 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AC%E0%A5%AE&oldid=314349",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.६८, revision 314349 (2021)",
+    "via": "packet",
+    "locator": "10.68.11, commentary (and the whole hymn)"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n196/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888; ed. Cowell and Webster)",
+    "locator": "10.68.11, translation and note",
+    "via": "packet"
+   }
+  ],
+  "words": "“पितरः पालयितारो देवाः “द्यां द्युलोकं “नक्षत्रेभिः अश्विन्यादिभि: “अभि “अपिंशन् अभितोऽदीपयन्। ‘ पिश अवयवे'। अयं दीपनायां वर्तते । तत्र दृष्टान्तः। “श्यावं “न यथा श्याववर्णम् “अश्वं “कृशनेभिः सौवर्णैराभरणैरलंकुर्वन्ति तद्वत् । तथा “रात्र्यां “तमः निहितवन्तः । किंच “अहन् अह्नि “ज्योतिः आदित्याख्यम् “अदधुः । अदधुरित्युत्तरवाक्येन संबन्धः करणीयः । अन्यथा स्वरो न घटेत। अत्र तु वाक्यभेदादनिघातः । यदा \"बृहस्पतिः “अद्रिं वलेनाधिष्ठितं शिलोच्चयं “भिनत अभिनत् विभिद्य च तत्र स्थितान् “गाः पशून् “विदत् अविदत् अलभत । विदेर्लुङि लृदित्त्दवाङ्। तदा देवा एवमकार्षुरित्यर्थः",
+  "lang": "Sanskrit",
+  "gloss": "The Fathers, the gods who protect, lit up heaven, the sky world, all around with the lunar mansions, Aśvinī and the rest (the root piś, ‘to form’, here means ‘to light’). The comparison: as men adorn a dark-coloured horse with golden ornaments, so did they. So too they set darkness in the night, and in the day the light called the sun (grammatical note on the accent). When Bṛhaspati broke the rock, the mass of stone that Vala held, and, having broken it, found the cows that stood there: then the gods did thus. That is the sense.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 10.68.11, at [904,11]). Sāyaṇa on 10.68.11 glosses pitaraḥ as pālayitāro devāḥ (the protecting gods), nakṣatrebhiḥ as Aśvinī and the rest (the lunar mansions), apiṃśan as abhito ’dīpayan (lit up all around), and ties the deed in time to Bṛhaspati’s breaking of the rock (yadā … tadā devā evam akārṣuḥ). The sentence carries this without drift. Plain sense: 10.68 is to Bṛhaspati winning the cows from Vala, and 10.68.11 is the second-last stanza, on heaven decked with constellations; faithful. Revision 314349 dated 2021-07-24 (Wikisource API). Evidence contiguous from the packet. entry-check ok."
+}

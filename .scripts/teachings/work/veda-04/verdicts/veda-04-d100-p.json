@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d100-p",
+ "d": 100,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He glideth like a serpent from his ancient skin, and like a playful horse the Tawny Steer hath run.",
+ "ref": "Rig Veda 9.86.44",
+ "at": [
+  808,
+  44
+ ],
+ "s": "Near the end of a long hymn, singers are bidden to praise Soma as he flows; Sāyaṇa, on 9.86.44, reads the old skin as the one Soma sheds in the pressing, and the gliding as his stream slipping out through the filter.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 9.86.44, sa.wikisource ऋग्वेदः सूक्तं ९.८६, revision 324716 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AE%E0%A5%AC&oldid=324716",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.८६, revision 324716 (2021)",
+    "locator": "9.86.44, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n353/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888)",
+    "locator": "9.86.44, translation",
+    "via": "packet"
+   }
+  ],
+  "words": "“अहिर्न अहिरिव \"जूर्णां जीर्णां “त्वचम् “अति “सर्पति अतिमुञ्चति । अभिषवादिकर्मणा त्वचं मुञ्चतीत्यर्थः । तद्वदतिसर्पति धारा दशापवित्रात्",
+  "lang": "Sanskrit",
+  "gloss": "Like a snake: as a snake glides beyond, that is sheds, its worn, old skin. The meaning is that through the work of pressing and the rest he sheds his skin. In the same way the stream glides out from the woollen filter.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 9.86.44, at [808,44]). Sāyaṇa on 9.86.44 glosses the snake simile as shedding (atimuñcati) the old skin, says the sense is that Soma sheds his skin by the work of pressing and the rest (abhiṣavādikarmaṇā), and that in the same way the stream glides out from the woollen filter (daśāpavitrāt). The sentence carries this; “out through the filter” renders daśāpavitrāt adequately. Plain sense: 9.86 has 48 verses, 9.86.44 opens with a call to sing to Pavamāna as the juice flows, which is outside the key sentence; faithful. Revision 324716 dated 2021-11-15. entry-check ok."
+}

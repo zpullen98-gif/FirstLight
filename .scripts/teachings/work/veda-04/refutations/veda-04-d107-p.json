@@ -1,0 +1,11 @@
+{
+ "id": "veda-04-d107-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%A7%E0%A5%AE&oldid=353436",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 107 --verse 10.18.5 and the raw wikitext of revision 353436: the Sanskrit labelled 10.18.5 (yathāhāny anupūrvaṃ bhavanti ... evā dhātar āyūṃṣi kalpayaiṣām) is Griffith’s 10.18.5, no shift; the evidence words, including pūrvamaraṇena and the Dhātṛ vocative, are found verbatim. Sāyaṇa glosses aparaḥ as arvākkālīnaḥ putraḥ (the later-born son), pūrvam as pūrvakālīnaṃ pitaram (the earlier-born father), and na jahāti as na parityajati pūrvamaraṇena (does not forsake him by dying first): the paraphrase says exactly this and no more. Wilson’s note (‘according to the comment, as a son does not leave his father by dying first’) confirms it is Sāyaṇa’s, and the sentence attributes it to him from his own Sanskrit, not through the conduit. Plain sense: 10.18.1 to 4 send Death away and set a rampart for the living; verse 5 addresses the ‘great Ordainer’; ‘the Ordainer’ is two words only, no four-word run; no doctrine. No school, no comparison, no softening. verse.js ok (Rig Veda 10.18.5, at [854,5]); entry-check.js ok on scratch/RF-d107-p.json, no errors or warns. API timestamp for 353436 is 2022-10-05, so ‘(2022)’ stands.",
+ "better": ""
+}

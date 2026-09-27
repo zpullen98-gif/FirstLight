@@ -1,0 +1,49 @@
+{
+ "id": "veda-04-d110-p",
+ "d": 110,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Far went our earliest invocation of the Gods, and won us glories that can never be surpassed. They who could not ascend the ship of sacrifice, sink down in desolation, trembling with alarm.",
+ "ref": "Rig Veda 10.44.6",
+ "at": [
+  880,
+  6
+ ],
+ "s": "Midway through a hymn inviting Indra to the Soma, the singer turns to the fate of others; Sāyaṇa, on 10.44.6, reads the ship as made of sacrifice, and those who miss it as evildoers, lacking Indra’s grace, sunk low by debt.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 10.44.6, sa.wikisource ऋग्वेदः सूक्तं १०.४४, revision 328215 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7%E0%A5%A6.%E0%A5%AA%E0%A5%AA&oldid=328215",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १०.४४, revision 328215 (2021)",
+    "locator": "10.44.6, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc06wils/page/n127/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 6 (1888)",
+    "locator": "10.44.6, translation",
+    "via": "packet"
+   }
+  ],
+  "words": "\"ये त्वत्प्रसादरहिता जनाः “यज्ञियां यज्ञसंबन्धिनीम् । यज्ञमयीमित्यर्थः । “नावम् “आरुहम् आरोढुं “न “शेकुः न शक्नुवन्ति “ते “केपयः कुत्सितपूयकर्माणः पापकर्माणो जनाः “ईर्मैंव ऋणेनैव “न्यविशन्त नीचैरविशन्त । अधोगतिं प्राप्ता इत्यर्थः",
+  "lang": "Sanskrit",
+  "gloss": "Those people who are without your grace could not ascend the ship belonging to sacrifice, that is, made of sacrifice; they, the kepayaḥ, doers of foul deeds, people of evil acts, sank down by debt itself, went low: that is, they reached the downward course.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 10.44.6, at [880,6]). Opened the Sāyaṇa packet for 10.44 (sa.wikisource rev 328215, dated 15 December 2021): on 10.44.6 he glosses yajñiyām as yajñamayīm (made of sacrifice), those who could not ascend as tvatprasādarahitā janāḥ (without Indra’s grace), kepayaḥ as pāpakarmāṇo janāḥ (evildoers), īrmā as ṛṇena (by debt), and nyaviśanta as nīcair aviśanta, adhogatiṃ prāptāḥ (went low). Every element of the reading is in his words; he also cites Yāska (Nirukta 5.25) for the debt gloss. Wilson (vol. 6) translates “wretches (plunged) in debt”. Plain sense: verse 6 of 11 in a hymn calling Indra to the Soma, turning from the first invokers to those left behind: faithful, no four-word run from the verse. Evidence is a contiguous span copied from the packet. entry-check ok."
+}
