@@ -40,12 +40,13 @@ function packetsFor(plan, d) {
 
 /* --verse <n>: only the segs whose label covers that verse. A seg's label is
    its base's opening bracket: "[2.47]", "[1.20 to 1.22]", "[Katha 1.2.20]",
-   "[7.18]" (the Analects); the last number is the verse. */
+   "[7.18]" (the Analects), "[2:255]" and "[2:21 to 2:22]" (the Qur'an); the
+   last number is the verse. */
 function covers(base, verse) {
   const m = String(base).match(/^\[([^\]]+)\]/);
   if (!m) return false;
-  const want = String(verse).split('.').map(Number);
-  const nums = s => (s.match(/\d+(?:\.\d+)*/) || [''])[0].split('.').map(Number);
+  const want = String(verse).split(/[.:]/).map(Number);
+  const nums = s => (s.match(/\d+(?:[.:]\d+)*/) || [''])[0].split(/[.:]/).map(Number);
   const parts = m[1].split(/\s+to\s+/);
   const a = nums(parts[0]), b = parts[1] ? nums(parts[1]) : a;
   const cmp = (x, y) => { for (let i = 0; i < Math.max(x.length, y.length); i++) { const d = (x[i] || 0) - (y[i] || 0); if (d) return d; } return 0; };
