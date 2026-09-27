@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "So he sent his brethren away, and they departed; and he said unto them: ‘See that ye fall not out by the way.’",
+ "ref": "Genesis 45:24",
+ "at": [
+  44,
+  24
+ ],
+ "s": "Sending his brothers home laden with gifts and wagons, Joseph gives them a parting charge; Rashi, on 45:24, reads it by its plain sense as his fear that, ashamed, they would quarrel over his sale, each blaming another, and Rashbam, on 45:24, as telling them not to fear robbers on the road.",
+ "by": "rashi",
+ "by2": "rashbam",
+ "hedge": "",
+ "src": "Rashi and Rashbam, Commentaries on the Torah, on Genesis 45:24, Hebrew texts, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "locator": "Genesis 45:24, dibbur hamatchil אל תרגזו בדרך (the plain-sense reading, after two midrashic ones)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Genesis/Hebrew/daat.json",
+    "edition": "Rashbam on Genesis, Hebrew (daat), Sefaria export commit 3f10136 (2026)",
+    "locator": "Genesis 45:24, dibbur hamatchil אל תרגזו",
+    "via": "packet"
+   }
+  ],
+  "words": "וּלְפִי פְשׁוּטוֹ שֶׁל מִקְרָא יֵשׁ לוֹמַר, לְפִי שֶׁהָיוּ נִכְלָמִים, הָיָה דוֹאֵג, שֶׁמָּא יָרִיבוּ בַדֶּרֶךְ עַל דְּבַר מְכִירָתוֹ, לְהִתְוַכֵּחַ זֶה עִם זֶה וְלוֹמַר עַל יָדְךָ נִמְכַּר, אַתָּה סִפַּרְתָּ לָשׁוֹן הָרָע עָלָיו, וְגָרַמְתָּ לָנוּ לִשְׂנֹאתוֹ … אל תיראו כלום בדרך מפני ליסטים כי שלום מכל צד",
+  "lang": "Hebrew",
+  "gloss": "Rashi: according to the plain sense of the verse it should be said that, because they were ashamed, he worried lest they quarrel on the way over his sale, arguing with one another and saying: through you he was sold, you spoke slander of him and made us hate him. Rashbam: do not fear anything on the way because of robbers, for there is peace on every side.",
+  "licence": "Hebrew: public domain (Sefaria export); gloss is the verifier’s own",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 45:24, at [44,24]). Plain sense faithful to 45:21 to 45:24 (wagons, provision, raiment, laden asses, then the parting word), no four-word run. Rashi on 45:24 gives two midrashic readings then, explicitly by the plain sense (לפי פשוטו של מקרא), his worry that the ashamed brothers would quarrel over his sale, each blaming another; Rashbam on 45:24 reads רגז as fear: do not fear robbers, for there is peace on every side. The two genuinely differ (quarrel against fear), named without resolving. Entry-check ok."
+}

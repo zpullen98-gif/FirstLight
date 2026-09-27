@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d030-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 30 --verse 38:8: Rashi on במראת הצבאת (Moses spurned the mirrors as made for the evil inclination; God said accept, these are dearer to Me than all, for through them the women raised many hosts in Egypt when their husbands were weary from crushing labour) and Ibn Ezra long commentary on וטעם הצובאות (women who served God, turned from the desires of this world, gave their mirrors and came daily to the tent door to pray and hear the commandments). Both evidence pieces found verbatim in the Rashi and Ibn Ezra (On Your Way) sources the entry cites. The two genuinely differ, and Ramban on the same verse sets them side by side; the sentence names both without resolving. Rashi’s marital theme is given decorously, neither softened into something else nor graphic. Plain sense checked in day.js: 38:1 to 8 are the brass works of the altar, then the laver. Ibn Ezra is marked long commentary in src as the trap asks. verse.js ok (Exodus 38:8, at [87,8]); entry-check ok at the 60-word two-commentator cap.",
+ "better": ""
+}

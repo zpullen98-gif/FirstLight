@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d002-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json ; https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Every attack failed. Re-opened packet.js tanakh 2 --verse 6:9. On בדרותיו, Rashi gives both midrashic readings in his own words. To Noah’s credit: had he lived in a generation of the righteous, he would have been more righteous. To his discredit: in Abraham’s generation he would have been reckoned as nothing. Ramban, on בדורותיו at 6:9, quotes these readings as ‘the language of Rashi’ and then sets against them his own plain-sense reading, that Noah alone was righteous in those generations. So the two commentators genuinely differ, Ramban himself names the difference, and the sentence names it without resolving it (rule 5). ‘With the rabbis’ matches Rashi’s ‘some of our rabbis expound’. Only three words of the key verse are quoted. The plain sense checks against day.js: the LORD resolves to blot out man at 6:5 to 7, and Noah is introduced at 6:8 to 9. The Ramban evidence is a verbatim substring of the packet, and the Rashi evidence matches after NFC normalisation. verse.js is ok (Genesis 6:9, at [5,9]), and entry-check is ok (59 words, within the 60 allowed for two commentators).",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Genesis/Hebrew/daat.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 9 --verse 28:12. Rashi, headed עולים וירדים: why ascending first; the angels who escorted him in the Land do not leave it, they went up and angels of outside the Land came down to escort him. Rashbam, headed עולים ויורדים: by the plain sense there is nothing to read into ascending before descending, for it is the common way of speaking to mention going up first. Both evidence segments are verbatim in the packet; the two genuinely differ on the same point and the sentence names both without resolving (rule 5). Rashbam’s Munk English omits the reason clause, but the Hebrew carries it, and the Hebrew is the evidence. Plain sense checked against day.js 28:10 to 11: Jacob goes toward Haran, stays the night, a stone of the place under his head; faithful. verse.js ok (Genesis 28:12, at [27,12]); entry-check ok (58 words, under the 60 cap for two).",
+ "better": ""
+}

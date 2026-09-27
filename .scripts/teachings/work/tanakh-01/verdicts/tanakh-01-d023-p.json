@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d023-p",
+ "d": 23,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And if thou make Me an altar of stone, thou shalt not build it of hewn stones; for if thou lift up thy tool upon it, thou hast profaned it.",
+ "ref": "Exodus 20:22",
+ "at": [
+  69,
+  22
+ ],
+ "s": "After the Ten Commandments, God turns from gods of silver and gold to the altar Israel is to build; Rashi, on Exodus 20:22, reads the ban on iron as fitting, since the altar was created to lengthen human days and iron to shorten them.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Exodus 20:22, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Exodus, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Exodus 20:22, comment on ותחללה",
+    "via": "packet"
+   }
+  ],
+  "words": "הָא לָמַדְתָּ שֶׁאִם הֵנַפְתָּ עָלֶיהָ בַּרְזֶל חִלַּלְתָּ, שֶׁהַמִּזְבֵּחַ נִבְרָא לְהַאֲרִיךְ יָמָיו שֶׁל אָדָם וְהַבַּרְזֶל נִבְרָא לְקַצֵּר יָמָיו שֶׁל אָדָם, אֵין זֶה בַּדִּין שֶׁיּוּנַף הַמְקַצֵּר עַל הַמַּאֲרִיךְ",
+  "lang": "Hebrew",
+  "gloss": "Thus you learn that if you lifted iron over it you profaned it, for the altar was created to lengthen a person’s days and iron was created to shorten a person’s days; it is not right that what shortens be lifted over what lengthens.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 20:22, at [69,22]). Plain sense faithful: after the Decalogue (20:1 to 14) and the people’s fear (20:15 to 18), God forbids gods of silver and gold (20:20) and commands an altar of earth (20:21), then of stone (20:22). Rashi on 20:22, comment on ותחללה, says the altar was created to lengthen man’s days and iron to shorten them, so it is not right to lift the shortener over the lengthener (he cites the Mekhilta, but these are his words in his commentary); his gloss on גזית ties the hewing to iron, so ‘the ban on iron’ is his reading. He adds a second reason (the altar makes peace) that the sentence does not need. Ibn Ezra, Ramban, Rashbam and Sforno give other reasons; none contradicts the attribution. Evidence copied from packet.js output; gate ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d020-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 20 --verse 11:2: Rashi s.v. דבר נא, נא is only entreaty, I beg you warn them about this, so that that righteous Abraham may not say ‘they shall serve them and afflict them’ He fulfilled but ‘afterward they shall go out with great substance’ He did not. Evidence verbatim; ‘hears now as God’s plea to Moses’ and the Abraham clause are carried exactly, and the sentence avoids the forbidden ‘fulfil’ with ‘came true’. Plain sense matches 11:1 (one plague more, the LORD speaking to Moses) without echoing the verse. One word of the key verse quoted in curly quotes. verse.js ok (Exodus 11:2, at 60,2, the verse on which Rashi comments); entry-check ok, no warns.",
+ "better": ""
+}

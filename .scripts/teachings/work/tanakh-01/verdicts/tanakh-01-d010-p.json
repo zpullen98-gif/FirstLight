@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "I am not worthy of all the mercies, and of all the truth, which Thou hast shown unto Thy servant; for with my staff I passed over this Jordan; and now I am become two camps.",
+ "ref": "Genesis 32:11",
+ "at": [
+  31,
+  11
+ ],
+ "s": "Told that Esau comes with four hundred men, Jacob divides his camp and prays; Rashi, on 32:11, reads the unworthiness as merit diminished by the kindnesses already shown, so that a sin since the promise might deliver him to Esau, and Ramban, on the same verse, as being too small to be worthy of them.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi and Ramban, Commentaries on the Torah, on Genesis 32:11, Hebrew texts, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Genesis 32:11, comment on קטנתי מכל החסדים",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Ramban on Genesis, Hebrew (On Your Way)",
+    "locator": "Ramban on Genesis 32:11, comment on קטנתי מכל החסדים ומכל האמת",
+    "via": "packet"
+   }
+  ],
+  "words": "נִתְמַעֲטוּ זְכֻיּוֹתַי עַל יְדֵי הַחֲסָדִים וְהָאֱמֶת שֶׁעָשִׂיתָ עִמִּי, לְכָךְ אֲנִי יָרֵא, שֶׁמָּא מִשֶּׁהִבְטַחְתַּנִי נִתְקַלְקַלְתִּי בְחֵטְא וְיִגְרֹם לִי לְהִמָּסֵר בְּיַד עֵשָׂו … ואיננו נכון בלשון הכתוב … אבל \"קטונתי\" לומר כי קטון הוא מהיותו ראוי לכל החסדים שעשה עמו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 32:11:] My merits have been diminished by the kindnesses and the truth that You have done with me; therefore I am afraid lest, since You promised me, I have been spoiled by sin, and it cause me to be delivered into the hand of Esau. … [Ramban, on 32:11, of Rashi’s words:] and it is not right in the language of the verse … but ‘katonti’ says that he is too small to be worthy of all the kindnesses He had done with him.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 32:11, at [31,11]). Plain sense faithful: 32:7 to 32:10 bring the report of Esau and four hundred men, the division into two camps and the opening of the prayer. Rashi on 32:11 says his merits are diminished by the kindnesses and truth already done, and he fears a sin since the promise may deliver him to Esau (packet, Hebrew). Ramban on the same verse quotes Rashi, calls it not right in the language of the verse, and reads katonti as too small to be worthy of all the kindnesses: a genuine, named difference, left unresolved. One correction: the proposal had Ramban reading it as ‘too small ever to have deserved them’; ‘ever’ is not in his words (קטון הוא מהיותו ראוי לכל החסדים), so the clause now reads ‘too small to be worthy of them’. Corrected entry passes entry-check.js."
+}

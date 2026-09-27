@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d029-p",
+ "d": 29,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face sent forth beams; and they were afraid to come nigh him.",
+ "ref": "Exodus 34:30",
+ "at": [
+  83,
+  30
+ ],
+ "s": "Moses comes down with the second tablets, unaware that his face shines; Rashi, on Exodus 34:30, reads the fear as the power of sin, since before the calf the people did not tremble at God’s fiery glory, and after it recoiled even from Moses’ rays.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Exodus 34:30, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Exodus, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Exodus 34:30, comment on וייראו מגשת אליו",
+    "via": "packet"
+   }
+  ],
+  "words": "בֹּא וּרְאֵה כַּמָּה גָדוֹל כֹּחָהּ שֶׁל עֲבֵרָה שֶׁעַד שֶׁלֹּא פָשְׁטוּ יְדֵיהֶם בַּעֲבֵרָה מַהוּ אוֹמֵר? וּמַרְאֵה כְּבוֹד ה' כְּאֵשׁ אֹכֶלֶת בְּרֹאשׁ הָהָר לְעֵינֵי בְּנֵי יִשְׂרָאֵל … וְלֹא יְרֵאִים וְלֹא מִזְדַּעְזְעִים, וּמִשֶּׁעָשׂוּ אֶת הָעֵגֶל אַף מִקַּרְנֵי הוֹדוֹ שֶׁל מֹשֶׁה הָיוּ מַרְתִּיעִים וּמִזְדַּעְזְעִים",
+  "lang": "Hebrew",
+  "gloss": "Come and see how great is the power of transgression: before they stretched out their hands to transgression, what does it say? ‘And the appearance of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel’ … and they neither feared nor trembled; but once they had made the calf, even from the rays of Moses’ glory they recoiled and trembled.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 34:30, at [83,30]). Plain sense faithful to 34:29 (Moses descends with the two tablets, not knowing his face sent forth beams), with no four-word run from the key. Rashi on 34:30 (וייראו מגשת אליו, from the Sifrei) reads the fear as the power of transgression: before the calf the people saw the glory like devouring fire (24:17) without fear, after it they shrank even from Moses’ rays. The sentence matches his words without drift. Ibn Ezra on the verse only glosses Aaron and the leaders; Ramban, Rashbam, Sforno and Exodus Rabbah have nothing on it. Gate ok; evidence pieces found exactly in the packet."
+}

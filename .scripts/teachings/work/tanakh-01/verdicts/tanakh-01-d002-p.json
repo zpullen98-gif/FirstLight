@@ -1,0 +1,41 @@
+{
+ "id": "tanakh-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+ "ref": "Genesis 6:9",
+ "at": [5, 9],
+ "s": "Once humankind is condemned, the chapter turns to Noah; Rashi, on 6:9, explains ‘in his generations’ with the rabbis both to his credit, more righteous still had he lived among the righteous, and to his discredit, of no account in Abraham’s generation, and Ramban, on 6:9, by the plain sense, as meaning he alone was righteous in those generations.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi and Ramban, on Genesis 6:9, their Hebrew in Sefaria’s export (Rashi as Rosenbaum and Silbermann print it, 1929 to 1934), commit 3f10136 (2026)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934), Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Genesis 6:9, lemma בדרותיו",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Ramban on Genesis, Hebrew “On Your Way”, Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Genesis 6:9, lemma בדורותיו",
+    "via": "packet"
+   }
+  ],
+  "words": "יֵשׁ מֵרַבּוֹתֵינוּ דּוֹרְשִׁים אוֹתוֹ לְשֶׁבַח, כָּל שֶׁכֵּן אִלּוּ הָיָה בְדוֹר צַדִּיקִים הָיָה צַדִּיק יוֹתֵר; וְיֵשׁ שֶׁדּוֹרְשִׁים אוֹתוֹ לִגְנַאי, לְפִי דוֹרוֹ הָיָה צַדִּיק וְאִלּוּ הָיָה בְדוֹרוֹ שֶׁל אַבְרָהָם לֹא הָיָה נֶחְשָׁב לִכְלוּם … והנכון בעיני לפי הפשט כי טעמו לומר שהוא לבדו הצדיק בדורות ההם אין בדורותיו צדיק ולא תמים זולתו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 6:9, ‘in his generations’] Some of our rabbis expound it to his praise: all the more, had he been in a generation of the righteous he would have been more righteous still; and some expound it to his discredit: by the measure of his own generation he was righteous, but had he been in Abraham’s generation he would have been reckoned as nothing … [Ramban on 6:9, ‘in his generations’, after citing Rashi] What seems right to me by the plain sense is that it means he alone was the righteous one in those generations; in his generations there was none righteous or wholehearted but he.",
+  "licence": "Hebrew: public domain (Sefaria export); English (Rosenbaum and Silbermann public domain; Chavel CC-BY) not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (Genesis 6:9, at [5,9], 20 words). Plain sense faithful: 6:5 to 7 condemn humankind, 6:8 to 9 turn to Noah. Rashi’s comment on בדרותיו gives both rabbinic readings, praise and discredit, exactly as the sentence says; Ramban on בדורותיו quotes Rashi and then, by the plain sense, reads it as Noah alone being righteous in those generations. The difference is named, not resolved (rule 5); ‘in his generations’ is three words of the key. entry-check ok."
+}

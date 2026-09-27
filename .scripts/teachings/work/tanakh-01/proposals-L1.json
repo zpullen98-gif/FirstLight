@@ -1,0 +1,212 @@
+{
+ "lane": "L1",
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "tanakh-01-d001-p",
+    "key": "And God said: ‘Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.’",
+    "ref": "Genesis 1:26",
+    "at": [
+     0,
+     26
+    ],
+    "s": "On the sixth day, after the land animals, God turns to making the human being; Rashi, on 1:26, reads the plural as humility: God consulted the angels, who had no part in the making, teaching that the greater should seek leave of the lesser.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 1:26, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "עַנְוְתָנוּתוֹ שֶׁל הַקָּבָּ\"ה לָמַדְנוּ מִכָּאן, לְפִי שֶׁאָדָם הוּא בִּדְמוּת הַמַּלְאָכִים וְיִתְקַנְּאוּ בוֹ, לְפִיכָךְ נִמְלַךְ בָּהֶם … אַעַ\"פִּ שֶׁלֹּא סִיְּעוּהוּ בִיצִירָתוֹ וְיֵשׁ מָקוֹם לַמִּינִים לִרְדּוֹת, לֹא נִמְנַע הַכָּתוּב מִלְּלַמֵּד דֶרֶך אֶרֶץ וּמִדַּת עֲנָוָה שֶׁיְּהֵא הַגָּדוֹל נִמְלָךְ וְנוֹטֵל רְשׁוּת מִן הַקָּטָן",
+     "gloss": "(Rashi on 1:26, ‘Let us make man’, first and second comments) The humility of the Holy One, blessed be He, is learned from here: because man is in the likeness of the angels and they would envy him, He therefore took counsel with them … Although they did not help Him in forming him, and the plural leaves room for heretics to rebel, the verse did not refrain from teaching proper conduct and the trait of humility, that the greater should consult and take leave of the lesser."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d001-s",
+    "key": "And the LORD God called unto the man, and said unto him: ‘Where art thou?’",
+    "ref": "Genesis 3:9",
+    "at": [
+     2,
+     9
+    ],
+    "s": "After the couple eat of the tree and hide, God calls to the man; the Midrash, Genesis Rabbah 19:9, hears the question as the lament ‘eikha’, written with the same letters, which God raised over Adam when banishing him and again over his exiled descendants.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Genesis Rabbah 19:9, the Torat Emet Hebrew text, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "מָה אָדָם הָרִאשׁוֹן הִכְנַסְתִּיו לְתוֹךְ גַּן עֵדֶן וְצִוִּיתִיו וְעָבַר עַל צִוּוּיִי, וְדַנְתִּי אוֹתוֹ בְּשִׁלּוּחִין וּבְגֵרוּשִׁין, וְקוֹנַנְתִּי עָלָיו אֵיכָה … וַיֹּאמֶר לוֹ אַיֶכָּה, אֵיכָה כְּתִיב. אַף בָּנָיו הִכְנַסְתִּים לְאֶרֶץ יִשְׂרָאֵל, וְצִוִּיתִים וְעָבְרוּ עַל הַצִּוּוּי, דַּנְתִּי אוֹתָם בְּשִׁלּוּחִין וּבְגֵרוּשִׁין וְקוֹנַנְתִּי עֲלֵיהֶם אֵיכָה",
+     "gloss": "(Genesis Rabbah 19:9, on Genesis 3:9, Rabbi Abahu in the name of Rabbi Ḥanina) As with Adam the first man: I brought him into the Garden of Eden and commanded him, and he transgressed My command, and I sentenced him to sending away and expulsion, and I lamented over him ‘eikha’ (how) … ‘and said to him: ayekka (where art thou)’: eikha is written. So too his children: I brought them into the Land of Israel and commanded them, and they transgressed the command; I sentenced them to sending away and expulsion, and I lamented over them ‘eikha’."
+    }
+   }
+  },
+  {
+   "d": 2,
+   "primary": {
+    "id": "tanakh-01-d002-p",
+    "key": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+    "ref": "Genesis 6:9",
+    "at": [
+     5,
+     9
+    ],
+    "s": "Once humankind is condemned, the chapter turns to Noah; Rashi, on 6:9, explains ‘in his generations’ with the rabbis both to his credit, more righteous still had he lived among the righteous, and to his discredit, of no account in Abraham’s generation, and Ramban, on 6:9, by the plain sense, as meaning he alone was righteous in those generations.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, on Genesis 6:9, their Hebrew in Sefaria’s export (Rashi as Rosenbaum and Silbermann print it, 1929 to 1934), commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "יֵשׁ מֵרַבּוֹתֵינוּ דּוֹרְשִׁים אוֹתוֹ לְשֶׁבַח, כָּל שֶׁכֵּן אִלּוּ הָיָה בְדוֹר צַדִּיקִים הָיָה צַדִּיק יוֹתֵר; וְיֵשׁ שֶׁדּוֹרְשִׁים אוֹתוֹ לִגְנַאי, לְפִי דוֹרוֹ הָיָה צַדִּיק וְאִלּוּ הָיָה בְדוֹרוֹ שֶׁל אַבְרָהָם לֹא הָיָה נֶחְשָׁב לִכְלוּם … והנכון בעיני לפי הפשט כי טעמו לומר שהוא לבדו הצדיק בדורות ההם אין בדורותיו צדיק ולא תמים זולתו",
+     "gloss": "[Rashi on 6:9, ‘in his generations’:] Some of our rabbis expound it to his praise: all the more, had he been in a generation of the righteous he would have been more righteous still; and some expound it to his discredit: by the measure of his own generation he was righteous, but had he been in the generation of Abraham he would have been reckoned as nothing … [Ramban on 6:9, ‘in his generations’, after citing Rashi:] What seems right to me by the plain sense is that it means he alone was the righteous one in those generations; in his generations there was none righteous or wholehearted but he."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d002-s",
+    "key": "If thou doest well, shall it not be lifted up? and if thou doest not well, sin coucheth at the door; and unto thee is its desire, but thou mayest rule over it.",
+    "ref": "Genesis 4:7",
+    "at": [
+     3,
+     7
+    ],
+    "s": "After God accepts Abel’s offering but not Cain’s, He addresses the angry Cain; the Midrash, Genesis Rabbah 22:6, hears in ‘coucheth’ a sin weak at first and then strong: a spider’s thread that becomes a ship’s rope, a guest who becomes master of the house.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Genesis Rabbah 22:6, the Torat Emet Hebrew text, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "חַטָּאת רוֹבֶצֶת אֵין כְּתִיב כָּאן, אֶלָּא חַטָּאת רֹבֵץ, בַּתְּחִלָּה הוּא תַּשׁ כִּנְקֵבָה, אַחַר כָּךְ הוּא מִתְגַּבֵּר כְּזָכָר. אָמַר רַבִּי עֲקִיבָא בַּתְּחִלָּה דּוֹמֶה לְחוּט שֶׁל עַכָּבִישׁ, וּלְבַסּוֹף נַעֲשָׂה כַּקֶּלַע הַזּוֹ שֶׁל סְפִינָה … אָמַר רַבִּי יִצְחָק בַּתְּחִלָּה הוּא נַעֲשָׂה אוֹרֵחַ, וְאַחַר כָּךְ הוּא נַעֲשָׂה בַּעַל הַבַּיִת",
+     "gloss": "(Genesis Rabbah 22:6, on Genesis 4:7, ‘sin coucheth at the door’) It is not written ‘ḥatat rovetzet’ (feminine) here but ‘ḥatat rovetz’ (masculine): at first it is weak like a female, afterwards it grows strong like a male. Rabbi Akiva said: at first it is like a spider’s thread, and in the end it becomes like this ship’s rope … Rabbi Yitzḥak said: at first it becomes a guest, and afterwards it becomes the master of the house."
+    }
+   }
+  },
+  {
+   "d": 3,
+   "primary": {
+    "id": "tanakh-01-d003-p",
+    "key": "I have set My bow in the cloud, and it shall be for a token of a covenant between Me and the earth.",
+    "ref": "Genesis 9:13",
+    "at": [
+     8,
+     13
+    ],
+    "s": "After the flood, God covenants never again to destroy the earth; Ramban, on 9:12, reads ‘My bow’ as the rainbow set in nature since creation and now made a sign, its ends turned down from heaven, as warriors invert the bow to call for peace.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Genesis 9:12, the Hebrew in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "ואמרו בטעם האות הזה כי הקשת לא עשאו שיהיו רגליו למעלה שיראה כאלו מן השמים מורים בו … אבל עשאו בהפך מזה להראות שלא יורו בו מן השמים וכן דרך הנלחמים להפוך אותו בידם ככה כאשר יקראו לשלום למי שכנגדם … שמלהט השמש באויר הלח יהיה הקשת בתולדה … ולכן נפרש הכתוב הקשת אשר נתתי בענן מיום הבריאה תהיה מן היום הזה והלאה לאות ברית ביני וביניכם … ועוד כי כאשר תראה בהפוך הנזכר יהיה זכר לשלום כאשר כתבנו",
+     "gloss": "(Ramban on 9:12, ‘This is the token of the covenant which I make’, a comment that goes on to explain 9:13’s ‘I have set My bow in the cloud’) And they said, on the meaning of this sign, that He did not make the bow with its feet upward, so that it would look as if they were shooting with it from heaven … but made it the reverse of that, to show that they are not shooting with it from heaven; and so it is the way of fighters to turn it over in their hands like this when they call for peace to those opposite them … [the rainbow comes about] by nature, from the heat of the sun in the moist air … Therefore we shall explain the verse: the bow which I have set in the cloud from the day of creation will be, from this day on, a sign of the covenant between Me and you … Moreover, when it is seen turned over as mentioned, it will be a remembrance of peace, as we have written."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d003-s",
+    "key": "And the LORD came down to see the city and the tower, which the children of men builded.",
+    "ref": "Genesis 11:5",
+    "at": [
+     10,
+     5
+    ],
+    "s": "Between the builders’ plan in Shinar and the confounding of their language, the chapter turns to God; Rashi, on 11:5, reads the descent as needless for God and written to teach judges not to condemn the accused until they have seen and understood.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 11:5, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וירד ה' לראות. לֹא הֻצְרַךְ לְכָךְ, אֶלָּא בָא לְלַמֵּד לְדַיָּנִים שֶׁלֹּא יַרְשִׁיעוּ הַנִּדּוֹן עַד שֶׁיִּרְאוּ וְיָבִינוּ, מִדְרַשׁ רַבִּי תַנְחוּמָא",
+     "gloss": "(Rashi on 11:5) ‘And the LORD came down to see’: He did not need to do this, but it comes to teach judges that they should not condemn the one being judged until they see and understand. The Midrash of Rabbi Tanḥuma."
+    }
+   }
+  },
+  {
+   "d": 4,
+   "primary": {
+    "id": "tanakh-01-d004-p",
+    "key": "And he believed in the LORD; and He counted it to him for righteousness.",
+    "ref": "Genesis 15:6",
+    "at": [
+     14,
+     6
+    ],
+    "s": "After God bids the childless Abram count the stars as the measure of his offspring, the chapter records his response; Rashi, on 15:6, reads it as God crediting Abram’s faith to him as merit, and Ramban, on 15:6, asking what merit that would be, as Abram reckoning that God’s righteousness, not his own merit, would give him the child.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, on Genesis 15:6, their Hebrew in Sefaria’s export (Rashi as Rosenbaum and Silbermann print it, 1929 to 1934), commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "הַקָּבָּ\"ה חֲשָׁבָהּ לאַבְרָם לִזְכוּת וְלִצְדָקָה עַל הַאֲמָנָה שֶׁהֶאֱמִין בּוֹ … ואיני מבין מה הזכות הזאת למה לא יאמין באלהי אמן והוא הנביא בעצמו … והנכון בעיני כי יאמר שהאמין בה' וחשב כי בצדקו של הקב\"ה יתן לו זרע על כל פנים לא בצדקת אברם ובשכרו",
+     "gloss": "[Rashi on 15:6, ‘and He counted it to him for righteousness’:] The Holy One, blessed be He, reckoned it to Abram as merit and as righteousness, for the faith with which he believed in Him … [Ramban on 15:6, after citing Rashi:] But I do not understand what this merit is: why would he not believe in the God of truth, he being the prophet himself? … What seems right to me is that the verse says he believed in the LORD and reckoned that by the righteousness of the Holy One, blessed be He, He would give him offspring in any case, not by Abram’s righteousness and his reward."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d004-s",
+    "key": "Now the LORD said unto Abram: ‘Get thee out of thy country, and from thy kindred, and from thy father’s house, unto the land that I will show thee.",
+    "ref": "Genesis 12:1",
+    "at": [
+     11,
+     1
+    ],
+    "s": "As Abram’s story opens, God’s call comes with promises of nation and blessing; Radak, on 12:1, reads the call as harder at each step, from land to birthplace to father’s house to a land unnamed, all to make known Abram’s love in accepting it.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Genesis, on 12:1, the Hebrew of the Pressburg edition (1842) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "מארצך, כי קשה לאדם לצאת מארצו אשר גר שם ימים רבים כל שכן אם נולד שם, זהו שאמר וממולדתך, כל שכן שיניח בית אביו ומשפחתו וילך לו אל ארץ לא ידע תמול שלשום זהו שאמר מבית אביך … אבל אמר אל הארץ אשר אראך ולא ידע הטובה היא אם רעה, וכל זה אמר לו האל להודיע חבתו של אברהם אבינו שכל אלה הדברים קשים לאדם והכל קבל מאהבה לעשות רצון האל",
+     "gloss": "(Radak on 12:1) ‘From thy country’: for it is hard for a man to leave the land where he has lived many days, all the more if he was born there, which is why it says ‘and from thy kindred’ (birthplace); all the more to leave his father’s house and family and go to a land he did not know before, which is why it says ‘from thy father’s house’ … But He said ‘unto the land that I will show thee’, and he did not know whether it was good or bad; and God said all this to him to make known the love of Abraham our father, for all these things are hard for a man, and he accepted everything out of love, to do God’s will."
+    }
+   }
+  },
+  {
+   "d": 6,
+   "primary": {
+    "id": "tanakh-01-d006-p",
+    "key": "And it came to pass after these things, that God did prove Abraham, and said unto him: ‘Abraham’; and he said: ‘Here am I.’",
+    "ref": "Genesis 22:1",
+    "at": [
+     21,
+     1
+    ],
+    "s": "With Isaac born and Ishmael sent away, the chapter turns to God’s command to offer Isaac up; Ramban, on 22:1, reads the trial as for Abraham’s good, a command bringing his readiness from potential into deed, to reward the act and not the intent alone.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Genesis 22:1, the Hebrew in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "ענין הנסיון הוא לדעתי בעבור היות מעשה האדם רשות מוחלטת בידו אם ירצה יעשה ואם לא ירצה לא יעשה יקרא \"נסיון\" מצד המנוסה אבל המנסה יתברך יצוה בו להוציא הדבר מן הכח אל הפועל להיות לו שכר מעשה טוב לא שכר לב טוב בלבד … והנה כל הנסיונות שבתורה לטובת המנוסה",
+     "gloss": "(Ramban on 22:1, ‘God did prove Abraham’) The matter of the trial is, in my view: because a man’s deeds are wholly in his own free power, to do if he will and not to do if he will not, it is called a ‘trial’ from the side of the one tried; but the One who tries, blessed be He, commands it so as to bring the thing out from potential into act, that he may have the reward of a good deed and not the reward of a good heart alone … And so all the trials in the Torah are for the good of the one tried."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d006-s",
+    "key": "And He said: ‘Take now thy son, thine only son, whom thou lovest, even Isaac, and get thee into the land of Moriah; and offer him there for a burnt-offering upon one of the mountains which I will tell thee of.’",
+    "ref": "Genesis 22:2",
+    "at": [
+     21,
+     2
+    ],
+    "s": "Calling Abraham to his trial, God bids him sacrifice Isaac; Rashi, on 22:2, reads ‘offer him’ as the Hebrew’s bring him up, not slay him: God never wished Isaac slain, only brought up the mountain as an offering and then brought down.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 22:2, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "והעלהו. לֹא אָמַר לוֹ שְׁחָטֵהוּ, לְפִי שֶׁלֹּא הָיָה חָפֵץ הַקָּבָּ\"ה לְשָׁחֳטוֹ אֶלָּא לְהַעֲלֵהוּ לָהָר לַעֲשׂוֹתוֹ עוֹלָה, וּמִשֶּׁהֶעֱלָהוּ אָמַר לוֹ הוֹרִידֵהוּ",
+     "gloss": "(Rashi on 22:2) ‘And offer him’ (literally, bring him up): He did not say to him ‘slaughter him’, because the Holy One, blessed be He, did not wish him slaughtered, but brought up to the mountain to be made a burnt-offering; and once he had brought him up, He said to him ‘bring him down’."
+    }
+   }
+  }
+ ]
+}

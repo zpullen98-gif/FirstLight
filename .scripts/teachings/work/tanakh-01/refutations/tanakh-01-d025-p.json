@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d025-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Shemot%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 25 --verse 25:8, which carries a (see Exodus Rabbah 33:1, printed under Exodus 25:2) line, then --verse 25:2: Exodus Rabbah 33:1 gives the parable of a king whose only daughter another king took in marriage, who cannot part from her nor forbid the taking and asks for a chamber wherever they go; so God says to Israel I gave you the Torah, I cannot part from it nor tell you not to take it, but wherever you go make Me one house to dwell in, citing 25:8 ועשו לי מקדש as its proof. Both pieces of the ellipsed evidence are verbatim (machine-checked). The paragraph opens on 25:2 but closes by reading 25:8 exactly as the sentence says, and the locator names where it is printed, per the trap. Named by collection and section as the roster requires. Plain sense checked with day.js: 25:2 to 7 the freewill offerings listed, 25:8 their purpose; no four-word run. No comparison, tone plain. verse.js ok (Exodus 25:8, at [74,8]); entry-check.js ok, no warns.",
+ "better": ""
+}

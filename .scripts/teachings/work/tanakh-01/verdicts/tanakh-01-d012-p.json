@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.",
+ "ref": "Genesis 37:4",
+ "at": [
+  36,
+  4
+ ],
+ "s": "Opening Joseph’s story, Jacob makes his favourite son a coat of many colours; Rashi, on 37:4, reads the brothers’ discredit as their praise, since they did not say one thing with the mouth and another in the heart.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Genesis 37:4, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Genesis 37:4, comment on ולא יכלו דברו לשלום",
+    "via": "packet"
+   }
+  ],
+  "words": "ולא יכלו דברו לשלום. מִתּוֹךְ גְּנוּתָם לָמַדְנוּ שִׁבְחָם, שֶׁלֹּא דִבְּרוּ אַחַת בַּפֶּה וְאַחַת בַּלֵּב",
+  "lang": "Hebrew",
+  "gloss": "And they could not speak peaceably unto him: from their discredit we learn their praise, that they did not speak one thing with the mouth and another in the heart.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 37:4, at [36,4]). Plain sense faithful: 37:2 opens the generations of Jacob with Joseph, and 37:3 tells of Israel’s love and the coat of many colours just before the verse; no four words of 37:4 are repeated. Rashi’s comment on ולא יכלו דברו לשלום says, verbatim in the packet Hebrew, that from their discredit their praise is learned, since they did not speak one thing with the mouth and another in the heart; the sentence carries that without drift (Rashi draws it from Genesis Rabbah 84:9, also in the packet, but the words are his own comment at this verse). Ramban and Rashbam have nothing on 37:4; Sforno and Radak read the silence otherwise, which the sentence does not contradict. Gate ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d004-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 4 --verse 15:6 myself and read every source on the verse. Rashi (Rosenbaum and Silbermann Hebrew, url https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json), dibbur ויחשבה לו צדקה: the Holy One reckoned it to Abram as merit and righteousness for the faith with which he believed; found, and the evidence matches the packet under NFC (the only difference is the order of combining marks, canonically equivalent). Ramban on the same verse quotes Rashi, objects that he does not understand what merit it is for a prophet to believe the God of truth, and gives as his own view (והנכון בעיני) that Abram reckoned that by God’s righteousness, not by Abram’s righteousness and reward, he would have offspring in any case; both Ramban segments are verbatim in the packet. The sentence’s second reading is that preferred view; Ramban’s alternative (או יאמר) is left aside, which is fair since he marks the first as right in his eyes. The two genuinely differ and the sentence names the difference without ranking (rule 5): ‘asking what merit that would be’ reports Ramban’s objection, it does not endorse it. Plain sense checked in day.js: 15:2 to 15:5 give the childless Abram, the stars and ‘So shall thy seed be’; no run of the key repeated. verse.js ok (Genesis 15:6, at [14,6]); entry-check ok (59 words, under the two-commentator cap of 60). No school needed, no other tradition, no hard passage. Attacks tried on every line and none landed.",
+ "better": ""
+}

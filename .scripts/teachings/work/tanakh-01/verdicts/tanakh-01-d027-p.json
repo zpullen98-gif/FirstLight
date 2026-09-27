@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d027-p",
+ "d": 27,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And the LORD said unto Moses: ‘Take unto thee sweet spices, stacte, and onycha, and galbanum; sweet spices with pure frankincense; of each shall there be a like weight.",
+ "ref": "Exodus 30:34",
+ "at": [
+  79,
+  34
+ ],
+ "s": "Giving the recipe for the incense burnt before the testimony, God names its spices; Rashi, on Exodus 30:34, reads the foul-smelling galbanum among the spices as teaching that transgressors in Israel are to be counted with the community in its fasts and prayers.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Exodus 30:34, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Exodus, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Exodus 30:34, comment on וחלבנה",
+    "via": "packet"
+   }
+  ],
+  "words": "וחלבנה. בֹּשֶׂם שֶׁרֵיחוֹ רַע, וְקוֹרִין לוֹ גַלְבְּנָא, וּמְנָאָהּ הַכָּתוּב בֵּין סַמָּנֵי הַקְּטֹרֶת לְלַמְּדֵנוּ שֶׁלֹּא יֵקַל בְּעֵינֵינוּ לְצָרֵף עִמָּנוּ בַּאֲגֻדַּת תַּעֲנִיּוֹתֵינוּ וּתְפִלּוֹתֵנוּ אֶת פּוֹשְׁעֵי יִשְׂרָאֵל שֶׁיִּהְיוּ נִמְנִין עִמָּנוּ",
+  "lang": "Hebrew",
+  "gloss": "And galbanum: a spice whose smell is bad, called galbana; Scripture counted it among the spices of the incense to teach us that it should not be a light thing in our eyes to join with us, in the gathering of our fasts and prayers, the transgressors of Israel, so that they are counted with us.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 30:34, at [79,34]). Plain sense faithful: 30:34 to 38 give the composition of the holy incense, which 30:36 sets before the testimony in the tent of meeting (and 30:1 to 8 burn on the incense altar before the veil). Rashi’s comment on וחלבנה says the ill-smelling spice is counted among the incense spices to teach that the transgressors of Israel should be joined and counted with the congregation in its fasts and prayers: the sentence carries this without drift (it compresses ‘not to take lightly’ into ‘are to be counted’, which is the comment’s point). Evidence copied exactly from the packet’s Hebrew; gate ok."
+}

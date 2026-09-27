@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 7 --verse 24:67: Rashi, comment headed האהלה שרה אמו, says she became the likeness of Sarah (והרי היא שרה אמו) and that the Sabbath-eve lamp, the blessing in the dough and the cloud bound over the tent ceased at Sarah’s death and returned when Rebekah came; the evidence is a verbatim substring. The sentence carries exactly those three items (it rightly omits the open doors that Genesis Rabbah 60:16 adds and Rashi does not), so no drift. Attribution: Rashi marks his source (בראשית רבה) but the comment and its reading of the verse’s grammar are his, the default voice of the plan. Plain sense checked against day.js 24:62 to 66: Isaac out in the field at eventide sees camels coming, Rebekah meets him, the servant reports; faithful, no key-verse words repeated. verse.js ok (Genesis 24:67, at [23,67]); entry-check ok (44 words). No comparison, no tone issue.",
+ "better": ""
+}

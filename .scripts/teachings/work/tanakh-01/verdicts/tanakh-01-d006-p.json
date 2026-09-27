@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And it came to pass after these things, that God did prove Abraham, and said unto him: ‘Abraham’; and he said: ‘Here am I.’",
+ "ref": "Genesis 22:1",
+ "at": [
+  21,
+  1
+ ],
+ "s": "With Isaac born and Ishmael sent away, the chapter turns to God’s command to offer Isaac up; Ramban, on 22:1, reads the trial as for Abraham’s good, a command bringing his readiness from potential into deed, to reward the act and not the intent alone.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Genesis 22:1, the Hebrew in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Ramban on Genesis, Hebrew (On Your Way) with Chavel’s English, Sefaria-Export-Archive commit 3f10136",
+    "locator": "Ramban on Genesis 22:1, dibbur והאלקים נסה את אברהם (packet.js tanakh 6 --verse 22:1)",
+    "via": "packet"
+   }
+  ],
+  "words": "ענין הנסיון הוא לדעתי בעבור היות מעשה האדם רשות מוחלטת בידו אם ירצה יעשה ואם לא ירצה לא יעשה יקרא \"נסיון\" מצד המנוסה אבל המנסה יתברך יצוה בו להוציא הדבר מן הכח אל הפועל להיות לו שכר מעשה טוב לא שכר לב טוב בלבד … והנה כל הנסיונות שבתורה לטובת המנוסה",
+  "lang": "Hebrew",
+  "gloss": "(Ramban on 22:1, ‘God did prove Abraham’) The matter of the trial, in my view, is this: because a man’s deeds are wholly in his own power, to do or not to do as he wills, it is called a ‘trial’ from the side of the one tried; but the One who tries, blessed be He, commands him so as to bring the thing out from potential into act, that he may have the reward of a good deed and not the reward of a good heart alone … And so all the trials in the Torah are for the good of the one tried.",
+  "licence": "Hebrew: public domain; gloss is my own",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 22:1, at [21,1]). Opened packet.js tanakh 6 --verse 22:1 and read Ramban’s whole comment on the verse: the trial is so called from the side of the one tried, because his deeds are in his own free power; from God’s side it is a command to bring the thing from potential into act, so that he has the reward of a good deed and not of a good heart alone; God tries the righteous whom He knows will obey, and all the Torah’s trials are for the good of the one tried. The sentence carries exactly this; ‘readiness’ and ‘intent’ gloss הדבר and לב טוב without drift. Plain sense faithful: Isaac is born (21:1 to 21:7) and Ishmael sent away (21:14) earlier in the day, and chapter 22 turns to the command to offer Isaac (22:2); no run of the key verse repeated. Evidence recopied from the packet and re-found by recheck-evidence’s matcher. Entry unchanged; entry-check ok."
+}

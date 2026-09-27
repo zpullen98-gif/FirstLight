@@ -1,0 +1,435 @@
+{
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "div": "2469cf544a",
+ "days": [
+  {
+   "d": 1,
+   "label": "Genesis 1 to 3",
+   "id": "tanakh-01-d001-p",
+   "key": "And God said: ‘Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.’",
+   "ref": "Genesis 1:26",
+   "at": [
+    0,
+    26
+   ],
+   "s": "On the sixth day, after the land animals, God turns to making the human being; Rashi, on 1:26, reads the plural as humility: God consulted the angels, who had no part in the making, teaching that the greater should seek leave of the lesser.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Genesis 1:26, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 2,
+   "label": "Genesis 4 to 7",
+   "id": "tanakh-01-d002-p",
+   "key": "These are the generations of Noah. Noah was in his generations a man righteous and wholehearted; Noah walked with God.",
+   "ref": "Genesis 6:9",
+   "at": [
+    5,
+    9
+   ],
+   "s": "Once humankind is condemned, the chapter turns to Noah; Rashi, on 6:9, explains ‘in his generations’ with the rabbis both to his credit, more righteous still had he lived among the righteous, and to his discredit, of no account in Abraham’s generation, and Ramban, on 6:9, by the plain sense, as meaning he alone was righteous in those generations.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, on Genesis 6:9, their Hebrew in Sefaria’s export (Rashi as Rosenbaum and Silbermann print it, 1929 to 1934), commit 3f10136 (2026)"
+  },
+  {
+   "d": 3,
+   "label": "Genesis 8 to 11",
+   "id": "tanakh-01-d003-p",
+   "key": "I have set My bow in the cloud, and it shall be for a token of a covenant between Me and the earth.",
+   "ref": "Genesis 9:13",
+   "at": [
+    8,
+    13
+   ],
+   "s": "After the flood, God covenants never again to destroy the earth; Ramban, on 9:12, reads ‘My bow’ as the rainbow set in nature since creation and now made a sign, its ends turned down from heaven, as warriors invert the bow to call for peace.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Genesis 9:12, the Hebrew in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 4,
+   "label": "Genesis 12 to 16",
+   "id": "tanakh-01-d004-p",
+   "key": "And he believed in the LORD; and He counted it to him for righteousness.",
+   "ref": "Genesis 15:6",
+   "at": [
+    14,
+    6
+   ],
+   "s": "After God bids the childless Abram count the stars as the measure of his offspring, the chapter records his response; Rashi, on 15:6, reads it as God crediting Abram’s faith to him as merit, and Ramban, on 15:6, asking what merit that would be, as Abram reckoning that God’s righteousness, not his own merit, would give him the child.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, on Genesis 15:6, their Hebrew in Sefaria’s export (Rashi as Rosenbaum and Silbermann print it, 1929 to 1934), commit 3f10136 (2026)"
+  },
+  {
+   "d": 5,
+   "label": "Genesis 17 to 19",
+   "id": "tanakh-01-d005-p",
+   "key": "That be far from Thee to do after this manner, to slay the righteous with the wicked, that so the righteous should be as the wicked; that be far from Thee; shall not the judge of all the earth do justly?’",
+   "ref": "Genesis 18:25",
+   "at": [
+    17,
+    25
+   ],
+   "s": "As the LORD resolves to see whether Sodom and Gomorrah have done as their outcry says, Abraham pleads for the city; the Midrash, Genesis Rabbah 49:9, reads his question as an argument that a world cannot endure strict justice unless God yields a little.",
+   "by": "midrash",
+   "src": "The Midrash, Genesis Rabbah 49:9, Hebrew (Torat Emet text), Sefaria export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 6,
+   "label": "Genesis 20 to 23",
+   "id": "tanakh-01-d006-p",
+   "key": "And it came to pass after these things, that God did prove Abraham, and said unto him: ‘Abraham’; and he said: ‘Here am I.’",
+   "ref": "Genesis 22:1",
+   "at": [
+    21,
+    1
+   ],
+   "s": "With Isaac born and Hagar’s son sent away, the chapter turns to the command to offer Isaac as a burnt-offering; Ramban, on 22:1, reads the trial as for Abraham’s good, bringing the deed from potential into act, to reward the deed, not good intent alone.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Genesis 22:1, the Hebrew in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 7,
+   "label": "Genesis 24 to 25",
+   "id": "tanakh-01-d007-p",
+   "key": "And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her. And Isaac was comforted for his mother.",
+   "ref": "Genesis 24:67",
+   "at": [
+    23,
+    67
+   ],
+   "s": "Closing the servant’s errand, Isaac meets the returning caravan at evening; Rashi, on 24:67, reads ‘Sarah’s tent’ as Rebekah becoming like Sarah, the lamp burning from Sabbath eve to Sabbath eve, the blessing in the dough and the cloud over the tent returning with her.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Genesis 24:67, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 8,
+   "label": "Genesis 26 to 27",
+   "id": "tanakh-01-d008-p",
+   "key": "And he removed from thence, and digged another well; and for that they strove not. And he called the name of it Rehoboth; and he said: ‘For now the LORD hath made room for us, and we shall be fruitful in the land.’",
+   "ref": "Genesis 26:22",
+   "at": [
+    25,
+    22
+   ],
+   "s": "After Gerar’s herdmen contest two wells, Isaac digs a third; Ramban, on 26:20, reads the wells as the Temples, the first two beset by strife until destroyed, the third a house still to come, built without quarrel as God enlarges the borders.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Genesis 26:20, Hebrew text, Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 9,
+   "label": "Genesis 28 to 30",
+   "id": "tanakh-01-d009-p",
+   "key": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven; and behold the angels of God ascending and descending on it.",
+   "ref": "Genesis 28:12",
+   "at": [
+    27,
+    12
+   ],
+   "s": "Bound for Haran, Jacob sleeps on the road with a stone beneath his head; Rashi, on 28:12, reads the ascent named first as the land’s angels, who may not leave it, going up, and others coming down to escort him abroad, and Rashbam, on the same verse, as the common way of speaking, which puts ascent before descent.",
+   "by": "rashi",
+   "by2": "rashbam",
+   "src": "Rashi and Rashbam, Commentaries on the Torah, on Genesis 28:12, Hebrew texts, Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 10,
+   "label": "Genesis 31 to 32",
+   "id": "tanakh-01-d010-p",
+   "key": "I am not worthy of all the mercies, and of all the truth, which Thou hast shown unto Thy servant; for with my staff I passed over this Jordan; and now I am become two camps.",
+   "ref": "Genesis 32:11",
+   "at": [
+    31,
+    11
+   ],
+   "s": "Told that Esau comes with four hundred men, Jacob divides his camp and prays; Rashi, on 32:11, reads the unworthiness as merit diminished by the kindnesses already shown, so that a sin since the promise might deliver him to Esau, and Ramban, on the same verse, as being too small to be worthy of them.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, Commentaries on the Torah, on Genesis 32:11, Hebrew texts, Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 11,
+   "label": "Genesis 33 to 35",
+   "id": "tanakh-01-d011-p",
+   "key": "And it came to pass on the third day, when they were in pain, that two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and came upon the city unawares, and slew all the males.",
+   "ref": "Genesis 34:25",
+   "at": [
+    33,
+    25
+   ],
+   "s": "After Shechem rapes Dinah and his townsmen are circumcised on her brothers’ terms, two brothers take revenge; Ramban, on Genesis 34:13, reads the killing as violence without cause against men who had done them no harm and were not theirs to judge.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Genesis 34:13, Hebrew (Sefaria’s “On Your Way” text), Sefaria export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 12,
+   "label": "Genesis 36 to 37",
+   "id": "tanakh-01-d012-p",
+   "key": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.",
+   "ref": "Genesis 37:4",
+   "at": [
+    36,
+    4
+   ],
+   "s": "Opening Joseph’s story, Jacob makes his favourite son a coat of many colours; Rashi, on 37:4, reads the brothers’ discredit as teaching their praise, that they did not say one thing with the mouth and another in the heart.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Genesis 37:4, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 13,
+   "label": "Genesis 38 to 40",
+   "id": "tanakh-01-d013-p",
+   "key": "Yet did not the chief butler remember Joseph, but forgot him.",
+   "ref": "Genesis 40:23",
+   "at": [
+    39,
+    23
+   ],
+   "s": "Closing the chapter, after the butler is restored and the baker hanged as Joseph foretold, Joseph’s plea to be remembered goes unheeded; Rashi, on 40:23, explains that because Joseph relied on the butler to remember him, he was bound to remain two years in prison.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Genesis 40:23, Hebrew text of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 14,
+   "label": "Genesis 41 to 42",
+   "id": "tanakh-01-d014-p",
+   "key": "And Joseph remembered the dreams which he dreamed of them, and said unto them: ‘Ye are spies; to see the nakedness of the land ye are come.’",
+   "ref": "Genesis 42:9",
+   "at": [
+    41,
+    9
+   ],
+   "s": "As his brothers bow before him, not knowing him, Joseph turns on them with a charge; Rashi, on 42:9, reads it as Joseph knowing his dreams had come true, since they had bowed, and Ramban, on 42:9, as knowing none yet had, since Benjamin was absent, so he devised the charge to bring him.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, Commentaries on the Torah, on Genesis 42:9, Hebrew texts, Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 15,
+   "label": "Genesis 43 to 45",
+   "id": "tanakh-01-d015-p",
+   "key": "So he sent his brethren away, and they departed; and he said unto them: ‘See that ye fall not out by the way.’",
+   "ref": "Genesis 45:24",
+   "at": [
+    44,
+    24
+   ],
+   "s": "Sending his brothers home laden with gifts and wagons, Joseph gives them a parting charge; Rashi, on 45:24, reads it by its plain sense as his fear that, ashamed, they would quarrel over his sale, each blaming another, and Rashbam, on 45:24, as telling them not to fear robbers on the road.",
+   "by": "rashi",
+   "by2": "rashbam",
+   "src": "Rashi and Rashbam, Commentaries on the Torah, on Genesis 45:24, Hebrew texts, Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 16,
+   "label": "Genesis 46 to 48",
+   "id": "tanakh-01-d016-p",
+   "key": "And Jacob said unto Pharaoh: ‘The days of the years of my sojournings are a hundred and thirty years; few and evil have been the days of the years of my life, and they have not attained unto the days of the years of the life of my fathers in the days of their sojournings.’",
+   "ref": "Genesis 47:9",
+   "at": [
+    46,
+    9
+   ],
+   "s": "Brought before Pharaoh by Joseph and asked his age, Jacob answers the king; Sforno, on 47:9, reads him as setting his years of sojourning apart from his years of life, which were few, since days passed in trouble are not called days of life.",
+   "by": "sforno",
+   "src": "Sforno, Commentary on the Torah, on Genesis 47:9, Hebrew text, Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 17,
+   "label": "Genesis 49 to Exodus 2",
+   "id": "tanakh-01-d017-p",
+   "key": "And Joseph said unto them: ‘Fear not; for am I in the place of God?",
+   "ref": "Genesis 50:19",
+   "at": [
+    49,
+    19
+   ],
+   "s": "After Jacob’s burial, the brothers, fearing Joseph’s revenge, send word of their father’s last charge and fall before him as bondmen; Rashi, on 50:19, reads his answer as asking how he alone could harm those whose evil design God had already turned to good.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Genesis 50:19, Hebrew text of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 18,
+   "label": "Exodus 3 to 5",
+   "id": "tanakh-01-d018-p",
+   "key": "And God said unto Moses: ‘I AM THAT I AM’; and He said: ‘Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.’",
+   "ref": "Exodus 3:14",
+   "at": [
+    52,
+    14
+   ],
+   "s": "At the bush Moses asks what to answer when Israel ask God’s name; Rashi, on Exodus 3:14, reads it as a promise to be with Israel in this trouble and in later bondage to other kingdoms, the second withheld from them at Moses’ plea.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Exodus 3:14, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 19,
+   "label": "Exodus 6 to 8",
+   "id": "tanakh-01-d019-p",
+   "key": "And Moses spoke so unto the children of Israel; but they hearkened not unto Moses for impatience of spirit, and for cruel bondage.",
+   "ref": "Exodus 6:9",
+   "at": [
+    55,
+    9
+   ],
+   "s": "After Pharaoh makes the labour harsher, God renews His promise, and Moses brings it to the people; Ramban, on Exodus 6:9, reads it not as unbelief but as dread that Pharaoh would kill them, and taskmasters driving them too hard to hear and consider.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Exodus 6:9, Hebrew text in Sefaria’s export of 1 September 2026"
+  },
+  {
+   "d": 20,
+   "label": "Exodus 9 to 11",
+   "id": "tanakh-01-d020-p",
+   "key": "Speak now in the ears of the people, and let them ask every man of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold.’",
+   "ref": "Exodus 11:2",
+   "at": [
+    60,
+    2
+   ],
+   "s": "With one plague left, God gives Moses a word for the people; Rashi, on Exodus 11:2, hears ‘now’ as God’s plea to Moses, so that Abraham may not say the bondage foretold him came true but the great wealth did not.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Exodus 11:2, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 21,
+   "label": "Exodus 12 to 13",
+   "id": "tanakh-01-d021-p",
+   "key": "‘This month shall be unto you the beginning of months; it shall be the first month of the year to you.",
+   "ref": "Exodus 12:2",
+   "at": [
+    61,
+    2
+   ],
+   "s": "Speaking to Moses and Aaron in Egypt, God opens the Passover laws with the calendar; Ramban, on Exodus 12:2, reads it as numbering every month from this one, so that each time a month is named the great miracle is recalled.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Exodus 12:2, Hebrew text in Sefaria’s export of 1 September 2026"
+  },
+  {
+   "d": 22,
+   "label": "Exodus 14 to 16",
+   "id": "tanakh-01-d022-p",
+   "key": "And Moses said unto the people: ‘Fear ye not, stand still, and see the salvation of the LORD, which He will work for you to-day; for whereas ye have seen the Egyptians to-day, ye shall see them again no more for ever.",
+   "ref": "Exodus 14:13",
+   "at": [
+    63,
+    13
+   ],
+   "s": "With the sea ahead and Pharaoh’s chariots behind, Moses answers the people’s despair; Ibn Ezra, on Exodus 14:13, reads their terror as that of a generation trained from youth to bear Egypt’s yoke, too low in spirit to fight their masters.",
+   "by": "ibn-ezra",
+   "src": "Ibn Ezra, long commentary on Exodus, on 14:13, Hebrew text in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 23,
+   "label": "Exodus 17 to 20",
+   "id": "tanakh-01-d023-p",
+   "key": "And if thou make Me an altar of stone, thou shalt not build it of hewn stones; for if thou lift up thy tool upon it, thou hast profaned it.",
+   "ref": "Exodus 20:22",
+   "at": [
+    69,
+    22
+   ],
+   "s": "After the Ten Commandments, God turns from gods of silver and gold to the altar Israel is to build; Rashi, on Exodus 20:22, reads the ban on iron as fitting, since the altar was created to lengthen human days and iron to shorten them.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Exodus 20:22, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 24,
+   "label": "Exodus 21 to 23",
+   "id": "tanakh-01-d024-p",
+   "key": "If thou lend money to any of My people, even to the poor with thee, thou shalt not be to him as a creditor; neither shall ye lay upon him interest.",
+   "ref": "Exodus 22:24",
+   "at": [
+    71,
+    24
+   ],
+   "s": "After laws guarding the stranger, widow and orphan, the ordinances turn to lending; Rashi, on Exodus 22:24, reads it as forbidding pressure on a borrower who cannot pay, before whom the lender appears as though he never lent, so as not to shame him.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Exodus 22:24, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 25,
+   "label": "Exodus 24 to 26",
+   "id": "tanakh-01-d025-p",
+   "key": "And let them make Me a sanctuary, that I may dwell among them.",
+   "ref": "Exodus 25:8",
+   "at": [
+    74,
+    8
+   ],
+   "s": "After listing the freewill gifts, God names their purpose; the Midrash, in Exodus Rabbah 33:1, hears in it God, who cannot part from the Torah He has given, asking for a house wherever Israel goes, like a king whose only daughter has married.",
+   "by": "midrash",
+   "src": "The Midrash, Exodus Rabbah 33:1, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 26,
+   "label": "Exodus 27 to 28",
+   "id": "tanakh-01-d026-p",
+   "key": "And thou shalt make holy garments for Aaron thy brother, for splendour and for beauty.",
+   "ref": "Exodus 28:2",
+   "at": [
+    77,
+    2
+   ],
+   "s": "As Aaron and his sons are called to the priesthood, God turns to their garments; Ramban, on Exodus 28:2, reads it as clothing the priest in royal dignity, since the tunic, mitre, breastplate and plate matched what kings wore when the Torah was given.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Exodus 28:2, the Hebrew text in Sefaria’s export of 1 September 2026"
+  },
+  {
+   "d": 27,
+   "label": "Exodus 29 to 30",
+   "id": "tanakh-01-d027-p",
+   "key": "And the LORD said unto Moses: ‘Take unto thee sweet spices, stacte, and onycha, and galbanum; sweet spices with pure frankincense; of each shall there be a like weight.",
+   "ref": "Exodus 30:34",
+   "at": [
+    79,
+    34
+   ],
+   "s": "Giving the recipe for the incense burnt before the testimony, God names its spices; Rashi, on Exodus 30:34, reads the foul-smelling galbanum among the spices as teaching that transgressors in Israel are to be counted with the community in its fasts and prayers.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Exodus 30:34, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 28,
+   "label": "Exodus 31 to 33",
+   "id": "tanakh-01-d028-p",
+   "key": "And He said: ‘I will make all My goodness pass before thee, and will proclaim the name of the LORD before thee; and I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.’",
+   "ref": "Exodus 33:19",
+   "at": [
+    82,
+    19
+   ],
+   "s": "Moses, who has pleaded for the people after the calf, asks to see God’s glory; Rashi, on Exodus 33:19, reads the reply as teaching him an order of prayer for mercy that avails even when the patriarchs’ merit is spent, since His mercies never end.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Exodus 33:19, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 29,
+   "label": "Exodus 34 to 36",
+   "id": "tanakh-01-d029-p",
+   "key": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face sent forth beams; and they were afraid to come nigh him.",
+   "ref": "Exodus 34:30",
+   "at": [
+    83,
+    30
+   ],
+   "s": "Moses comes down with the second tablets, unaware that his face shines; Rashi, on Exodus 34:30, reads the fear as the power of sin, since before the calf the people did not tremble at God’s fiery glory, and after it recoiled even from Moses’ rays.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Exodus 34:30, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 30,
+   "label": "Exodus 37 to 39",
+   "id": "tanakh-01-d030-p",
+   "key": "And he made the laver of brass, and the base thereof of brass, of the mirrors of the serving women that did service at the door of the tent of meeting.",
+   "ref": "Exodus 38:8",
+   "at": [
+    87,
+    8
+   ],
+   "s": "The laver comes among the brass works; Rashi, on Exodus 38:8, reads the mirrors, which Moses would have refused, as dearest to God, since with them the women in Egypt roused their weary husbands’ love and raised great hosts, and Ibn Ezra, on the same verse, as given by devout women who had turned from worldly desire to daily prayer.",
+   "by": "rashi",
+   "by2": "ibn-ezra",
+   "src": "Rashi and Ibn Ezra (long commentary), on Exodus 38:8, Hebrew in Sefaria’s export 3f10136 (2026), Rashi’s of Rosenbaum and Silbermann (1929 to 1934)"
+  }
+ ],
+ "holes": []
+}

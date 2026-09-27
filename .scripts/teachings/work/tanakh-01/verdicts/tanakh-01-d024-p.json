@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d024-p",
+ "d": 24,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If thou lend money to any of My people, even to the poor with thee, thou shalt not be to him as a creditor; neither shall ye lay upon him interest.",
+ "ref": "Exodus 22:24",
+ "at": [
+  71,
+  24
+ ],
+ "s": "After laws guarding the stranger, widow and orphan, the ordinances turn to lending; Rashi, on Exodus 22:24, reads it as forbidding pressure on a borrower who cannot pay, before whom the lender appears as though he never lent, so as not to shame him.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Exodus 22:24, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Exodus, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Exodus 22:24, comment on לא תהיה לו כנשה",
+    "via": "packet"
+   }
+  ],
+  "words": "לא תהיה לו כנשה. לֹא תִתְבָּעֶנּוּ בְּחָזְקָה. אִם אַתָּה יוֹדֵעַ שֶׁאֵין לוֹ, אַל תְּהִי דּוֹמֶה עָלָיו כְּאִלּוּ הִלְוִיתוֹ אֶלָּא כְאִלּוּ לֹא הִלְוִיתוֹ, כְּלוֹמַר לֹא תַכְלִימֵהוּ",
+  "lang": "Hebrew",
+  "gloss": "Thou shalt not be to him as a creditor: do not demand it of him by force; if you know that he has nothing, do not appear to him as though you had lent to him, but as though you had not lent to him; that is to say, do not shame him.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "law",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 22:24, at [71,24]). Plain sense faithful: 22:20 to 23 protect the stranger, the widow and the fatherless, and 22:24 turns to lending within the ordinances begun at 21:1. Rashi on 22:24, comment on לא תהיה לו כנשה: do not demand it by force; if you know he has nothing, do not appear as though you lent him but as though you had not; that is, do not shame him. The sentence carries exactly this without drift. His other comments on the verse (the order of priority among borrowers, looking on oneself as the poor man, interest as a snake’s bite) do not contradict it. Evidence copied from packet.js output; gate ok."
+}

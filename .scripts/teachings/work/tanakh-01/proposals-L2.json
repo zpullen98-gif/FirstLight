@@ -1,0 +1,212 @@
+{
+ "lane": "L2",
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "days": [
+  {
+   "d": 7,
+   "primary": {
+    "id": "tanakh-01-d007-p",
+    "key": "And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her. And Isaac was comforted for his mother.",
+    "ref": "Genesis 24:67",
+    "at": [
+     23,
+     67
+    ],
+    "s": "Closing the servant’s errand, Isaac meets the returning caravan at evening; Rashi, on 24:67, reads it as Rebekah becoming like Sarah, the lamp burning from Sabbath eve to Sabbath eve, the blessing in the dough and the cloud over the tent returning with her.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 24:67, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וַיְבִיאֶהָ הָאֹהֱלָה וְנַעֲשֵׂית דֻּגְמַת שָׂרָה אִמּוֹ, כְּלוֹמַר וַהֲרֵי הִיא שָׂרָה אִמּוֹ, שֶׁכָּל זְמַן שֶׁשָּׂרָה קַיֶּמֶת הָיָה נֵר דָּלוּק מֵעֶרֶב שַׁבָּת לְעֶרֶב שַׁבָּת וּבְרָכָה מְצוּיָה בָּעִסָּה וְעָנָן קָשׁוּר עַל הָאֹהֶל, וּמִשֶּׁמֵּתָה פָּסְקוּ, וּכְשֶׁבָּאת רִבְקָה חָזְרוּ",
+     "gloss": "He brought her into the tent and she became the likeness of Sarah his mother, that is, behold, she is Sarah his mother; for all the time that Sarah was alive a lamp burned from Sabbath eve to Sabbath eve, blessing was found in the dough and a cloud was bound over the tent, and when she died they ceased, and when Rebekah came they returned."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d007-s",
+    "key": "And Isaac went out to meditate in the field at the eventide; and he lifted up his eyes, and saw, and, behold, there were camels coming.",
+    "ref": "Genesis 24:63",
+    "at": [
+     23,
+     63
+    ],
+    "s": "As the servant’s caravan nears home with Rebekah, the chapter turns to Isaac, back from Beer-lahai-roi; Rashbam, on 24:63, reads the going out as tending the field, to plant trees and see to his labourers’ work, and Sforno, on the same verse, as turning aside to pour out his prayer where passers-by would not interrupt him.",
+    "by": "rashbam",
+    "by2": "sforno",
+    "hedge": "",
+    "src": "Rashbam and Sforno, Commentaries on the Torah, on Genesis 24:63, Hebrew texts, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashbam; sforno",
+     "words": "כדכתיב: וכל שיח השדה כלומר: לטעת אילנות ולראות ענייני פועליו ואז בהיותו בשדה ראה גמלים באים … ויצא יצחק לשוח. נטה מן הדרך על דעת לשפוך שיחו לפני ה' בשדה שלא יפסיקוהו עוברי דרכים אף על פי שכבר התפלל בבאר לחי ראי",
+     "gloss": "[Rashbam, on 24:63:] As it is written, ‘and every plant (siah) of the field’, that is, to plant trees and to see to the affairs of his labourers; and then, being in the field, he saw camels coming. … [Sforno, on 24:63:] And Isaac went out to meditate: he turned aside from the road intending to pour out his speech before the LORD in the field, so that passers-by would not interrupt him, although he had already prayed at Beer-lahai-roi."
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "tanakh-01-d008-p",
+    "key": "And he removed from thence, and digged another well; and for that they strove not. And he called the name of it Rehoboth; and he said: ‘For now the LORD hath made room for us, and we shall be fruitful in the land.’",
+    "ref": "Genesis 26:22",
+    "at": [
+     25,
+     22
+    ],
+    "s": "After Gerar’s herdmen contest two wells, Isaac digs a third; Ramban, on 26:20, reads the wells as the Temples, the first two beset by strife until destroyed, the third a house still to come, built without quarrel as God enlarges the borders.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Genesis 26:20, Hebrew text, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "ירמוז לבית אלהים אשר יעשו בניו של יצחק … וקרא הראשון עשק ירמוז לבית הראשון אשר התעשקו עמנו ועשו אותנו כמה מחלוקות וכמה מלחמות עד שהחריבוהו והשני קרא שמה שטנה שם קשה מן הראשון והוא הבית השני … והשלישי קרא רחובות הוא הבית העתיד שיבנה במהרה בימינו והוא יעשה בלא ריב ומצה והאל ירחיב את גבולנו",
+     "gloss": "[The well of living water] alludes to the House of God that the children of Isaac will build … He called the first Esek, alluding to the First House, over which they contended with us and made many quarrels and many wars against us until they destroyed it; and the second he named Sitnah, a harsher name than the first, and that is the Second House … and the third he called Rehoboth: that is the House to come, to be built speedily in our days, and it will be made without quarrel or strife, and God will enlarge our borders."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d008-s",
+    "key": "And Jacob went near unto Isaac his father; and he felt him, and said: ‘The voice is the voice of Jacob, but the hands are the hands of Esau.’",
+    "ref": "Genesis 27:22",
+    "at": [
+     26,
+     22
+    ],
+    "s": "Disguised in Esau’s garments and goatskins, Jacob brings the savoury food to his father, who cannot see; Rashi, on 27:22, hears Jacob in the voice because he bids his father rise in words of entreaty, where Esau, arriving later, speaks harshly.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 27:22, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "קול יעקב. שֶׁמְּדַבֵּר בִּלְשׁוֹן תַּחֲנוּנִים קוּם נָא, אֲבָל עֵשָׂו קִנְטוּרְיָא דִּבֵּר יָקֻם אָבִי",
+     "gloss": "The voice of Jacob: for he speaks in the language of entreaty, ‘Arise, I pray thee’; but Esau spoke in a harsh, rebuking manner, ‘Let my father arise’."
+    }
+   }
+  },
+  {
+   "d": 9,
+   "primary": {
+    "id": "tanakh-01-d009-p",
+    "key": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven; and behold the angels of God ascending and descending on it.",
+    "ref": "Genesis 28:12",
+    "at": [
+     27,
+     12
+    ],
+    "s": "Bound for Haran, Jacob sleeps on the road with a stone beneath his head; Rashi, on 28:12, reads the ascent named first as the land’s angels, who may not leave it, going up, and others coming down to escort him abroad, and Rashbam, on the same verse, as the common way of speaking, which puts ascent before descent.",
+    "by": "rashi",
+    "by2": "rashbam",
+    "hedge": "",
+    "src": "Rashi and Rashbam, Commentaries on the Torah, on Genesis 28:12, Hebrew texts, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; rashbam",
+     "words": "עוֹלִים תְּחִלָּה וְאַחַר כָּךְ יוֹרְדִים? מַלְאָכִים שֶׁלִּוּוּהוּ בָּאָרֶץ אֵין יוֹצְאִים חוּצָה לָאָרֶץ, וְעָלוּ לָרָקִיעַ וְיָרְדוּ מַלְאֲכֵי חוּצָה לָאָרֶץ לְלַוּוֹתוֹ … לפי הפשט: אין לדקדק במה שהקדים עולים ליורדים, שכן דרך ארץ להזכיר עליה קודם ירידה",
+     "gloss": "[Rashi, on 28:12:] Ascending first and afterwards descending? The angels who escorted him in the land do not go outside the land; they went up to heaven, and the angels of outside the land came down to escort him. … [Rashbam, on 28:12:] According to the plain sense, there is no need to read anything into ascending being put before descending, for it is the common way to mention going up before coming down."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d009-s",
+    "key": "And Jacob awaked out of his sleep, and he said: ‘Surely the LORD is in this place; and I knew it not.’",
+    "ref": "Genesis 28:16",
+    "at": [
+     27,
+     16
+    ],
+    "s": "Waking from the dream of the ladder and the promise to keep him, Jacob speaks; Sforno, on 28:16, takes the place as one ready for prophecy, the vision having come unsought, and the last words as meaning he would have prepared himself, had he known.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Genesis 28:16, Hebrew text, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "אכן יש ה' במקום הזה. אין ספק שזה המקום מוכן לנבואה מאחר שראיתי בו מראה כזאת בלתי שאתכוין לנבואה … ואנכי לא ידעתי. שאלו ידעתי הייתי מכין עצמי לנבואה ולא כן עשיתי",
+     "gloss": "Surely the LORD is in this place: there is no doubt that this place is made ready for prophecy, since I saw such a vision in it without my intending prophecy. … And I knew it not: for had I known, I would have prepared myself for prophecy, and I did not do so."
+    }
+   }
+  },
+  {
+   "d": 10,
+   "primary": {
+    "id": "tanakh-01-d010-p",
+    "key": "I am not worthy of all the mercies, and of all the truth, which Thou hast shown unto Thy servant; for with my staff I passed over this Jordan; and now I am become two camps.",
+    "ref": "Genesis 32:11",
+    "at": [
+     31,
+     11
+    ],
+    "s": "Told that Esau comes with four hundred men, Jacob divides his camp and prays; Rashi, on 32:11, reads the unworthiness as merit diminished by the kindnesses already shown, so that a sin since the promise might deliver him to Esau, and Ramban, on the same verse, as being too small ever to have deserved them.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, Commentaries on the Torah, on Genesis 32:11, Hebrew texts, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "נִתְמַעֲטוּ זְכֻיּוֹתַי עַל יְדֵי הַחֲסָדִים וְהָאֱמֶת שֶׁעָשִׂיתָ עִמִּי, לְכָךְ אֲנִי יָרֵא, שֶׁמָּא מִשֶּׁהִבְטַחְתַּנִי נִתְקַלְקַלְתִּי בְחֵטְא וְיִגְרֹם לִי לְהִמָּסֵר בְּיַד עֵשָׂו … אבל קטונתי לומר כי קטון הוא מהיותו ראוי לכל החסדים שעשה עמו",
+     "gloss": "[Rashi, on 32:11:] My merits have been diminished by the kindnesses and the truth that You have done with me; therefore I am afraid lest, since You promised me, I have been spoiled by sin, and it will cause me to be delivered into the hand of Esau. … [Ramban, on 32:11, after quoting Rashi:] But ‘katonti’ means that he is too small to be worthy of all the kindnesses that He had done with him."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d010-s",
+    "key": "And Jacob was left alone; and there wrestled a man with him until the breaking of the day.",
+    "ref": "Genesis 32:25",
+    "at": [
+     31,
+     25
+    ],
+    "s": "The night before meeting Esau, Jacob sends his household across the Jabbok; Rashbam, on 32:25, reads his staying alone as a plan to flee another way, the angel wrestling him so that he could not, and would see God’s promise kept.",
+    "by": "rashbam",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashbam, Commentary on the Torah, on Genesis 32:25, Hebrew text, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashbam",
+     "words": "כלומר: שהעביר כל אשר לו שלא היה עוד לעבור אלא הוא לבדו ורצה לעבור אחריהם, כדי לברוח דרך אחרת שלא יפגשנו עשו נתכווין … מלאך עמו שלא יוכל לברוח ויראה קיום דברו של הקב\"ה שלא יזיקהו עשו",
+     "gloss": "That is, he had taken across all that he had, so that none remained to cross but he alone, and he wished to cross after them: he intended to flee by another way so that Esau would not meet him. … [And there wrestled] an angel with him, so that he could not flee and would see the fulfilment of the word of the Holy One, blessed be He, that Esau would not harm him."
+    }
+   }
+  },
+  {
+   "d": 12,
+   "primary": {
+    "id": "tanakh-01-d012-p",
+    "key": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.",
+    "ref": "Genesis 37:4",
+    "at": [
+     36,
+     4
+    ],
+    "s": "Opening Joseph’s story, Jacob makes his favourite son a coat of many colours; Rashi, on 37:4, reads the brothers’ discredit as their praise, since they did not say one thing with the mouth and another in the heart.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 37:4, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ולא יכלו דברו לשלום. מִתּוֹךְ גְּנוּתָם לָמַדְנוּ שִׁבְחָם, שֶׁלֹּא דִבְּרוּ אַחַת בַּפֶּה וְאַחַת בַּלֵּב",
+     "gloss": "And they could not speak peaceably unto him: from their discredit we learn their praise, for they did not speak one thing with the mouth and another in the heart."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d012-s",
+    "key": "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said: ‘Nay, but I will go down to the grave to my son mourning.’ And his father wept for him.",
+    "ref": "Genesis 37:35",
+    "at": [
+     36,
+     35
+    ],
+    "s": "Shown the coat dipped in blood, Jacob believes Joseph torn by a beast and mourns; Rashi, on 37:35, reads the refusal as grief for one still living, since only the dead are decreed forgotten from the heart, and Sforno, on the same verse, as lifelong mourning taken on because he himself had sent Joseph.",
+    "by": "rashi",
+    "by2": "sforno",
+    "hedge": "",
+    "src": "Rashi and Sforno, Commentaries on the Torah, on Genesis 37:35, Hebrew texts, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; sforno",
+     "words": "אֵין אָדָם מְקַבֵּל תַּנְחוּמִין עַל הַחַי וְסָבוּר שֶׁמֵּת, שֶׁעַל הַמֵּת נִגְזְרָה גְזֵרָה שֶׁיִּשְׁתַּכַּח מִן הַלֵּב וְלֹא עַל הַחַי … מאן לשמוע דברי תנחומין כדי שלא להעביר דאגה מלבו … קבל עליו אבלות לכל ימיו מפני שאירע' התקלה על ידו ששלח את יוסף אל אחיו",
+     "gloss": "[Rashi, on 37:35:] A person does not accept consolation for one who is living but thought dead, for it is decreed of the dead that he be forgotten from the heart, and not of the living. … [Sforno, on 37:35:] He refused to hear words of comfort, so as not to remove the care from his heart. … He took mourning upon himself for all his days, because the mishap had come about through him, in that he sent Joseph to his brothers."
+    }
+   }
+  }
+ ]
+}

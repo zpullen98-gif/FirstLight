@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d023-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 23 --verse 20:22: Rashi s.v. ותחללה says that lifting iron over the altar profanes it, because the altar was created to lengthen a person’s days and iron to shorten them, and it is not right (אין זה בדין) that the shortener be lifted over the lengthener; the evidence is a verbatim substring (machine-checked, punctuation-insensitive). Rashi cites the Mekhilta for it, but it is his comment in his own frame (הא למדת), as accepted elsewhere in this batch; ‘fitting’ carries ‘not right that’ without drift; omitting his second reason (the altar makes peace) is not a claim beyond him. Plain sense checked with day.js: 20:15 to 18 the people’s fear after the Decalogue, 20:19 to 20 no gods of silver or gold, 20:21 altar of earth, 20:22 altar of stone; no four-word run from the key verse. No comparison, no school needed, tone plain. verse.js ok (Exodus 20:22, at [69,22]); entry-check.js ok, no warns.",
+ "better": ""
+}

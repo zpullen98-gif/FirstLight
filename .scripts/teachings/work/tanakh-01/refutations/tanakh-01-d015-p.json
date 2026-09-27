@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d015-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Genesis/Hebrew/daat.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 15 --verse 45:24. Rashi on אל תרגזו בדרך gives two midrashic readings then וּלְפִי פְשׁוּטוֹ שֶׁל מִקְרָא ... לְפִי שֶׁהָיוּ נִכְלָמִים, הָיָה דוֹאֵג, שֶׁמָּא יָרִיבוּ בַדֶּרֶךְ עַל דְּבַר מְכִירָתוֹ, each blaming another (עַל יָדְךָ נִמְכַּר, אַתָּה סִפַּרְתָּ לָשׁוֹן הָרָע); the sentence flags it as his plain-sense reading, so it does not pass it off as his only one. Rashbam on אל תרגזו: אל תיראו כלום בדרך מפני ליסטים כי שלום מכל צד, verbatim, a genuinely different reading (fear, not quarrel). Ramban gives the robbers reading too, but Rashbam is correctly credited with his own words. Plain sense matches 45:21 to 45:23 (wagons, provision, raiment, laden asses). verse.js ok (Genesis 45:24, at [44,24]); entry-check ok, 52 words.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d008-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 8 --verse 26:20 (and --verse 26:22, where Ramban has nothing, so 26:20 is the right locator: the comment headed ויקרא שם הבאר עשק runs on through Rehoboth and ופרינו בארץ). Ramban: the well of living water alludes to the House of God; Esek the First House, contended over with quarrels and wars until destroyed; Sitnah the Second, enmity all its days until destroyed; Rehoboth the future House, built without quarrel and strife, and God will enlarge the borders. All five evidence segments are verbatim in the packet and carry the paraphrase; he frames it as allusion (ירמוז), which reads it as honestly renders. Plain sense checked against day.js 26:19 to 22: Gerar’s herdmen strive over Esek, strife again over Sitnah, then another well; faithful. Mildly echoes the key verse’s first clause but not line by line and the gate’s four-word test passes. verse.js ok (Genesis 26:22, at [25,22]); entry-check ok (42 words). No comparison; no forbidden vocabulary.",
+ "better": ""
+}

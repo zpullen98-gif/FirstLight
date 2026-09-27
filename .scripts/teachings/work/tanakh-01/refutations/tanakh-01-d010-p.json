@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d010-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 10 --verse 32:11. Rashi (Rosenbaum and Silbermann Hebrew, url in evidence) at 32:11 on קטנתי מכל החסדים: נתמעטו זכיותי על ידי החסדים והאמת ... לכך אני ירא שמא משהבטחתני נתקלקלתי בחטא ויגרום לי להמסר ביד עשו, found verbatim; the paraphrase (merit diminished by the kindnesses, so that a sin since the promise might deliver him to Esau) carries it, the ‘might’ holding his שמא. Ramban at 32:11 quotes Rashi, says ואיננו נכון בלשון הכתוב, and reads קטון הוא מהיותו ראוי לכל החסדים שעשה עמו, found verbatim: ‘too small to be worthy of them’ is exact, and the difference is genuine (Ramban rejects Rashi by name) and is named without being resolved. Plain sense checked against day.js: 32:7 the report of Esau with four hundred men, 32:8 the two camps, 32:10 the prayer begins; no four words of the key verse repeated. verse.js ok (Genesis 32:11, at [31,11]); entry-check.js ok, no warns, 55 words under the two-commentator cap. No comparison, school or tone issue. Only a weakness, not a refutation: the src says ‘Hebrew texts’ without naming the two editions read.",
+ "better": "src could name the editions actually read: “Rashi and Ramban, on Genesis 32:11, Hebrew (Rosenbaum and Silbermann, 1929 to 1934; On Your Way), Sefaria export 3f10136 (2026)”."
+}

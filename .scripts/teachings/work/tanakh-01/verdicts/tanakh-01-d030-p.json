@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-01-d030-p",
+ "d": 30,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he made the laver of brass, and the base thereof of brass, of the mirrors of the serving women that did service at the door of the tent of meeting.",
+ "ref": "Exodus 38:8",
+ "at": [
+  87,
+  8
+ ],
+ "s": "The laver comes among the brass works; Rashi, on Exodus 38:8, reads the mirrors, which Moses would have refused, as dearest to God, since with them the women in Egypt roused their weary husbands’ love and raised great hosts, and Ibn Ezra, on the same verse, as given by devout women who had turned from worldly desire to daily prayer.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi and Ibn Ezra (long commentary), on Exodus 38:8, Hebrew in Sefaria’s export 3f10136 (2026), Rashi’s of Rosenbaum and Silbermann (1929 to 1934)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Exodus, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Exodus 38:8, comment on במראת הצבאת",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Exodus/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Ibn Ezra on Exodus (long commentary), Hebrew “On Your Way”",
+    "locator": "Ibn Ezra (long commentary) on Exodus 38:8, comment on וטעם הצובאות",
+    "via": "packet"
+   }
+  ],
+  "words": "וְהָיָה מוֹאֵס מֹשֶׁה בָּהֶן מִפְּנֵי שֶׁעֲשׂוּיִם לְיֵצֶר הָרָע, אָמַר לוֹ הַקָּבָּ\"ה קַבֵּל, כִּי אֵלּוּ חֲבִיבִין עָלַי מִן הַכֹּל, שֶׁעַל יְדֵיהֶם הֶעֱמִידוּ הַנָּשִׁים צְבָאוֹת רַבּוֹת בְּמִצְרַיִם; כְּשֶׁהָיוּ בַעְלֵיהֶם יְגֵעִים בַּעֲבוֹדַת פֶּרֶךְ … והנה היו בישראל נשים עובדות השם שסרו מתאות זה העולם ונתנו מראותיהן נדבה כי אין להם צורך עוד להתיפות. רק באות יום יום אל פתח אוהל מועד להתפלל ולשמוע דברי המצות",
+  "lang": "Hebrew",
+  "gloss": "[Rashi:] and Moses was rejecting them because they are made for the evil inclination; the Holy One, blessed be He, said to him, ‘Accept, for these are dearer to Me than all, for through them the women raised up many hosts in Egypt’; when their husbands were weary from crushing labour … [Ibn Ezra:] Now there were in Israel women who served God, who had turned away from the desires of this world and gave their mirrors as a freewill offering, for they had no more need to beautify themselves, but came day by day to the door of the tent of meeting to pray and to hear the words of the commandments.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "sexual",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 38:8, at [87,8]). Plain sense faithful: 38:1 to 8 list the brass works (altar, its vessels, the laver). Rashi on במראת הצבאת: Moses spurned the mirrors as made for the evil inclination, God said accept, these are dearer to Me than all, for with them the women in Egypt, when their husbands were weary from crushing labour, roused them and raised many hosts. Ibn Ezra’s long commentary on וטעם הצובאות: devout women who turned from the desires of this world gave their mirrors and came daily to the tent door to pray and hear the commandments. The two genuinely differ and the sentence names both without resolving; Ramban on the verse itself sets them side by side, confirming the difference. Rashi’s marital theme is given decorously (rule 6), hence sensitivity sexual. Only the long Ibn Ezra is in the packet and the src says so. 60 words, the two-commentator limit. Gate ok; both evidence pieces found exactly in the packet."
+}

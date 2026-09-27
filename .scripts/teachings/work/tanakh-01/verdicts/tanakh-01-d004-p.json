@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he believed in the LORD; and He counted it to him for righteousness.",
+ "ref": "Genesis 15:6",
+ "at": [
+  14,
+  6
+ ],
+ "s": "After God bids the childless Abram count the stars as the measure of his offspring, the chapter records his response; Rashi, on 15:6, reads it as God crediting Abram’s faith to him as merit, and Ramban, on 15:6, asking what merit that would be, as Abram reckoning that God’s righteousness, not his own merit, would give him the child.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi and Ramban, on Genesis 15:6, their Hebrew in Sefaria’s export (Rashi as Rosenbaum and Silbermann print it, 1929 to 1934), commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934), Sefaria-Export-Archive commit 3f10136",
+    "locator": "Rashi on Genesis 15:6, dibbur ויחשבה לו צדקה (packet.js tanakh 4 --verse 15:6)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Ramban on Genesis, Hebrew (On Your Way) with Chavel’s English, Sefaria-Export-Archive commit 3f10136",
+    "locator": "Ramban on Genesis 15:6, dibbur והאמן בה׳ ויחשבה לו צדקה (packet.js tanakh 4 --verse 15:6)",
+    "via": "packet"
+   }
+  ],
+  "words": "הַקָּבָּ\"ה חֲשָׁבָהּ לאַבְרָם לִזְכוּת וְלִצְדָקָה עַל הַאֲמָנָה שֶׁהֶאֱמִין בּוֹ … ואיני מבין מה הזכות הזאת למה לא יאמין באלהי אמן והוא הנביא בעצמו … והנכון בעיני כי יאמר שהאמין בה' וחשב כי בצדקו של הקב\"ה יתן לו זרע על כל פנים לא בצדקת אברם ובשכרו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 15:6] The Holy One, blessed be He, reckoned it to Abram as merit and righteousness for the faith with which he believed in Him … [Ramban on 15:6, after quoting Rashi] But I do not understand what this merit is: why would he not believe in the God of truth, he being himself the prophet … What seems right to me is that the verse says he believed in the LORD and reckoned that by the righteousness of the Holy One, blessed be He, He would give him offspring in any case, not by Abram’s righteousness and his reward.",
+  "licence": "Hebrew: public domain (both sources); gloss is my own",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 15:6, at [14,6]). Opened packet.js tanakh 4 --verse 15:6 and read every source on the verse. Rashi on ויחשבה לו צדקה: the Holy One reckoned it to Abram as merit and righteousness for his faith, as the sentence says. Ramban quotes Rashi, objects that he cannot see what merit it would be for a prophet to believe the God of truth, and gives as his own view (והנכון בעיני) that Abram is the subject of ויחשבה: he reckoned that God’s righteousness, not his own righteousness and reward, would give him offspring in any case; he adds a second possibility (או יאמר) where God reckons the promise as righteousness, which the sentence rightly leaves aside by naming his preferred reading. The two genuinely differ and the sentence names the difference without resolving it (rule 5). Plain sense faithful: 15:2 to 15:5 give the childless Abram, the stars and ‘So shall thy seed be’; the clause repeats no run of the key verse. Evidence recopied from the packet and re-found by recheck-evidence’s matcher. Entry unchanged; entry-check ok."
+}

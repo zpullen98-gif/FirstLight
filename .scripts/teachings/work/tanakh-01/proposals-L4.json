@@ -1,0 +1,212 @@
+{
+ "lane": "L4",
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "days": [
+  {
+   "d": 18,
+   "primary": {
+    "id": "tanakh-01-d018-p",
+    "key": "And God said unto Moses: ‘I AM THAT I AM’; and He said: ‘Thus shalt thou say unto the children of Israel: I AM hath sent me unto you.’",
+    "ref": "Exodus 3:14",
+    "at": [
+     52,
+     14
+    ],
+    "s": "At the bush Moses asks what to answer when Israel ask God’s name; Rashi, on Exodus 3:14, reads it as a promise to be with Israel in this trouble and in later bondage to other kingdoms, the second withheld from them at Moses’ plea.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 3:14, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "אֶהְיֶה עִמָּם בְּצָרָה זוֹ אֲשֶׁר אֶהְיֶה עִמָּם בְּשִׁעְבּוּד שְׁאָר מַלְכֻיּוֹת. אָמַר לְפָנָיו, רִבּוֹנוֹ שֶׁל עוֹלָם, מָה אֲנִי מַזְכִּיר לָהֶם צָרָה אַחֶרֶת? דַּיָּם בְּצָרָה זוֹ, אָמַר לוֹ יָפֶה אָמַרְתָּ",
+     "gloss": "I will be with them in this trouble, as I will be with them in their subjection to the other kingdoms. He said before Him: Master of the world, why should I remind them of another trouble? This trouble is enough for them. He said to him: You have spoken well."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d018-s",
+    "key": "And Moses said unto God: ‘Who am I, that I should go unto Pharaoh, and that I should bring forth the children of Israel out of Egypt?’",
+    "ref": "Exodus 3:11",
+    "at": [
+     52,
+     11
+    ],
+    "s": "Charged at the bush with a mission to Pharaoh, Moses demurs; Rashbam, on Exodus 3:11, reads it as two replies in turn: he, a stranger, is unfit to enter the king’s court, and even there has no word to make Pharaoh free his slaves.",
+    "by": "rashbam",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashbam, Commentary on the Torah, on Exodus 3:11, Hebrew of the Daat edition, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashbam",
+     "words": "משה השיב על שני דברים שאמר לו הקב\"ה: ללכת אל פרעה וגם להוציא את בני ישראל ע\"י מצות פרעה. … אפילו להביא לו מנחה ודורון וכי ראוי אני ליכנס בחצר המלך איש נכרי כמוני?! … ואפילו ראוי אני ליכנס אל פרעה, שוטה אני לשאר דברים. איזה דבר המתקבל לפרעה שאומר לו? וכי שוטה הוא פרעה לשמוע לי לשלוח עם רב שהם עבדיו חפשי מארצו?!",
+     "gloss": "Moses answered the two things the Holy One, blessed be He, had told him: to go to Pharaoh, and also to bring the children of Israel out by Pharaoh’s command. … Even to bring him a tribute and a gift, am I fit to enter the king’s court, a foreign man like me? … And even if I am fit to go in to Pharaoh, I am a fool in the rest. What word acceptable to Pharaoh am I to say to him? Is Pharaoh a fool, to listen to me and send a great people, who are his slaves, free from his land?"
+    }
+   }
+  },
+  {
+   "d": 19,
+   "primary": {
+    "id": "tanakh-01-d019-p",
+    "key": "And Moses spoke so unto the children of Israel; but they hearkened not unto Moses for impatience of spirit, and for cruel bondage.",
+    "ref": "Exodus 6:9",
+    "at": [
+     55,
+     9
+    ],
+    "s": "After Pharaoh makes the labour harsher, God renews His promise, and Moses brings it to the people; Ramban, on Exodus 6:9, reads it not as unbelief but as dread that Pharaoh would kill them, and taskmasters driving them too hard to hear and consider.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Exodus 6:9, Hebrew text in Sefaria’s export of 1 September 2026",
+    "basis": {
+     "source": "ramban",
+     "words": "לא בעבור שלא יאמינו בה' ובנביאו, רק שלא הטו אוזן לדבריו מקוצר רוח, כאדם שתקצר נפשו בעמלו, ולא ירצה לחיות רגע בצערו, מדעתו שירוח לו אחרי כן וקוצר הרוח הוא פחדם שלא יהרגם פרעה בחרב כאשר אמרו שוטריהם אל משה, ועבודה קשה, הוא הדוחק שהיו הנוגשים אצים בהם ולא יתנום לשמוע דבר ולחשוב בו",
+     "gloss": "Not because they did not believe in the LORD and in His prophet; only they did not incline their ear to his words from shortness of spirit, like a man whose soul grows short in his toil and would not live a moment in his pain, even knowing that relief will come to him afterwards. And the shortness of spirit is their fear that Pharaoh would kill them by the sword, as their officers said to Moses; and the hard labour is the pressure with which the taskmasters hurried them, and would not let them hear a word and think on it."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d019-s",
+    "key": "And I will harden Pharaoh’s heart, and multiply My signs and My wonders in the land of Egypt.",
+    "ref": "Exodus 7:3",
+    "at": [
+     56,
+     3
+    ],
+    "s": "As Moses and Aaron are sent to Pharaoh, God foretells his refusal; Sforno, on Exodus 7:3, reads the hardening as strength to bear the plagues, so that Pharaoh would not free Israel from fear alone, while repentance stays open to him.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Exodus 7:3, Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "ואין ספק שלולא הכבדת הלב היה פרעה משלח את ישראל בלי ספק, לא על צד תשובה והכנעה לאל יתברך, שיתנחם מהיות מורד, אף על פי שהכיר גדלו וטובו, אלא על צד היותו בלתי יכול לסבול עוד את צרת המכות … אבל אם היה פרעה חפץ להכנע לאל יתברך, ולשוב אליו בתשובה שלמה, לא היה לו מזה שום מונע. והנה אמר האל יתברך ואני אקשה את לב פרעה, שיתאמץ לסבול המכות ולא ישלח מיראת המכות את ישראל",
+     "gloss": "And there is no doubt that, but for the hardening of the heart, Pharaoh would surely have sent Israel away, not by way of repentance and submission to God, blessed be He, regretting that he had rebelled, even though he had recognised His greatness and goodness, but because he could no longer bear the distress of the plagues … But had Pharaoh wished to submit to God, blessed be He, and to return to Him in full repentance, nothing would have prevented him. So God, blessed be He, said: And I will harden Pharaoh’s heart, that he might steel himself to bear the plagues and not send Israel away from fear of the plagues."
+    }
+   }
+  },
+  {
+   "d": 20,
+   "primary": {
+    "id": "tanakh-01-d020-p",
+    "key": "Speak now in the ears of the people, and let them ask every man of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold.’",
+    "ref": "Exodus 11:2",
+    "at": [
+     60,
+     2
+    ],
+    "s": "With one plague left, God gives Moses a word for the people; Rashi, on Exodus 11:2, hears ‘now’ as God’s plea to Moses, so that Abraham may not say the bondage foretold him came true but the great wealth did not.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 11:2, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה, בְּבַקָּשָׁה מִמְּךָ הַזְהִירֵם עַל כָּךְ, שֶׁלֹּא יֹאמַר אוֹתוֹ צַדִּיק אַבְרָהָם \"וַעֲבָדוּם וְעִנּוּ אוֹתָם\" (בראשית ט\"ו), קִיֵּם בָּהֶם, \"וְאַחֲרֵי כֵן יֵצְאוּ בִּרְכֻשׁ גָּדוֹל\" (שם), לֹא קִיֵּם בָּהֶם",
+     "gloss": "Na is nothing but a word of entreaty: I beg of you, warn them about this, so that that righteous man, Abraham, may not say: ‘and they shall serve them, and they shall afflict them’ (Genesis 15) He carried out in them, but ‘and afterward they shall come out with great substance’ (ibid.) He did not carry out in them."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d020-s",
+    "key": "And Pharaoh sent, and called for Moses and Aaron, and said unto them: ‘I have sinned this time; the LORD is righteous, and I and my people are wicked.",
+    "ref": "Exodus 9:27",
+    "at": [
+     58,
+     27
+    ],
+    "s": "As hail and fire strike all Egypt but Goshen, Pharaoh summons Moses and Aaron; Ramban, on Exodus 9:27, reads ‘this time’ as the hour of confession, owning that he and his people have rebelled against God’s word from the start until now.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Exodus 9:27, Hebrew text in Sefaria’s export of 1 September 2026",
+    "basis": {
+     "source": "ramban",
+     "words": "חטאתי הפעם ביאורו הפעם אודה לה' כי חטאתי לו והוא הצדיק ואני ועמי הרשעים, שמרדנו בדברו מאז ועד עתה",
+     "gloss": "‘I have sinned this time’: its meaning is, this time I will confess to the LORD that I have sinned against Him, and He is the righteous one, and I and my people are the wicked, for we have rebelled against His word from then until now."
+    }
+   }
+  },
+  {
+   "d": 21,
+   "primary": {
+    "id": "tanakh-01-d021-p",
+    "key": "‘This month shall be unto you the beginning of months; it shall be the first month of the year to you.",
+    "ref": "Exodus 12:2",
+    "at": [
+     61,
+     2
+    ],
+    "s": "Speaking to Moses and Aaron in Egypt, God opens the Passover laws with the calendar; Ramban, on Exodus 12:2, reads it as numbering every month from this one, so that each time a month is named the great miracle is recalled.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Exodus 12:2, Hebrew text in Sefaria’s export of 1 September 2026",
+    "basis": {
+     "source": "ramban",
+     "words": "וטעם החדש הזה לכם ראש חדשים, שימנו אותו ישראל חדש הראשון, וממנו ימנו כל החדשים שני ושלישי עד תשלום השנה בשנים עשר חדש, כדי שיהיה זה זכרון בנס הגדול, כי בכל עת שנזכיר החדשים יהיה הנס נזכר, ועל כן אין לחדשים שם בתורה",
+     "gloss": "And the sense of ‘this month shall be unto you the beginning of months’ is that Israel shall count it the first month, and from it count all the months, second and third, until the year is completed in twelve months, so that this be a remembrance of the great miracle: for whenever we mention the months, the miracle will be remembered; and for this reason the months have no names in the Torah."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d021-s",
+    "key": "It was a night of watching unto the LORD for bringing them out from the land of Egypt; this same night is a night of watching unto the LORD for all the children of Israel throughout their generations.",
+    "ref": "Exodus 12:42",
+    "at": [
+     61,
+     42
+    ],
+    "s": "As Israel leave Egypt after four hundred and thirty years, the chapter names the night; Rashi, on Exodus 12:42, reads it as the night God watched and waited for to keep His promise, the night He told Abraham He would redeem his children.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 12:42, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ליל שמרים. שֶׁהָיָה הַקָּבָּ\"ה שׁוֹמֵר וּמְצַפֶּה לוֹ, לְקַיֵּם הַבְטָחָתוֹ להוציאם מארץ מצרים … הוא הלילה הזה לה'. הוּא הַלַּיְלָה שֶׁאָמַר לְאַבְרָהָם, בַּלַּיְלָה הַזֶּה אֲנִי גוֹאֵל אֶת בָּנֶיךָ",
+     "gloss": "A night of watching: for the Holy One, blessed be He, was watching and waiting for it, to keep His promise to bring them out of the land of Egypt … It is this night unto the LORD: it is the night of which He said to Abraham, on this night I redeem your children."
+    }
+   }
+  },
+  {
+   "d": 22,
+   "primary": {
+    "id": "tanakh-01-d022-p",
+    "key": "And Moses said unto the people: ‘Fear ye not, stand still, and see the salvation of the LORD, which He will work for you to-day; for whereas ye have seen the Egyptians to-day, ye shall see them again no more for ever.",
+    "ref": "Exodus 14:13",
+    "at": [
+     63,
+     13
+    ],
+    "s": "With the sea ahead and Pharaoh’s chariots behind, Moses answers the people’s despair; Ibn Ezra, on Exodus 14:13, reads their terror as that of a generation trained from youth to bear Egypt’s yoke, too low in spirit to fight their masters.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, long commentary on Exodus, on 14:13, Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "יש לתמוה איך יירא מחנה גדולה של שש מאות אלף איש מהרודפים אחריהם. ולמה לא ילחמו על נפשם ועל בניהם. התשובה כי המצרים היו אדונים לישראל וזה הדור היוצא ממצרים למד מנעוריו לסבול עול מצרים ונפשו שפלה. ואיך יוכל עתה להלחם עם אדוניו.",
+     "gloss": "One may wonder how a great camp of six hundred thousand men could fear those pursuing them, and why they would not fight for their lives and for their children. The answer is that the Egyptians were masters over Israel, and this generation going out of Egypt had learned from its youth to bear the yoke of Egypt, and its spirit was low. How then could it now fight against its masters?"
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d022-s",
+    "key": "Then said the LORD unto Moses: ‘Behold, I will cause to rain bread from heaven for you; and the people shall go out and gather a day’s portion every day, that I may prove them, whether they will walk in My law, or not.",
+    "ref": "Exodus 16:4",
+    "at": [
+     65,
+     4
+    ],
+    "s": "When the hungry congregation murmurs in the wilderness of Sin, God answers; Rashi, on Exodus 16:4, reads the test as keeping the laws tied to the manna, leaving none over and not gathering on the sabbath, and Ramban, on the same verse, as the manna itself, their only food, unknown to their fathers and given day by day.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, Commentaries on the Torah, on Exodus 16:4, Hebrew in Sefaria’s exports of 2026 (Rashi’s: Rosenbaum and Silbermann, 1929 to 1934)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "למען אנסנו הילך בתורתי. אִם יִשְׁמְרוּ מִצְווֹת הַתְּלוּיוֹת בּוֹ, שֶׁלֹּא יוֹתִירוּ מִמֶּנּוּ וְלֹא יֵצְאוּ בַּשַּׁבָּת לִלְקֹט … ואיננו נכון, אבל הוא כמו שאמר … כי נסיון הוא להם שלא היה בידם מזון, ולא יראו להם עצה במדבר רק המן, שלא ידעו מתחלה, ולא שמעו מאבותם, ויורד להם דבר יום ביומו וירעיבו אליו, ועם כל זה שמעו ללכת אחרי השם לא לחם",
+     "gloss": "Rashi: ‘That I may prove them, whether they will walk in My law’: whether they will keep the commandments that hang on it, that they leave none of it over and do not go out on the sabbath to gather. … Ramban, quoting these words of Rashi: And this is not correct; rather it is as He said [in Deuteronomy 8:16] … for it was a trial to them that they had no food in hand, and saw no recourse in the wilderness but the manna, which they had not known before nor heard of from their fathers, and it came down to them each day’s portion on its day, and they hungered for it; and with all this they hearkened to go after the LORD to a place of no bread."
+    }
+   }
+  }
+ ]
+}

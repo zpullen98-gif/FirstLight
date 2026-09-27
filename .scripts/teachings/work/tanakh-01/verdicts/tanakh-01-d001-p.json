@@ -1,0 +1,35 @@
+{
+ "id": "tanakh-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And God said: ‘Let us make man in our image, after our likeness; and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.’",
+ "ref": "Genesis 1:26",
+ "at": [0, 26],
+ "s": "On the sixth day, after the land animals, God turns to making the human being; Rashi, on 1:26, reads the plural as humility: God consulted the angels, who had no part in the making, teaching that the greater should seek leave of the lesser.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Genesis 1:26, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934), Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Genesis 1:26, the two comments on the lemma נעשה אדם",
+    "via": "packet"
+   }
+  ],
+  "words": "עַנְוְתָנוּתוֹ שֶׁל הַקָּבָּ\"ה לָמַדְנוּ מִכָּאן, לְפִי שֶׁאָדָם הוּא בִּדְמוּת הַמַּלְאָכִים וְיִתְקַנְּאוּ בוֹ, לְפִיכָךְ נִמְלַךְ בָּהֶם … אַעַ\"פִּ שֶׁלֹּא סִיְּעוּהוּ בִיצִירָתוֹ וְיֵשׁ מָקוֹם לַמִּינִים לִרְדּוֹת, לֹא נִמְנַע הַכָּתוּב מִלְּלַמֵּד דֶרֶך אֶרֶץ וּמִדַּת עֲנָוָה שֶׁיְּהֵא הַגָּדוֹל נִמְלָךְ וְנוֹטֵל רְשׁוּת מִן הַקָּטָן",
+  "lang": "Hebrew",
+  "gloss": "The humility of the Holy One, blessed be He, is learned from here: because man is in the likeness of the angels and they would envy him, He therefore took counsel with them … Although they did not help Him in forming him, and it leaves room for heretics to rebel, the verse did not refrain from teaching proper conduct and the trait of humility, that the greater should consult and take leave of the lesser.",
+  "licence": "Hebrew: public domain (Sefaria export); English (Rosenbaum and Silbermann) public domain, not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (Genesis 1:26, at [0,26], 50 words, unit 25). Plain sense faithful: 1:24 to 25 make the land animals, 1:31 closes the sixth day; no four words of the verse repeated. Rashi’s two comments on נעשה אדם at 1:26 say exactly this: the plural teaches God’s humility, He consulted the angels lest they envy man, though they did not help in forming him, so that the greater should take leave of the lesser. No drift. entry-check ok."
+}

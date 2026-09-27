@@ -1,0 +1,212 @@
+{
+ "lane": "L5",
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "days": [
+  {
+   "d": 23,
+   "primary": {
+    "id": "tanakh-01-d023-p",
+    "key": "And if thou make Me an altar of stone, thou shalt not build it of hewn stones; for if thou lift up thy tool upon it, thou hast profaned it.",
+    "ref": "Exodus 20:22",
+    "at": [
+     69,
+     22
+    ],
+    "s": "After the Ten Commandments, God turns from gods of silver and gold to the altar Israel is to build; Rashi, on Exodus 20:22, reads the ban on iron as fitting, since the altar was created to lengthen human days and iron to shorten them.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 20:22, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "הָא לָמַדְתָּ שֶׁאִם הֵנַפְתָּ עָלֶיהָ בַּרְזֶל חִלַּלְתָּ, שֶׁהַמִּזְבֵּחַ נִבְרָא לְהַאֲרִיךְ יָמָיו שֶׁל אָדָם וְהַבַּרְזֶל נִבְרָא לְקַצֵּר יָמָיו שֶׁל אָדָם, אֵין זֶה בַּדִּין שֶׁיּוּנַף הַמְקַצֵּר עַל הַמַּאֲרִיךְ",
+     "gloss": "Thus you learn that if you lifted iron over it you profaned it, for the altar was created to lengthen a person’s days and iron was created to shorten a person’s days; it is not right that what shortens be lifted over what lengthens."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d023-s",
+    "key": "Thou shalt not covet thy neighbour’s house; thou shalt not covet thy neighbour’s wife, nor his man-servant, nor his maid-servant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.",
+    "ref": "Exodus 20:14",
+    "at": [
+     69,
+     14
+    ],
+    "s": "Closing the Ten Commandments, the verse turns to desire; Ibn Ezra, on Exodus 20:14, reads it as within reach, since a villager does not covet a princess he knows is beyond him, and one who knows God forbids a thing rejoices in his portion.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, long commentary on Exodus, on Exodus 20:14, the Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "דע כי איש כפרי שיש לו דעת נכונה והוא ראה בת מלך שהיא יפה לא יחמוד אותה בלבו שישכב עמה. כי ידע כי זה לא יתכן … ואמר שידע שאשת רעהו אסרה השם לו יותר היא נשגבה בעיניו מבת מלך בלב הכפרי על כן הוא ישמח בחלקו ולא ישים אל לבו לחמוד ולהתאוות דבר שאינו שלו",
+     "gloss": "Know that a villager of sound mind who sees a king’s daughter who is beautiful will not covet her in his heart, for he knows this cannot be … once he knows that God has forbidden him his neighbour’s wife, she is more exalted in his eyes than a king’s daughter in the villager’s heart; so he rejoices in his portion and does not set his heart to covet and desire a thing that is not his."
+    }
+   }
+  },
+  {
+   "d": 24,
+   "primary": {
+    "id": "tanakh-01-d024-p",
+    "key": "If thou lend money to any of My people, even to the poor with thee, thou shalt not be to him as a creditor; neither shall ye lay upon him interest.",
+    "ref": "Exodus 22:24",
+    "at": [
+     71,
+     24
+    ],
+    "s": "After laws guarding the stranger, widow and orphan, the ordinances turn to lending; Rashi, on Exodus 22:24, reads it as forbidding pressure on a borrower who cannot pay, before whom the lender appears as though he never lent, so as not to shame him.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 22:24, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לא תהיה לו כנשה. לֹא תִתְבָּעֶנּוּ בְּחָזְקָה. אִם אַתָּה יוֹדֵעַ שֶׁאֵין לוֹ, אַל תְּהִי דּוֹמֶה עָלָיו כְּאִלּוּ הִלְוִיתוֹ אֶלָּא כְאִלּוּ לֹא הִלְוִיתוֹ, כְּלוֹמַר לֹא תַכְלִימֵהוּ",
+     "gloss": "Thou shalt not be to him as a creditor: do not demand it of him by force; if you know that he has nothing, do not appear to him as though you had lent to him, but as though you had not lent to him; that is to say, do not shame him."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d024-s",
+    "key": "Thou shalt not seethe a kid in its mother’s milk.",
+    "ref": "Exodus 23:19",
+    "at": [
+     72,
+     19
+    ],
+    "s": "The laws of the three pilgrim feasts end with this command; Rashbam, on Exodus 23:19, takes it, with the laws on a mother and her young, as a lesson in refinement, since cooking a kid in the milk meant to feed it is crude gluttony.",
+    "by": "rashbam",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashbam, Commentary on the Torah, on Exodus 23:19, the Daat Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashbam",
+     "words": "וגנאי הוא הדבר ובליעה ורעבתנות לאכול חלב האם עם הבנים. ודוגמא זו: באותו ואת בנו ושילוח הקן. ללמדך דרך תרבות צוה הכתוב",
+     "gloss": "It is a disgraceful thing, a swallowing and gluttony, to eat the mother’s milk with the young; and the like of it is in ‘it and its young’ and the sending away of the nest: Scripture commanded it to teach you the way of refinement."
+    }
+   }
+  },
+  {
+   "d": 25,
+   "primary": {
+    "id": "tanakh-01-d025-p",
+    "key": "And let them make Me a sanctuary, that I may dwell among them.",
+    "ref": "Exodus 25:8",
+    "at": [
+     74,
+     8
+    ],
+    "s": "After listing the freewill gifts, God names their purpose; the Midrash, in Exodus Rabbah 33:1, hears in it God, who cannot part from the Torah He has given, asking for a house wherever Israel goes, like a king whose only daughter has married.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Exodus Rabbah 33:1, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "מָשָׁל לְמֶלֶךְ שֶׁהָיָה לוֹ בַּת יְחִידָה, בָּא אֶחָד מִן הַמְּלָכִים וּנְטָלָהּ … כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְיִשְׂרָאֵל, נָתַתִּי לָכֶם אֶת הַתּוֹרָה, לִפְרשׁ הֵימֶנָּה אֵינִי יָכוֹל, לוֹמַר לָכֶם אַל תִּטְלוּהָ אֵינִי יָכוֹל, אֶלָּא בְּכָל מָקוֹם שֶׁאַתֶּם הוֹלְכִים בַּיִת אֶחָד עֲשׂוּ לִי שֶׁאָדוּר בְּתוֹכוֹ, שֶׁנֶּאֱמַר (שמות כה, ח): וְעָשׂוּ לִי מִקְדָּשׁ",
+     "gloss": "A parable of a king who had an only daughter; one of the kings came and took her [in marriage] … So the Holy One, blessed be He, said to Israel: I have given you the Torah; to part from it I am unable; to tell you not to take it I am unable; but wherever you go, make Me one house that I may dwell in it, as it is said: ‘And let them make Me a sanctuary’."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d025-s",
+    "key": "And see that thou make them after their pattern, which is being shown thee in the mount.",
+    "ref": "Exodus 25:40",
+    "at": [
+     74,
+     40
+    ],
+    "s": "The instructions for the golden candlestick, its branches, cups and lamps, end with this charge to Moses; Rashi, on Exodus 25:40, reads ‘see’ as telling that Moses found the making of the candlestick hard until God showed him a candlestick of fire.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 25:40, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "רְאֵה כָאן בָּהָר תַּבְנִית שֶׁאֲנִי מַרְאֶה אוֹתְךָ, מַגִּיד שֶׁנִּתְקַשָּׁה מֹשֶׁה בְמַעֲשֵׂה הַמְּנוֹרָה עַד שֶׁהֶרְאָה לוֹ הַקָּבָּ\"ה מְנוֹרָה שֶׁל אֵשׁ",
+     "gloss": "See here on the mountain the pattern that I am showing you; it tells that Moses found the making of the candlestick difficult, until the Holy One, blessed be He, showed him a candlestick of fire."
+    }
+   }
+  },
+  {
+   "d": 26,
+   "primary": {
+    "id": "tanakh-01-d026-p",
+    "key": "And thou shalt make holy garments for Aaron thy brother, for splendour and for beauty.",
+    "ref": "Exodus 28:2",
+    "at": [
+     77,
+     2
+    ],
+    "s": "As Aaron and his sons are called to the priesthood, God turns to their garments; Ramban, on Exodus 28:2, reads it as clothing the priest in royal dignity, since the tunic, mitre, breastplate and plate matched what kings wore when the Torah was given.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Exodus 28:2, the Hebrew text in Sefaria’s export of 1 September 2026",
+    "basis": {
+     "source": "ramban",
+     "words": "לכבוד ולתפארת שיהיה נכבד ומפואר במלבושים נכבדים ומפוארים, כמו שאמר הכתוב כחתן יכהן פאר (ישעיה סא י), כי אלה הבגדים לבושי מלכות הן, כדמותן ילבשו המלכים בזמן התורה … והמצנפת ידועה גם היום למלכים ולשרים הגדולים … והאפוד והחשן לבוש מלכות … והציץ נזר המלכים הוא",
+     "gloss": "For splendour and for beauty: that he be honoured and glorified in honoured and glorious garments, as Scripture says, ‘as a bridegroom puts on a priestly diadem’ (Isaiah 61:10), for these garments are royal garments; in their likeness kings dressed in the time of the Torah … and the mitre is known even today among kings and great lords … and the ephod and the breastplate are royal dress … and the plate is the crown of kings."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d026-s",
+    "key": "And thou shalt command the children of Israel, that they bring unto thee pure olive oil beaten for the light, to cause a lamp to burn continually.",
+    "ref": "Exodus 27:20",
+    "at": [
+     76,
+     20
+    ],
+    "s": "After the tabernacle’s court is measured out, God turns to its lamp; the Midrash, in Exodus Rabbah 36:2, hears God, who needs no light, asking Israel to give Him light as He gave them light, so as to raise them before the nations.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Exodus Rabbah 36:2, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "לֹא שֶׁאֲנִי צָרִיךְ לָהֶם אֶלָּא שֶׁתָּאִירוּ לִי כְּשֵׁם שֶׁהֵאַרְתִּי לָכֶם, לָמָּה, כְּדֵי לְהַעֲלוֹת אֶתְכֶם בִּפְנֵי כָּל הָאֻמּוֹת, שֶׁיִּהְיוּ אוֹמְרִים יִשְׂרָאֵל מְאִירִים לְמִי שֶׁמֵּאִיר לַכֹּל",
+     "gloss": "Not that I need them, but that you give light to Me as I gave light to you; why? to raise you up before all the nations, so that they will say: Israel gives light to the One who gives light to all."
+    }
+   }
+  },
+  {
+   "d": 27,
+   "primary": {
+    "id": "tanakh-01-d027-p",
+    "key": "And the LORD said unto Moses: ‘Take unto thee sweet spices, stacte, and onycha, and galbanum; sweet spices with pure frankincense; of each shall there be a like weight.",
+    "ref": "Exodus 30:34",
+    "at": [
+     79,
+     34
+    ],
+    "s": "Giving the recipe for the incense burnt before the testimony, God names its spices; Rashi, on Exodus 30:34, reads the foul-smelling galbanum among the spices as teaching that transgressors in Israel are to be counted with the community in its fasts and prayers.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 30:34, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וחלבנה. בֹּשֶׂם שֶׁרֵיחוֹ רַע, וְקוֹרִין לוֹ גַלְבְּנָא, וּמְנָאָהּ הַכָּתוּב בֵּין סַמָּנֵי הַקְּטֹרֶת לְלַמְּדֵנוּ שֶׁלֹּא יֵקַל בְּעֵינֵינוּ לְצָרֵף עִמָּנוּ בַּאֲגֻדַּת תַּעֲנִיּוֹתֵינוּ וּתְפִלּוֹתֵנוּ אֶת פּוֹשְׁעֵי יִשְׂרָאֵל שֶׁיִּהְיוּ נִמְנִין עִמָּנוּ",
+     "gloss": "And galbanum: a spice whose smell is bad, called galbana; Scripture counted it among the spices of the incense to teach us that it should not be a light thing in our eyes to join with us, in the gathering of our fasts and our prayers, the transgressors of Israel, so that they are counted with us."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d027-s",
+    "key": "And they shall know that I am the LORD their God, that brought them forth out of the land of Egypt, that I may dwell among them.",
+    "ref": "Exodus 29:46",
+    "at": [
+     78,
+     46
+    ],
+    "s": "After the consecration rites and the daily offering, God speaks of meeting Israel at the tent; Ramban, on Exodus 29:46, reads God’s dwelling among Israel as a need on high, tied to His glory, where the plain sense would make it a human need.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Exodus 29:46, the Hebrew text in Sefaria’s export of 1 September 2026",
+    "basis": {
+     "source": "ramban",
+     "words": "ויפה פירש: ואם כן יש בענין סוד גדול, כי כפי פשט הדבר השכינה בישראל צורך הדיוט ולא צורך גבוה, אבל הוא כענין שאמר הכתוב ישראל אשר בך אתפאר (ישעיה מט ג)",
+     "gloss": "He explained it well; and if so, there is a great secret in the matter: for by the plain sense of things the Presence in Israel would be a human need and not a need on high, but it is like what Scripture said, ‘Israel, in whom I will be glorified’ (Isaiah 49:3)."
+    }
+   }
+  }
+ ]
+}

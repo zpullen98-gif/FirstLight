@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 13 --verse 40:23: Rashi, dibbur hamatchil וישכחהו, reads מִפְּנֵי שֶׁתָּלָה בוֹ יוֹסֵף לְזָכְרוֹ, הֻזְקַק לִהְיוֹת אָסוּר שְׁתֵּי שָׁנִים, which carries the paraphrase (relied on the butler to remember him, bound to remain two years in prison) without drift. Plain sense checked against day.js: 40:23 closes the chapter, 40:21 butler restored, 40:22 baker hanged as Joseph interpreted, plea of 40:14; no four-word run from the key. verse.js ok (Genesis 40:23, at [39,23]); entry-check ok, 45 words at the cap. No school, comparison or tone issue. The one soft point, the context clause’s ‘plea to be remembered goes unheeded’ sits close to the verse’s own sense, but it adds the link to 40:14 and the gate passes it.",
+ "better": ""
+}

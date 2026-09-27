@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d021-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Exodus/Hebrew/On%20Your%20Way.json?generation=1788233812749203",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tanakh 21 --verse 12:2: Ramban’s comment on 12:2 (lemma החדש הזה לכם ראש חדשים) carries the evidence string verbatim, in his own voice (וטעם...), not the Mekhilta’s or the translator’s. It carries the whole paraphrase: Israel counts this month first and numbers every month from it, so that whenever the months are mentioned the great miracle is remembered. The sentence claims nothing more (it does not make the month the start of the year, which Ramban denies, placing the year’s start in Tishrei). Plain sense checked with day.js: 12:1 has the LORD speak to Moses and Aaron in the land of Egypt, 12:3 on gives the lamb; no four-word run from the key. verse.js ok (Exodus 12:2, at [61,2]); entry-check.js ok, no warns; 41 words, one semicolon. Only a nuance: Ramban’s point is that the Torah calls the months by number and gives them no names, so ‘named’ should be heard as ‘called’; ‘each time a month is mentioned’ would sit closer to שנזכיר, but the present wording does not misstate him.",
+ "better": "Optional tightening, same place (Ramban on Exodus 12:2): ‘so that whenever the months are mentioned the great miracle is recalled’ (closer to בכל עת שנזכיר החדשים)."
+}

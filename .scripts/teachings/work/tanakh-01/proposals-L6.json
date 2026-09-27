@@ -1,0 +1,112 @@
+{
+ "lane": "L6",
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "days": [
+  {
+   "d": 28,
+   "primary": {
+    "id": "tanakh-01-d028-p",
+    "key": "And He said: ‘I will make all My goodness pass before thee, and will proclaim the name of the LORD before thee; and I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.’",
+    "ref": "Exodus 33:19",
+    "at": [82, 19],
+    "s": "Moses, who has pleaded for the people after the calf, asks to see God’s glory; Rashi, on Exodus 33:19, reads the reply as teaching him an order of prayer for mercy that avails even when the patriarchs’ merit is spent, since His mercies never end.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 33:19, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לְפִי שֶׁאֲנִי רוֹצֶה וְצָרִיךְ לְלַמֶּדְךָ סֵדֶר תְּפִלָּה; שֶׁכְּשֶׁנִּצְרַכְתָּ לְבַקֵּשׁ רַחֲמִים עַל יִשְׂרָאֵל הִזְכַּרְתָּ לִי זְכוּת אָבוֹת, כְּסָבוּר אַתָּה שֶׁאִם תַּמָּה זְכוּת אָבוֹת אֵין עוֹד תִּקְוָה … לְלַמֶּדְךָ סֵדֶר בַּקָּשַׁת רַחֲמִים אַף אִם תִּכְלֶה זְכוּת אָבוֹת … כִּי רַחֲמַי לֹא כָלִים",
+     "gloss": "because I wish and need to teach you an order of prayer; for when you needed to seek mercy for Israel you mentioned to Me the merit of the patriarchs, thinking that if the merit of the patriarchs is spent there is no more hope … [on ‘and will proclaim the name’:] to teach you the order of asking for mercy even if the merit of the patriarchs is exhausted … for My mercies do not come to an end"
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d028-s",
+    "key": "‘Speak thou also unto the children of Israel, saying: Verily ye shall keep My sabbaths, for it is a sign between Me and you throughout your generations, that ye may know that I am the LORD who sanctify you.",
+    "ref": "Exodus 31:13",
+    "at": [80, 13],
+    "s": "Straight after the charge to build the Tabernacle comes the Sabbath command; Rashi, on Exodus 31:13, reads ‘Verily’ as excluding the Sabbath from the days of that work, and Ramban, on the same verse, as allowing circumcision and the saving of life on it, holding the Tabernacle work barred because the warning stands beside it.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, Commentaries on the Torah, on Exodus 31:13, Hebrew in Sefaria’s exports of 2026 (Rashi’s: Rosenbaum and Silbermann, 1929 to 1934)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "אַעַ\"פִּ שֶׁתִּהְיוּ רְדוּפִין וּזְרִיזִין בִּזְרִיזוּת הַמְּלָאכָה, שַׁבָּת אַל תִּדָּחֶה מִפָּנֶיהָ, כָּל אַכִין וְרַקִּין מִעוּטִין – לְמַעֵט שַׁבָּת מִמְּלֶאכֶת הַמִּשְׁכָּן … ולא נתכון אצלי … אבל המיעוט הזה למילה או לפקוח נפש וכיוצא בהן שהן דוחין את השבת … ומלאכת המשכן שאינה דוחה שבת, מפני שהזהיר בה בכאן",
+     "gloss": "[Rashi, on ‘Verily ye shall keep My sabbaths’:] Even though you are pressed and eager in the zeal of the work, the Sabbath is not to be set aside for it; every ach and rak is a limitation, to exclude the Sabbath from the work of the Tabernacle. … [Ramban, having quoted Rashi’s words:] It does not stand up for me … rather, this limitation is for circumcision or the saving of life and the like, which set the Sabbath aside … and the work of the Tabernacle does not set the Sabbath aside because He warned about it here."
+    }
+   }
+  },
+  {
+   "d": 29,
+   "primary": {
+    "id": "tanakh-01-d029-p",
+    "key": "And when Aaron and all the children of Israel saw Moses, behold, the skin of his face sent forth beams; and they were afraid to come nigh him.",
+    "ref": "Exodus 34:30",
+    "at": [83, 30],
+    "s": "Moses comes down with the second tablets, unaware that his face shines; Rashi, on Exodus 34:30, reads the fear as the power of sin, since before the calf the people did not tremble at God’s fiery glory, and after it recoiled even from Moses’ rays.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Exodus 34:30, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "בֹּא וּרְאֵה כַּמָּה גָדוֹל כֹּחָהּ שֶׁל עֲבֵרָה שֶׁעַד שֶׁלֹּא פָשְׁטוּ יְדֵיהֶם בַּעֲבֵרָה מַהוּ אוֹמֵר? וּמַרְאֵה כְּבוֹד ה' כְּאֵשׁ אֹכֶלֶת בְּרֹאשׁ הָהָר לְעֵינֵי בְּנֵי יִשְׂרָאֵל … וְלֹא יְרֵאִים וְלֹא מִזְדַּעְזְעִים, וּמִשֶּׁעָשׂוּ אֶת הָעֵגֶל אַף מִקַּרְנֵי הוֹדוֹ שֶׁל מֹשֶׁה הָיוּ מַרְתִּיעִים וּמִזְדַּעְזְעִים",
+     "gloss": "Come and see how great is the power of transgression: before they stretched out their hands to transgression, what does it say? ‘And the appearance of the glory of the LORD was like devouring fire on the top of the mount in the eyes of the children of Israel’ … and they neither feared nor trembled; but once they had made the calf, even from the rays of Moses’ glory they recoiled and trembled."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d029-s",
+    "key": "For the stuff they had was sufficient for all the work to make it, and too much.",
+    "ref": "Exodus 36:7",
+    "at": [85, 7],
+    "s": "The craftsmen have told Moses the gifts exceed the need, and the camp is told to stop bringing; Sforno, on Exodus 36:7, reads the surplus as sparing the makers any need to stint their work for fear the material would run short.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Exodus 36:7, Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "ומלאכת המתנדבים בכל דבר שהתנדבו היתה די לעושי מלאכת המשכן … לעשות אותה המלאכה ולהותיר, באופן שלא היו צריכים לצמצם אופן עשייתם מדאגה פן יחסר החומר",
+     "gloss": "And the work of those who gave freely, in everything they gave, was enough for the makers of the work of the Tabernacle … to do that work and to leave some over, so that they had no need to stint the manner of their making out of worry lest the material run short."
+    }
+   }
+  },
+  {
+   "d": 30,
+   "primary": {
+    "id": "tanakh-01-d030-p",
+    "key": "And he made the laver of brass, and the base thereof of brass, of the mirrors of the serving women that did service at the door of the tent of meeting.",
+    "ref": "Exodus 38:8",
+    "at": [87, 8],
+    "s": "The laver comes among the brass works; Rashi, on Exodus 38:8, reads the mirrors, which Moses would have refused, as dearest to God, since with them the women in Egypt roused their weary husbands’ love and raised great hosts, and Ibn Ezra, on the same verse, as given by devout women who had turned from worldly desire to daily prayer.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi and Ibn Ezra (long commentary), on Exodus 38:8, Hebrew in Sefaria’s export 3f10136 (2026), Rashi’s of Rosenbaum and Silbermann (1929 to 1934)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "וְהָיָה מוֹאֵס מֹשֶׁה בָּהֶן מִפְּנֵי שֶׁעֲשׂוּיִם לְיֵצֶר הָרָע, אָמַר לוֹ הַקָּבָּ\"ה קַבֵּל, כִּי אֵלּוּ חֲבִיבִין עָלַי מִן הַכֹּל, שֶׁעַל יְדֵיהֶם הֶעֱמִידוּ הַנָּשִׁים צְבָאוֹת רַבּוֹת בְּמִצְרַיִם; כְּשֶׁהָיוּ בַעְלֵיהֶם יְגֵעִים בַּעֲבוֹדַת פֶּרֶךְ … והנה היו בישראל נשים עובדות השם שסרו מתאות זה העולם ונתנו מראותיהן נדבה כי אין להם צורך עוד להתיפות. רק באות יום יום אל פתח אוהל מועד להתפלל ולשמוע דברי המצות",
+     "gloss": "[Rashi:] and Moses was rejecting them because they are made for the evil inclination; the Holy One, blessed be He, said to him, ‘Accept, for these are dearer to Me than all, for through them the women raised up many hosts in Egypt’; when their husbands were weary from crushing labour … [Ibn Ezra:] Now there were in Israel women who served God, who had turned away from the desires of this world and gave their mirrors as a freewill offering, for they had no more need to beautify themselves, but came day by day to the door of the tent of meeting to pray and to hear the words of the commandments."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d030-s",
+    "key": "And Bezalel the son of Uri, the son of Hur, of the tribe of Judah, made all that the LORD commanded Moses.",
+    "ref": "Exodus 38:22",
+    "at": [87, 22],
+    "s": "Between the heading of the accounts and the tally of metals, the chapter names Bezalel and Oholiab; Ramban, on Exodus 38:22, reads it as all the work done under Bezalel’s direction, since he taught the craftsmen and they showed him their work.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Exodus 38:22, Hebrew text in Sefaria’s export of 1 September 2026",
+    "basis": {
+     "source": "ramban",
+     "words": "הענין כי על פיו נעשה הכל, כי הוא המורה לכל החכמים, ולפניו היו עושים כולם ומראים אליו כל מלאכתם … ולהורות נתן בלבו, אבל גם כל חכמי לב עשו במלאכה",
+     "gloss": "The matter is that everything was done at his word, for he was the teacher of all the wise men, and they all worked before him and showed him all their work … [as it says] ‘and He hath put in his heart that he may teach’; but all the wise-hearted also did the work."
+    }
+   }
+  }
+ ]
+}

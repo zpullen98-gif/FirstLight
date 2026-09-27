@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Yet did not the chief butler remember Joseph, but forgot him.",
+ "ref": "Genesis 40:23",
+ "at": [
+  39,
+  23
+ ],
+ "s": "Closing the chapter, after the butler is restored and the baker hanged as Joseph foretold, Joseph’s plea to be remembered goes unheeded; Rashi, on 40:23, explains that because Joseph relied on the butler to remember him, he was bound to remain two years in prison.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Genesis 40:23, Hebrew text of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "locator": "Genesis 40:23, dibbur hamatchil וישכחהו",
+    "via": "packet"
+   }
+  ],
+  "words": "וישכחהו. לְאַחַר מִכָּאן. מִפְּנֵי שֶׁתָּלָה בוֹ יוֹסֵף לְזָכְרוֹ, הֻזְקַק לִהְיוֹת אָסוּר שְׁתֵּי שָׁנִים, שֶׁנֶּאֱמַר אַשְׁרֵי הַגֶּבֶר אֲשֶׁר שָׂם ה' מִבְטַחוֹ וְלֹא פָנָה אֶל רְהָבִים",
+  "lang": "Hebrew",
+  "gloss": "“And he forgot him”: afterwards. Because Joseph hung his hope on him to remember him, he was bound to be imprisoned two years, as it is said: happy is the man who makes the LORD his trust and turns not to the arrogant (Psalm 40:5).",
+  "licence": "Hebrew: public domain (Sefaria export); gloss is the verifier’s own",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 40:23, at [39,23]). Plain sense faithful to 40:14 to 40:23 (butler restored, baker hanged as Joseph interpreted, the plea of 40:14 unheeded), no four-word run from the verse. Rashi on 40:23 (וישכחהו) says exactly this: because Joseph relied on the butler to remember him he was bound (הֻזְקַק) to remain imprisoned two years. Nothing elsewhere in Rashi on chapter 40 alters it. Entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 12 --verse 37:4. Rashi at 37:4 on ולא יכלו דברו לשלום: מתוך גנותם למדנו שבחם, שלא דברו אחת בפה ואחת בלב, found verbatim in the Hebrew. The sentence carries it: the discredit read as their praise, because they did not say one thing with the mouth and another in the heart; ‘reads ... as’ is a fair compression of ‘from their discredit we learn their praise’ and adds nothing. Attribution holds: the words are Rashi’s own comment at this verse, though drawn from Genesis Rabbah 84:9 (Rabbi Ahava bar Ze’eira), which the packet also prints. Plain sense checked against day.js: 37:2 opens the generations of Jacob with Joseph, 37:3 has Israel’s love and the coat of many colours just before the key verse; nothing claimed beyond the text, no four words of 37:4 repeated. verse.js ok (Genesis 37:4, at [36,4]); entry-check.js ok, no warns. No comparison, school or tone issue; Sforno’s and Radak’s other readings are not contradicted.",
+ "better": ""
+}

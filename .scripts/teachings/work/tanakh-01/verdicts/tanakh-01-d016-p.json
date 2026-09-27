@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Jacob said unto Pharaoh: ‘The days of the years of my sojournings are a hundred and thirty years; few and evil have been the days of the years of my life, and they have not attained unto the days of the years of the life of my fathers in the days of their sojournings.’",
+ "ref": "Genesis 47:9",
+ "at": [
+  46,
+  9
+ ],
+ "s": "Brought before Pharaoh by Joseph and asked his age, Jacob answers the king; Sforno, on 47:9, reads him as setting his years of sojourning apart from his years of life, which were few, since days passed in trouble are not called days of life.",
+ "by": "sforno",
+ "by2": "",
+ "hedge": "",
+ "src": "Sforno, Commentary on the Torah, on Genesis 47:9, Hebrew text, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Genesis, Hebrew “On Your Way”, Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Genesis 47:9, lemma מעט ורעים היו ימי שני חיי",
+    "via": "packet"
+   }
+  ],
+  "words": "על מה שאמרת כמה ימי שני חייך אני אומר כי שני חיי היו מעט ורעים ברב טרדת מזונות ודאגות הקורות כי הימים אשר בהם יהיה האדם בצרה לא יקראו ימי שני חיים אבל ימי שני מגורי היו בין הכל מאה ושלשים שנה",
+  "lang": "Hebrew",
+  "gloss": "As to your asking how many are the days of the years of my life, I say that the years of my life were few and evil, through much trouble over sustenance and the worries that befell me, for the days in which a man is in distress are not called days of the years of life; but the days of the years of my sojourning came in all to a hundred and thirty years.",
+  "licence": "Hebrew: public domain (Sefaria export); English (Munk) CC-BY, not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (Genesis 47:9, at [46,9], 55 words). Plain sense matches 47:7 to 8 (Joseph brings Jacob in, Pharaoh asks his age). Sforno on 47:9 (read with his 47:8 comment on Pharaoh’s amazement) distinguishes years of life, few and evil through troubles, from years of sojourning, 130, because days in distress are not called days of life: the sentence carries exactly that. entry-check ok, 44 words."
+}

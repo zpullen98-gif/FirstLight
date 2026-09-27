@@ -1,0 +1,212 @@
+{
+ "lane": "L3",
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "days": [
+  {
+   "d": 13,
+   "primary": {
+    "id": "tanakh-01-d013-p",
+    "key": "Yet did not the chief butler remember Joseph, but forgot him.",
+    "ref": "Genesis 40:23",
+    "at": [
+     39,
+     23
+    ],
+    "s": "Closing the chapter, after the butler is restored and the baker hanged as Joseph foretold, Joseph’s plea to be remembered goes unheeded; Rashi, on 40:23, explains that because Joseph relied on the butler to remember him, he was bound to remain two years in prison.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 40:23, Hebrew text of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וישכחהו. לְאַחַר מִכָּאן. מִפְּנֵי שֶׁתָּלָה בוֹ יוֹסֵף לְזָכְרוֹ, הֻזְקַק לִהְיוֹת אָסוּר שְׁתֵּי שָׁנִים, שֶׁנֶּאֱמַר אַשְׁרֵי הַגֶּבֶר אֲשֶׁר שָׂם ה' מִבְטַחוֹ וְלֹא פָנָה אֶל רְהָבִים",
+     "gloss": "“And he forgot him”: afterwards. Because Joseph hung his hope on him, that he would remember him, he was made liable to be imprisoned two years, as it is said: happy is the man who makes the LORD his trust and turns not to the arrogant (Psalm 40:5)."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d013-s",
+    "key": "And Judah acknowledged them, and said: ‘She is more righteous than I; forasmuch as I gave her not to Shelah my son.’ And he knew her again no more.",
+    "ref": "Genesis 38:26",
+    "at": [
+     37,
+     26
+    ],
+    "s": "Condemned by Judah to burning for a pregnancy called harlotry, Tamar sends him his own pledges; Sforno, on 38:26, reads her deceit, aimed at preserving the seed and not at pleasure, as more righteous than his kept word, which sought his honour and his pledge.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Genesis 38:26, Hebrew text, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "מכל מקום היא צדקה במרמתה שהיתה לתכלית טוב ורצוי לאל ית' שהיא קיום הזרע לא להנאת עצמה שהרי חזרה לאלמנותה תיכף יותר ממה שצדקתי אני בקיום אמונתי שהיתה הכונה בו לכבודי ולהשיג ערבוני",
+     "gloss": "Nevertheless she was righteous in her deceit, which was for a good end, pleasing to God, the preserving of the seed, and not for her own pleasure, for she went back to her widowhood at once; more so than I was righteous in keeping my word, whose aim was my own honour and getting back my pledge."
+    }
+   }
+  },
+  {
+   "d": 14,
+   "primary": {
+    "id": "tanakh-01-d014-p",
+    "key": "And Joseph remembered the dreams which he dreamed of them, and said unto them: ‘Ye are spies; to see the nakedness of the land ye are come.’",
+    "ref": "Genesis 42:9",
+    "at": [
+     41,
+     9
+    ],
+    "s": "As his brothers bow before him, not knowing him, Joseph turns on them with a charge; Rashi, on 42:9, reads it as Joseph knowing his dreams had come true, since they had bowed, and Ramban, on 42:9, as knowing none yet had, since Benjamin was absent, so he devised the charge to bring him.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, Commentaries on the Torah, on Genesis 42:9, Hebrew texts, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "וידע שנתקיימו שהרי השתחוו לו לשון רש\"י (רש\"י על בראשית מ״ב:ט׳) ולפי דעתי שהדבר בהפך כי יאמר הכתוב כי בראות יוסף את אחיו משתחוים לו זכר כל החלומות אשר חלם להם וידע שלא נתקיים אחד מהם בפעם הזאת … וכיון שלא ראה בנימן עמהם חשב זאת התחבולה שיעליל עליהם כדי שיביאו גם בנימין אחיו אליו לקיים החלום הראשון תחילה",
+     "gloss": "Ramban first quotes Rashi (whose own comment on 42:9 in the packet reads the same): “and he knew that they had come true, for they had bowed to him.” Then: in my view the matter is the reverse; when Joseph saw his brothers bowing he remembered all the dreams and knew that not one of them had yet come true this time; since he did not see Benjamin with them, he devised this stratagem of a charge against them so that they would bring Benjamin to him too, to bring the first dream to pass first."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d014-s",
+    "key": "And they said one to another: ‘We are verily guilty concerning our brother, in that we saw the distress of his soul, when he besought us, and we would not hear; therefore is this distress come upon us.’",
+    "ref": "Genesis 42:21",
+    "at": [
+     41,
+     21
+    ],
+    "s": "Held in ward and told one must stay bound, the brothers speak among themselves, not knowing Joseph understands; Ramban, on 42:21, reads them as counting their cruelty to a brother who pleaded and fell before them as deserving greater punishment than the sale itself.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Genesis 42:21, Hebrew text, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "אשר ראינו צרת נפשו בהתחננו אלינו חשבו להם האכזריות לעונש גדול יותר מן המכירה כי היה אחיהם בשרם מתחנן ומתנפל לפניהם ולא ירחמו",
+     "gloss": "“In that we saw the distress of his soul, when he besought us”: they counted the cruelty as deserving a greater punishment than the sale, for their brother, their own flesh, was pleading and throwing himself down before them and they had no pity."
+    }
+   }
+  },
+  {
+   "d": 15,
+   "primary": {
+    "id": "tanakh-01-d015-p",
+    "key": "So he sent his brethren away, and they departed; and he said unto them: ‘See that ye fall not out by the way.’",
+    "ref": "Genesis 45:24",
+    "at": [
+     44,
+     24
+    ],
+    "s": "Sending his brothers home laden with gifts and wagons, Joseph gives them a parting charge; Rashi, on 45:24, reads it by its plain sense as his fear that, ashamed, they would quarrel over his sale, each blaming another, and Rashbam, on 45:24, as telling them not to fear robbers on the road.",
+    "by": "rashi",
+    "by2": "rashbam",
+    "hedge": "",
+    "src": "Rashi and Rashbam, Commentaries on the Torah, on Genesis 45:24, Hebrew texts, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi, rashbam",
+     "words": "וּלְפִי פְשׁוּטוֹ שֶׁל מִקְרָא יֵשׁ לוֹמַר, לְפִי שֶׁהָיוּ נִכְלָמִים, הָיָה דוֹאֵג, שֶׁמָּא יָרִיבוּ בַדֶּרֶךְ עַל דְּבַר מְכִירָתוֹ, לְהִתְוַכֵּחַ זֶה עִם זֶה וְלוֹמַר עַל יָדְךָ נִמְכַּר … אל תיראו כלום בדרך מפני ליסטים כי שלום מכל צד",
+     "gloss": "Rashi: according to the plain sense of the verse it should be said that, because they were ashamed, he worried that they might quarrel on the way over his sale, arguing with one another and saying, through you he was sold. Rashbam: do not fear anything on the way because of robbers, for there is peace on every side."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d015-s",
+    "key": "And they told him all the words of Joseph, which he had said unto them; and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived.",
+    "ref": "Genesis 45:27",
+    "at": [
+     44,
+     27
+    ],
+    "s": "Back in Canaan, Jacob at first cannot believe his sons’ news that Joseph lives; Ramban, on 45:27, reads the plain sense as Jacob never being told in his lifetime that his sons sold Joseph, but thinking that strangers found him astray and sold him.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Genesis 45:27, Hebrew text, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "וידברו אליו את כל דברי יוסף יראה לי על דרך הפשט שלא הוגד ליעקב כל ימיו כי אחיו מכרו את יוסף אבל חשב כי היה תועה בשדה והמוצאים אותו לקחוהו ומכרו אותו אל מצרים",
+     "gloss": "“And they told him all the words of Joseph”: it seems to me, by the way of the plain sense, that Jacob was never told, all his days, that his brothers had sold Joseph; rather he thought that Joseph had strayed in the field and those who found him took him and sold him into Egypt."
+    }
+   }
+  },
+  {
+   "d": 16,
+   "primary": {
+    "id": "tanakh-01-d016-p",
+    "key": "And Jacob said unto Pharaoh: ‘The days of the years of my sojournings are a hundred and thirty years; few and evil have been the days of the years of my life, and they have not attained unto the days of the years of the life of my fathers in the days of their sojournings.’",
+    "ref": "Genesis 47:9",
+    "at": [
+     46,
+     9
+    ],
+    "s": "Brought before Pharaoh by Joseph and asked his age, Jacob answers the king; Sforno, on 47:9, reads him as setting his years of sojourning apart from his years of life, which were few, since days passed in trouble are not called days of life.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Genesis 47:9, Hebrew text, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "על מה שאמרת כמה ימי שני חייך אני אומר כי שני חיי היו מעט ורעים ברב טרדת מזונות ודאגות הקורות כי הימים אשר בהם יהיה האדם בצרה לא יקראו ימי שני חיים אבל ימי שני מגורי היו בין הכל מאה ושלשים שנה",
+     "gloss": "As to your asking how many are the days of the years of my life, I say that the years of my life were few and evil, with much trouble over sustenance and the worries that befell me, for the days in which a man is in distress are not called days of the years of life; but the days of the years of my sojourning came in all to a hundred and thirty years."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d016-s",
+    "key": "And Joseph made ready his chariot, and went up to meet Israel his father, to Goshen; and he presented himself unto him, and fell on his neck, and wept on his neck a good while.",
+    "ref": "Genesis 46:29",
+    "at": [
+     45,
+     29
+    ],
+    "s": "Coming down to Goshen with all his house, Jacob meets the son he had mourned; Rashi, on 46:29, reads the embrace and weeping as Joseph’s alone, Jacob reciting the Shema as the rabbis say, and Ramban, on 46:29, as Jacob’s, his dim eyes knowing his son only on looking at him.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, Commentaries on the Torah, on Genesis 46:29, Hebrew texts, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "אבל יעקב לא נפל על צואר יוסף בנו ולא נשקו ואמרו רבותינו שהיה קורא קריאת שמע לשון רש\"י … והנכון בעיני כי כבר היו עיני ישראל כבדים קצת מזוקן … כי כאשר נתראה אל אביו שהביט בו והכירו נפל אביו על צוארו ובכה עליו עוד",
+     "gloss": "Ramban quotes Rashi (whose own comment on 46:29 in the packet says the same): but Jacob did not fall on the neck of Joseph his son nor kiss him, and our Rabbis said he was reciting the Shema. Then: the right reading in my eyes is that Israel’s eyes were already somewhat heavy with age; when Joseph appeared to his father, who looked at him and knew him, his father fell on his neck and wept over him again."
+    }
+   }
+  },
+  {
+   "d": 17,
+   "primary": {
+    "id": "tanakh-01-d017-p",
+    "key": "And Joseph said unto them: ‘Fear not; for am I in the place of God?",
+    "ref": "Genesis 50:19",
+    "at": [
+     49,
+     19
+    ],
+    "s": "After Jacob’s burial, the brothers, fearing Joseph’s revenge, send word of their father’s last charge and fall before him as bondmen; Rashi, on 50:19, reads his answer as asking how he alone could harm those whose evil design God had already turned to good.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 50:19, Hebrew text of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "שֶׁמָּא בִּמְקוֹמוֹ אֲנִי? בִּתְמִיהָ, אִם הָיִיתִי רוֹצֶה לְהָרַע לָכֶם, כְּלוּם אֲנִי יָכוֹל? וַהֲלֹא אַתֶּם כֻּלְּכֶם חֲשַׁבְתֶּם עָלַי רָעָה, וְהַקָּדוֹשׁ בָּרוּךְ הוּא חֲשָׁבָהּ לְטוֹבָה וְהֵיאַךְ אֲנִי לְבַדִּי יָכוֹל לְהָרַע לָכֶם",
+     "gloss": "Am I perhaps in His place? (a question). If I wished to harm you, could I at all? Did not all of you together design evil against me, and the Holy One, blessed be He, designed it for good; how then can I alone harm you?"
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d017-s",
+    "key": "And it came to pass in those days, when Moses was grown up, that he went out unto his brethren, and looked on their burdens; and he saw an Egyptian smiting a Hebrew, one of his brethren.",
+    "ref": "Exodus 2:11",
+    "at": [
+     51,
+     11
+    ],
+    "s": "Raised as the son of Pharaoh’s daughter, Moses, now a man, first meets the bondage of the Hebrews; the Midrash, Exodus Rabbah 1:27, reads his seeing as weeping over their burdens and shouldering them, care for which God later calls him from the bush.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Exodus Rabbah 1:27, Hebrew text (Torat Emet), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "שֶׁהָיָה רוֹאֶה בְּסִבְלוֹתָם וּבוֹכֶה וְאוֹמֵר, חֲבָל לִי עֲלֵיכֶם מִי יִתֵּן מוֹתִי עֲלֵיכֶם … וְהָיָה נוֹתֵן כְּתֵפָיו וּמְסַיֵּעַ לְכָל אֶחָד וְאֶחָד מֵהֶן … אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא אַתָּה הִנַּחְתָּ עֲסָקֶיךָ וְהָלַכְתָּ לִרְאוֹת בְּצַעֲרָן שֶׁל יִשְׂרָאֵל, וְנָהַגְתָּ בָּהֶן מִנְהַג אַחִים, אֲנִי מַנִּיחַ אֶת הָעֶלְיוֹנִים וְאֶת הַתַּחְתּוֹנִים, וַאֲדַבֵּר עִמְּךָ",
+     "gloss": "He would look on their burdens and weep, saying: woe is me for you, would that I could die for you; and he would put his shoulders under the loads and help each one of them. The Holy One, blessed be He, said: you left your own affairs and went to see the suffering of Israel and treated them as brothers; I will leave the upper and the lower worlds and speak with you (the passage goes on to the call from the bush, Exodus 3:4)."
+    }
+   }
+  }
+ ]
+}

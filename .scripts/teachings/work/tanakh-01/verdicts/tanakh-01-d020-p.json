@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Speak now in the ears of the people, and let them ask every man of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold.’",
+ "ref": "Exodus 11:2",
+ "at": [
+  60,
+  2
+ ],
+ "s": "With one plague left, God gives Moses a word for the people; Rashi, on Exodus 11:2, hears ‘now’ as God’s plea to Moses, so that Abraham may not say the bondage foretold him came true but the great wealth did not.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Exodus 11:2, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on Exodus, Hebrew of Rosenbaum and Silbermann, 1929 to 1934",
+    "locator": "Rashi on Exodus 11:2, s.v. דבר נא",
+    "via": "packet"
+   }
+  ],
+  "words": "אֵין נָא אֶלָּא לְשׁוֹן בַּקָּשָׁה, בְּבַקָּשָׁה מִמְּךָ הַזְהִירֵם עַל כָּךְ, שֶׁלֹּא יֹאמַר אוֹתוֹ צַדִּיק אַבְרָהָם \"וַעֲבָדוּם וְעִנּוּ אוֹתָם\" (בראשית ט\"ו), קִיֵּם בָּהֶם, \"וְאַחֲרֵי כֵן יֵצְאוּ בִּרְכֻשׁ גָּדוֹל\" (שם), לֹא קִיֵּם בָּהֶם",
+  "lang": "Hebrew",
+  "gloss": "Na is only an expression of entreaty: I beg you, warn them about this, so that that righteous man Abraham may not say: ‘and they shall serve them and they shall afflict them’ (Genesis 15) He fulfilled in them, but ‘and afterward they shall come out with great substance’ He did not fulfil in them.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (Exodus 11:2, at 60,2). Rashi on 11:2 takes na as entreaty, God begging Moses to charge the people, lest Abraham say the servitude of Genesis 15 came true for them and the great substance did not: the sentence says exactly this, quoting one word of the key verse. Plain sense (11:1, one plague more, a charge for the people) is faithful. Ibn Ezra reads na as ‘now’ and differs, but the entry names only Rashi. entry-check ok."
+}

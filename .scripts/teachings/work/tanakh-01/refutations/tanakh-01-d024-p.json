@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d024-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 24 --verse 22:24: Rashi s.v. לא תהיה לו כנשה says do not demand it of him by force; if you know he has nothing, do not appear to him as though you had lent to him but as though you had not, that is, do not shame him (לא תכלימהו). Evidence verbatim (machine-checked). The paraphrase joins the ‘by force’ clause to the ‘he has nothing’ clause, but Rashi forbids forcing any debtor, so forbidding pressure on one who cannot pay is within his words; ‘appears as though he never lent’ and ‘so as not to shame him’ are his. Rashi’s own voice here, no source tag on this lemma. Plain sense checked with day.js: 22:20 to 23 stranger, widow and fatherless, then 22:24 lending; no four-word run. No comparison, tone plain (the law stated as law). verse.js ok (Exodus 22:24, at [71,24]); entry-check.js ok, no warns.",
+ "better": ""
+}

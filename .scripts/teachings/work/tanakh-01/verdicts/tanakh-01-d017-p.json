@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Joseph said unto them: ‘Fear not; for am I in the place of God?",
+ "ref": "Genesis 50:19",
+ "at": [
+  49,
+  19
+ ],
+ "s": "After Jacob’s burial, the brothers, fearing Joseph’s revenge, send word of their father’s last charge and fall before him as bondmen; Rashi, on 50:19, reads his answer as asking how he alone could harm those whose evil design God had already turned to good.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Genesis 50:19, Hebrew text of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Genesis 50:19, lemma כי התחת אלהים אני",
+    "via": "packet"
+   }
+  ],
+  "words": "שֶׁמָּא בִּמְקוֹמוֹ אֲנִי? בִּתְמִיהָ, אִם הָיִיתִי רוֹצֶה לְהָרַע לָכֶם, כְּלוּם אֲנִי יָכוֹל? וַהֲלֹא אַתֶּם כֻּלְּכֶם חֲשַׁבְתֶּם עָלַי רָעָה, וְהַקָּדוֹשׁ בָּרוּךְ הוּא חֲשָׁבָהּ לְטוֹבָה וְהֵיאַךְ אֲנִי לְבַדִּי יָכוֹל לְהָרַע לָכֶם",
+  "lang": "Hebrew",
+  "gloss": "Am I perhaps in His place? (said in wonder). If I wished to harm you, could I at all? Did not all of you design evil against me, and the Holy One, blessed be He, designed it for good; how then can I alone harm you?",
+  "licence": "Hebrew: public domain; English (Rosenbaum and Silbermann): public domain, not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (Genesis 50:19, at [49,19], 15 words). Plain sense matches 50:15 to 18 (brothers fear requital, send the message of their father’s command, fall before him saying they are bondmen). Rashi on 50:19 reads the question as: could I harm you at all, when all of you designed evil and God designed it for good; how can I alone harm you. The sentence paraphrases this without drift (Rashi’s 50:21 comment gives further reasons, not contradicted). entry-check ok, 44 words."
+}

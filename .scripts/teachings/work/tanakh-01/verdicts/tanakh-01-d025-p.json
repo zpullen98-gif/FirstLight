@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d025-p",
+ "d": 25,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And let them make Me a sanctuary, that I may dwell among them.",
+ "ref": "Exodus 25:8",
+ "at": [
+  74,
+  8
+ ],
+ "s": "After listing the freewill gifts, God names their purpose; the Midrash, in Exodus Rabbah 33:1, hears in it God, who cannot part from the Torah He has given, asking for a house wherever Israel goes, like a king whose only daughter has married.",
+ "by": "midrash",
+ "by2": "",
+ "hedge": "",
+ "src": "The Midrash, Exodus Rabbah 33:1, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Shemot%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Shemot Rabbah, Hebrew Midrash Rabbah (Torat Emet)",
+    "locator": "Exodus Rabbah 33:1, printed under Exodus 25:2, with a (see ...) line from Exodus 25:8",
+    "via": "packet"
+   }
+  ],
+  "words": "מָשָׁל לְמֶלֶךְ שֶׁהָיָה לוֹ בַּת יְחִידָה, בָּא אֶחָד מִן הַמְּלָכִים וּנְטָלָהּ … כָּךְ אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא לְיִשְׂרָאֵל, נָתַתִּי לָכֶם אֶת הַתּוֹרָה, לִפְרשׁ הֵימֶנָּה אֵינִי יָכוֹל, לוֹמַר לָכֶם אַל תִּטְלוּהָ אֵינִי יָכוֹל, אֶלָּא בְּכָל מָקוֹם שֶׁאַתֶּם הוֹלְכִים בַּיִת אֶחָד עֲשׂוּ לִי שֶׁאָדוּר בְּתוֹכוֹ, שֶׁנֶּאֱמַר (שמות כה, ח): וְעָשׂוּ לִי מִקְדָּשׁ",
+  "lang": "Hebrew",
+  "gloss": "A parable of a king who had an only daughter; one of the kings came and took her [in marriage] … So the Holy One, blessed be He, said to Israel: I have given you the Torah; to part from it I am unable; to tell you not to take it I am unable; but wherever you go, make Me one house that I may dwell in it, as it is said: ‘And let them make Me a sanctuary’.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 25:8, at [74,8]). Plain sense faithful: 25:2 to 7 list the offerings of every willing heart, and 25:8 gives their purpose, the sanctuary. Exodus Rabbah 33:1 (printed by the packet under 25:2, with a (see ...) line at 25:8) closes its parable of the king whose only daughter marries another king by having God tell Israel He cannot part from the Torah He gave, so wherever they go they should make Him one house to dwell in, citing 25:8 explicitly; the sentence carries this without drift. Rashi, Ibn Ezra, Rashbam and Sforno on 25:8 are brief or differ in kind and do not contradict it. Evidence copied from packet.js output; gate ok."
+}

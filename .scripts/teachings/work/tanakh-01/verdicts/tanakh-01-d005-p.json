@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "That be far from Thee to do after this manner, to slay the righteous with the wicked, that so the righteous should be as the wicked; that be far from Thee; shall not the judge of all the earth do justly?’",
+ "ref": "Genesis 18:25",
+ "at": [
+  17,
+  25
+ ],
+ "s": "As the LORD prepares to destroy Sodom and Gomorrah for their sin, Abraham pleads for the cities; the Midrash, Genesis Rabbah 49:9, reads his question as an argument that a world cannot endure strict justice unless God yields a little.",
+ "by": "midrash",
+ "by2": "",
+ "hedge": "",
+ "src": "The Midrash, Genesis Rabbah 49:9, Hebrew (Torat Emet text), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Bereshit Rabbah, Hebrew Midrash Rabbah (Torat Emet), with The Sefaria Midrash Rabbah 2022 English, Sefaria-Export-Archive commit 3f10136",
+    "locator": "Genesis Rabbah 49:9, placed on Genesis 18:24 to 18:25 (packet.js tanakh 5 --verse 18:25); Rabbi Levi on Genesis 18:25",
+    "via": "packet"
+   }
+  ],
+  "words": "אִם עוֹלָם אַתָּה מְבַקֵּשׁ אֵין דִּין, וְאִם דִּין אַתָּה מְבַקֵּשׁ לֵית עוֹלָם, אַתְּ תָּפֵיס חַבְלָא בִּתְרֵין רָאשִׁין, בָּעֵי עָלְמָא וּבָעֵי דִינָא, אִם לֵית אַתְּ מְוַתֵּר צִבְחַר, לֵית עָלְמָא יָכֵיל קָאֵים",
+  "lang": "Hebrew and Aramaic",
+  "gloss": "Rabbi Levi, on “Shall not the judge of all the earth do justly” (Abraham arguing): If You seek a world, there is no strict justice; and if You seek strict justice, there is no world. You are holding the rope at both ends: You want the world and You want strict justice. If You do not yield a little, the world cannot stand.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (text centuries old); gloss is my own",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 18:25, at [17,25]). Opened the Genesis Rabbah packet for 18:25: in 49:9 Rabbi Levi takes Abraham’s question “shall not the judge of all the earth do justly” as the argument that a world cannot stand on strict justice unless God yields a little (the same saying recurs in 39:6); the reading is his, at the place named, and adds nothing. Plain sense faithful: the LORD speaks of the outcry against Sodom and Gomorrah and the cities are destroyed in chapter 19 of the same day; Abraham pleads. The proposer’s evidence string had its niqqud marks in a different code-point order from the packet, so the evidence here is recopied character for character from the packet. Entry unchanged; entry-check ok."
+}

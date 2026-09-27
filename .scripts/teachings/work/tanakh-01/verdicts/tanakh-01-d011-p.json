@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And it came to pass on the third day, when they were in pain, that two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and came upon the city unawares, and slew all the males.",
+ "ref": "Genesis 34:25",
+ "at": [
+  33,
+  25
+ ],
+ "s": "After Shechem rapes Dinah and his townsmen are circumcised on her brothers’ terms, two brothers take revenge; Ramban, on Genesis 34:13, reads the killing as violence without cause against men who had done them no harm and were not theirs to judge.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Genesis 34:13, Hebrew (Sefaria’s “On Your Way” text), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Ramban on Genesis, Hebrew “On Your Way”, with Chavel’s English (1971 to 1976, CC-BY), Sefaria-Export-Archive commit 3f10136",
+    "locator": "Ramban on Genesis 34:13 (packet.js tanakh 11 --verse 34:13); the closing part of his long comment, after his reply to Rambam",
+    "via": "packet"
+   }
+  ],
+  "words": "אלא שאין הדבר מסור ליעקב ובניו לעשות בהם הדין אבל ענין שכם כי בני יעקב בעבור שהיו אנשי שכם רשעים ודמם חשוב להם כמים רצו להנקם מהם בחרב נוקמת והרגו המלך וכל אנשי עירו כי עבדיו הם וסרים אל משמעתו ואין הברית אשר נמולו נחשב בעיניהם למאומה כי היה להחניף לאדוניהם ויעקב אמר להם בכאן כי הביאוהו בסכנה שנאמר עכרתם אותי להבאישני ושם ארר אפם כי עשו חמס לאנשי העיר שאמרו להם במעמדו וישבנו אתכם והיינו לעם אחד והם היו בוחרים בהם ובעטו בדבורם ואולי ישובו אל ה' והרגו אותם חנם כי לא הרעו להם כלל",
+  "lang": "Hebrew",
+  "gloss": "Only, the matter was not given over to Jacob and his sons to execute judgement on them. Rather, the sons of Jacob, because the men of Shechem were wicked and their blood counted as water to them, wanted to take revenge with an avenging sword, and killed the king and all his townsmen, his subjects; the covenant of their circumcision counted for nothing in their eyes, since it was done to flatter their master. Jacob told them here that they had put him in danger, and there [Genesis 49] he cursed their anger because they did violence to the men of the city, to whom they had said in his presence “we will dwell with you and become one people”; those men had chosen them and trusted their word, and perhaps would have turned to the LORD, and they killed them for nothing, for they had done them no harm at all.",
+  "licence": "Hebrew: public domain; gloss is my own",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 34:25, at [33,25]). Opened every source packet.js prints for 34:25 and 34:13 (Rashi, Ibn Ezra, Radak, Ramban, Rashbam, Sforno, Genesis Rabbah); Ramban has nothing at 34:25 and gives his reading of the killing in his long comment on 34:13. There, after rejecting Rambam’s justification and granting that the Shechemites were idolaters, he says the matter was not given to Jacob and his sons to judge, that they killed the men of the city חנם, for nothing, and that this was the violence (חמס) for which Jacob cursed their anger: the sentence carries exactly this, with the limit he sets. Plain sense faithful and plain (rule 6): Shechem took Dinah and humbled her, the men of his city were circumcised on the brothers’ condition, Simeon and Levi killed the males. The proposer’s evidence joined three separate fragments with ellipses, which cannot be re-found by machine; the evidence here is one contiguous span copied from the packet (96 words, public-domain Hebrew). Entry unchanged; entry-check ok."
+}

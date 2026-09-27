@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-01-d009-p",
+ "d": 9,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven; and behold the angels of God ascending and descending on it.",
+ "ref": "Genesis 28:12",
+ "at": [
+  27,
+  12
+ ],
+ "s": "Bound for Haran, Jacob sleeps on the road with a stone beneath his head; Rashi, on 28:12, reads the ascent named first as the land’s angels, who may not leave it, going up, and others coming down to escort him abroad, and Rashbam, on the same verse, as the common way of speaking, which puts ascent before descent.",
+ "by": "rashi",
+ "by2": "rashbam",
+ "hedge": "",
+ "src": "Rashi and Rashbam, Commentaries on the Torah, on Genesis 28:12, Hebrew texts, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934), Sefaria-Export-Archive commit 3f10136",
+    "locator": "Rashi on Genesis 28:12, comment headed עולים וירדים (packet.js tanakh 9 --verse 28:12)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Genesis/Hebrew/daat.json",
+    "edition": "Rashbam on Genesis, Hebrew (daat) with Munk’s English, Sefaria-Export-Archive commit 3f10136",
+    "locator": "Rashbam on Genesis 28:12, comment headed עולים ויורדים (packet.js tanakh 9 --verse 28:12)",
+    "via": "packet"
+   }
+  ],
+  "words": "עוֹלִים תְּחִלָּה וְאַחַר כָּךְ יוֹרְדִים? מַלְאָכִים שֶׁלִּוּוּהוּ בָּאָרֶץ אֵין יוֹצְאִים חוּצָה לָאָרֶץ, וְעָלוּ לָרָקִיעַ וְיָרְדוּ מַלְאֲכֵי חוּצָה לָאָרֶץ לְלַוּוֹתוֹ … לפי הפשט: אין לדקדק במה שהקדים עולים ליורדים, שכן דרך ארץ להזכיר עליה קודם ירידה",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 28:12] Ascending first and afterwards descending? The angels who escorted him in the Land do not go outside the Land; they went up to heaven, and the angels of outside the Land came down to escort him … [Rashbam, on 28:12] According to the plain sense, there is nothing to read into ascending being put before descending, for it is the common way of speaking to mention going up before coming down.",
+  "licence": "Hebrew: public domain (packet); gloss is my own",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 28:12, at [27,12]). Opened the packet for 28:12: Rashi (headed עולים וירדים) asks why ascending comes first and answers that the angels of the Land, who do not leave it, went up and the angels of outside the Land came down to escort him; Rashbam (headed עולים ויורדים) says, by the plain sense, the order means nothing, since common speech puts going up before coming down. The two genuinely differ on the same words, and the sentence names both without resolving (rule 5). ‘may not leave it’ renders אין יוצאים, as the public-domain English does (‘were not permitted to leave’). Plain sense faithful: Jacob goes out from Beer-sheba toward Haran and lies down with a stone under his head (28:10 to 11). Entry unchanged; entry-check ok."
+}

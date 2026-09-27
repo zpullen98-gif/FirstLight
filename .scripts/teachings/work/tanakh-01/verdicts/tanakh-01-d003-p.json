@@ -1,0 +1,35 @@
+{
+ "id": "tanakh-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I have set My bow in the cloud, and it shall be for a token of a covenant between Me and the earth.",
+ "ref": "Genesis 9:13",
+ "at": [8, 13],
+ "s": "After the flood, God covenants never again to destroy the earth; Ramban, on 9:12, reads ‘My bow’ as the rainbow set in nature since creation and now made a sign, its ends turned down from heaven, as warriors invert the bow to call for peace.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Genesis 9:12, the Hebrew in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Ramban on Genesis, Hebrew “On Your Way”, Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Genesis 9:12, lemma זאת אות הברית אשר אני נותן (nothing of his is filed on 9:13)",
+    "via": "packet"
+   }
+  ],
+  "words": "כי הקשת לא עשאו שיהיו רגליו למעלה שיראה כאלו מן השמים מורים בו … אבל עשאו בהפך מזה להראות שלא יורו בו מן השמים וכן דרך הנלחמים להפוך אותו בידם ככה כאשר יקראו לשלום למי שכנגדם … ולכן נפרש הכתוב הקשת אשר נתתי בענן מיום הבריאה תהיה מן היום הזה והלאה לאות ברית ביני וביניכם … ועוד כי כאשר תראה בהפוך הנזכר יהיה זכר לשלום כאשר כתבנו",
+  "lang": "Hebrew",
+  "gloss": "He did not make the bow with its feet upward, so that it would look as if they were shooting with it from heaven … but made it the reverse, to show that they are not shooting with it from heaven; and so it is the way of fighters to turn it over in their hands when they call for peace to those opposite them … Therefore we explain the verse: the bow which I set in the cloud from the day of creation will be, from this day on, a sign of the covenant between Me and you … Moreover, when it is seen turned over as mentioned, it will be a remembrance of peace, as we have written.",
+  "licence": "Hebrew: public domain (Sefaria export); English (Chavel) CC-BY, not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (Genesis 9:13, at [8,13], 23 words). Plain sense faithful to 9:8 to 11 (no more a flood to destroy the earth); no four words of the key repeated. Ramban’s single comment, filed on 9:12 and expounding 9:13’s ‘I have set My bow’ (he has nothing filed on 9:13), holds both halves: the bow is natural and set from creation, now designated a sign (his own ‘ולכן נפרש’), and the inverted bow as a sign of peace, which he introduces as what others said (‘ואמרו’) but then takes up in his own voice (‘as we have written’), so the attribution to him stands. He adds a kabbalistic reading (the bow as the attribute of judgement) that the sentence does not claim. entry-check ok."
+}

@@ -73,6 +73,8 @@ if (a.includes('--revise-critic')) {
           parts.forEach(x => { const r = x.split(/\s*to\s*/).map(Number); for (let d = r[0]; d <= (r[1] || r[0]); d++) days.add(d); });
         }
         (txt.match(/\bd(\d{1,3})\b/g) || []).forEach(x => days.add(+x.slice(1)));
+        const rangeRe = /\bd(\d{1,3})\s+to\s+d?(\d{1,3})\b/g;
+        while ((m = rangeRe.exec(txt))) for (let d = +m[1]; d <= +m[2]; d++) days.add(d);
         days.forEach(d => { const sv = st.days[d] && st.days[d].survivor; if (sv) ids.add(sv.id); });
       }
       [...ids].forEach(id => add(id, p));

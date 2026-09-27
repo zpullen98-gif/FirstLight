@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d028-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 28 --verse 33:19: Rashi on ויאמר אני אעביר (I need to teach you an order of prayer; you invoked the patriarchs’ merit as if no hope remained once it was spent) and on וקראתי בשם ה׳ לפניך (the order of asking mercy even if that merit is exhausted; by naming Merciful and Gracious they will be answered, for My mercies do not end). All three evidence pieces found verbatim. The sentence carries this without drift; his next comment (ורחמתי) says the promise here is at times answered, sealed only at 34:10, which qualifies but does not contradict avails (his own word is יהיו נענין). Plain sense checked against 32:30 to 33:18 in day.js: Moses pleads after the calf, then asks to see the glory. verse.js ok (Exodus 33:19, at [82,19]); entry-check ok. No comparison, school not required, tone neutral.",
+ "better": ""
+}

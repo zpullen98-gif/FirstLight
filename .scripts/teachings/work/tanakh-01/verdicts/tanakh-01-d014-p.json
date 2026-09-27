@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Joseph remembered the dreams which he dreamed of them, and said unto them: ‘Ye are spies; to see the nakedness of the land ye are come.’",
+ "ref": "Genesis 42:9",
+ "at": [
+  41,
+  9
+ ],
+ "s": "As his brothers bow before him, not knowing him, Joseph turns on them with a charge; Rashi, on 42:9, reads it as Joseph knowing his dreams had come true, since they had bowed, and Ramban, on 42:9, as knowing none yet had, since Benjamin was absent, so he devised the charge to bring him.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi and Ramban, Commentaries on the Torah, on Genesis 42:9, Hebrew texts, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "locator": "Genesis 42:9, dibbur hamatchil אשר חלם להם",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Ramban on Genesis, Hebrew (On Your Way), with Chavel’s English, Sefaria export commit 3f10136 (2026)",
+    "locator": "Genesis 42:9, dibbur hamatchil ויזכר יוסף את החלומות אשר חלם להם",
+    "via": "packet"
+   }
+  ],
+  "words": "עֲלֵיהֶם; וְיָדַע שֶׁנִּתְקַיְּמוּ שֶׁהֲרֵי הִשְׁתַּחֲווּ לוֹ … ולפי דעתי שהדבר בהפך כי יאמר הכתוב כי בראות יוסף את אחיו משתחוים לו זכר כל החלומות אשר חלם להם וידע שלא נתקיים אחד מהם בפעם הזאת … וכיון שלא ראה בנימן עמהם חשב זאת התחבולה שיעליל עליהם כדי שיביאו גם בנימין אחיו אליו לקיים החלום הראשון תחילה",
+  "lang": "Hebrew",
+  "gloss": "Rashi: about them; and he knew they had come true, for they had bowed to him. Ramban: in my view the matter is the reverse; seeing his brothers bow, he remembered the dreams and knew not one had yet come true this time; and since he did not see Benjamin with them, he devised this stratagem of a charge so they would bring Benjamin to him, to fulfil the first dream first.",
+  "licence": "Hebrew: public domain (Sefaria export); gloss is the verifier’s own",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 42:9, at [41,9]). Plain sense faithful to 42:6 to 42:9 (the brothers bow, 42:8 they do not know him, he charges them), present tense, no four-word run. Rashi on 42:9 (אשר חלם להם) reads that he knew the dreams had come true since they bowed; Ramban on the same words quotes Rashi and says the reverse: none yet fulfilled, Benjamin absent, so he devised the charge to bring him. A genuine disagreement, named and not resolved; two commentators within 60 words. Entry-check ok."
+}

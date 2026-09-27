@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d026-p",
+ "d": 26,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And thou shalt make holy garments for Aaron thy brother, for splendour and for beauty.",
+ "ref": "Exodus 28:2",
+ "at": [
+  77,
+  2
+ ],
+ "s": "As Aaron and his sons are called to the priesthood, God turns to their garments; Ramban, on Exodus 28:2, reads it as clothing the priest in royal dignity, since the tunic, mitre, breastplate and plate matched what kings wore when the Torah was given.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Exodus 28:2, the Hebrew text in Sefaria’s export of 1 September 2026",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Exodus/Hebrew/On%20Your%20Way.json?generation=1788233812749203",
+    "edition": "Sefaria-Export bucket object generation 1788233812749203 (the export of 2026-09-01), Ramban on Exodus, Hebrew “On Your Way”",
+    "locator": "Ramban on Exodus 28:2, comment on לכבוד ולתפארת, first paragraph (the plain reading, before ועל דרך האמת)",
+    "via": "packet"
+   }
+  ],
+  "words": "לכבוד ולתפארת שיהיה נכבד ומפואר במלבושים נכבדים ומפוארים, כמו שאמר הכתוב כחתן יכהן פאר (ישעיה סא י), כי אלה הבגדים לבושי מלכות הן, כדמותן ילבשו המלכים בזמן התורה … והמצנפת ידועה גם היום למלכים ולשרים הגדולים … והאפוד והחשן לבוש מלכות … והציץ נזר המלכים הוא",
+  "lang": "Hebrew",
+  "gloss": "For splendour and for beauty: that he be honoured and glorified in honoured and glorious garments, as Scripture says, as a bridegroom puts on a priestly diadem (Isaiah 61:10), for these garments are royal garments; kings wore their likeness in the time of the Torah … and the mitre is known even today among kings and great lords … and the ephod and the breastplate are royal dress … and the plate is the crown of kings.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old); no copyrighted English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 28:2, at [77,2]). Plain sense faithful: 28:1 calls Aaron and his sons to minister in the priest’s office and 28:2 turns to the holy garments (28:4 and 28:40 extend them to the sons). Ramban’s first paragraph on לכבוד ולתפארת says the priest is to be honoured and glorified in garments of royalty, whose likeness kings wore in the time of the Torah, and goes through the chequered tunic, the mitre, the ephod and breastplate, and the plate as royal dress: the sentence carries this without drift. His second reading (על דרך האמת, the honour of the indwelling Name) is a further layer the sentence does not contradict. Rashi has nothing on 28:2; Ibn Ezra and Sforno are briefer. Evidence pieces copied from the packet’s Hebrew; gate ok."
+}

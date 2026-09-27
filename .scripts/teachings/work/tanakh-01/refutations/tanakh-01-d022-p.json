@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d022-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Exodus/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tanakh 22 --verse 14:13: Ibn Ezra’s long commentary on 14:13 (lemma התיצבו וראו את ישועת ה׳, a phrase in the key verse) asks why six hundred thousand men feared (יירא) their pursuers and answers in his own voice that the Egyptians had been Israel’s masters and this generation learned from youth to bear Egypt’s yoke, its spirit low, so could not fight its masters; the evidence string is verbatim there and carries ‘terror’, ‘trained from youth to bear Egypt’s yoke’, ‘too low in spirit’ and ‘fight their masters’ without drift. Src names the long commentary, as the trap requires. Plain sense checked with day.js: 14:9 the chariots overtake Israel encamped by the sea, 14:10 to 12 the people’s fear and complaint, 14:13 Moses’ answer; nothing added, no four-word run. No comparison, no school needed, tone plain. verse.js ok (Exodus 14:13, at [63,13]); entry-check.js ok, no warns; 41 words, one semicolon.",
+ "better": ""
+}

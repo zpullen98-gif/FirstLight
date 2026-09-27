@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Every attack failed. Re-opened packet.js tanakh 1 --verse 1:26. Rashi has two comments on נעשה אדם at 1:26. The first says the humility of the Holy One is learned from here: man is in the likeness of the angels, they might envy him, so He took counsel with them. The second says that although they did not help in forming him, the verse still teaches the trait of humility, that the greater should consult and take leave of the lesser. That carries every clause of the paraphrase: the plural, humility, consulting the angels, no part in the making, greater and lesser. There is no drift, and it is Rashi’s own comment, not the translator’s. Both evidence segments match the packet after Unicode NFC normalisation; recheck-evidence.js normalises with NFKC, and the raw bytes differ only in the order of the vowel points. The plain sense checks against day.js: the land animals are made at 1:24 to 25, and 1:31 closes the sixth day. verse.js is ok (Genesis 1:26, at [0,26], one unit of 50 words), and entry-check is ok (44 words). The verse is the right one to choose for this reading.",
+ "better": ""
+}

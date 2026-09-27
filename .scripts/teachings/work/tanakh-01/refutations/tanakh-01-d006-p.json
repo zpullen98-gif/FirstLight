@@ -1,0 +1,14 @@
+{
+ "id": "tanakh-01-d006-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [
+  "plain",
+  "tone"
+ ],
+ "reason": "The reading stands: re-opened packet.js tanakh 6 --verse 22:1 and Ramban on והאלקים נסה את אברהם says the trial is so called from the side of the one tried, whose deeds are in his free power, while God commands so as to bring the thing from potential into act, that he have the reward of a good deed and not of a good heart alone, and that all the Torah’s trials are for the good of the one tried; both evidence segments are verbatim in the packet. verse.js ok (Genesis 22:1, at [21,1]) and entry-check ok. What lands is the plain-sense clause. (1) ‘Ishmael sent away’: the day’s text (Genesis 20 to 23, day.js) never names Ishmael; chapter 21 calls him the son of Hagar the Egyptian, the lad, the son of the bondwoman (grep of day.js for Ishmael: 0). Rule 2 asks for the passage in its own terms. (2) Rule 6: the binding is a hard passage (the verdict itself tags it violence), and 22:2 commands Abraham to offer Isaac ‘for a burnt-offering’; ‘offer Isaac up’ drops what the offering is, a mild softening where the rule asks for one plain clause. A smaller point, not scored: ‘his readiness’ is not in Ramban’s words (he says הדבר, the thing), though his note that God tries the righteous knowing they will do His will makes it an inference, not an invention. The revision below keeps the reading and its place, fixes all three, and gates ok at 45 words.",
+ "better": "With Isaac born and Hagar’s son sent away, the chapter turns to the command to offer Isaac as a burnt-offering; Ramban, on 22:1, reads the trial as for Abraham’s good, bringing the deed from potential into act, to reward the deed, not good intent alone."
+}

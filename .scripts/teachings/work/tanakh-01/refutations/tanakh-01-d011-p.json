@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d011-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 11 --verse 34:13. Ramban’s long comment on 34:13 is there, and the evidence is a verbatim contiguous substring of it. His argument runs as follows. He rejects Rambam’s justification (Noahide judges). He grants that the Shechemites, like the seven nations, were idolaters. He then says that it was not given over to Jacob and his sons to judge them (אין הדבר מסור ליעקב ובניו לעשות בהם הדין). The brothers took revenge with an avenging sword and did violence (חמס) to the townsmen, who had trusted their word. They killed them for nothing, for they had done them no harm at all (והרגו אותם חנם כי לא הרעו להם כלל). This is Ramban’s own voice explaining Jacob’s curse. So “violence without cause”, “had done them no harm” and “not theirs to judge” are each carried by his words, and “not theirs to judge” keeps the limit he sets: he does not call them innocent, and he denies the brothers the right to judge. The locator is right (the comment stands on 34:13 and Ramban has nothing at 34:25). The plain sense matches day.js. 34:2 has him take her, lie with her and humble her (the same verb JPS renders “forced” at 2 Samuel 13:14), so “rapes” is plain, not sensational. The circumcision on the brothers’ condition (34:15, 34:24) and the revenge (34:27, 34:31) are in the text, and no four words of the key are repeated. No school is needed, and there is no comparison. Rule 6 is met: the killing is stated plainly and the reading is attributed. verse.js is ok (Genesis 34:25, at [33,25], 42 words, whole verse, no dash), and entry-check is ok with no errors or warnings.",
+ "better": ""
+}

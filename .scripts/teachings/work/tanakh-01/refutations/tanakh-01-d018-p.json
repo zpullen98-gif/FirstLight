@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d018-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 18 --verse 3:14: Rashi s.v. אהיה אשר אהיה reads the name as God being with them in this trouble and in the subjection to other kingdoms; Moses objects that this trouble is enough, God agrees and gives only the short message (כה תאמר). The evidence words are verbatim. The paraphrase is carried: promise in this trouble and later bondage, the mention of the second withheld at Moses’ objection. Rashi draws on Berakhot 9b and cites it, but the comment is his and he is the roster default. Plain sense (3:13, Moses at the bush asking what to say when asked the name) is faithful and does not echo the verse. verse.js ok (Exodus 3:14, at 52,14, unit 13); entry-check ok, no warns. Attacks tried and not landing: ‘the second withheld’ could be misread as the later bondage itself being spared rather than its mention, and ‘plea’ slightly heightens Moses’ objection; both within tolerance.",
+ "better": "Optional tightening: ‘the second left unsaid at Moses’ plea’ makes plain that it is the mention, not the bondage, that is withheld."
+}

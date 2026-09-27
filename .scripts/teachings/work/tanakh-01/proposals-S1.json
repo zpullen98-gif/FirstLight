@@ -1,0 +1,89 @@
+{
+ "lane": "S1",
+ "plan": "tanakh",
+ "batch": "tanakh-01",
+ "days": [
+  {
+   "d": 5,
+   "primary": {
+    "id": "tanakh-01-d005-p",
+    "key": "That be far from Thee to do after this manner, to slay the righteous with the wicked, that so the righteous should be as the wicked; that be far from Thee; shall not the judge of all the earth do justly?’",
+    "ref": "Genesis 18:25",
+    "at": [
+     17,
+     25
+    ],
+    "s": "As the LORD prepares to destroy Sodom and Gomorrah for their sin, Abraham pleads for the cities; the Midrash, Genesis Rabbah 49:9, reads his question as an argument that a world cannot endure strict justice unless God yields a little.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Genesis Rabbah 49:9, Hebrew (Torat Emet text), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "אִם עוֹלָם אַתָּה מְבַקֵּשׁ אֵין דִּין, וְאִם דִּין אַתָּה מְבַקֵּשׁ לֵית עוֹלָם, אַתְּ תָּפֵיס חַבְלָא בִּתְרֵין רָאשִׁין, בָּעֵי עָלְמָא וּבָעֵי דִינָא, אִם לֵית אַתְּ מְוַתֵּר צִבְחַר, לֵית עָלְמָא יָכֵיל קָאֵים",
+     "gloss": "Genesis Rabbah 49:9, Rabbi Levi on “Shall not the judge of all the earth do justly”, as Abraham’s plea: If You seek a world, there can be no strict justice; and if You seek strict justice, there is no world. You are holding the rope at both ends: You want a world and You want strict justice. If You do not yield a little, the world cannot stand."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d005-s",
+    "key": "For I have known him, to the end that he may command his children and his household after him, that they may keep the way of the LORD, to do righteousness and justice; to the end that the LORD may bring upon Abraham that which He hath spoken of him.’",
+    "ref": "Genesis 18:19",
+    "at": [
+     17,
+     19
+    ],
+    "s": "About to destroy Sodom and Gomorrah for their sin, the LORD asks whether to hide it from Abraham and gives His reason; Rashi, on Genesis 18:19, reads ‘known him’ as a word of affection, given because Abraham charges his children to keep God’s ways.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Genesis 18:19, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לְשׁוֹן חִבָּה, כְּמוֹ מוֹדָע לְאִישָׁהּ … וְאָמְנָם עִקַּר לְשׁוֹן כֻּלָּם אֵינוֹ אֶלָּא לְשׁוֹן יְדִיעָה, שֶׁהַמְחַבֵּב אֶת הָאָדָם מְקָרְבוֹ אֶצְלוֹ וְיוֹדְעוֹ וּמַכִּירוֹ, וְלָמָּה יְדַעְתִּיו? … לְפִי שֶׁהוּא מְצַוֶּה אֶת בָּנָיו עָלַי לִשְׁמֹר דְּרָכַי",
+     "gloss": "Rashi on “For I have known him”: an expression of affection, as in “a kinsman of her husband” … Still, the root sense of all these words is knowing, for one who holds a person dear draws him near, knows him and is familiar with him. And why do I hold him dear? … [On “to the end that he may command”:] because he charges his children concerning Me to keep My ways."
+    }
+   }
+  },
+  {
+   "d": 11,
+   "primary": {
+    "id": "tanakh-01-d011-p",
+    "key": "And it came to pass on the third day, when they were in pain, that two of the sons of Jacob, Simeon and Levi, Dinah’s brethren, took each man his sword, and came upon the city unawares, and slew all the males.",
+    "ref": "Genesis 34:25",
+    "at": [
+     33,
+     25
+    ],
+    "s": "After Shechem rapes Dinah and his townsmen are circumcised on her brothers’ terms, two brothers take revenge; Ramban, on Genesis 34:13, reads the killing as violence without cause against men who had done them no harm and were not theirs to judge.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Genesis 34:13, Hebrew (Sefaria’s “On Your Way” text), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "אלא שאין הדבר מסור ליעקב ובניו לעשות בהם הדין … ושם ארר אפם כי עשו חמס לאנשי העיר … והרגו אותם חנם כי לא הרעו להם כלל",
+     "gloss": "Ramban on Genesis 34:13, after granting that the people of the land were idolaters and wicked: only, the matter was not given over to Jacob and his sons to execute judgement on them … and there [in his last words, Genesis 49] he cursed their anger, for they had done violence to the men of the city [who had been told “we will become one people”] … and they killed them for nothing, for they had done them no harm at all."
+    }
+   },
+   "standby": {
+    "id": "tanakh-01-d011-s",
+    "key": "And the sons of Jacob came in from the field when they heard it; and the men were grieved, and they were very wroth, because he had wrought a vile deed in Israel in lying with Jacob’s daughter; which thing ought not to be done.",
+    "ref": "Genesis 34:7",
+    "at": [
+     33,
+     7
+    ],
+    "s": "After Shechem rapes Dinah and seeks her as his wife, Jacob waits in silence for his sons; Rashi, on Genesis 34:7, reads ‘ought not’ as a bar on unchastity the nations set themselves because of the Flood, and Ramban, on Genesis 34:7, as a disgrace in Israel alone, the Canaanites being steeped in such acts.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi, on Genesis 34:7, Hebrew (Rosenbaum and Silbermann, 1929 to 1934); Ramban, on Genesis 34:7, Hebrew; both Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "וכן לא יעשה. לְעַנּוֹת אֶת הַבְּתוּלוֹת, שֶׁהָאֻמּוֹת גָּדְרוּ עַצְמָן מִן הָעֲרָיוֹת עַל יְדֵי הַמַּבּוּל … ולא ידעתי זה כי הכנענים שטופים בעריות … נמשך עם בישראל כי נבלה עשה בישראל וכן לא יעשה בהם על כן אמר בישראל כי איננה נבלה בין הכנענים",
+     "gloss": "Rashi on “which thing ought not to be done”: to violate maidens, for the nations had fenced themselves off from unchastity because of the Flood. … Ramban on the same words: I do not know this, for the Canaanites were steeped in unchastity … [the phrase] goes with “in Israel”: for he had done a vile deed in Israel, and so it ought not to be done among them; that is why it says “in Israel”, for it is no vile deed among the Canaanites."
+    }
+   }
+  }
+ ]
+}

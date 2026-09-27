@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d028-p",
+ "d": 28,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And He said: ‘I will make all My goodness pass before thee, and will proclaim the name of the LORD before thee; and I will be gracious to whom I will be gracious, and will show mercy on whom I will show mercy.’",
+ "ref": "Exodus 33:19",
+ "at": [
+  82,
+  19
+ ],
+ "s": "Moses, who has pleaded for the people after the calf, asks to see God’s glory; Rashi, on Exodus 33:19, reads the reply as teaching him an order of prayer for mercy that avails even when the patriarchs’ merit is spent, since His mercies never end.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Exodus 33:19, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Rashi on Exodus, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934)",
+    "locator": "Rashi on Exodus 33:19, comments on ויאמר אני אעביר and וקראתי בשם ה׳ לפניך",
+    "via": "packet"
+   }
+  ],
+  "words": "לְפִי שֶׁאֲנִי רוֹצֶה וְצָרִיךְ לְלַמֶּדְךָ סֵדֶר תְּפִלָּה; שֶׁכְּשֶׁנִּצְרַכְתָּ לְבַקֵּשׁ רַחֲמִים עַל יִשְׂרָאֵל הִזְכַּרְתָּ לִי זְכוּת אָבוֹת, כְּסָבוּר אַתָּה שֶׁאִם תַּמָּה זְכוּת אָבוֹת אֵין עוֹד תִּקְוָה … לְלַמֶּדְךָ סֵדֶר בַּקָּשַׁת רַחֲמִים אַף אִם תִּכְלֶה זְכוּת אָבוֹת … כִּי רַחֲמַי לֹא כָלִים",
+  "lang": "Hebrew",
+  "gloss": "[On ‘And He said, I will make pass’:] because I wish and need to teach you an order of prayer; for when you needed to seek mercy for Israel you mentioned to Me the merit of the patriarchs, thinking that if the merit of the patriarchs is spent there is no more hope … [on ‘and will proclaim the name of the LORD before thee’:] to teach you the order of asking for mercy even if the merit of the patriarchs is exhausted … for My mercies do not come to an end.",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 33:19, at [82,19]). Plain sense faithful: 32 to 33 tell of Moses pleading after the calf, and 33:18 is his request to see the glory. Rashi’s two comments on 33:19 (on ויאמר אני אעביר and on וקראתי בשם ה׳ לפניך) say God will teach Moses an order of prayer, since he had invoked the patriarchs’ merit as if no hope remained once it was spent, and that the order of asking mercy holds even if that merit is exhausted, for His mercies do not end. The sentence carries this without drift. Rashi’s later comment on ורחמתי (at times answered, made sure only by the covenant of 34:10) is a nuance the sentence does not contradict. Gate ok; evidence pieces found exactly in the packet."
+}

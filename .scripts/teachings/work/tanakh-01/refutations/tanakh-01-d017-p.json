@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d017-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi%27s%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 17 --verse 50:19: Rashi on the lemma כי התחת אלהים אני reads the question in wonder: if I wished to harm you could I at all, since all of you designed evil against me and the Holy One designed it for good, so how can I alone harm you. Evidence words are a verbatim substring of the packet. The sentence (how he alone could harm those whose evil design God had turned to good) is Rashi’s, not Ibn Ezra’s (who gives Saadiah’s: you fall before me as if I were in God’s place) nor Sforno’s (judge overturning God’s agents). Only faint pressure: “already turned to good” slightly sharpens חשבה לטובה (meant/designed it for good), but the past-tense design and Rashi’s point that their design failed because of it support it; not drift. Plain sense matches 50:14 to 18 (burial, brothers fear requital, send the message of their father’s charge, fall before him saying they are bondmen), no four-word overlap with the key. verse.js ok (Genesis 50:19, at [49,19], 15 words; the open quote runs on in the JPS to 50:21 and is kept verbatim). entry-check ok.",
+ "better": "Optional tightening closer to Rashi’s Hebrew חשבה לטובה: “whose evil design God had meant for good” in place of “had already turned to good”."
+}

@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "key": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.",
+ "ref": "Genesis 37:4",
+ "at": [
+  36,
+  4
+ ],
+ "s": "Opening Joseph’s story, Jacob makes his favourite son a coat of many colours; Rashi, on 37:4, reads the brothers’ discredit as teaching their praise, that they did not say one thing with the mouth and another in the heart.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Genesis 37:4, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verdict": "CORRECTED",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Genesis, Hebrew of the Rosenbaum and Silbermann Pentateuch (1929 to 1934), Sefaria-Export-Archive commit 3f10136",
+    "locator": "Rashi on Genesis 37:4, comment on ולא יכלו דברו לשלום (packet.js tanakh 12 --verse 37:4)",
+    "via": "packet"
+   }
+  ],
+  "words": "ולא יכלו דברו לשלום. מִתּוֹךְ גְּנוּתָם לָמַדְנוּ שִׁבְחָם, שֶׁלֹּא דִבְּרוּ אַחַת בַּפֶּה וְאַחַת בַּלֵּב",
+  "lang": "Hebrew",
+  "gloss": "And they could not speak peaceably unto him: from within their discredit we learn their praise, that they did not speak one thing with the mouth and another in the heart.",
+  "licence": "Hebrew: public domain (packet); gloss is my own",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: Rashi says מתוך גנותם למדנו שבחם, from within their discredit we learn their praise; the discredit stays a discredit and the praise is learned from it, so ‘reads the discredit as their praise’ collapsed the two. The critic’s ‘finds within’ is not one of the permitted verbs (rule 1), so the fix keeps his structure with the permitted verb: ‘reads the brothers’ discredit as teaching their praise’, which is exactly לָמַדְנוּ. Reopened packet.js tanakh 12 --verse 37:4; evidence verbatim. verse.js ok (Genesis 37:4, at [36,4]); entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Reopened packet.js tanakh 7 --verse 24:67: Rashi's comment headed האהלה שרה אמו reads verbatim as the evidence (ונעשית דגמת שרה אמו ... נר דלוק מערב שבת לערב שבת ... ברכה מצויה בעסה ... ענן קשור על האהל ... וכשבאת רבקה חזרו), so the likeness of Sarah, the Sabbath-eve lamp, the dough blessing and the cloud returning with Rebekah are all his words at the place named; Rashi marks it (בראשית רבה) but adopts it in his own comment, so 'Rashi reads' is not a false attribution. Plain sense checked against day.js 24:62 to 24:66 (Isaac in the field at eventide, camels coming, 'to meet us', the servant tells Isaac all): faithful, no four-word run from the key. verse.js ok (Genesis 24:67, at [23,67]); entry-check.js ok, no errors or warnings. No softening, comparison or school issue. Ibn Ezra, Radak and Ramban on the verse do not offer a fuller distinct reading that should displace Rashi (Ramban's alternative, the unstruck tent, would be a two-commentator option, not a defect).",
+ "better": ""
+}

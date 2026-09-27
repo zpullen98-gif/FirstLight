@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d027-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 27 --verse 30:34: Rashi on וחלבנה says it is a spice whose smell is bad, counted among the incense spices to teach that it should not be light in our eyes to join the transgressors of Israel with us in our fasts and prayers, so that they are counted with us. Evidence found verbatim by machine match. Rashi draws it from Keritot 6b, but the comment is in his own words under his name, so the attribution stands; the sentence compresses ‘not take lightly’ into ‘are to be counted’, which is his stated purpose (שיהיו נמנין עמנו), so no drift. Plain sense checked in day.js: 30:34 to 38 give the composition of the incense, 30:36 puts it before the testimony, 30:1 and 30:7 to 8 burn incense on the altar before the veil. verse.js ok (Exodus 30:34, at [79,34]); entry-check ok on the shipping entry (scratch/refute-tanakh-01-d027-p.json). Key verse is the one naming galbanum, the best line. No comparison, no school needed, tone neutral.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d016-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 16 --verse 47:9: Sforno’s Hebrew on the lemma מעט ורעים היו ימי שני חיי is there and the evidence words are a verbatim substring. He says the years of his life were few and evil through troubles over sustenance and worries, because days spent in distress are not called days of the years of life, but the days of his sojourning came in all to 130: the sentence (sojourning set apart from life, life few, days of trouble not called days of life) carries exactly that and no more. Plain sense matches 47:7 to 8 (Joseph sets Jacob before Pharaoh, Pharaoh asks how many are the days of his life) without four-word overlap. verse.js ok (Genesis 47:9, at [46,9], 55 words, whole verse, no dash). entry-check ok, no errors or warns. No school needed, no comparison, no tone issue. Attribution distinct from Radak and Ramban/Rashbam on the same verse, who read the few years differently (Ramban and Rashbam: grey appearance), so Sforno is correctly the named reader.",
+ "better": ""
+}

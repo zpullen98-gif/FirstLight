@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d026-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Exodus/Hebrew/On%20Your%20Way.json?generation=1788233812749203",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 26 --verse 28:2: Ramban on לכבוד ולתפארת, first paragraph, says the priest is to be honoured and glorified in garments that are לבושי מלכות, whose likeness kings wore בזמן התורה, then goes through the chequered tunic (Joseph’s, a son of ancient kings), the mitre (known even today among kings and lords), the ephod and breastplate (royal dress) and the plate (the crown of kings). All four evidence pieces found by machine match (squashed) in the packet text. The sentence’s ‘matched what kings wore when the Torah was given’ rests on his general clause; his ‘even today’ for the mitre only strengthens it, so no drift. The sentence does not touch his second reading (על דרך האמת), and does not contradict it. Plain sense checked in day.js: 28:1 brings Aaron and his sons near for the priest’s office, 28:2 turns to the garments, 28:4 and 28:40 extend them to the sons. verse.js ok (Exodus 28:2, at [77,2]); entry-check ok on the shipping entry (scratch/refute-tanakh-01-d026-p.json). No comparison, no school needed, tone neutral.",
+ "better": ""
+}

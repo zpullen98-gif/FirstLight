@@ -1,0 +1,13 @@
+{
+ "id": "tanakh-01-d005-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Bereshit%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+  "found": true
+ },
+ "attacks": [
+  "plain"
+ ],
+ "reason": "The reading stands: re-opened packet.js tanakh 5 --verse 18:25, and in Genesis Rabbah 49:9 (placed on 18:24 to 18:25) Rabbi Levi quotes “shall not the judge of all the earth do justly” and says that if You seek a world there is no strict justice, if strict justice no world, and unless You yield a little the world cannot stand. The evidence is a verbatim substring of the packet, and the same saying recurs at 39:6. The paraphrase does not drift, verse.js is ok (Genesis 18:25, at [17,25]) and entry-check is ok. The plain-sense clause is what lands. “As the LORD prepares to destroy Sodom and Gomorrah” says more than the text says at this point. In 18:20 to 21 (day.js) the LORD says only that the cry of Sodom and Gomorrah is great and that He will go down and see whether they have done according to it, “and if not, I will know”. No destruction is announced to Abraham before his plea; it is announced only by the messengers at 19:13. Abraham also pleads for “the city” and “the place” (18:24, 18:26), Sodom, not for “the cities”. A plain clause that settles an open inquiry breaks rule 2 (what the day’s text says, and no more). The fix is cheap and the reading can keep its place (see better; that revision gates ok).",
+ "better": "As the LORD goes down to see whether Sodom and Gomorrah have done as their outcry says, Abraham pleads for the city; the Midrash, Genesis Rabbah 49:9, reads his question as an argument that a world cannot endure strict justice unless God yields a little."
+}

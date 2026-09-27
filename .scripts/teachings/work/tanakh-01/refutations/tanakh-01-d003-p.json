@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d003-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "No attack landed; one point was checked closely. Re-opened packet.js tanakh 3 --verse 9:12. Ramban’s single long comment on זאת אות הברית at 9:12 expounds the words of 9:13 (את קשתי נתתי בענן). The packet has nothing of his on 9:13, so ‘on 9:12’ is the right place to cite. He argues from ‘נתתי’ (past tense) and from ‘קשתי’ (possessive) that the bow was set in nature from creation and becomes a sign from this day on, and he accepts the Greeks’ natural account of it. The point checked is the inverted bow. It is first introduced as what others said (ואמרו בטעם האות הזה). Ramban then adopts it in his own voice: ‘when it is seen in the inversion mentioned it will be a remembrance of peace, as we have written’. So the attribution holds. Ramban also gives an esoteric reading (the bow as the attribute of justice). The sentence does not claim his plain reading is the only one, so leaving that out is not drift. All four evidence segments are verbatim substrings of the packet. The plain sense checks against day.js, 9:11 (never again a flood to destroy the earth). verse.js is ok (Genesis 9:13, at [8,13]), and entry-check is ok (45 words).",
+ "better": ""
+}

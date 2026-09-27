@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d014-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 14 --verse 42:9. Rashi, אשר חלם להם: עֲלֵיהֶם; וְיָדַע שֶׁנִּתְקַיְּמוּ שֶׁהֲרֵי הִשְׁתַּחֲווּ לוֹ, verbatim. Ramban on the same words quotes Rashi and says ולפי דעתי שהדבר בהפך: he knew שלא נתקיים אחד מהם בפעם הזאת, and וכיון שלא ראה בנימן עמהם חשב זאת התחבולה שיעליל עליהם כדי שיביאו גם בנימין, so the two genuinely differ (Ramban names the disagreement himself) and both halves of the paraphrase are carried. Plain sense matches 42:6 to 42:8 (they bow, he knows them, they know him not). verse.js ok (Genesis 42:9, at [41,9]); entry-check ok, 54 words within the two-commentator cap of 60; the disagreement is named, not resolved.",
+ "better": ""
+}

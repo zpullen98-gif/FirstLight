@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Moses spoke so unto the children of Israel; but they hearkened not unto Moses for impatience of spirit, and for cruel bondage.",
+ "ref": "Exodus 6:9",
+ "at": [
+  55,
+  9
+ ],
+ "s": "After Pharaoh makes the labour harsher, God renews His promise, and Moses brings it to the people; Ramban, on Exodus 6:9, reads it not as unbelief but as dread that Pharaoh would kill them, and taskmasters driving them too hard to hear and consider.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Exodus 6:9, Hebrew text in Sefaria’s export of 1 September 2026",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Exodus/Hebrew/On%20Your%20Way.json?generation=1788233812749203",
+    "edition": "Sefaria export object generation 1788233812749203 (2026-09-01), Ramban on Exodus, Hebrew “On Your Way”",
+    "locator": "Ramban on Exodus 6:9, s.v. מקוצר רוח ומעבודה קשה",
+    "via": "packet"
+   }
+  ],
+  "words": "לא בעבור שלא יאמינו בה' ובנביאו, רק שלא הטו אוזן לדבריו מקוצר רוח, כאדם שתקצר נפשו בעמלו, ולא ירצה לחיות רגע בצערו, מדעתו שירוח לו אחרי כן וקוצר הרוח הוא פחדם שלא יהרגם פרעה בחרב כאשר אמרו שוטריהם אל משה, ועבודה קשה, הוא הדוחק שהיו הנוגשים אצים בהם ולא יתנום לשמוע דבר ולחשוב בו",
+  "lang": "Hebrew",
+  "gloss": "Not because they did not believe in the LORD and His prophet, only they did not incline their ear to his words from shortness of spirit, like a man grown weary in his toil who would not live a moment in his pain though he knows relief will come; the shortness of spirit is their fear that Pharaoh would kill them by the sword, as their officers told Moses, and the hard labour is the pressure of the taskmasters hurrying them, who would not let them hear a word and think on it.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (text centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (Exodus 6:9, at 55,9). Ramban on 6:9 says in so many words that the refusal was not unbelief, that the shortness of spirit was their fear Pharaoh would kill them, and that the hard labour was the taskmasters’ pressure that left them no chance to hear and consider: the sentence carries exactly this. Plain sense (after the harsher labour of chapter 5, God renews the promise in 6:2 to 8, Moses delivers it) is faithful. Rashbam and Sforno differ (disappointed hope; failure to trust) but the entry names only Ramban. entry-check ok."
+}

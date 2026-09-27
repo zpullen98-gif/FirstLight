@@ -1,0 +1,35 @@
+{
+ "id": "tanakh-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘This month shall be unto you the beginning of months; it shall be the first month of the year to you.",
+ "ref": "Exodus 12:2",
+ "at": [61, 2],
+ "s": "Speaking to Moses and Aaron in Egypt, God opens the Passover laws with the calendar; Ramban, on Exodus 12:2, reads it as numbering every month from this one, so that each time a month is named the great miracle is recalled.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Exodus 12:2, Hebrew text in Sefaria’s export of 1 September 2026",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Exodus/Hebrew/On%20Your%20Way.json?generation=1788233812749203",
+    "edition": "Sefaria export bucket generation 1788233812749203 (export of 2026-09-01), Ramban on Exodus, Hebrew “On Your Way”",
+    "locator": "Ramban on Exodus 12:2, comment on החדש הזה לכם ראש חדשים",
+    "via": "packet"
+   }
+  ],
+  "words": "וטעם החדש הזה לכם ראש חדשים, שימנו אותו ישראל חדש הראשון, וממנו ימנו כל החדשים שני ושלישי עד תשלום השנה בשנים עשר חדש, כדי שיהיה זה זכרון בנס הגדול, כי בכל עת שנזכיר החדשים יהיה הנס נזכר",
+  "lang": "Hebrew",
+  "gloss": "And the sense of ‘this month shall be unto you the beginning of months’ is that Israel shall count it the first month, and from it count all the months, second and third, until the year is completed in twelve months, so that this be a remembrance of the great miracle: for whenever we mention the months, the miracle will be remembered.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 12:2, at [61,2]). Plain sense faithful: 12:1 has God speak to Moses and Aaron in the land of Egypt, and 12:3 onward gives the Passover lamb laws; no four-word run from the verse. Ramban’s own comment on 12:2 (packet, Hebrew) says Israel is to count this month first and number all months from it so that whenever the months are mentioned the great miracle is remembered; the sentence carries exactly that without drift (he adds that this counting is not the year’s start, which is Tishrei, a point the sentence does not contradict). Evidence string found verbatim in the packet. Gate ok."
+}

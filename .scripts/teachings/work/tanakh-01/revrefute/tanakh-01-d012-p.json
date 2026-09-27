@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Genesis/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Reopened packet.js tanakh 12 --verse 37:4: Rashi on ולא יכלו דברו לשלום reads verbatim מתוך גנותם למדנו שבחם, שלא דברו אחת בפה ואחת בלב; 'reads the brothers’ discredit as teaching their praise' renders למדנו without collapsing the discredit into praise, and the second clause is his words, so no drift. Locator right (37:4, first Rashi comment). Plain sense checked against day.js 37:1 to 37:5: 37:2 opens the generations of Jacob with Joseph, 37:3 has Israel love Joseph more than all his children and make him a coat of many colours; 'favourite son' is a fair restatement, and no four words come from the key verse (the colours phrase is 37:3). verse.js ok (Genesis 37:4, at [36,4]); entry-check.js ok, no errors or warnings. The hatred stands in the printed key verse and is not softened; no comparison, ranking or school needed.",
+ "better": ""
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tanakh-01-d022-p",
+ "d": 22,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Moses said unto the people: ‘Fear ye not, stand still, and see the salvation of the LORD, which He will work for you to-day; for whereas ye have seen the Egyptians to-day, ye shall see them again no more for ever.",
+ "ref": "Exodus 14:13",
+ "at": [63, 13],
+ "s": "With the sea ahead and Pharaoh’s chariots behind, Moses answers the people’s despair; Ibn Ezra, on Exodus 14:13, reads their terror as that of a generation trained from youth to bear Egypt’s yoke, too low in spirit to fight their masters.",
+ "by": "ibn-ezra",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Ezra, long commentary on Exodus, on 14:13, Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Exodus/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136, Ibn Ezra on Exodus (long commentary), Hebrew “On Your Way”",
+    "locator": "Ibn Ezra on Exodus 14:13, comment on התיצבו וראו את ישועת ה׳",
+    "via": "packet"
+   }
+  ],
+  "words": "התשובה כי המצרים היו אדונים לישראל וזה הדור היוצא ממצרים למד מנעוריו לסבול עול מצרים ונפשו שפלה. ואיך יוכל עתה להלחם עם אדוניו.",
+  "lang": "Hebrew",
+  "gloss": "The answer is that the Egyptians were masters over Israel, and this generation going out of Egypt had learned from its youth to bear the yoke of Egypt, and its spirit was low. How then could it now fight against its masters?",
+  "licence": "Hebrew: public domain (Sefaria export)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Exodus 14:13, at [63,13]). Plain sense faithful: 14:9 has Pharaoh’s horses and chariots overtake Israel encamped by the sea, 14:10 to 12 the people’s fear and complaint to Moses, and 14:13 is his answer; no four-word run from the verse. Ibn Ezra’s long commentary (the packet’s, and the src says long) on 14:13 asks why six hundred thousand feared their pursuers and answers that the Egyptians had been their masters and this generation had learned from youth to bear Egypt’s yoke, its spirit low, so it could not fight its masters; the sentence carries this without drift. Evidence found verbatim in the packet. Gate ok."
+}

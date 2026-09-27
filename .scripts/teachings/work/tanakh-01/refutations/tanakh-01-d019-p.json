@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d019-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://storage.googleapis.com/sefaria-export/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Exodus/Hebrew/On%20Your%20Way.json?generation=1788233812749203",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 19 --verse 6:9: Ramban s.v. מקוצר רוח ומעבודה קשה says it was not that they did not believe in God and His prophet, the shortness of spirit is their fear that Pharaoh would kill them by the sword, and the hard labour is the taskmasters pressing them so they could not hear a word and think on it. Evidence verbatim; paraphrase carries no more than this. Rashbam (they had believed at first, now the labour was heavier) does not contradict, so one commentator suffices. Plain sense: 6:1 to 6:8 is God’s renewed promise and 6:9 Moses bringing it; the harsher labour is chapter 5, the day before, which rule 2 allows as what comes before, and the verse’s ‘cruel bondage’ presupposes it. ‘Moses brings it to the people’ glances at the verse’s first clause but is not a line-by-line paraphrase and the gate passes it. verse.js ok (Exodus 6:9, at 55,9); entry-check ok, no warns.",
+ "better": ""
+}

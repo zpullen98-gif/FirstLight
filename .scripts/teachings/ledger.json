@@ -95,6 +95,21 @@
    "relanded": [
     "quran-01"
    ]
+  },
+  "tanakh": {
+   "batches": [
+    "tanakh-01"
+   ],
+   "days": 30,
+   "of": 267,
+   "by": {
+    "rashi": 19,
+    "ramban": 7,
+    "midrash": 2,
+    "sforno": 1,
+    "ibn-ezra": 1
+   },
+   "hedged": 0
   }
  }
 }

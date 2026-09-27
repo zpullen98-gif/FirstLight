@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he removed from thence, and digged another well; and for that they strove not. And he called the name of it Rehoboth; and he said: ‘For now the LORD hath made room for us, and we shall be fruitful in the land.’",
+ "ref": "Genesis 26:22",
+ "at": [
+  25,
+  22
+ ],
+ "s": "After Gerar’s herdmen contest two wells, Isaac digs a third; Ramban, on 26:20, reads the wells as the Temples, the first two beset by strife until destroyed, the third a house still to come, built without quarrel as God enlarges the borders.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Genesis 26:20, Hebrew text, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Ramban on Genesis, Hebrew (On Your Way) with Chavel’s English (1971 to 1976), Sefaria-Export-Archive commit 3f10136",
+    "locator": "Ramban on Genesis 26:20, comment headed ויקרא שם הבאר עשק (packet.js tanakh 8 --verse 26:20), which runs on to the third well and ופרינו בארץ of 26:22",
+    "via": "packet"
+   }
+  ],
+  "words": "כי \"באר מים חיים\" ירמוז לבית אלהים אשר יעשו בניו של יצחק … וקרא הראשון עשק ירמוז לבית הראשון אשר התעשקו עמנו ועשו אותנו כמה מחלוקות וכמה מלחמות עד שהחריבוהו … והשני קרא שמה שטנה שם קשה מן הראשון והוא הבית השני … וכל ימיו היו לנו לשטנה עד שהחריבוהו … והשלישי קרא רחובות הוא הבית העתיד שיבנה במהרה בימינו והוא יעשה בלא ריב ומצה והאל ירחיב את גבולנו",
+  "lang": "Hebrew",
+  "gloss": "The well of living water alludes to the House of God that Isaac’s children will make … he called the first Esek, alluding to the First House, over which they contended with us and made many quarrels and wars until they destroyed it … the second he named Sitnah, a harsher name, and that is the Second House … all its days they were enmity to us until they destroyed it … the third he called Rehoboth: the House to come, to be built speedily in our days, made without quarrel or strife, and God will enlarge our borders.",
+  "licence": "Hebrew: public domain (packet); gloss is my own",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Genesis 26:22, at [25,22]). Opened the packet for 26:20 and 26:22: Ramban has nothing at 26:22; his one comment on the wells is printed at 26:20 and reads the three wells as the First House, the Second House (both contended over until destroyed) and the House to come, built without quarrel as God enlarges the borders, ending on ופרינו בארץ from the key verse itself. The place ‘on 26:20’ is right and the paraphrase stays within his words (‘the Temples’ renders his בית אלהים, the First and Second House). Plain sense faithful: the herdmen of Gerar strive over Esek and Sitnah (26:20 to 21) and the third well is dug and not contested. Entry unchanged; entry-check ok."
+}

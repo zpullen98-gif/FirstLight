@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-01-d029-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 29 --verse 34:30: Rashi on וייראו מגשת אליו (from the Sifrei) says how great the power of transgression: before the calf they saw the glory as devouring fire (24:17) and neither feared nor trembled, after it they recoiled even from the rays of Moses’ glory. Both evidence pieces found verbatim; the paraphrase matches without drift. Plain sense checked in day.js: 34:1 the new tablets, 34:29 Moses descends with the two tables not knowing his face sent forth beams. No other commentator on the roster has a differing reading on the verse (Ibn Ezra glosses Aaron and the leaders only; Ramban, Rashbam, Sforno, Exodus Rabbah silent). verse.js ok (Exodus 34:30, at [83,30]); entry-check ok.",
+ "better": ""
+}
