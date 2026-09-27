@@ -38,29 +38,49 @@ function packetsFor(plan, d) {
   });
 }
 
-function render(p) {
+/* --verse <n>: only the segs whose label covers that verse. A seg's label is
+   its base's opening bracket: "[2.47]", "[1.20 to 1.22]", "[Katha 1.2.20]",
+   "[7.18]" (the Analects); the last number is the verse. */
+function covers(base, verse) {
+  const m = String(base).match(/^\[([^\]]+)\]/);
+  if (!m) return false;
+  const want = String(verse).split('.').map(Number);
+  const nums = s => (s.match(/\d+(?:\.\d+)*/) || [''])[0].split('.').map(Number);
+  const parts = m[1].split(/\s+to\s+/);
+  const a = nums(parts[0]), b = parts[1] ? nums(parts[1]) : a;
+  const cmp = (x, y) => { for (let i = 0; i < Math.max(x.length, y.length); i++) { const d = (x[i] || 0) - (y[i] || 0); if (d) return d; } return 0; };
+  const w = want.length < a.length ? a.slice(0, a.length - want.length).concat(want) : want;
+  return cmp(a, w) <= 0 && cmp(w, b) <= 0;
+}
+function render(p, verse) {
   if (p.missing) return '(no packet for chapter ' + p.ch + ': ' + p.missing + ')';
-  const out = ['######## chapter ' + p.ch];
+  const out = ['######## chapter ' + p.ch + (verse ? ', only the commentary on ' + verse : '')];
   p.sources.forEach(s => {
     out.push('\n=== ' + s.name + (s.title ? ' (chapter title: ' + s.title + ')' : '') + ' ===');
     out.push('edition: ' + s.edition);
     out.push('cite as: ' + s.url + '   licence: ' + s.licence);
     if (s.note) out.push('NOTE: ' + s.note);
-    if (s.segs) s.segs.forEach(x => {
-      if (x.base) out.push('  [text]       ' + x.base);
-      if (x.comm) out.push('  [commentary] ' + x.comm);
-    });
-    if (s.notes) out.push(s.notes);
+    if (s.segs) {
+      const segs = verse ? s.segs.filter(x => covers(x.base, verse)) : s.segs;
+      if (verse && !segs.length) out.push('  (nothing on ' + verse + ' in this source)');
+      segs.forEach(x => {
+        if (x.base) out.push('  [text]       ' + x.base);
+        if (x.comm) out.push('  [commentary] ' + x.comm);
+      });
+    }
+    if (s.notes) out.push(verse ? '  (notes and whole-chapter texts are printed without --verse)' : s.notes);
   });
   return out.join('\n');
 }
 
 if (require.main === module) {
-  const [plan, dayArg] = process.argv.slice(2);
-  if (!plan || !dayArg) { console.error('usage: node .scripts/teachings/packet.js <plan> <day>'); process.exit(1); }
+  const argv = process.argv.slice(2);
+  const [plan, dayArg] = argv;
+  const vi = argv.indexOf('--verse'), verse = vi > -1 ? argv[vi + 1] : null;
+  if (!plan || !dayArg) { console.error('usage: node .scripts/teachings/packet.js <plan> <day> [--verse <n>, e.g. 2.47 or 1.2.20]'); process.exit(1); }
   const day = corpus.dayOf(plan, +dayArg);
   console.log(plan + ', day ' + day.d + ': ' + day.label + '\n');
-  console.log(packetsFor(plan, +dayArg).map(render).join('\n\n'));
+  console.log(packetsFor(plan, +dayArg).map(p => render(p, verse)).join('\n\n'));
 }
 
 module.exports = { chaptersOf, packetFile, packetsFor };

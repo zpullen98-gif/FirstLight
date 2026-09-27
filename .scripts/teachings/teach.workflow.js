@@ -24,6 +24,8 @@ const DAYS = A.days || []
 const todo = A.todo || {}
 const STATUS = `node ${ROOT}/.scripts/teachings/status.js ${PLAN} ${A.n}${A.dryName ? ' --name ' + A.dryName : ''}`
 const T = (s) => `node ${ROOT}/.scripts/teachings/${s}`
+/* candidates per verifier (batches.json verifyPerAgent): fewer where a day's packet is long */
+const VPER = Math.max(1, +A.verifyPer || 3)
 
 const chunk = (arr, n) => { const out = []; for (let i = 0; i < arr.length; i += n) out.push(arr.slice(i, i + n)); return out }
 const PASS = ['VERIFIED', 'CORRECTED', 'HEDGE']
@@ -139,6 +141,7 @@ READ FIRST, with the Read tool: ${BRIEF}. It holds the ten rules, the closed ros
 The tools (run them with Bash; they read the app's own texts, so they are the only authority on wording):
   ${T(`day.js ${PLAN} <day>`)}        the day's passage, unit by unit; only [ref] units may give a key verse
   ${T(`packet.js ${PLAN} <day>`)}     the commentaries for the day, each line of text beside the commentary on it, with the url to cite
+  ${T(`packet.js ${PLAN} <day> --verse <n>`)}   only the commentary on one verse (2.47, 1.2.20, 7.18): use it for a long chapter instead of reading the whole packet
   ${T(`verse.js ${PLAN} <day> "<key verse>"`)}   must print "ok": true; copy its ref and at
   ${T(`entry-check.js ${PLAN} <file.json>`)}     the gate on one entry: write the entry to a scratch file in ${DIR}/scratch/ with the Write tool, then run it; "ok": true or the entry does not stand
 
@@ -195,7 +198,7 @@ WRITE each refutation to ${DIR}/refutations/<id>.json BEFORE you return. Then re
 /* A set of candidate ids through verify, refute and re-verify; returns
    [{ id, alive }] as far as this run could take them. */
 async function chain(ids, phaseName) {
-  const groups = chunk(ids, 3)
+  const groups = chunk(ids, VPER)
   const res = await parallel(groups.map(g => async () => {
     const vr = await agent(VERIFY(g, false), { label: `verify:${g[0]}${g.length > 1 ? '..' : ''}`, phase: phaseName === 'Standby' ? 'Standby' : 'Verify', schema: VERDICTS, effort: 'high' })
     const vs = (vr && vr.verdicts) || []
@@ -313,7 +316,7 @@ const REVREFUTE = (vs) => REFUTE(vs)
   .replace(`WRITE each refutation to ${DIR}/refutations/<id>.json BEFORE you return.`, `The revisions, and where to WRITE each refutation: ${JSON.stringify(vs.map(v => ({ id: v.id, revision: `${DIR}/revise/${roundFile(v.id)}.json`, write: `${DIR}/revrefute/${roundFile(v.id)}.json` })))}. WRITE each refutation to its write path BEFORE you return.`)
 
 async function reviseRound(items, why) {
-  const res = await parallel(chunk(items, 3).map(g => async () => {
+  const res = await parallel(chunk(items, VPER).map(g => async () => {
     const rv = await agent(REVISE(g, why), { label: `revise:${g[0].id}${g.length > 1 ? '..' : ''}`, phase: 'Revise', schema: VERDICTS, effort: 'high' })
     const corr = ((rv && rv.verdicts) || []).filter(v => v.verdict === 'CORRECTED' && passes(v))
     if (!corr.length) return g.map(x => ({ id: x.id, kept: false, why: 'no correction' }))

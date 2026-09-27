@@ -50,5 +50,6 @@ console.log(JSON.stringify({
   plan, n, name: B.name, dryName: dryName || '', root: lib.ROOT.replace(/\\/g, '/'), dir: B.dir.replace(/\\/g, '/'),
   lanes: brief.lanes, days: brief.days, todo, rounds, revise,
   reviseProblems: ri > -1 ? [{ problem: a[ri + 1], fix: a[ri + 2] }] : [],
-  reviseWhy: a.includes('--revise-critic') && ri < 0 ? 'critic' : 'owner'
+  reviseWhy: a.includes('--revise-critic') && ri < 0 ? 'critic' : 'owner',
+  verifyPer: typeof lib.CFG.verifyPerAgent === 'object' ? (lib.CFG.verifyPerAgent[plan] || lib.CFG.verifyPerAgent.default || 3) : (lib.CFG.verifyPerAgent || 3)
 }));

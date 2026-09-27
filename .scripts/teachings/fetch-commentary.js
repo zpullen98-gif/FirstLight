@@ -631,7 +631,10 @@ async function pali(packetsOnly) {
 
 /* plans whose builders live in sources/<name>.js take the shared helpers */
 const analects = (packetsOnly) => require('./sources/analects').build({ get, wsUrl, wsPage, CACHE, packetsOnly });
-const PLANS = { tao, pali, analects };
+const vedanta = require('./sources/vedanta');
+const gita = (packetsOnly) => vedanta.gita({ get, CACHE, packetsOnly });
+const upanishads = (packetsOnly) => vedanta.upanishads({ get, CACHE, packetsOnly });
+const PLANS = { tao, pali, analects, gita, upanishads };
 
 async function main() {
   const [plan, flag] = process.argv.slice(2);
