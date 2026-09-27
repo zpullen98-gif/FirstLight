@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d040-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6005747",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 29.137, at 3199), one sentence ending in !, from the text, not the [Spurious.] note that follows. Plain sense matches day.js: Complacency lists six curses of the rich man, confusion, misery, disease, shame, unhappiness, fear (29.130 to 29.135), and 29.137 closes his answer to Discontent; no four-word overlap. packet.js and the url (WebFetch) both show the 〔注〕 directly after 故觀之名則不見，求之利則不得，繚意體而爭此，不亦惑乎: 此章言知足者常足, Guo Xiang’s whole note on the exchange; the sentence says exactly that and nothing more, and the packet confirms he has no note on chapter 30, so the choice of 29.137 is the right place. One form point short of refutation: the evidence is 9 characters, under the brief’s 12-character floor, but it is the entire note, verbatim, and cannot be lengthened without taking in someone else’s words; recheck-evidence.js matches it. entry-check ok, 43 words, src 153 characters.",
+ "better": ""
+}

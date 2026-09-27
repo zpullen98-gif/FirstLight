@@ -65,6 +65,17 @@
     "madhva": 3
    },
    "hedged": 0
+  },
+  "zhuangzi": {
+   "batches": [
+    "zhuangzi-02"
+   ],
+   "days": 22,
+   "of": 44,
+   "by": {
+    "guo-xiang": 22
+   },
+   "hedged": 0
   }
  }
 }

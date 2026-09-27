@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d041-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6011291",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 31.65, at 3307), key inside one unit, no dash, from the text not a note. Plain sense matches 31.63 to 31.64 (Tzu Lu protests the bows, Confucius answers). packet.js and the url both show 此篇言無江海而間者，能下江海之士也。夫孔子之所放任，豈直漁父而已哉？將周流六虛，旁通無外，蝡動之類，咸得盡其所懷 under 注 (Guo Xiang), not 疏; it is the only 注 on chapter 31, placed after 吾敢不敬乎 (31.66), so the locator in his one note on chapter 31 is right. 間 read as 閒 echoes chapter 15 無江海而閒, so at ease without withdrawing to rivers and seas is sound; 江海之士 as their recluse is fair; 放任 reaching every creeping creature carries his openness reaching every creature (the man at ease is, in Guo, Confucius, whom the plain sense names). The key (humbling oneself, 下人) is the line Guo glosses with 能下. No school needed, no comparison, no softening. entry-check ok, 45 words, at the cap.",
+ "better": ""
+}

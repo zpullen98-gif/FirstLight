@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d028-p",
+ "d": 28,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "What we love is animation. What we hate is corruption. But corruption in its turn becomes animation, and animation once more becomes corruption.",
+ "ref": "Zhuangzi 22.22",
+ "at": [
+  2094
+ ],
+ "s": "Answering Knowledge, the Yellow Emperor treats life and death as one vital fluid gathering and dispersing; Guo Xiang, on chapter 22, reads animation and corruption as what each likes and hates, one’s liking another’s loathing, so death and life, self and other, do not differ.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 22, zh.wikisource (Nanhua zhenjing zhushu, juan 24, Zhengtong Daozang edition), revision 7907027 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907027",
+    "edition": "zh.wikisource 南華真經註疏 卷二十四 (Zhengtong Daozang, DZ0745), revision 7907027, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 22, the note on 是其所美者為神奇 … 通天下一氣耳 (Giles 22.22 to 22.23)",
+    "via": "packet"
+   }
+  ],
+  "words": "各以所美為神奇，所惡為臭腐耳。然彼之所美，我之所惡也；我之所美，彼或惡之。故通共神奇，通共臭腐耳，死生彼我豈殊哉。",
+  "lang": "Classical Chinese",
+  "gloss": "Each simply calls what he finds beautiful marvellous and what he hates rotten. But what another finds beautiful, I hate; what I find beautiful, another may hate. So all alike is marvellous and all alike rotten; how could death and life, other and self, differ?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 22.22, at 2094). Guo Xiang’s note on 是其所美者為神奇，其所惡者為臭腐 carries the reading word for word: marvellous and rotten are what each likes and hates, one’s liking is another’s loathing, so death and life, other and self, do not differ; his note on 22.21 (更相為始，則未知孰死孰生也) is consistent. Plain sense faithful: Knowledge brings his question to the Yellow Emperor, whose answer at 22.21 names life as convergence and death as dispersion of the vital fluid. Src matches the packet edition (juan 24, revision 7907027). entry-check ok."
+}

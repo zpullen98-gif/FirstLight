@@ -1,0 +1,241 @@
+{
+ "lane": "L3",
+ "plan": "zhuangzi",
+ "batch": "zhuangzi-02",
+ "days": [
+  {
+   "d": 35,
+   "primary": {
+    "id": "zhuangzi-02-d035-p",
+    "key": "Get rid of small wisdom, and great wisdom will shine upon you. Put away goodness and you will be naturally good.",
+    "ref": "Zhuangzi 26.56",
+    "at": [
+     2831
+    ],
+    "s": "Confucius, drawing the moral of the divine tortoise, speaks of the limits of wisdom; Guo Xiang, on chapter 26, reads small knowing as serving the self and great knowing as leaving things be, and goodness put away as no longer longed for, and so unforced.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 26, zh.wikisource (Nanhua zhenjing zhushu juan 28, the Zhengtong Daozang edition), revision 5978513 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "小知自私，大知任物。…去善則善無所慕，善無所慕，則善者不矯而自善也。",
+     "gloss": "Small knowing serves the self; great knowing leaves things to themselves. … Put away goodness, and goodness has nothing to be longed for; when goodness is not longed for, the good do not force themselves and are good of themselves."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d035-s",
+    "key": "TAO is something beyond material existences. It cannot be conveyed either by words or by silence. In that state which is neither speech nor silence, its transcendental nature may be apprehended.",
+    "ref": "Zhuangzi 25.147",
+    "at": [
+     2774
+    ],
+    "s": "T’ai Kung Tiao, having confined chance and predestination to material things, ends his answers; Guo Xiang, on chapter 25, reads the utmost of TAO and things as ever so of itself, done by nothing, and lying in neither speaking nor not speaking.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 25, zh.wikisource (Nanhua zhenjing zhushu juan 27, the Zhengtong Daozang edition), revision 5978511 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "天道物之極，常莫為而自爾，不在言與不言。…極於自爾，非言默而議之也。",
+     "gloss": "The utmost of the Way and of things is ever that nothing does it and it is so of itself; it lies neither in speaking nor in not speaking. … Discussion reaches its limit at being so of itself; it is not discussed by speech or by silence."
+    }
+   }
+  },
+  {
+   "d": 36,
+   "primary": {
+    "id": "zhuangzi-02-d036-p",
+    "key": "But language which flows constantly over, as from a full goblet, is in accord with God.",
+    "ref": "Zhuangzi 27.2",
+    "at": [
+     2873
+    ],
+    "s": "The chapter opens by naming three kinds of speech, of which this is the third; Guo Xiang, on chapter 27, reads the goblet, tipping when full and righting when empty, as speech that follows things, new daily, filling its natural share and so in harmony.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 27, zh.wikisource (Nanhua zhenjing zhushu juan 29, the Zhengtong Daozang edition), revision 7907026 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫巵，滿則傾，空則仰，非持故也。況之於言，因物隨變，唯彼之從，故曰日出。日出，謂日新也，日新則盡其自然之分，自然之分盡則和也。",
+     "gloss": "The goblet tips when full and turns upright when empty; it holds to no fixed state. Likened to speech: it goes with things and changes as they change, following only the other, and so it is said to issue daily. Issuing daily means being new each day; new each day, it fills out its natural share; its natural share filled out, it is in harmony."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d036-s",
+    "key": "If this does not reach them in sufficient quantity, it is not the fault of God. God supplies it day and night without cease, but man stops the passage.",
+    "ref": "Zhuangzi 26.75",
+    "at": [
+     2850
+    ],
+    "s": "After warning that TAO must not be obstructed, the chapter says sentient beings live by breath; Guo Xiang, on chapter 26, reads the blockage as man’s doing: breath does not go by knowing, and when knowing steers it, it misses its measure and stops.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 26, zh.wikisource (Nanhua zhenjing zhushu juan 28, the Zhengtong Daozang edition), revision 5978513 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫息不由知，由知然後失當，失當而後不通，故知恃息，息不恃知也。然知欲之用，制之由人，非不得已之符也。…無情任天，竇乃開。",
+     "gloss": "Breath does not go by knowing; going by knowing, it loses its fit, and having lost its fit it no longer passes through. So knowing relies on breath, and breath does not rely on knowing. Yet the use of knowing and desire is governed by man, and is no mark of necessity. … With no feelings, leaving all to Heaven, the opening then opens."
+    }
+   }
+  },
+  {
+   "d": 37,
+   "primary": {
+    "id": "zhuangzi-02-d037-p",
+    "key": "Thus it is that men like Yen Ho hate wealth and power.",
+    "ref": "Zhuangzi 28.41",
+    "at": [
+     2968
+    ],
+    "s": "Yen Ho, sought by the prince of Lu, is gone when the messengers return; Guo Xiang, closing chapter 28, reads its refusals as meant to stir a wind of lofty yielding and withdrawal that makes even the greedy at court sigh at times.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 28, closing note, zh.wikisource (Nanhua zhenjing zhushu juan 30, the Zhengtong Daozang edition), revision 5985055 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "此篇大意，以起高讓遠退之風。故被其風者，雖貪冒之人，乘天衢，入紫庭，猶時慨然中路而歎，況其凡乎。",
+     "gloss": "The broad intent of this chapter is to raise a wind of lofty yielding and far withdrawal. So those it reaches, even greedy, grasping men who ride the heavenly thoroughfare and enter the purple court, still at times sigh with feeling midway on their road, and how much more ordinary people."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d037-s",
+    "key": "Prince Mou of Wei was heir to the throne of a large State. For him to become a hermit among the hills was more difficult than for an ordinary cotton-clothed scholar.",
+    "ref": "Zhuangzi 28.83",
+    "at": [
+     3010
+    ],
+    "s": "Chan Tzŭ having counselled a prince torn between country and town, the chapter weighs his retreat; Guo Xiang, closing chapter 28, reads hill-dwellers who enlarge the world as above those sunk in dust, their deed hard but their influence of little harm.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 28, closing note, zh.wikisource (Nanhua zhenjing zhushu juan 30, the Zhengtong Daozang edition), revision 5985055 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫居山谷而弘天下者，雖不俱為聖佐，不猶高於蒙埃塵者乎。其事雖難為，然其風少弊，故可遺也。",
+     "gloss": "Those who dwell in mountains and valleys yet enlarge the world, though not all of them aides to sages, do they not still stand higher than those covered in dust? Their deed is hard to do, yet their influence has few ill effects, and so it may be handed down."
+    }
+   }
+  },
+  {
+   "d": 38,
+   "primary": {
+    "id": "zhuangzi-02-d038-p",
+    "key": "Thereupon he took a stone on his back and jumped into the river Lu.",
+    "ref": "Zhuangzi 28.120",
+    "at": [
+     3047
+    ],
+    "s": "Offered the throne after T’ang’s conquest, Wu Kuang, like Pien Sui before him, kills himself; Guo Xiang, on chapter 28, reads both as dying for name and loftiness, not as holding the empire light, since one who holds nothing weighty has nowhere to die.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 28, zh.wikisource (Nanhua zhenjing zhushu juan 30, the Zhengtong Daozang edition), revision 5985055 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫輕天下者，不得有所重也，苟無所重，則無死地矣。…若二子者，可以為殉名慕高矣，未可謂外天下也。",
+     "gloss": "One who makes light of the empire cannot hold anything weighty; and if nothing is weighty, there is no ground to die on. … Such as these two may be called men who died for a name and longed for loftiness; they cannot be said to have put the empire outside themselves."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d038-s",
+    "key": "Accordingly, these two philosophers went north to Mount Shou-yang, where they subsequently starved themselves to death.",
+    "ref": "Zhuangzi 28.134",
+    "at": [
+     3061
+    ],
+    "s": "Refusing Chou rank as a disgrace, Po I and Shu Ch’i flee, and the text says they starve to death; Guo Xiang, on chapter 28, reads that death as their keeping to hunger to the end, not necessarily dying of it.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 28, zh.wikisource (Nanhua zhenjing zhushu juan 30, the Zhengtong Daozang edition), revision 5985055 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "《論語》曰：伯夷叔齊餓于首陽之下，不言其死也。而此云死焉，亦欲明其守餓以終，未必餓死也。",
+     "gloss": "The Analects says Po I and Shu Ch’i went hungry at the foot of Shouyang, and does not speak of their dying. That this text says they died is meant to make clear that they kept to their hunger to the end, not that they necessarily starved to death."
+    }
+   }
+  },
+  {
+   "d": 39,
+   "primary": {
+    "id": "zhuangzi-02-d039-p",
+    "key": "“The above instances have been handed down to us from antiquity and are discussed in modern times. They show that men of learning emphasized their precepts by carrying them out in practice; and that consequently they paid the penalty and fell into these calamities.”",
+    "ref": "Zhuangzi 29.114",
+    "at": [
+     3176
+    ],
+    "s": "Wu Yoh, called to arbitrate, ends his list of the upright brought to grief; Guo Xiang, on chapter 29, reads the section as saying prized conduct turns forced and prized scholars false, so both are slighted to keep the inner whole, and then stand high.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 29, zh.wikisource (Nanhua zhenjing zhushu juan 31, the Zhengtong Daozang edition), revision 6005747 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "此章言尚行則行矯，貴士則士偽，故蔑行賤士以全其內，然後行高而士貴耳。",
+     "gloss": "This section says: exalt conduct, and conduct turns forced; honour scholars, and scholars turn false. So conduct is slighted and the scholar demeaned, to keep the inner whole; only then is conduct high and the scholar honoured."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d039-s",
+    "key": "“I am a man who has cauterized himself without being ill. I hurried away to smooth the tiger’s head and comb out his beard. And I very nearly got into the tiger’s mouth.”",
+    "ref": "Zhuangzi 29.62",
+    "at": [
+     3124
+    ],
+    "s": "Confucius, back from Robber Chê, admits the rebuff Liu Hsia Chi foresaw; Guo Xiang, ending chapter 29’s first story, reads it as saying that going with what the many want gone topples even the tyrant Chou, while alone one cannot restrain even Robber Chê.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 29, end of first story, zh.wikisource (Nanhua zhenjing zhushu juan 31, the Zhengtong Daozang edition), revision 6005747 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "此篇寄明因眾之所欲亡而亡之，雖王紂可去也；不因眾而獨用己，雖盜跖不可御也。",
+     "gloss": "This piece lodges the lesson that, going with what the many wish gone and removing it, even a king such as Zhou can be put away; but not going with the many and using oneself alone, not even Robber Zhi can be restrained."
+    }
+   }
+  },
+  {
+   "d": 40,
+   "primary": {
+    "id": "zhuangzi-02-d040-p",
+    "key": "“Wherefore, if reputation is not to be enjoyed and wealth is not to be secured, how pitiable it is that men should harass their minds and wear out their bodies in such pursuits!”",
+    "ref": "Zhuangzi 29.137",
+    "at": [
+     3199
+    ],
+    "s": "Complacency, having counted six curses of the rich man, from confusion to fear, closes his answer to Discontent; Guo Xiang, at the close of the exchange in chapter 29, reads it as saying that one who knows what is enough always has enough.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 29, closing note, zh.wikisource (Nanhua zhenjing zhushu juan 31, the Zhengtong Daozang edition), revision 6005747 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "此章言知足者常足。",
+     "gloss": "This section says that one who knows what is enough always has enough. (These nine characters are the whole of Guo Xiang’s comment on the section; he has none on chapter 30.)"
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d040-s",
+    "key": "“Happiness,” said Complacency, “is to be found in contentment. Too much is always a curse, most of all in wealth.",
+    "ref": "Zhuangzi 29.129",
+    "at": [
+     3191
+    ],
+    "s": "When Discontent calls a life of denied pleasures a long illness, Complacency replies, before listing six curses of the rich; Guo Xiang, ending his notes on chapter 29, reads the whole exchange as saying that whoever knows what is enough always has enough.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 29, closing note, zh.wikisource (Nanhua zhenjing zhushu juan 31, the Zhengtong Daozang edition), revision 6005747 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "此章言知足者常足。",
+     "gloss": "This section says that one who knows what is enough always has enough. (These nine characters are the whole of Guo Xiang’s comment on the section; he has none on chapter 30.)"
+    }
+   }
+  }
+ ]
+}

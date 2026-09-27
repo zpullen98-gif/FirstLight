@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d029-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907027",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 29 --verse 22.97 (Guo Xiang, 南華真經註疏 卷二十四, revision 7907027): both evidence notes stand verbatim, 今問道之所在，而每況之於下賤，則明道之不逃於物也必矣 on 每下愈況 and 若必謂無之逃物，則道不周矣，道而不周，則未足以為道 on 汝唯莫必，無乎逃物, the Chinese of the key verse. The paraphrase (a TAO absent from anything would not reach everywhere, so would not be TAO) says no more than the second note; would not be TAO fairly compresses 未足以為道. Plain sense matches day.js 22.87 to 22.97 (ant, tare, potsherd, ordure; Tung Kuo Tzŭ asks why go so low; Chuang Tzŭ answers with the pig test); defends going so low is borne by 22.97 and by Guo’s own 每況之於下賤 note. verse.js ok (Zhuangzi 22.97, at 2169, text not Giles’ notes); entry-check.js ok, no errors or warns. No school needed, no comparison, tone plain.",
+ "better": ""
+}

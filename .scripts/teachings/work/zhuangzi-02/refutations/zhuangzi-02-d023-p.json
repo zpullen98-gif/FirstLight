@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-02-d023-p",
+ "refuted": false,
+ "reopened": { "url": "https://zh.wikisource.org/w/index.php?oldid=5978526", "found": true },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 23 --verse 18.37 and the raw wikitext of revision 5978526 (南華真經註疏 卷二十, 外篇至樂第十八): the evidence words stand verbatim as a 〔注〕 (Guo Xiang, not the 〔疏〕 of Cheng Xuanying, which follows separately) directly after 髑髏深矉蹙頞曰：吾安能棄南面王樂而復為人閒之勞乎, the Chinese of Giles 18.37; it is Guo's only note on the skull episode and ends 此莊生之旨也. The paraphrase (setting life and death level, at peace in each, denying the old view 莊子樂死惡生) says no more than the note; loved death compresses 樂死惡生 fairly, and the denial is reported as Guo's, not resolved in the author's voice. verse.js ok (Zhuangzi 18.37, at 1645, a [ref] unit, not Giles' Hamlet note); entry-check.js ok, no errors or warns. Plain sense matches day.js 18.33 to 18.37 (Chuang Tzŭ pillows on the skull, dreams, offers body and kin restored; the skull replies); no four verse words repeated, commentator not named before the semicolon. No school required, no comparison, tone plain.",
+ "better": ""
+}

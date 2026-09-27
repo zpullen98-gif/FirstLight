@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d027-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907028",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 27 --verse 21.45 and 21.43 and the raw wikitext of revision 7907028 (南華真經註疏/卷二十三, 外篇田子方第二十一, timestamp 2026-07-06): 不忘者存，謂繼之以日新也。雖忘故吾而新吾已至，未始非吾，吾何息焉 stands verbatim as a 〔注〕 (Guo Xiang) directly after 雖然，汝奚患焉。雖忘乎故吾，吾有不忘者存, the line of the key verse (21.45); his note on 21.41 to 21.43 (吾所以見者，日新也) is consistent. The paraphrase (what remains is daily renewal, the old self forgotten, a new self already come, never other than himself) is his, no drift; the Cheng Xuanying 疏 that follows is not used. verse.js ok (Zhuangzi 21.45, at 1976, [ref] unit); entry-check.js ok, no errors or warns. Plain sense matches day.js 21.29 to 21.45 (Yen Yüan cannot follow when Confucius dashes beyond; Confucius says what Yen fixes on has already passed away); no four-word run from the key. No school required, no comparison, no tone issue.",
+ "better": ""
+}

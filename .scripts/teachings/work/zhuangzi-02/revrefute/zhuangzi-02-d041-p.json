@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d041-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6011291",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 41 --verse 31.66 (Guo Xiang, 南華真經註疏 卷三十三, revision 6011291; the packet confirms Guo comments on this chapter only once): 此篇言無江海而間者，能下江海之士也。夫孔子之所放任，豈直漁父而已哉？將周流六虛，旁通無外，蝡動之類，咸得盡其所懷 stands verbatim after 且道者，萬物之所由也 … 吾敢不敬乎, the last line of the chapter, so in his one note on chapter 31 is right. The paraphrase carries it: at ease without the rivers and seas (無江海而間, the ch. 15 phrase), humbling himself before their recluse (能下江海之士), openness reaching every creature (放任 … 旁通無外，蝡動之類); openness is a fair English for 放任 in this sense, and the reading is framed as the chapter’s, as 此篇言 frames it. The key verse 31.65 (humble yourself before a fellow creature) is the line 能下 answers. Plain sense matches day.js 31.62 to 31.65 (Tzŭ Lu protests the bows; Confucius answers). verse.js ok (Zhuangzi 31.65, at 3307); entry-check.js ok, no errors or warns. No school, no comparison, tone plain.",
+ "better": ""
+}

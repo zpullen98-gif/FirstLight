@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d034-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=5978511",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 25.56, at 2683); the unit begins mid-sentence but the key starts at a sentence start. Plain sense matches 25.34 to 25.48 (Prince Hui wroth at Ch’i’s breach, Tai Chin Jen’s snail with Aggression and Violence on its horns); the war is stated plainly, not softened. Re-fetched revision 5978511 raw: after 於梁中有王。王與蠻氏，有辯乎？ and 君曰：無辯。 stands {{*|〔注〕王與蠻氏，俱有限之物耳。有限，則不問大小，俱不得與無窮者計也，雖復天地共在無窮之中，皆蔑如也。況魏中之梁，梁中之王，而足爭哉。}}, marked 注 (Guo Xiang). 蠻氏 is Giles’ Violence (right horn). Bounded, nothing beside the boundless, a prince within Liang not worth fighting over: all carried by the note (而足爭哉 read as a rhetorical question). The note sits on the prince’s answer (25.58), but the entry only says chapter 25, which is right. entry-check ok, 43 words.",
+ "better": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d033-p",
+ "d": 33,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "“The love of a Sage for his fellows likewise finds expression among mankind. Were he not told so, he would not know that he loved his fellows.",
+ "ref": "Zhuangzi 25.19",
+ "at": [
+  2646
+ ],
+ "s": "After the beauty who knows her beauty only when told, the passage turns to the Sage’s love; Guo Xiang, on chapter 25, explains that the Sage, like a mirror, has no love, but because his work helps things, people give him that name.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 25, zh.wikisource (the Zhengtong Daozang edition), revision 5978511 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5978511",
+    "edition": "zh.wikisource 南華真經註疏 卷二十七 (Zhengtong Daozang edition, DZ0745), revision 5978511",
+    "locator": "chapter 25, the note on 聖人之愛人也，人與之名，不告則不知其愛人也 (25.19)",
+    "via": "packet"
+   }
+  ],
+  "words": "聖人無愛若鏡耳。然而事濟於物，故人與之名，若人不相告，則莫知其愛人也。",
+  "lang": "Classical Chinese",
+  "gloss": "The Sage has no love, just as a mirror has none. Yet his doings bring things through, so people give him the name; if people did not tell one another, none would know that he loves people.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: “his work helps things and people give it that name” first parses as helping “things and people” and makes “it” (the work) the one named, while Guo Xiang’s 故人與之名 says people give HIM the name because his doings help things. Re-opened the packet (revision 5978511, note on 25.19) and applied the fix; the reading and commentator are unchanged and the evidence carries every part (無愛若鏡, 事濟於物, 故人與之名). verse.js ok, entry-check ok."
+}

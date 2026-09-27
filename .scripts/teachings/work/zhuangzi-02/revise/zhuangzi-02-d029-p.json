@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d029-p",
+ "d": 29,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Do not therefore insist in any particular direction; for there is nothing which escapes. Such is perfect TAO; and such also is ideal speech.",
+ "ref": "Zhuangzi 22.97",
+ "at": [
+  2169
+ ],
+ "s": "Having named the ant, a potsherd and ordure to Tung Kuo Tzŭ as places of TAO, Chuang Tzŭ defends going so low; Guo Xiang, on chapter 22, explains that a TAO absent from anything would not reach everywhere, and so would not be TAO.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 22, zh.wikisource (the Zhengtong Daozang edition), revision 7907027 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907027",
+    "edition": "zh.wikisource 南華真經註疏 卷二十四 (Zhengtong Daozang, DZ0745), revision 7907027, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 22, the notes on 每下愈況 and 汝唯莫必，無乎逃物 (Giles 22.97)",
+    "via": "packet"
+   }
+  ],
+  "words": "今問道之所在，而每況之於下賤，則明道之不逃於物也必矣。 … 若必謂無之逃物，則道不周矣，道而不周，則未足以為道。",
+  "lang": "Classical Chinese",
+  "gloss": "Now asked where the Tao is, he compares it each time with lower and baser things, which makes plain that the Tao escapes no thing. … If one insists that some thing escapes it, then the Tao does not reach everywhere; and a Tao that does not reach everywhere is not enough to be the Tao.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: “explains his descent” leaves the reader, who sees only the key verse, to guess that the descent is naming ever lower things (Tung Kuo Tzŭ’s “Why go so low down?”, day.js). Replaced with “defends going so low”, which the passage bears (22.96 to 22.97). The reading and commentator are unchanged and still carried by Guo Xiang’s note on 汝唯莫必 (re-opened in the packet, revision 7907027); his note on 每下愈況 is added to the evidence to show the going low is his subject too. verse.js ok, entry-check ok."
+}

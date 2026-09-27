@@ -40,7 +40,13 @@ if (a.includes('--revise-critic')) {
   ((c && c.problems) || []).forEach(p => {
     if (!p) return;
     if (p.id) add(p.id, p);
-    else [...new Set(((p.problem || '') + ' ' + (p.fix || '')).match(idRe) || [])].forEach(id => add(id, p));
+    else {
+      const txt = (p.problem || '') + ' ' + (p.fix || '');
+      /* full ids, and the short form a critic uses after the first ("d020-p") */
+      const ids = new Set(txt.match(idRe) || []);
+      (txt.match(/\bd\d{3}-[ps]\b/g) || []).forEach(sh => ids.add(B.name + '-' + sh));
+      [...ids].forEach(id => add(id, p));
+    }
   });
   revise = revise.concat(Object.values(byId));
   todo.lanesMissing = [];

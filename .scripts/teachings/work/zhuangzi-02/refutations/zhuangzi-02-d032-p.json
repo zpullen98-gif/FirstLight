@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d032-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907021",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 24.104, at 2497), one unit, from the text, not Giles’ note (the Lin Hsi Chung note after it is NOT CITABLE). Plain sense matches 24.99 to 24.104: at a funeral Chuang Tzŭ passes Hui Tzŭ’s grave and tells of the mason whose unmoving man of Ying has died. Re-fetched revision 7907021 raw: after 匠石曰：臣則嘗能斲之。雖然，臣之質死久矣。自夫子之死也，吾無以為質矣，吾無與言之矣。 stands {{*|〔注〕非夫不動之質，忘言之對，則雖至言妙斬而無所用之。}}, marked 注 (Guo Xiang), not the 疏 that follows (Cheng Xuanying). The paraphrase follows it; it fuses 不動之質 and 忘言之對 into one partner, which is Guo’s own apposition (Cheng’s 疏 separates them), and drops 妙斬, so it claims no more than the note. No school, no comparison, no softening. entry-check ok, 44 words.",
+ "better": ""
+}

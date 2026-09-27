@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d037-p",
+ "d": 37,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Thus it is that men like Yen Ho hate wealth and power.",
+ "ref": "Zhuangzi 28.41",
+ "at": [
+  2968
+ ],
+ "s": "Yen Ho, sought by the prince of Lu, is gone when the messengers return; Guo Xiang, closing chapter 28, reads its refusals as meant to stir a wind of lofty yielding and withdrawal that makes even the greedy at court sigh at times.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 28, closing note, zh.wikisource (Nanhua zhenjing zhushu juan 30, the Zhengtong Daozang edition), revision 5985055 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5985055",
+    "edition": "zh.wikisource 南華真經註疏 卷三十 (Zhengtong Daozang edition, DZ0745), revision 5985055",
+    "locator": "chapter 28, Guo Xiang’s closing note after the Bo Yi and Shu Qi story, beginning 《論語》曰 and continuing 此篇大意",
+    "via": "packet"
+   }
+  ],
+  "words": "此篇大意，以起高讓遠退之風。故被其風者，雖貪冒之人，乘天衢，入紫庭，猶時慨然中路而歎，況其凡乎。",
+  "lang": "Classical Chinese",
+  "gloss": "The broad intent of this chapter is to raise a wind of lofty yielding and far withdrawal. So those it reaches, even greedy, grasping men who ride the heavenly thoroughfare and enter the purple court, still at times sigh with feeling midway on their road, and how much more ordinary people.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "medium",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 28.41, at 2968). Guo Xiang comments on chapter 28 only three times, none on the Yen Ho (顏闔) episode; his closing note states the chapter’s broad intent as raising a wind of lofty yielding and far withdrawal that makes even the greedy who enter the court sigh at times. The sentence attributes this as a chapter-level reading, placed as closing chapter 28, and applies it to the chapter’s refusals, of which Yen Ho’s is one: faithful to his words, not a note on the verse itself. Plain sense (Yen Ho, sought by the prince of Lu, is gone when the messengers return) matches 28.36 to 28.41. entry-check ok."
+}

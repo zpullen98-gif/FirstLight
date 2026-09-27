@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d042-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907025",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 32.33, at 3341). Plain sense matches 32.26 to 32.31: Huan becomes a Confucianist, the father sides with the Mihist brother, Huan kills himself, the dream; Guo Xiang himself glosses the cause (緩怨其父之助弟，故感激自殺), so when is supported, and the suicide is stated in one plain clause. The narrative ends with the dream and 32.33 turns to the moral, though the moral runs on to 32.39; closing the tale is defensible. packet.js (label 32.35, but the Chinese line is 夫造物者之報人也，不報其人而報其人之天, which Giles renders at 32.33) and the url both show 夫積習之功為報，報其性，不報其為也。然則學習之功，成性而已，豈為之哉 under 注, not 疏. The paraphrase (reward answers nature not doing; study only completes the nature) is carried word for word without drift. Giles note (for the natural, not the artificial) is similar but Guo own words are found, so the attribution stands. entry-check ok, 44 words.",
+ "better": ""
+}

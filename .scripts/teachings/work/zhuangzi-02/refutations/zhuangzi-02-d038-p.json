@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d038-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=5985055",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 28.120, at 3047), one whole sentence from the text, not a note; it is the line Guo Xiang comments on. Plain sense matches day.js: T’ang, after vanquishing Chieh (28.113), offers the throne to Pien Sui, who drowns himself (28.117), then to Wu Kuang (28.118 to 28.120); the suicide is stated in one plain clause, neither softened nor dwelt on, and no four words of the key are repeated. packet.js --verse 28.120 and the url itself (WebFetch) both show the note marked 〔注〕, not 〔疏〕, directly after 乃負石而自沈於廬水: 舊說曰：如卞隨務光者，其視天下也若六合之外…斯則謬矣。夫輕天下者，不得有所重也，苟無所重，則無死地矣…若二子者，可以為殉名慕高矣，未可謂外天下也. Guo rejects the old view that the two held the empire as beyond the six directions, argues one who truly makes light of the empire holds nothing weighty and so has no ground to die on, and calls them men who died for a name and longed for loftiness; the sentence carries exactly this, both men included, with the reasoning in the right direction. No school needed, no comparison. entry-check ok, 44 words, src 139 characters.",
+ "better": ""
+}

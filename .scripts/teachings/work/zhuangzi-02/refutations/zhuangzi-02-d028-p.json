@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d028-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907027",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 28 --verse 22.22 and the raw wikitext of revision 7907027 (南華真經註疏/卷二十四, 外篇知北遊第二十二, timestamp 2026-07-06): the evidence stands verbatim as a 〔注〕 (Guo Xiang) directly after 是其所美者為神奇，其所惡者為臭腐；臭腐復化為神奇；神奇復化為臭腐。故曰：通天下一氣耳, which is the key verse (Giles 22.22) and 22.23. The paraphrase (animation and corruption are what each likes and hates, one’s liking another’s loathing, so death and life, self and other, do not differ) is carried by 各以所美為神奇…彼之所美，我之所惡…死生彼我豈殊哉 without drift. verse.js ok (Zhuangzi 22.22, at 2094, [ref] unit; the verse starts at a sentence start after “Therefore all things are ONE.”); entry-check.js ok, no errors or warns. Plain sense matches day.js 22.1 to 22.23 (Knowledge brings his questions to the Yellow Emperor, who at 22.21 names life as convergence and death as dispersion of the vital fluid, and at 22.23 a single vital fluid); no four-word run from the key. No school required, no comparison, no tone issue.",
+ "better": ""
+}

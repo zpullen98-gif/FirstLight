@@ -1,0 +1,314 @@
+{
+ "plan": "zhuangzi",
+ "batch": "zhuangzi-02",
+ "dry": false,
+ "div": "84653a3f7d",
+ "root": "C:/Users/zpull/FirstLight",
+ "days": [
+  {
+   "d": 23,
+   "label": "Zhuangzi 18.1 to 19.7",
+   "id": {
+    "primary": "zhuangzi-02-d023-p",
+    "standby": "zhuangzi-02-d023-s"
+   }
+  },
+  {
+   "d": 24,
+   "label": "Zhuangzi 19.8 to 19.92",
+   "id": {
+    "primary": "zhuangzi-02-d024-p",
+    "standby": "zhuangzi-02-d024-s"
+   }
+  },
+  {
+   "d": 25,
+   "label": "Zhuangzi 19.93 to 20.41",
+   "id": {
+    "primary": "zhuangzi-02-d025-p",
+    "standby": "zhuangzi-02-d025-s"
+   }
+  },
+  {
+   "d": 26,
+   "label": "Zhuangzi 20.42 to 21.11",
+   "id": {
+    "primary": "zhuangzi-02-d026-p",
+    "standby": "zhuangzi-02-d026-s"
+   }
+  },
+  {
+   "d": 27,
+   "label": "Zhuangzi 21.12 to 21.98",
+   "id": {
+    "primary": "zhuangzi-02-d027-p",
+    "standby": "zhuangzi-02-d027-s"
+   }
+  },
+  {
+   "d": 28,
+   "label": "Zhuangzi 21.99 to 22.67",
+   "id": {
+    "primary": "zhuangzi-02-d028-p",
+    "standby": "zhuangzi-02-d028-s"
+   }
+  },
+  {
+   "d": 29,
+   "label": "Zhuangzi 22.68 to 23.2",
+   "id": {
+    "primary": "zhuangzi-02-d029-p",
+    "standby": "zhuangzi-02-d029-s"
+   }
+  },
+  {
+   "d": 30,
+   "label": "Zhuangzi 23.3 to 23.92",
+   "id": {
+    "primary": "zhuangzi-02-d030-p",
+    "standby": "zhuangzi-02-d030-s"
+   }
+  },
+  {
+   "d": 31,
+   "label": "Zhuangzi 23.93 to 24.50",
+   "id": {
+    "primary": "zhuangzi-02-d031-p",
+    "standby": "zhuangzi-02-d031-s"
+   }
+  },
+  {
+   "d": 32,
+   "label": "Zhuangzi 24.51 to 24.171",
+   "id": {
+    "primary": "zhuangzi-02-d032-p",
+    "standby": "zhuangzi-02-d032-s"
+   }
+  },
+  {
+   "d": 33,
+   "label": "Zhuangzi 24.172 to 25.27",
+   "id": {
+    "primary": "zhuangzi-02-d033-p",
+    "standby": "zhuangzi-02-d033-s"
+   }
+  },
+  {
+   "d": 34,
+   "label": "Zhuangzi 25.28 to 25.126",
+   "id": {
+    "primary": "zhuangzi-02-d034-p",
+    "standby": "zhuangzi-02-d034-s"
+   }
+  },
+  {
+   "d": 35,
+   "label": "Zhuangzi 25.127 to 26.73",
+   "id": {
+    "primary": "zhuangzi-02-d035-p",
+    "standby": "zhuangzi-02-d035-s"
+   }
+  },
+  {
+   "d": 36,
+   "label": "Zhuangzi 26.74 to 28.11",
+   "id": {
+    "primary": "zhuangzi-02-d036-p",
+    "standby": "zhuangzi-02-d036-s"
+   }
+  },
+  {
+   "d": 37,
+   "label": "Zhuangzi 28.12 to 28.85",
+   "id": {
+    "primary": "zhuangzi-02-d037-p",
+    "standby": "zhuangzi-02-d037-s"
+   }
+  },
+  {
+   "d": 38,
+   "label": "Zhuangzi 28.86 to 29.26",
+   "id": {
+    "primary": "zhuangzi-02-d038-p",
+    "standby": "zhuangzi-02-d038-s"
+   }
+  },
+  {
+   "d": 39,
+   "label": "Zhuangzi 29.27 to 29.115",
+   "id": {
+    "primary": "zhuangzi-02-d039-p",
+    "standby": "zhuangzi-02-d039-s"
+   }
+  },
+  {
+   "d": 40,
+   "label": "Zhuangzi 29.116 to 30.43",
+   "id": {
+    "primary": "zhuangzi-02-d040-p",
+    "standby": "zhuangzi-02-d040-s"
+   }
+  },
+  {
+   "d": 41,
+   "label": "Zhuangzi 31.1 to 32.7",
+   "id": {
+    "primary": "zhuangzi-02-d041-p",
+    "standby": "zhuangzi-02-d041-s"
+   }
+  },
+  {
+   "d": 42,
+   "label": "Zhuangzi 32.8 to 32.109",
+   "id": {
+    "primary": "zhuangzi-02-d042-p",
+    "standby": "zhuangzi-02-d042-s"
+   }
+  },
+  {
+   "d": 43,
+   "label": "Zhuangzi 32.110 to 33.42",
+   "id": {
+    "primary": "zhuangzi-02-d043-p",
+    "standby": "zhuangzi-02-d043-s"
+   }
+  },
+  {
+   "d": 44,
+   "label": "Zhuangzi 33.43 to 33.143",
+   "id": {
+    "primary": "zhuangzi-02-d044-p",
+    "standby": "zhuangzi-02-d044-s"
+   }
+  }
+ ],
+ "lanes": [
+  {
+   "key": "L1",
+   "days": [
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L2",
+   "days": [
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L3",
+   "days": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L4",
+   "days": [
+    41,
+    42,
+    43,
+    44
+   ],
+   "sensitive": false
+  }
+ ],
+ "sensitive": [],
+ "rules": [
+  "1. FORM. One sentence: <plain sense>; <Commentator>, <place>, reads it as <reading>. Exactly one semicolon and one full stop, at the end. Aim for 35 to 45 words; at most 45, or 60 when two commentators are named (then: ...; A (school), place, reads it as X, and B (school), place, as Y.). The owner set this length: a reader meets it at six in the morning. The verb after the commentator is one of: reads, takes, hears, explains, understands. Never: shows, proves, reveals, the true meaning, actually.",
+  "2. PLAIN SENSE (before the semicolon). A short clause of CONTEXT, because the key verse is printed just above the sentence: where the verse stands in the day’s passage and what the passage around it is doing (who speaks, to whom, what the chapter is about, what comes before or after), in the passage’s own terms. It NEVER repeats the key verse’s own words (the gate fails four words in a row taken from the verse) and never paraphrases it line by line. Forms that work: \"Closing a chapter on the sage’s humility, the verse ...\"; \"In a chapter of contrasts between the multitude and the speaker, ...\"; \"Krishna, answering Arjuna’s doubt about action, ...\". Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim (\"the chapter\", \"the text\", \"the Master says\"; never \"Laozi wrote\" or \"Muhammad writes\"). It never names the commentator.",
+  "3. THE READING (after the semicolon). One commentator from this plan’s roster (two only where they genuinely differ, and then name the difference without resolving it), opening the second half with his display name exactly as the roster gives it, then the place in the commentary (chapter, verse, book and section, page), then a paraphrase that the evidence supports and does not go beyond. No quotation from the commentator in the sentence. At most three words of the key verse may be quoted, in curly quotes.",
+  "4. NEVER ANOTHER TRADITION. No comparison, no ranking, no \"unlike\", \"fulfils\", \"anticipates\", \"all faiths\", \"superior\". Name other groups only as the day’s text itself names them.",
+  "5. DISAGREEMENT IS NAMED, NOT RESOLVED. No \"rightly\", \"better\", \"more accurately\", \"correctly\", \"mistaken\".",
+  "6. HARD PASSAGES (war, killing, punishment, exclusion, law, sexuality). The plain sense states it in one plain clause: no softening, no pleading for context, no graphic detail, no polemic. The reading gives the commentator’s reading, including any limit he sets, attributed to him.",
+  "7. HOUSE STYLE. British spelling (honour, colour, realise, judgement). Curly quotes and apostrophes only. No em dash, no en dash, no double hyphen, anywhere. No question or exclamation mark in the sentence. No you, your, we, our, us. No honorifics (Saint, St., Sri, pbuh and its signs, the Venerable, Lord Krishna). Names exactly as the roster spells them. The divine name as the key verse’s translation prints it when quoting; otherwise \"God\" or \"the LORD\" as the translation has it; never spell out the four-letter Hebrew name.",
+  "8. THE KEY VERSE. Copied from `day.js`, verbatim, inside ONE unit (one verse, one ayah, one of Legge’s numbered sections, one paragraph); one to three whole sentences, beginning where a sentence begins and ending in . ? or !; 4 to 60 words; no dash of any kind (choose another verse, or stop before it); only these changes: straight quotes to curly, wrapped lines joined. Everything else stays exactly as printed, parentheses and capitals included. Never from a note, an argument, a commentary, a chant or a colophon (`day.js` marks them NOT CITABLE). Run `verse.js` on every key: it must print \"ok\": true, and its ref and at are copied into the proposal unchanged.",
+  "9. THE SOURCE LINE (src). The commentator’s display name first, then the work and the place, then the edition actually read and its year: for example \"Wang Bi, Laozi zhu, chapter 8, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)\". When the reading is found only through a conduit (Legge’s notes and the like), the form is \"<name>, as given in <conduit>, <place>\" and the entry carries hedge: <conduit id>. At most 160 characters. No dash.",
+  "10. THE STANDARD. A confident false attribution is worse than naming a different commentator. A reading not found in a source you opened does not ship. When in doubt, choose the reading you can show in the commentator’s own words."
+ ],
+ "voice": "The Zhuangzi is read in Herbert Giles’ translation (1889). Guo Xiang’s commentary is the one through which the text was received.",
+ "roster": {
+  "commentators": [
+   {
+    "id": "guo-xiang",
+    "name": "Guo Xiang",
+    "alsoName": "",
+    "school": "",
+    "dates": "died 312",
+    "work": "Commentary on the Zhuangzi (Zhuangzi zhu)",
+    "lang": "Classical Chinese",
+    "coverage": "all",
+    "sources": [
+     "Chinese text on ctext.org or zh.wikisource.org (public domain)",
+     "Legge, SBE 39 and 40 (1891), as a conduit"
+    ],
+    "traps": [
+     "Guo Xiang's commentary covers the 33-chapter recension, which Giles follows; locate by opening words, not paragraph number.",
+     "Giles' own notes are printed in the app's text and are not a key verse and not Guo Xiang."
+    ]
+   }
+  ],
+  "conduits": [
+   {
+    "id": "legge-sbe39",
+    "name": "Legge's notes",
+    "full": "James Legge, The Texts of Taoism, Sacred Books of the East 39 and 40 (1891)",
+    "licence": "public domain"
+   },
+   {
+    "id": "giles-1889",
+    "name": "Giles' notes",
+    "full": "Herbert A. Giles, Chuang Tzu: Mystic, Moralist, and Social Reformer (1889)",
+    "licence": "public domain"
+   }
+  ]
+ },
+ "forbid": [],
+ "watch": [
+  "Buddhist",
+  "Christian"
+ ],
+ "traps": {
+  "all": "- A reading not found in a source you opened does not ship. A confident false attribution is worse than naming a different commentator.\n- The commentator's own words go into the evidence verbatim, in the language they were written in, with your English gloss. A paraphrase of what you remember is not evidence.\n- The plain sense says what the day's text says, in its own terms. It is not the commentator's reading restated, and it is not doctrine.\n- A key verse is copied from `day.js`, never typed from memory: a remembered translation is almost never the app's translation, and five of the chambers' epigraphs prove it.\n- The key verse's translation may carry its translator's interpretation (Legge's parentheses, Besant's Theosophy, Pickthall's additions). The reading attributed to the commentator must be his, not the translator's.",
+  "plan": "- Giles' arguments (the italic summary at a chapter's head) and his notes are printed in the text but are neither the Zhuangzi nor Guo Xiang.\n- Guo Xiang comments on the 33-chapter recension that Giles follows; locate by opening words."
+ },
+ "countsSoFar": {},
+ "tools": {
+  "day": "node C:/Users/zpull/FirstLight/.scripts/teachings/day.js zhuangzi <day>",
+  "verse": "node C:/Users/zpull/FirstLight/.scripts/teachings/verse.js zhuangzi <day> \"<key verse>\"",
+  "packet": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js zhuangzi <day>",
+  "status": "node C:/Users/zpull/FirstLight/.scripts/teachings/status.js zhuangzi 2",
+  "gate": "node C:/Users/zpull/FirstLight/.scripts/check-teachings.js --candidate C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/batch.json"
+ },
+ "evidence": {
+  "rule": "The commentator’s own words, verbatim from a source you actually opened, 12 to 120 characters for Chinese or 12 to 120 words otherwise, in the original language where you read it so, with your English gloss. At most 40 words from any copyrighted English. A packet source is cited with via \"packet\" and the packet’s url; anything else you opened with via \"webfetch\" and its exact url. The operator re-finds these words by machine (recheck-evidence.js) before anything lands.",
+  "packetSources": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js zhuangzi <day>"
+ },
+ "paths": {
+  "dir": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02",
+  "proposals": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/proposals-<lane>.json",
+  "verdicts": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/verdicts/<id>.json",
+  "refutations": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/refutations/<id>.json",
+  "reverify": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/reverify/<id>.json",
+  "batch": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/batch.json",
+  "sources": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/SOURCES-zhuangzi-02.md",
+  "critic": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-02/critic.json"
+ }
+}

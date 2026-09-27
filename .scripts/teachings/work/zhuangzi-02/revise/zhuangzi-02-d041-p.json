@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d041-p",
+ "d": 41,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "To see a Sage and not to honour him, is not to be in charity with man. Unless you are in charity with man, you cannot humble yourself before a fellow-creature.",
+ "ref": "Zhuangzi 31.65",
+ "at": [
+  3307
+ ],
+ "s": "Confucius answers Tzŭ Lu’s protest at his bows to the old fisherman; Guo Xiang, in his one note on chapter 31, reads the chapter as showing one at ease without withdrawing to rivers and seas humbling himself before their recluse, his openness reaching every creature.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 31, zh.wikisource (the Zhengtong Daozang edition, juan 33), revision 6011291 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6011291",
+    "edition": "zh.wikisource 南華真經註疏 卷三十三 (Zhengtong Daozang edition), revision 6011291",
+    "locator": "chapter 31, the single note after the last line (31.66, 且道者，萬物之所由也)",
+    "via": "packet"
+   }
+  ],
+  "words": "此篇言無江海而間者，能下江海之士也。夫孔子之所放任，豈直漁父而已哉？將周流六虛，旁通無外，蝡動之類，咸得盡其所懷",
+  "lang": "Classical Chinese",
+  "gloss": "This chapter says that one who is at leisure without the rivers and seas can humble himself before a man of the rivers and seas. What Confucius gives free rein to, how is it the fisherman alone? It flows through the six directions, reaching everywhere with nothing outside, so that every creeping creature can fully express what it holds.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: “reads the chapter as a man at ease” makes the chapter a man; Guo Xiang’s 此篇言 (this chapter says) supplies a verb, so “showing one” is inserted. Re-opened the packet (revision 6011291, the single note after 31.66); nothing else changes and the evidence carries every part (無江海而間者，能下江海之士, 旁通無外，蝡動之類). verse.js ok, entry-check ok."
+}

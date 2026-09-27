@@ -1,0 +1,48 @@
+{
+ "id": "zhuangzi-02-d032-p",
+ "d": 32,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“And I too, ever since he perished, have been without my material, having no one with whom I can speak.”",
+ "ref": "Zhuangzi 24.104",
+ "at": [
+  2497
+ ],
+ "s": "Passing Hui Tzŭ’s grave, Chuang Tzŭ likens himself to a mason whose steady partner has died; Guo Xiang, on chapter 24, reads it as saying that without a partner who stays unmoved and forgets words, even the utmost speech has nowhere to be used.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 24, zh.wikisource (the Zhengtong Daozang edition), revision 7907021 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907021",
+    "edition": "zh.wikisource 南華真經註疏 卷二十六 (Zhengtong Daozang edition, DZ0745), revision 7907021",
+    "locator": "chapter 24, the note on 匠石曰：臣則嘗能斲之…吾無與言之矣 (24.103 to 24.104)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofchi02oxfo",
+    "edition": "Legge, SBE 40 (1891), OCR notes to Book XXIV",
+    "locator": "notes to Book XXIV (nothing on this paragraph bearing on Guo Xiang)",
+    "via": "packet"
+   }
+  ],
+  "words": "非夫不動之質，忘言之對，則雖至言妙斬而無所用之。",
+  "lang": "Classical Chinese",
+  "gloss": "Without that unmoving material, that partner who forgets words, even the utmost words and the most wondrous stroke would have nothing to be used on.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 24.104, at 2497). Guo Xiang’s note stands directly on the mason’s answer and 吾無與言之矣; it says that without the unmoving material, the partner who forgets words, even the utmost words and wondrous stroke have nothing to be used on. The sentence paraphrases this without drift. Plain sense (Chuang Tzŭ at Hui Tzŭ’s grave, the mason whose partner has died) matches 24.99 to 24.104. Legge’s notes opened; nothing there displaces this. entry-check ok."
+}

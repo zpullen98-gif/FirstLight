@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d033-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=5978511",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 33 --verse 25.19 (Guo Xiang, 南華真經註疏 卷二十七, revision 5978511): 聖人無愛若鏡耳。然而事濟於物，故人與之名，若人不相告，則莫知其愛人也 stands verbatim as the note on 聖人之愛人也，人與之名，不告則不知其愛人也, the Chinese of the key verse 25.19. Every part of the paraphrase is in it: no love like a mirror (無愛若鏡), his doings help things (事濟於物), so people give him the name (故人與之名); the revision fixes the earlier misparse. The next note (道合於愛人) does not contradict it: Guo’s no love is love without intent, reported in his own terms, not sensationalised. Plain sense matches day.js 25.18 (the beauty who does not know she is beautiful unless told) and 25.19; no four key-verse words repeated. verse.js ok (Zhuangzi 25.19, at 2646); entry-check.js ok, no errors or warns. No school needed, no comparison.",
+ "better": ""
+}

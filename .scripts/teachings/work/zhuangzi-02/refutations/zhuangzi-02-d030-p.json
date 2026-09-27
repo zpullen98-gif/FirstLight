@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-02-d030-p",
+ "refuted": false,
+ "reopened": { "url": "https://zh.wikisource.org/w/index.php?oldid=6359136", "found": true },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 30 --verse 23.85 and 23.86 and the raw wikitext of revision 6359136 (南華真經註疏/卷二十五, timestamp 2026-06-05): both evidence segments are 〔注〕 notes, the first on 天門者，無有也，萬物出乎無有 (the first two sentences of Giles 23.86, which the packet labels 23.85), the second on 必出乎無有; the adjoining note on 有不能以有為有 says 故必自有耳. The sentence carries three points each found in his words: things exist of themselves (欽然自爾, 必自有耳), so taking non-existence as the gate is having no gate (以無為門，則無門也), and non-existence does not produce existence (非謂無能為有也). The 'so' joining the first two follows his own note, which opens with 死生出入，皆欽然自爾 before concluding there is no gate. verse.js ok (Zhuangzi 23.86, at 2328; the unclosed opening quote is as printed); entry-check.js ok. Plain sense matches day.js 23.85 (Space, Time, birth and death passing in and out through the Portal) without repeating the verse. No school, comparison or tone issue.",
+ "better": ""
+}

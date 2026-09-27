@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d036-p",
+ "d": 36,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But language which flows constantly over, as from a full goblet, is in accord with God.",
+ "ref": "Zhuangzi 27.2",
+ "at": [
+  2873
+ ],
+ "s": "The chapter opens by naming three kinds of speech, of which this is the third; Guo Xiang, on chapter 27, reads the goblet, tipping when full and righting when empty, as speech that follows things, new daily, filling its natural share and so in harmony.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 27, zh.wikisource (Nanhua zhenjing zhushu juan 29, the Zhengtong Daozang edition), revision 7907026 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907026",
+    "edition": "zh.wikisource 南華真經註疏 卷二十九 (Zhengtong Daozang edition, DZ0745), revision 7907026",
+    "locator": "chapter 27, the note on 巵言日出，和以天倪 (27.2)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫巵，滿則傾，空則仰，非持故也。況之於言，因物隨變，唯彼之從，故曰日出。日出，謂日新也，日新則盡其自然之分，自然之分盡則和也。",
+  "lang": "Classical Chinese",
+  "gloss": "The goblet tips when full and turns upright when empty; it holds to no fixed state. Likened to speech: it goes with things and changes as they change, following only the other, and so it is said to issue daily. Issuing daily means being new each day; new each day, it fills out its natural share; its natural share filled out, it is in harmony.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 27.2, at 2873). Guo Xiang’s note on 巵言日出，和以天倪, the chapter’s opening triad of speech, explains the goblet tipping when full and righting when empty as speech that changes with things and follows them, new daily, filling its natural share and so in harmony. The sentence paraphrases this without drift. Plain sense (the chapter opens by naming three kinds of speech, this the third) matches 27.2. entry-check ok."
+}

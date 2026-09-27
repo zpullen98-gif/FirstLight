@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d043-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6366211",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 33.4, at 3435); the key stops before the dash in the fourth sentence, and the sentence covers the omitted fourth figure as the true Sage after them. Plain sense fits: chapter 33 opens its survey of the schools with the highest kinds of man, and repeats no four-word run of the key. packet.js and the url both show 凡此四名，一人耳，所自言之異 under 注 (Guo Xiang), directly after 以天為宗 ... 謂之聖人, the Chinese of Giles 33.4; Cheng Xuanying 疏 there begins 冥宗契本 and is not the source. Four names for one man, differing only in the standpoint from which each is spoken, is exactly what the note says. Giles printed note (four different denominations of the ideal man) says much the same, but the reading is found in Guo own words at this line, so the attribution stands. entry-check ok, 45 words.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-02-d024-p",
+ "refuted": false,
+ "reopened": { "url": "https://zh.wikisource.org/w/index.php?oldid=7907029", "found": true },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 24 --verse 19.26 and the raw wikitext of revision 7907029 (南華真經註疏 卷二十一, chapter 19): the three evidence segments are verbatim 〔注〕 notes (Guo Xiang; Cheng's 〔疏〕 even quotes the first as 郭注云) on 不開人之天，而開天之天, 開天者德生 and 開人者賊生, which follow 故無攻戰之亂，無殺戮之刑者 (Giles 19.25's end) and so are Giles 19.26. The paraphrase maps cleanly: the one from God (Giles' God for 天) = 不慮而知, 性之動, 遇物而當足則忘餘 (nature moving without forethought, content with enough); the artificial = 知之用, 從感而求，劫而不已 (knowledge in use, chasing what stirs it without end). The full first note also has 不慮而知, so without forethought is in his words. content with enough is a fair rendering of 當足則忘餘; no drift. verse.js ok (Zhuangzi 19.26, at 1698); entry-check.js ok, no errors or warns. Plain sense matches day.js: Lieh Tzŭ asks Kuan Yin at 19.17 and 19.26 is the last paragraph of Kuan Yin's answer, contrasting two intelligences; no verse words repeated. No school needed, no comparison, tone plain.",
+ "better": ""
+}

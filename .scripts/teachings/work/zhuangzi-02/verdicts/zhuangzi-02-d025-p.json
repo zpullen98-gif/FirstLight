@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d025-p",
+ "d": 25,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "How then can there be any fixed point? Alas indeed! Take note, my disciples, that such is to be found only in the domain of TAO.”",
+ "ref": "Zhuangzi 20.12",
+ "at": [
+  1816
+ ],
+ "s": "Pressed by a disciple over the useless tree spared and useless goose killed, Chuang Tzŭ turns to how human affairs reverse; Guo Xiang, on chapter 20, reads it as no one method fitting the uncertain: only one changing with the times gets through every change.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 20, zh.wikisource (Nanhua zhenjing zhushu, juan 22, Zhengtong Daozang edition), revision 5978310 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5978310",
+    "edition": "zh.wikisource 南華真經註疏 卷二十二 (Zhengtong Daozang, DZ0745), revision 5978310, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 20, the note on 悲夫。弟子志之，其唯道德之鄉乎 (Giles 20.12)",
+    "via": "packet"
+   }
+  ],
+  "words": "不可必，故待之不可以一方也，唯與時俱化者，為能涉變而常通耳。",
+  "lang": "Classical Chinese",
+  "gloss": "Nothing can be counted on, so things cannot be met by one fixed method; only one who changes along with the times can pass through change and always get through.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 20.12, at 1816). Guo Xiang’s note stands directly after 悲夫。弟子志之，其唯道德之鄉乎, the Chinese of the key verse, and says just what the reading says: nothing is certain, so no one method meets it, and only one who changes with the times gets through change. Changed only the plain sense: the disciple does not ask why the tree lived and the goose died, he asks where Chuang Tzŭ will rest between them (Upon which horn of the dilemma will you rest), so Asked why ... became Pressed by a disciple over the useless tree spared and useless goose killed; to stay within 45 words, what is never certain became the uncertain. Key, ref, at and src unchanged. entry-check ok, 45 words."
+}

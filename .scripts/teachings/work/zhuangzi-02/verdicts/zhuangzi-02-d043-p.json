@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d043-p",
+ "d": 43,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who does not separate from the Source is one with God. He who does not separate from the essence is a spiritual man. He who does not separate from the reality is a perfect man.",
+ "ref": "Zhuangzi 33.4",
+ "at": [
+  3435
+ ],
+ "s": "Early in the chapter’s survey of the schools, the passage names the highest kinds of man; Guo Xiang, on chapter 33, reads them, with the true Sage after them, as four names for one man, differing only in the standpoint from which each is spoken.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 33, zh.wikisource (the Zhengtong Daozang edition, juan 35), revision 6366211 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6366211",
+    "edition": "zh.wikisource 南華真經註疏 卷三十五 (Zhengtong Daozang edition), revision 6366211",
+    "locator": "chapter 33, note on 不離於宗，謂之天人 ... 謂之聖人 (Giles 33.4)",
+    "via": "packet"
+   }
+  ],
+  "words": "凡此四名，一人耳，所自言之異。",
+  "lang": "Classical Chinese",
+  "gloss": "All these four names are one man only; the difference lies in the side from which each is spoken.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 33.4, at 3435); it stops before the dash in the unit’s fourth sentence, which the sentence covers as the true Sage after them. Guo Xiang’s note directly on the four names (heavenly man, spirit man, perfect man, sage) says they are one man differing by standpoint of speech. Giles’ own note (not citable) says something similar, but the reading is found in Guo Xiang’s own words at this line, so the attribution stands. Plain sense matches the opening of chapter 33. entry-check ok."
+}

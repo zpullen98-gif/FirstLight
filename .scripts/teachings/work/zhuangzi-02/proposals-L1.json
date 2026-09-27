@@ -1,0 +1,241 @@
+{
+ "lane": "L1",
+ "plan": "zhuangzi",
+ "batch": "zhuangzi-02",
+ "days": [
+  {
+   "d": 23,
+   "primary": {
+    "id": "zhuangzi-02-d023-p",
+    "key": "At this, the skull opened its eyes wide and knitted its brows and said, “How should I cast aside happiness greater than that of a king, and mingle once again in the toils and troubles of mortality?”",
+    "ref": "Zhuangzi 18.37",
+    "at": [
+     1645
+    ],
+    "s": "Offered in a dream a return to flesh and kin, the skull Chuang Tzŭ slept on replies; Guo Xiang, on chapter 18, reads it as setting life and death level, at peace in each, and denies an older view that Chuang Tzŭ loved death.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 18, zh.wikisource (Nanhua zhenjing zhushu, juan 20, Zhengtong Daozang edition), revision 5978526 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "舊說云莊子樂死惡生，斯說謬矣。若然，何謂齊乎？所謂齊者，生時安生，死時安死，生死之情既齊，則無為當生而憂死耳。",
+     "gloss": "An old explanation says that Zhuangzi delights in death and hates life; that explanation is wrong. If it were so, what would making things equal mean? What is called making equal is this: while alive, be at peace in life; when dead, be at peace in death. Once the feelings about life and death are made equal, there is no reason, while alive, to be anxious about death."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d023-s",
+    "key": "And while she is thus lying asleep in Eternity, for me to go about weeping and wailing would be to proclaim myself ignorant of these natural laws. Therefore I refrain.”",
+    "ref": "Zhuangzi 18.27",
+    "at": [
+     1635
+    ],
+    "s": "Rebuked for singing at his wife’s death, Chuang Tzŭ traces her through changes like the seasons; Guo Xiang, on chapter 18, reads it as teaching those who feel: he shuddered until he understood, then stopped, so the highest principle may clear their burden.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 18, zh.wikisource (Nanhua zhenjing zhushu, juan 20, Zhengtong Daozang edition), revision 5978526 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "未明而栗，已達而止，斯所以誨有情者，將令推至理以遣累也。",
+     "gloss": "Before he understood, he shuddered; once he had understood, he stopped. This is how he teaches those who have feelings: he would have them extend the highest principle so as to send their burdens away."
+    }
+   }
+  },
+  {
+   "d": 24,
+   "primary": {
+    "id": "zhuangzi-02-d024-p",
+    "key": "“Do not develop your artificial intelligence, but develop that intelligence which is from God. From the latter, results virtue; from the former, cunning.",
+    "ref": "Zhuangzi 19.26",
+    "at": [
+     1698
+    ],
+    "s": "Closing Kuan Yin’s answer to Lieh Tzŭ on the perfect man whom nothing harms; Guo Xiang, on chapter 19, reads the two as nature moving without forethought, content once it has enough, and knowledge put to use, chasing whatever stirs it without end.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 19, zh.wikisource (Nanhua zhenjing zhushu, juan 21, Zhengtong Daozang edition), revision 7907029 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "不慮而知，開天也；知而後感，開人也。然則開天者，性之動也；開人者，知之用也。…性動者，遇物而當足則忘餘，斯德生也。…知用者，從感而求，劫而不已，斯賊生也。",
+     "gloss": "To know without deliberating is to open the heavenly; to know and then be stirred is to open the human. So opening the heavenly is the movement of one’s nature, and opening the human is the use of knowledge. … When nature moves, it meets things, and once it is matched and has enough it forgets the rest: so virtue arises. … When knowledge is used, it follows whatever stirs it and seeks, grasping without end: so harm arises."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d024-s",
+    "key": "His skill is the same in each case, but he is distracted by the value of his stake. And every one who attaches importance to the external, becomes internally without resource.”",
+    "ref": "Zhuangzi 19.42",
+    "at": [
+     1714
+    ],
+    "s": "Explaining the boatman’s words, Confucius turns to a gambler’s counters, girdle and gold; Guo Xiang, on chapter 19, reads it as the way to nourish life: the weightier the stake, the more anxious the mind, and the inner stays whole only by prizing nothing.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 19, zh.wikisource (Nanhua zhenjing zhushu, juan 21, Zhengtong Daozang edition), revision 7907029 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "所要愈重，則其心愈矜也。…夫欲養生全內者，其唯無所矜重也。",
+     "gloss": "The weightier what is at stake, the more anxious the mind becomes. … Whoever would nourish life and keep the inner self whole can do it only by treating nothing as precious."
+    }
+   }
+  },
+  {
+   "d": 25,
+   "primary": {
+    "id": "zhuangzi-02-d025-p",
+    "key": "How then can there be any fixed point? Alas indeed! Take note, my disciples, that such is to be found only in the domain of TAO.”",
+    "ref": "Zhuangzi 20.12",
+    "at": [
+     1816
+    ],
+    "s": "Asked why the useless tree lived and the useless goose died, Chuang Tzŭ turns to how human affairs reverse; Guo Xiang, on chapter 20, reads it as no one method fitting what is never certain: only one changing with the times gets through every change.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 20, zh.wikisource (Nanhua zhenjing zhushu, juan 22, Zhengtong Daozang edition), revision 5978310 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "不可必，故待之不可以一方也，唯與時俱化者，為能涉變而常通耳。",
+     "gloss": "Nothing can be counted on, so things cannot be met with one fixed method; only one who changes along with the times can pass through change and always get through."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d025-s",
+    "key": "I bring my own natural capacity into relation with that of the wood. What was suspected to be of supernatural execution in my work was due solely to this.”",
+    "ref": "Zhuangzi 19.101",
+    "at": [
+     1773
+    ],
+    "s": "Asked his secret by the prince of Lu, the carpenter Ch’ing tells of stilling his mind for seven days; Guo Xiang, on chapter 19, reads it as keeping to the natural, following the subtlety of things so fully that the work seems made by spirits.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 19, zh.wikisource (Nanhua zhenjing zhushu, juan 21, Zhengtong Daozang edition), revision 7907029 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "不離其自然也。…盡因物之妙，故乃疑是鬼神所作也。",
+     "gloss": "He does not depart from what is natural to it. … He follows the subtlety of things to the full, and so people suspect that ghosts and spirits made it."
+    }
+   }
+  },
+  {
+   "d": 26,
+   "primary": {
+    "id": "zhuangzi-02-d026-p",
+    "key": "That of the superior man passes from the negative to the affectionate. That of the mean man passes from the full-flavoured to nothing.",
+    "ref": "Zhuangzi 20.68",
+    "at": [
+     1872
+    ],
+    "s": "Sang Hu, asked why Confucius’ friends have left him, contrasts friendships like water and wine; Guo Xiang, on chapter 20, reads the first as bland without profit and close through the Way, the second as sweet with profit, which never lasts, and so broken off.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 20, zh.wikisource (Nanhua zhenjing zhushu, juan 22, Zhengtong Daozang edition), revision 5978310 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "無利故淡，道合故親。…飾利故甘，利不可常，故有時而絕也。",
+     "gloss": "Because there is no profit in it, it is bland; because they are joined in the Way, they are close. … Because it is dressed up with profit, it is sweet; profit cannot last, so at some point it breaks off."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d026-s",
+    "key": "In merit achieved there is deterioration. In fame achieved there is loss. Who can discard both merit and fame and become one with the rest?",
+    "ref": "Zhuangzi 20.55",
+    "at": [
+     1859
+    ],
+    "s": "Teaching the starving Confucius how not to die, the minister Jen recalls a wise saying; Guo Xiang, on chapter 20, reads it as none being whole who leans on merit and fame, since merit is achieved by the many and so goes back to them.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 20, zh.wikisource (Nanhua zhenjing zhushu, juan 22, Zhengtong Daozang edition), revision 5978310 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "恃功名以為已成者，未之嘗全。…功自眾成，故還之。",
+     "gloss": "Those who lean on merit and fame and count them as already achieved have never been whole. … Merit is achieved by the many, so it is given back to them."
+    }
+   }
+  },
+  {
+   "d": 27,
+   "primary": {
+    "id": "zhuangzi-02-d027-p",
+    "key": "Nevertheless, why should you grieve? Although my old self is constantly passing away, there remains that which does not pass away.”",
+    "ref": "Zhuangzi 21.45",
+    "at": [
+     1976
+    ],
+    "s": "To Yen Yüan, who cannot keep up with him, Confucius says the self he follows is already gone; Guo Xiang, on chapter 21, reads what remains as daily renewal: the old self forgotten, a new self already come, and never other than himself.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 21, zh.wikisource (Nanhua zhenjing zhushu, juan 23, Zhengtong Daozang edition), revision 7907028 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "不忘者存，謂繼之以日新也。雖忘故吾而新吾已至，未始非吾",
+     "gloss": "“That which is not forgotten remains” means that he is carried on by daily renewal. Though the old self is forgotten, the new self has already arrived, and it has never been other than me."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d027-s",
+    "key": "Creatures that live in water do not mind a change of pond. A slight change may be effected so long as the essential is untouched.",
+    "ref": "Zhuangzi 21.58",
+    "at": [
+     1989
+    ],
+    "s": "Asked by Confucius how perfect goodness and happiness are reached, Lao Tzŭ turns to grazing animals; Guo Xiang, on chapter 21, reads life and death as themselves a slight change, so joy and sorrow find no place in one who keeps the great constant.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 21, zh.wikisource (Nanhua zhenjing zhushu, juan 23, Zhengtong Daozang edition), revision 7907028 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "死生亦小變也。…知其小變而不失大常故。",
+     "gloss": "Death and life, too, are a slight change. … It is because he knows them to be slight changes and does not lose the great constant."
+    }
+   }
+  },
+  {
+   "d": 28,
+   "primary": {
+    "id": "zhuangzi-02-d028-p",
+    "key": "What we love is animation. What we hate is corruption. But corruption in its turn becomes animation, and animation once more becomes corruption.",
+    "ref": "Zhuangzi 22.22",
+    "at": [
+     2094
+    ],
+    "s": "Answering Knowledge, the Yellow Emperor treats life and death as one vital fluid gathering and dispersing; Guo Xiang, on chapter 22, reads animation and corruption as what each likes and hates, one’s liking another’s loathing, so death and life, self and other, do not differ.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 22, zh.wikisource (Nanhua zhenjing zhushu, juan 24, Zhengtong Daozang edition), revision 7907027 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "各以所美為神奇，所惡為臭腐耳。然彼之所美，我之所惡也；我之所美，彼或惡之。故通共神奇，通共臭腐耳，死生彼我豈殊哉。",
+     "gloss": "Each simply calls what he finds beautiful marvellous and what he hates rotten. But what another finds beautiful, I hate; what I find beautiful, another may hate. So all alike is marvellous and all alike is rotten; how could death and life, other and self, be different?"
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d028-s",
+    "key": "The old man of Tsang was silent and made no reply. He then abruptly took leave, and by the evening of that same day had disappeared, never to be heard of again.",
+    "ref": "Zhuangzi 21.102",
+    "at": [
+     2033
+    ],
+    "s": "Wên Wang asks his Grand Tutor whether such government could extend over the empire; Guo Xiang, on chapter 21, reads it as the answer itself: it reaches the empire only when one who takes no achievement as his own withdraws and lets his name go.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 21, zh.wikisource (Nanhua zhenjing zhushu, juan 23, Zhengtong Daozang edition), revision 7907028 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "為功者非己，故功成而身不得不退，事遂而名不得不去，名去身退，乃可以及天下也。",
+     "gloss": "The one who brings the achievement about is not oneself; so when the achievement is complete one must withdraw, and when the work is done one’s name must go. Only when the name has gone and the person has withdrawn can it reach the whole empire."
+    }
+   }
+  }
+ ]
+}

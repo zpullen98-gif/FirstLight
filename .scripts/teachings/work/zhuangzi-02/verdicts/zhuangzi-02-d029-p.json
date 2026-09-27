@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d029-p",
+ "d": 29,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Do not therefore insist in any particular direction; for there is nothing which escapes. Such is perfect TAO; and such also is ideal speech.",
+ "ref": "Zhuangzi 22.97",
+ "at": [
+  2169
+ ],
+ "s": "Having named the ant, a potsherd and ordure to Tung Kuo Tzŭ as places of TAO, Chuang Tzŭ explains his descent; Guo Xiang, on chapter 22, explains that a TAO absent from anything would not reach everywhere, and so would not be TAO.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 22, zh.wikisource (the Zhengtong Daozang edition), revision 7907027 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907027",
+    "edition": "zh.wikisource 南華真經註疏 卷二十四 (Zhengtong Daozang, DZ0745), revision 7907027, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 22, the notes on 汝唯莫必，無乎逃物 and 至道若是，大言亦然 (Giles 22.97)",
+    "via": "packet"
+   }
+  ],
+  "words": "若必謂無之逃物，則道不周矣，道而不周，則未足以為道。",
+  "lang": "Classical Chinese",
+  "gloss": "If one insists that it is absent and some thing escapes it, then the Tao does not reach everywhere; and a Tao that does not reach everywhere is not enough to be the Tao.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 22.97, at 2169). Guo Xiang’s note on 汝唯莫必，無乎逃物 says exactly that a Tao which something escaped would not reach everywhere and so would not be the Tao; his next note (明道不逃物) and the note on the pig-inspector line (明道之不逃於物也必矣) confirm it. The reading adds nothing. Plain sense is faithful: Chuang Tzŭ has just named the ant, tare, potsherd and ordure to Tung Kuo Tzŭ and here explains going lower by the pig test (omitting the tare is harmless). Place and src match the packet edition. entry-check ok, 43 words."
+}

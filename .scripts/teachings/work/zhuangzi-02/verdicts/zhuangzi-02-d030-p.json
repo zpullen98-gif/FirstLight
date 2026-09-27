@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d030-p",
+ "d": 30,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“The Portal of God is Non-Existence. All things sprang from Non-Existence. Existence could not make existence existence.",
+ "ref": "Zhuangzi 23.86",
+ "at": [
+  2328
+ ],
+ "s": "Having defined Space and Time, the passage names the gate through which birth and death pass; Guo Xiang, on chapter 23, reads it as saying that what exists exists of itself, so the portal is no portal, and non-existence does not produce existence.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 23, zh.wikisource (the Zhengtong Daozang edition), revision 6359136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6359136",
+    "edition": "zh.wikisource 南華真經註疏 卷二十五 (Zhengtong Daozang, DZ0745), revision 6359136, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 23, the notes on 天門者，無有也，萬物出乎無有, 有不能以有為有 and 必出乎無有 (Giles 23.85 to 23.86)",
+    "via": "packet"
+   }
+  ],
+  "words": "徒有名耳，竟無出入，門其安在乎？故以無為門。以無為門，則無門也。 … 此所以明有之不能為有而自有耳，非謂無能為有也。",
+  "lang": "Classical Chinese",
+  "gloss": "There are only names; in the end there is no going out or coming in, so where would the gate be? Hence non-existence is taken as the gate, and to take non-existence as the gate is to have no gate. … This makes clear that existence cannot make existence but exists of itself; it does not mean that non-existence can make existence.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 23.86, at 2328). Guo Xiang’s notes on the Heavenly Gate lines say births and deaths come about spontaneously of themselves (欻然自爾, printed 欽然), that there is only the name of going in and out, so to take non-existence as the gate is to have no gate, that existence must exist of itself (必自有耳), and that this does not mean non-existence can produce existence. The sentence carries all three points without drift. Plain sense is faithful: 23.85 defines Space and Time and names the Portal of God through which birth and death, issuing and entering pass. Place and src match the packet edition. entry-check ok, 43 words."
+}

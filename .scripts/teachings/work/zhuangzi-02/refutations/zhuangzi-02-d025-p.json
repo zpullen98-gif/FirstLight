@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-02-d025-p",
+ "refuted": false,
+ "reopened": { "url": "https://zh.wikisource.org/w/index.php?oldid=5978310", "found": true },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 25 --verse 20.12 and the raw wikitext of revision 5978310 (南華真經註疏 卷二十二, chapter 20): the evidence words stand verbatim as a 〔注〕 (Guo Xiang; Cheng's 〔疏〕 言能用中平之理 follows separately) directly after 悲夫。弟子志之，其唯道德之鄉乎, preceded in the text by 胡可得而必乎哉, the Chinese of the key verse's How then can there be any fixed point; the 悲夫 line itself carries only 疏, so the locator names the phrase the note closes. The paraphrase (no one method fits the uncertain; only one changing with the times gets through change) is 不可必，故待之不可以一方也，唯與時俱化者，為能涉變而常通耳, with gets through every change a fair rendering of 涉變而常通; no drift. verse.js ok (Zhuangzi 20.12, at 1816); entry-check.js ok, no errors or warns. Plain sense matches day.js 20.3 to 20.12 (useless tree spared, non-cackling goose killed, the disciple asks which horn Chuang Tzŭ rests on, and 20.12 turns to the reversals in human affairs); no four verse words repeated. No school needed, no comparison, tone plain.",
+ "better": ""
+}

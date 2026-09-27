@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d035-p",
+ "d": 35,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Get rid of small wisdom, and great wisdom will shine upon you. Put away goodness and you will be naturally good.",
+ "ref": "Zhuangzi 26.56",
+ "at": [
+  2831
+ ],
+ "s": "Confucius, drawing the moral of the divine tortoise, speaks of the limits of wisdom; Guo Xiang, on chapter 26, reads small knowing as serving the self and great knowing as leaving things be, and goodness put away as no longer longed for, and so unforced.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 26, zh.wikisource (Nanhua zhenjing zhushu juan 28, the Zhengtong Daozang edition), revision 5978513 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5978513",
+    "edition": "zh.wikisource 南華真經註疏 卷二十八 (Zhengtong Daozang edition, DZ0745), revision 5978513",
+    "locator": "chapter 26, the notes on 去小知而大知明 and 去善而自善矣 (26.56)",
+    "via": "packet"
+   }
+  ],
+  "words": "小知自私，大知任物。…去善則善無所慕，善無所慕，則善者不矯而自善也。",
+  "lang": "Classical Chinese",
+  "gloss": "Small knowing serves the self; great knowing leaves things to themselves. … Put away goodness, and goodness has nothing to be longed for; when goodness is not longed for, the good do not force themselves and are good of themselves.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 26.56, at 2831). The packet aligns 去小知而大知明 and 去善而自善矣 to 26.56, and Giles’ wording confirms the match by opening words. Guo Xiang’s two notes there say small knowing is self-serving and great knowing lets things be, and that with goodness put away it is no longer an object of longing, so the good are good of themselves without forcing. The sentence carries exactly this. Plain sense (Confucius, after the divine tortoise is netted and killed, speaking of the limits of wisdom) matches 26.55 to 26.56. entry-check ok."
+}

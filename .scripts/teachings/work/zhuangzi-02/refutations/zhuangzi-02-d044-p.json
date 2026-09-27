@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-02-d044-p",
+ "refuted": false,
+ "reopened": { "url": "https://zh.wikisource.org/w/index.php?oldid=6366211", "found": true },
+ "attacks": [],
+ "reason": "Re-opened the packet (packet.js zhuangzi 44, --verse 33.142 and the whole chapter): Guo Xiang's note 昔吾未覽莊子…乃知道聽塗說之傷實也 stands after 惜乎！惠施之才…悲夫！, the last text line of chapter 33, with no note after it, and it quotes the 33.87 verdict 其道舛駁，其言不中; the evidence words match the packet verbatim (including its 則日). Revision 6366211 is 南華真經註疏/卷三十五, timestamp 2026-06-05 (wikisource API), so src edition, juan and year hold. verse.js ok (Zhuangzi 33.87, at 3518, from a [ref] unit, not a Giles note); entry-check.js ok, no errors or warns. Plain sense (the survey ends with Hui Tzu and his paradoxes) matches day.js 33.87 to 33.142, no overlap with the verse, no commentator named. Drift checked: Guo says debaters called the stick and joined-rings paradoxes Zhuangzi's words and so he himself took Zhuangzi for a dialectician, and that this section's verdict taught him how hearsay harms the truth; the sentence folds his own mistaken judgement into what the hearsay did ('counted him a dialectician'), a compression that keeps his logic and adds no claim. 'Passed off' is carried by 皆云莊生之言 read against his conclusion that it was hearsay. The key verse's final sentence is exactly the verdict he quotes, so it is the best-chosen line. No school needed (roster has none), no comparison, no tone issue.",
+ "better": ""
+}

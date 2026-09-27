@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d040-p",
+ "d": 40,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“Wherefore, if reputation is not to be enjoyed and wealth is not to be secured, how pitiable it is that men should harass their minds and wear out their bodies in such pursuits!”",
+ "ref": "Zhuangzi 29.137",
+ "at": [
+  3199
+ ],
+ "s": "Complacency, having counted six curses of the rich man, from confusion to fear, closes his answer to Discontent; Guo Xiang, at the close of the exchange in chapter 29, reads it as saying that one who knows what is enough always has enough.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 29, closing note, zh.wikisource (Nanhua zhenjing zhushu juan 31, the Zhengtong Daozang edition), revision 6005747 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6005747",
+    "edition": "zh.wikisource 南華真經註疏 卷三十一 (Zhengtong Daozang edition, DZ0745), revision 6005747",
+    "locator": "chapter 29, the note closing the Discontent and Complacency exchange, after 故觀之名則不見，求之利則不得 (29.137); the packet reports no Guo Xiang comment on chapter 30",
+    "via": "packet"
+   }
+  ],
+  "words": "此章言知足者常足。",
+  "lang": "Classical Chinese",
+  "gloss": "This section says that one who knows what is enough always has enough.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 29.137, at 3199). Guo Xiang’s entire comment on the 無足/知和 exchange is the nine characters after this line, saying that one who knows what is enough always has enough; the sentence paraphrases exactly that and adds nothing. Plain sense: Complacency lists six curses of the rich man at 29.130 to 29.136 (confusion, misery, disease, shame, unhappiness, fear) and 29.137 closes his answer; faithful. The words fall under the 12-character floor only because the note itself is nine characters; they are the whole note. entry-check ok."
+}

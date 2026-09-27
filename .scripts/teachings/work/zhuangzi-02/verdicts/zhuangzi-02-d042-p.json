@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d042-p",
+ "d": 42,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Verily God does not reward man for what he does, but for what he is.",
+ "ref": "Zhuangzi 32.33",
+ "at": [
+  3341
+ ],
+ "s": "Closing the tale of Huan, who killed himself when his father sided with his Mihist brother, the passage turns to its moral; Guo Xiang, on chapter 32, reads the reward as answering a man’s nature, not his doing, since study only completes that nature.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 32, zh.wikisource (the Zhengtong Daozang edition, juan 34), revision 7907025 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907025",
+    "edition": "zh.wikisource 南華真經註疏 卷三十四 (Zhengtong Daozang edition), revision 7907025",
+    "locator": "chapter 32, note on 夫造物者之報人也，不報其人而報其人之天 (Giles 32.33; packet label 32.35)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫積習之功為報，報其性，不報其為也。然則學習之功，成性而已，豈為之哉。",
+  "lang": "Classical Chinese",
+  "gloss": "When the merit of accumulated practice is rewarded, what is rewarded is his nature, not his doing. So the merit of study is only the completing of the nature; how is it something he does?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 32.33, at 3341). Guo Xiang’s note on the Creator’s reward line says the reward answers a man’s nature, not his doing, and that study only completes the nature; the sentence carries exactly this. Plain sense (Huan’s suicide after his father sided with the Mihist brother, then the moral) matches 32.26 to 32.33. The packet’s alignment label (32.35) is off by one unit from Giles’ numbering, but the Chinese line 夫造物者之報人也 is the one Giles renders at 32.33, and the sentence cites only chapter 32. entry-check ok."
+}

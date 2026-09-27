@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d024-p",
+ "d": 24,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "“Do not develop your artificial intelligence, but develop that intelligence which is from God. From the latter, results virtue; from the former, cunning.",
+ "ref": "Zhuangzi 19.26",
+ "at": [
+  1698
+ ],
+ "s": "Late in Kuan Yin’s answer to Lieh Tzŭ, two kinds of knowing are contrasted; Guo Xiang, on chapter 19, reads the one from God as nature moving without forethought, content with enough, and the artificial as knowledge in use, chasing whatever stirs it endlessly.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 19, zh.wikisource (Nanhua zhenjing zhushu, juan 21, Zhengtong Daozang edition), revision 7907029 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907029",
+    "edition": "zh.wikisource 南華真經註疏 卷二十一 (Zhengtong Daozang, DZ0745), revision 7907029, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 19, the notes on 不開人之天，而開天之天, 開天者德生 and 開人者賊生 (Giles 19.26)",
+    "via": "packet"
+   }
+  ],
+  "words": "然則開天者，性之動也；開人者，知之用也。…性動者，遇物而當足則忘餘，斯德生也。…知用者，從感而求，劫而不已，斯賊生也。",
+  "lang": "Classical Chinese",
+  "gloss": "So opening the heavenly is the movement of one’s nature; opening the human is the use of knowledge. … When nature moves, it meets things and, once matched and sufficient, forgets the rest: so virtue arises. … When knowledge is used, it follows what stirs it and seeks, driven without stopping: so harm arises.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 19.26, at 1698). Guo Xiang’s three notes on 不開人之天，而開天之天 / 開天者德生 / 開人者賊生 carry the reading exactly: knowing without deliberation is opening the heavenly, the movement of nature, which forgets the rest once it has enough; opening the human is knowledge in use, which follows what stirs it without stopping. Changed only the sentence wording: the plain sense was a participial fragment with no subject (Closing Kuan Yin’s answer...;) and said Closing though a further sentence follows in Kuan Yin’s answer; it now reads Late in Kuan Yin’s answer to Lieh Tzŭ, two kinds of knowing are contrasted. The reading said the two as X and Y in the reverse of the verse’s order; it now names each (the one from God, the artificial) so the mapping is unambiguous. Key, ref, at and src unchanged. entry-check ok, 44 words."
+}

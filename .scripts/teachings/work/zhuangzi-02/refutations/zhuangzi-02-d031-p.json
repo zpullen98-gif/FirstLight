@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-02-d031-p",
+ "refuted": false,
+ "reopened": { "url": "https://zh.wikisource.org/w/index.php?oldid=7907021", "found": true },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 31 --verse 24.33 and the raw wikitext of revision 7907021 (南華真經註疏/卷二十六, timestamp 2026-07-06): both evidence notes are 〔注〕, on 愛民，害民之始也 and 為義偃兵，造兵之本也, inside Giles 24.33, chapter 24. 'Once shown and prized, is already false' renders 愛民之迹，為民所尚。尚之為愛，愛已偽也 (迹 = the visible trace); 'duty makes names shine, stirring a rivalry' is 為義則名彰，名彰則競興; 'no wish for peace can end' compresses his chain (the genuine lost, mutual deception, 雖欲偃兵，其可得乎) without adding a claim. verse.js ok (Zhuangzi 24.33, at 2426); entry-check.js ok, 45 words at the cap. Plain sense matches day.js 24.32 to 24.33 (the Prince asks whether love and duty can end war, Hsü Wu Kuei answers it cannot); no four-word overlap with the key. No school, comparison or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d033-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=5978511",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 25.19, at 2646); the key opens with a curly quote that closes only later in the unit, which is verbatim and passes the gate. Plain sense matches 25.18 (the beauty who does not know unless told) then 25.19. Re-fetched revision 5978511 raw: under 聖人之愛人也，人與之名，不告則不知其愛人也。 stands {{*|〔注〕聖人無愛若鏡耳。然而事濟於物，故人與之名，若人不相告，則莫知其愛人也。}}, marked 注 (Guo Xiang), not the 疏. Like a mirror, has no love, work helps things (事濟於物), people give it that name (人與之名): each clause is in his words. Note the mirror is Guo’s (his 25.18 note makes 鑑 the mirror), not Giles’ mankind-as-mirror, but the sentence attributes it to Guo only. entry-check ok, 43 words.",
+ "better": ""
+}

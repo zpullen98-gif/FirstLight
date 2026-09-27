@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d038-p",
+ "d": 38,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Thereupon he took a stone on his back and jumped into the river Lu.",
+ "ref": "Zhuangzi 28.120",
+ "at": [
+  3047
+ ],
+ "s": "Offered the throne after T’ang’s conquest, Wu Kuang, like Pien Sui before him, kills himself; Guo Xiang, on chapter 28, reads both as dying for name and loftiness, not as holding the empire light, since one who holds nothing weighty has nowhere to die.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 28, zh.wikisource (Nanhua zhenjing zhushu juan 30, the Zhengtong Daozang edition), revision 5985055 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5985055",
+    "edition": "zh.wikisource 南華真經註疏 卷三十 (Zhengtong Daozang edition, DZ0745), revision 5985055",
+    "locator": "chapter 28, the note after 乃負石而自沈於廬水 (28.119 to 28.120), opening 舊說曰：如卞隨務光者",
+    "via": "packet"
+   }
+  ],
+  "words": "夫輕天下者，不得有所重也，苟無所重，則無死地矣。",
+  "lang": "Classical Chinese",
+  "gloss": "One who makes light of the empire cannot hold anything weighty; and if nothing is weighty, there is no ground to die on. (The same note ends: such as these two may be called men who died for a name and longed for loftiness, and cannot be said to have put the empire outside themselves.)",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 28.120, at 3047). Guo Xiang’s note stands directly after Wu Kuang drowns himself; it rejects the old view that Pien Sui and Wu Kuang saw the empire as beyond the six directions, argues that one who truly makes light of the empire holds nothing weighty and so has no ground to die on, and concludes the two died for a name and longed for loftiness and cannot be said to have put the empire outside themselves. The sentence carries this without drift; 殉名慕高 compressed as ‘dying for name and loftiness’ is fair, and the fuller wording breaks the 45-word limit. Plain sense matches 28.103 to 28.120 (Pien Sui drowns himself at 28.117). Wu Kuang’s suicide is stated plainly. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d037-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=5985055",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 37: Guo Xiang comments on chapter 28 only three times, none on Yen Ho (顏闔, 28.36 to 28.41); the closing note after the Bo Yi and Shu Qi story says 此篇大意，以起高讓遠退之風。故被其風者，雖貪冒之人，乘天衢，入紫庭，猶時慨然中路而歎. The sentence frames this explicitly as a chapter-level reading (closing chapter 28, its refusals), which is what the words say; it claims no note on the verse. Attacks tried: locator (the note physically sits at 28.133 to 28.135, in day 38’s text, but “closing chapter 28” names it exactly); drift (the note goes on to name the faults, 弊, of Xu You’s and Bo Yi’s winds and says only the sage is traceless; the sentence omits this but claims nothing beyond the quoted words, and the passage is not a hard one under rule 6). Neither lands. Key verse verbatim (verse.js ok, 28.41, at 2968); plain sense (Yen Ho gone when messengers return) matches 28.36 to 28.41. entry-check ok, 43 words.",
+ "better": "If a note nearer the day were wanted, none exists: Guo Xiang’s other two chapter 28 notes are at 28.99 to 28.101 (Pei Jen Wu Tse) and 28.119 to 28.120 (Wu Kuang, used by d038)."
+}

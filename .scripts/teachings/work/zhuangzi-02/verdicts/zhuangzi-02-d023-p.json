@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d023-p",
+ "d": 23,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "At this, the skull opened its eyes wide and knitted its brows and said, “How should I cast aside happiness greater than that of a king, and mingle once again in the toils and troubles of mortality?”",
+ "ref": "Zhuangzi 18.37",
+ "at": [
+  1645
+ ],
+ "s": "Offered in a dream a return to flesh and kin, the skull Chuang Tzŭ slept on replies; Guo Xiang, on chapter 18, reads it as setting life and death level, at peace in each, and denies an older view that Chuang Tzŭ loved death.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 18, zh.wikisource (Nanhua zhenjing zhushu, juan 20, Zhengtong Daozang edition), revision 5978526 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5978526",
+    "edition": "zh.wikisource 南華真經註疏 卷二十 (Zhengtong Daozang, DZ0745), revision 5978526, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 18, the note on 髑髏深矉蹙頞曰：吾安能棄南面王樂而復為人閒之勞乎 (Giles 18.37)",
+    "via": "packet"
+   }
+  ],
+  "words": "舊說云莊子樂死惡生，斯說謬矣。若然，何謂齊乎？所謂齊者，生時安生，死時安死，生死之情既齊，則無為當生而憂死耳。",
+  "lang": "Classical Chinese",
+  "gloss": "An old explanation says Zhuangzi delights in death and hates life; that explanation is wrong. If so, what would making equal mean? Making equal is this: alive, be at peace in life; dead, be at peace in death. With the feelings of life and death made equal, there is no call, while alive, to worry about death.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 18.37, at 1645). Guo Xiang’s only note on the skull episode, placed on the skull’s reply, rejects the old view that Zhuangzi loved death and hated life and explains making equal as being at peace in life while alive and in death when dead, ending 此莊生之旨也. The reading (setting life and death level, at peace in each, denying the older view) says no more than that; loved death compresses 樂死惡生 fairly. Plain sense faithful: in the dream Chuang Tzŭ offers the skull its body, parents, wife and friends back, and the skull replies. Read the whole of chapter 18 in the packet; nothing conflicts. Place and src match the packet edition. entry-check ok."
+}

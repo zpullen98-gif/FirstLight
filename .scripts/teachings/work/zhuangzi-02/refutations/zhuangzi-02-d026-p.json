@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d026-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=5978310",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 26 --verse 20.68 and the raw wikitext of revision 5978310 (南華真經註疏/卷二十二, 外篇山木第二十, timestamp 2026-06-01 via the wikisource API): 無利故淡，道合故親 stands as a 〔注〕 (Guo Xiang, not the 〔疏〕) directly after 君子淡以親, and 飾利故甘，利不可常，故有時而絕也 as a 〔注〕 directly after 小人甘以絕, the lines Giles renders in the key verse (20.68). The paraphrase (bland without profit, close through the Way; sweet with profit, which cannot last, and so broken off) is carried by his words without drift; 飾利 as \"with profit\" and 不可常 as \"never lasts\" are fair. verse.js ok (Zhuangzi 20.68, at 1872, a [ref] unit, not a Giles note); entry-check.js ok, no errors or warns. Plain sense matches day.js 20.63 to 20.68 (Confucius lists his troubles, friends separated and disciples gone; Sang Hu answers with Lin Hui and the water and wine contrast); no four-word run from the key, no commentator named. Src year 2026 matches the revision timestamp. No school required, no comparison, no tone issue.",
+ "better": ""
+}

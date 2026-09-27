@@ -1,0 +1,217 @@
+{
+ "lane": "L2",
+ "plan": "zhuangzi",
+ "batch": "zhuangzi-02",
+ "days": [
+  {
+   "d": 29,
+   "primary": {
+    "id": "zhuangzi-02-d029-p",
+    "key": "Do not therefore insist in any particular direction; for there is nothing which escapes. Such is perfect TAO; and such also is ideal speech.",
+    "ref": "Zhuangzi 22.97",
+    "at": [2169],
+    "s": "Having named the ant, a potsherd and ordure to Tung Kuo Tzŭ as places of TAO, Chuang Tzŭ explains his descent; Guo Xiang, on chapter 22, explains that a TAO absent from anything would not reach everywhere, and so would not be TAO.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 22, zh.wikisource (the Zhengtong Daozang edition), revision 7907027 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "若必謂無之逃物，則道不周矣，道而不周，則未足以為道。…明道不逃物。",
+     "gloss": "(On 汝唯莫必，無乎逃物, ‘do not therefore insist … nothing which escapes’:) if one insists that it is absent and escapes some things, then the Tao does not reach everywhere; and a Tao that does not reach everywhere is not enough to be the Tao. … (On 至道若是，大言亦然, ‘such is perfect TAO’:) this makes clear that the Tao does not escape things."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d029-s",
+    "key": "TAO makes things what they are, but is not itself a thing.",
+    "ref": "Zhuangzi 22.146",
+    "at": [2218],
+    "s": "Answering Jen Ch’iu’s question about the time before the universe, Confucius turns to what came before things; Guo Xiang, on chapter 22, reads it as saying that nothing comes before things, since the utmost TAO is utter nothing, and things are so of themselves.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 22, zh.wikisource (the Zhengtong Daozang edition), revision 7907027 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "吾以至道為先之矣，而至道者乃至無也。既以無矣，又奚為先？然則先物者誰乎哉？而猶有物，無已，明物之自然，非有使然也。",
+     "gloss": "(On 有先天地生者物邪？物物者非物…, ‘TAO makes things what they are, but is not itself a thing’:) I take the utmost Tao to come before them; but the utmost Tao is utmost nothing. Being nothing, how could it come before? Then who is it that comes before things? Yet there are still things, without end: this makes clear that things are so of themselves, and nothing makes them so."
+    }
+   }
+  },
+  {
+   "d": 30,
+   "primary": {
+    "id": "zhuangzi-02-d030-p",
+    "key": "“The Portal of God is Non-Existence. All things sprang from Non-Existence. Existence could not make existence existence.",
+    "ref": "Zhuangzi 23.86",
+    "at": [2328],
+    "s": "Having defined Space and Time, the passage names the gate through which birth and death pass; Guo Xiang, on chapter 23, reads it as saying that what exists exists of itself, so the portal is no portal, and non-existence does not produce existence.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 23, zh.wikisource (the Zhengtong Daozang edition), revision 6359136 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "徒有名耳，竟無出入，門其安在乎？故以無為門。以無為門，則無門也。…故必自有耳，豈有之所能有乎。…此所以明有之不能為有而自有耳，非謂無能為有也。",
+     "gloss": "(On 天門者，無有也，萬物出乎無有, ‘the Portal of God is Non-Existence’:) there are only names; in the end there is no going out or coming in, so where is the gate? Hence non-existence is taken as the gate, and to take non-existence as the gate is to have no gate. … (On 有不能以有為有, ‘existence could not make existence existence’:) so it must exist of itself; how could existence make it exist? … (On the next words, 必出乎無有:) this makes clear that existence cannot make existence but exists of itself; it does not mean that non-existence can make existence."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d030-s",
+    "key": "“Those whose hearts are in a state of repose give forth a divine radiance, by the light of which they see themselves as they are.",
+    "ref": "Zhuangzi 23.62",
+    "at": [2304],
+    "s": "After the child whose heart is like dead ashes, the passage turns to the settled heart; Guo Xiang, on chapter 23, reads the radiance as heaven’s light, not human glitter, in which each thing sees itself and not the other, and so is at peace.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 23, zh.wikisource (the Zhengtong Daozang edition), revision 6359136 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫德宇泰然而定，則真所發者天光耳，非人耀。…天光自發，由人見其人，物見其物。物各自見而不見彼，所以泰然而定也。",
+     "gloss": "(On 宇泰定者，發乎天光, ‘those whose hearts are in a state of repose give forth a divine radiance’:) when the house of virtue is at ease and settled, what it truly gives forth is heaven’s light, not a human glitter. … (On 發乎天光者，人見其人:) heaven’s light shines of itself, so that the man sees the man and the thing sees the thing; each thing sees itself and does not see the other, and that is why it is at ease and settled."
+    }
+   }
+  },
+  {
+   "d": 31,
+   "primary": {
+    "id": "zhuangzi-02-d031-p",
+    "key": "“Love for the people is the root of all evil to the people. Cultivation of duty towards one’s neighbour in order to put an end to war is the origin of all fighting.",
+    "ref": "Zhuangzi 24.33",
+    "at": [2426],
+    "s": "Asked by the Prince whether love and duty can end war, Hsü Wu Kuei says no; Guo Xiang, on chapter 24, explains that love, once shown and prized, is already false, and duty makes names shine, stirring a rivalry no wish for peace can end.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 24, zh.wikisource (the Zhengtong Daozang edition), revision 7907021 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "愛民之迹，為民所尚。尚之為愛，愛已偽也。…為義則名彰，名彰則競興，競興則喪其真矣。父子君臣，懷情相欺，雖欲偃兵，其可得乎。",
+     "gloss": "(On 愛民，害民之始也, ‘love for the people is the root of all evil to the people’:) the trace of loving the people is prized by the people; once it is prized as love, the love is already false. … (On 為義偃兵，造兵之本也, ‘cultivation of duty … the origin of all fighting’:) acting for duty makes the name shine; when names shine, rivalry rises; when rivalry rises, the genuine is lost. Fathers and sons, rulers and ministers harbour their feelings and deceive one another: though one wishes to lay down arms, how could it be done?"
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d031-s",
+    "key": "“If a man treads upon a stranger’s toe in the market-place, he apologises on the score of hurry. If an elder brother does this, he is quit with an exclamation of sympathy. And if a parent does so, nothing whatever is done.",
+    "ref": "Zhuangzi 23.112",
+    "at": [2354],
+    "s": "Before the saying that perfect politeness is not artificial, the passage contrasts stranger, brother and parent; Guo Xiang, on chapter 23, reads the last case as fellow-feeling already enough, and the saying as treating others as oneself, so that no apology passes.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 23, zh.wikisource (the Zhengtong Daozang edition), revision 6359136 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "明恕素足。…不人者，視人若己。視人若已則不相辭謝，斯乃禮之至也。",
+     "gloss": "(On 大親則已矣, ‘if a parent does so, nothing whatever is done’:) this makes clear that fellow-feeling is simply enough. … (On the saying that follows, 至禮有不人, ‘perfect politeness is not artificial’:) not treating others as others means seeing others as oneself; when others are seen as oneself there is no apologising between them, and this is the height of courtesy. (Giles’ own note on 23.114 reports the same reading under Kuo Hsiang’s name.)"
+    }
+   }
+  },
+  {
+   "d": 32,
+   "primary": {
+    "id": "zhuangzi-02-d032-p",
+    "key": "“And I too, ever since he perished, have been without my material, having no one with whom I can speak.”",
+    "ref": "Zhuangzi 24.104",
+    "at": [2497],
+    "s": "Passing Hui Tzŭ’s grave, Chuang Tzŭ likens himself to a mason whose steady partner has died; Guo Xiang, on chapter 24, reads it as saying that without a partner who stays unmoved and forgets words, even the utmost speech has nowhere to be used.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 24, zh.wikisource (the Zhengtong Daozang edition), revision 7907021 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "非夫不動之質，忘言之對，則雖至言妙斬而無所用之。",
+     "gloss": "(On 匠石曰：臣則嘗能斲之…自夫子之死也，吾無以為質矣，吾無與言之矣, the mason’s answer and ‘having no one with whom I can speak’:) without that unmoving material, that partner who forgets words, even the utmost words and the most wondrous stroke would have nothing to be used on."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d032-s",
+    "key": "Shall I who make no utterances, make utterance now?",
+    "ref": "Zhuangzi 24.146",
+    "at": [2539],
+    "s": "Asked at a banquet for the words the men of old would offer, Confucius demurs; Guo Xiang, on chapter 24, explains that the Sage’s words are the people’s, not his own, so though they leave his mouth he has never spoken.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 24, zh.wikisource (the Zhengtong Daozang edition), revision 7907021 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "聖人無言，其所言者，百姓之言耳，故曰不言之言。苟以言為不言，則雖言出於口。故為未之嘗言。",
+     "gloss": "(On 丘也聞不言之言矣，未之嘗言, ‘shall I who make no utterances’:) the Sage has no words; what he says is only the people’s words, hence ‘the utterance without utterance’. If speaking is taken as not speaking, then though the words come out of his mouth, it counts as never having spoken."
+    }
+   }
+  },
+  {
+   "d": 33,
+   "primary": {
+    "id": "zhuangzi-02-d033-p",
+    "key": "“The love of a Sage for his fellows likewise finds expression among mankind. Were he not told so, he would not know that he loved his fellows.",
+    "ref": "Zhuangzi 25.19",
+    "at": [2646],
+    "s": "After the beauty who knows her beauty only when told, the passage turns to the Sage’s love; Guo Xiang, on chapter 25, explains that the Sage, like a mirror, has no love, but his work helps things and people give it that name.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 25, zh.wikisource (the Zhengtong Daozang edition), revision 5978511 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "聖人無愛若鏡耳。然而事濟於物，故人與之名，若人不相告，則莫知其愛人也。",
+     "gloss": "(On 聖人之愛人也，人與之名，不告則不知其愛人也, ‘the love of a Sage for his fellows … he would not know that he loved his fellows’:) the Sage has no love, as a mirror has none; yet his doings bring things through, so people give him the name, and if people did not tell one another, none would know that he loved people."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d033-s",
+    "key": "A man’s knowledge is limited; but it is upon what he does not know that he depends to extend his knowledge to the apprehension of God.",
+    "ref": "Zhuangzi 24.223",
+    "at": [2616],
+    "s": "After the foot that relies on untrodden ground, the passage turns to knowledge; Guo Xiang, on chapter 24, explains that even a cicada’s wing is known only when heaven, earth and all things are forgotten, so knowing Heaven’s meaning needs an emptied mind.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 24, zh.wikisource (the Zhengtong Daozang edition), revision 7907021 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫忘天地，遺萬物，然後蜩翼可得而知也，況欲知天之所謂，而可以不無其心哉。",
+     "gloss": "(On 人之於知也少，雖少，恃其所不知而後知之所謂也, ‘upon what he does not know … the apprehension of God’:) only when heaven and earth are forgotten and all things left behind can a cicada’s wing be known; how much more, when one wishes to know what Heaven means, can one keep from emptying one’s mind?"
+    }
+   }
+  },
+  {
+   "d": 34,
+   "primary": {
+    "id": "zhuangzi-02-d034-p",
+    "key": "In the Wei State there is the city of Liang. In the city of Liang there is a prince. In what does that prince differ from Violence?”",
+    "ref": "Zhuangzi 25.56",
+    "at": [2683],
+    "s": "Tai Chin Jen, answering Prince Hui’s anger at Ch’i, tells of a snail’s warring horns; Guo Xiang, on chapter 25, explains that the prince and Violence are alike bounded, nothing beside the boundless, so a prince within Liang is not worth fighting over.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 25, zh.wikisource (the Zhengtong Daozang edition), revision 5978511 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "王與蠻氏，俱有限之物耳。有限，則不問大小，俱不得與無窮者計也，雖復天地共在無窮之中，皆蔑如也。況魏中之梁，梁中之王，而足爭哉。",
+     "gloss": "(On 於梁中有王。王與蠻氏，有辯乎？…無辯, ‘in what does that prince differ from Violence’:) the king and the Man clan (Giles’ Violence) are both bounded things; being bounded, whatever their size, neither can be reckoned beside the boundless; even heaven and earth, lying together within the boundless, are as nothing. How much less Liang within Wei, and the king within Liang: are they worth contending over?"
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d034-s",
+    "key": "Men one and all value that part of knowledge which is known. They do not know how to avail themselves of the unknown in order to reach knowledge. Is not this misguided?",
+    "ref": "Zhuangzi 25.97",
+    "at": [2724],
+    "s": "After things whose origin and portal no one sees, the passage turns to knowledge; Guo Xiang, on chapter 25, explains that what one does not know, other things know, so drawing on their knowing leaves nothing unknown, and trusting one’s own leaves little.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 25, zh.wikisource (the Zhengtong Daozang edition), revision 5978511 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "我所不知，物有知之者矣。故用物之知，則無所不知；獨任我知，知甚寡矣。",
+     "gloss": "(On 人皆尊其知之所知而莫知恃其知之所不知而後知，可不謂大疑乎, ‘men one and all value that part of knowledge which is known … is not this misguided’:) what I do not know, there are things that know it. So if one uses the knowing of things, nothing is unknown; if one relies on one’s own knowing alone, what is known is very little."
+    }
+   }
+  }
+ ]
+}

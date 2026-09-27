@@ -1,0 +1,48 @@
+{
+ "id": "zhuangzi-02-d034-p",
+ "d": 34,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "In the Wei State there is the city of Liang. In the city of Liang there is a prince. In what does that prince differ from Violence?”",
+ "ref": "Zhuangzi 25.56",
+ "at": [
+  2683
+ ],
+ "s": "Tai Chin Jen, answering Prince Hui’s anger at Ch’i, tells of a snail’s warring horns; Guo Xiang, on chapter 25, explains that the prince and Violence are alike bounded, nothing beside the boundless, so a prince within Liang is not worth fighting over.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 25, zh.wikisource (the Zhengtong Daozang edition), revision 5978511 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5978511",
+    "edition": "zh.wikisource 南華真經註疏 卷二十七 (Zhengtong Daozang edition, DZ0745), revision 5978511",
+    "locator": "chapter 25, the note after 於梁中有王。王與蠻氏，有辯乎？君曰：無辯 (25.56 to 25.58)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofchi02oxfo",
+    "edition": "Legge, SBE 40 (1891), OCR notes to Book XXV",
+    "locator": "notes to Book XXV",
+    "via": "packet"
+   }
+  ],
+  "words": "王與蠻氏，俱有限之物耳。有限，則不問大小，俱不得與無窮者計也，雖復天地共在無窮之中，皆蔑如也。況魏中之梁，梁中之王，而足爭哉。",
+  "lang": "Classical Chinese",
+  "gloss": "The king and the Man clan (Giles’ Violence) are both bounded things. Being bounded, whatever their size, neither can be reckoned beside the boundless; even heaven and earth, lying within the boundless, are as nothing. How much less Liang within Wei and the king within Liang: are they worth contending over?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 25.56, at 2683). Guo Xiang’s note stands on the question and the prince’s answer 無辯; it says the king and the Man clan (Giles’ Violence) are both bounded, not to be reckoned beside the boundless, and asks how Liang within Wei and the king within Liang could be worth contending over. The sentence carries this without drift. Plain sense (Tai Chin Jen, brought in after the prince’s anger at Ch’i’s broken treaty, telling of the snail’s warring horns) matches 25.34 to 25.56. entry-check ok."
+}

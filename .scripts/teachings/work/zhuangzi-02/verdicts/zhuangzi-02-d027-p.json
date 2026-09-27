@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d027-p",
+ "d": 27,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Nevertheless, why should you grieve? Although my old self is constantly passing away, there remains that which does not pass away.”",
+ "ref": "Zhuangzi 21.45",
+ "at": [
+  1976
+ ],
+ "s": "To Yen Yüan, who cannot keep up with him, Confucius says the self he follows is already gone; Guo Xiang, on chapter 21, reads what remains as daily renewal: the old self forgotten, a new self already come, and never other than himself.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 21, zh.wikisource (Nanhua zhenjing zhushu, juan 23, Zhengtong Daozang edition), revision 7907028 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907028",
+    "edition": "zh.wikisource 南華真經註疏 卷二十三 (Zhengtong Daozang, DZ0745), revision 7907028, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 21, the note on 雖忘乎故吾，吾有不忘者存 (Giles 21.45)",
+    "via": "packet"
+   }
+  ],
+  "words": "不忘者存，謂繼之以日新也。雖忘故吾而新吾已至，未始非吾，吾何息焉。",
+  "lang": "Classical Chinese",
+  "gloss": "“That which is not forgotten remains” means he is carried on by daily renewal. Though the old self is forgotten, the new self has already arrived; it has never been other than me, so how could I cease?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 21.45, at 1976). Guo Xiang’s note on 雖然，汝奚患焉。雖忘乎故吾，吾有不忘者存 reads what remains as 日新 (daily renewal), the old self forgotten and the new already come, never other than self; his note on 21.41 to 21.43 (吾所以見者，日新也) confirms the theme. Plain sense faithful: Yen Yüan says he cannot follow when Confucius dashes beyond, and Confucius answers that what Yen fixes on in him has already passed away. Src matches the packet edition (juan 23, revision 7907028). entry-check ok."
+}

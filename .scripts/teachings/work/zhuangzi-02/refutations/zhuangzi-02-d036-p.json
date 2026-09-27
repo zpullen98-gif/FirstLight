@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d036-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 36 --verse 27.2: Guo Xiang note on 巵言日出，和以天倪 reads 夫巵，滿則傾，空則仰…因物隨變，唯彼之從，故曰日出。日出，謂日新也，日新則盡其自然之分，自然之分盡則和也, chapter 27, revision 7907026. The sentence (goblet tipping full, righting empty, as speech that follows things, new daily, filling its natural share and so in harmony) matches clause by clause. 27.2 is the first text unit after Giles’ argument (27.1) and names the three kinds of speech, this third; plain sense correct. Key verse verbatim (verse.js ok, at 2873); the same line recurs at 27.7 without “But”, either is acceptable. entry-check ok, 45 words.",
+ "better": ""
+}

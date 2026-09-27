@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-02-d039-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6005747",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "verse.js ok (Zhuangzi 29.114, at 3176), two whole sentences in one unit, no dash, from the text. Plain sense matches day.js: Man Kou Tê refers the dispute to the arbitration of Wu Yoh (29.92), who speaks from 29.93 and closes with this line after listing the loyal, faithful, honest and upright who came to grief (29.102 to 29.113); no four-word overlap with the key. packet.js --verse 29.114 and the url (WebFetch) both give the 〔注〕 directly after 此上世之所傳，下世之所語，以為士者正其言，必其行，故服其殃，離其患也: 此章言尚行則行矯，貴士則士偽，故蔑行賤士以全其內，然後行高而士貴耳. The paraphrase follows it clause by clause (exalted conduct turns forced, honoured scholars false, both slighted to keep the inner whole, only then high and honoured); ‘stand high’ compresses 行高而士貴 without adding. The key line (scholars made their conduct certain and so met calamity) is the one the note closes. No school, comparison or tone issue. entry-check ok, 45 words, at the cap.",
+ "better": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d039-p",
+ "d": 39,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“The above instances have been handed down to us from antiquity and are discussed in modern times. They show that men of learning emphasized their precepts by carrying them out in practice; and that consequently they paid the penalty and fell into these calamities.”",
+ "ref": "Zhuangzi 29.114",
+ "at": [
+  3176
+ ],
+ "s": "Wu Yoh, called to arbitrate, ends his list of the upright brought to grief; Guo Xiang, on chapter 29, reads the section as saying prized conduct turns forced and prized scholars false, so both are slighted to keep the inner whole, and then stand high.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 29, zh.wikisource (Nanhua zhenjing zhushu juan 31, the Zhengtong Daozang edition), revision 6005747 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6005747",
+    "edition": "zh.wikisource 南華真經註疏 卷三十一 (Zhengtong Daozang edition, DZ0745), revision 6005747",
+    "locator": "chapter 29, the note closing the Tzŭ Chang and Man Kou Tê section, after 此上世之所傳，下世之所語 (29.114)",
+    "via": "packet"
+   }
+  ],
+  "words": "此章言尚行則行矯，貴士則士偽，故蔑行賤士以全其內，然後行高而士貴耳。",
+  "lang": "Classical Chinese",
+  "gloss": "This section says: exalt conduct, and conduct turns forced; honour scholars, and scholars turn false. So conduct is slighted and the scholar demeaned, to keep the inner whole; only then is conduct high and the scholar honoured.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 29.114, at 3176). Guo Xiang’s note stands directly after this line and sums up the whole Tzŭ Chang and Man Kou Tê section (29.64 to 29.114): prized conduct turns forced, prized scholars false, so both are slighted to keep the inner whole, and only then are they high and honoured. The sentence carries this without drift. Plain sense: in Giles, Wu Yoh is called to arbitrate at 29.92 and speaks to 29.114, listing loyal, faithful, honest and upright men brought to grief; faithful. entry-check ok."
+}

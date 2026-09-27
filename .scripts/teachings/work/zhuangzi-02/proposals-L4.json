@@ -1,0 +1,147 @@
+{
+ "lane": "L4",
+ "plan": "zhuangzi",
+ "batch": "zhuangzi-02",
+ "days": [
+  {
+   "d": 41,
+   "primary": {
+    "id": "zhuangzi-02-d041-p",
+    "key": "To see a Sage and not to honour him, is not to be in charity with man. Unless you are in charity with man, you cannot humble yourself before a fellow-creature.",
+    "ref": "Zhuangzi 31.65",
+    "at": [3307],
+    "s": "Confucius answers Tzŭ Lu’s protest at his bows to the old fisherman; Guo Xiang, in his one note on chapter 31, reads the chapter as a man at ease without withdrawing to rivers and seas humbling himself before their recluse, his openness reaching every creature.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 31, zh.wikisource (the Zhengtong Daozang edition, juan 33), revision 6011291 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "此篇言無江海而間者，能下江海之士也。夫孔子之所放任，豈直漁父而已哉？將周流六虛，旁通無外，蝡動之類，咸得盡其所懷",
+     "gloss": "(His only note on the chapter, after its last line:) This chapter says that one who is at leisure without the rivers and seas can humble himself before a man of the rivers and seas. Where Confucius gives free rein, how would it be to the fisherman alone? It would flow through the six directions and reach everywhere with nothing left outside, so that every creeping creature could fully express what it holds."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d041-s",
+    "key": "“Out of ten restaurants at which I ate,” said Lieh Tzŭ, “five would take no payment.”",
+    "ref": "Zhuangzi 32.7",
+    "at": [3315],
+    "s": "Halfway to Ch’i, Lieh Tzŭ turns back and tells Poh Hun Wu Jen what frightened him; Guo Xiang, on chapter 32, reads the sellers’ treatment as respect for him, drawn by an outward display where his inner substance was not enough to win others.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 32, zh.wikisource (the Zhengtong Daozang edition, juan 34), revision 7907025 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "言其敬己。…外自矜飾。…舉動便辟而成光儀也。…其內實不足以服物。",
+     "gloss": "(On 五漿先饋, five of the drink sellers serving him first:) That is, they showed him respect. … (On 夫內誠不解, the truth within not dissolved:) Outwardly he prided and adorned himself. … (On 形謀成光:) His bearing was ingratiating and made a shining appearance. … (On 以外鎮人心, holding men’s hearts by the outward:) His inner substance was not enough to win others over."
+    }
+   }
+  },
+  {
+   "d": 42,
+   "primary": {
+    "id": "zhuangzi-02-d042-p",
+    "key": "Verily God does not reward man for what he does, but for what he is.",
+    "ref": "Zhuangzi 32.33",
+    "at": [3341],
+    "s": "Closing the tale of Huan, who killed himself when his father sided with his Mihist brother, the passage turns to its moral; Guo Xiang, on chapter 32, reads the reward as answering a man’s nature, not his doing, since study only completes that nature.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 32, zh.wikisource (the Zhengtong Daozang edition, juan 34), revision 7907025 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫積習之功為報，報其性，不報其為也。然則學習之功，成性而已，豈為之哉。",
+     "gloss": "(On 夫造物者之報人也，不報其人而報其人之天, the line Giles gives as 32.33; the packet labels it 32.35:) When the merit of long practice is rewarded, what is rewarded is his nature, not his doing. So the merit of study is only the completing of the nature: how is it something done?"
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d042-s",
+    "key": "“There is nothing more fatal than intentional virtue, when the mind looks outwards.",
+    "ref": "Zhuangzi 32.83",
+    "at": [3391],
+    "s": "The passage turns from office worn humbly or proudly to what injures virtue; Guo Xiang, on chapter 32, reads virtue pursued with intent as no true virtue, which comes of itself unawares, and a mind busy with brow and lash as falsehood gone far.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 32, zh.wikisource (the Zhengtong Daozang edition, juan 34), revision 7907025 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "有心於為德，非真德也。夫真德者，忽然自得而不知所以德也。…率心為德，猶之可耳；役心於眉睫之間，則偽已甚矣。",
+     "gloss": "(On 賊莫大乎德有心, the line Giles gives as 32.83; the packet labels it 32.82:) To have a mind set on doing virtue is not true virtue. True virtue is gained of itself, all at once, without knowing how it is virtue. … (On 而心有睫:) To follow the mind in doing virtue is still passable; to set the mind to work between brow and lash is falsehood gone very far."
+    }
+   }
+  },
+  {
+   "d": 43,
+   "primary": {
+    "id": "zhuangzi-02-d043-p",
+    "key": "He who does not separate from the Source is one with God. He who does not separate from the essence is a spiritual man. He who does not separate from the reality is a perfect man.",
+    "ref": "Zhuangzi 33.4",
+    "at": [3435],
+    "s": "Early in the chapter’s survey of the schools, the passage names the highest kinds of man; Guo Xiang, on chapter 33, reads them, with the true Sage after them, as four names for one man, differing only in the standpoint from which each is spoken.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 33, zh.wikisource (the Zhengtong Daozang edition, juan 35), revision 6366211 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "凡此四名，一人耳，所自言之異。…此四名之粗迹，而賢人君子之所服膺也。",
+     "gloss": "(On 不離於宗，謂之天人 … 謂之聖人, the heavenly man, the spirit man, the perfect man and the sage:) All these four names are one man only; they differ in the side from which he is spoken of. … (On the superior man, 33.6:) These are the coarse traces of the four names, which worthies and superior men hold to."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d043-s",
+    "key": "The wind bathed him, the rain combed him; but he marked out the nations of the world, and was in very truth a Sage.",
+    "ref": "Zhuangzi 33.30",
+    "at": [3461],
+    "s": "Arguing for his system, Mih Tzŭ holds up the great Yü’s labours on the floods as its pattern; Guo Xiang, on chapter 33, reads Mih Tzŭ as seeing only the toil of Yü’s body and never how that toil suited Yü’s own nature.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 33, zh.wikisource (the Zhengtong Daozang edition, juan 35), revision 6366211 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "墨子徒見禹之形勞耳，未睹其性之適也。",
+     "gloss": "(On 沐甚雨，櫛疾風，置萬國。禹大聖也形勞天下也如此:) Mozi saw only Yu’s bodily toil; he never saw how it suited his nature."
+    }
+   }
+  },
+  {
+   "d": 44,
+   "primary": {
+    "id": "zhuangzi-02-d044-p",
+    "key": "Hui Tzŭ was a man of many ideas. His works would fill five carts. But his doctrines are paradoxical, and his terms are used ambiguously.",
+    "ref": "Zhuangzi 33.87",
+    "at": [3518],
+    "s": "The survey of the schools ends with Hui Tzŭ and his paradoxes; Guo Xiang, in his note closing chapter 33, reads the verdict as exposing the hearsay that had passed those paradoxes off as Chuang Tzŭ’s own and counted him a dialectician.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 33, zh.wikisource (the Zhengtong Daozang edition, juan 35), revision 6366211 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "昔吾未覽莊子，嘗聞論者爭夫尺捶連環之意，而皆云莊生之言，遂以莊生為辯者之流。案此篇較評諸子，至於此章，則日其道舛駁，其言不中，乃知道聽塗說之傷實也。",
+     "gloss": "(His note after the chapter’s last line, quoting the verdict 其道舛駁，其言也不中 of 33.87:) Before I had read the Zhuangzi, I heard debaters argue over the meaning of the foot-long stick and the joined rings, all calling them Master Zhuang’s words, and so I took Master Zhuang for one of the dialecticians. Looking into this chapter, which weighs the masters, when it reaches this section it says his way is mixed and his words miss the mark: then I knew how hearsay harms the truth."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-02-d044-s",
+    "key": "He does nothing, and laughs at the artifices of others.",
+    "ref": "Zhuangzi 33.72",
+    "at": [3503],
+    "s": "The verse closes a saying of Lao Tzŭ on choosing the unsubstantial and storing nothing; Guo Xiang, on chapter 33, reads contrivance as spoiling what completes itself, for if even a spider can spin its web, every man has an ability of his own.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 33, zh.wikisource (the Zhengtong Daozang edition, juan 35), revision 6366211 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "巧者有為，以傷神器之自成，故無為者，因其自生，任其自成，萬物各得自為。蜘蛛猶能結網，則人人自有所能矣，無貴於工倕也。",
+     "gloss": "(On 無為也而笑巧:) The skilful act with purpose, and so harm the self-completion of the sacred vessel; so the one who does nothing goes along with things as they arise of themselves and leaves them to complete themselves, and each of the myriad things does for itself. If even a spider can weave its web, then every man has what he can do, and there is nothing to prize in the artisan Chui."
+    }
+   }
+  }
+ ]
+}

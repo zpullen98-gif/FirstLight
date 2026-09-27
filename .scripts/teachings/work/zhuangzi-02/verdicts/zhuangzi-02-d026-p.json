@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d026-p",
+ "d": 26,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "That of the superior man passes from the negative to the affectionate. That of the mean man passes from the full-flavoured to nothing.",
+ "ref": "Zhuangzi 20.68",
+ "at": [
+  1872
+ ],
+ "s": "Sang Hu, asked why Confucius’ friends have left him, contrasts friendships like water and wine; Guo Xiang, on chapter 20, reads the first as bland without profit and close through the Way, the second as sweet with profit, which never lasts, and so broken off.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 20, zh.wikisource (Nanhua zhenjing zhushu, juan 22, Zhengtong Daozang edition), revision 5978310 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5978310",
+    "edition": "zh.wikisource 南華真經註疏 卷二十二 (Zhengtong Daozang, DZ0745), revision 5978310, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 20, the notes on 君子淡以親 and 小人甘以絕 (Giles 20.68)",
+    "via": "packet"
+   }
+  ],
+  "words": "無利故淡，道合故親。…飾利故甘，利不可常，故有時而絕也。",
+  "lang": "Classical Chinese",
+  "gloss": "Because there is no profit in it, it is bland; because they are joined in the Way, they are close. … Because it is dressed up with profit, it is sweet; profit cannot be constant, so at some point it breaks off.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 20.68, at 1872). Guo Xiang’s notes on 君子淡以親 (無利故淡，道合故親) and on 小人甘以絕 (飾利故甘，利不可常，故有時而絕也) carry the reading exactly; his following note on 彼無故以合者 (profit-bound unions part for a cause) is consistent. Plain sense faithful: Confucius lists his troubles including friends and disciples gone, and Sang Hu answers with the Lin Hui story and the water and wine contrast. Place and src match the packet edition (juan 22, revision 5978310). entry-check ok."
+}

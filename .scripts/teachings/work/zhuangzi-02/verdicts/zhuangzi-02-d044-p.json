@@ -1,0 +1,30 @@
+{
+ "id": "zhuangzi-02-d044-p",
+ "d": 44,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Hui Tzŭ was a man of many ideas. His works would fill five carts. But his doctrines are paradoxical, and his terms are used ambiguously.",
+ "ref": "Zhuangzi 33.87",
+ "at": [3518],
+ "s": "The survey of the schools ends with Hui Tzŭ and his paradoxes; Guo Xiang, in his note closing chapter 33, reads the verdict as exposing the hearsay that had passed those paradoxes off as Chuang Tzŭ’s own and counted him a dialectician.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 33, zh.wikisource (the Zhengtong Daozang edition, juan 35), revision 6366211 (2026)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   { "url": "https://zh.wikisource.org/w/index.php?oldid=6366211", "edition": "zh.wikisource 南華真經註疏 卷三十五 (Zhengtong Daozang, DZ0745), revision 6366211, Cheng Xuanying’s 疏 left out", "locator": "chapter 33, the single commentary note after the chapter’s last line (惜乎！惠施之才 … 悲夫！), quoting the 33.87 verdict 其道舛駁，其言也不中", "via": "packet" }
+  ],
+  "words": "昔吾未覽莊子，嘗聞論者爭夫尺捶連環之意，而皆云莊生之言，遂以莊生為辯者之流。案此篇較評諸子，至於此章，則日其道舛駁，其言不中，乃知道聽塗說之傷實也。",
+  "lang": "Classical Chinese",
+  "gloss": "Before I had read the Zhuangzi, I heard debaters argue over the meaning of the foot-long stick and the joined rings, all calling them Master Zhuang’s words, and so I took Master Zhuang for one of the dialecticians. Looking into this chapter, which weighs the masters, when it reaches this section it says his (Hui Shi’s) way is mixed and his words miss the mark: then I knew how hearsay harms the truth. (The packet prints 則日 for 則曰.)",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse is verbatim (verse.js ok, ref Zhuangzi 33.87, at 3518). Guo Xiang’s only note in the Hui Shi section stands after 33.142 and explicitly quotes the 33.87 verdict (其道舛駁，其言不中), saying that before reading the book he had heard the stick and joined-rings paradoxes called Zhuangzi’s own and so counted Zhuangzi a dialectician, and that this section showed him how hearsay harms the truth. The sentence’s reading carries exactly that and adds nothing (it omits his further remark that such talk is useless yet better than gambling, which is fine). Plain sense is faithful: the chapter’s survey of the schools does end with Hui Tzŭ and his paradoxes, with no four-word overlap with the verse. Place (his note closing chapter 33) and src match the packet edition. entry-check ok, 42 words."
+}

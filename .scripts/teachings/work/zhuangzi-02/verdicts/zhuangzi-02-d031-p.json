@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-02-d031-p",
+ "d": 31,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“Love for the people is the root of all evil to the people. Cultivation of duty towards one’s neighbour in order to put an end to war is the origin of all fighting.",
+ "ref": "Zhuangzi 24.33",
+ "at": [
+  2426
+ ],
+ "s": "Asked by the Prince whether love and duty can end war, Hsü Wu Kuei says no; Guo Xiang, on chapter 24, explains that love, once shown and prized, is already false, and duty makes names shine, stirring a rivalry no wish for peace can end.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 24, zh.wikisource (the Zhengtong Daozang edition), revision 7907021 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907021",
+    "edition": "zh.wikisource 南華真經註疏 卷二十六 (Zhengtong Daozang, DZ0745), revision 7907021, Cheng Xuanying’s 疏 left out",
+    "locator": "chapter 24, the notes on 愛民，害民之始也 and 為義偃兵，造兵之本也 (Giles 24.33)",
+    "via": "packet"
+   }
+  ],
+  "words": "愛民之迹，為民所尚。尚之為愛，愛已偽也。 … 為義則名彰，名彰則競興，競興則喪其真矣。父子君臣，懷情相欺，雖欲偃兵，其可得乎。",
+  "lang": "Classical Chinese",
+  "gloss": "The trace of loving the people is prized by the people; once it is prized as love, the love is already false. … Acting for duty makes the name shine; when names shine, rivalry rises; when rivalry rises, the genuine is lost. Fathers and sons, rulers and ministers harbour their feelings and deceive one another: though one wishes to lay down arms, how could it be done?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 24.33, at 2426). Guo Xiang’s two notes on these lines say the visible trace of love is prized and so already false, and that duty makes names shine, stirring rivalry, so that arms cannot be laid down however much one wishes it. The sentence’s “once shown” renders 迹 (trace) fairly and the rest follows the notes without drift. Plain sense is faithful: the Prince asks at 24.32 whether loving the people and duty can end war and Hsü Wu Kuei answers that it cannot. Place and src match the packet edition. entry-check ok, 45 words (at the limit)."
+}

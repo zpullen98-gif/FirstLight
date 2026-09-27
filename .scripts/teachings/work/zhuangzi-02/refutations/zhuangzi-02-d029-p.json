@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-02-d029-p",
+ "refuted": false,
+ "reopened": { "url": "https://zh.wikisource.org/w/index.php?oldid=7907027", "found": true },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 29 --verse 22.97 and the raw wikitext of revision 7907027 (南華真經註疏/卷二十四, timestamp 2026-07-06 via the wikisource API): the evidence words stand verbatim as a 〔注〕 (Guo Xiang, not Cheng Xuanying) directly after 汝唯莫必，無乎逃物, followed by 明道不逃物 on 至道若是，大言亦然, both inside Giles 22.97, chapter 22. The paraphrase (a TAO absent from anything would not reach everywhere, so would not be TAO) is exactly 道不周…未足以為道, no drift. verse.js ok (Zhuangzi 22.97, at 2169, a [ref] unit, not a Giles note); entry-check.js ok, no errors or warns. Plain sense matches day.js 22.87 to 22.97 (ant, tare, potsherd, ordure, then the pig-fat test explaining why he goes lower); no verse words repeated, no commentator named. The key verse holds the line Guo glosses. No school required (roster has none), no comparison, no tone issue.",
+ "better": ""
+}
