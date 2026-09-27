@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Fight in the way of Allah against those who fight against you, but begin not hostilities. Lo! Allah loveth not aggressors.",
+ "ref": "Al-Baqarah 2:190",
+ "at": [
+  196
+ ],
+ "s": "The verse opens the ayahs commanding the believers to fight, slay and drive out those who fight them; al-Tabari, on 2:190, takes it as unrepealed, binding against the disbelievers’ fighting men, and reads the forbidden aggression as killing women, children or those who pay tribute.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 2:190, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 2:190 (packet.js quran 3 --verse 2.190; the QUL seg is labelled 2:189 to 2:190 but carries its own heading for 2:190): his tarjih after the two views (qala Abu Jaʿfar), his paraphrase of the ayah that follows it (fa-taʾwil al-aya), and his gloss on wa-la taʿtadu",
+    "via": "packet"
+   }
+  ],
+  "words": "وأولى هذين القولين بالصواب، القولُ الذي قاله عمر بن عبد العزيز. لأن دعوى المدَّعي نَسْخَ آية يحتمل أن تكون غيرَ منسوخة، بغير دلالة على صحة دعواه … وأمرهم تعالى ذكره بقتال مَنْ كان منه قتال من مُقاتِلة أهل الكفر دون من لم يكن منه قتال من نسائهم وذراريهم … فمعنى قوله:\"ولا تعتدوا\": لا تقتلوا وليدًا ولا امرأةً، ولا من أعطاكم الجزية من أهل الكتابَين والمجوس",
+  "lang": "Arabic",
+  "gloss": "The sounder of these two views is the one ʿUmar ibn ʿAbd al-ʿAziz held (that the ayah is not repealed), since to claim repeal of an ayah that may well be unrepealed, with no proof of the claim [is arbitrary] … And He, exalted be His mention, commanded them to fight those who do fight, of the fighting men of the people of disbelief, not those who do not fight, their women and children … So the meaning of ‘and do not transgress’ is: do not kill a child or a woman, nor any who have given you the jizya (tribute) of the people of the two Books and the Magians.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "The problem holds and the fix is within his words. Re-opened packet.js quran 3 --verse 2.190: after the two reported views (first ayah on fighting, repealed by Baraʾa; or unrepealed, forbidding the killing of women and children), al-Tabari says in his own voice (qala Abu Jaʿfar) that ʿUmar ibn ʿAbd al-ʿAziz’s view is the sounder, since claiming repeal without proof is arbitrary; then paraphrases the ayah: God commanded them to fight those who fight, of the fighting men of the people of disbelief (muqatilat ahl al-kufr), not their women and children; then glosses wa-la taʿtadu as not killing a child, a woman, or those who have given the jizya of the two Books and the Magians. The batch sentence, beside a context clause of ‘those who fight them’, left him holding a standing command against attackers only; the corrected reading names the scope he gives (combatants, not non-combatants). ‘unbelievers’ (watch list) replaced by ‘disbelievers’, Pickthall’s word in 2:191 on the same day (day.js), as the revision refutation proposed. Context clause, key, ref, at, by, src unchanged. Three evidence runs sliced from the packet text itself (diacritic order preserved) and re-found by exact match. verse.js ok (Al-Baqarah 2:190, at 196); entry-check ok, no warns (scratch/rv2-d003.json); 45 words."
+}

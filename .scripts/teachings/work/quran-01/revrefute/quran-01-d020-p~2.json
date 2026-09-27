@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d020-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/8.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 20 --verse 8.61. After the reports (Qatada, Ikrima with al-Hasan, Ibn Zayd) that the ayah is abrogated, al-Tabari answers in his own voice (qala Abu Jaʿfar): the claim has no evidence from scripture, sunna or reason; ‘if they incline to peace’ was meant for Banu Qurayza, Jews and people of Scripture, with whom God allowed peace and leaving off war on taking the jizya; the Bara’a order to slay the idolaters was meant only for the idol-worshipping Arab idolaters, from whom jizya may not be accepted; each verse stands in force in its own case (Mujahid’s ‘Qurayza’ follows). All three evidence runs re-found verbatim. Every clause of the reading (unrepealed, concerning Qurayza, people of Scripture who may have peace for tribute, At-Tawbah’s order to slay meaning Arab idol-worshippers) is in his words, without drift. Attacked on rule 4, since surah 8 names neither Qurayza nor people of Scripture: the plan’s voice and rule 6 require a hard ayah to carry the mufassir’s own limit or occasion, attributed to him, and the day’s text has no name of its own for this group; the entry avoids the watch term ‘Jews’. verse.js ok (Al-Anfal 8:61, at 1220). Plain sense: 8:60 commands making ready armed force, 8:61 addresses ‘thou’; no four-word run from the ayah. No comparison or ranking; the contrast is his own between two ayahs. entry-check ok, 45 words, no warns.",
+ "better": ""
+}

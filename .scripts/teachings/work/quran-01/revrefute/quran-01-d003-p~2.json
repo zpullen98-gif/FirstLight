@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d003-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 3 --verse 2.190. Under his own heading for 2:190 (inside the QUL seg labelled 2:189 to 2:190), al-Tabari reports two views: the ayah was the first on fighting and was repealed by Bara'a, or it stands and the forbidden transgression is the killing of women and children. Then, speaking himself (qala Abu Ja'far), he calls the view of Umar ibn Abd al-Aziz the sounder, because claiming repeal without proof is arbitrary. In his paraphrase he says God commanded fighting against the fighting men of the people of disbelief (muqatilat ahl al-kufr), not their women and children. He glosses wa-la ta'tadu as: do not kill a child, a woman, or anyone who has given the jizya of the two Books and the Magians. All three evidence runs match the packet text exactly. VERSE: verse.js ok (Al-Baqarah 2:190, at 196), and it is the ayah he comments on. PLAIN: day.js 2:190 to 2:193 command fighting, slaying and driving out those who fight, and 2:189 before it is on new moons, so 'opens' is positional and accurate. ATTRIBUTION: this is his own preference and paraphrase, not a reported view and not Pickthall's 'begin not hostilities'. DRIFT: 'unrepealed, binding against the disbelievers' fighting men' is carried by his tarjih and by muqatilat ahl al-kufr. 'Those who pay tribute' leaves out his narrowing to the two Books and the Magians but adds nothing. TONE: the omission of his 'call them until they return or pay the jizya' is a selection, not a softening, because the limit he sets is given. FORM: entry-check.js ok with no warns (scratch/rr3-d003.json); 45 words, at the cap; 'disbelievers' is Pickthall's word in 2:191; src is 104 characters. LOCATOR: 'on 2:190' matches his own heading. The seg-range note does not bind here because the text does give a finer division.",
+ "better": ""
+}

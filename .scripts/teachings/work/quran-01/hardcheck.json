@@ -1,0 +1,208 @@
+{
+ "about": "The hard days read again before the owner's checkpoint (2026-09-27): two independent reviewers per day, one for fidelity to the mufassir, one for plain sense and tone. Findings go through a revision round like a critic's.",
+ "reviews": [
+  {
+   "d": 3,
+   "ok": true,
+   "opened": "I ran packet.js quran 3 --verse 2:190. Al-Tabari's section is one segment labelled 2:189 to 2:190. His comment on 2:190 starts at the heading القول في تأويل قوله تعالى: ﴿وَقَاتِلُوا فِي سَبِيلِ اللَّهِ الَّذِينَ يُقَاتِلُونَكُمْ...﴾ near the end of that segment. He reports two views. The first is that the verse was abrogated by Bara'a (al-Rabi', Ibn Zayd). The second is that it was not abrogated and that the aggression means killing women and children (Umar b. Abd al-Aziz, Mujahid, Ibn Abbas). He then says he prefers Umar b. Abd al-Aziz's view and gives his own reading of the verse. I also checked 2:190 to 2:193 with day.js. The key verse matches Pickthall word for word. The context clause, \"fight, slay and drive out\", fits 2:190 and 2:191. The sentence is 41 words.",
+   "words": "قال أبو جعفر: وأولى هذين القولين بالصواب، القولُ الذي قاله عمر بن عبد العزيز. لأن دعوى المدَّعي نَسْخَ آية يحتمل أن تكون غيرَ منسوخة، بغير دلالة على صحة دعواه، تحكُّم. ... وأمرهم تعالى ذكره بقتال مَنْ كان منه قتال من مُقاتِلة أهل الكفر دون من لم يكن منه قتال من نسائهم وذراريهم ... فمعنى قوله:\"ولا تعتدوا\": لا تقتلوا وليدًا ولا امرأةً، ولا من أعطاكم الجزية من أهل الكتابَين والمجوس",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-01-d003-p"
+  },
+  {
+   "d": 3,
+   "ok": false,
+   "opened": "Ran day.js quran 3 (Al-Baqarah 2:140 to 2:196; read 2:186 to 2:196, the hard ayahs being 2:190 to 2:194) and packet.js quran 3 --verse 2:190. Al-Tabari's comment is in the QUL seg labelled 2:189 to 2:190, under its own heading for 2:190 (the heading begins with the ayah itself, wa-qatilu fi sabili llah). He first gives the view that the ayah was repealed by Bara'a, then the view that it was not repealed. After that come his preference (\"wa-awla hadhayni l-qawlayni bi-l-sawab\"), his paraphrase of the whole ayah, and his gloss on wa-la taʿtadu. I also read the verdict quran-01-d003-p.json. Ibn Kathir's comment on 2:190 to 2:193 is in the same packet.",
+   "words": "وأولى هذين القولين بالصواب، القولُ الذي قاله عمر بن عبد العزيز ... وأمرهم تعالى ذكره بقتال مَنْ كان منه قتال من مُقاتِلة أهل الكفر دون من لم يكن منه قتال من نسائهم وذراريهم ... فمعنى قوله:\"ولا تعتدوا\": لا تقتلوا وليدًا ولا امرأةً، ولا من أعطاكم الجزية من أهل الكتابَين والمجوس،\"إنّ الله لا يُحب المعتدين\" الذين يجاوزون حدوده، فيستحلُّون ما حرَّمه الله عليهم من قتل هؤلاء الذين حَرَّم قتلهم من نساء المشركين وذراريهم",
+   "problems": [
+    {
+     "problem": "The sentence is softened by leaving something out. The context clause says the command is to fight \"those who fight them\", and the sentence then says al-Tabari takes that command as unrepealed. Together, a reader will take al-Tabari to hold a standing command to fight only those who attack. That is not his reading. For him, \"those who fight you\" means the unbelievers' fighting men (muqatilat ahl al-kufr), as against their women and children. His paraphrase of the ayah is to fight and call to God's religion \"until they return to obedience or give the jizya\". The line he draws is between combatants and non-combatants, not between aggressor and non-aggressor. The facts in the sentence are correct, and so is the gloss on the forbidden aggression. But the sentence does not carry the scope he sets on the command, so both a Muslim and a non-Muslim reader would come away with an impression of his view that is gentler than his own.",
+     "fix": "Name whom the unrepealed command is against, and stay within 45 words. For example: \"The verse opens the ayahs that command the believers to fight, slay and drive out those who fight them; al-Tabari, on 2:190, holds it unrepealed, binding against the unbelievers' fighting men, and reads the forbidden aggression as killing women, children or those who pay tribute.\" (45 words)",
+     "severity": "should"
+    }
+   ],
+   "lens": "tone",
+   "id": "quran-01-d003-p"
+  },
+  {
+   "d": 4,
+   "ok": true,
+   "opened": "I ran packet.js quran 4 --verse 2:216 and read al-Tabari's whole comment on 2:216, from \"kutiba ʿalaykum al-qital\" to \"wa-antum la taʿlamun\" (spa5k/tafsir_api 9ae590a, tafsir/ar-tafsir-al-tabari/2.json). He first reports that the people of knowledge differ on who was bound by the duty. One view is that it bound the Companions only (ʿAtaʾ, with al-Awzaʿi on the same side), and he rejects the claim of Ibn ʿAbbas that the verse was abrogated. Another view is that it falls on each person until enough take it up. A third is that it binds all Muslims until the Hour (Saʿid b. al-Musayyab). He then states his own preference for the second view, \"wa-dhalika huwa al-sawab ʿindana\", on two grounds: the consensus of authority, and 4:95, which promises al-husna to those who stay behind. The sentence gives his preferred view, not a reported one, and it keeps his own reason. The ayah is named correctly as 2:216. The context clause is also accurate, since 2:215 and 2:217 both open with \"yasʾalunaka\". The sentence is 41 words long and uses no \"Allah\" in its own voice.",
+   "words": "وقال آخرون: هو على كل واحد حتى يقوم به من في قيامه الكفاية، فيسقطُ فرض ذلك حينئذ عن باقي المسلمين، كالصلاة على الجنائز وغسلهم الموتى ودفنهم، وعلى هذا عامة علماء المسلمين. قال أبو جعفر: وذلك هو الصواب عندنا لإجماع الحجة على ذلك، ولقول الله عز وجل: ﴿فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً وَكُلا وَعَدَ اللَّهُ الْحُسْنَى﴾ ، فأخبر جل ثناؤه أنّ الفضل للمجاهدين، وأن لهم وللقاعدين الحسنى، ولو كان القاعدون مضيِّعين فرضًا لكان لهم السُّوأى لا الحسنى.",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-01-d004-p"
+  },
+  {
+   "d": 4,
+   "ok": true,
+   "opened": "day.js quran 4 (Al-Baqarah 2:197 to 2:246), read 2:210 to 2:219 and 2:244 to 2:246. 2:216 sits between \"They ask thee\" (2:215) and \"They question thee\" (2:217, 2:219), so the context clause \"Amid questions put to the Prophet\" is accurate, and \"war is laid on them\" states \"Warfare is ordained for you\" plainly, neither softened nor sharpened. packet.js quran 4 --verse 2:216, section \"=== al-Tabari ===\" (Jāmiʿ al-bayān, spa5k/tafsir_api@9ae590a, tafsir/ar-tafsir-al-tabari/2.json). His gloss is at packet line 11 (فرض عليكم القتال، يعني قتال المشركين). He sets out the disputed views on who is bound at lines 12 to 19 and gives his own verdict at line 20 (وذلك هو الصواب عندنا), proved from 4:95. The sentence reproduces that verdict and its reasoning faithfully: the duty is lifted from the rest once enough take it up, since those who stay behind (al-qāʿidīn) are also promised al-ḥusnā. The sentence implies nothing about any group, and it contains no polemic and no apologetic. It is 41 words long.",
+   "words": "فُرض عليكم القتال، يعني قتال المشركين ... وقال آخرون: هو على كل واحد حتى يقوم به من في قيامه الكفاية، فيسقطُ فرض ذلك حينئذ عن باقي المسلمين، كالصلاة على الجنائز وغسلهم الموتى ودفنهم، وعلى هذا عامة علماء المسلمين. قال أبو جعفر: وذلك هو الصواب عندنا لإجماع الحجة على ذلك، ولقول الله عز وجل: ﴿فَضَّلَ اللَّهُ الْمُجَاهِدِينَ بِأَمْوَالِهِمْ وَأَنْفُسِهِمْ عَلَى الْقَاعِدِينَ دَرَجَةً وَكُلا وَعَدَ اللَّهُ الْحُسْنَى﴾ ، فأخبر جل ثناؤه أنّ الفضل للمجاهدين، وأن لهم وللقاعدين الحسنى، ولو كان القاعدون مضيِّعين فرضًا لكان لهم السُّوأى لا الحسنى.",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-01-d004-p"
+  },
+  {
+   "d": 9,
+   "ok": true,
+   "opened": "packet.js quran 9 --verse 4:1, al-Tabari section (tafsir_api 9ae590a, 4.json). His comment on this clause is the second paragraph, in his own voice (\"qala Abu Jaʿfar\"), right after the gloss of ittaqu; it is not a view he reports. His later comment on wa-l-arham, where he reports two views and prefers the accusative reading \"fear to sever the wombs\", falls outside the key-verse excerpt. The key verse matches Pickthall's 4:1 in day.js.",
+   "words": "ثم وصف تعالى ذكره نفسه بأنه المتوحِّد بخلق جميع الأنام من شخص واحد، مُعَرِّفًا عباده كيف كان مُبتدأ إنشائه ذلك من النفس الواحدة، ومنبِّهَهم بذلك على أن جميعهم بنو رجل واحد وأم واحدة= وأن بعضهم من بعض، وأن حق بعضهم على بعض واجبٌ وجوبَ حق الأخ على أخيه، لاجتماعهم في النسب إلى أب واحد وأم واحدة= ... وعاطفًا بذلك بعضهم على بعض، ليتناصفوا ولا يتظالموا، وليبذُل القوي من نفسه للضعيف حقه بالمعروف على ما ألزمه الله له",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-01-d009-p"
+  },
+  {
+   "d": 9,
+   "ok": true,
+   "opened": "day.js quran 9, which prints An-Nisa 4:1 to 4:50. The opening ayahs cover orphans' wealth (4:2-10), marriage and dower (4:3-4, 4:19-25), inheritance shares (4:11-12) and lewdness with its penalty (4:15-16), so the context clause matches the passage in its own terms. packet.js quran 9 --verse 4:1 shows al-Tabari's comment near the top of the al-Tabari block, right after his gloss of \"ittaqu rabbakum\" (\"beware of opposing your Lord\"). It is the passage beginning \"ثم وصف تعالى ذكره نفسه بأنه المتوحِّد بخلق جميع الأنام من شخص واحد\". Every clause of the paraphrase rests on it: one father and one mother, a brother's right, and the strong giving the weak their due. The ayah itself is not a hard passage, and the sentence neither softens nor sharpens anything. It carries no polemic, says nothing about Jews, Christians or idolaters, says \"God\" in its own voice, uses British spelling, and runs to exactly 45 words.",
+   "words": "ومنبِّهَهم بذلك على أن جميعهم بنو رجل واحد وأم واحدة= وأن بعضهم من بعض، وأن حق بعضهم على بعض واجبٌ وجوبَ حق الأخ على أخيه، لاجتماعهم في النسب إلى أب واحد وأم واحدة= وأن الذي يلزمهم من رعاية بعضهم حق بعض، وإن بَعُدَ التلاقي في النسب إلى الأب الجامع بينهم، مثل الذي يلزمهم من ذلك في النسب الأدنى= وعاطفًا بذلك بعضهم على بعض، ليتناصفوا ولا يتظالموا، وليبذُل القوي من نفسه للضعيف حقه بالمعروف على ما ألزمه الله له",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-01-d009-p"
+  },
+  {
+   "d": 10,
+   "ok": true,
+   "opened": "I ran packet.js quran 10 --verse 4:58, al-Tabari section, from https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/4.json. He gives three views: the verse was addressed to those in charge of the Muslims' affairs; the authorities admonishing women (Ibn Abbas); or the Prophet returning the Kaaba key to Uthman b. Talha (Ibn Jurayj). He then states his own preference (\"wa-awla hadhihi al-aqwal bi-l-sawab ... 'indi\"), argues for it from 4:59, and closes with his own paraphrase of the verse addressed to \"ya ma'shar wulat umur al-muslimin\". I also checked day.js (the passage runs 4:51 to 4:108 and 4:58 is in it) and verdicts/quran-01-d010-p.json.",
+   "words": "وأولى هذه الأقوال بالصواب في ذلك عندي، قولُ من قال: هو خطاب من الله ولاةَ أمور المسلمين بأداء الأمانة إلى من وَلُوا أمره في فيئهم وحقوقهم، وما ائتمنوا عليه من أمورهم، بالعدل بينهم في القضية، والقَسْم بينهم بالسوية. يدل على ذلك ما وَعظ به الرعية في: ﴿أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأمْرِ مِنْكُمْ﴾ ، فأمرهم بطاعتهم، وأوصى الرّاعي بالرعية، وأوصى الرعية بالطاعة ... وأما الذي قال ابن جريج من أنّ هذه الآية نزلت في عثمان بن طلحة، فإنه جائز أن تكون نزلت فيه، وأريد به كل مؤتمن على أمانة، فدخلَ فيه ولاة أمور المسلمين",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-01-d010-p"
+  },
+  {
+   "d": 10,
+   "ok": true,
+   "opened": "day.js quran 10 (An-Nisa 4:51 to 4:108; read 4:51-4:59 around the key ayah: 4:51 those given a portion of the Scripture who call the disbelievers better guided, 4:52 cursed, 4:55-56 the Fire and exchanged skins, 4:57 Gardens, 4:58 trusts and justice, 4:59 obey God, the messenger and those in authority). packet.js quran 10 --verse 4:58, al-Tabari section (cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590a.../ar-tafsir-al-tabari/4.json): he lists three views (the rulers; the authorities admonishing women, from Ibn Abbas; the Kaaba key returned to Uthman b. Talha, from Ibn Jurayj), then states his preference beginning \"وأولى هذه الأقوال بالصواب في ذلك عندي\", arguing from 4:59; he then allows the Uthman b. Talha occasion as possible with the verse meant for every trustee, and closes with \"فتأويل الآية إذًا ... يا معشر ولاة أمور المسلمين\". Checked the trail in verdicts/quran-01-d010-p.json.",
+   "words": "وأولى هذه الأقوال بالصواب في ذلك عندي، قولُ من قال: هو خطاب من الله ولاةَ أمور المسلمين بأداء الأمانة إلى من وَلُوا أمره في فيئهم وحقوقهم، وما ائتمنوا عليه من أمورهم، بالعدل بينهم في القضية، والقَسْم بينهم بالسوية. يدل على ذلك ما وَعظ به الرعية في: ﴿أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأمْرِ مِنْكُمْ﴾ ، فأمرهم بطاعتهم، وأوصى الرّاعي بالرعية، وأوصى الرعية بالطاعة ... فإنه جائز أن تكون نزلت فيه، وأريد به كل مؤتمن على أمانة، فدخلَ فيه ولاة أمور المسلمين، وكلّ مؤتمن على أمانة في دين أو دنيا.",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-01-d010-p"
+  },
+  {
+   "d": 12,
+   "ok": true,
+   "opened": "I ran packet.js quran 12 --verse 5:32 and read al-Tabari's comment on 5:32 from start to finish (Jāmiʿ al-bayān, the spa5k/tafsir_api 5.json at commit 9ae590a). He opens by tying \"min ajli dhalika\" to the crime of Adam's son who killed his brother, and he takes \"fasad fi al-ard\" to mean war on God and His messenger and making the roads unsafe. He then reports six or more views on the killing and the saving: killing a prophet or a just imam; killing counted in sin; killing counted in retaliation (Ibn Zayd); saving as pardon (al-Hasan); saving as rescue from drowning or fire (Mujahid); and others. Near the end of the segment come his two preferences, each introduced with \"wa-awla hadhihi al-aqwal ʿindi bi-l-sawab\" or \"fa-awla al-taʾwilat bihi\". His reasoning follows, and after it the next heading (\"wa-laqad jaʾathum rusuluna\"). The sentence gives his preferred reading of \"whoso saveth\" and not any of the reported views. He limits it with \"illa fima adhina Allah fi qatlihi minhum\", and the sentence carries that limit as \"a killing God forbids\". The context clause matches his link to Adam's sons and puts the decree correctly before 5:33. The ayah is named correctly, and the sentence is exactly 45 words.",
+   "words": "وأما قوله:\"ومن أحياها فكأنما أحيى الناس جميعًا\" فأولى التأويلات به، قول من قال: من حرّم قتل من حرّم الله عز ذكره قتله على نفسه، فلم يتقدّم على قتله، فقد حيى الناس منه بسلامتهم منه، وذلك إحياؤه إياها ... فكذلك معنى\"الإحياء\" في قوله:\"ومن أحياها\"، من سلِمَ الناس من قتله إياهم، إلا فيما أذن الله في قتله منهم=\"فكأنما أحيى الناس جميعًا\". ... لأنه من لم يتقدم على نفس واحدة، فقد سلم منه جميع النفوس",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-01-d012-p"
+  },
+  {
+   "d": 12,
+   "ok": true,
+   "opened": "I ran day.js quran 12, which covers Al-Ma'idah 5:1 to 5:46. The passage runs as follows: the tale of Adam's two sons at 5:27-31, the decree at 5:32, the penalty for those who make war on God and His messenger at 5:33-34, the thief at 5:38, and life for life at 5:45. The key verse is copied word for word from Pickthall's 5:32. I also ran packet.js quran 12 --verse 5:32. Al-Tabari gives his own preferred reading near the end of his comment on 5:32. It starts \"وأما قوله: ومن أحياها ... فأولى التأويلات به\", right after his preferred reading of the killing clause (\"وأولى هذه الأقوال عندي بالصواب\"). His opening gloss on \"min ajli dhalika\" ties the decree to the killing by Adam's son. He also defines \"corruption in the earth\" as war on God and His messenger and making the roads unsafe. Both points support the context clause. The sentence is 45 words, uses \"God\" in its own voice, adds nothing about the Children of Israel beyond the verse, and uses no softening or loaded words.",
+   "words": "وأما قوله:\"ومن أحياها فكأنما أحيى الناس جميعًا\" فأولى التأويلات به، قول من قال: من حرّم قتل من حرّم الله عز ذكره قتله على نفسه، فلم يتقدّم على قتله، فقد حيى الناس منه بسلامتهم منه، وذلك إحياؤه إياها ... فكذلك معنى\"الإحياء\" في قوله:\"ومن أحياها\"، من سلِمَ الناس من قتله إياهم، إلا فيما أذن الله في قتله منهم=\"فكأنما أحيى الناس جميعًا\". ... فمعنى الكلام: من جناية ابن آدم القاتل أخاه ظلمًا، حكمنا على بني إسرائيل ... و\"فسادها في الأرض\"، إنما يكون بالحرب لله ولرسوله، وإخافة السبيل.",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-01-d012-p"
+  },
+  {
+   "d": 20,
+   "ok": true,
+   "opened": "Ran packet.js quran 20 --verse 8:61. This opens al-Tabari, Jami' al-bayan, on 8:61, from https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/8.json. His comment is on 8:61 alone. He first glosses the verse in his own voice (qala Abu Ja'far): the peace may come through Islam, tribute or a truce. He then reports those who held the verse abrogated: Qatada (by 9:5), Ikrima and al-Hasan (by 9:29), and Ibn Zayd (by jihad). After the reports he rejects them in his own voice, beginning \"fa-amma ma qalahu Qatada...\". He says the verse was meant for Banu Qurayza, Jews and people of Scripture, with whom peace for tribute is permitted. The order to slay in Bara'a was meant for the idol-worshipping Arabs, from whom tribute may not be taken. Each verse stays in force for what it was revealed about. He cites Mujahid (\"Qurayza\") in support. The sentence reports this answer, which is his own view, and not the abrogation reports. The ayah is named correctly. Leaving Qurayza unnamed was a deliberate choice under rule 4 (see refutations/quran-01-d020-p.json). The sentence is exactly 45 words.",
+   "words": "قال أبو جعفر: فأما ما قاله قتادة ومن قال مثل قوله، من أن هذه الآية منسوخة، فقولٌ لا دلالة عليه من كتاب ولا سنة ولا فطرة عقل. ... لأن قوله: ﴿وإن جنحوا للسلم﴾ ، إنما عني به بنو قريظة، وكانوا يهودًا أهلَ كتاب، وقد أذن الله جل ثناؤه للمؤمنين بصلح أهل الكتاب ومتاركتهم الحربَ على أخذ الجزية منهم. وأما قوله: ﴿فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ فإنما عُني به مشركو العرب من عبدة الأوثان، الذين لا يجوز قبول الجزية منهم. فليس في إحدى الآيتين نفي حكم الأخرى، بل كل واحدة منهما محكمة فيما أنزلت فيه.",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-01-d020-p"
+  },
+  {
+   "d": 20,
+   "ok": false,
+   "opened": "I ran day.js quran 20 and read 8:55-75 around the key ayah: the treaty-breakers in 8:56-58, \"make ready ... (armed) force\" in 8:60, 8:61 itself, the exhortation to fight in 8:65-66 and the captives in 8:67-71. I ran packet.js quran 20 --verse 8:61 (https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/8.json). Al-Tabari's own ruling, in his own voice, comes after the reports from Qatada, Ikrima with al-Hasan, and Ibn Zayd that the verse was abrogated. It is the passage that begins \"قال أبو جعفر: فأما ما قاله قتادة\" and runs to \"محكمة فيما أنزلت فيه\". Mujahid's report (\"قريظة\") follows it. His opening gloss is also relevant: peace through Islam, through jizya, or through a truce. I also read the trail file verdicts/quran-01-d020-p.json.",
+   "words": "فأما ما قاله قتادة ومن قال مثل قوله، من أن هذه الآية منسوخة، فقولٌ لا دلالة عليه من كتاب ولا سنة ولا فطرة عقل ... لأن قوله: ﴿وإن جنحوا للسلم﴾ ، إنما عني به بنو قريظة، وكانوا يهودًا أهلَ كتاب، وقد أذن الله جل ثناؤه للمؤمنين بصلح أهل الكتاب ومتاركتهم الحربَ على أخذ الجزية منهم. وأما قوله: ﴿فَاقْتُلُوا الْمُشْرِكِينَ حَيْثُ وَجَدْتُمُوهُمْ﴾ فإنما عُني به مشركو العرب من عبدة الأوثان، الذين لا يجوز قبول الجزية منهم. فليس في إحدى الآيتين نفي حكم الأخرى، بل كل واحدة منهما محكمة فيما أنزلت فيه.",
+   "problems": [
+    {
+     "problem": "The grammar of the second half is loose. In \"takes it as unrepealed, as concerning a people of Scripture, allowed peace for tribute, whereas...\" the word \"allowed\" dangles: it can be read as the verse allowing, or as the people being allowed. A careful reader has to reconstruct al-Tabari's argument. His argument is that the verse concerns a people of Scripture with whom peace on payment of jizya is permitted, while the At-Tawbah verse concerns Arab idolaters, from whom jizya may not be accepted, so neither verse cancels the other. The facts are right (أهل كتاب ... على أخذ الجزية; مشركو العرب من عبدة الأوثان), and the tone is plain, neither softened nor sharpened.",
+     "fix": "Make the clause structure explicit, for example: \"Following the command to muster force against the enemy, the Prophet is told how to answer an offer of truce; al-Tabari, on 8:61, holds it unrepealed: it concerns Qurayza, a people of Scripture with whom peace for tribute is allowed, while At-Tawbah's order to slay means Arab idol-worshippers.\" (44 words)",
+     "severity": "should"
+    },
+    {
+     "problem": "The sentence leaves out the occasion al-Tabari himself names. He says the verse \"was meant for Banu Qurayza, who were Jews, people of Scripture\" (إنما عني به بنو قريظة، وكانوا يهودًا أهلَ كتاب), and he supports it with Mujahid's report (قريظة). \"A people of Scripture\" is accurate, but without the name a reader can take the ruling as a general statement about Jews and Christians, when al-Tabari ties this verse to one tribe. The house rule is to carry any occasion the mufassir sets on the lines.",
+     "fix": "Name Qurayza as the people meant, as in the rewrite in the first fix (\"it concerns Qurayza, a people of Scripture ...\"). This keeps al-Tabari's occasion without adding anything he does not say.",
+     "severity": "should"
+    }
+   ],
+   "lens": "tone",
+   "id": "quran-01-d020-p"
+  },
+  {
+   "d": 21,
+   "ok": true,
+   "opened": "node packet.js quran 21 --verse 9:6. Al-Tabari's comment is the [9:6] seg under \"=== al-Tabari ===\" (tafsir/ar-tafsir-al-tabari/9.json at commit 9ae590a). It opens with Abu Jaʿfar's own gloss (\"qala Abu Jaʿfar: yaqulu taʿala dhikruhu li-nabiyyihi ...\"), which the sentence paraphrases. Then come the reports (Ibn Ishaq, al-Suddi, Mujahid, Saʿid, Ibn Zayd) and the dispute over whether the ayah is abrogated, which ends with his own preference: \"wa-l-sawab min al-qawl fi dhalika ʿindi qawlu man qala laysa dhalika bi-mansukh\". The sentence takes his opening gloss, which is his own view, not a reported one. Its context clause matches his own framing: the idolaters are those \"you were commanded to fight and kill after the sacred months had passed\". He attaches the \"if he refuses Islam\" condition to the escort home, and the sentence carries it in the same place. The ayah named, 9:6, is correct. The sentence is 44 words.",
+   "words": "قال أبو جعفر: يقول تعالى ذكره لنبيه: وإن استأمنك، يا محمد، من المشركين، الذين أمرتك بقتالهم وقتلهم بعد انسلاخ الأشهر الحرم، أحدٌ ليسمع كلام الله منك = وهو القرآن الذي أنزله الله عليه = ﴿فأجره﴾ ، يقول: فأمّنه حتى يسمع كلام الله وتتلوه عليه = ﴿ثم أبلغه مأمنه﴾ ، يقول: ثم رُدَّه بعد سماعه كلام الله إن هو أبَي أن يسلم، ولم يتعظ لما تلوته عليه من كلام الله فيؤمن = \"إلى مأمنه\"، يقول: إلى حيث يأمن منك وممن في طاعتك، حتى يلحق بداره وقومه من المشركين",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-01-d021-p"
+  },
+  {
+   "d": 21,
+   "ok": true,
+   "opened": "I ran day.js quran 21 for At-Tawbah 9:1 to 9:67 and read 9:1 to 9:28 around the key ayah. That covers 9:5 (slay the idolaters after the sacred months, and leave the way free if they repent), 9:6, and 9:12 to 9:14 (fight those who broke their pledges). I also ran packet.js quran 21 --verse 9:6. Al-Tabari's comment on 9:6 is the first block in the ar-tafsir-al-tabari/9.json segment for 9:6, beginning قال أبو جعفر: يقول تعالى ذكره لنبيه (https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/9.json). Ibn Kathir, al-Qurtubi and the Jalalayn read the ayah the same way: safety to hear the Qur'an, then return to his place of safety if he does not believe.",
+   "words": "وإن استأمنك، يا محمد، من المشركين، الذين أمرتك بقتالهم وقتلهم بعد انسلاخ الأشهر الحرم، أحدٌ ليسمع كلام الله منك = وهو القرآن الذي أنزله الله عليه = ﴿فأجره﴾ ، يقول: فأمّنه حتى يسمع كلام الله وتتلوه عليه = ﴿ثم أبلغه مأمنه﴾ ، يقول: ثم رُدَّه بعد سماعه كلام الله إن هو أبَي أن يسلم، ولم يتعظ لما تلوته عليه من كلام الله فيؤمن = \"إلى مأمنه\"، يقول: إلى حيث يأمن منك وممن في طاعتك، حتى يلحق بداره وقومه من المشركين",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-01-d021-p"
+  },
+  {
+   "d": 22,
+   "ok": false,
+   "opened": "I ran packet.js quran 22 --verse 9:122 and read al-Tabari's comment on it (Jami' al-bayan, spa5k/tafsir_api 9ae590a, tafsir/ar-tafsir-al-tabari/9.json). The comment sits in one segment labelled 9:121 to 9:122. His own heading for ayah 122 opens partway through, and \"on 9:122\" is the correct place to cite. He first reports the views of Mujahid, Ibn Zayd, Ibn Abbas (three reports), Qatada, al-Dahhak, Ikrima and al-Hasan. Then he gives two preferences of his own (\"wa-awla al-aqwal ... bi-l-sawab\"). The first is on the occasion: the ayah forbids everyone going out and leaving the Prophet alone, and when the Prophet sends out a detachment, a party from each tribe goes with it. The second is on li-yatafaqqahu: the marching party gains the understanding, and he rejects the \"those who stay behind\" reading as impossible. I also checked the trail in verdicts/, refutations/ and revise/ for quran-01-d022-p.",
+   "words": "وأولى الأقوال في تأويل ذلك بالصواب أن يقال: تأويلُه: وما كان المؤمنون لينفروا جميعًا ويتركوا رسول الله ﷺ وحده ... ولكن عليهم إذا سَرَّى رسول الله سرية أن ينفر معها من كل قبيلة من قبائل العرب = وهي الفرقة = طائفة ... فإن أولى الأقوال في ذلك بالصواب، قولُ من قال: ليتفقه الطائفة النافرة بما تعاين من نصر الله أهلَ دينه وأصحابَ رسوله، على أهل عداوته والكفر به ... فإن قال قائل: وما تنكر أن يكون معناه: ليتفقه المتخلِّفون في الدين؟ قيل: ننكر ذلك لاستحالته.",
+   "problems": [
+    {
+     "problem": "The paraphrase gives al-Tabari's preferred view on li-yatafaqqahu correctly: the marching party gains understanding by witnessing God's victory for His people, and the stayers reading is rejected. It is his own view, not a reported one. But it drops the condition he sets on these same lines as his first preference. By his reading, the ayah forbids everyone going out and leaving the Prophet alone, and it concerns detachments sent out while the Prophet himself stays in Medina. That is how he squares the ayah with 9:120, which binds everyone to go when the Prophet marches in person. Without that limit, the context clause 'the believers learn who must march' leaves the reader unsure how 9:122 fits with the ban on staying behind, and al-Tabari answers exactly that.",
+     "fix": "Carry his condition and keep the verb 'takes' (44 words): 'In a chapter that commands fighting and condemns staying behind, the believers learn who must march; al-Tabari, on 9:122, takes it of detachments sent while the Prophet stays, the understanding gained by the party that marches, not those who stay, from seeing God’s victory.'",
+     "severity": "should"
+    }
+   ],
+   "lens": "fidelity",
+   "id": "quran-01-d022-p"
+  },
+  {
+   "d": 22,
+   "ok": true,
+   "opened": "I read the day's passage with day.js quran 22 (At-Tawbah 9:68 to 9:129). The ayahs around the key verse are 9:111 (they fight and slay and are slain), 9:113 to 9:114 (no prayer for the forgiveness of idolaters), 9:117 to 9:118 (the three who stayed behind) and 9:120 to 9:121 (it is not for the people of Medina to stay behind), with 9:123 (fight the disbelievers near you) after it. I also ran packet.js quran 22 --verse 9:122. al-Tabari gives one comment on 9:121 to 9:122 (tafsir/ar-tafsir-al-tabari/9.json at spa5k/tafsir_api 9ae590a). He sets out the views (Mujahid, Ibn Zayd, Ibn Abbas, Qatada, al-Dahhak, Ikrima, al-Hasan). He then gives his own preference twice: on the whole ayah ('not all should go out and leave the Messenger alone'), and on li-yatafaqqahu, where he adopts al-Hasan's view and rejects the reading that those who stayed are the ones who learn. Both preferences come near the end of the segment. I checked the verdict file verdicts/quran-01-d022-p.json, which cites the same passage. The context clause is accurate: 9:120 and 9:81 to 9:96 condemn staying behind, and 9:123 commands fighting. The hard matter is put plainly, in the passage's own words, and is neither softened nor sharpened. The sentence says nothing about Jews, Christians or idolaters. \"God's victory for the believers\" is fair to al-Tabari's \"nasr Allah ahl dinihi\". \"not by those who stay\" states openly where al-Tabari parts from Pickthall's \"(who are left behind)\", as the reading should, and does not hide it. Word count 41, British spelling, \"God\" in the sentence's own voice, no ranking.",
+   "words": "وأما قوله: ﴿ليتفقهوا في الدين ولينذروا قومهم إذا رجعوا إليهم﴾ ، فإن أولى الأقوال في ذلك بالصواب، قولُ من قال: ليتفقه الطائفة النافرة بما تعاين من نصر الله أهلَ دينه وأصحابَ رسوله، على أهل عداوته والكفر به، فيفقه بذلك من مُعاينته حقيقةَ علم أمر الإسلام وظهوره على الأديان، من لم يكن فقهه، ولينذروا قومهم فيحذروهم أن ينزل بهم من بأس الله مثل الذي نزل بمن شاهدوا وعاينوا ممن ظفر بهم المسلمون من أهل الشرك … فإن قال قائل: وما تنكر أن يكون معناه: ليتفقه المتخلِّفون في الدين؟ قيل: ننكر ذلك لاستحالته.",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-01-d022-p"
+  },
+  {
+   "d": 46,
+   "ok": true,
+   "opened": "node packet.js quran 46 --verse 33:21. Al-Tabari has a single comment covering 33:21 to 33:22 (cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590a.../tafsir/ar-tafsir-al-tabari/33.json). The passage that matters comes right after the note on reading uswa/iswa: \"wa-hadha ʿitab min Allah li-l-mutakhallifin...\", followed by his gloss on \"li-man kana yarju Allah\". The only other thing he adds is the Yazid ibn Ruman report, which he cites in support (\"wa-bi-nahw alladhi qulna ... qala ahl al-taʾwil\"). He reports no competing views on this ayah and does not choose between any.",
+   "words": "وهذا عتاب من الله للمتخلفين عن رسول الله ﷺ وعسكره بالمدينة، من المؤمنين به، يقول لهم جلّ ثناؤه: ﴿لقد كان لكم في رسول الله أسوة حسنة﴾ : أن تتأسوا به وتكونوا معه حيث كان، ولا تتخلَّفوا عنه ﴿لِمَنْ كانَ يَرْجُو اللَّهَ﴾ يقول: فإن من يرجو ثواب الله ورحمته في الآخرة لا يرغب بنفسه، ولكنه تكون له به أُسوة في أن يكون معه حيث يكون هو.",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-02-d046-p"
+  },
+  {
+   "d": 46,
+   "ok": true,
+   "opened": "I ran day.js for quran 46, which covers As-Sajdah 32:1 to Al-Ahzab 33:38. I read 33:9 to 33:27 around the key ayah, including the siege in 33:9 to 33:11, the requests for leave in 33:12 to 33:13 and the hard ayah 33:26 on the People of the Scripture. I also ran packet.js for quran 46 --verse 33:21. Al-Tabari's comment is one segment covering 33:21 to 33:22 (tafsir/ar-tafsir-al-tabari/33.json at commit 9ae590a). The key ayah's comment sits in the paragraph that begins with the two readings of uswa (a good example) and continues with \"وهذا عتاب من الله للمتخلفين\" (this is a reproach from God to those who stayed behind). Ibn Kathir agrees: he reads the ayah as a reproach to those who were shaken on the day of the clans.",
+   "words": "وهذا عتاب من الله للمتخلفين عن رسول الله ﷺ وعسكره بالمدينة، من المؤمنين به، يقول لهم جلّ ثناؤه: ﴿لقد كان لكم في رسول الله أسوة حسنة﴾ : أن تتأسوا به وتكونوا معه حيث كان، ولا تتخلَّفوا عنه ﴿لِمَنْ كانَ يَرْجُو اللَّهَ﴾ يقول: فإن من يرجو ثواب الله ورحمته في الآخرة لا يرغب بنفسه، ولكنه تكون له به أُسوة في أن يكون معه حيث يكون هو.",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-02-d046-p"
+  },
+  {
+   "d": 56,
+   "ok": true,
+   "opened": "I ran packet.js quran 56 --verse 46:15. It returns al-Tabari, Jami' al-bayan, on 46:15 as one comment on the single ayah (https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/46.json). The comment that matters is his gloss on the words wa-balagha arba'ina sanatan, which comes after his discussion of ashuddahu. He writes that gloss in his own voice, then cites Qatada (\"the evil of his deeds has passed\") in support. He does not report a range of views on the forty and set one aside. Where he does weigh views, on ashudd (33 years, or puberty), he prefers 33, but the sentence does not touch that. He mentions that the ayah is reported to have come down about Abu Bakr only as hearsay (\"wa-dhukira\"), so leaving it out is right. He sets no limit or condition on the forty that the paraphrase drops. The sentence names 46:15, which is the right ayah. The paraphrase follows him point by point. Hujjat Allah 'alayhi takamalat becomes \"God's proof against a man is complete\". Suyyira 'anhu jahalat shababihi becomes \"youth's folly gone\". 'Arafa al-wajib li-llah min al-haqq fi birr walidayhi becomes \"he knows what he owes God in honouring his parents\". It adds nothing and leaves nothing out. The sentence is exactly 45 words.",
+   "words": "وقوله ﴿وَبَلَغَ أَرْبَعِينَ سَنَةً﴾ ذلك حين تكاملت حجة الله عليه، وسير عنه جهالة شبابه وعرف الواجب لله من الحق في بر والديه. كما:- حدثنا بشر، قال: ثنا يزيد، قال: ثنا سعيد، عن قتادة ﴿وَبَلَغَ أَرْبَعِينَ سَنَةً﴾ وقد مضى من سيئ عمله. ... يقول تعالى ذكره: قال هذا الإنسان الذي هداه الله لرشده، وعرف حقّ الله عليه فيما ألزمه من برّ والديه",
+   "problems": [],
+   "lens": "fidelity",
+   "id": "quran-02-d056-p"
+  },
+  {
+   "d": 56,
+   "ok": true,
+   "opened": "day.js quran 56 (Al-Ahqaf 46:1 to Muhammad 47, read 46:11-20 around the key ayah: 46:15 the grateful man at forty, 46:17 the son who says \"Fie upon you both\" to his parents and mocks the promise of being raised); packet.js quran 56 --verse 46:15, al-Tabari, Jami' al-bayan, https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/46.json, comment on 46:15 under the heading ﴿وَبَلَغَ أَرْبَعِينَ سَنَةً﴾, his own words before the Qatada reports. Also checked verdicts/quran-02-d056-p.json (VERIFIED, same excerpt).",
+   "words": "وقوله ﴿وَبَلَغَ أَرْبَعِينَ سَنَةً﴾ ذلك حين تكاملت حجة الله عليه، وسير عنه جهالة شبابه وعرف الواجب لله من الحق في بر والديه. ... يقول تعالى ذكره: قال هذا الإنسان الذي هداه الله لرشده، وعرف حقّ الله عليه فيما ألزمه من برّ والديه",
+   "problems": [],
+   "lens": "tone",
+   "id": "quran-02-d056-p"
+  }
+ ]
+}

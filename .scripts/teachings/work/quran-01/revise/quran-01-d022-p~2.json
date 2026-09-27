@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d022-p",
+ "d": 22,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And the believers should not all go out to fight. Of every troop of them, a party only should go forth, that they (who are left behind) may gain sound knowledge in religion, and that they may warn their folk when they return to them, so that they may beware.",
+ "ref": "At-Tawbah 9:122",
+ "at": [
+  1356
+ ],
+ "s": "In a chapter that commands fighting and condemns staying behind, the believers learn who must march; al-Tabari, on 9:122, takes it of detachments sent while the Prophet stays, and the understanding as gained by the marching party, not those who stay, from seeing God’s victory.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 9:122, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/9.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 9:122, his own heading inside the seg labelled 9:121 to 9:122 (packet.js quran 22 --verse 9.122): his first tarjih on the whole ayah and its justification from 9:120, then the tarjih on ‘li-yatafaqqahu’ near the close",
+    "via": "packet"
+   }
+  ],
+  "words": "ولكن عليهم إذا سَرَّى رسول الله سرية أن ينفر معها من كل قبيلة من قبائل العرب … بمدينته، وإشخاص غيره عنها، كما كان الابتداءُ بتعريفهم الواجب عند شخوصه وتخليفه بعضهم. … فإن أولى الأقوال في ذلك بالصواب، قولُ من قال: ليتفقه الطائفة النافرة بما تعاين من نصر الله أهلَ دينه وأصحابَ رسوله، على أهل عداوته والكفر به … فإن قال قائل: وما تنكر أن يكون معناه: ليتفقه المتخلِّفون في الدين؟ قيل: ننكر ذلك لاستحالته.",
+  "lang": "Arabic",
+  "gloss": "But it is on them, when the Messenger of God sends out a detachment, that a party from every tribe of the Arabs march out with it … (the duty on them when the Prophet stays) in his city and sends others out from it, just as the beginning (9:120) taught them the duty when he himself goes out and leaves some behind … The most correct of the views is that of whoever said: let the party that marches out gain understanding by what it witnesses of God’s giving victory to the people of His religion and the companions of His Messenger over those hostile to Him and disbelieving in Him … If someone asks, why do you reject that it means ‘so that those who stay behind may gain understanding in religion’, the answer is: we reject it because it is impossible.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "The problem holds. Re-opened packet.js quran 22 --verse 9.122. In his first tarjih, in his own voice, al-Tabari takes the ayah as forbidding the believers to go out all together and leave the Messenger alone, and binding a party from every tribe to march when the Messenger sends out a detachment; he justifies it from 9:120, which bars staying behind when the Messenger himself marches, so that 9:122 teaches the duty when the Messenger stays in his city and sends others out. The sentence now carries that condition (detachments sent while the Prophet stays) beside his second tarjih, unchanged: the marching party gains understanding by witnessing God’s victory, the stayers reading rejected as impossible. The critic’s wording was kept with the verb ‘takes’ and made explicit (‘and the understanding as gained by the marching party’); ‘for the believers’ after ‘victory’ is dropped for length, and ‘not those who stay’ keeps the critic’s wording. Plain sense, commentator, place and src unchanged. Evidence: four verbatim runs from the packet joined with ellipses, chosen to avoid the honorific sign. verse.js ok (At-Tawbah 9:122, at 1356); entry-check ok."
+}

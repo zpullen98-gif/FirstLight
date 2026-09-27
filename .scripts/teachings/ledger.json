@@ -91,7 +91,10 @@
     "jalalayn": 1,
     "qurtubi": 2
    },
-   "hedged": 0
+   "hedged": 0,
+   "relanded": [
+    "quran-01"
+   ]
   }
  }
 }

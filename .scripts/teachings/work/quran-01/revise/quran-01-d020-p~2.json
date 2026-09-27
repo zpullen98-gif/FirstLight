@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And if they incline to peace, incline thou also to it, and trust in Allah. Lo! He, even He, is the Hearer, the Knower.",
+ "ref": "Al-Anfal 8:61",
+ "at": [
+  1220
+ ],
+ "s": "Following the command to muster force against the enemy, the Prophet is told how to answer offers of truce; al-Tabari, on 8:61, takes it as unrepealed, concerning Qurayza, people of Scripture who may have peace for tribute, while At-Tawbah’s order to slay means Arab idol-worshippers.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 8:61, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/8.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 8:61 (packet.js quran 20 --verse 8.61), his own answer (qala Abu Jaʿfar) to Qatada’s claim of abrogation, after the reports",
+    "via": "packet"
+   }
+  ],
+  "words": "فأما ما قاله قتادة ومن قال مثل قوله، من أن هذه الآية منسوخة، فقولٌ لا دلالة عليه من كتاب ولا سنة ولا فطرة عقل. … لأن قوله: ﴿وإن جنحوا للسلم﴾ ، إنما عني به بنو قريظة، وكانوا يهودًا أهلَ كتاب، وقد أذن الله جل ثناؤه للمؤمنين بصلح أهل الكتاب ومتاركتهم الحربَ على أخذ الجزية منهم. … فإنما عُني به مشركو العرب من عبدة الأوثان، الذين لا يجوز قبول الجزية منهم. فليس في إحدى الآيتين نفي حكم الأخرى، بل كل واحدة منهما محكمة فيما أنزلت فيه.",
+  "lang": "Arabic",
+  "gloss": "As for what Qatada and those who agree with him said, that this verse is abrogated, it is a claim with no evidence for it from scripture, sunna or reason … because ‘and if they incline to peace’ was meant only for the Banu Qurayza, who were Jews, a people of Scripture, and God permitted the believers to make peace with the people of Scripture and leave off war with them on taking tribute from them … (‘slay the idolaters wherever ye find them’) was meant only for the Arab idolaters who worship idols, from whom tribute may not be accepted. So neither verse negates the ruling of the other; each stands in force in what it was revealed about.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Both problems hold. Re-opened packet.js quran 20 --verse 8.61: in his own voice (qala Abu Jaʿfar) al-Tabari rejects Qatada’s claim of abrogation as without evidence, then says ‘if they incline to peace’ was meant for Banu Qurayza, Jews and people of Scripture, with whom God allowed peace on taking tribute, while the slaying order in Bara’a meant only the Arab idol-worshippers, from whom tribute may not be taken, so each verse stands in its own case; he backs the occasion with Mujahid’s report (‘Qurayza’). The sentence now names Qurayza, the occasion he sets, and gives the permission a clear subject (‘people of Scripture who may have peace for tribute’) in place of the dangling ‘allowed’. The critic’s wording ran past 45 by the gate’s count, so ‘a’ before ‘people’ is dropped and ‘with whom peace for tribute is allowed’ became ‘who may have peace for tribute’. In the plain sense only ‘an offer of truce’ became ‘offers of truce’ to fit the limit; commentator, place and src unchanged. Evidence: three verbatim runs from the packet joined with ellipses. verse.js ok (Al-Anfal 8:61, at 1220); entry-check ok."
+}
