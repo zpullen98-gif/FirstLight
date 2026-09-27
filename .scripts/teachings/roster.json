@@ -199,6 +199,9 @@
         "gregory-nazianzus",
         "cyprian",
         "bede",
+        "hippolytus",
+        "victorinus",
+        "gregory-thaumaturgus",
         "matthew-henry"
       ],
       "conduits": [
@@ -270,7 +273,8 @@
             "Acts"
           ]
         }
-      }
+      },
+      "note": "The shared Fathers: venerated in both the Catholic and Orthodox traditions and read by Protestants as early church writers. Not on the roster: Origen and Tertullian (contested), Clement of Alexandria, and the Catena Aurea’s later and anonymous voices (Theophylact, Remigius, Rabanus, Alcuin, Haymo, the Gloss, “Greek Ex.”, Pseudo-Chrysostom and the other pseudonymous extracts)."
     }
   },
   "people": {
@@ -1144,6 +1148,51 @@
       ],
       "traps": [
         "A labelled fallback only: used where no Father on the day's chapters is found, at most one day in ten, and only Genesis to Acts (Romans to Revelation were finished by others)."
+      ]
+    },
+    "hippolytus": {
+      "name": "Hippolytus",
+      "dates": "about 170 to 235",
+      "work": "Scholia on Daniel; On Christ and Antichrist",
+      "lang": "Greek",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "ANF vol. 5 (1886), ccel.org (public domain)"
+      ],
+      "traps": []
+    },
+    "victorinus": {
+      "name": "Victorinus of Pettau",
+      "dates": "died about 304",
+      "work": "Commentary on the Apocalypse",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "ANF vol. 7 (1886), ccel.org (public domain)"
+      ],
+      "traps": [
+        "His commentary covers 20 of Revelation’s 22 chapters."
+      ]
+    },
+    "gregory-thaumaturgus": {
+      "name": "Gregory Thaumaturgus",
+      "dates": "about 213 to 270",
+      "work": "Metaphrase of Ecclesiastes",
+      "lang": "Greek",
+      "coverage": {
+        "bible": [
+          "Ecclesiastes"
+        ]
+      },
+      "sources": [
+        "ANF vol. 6 (1886), ccel.org (public domain)"
+      ],
+      "traps": [
+        "A paraphrase of the whole book: a reading from it is his rendering of the line, located by chapter."
       ]
     }
   },

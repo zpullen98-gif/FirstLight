@@ -20,11 +20,16 @@ const { CACHE } = require('./fetch-commentary');
    "kena-upanishad-3"), keyed on the day's verse units only (a peace chant
    carries no section). */
 function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
+/* Plans whose chapters are named, not numbered alone: the Bible's and the
+   Tanakh's ("genesis-20", "psalm-23", "1-samuel-3") and the Rig Veda's
+   hymns ("rig-veda-1-164") share numbers across books, so their packets are
+   keyed on the chapter's slug, as the Upanishads' sections are. */
+const SLUGGED = { upanishads: 1, bible: 1, tanakh: 1, veda: 1 };
 function chaptersOf(plan, d) {
   const set = [];
   corpus.dayOf(plan, d).units.forEach(u => {
     let k;
-    if (plan === 'upanishads') { if (u.kind !== 'verse') return; k = slug(u.ch); }
+    if (SLUGGED[plan]) { if (u.kind !== 'verse') return; k = slug(u.ch); }
     else { const m = String(u.ch).match(/(\d+)$/); if (!m) return; k = +m[1]; }
     if (!set.includes(k)) set.push(k);
   });
