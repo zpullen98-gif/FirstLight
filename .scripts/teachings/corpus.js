@@ -282,28 +282,47 @@ function locateCourse(id, d, key, wantRef) {
                            : 'not in ' + works.join(', '));
     return res;
   }
-  const pick = (typeof wantRef === 'string' && hits.find(u => u.ref === wantRef)) || hits.find(u => u.kind === 'verse') || hits[0];
-  const r = locate(pick.plan, pick.pd, key, { a: pick.a, u: pick.u });
-  return Object.assign(r, { plan: id, d, label: e.title, work: pick.plan, pd: pick.pd,
-                            also: hits.filter(u => u !== pick).map(u => u.plan + ' ' + (u.ref || u.kind)).slice(0, 8) });
+  /* the place asked for; else the first place the line may be cited from
+     (it begins a sentence there, and so on); else the first verse */
+  const judge = u => locate(u.plan, u.pd, key, { a: u.a, u: u.u });
+  const asked = typeof wantRef === 'string' ? hits.find(u => u.ref === wantRef) : null;
+  let pick = asked, r = asked ? judge(asked) : null;
+  if (!pick) {
+    for (const u of hits.filter(x => x.kind === 'verse').slice(0, 12)) { const t = judge(u); if (!t.problems.length) { pick = u; r = t; break; } }
+  }
+  if (!pick) { pick = hits.find(u => u.kind === 'verse') || hits[0]; r = judge(pick); }
+  /* the other places, each marked where the line would stand as a key line */
+  const also = hits.filter(u => u !== pick).slice(0, 8).map(u => u.plan + ' ' + (u.ref || u.kind) + (u.kind === 'verse' && !judge(u).problems.length ? ' (citable here too: --ref "' + u.ref + '")' : ''));
+  return Object.assign(r, { plan: id, d, label: e.title, work: pick.plan, pd: pick.pd, also });
 }
+
+/* A course's search folds accents on both sides, so "Vritra" finds "Vṛitra"
+   and "Sankara" finds "Śaṅkara". */
+function fold(s) { return String(s).normalize('NFD').replace(/\p{M}/gu, ''); }
 
 /* A course's search: every citable unit of the given works that holds every
    word of the query (whole words, any case; a trailing * matches the word's
-   start, so "forgiv*" finds forgive and forgiveness), or that matches
-   /regex/flags. Returns { hits (at most limit), total }. */
+   start, so "forgiv*" finds forgive and forgiveness; accents are folded), or
+   that matches the regular expression after "re:" (re:water.*low). The
+   "re:" form is the one to use from Git Bash, which rewrites an argument
+   that looks like /a/path/ into a Windows path; /regex/ still works where
+   no shell rewrites it. A regex is matched against the text with its quotes
+   made straight, as norm() makes them, and never keeps state between lines.
+   Returns { hits (at most limit), total }. */
 function searchUnits(planIds, query, limit) {
   let test;
-  const m = /^\/(.+)\/([a-z]*)$/.exec(String(query));
+  const q = String(query);
+  const m = /^re:(.+)$/s.exec(q) || /^\/(.+)\/([a-z]*)$/.exec(q);
   if (m) {
-    const re = new RegExp(m[1], m[2].indexOf('i') > -1 ? m[2] : m[2] + 'i');
+    const flags = Array.from(new Set(((m[2] || '').replace(/[gy]/g, '') + 'i').split(''))).join('');
+    const re = new RegExp(m[1].replace(/[‘’‚‛]/g, "'").replace(/[“”„‟]/g, '"'), flags);
     test = t => re.test(t);
   } else {
     const esc = w => w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    const res = norm(query).split(' ').filter(Boolean).map(w => /\*$/.test(w)
-      ? new RegExp('(^|[^A-Za-zÀ-ɏ])' + esc(w.slice(0, -1)), 'i')
-      : new RegExp('(^|[^A-Za-zÀ-ɏ])' + esc(w) + '($|[^A-Za-zÀ-ɏ])', 'i'));
-    test = t => res.every(re => re.test(t));
+    const res = fold(norm(q)).split(' ').filter(Boolean).map(w => /\*$/.test(w)
+      ? new RegExp('(^|[^\\p{L}\\p{M}])' + esc(w.slice(0, -1)), 'iu')
+      : new RegExp('(^|[^\\p{L}\\p{M}])' + esc(w) + '($|[^\\p{L}\\p{M}])', 'iu'));
+    test = t => { const f = fold(t); return res.every(re => re.test(f)); };
   }
   const hits = [];
   let total = 0;
@@ -316,4 +335,4 @@ function searchUnits(planIds, query, limit) {
 }
 
 module.exports = { norm, words, DASH, dayOf, unitsOfAtom, locate, atomsOf, rt,
-  isCourse, courseIds, courseTr, courseWorks, courseEntries, courseDiv, unitsOfPlan, locateCourse, searchUnits };
+  isCourse, courseIds, courseTr, courseWorks, courseEntries, courseDiv, unitsOfPlan, locateCourse, searchUnits, fold };

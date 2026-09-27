@@ -58,6 +58,8 @@ function batchDays(plan, n) {
 function sensitiveDays(plan, days) {
   const marks = SENSITIVE[plan] || [];
   if (!marks.length) return [];
+  /* a course's marks are chamber titles (course-muslim: Jihād) */
+  if (corpus.isCourse(plan)) return days.filter(d => marks.includes(corpus.dayOf(plan, d).label));
   return days.filter(d => {
     const U = corpus.dayOf(plan, d).units;
     return marks.some(m => {
@@ -81,6 +83,20 @@ function lanesOf(plan, days) {
   const ordinary = days.filter(d => !sens.has(d)), sensitive = days.filter(d => sens.has(d));
   for (let i = 0; i < ordinary.length; i += per) lanes.push({ key: 'L' + (lanes.length + 1), days: ordinary.slice(i, i + per), sensitive: false });
   for (let i = 0; i < sensitive.length; i += sPer) lanes.push({ key: 'S' + (lanes.filter(l => l.sensitive).length + 1), days: sensitive.slice(i, i + sPer), sensitive: true });
+  /* a course whose chamber names one thing twice (Shabbat as a concept and a
+     practice, Ramadan as a practice and a festival, Zakāt and Zakat): the
+     later day joins the earlier day's lane, so one proposer gives the two
+     days different lines */
+  if (corpus.isCourse(plan)) {
+    const keyOf = d => corpus.fold(corpus.dayOf(plan, d).label).toLowerCase();
+    const home = {};
+    lanes.forEach(l => { if (l.sensitive) return; l.days.slice().forEach(d => {
+      const k = keyOf(d);
+      if (home[k] && home[k] !== l) { l.days.splice(l.days.indexOf(d), 1); home[k].days.push(d); }
+      else home[k] = home[k] || l;
+    }); });
+    return lanes.filter(l => l.days.length).map((l, i, all) => l.sensitive ? l : Object.assign(l, { key: 'L' + (all.filter(x => !x.sensitive).indexOf(l) + 1) }));
+  }
   return lanes;
 }
 

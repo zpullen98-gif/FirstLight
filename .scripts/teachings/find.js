@@ -5,14 +5,18 @@
    node .scripts/teachings/find.js course-jewish "remember sabbath"
    node .scripts/teachings/find.js course-hindu "light shines"
    node .scripts/teachings/find.js course-muslim "forgiv* merciful"
-   node .scripts/teachings/find.js course-taoist "/\bwater\b.*\blow/"
+   node .scripts/teachings/find.js course-taoist "re:water.*low"
 
    Prints every citable verse (the text, never a note, a commentary, a chant
    or a colophon) that holds EVERY word of the query, whole words in any
-   case (a trailing * matches the start of a word), or that matches a
-   /regex/; each under its work, the work's day and its reference, which is
-   what verse.js and packet.js take next. At most --limit (default 40) are
-   printed, with the total. */
+   case with accents folded (a trailing * matches the start of a word), or
+   that matches the regular expression after "re:"; each under its work, the
+   work's day and its reference, which is what verse.js and packet.js take
+   next. At most --limit (default 40) are printed, with the total. Write a
+   regex as re:<pattern>, never /<pattern>/: Git Bash turns an argument that
+   looks like /a/path/ into a Windows path before node sees it, and the
+   search then finds nothing without a word of warning (this tool refuses
+   such an argument instead). */
 'use strict';
 const corpus = require('./corpus');
 
@@ -26,7 +30,12 @@ const NAMES = {
 const argv = process.argv.slice(2);
 const [plan, query] = argv;
 const li = argv.indexOf('--limit'), limit = li > -1 ? Math.max(1, +argv[li + 1] || 40) : 40;
-if (!plan || !query) { console.error('usage: node .scripts/teachings/find.js <course-<tr> | plan> "<words or /regex/>" [--limit n]'); process.exit(1); }
+if (!plan || !query) { console.error('usage: node .scripts/teachings/find.js <course-<tr> | plan> "<words, or re:<regex>>" [--limit n]'); process.exit(1); }
+/* a /regex/ that Git Bash has already rewritten into a Windows path */
+if (/^[A-Za-z]:[\\/]/.test(query) || /[\\/](Program Files|msys|mingw)/i.test(query)) {
+  console.error('find.js: the query arrived as a path (' + query + '): the shell rewrote a /regex/. Write it as re:<pattern>, e.g. "re:water.*low".');
+  process.exit(1);
+}
 const works = corpus.isCourse(plan) ? corpus.courseWorks(plan) : [plan];
 const r = corpus.searchUnits(works, query, limit);
 console.log('In ' + works.map(w => NAMES[w] || w).join(', ') + ': ' + r.total + ' verse' + (r.total === 1 ? '' : 's') +

@@ -141,7 +141,7 @@ function main() {
     countsSoFar: counts,
     tools: course ? {
       day: 'node ' + root + '/.scripts/teachings/day.js ' + plan + ' <day>   (the chamber entry and the works a line may come from)',
-      find: 'node ' + root + '/.scripts/teachings/find.js ' + plan + ' "<words>"   (every verse of the works holding all the words; "word*" for a word’s start; "/regex/")',
+      find: 'node ' + root + '/.scripts/teachings/find.js ' + plan + ' "<words>"   (every verse of the works holding all the words; "word*" for a word’s start, accents folded; "re:<regex>", never /regex/, which Git Bash rewrites)',
       passage: 'node ' + root + '/.scripts/teachings/day.js <work> <work day>   (the passage around a line, unit by unit)',
       verse: 'node ' + root + '/.scripts/teachings/verse.js ' + plan + ' <day> "<key line>" [--ref "<ref>"]',
       packet: 'the packet command verse.js prints for the line: node ' + root + '/.scripts/teachings/packet.js <work> <work day> --verse <n>',

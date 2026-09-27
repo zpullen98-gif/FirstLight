@@ -119,7 +119,9 @@ function checkCourseEntry(e, ctx) {
   if (e.pd !== undefined && e.pd !== loc.pd) errors.push(at + 'pd ' + e.pd + ', but the line stands on ' + loc.work + ' day ' + loc.pd);
   const r = corpus.rt();
   const x = Object.assign({}, e, { d: loc.pd, label: r.planDayLabel(loc.work, loc.pd) });
-  const w = checkEntry(x, { planId: loc.work, nDays: r.planDays(loc.work) });
+  /* the inner check re-finds the line in the unit the course placed it in, so a
+     line cited at its second place on a work's day (a refrain) is judged there */
+  const w = checkEntry(x, { planId: loc.work, nDays: r.planDays(loc.work), prefer: { a: loc.at[0], u: loc.unit } });
   const pre = 'day ' + loc.pd + ': ', where = at + '(' + loc.work + ', day ' + loc.pd + ') ';
   const re = m => (m.indexOf(pre) === 0 ? where + m.slice(pre.length) : at + m);
   w.errors.forEach(m => errors.push(re(m)));
@@ -159,7 +161,7 @@ function checkEntry(e, ctx) {
   const key = String(e.key || '');
   if (key !== key.trim()) err('the key has space at an end');
   if (STRAIGHT.test(key)) err('straight quotes in the key: curly only');
-  const loc = corpus.locate(planId, e.d, key);
+  const loc = corpus.locate(planId, e.d, key, ctx.prefer);
   if (!loc.exact) err('the key is not verbatim in the day: ' + loc.problems.join('; '));
   else {
     loc.problems.forEach(p => err('the key ' + p));
@@ -510,6 +512,16 @@ function selftest() {
       if (r.errors.some(m => re.test(m))) held++;
       else failures.push(name + ': expected ' + re + ', got ' + (r.errors.join(' | ') || 'no error'));
     });
+    /* a refrain cited at its second place on one work's day: the gate judges
+       it where verse.js placed it (Ar-Rahman 55:16, not 55:13) */
+    {
+      const rk = 'Which is it, of the favours of your Lord, that ye deny?';
+      const rl = corpus.locateCourse('course-muslim', 1, rk, 'Ar-Rahman 55:16');
+      const re1 = checkEntry({ d: 1, label: corpus.dayOf('course-muslim', 1).label, key: rk, ref: rl.ref, at: rl.at, s: 'x; y.', by: 'tabari', src: 'al-Tabari (2026)' },
+        { planId: 'course-muslim', nDays: rt.planDays('course-muslim') }).errors.filter(m => /ref "|at \[|verbatim|sentence begins/.test(m));
+      if (rl.ref === 'Ar-Rahman 55:16' && !re1.length) held++;
+      else failures.push('a refrain at its second place: ' + rl.ref + ' ' + JSON.stringify(re1));
+    }
     const moved = checkSet(Object.assign(cset([cgood]), { div: '0000000000' }), {});
     if (moved.errors.some(m => /division/.test(m))) held++; else failures.push('a course written against another chamber passes');
     console.log('  ok   the courses: a line from the tradition’s works only, on its own work’s roster and rules, against the chamber as it stands');
