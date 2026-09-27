@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d035-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A8%E0%A5%AF&oldid=400415",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 35 --verse 3.29.11. Sāyaṇa's own summary sentence on the verse: yadāgnir araṇīṣu garbharūpatayā vartate tadā tanūnapānnāmako bhavati, yadā jāyate tadā narāśaṃsanāmako bhavati, yadāntarikṣe vidyotate tadā mātariśvanāmako bhavati; the paraphrase (embryo in the fire-sticks, once born, flashing in mid-air) follows it clause for clause, and the yadā/tadā sequence carries stages. Wilson's translation and notes concur. Plain sense matches day.js: 3.29.1 to 3.29.6 the fire-sticks rubbed, 3.29.7 Agni born; 3.29.11 turns to his names. verse.js ok at [262,11]; entry-check ok. No school, comparison or tone issue. All attacks fail.",
+ "better": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d055-p",
+ "d": 55,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Worship at dawn and instigate the Asvins: nor is the worshipper at eve rejected. Besides ourselves another craves and worships: each first in worship is most highly favoured.",
+ "ref": "Rig Veda 5.77.2",
+ "at": [
+  430,
+  2
+ ],
+ "s": "In a hymn calling for the Asvins to be worshipped first, at daybreak, the verse presses the point; Sāyaṇa, on 5.77.2, reads the evening clause as saying the gods do not accept an evening offering, since scripture gives them the forenoon.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.77.2, sa.wikisource (printed edition not named), revision 209188 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AD%E0%A5%AD&oldid=209188",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 209188 (printed edition not named)",
+    "locator": "Sāyaṇa, commentary on 5.77.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n391/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857), archive.org rigvedasanhitc03wils (OCR)",
+    "locator": "Wilson on 5.77.2",
+    "via": "packet"
+   }
+  ],
+  "words": "“सायं सायंकाले हविः “देवयाः देवगामि “न “अस्ति न विद्यते । देवा न स्वीकुर्वन्तीत्यर्थः । “अजुष्टम् असेव्यं तद्भवति । पूर्वाह्णो वै देवानाम् ' इति हि श्रुतिः । “उत “अस्मत् अस्मत्तः “अन्यः कोऽपि “यजते यजेत सोमेन “वि “चावः वितर्पयेच्च हविषा । अतोऽस्मास्वन्येषु च मध्ये “पूर्वः पूर्वो “यजमानः यः पूर्वः पूर्वो यष्टा भवति सः “वनीयान् देवानां संभजनीयः संभाव्यो भवति ॥",
+  "lang": "Sanskrit",
+  "gloss": "In the evening an oblation going to the gods does not exist: the gods do not accept it; it is unwelcome, not to be enjoyed. For the śruti says: ‘the forenoon indeed is the gods’. And if another than us sacrifices with Soma and satisfies them with oblation, then among us and others whoever sacrifices first is most to be favoured by the gods.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 430/2). Sāyaṇa on 5.77.2 says an evening oblation does not go to the gods, they do not accept it, it is unwelcome, citing the śruti ‘the forenoon belongs to the gods’; Wilson translates him so and Griffith’s note marks it as Sāyaṇa’s reading against his own rendering. The sentence attributes the reading to him and does not resolve the difference with the translation. Plain sense fits the hymn (5.77.1 calls for the Asvins to be worshipped first, at dawn). Revision 209188 is 2019-08-11. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d044-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A9%E0%A5%A9&oldid=401703",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 44 --verse 4.33.11 (and 4.33.1). Sāyaṇa on 4.33.11: vaḥ yuṣmākaṃ … dhuḥ dadur devāḥ (the gods gave you the Soma drink and its joy at the third pressing); śrāntasya śrāntāt tapoyuktāt ṛte sakhyāya na bhavanti devāḥ (apart from one wearied, joined with austerity, the gods are not for friendship); yata ete śrāntā ato daduḥ (because these toiled, they gave). Both halves of the reading are carried: toil as austerity, gods befriending none without it, and the gift to the Ṛbhus because of their toil. Wilson note 1 reports the same two clauses from Sāyaṇa and remarks that the maxim ‘would seem to apply to the worshipper’; the entry does not claim that. On 4.33.1 Sāyaṇa says the Ṛbhus reached godhead by tapas, consistent. Plain sense: day.js shows 4.33.4 ‘through these their labours they were made immortal’ and 4.33.11, the last verse, names this third libation; ‘Rbhus’ is the app’s spelling. verse.js ok (4.33.11, at [328,11]); entry-check ok on scratch/R2-d044-p.json, 43 words.",
+ "better": ""
+}

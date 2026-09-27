@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d055-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AD%E0%A5%AD&oldid=209188",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 55 --verse 5.77.2. Sāyaṇa: sāyaṃ havir devagāmi na asti, devā na svīkurvanti, ajuṣṭam asevyam, citing the śruti pūrvāhṇo vai devānām; the sentence (gods do not accept an evening offering, since scripture gives them the forenoon) is his, found verbatim, and Wilson 5.77.2 follows him (the evening is not for the gods). Griffith’s key verse reads the clause the other way; the entry states Sāyaṇa’s reading as his without resolving, which rules 3 and 5 allow. Plain sense checked in day.js: 5.77.1 calls for worshipping first those who come at early morning, the Asvins claiming the sacrifice at daybreak. verse.js ok [430,2]; entry-check ok, 41 words; revision 209188 dated 2019-08-11. No school, comparison or tone issue.",
+ "better": ""
+}

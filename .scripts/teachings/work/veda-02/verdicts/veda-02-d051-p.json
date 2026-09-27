@@ -1,0 +1,43 @@
+{
+ "id": "veda-02-d051-p",
+ "d": 51,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "What time thou smotest down Svarbhanu’s magic that spread itself beneath the sky, O Indra, By his fourth sacred prayer Atri discovered Surya concealed in gloom that stayed his function.",
+ "ref": "Rig Veda 5.40.6",
+ "at": [
+  393,
+  6
+ ],
+ "s": "As the hymn turns from Indra’s Soma to the Sun darkened by Svarbhanu, the verse tells how Atri freed the light; Sāyaṇa, on 5.40.6, takes the fourth prayer as the hymn’s eighth verse, each earlier one having driven off one part of the magic.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.40.5 and 5.40.6, sa.wikisource (printed edition not named), revision 403751 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AA%E0%A5%A6&oldid=403751",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 403751 (printed edition not named)",
+    "locator": "on Rig Veda 5.40.6 (sūkta 5.40)",
+    "via": "packet"
+   }
+  ],
+  "words": "\"तुरीयेण “ब्रह्मणा ‘ग्राव्णो ब्रह्मा' इत्यनेन \"अत्रिः \"अविन्दत् लब्धवान् । आवरणापगमोपायं निरावरणं शुद्धं वा सूर्यमिति । पूर्वमन्त्रापेक्षया अस्य तुरीयत्वम् । एकैकं मायांशमेकैकेन मन्त्रेणापनोद्य चतुर्थेन मन्त्रेण निलीनं तमोऽप्यनुददित्यर्थः",
+  "lang": "Sanskrit",
+  "gloss": "By the fourth prayer, by this one, “grāvṇo brahmā” (5.40.8), Atri found, obtained, the means of removing the covering, or the sun uncovered and pure. Its being fourth is relative to the mantras before it: having driven off one portion of the illusion with each mantra, with the fourth he dispelled even the hidden darkness; that is the meaning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 5.40.6, at [393,6]). Plain sense faithful: 5.40.5 to 5.40.9 turn from the Soma call to Indra to Svarbhanu’s darkening of Surya and Atri’s recovery of him. Sāyaṇa on 5.40.6 identifies the “fourth prayer” as “grāvṇo brahmā”, i.e. 5.40.8 (confirmed again in his note on 5.40.8: tad etad uktaṃ turīyaṃ brahma), counts it fourth relative to the preceding mantras, and says each mantra removed one portion of the māyā and the fourth dispelled even the hidden darkness. The sentence carries exactly this. Wilson’s note (by the four stanzas from the fifth to the eighth) agrees. Entry-check ok."
+}

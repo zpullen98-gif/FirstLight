@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d059-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%A8%E0%A5%A7&oldid=310167",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 59 --verse 6.21.3; evidence found verbatim. Sāyaṇa glosses dhāma (Griffith’s ‘Law’) as svargākhyaṃ sthānam, ‘that is, the gods stationed there’, iyakṣantaḥ as yaṣṭum icchantaḥ, kadā as kadācit = sarvadā, and na minanti as kim api prāṇijātaṃ na hiṃsanti; Wilson’s rendering ‘they harm not (any living being)’ follows him. ‘Never harm any living thing’ is carried by sarvadā with the negative; ‘abode in heaven and the gods there’ is his ‘that is’ gloss, a fair compression. Plain sense matches day.js: 6.21.2 ‘surpasseth the magnitude of earth, and heaven in greatness’, and the second half of 6.21.3 turns to mortals (Sāyaṇa: paro ’rdharcaḥ pratyakṣakṛtaḥ). The Nirukta 5.15 entry treats only the first half, so Yāska is rightly not named. verse.js ok at [461,3]; entry-check ok, 42 words, src 109 chars. All attacks fail.",
+ "better": ""
+}

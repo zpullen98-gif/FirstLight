@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d054-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AC%E0%A5%A7&oldid=403490",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 54 (whole packet and --verse 5.61.5, 5.61.6). Both evidence pieces re-found verbatim: the introduction reads 'सनत्सा इत्यादीनां चतसृणां शशीयसी नाम तरन्तस्य राज्ञो भार्या देवता', and on 5.61.6 Sāyaṇa says शशीयसी is the queen's (महिषी) name, glosses adevatra as one by whom the gods are not served with praise and the like, and arādhas as without wealth fit for giving, 'लुब्धक', a greedy man; so 'miser who neither praises the gods nor gives' is carried. On 5.61.5 he also names the woman 'तरन्तमहिषी', so the queen of the woman blessed in verse 5 is Taranta's by his own words, and Wilson 5.61.5 to 6 and Griffith's notes on 5 and 6 confirm the identification is Sāyaṇa's. Plain sense matches day.js: 5.61.5 is a wish that 'she' gain cattle, the hymn praises the Maruts (1 to 4, 11 to 16) and names patrons (Purumilha, Taranta, Rathaviti); no four-word run from the key. verse.js ok at [414,6], 20 words; entry-check ok; 43 words, src 134 characters; one semicolon, verb 'takes', roster name exact, no school needed, no comparison, tone neutral. Only nit: the Taranta link sits in the introduction and on 5.61.5 rather than on 5.61.6 itself, but the src line names the introduction and 5.61.6 names her the queen, so the locator stands.",
+ "better": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d040-p",
+ "d": 40,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "May he who knows distinguish sense and folly of men, like straight and crooked backs of horses.",
+ "ref": "Rig Veda 4.2.11",
+ "at": [
+  297,
+  11
+ ],
+ "s": "After blessing each worshipper who brings Agni fuel, food or praise, the hymn turns to his judgement; Sāyaṇa, on 4.2.11, reads ‘sense and folly’ as merit and sin, or knowledge and ignorance, which Agni sorts as a groom sorts fit backs from unfit.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.2.11, sa.wikisource (printed edition not named), revision 403270 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A8&oldid=403270",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ४.२, revision 403270 (2024-06-21)",
+    "locator": "commentary on 4.2.11",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n144/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "4.2.11 and its note 2 (virtue and sin, or knowledge and ignorance; for the horses and the groom we are indebted to Sāyaṇa)",
+    "via": "packet"
+   }
+  ],
+  "words": "“विद्वान् प्राणिनां पुण्यपापरूपाणि कर्माणि जानानः सोऽग्निः “चित्तिं ज्ञातव्यं पुण्यम् \"अचित्तिम् अनुपादेयत्वेनाचेतनीयं पापम् । यद्वा । चित्तिं ज्ञानमचित्तिमज्ञानं \"वि “चिनवत् विचिनोतु पृथक्करोतु । तत्र दृष्टान्तः । \"पृष्ठेव । यथाश्वपालोऽश्वानां \"वीता कान्तानि \"वृजिना दुर्वहाणि च पृष्ठा पृष्ठानि हेयोपादेयत्वेन पृथक्करोति तद्वत्",
+  "lang": "sa",
+  "gloss": "The knower, Agni, who knows the deeds of living beings in the form of merit and sin: citti is merit, which is to be known; acitti is sin, not to be thought of since it is not to be taken up. Or else citti is knowledge and acitti ignorance. Let him sort them, set them apart. The example: as a groom sets apart the pleasing and the ill-bearing backs of horses, as to be rejected or to be kept, so.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse is the first sentence of 4.2.11, verbatim (verse.js ok, ref 4.2.11, at [297,11]). Sāyaṇa on 4.2.11 glosses citti and acitti as merit and sin, or else knowledge and ignorance, and supplies the groom (aśvapāla) who sets apart pleasing and ill-bearing backs as to be rejected or kept; Wilson’s note 2 reports both glosses and credits the groom to Sāyaṇa. ‘fit backs from unfit’ is a fair paraphrase of heyopādeyatvena. Plain sense faithful: 4.2.6 to 4.2.10 wish protection and wealth on the one who brings fuel, food, praise and offering, and 4.2.11 asks the knower to distinguish; three words quoted in curly quotes, no four-word run in the plain sense. Revision 403270 dated 2024-06-21 by the Wikisource API. entry-check ok."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d044-p",
+ "d": 44,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "This day have they set gladdening drink before you. Not without toil are Gods inclined to friendship.",
+ "ref": "Rig Veda 4.33.11",
+ "at": [
+  328,
+  11
+ ],
+ "s": "The hymn on the Rbhus, whose labours made them immortal, ends at the third libation; Sāyaṇa, on 4.33.11, reads the toil as austerity, without which the gods befriend none, and takes the drink as given to the Rbhus because they had so toiled.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.33.11, sa.wikisource (printed edition not named), revision 401703 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A9%E0%A5%A9&oldid=401703",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ४.३३, revision 401703 (2024-04-11)",
+    "locator": "commentary on 4.33.11, and on 4.33.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n212/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "4.33.11 and its note 1",
+    "via": "packet"
+   }
+  ],
+  "words": "इदानीं चमसादिनिर्माणानन्तरम् “अह्नः सुत्याहसंबन्धिनस्तृतीये सवने “पीतिं सोमपानम् “उत अपि च \"मदं तज्जनितं “वः युष्माकं “धुः ददुर्देवाः । “श्रान्तस्य श्रान्तात्तपोयुक्तात् \"ऋते “सख्याय सखित्वाय “न भवन्ति “देवाः । यत एते श्रान्ता अतो ददुरित्यर्थः",
+  "lang": "sa",
+  "gloss": "Now, after the making of the cups and the rest, at the third pressing belonging to the day of Soma pressing, the gods gave you the drinking of Soma and also the joy born of it. Apart from one who is wearied, one joined with austerity, the gods are not for friendship. The meaning is: because these had toiled, therefore they gave.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 4.33.11, at [328,11]). Sāyaṇa on 4.33.11 glosses śrāntasya as śrāntāt tapoyuktāt, one wearied, joined with austerity, apart from whom the gods are not for friendship, and concludes yata ete śrāntā ato daduḥ, because these toiled the gods gave; on 4.33.1 he says the Ṛbhus, once men, reached godhead by tapas. Wilson note 1 reports both clauses from Sāyaṇa. Plain sense faithful: 4.33.4 says their labours made the Ṛbhus immortal and 4.33.11, the hymn’s last verse, names this third libation; the context clause repeats no four words of the key. Revision 401703 dated 2024-04-11 by the Wikisource API. Evidence copied from packet.js output. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d043-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A8%E0%A5%AC&oldid=209120",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 43 --verse 4.26.1 and the 4.26 introduction. Sāyaṇa on 4.26.1: idam ādimantratrayeṇa garbhe vasan vāmadevaḥ utpannatattvajñānaḥ san sārvātmyaṃ svānubhavaṃ … pradarśayann āha; paramārthadṛṣṭyā kṛtsnam apy aham evāsmi; he janāḥ mā māṃ sarvātmakaṃ paśyata; yūyam apy evam eva svasvarūpam anubhavatety uktaṃ bhavati. Every clause of the reading is carried (‘know’ for anubhavata is a fair English for ‘experience’). The introduction gives Vāmadeva first and Indra as an alternative (yadvā indra eva), and the verse gloss says ahaṃ vāmadeva indro vā, so ‘hears first Vāmadeva’ matches his order; the reading attributed is the one he develops on the verse, not Wilson’s (Wilson’s note 1 reports the same, including the pantheistic remark as Wilson’s own, which the entry does not use). Plain sense: day.js shows 4.26.1 to 3 in the first person, 4.26.4 to 7 praising the Falcon who brought the Soma. verse.js ok (4.26.1, at [321,1]); entry-check ok on scratch/R2-d043-p.json, 44 words. Weak point only: ‘first’ is terse and a reader does not see the Indra alternative; not false, so not refuted.",
+ "better": "Optionally make the alternative explicit: “…Sāyaṇa, on 4.26.1, hears Vāmadeva (or Indra), knowing the truth in the womb, speak as the self of all, …” (check the cap)."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d064-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AC%E0%A5%AA&oldid=200403",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 64 --verse 6.64.6 (rev 200403): Sāyaṇa glosses पितुभाजः as हविषां संभक्तारः अन्नस्योपार्जका वा (sharers of the oblations, or earners of food, pitu being listed among the names of food) and says नरः तेऽपि च उत्पतन्ति (those men too rise up); the entry gives both options without choosing, and Wilson (men who have to gain their sustenance) follows the second. day.js: 6.64.6 is the last verse of the hymn (6.65.1 follows); easy paths in 6.64.1 and 6.64.4, hills and waters in 6.64.4; hymn introduction marks it to Uṣas. Key verse is the first whole sentence of 6.64.6, verse.js ok (504,6); entry-check ok; revision 200403 dated 2019-04-28 by the Wikisource API.",
+ "better": ""
+}

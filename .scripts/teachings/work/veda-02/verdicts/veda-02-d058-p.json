@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d058-p",
+ "d": 58,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For true, I deem, thy strength is, thine the Mighty, thine, O Most Potent, thine the Conquering Victor; Strong, of the strong, Most Mighty, of the mighty, thine, driver of the churl to acts of bounty.",
+ "ref": "Rig Veda 6.18.4",
+ "at": [
+  458,
+  4
+ ],
+ "s": "Praising Indra’s lone victories, the singer has just asked whether his great exploit is real; Sāyaṇa, on 6.18.3 and 4, hears a seer who doubted Indra’s power when he could not see him, and here settles that the power is there.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.18.3 and 6.18.4, sa.wikisource (printed edition not named), revision 186331 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%A7%E0%A5%AE&oldid=186331",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ६.१८, revision 186331 (2019-01-27)",
+    "locator": "commentary on 6.18.3 and 6.18.4",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n444/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "6.18.3 and 6.18.4, and Wilson’s note 1 on 6.18.3 (‘Not beholding Indra, the scholiast says’)",
+    "via": "packet"
+   }
+  ],
+  "words": "एवं स्तुवन्नप्यृषिरिन्द्रं यदा नाद्राक्षीत् तदा तस्य वीर्यसद्भावे विचिकित्समानः परार्धर्चमाह । … पूर्वमन्त्रे इन्द्रस्य बलसदसद्भावं संदिह्य अनया बलमस्त्येवेत्यवधारयन्नाह ।",
+  "lang": "sa",
+  "gloss": "Though praising Indra thus, when the seer did not see him, doubting whether his valour was really there, he speaks the second half of the verse (on 6.18.3). … Having doubted in the previous verse whether Indra’s strength was there or not, with this verse he speaks, settling that the strength is indeed there (on 6.18.4).",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 6.18.4, at [458,4]), one sentence of 36 words, no dash. Sāyaṇa on 6.18.3 (sa.wikisource rev. 186331, dated 2019-01-27 by the Wikisource API) says that the seer, not seeing Indra, doubts whether his valour is there and speaks the verse’s second half; on 6.18.4 he says that, having doubted in the previous mantra, the seer now settles that the strength is indeed there (balam asty eva). Wilson’s note on 6.18.3 reports the same of ‘the scholiast’. The sentence carries exactly this, with the place given as both verses. Plain sense: 6.18.2 and 6.18.3 praise Indra acting alone and 6.18.3 asks whether the exploit is his; faithful, no four words of the key. entry-check ok."
+}

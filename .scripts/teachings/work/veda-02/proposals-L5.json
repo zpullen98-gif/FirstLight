@@ -1,0 +1,253 @@
+{
+ "lane": "L5",
+ "plan": "veda",
+ "batch": "veda-02",
+ "days": [
+  {
+   "d": 57,
+   "primary": {
+    "id": "veda-02-d057-p",
+    "key": "I know not either warp or woof, I know not the web they weave when moving to the contest.",
+    "ref": "Rig Veda 6.9.2",
+    "at": [
+     449,
+     2
+    ],
+    "s": "Praising Agni Vaisvanara, the singer owns an ignorance the next verse sets against the god’s knowledge; Sāyaṇa, on 6.9.2, explains the web as the sacrifice, the metres its warp and the Adhvaryu’s formulas its woof, or, for the knowers of the Self, as creation.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.9.2, sa.wikisource (printed edition not named), revision 209204 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "यज्ञं वस्त्रात्मकतया रूपयन् तस्य दुर्ज्ञानत्वमनया प्रतिपादयतीति यज्ञवादिनो मन्यन्ते । “तन्तुम् । तन्तवः पटस्य प्रागायतानि सूत्राणि । तानि च यज्ञात्मकस्य वस्त्रस्य गायत्र्यादीनि छन्दांसि स्तुतशस्त्राणि च । … ओतवस्तिरश्चीनानि सूत्राणि । तानि चात्र यजूंष्याध्वर्यवाणि कर्माणि च । … रूपकतया जगत्सृष्टेर्दुर्ज्ञानत्वमनया प्रतिपादयतीत्यात्मविदो मन्यन्ते ।",
+     "gloss": "Figuring the sacrifice as a cloth, [the verse] declares by this how hard it is to know: so the ritualists hold. Tantu: the threads of a cloth stretched lengthwise (the warp); these, for the cloth that is the sacrifice, are the metres beginning with the Gāyatrī and the chanted and recited praises (stuta, śastra). … The otu are the threads running across (the woof); these here are the yajus formulas and the Adhvaryu’s acts. … The knowers of the Self hold that by this figure it declares how hard the creation of the world is to know."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d057-s",
+    "key": "ONE half of day is dark, and bright the other: both atmospheres move on by sage devices. Agni Vaisvanara, when born as Sovran, hath with his lustre overcome the darkness.",
+    "ref": "Rig Veda 6.9.1",
+    "at": [
+     449,
+     1
+    ],
+    "s": "The hymn to Agni Vaisvanara opens on night and day, before the singer confesses what he cannot know; Yāska, Nirukta 2.21, takes the dark half as night and the king the newborn god is likened to as the rising sun, king of all lights.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 2.21, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "The black day, i. e. night. The white day, i. e. bright day. … As soon as born, Vaij^vanara Agni has dispelled darkness with his light like the rising sun, who is the king of all luminaries.",
+     "gloss": "The black day means night; the white day means the bright day. … As soon as he is born, Agni Vaiśvānara has dispelled the darkness with his light like the rising sun, who is king of all the luminaries."
+    }
+   }
+  },
+  {
+   "d": 58,
+   "primary": {
+    "id": "veda-02-d058-p",
+    "key": "For true, I deem, thy strength is, thine the Mighty, thine, O Most Potent, thine the Conquering Victor; Strong, of the strong, Most Mighty, of the mighty, thine, driver of the churl to acts of bounty.",
+    "ref": "Rig Veda 6.18.4",
+    "at": [
+     458,
+     4
+    ],
+    "s": "Praising Indra’s lone victories, the singer has just asked whether his great exploit is real; Sāyaṇa, on 6.18.3 and 4, hears a seer who doubted Indra’s power when he could not see him, and here settles that the power is there.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.18.3 and 6.18.4, sa.wikisource (printed edition not named), revision 186331 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "एवं स्तुवन्नप्यृषिरिन्द्रं यदा नाद्राक्षीत् तदा तस्य वीर्यसद्भावे विचिकित्समानः परार्धर्चमाह । … पूर्वमन्त्रे इन्द्रस्य बलसदसद्भावं संदिह्य अनया बलमस्त्येवेत्यवधारयन्नाह ।",
+     "gloss": "Though praising thus, when the seer did not see Indra, he, doubting whether Indra’s valour was really there, speaks the latter half of the verse (6.18.3). … Having doubted in the previous verse whether Indra’s strength was there or not, with this verse (6.18.4) he says, settling it, that the strength is indeed there."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d058-s",
+    "key": "Agni, we bring thee, with our hymn, oblation fashioned in the heart. Let these be oxen unto thee, let these be bulls and kine to thee.",
+    "ref": "Rig Veda 6.16.47",
+    "at": [
+     456,
+     47
+    ],
+    "s": "Near the close of a long hymn to Agni, the singer names his gift; Sāyaṇa, on 6.16.47, takes the verse itself as the oblation, shaped by the heart, and hears a prayer that it turn into bulls and cows for the god to eat.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.16.47, sa.wikisource (printed edition not named), revision 340914 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “अग्ने “ते तुभ्यं “हृदा हृदयेन “तष्टं संस्कृतम् “ऋचा ऋग्रूपेण वर्तमानं हविः ऋचमेव हविः कृत्वा “आ “भरामसि आहरामः । … ऋग्रूपं तद्धविः “ते तुभ्यम् “उक्षणः उक्षाणः सेचनसमर्थाः “ऋषभासः ऋषभाः “उत अपि च “वशाः च “भवन्तु । ऋषभवशारूपेण परिणतं सत् त्वद्भक्षणाय भवत्विति शेषः ॥",
+     "gloss": "O Agni, for thee we bring an oblation shaped (made ready) by the heart, existing in the form of a verse: making the verse itself the oblation, we bring it. … May that oblation in the form of a verse become for thee vigorous bulls, bulls, and cows too: that is, transformed into the form of bulls and cows, may it be for thy eating (the words to be supplied)."
+    }
+   }
+  },
+  {
+   "d": 59,
+   "primary": {
+    "id": "veda-02-d059-p",
+    "key": "Mortals who yearn to worship ne’er dishonour, O Mighty God, thy Law who art Immortal.",
+    "ref": "Rig Veda 6.21.3",
+    "at": [
+     461,
+     3
+    ],
+    "s": "Praising Indra, whose greatness passes earth and heaven, the hymn turns to his worshippers; Sāyaṇa, on 6.21.3, takes the Law as Indra’s abode in heaven and the gods there, and hears that those who would worship them never harm any living thing.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.21.3, sa.wikisource (printed edition not named), revision 310167 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “स्वधावः बलवन्निन्द्र “मर्ताः मनुष्याः “अमृतस्य नित्यस्य “ते त्वदीयं “धाम स्वर्गाख्यं स्थानम् । तत्रस्थान् देवानित्यर्थः । “इयक्षन्तः यष्टुमिच्छन्तः “कदा कदाचित् । सर्वदेत्यर्थः ।। “न “मिनन्ति किमपि प्राणिजातं न हिंसन्ति ।।",
+     "gloss": "O Indra, possessor of strength: mortals, men, [seeking] thy dhāma, the abode of thee the eternal, the place called heaven, that is, the gods who dwell there; iyakṣantaḥ, wishing to worship; kadā, at any time, that is, always; na minanti, they harm no living creature whatever."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d059-s",
+    "key": "He hath made pathways, with the Sun to aid him, throughout the darkness that extended pathless.",
+    "ref": "Rig Veda 6.21.3",
+    "at": [
+     461,
+     3
+    ],
+    "s": "Praising Indra, whose greatness passes earth and heaven, the hymn recalls his work against the dark; Yāska, Nirukta 5.15, takes the pathless darkness as darkness that cannot be known, which Indra made knowable by the sun.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 5.15, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "He here spread the unintelligible darkness ; he made it intelligible with the sun. … He spread unknowable darkness ; he made it knowable with the sun",
+     "gloss": "[The verse, 6.21.3:] He here spread the unintelligible darkness; he made it intelligible with the sun. [The gloss:] He spread darkness that could not be known; he made it knowable with the sun."
+    }
+   }
+  },
+  {
+   "d": 60,
+   "primary": {
+    "id": "veda-02-d060-p",
+    "key": "As rivers reach the sea, so, strong with praises, our holy songs reach him the Comprehensive.",
+    "ref": "Rig Veda 6.36.3",
+    "at": [
+     476,
+     3
+    ],
+    "s": "Praising Indra, whom help, might and vigour attend like teams of horses, the singer turns to the songs; Sāyaṇa, on 6.36.3, reads the rivers as no longer seen apart once they enter the sea, and so every praise as becoming one with Indra.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.36.3, sa.wikisource (printed edition not named), revision 188373 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“गिरः स्तुतयश्च “उरुव्यचसं विस्तीर्णव्याप्तिकं तमिन्द्रम् “आ “विशन्ति प्रविशन्ति । तत्र दृष्टान्तः । “समुद्रं “न “सिन्धवः । यथा स्यन्दनशीला नद्यः समुद्रमाविशन्त्याविश्य च विभक्ततया न दृश्यन्ते एवं सर्वा अपि स्तुतय इन्द्रेणैकीभवन्तीत्यर्थः ॥",
+     "gloss": "The songs, the praises, enter that Indra of wide reach. The comparison: as rivers the sea. As flowing rivers enter the ocean and, having entered, are no longer seen as separate, so all the praises too become one with Indra: that is the meaning."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d060-s",
+    "key": "In its wild joy Indra hath proved him faithful, faithful in quaffing, faithful in its friendship. His truth is the delight that in this chamber the men of old and recent times have tasted.",
+    "ref": "Rig Veda 6.27.2",
+    "at": [
+     467,
+     2
+    ],
+    "s": "Answering the verse before, which asks what Indra has ever done in his Soma joy, the hymn replies; Sāyaṇa, on 6.27.1 and 2, hears a seer who, impatient for reward, had reproached Indra, and now, his wish granted, takes back the reproach.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.27.1 and 6.27.2, sa.wikisource (printed edition not named), revision 187857 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "भरद्वाज ऋषिः फलविलम्बनासहिष्णुः सन् अनयेन्द्रमाक्षिपति । … एवमाक्षिप्त इन्द्रस्तस्मा ऋषय ईप्सितं धनं प्रददौ । तदनन्तरमृषिरिन्द्रसकाशात् संपूर्णकामः सन् पुरा यान्युपालम्भप्रतिपादकानि वाक्यान्युवाच इदानीं तानि निराकरोति ।",
+     "gloss": "The seer Bharadvāja, unable to bear the delay of the fruit, reproaches Indra with this verse (6.27.1). … Thus reproached, Indra gave that seer the wealth he wanted. Then the seer, his desires fulfilled by Indra, now retracts the words of reproach that he had spoken before (6.27.2)."
+    }
+   }
+  },
+  {
+   "d": 61,
+   "primary": {
+    "id": "veda-02-d061-p",
+    "key": "Hard is thy love to win: thou art a Steer to him who longs for steers: Be to one craving steeds a Steed.",
+    "ref": "Rig Veda 6.45.26",
+    "at": [
+     485,
+     26
+    ],
+    "s": "Near the end of a long hymn to Indra, among songs likened to cows lowing for their calves, the singer turns to his friendship; Sāyaṇa, on 6.45.26, takes that friendship as one that cannot be destroyed, and the ‘Steer’ as the giver of cattle.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.45.26, sa.wikisource (printed edition not named), revision 273533 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे इन्द्र “तव त्वदीयं “सख्यं सखित्वं “दूणाशं दुर्णाशं नाशयितुमशक्यम् । अतिदृढमित्यर्थः । अतो हे वीर वीरयितरिन्द्र गव्यते गामात्मन इच्छते त्वं “गौरसि गवां प्रदाता भवसि । उपचारात् कारणे कार्यशब्दः । तथा “अश्वायते अश्वानात्मन इच्छते “अश्वः “भव अश्वप्रदो भवसि ।।",
+     "gloss": "O Indra, thy friendship is dūṇāśa, hard to destroy, impossible to destroy: very firm, is the meaning. Therefore, hero, to one who wants cows for himself thou art a cow (gauḥ), that is, the giver of cows: by figure the word for the effect stands for the cause. So to one who wants horses thou art a horse, the giver of horses."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d061-s",
+    "key": "Him have they stablished as the days’ bright ensign.",
+    "ref": "Rig Veda 6.39.3",
+    "at": [
+     479,
+     3
+    ],
+    "s": "In a hymn to Indra, the drop called Indu is praised for lighting the nights through the years; Sāyaṇa, on 6.39.3, takes it here as the moon, set by the gods as the marker of days, since the lunar days follow its course.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.39.3, sa.wikisource (printed edition not named), revision 209205 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“नू “चित् पुरा देवाः “इमं सोमं चन्द्रात्मना नभसि वर्तमानम् “अह्नां दिवसानां “केतुं प्रज्ञापकं यस्मात् “अदधुः व्यदधुः अकुर्वन् तस्मादनेन पक्षमासादयः सर्वे प्रकाश्यन्ते । चन्द्रगत्यधीनत्वात्तिथिविभागानाम् ।",
+     "gloss": "Because of old the gods made this Soma, present in the sky as the moon, the ketu, the marker of the days, therefore by it the fortnights, the months and the rest are all made known, since the divisions of the lunar days depend on the moon’s course."
+    }
+   }
+  },
+  {
+   "d": 62,
+   "primary": {
+    "id": "veda-02-d062-p",
+    "key": "Indra moves multiform by his illusions; for his Bay Steeds are yoked, ten times a hundred.",
+    "ref": "Rig Veda 6.47.18",
+    "at": [
+     487,
+     18
+    ],
+    "s": "After verses on Indra raising the last and dropping old friends, the hymn turns to his many forms; Sāyaṇa, on 6.47.18, takes the ‘illusions’ as Indra’s knowledge and resolves, by which he assumes many bodies to reach many worshippers at once.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.47.18, sa.wikisource (printed edition not named), revision 338253 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "अपि चायम् “इन्द्रो “मायाभिः । ज्ञाननामैतत् । ज्ञानैः आत्मीयैः संकल्पैः “पुरुरूपः बहुविधशरीरः सन् “ईयते बहून् यजमानान् गच्छति । … “हि यस्मादेवं तस्माद्बहुशरीराणि स्वीकृत्य युगपत् हविष्मतो यजमानान् गच्छतीत्यर्थः ॥",
+     "gloss": "And this Indra, by māyās (this is a name for knowledge): by knowledges, by his own resolves, becoming many-formed, having bodies of many kinds, goes to many sacrificers. … Since this is so, taking on many bodies he goes at the same time to the sacrificers who bring offerings: that is the meaning."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d062-s",
+    "key": "Tear not up by the roots the Kakambira tree: destroy thou all malignity.",
+    "ref": "Rig Veda 6.48.17",
+    "at": [
+     488,
+     17
+    ],
+    "s": "After asking Pusan to hasten to him against a foeman’s hate, the singer speaks of a tree; Sāyaṇa, on 6.48.17, hears the seer picture himself, with sons, grandsons and dependants, as a tree sheltering many birds, and pray that it not be uprooted.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.48.17, sa.wikisource (printed edition not named), revision 403566 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "ऋषिः पुत्रपौत्रसहितमात्मानं बहुपक्ष्याश्रयवनस्पतित्वेन रूपयन् तस्यानुद्धारमाशास्ते । हे पूषन् “काकम्बीरं काकानां भर्तारं “वनस्पतिं वृक्षं “मा “उद्वृहः उद्धर । मा बाधस्व । पुत्रपौत्रादिभिः सखीभूतैरुपेतमन्यैश्च बहुभिराश्रितं मां मा हिंसीरित्यर्थः ।",
+     "gloss": "The seer, figuring himself together with his sons and grandsons as a forest tree that is the refuge of many birds, prays that it not be uprooted. O Pūṣan, do not uproot the kākambīra, the supporter of crows, the tree; do not harm it: that is, do not harm me, who am joined by sons, grandsons and others as friends, and on whom many others rely."
+    }
+   }
+  }
+ ]
+}

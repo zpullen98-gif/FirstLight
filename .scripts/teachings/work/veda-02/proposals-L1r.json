@@ -1,0 +1,130 @@
+{
+ "lane": "L1r",
+ "plan": "veda",
+ "batch": "veda-02",
+ "days": [
+  {
+   "d": 36,
+   "primary": {
+    "id": "veda-02-d036-p",
+    "key": "Linger a little at my friendly bidding rest, Holy Ones, a moment in your journey. With hymn sublime soliciting your favour Kusika’s son hath called unto the River.",
+    "ref": "Rig Veda 3.33.5",
+    "at": [
+     266,
+     5
+    ],
+    "s": "Answering the rivers, who ask what the singer wants of streams that cannot halt, the seer presses his request; Sāyaṇa, commentary on 3.33.5, takes the request as made for the Soma he will procure once across, and ‘the River’ as the Sutudri before him.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.33.5, sa.wikisource (printed edition not named), revision 360653 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "मे विश्वामित्रस्य मम सोम्याय। उत्तीर्याहं सोमं संपादयामीत्येवं सोमसंपादिने। वचसे … सामान्येन नदीषुच्यमानासु समीहितं प्रयोजनमकुर्वतीषु पुरोवर्तिनीं शुतुद्रीं प्रति ब्रूते … सिंधु शुतुद्रीं त्वामच्छाभिमुख्येन प्राह्वे। प्रकर्षणाह्वयामि",
+     "gloss": "To my speech, somyāya, that is, speech that procures Soma, as when I say: having crossed over, I shall procure the Soma … When the rivers, addressed all together, do not do what he wishes, he speaks to the Śutudrī that lies before him … To the river, the Śutudrī, to thee, facing thee, I call out; I call earnestly."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d036-s",
+    "key": "As floods according to their stream flow onward, so to the sea, as borne on cars, the waters. Vaster is Indra even than his dwelling, what time the stalk milked out, the Soma, fills him.",
+    "ref": "Rig Veda 3.36.6",
+    "at": [
+     269,
+     6
+    ],
+    "s": "Bidding Indra drink and wax great, the hymn sets rivers beside the pressed stalk; Sāyaṇa, commentary on 3.36.6, reads it as a likeness: as small rivers gladden the great ocean, so the slight Soma stalk gladdens Indra, vaster than the mid-air.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.36.6, sa.wikisource (printed edition not named), revision 209113 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अतश्चित्सदसोऽस्मादप्यंतरिक्षादसाविंद्रो वरीयान् । उरुतरः खलु … यथाल्पा नद्योऽल्पीयांसि च जलानि महांतं समुद्रं प्रीणयंति तद्वदल्पतरोंऽशुभूतः सोमो वरीयांसमिंद्रं प्रणयति … पृणति । पृण प्रीणने",
+     "gloss": "Than even this seat, the mid-air, that Indra is vaster, wider indeed … As small rivers and lesser waters gladden the great ocean, so Soma, smaller still, a mere stalk, gladdens the vaster Indra … pṛṇati: the root pṛṇ, in the sense of pleasing."
+    }
+   }
+  },
+  {
+   "d": 37,
+   "primary": {
+    "id": "veda-02-d037-p",
+    "key": "That day when thou wast born thou, fain to taste it, drankest the plant’s milk which the mountains nourish. That milk thy Mother first, the Dame who bare thee, poured for thee in thy mighty Father’s dwelling.",
+    "ref": "Rig Veda 3.48.2",
+    "at": [
+     281,
+     2
+    ],
+    "s": "Early in a hymn on the newborn Indra’s thirst for Soma, the verse turns to his mother; Sāyaṇa, commentary on 3.48.2, takes her as Aditi and the dwelling as Kaśyapa’s birth-chamber, where she poured the Soma into his mouth before giving the breast.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.48.2, sa.wikisource (printed edition not named), revision 338677 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "उत्पत्तिक्षणे एव सोमपाने कारणं दर्शयति । ते तव जनित्री माता योषा युवतिरदितिः महः महतः पितुः जनकस्य कश्यपस्य दमे सूतिकागृहे अग्रे स्तन्यदानात् प्राक् तं तादृशं सोमं परि आसिञ्चत् तवास्ये परितोऽक्षारयत्",
+     "gloss": "He shows the reason for his drinking Soma at the very moment of birth: thy mother who bore thee, the young woman Aditi, in the dwelling, that is the lying-in chamber, of thy great father, thy begetter Kaśyapa, first, that is before giving the breast, poured that Soma all round; she let it flow all round into thy mouth."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d037-s",
+    "key": "Pondering what is dearest and most noble, I long to see the sages full of wisdom.",
+    "ref": "Rig Veda 3.38.1",
+    "at": [
+     271,
+     1
+    ],
+    "s": "Opening a hymn whose singer fashions a thought like a craftsman, the verse names those he longs to behold; Sāyaṇa, commentary on 3.38.1, takes them, with the Aitareya Brāhmaṇa, as seers of old who performed sacrifice and went on to the state of gods.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.38.1, sa.wikisource (printed edition not named), revision 333143 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "कवीन् । ये पूर्वम् अनुष्ठितयज्ञाः देवभूयमगमन् ते कवयः । तान् संदृशे संद्रष्टुम् इच्छामि … कवीँरिच्छामि संदृशे सुमेधा इति ये वै ते न ऋषयः पूर्वे प्रेतास्ते वै कवयस्तानेव तदभ्यतिवदति",
+     "gloss": "The kavis: those who formerly performed sacrifices and went to the state of gods, they are the kavis; I wish to behold them … (the Brāhmaṇa:) ‘I seek the kavis, to behold them, wise’: those who are our seers, departed before, they indeed are the kavis; it is of them that he thus speaks."
+    }
+   }
+  },
+  {
+   "d": 38,
+   "primary": {
+    "id": "veda-02-d038-p",
+    "key": "What pathway leadeth to the Gods? Who knoweth this of a truth, and who will now declare it? Seen are their lowest dwelling-places only, but they are in remote and secret regions.",
+    "ref": "Rig Veda 3.54.5",
+    "at": [
+     287,
+     5
+    ],
+    "s": "In praise of Heaven and Earth, the singer breaks off with questions; Sāyaṇa, commentary on 3.54.5, takes the visible seats as those of gods in the form of stars, and the way to seats won by hidden rites as known to none without the Veda.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.54.5, sa.wikisource (printed edition not named), revision 292777 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "इममर्थं न कश्चिज्जानाति । न कोऽपि ब्रवीति । किं ते देवा विद्यन्ते । बाढमित्याह । एषां दिवि स्थितानां नक्षत्ररूपाणां देवानाम् अवमा अधोमुखानि सदांसि स्थानानि ददृशे दृश्यन्ते । तथापि परेषु उत्तमेषु गुह्येषु दुर्ज्ञानेषु व्रतेषु कर्मसु अनुष्ठितेषु या यानि दिवि देवस्थानानि लभ्यन्ते तत्रागन्तुं को मार्ग इति वेदमन्तरेण न कश्चिज्जानातीत्यभिप्रायः",
+     "gloss": "This matter no one knows; no one tells it. Do those gods exist? Assuredly, he says. The lower, downward-facing seats, that is places, of these gods who stand in heaven in the form of stars are seen. Yet the seats of the gods in heaven that are won when the highest, secret, that is hard-to-know, vows, that is rites, are performed: what path there is to go there, no one knows without the Veda; that is the intent."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d038-s",
+    "key": "Sasarpari, the gift of Jamadagnis, hath lowed with mighty voice dispelling famine. The Daughter of the Sun hath spread our glory among the Gods, imperishable, deathless.",
+    "ref": "Rig Veda 3.53.15",
+    "at": [
+     286,
+     15
+    ],
+    "s": "Before blessing the wagon for the journey home, the singer praises what the Jamadagnis gave him; Sāyaṇa, commentary on 3.53.15, takes Sasarpari as Speech, the Sun’s daughter, who drives off ignorance and spreads undying food among the gods through the call of svāhā.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.53.15, sa.wikisource (printed edition not named), revision 301475 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "जमदग्निदत्ता जमदग्निभिः प्रज्वलिताग्निभिर्ऋषिभिरस्मभ्यं दत्ता अमतिम् अज्ञानं बाधमाना ससर्परीः सर्वत्र शब्दरूपतया सर्पणशीला वाक् बृहत् प्रभूतं यथा भवति तथा मिमाय नभसि शब्दं करोति । सैषा सूर्यस्य दुहिता वाग्देवता देवेषु इन्द्रादिषु अजुर्यं क्षयरहितम् अमृतम् अमृतलक्षणं श्रवः अन्नम् आ ततान समन्तात् स्वाहाकारवाचा तनोति",
+     "gloss": "Given by the Jamadagnis, that is, given to us by seers whose fires blaze; driving away amati, that is ignorance; Sasarparī, Speech, whose nature is to glide everywhere in the form of sound, lowed greatly, that is, makes a sound in the sky. She, the daughter of the Sun, the goddess of Speech, spread all around among the gods, Indra and the rest, imperishable, that is undecaying, immortal, that is bearing the mark of amṛta, śravas, that is food: she spreads it by the speech of the svāhā call."
+    }
+   }
+  }
+ ]
+}

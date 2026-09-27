@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d037-p",
+ "d": 37,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "That day when thou wast born thou, fain to taste it, drankest the plant’s milk which the mountains nourish. That milk thy Mother first, the Dame who bare thee, poured for thee in thy mighty Father’s dwelling.",
+ "ref": "Rig Veda 3.48.2",
+ "at": [
+  281,
+  2
+ ],
+ "s": "Early in a hymn on the newborn Indra’s thirst for Soma, the verse turns to his mother; Sāyaṇa, commentary on 3.48.2, takes her as Aditi and the dwelling as Kaśyapa’s birth-chamber, where she poured the Soma into his mouth before giving the breast.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.48.2, sa.wikisource (printed edition not named), revision 338677 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%AA%E0%A5%AE&oldid=338677",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.४८, revision 338677 (2022-06-02)",
+    "locator": "commentary on 3.48.2, with 3.48.1, 3.48.3 and the introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n103/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "3.48.2",
+    "via": "packet"
+   }
+  ],
+  "words": "उत्पत्तिक्षणे एव सोमपाने कारणं दर्शयति । \"ते तव \"जनित्री \"माता \"योषा युवतिरदितिः \"महः महतः \"पितुः जनकस्य कश्यपस्य \"दमे सूतिकागृहे \"अग्रे स्तन्यदानात् प्राक् \"तं तादृशं सोमं \"परि \"आसिञ्चत् तवास्ये परितोऽक्षारयत्",
+  "lang": "sa",
+  "gloss": "He shows the reason for the drinking of Soma at the very moment of birth: thy mother who bore thee, the young woman Aditi, in the dwelling, that is the lying-in chamber, of thy great father, thy begetter Kaśyapa, first, that is before giving the breast, poured that Soma all round; she let it flow all round into thy mouth.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.48.2, at [281,2]). Sāyaṇa on 3.48.2 names the mother as the young woman Aditi, the great father as Kaśyapa, the dwelling as the sūtikāgṛha (lying-in chamber), agre as before giving the breast, and says she let the Soma flow into his mouth; Wilson’s translation of the verse follows him (Aditi, Kasyapa, before she gave the breast), and Griffith’s note confirms that Sāyaṇa takes the father as Kaśyapa. The sentence carries exactly these points and adds nothing. Plain sense faithful: second of five verses in a hymn on Indra’s craving for Soma from birth (3.48.1, 3.48.3), no four words of the key verse repeated. Revision 338677 dated 2022-06-02 by the Wikisource API. Evidence copied from the packet with its stray quotation marks as printed. entry-check ok."
+}

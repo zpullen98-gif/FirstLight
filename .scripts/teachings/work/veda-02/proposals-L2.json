@@ -1,0 +1,253 @@
+{
+ "lane": "L2",
+ "plan": "veda",
+ "batch": "veda-02",
+ "days": [
+  {
+   "d": 39,
+   "primary": {
+    "id": "veda-02-d039-p",
+    "key": "May we attain that excellent glory of Savitar the God: So May he stimulate our prayers.",
+    "ref": "Rig Veda 3.62.10",
+    "at": [
+     295,
+     10
+    ],
+    "s": "The book’s closing hymn is built of six triplets to different gods, and this verse begins Savitar’s; Sāyaṇa, on 3.62.10, first reads the glory as the self-luminous light that is the supreme Brahman, named for burning away ignorance, and the prayers as acts or understandings.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.62.10, sa.wikisource (printed edition not named), revision 330443 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "यः सविता देवः नः अस्माकं धियः कर्माणि धर्मादिविषया वा बुद्धीः प्रचोदयात् प्रेरयेत् तत् तस्य देवस्य सवितुः सर्वान्तर्यामितया प्रेरकस्य जगत्स्रष्टुः परमेश्वरस्य वरेण्यं सर्वैः उपास्यतया ज्ञेयतया च संभजनीयं भर्गः अविद्यातत्कार्ययोर्भर्जनाद्भर्गः स्वयंज्योतिः परब्रह्मात्मकं तेजः धीमहि वयं ध्यायामः",
+     "gloss": "The god Savitar, who may impel our dhiyaḥ, that is, our acts, or our understandings concerned with dharma and the like: of that god Savitar, the Supreme Lord and creator of the world, who impels as the inner ruler of all, the vareṇyam, to be resorted to by all as the one to be worshipped and known, the bhargaḥ, called bharga because it burns away ignorance and its effects, the self-luminous radiance whose nature is the supreme Brahman: on that we meditate."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d039-s",
+    "key": "MITRA, when speaking, stirreth men to labour: Mitra sustaineth both the earth and heaven.",
+    "ref": "Rig Veda 3.59.1",
+    "at": [
+     292,
+     1
+    ],
+    "s": "A hymn to Mitra, which ends on his gift of food, opens with his works; Sāyaṇa, on 3.59.1, reads Mitra as the sun, who sets ploughmen and others to their toil and upholds both worlds, bringing forth food and sacrifice through rain.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.59.1, sa.wikisource (printed edition not named), revision 198078 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "ब्रुवाणः स्तूयमानः शब्दं कुर्वाणो वा मित्रः । प्रकर्षेण सर्वैर्मीयते ज्ञायते तथा सर्वान् वृष्टिप्रदानेन त्रायत इति वा मित्रः सूर्यः । जनान् कर्षकादिजनान् यातयति । कृष्यादिकर्मसु प्रयत्नं कारयति । तथा मित्रः एव पृथिवीमुत अपि च द्याम् एतावुभौ लोकौ वृष्टिद्वारा अन्नं यागांश्च जनयन् दाधार धारयति",
+     "gloss": "Bruvāṇaḥ, being praised or making a sound, is Mitra. He is well measured, that is, known, by all, or he protects all by giving rain: so Mitra is the sun. Janān, people such as ploughmen, he yātayati: he makes them exert themselves in works such as ploughing. So Mitra alone upholds the earth and heaven too, both these worlds, producing food and sacrifices by way of the rain."
+    }
+   }
+  },
+  {
+   "d": 40,
+   "primary": {
+    "id": "veda-02-d040-p",
+    "key": "May he who knows distinguish sense and folly of men, like straight and crooked backs of horses.",
+    "ref": "Rig Veda 4.2.11",
+    "at": [
+     297,
+     11
+    ],
+    "s": "After blessing each worshipper who brings Agni fuel, food or praise, the hymn turns to his judgement; Sāyaṇa, on 4.2.11, reads ‘sense and folly’ as merit and sin, or knowledge and ignorance, which Agni sorts as a groom sorts fit backs from unfit.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.2.11, sa.wikisource (printed edition not named), revision 403270 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "विद्वान् प्राणिनां पुण्यपापरूपाणि कर्माणि जानानः सोऽग्निः चित्तिं ज्ञातव्यं पुण्यम् अचित्तिम् अनुपादेयत्वेनाचेतनीयं पापम् । यद्वा । चित्तिं ज्ञानमचित्तिमज्ञानं वि चिनवत् विचिनोतु पृथक्करोतु । तत्र दृष्टान्तः । पृष्ठेव । यथाश्वपालोऽश्वानां वीता कान्तानि वृजिना दुर्वहाणि च पृष्ठा पृष्ठानि हेयोपादेयत्वेन पृथक्करोति तद्वत्",
+     "gloss": "The knower, Agni, who knows the deeds of living beings in the form of merit and sin: citti is merit, which is to be known; acitti is sin, not to be thought of since it is not to be taken up. Or else citti is knowledge and acitti ignorance. Let him sort them, set them apart. The example: as a groom sets apart the pleasing and the ill-bearing backs of horses, as to be kept or to be rejected, so."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d040-s",
+    "key": "Why this complaint to Varuna, O Agni? And why to Heaven? for what is our transgression?",
+    "ref": "Rig Veda 4.3.5",
+    "at": [
+     298,
+     5
+    ],
+    "s": "After asking when Agni’s friendship will be shown, the singer presses more questions; Sāyaṇa, on 4.3.5, reads the complaint as Agni reporting their sin to Varuna with blame, and takes the last question as saying they have none, for they serve him.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.3.5, sa.wikisource (printed edition not named), revision 273520 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे अग्ने त्वं तत् अस्मदीयं पापं वरुणाय कथा गर्हसे । केन हेतुना गर्हापूर्वमवेदयेः । ह इति पूरणः । दिवे द्युलोकाय द्योतमानाय सूर्याय वा कथा कथं तत्पापमावेदयेः । नः अस्माकम् आगः तत्पापं कत् किमस्ति । त्वत्परिचरणान्नास्तीत्यर्थः",
+     "gloss": "O Agni, why do you tell that sin of ours to Varuṇa with censure? For what reason would you report it with blame? (Ha fills out the line.) Why would you report that sin to heaven, the sky world, or to the shining sun? What is our āgaḥ, that sin? The meaning is: there is none, because we serve you."
+    }
+   }
+  },
+  {
+   "d": 41,
+   "primary": {
+    "id": "veda-02-d041-p",
+    "key": "How is it that, unbound and not supported, he falleth not although directed downward? By what self power moves he? Who hath seen it?",
+    "ref": "Rig Veda 4.13.5",
+    "at": [
+     308,
+     5
+    ],
+    "s": "In a dawn hymn that follows the sun’s coursers up the sky, the last verse turns to his motion; Sāyaṇa, on 4.13.5, reads ‘falleth not’ as the sun, though facing down, harmed by none, and the last question as saying no one truly knows.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.13.5, sa.wikisource (printed edition not named), revision 209073 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अयं प्रत्यक्षेणोपलभ्यमानो मण्डलाभिमानी सूर्यः अनिबद्धः केनापि बद्धो न क्रियते । अपि चायं सूर्यः न्यङ् अवाङ्मुखः सन् केनचित् कथा कथं न अव पद्यते न हिंस्यते … को ददर्श तत्त्वतः कः पश्यति । न कोऽपि जानातीत्यर्थः",
+     "gloss": "This sun, the deity of the orb, seen before the eyes, is unbound: he is bound by no one. And this sun, being face downward, how is it that he is not brought down by anyone, that is, not harmed? … Who has seen: who truly sees? The meaning is that no one knows."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d041-s",
+    "key": "Most Youthful God, whatever sin, through folly, we here, as human beings, have committed, In sight of Aditi make thou us sinless remit, entirely, Agni, our offences.",
+    "ref": "Rig Veda 4.12.4",
+    "at": [
+     307,
+     4
+    ],
+    "s": "Having blessed the one who kindles Agni at evening and at morning, the hymn turns to pleas for pardon; Sāyaṇa, on 4.12.4, reads the folly as ignorance, Aditi here as the earth, and the remission as loosening the sins that lie on every side.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.12.4, sa.wikisource (printed edition not named), revision 198433 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "यच्चिद्धि यद्यपि खलु ते त्वदीयेषु पुरुषत्रा परिचारकेषु पुरुषेषु अचित्तिभिः अज्ञानैः कच्चिदागः किंचिदपि पापं वयं चकृम तथापि हे अग्ने अस्मान् अदितेः भूमेः अनागान् अनागसः पापरहितान् सु अत्यन्तं कृधि कुरु। हे अग्ने विष्वक् सर्वतो विद्यमानानि एनांसि अस्माभिः कृतानि पापानि वि शिश्रथः विश्लथय शिथिलीकुरु",
+     "gloss": "Even if, through ignorances (acittibhiḥ), we have done any sin at all against your attendant men, still, O Agni, make us wholly sinless before Aditi, the earth. O Agni, loosen, slacken the sins we have committed, which are present on every side."
+    }
+   }
+  },
+  {
+   "d": 42,
+   "primary": {
+    "id": "veda-02-d042-p",
+    "key": "Not this way go I forth: hard is the passage. Forth from the side obliquely will I issue. Much that is yet undone must I accomplish; one must I combat and the other question.",
+    "ref": "Rig Veda 4.18.2",
+    "at": [
+     313,
+     2
+    ],
+    "s": "The verse answers the first voice, which urges the old path of birth; Sāyaṇa, on 4.18.2, hears the sage Vāmadeva, still unborn, answering Indra, and takes the one to be fought as a rival, the one questioned as a seeker of knowledge.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.18.2, sa.wikisource (printed edition not named), revision 321007 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "गर्भस्थो ज्ञानसंपन्नो वामदेवो महामुनिः … वामदेव एवमुक्तवन्तमिन्द्रं प्रत्याह । अहम् अतः योनिमार्गात् न निरया न निरयाणि । न निर्गच्छानि … योनिदेशादनिर्गतोऽहं पार्श्वं भित्त्वा निर्गच्छानीत्यर्थः … त्वेन एकेन सपत्नेन विवदमानेन सह युध्यै युद्धं करवाणि । त्वेन एकेन बुभुत्सुना सं पृच्छै सम्यक् पृच्छानि",
+     "gloss": "(From the introduction to the hymn:) Vāmadeva, the great sage, lying in the womb and possessed of knowledge … (On the verse:) Vāmadeva answers Indra, who had spoken so: I will not go out by this, the way of the womb … The meaning is: not having come out from the place of the womb, I will go out by breaking through the side … Let me fight with one, a rival who disputes with me; let me question well with one who wishes to know."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d042-s",
+    "key": "Now, as the Bhrgus wrought a car, for Indra the Strong, the Mighty, we our prayer have fashioned, That he may, ne’er withdraw from us his friendship, but be our bodies’ guard and strong defender.",
+    "ref": "Rig Veda 4.16.20",
+    "at": [
+     311,
+     20
+    ],
+    "s": "Near the end of a hymn telling Indra’s deeds for Kutsa, the singers offer their work; Sāyaṇa, on 4.16.20, takes the Bhrgus here as bright carpenters, and hears the worshippers shaping praise so that Indra may grant the fruit they seek.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.16.20, sa.wikisource (printed edition not named), revision 220812 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "यथा इन्द्रः नः अस्मदीयानि सख्या सख्यानि कर्माणि नू चित् क्षिप्रमेव वियोषत् न पृथक्कुर्यात् … तथा वयं यजमानाः एवेत् एवमेवोक्तप्रकारेण इन्द्राय वृषभाय कामानां वर्षित्रे वृष्णे नित्यतरुणाय ब्रह्म स्तोत्रम् अकर्म अकुर्म । तत्र दृष्टान्तः । भृगवः दीप्तास्तक्षाणः रथं न रथमिव तद्वत् । यजमानेभ्यो यथेन्द्रोऽभीप्सितफलप्रदो भवति तथेन्द्रं यजमानाः स्तुवन्तीत्यर्थः",
+     "gloss": "So that Indra may not soon sever from us his friendly acts … so we sacrificers, in just the way described, have made brahma, a hymn of praise, for Indra, the bull who showers desires, the ever young. The example: as the Bhṛgus, bright carpenters, make a chariot, so. The meaning is: the sacrificers praise Indra so that Indra becomes, for them, the giver of the fruit they desire."
+    }
+   }
+  },
+  {
+   "d": 43,
+   "primary": {
+    "id": "veda-02-d043-p",
+    "key": "I WAS aforetime Manu, I was Surya: I am the sage Kaksivan, holy singer. Kutsa the son of Arjuni I master. I am the sapient Usana behold me.",
+    "ref": "Rig Veda 4.26.1",
+    "at": [
+     321,
+     1
+    ],
+    "s": "Before the hymn turns to the Falcon who brought the Soma, three verses speak in the first person; Sāyaṇa, on 4.26.1, hears first Vāmadeva, knowing the truth in the womb, speak as the self of all, and bid hearers know their own nature so.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.26.1, sa.wikisource (printed edition not named), revision 209120 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "इदमादिमन्त्रत्रयेण गर्भे वसन् वामदेवः उत्पन्नतत्त्वज्ञानः सन् सार्वात्म्यं स्वानुभवं मन्वादिरूपेण प्रदर्शयन्नाह । अहं वामदेव इन्द्रो वा मनुरभवं सर्वस्य मन्ता प्रजापतिरस्मि … परमार्थदृष्ट्या कृत्स्नमप्यहमेवास्मीत्यर्थः । हे जनाः मा मां सर्वात्मकं पश्यत । यूयमप्येवमेव स्वस्वरूपमनुभवतेत्युक्तं भवति",
+     "gloss": "With this and the next two verses Vāmadeva, dwelling in the womb, knowledge of the real having arisen in him, speaks, showing in the forms of Manu and the rest his own experience of being the self of all. I, Vāmadeva, or Indra, was Manu: I am Prajāpati, the thinker of all … The meaning is: seen with the eye of the highest truth, I am all of it. O people, see me as the self of all. What is said is: you too, in just this way, experience your own nature."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d043-s",
+    "key": "Eternal Law hath varied food that strengthens; thought of eternal Law, removes transgressions.",
+    "ref": "Rig Veda 4.23.8",
+    "at": [
+     318,
+     8
+    ],
+    "s": "After questions on how Indra hears his callers, the hymn turns to eternal Law; Sāyaṇa, on 4.23.8, takes the Law as Indra, the sun, truth or sacrifice, reads its food as waters, and the thought of it as understanding or praise that destroys sins.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.23.8, sa.wikisource (printed edition not named), revision 184857 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अत्र ऋतशब्देनेन्द्रो वादित्यो वा सत्यं वा यज्ञो वोच्यते । ऋतस्य ऋतदेवस्य संबन्धिन्यः पूर्वीः बह्व्यः शुरुधः आपः सन्ति हि भवन्ति खलु । ऋतस्य ऋतदेवस्य संबन्धिनी धीतिः प्रज्ञा तद्विषया स्तुतिर्वा वृजिनानि वर्जनीयानि पापानि हन्ति हिनस्ति",
+     "gloss": "Here the word ṛta means Indra, or the sun (Āditya), or truth, or sacrifice. Many śurudhaḥ, waters, belong to Ṛta, the god Ṛta. The dhītiḥ belonging to the god Ṛta, understanding, or praise concerned with him, destroys vṛjināni, the sins that must be shunned."
+    }
+   }
+  },
+  {
+   "d": 44,
+   "primary": {
+    "id": "veda-02-d044-p",
+    "key": "This day have they set gladdening drink before you. Not without toil are Gods inclined to friendship.",
+    "ref": "Rig Veda 4.33.11",
+    "at": [
+     328,
+     11
+    ],
+    "s": "The hymn on the Rbhus, whose labours made them immortal, ends at the third libation; Sāyaṇa, on 4.33.11, reads the toil as austerity, without which the gods befriend none, and takes the drink as given to the Rbhus because they had so toiled.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.33.11, sa.wikisource (printed edition not named), revision 401703 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "इदा इदानीं चमसादिनिर्माणानन्तरम् अह्नः सुत्याहसंबन्धिनस्तृतीये सवने पीतिं सोमपानम् उत अपि च मदं तज्जनितं वः युष्माकं धुः ददुर्देवाः । श्रान्तस्य श्रान्तात्तपोयुक्तात् ऋते सख्याय सखित्वाय न भवन्ति देवाः । यत एते श्रान्ता अतो ददुरित्यर्थः",
+     "gloss": "Now, after the making of the cups and the rest, at the third pressing of the day of Soma pressing, the gods gave you the drinking of Soma and the joy it brings. Apart from one who is wearied, one joined with austerity, the gods are not for friendship. The meaning is: because these had toiled, therefore they gave."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d044-s",
+    "key": "I, As I lay within the womb, considered all generations of these Gods in order.",
+    "ref": "Rig Veda 4.27.1",
+    "at": [
+     322,
+     1
+    ],
+    "s": "The speaker then breaks from a hundred iron forts as a falcon; Sāyaṇa, on 4.27.1, hears Vāmadeva in the womb knowing all gods came from the supreme self, and takes the forts as bodies that kept him from knowing the self apart from the body.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.27.1, sa.wikisource (printed edition not named), revision 341287 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "गर्भे नु गर्भे एव सन् विद्यमानः अहं वामदेवः एषाम् इन्द्रादीनां देवानां विश्वा विश्वानि सर्वाणि जनिमानि जन्मानि अनु अवेदम् आनुपूर्व्येणाज्ञासिषम् । परमात्मनः सकाशात् सर्वे देवा जाता इत्यवेदिषमित्यर्थः । इतः पूर्वं शतं बहूनि आयसीः अयोमयानि अभेद्यानि पुरः शरीराणि मा माम् अरक्षन् अपालयन् । यथाहं शरीरात् व्यतिरिक्तमात्मानं न जानीयां तथा मामरक्षन्नित्यर्थः",
+     "gloss": "Being in the womb itself, I, Vāmadeva, knew in their order all the births of these gods, Indra and the rest. The meaning is: I knew that all the gods were born from the supreme self. Before this, a hundred, that is many, iron, that is unbreakable, forts, that is bodies, guarded me. The meaning is: they guarded me so that I should not know the self as distinct from the body."
+    }
+   }
+  }
+ ]
+}

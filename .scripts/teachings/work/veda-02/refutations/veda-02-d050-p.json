@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d050-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%A9%E0%A5%A6&oldid=398838",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 50 --verse 5.30.2 and 5.30.1. Sāyaṇa closes 5.30.2: yadyapīndro vidyate tathāpi durlabhaś ced anupagantavyaḥ iti bubhutsamānaḥ svabhāvam apṛcchat pṛṣṭaiś ca sulabhaḥ ity ukta indraprāptyarthaṃ sūktaśeṣam apaśyat: wishing to know whether Indra, though he exists, is hard to reach and so not to be approached, he asked; told by those asked that Indra is easy to reach, he saw the rest of the hymn for reaching Indra. The sentence’s ‘within reach’ renders sulabha/durlabha and ‘sees the rest of the hymn’ is his sūktaśeṣam apaśyat; no drift. Plain sense matches day.js: 5.30.1 asks where the Hero is and who has looked on Indra, 5.30.2 tells the search; no four-word run from the key. verse.js ok, ref 5.30.2, at [383,2]; entry-check ok, 42 words. All attacks fail.",
+ "better": ""
+}

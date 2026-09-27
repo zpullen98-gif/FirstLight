@@ -1,0 +1,43 @@
+{
+ "id": "veda-02-d052-p",
+ "d": 52,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I seek for no release, no turning back therefrom. May he who knows the way, the Leader, guide me straight.",
+ "ref": "Rig Veda 5.46.1",
+ "at": [
+  399,
+  1
+ ],
+ "s": "Opening a hymn to all the gods, the singer pictures himself yoked like a willing horse to a load; Sāyaṇa, on 5.46.1, takes the load as the sacrifice and the guide as the god who rules within, going before along its paths.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.46.1, sa.wikisource (printed edition not named), revision 199507 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AA%E0%A5%AC&oldid=199507",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 199507 (printed edition not named)",
+    "locator": "on Rig Veda 5.46.1 (sūkta 5.46)",
+    "via": "packet"
+   }
+  ],
+  "words": "“धुरि यज्ञात्मिकायाम् “अयुजि युक्तोऽभवत् … “विद्वान् मार्गाभिज्ञोऽन्तर्यामी देवः “पुरएता पुरतो गन्ता सन् \"पथः यज्ञमार्गान् “ऋजु अकुटिलं “नेषति प्रापयति",
+  "lang": "Sanskrit",
+  "gloss": "To the pole that consists of sacrifice he was yoked … The knowing one, knower of the way, the god who rules within (antaryāmin), going before, leads along the paths, the paths of sacrifice, straight, without crookedness.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 5.46.1, at [399,1]), two whole sentences from the end of 5.46.1. Plain sense faithful: the hymn is to the Viśvedevas (5.46.2 to 5.46.8 invoke the gods and their wives), and 5.46.1 has the singer yoked horselike to the pole; the clause repeats no four-word run of the key. Sāyaṇa glosses dhuri as yajñātmikāyām (the pole is the sacrifice) and vidvān … puraetā as mārgābhijño ’ntaryāmī devaḥ purato gantā, leading along yajñamārgān (the paths of sacrifice). “Load” renders dhur (Wilson: burthen), so the sentence stays within his words. Entry-check ok."
+}

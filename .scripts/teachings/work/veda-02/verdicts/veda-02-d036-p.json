@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d036-p",
+ "d": 36,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Linger a little at my friendly bidding rest, Holy Ones, a moment in your journey. With hymn sublime soliciting your favour Kusika’s son hath called unto the River.",
+ "ref": "Rig Veda 3.33.5",
+ "at": [
+  266,
+  5
+ ],
+ "s": "Answering the rivers, who ask what the singer wants of streams that cannot halt, the seer presses his request; Sāyaṇa, commentary on 3.33.5, takes the request as made for the Soma he will procure once across, and ‘the River’ as the Sutudri before him.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.33.5, sa.wikisource (printed edition not named), revision 360653 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A9%E0%A5%A9&oldid=360653",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.३३, revision 360653 (2022-11-23)",
+    "locator": "commentary on 3.33.5, and the hymn introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n77/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "3.33.5 and its notes 1 and 2",
+    "via": "packet"
+   }
+  ],
+  "words": "तद्वत्यो हे नद्यो यूयं मे विश्वामित्रस्य मम सोम्याय। उत्तीर्याहं सोमं संपादयामीत्येवं सोमसंपादिने। वचसे तदर्थमेवैः। पंचम्यर्थे तृतीया। शीघ्रगमनेभ्यो मुहूर्तं मुहूर्तमात्रमुप रमध्वं । उपपूर्वो रमिरुपसंहारे वर्तते । क्षणमात्रं शीघ्रगमनादुपरता भवत । सामान्येन नदीषुच्यमानासु समीहितं प्रयोजनमकुर्वतीषु पुरोवर्तिनीं शुतुद्रीं प्रति ब्रूते । कुशिकस्य राजर्षेः सूनुर्विश्वामित्रोऽहं बृहती महत्या मनीषा मनीषया स्तुत्यावस्युरात्मनो रक्षणमिच्छन् सन् सिंधु शुतुद्रीं त्वामच्छाभिमुख्येन प्राह्वे।",
+  "lang": "sa",
+  "gloss": "O rivers possessed of water, you: to my speech, somyāya, the speech of me, Viśvāmitra, that procures Soma, as when I say: having crossed over, I shall procure the Soma. Stop for a moment only from your swift going. When the rivers, addressed all together, do not do what he wishes, he speaks to the Śutudrī that lies before him: I, Viśvāmitra, son of the royal sage Kuśika, with great praise, desiring protection for myself, call to the river, the Śutudrī, to thee, facing thee.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.33.5, at [266,5]). Sāyaṇa on 3.33.5 glosses somyāya as Soma-procuring speech, spelled out as having crossed over I shall procure the Soma, and says that when the rivers addressed together do not comply he speaks to the Śutudrī before him, glossing sindhu as the Śutudrī; Wilson notes 1 and 2 report the same, and that Yāska agrees (Nir. 2.25). Plain sense faithful: 3.33.4 is the rivers’ reply asking what the singer wants, their flood not to be stayed, and 3.33.5 is the seer’s renewed request; it repeats no four words of the key verse. Revision 360653 dated 2022-11-23 by the Wikisource API, so the src year stands. Evidence copied from the packet including the source’s own spellings. entry-check ok."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d045-p",
+ "d": 45,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The Hamsa homed in light, the Vasu in mid-air, the priest beside the altar, in the house the guest, Dweller in noblest place, mid men, in truth, in sky, born of flood, kine, truth, mountain, he is holy Law.",
+ "ref": "Rig Veda 4.40.5",
+ "at": [
+  335,
+  5
+ ],
+ "s": "The hymn to Dadhikravan ends by naming one being in his dwellings; Sāyaṇa, on 4.40.5, reads him as the Sun in heaven, wind in mid-air and fire at the altar, and the Sun as one with the Self in all creatures and with unconditioned Brahman.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.40.5, sa.wikisource (printed edition not named), revision 216198 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%AA%E0%A5%A6&oldid=216198",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ४.४०, revision 216198 (2019-10-28)",
+    "locator": "commentary on 4.40.5, and the hymn introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n225/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "4.40.5 and its note 2",
+    "via": "packet"
+   }
+  ],
+  "words": "अनया सौर्यर्चा य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुः' (छा. उ. १.६. ६) इत्यादिश्रुत्युक्तो मण्डलाभिमानी देवोऽस्ति यश्च सर्वप्राणिचित्तरूपस्थितः परमात्मा यच्च निरस्तसमस्तौपाधिकं परं ब्रह्म तत्सर्वमेकमेवेति प्रतिपाद्यते ॥ … अनेन द्युस्थानः आदित्यः प्रतिपादितः । स एव मध्यस्थानो वायुरित्याह । \"वसुः सर्वस्य वासयिता वायुः । स च \"अन्तरिक्षसत् अन्तरिक्षसंचारी । अथ तस्यैव क्षितिस्थानवैदिकाग्निरूपतामाह । “होता देवानामाह्वाता होमनिष्पादको वा \"वेदिषत् वेद्यां गार्हपत्यादिरूपेण स्थितः ।",
+  "lang": "sa",
+  "gloss": "By this verse to the Sun it is taught that the god presiding over the solar orb, the golden person seen within the sun of which scripture speaks (Chāndogya 1.6.6), the supreme Self abiding as the mind of every creature, and the supreme Brahman from which every limiting adjunct is removed, are all one. … By this the Sun whose seat is heaven is set forth. He says the same one is the wind whose seat is the mid-air: Vasu, the wind that makes all dwell; he is antarikṣasat, moving in the mid-air. Then he states that the same one takes the form of the Vedic fire whose seat is the earth: hotā, the caller of the gods or accomplisher of the offering; vediṣat, standing on the altar in the form of the Gārhapatya and the other fires.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: in Sāyaṇa the Sun, wind and fire are the one dweller named in each seat (haṃsa in heaven is the Āditya, vasu in the mid-air is the wind, hotā on the altar is the Vedic fire; sa eva, tasyaiva), not the seats. Corrected to read him (the one being) as the Sun in heaven, wind in mid-air and fire at the altar, keeping the second half (the Sun one with the Self abiding as the mind of all creatures and with the adjunct-free Brahman: sarvaprāṇicittarūpasthitaḥ paramātmā, nirastasamastaupādhikaṃ paraṃ brahma). Context clause trimmed to hold the cap. Evidence re-cut verbatim from packet.js veda 45 --verse 4.40.5 and now carries the altar fire (vediṣat vedyāṃ gārhapatyādirūpeṇa sthitaḥ). verse.js and entry-check run on the corrected entry."
+}

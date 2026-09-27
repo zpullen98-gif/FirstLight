@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d049-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%A8%E0%A5%AE&oldid=199496",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 49 (whole 5.28 chapter). Sāyaṇa on 5.28.1 takes the feminine subject who goes prācī (prāṅmukhī, facing east), praising the gods, with the oblation and ghṛtācī (ghṛtācyā srucā sahitā, with the ghee ladle) as viśvavārā ... etannāmikā, one of that name; his hymn introduction quotes the Anukramaṇī and states atrigotrotpannā viśvavārānāmikā asya sūktasya ṛṣiḥ, so woman, Atri’s line and seer are all his words (he follows the Anukramaṇī, and ‘whom he takes as’ is exact). Wilson note 2 concurs. Plain sense fits day.js: 5.28 is six verses of kindling and offering, and Griffith renders viśvavārā as the ladle, so the contrast plain/reading is honest. verse.js ok, ref 5.28.1, at [381,1]; entry-check ok. The key keeps the app’s spacing slip ‘Godswith’ as printed (rule 8 requires verbatim; flag for the owner if the app text is ever corrected). All attacks fail.",
+ "better": ""
+}

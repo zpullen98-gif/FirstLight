@@ -1,0 +1,130 @@
+{
+ "lane": "L1",
+ "plan": "veda",
+ "batch": "veda-02",
+ "days": [
+  {
+   "d": 33,
+   "primary": {
+    "id": "veda-02-d033-p",
+    "key": "Three times a hundred Gods and thrice a thousand, and three times ten and nine have worshipped Agni, For him spread sacred grass, with oil bedewed him, and stablished him as Priest and Sacrificer.",
+    "ref": "Rig Veda 3.9.9",
+    "at": [
+     242,
+     9
+    ],
+    "s": "Closing a hymn on Agni found hidden in the waters and fetched from afar by Matarisvan, the verse numbers the gods who served him; Sāyaṇa, commentary on 3.9.9, reads the count through the Bṛhadāraṇyaka, where the gods are thirty-three and the thousands only their powers.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.9.9, sa.wikisource (printed edition not named), revision 209084 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "देवसंख्या च बृहदारण्यकेऽभिहिता। महिमान एवैषामेते त्रयस्त्रिंशत्वेव देवा इति । कतमे ते त्रयस्त्रिंशदष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिंद्रश्चैव प्रजापतिश्च त्रयस्त्रिंशौ",
+     "gloss": "And the number of the gods is stated in the Bṛhadāraṇyaka: ‘These are only their powers; the gods are but thirty-three.’ Which are the thirty-three? Eight Vasus, eleven Rudras, twelve Ādityas, that is thirty-one, and Indra and Prajāpati make thirty-three."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d033-s",
+    "key": "Agni is Mitra when enkindled duly, Mitra as Priest, Varuna, Jatavedas; Mitra as active minister, and House-Friend, Mitra of flowing rivers and of mountains.",
+    "ref": "Rig Veda 3.5.4",
+    "at": [
+     238,
+     4
+    ],
+    "s": "In a dawn hymn to Agni, one verse names him by god after god and office after office; Sāyaṇa, commentary on 3.5.4, reads it as praise of Agni as the self of all, who when kindled becomes the sun and, as impeller, the wind.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.5.4, sa.wikisource (printed edition not named), revision 249312 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "इयमृक् अग्निं सर्वात्मकत्वेन स्तौति । यद्यदा समिद्धोऽग्निः तदा मित्रो भवति । सूर्यो भवति । मित्र एव सन् होता भवति । वरुणो भवति जातवेदा जातप्रज्ञः । स मित्रोऽध्वर्युर्भवति दमूना दानमना दांतमना वा । स एवेषिरः प्रेरको वायुर्भवति",
+     "gloss": "This verse praises Agni as being the self of all. When Agni is kindled, then he becomes Mitra, that is, he becomes the sun. Being Mitra, he becomes the Hotṛ; he becomes Varuṇa, Jātavedas meaning he in whom knowledge is born. That Mitra becomes the Adhvaryu, damūnā meaning of generous or of restrained mind. He himself becomes iṣira, the impeller, Vāyu (the wind)."
+    }
+   }
+  },
+  {
+   "d": 34,
+   "primary": {
+    "id": "veda-02-d034-p",
+    "key": "Agni am I who know, by birth, all creatures. Mine eye is butter, in my mouth is nectar. I am light threefold, measurer of the region exhaustless heat am I, named burnt-oblation.",
+    "ref": "Rig Veda 3.26.7",
+    "at": [
+     259,
+     7
+    ],
+    "s": "After the Kusikas call on Agni Vaisvanara and the storming Maruts, a voice speaks as Agni himself; Sāyaṇa, commentary on 3.26.7, reads it as Agni, who has seen the highest reality, declaring himself the self of all, eater and eaten, and so the supreme Brahman.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.26.7, sa.wikisource (printed edition not named), revision 402119 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "अग्निद्वृचेन स्वात्मनः सर्वात्मकत्वानुभवमाविष्करोति । हे कुशिकाः । भोक्तृभोग्यभावेन द्विविधं हीदं सर्वं जगत् … श्रवणमननादिसाधननिरपेक्षेण स्वभावत एव साक्षात्कृतपरतत्त्वस्वरूपोऽस्मि … एवं भोक्तृरूपमात्मनोऽनुसंधाय भोग्यरूपतामपि अनुसंधत्ते … तदनेनाग्नेः सर्वात्मकत्वप्रतिपादनेन परब्रह्मत्वमुक्तं भवति",
+     "gloss": "In two verses Agni makes known his experience of his own self as the self of all. O Kuśikas, this whole world is twofold, as enjoyer and enjoyed … Without depending on the means of hearing, reflection and the rest, by my very nature I am one who has directly seen the highest reality … Having thus contemplated himself in the form of the enjoyer, he contemplates himself also as the enjoyed … So by setting out that Agni is the self of all, his being the supreme Brahman is stated."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d034-s",
+    "key": "Three are thy powers, O Agni, three thy stations, three are thy tongues, yea, many, Child of Order! Three bodies hast thou which the Gods delight in: with these protect our hymns with care unceasing.",
+    "ref": "Rig Veda 3.20.2",
+    "at": [
+     253,
+     2
+    ],
+    "s": "Calling Agni to the morning rite with Dawn and the Asvins, the hymn counts his gifts in threes; Sāyaṇa, commentary on 3.20.2, reads them as the rite’s own: ghee, plants and Soma his food, the three fires his tongues, Pavamāna, Pāvaka and Śuci his bodies.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.20.2, sa.wikisource (printed edition not named), revision 270087 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "आज्यौषधिसोमात्मकानि त्रीण्यन्नानि “त्री “षधस्था त्रीणि आग्नीध्रीयादीनि धिष्ण्यानि स्थानानि … देवानामुदरपूरयित्र्यः “तिस्रः गार्हपत्याद्याः \"जिह्वा: … पवमानपावकशुच्यात्मकानि त्रीणि शरीराणि",
+     "gloss": "Three foods, made of ghee, plants and Soma; three stations, the fire-hearths beginning with the Āgnīdhrīya … the three tongues, the Gārhapatya and the rest, which fill the bellies of the gods … three bodies, made of Pavamāna, Pāvaka and Śuci."
+    }
+   }
+  },
+  {
+   "d": 35,
+   "primary": {
+    "id": "veda-02-d035-p",
+    "key": "As Germ Celestial he is called Tanunapat, and Narasamsa born diffused in varied shape. Formed in his Mother he is Matarisvan; he hath, in his course, become the rapid flight of wind.",
+    "ref": "Rig Veda 3.29.11",
+    "at": [
+     262,
+     11
+    ],
+    "s": "As the priests rub the fire-sticks and the flame is born, the hymn turns to the names Agni bears; Sāyaṇa, commentary on 3.29.11, reads them as stages: Tanunapat while an embryo in the sticks, Narasamsa once born, Matarisvan when he flashes in the mid-air.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.29.11, sa.wikisource (printed edition not named), revision 400415 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "यदाग्निररणीषु गर्भरूपतया वर्तते तदा तनूनपान्नामको भवति । यदा जायते तदा नराशंसनामको भवति । यदान्तरिक्षे विद्योतते तदा मातरिश्वनामको भवतीति",
+     "gloss": "When Agni exists as an embryo in the fire-sticks, then he is named Tanūnapāt; when he is born, then he is named Narāśaṃsa; when he flashes in the mid-air, then he is named Mātariśvan."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d035-s",
+    "key": "Thee will we kindle as a bull, we who are Bulls ourselves, O Bull.",
+    "ref": "Rig Veda 3.27.15",
+    "at": [
+     260,
+     15
+    ],
+    "s": "Closing a hymn in which priests with lifted ladles kindle Agni, the singers give him and themselves one name; Sāyaṇa, commentary on 3.27.15, reads Agni as pouring rain through the offering, which, by a tradition he cites, reaches the sun, whence rain and food.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.27.15, sa.wikisource (printed edition not named), revision 329592 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "वृषणम् आहुतिद्वारा उदकस्य सेक्तारम् । तथा च स्मृतिः- अग्नौ प्रास्ताहुतिः सम्यगादित्यमुपतिष्ठते । आदित्याज्जायते वृष्टिर्वृष्टेरन्नं ततः प्रजाः",
+     "gloss": "Thee, the pourer of water through the offering. So the smṛti says: the offering duly cast into the fire reaches the sun; from the sun rain is born, from rain food, and from that creatures."
+    }
+   }
+  }
+ ]
+}

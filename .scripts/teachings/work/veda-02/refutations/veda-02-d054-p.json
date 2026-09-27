@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d054-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AC%E0%A5%A7&oldid=403490",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 54 (whole hymn 5.61 and --verse 5.61.6). The introduction assigns the four verses from sanat sā (5.61.5 to 5.61.8) to Śaśīyasī, wife of King Taranta (tarantasya rājño bhāryā), and the story calls her tarantamahiṣī; on 5.61.6 he names her (mahiṣyā nāma), glosses adevatra as one by whom the gods are not served with praise and the like, and arādhas as without wealth fit for giving, lubdhaka (greedy): ‘miser who neither praises the gods nor gives’ is carried without drift. Evidence words found verbatim in the packet. Plain sense checked in day.js: 5.61.5 is a wish that a woman gain cattle, the hymn moves between the Maruts (1 to 4, 11 to 16) and patrons Purumilha, Taranta, Darbhya. verse.js ok [414,6]; entry-check ok, 43 words; revision 403490 dated 2024-07-05 by the sa.wikisource API. No school, comparison or tone issue. Cosmetic only: Sasiyasi is printed without the diacritics used for Sāyaṇa (no rule broken).",
+ "better": ""
+}

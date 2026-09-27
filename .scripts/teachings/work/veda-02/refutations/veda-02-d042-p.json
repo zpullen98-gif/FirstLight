@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d042-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A7%E0%A5%AE&oldid=321007",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 42 --verse 4.18.2 (and 4.18.1, 4.18 introduction). Sāyaṇa on 4.18.2 opens vāmadeva evam uktavantam indraṃ pratyāha (Vāmadeva answers Indra, who spoke so; 4.18.1 is marked indravākyam), glosses the side exit as yonideśād anirgato 'haṃ pārśvaṃ bhittvā (not yet out of the womb, breaking the side), so 'still unborn' is carried; the one to be fought is ekena sapatnena vivadamānena (a disputing rival), the one questioned ekena bubhutsunā (one wishing to know). The introduction calls him garbhastho jñānasaṃpanno, and mahāmuni, so 'the sage' is carried. Plain sense: day.js shows 4.18.1 commends the ancient pathway by which all Gods came into existence and warns against destroying the Mother; 4.18.2 answers it. verse.js ok (4.18.2, at [313,2]); entry-check ok on a fresh scratch copy (scratch/R2-d042-p.json), 42 words, src 109 chars. Only soft point: the voice note asks the context clause to name the god, and 'the first voice' names neither Indra nor the hymn; not an error of fact, so not refuted.",
+ "better": "Context clause could name the hymn: “In the hymn of Indra’s birth, the verse answers the opening one, which urges the old path of birth; …” (recheck the four-word gate and cap)."
+}

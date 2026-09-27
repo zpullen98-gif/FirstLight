@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d062-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AA%E0%A5%AD&oldid=338253",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 62 --verse 6.47.18 (rev 338253): Sāyaṇa: मायाभिः। ज्ञाननामैतत्। ज्ञानैः आत्मीयैः संकल्पैः पुरुरूपः बहुविधशरीरः सन् ईयते बहून् यजमानान् गच्छति, and then बहुशरीराणि स्वीकृत्य युगपत् हविष्मतो यजमानान् गच्छति; this carries knowledge and resolves, many bodies, many worshippers at once. The Vedāntic reading after अन्ये मन्यन्ते is others’ and is correctly not used. day.js confirms 6.47.15 (last precede, foremost follow) and 6.47.17 (loves no more the men he loved) behind the context clause. verse.js ok (487,18); entry-check ok; revision year 2022 confirmed by API (2022-05-29).",
+ "better": ""
+}

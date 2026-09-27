@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d058-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%A7%E0%A5%AE&oldid=186331",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 58 --verse 6.18.3 and --verse 6.18.4; both evidence pieces found verbatim. On 6.18.3 Sāyaṇa: the seer, praising Indra, when he did not see him, doubting whether his vīrya was there, speaks the second half; on 6.18.4: having doubted in the previous mantra, with this verse he settles that the strength is indeed there (balam asty eva). Wilson note 1 (‘Not beholding Indra, the scholiast says’) concurs. The paraphrase claims no more. Plain sense matches day.js: 6.18.3 ‘Thou, thou alone, hast tamed the Dasyus’ and asks ‘is it not, thine hero exploit’; no four words from the key. Key 6.18.4 is exactly the verse Sāyaṇa reads as the settling of the doubt. verse.js ok at [458,4]; entry-check ok, 41 words, src 120 chars. Watch term not used; tone neutral. All attacks fail.",
+ "better": ""
+}

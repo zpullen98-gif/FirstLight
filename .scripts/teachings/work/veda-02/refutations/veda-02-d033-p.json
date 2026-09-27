@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d033-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%AF&oldid=209084",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 33 --verse 3.9.9. Sāyaṇa computes the count as 3339 (ekonacatvāriṃśadadhikaśatatrayopetatrisahasrasaṃkhyākā devāḥ) and then says the number of the gods is stated in the Bṛhadāraṇyaka, quoting mahimāna evaiṣām ete trayastriṃśat tv eva devāḥ and listing the 33 (8 Vasus, 11 Rudras, 12 Ādityas, Indra, Prajāpati); Wilson note 2 confirms Sāyaṇa quotes the Bṛhad Āraṇyaka. The paraphrase (count read through the BAU, gods thirty-three, the rest only their powers) is carried; mahiman as powers is a standard rendering. Plain sense matches day.js: 3.9.4 found in floods, 3.9.5 hidden, brought from far by Matarisvan; 3.9.9 is the last verse of the hymn. verse.js ok at [242,9]; entry-check ok. No school needed, no comparison, tone neutral. All attacks fail.",
+ "better": ""
+}

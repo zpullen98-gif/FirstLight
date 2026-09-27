@@ -1,0 +1,12 @@
+{
+ "id": "veda-02-d050-p",
+ "revision": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-02/revise/veda-02-d050-p~2.json",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%A9%E0%A5%A6&oldid=398838",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 50 --verse 5.30.2 and --verse 5.30.1 plus the hymn introduction. Sāyaṇa on 5.30.2 closes: yadyapīndro vidyate tathāpi durlabhaś ced anupagantavyaḥ iti bubhutsamānaḥ svabhāvam apṛcchat pṛṣṭaiś ca sulabhaḥ ity ukta indraprāptyarthaṃ sūktaśeṣam apaśyat. Each clause of the reading is carried: 'though real' = vidyate (exists), 'hard to reach' = durlabhaḥ, 'told he was not' = sulabhaḥ ity uktaḥ, 'saw the rest of the hymn for reaching Indra' = indraprāptyarthaṃ sūktaśeṣam apaśyat; 'seer' is the subject of apaśyat, and the hymn introduction names Babhru as the ṛṣi. Attribution is Sāyaṇa's own Sanskrit, not Wilson's or Griffith's wording (Griffith's optative 'May we attain' differs from Sāyaṇa's aśema = prāptavantaḥ smaḥ, but the sentence does not rest on either). Locator 5.30.2 correct; no hedge needed since the Sanskrit was read directly. Plain sense: 5.30.1 asks who has looked on Indra and 5.30.2 recounts the search; no four-word run from the key and no more than the text says. verse.js ok (Rig Veda 5.30.2, at [383,2]); entry-check.js ok with no errors or warnings. No school needed, no comparison, no hard-passage tone issue. Minor note only: 'real' is a slight gloss of vidyate ('exists'), not a drift.",
+ "better": ""
+}

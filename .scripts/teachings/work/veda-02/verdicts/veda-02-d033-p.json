@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d033-p",
+ "d": 33,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Three times a hundred Gods and thrice a thousand, and three times ten and nine have worshipped Agni, For him spread sacred grass, with oil bedewed him, and stablished him as Priest and Sacrificer.",
+ "ref": "Rig Veda 3.9.9",
+ "at": [
+  242,
+  9
+ ],
+ "s": "Closing a hymn on Agni found hidden in the waters and fetched from afar by Matarisvan, the verse numbers the gods who served him; Sāyaṇa, commentary on 3.9.9, reads the count through the Bṛhadāraṇyaka, where the gods are thirty-three and the thousands only their powers.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.9.9, sa.wikisource (printed edition not named), revision 209084 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%AF&oldid=209084",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.९, revision 209084 (2019-08-09)",
+    "locator": "commentary on 3.9.9, and the hymn introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n32/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "3.9.9 and its note 2 (Sāyaṇa quotes the Bṛhad Āraṇyaka)",
+    "via": "packet"
+   }
+  ],
+  "words": "चैकोनचत्वारिंशदधिकशतत्रयोपेतत्रिसहस्रसंख्याका देवा इममग्निमसपर्यन् । अपूजयन् । … देवसंख्या च बृहदारण्यकेऽभिहिता। महिमान एवैषामेते त्रयस्त्रिंशत्वेव देवा इति । कतमे ते त्रयस्त्रिंशदष्टौ वसव एकादश रुद्रा द्वादशादित्यास्त एकत्रिंशदिंद्रश्चैव प्रजापतिश्च त्रयस्त्रिंशौ",
+  "lang": "sa",
+  "gloss": "Gods numbering three thousand three hundred and thirty-nine worshipped this Agni, that is, honoured him. … And the number of the gods is stated in the Bṛhadāraṇyaka: ‘These are only their greatnesses (powers); the gods are but thirty-three.’ Which are the thirty-three? Eight Vasus, eleven Rudras, twelve Ādityas, that is thirty-one, and Indra and Prajāpati make thirty-three.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.9.9, at [242,9]). Sāyaṇa on 3.9.9 first sums the count literally (3,339 gods worshipped Agni, sprinkled him, spread the barhis, seated him as Hotṛ) and then says the number of the gods is given in the Bṛhadāraṇyaka, quoting that these are only their mahiman (greatnesses, powers) and the gods are thirty-three, listed as eight Vasus, eleven Rudras, twelve Ādityas, Indra and Prajāpati; Wilson’s note 2 reports the same citation. The sentence’s ‘the thousands only their powers’ paraphrases the quoted ‘ete’, which in his gloss refers to the large count; it stays inside the quotation. Plain sense faithful: 3.9.4 and 3.9.5 tell of Agni found in the floods, hidden, brought from far by Matarisvan, and 3.9.9 is the hymn’s last verse; no four words of the key repeated. Revision 209084 dated 2019-08-09 by the Wikisource API. Evidence found in the packet by the recheck matcher. entry-check ok."
+}

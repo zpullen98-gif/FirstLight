@@ -1,0 +1,43 @@
+{
+ "id": "veda-02-d053-p",
+ "d": 53,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Bright shone your host, ye Sages, Maruts, when ye smote the waving tree as when the worm consumeth it. Accordant, as the eye guides him who walks, have ye led our devotion onward by an easy path.",
+ "ref": "Rig Veda 5.54.6",
+ "at": [
+  407,
+  6
+ ],
+ "s": "In a hymn praising the Maruts for lightning and rain, the singer recalls their stroke and their guidance; Sāyaṇa, on 5.54.6, takes the tree as the rain cloud, named for being split, and the easy path as the singer’s road to wealth.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.54.6, sa.wikisource (printed edition not named), revision 403632 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AB%E0%A5%AA&oldid=403632",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 403632 (printed edition not named)",
+    "locator": "on Rig Veda 5.54.6 (sūkta 5.54)",
+    "via": "packet"
+   }
+  ],
+  "words": "“अर्णसम् उदकवन्तं “वृक्षम् । वृश्च्यते विदार्यत इति वृक्षो मेघः । तं “मोषथ ताडयथेत्यर्थः … “अरमतिम् आरमणं धनादिकं प्रति “यन्तं 'गच्छन्तम् “अनु “नेषथ अनुक्रमेण नयथ \"सुगं सुगमनं मार्गम्",
+  "lang": "Sanskrit",
+  "gloss": "The water-laden tree: vṛkṣa is the cloud, called so because it is cut, split open; you strike it, that is the meaning … Me, going towards āramaṇa, delight, wealth and the like, you lead in due order along an easy road.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 5.54.6, at [407,6]). Plain sense faithful: 5.54 praises the Maruts for lightning, hail and rain, and 5.54.6 recalls their smiting of the tree and their leading of the singer. Sāyaṇa glosses vṛkṣa as megha by the etymology vṛścyate vidāryate (cut, split), arṇasa as udakavat (water-laden), and takes aramati (Griffith’s “devotion”) as āramaṇaṃ dhanādikam, with the singer (naḥ … mām) led along an easy road towards it. “Road to wealth” stays within “wealth and the like”. Entry-check ok. Yāska also treats the verse (Nirukta 6.4) but is not needed."
+}

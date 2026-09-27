@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d050-p",
+ "d": 50,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I have beheld his strong and secret dwelling, longing have sought the Founder’s habitation. I asked of others, and they said in answer, May we, awakened men, attain to Indra.",
+ "ref": "Rig Veda 5.30.2",
+ "at": [
+  383,
+  2
+ ],
+ "s": "After the opening question, who has seen Indra, the singer tells of his search; Sāyaṇa, on 5.30.2, reads it as a seeker who asks if Indra, though he exists, is within reach, and, told he is, sees the rest of the hymn.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.30.2, sa.wikisource (printed edition not named), revision 398838 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%A9%E0%A5%A6&oldid=398838",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ५.३०, revision 398838 (2023-10-02)",
+    "locator": "commentary on 5.30.2, with the hymn introduction and 5.30.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n305/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "5.30.2",
+    "via": "packet"
+   }
+  ],
+  "words": "“अन्यान् \"उत अन्यान् विदुषोऽपि मार्गे इन्द्रम् “अपृच्छं पृष्टवानस्मि । पृष्टाः “ते “मे मह्यम् “इन्द्रम् “आहुः । किमाहुरित्युच्यते । “नरः यज्ञानां नेतारः “बुबुधानाः बुभुत्समाना वयम् “अशेम इन्द्रं प्राप्तवन्तः स्मः । यद्यपीन्द्रो विद्यते तथापि दुर्लभश्चेदनुपगन्तव्यः इति बुभुत्समानः स्वभावमपृच्छत् पृष्टैश्च सुलभः इत्युक्त इन्द्रप्राप्त्यर्थं सूक्तशेषमपश्यदित्यर्थः ॥",
+  "lang": "sa",
+  "gloss": "I asked others too, the learned on the way, about Indra. Asked, they told me of Indra. What they said: we, leaders of rites, seeking to know, have attained Indra. The meaning is: though Indra exists, if he is hard to reach he is not to be approached; wishing to know this, the seer asked about his nature, and, told by those he asked that he is easy to reach, he saw the rest of the hymn for reaching Indra.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 5.30.2, at [383,2]). Sāyaṇa on 5.30.2 closes his gloss: though Indra exists, if hard to reach he is not to be approached; wishing to know this, the seer asked about his nature, was told he is easy to reach, and saw the rest of the hymn for reaching Indra. The sentence carries exactly that (‘sees the rest of the hymn’ is the seer’s seeing of a hymn, apaśyat). Plain sense faithful: 5.30.1 asks where the hero is and who has seen Indra, and 5.30.2 is the singer’s account of seeing, seeking and asking. Wilson’s rendering of 5.30.2 agrees. Revision 398838 dated 2023-10-02 by the Wikisource API. Evidence copied from packet.js output. entry-check ok."
+}

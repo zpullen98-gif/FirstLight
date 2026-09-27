@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d061-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AA%E0%A5%AB&oldid=273533",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 61 --verse 6.45.26 (rev 273533): Sāyaṇa glosses दूणाशं as दुर्णाशं नाशयितुमशक्यम्, अतिदृढम् (impossible to destroy) and गौरसि as गवां प्रदाता भवसि (giver of cows), so both claims stand in his words; the contrast with Griffith’s ‘Hard is thy love to win’ is his, not the translator’s. Plain clause checked in day.js: 6.45.25 likens the songs to mother cows calling to their calves, and 6.45.26 of 33 is near the end. verse.js ok (485,26); entry-check ok; revision year 2020 confirmed by API (2020-09-17).",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d041-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A7%E0%A5%A9&oldid=209073",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 41 --verse 4.13.5. Sāyaṇa: ayaṃ … sūryaḥ … nyaṅ avāṅmukhaḥ san kenacit kathā kathaṃ na ava padyate na hiṃsyate; ko dadarśa tattvataḥ kaḥ paśyati, na ko’pi jānātīty arthaḥ. So ‘falleth not’ (na ava padyate) is glossed as not harmed by anyone while facing down, and the final question as no one knows; the paraphrase carries no more (Wilson likewise: is harmed by no one). Near-duplicate 4.14.5 in the same day differs in wording (unsupported, self-power); verse.js resolves this key to 4.13.5 at [308,5], so the locator is right. Plain sense checked against day.js: 4.13 follows the rising Sun, his seven Coursers (v.3) and Steeds (v.4); v.5 is the last of five verses. entry-check ok, 45 words (at the cap). All attacks fail.",
+ "better": ""
+}

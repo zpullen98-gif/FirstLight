@@ -1,0 +1,253 @@
+{
+ "lane": "L4",
+ "plan": "veda",
+ "batch": "veda-02",
+ "days": [
+  {
+   "d": 51,
+   "primary": {
+    "id": "veda-02-d051-p",
+    "key": "What time thou smotest down Svarbhanu’s magic that spread itself beneath the sky, O Indra, By his fourth sacred prayer Atri discovered Surya concealed in gloom that stayed his function.",
+    "ref": "Rig Veda 5.40.6",
+    "at": [
+     393,
+     6
+    ],
+    "s": "As the hymn turns from Indra’s Soma to the Sun darkened by Svarbhanu, the verse tells how Atri freed the light; Sāyaṇa, on 5.40.6, takes the fourth prayer as the hymn’s eighth verse, each earlier one having driven off one part of the magic.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.40.5 and 5.40.6, sa.wikisource (printed edition not named), revision 403751 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "इदमादिचतुर्भिर्मन्त्रैः अत्रीणां कर्म कीर्त्यते … \"तुरीयेण “ब्रह्मणा ‘ग्राव्णो ब्रह्मा' इत्यनेन \"अत्रिः \"अविन्दत् लब्धवान् । आवरणापगमोपायं निरावरणं शुद्धं वा सूर्यमिति । पूर्वमन्त्रापेक्षया अस्य तुरीयत्वम् । एकैकं मायांशमेकैकेन मन्त्रेणापनोद्य चतुर्थेन मन्त्रेण निलीनं तमोऽप्यनुददित्यर्थः ॥",
+     "gloss": "With these four mantras beginning here the deed of the Atris is celebrated. … By the fourth prayer, that is, by this one, ‘grāvṇo brahmā’ (5.40.8), Atri found, obtained, the means of removing the covering, or the sun uncovered and pure. Its being fourth is relative to the mantras before it: having driven off one portion of the illusion with each mantra, with the fourth mantra he dispelled even the hidden darkness; that is the meaning."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d051-s",
+    "key": "BEDEWED with holy oil and meetly worshipped, the Swift One vies with Surya’s beam in splendour. For him may mornings dawn without cessation who saith, Let us press Soma out for Indra.",
+    "ref": "Rig Veda 5.37.1",
+    "at": [
+     390,
+     1
+    ],
+    "s": "Opening a hymn blessing those who offer Indra Soma, the verse matches fire with sun; Sāyaṇa, on 5.37.1, takes the fire as one lit at sunrise, and the dawns as good days for the patron who then bids the priest begin the rite.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.37.1, sa.wikisource (printed edition not named), revision 209173 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "उदयकाले ह्यग्नयः प्रज्वाल्यन्ते । तस्मात् कारणात् “यः यजमानः “इन्द्राय “सुनवामेत्याह ब्रूतेऽध्वर्युं प्रति “तस्मै यजमानाय \"अमृध्राः अहिंसिताः “उषसः “व्युच्छान् व्युच्छन्तु । उदयकालेऽग्निः प्रज्वालितस्तस्मात् सोमयागं कुर्म इति यो ब्रूते तस्य सुदिनानि भवन्तीत्यर्थः",
+     "gloss": "For at the time of sunrise the fires are kindled. For that reason, the sacrificer who says to the Adhvaryu, ‘Let us press for Indra’: for that sacrificer may the dawns shine forth unharmed. ‘The fire is kindled at sunrise, therefore let us perform the Soma sacrifice’: whoever says this, for him there are good days; that is the meaning."
+    }
+   }
+  },
+  {
+   "d": 52,
+   "primary": {
+    "id": "veda-02-d052-p",
+    "key": "I seek for no release, no turning back therefrom. May he who knows the way, the Leader, guide me straight.",
+    "ref": "Rig Veda 5.46.1",
+    "at": [
+     399,
+     1
+    ],
+    "s": "Opening a hymn to all the gods, the singer pictures himself yoked like a willing horse to a load; Sāyaṇa, on 5.46.1, takes the load as the sacrifice and the guide as the god who rules within, going before along its paths.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.46.1, sa.wikisource (printed edition not named), revision 199507 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“हयो \"न अश्व इव \"विद्वान् सर्वज्ञः प्रतिक्षत्रः “स्वयम् अनन्यप्रेरितः सन् “धुरि यज्ञात्मिकायाम् “अयुजि युक्तोऽभवत् । … “अस्याः धुरः “विमुचं विमोचनं परित्यागं “न “वश्मि न कामये । \"नावृतं “पुनः पुनरावरणं धारणमपि न च वश्मि । … “विद्वान् मार्गाभिज्ञोऽन्तर्यामी देवः “पुरएता पुरतो गन्ता सन् \"पथः यज्ञमार्गान् “ऋजु अकुटिलं “नेषति प्रापयति ॥",
+     "gloss": "Like a horse, the knowing one, the all-knowing Pratikṣatra, of himself, driven by no other, was yoked to the pole that is the sacrifice. … I do not desire release from this pole, its abandonment, nor again its taking up once more. … The knowing one, who knows the way, the god who rules within, going before, leads along the paths, the paths of sacrifice, straight, without crookedness."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d052-s",
+    "key": "The sacred hymns love him who wakes and watches: to him who watches come the Sama verses. This Soma saith unto the man who watches, I rest and have my dwelling in thy friendship.",
+    "ref": "Rig Veda 5.44.14",
+    "at": [
+     397,
+     14
+    ],
+    "s": "Before a closing verse that repeats it with Agni’s name, the singer praises the one who stays awake; Sāyaṇa, on 5.44.14, takes the watcher as the god, ever sleepless in the house, and Soma as asking him to accept it.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.44.14, sa.wikisource (printed edition not named), revision 400610 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“यः देवः “जागार सर्वदा विनिद्रो जागरूको गृहे वर्तते “तम् \"ऋचः सर्वशास्त्रात्मिकाः “कामयन्ते । “यः च “जागार “तमु तमेव “सामानि स्तोत्ररूपाणि “यन्ति प्राप्नुवन्ति । “यो “जागार “तमयम् अभिषुतः “सोमः “आह वक्ति मां स्वीकुर्विति । हे अग्ने तादृशस्य “तव “सख्ये समानख्याने हितकरणे “न्योकाः नियतस्थानः “अहम् “अस्मि भवामि ॥",
+     "gloss": "The god who wakes, always sleepless, stays watchful in the house: him the ṛc verses, which hold all teaching, desire. And to him who wakes the sāmans, in the form of chanted praises, come. To him who wakes this pressed Soma speaks: accept me. O Agni, in the friendship of such a one as thou, in fellowship, in doing good, I have my fixed abode."
+    }
+   }
+  },
+  {
+   "d": 53,
+   "primary": {
+    "id": "veda-02-d053-p",
+    "key": "Bright shone your host, ye Sages, Maruts, when ye smote the waving tree as when the worm consumeth it. Accordant, as the eye guides him who walks, have ye led our devotion onward by an easy path.",
+    "ref": "Rig Veda 5.54.6",
+    "at": [
+     407,
+     6
+    ],
+    "s": "In a hymn praising the Maruts for lightning and rain, the singer recalls their stroke and their guidance; Sāyaṇa, on 5.54.6, takes the tree as the rain cloud, named for being split, and the easy path as the singer’s road to wealth.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.54.6, sa.wikisource (printed edition not named), revision 403632 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“यत् यस्मात् “अर्णसम् उदकवन्तं “वृक्षम् । वृश्च्यते विदार्यत इति वृक्षो मेघः । तं “मोषथ ताडयथेत्यर्थः । … “अरमतिम् आरमणं धनादिकं प्रति “यन्तं 'गच्छन्तम् “अनु “नेषथ अनुक्रमेण नयथ \"सुगं सुगमनं मार्गम् । तत्र दृष्टान्तः । “चक्षुरिव । तद्यथा मार्गप्रदर्शनेन नायकं भवति तद्वत् ॥",
+     "gloss": "Because you strike the water-laden tree: vṛkṣa, the tree, is the cloud, because it is cut, split open; you strike it, that is the meaning. … Me, going towards aramati, delight, wealth and the like, you lead in due order along an easy road. The example for this: like the eye; as the eye becomes a leader by showing the way, so."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d053-s",
+    "key": "To this the Heroes well attend, well do their teams attend to this. Visible are their varied forms. Behold, they are Paravatas.",
+    "ref": "Rig Veda 5.52.11",
+    "at": [
+     405,
+     11
+    ],
+    "s": "In a hymn bidding Syavasva praise the Maruts under their many names, the verse adds one more; Sāyaṇa, on 5.52.11, takes the Paravatas as those Maruts who dwell in far regions such as the mid-air, holding up planets, stars and clouds.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.52.11, sa.wikisource (printed edition not named), revision 199512 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“अध अथ “नरः अभिमतवृष्ट्यादिनेतारः “न्योहते नितरां वहन्ति जगत् । “अध “नियुतः स्वयमेव मिश्रयितारः सन्तः “ओहते। “अध अथ “पारावताः । परावद्दूरदेशः। तत्संबन्धिनश्चान्तरिक्षादिदूरदेशे ग्रहतारामेघादिधारकाः सन्त ओहत इत्यर्थः । “इति उक्तप्रकारेण तेषां “रूपाणि “चित्रा नानाविधानि चायनीयानि वा “दर्श्या स्वव्यापारैर्दशनीयानि भवन्त्विति शेषः ॥",
+     "gloss": "Then the leaders, who bring the rain and whatever else is wished for, bear the world entirely. Then, as niyut, mixing of themselves, they bear. Then the Pārāvatas: parāvat is a far region; those related to it, being in the far regions such as the mid-air and holding up planets, stars, clouds and the like, bear; that is the meaning. Thus, in the way described, may their forms, manifold or worth beholding, be seen through their own workings."
+    }
+   }
+  },
+  {
+   "d": 54,
+   "primary": {
+    "id": "veda-02-d054-p",
+    "key": "Yea, many a woman is more firm and better than the man who turns Away from Gods, and offers not.",
+    "ref": "Rig Veda 5.61.6",
+    "at": [
+     414,
+     6
+    ],
+    "s": "In a hymn mixing praise of the Maruts with thanks to the singer’s patrons, the verse turns to a woman; Sāyaṇa, on 5.61.6, takes her as Sasiyasi, King Taranta’s queen, and the man as a miser who neither praises the gods nor gives.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.61 (introduction and verse 6), sa.wikisource (printed edition not named), revision 403490 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "चतसृणां शशीयसी नाम तरन्तस्य राज्ञो भार्या देवता … “उत अपि च “त्वा एका “शशीयसी। शशीयसी इस्येतन्महिष्या नाम। सैव \"स्त्री । यद्वा । उतेत्ययमेवकारार्थे । स्त्रीषु सैव प्रशस्येत्यर्थः । … सैव “पुंसः पुरुषात् “वस्यसी वसीयसी “भवति । कस्मात्पुंस इत्युच्यते । “अदेवत्रात् । देवाः अनेन त्रायन्ते स्तुत्यादिना सः देवत्रः । न देवत्रः अदेवत्रः। तस्मात् “अराधसः । राधो धनम् । दानार्हधनरहितात् । लुब्धकादित्यर्थः ॥",
+     "gloss": "Of the four verses (beginning ‘sanat sā’) the deity is Śaśīyasī, wife of King Taranta. … And one, Śaśīyasī: Śaśīyasī is the name of the queen; she indeed is the woman. Or, uta has the sense of ‘only’: among women she alone is praiseworthy, that is the meaning. … She is better than the man. Than what man, it is said: than the adevatra; he by whom the gods are protected through praise and the like is a devatra, and one who is not is an adevatra. Than the arādhas: rādhas is wealth; than one without wealth fit for giving; that is, than a greedy man."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d054-s",
+    "key": "BY your high Law firm order is established there where they loose for travel Surya’s horses. Ten hundred stood together: there I looked on this the most marvellous Deities’ one chief glory.",
+    "ref": "Rig Veda 5.62.1",
+    "at": [
+     415,
+     1
+    ],
+    "s": "Opening a hymn to Mitra and Varuna, the singer tells of a wonder he saw; Sāyaṇa, on 5.62.1, takes the sight as the sun’s true and lasting orb, veiled by the waters, where the two gods dwell, and the thousand as its rays.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.62.1, sa.wikisource (printed edition not named), revision 403279 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"सूर्यस्य “ऋतं सत्यभूतं मण्डलम् “ऋतेन उदकेन अपिहितम् आच्छादितं “ध्रुवं शाश्वतमपश्यमिति संबन्धः । यत्र “वां युवाभ्यां स्थितिस्तत इत्यर्थः । सूर्यमण्डले मित्रावरुणयोः स्थितिः … यस्मिंश्च मण्डले “दश “शता शतानि सहस्रसंख्याका रश्मयः “तस्थुः तिष्ठन्ति … “तत् मण्डलम् “अपश्यम् ।",
+     "gloss": "The sun’s ṛta, its orb that is truth itself, covered, veiled, by ṛta, the water, lasting, eternal, I saw: so the words connect. Where your abode is, that is the meaning. Mitra and Varuṇa abide in the orb of the sun. … And in which orb ten hundred, a thousand in number, rays stand. … That orb I saw."
+    }
+   }
+  },
+  {
+   "d": 55,
+   "primary": {
+    "id": "veda-02-d055-p",
+    "key": "Worship at dawn and instigate the Asvins: nor is the worshipper at eve rejected. Besides ourselves another craves and worships: each first in worship is most highly favoured.",
+    "ref": "Rig Veda 5.77.2",
+    "at": [
+     430,
+     2
+    ],
+    "s": "In a hymn calling for the Asvins to be worshipped first, at daybreak, the verse presses the point; Sāyaṇa, on 5.77.2, reads the evening clause as saying the gods do not accept an evening offering, since scripture gives them the forenoon.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.77.2, sa.wikisource (printed edition not named), revision 209188 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“सायं सायंकाले हविः “देवयाः देवगामि “न “अस्ति न विद्यते । देवा न स्वीकुर्वन्तीत्यर्थः । “अजुष्टम् असेव्यं तद्भवति । पूर्वाह्णो वै देवानाम् ' इति हि श्रुतिः । … यः पूर्वः पूर्वो यष्टा भवति सः “वनीयान् देवानां संभजनीयः संभाव्यो भवति ॥",
+     "gloss": "In the evening an oblation that goes to the gods is not: it does not exist; the gods do not accept it, that is the meaning. It is unwelcome, not to be enjoyed. For scripture says: ‘the forenoon indeed belongs to the gods’. … He who is the first and earliest to sacrifice is the one the gods favour, the one to be honoured."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d055-s",
+    "key": "THE priests of him the lofty Priest well-skilled in hymns harness their spirit, yea, harness their holy thoughts. He only knowing works assigns their priestly tasks. Yea, lofty is the praise of Savitar the God.",
+    "ref": "Rig Veda 5.81.1",
+    "at": [
+     434,
+     1
+    ],
+    "s": "Opening a hymn to Savitar, the verse sets the priests to work under the god; Sāyaṇa, on 5.81.1, takes the harnessing as priests and patrons setting their minds on every rite by Savitar’s leave, for scripture calls him lord of impulses.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.81.1, sa.wikisource (printed edition not named), revision 222986 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "“विप्राः मेधाविन ऋत्विग्यजमानाः “मनः स्वीयं सर्वेषु कर्मसु \"युञ्जते योजयन्ति । सवित्रनुग्रहाय संकल्पं कुर्वन्तीत्यर्थः । \"उत अपि च \"धियः कर्माण्यपि \"युञ्जते प्राप्नुवन्ति । कस्यानुज्ञयेत्युच्यते । “विप्रस्य मेधाविनः \"बृहतः महतः \"विपश्चितः स्तुत्यस्य ज्ञानवतो वा सवितुः अनुज्ञयेति ।' सविता वै प्रसवानामीशे' (ऐ. ब्रा. ७. १६ ) इति हि श्रुतिः ।",
+     "gloss": "The wise, the priests and the sacrificers, yoke their own mind to all the rites: they make a resolve for Savitar’s favour, that is the meaning. And they also take up the rites. By whose leave, it is said: by the leave of Savitar, the wise, the great, the praiseworthy or knowing one. For scripture says: ‘Savitar indeed is lord of impulses’."
+    }
+   }
+  },
+  {
+   "d": 56,
+   "primary": {
+    "id": "veda-02-d056-p",
+    "key": "None, verily, hath ever let or hindered this the most wise God’s mighty deed of magic, Whereby with all their flood, the lucid rivers fill not one sea wherein they pour their waters.",
+    "ref": "Rig Veda 5.85.6",
+    "at": [
+     438,
+     6
+    ],
+    "s": "Before the hymn to Varuna turns to pleas for pardon, the singer marvels at the sea; Sāyaṇa, on 5.85.6, takes the magic as wisdom, and the works as fitly Varuna’s, since the Supreme Lord abides in the forms of Varuna and the other gods.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.85.6, sa.wikisource (printed edition not named), revision 209192 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“कवितमस्य प्रकृष्टप्रज्ञस्य “देवस्य द्योतमानस्य स्तुत्यस्य वा वरुणस्य “इमां सर्वप्रसिद्धां “महीं महतीं \"मायां प्रज्ञां \"नकिः नैव “आ “दधर्ष न हिनस्ति कश्चिदपि । … इदं वरुणस्य महत् कर्म इति । अत्र अन्तरिक्षविस्तारादि समुद्रापूरणपर्यन्तं कर्म परमेश्वरस्यैवोचितं न वरुणस्येति न वाच्यं तस्य वरुणादिरूपावस्थानात् । एष ब्रह्मेत्यादिश्रुतेः ॥",
+     "gloss": "This great māyā, wisdom, known to all, of the most wise god, Varuṇa, shining or worthy of praise, no one at all harms. … This is Varuṇa’s great deed. Here it should not be said that the work, from spreading out the mid-air to not filling the sea, befits the Supreme Lord alone and not Varuṇa, because he abides in the forms of Varuṇa and the rest; by the scripture ‘this is Brahman’ and the like."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d056-s",
+    "key": "Savitar, God, send far away all sorrows and calamities, And send us only what is good.",
+    "ref": "Rig Veda 5.82.5",
+    "at": [
+     435,
+     5
+    ],
+    "s": "In a short hymn asking Savitar for his gifts, after a plea to drive off the evil dream, the singer asks again; Sāyaṇa, on 5.82.5, takes the good asked for as offspring, cattle and a house, citing scripture that calls each of them good.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.82.5, sa.wikisource (printed edition not named), revision 199814 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे सवितः “देव त्वं विश्वानि दुरितानि परा सुव । यद्भदं प्रजापशुगृहादिकं तत् “नः अस्मभ्यम् “ “सुव अस्मदभिमुखं प्रेरय। ‘प्रजा वै भद्रं पशवो भद्रं गृहं भद्रम् ' इति हि श्रुतिः ॥",
+     "gloss": "O Savitar, God, drive away all misfortunes. What is good, offspring, cattle, a house and the like, that send towards us. For scripture says: ‘offspring indeed is good, cattle are good, a house is good’."
+    }
+   }
+  }
+ ]
+}

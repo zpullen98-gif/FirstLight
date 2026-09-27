@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d059-p",
+ "d": 59,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Mortals who yearn to worship ne’er dishonour, O Mighty God, thy Law who art Immortal.",
+ "ref": "Rig Veda 6.21.3",
+ "at": [
+  461,
+  3
+ ],
+ "s": "Praising Indra, whose greatness passes earth and heaven, the hymn turns to his worshippers; Sāyaṇa, on 6.21.3, takes the Law as Indra’s abode in heaven and the gods there, and hears that those who would worship them never harm any living thing.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.21.3, sa.wikisource (printed edition not named), revision 310167 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%A8%E0%A5%A7&oldid=310167",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ६.२१, revision 310167 (2021-05-14)",
+    "locator": "commentary on 6.21.3",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n452/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "6.21.3 (‘they harm not (any living being)’)",
+    "via": "packet"
+   }
+  ],
+  "words": "हे “स्वधावः बलवन्निन्द्र “मर्ताः मनुष्याः “अमृतस्य नित्यस्य “ते त्वदीयं “धाम स्वर्गाख्यं स्थानम् । तत्रस्थान् देवानित्यर्थः । “इयक्षन्तः यष्टुमिच्छन्तः “कदा कदाचित् । सर्वदेत्यर्थः ।। “न “मिनन्ति किमपि प्राणिजातं न हिंसन्ति ।।",
+  "lang": "sa",
+  "gloss": "O Indra, possessor of strength: mortals, men, wishing to worship thy dhāma, the abode of thee the eternal, the place called heaven, that is, the gods who dwell there; kadā, at any time, that is, always; na minanti, they harm no living creature whatever.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 6.21.3, at [461,3]), the verse’s second sentence, no dash. Sāyaṇa on 6.21.3 (sa.wikisource rev. 310167, dated 2021-05-14 by the Wikisource API) glosses dhāma as the place called heaven, meaning the gods who dwell there, iyakṣantaḥ as wishing to worship, and na minanti as ‘they harm no living creature whatever’, with kadā taken as at all times; Wilson’s translation, following him, supplies ‘they harm not (any living being)’. The sentence’s ‘takes the Law as Indra’s abode in heaven and the gods there’ bridges Griffith’s ‘Law’ to Sāyaṇa’s dhāma without adding to him. Plain sense: 6.21.2 praises a greatness passing earth and heaven, and the verse’s second half addresses mortals who would worship; faithful, no four words of the key. entry-check ok."
+}

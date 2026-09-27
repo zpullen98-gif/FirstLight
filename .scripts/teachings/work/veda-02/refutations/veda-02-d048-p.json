@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d048-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AA&oldid=324070",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 48 --verse 5.4.10. Sāyaṇa glosses amṛtatvam as saṃtaty-aviccheda-lakṣaṇam (immortality marked by the unbroken line of descendants), attained prajābhiḥ tvaddattābhiḥ, and cites the śruti prajām anu prajāyase tad u te martyāmṛtam (TB 1.5.5.6): after offspring thou art born again, that, O mortal, is thy immortality. Wilson note 1 reports the same. The paraphrase carries no more than this. Plain sense checked against day.js: 5.4.2 Eternal Father, 5.4.5 guest welcome, verse 10 of 11 in the first person. verse.js ok, ref 5.4.10, at [357,10]; entry-check ok, 44 words. No school needed, no comparison, tone neutral. All attacks fail.",
+ "better": ""
+}

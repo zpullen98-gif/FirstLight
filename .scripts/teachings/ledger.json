@@ -110,6 +110,17 @@
     "ibn-ezra": 1
    },
    "hedged": 0
+  },
+  "veda": {
+   "batches": [
+    "veda-02"
+   ],
+   "days": 32,
+   "of": 126,
+   "by": {
+    "sayana": 32
+   },
+   "hedged": 0
   }
  }
 }

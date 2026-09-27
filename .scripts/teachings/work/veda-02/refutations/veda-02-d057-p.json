@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d057-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AF&oldid=209204",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 57 --verse 6.9.2; all three evidence pieces found verbatim in the packet (squashed match, marks kept). Sāyaṇa on 6.9.2 figures the sacrifice as a cloth: tantu = the metres from Gāyatrī on and the stuta-śastras, otu = the yajus and the Adhvaryu’s acts, the weavers the priests at the devayajana; then the ātmavidaḥ take it of the creation of the world. The sentence carries both and flags the second as the knowers of the Self; the first Sāyaṇa ascribes to the yajñavādinaḥ but glosses word by word himself and backs with a sampradāyavid verse (Wilson note 1: ‘according to those who know tradition, says Sāyana’), so ‘explains the web as the sacrifice’ is his exposition, not overclaimed. Plain sense matches day.js: 6.9.1 names Agni Vaisvanara, 6.9.3 opens ‘For both the warp and woof he understandeth’. verse.js ok at [449,2]; entry-check ok, 44 words, src 108 chars. No comparison, no school needed, tone neutral. All attacks fail.",
+ "better": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d054-p",
+ "d": 54,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Yea, many a woman is more firm and better than the man who turns Away from Gods, and offers not.",
+ "ref": "Rig Veda 5.61.6",
+ "at": [
+  414,
+  6
+ ],
+ "s": "In a hymn mixing praise of the Maruts with thanks to patrons, the verse follows a blessing on a woman; Sāyaṇa, on 5.61.6, takes her as Sasiyasi, King Taranta’s queen, and the man as a miser who neither praises the gods nor gives.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.61 (introduction and verse 6), sa.wikisource (printed edition not named), revision 403490 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AC%E0%A5%A7&oldid=403490",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 403490 (printed edition not named)",
+    "locator": "Sāyaṇa, introduction to 5.61 and commentary on 5.61.6",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n370/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857), archive.org rigvedasanhitc03wils (OCR)",
+    "locator": "Wilson on 5.61.6",
+    "via": "packet"
+   }
+  ],
+  "words": "चतसृणां शशीयसी नाम तरन्तस्य राज्ञो भार्या देवता … शशीयसी इस्येतन्महिष्या नाम। सैव \"स्त्री । यद्वा । उतेत्ययमेवकारार्थे । स्त्रीषु सैव प्रशस्येत्यर्थः । त्वसमसिमनेमेत्यनुच्चानि ' इति वचनात् त्वेति निघातः ॥ सैव “पुंसः पुरुषात् “वस्यसी वसीयसी “भवति । कस्मात्पुंस इत्युच्यते । “अदेवत्रात् । देवाः अनेन त्रायन्ते स्तुत्यादिना सः देवत्रः । न देवत्रः अदेवत्रः। तस्मात् “अराधसः । राधो धनम् । दानार्हधनरहितात् । लुब्धकादित्यर्थः ॥",
+  "lang": "Sanskrit",
+  "gloss": "Of the four verses the deity is Śaśīyasī, wife of King Taranta. … Śaśīyasī is the queen’s name; she is the woman. Or uta means ‘only’: among women she alone is praiseworthy. She is better than the man: than the adevatra (one by whom the gods are not served with praise and the like), than the arādhas (without wealth fit for giving), that is, than a greedy man.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 414/6). Sāyaṇa on 5.61.6 names the woman Śaśīyasī, the queen (महिष्या नाम), and his introduction makes her King Taranta’s wife; he glosses adevatra as one who does not serve the gods with praise and arādhas as one without wealth fit for giving, a greedy man, so the reading stands (Wilson 5.61.6 and Griffith’s note agree it is Sāyaṇa’s). Changed only the plain sense: the woman enters at 5.61.5, so ‘the verse turns to a woman’ misplaced her; it now says the verse follows a blessing on a woman. Revision years checked against the sa.wikisource API (403490 = 2024-07-05). entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d039-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%AC%E0%A5%A8&oldid=330443",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 39 --verse 3.62.10. Sāyaṇa first glosses bhargaḥ as avidyātatkāryayor bharjanād bhargaḥ svayaṃjyotiḥ parabrahmātmakaṃ tejaḥ and dhiyaḥ as karmāṇi dharmādiviṣayā vā buddhīḥ, then gives yadvā alternatives (bhargas as the relative, the sun’s orb consuming sins, food), so ‘first reads’ holds; Wilson’s note reports the same order. Plain sense checked against day.js: 3.62 is the last hymn of Book 3 and its eighteen verses fall visibly in triplets to Indra-Varuna, Brhaspati, Pusan, Savitar, Soma, Mitra-Varuna, with Savitar’s opening at v.10. No comparison, no school needed (roster gives none), reading stated as his. verse.js ok at [295,10]; entry-check ok, 45 words (at the cap). All attacks fail.",
+ "better": ""
+}

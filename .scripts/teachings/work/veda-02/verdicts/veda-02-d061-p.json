@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d061-p",
+ "d": 61,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Hard is thy love to win: thou art a Steer to him who longs for steers: Be to one craving steeds a Steed.",
+ "ref": "Rig Veda 6.45.26",
+ "at": [
+  485,
+  26
+ ],
+ "s": "Near the end of a long hymn to Indra, among songs likened to cows lowing for their calves, the singer turns to his friendship; Sāyaṇa, on 6.45.26, takes that friendship as one that cannot be destroyed, and the ‘Steer’ as the giver of cattle.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.45.26, sa.wikisource (printed edition not named), revision 273533 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AA%E0%A5%AB&oldid=273533",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ६.४५, revision 273533 (2020-09-17; printed edition not named)",
+    "locator": "Rig Veda 6.45.26, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://sa.wikisource.org/w/api.php?action=query&prop=revisions&revids=188373|273533|338253&rvprop=ids|timestamp&format=json",
+    "edition": "MediaWiki API, revision timestamps",
+    "locator": "revids 273533",
+    "via": "webfetch"
+   }
+  ],
+  "words": "हे इन्द्र “तव त्वदीयं “सख्यं सखित्वं “दूणाशं दुर्णाशं नाशयितुमशक्यम् । अतिदृढमित्यर्थः । अतो हे वीर वीरयितरिन्द्र गव्यते गामात्मन इच्छते त्वं “गौरसि गवां प्रदाता भवसि",
+  "lang": "sa",
+  "gloss": "O Indra, thy friendship is dūṇāśa, hard to destroy, impossible to destroy: very firm, is the meaning. Therefore, hero, to one who wants cows for himself thou art a cow (gauḥ), the giver of cows.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 6.45.26, at [485,26]). Plain sense faithful: 6.45.25 and 6.45.28 liken the songs to mother cows calling to their calves, and 26 turns to Indra’s friendship (sakhyam, Griffith’s ‘love’). Sāyaṇa on 6.45.26 (rev 273533, 2020-09-17 per the API) glosses dūṇāśa as impossible to destroy, very firm, and gauḥ as gavāṃ pradātā, giver of cows, by figure of effect for cause; Griffith’s note 26 and Wilson both report the same. The sentence does not go beyond this. entry-check ok."
+}

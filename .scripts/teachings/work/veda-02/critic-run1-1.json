@@ -1,0 +1,47 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 41,
+   "id": "veda-02-d041-p",
+   "problem": "The reading is garbled: \"reads ‘falleth not’ as the Sun, though facing down, harmed by none\" makes the quoted phrase be read as the Sun itself. Sāyaṇa glosses na ava padyate as na hiṃsyate: the Sun, facing downward, is harmed by no one.",
+   "fix": "Rewrite the second half, keeping the same evidence, e.g. \"Sāyaṇa, on 4.13.5, reads ‘falleth not’ as meaning that the Sun, though facing downward, is harmed by none, and the last question as saying that no one knows.\" Stay at 45 words or fewer."
+  },
+  {
+   "d": 50,
+   "id": "veda-02-d050-p",
+   "problem": "\"reads it as a seeker who asks\" has the singer's search (\"it\") read as a person. \"sees the rest of the hymn\" is the seer-sees-a-hymn idiom given without its point, so a lay reader cannot follow it.",
+   "fix": "Rewrite on Sāyaṇa's own words (bubhutsamānaḥ … apṛcchat … sūktaśeṣam apaśyat), e.g. \"Sāyaṇa, on 5.30.2, takes the singer as a seer who asked whether Indra, though real, was beyond reach, and, told he was easy to reach, was granted the rest of the hymn as the way to him.\" Stay within the cap."
+  },
+  {
+   "d": 49,
+   "id": "veda-02-d049-p",
+   "problem": "The key verse prints the app text's typo \"the Godswith homage\" (a missing space). Rule 8 allows no change, so the reader sees a visible error in the day's featured line, and the reading depends on that sentence.",
+   "fix": "Correct the typo in the app's Griffith text for 5.28.1 (the source file that day.js reads), rerun verse.js and copy the new at, then keep the entry. If the text cannot be corrected in this batch, choose another verse with Sāyaṇa's comment, or promote the standby."
+  },
+  {
+   "d": 45,
+   "id": "veda-02-d045-p",
+   "problem": "\"names one being by his many dwellings; Sāyaṇa … reads them as the Sun, wind and fire\" makes the dwellings the Sun, wind and fire. In Sāyaṇa it is the dweller named in each place: the Haṃsa in heaven is the Sun, the Vasu in mid-air is the wind, the priest at the altar is the fire.",
+   "fix": "Say \"reads the one so named as the Sun in heaven, the wind in mid-air and the fire at the altar, and the Sun as one with the Self in every creature and with the unconditioned Brahman\", trimmed to the cap."
+  },
+  {
+   "d": 56,
+   "id": "veda-02-d056-p",
+   "problem": "\"and the works as fitly Varuna’s\" has no antecedent. Neither the context clause nor the key speaks of \"works\"; the key has one \"mighty deed\". Sāyaṇa's point is the deed from spreading the mid-air to the unfilled sea.",
+   "fix": "Say \"and the deed as fitly Varuna’s, since the Supreme Lord abides in the forms of Varuna and the other gods\"."
+  },
+  {
+   "d": 43,
+   "id": "veda-02-d043-p",
+   "problem": "\"hears first Vāmadeva, knowing the truth in the womb, speak\" reads as if Sāyaṇa hears Vāmadeva first and someone else afterwards. The intended sense is that in the first of the three first-person verses the speaker is Vāmadeva, still in the womb.",
+   "fix": "Say \"Sāyaṇa, on 4.26.1, hears in them Vāmadeva, still in the womb and knowing the truth, speak as the self of all and bid hearers know their own nature so.\""
+  },
+  {
+   "d": 54,
+   "id": "veda-02-d054-p",
+   "problem": "The batch spells names that come only from Sāyaṇa with diacritics (Vāmadeva, Viśvavārā, Kaśyapa, Bṛhadāraṇyaka). \"Sasiyasi\" comes only from Sāyaṇa (Griffith's day text does not name her) but is spelt without them, so the batch is inconsistent.",
+   "fix": "Spell her Śaśīyasī, as Sāyaṇa's name for her is given in the evidence."
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d035-p",
+ "d": 35,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "As Germ Celestial he is called Tanunapat, and Narasamsa born diffused in varied shape. Formed in his Mother he is Matarisvan; he hath, in his course, become the rapid flight of wind.",
+ "ref": "Rig Veda 3.29.11",
+ "at": [
+  262,
+  11
+ ],
+ "s": "As the priests rub the fire-sticks and the flame is born, the hymn turns to the names Agni bears; Sāyaṇa, commentary on 3.29.11, reads them as stages: Tanunapat while an embryo in the sticks, Narasamsa once born, Matarisvan when he flashes in the mid-air.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.29.11, sa.wikisource (printed edition not named), revision 400415 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A8%E0%A5%AF&oldid=400415",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.२९, revision 400415 (2024-02-02)",
+    "locator": "commentary on 3.29.11, and the hymn introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n61/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "3.29.11 and its notes 2 and 3",
+    "via": "packet"
+   }
+  ],
+  "words": "यदाग्निररणीषु गर्भरूपतया वर्तते तदा तनूनपान्नामको भवति । यदा जायते तदा नराशंसनामको भवति । यदान्तरिक्षे विद्योतते तदा मातरिश्वनामको भवतीति",
+  "lang": "sa",
+  "gloss": "When Agni exists as an embryo in the fire-sticks, then he is named Tanūnapāt; when he is born, then he is named Narāśaṃsa; when he flashes in the mid-air, then he is named Mātariśvan.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.29.11, at [262,11]). Sāyaṇa on 3.29.11 glosses each name by a state of the fire (garbha: an embryo in the araṇis; vijāyate: born and seen; mātari: the mid-air) and sums it in his own recapitulation, quoted in the evidence: in the fire-sticks Tanūnapāt, once born Narāśaṃsa, flashing in the mid-air Mātariśvan; Wilson’s translation of the verse follows the same scheme. ‘Stages’ is a fair word for his when/then series. Plain sense faithful: 3.29.1 to 6 and 12 are the rubbing of the fire-sticks and the birth of the flame, and 11 is the verse of the names; no four words of the key repeated. Names spelt as Griffith prints them. Revision 400415 dated 2024-02-02 by the Wikisource API. Evidence found in the packet. entry-check ok."
+}

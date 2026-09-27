@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d039-p",
+ "d": 39,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "May we attain that excellent glory of Savitar the God: So May he stimulate our prayers.",
+ "ref": "Rig Veda 3.62.10",
+ "at": [
+  295,
+  10
+ ],
+ "s": "The book’s closing hymn is built of six triplets to different gods, and this verse begins Savitar’s; Sāyaṇa, on 3.62.10, first reads the glory as the self-luminous light that is the supreme Brahman, named for burning away ignorance, and the prayers as acts or understandings.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.62.10, sa.wikisource (printed edition not named), revision 330443 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%AC%E0%A5%A8&oldid=330443",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.६२, revision 330443 (2022-01-29)",
+    "locator": "commentary on 3.62.10, and the hymn introduction assigning the six triplets (Indra-Varuṇa, Bṛhaspati, Pūṣan, Savitṛ, Soma, Mitra-Varuṇa)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n136/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "3.62.10 and its note (the light which is one with Brahma; termed Bhargas from its consuming influence on ignorance; acts or understandings)",
+    "via": "packet"
+   }
+  ],
+  "words": "“यः सविता देवः \"नः अस्माकं \"धियः कर्माणि धर्मादिविषया वा बुद्धीः \"प्रचोदयात् प्रेरयेत् “तत् तस्य “देवस्य \"सवितुः सर्वान्तर्यामितया प्रेरकस्य जगत्स्रष्टुः परमेश्वरस्य \"वरेण्यं सर्वैः उपास्यतया ज्ञेयतया च संभजनीयं \"भर्गः अविद्यातत्कार्ययोर्भर्जनाद्भर्गः स्वयंज्योतिः परब्रह्मात्मकं तेजः “धीमहि वयं ध्यायामः",
+  "lang": "sa",
+  "gloss": "The god Savitṛ who may impel our dhiyaḥ, that is, our acts, or our understandings concerned with dharma and the like: of that god Savitṛ, the Supreme Lord and creator of the world, who impels as the inner ruler of all, the vareṇyam, to be resorted to by all as the one to be worshipped and known, the bhargaḥ, so called from its burning away ignorance and its effects, the self-luminous radiance whose nature is the supreme Brahman: on that we meditate.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.62.10, at [295,10]). Sāyaṇa’s first gloss on 3.62.10 takes bhargaḥ as the self-luminous radiance whose nature is the supreme Brahman, named bharga from its burning away (bharjana) ignorance and its effects, and dhiyaḥ as acts or understandings; he then gives further readings introduced by yadvā (the sun’s orb, food), so ‘first reads’ is accurate. Wilson’s note reports the same. Plain sense faithful: 3.62 is the last hymn of Book 3 in the day’s passage, and Sāyaṇa’s introduction (and Wilson’s) divides it into six triplets with Savitṛ fourth, beginning at verse 10; no four words of the key verse repeated. Revision 330443 dated 2022-01-29 by the Wikisource API. Evidence copied from packet.js output with its stray quotation marks. entry-check ok."
+}

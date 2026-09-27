@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d062-p",
+ "d": 62,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Indra moves multiform by his illusions; for his Bay Steeds are yoked, ten times a hundred.",
+ "ref": "Rig Veda 6.47.18",
+ "at": [
+  487,
+  18
+ ],
+ "s": "After verses on Indra raising the last and dropping old friends, the hymn turns to his many forms; Sāyaṇa, on 6.47.18, takes the ‘illusions’ as Indra’s knowledge and resolves, by which he assumes many bodies to reach many worshippers at once.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.47.18, sa.wikisource (printed edition not named), revision 338253 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AA%E0%A5%AD&oldid=338253",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ६.४७, revision 338253 (2022-05-29; printed edition not named)",
+    "locator": "Rig Veda 6.47.18, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://sa.wikisource.org/w/api.php?action=query&prop=revisions&revids=188373|273533|338253&rvprop=ids|timestamp&format=json",
+    "edition": "MediaWiki API, revision timestamps",
+    "locator": "revids 338253",
+    "via": "webfetch"
+   }
+  ],
+  "words": "अपि चायम् \"इन्द्रो \"मायाभिः । ज्ञाननामैतत् । ज्ञानैः आत्मीयैः संकल्पैः \"पुरुरूपः बहुविधशरीरः सन् “ईयते बहून् यजमानान् गच्छति । ननु द्वावेवास्याश्वावेकश्च रथः कथमनेन युगपद्बहून् गच्छतीत्यत आह । \"अस्य इन्द्रस्य “हरयः अश्वाः “युक्ताः रथे योजिताः “शता \"दश सहस्रसंख्याका अपरिमिताः सन्ति । “हि यस्मादेवं तस्माद्बहुशरीराणि स्वीकृत्य युगपत् हविष्मतो यजमानान् गच्छतीत्यर्थः",
+  "lang": "sa",
+  "gloss": "And this Indra, by māyās (this is a name for knowledge), by knowledges, his own resolves, being many-formed, with bodies of many kinds, goes to many sacrificers. Objection: he has two horses and one chariot, so how does he go to many at once? Answer: his horses yoked to the car are ten hundred, a thousand, unlimited; since this is so, taking on many bodies he goes at the same time to the sacrificers who bring offerings: that is the meaning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 6.47.18, at [487,18]). Plain sense faithful: 6.47.15 has Indra make the last precede and the foremost follow, 6.47.17 has him leave the men he loved, and 18 turns to his forms. Sāyaṇa on 6.47.18 (rev 338253, 2022-05-29 per the API) says māyā is a name for knowledge, by his own resolves he takes bodies of many kinds and goes to many sacrificers, and, with a thousand horses, takes many bodies to reach them at once. The sentence gives his first (ritual) reading and not the Vedāntic alternative he reports as others’ view (anye manyante), which is correct attribution. entry-check ok."
+}

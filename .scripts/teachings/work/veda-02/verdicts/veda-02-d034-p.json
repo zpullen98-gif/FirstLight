@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d034-p",
+ "d": 34,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Agni am I who know, by birth, all creatures. Mine eye is butter, in my mouth is nectar. I am light threefold, measurer of the region exhaustless heat am I, named burnt-oblation.",
+ "ref": "Rig Veda 3.26.7",
+ "at": [
+  259,
+  7
+ ],
+ "s": "After the Kusikas call on Agni Vaisvanara and the storming Maruts, a voice speaks as Agni himself; Sāyaṇa, commentary on 3.26.7, reads it as Agni, who has seen the highest reality, declaring himself the self of all, eater and eaten, and so the supreme Brahman.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.26.7, sa.wikisource (printed edition not named), revision 402119 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A8%E0%A5%AC&oldid=402119",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.२६, revision 402119 (2024-05-02)",
+    "locator": "commentary on 3.26.7, and the hymn introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n54/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "3.26.7 and its note 2",
+    "via": "packet"
+   }
+  ],
+  "words": "अग्निद्वृचेन स्वात्मनः सर्वात्मकत्वानुभवमाविष्करोति । हे कुशिकाः । भोक्तृभोग्यभावेन द्विविधं हीदं सर्वं जगत् । … श्रवणमननादिसाधननिरपेक्षेण स्वभावत एव साक्षात्कृतपरतत्त्वस्वरूपोऽस्मि । … एवं भोक्तृरूपमात्मनोऽनुसंधाय भोग्यरूपतामपि अनुसंधत्ते । … तदनेनाग्नेः सर्वात्मकत्वप्रतिपादनेन परब्रह्मत्वमुक्तं भवति",
+  "lang": "sa",
+  "gloss": "In two verses Agni makes known his experience of his own self as the self of all. O Kuśikas, this whole world is twofold, as enjoyer and enjoyed. … Without depending on the means of hearing, reflection and the rest, by my very nature I am one who has directly seen the highest reality. … Having thus contemplated himself as the enjoyer, he contemplates himself also as the enjoyed. … So by setting out that Agni is the self of all, his being the supreme Brahman is stated.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.26.7, at [259,7]). Sāyaṇa on 3.26.7 (with the hymn introduction, which makes the deity of the two verses Agni or the supreme Brahman) takes the verse as Agni, one who has directly seen the highest reality, declaring his own self to be the self of all, first as the enjoyer (the eater, citing the Bṛhadāraṇyaka’s food and eater) and then as the enjoyed, the oblation, and closes that this states Agni’s being the supreme Brahman. He also offers a simpler second gloss (yadvā), and Wilson’s note 2 reports both; the sentence gives the first and does not claim it is his only one. Plain sense faithful: 3.26.1 to 3 are the Kusikas’ invocation of Agni Vaisvanara, 4 to 6 the Maruts, and 7 is spoken in the first person as Agni; no four words of the key repeated. Revision 402119 dated 2024-05-02 by the Wikisource API. Evidence pieces all found in the packet. entry-check ok."
+}

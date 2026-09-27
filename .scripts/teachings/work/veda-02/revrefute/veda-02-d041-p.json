@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d041-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A7%E0%A5%A9&oldid=209073",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 41 --verse 4.13.5; the evidence span is found verbatim in the packet (machine substring check). Sāyaṇa: ayaṃ … maṇḍalābhimānī sūryaḥ … nyaṅ avāṅmukhaḥ san kenacit kathā kathaṃ na ava padyate na hiṃsyate, and ko dadarśa tattvataḥ kaḥ paśyati, na ko’pi jānātīty arthaḥ. So ‘falleth not’ (na ava padyate) is glossed na hiṃsyate with kenacit (harmed by none) while the Sun faces downward (avāṅmukhaḥ), and the last question ends in ‘no one knows’; the revised wording (‘as saying the Sun, facing downward, is harmed by none’) no longer makes the quoted phrase stand for the Sun, and drops the unsupported ‘though’. No drift; Wilson agrees (is harmed by no one). Verse: day.js shows 4.13.5 as the last verse of 4.13; the key is its first three sentences, stopping before the pillar sentence; verse.js ok, ref 4.13.5, at [308,5], 24 words. Plain sense: 4.13 moves from Agni and the Mornings to Savitar, the Sun made to ascend heaven and carried by seven Coursers; ‘hymn of sunrise’ and ‘closing verse’ are fair; no four-word run from the key. entry-check ok. No school, comparison or tone issue. All attacks fail.",
+ "better": ""
+}

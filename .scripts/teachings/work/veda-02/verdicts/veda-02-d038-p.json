@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d038-p",
+ "d": 38,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "What pathway leadeth to the Gods? Who knoweth this of a truth, and who will now declare it? Seen are their lowest dwelling-places only, but they are in remote and secret regions.",
+ "ref": "Rig Veda 3.54.5",
+ "at": [
+  287,
+  5
+ ],
+ "s": "In praise of Heaven and Earth, the singer breaks off with questions; Sāyaṇa, commentary on 3.54.5, takes the visible seats as those of gods in the form of stars, and the way to seats won by hidden rites as known to none without the Veda.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 3.54.5, sa.wikisource (printed edition not named), revision 292777 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%AB%E0%A5%AA&oldid=292777",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.५४, revision 292777 (2020-11-15)",
+    "locator": "commentary on 3.54.5, and the hymn introduction assigning verses 2 to 8 to Heaven and Earth",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n118/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "3.54.5 and its notes (as the constellations; made known by the Veda)",
+    "via": "packet"
+   }
+  ],
+  "words": "इममर्थं न कश्चिज्जानाति । न कोऽपि ब्रवीति । किं ते देवा विद्यन्ते । बाढमित्याह । “एषां दिवि स्थितानां नक्षत्ररूपाणां देवानाम् “अवमा अधोमुखानि “सदांसि स्थानानि “ददृशे दृश्यन्ते । तथापि “परेषु उत्तमेषु “गुह्येषु दुर्ज्ञानेषु \"व्रतेषु कर्मसु अनुष्ठितेषु “या यानि दिवि देवस्थानानि लभ्यन्ते तत्रागन्तुं को मार्ग इति वेदमन्तरेण न कश्चिज्जानातीत्यभिप्रायः",
+  "lang": "sa",
+  "gloss": "This matter no one knows; no one tells it. Do those gods exist? Assuredly, he says. The lower, downward-facing seats, that is places, of these gods who stand in heaven in the form of stars are seen. Yet the seats of the gods in heaven that are won when the highest, secret, that is hard-to-know, vows, that is rites, are performed: what path there is to go there, no one knows without the Veda; that is the intent.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.54.5, at [287,5]). Sāyaṇa on 3.54.5 takes the lower seats that are seen as those of gods standing in heaven in the form of stars (nakṣatrarūpa), and the seats won by performing the highest, secret rites as places whose path no one knows without the Veda; Wilson’s notes report both (as the constellations; made known by the Veda). The sentence carries these two points without addition. Plain sense faithful: Sāyaṇa’s own introduction and the text of 3.54.2 to 3.54.4 set verses 2 to 8 in praise of Heaven and Earth, and 3.54.5 turns to questions; no four words of the key verse repeated. Revision 292777 dated 2020-11-15 by the Wikisource API. Evidence copied from the packet with its stray quotation marks as printed. entry-check ok."
+}

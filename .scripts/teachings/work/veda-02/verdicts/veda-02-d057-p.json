@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d057-p",
+ "d": 57,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I know not either warp or woof, I know not the web they weave when moving to the contest.",
+ "ref": "Rig Veda 6.9.2",
+ "at": [
+  449,
+  2
+ ],
+ "s": "Praising Agni Vaisvanara, the singer owns an ignorance the next verse sets against the god’s knowledge; Sāyaṇa, on 6.9.2, explains the web as the sacrifice, the metres its warp and the Adhvaryu’s formulas its woof, or, for the knowers of the Self, as creation.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.9.2, sa.wikisource (printed edition not named), revision 209204 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AF&oldid=209204",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ६.९, revision 209204 (2019-08-11)",
+    "locator": "commentary on 6.9.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n422/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "6.9.2 and Wilson’s note 1 (tantu, otu; sampradāyavidaḥ, ātmavidaḥ)",
+    "via": "packet"
+   }
+  ],
+  "words": "वैश्वानरस्य महत्त्वमाख्यास्यन्नृषिस्तदर्थं यज्ञं वस्त्रात्मकतया रूपयन् तस्य दुर्ज्ञानत्वमनया प्रतिपादयतीति यज्ञवादिनो मन्यन्ते । “तन्तुम् । तन्तवः पटस्य प्रागायतानि सूत्राणि । तानि च यज्ञात्मकस्य वस्त्रस्य गायत्र्यादीनि छन्दांसि स्तुतशस्त्राणि च । … ओतवस्तिरश्चीनानि सूत्राणि । तानि चात्र यजूंष्याध्वर्यवाणि कर्माणि च । … रूपकतया जगत्सृष्टेर्दुर्ज्ञानत्वमनया प्रतिपादयतीत्यात्मविदो मन्यन्ते ।",
+  "lang": "sa",
+  "gloss": "About to tell the greatness of Vaiśvānara, the seer, figuring the sacrifice as a cloth, declares by this verse how hard it is to know: so those who hold by the sacrifice think. Tantu: the lengthwise threads of a cloth (the warp); for the cloth that is the sacrifice these are the metres beginning with the Gāyatrī, and the chanted and recited praises. … The otu are the threads running across (the woof); here these are the yajus formulas and acts of the Adhvaryu. … The knowers of the Self think that, by the figure, it declares how hard the creation of the world is to know.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 6.9.2, at [449,2]), the verse’s first sentence, no dash. Sāyaṇa on 6.9.2 (sa.wikisource rev. 209204, dated 2019-08-11 by the Wikisource API) figures the sacrifice as a cloth: warp (tantu) the Gāyatrī and other metres with the stuta and śastra praises, woof (otu) the yajus formulas and the Adhvaryu’s acts; he then gives the view of the ātmavidaḥ, that the figure is of the creation of the world. The sentence’s ‘Adhvaryu’s formulas’ compresses yajūṃṣy ādhvaryavāṇi karmāṇi ca without drift, and ‘or, for the knowers of the Self’ keeps his second view attributed. Wilson’s note 1 agrees. Plain sense: 6.9.1 names Agni Vaisvanara and 6.9.3 says he knows warp and woof; faithful, no four words of the key. entry-check ok."
+}

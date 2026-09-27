@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d060-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%A9%E0%A5%AC&oldid=188373",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 60 --verse 6.36.3 (sa.wikisource rev 188373): Sāyaṇa says यथा स्यन्दनशीला नद्यः समुद्रमाविशन्त्याविश्य च विभक्ततया न दृश्यन्ते एवं सर्वा अपि स्तुतय इन्द्रेणैकीभवन्ति, which carries both halves of the reading (rivers not seen apart once in the sea; all praises become one with Indra) without drift. verse.js ok (6.36.3, at 476,3); the key is the second sentence of the verse, and the plain clause paraphrases the verse’s first sentence (help, might, vigour as teams) without four words of the key. Locator right. Revision year 2019 confirmed by the MediaWiki API (2019-02-01). entry-check ok. Weakest point: ‘the singer turns to the songs’ is thin context, but not a breach. No comparison, school or tone issue.",
+ "better": ""
+}

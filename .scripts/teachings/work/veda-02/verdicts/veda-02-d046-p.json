@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d046-p",
+ "d": 46,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Lighting all living creatures, ne’er to be deceived, Savitar, God, protects each holy ordinance. He hath stretched out his arms to all the folk of earth, and, with his laws observed, rules his own mighty course.",
+ "ref": "Rig Veda 4.53.4",
+ "at": [
+  348,
+  4
+ ],
+ "s": "In a hymn that follows Savitar across heaven and earth, the verse turns to his care for all that lives; Sāyaṇa, on 4.53.4, reads the outstretched arms as his leave to each creature for its own work, since all activity depends on the Sun.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.53.4, sa.wikisource (printed edition not named), revision 222991 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%AB%E0%A5%A9&oldid=222991",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ४.५३, revision 222991 (2020-01-22)",
+    "locator": "commentary on 4.53.4, read with 4.53.3",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n244/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "4.53.4",
+    "via": "packet"
+   }
+  ],
+  "words": "“सविता “देवः “अदाभ्यः अन्यैरहिंसितः सन् “भुवनानि “प्रचाकशत् दीपयन् \"व्रतानि कर्माणि प्राणिनाम् \"अभि \"रक्षते । \"भुवनस्य लोकस्य \"प्रजाभ्यः तत्रत्याभ्यः \"बाहू स्वीयौ \"प्रास्राक् प्रसारयति । स्वस्वकर्मणे अनुजानातीत्यर्थः । सर्वव्यापाराणां सूर्याधीनत्वात् । सविता वै प्रसवानामीशे' ( ऐ. ब्रा. १. १६ ) इति हि श्रुतिः ।",
+  "lang": "sa",
+  "gloss": "The god Savitṛ, unharmed by others, lighting up the worlds, protects the works (vratāni) of living beings. To the creatures of the world he stretches out his two arms: the meaning is that he gives each leave for its own work, because all activities depend on the Sun; for scripture says, Savitṛ is lord of the impulses (Aitareya Brāhmaṇa 1.16).",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 4.53.4, at [348,4]). Sāyaṇa on 4.53.4 glosses the stretching out of the arms as svasvakarmaṇe anujānāti, he permits each to its own work, because all activity depends on the Sun (sarvavyāpārāṇāṃ sūryādhīnatvāt), citing Aitareya Brāhmaṇa 1.16; the sentence says exactly this without addition. His comment on 4.53.3 (the arms stretched for impelling, settling the world each in its task) agrees. Wilson renders ‘extends his arms for (the direction of) the people of the earth’, following him. Plain sense faithful: 4.53 praises Savitar filling heaven and earth and upholding all that moves; no four words of the key verse repeated. Revision 222991 dated 2020-01-22 by the Wikisource API. entry-check ok."
+}

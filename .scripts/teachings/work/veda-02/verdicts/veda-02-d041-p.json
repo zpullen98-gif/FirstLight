@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d041-p",
+ "d": 41,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "How is it that, unbound and not supported, he falleth not although directed downward? By what self power moves he? Who hath seen it?",
+ "ref": "Rig Veda 4.13.5",
+ "at": [
+  308,
+  5
+ ],
+ "s": "In a hymn of sunrise that follows the Sun’s coursers up the sky, the closing verse turns to his motion; Sāyaṇa, on 4.13.5, reads ‘falleth not’ as the Sun, though facing down, harmed by none, and the last question as meaning that no one knows.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.13.5, sa.wikisource (printed edition not named), revision 209073 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A7%E0%A5%A9&oldid=209073",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ४.१३, revision 209073 (2019-08-08)",
+    "locator": "commentary on 4.13.5, and the hymn introduction (Agni, or the deities named in each verse, Dawn and the rest)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n169/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "4.13.5 (whether downwards or looking upwards, is harmed by no one; who has truly beheld him)",
+    "via": "packet"
+   }
+  ],
+  "words": "आयतशब्दो दूरवाची । तद्विपरीतः \"अनायतः आसीनः सन् “अयं प्रत्यक्षेणोपलभ्यमानो मण्डलाभिमानी सूर्यः \"अनिबद्धः केनापि बद्धो न क्रियते । अपि चायं सूर्यः “न्यङ् अवाङ्मुखः सन् केनचित् “कथा कथं “न “अव \"पद्यते न हिंस्यते । किंचायम् “उत्तानः ऊर्ध्वमुखत्वेन तिष्ठन् “कया “स्वधया केन बलेन “याति गच्छति । स्वधाशब्दोऽन्नवाची अत्र तत्कार्यं बलं लक्षयति । अपि च “दिवः द्युलोकस्य “स्कम्भः स्तम्भः “समृतः नाकेन समवेतः सूर्यः “नाकं स्वर्गं “पाति पालयति । “को “ददर्श तत्त्वतः कः पश्यति । न कोऽपि जानातीत्यर्थः",
+  "lang": "sa",
+  "gloss": "Āyata means far; its opposite, anāyata, is near. This sun, the deity of the orb, seen before the eyes, is unbound: he is bound by no one. And this sun, facing downward, how is it that he is not brought down, that is, not harmed, by anyone? And standing face upward, by what svadhā, what strength, does he go? Svadhā means food; here it indicates the strength that food produces. And the pillar of heaven, joined with the vault, the sun guards the vault, heaven. Who has seen: who sees it in truth? The meaning is that no one knows.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse is the first three sentences of 4.13.5, verbatim (verse.js ok, ref 4.13.5, at [308,5]). The reading is Sāyaṇa’s: on 4.13.5 he glosses nyaṅ as facing downward and na ava padyate as na hiṃsyate (not harmed), and ends ‘who truly sees? the meaning is that no one knows’; Wilson’s translation follows him. Two wording corrections. (1) ‘In a dawn hymn’ became ‘In a hymn of sunrise’: Sāyaṇa’s introduction assigns the hymn to Agni, or to the deities named in each verse, and verses 1 to 4 follow the Sun rising and borne by his coursers, so ‘dawn hymn’ overstated the genre; ‘the last verse’ became ‘the closing verse’. (2) ‘no one truly knows’ became ‘that no one knows’: in Sāyaṇa ‘truly’ (tattvataḥ) qualifies the seeing, and his conclusion is simply that no one knows. The proposer’s evidence used an ellipsis; the evidence here is one continuous span copied from packet.js. Revision 209073 dated 2019-08-08 by the Wikisource API. Corrected entry passes entry-check."
+}

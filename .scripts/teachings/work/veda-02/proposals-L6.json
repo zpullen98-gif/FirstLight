@@ -1,0 +1,89 @@
+{
+ "lane": "L6",
+ "plan": "veda",
+ "batch": "veda-02",
+ "days": [
+  {
+   "d": 63,
+   "primary": {
+    "id": "veda-02-d063-p",
+    "key": "Mighty is homage: I adopt and use it. Homage hath held in place the earth and heaven.",
+    "ref": "Rig Veda 6.51.8",
+    "at": [
+     491,
+     8
+    ],
+    "s": "After a plea not to suffer for another’s sin, the hymn to the Universal Gods praises reverence itself; Sāyaṇa, on 6.51.8, reads homage as mightiest because all is won by it, and heaven and earth as lasting long because creatures revere them.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.51.8, sa.wikisource (printed edition not named), revision 200162 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“नम “इत् नमस्कार एव “उग्रम् उद्गूर्णबलं सर्वोत्कृष्टम् । तेन हि सर्वं लभ्यते । अतः “नमः नमस्कारम् “आ “विवासे परिचरामि । “नमः नमस्कार एव “पृथिवीमुत “द्यां द्युलोकं च “दाधार धारयति । द्यावापृथिव्यौ प्राणिभिर्नमस्क्रियमाणे सत्यौ तदुपभोगाय चिरकालमवतिष्ठेते ।",
+     "gloss": "Homage alone is mighty, of raised strength, highest of all; for by it everything is obtained. Therefore I serve homage. Homage itself upholds earth and heaven: heaven and earth, being revered by living beings, remain for a long time for their use."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d063-s",
+    "key": "O PUSAN, bring us to the man who knows, who shall direct us straight, And say unto us, It is here.",
+    "ref": "Rig Veda 6.54.1",
+    "at": [
+     494,
+     1
+    ],
+    "s": "The verse opens a hymn to Pusan that ends by asking him to drive the lost home; Sāyaṇa, on 6.54, takes the hymn as one to mutter when seeking lost goods, and the knower as one who teaches their recovery and points them out.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.54 (opening note and verse 1), sa.wikisource, revision 200268 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "नष्टधनमन्विच्छता पुरुषेणैतज्जप्यम् । … विदुषा जानता तेन जनेन “सं “नय अस्मान् संगमय “यः विद्वान् “अञ्जसा ऋजुमार्गेण “अनुशासति अनुशास्ति नष्टद्रव्यप्राप्त्युपायमुपदिशति । “यः च “एव एवम् “इदं नष्टं भवदीयं धनम् “इति “ब्रवत् ब्रवीति । नष्टं धनं दर्शयतीत्यर्थः ।",
+     "gloss": "This hymn is to be muttered by a man seeking lost wealth. … With that knowing person: the wise man who teaches by the straight way, who teaches the means of recovering the lost goods, and who says thus, this is your lost wealth; that is, he shows the lost wealth."
+    }
+   }
+  },
+  {
+   "d": 64,
+   "primary": {
+    "id": "veda-02-d064-p",
+    "key": "As the birds fly forth from their resting places, so men with store of food rise at thy dawning.",
+    "ref": "Rig Veda 6.64.6",
+    "at": [
+     504,
+     6
+    ],
+    "s": "Closing a hymn to the Dawn that praises her easy paths over hills and waters, the singer turns to the stir of morning; Sāyaṇa, on 6.64.6, reads the men who rise as those who share the offerings, or as those who earn their food.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 6.64.6, sa.wikisource (printed edition not named), revision 200403 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“ते तव “व्युष्टौ सत्यां “वयश्चित् पक्षिणोऽपि “वसतेः निवासस्थानात् “उत् “अपप्तन् उत्पतन्ति । \"ये “पितुभाजः हविषां संभक्तारः अन्नस्योपार्जका वा । ‘ पितुः । इत्यन्ननामसु पाठात् । \"नरः तेऽपि च उत्पतन्ति ।",
+     "gloss": "At thy dawning, even the birds fly up from their dwelling place. The men who are pitubhāj, sharers of the oblations or earners of food (for pitu is read among the names of food), they too rise up."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d064-s",
+    "key": "She with her might, like one who digs for lotus-stems, hath burst with her strong waves the ridges of the hills. Let us invite with songs and holy hymns for help Sarasvati who slayeth the Paravatas.",
+    "ref": "Rig Veda 6.61.2",
+    "at": [
+     501,
+     2
+    ],
+    "s": "Following the son she gave to Vadhryasva, the hymn to Sarasvati turns from her gifts to the force of her waters; Yāska, Nirukta 2.24, takes ‘slayeth the Paravatas’ as the river’s destroying what lies on her far bank and her near bank alike.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 2.24, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "Who sweeps what is far and what is near alike, i. e. who destroys what is on the other, as well as what is on this, bank. Pdram means something afar ; avdram, something near at hand.",
+     "gloss": "Pārāvataghnī is she who destroys what stands on the far bank and on the near bank alike: pāram is what is far, avāram what is near at hand."
+    }
+   }
+  }
+ ]
+}

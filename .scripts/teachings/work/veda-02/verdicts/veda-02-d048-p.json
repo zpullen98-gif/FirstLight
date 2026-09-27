@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d048-p",
+ "d": 48,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "As I, remembering thee with grateful spirit, a mortal, call with might on thee Immortal, Vouchsafe us high renown, O Jatavedas, and may I be immortal by my children.",
+ "ref": "Rig Veda 5.4.10",
+ "at": [
+  357,
+  10
+ ],
+ "s": "Near the end of a hymn that calls Agni father and guest, the singer makes his own plea; Sāyaṇa, on 5.4.10, reads this immortality as a line of descendants never broken, citing a text in which the mortal is born again in his offspring.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.4.10, sa.wikisource (printed edition not named), revision 324070 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AA&oldid=324070",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ५.४, revision 324070 (2021-11-08)",
+    "locator": "commentary on 5.4.10",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n267/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "5.4.10 and its notes 1 and 2",
+    "via": "packet"
+   }
+  ],
+  "words": "हे “जातवेदः “यशः धनं प्रजां वा “अस्मासु “धेहि । \"प्रजाभिः त्वद्दत्ताभिर्हे “अग्ने अहम् “अमृतत्वं संतत्यविच्छेदलक्षणम् “अश्यां प्राप्नुयाम् । प्रजामनु प्रजायसे तदु ते मर्त्यामृतम्' (तै. ब्रा. १. ५. ५. ६ ) इति हि श्रुतिः ॥",
+  "lang": "sa",
+  "gloss": "O Jātavedas, place in us renown, that is wealth or offspring. By offspring given by thee, O Agni, may I attain immortality, the kind marked by the unbroken continuance of the line; for scripture says: after offspring thou art born again; that, O mortal, is thy immortality (Taittirīya Brāhmaṇa 1.5.5.6).",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 5.4.10, at [357,10]). Sāyaṇa on 5.4.10 glosses amṛtatvam as immortality marked by the unbroken continuance of the line (saṃtatyavicchedalakṣaṇam) and cites the śruti prajām anu prajāyase tad u te martyāmṛtam (TB 1.5.5.6), in which the mortal is born again after his offspring; Wilson note 1 reports the same. Plain sense faithful: 5.4.2 calls Agni Eternal Father, 5.4.5 guest in the dwelling, and 5.4.10 is the singer’s own first-person plea in the hymn’s penultimate verse. Revision 324070 dated 2021-11-08 by the Wikisource API, so the src year stands. Evidence copied from packet.js output. entry-check ok."
+}

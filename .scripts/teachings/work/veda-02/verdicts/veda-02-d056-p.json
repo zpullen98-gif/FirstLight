@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d056-p",
+ "d": 56,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "None, verily, hath ever let or hindered this the most wise God’s mighty deed of magic, Whereby with all their flood, the lucid rivers fill not one sea wherein they pour their waters.",
+ "ref": "Rig Veda 5.85.6",
+ "at": [
+  438,
+  6
+ ],
+ "s": "Before the hymn to Varuna turns to pleas for pardon, the singer marvels at the sea; Sāyaṇa, on 5.85.6, takes the magic as wisdom, and the works as fitly Varuna’s, since the Supreme Lord abides in the forms of Varuna and the other gods.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.85.6, sa.wikisource (printed edition not named), revision 209192 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AE%E0%A5%AB&oldid=209192",
+    "edition": "Vedārthaprakāśa, sa.wikisource, revision 209192 (printed edition not named)",
+    "locator": "Sāyaṇa, commentary on 5.85.6",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n402/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857), archive.org rigvedasanhitc03wils (OCR)",
+    "locator": "Wilson on 5.85.6",
+    "via": "packet"
+   }
+  ],
+  "words": "“कवितमस्य प्रकृष्टप्रज्ञस्य “देवस्य द्योतमानस्य स्तुत्यस्य वा वरुणस्य “इमां सर्वप्रसिद्धां “महीं महतीं \"मायां प्रज्ञां \"नकिः नैव “आ “दधर्ष न हिनस्ति कश्चिदपि । “ऊ “नु इति पूरणौ। “यत् यस्मात् “एकं “समुद्रम् “उद्ना उदकेन “न “पृणन्ति न पूरयन्ति । काः। “एनीः एन्यः शुभ्रा गमनशीला वा “आसिञ्चन्तीः उदकमासेचयन्त्यः “अवनयः नद्यः । बह्व्यो नद्यः सर्वदोदकेन पूरयन्त्योऽपि नैकमपि समुद्रं पूरयन्तीति । इदं वरुणस्य महत् कर्म इति । अत्र अन्तरिक्षविस्तारादि समुद्रापूरणपर्यन्तं कर्म परमेश्वरस्यैवोचितं न वरुणस्येति न वाच्यं तस्य वरुणादिरूपावस्थानात् । एष ब्रह्मेत्यादिश्रुतेः ॥",
+  "lang": "Sanskrit",
+  "gloss": "No one at all harms this great māyā, that is wisdom, known to all, of the most wise god Varuṇa, shining or praiseworthy; for the many shining rivers pouring their water do not fill even one sea. This is Varuṇa’s great deed. Here it must not be said that the work, from spreading the mid-air to not filling the sea, befits the Supreme Lord alone and not Varuṇa, because He abides in the forms of Varuṇa and the rest, by the śruti ‘this is Brahman’ and the like.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 438/6). Sāyaṇa on 5.85.6 glosses māyā as prajñā (wisdom) and adds that it must not be said the works from spreading the mid-air to the unfilled sea befit only the Supreme Lord and not Varuṇa, since He abides in the forms of Varuṇa and the rest, citing ‘this is Brahman’. The Sanskrit (न वाच्यं) supports the proposal; Wilson’s note on 5.85.6 inverts it (‘not the acts of Varuna, but of Parameswara’), so the Sanskrit, not Wilson, is the evidence. Plain sense fits: 5.85.7 to 5.85.8 plead for pardon. Revision 209192 is 2019-08-11. entry-check ok."
+}

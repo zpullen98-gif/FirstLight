@@ -1,0 +1,11 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 50,
+   "id": "veda-02-d050-p",
+   "problem": "The revision still leaves the second half unclear to a lay reader: \"told he was easy\" drops \"to reach\", so it reads as a remark on Indra's temper (easy-going) rather than Sāyaṇa's sulabhaḥ, and with \"him\" pointing first to the seer and then to Indra the clause has to be read twice. The sentence sits at the 45-word cap, so the missing words cannot simply be added.",
+   "fix": "Keep the evidence and trim the context clause, e.g. \"After asking who has seen Indra, the singer recounts his search; Sāyaṇa, on 5.30.2, takes him as a seer who asked whether Indra, though real, was hard to reach and, told he was not, saw the rest of the hymn as the way to him.\" (45 words; sulabhaḥ = not hard to reach; indraprāptyarthaṃ sūktaśeṣam apaśyat). Rerun entry-check."
+  }
+ ]
+}

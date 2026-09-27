@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d034-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A8%E0%A5%AC&oldid=402119",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 34 --verse 3.26.7. Sāyaṇa: agnir dvṛcena svātmanaḥ sarvātmakatvānubhavam āviṣkaroti, addressed to the Kuśikas; the world is twofold as bhoktṛ and bhogya; sākṣātkṛtaparatattvasvarūpo 'smi without śravaṇa and manana; bhoktṛrūpam ... bhogyarūpatām api anusaṃdhatte; closing tad anenāgneḥ sarvātmakatvapratipādanena parabrahmatvam uktaṃ bhavati. Every clause of the reading (seen the highest reality, self of all, eater and eaten, so the supreme Brahman) is in his words; Wilson note 2 concurs (enjoyer and enjoyed, food and feeder). He also offers a simpler yadvā reading, but omitting an alternative is not a false attribution, and the Brahman conclusion closes the whole comment. Plain sense matches day.js: Kusikas in 3.26.1 and 3.26.3, Agni Vaisvanara 3.26.1 to 3, storming Maruts 3.26.4 to 6, first person Agni in 3.26.7. verse.js ok at [259,7]; entry-check ok. All attacks fail.",
+ "better": ""
+}

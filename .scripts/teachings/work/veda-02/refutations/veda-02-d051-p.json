@@ -1,0 +1,8 @@
+{
+ "id": "veda-02-d051-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%AA%E0%A5%A6&oldid=403751", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 51 --verse 5.40.5, 5.40.6 and 5.40.8. verse.js ok (ref 5.40.6, at [393,6]); entry-check ok; evidence words string-match the packet (squashed, one piece, found). Sāyaṇa on 5.40.6 names the fourth brahman by its pratīka ‘grāvṇo brahmā’ (= 5.40.8, confirmed on 5.40.8: tad etad uktaṃ turīyaṃ brahma), says its fourthness is relative to the preceding mantras, and that each mantra drove off one portion of the māyā (ekaikaṃ māyāṃśam ekaikena mantreṇāpanodya), the fourth even the hidden darkness; on 5.40.5 he says the Atris’ deed is told in four mantras beginning there, so the earlier ones are 5.40.5 to 5.40.7. The sentence carries exactly this. Plain sense faithful to day.js: 5.40.1 to 5.40.4 call Indra to the Soma, 5.40.5 to 5.40.9 tell of Svarbhanu’s darkness; ‘freed the light’ is a light gloss of ‘discovered’ but is borne out by 5.40.8 to 5.40.9 (magic made to vanish, Sun found again), so not a landing attack. No school needed, no comparison, tone even. Minor: src names 5.40.5 and 5.40.6 while the sentence and evidence locate at 5.40.6; harmless.",
+ "better": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-02-d042-p",
+ "d": 42,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Not this way go I forth: hard is the passage. Forth from the side obliquely will I issue. Much that is yet undone must I accomplish; one must I combat and the other question.",
+ "ref": "Rig Veda 4.18.2",
+ "at": [
+  313,
+  2
+ ],
+ "s": "The verse answers the first voice, which urges the old path of birth; Sāyaṇa, on 4.18.2, hears the sage Vāmadeva, still unborn, answering Indra, and takes the one to be fought as a rival, the one questioned as a seeker of knowledge.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.18.2, sa.wikisource (printed edition not named), revision 321007 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AA.%E0%A5%A7%E0%A5%AE&oldid=321007",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ४.१८, revision 321007 (2021-09-12)",
+    "locator": "commentary on 4.18.2, and the hymn introduction",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc03wils/page/n180/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 3 (1857)",
+    "locator": "4.18.1 note 1 and 4.18.2",
+    "via": "packet"
+   }
+  ],
+  "words": "वामदेव एवमुक्तवन्तमिन्द्रं प्रत्याह । “अहम् “अतः योनिमार्गात् \"न “निरया न निरयाणि । न निर्गच्छानि। “एतत् योनिनिर्गमरूपं वर्त्म \"दुर्गहा दुर्ग्रहम् । दुःखेन ग्राह्यम्। न प्राप्यं भवतीत्यर्थः। किंतु “तिरश्चता तिरश्चीनात् \"पार्श्वात् “निर्गमानि निर्गच्छानि । योनिदेशादनिर्गतोऽहं पार्श्वं भित्त्वा निर्गच्छानीत्यर्थः । अन्यैरकृतमिदमेव न केवलं मया क्रियते किंत्वन्यैः अकृतानि “बहूनि कर्माणि “मे “कर्त्वानि कर्तव्यानि सन्ति। “त्वेन एकेन सपत्नेन विवदमानेन सह “युध्यै युद्धं करवाणि । “त्वेन एकेन बुभुत्सुना “सं पृच्छै सम्यक् पृच्छानि",
+  "lang": "sa",
+  "gloss": "Vāmadeva answers Indra, who had spoken so. I will not go out by this, the path of the womb; I will not go forth. This way, the going out from the womb, is hard to take, not to be reached. Rather I will go out from the side, obliquely: the meaning is, not having come out from the place of the womb, I will go out by breaking through the side. Not only this, which others have not done, is done by me: many deeds undone by others are mine to do. With one, a rival who disputes with me, let me fight; with one who wishes to know, let me question well.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 4.18.2, at [313,2]). Sāyaṇa on 4.18.2 opens: Vāmadeva answers Indra, who had spoken the first verse (he marks 4.18.1 indravākyam); he glosses the side exit as breaking through the side while not yet out of the womb (yonideśād anirgato ’ham), the one to be fought as sapatnena vivadamānena, a disputing rival, and the one questioned as bubhutsunā, one wishing to know. The hymn introduction he quotes calls Vāmadeva garbhastho jñānasaṃpanno mahāmuniḥ, and Wilson note 1 reports the same legend from Sāyaṇa. Plain sense faithful: 4.18.2 does answer 4.18.1, which commends the ancient path of birth; no four words of the key are repeated. Revision 321007 dated 2021-09-12 by the Wikisource API, so the src year stands. Evidence copied from packet.js output. entry-check ok."
+}

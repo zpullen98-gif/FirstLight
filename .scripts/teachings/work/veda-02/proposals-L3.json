@@ -1,0 +1,217 @@
+{
+ "lane": "L3",
+ "plan": "veda",
+ "batch": "veda-02",
+ "days": [
+  {
+   "d": 45,
+   "primary": {
+    "id": "veda-02-d045-p",
+    "key": "The Hamsa homed in light, the Vasu in mid-air, the priest beside the altar, in the house the guest, Dweller in noblest place, mid men, in truth, in sky, born of flood, kine, truth, mountain, he is holy Law.",
+    "ref": "Rig Veda 4.40.5",
+    "at": [335, 5],
+    "s": "Closing a hymn to the steed Dadhikravan, the verse names one being by his many dwellings; Sāyaṇa, on 4.40.5, reads them as the Sun, wind and fire, and the Sun as one with the Self in every creature and with the unconditioned Brahman.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.40.5, sa.wikisource (printed edition not named), revision 216198 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अनया सौर्यर्चा य एषोऽन्तरादित्ये हिरण्मयः पुरुषो दृश्यते हिरण्यश्मश्रुः' (छा. उ. १.६. ६) इत्यादिश्रुत्युक्तो मण्डलाभिमानी देवोऽस्ति यश्च सर्वप्राणिचित्तरूपस्थितः परमात्मा यच्च निरस्तसमस्तौपाधिकं परं ब्रह्म तत्सर्वमेकमेवेति प्रतिपाद्यते ॥ … अनेन द्युस्थानः आदित्यः प्रतिपादितः । स एव मध्यस्थानो वायुरित्याह । … अथ तस्यैव क्षितिस्थानवैदिकाग्निरूपतामाह ।",
+     "gloss": "By this verse to the Sun it is taught that the god who presides over the solar orb, spoken of in scripture as ‘the golden person, golden-bearded, who is seen within the sun’ (Chāndogya Upaniṣad 1.6.6), the supreme Self who abides as the mind of every creature, and the supreme Brahman from which every limiting adjunct is removed, are all one. … By this the Sun whose seat is heaven is set forth; he says the same one is the wind whose seat is the mid-air. … Then he states that he takes the form of the Vedic fire whose seat is the earth."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d045-s",
+    "key": "Dadhikras hath o’erspread the Fivefold People with vigour, as the Sun lightens the waters. May the strong Steed who winneth hundreds, thousands, requite with sweetness these my words and praises.",
+    "ref": "Rig Veda 4.38.10",
+    "at": [333, 10],
+    "s": "Closing a hymn that follows the war steed Dadhikras through battle, the singer asks a return for his praises; Yāska, Nirukta 10.31, takes the likeness crosswise, the steed spreading the waters and the Sun the five peoples, and the sweetness as water.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 10.31, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "Dadhikra spreads out water [with might] witli strength as the sun tlie five human triV)es with light. Thousand-gaining, hundred-gaining is the swift, i. e. having speed, courser, i. e. having motion. May he commingle these speeches of ours with honey, i. e. water.",
+     "gloss": "Dadhikrā spreads out the water with might, that is with strength, as the sun spreads the five human tribes with light. Winning thousands, winning hundreds is the swift, that is the speedy, courser, that is the one that moves. May he mingle these words of ours with honey, that is with water."
+    }
+   }
+  },
+  {
+   "d": 46,
+   "primary": {
+    "id": "veda-02-d046-p",
+    "key": "Lighting all living creatures, ne’er to be deceived, Savitar, God, protects each holy ordinance. He hath stretched out his arms to all the folk of earth, and, with his laws observed, rules his own mighty course.",
+    "ref": "Rig Veda 4.53.4",
+    "at": [348, 4],
+    "s": "In a hymn that follows Savitar across heaven and earth, the verse turns to his care for all that lives; Sāyaṇa, on 4.53.4, reads the outstretched arms as his leave to each creature for its own work, since all activity depends on the Sun.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.53.4, sa.wikisource (printed edition not named), revision 222991 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "“सविता “देवः “अदाभ्यः अन्यैरहिंसितः सन् “भुवनानि “प्रचाकशत् दीपयन् \"व्रतानि कर्माणि प्राणिनाम् \"अभि \"रक्षते । \"भुवनस्य लोकस्य \"प्रजाभ्यः तत्रत्याभ्यः \"बाहू स्वीयौ \"प्रास्राक् प्रसारयति । स्वस्वकर्मणे अनुजानातीत्यर्थः । सर्वव्यापाराणां सूर्याधीनत्वात् । सविता वै प्रसवानामीशे' ( ऐ. ब्रा. १. १६ ) इति हि श्रुतिः ।",
+     "gloss": "The god Savitṛ, unharmed by others, lighting up the worlds, protects the works (vratāni) of living beings. To the creatures of the world he stretches out his two arms: the meaning is that he gives each leave for his own work, because all activities depend on the Sun; for scripture says, ‘Savitṛ is lord of the impulses’ (Aitareya Brāhmaṇa 1.16)."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d046-s",
+    "key": "DRINK the best draught of Soma-juice, O Vayu, at our holy rites: For thou art he who drinketh first.",
+    "ref": "Rig Veda 4.46.1",
+    "at": [341, 1],
+    "s": "Opening a short hymn that then calls Vayu and Indra together to the Soma, the verse addresses Vayu alone; Sāyaṇa, on 4.46.1, reads his first draught through the Aitareya Brāhmaṇa, where Vayu won the gods’ race for the first drink of Soma.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.46.1, sa.wikisource (printed edition not named), revision 401139 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“त्वं “हि त्वं खलु “पूर्वपा “असि । हिशब्दः ‘देव दधिषे पूर्वपेयम्' (ऋ. सं. ७, ९२. १ ) इत्यादिमन्त्रान्तरप्रसिद्धिद्योतनार्थः । वायोरग्रपानं देवा वै सोमस्य राज्ञोऽग्रपेये न समपादयन्नहं प्रथमः पिबेयम् ' ( ऐ. ब्रा. २. २५) इत्यादिब्राह्मणे स्पष्टमाम्नातम् । तत्र हि वायुराजिं प्रथमं धावित्वाग्रपानं लब्धवान् ॥",
+     "gloss": "‘For you are the first drinker’: the word hi points to what is well known from other mantras, such as ‘O god, you hold the first drink’ (Rig Veda 7.92.1). Vāyu’s first drink is plainly taught in the Brāhmaṇa: ‘The gods could not agree over the first drink of King Soma; let me drink first’ (Aitareya Brāhmaṇa 2.25) and so on; for there Vāyu, running the race first, won the first drink."
+    }
+   }
+  },
+  {
+   "d": 47,
+   "primary": {
+    "id": "veda-02-d047-p",
+    "key": "Four are his horns, three are the feet that bear him; his heads are two, his hands are seven in number. Bound with a triple bond the Steer roars loudly: the mighty God hath entered in to mortals.",
+    "ref": "Rig Veda 4.58.3",
+    "at": [353, 3],
+    "s": "In a hymn that praises the streams of holy oil poured to Agni, the verse turns to a many-limbed Steer; Sāyaṇa, on 4.58.3, reads it first as the sacrificial Agni: four Vedas for horns, three pressings for feet, seven metres for hands.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 4.58.3, sa.wikisource (printed edition not named), revision 402369 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "यद्यपि सूक्तस्याग्निसूर्यादिपञ्चदेवताकत्वात् पञ्चधायं मन्त्रो व्याख्येयस्तथापि निरुक्ताद्युक्तनीत्या यज्ञात्मकाग्नेः सूर्यस्य च प्रकाशकत्वेन तत्परतया व्याख्यायते । अस्य यज्ञात्मकस्याग्नेः “चत्वारि “शृङ्गा चत्वारो वेदाः शृङ्गस्थानीयाः । … “त्रयो “अस्य “पादाः सवनानि त्रीण्यस्य पादाः । … “सप्त “हस्तासः सप्त छन्दांसि ।",
+     "gloss": "Although, since the hymn has five deities, Agni, the Sun and the rest, this mantra could be explained in five ways, yet by the method stated in the Nirukta and elsewhere it is explained as referring to Agni whose self is the sacrifice, and to the Sun, as making them known. Of this Agni who is the sacrifice, the four horns are the four Vedas, standing in the place of horns. … Its three feet are the three pressings. … The seven hands are the seven metres."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d047-s",
+    "key": "THOU at thy birth art Varuna, O Agni; when thou art kindled thou becomest Mitra. In thee, O Son of Strength, all Gods are centred. Indra art thou to man who brings oblation.",
+    "ref": "Rig Veda 5.3.1",
+    "at": [356, 1],
+    "s": "Opening a hymn to Agni, the verse names him by god after god; Sāyaṇa, on 5.3.1, takes Varuna as night’s god, warding off darkness, Mitra as day’s, and the gods as lodged in Agni, living on the offerings he gives them.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.3.1, sa.wikisource (printed edition not named), revision 351464 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे अग्ने “त्वं वरुणः तमसां वारको रात्र्यभिमानी देवोऽपि त्वमेव “यत् यदा “जायसे । किंच “त्वं “मित्रः अहरभिमानी देवः प्रमीतेस्त्राता “यत् यदा समिद्धः । त्वमुत्पन्नमात्रः सन् तमो निवारयसि प्रवृद्धः सन् हितकारी भवसीत्यर्थः । “त्वे त्वयि “विश्वे सर्वेऽपि “देवाः वर्तन्ते । त्वद्दत्तेन हविषा तेषां जीवनात् ।",
+     "gloss": "O Agni, when you are born you are Varuṇa, the warder-off of darkness, the god who presides over the night; and when kindled you are Mitra, the god who presides over the day, the protector from death. The meaning is: as soon as you are born you ward off darkness, and grown strong you do good. In you all the gods abide, because they live by the oblation you give them."
+    }
+   }
+  },
+  {
+   "d": 48,
+   "primary": {
+    "id": "veda-02-d048-p",
+    "key": "As I, remembering thee with grateful spirit, a mortal, call with might on thee Immortal, Vouchsafe us high renown, O Jatavedas, and may I be immortal by my children.",
+    "ref": "Rig Veda 5.4.10",
+    "at": [357, 10],
+    "s": "Near the end of a hymn that calls Agni father and guest, the singer makes his own plea; Sāyaṇa, on 5.4.10, reads this immortality as a line of descendants never broken, citing a text in which the mortal is born again in his offspring.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.4.10, sa.wikisource (printed edition not named), revision 324070 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “जातवेदः “यशः धनं प्रजां वा “अस्मासु “धेहि । \"प्रजाभिः त्वद्दत्ताभिर्हे “अग्ने अहम् “अमृतत्वं संतत्यविच्छेदलक्षणम् “अश्यां प्राप्नुयाम् । प्रजामनु प्रजायसे तदु ते मर्त्यामृतम्' (तै. ब्रा. १. ५. ५. ६ ) इति हि श्रुतिः ॥",
+     "gloss": "O Jātavedas, place in us renown, that is wealth or offspring. By the offspring you give, O Agni, may I attain immortality, the kind that consists in the unbroken continuance of the line; for scripture says, ‘You are born again after your offspring; that, O mortal, is your immortality’ (Taittirīya Brāhmaṇa 1.5.5.6)."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d048-s",
+    "key": "Ila, Sarasvati, Mahi, three Goddesses who bring us weal, Be seated harmless on the grass.",
+    "ref": "Rig Veda 5.5.8",
+    "at": [358, 8],
+    "s": "In a hymn that calls each power of the rite in turn, the verse names three Goddesses; Sāyaṇa, on 5.5.8, reads them as earth, the wind’s consort and the Sun’s, or else as goddesses of speech in earth, mid-air and heaven.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.5.8, sa.wikisource (printed edition not named), revision 269196 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"इळा पृथिवी \"सरस्वती । सर उदकम् । तस्मात् सरस्वान् वायुः । तस्य स्त्री सरस्वती । \"मही महती भारती भरतस्यादित्यस्य पत्नी । अत्र यद्यप्येषा नोक्ता तथापि सर्वत्र सह दृष्टत्वात् त्रिसंख्याश्रवणाच्च सा गृह्यते । अथवैता: क्षित्यन्तरिक्षद्युस्थाना वाग्देव्यः ।",
+     "gloss": "Iḷā is the earth. Sarasvatī: saras is water; from it comes Sarasvān, the wind; his wife is Sarasvatī. Mahī, the great one, is Bhāratī, wife of Bharata, the Sun; though she is not named here, she is taken because the three are seen together everywhere and the number three is heard. Or else these are goddesses of speech whose seats are earth, mid-air and heaven."
+    }
+   }
+  },
+  {
+   "d": 49,
+   "primary": {
+    "id": "veda-02-d049-p",
+    "key": "AGNI inflamed hath sent to heaven his lustre: he shines forth widely turning unto Morning. Eastward the ladle goes that brings all blessing, praising the Godswith homage and oblation.",
+    "ref": "Rig Veda 5.28.1",
+    "at": [381, 1],
+    "s": "Opening a short hymn of kindling and offering, the verse turns from Agni’s flame to the ladle; Sāyaṇa, on 5.28.1, reads the one going eastward with ladle and oblation as Viśvavārā, a woman of Atri’s line whom he takes as the hymn’s seer.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.28.1, sa.wikisource (printed edition not named), revision 199496 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अत्रिगोत्रोत्पन्ना विश्ववारानामिका अस्य सूक्तस्य ऋषिः । … “नमोभिः स्तोत्रैः \"देवान् इन्द्रादीन् “ईळाना स्तुवती “हविषा पुरोडाशादिलक्षणेन युक्त्या “घृताची घृताच्या स्रुचा सहिता \"विश्ववारा सर्वमपि पापरूपं शत्रुं वारयित्र्येतन्नामिका “प्राची प्राङ्मुखी सती “एति । एवंभूतमग्निं प्रतिगच्छति ॥",
+     "gloss": "The seer of this hymn is the woman named Viśvavārā, born in the line of Atri. … Praising the gods, Indra and the rest, with hymns, joined with the oblation of cakes and the like, holding the ladle of ghee, she who is named Viśvavārā, warder-off of every enemy that is sin, goes facing east: she goes toward Agni, who is as described."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d049-s",
+    "key": "ONE state begets another state: husk is made visible from husk: Within his Mother’s side he speaks.",
+    "ref": "Rig Veda 5.19.1",
+    "at": [372, 1],
+    "s": "Opening a short hymn to Agni, the verse speaks in figures of birth; Sāyaṇa, on 5.19.1, hears the seer Vavri in the first ‘husk’, beset by ill after ill, and Agni in the second, asked to know and end them.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.19.1, sa.wikisource (printed edition not named), revision 199400 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“वव्रेः ऋषेः \"अभि उत्तरोत्तरम् “अवस्थाः अशोभना दशाः “प्र “जायन्ते । तादृशीः “वव्रिः हविषां संभक्ता सोऽग्निः “प्र “चिकेत प्रजानीयात् । ज्ञात्वा चापनयत्विति भावः । योऽग्निः \"मातुः पृथिव्याः “उपस्थे समीपे स्थितं पदार्थजातं “वि \"चष्टे पश्यति ॥",
+     "gloss": "For the seer Vavri, one after another, unhappy states arise. Such states may Vavri, that is Agni, the sharer of oblations, come to know; the sense is, and knowing them, may he take them away. It is Agni who looks upon all the things that lie in the lap of his mother, the earth."
+    }
+   }
+  },
+  {
+   "d": 50,
+   "primary": {
+    "id": "veda-02-d050-p",
+    "key": "I have beheld his strong and secret dwelling, longing have sought the Founder’s habitation. I asked of others, and they said in answer, May we, awakened men, attain to Indra.",
+    "ref": "Rig Veda 5.30.2",
+    "at": [383, 2],
+    "s": "After the opening question, who has seen Indra, the singer tells of his search; Sāyaṇa, on 5.30.2, reads it as a seeker who asks if Indra, though he exists, is within reach, and, told he is, sees the rest of the hymn.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 5.30.2, sa.wikisource (printed edition not named), revision 398838 (2023)",
+    "basis": {
+     "source": "sayana",
+     "words": "किंच “इच्छन् इन्द्रमन्विच्छन्नहं “निधातुः स्वं स्थापयितुः अस्य इन्द्रस्य पदम् “अन्वायम् अन्वगमम् । “अन्यान् \"उत अन्यान् विदुषोऽपि मार्गे इन्द्रम् “अपृच्छं पृष्टवानस्मि । … यद्यपीन्द्रो विद्यते तथापि दुर्लभश्चेदनुपगन्तव्यः इति बुभुत्समानः स्वभावमपृच्छत् पृष्टैश्च सुलभः इत्युक्त इन्द्रप्राप्त्यर्थं सूक्तशेषमपश्यदित्यर्थः ॥",
+     "gloss": "Moreover, seeking Indra, I followed the track of this Indra who sets his own in place; I asked others too, the learned on the way, about Indra. … The meaning is: though Indra exists, yet if he is hard to reach he is not to be approached; wishing to know this, the seer asked about his nature, and, told by those he asked that he is easy to reach, he saw the rest of the hymn for reaching Indra."
+    }
+   },
+   "standby": {
+    "id": "veda-02-d050-s",
+    "key": "Illustrious is the man whoever presseth out Soma for him in sunshine or in cloud and rain.",
+    "ref": "Rig Veda 5.34.3",
+    "at": [387, 3],
+    "s": "Early in a hymn that praises the Soma presser and threatens the man who pours none, the verse names two times; Yāska, Nirukta 6.19, takes them as day and night, calling night the udder by likeness, since it too gives rich moisture.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 6.19, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "The word ghramsa is a synonym of day, (so called because) juices are evaporated during this period. Udhas^ means the udder of a cow, (so called) because it is more raised than the other parts, or because it is fastened near the abdomen. From the analogy of giving fatty fluids,^ night is called iidhas also. The man who presses soma for him during the day and even during the night becomes indeed illustrious.",
+     "gloss": "The word ghraṃsa is a name for the day, so called because juices evaporate during it. Ūdhas means a cow’s udder, so called because it is raised higher than the other parts, or because it is fastened near the belly. From the likeness of giving rich fluids, night too is called ūdhas. The man who presses Soma for him by day and even by night becomes illustrious."
+    }
+   }
+  }
+ ]
+}

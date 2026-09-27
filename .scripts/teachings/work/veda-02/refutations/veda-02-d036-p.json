@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d036-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A9%E0%A5%A9&oldid=360653",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js veda 36 --verse 3.33.5. Sāyaṇa glosses somyāya vacase as the Soma-procuring speech (uttīryāhaṃ somaṃ saṃpādayāmi, having crossed I shall procure Soma) and, after the rivers addressed together do not comply, takes sindhu as purovartinī Śutudrī, the one before him; Wilson note 1 and 2 concur. Plain sense matches 3.33.4 in day.js (rivers: flood not stayed, what would the singer). verse.js ok at [266,5]; entry-check ok, 44 words. No drift, no school needed, no comparison, tone neutral. All attacks fail.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-02-d049-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AB.%E0%A5%A8%E0%A5%AE&oldid=199496",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 49 --verse 5.28.3; evidence found verbatim (machine substring check). Sāyaṇa: he agne tvaṃ jāspatyam; jā jāyā ca patiś ca jāyāpatī; tayoḥ karma jāspatyam; tat suyamaṃ suṣṭhu niyamanopetam, anyonyasaṃśliṣṭam ity arthaḥ; sam ā kṛṇuṣva samyak kuruṣva. The reading carries exactly this: ‘household lordship’ (jāspatyam) as the work of the two, wife and husband (tayoḥ karma, ‘shared’ is the dual), which Agni is to make (sam ā kṛṇuṣva) well ordered (suyamam, suṣṭhu niyamanopetam), each bound to the other (anyonyasaṃśliṣṭam). This is Sāyaṇa’s, not Griffith’s (‘easy to maintain’); Wilson follows him (preserve in concord the relation of man and wife). Verse change from 5.28.1 (the app’s ‘Godswith’ slip) is sound: 5.28.3 verse.js ok, ref 5.28.3, at [381,3], 30 words, no dash. Plain sense against day.js: 5.28 is six verses of kindling and offering, 5.28.2 hails the enkindled Agni as King, 5.28.3 turns to the household (it also asks for splendour and victory over foes, which ‘turns homeward’ does not exclude); no four-word run from the key; two words quoted. entry-check ok. All attacks fail.",
+ "better": ""
+}
