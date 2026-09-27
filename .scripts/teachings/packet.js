@@ -25,6 +25,8 @@ function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').re
    hymns ("rig-veda-1-164") share numbers across books, so their packets are
    keyed on the chapter's slug, as the Upanishads' sections are. */
 const SLUGGED = { upanishads: 1, bible: 1, tanakh: 1, veda: 1 };
+/* words above which a whole day prints as an index (--all overrides) */
+const LIMIT = 60000;
 function chaptersOf(plan, d) {
   const set = [];
   corpus.dayOf(plan, d).units.forEach(u => {
@@ -83,10 +85,27 @@ if (require.main === module) {
   const argv = process.argv.slice(2);
   const [plan, dayArg] = argv;
   const vi = argv.indexOf('--verse'), verse = vi > -1 ? argv[vi + 1] : null;
-  if (!plan || !dayArg) { console.error('usage: node .scripts/teachings/packet.js <plan> <day> [--verse <n>, e.g. 2.47 or 1.2.20]'); process.exit(1); }
+  if (!plan || !dayArg) { console.error('usage: node .scripts/teachings/packet.js <plan> <day> [--verse <n>, e.g. 2.47, 1.2.20, 2:255] [--all]'); process.exit(1); }
   const day = corpus.dayOf(plan, +dayArg);
   console.log(plan + ', day ' + day.d + ': ' + day.label + '\n');
-  console.log(packetsFor(plan, +dayArg).map(p => render(p, verse)).join('\n\n'));
+  const packets = packetsFor(plan, +dayArg);
+  const text = packets.map(p => render(p, verse)).join('\n\n');
+  const words = (text.match(/\S+/g) || []).length;
+  /* A day too long to read whole (the Qur'an's surah 2 alone runs to 13 MB)
+     prints its index instead: every seg's label, per source, with its
+     length, and --verse reads the commentary on one verse. */
+  if (!verse && words > LIMIT && !argv.includes('--all')) {
+    console.log('This day’s commentary runs to ' + words + ' words, too long to read whole. Read it verse by verse:\n' +
+      '  node .scripts/teachings/packet.js ' + plan + ' ' + day.d + ' --verse <n>\n\nWhat each source holds:');
+    packets.forEach(p => {
+      if (p.missing) { console.log('(no packet for ' + p.ch + ')'); return; }
+      console.log('\n######## ' + p.ch);
+      p.sources.forEach(s => {
+        const labels = (s.segs || []).map(x => { const m = String(x.base).match(/^\[([^\]]+)\]/); return m ? m[1] + ' (' + (x.comm || '').length + ')' : ''; }).filter(Boolean);
+        console.log('=== ' + s.name + ': ' + labels.length + ' passages' + (s.note ? '\n  NOTE: ' + s.note : '') + (labels.length ? '\n  ' + labels.join('; ') : '') + (s.notes ? '\n  (notes: ' + s.notes.length + ' characters; printed with --verse off and --all)' : ''));
+      });
+    });
+  } else console.log(text);
 }
 
 module.exports = { chaptersOf, packetFile, packetsFor };

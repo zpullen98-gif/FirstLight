@@ -498,7 +498,7 @@
         "quran": "all"
       },
       "sources": [
-        "quran.com API, tafsir id 15 (Arabic), by ayah"
+        "Jāmiʿ al-bayān, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)"
       ],
       "traps": [
         "Paraphrase only.",
@@ -514,8 +514,7 @@
         "quran": "all"
       },
       "sources": [
-        "quran.com API, tafsir id 14 (Arabic), by ayah",
-        "tafsir id 169 is the abridged English (Darussalam, copyrighted): at most 40 words, and find the reading in the Arabic"
+        "Tafsīr al-Qurʾān al-ʿAẓīm, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)"
       ],
       "traps": [
         "The English ‘Ibn Kathir’ is an abridgement: find the reading in the Arabic."
@@ -531,7 +530,8 @@
         "quran": "all"
       },
       "sources": [
-        "altafsir.com, one ayah at a time (the English by Feras Hamza is copyrighted by the Royal Aal al-Bayt Institute: fair dealing only, never bulk)"
+        "Tafsīr al-Jalālayn, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)",
+        "On 219 ayahs the Jalalayn gives the ayah alone; the packet’s note lists them."
       ],
       "traps": [
         "Two authors: al-Mahalli wrote on al-Fatiha and surahs 18 to 114, al-Suyuti on 2 to 17. Say ‘the Jalalayn’ or the right author."
@@ -547,7 +547,8 @@
         "quran": "all"
       },
       "sources": [
-        "quran.com API, tafsir id 90 (Arabic), by ayah"
+        "al-Jāmiʿ li-aḥkām al-Qurʾān, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)",
+        "His comment on 17:30 is lost from the manuscripts."
       ],
       "traps": [
         "Paraphrase only."
@@ -563,7 +564,7 @@
         "quran": "all"
       },
       "sources": [
-        "Asbab al-Nuzul in Arabic; name the report as he gives it"
+        "Asbāb al-nuzūl, the al-Humaydan edition via OpenITI, commit cc9beb0 (CC BY-NC-SA 4.0 digitisation; non-commercial)"
       ],
       "traps": [
         "He treats only some ayahs: name him only where he gives an occasion for the ayah."
@@ -580,7 +581,7 @@
         "quran": "all"
       },
       "sources": [
-        "Majmaʿ al-bayān in Arabic"
+        "No machine-readable source is in hand: al-Tabarsi is not named until one is."
       ],
       "traps": [
         "Named only where the Shi’i reading differs materially, and then beside a Sunni commentator, the difference named and not resolved."
