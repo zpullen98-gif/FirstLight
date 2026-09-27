@@ -109,6 +109,8 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - When the English is split differently from the Hebrew, the packet gives the verse’s English once, marked "for the whole verse": quote the English only for the words the Hebrew comment holds.
 - "[editor: ...]" in the Hebrew is an editor’s remark, not the commentator’s.
 - A comment Sefaria files at another verse is moved to its own verse and says where the editions print it (Rashi on Deuteronomy 32:43 and Proverbs 30:31, Radak on Isaiah 37:30 and Psalm 38:15): cite the verse it is on.
+- The source line names the edition read for EACH commentator ("Hebrew (On Your Way)", "Rosenbaum and Silbermann, 1929 to 1934"), not only the export commit; two commentators, two editions. (Found in course-jewish-dry.)
+- When the context clause ends on one promise or command and the reading says "the promise", the reading attaches to the nearest; name the lemma’s own promise in the reading. (Found in course-jewish-dry, Genesis 17:7.)
 
 ## bible
 

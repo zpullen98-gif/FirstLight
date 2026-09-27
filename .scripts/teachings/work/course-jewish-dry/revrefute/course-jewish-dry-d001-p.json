@@ -1,0 +1,11 @@
+{
+ "id": "course-jewish-dry-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 5 --verse 17:7: Sforno's comment on the lemma להיות לך לאלהים ולזרעך אחריך holds both pieces of the evidence verbatim (machine match with recheck-evidence's squash, split on the ellipsis: true, true). ליחד שמי עליכם בלתי אמצעי carries God binding His name upon Abraham and his seed without intermediary, and שבהקמת הברית ושמירתו יהיו הוא וזרעו נצחיים carries that, the covenant established and kept, they endure for ever: the reading now attaches to the right promise (to be their God), not to nations and land, and claims nothing beyond his words. verse.js ok (Genesis 17:7, at [16,7], no also); the line names the everlasting covenant, a text naming the concept, so rule 8 is met. day.js tanakh 5: the LORD appears to Abram (17:1), renames him (17:5), nations (17:4 to 6), land (17:8): plain sense faithful, no line words repeated. Sforno covers Genesis; no school, comparison or tone issue; no key words quoted. entry-check ok, no warns; 44 words, src 105 characters.",
+ "better": "Prose only, not a refutation: ‘their God’ and ‘to them’ have ‘nations’ as the nearest plural antecedent; the key line above settles it (thee and thy seed), but if room allows within 45 words, naming Abraham and his seed would remove the ambiguity."
+}

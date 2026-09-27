@@ -1,0 +1,14 @@
+{
+ "id": "course-jewish-dry-d014-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Leviticus/Hebrew/On%20Your%20Way%20New.json",
+  "found": true
+ },
+ "attacks": [
+  "form",
+  "drift"
+ ],
+ "reason": "Re-opened packet.js tanakh 39 --verse 23:24: verse.js ok (Leviticus 23:24, at [112,24]); entry-check ok, no warns; plain sense matches Leviticus 23 (seasons through Moses: Sabbath, Passover, unleavened bread, sheaf, seven weeks, then this day) and repeats no four-word run; all quoted Hebrew of Rashi and Ramban found verbatim at 23:24 s.v. zikhron teruah, and the two genuinely differ (Ramban calls Rashi’s verses reading asmakhta and reads the blast itself as the remembrance). It does not stand as written on three counts. (1) FORM, rule 9: src names no edition actually read (Rashi’s Hebrew is Rosenbaum and Silbermann 1929 to 1934, Ramban’s is On Your Way New), only the export commit; the sibling entries d001 and d009 name the edition. (2) DRIFT, Rashi: his words are לזכור לכם עקדת יצחק, that the binding be remembered for Israel’s sake (Rosenbaum and Silbermann: that I may recall to memory for you), not that the verses themselves recall it; the sentence shifts the agent. (3) DRIFT, Ramban: he writes ואחרי כן בעשרת הימים ישא לפשע עבדיו, afterwards, in the ten days, He pardons; the ten days begin with the new year itself, so before ten days of pardon places the judgement outside them; he also hedges the judgement with נראה (it appears), though he then grounds it in what is known in Israel from the prophets, so on the day He judges is tolerable under reads. Fixable; the line, the commentators and the difference are right.",
+ "better": "s: Among the seasons appointed through Moses, this one follows Passover and the seven weeks; Rashi, on Leviticus 23:24, reads the memorial as verses of remembrance and of the horn, recalling for Israel the binding of Isaac, and Ramban, there, as the blast itself, a remembrance before God on the day He judges, with pardon in the ten days. | src: Rashi (Rosenbaum and Silbermann, 1929 to 1934) and Ramban (On Your Way New), on the Torah, Leviticus 23:24, Hebrew, Sefaria export commit 3f10136 (2026)"
+}

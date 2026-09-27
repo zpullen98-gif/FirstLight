@@ -1,0 +1,49 @@
+{
+ "id": "course-jewish-dry-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Speak unto the children of Israel, saying: In the seventh month, in the first day of the month, shall be a solemn rest unto you, a memorial proclaimed with the blast of horns, a holy convocation.",
+ "ref": "Leviticus 23:24",
+ "at": [
+  112,
+  24
+ ],
+ "s": "Among the seasons appointed through Moses, this one follows Passover and the seven weeks; Rashi, on Leviticus 23:24, reads the memorial as verses of remembrance and of the horn, with the binding of Isaac recalled for Israel’s sake, and Ramban, there, as the blast itself, a remembrance before God on the day He judges, with pardon in the ten days.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi (Rosenbaum and Silbermann, 1929 to 1934) and Ramban (On Your Way New), on the Torah, Leviticus 23:24, Hebrew, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Leviticus, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export commit 3f10136",
+    "locator": "Leviticus 23:24, s.v. zikhron teruah",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Leviticus/Hebrew/On%20Your%20Way%20New.json",
+    "edition": "Ramban on Leviticus, Hebrew (On Your Way New), Sefaria export commit 3f10136",
+    "locator": "Leviticus 23:24, s.v. zikhron teruah",
+    "via": "packet"
+   }
+  ],
+  "words": "זכרון תרועה. זִכְרוֹן פְּסוּקֵי זִכְרוֹנוֹת וּפְסוּקֵי שׁוֹפָרוֹת (ספרא: ראש השנה ל\"ב) לִזְכֹּר לָכֶם עֲקֵדַת יִצְחָק שֶׁקָּרַב תַּחְתָּיו אַיִל … אבל כל זה אסמכתא מדבריהם … אבל \"זכרון תרועה\" כמו יום תרועה יהיה לכם (במדבר כט א) יאמר שנריע ביום הזה ויהיה לנו לזכרון לפני השם … מפני שהוא בחדשו של יום הכפורים בראש החודש נראה שבו יהיה דין לפניו יתברך כי בם ידין עמים בראש השנה ישב לכסא שופט צדק ואחרי כן בעשרת הימים ישא לפשע עבדיו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi] A memorial of blasts: a remembrance by the verses of remembrances and the verses of the horn (Sifra; Rosh Hashanah 32), to remember for your sake the binding of Isaac, in whose place a ram was offered. [Ramban] But all this is a scriptural support for their own enactment. But a memorial of blasts is like a day of blasts unto you (Numbers 29:1): we sound the blast on this day and it becomes a remembrance for us before God. Since it falls at the new moon of the month of the day of atonement, it appears that judgement is before Him on it: on the new year He sits on the throne of righteous judgement, and afterwards, in the ten days, He pardons the transgression of His servants.",
+  "licence": "Hebrew public domain (both); no copyrighted English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement: the refuter is right on form and drift, and both are correctable. Re-ran verse.js (ok, Leviticus 23:24, at [112,24], no also): the verse appoints the first day of the seventh month with the horn blasts, so it bears directly on the entry. Plain sense checked against Leviticus 23 (tanakh 39): seasons proclaimed through Moses, Sabbath, Passover, unleavened bread, sheaf, seven weeks, gleaning, then this day; no four-word run from the line. Opened packet.js tanakh 39 --verse 23:24: Rashi s.v. zikhron teruah gives the remembrance and shofar verses, lizkor lakhem the binding of Isaac; Ramban quotes Rashi, calls it asmakhta, reads the memorial as the blast itself making a remembrance before God, and, because it opens the month of the day of atonement, a day of judgement with pardon afterwards in the ten days. Changes: (1) src now names each edition read (Rashi, Rosenbaum and Silbermann 1929 to 1934; Ramban, On Your Way New); (2) Rashi clause no longer makes the verses the agent of remembering: the binding of Isaac is recalled for Israel’s sake, as lizkor lakhem says; (3) Ramban clause no longer puts the judgement before the ten days: pardon in the ten days, as ve-aharei khen ba-asseret ha-yamim. Sentence 60 words, two commentators who genuinely differ, not resolved. entry-check ok, no warns."
+}

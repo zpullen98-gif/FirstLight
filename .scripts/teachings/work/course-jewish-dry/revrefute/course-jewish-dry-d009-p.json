@@ -1,0 +1,11 @@
+{
+ "id": "course-jewish-dry-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 23 --verse 20:8: Rashi's second comment on זכור holds the evidence verbatim (machine match true): תנו לב לזכור תמיד את יום השבת, שאם נזדמן לך חפץ יפה תהא מזמינו לשבת carries ‘keep the day always in mind, setting aside for it any fine thing that comes to hand’ without drift; Rashi cites (מכילתא) but gives it as the verse's meaning (וכן פתרונו), so it is his reading as he gives it. verse.js ok (Exodus 20:8, at [69,8], no also); the line names the Sabbath, the text-first case of rule 8. day.js tanakh 23: the LORD descends on mount Sinai (19:18, 19:20), God speaks all these words (20:1), 20:8 opens the sabbath command that names the seventh day at 20:10; ‘the ten words’ is the JPS's own term (Exodus 34:28, Deuteronomy 4:13, 10:4). The revision's ‘about the seventh day’ removes the earlier ambiguity. One key word quoted, curly. No school, comparison or tone issue. entry-check ok, no warns; 43 words, src 130 characters.",
+ "better": ""
+}

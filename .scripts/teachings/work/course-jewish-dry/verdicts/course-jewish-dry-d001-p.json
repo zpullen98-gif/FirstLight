@@ -1,0 +1,43 @@
+{
+ "id": "course-jewish-dry-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And I will establish My covenant between Me and thee and thy seed after thee throughout their generations for an everlasting covenant, to be a God unto thee and to thy seed after thee.",
+ "ref": "Genesis 17:7",
+ "at": [
+  16,
+  7
+ ],
+ "s": "In Genesis 17 God appears to Abram, renames him Abraham and promises him nations and land; Sforno, on Genesis 17:7, reads the promise as God uniting His name with Abraham and his descendants without intermediary, so that, keeping the covenant, they endure for ever.",
+ "by": "sforno",
+ "by2": "",
+ "hedge": "",
+ "src": "Sforno, Commentary on the Torah, Genesis 17:7, Hebrew, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Genesis, Hebrew “On Your Way”, Sefaria-Export-Archive commit 3f10136 (2026-03-23); read through packet.js tanakh 5 --verse 17:7",
+    "locator": "Sforno on Genesis 17:7, lemma להיות לך לאלהים ולזרעך אחריך",
+    "via": "packet"
+   }
+  ],
+  "words": "ליחד שמי עליכם בלתי אמצעי כמו שהוא מתיחד על כל הנצחיים כאמרו כי כל אשר יעשה האלהים הוא יהיה לעולם כי אמנם הנפסדים באשר הם נפסדים אינם פעולתם בלתי אמצעי אמר א\"כ שבהקמת הברית ושמירתו יהיו הוא וזרעו נצחיי' באיש לפניו",
+  "lang": "Hebrew",
+  "gloss": "[Sforno on the lemma ‘to be a God unto thee and to thy seed after thee’:] To bind My name upon you without intermediary, as it is bound upon all the everlasting things, as it says, ‘whatever God doeth, it shall be for ever’; for perishing things, in so far as they perish, are not His work without intermediary. He said, then, that through the establishing of the covenant and its keeping he and his seed would be everlasting, a man ever standing before Him.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok true, ref Genesis 17:7 and at [16,7] match; the line names the covenant God makes with Abraham and his seed, so it bears directly on Brit (no gate warning of reuse). Plain sense: Genesis 17 opens with God appearing to Abram (17:1), the renaming (17:5), nations (17:4 to 6) and land (17:8): faithful context, no words of the line repeated. The packet prints Sforno on the lemma of 17:7 in exactly the words quoted: without intermediary, God binds His name on Abraham and his seed, and by establishing and keeping the covenant they will be everlasting. The sentence carries this without drift; the other packet sources (Rashi, Radak, Genesis Rabbah 46:9) do not contradict it. entry-check ok with no warnings."
+}
