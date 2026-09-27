@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d009-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6354439", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 9 --verse 6.145 (the Chinese line 孔子曰：彼，遊方之外者也；而丘，遊方之內者也 is packet-labelled 6.145 but by its opening words is Giles 6.148, the key verse; juan 8 from the 6.103 run on, rev 6354439, so the src and url are right). Guo Xiang's note there contains 夫理有至極，外內相冥, 故聖人常遊外以弘內，無心以順有, and 若直就稱仲尼之如此，或者將據所見以排之，故超聖人之內迹，而寄方外於數子 verbatim. They carry every part of the paraphrase: outside and inside darkly one, the sage always roaming outside to enlarge the inside, and the text lodging the beyond-the-bounds in these few men; the sentence does not go on to claim more (it leaves unstated Guo's point that Confucius himself is such a sage). The key verse is the exact line he comments on. Plain sense matches day.js 6.137 to 6.148 (Tzŭ Kung finds Sang Hu's friends singing beside the corpse and reports to Confucius). No school needed, no comparison, tone neutral. verse.js ok (Zhuangzi 6.148, at 591); entry-check.js ok, no errors or warns.",
+ "better": ""
+}

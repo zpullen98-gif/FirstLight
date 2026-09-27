@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d004-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6364018",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 4 --verse 2.154 and the url itself (南華真經註疏/卷三, revision dated 5 June 2026, so the src year holds). On 不知周之夢為胡蝶與？胡蝶之夢為周與？ Guo Xiang writes 而各適一時之志，則無以明“胡蝶之不夢為周”矣。世有假寐，而夢經百年者，則無以明今之百年，非假寐之夢者也: each state suits its moment, and the present life cannot be shown not to be a brief doze's dream, which the paraphrase carries with 'may be'. On 不知周也, in the same paragraph, 由此觀之，知夫在生而哀死者誤也 carries 'grieving at death while alive is an error'; its premise 所在無不適志 is the same idea as 各適一時之志, so joining the two under one 'so' does not drift. verse.js ok (Zhuangzi 2.154, at 225), and the key is the sentence Guo Xiang's longest note glosses. day.js: 2.154 is the last citable unit of chapter 2 and is told in the first person by Chuang Tzŭ, so 'Closing the chapter, Chuang Tzŭ tells of waking from a butterfly dream' is faithful, repeats no four-word run from the key, and does not use Giles' 'Metempsychosis'. Locator 'on chapter 2' is right but broad. No school is needed (the roster gives none), there is no comparison, and the tone is neutral. entry-check ok (scratch/rr-d004-3.json).",
+ "better": "Optional tightening of the locator: 'Guo Xiang, on the butterfly dream at the close of chapter 2' (lines 不知周也 and 不知周之夢為胡蝶與), if the word cap allows."
+}

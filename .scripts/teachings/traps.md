@@ -78,6 +78,12 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 
 - Giles' arguments (the italic summary at a chapter's head) and his notes are printed in the text but are neither the Zhuangzi nor Guo Xiang.
 - Guo Xiang comments on the 33-chapter recension that Giles follows; locate by opening words.
+- On the zh.wikisource juan pages Cheng Xuanying’s subcommentary (疏) is interleaved with Guo Xiang’s notes (注): only a line marked 〔注〕 is Guo’s, and a 疏 quoting 郭注云 is a quotation inside Cheng, not a second note of Guo’s. (Found in zhuangzi-01 and -02.)
+- The packet’s [n.a to n.b] labels align the Chinese to Giles by length and names and are off by a paragraph or two at times (6.148 labelled 6.145; 23.86 labelled 23.85): locate by opening words. (Found in zhuangzi-01 and -02.)
+- The juan do not follow the chapters (chapter 2 runs into juan 3 from 2.74, chapter 6 into juan 8 from 6.103): cite the revision of the juan that holds the key verse. (Found in zhuangzi-01.)
+- Giles’ notes carry his own readings (“metempsychosis” by the butterfly dream, “soul” for 氣): keep them off Guo Xiang. (Found in zhuangzi-01.)
+- Guo Xiang comments sparsely in the late chapters (three notes on 28, one on 31, none on 30): a day may hold no note on its own lines, and a chapter note is named as such; a note shorter than the evidence floor is quoted whole, never padded with Cheng’s 疏. (Found in zhuangzi-02.)
+- A technical term glossed into plain English can reverse the commentator (渾沌 is undivided, unknowing simplicity, not “chaos”; 假寐 is a brief doze): gloss by the commentator’s own sense. (Found in zhuangzi-01.)
 
 ## veda
 

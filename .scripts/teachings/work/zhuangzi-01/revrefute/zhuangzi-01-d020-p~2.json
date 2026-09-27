@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d020-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6365330", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 20 --verse 16.27 (chapter 16, juan 18, revision 6365330). The text line 則深根寧極而待 is the Chinese of the key’s ‘fell back upon their own resources and waited’, after 不當時命而大窮乎天下 (on which Guo Xiang says 此不能澹漠之時也). His note on 則深根寧極而待 reads 雖有事之世，而聖人未始不澹漠也，故深根寧極而待其自為耳，斯道之所以不喪也 verbatim, and it carries every clause: the sage calm in an age of affairs (‘busy age’), deep-rooted (深根), waiting for things to act of themselves (待其自為), so the Way is not lost (斯道之所以不喪). Nothing added; the only change from the cleared version is the locator (‘on chapter 16’) and ‘deep-rooted’ for ‘rooted deep’, both sound. Plain sense matches day.js 16.27 (retired scholars did not hide their bodies, words or wisdom; the age was not suitable) and shares no four words with the key. verse.js ok (Zhuangzi 16.27, at 1447, no dash); entry-check ok, no errors or warns. No school required, no comparison, tone neutral.",
+ "better": ""
+}

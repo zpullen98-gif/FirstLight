@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d019-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6365115", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 14.132 and the raw wikitext of revision 6365115: lines 886 and 890 are marked 〔注〕 (Guo Xiang, not Cheng Xuanying's 疏): 所以迹者，真性也。夫任物之真性者，其迹則《六經》也 on 夫《六經》，先王之陳迹也，豈其所以迹哉, and 況今之人事，則以自然為履，《六經》為迹 on 夫迹，履之所出，而迹豈履哉. They carry the whole paraphrase (shoe = 自然, what is so of itself; Canons = tracks of one who leaves things to their true nature) with no drift; the locator is right since Giles 14.132 holds both lines. Plain sense matches day.js 14.131 to 14.132 (Confucius used the Six Canons with seventy-two rulers, none adopted them; Lao Tzŭ calls them worn-out foot-prints) and does not repeat the key. verse.js ok (Zhuangzi 14.132, at 1376); entry-check.js ok, no errors or warns. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

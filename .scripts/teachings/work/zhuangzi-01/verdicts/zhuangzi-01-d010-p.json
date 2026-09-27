@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For the perfect man employs his mind as a mirror. It grasps nothing: it refuses nothing. It receives, but does not keep.",
+ "ref": "Zhuangzi 7.61",
+ "at": [
+  718
+ ],
+ "s": "Ending a homily on inaction, the chapter turns to the perfect man; Guo Xiang, on chapter 7, reads the mirror as reflecting things without feeling, answering what comes and stopping when it goes, so all the world may come to it without wearying the spirit.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 7, zh.wikisource (Nanhua zhenjing zhushu, juan 9, Zhengtong Daozang), revision 6364291 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6364291",
+    "edition": "zh.wikisource 南華真經註疏 卷九 (Zhengtong Daozang, DZ0745), revision 6364291 (2026-06-05); Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, chapter 7 (應帝王), notes on 至人之用心若鏡，不將不迎，應而不藏，故能勝物而不傷 (Giles 7.61)",
+    "via": "packet"
+   }
+  ],
+  "words": "鑒物而無情。…來即應，去即止。…物來乃鑒，鑒不以心，故雖天下來照，而無勞神之累。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the perfect man’s mind as a mirror:) it mirrors things without feeling. … (On not seeing off, not welcoming, answering and not storing:) when a thing comes it answers, when it goes it stops. … (On triumphing over things without injury:) things come and then it mirrors them, but it mirrors not with the mind, so though all the world comes to be reflected, there is no burden of wearying the spirit.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 7.61, at 718), one unit, no dash. Opened the whole chapter 7 commentary in the packet (卷九): Guo Xiang’s three notes on 至人之用心若鏡 / 不將不迎，應而不藏 / 故能勝物而不傷 say exactly what the reading gives (mirrors without feeling; answers what comes, stops when it goes; the whole world comes to be reflected without wearying the spirit), located by opening words, not by the approximate paragraph label. Plain sense faithful: 7.57 and 7.59 open ‘By Inaction’ and 7.61 sums up in passivity before turning to the perfect man; no key-verse words repeated. Legge’s notes on this chapter carry no reading of the mirror beyond his own introduction, so no conduit is needed. Revision 6364291 dated 2026-06-05 by the Wikisource API; juan 9 confirmed. entry-check ok."
+}

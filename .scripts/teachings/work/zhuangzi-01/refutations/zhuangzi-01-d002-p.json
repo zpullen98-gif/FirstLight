@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d002-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=5978516",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 2 --verse 2.9: Guo Xiang's note on 子綦曰：夫吹萬不同，而使其自己也 opens 此天籟也。夫天籟者，豈復別有一物哉？即眾竅比竹之屬…會而共成一天耳, and his note on 咸其自取，怒者其誰邪 reads 物皆自得之耳，誰主怒之使然哉; both segments of the evidence found verbatim (recheck-evidence.js splits on the ellipsis). These two Chinese lines are exactly what Giles renders as 2.9, so the locator holds. Paraphrase (Heaven's music no separate thing but the hollows and pipes themselves, each sounding of itself, no one rousing them) is carried without drift; it omits Guo's wider claim that all living kinds join in but claims nothing more. Plain sense matches day.js 2.4 to 2.9 (Tzŭ Yu asks what Heaven's music consists of beyond holes and pipes; Tzŭ Ch'i replies with a question). No school, no comparison, tone neutral. verse.js ok (Zhuangzi 2.9, at 80); entry-check.js ok, no errors or warns.",
+ "better": ""
+}

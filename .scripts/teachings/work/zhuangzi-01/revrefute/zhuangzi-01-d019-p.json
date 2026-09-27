@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d019-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6365115", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 19 --verse 14.132 (chapter 14, juan 16, revision 6365115). On 夫《六經》，先王之陳迹也，豈其所以迹哉 Guo Xiang writes 所以迹者，真性也。夫任物之真性者，其迹則《六經》也, and on the key verse’s own line 夫迹，履之所出，而迹豈履哉 he writes 況今之人事，則以自然為履，《六經》為迹; both verbatim. ‘Reads the shoe as what is so of itself’ is 以自然為履; ‘the Canons as the print of one who leaves each thing to its true nature’ is 任物之真性者，其迹則六經. Nothing added. Plain sense matches day.js 14.131 to 14.132 (Confucius’ Six Canons, seventy-two rulers, not one adopting his suggestions; Lao Tzŭ calling them worn-out foot-prints); ‘whose Six Canons no ruler adopted’ slightly compresses ‘adopted my suggestions’, but the suggestions were drawn from the Canons (一君無所鉤用), so it does not overstate. Locator now ‘on chapter 14’, consistent with the other days. verse.js ok (Zhuangzi 14.132, at 1376; the hyphen in Foot-prints is not a dash, dash false); entry-check ok, no errors or warns. No school required, no comparison, tone neutral.",
+ "better": ""
+}

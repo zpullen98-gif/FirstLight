@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "In the universe I am but as a small stone or a small tree on a vast mountain.",
+ "ref": "Zhuangzi 17.10",
+ "at": [
+  1466
+ ],
+ "s": "Praised by the humbled River, the Spirit of the Ocean declines to boast; Guo Xiang, on chapter 17, reads the words as seeming to belittle the small beside the great, though their sense is that each thing, knowing its limit, rests in its portion.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 17, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907030",
+    "edition": "zh.wikisource, Nanhua zhenjing zhushu juan 19 (Zhengtong Daozang, DZ0745), revision 7907030, Guo Xiang only",
+    "locator": "chapter 17, Guo Xiang's note on 吾在天地之間，猶小石小木之在大山也 (Giles 17.10)",
+    "via": "packet"
+   }
+  ],
+  "words": "此發辭氣者，有似乎觀大可以明小，尋其意則不然。…然後惑者有由而反，各知其極，物安其分，逍遙者用其本步而遊乎自得之場矣。",
+  "lang": "Classical Chinese",
+  "gloss": "The tone in which this is said seems as though looking at the great could make the small plain; but seek its meaning and it is not so. … Then the deluded have a way back: each knows its own limit, things rest in their portion, and the free and easy go at their own pace and roam in the field of their own content.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: 17.10 is Giles’ paragraph number in the app, not a place in Guo Xiang’s commentary, which is located by chapter (juan 19, chapter 17). Reopened packet.js zhuangzi 21 --verse 17.10: Guo Xiang’s note after 吾在天地之間，猶小石小木之在大山也 still carries the evidence verbatim. Changed only the place: sentence now says ‘on chapter 17,’ and the src drops ‘, on 17.10’. Reading and commentator unchanged; 44 words. verse.js ok (Zhuangzi 17.10, at 1466); entry-check.js ok, no errors or warns."
+}

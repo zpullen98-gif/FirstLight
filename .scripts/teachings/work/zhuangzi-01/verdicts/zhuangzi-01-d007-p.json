@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "What they loved was their mother; not the body which contained her, but that which made the body what it was.",
+ "ref": "Zhuangzi 5.43",
+ "at": [
+  412
+ ],
+ "s": "Asked by Duke Ai about a loathsome man everyone loves, Confucius tells of piglets leaving their dead mother; Guo Xiang, on chapter 5, takes the power behind the body as talent and virtue, whose departure at death broke the piglets’ kinship with her.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 5, zh.wikisource (Nanhua zhenjing zhushu, juan 6, Zhengtong Daozang), revision 6353768 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6353768",
+    "edition": "zh.wikisource 南華真經註疏 卷六 (Zhengtong Daozang, DZ0745), revision 6353768, Guo Xiang's 注 only",
+    "locator": "德充符, on 少焉眴若皆棄之而走。不見己焉爾，不得類焉爾 and on 所愛其母者，非愛其形也，愛使其形者也 (Giles 5.43)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫生者以才德為類，死而才德去矣，故生者以失類而走也。…使形者，才德也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the piglets running from their dead mother:) the living take talent and virtue as what makes them kin; at death talent and virtue are gone, so the living, having lost their kin, run off. … (On what made the body what it was:) that which moves the body is talent and virtue.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 5.43, at 412). Plain sense matches day.js 5.40 to 5.43: Duke Ai asks about the loathsome Ai T'ai T'o whom men and women flock to, and Confucius answers with the piglets. Guo Xiang's notes at the two lines of 5.43, in the packet, say exactly that kinship lies in talent and virtue, that these leave at death so the young run, and that what moves the body is talent and virtue. Read the chapter 5 commentary around it (5.40 to 5.55, 才全而德不形): no drift. entry-check ok."
+}

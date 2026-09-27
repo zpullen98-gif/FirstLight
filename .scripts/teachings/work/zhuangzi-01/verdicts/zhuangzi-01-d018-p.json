@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“The sky turns round; the earth stands still; sun and moon pursue one another. Who causes this? Who directs this?",
+ "ref": "Zhuangzi 14.3",
+ "at": [
+  1247
+ ],
+ "s": "A new chapter opens with questions about the motions of sky, clouds and wind; Guo Xiang, on chapter 14, reads the sky as moving, the earth as resting and sun and moon as taking turns, each of itself, with no one causing or directing them.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 14, zh.wikisource (Nanhua zhenjing zhushu, juan 16, the Zhengtong Daozang edition), revision 6365115 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true,
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6365115",
+    "edition": "zh.wikisource 南華真經註疏 卷十六 (Zhengtong Daozang, DZ0745), revision 6365115 (2026); Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, chapter 14 (天運), notes on 天其運乎 through 孰維綱是 (Giles 14.3)",
+    "via": "packet"
+   }
+  ],
+  "words": "不運而自行也。…不處而自止也。…不爭所而自代謝也。…皆自爾。",
+  "gloss": "(On ‘does the sky turn’:) it is not turned; it moves of itself. … (On ‘does the earth stay in place’:) it is not set in place; it stays of itself. … (On ‘do sun and moon contend for their places’:) they do not contend for their places; they succeed one another of themselves. … (On ‘who causes this, who directs this’:) all are so of themselves."
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 14.3, at 1247), opening sentences of the unit, stopping before the third question, no dash. Opened the packet for chapter 14 (卷十六) at 14.3 and 14.4: Guo Xiang glosses each question in turn (moves of itself, stops of itself, succeed one another of themselves, all so of themselves), and on 孰居無事推而行是 adds 各自行耳, so ‘no one causing or directing them’ is his answer to the questions, not an addition. Plain sense faithful: chapter 14 opens (after Giles’ argument, not cited) with questions on sky, earth, clouds, rain and wind (14.3 to 14.6); no key-verse words repeated. entry-check ok."
+}

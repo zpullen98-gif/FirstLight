@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d021-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7907030", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 17.10 and the raw wikitext of revision 7907030: line 48, marked 〔注〕, follows 吾在天地之間，猶小石小木之在大山也，方存乎見少，又奚以自多 and reads 此發辭氣者，有似乎觀大可以明小，尋其意則不然 … 然後惑者有由而反，各知其極，物安其分 … 此莊子之所以發德音也. That carries the paraphrase: the tone seems to measure the small against the great, but the sense is that each knows its limit and rests in its portion; 'belittle' is a fair English for 明小 in this contrast. Locator right (the note sits on the key verse's own sentence, Giles 17.10). Plain sense matches day.js 17.5 to 17.10 (the River, humbled, admires the Ocean's inexhaustibility; the Ocean would not venture to boast) without repeating the key. verse.js ok (Zhuangzi 17.10, at 1466); entry-check.js ok, no errors or warns. No school, comparison or tone issue.",
+ "better": ""
+}

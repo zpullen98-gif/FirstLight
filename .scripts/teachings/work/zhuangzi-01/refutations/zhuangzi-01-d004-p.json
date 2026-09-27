@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d004-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6364018",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 4 --verse 2.154 (chapter 2 runs into juan 3, revision 6364018, from 2.74). Guo Xiang on 不知周也 has 然所在無不適志…知夫在生而哀死者誤也 verbatim, and on the key verse’s own line 不知周之夢為胡蝶與 has 而各適一時之志…則無以明今之百年，非假寐之夢者也 verbatim. The paraphrase (each state suiting its moment; the present hundred years not shown to be other than a dream; grieving death while alive an error) is carried by those words; “cannot be told from a dream” slightly compresses 無以明…非假寐之夢 (cannot be shown not to be a dream) but does not overclaim. Key verse is the exact line Guo glosses, so well chosen, and avoids Giles’ “Metempsychosis” gloss. Plain sense matches day.js: 2.154 is the last citable unit of chapter 2 and Chuang Tzŭ is the text’s own first-person narrator, not an authorship claim. No school on roster, no comparison, tone neutral. verse.js ok (Zhuangzi 2.154, at 225); entry-check ok, no errors or warns; 45 words, one semicolon, reads.",
+ "better": ""
+}

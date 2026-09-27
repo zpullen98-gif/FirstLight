@@ -68,12 +68,13 @@
   },
   "zhuangzi": {
    "batches": [
-    "zhuangzi-02"
+    "zhuangzi-02",
+    "zhuangzi-01"
    ],
-   "days": 22,
+   "days": 44,
    "of": 44,
    "by": {
-    "guo-xiang": 22
+    "guo-xiang": 44
    },
    "hedged": 0
   },

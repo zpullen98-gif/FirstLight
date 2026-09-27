@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d008-p",
+ "refuted": true,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6011742", "found": true},
+ "attacks": ["plain"],
+ "reason": "The reading stands: packet.js zhuangzi 8 --verse 6.64 (juan 7, rev 6011742) gives Guo Xiang's note on 然而夜半有力者負之而走，昧者不知也 containing 夫無力之力，莫大於變化者也；故乃揭天地以趨新 and 故向者之我，非復今我也 verbatim, and they carry the paraphrase (the strong one is change, lifting heaven and earth on to the new; the self of before is not the self of now) without drift; it is Guo's reading, not Giles' note ('our mortal coil'). verse.js ok (Zhuangzi 6.64, at 507) and entry-check.js ok. What lands is rule 2: the plain-sense clause 'yet the passage imagines it stolen' is a paraphrase of the key verse itself, which is printed directly above, rather than context; the verse's own unit goes on to say the dull do not see that anything concealed may be lost, and that is the context the clause should give. Low severity, fixable without touching the reading.",
+ "better": "A boat hidden in a creek seems safe, though anything hidden may still be lost; Guo Xiang, on chapter 6, takes the ‘strong man’ as change, carrying heaven and earth on to the new, so the self of before is not the self of now. (entry-check.js ok, 44 words)"
+}

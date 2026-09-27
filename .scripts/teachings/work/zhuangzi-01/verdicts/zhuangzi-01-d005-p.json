@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Then the soul will be a negative existence, passively responsive to externals. In such a negative existence, only TAO can abide. And that negative state is the fasting of the heart.”",
+ "ref": "Zhuangzi 4.38",
+ "at": [
+  291
+ ],
+ "s": "Counselling Yen Hui before he goes to the headstrong Prince of Wei, Confucius explains a fast; Guo Xiang, on chapter 4, reads it as setting aside ears, eyes, mind and intent, trusting the breath’s own nature, for in an emptied heart the utmost Way gathers.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 4, zh.wikisource (Nanhua zhenjing zhushu, juan 5, Zhengtong Daozang), revision 7907034 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907034",
+    "edition": "zh.wikisource 南華真經註疏 卷五 (Zhengtong Daozang, DZ0745), revision 7907034; Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, Zhuangzi zhu, chapter 4, on 氣也者，虛而待物者也 and 唯道集虛。虛者，心齋也",
+    "via": "packet"
+   }
+  ],
+  "words": "遺耳目，去心意，而付氣性之自得，此虛以待物者也…虛其心則至道集於懷也。",
+  "gloss": "[On the breath, empty and waiting on things:] Leave ears and eyes, drop mind and intent, and entrust all to the breath-nature attaining of itself: this is being empty and waiting on things. … [On the Way gathering in emptiness:] Empty the heart, and the utmost Way gathers in one’s bosom.",
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 4.38, at 291), beginning at a sentence start inside the unit. Plain sense faithful: Confucius counsels Yen Hui, bound for the Prince of Wei whom 4.7 calls of an unmanageable disposition. Guo Xiang’s notes on exactly the key verse’s Chinese lines (氣也者，虛而待物者也; 唯道集虛) say to leave ears and eyes, drop mind and intent, entrust all to the breath’s own attaining, and that in an emptied heart the utmost Way gathers; the reading follows these without drift. The packet prints a stray 他 after 者也; the evidence stops before it. Revision 7907034 dated 2026-07-06 by the Wikisource API. entry-check ok."
+}

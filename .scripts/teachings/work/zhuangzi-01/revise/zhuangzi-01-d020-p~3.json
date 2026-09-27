@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "If the age was unsuitable and their mission at failure, they fell back upon their own resources and waited.",
+ "ref": "Zhuangzi 16.27",
+ "at": [
+  1447
+ ],
+ "s": "The chapter says the retired scholars of old hid neither body, words nor wisdom; Guo Xiang, on chapter 16, reads the waiting as a sage’s calm in a busy age: deep-rooted, he waits for things to act of themselves, so the Way is not lost.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 16, zh.wikisource (Nanhua zhenjing zhushu, juan 18, Zhengtong Daozang), revision 6365330 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6365330",
+    "edition": "zh.wikisource, Nanhua zhenjing zhushu juan 18 (Zhengtong Daozang, DZ0745), revision 6365330, Guo Xiang only",
+    "locator": "chapter 16, Guo Xiang’s note on 則深根寧極而待 (Giles 16.27)",
+    "via": "packet"
+   }
+  ],
+  "words": "雖有事之世，而聖人未始不澹漠也，故深根寧極而待其自為耳，斯道之所以不喪也。",
+  "lang": "Classical Chinese",
+  "gloss": "Even in an age given to affairs, the sage is never other than calm and still; so he roots himself deep, rests in the utmost, and waits for things to act of themselves; this is how the Way is not lost.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: ‘met an unsuited age’ restates the key’s own opening clause and doubles ‘age’ against ‘a busy age’. Plain sense now gives what 16.27 says just before the key in day.js (the retired scholars of old were not men who hid their bodies, kept back their words or concealed their wisdom), with no four words of the key. Reading, key, place, by and src unchanged. Re-opened packet.js zhuangzi 20 --verse 16.27 (卷十八, revision 6365330): the note on 則深根寧極而待 reads 雖有事之世，而聖人未始不澹漠也，故深根寧極而待其自為耳，斯道之所以不喪也 verbatim and carries every clause of the reading. verse.js ok (Zhuangzi 16.27, at 1447); entry-check ok (scratch/rev3/d020.json)."
+}

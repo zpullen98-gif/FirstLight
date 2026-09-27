@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "If the age was unsuitable and their mission at failure, they fell back upon their own resources and waited.",
+ "ref": "Zhuangzi 16.27",
+ "at": [
+  1447
+ ],
+ "s": "The chapter says the retired scholars did not hide but met an unsuited age; Guo Xiang, on 16.27, reads the waiting as a sage’s calm in a busy age: rooted deep, he waits for things to act of themselves, so the Way is not lost.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 16, on 16.27, zh.wikisource (Nanhua zhenjing zhushu, juan 18, Zhengtong Daozang), revision 6365330 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6365330",
+    "edition": "zh.wikisource, Nanhua zhenjing zhushu juan 18 (Zhengtong Daozang, DZ0745), revision 6365330, Guo Xiang only",
+    "locator": "chapter 16, Guo Xiang's note on 則深根寧極而待 (Giles 16.27)",
+    "via": "packet"
+   }
+  ],
+  "words": "雖有事之世，而聖人未始不澹漠也，故深根寧極而待其自為耳，斯道之所以不喪也。",
+  "lang": "Classical Chinese",
+  "gloss": "Even in an age given to affairs, the sage is never other than calm and still; so he roots himself deep, rests in the utmost, and waits for things to act of themselves; this is how the Way is not lost.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: ‘blaming the times’ dangles and can be read as the scholars blaming the times, while day.js 16.27 has the chapter say it was that the age was not suitable for their mission. The suggested plain sense brought the sentence to 50 words (entry-check refused it), so it is cut to 14 words, ‘The chapter says the retired scholars did not hide but met an unsuited age’, which keeps the fix’s sense in the text’s own terms and repeats no four words of the key. Reading, key, place and src unchanged; re-opened packet.js zhuangzi 20 --verse 16.27 (juan 18, revision 6365330) and the note on 則深根寧極而待 carries every clause. verse.js ok (Zhuangzi 16.27, at 1447); entry-check ok, 45 words."
+}

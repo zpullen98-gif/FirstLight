@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore, for the perfect man who is unavoidably summoned to power over his fellows, there is naught like Inaction.",
+ "ref": "Zhuangzi 11.27",
+ "at": [
+  879
+ ],
+ "s": "After eight refinements the world cherishes in error, the chapter turns to the ruler; Guo Xiang, on chapter 11, reads inaction not as folded hands and silence but as leaving each thing to act of itself, so that nature and life are at rest.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 11, zh.wikisource (Nanhua zhenjing zhushu, juan 13, the Zhengtong Daozang edition), revision 7907032 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907032",
+    "edition": "zh.wikisource 南華真經註疏 卷十三, Zhengtong Daozang (DZ0745), revision 7907032",
+    "locator": "chapter 11 (juan 13), Guo Xiang note on 故君子不得已而臨蒞天下，莫若無為 (Giles 11.27)",
+    "via": "packet"
+   }
+  ],
+  "words": "無為者，非拱默之謂也，直各任其自為，則性命安矣。",
+  "lang": "Classical Chinese",
+  "gloss": "Inaction does not mean folding the hands and keeping silent; it is simply leaving each thing to act of itself, and then nature and life are at rest.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verbatim (verse.js ok, Zhuangzi 11.27, at 879). Opened the chapter 11 packet (whole chapter): Guo Xiang’s note on 故君子不得已而臨蒞天下，莫若無為。無為也而後安其性命之情 says verbatim that inaction is not folded hands and silence but leaving each to act of itself, so nature and life are at rest; the reading paraphrases this without addition. Plain sense faithful to Giles 11.17 to 11.27 (the eight over-refinements the world reveres, increasing error, then the perfect man summoned to power). entry-check ok."
+}

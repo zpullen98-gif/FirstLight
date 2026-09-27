@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But at midnight a strong man may come and carry away the boat on his back.",
+ "ref": "Zhuangzi 6.64",
+ "at": [
+  507
+ ],
+ "s": "A boat hidden in a creek seems safe, yet the passage imagines it stolen; Guo Xiang, on chapter 6, takes the ‘strong man’ as change, carrying heaven and earth on to the new, so the self of before is not the self of now.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 7, Zhengtong Daozang), revision 6011742 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6011742",
+    "edition": "zh.wikisource 南華真經註疏 卷七 (Zhengtong Daozang, DZ0745), revision 6011742, Guo Xiang's 注 only",
+    "locator": "大宗師, on 然而夜半有力者負之而走，昧者不知也 (Giles 6.64)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫無力之力，莫大於變化者也；故乃揭天地以趨新…故向者之我，非復今我也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the strong man who carries the boat off at midnight:) of the strength that is no strength, none is greater than change; so it lifts heaven and earth and hurries them on to the new. … So the self of a moment ago is no longer the self of now.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 6.64, at 507). Plain sense matches day.js 6.62 to 6.64 (boat hidden in a creek, safe enough, then carried off). Guo Xiang's note on 夜半有力者負之而走, in the packet, names change as the strength that is no strength, lifting heaven and earth toward the new, and concludes that the former self is not the present self; the surrounding notes (6.62, 6.64 second line, 6.66, 6.67) all read the passage as change that cannot be escaped. Two words of the verse quoted in curly quotes, within the limit. entry-check ok."
+}

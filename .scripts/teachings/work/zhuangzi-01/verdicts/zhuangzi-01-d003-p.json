@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“How do I know that love of life is not a delusion after all? How do I know but that he who dreads to die is not as a child who has lost the way and cannot find his home?",
+ "ref": "Zhuangzi 2.137",
+ "at": [
+  208
+ ],
+ "s": "Answering Chü Ch’iao on the sage, Chang Wu Tzŭ turns to life and death; Guo Xiang, on chapter 2, reads life and death as one, so that delighting in life alone sets itself against change, and death may be the strayed child’s return home.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 2, zh.wikisource (Nanhua zhenjing zhushu, juan 3, Zhengtong Daozang), revision 6364018 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6364018",
+    "edition": "zh.wikisource 南華真經註疏 卷三, Zhengtong Daozang (DZ0745), revision 6364018",
+    "locator": "chapter 2 (juan 3), Guo Xiang notes on 予惡乎知悅生之非惑邪 and 予惡乎知惡死之非弱喪而不知歸者邪 (Giles 2.137)",
+    "via": "packet"
+   }
+  ],
+  "words": "死生一也，而獨悅生，欲與變化相背，故未知其非惑也。…少而失其故居，名為弱喪。夫弱喪者，遂安於所在而不知歸於故鄉也。焉知生之非夫弱喪，焉知死之非夫還歸而惡之哉。",
+  "lang": "Classical Chinese",
+  "gloss": "Death and life are one, yet to delight in life alone is to wish to turn one’s back on change; so one cannot know it is not a delusion. … To lose one’s old home when young is called being lost young. One lost young settles where he is and does not know to return to his home country. How can one know that life is not such a being lost young, or that death is not a returning home, which is hated all the same?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verbatim (verse.js ok, Zhuangzi 2.137, at 208). The packet places chapter 2 from [2.74] in juan 3, revision 6364018, so the src is right. Guo Xiang’s two notes on these lines say death and life are one, that delighting in life alone turns against change, and ask how one knows death is not a return home for one lost young; the reading keeps his interrogative as may be. Plain sense faithful (Chü Ch’iao asks Chang Wu Tzŭ about the sage, 2.128 to 2.136). entry-check ok."
+}

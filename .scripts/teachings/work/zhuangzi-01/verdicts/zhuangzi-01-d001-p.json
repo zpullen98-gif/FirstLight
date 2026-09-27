@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And sometimes I do not reach, but fall to the ground midway. What then can be the use of going up ninety thousand li in order to start for the south?”",
+ "ref": "Zhuangzi 1.8",
+ "at": [
+  7
+ ],
+ "s": "Laughing at the great bird’s climb, a cicada tells a young dove of its own short hops; Guo Xiang, on chapter 1, reads it as each content in its own nature, the great not prizing itself, the small not envying, both equally at ease.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 1, zh.wikisource (Nanhua zhenjing zhushu, juan 1, Zhengtong Daozang), revision 6351652 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6351652",
+    "edition": "zh.wikisource 南華真經註疏 卷一, Zhengtong Daozang (DZ0745), revision 6351652",
+    "locator": "chapter 1 (juan 1), Guo Xiang note on 蜩與鸒鳩笑之曰 (Giles 1.8)",
+    "via": "packet"
+   }
+  ],
+  "words": "苟足於其性，則雖大鵬無以自貴於小鳥，小鳥無羨於天池，而榮願有餘矣。故小大雖殊，逍遙一也。",
+  "lang": "Classical Chinese",
+  "gloss": "If each is satisfied in its own nature, then even the great Peng has nothing by which to prize itself above the small bird, and the small bird does not envy the Heavenly Pool, and both have honour and wishes to spare. So though small and great differ, their free and easy wandering is one.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verbatim (verse.js ok, Zhuangzi 1.8, at 7). Guo Xiang’s note on the cicada and dove line, opened in the packet, says verbatim that if each is satisfied in its nature the Peng cannot prize itself above the small bird nor the small bird envy the Heavenly Pool, and though small and great differ their free wandering is one; the reading paraphrases this without addition. Plain sense faithful to Giles 1.8. entry-check ok."
+}

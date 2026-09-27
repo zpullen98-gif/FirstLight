@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Foot-prints are made by the shoe: they are not the shoe itself.",
+ "ref": "Zhuangzi 14.132",
+ "at": [
+  1376
+ ],
+ "s": "Lao Tzŭ tells Confucius, whose Six Canons no ruler adopted, that they are old tracks; Guo Xiang, on 14.132, reads the shoe as what is so of itself, and the Canons as the print of one who leaves each thing to its true nature.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 14, on 14.132, zh.wikisource (Nanhua zhenjing zhushu, juan 16, Zhengtong Daozang), revision 6365115 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6365115",
+    "edition": "zh.wikisource, Nanhua zhenjing zhushu juan 16 (Zhengtong Daozang, DZ0745), revision 6365115, Guo Xiang only",
+    "locator": "chapter 14, Guo Xiang's notes on 夫《六經》，先王之陳迹也 and 夫迹，履之所出 (Giles 14.132)",
+    "via": "packet"
+   }
+  ],
+  "words": "所以迹者，真性也。夫任物之真性者，其迹則《六經》也。…況今之人事，則以自然為履，《六經》為迹。",
+  "lang": "Classical Chinese",
+  "gloss": "What makes the tracks is the true nature; for one who leaves things to their true nature, his tracks are the Six Classics. … So in present human affairs, take what is so of itself as the shoe and the Six Classics as the tracks.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 14.132, at 1376). Read Guo Xiang on the whole of chapter 14 in the packet: his two notes on the Six Canons passage say what makes the tracks is true nature, that the tracks of one who leaves things to their true nature are the Six Classics, and that one should take 自然 as the shoe and the Six Classics as the tracks. The sentence paraphrases exactly this. Plain sense faithful to 14.131 and 14.132 (Confucius used the Canons with seventy-two rulers, none took them up; Lao Tzŭ calls them worn-out foot-prints). entry-check ok."
+}

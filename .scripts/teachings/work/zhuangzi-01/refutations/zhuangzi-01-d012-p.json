@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d012-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7907033", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 10.23 and the live revision 7907033 (action=raw): the note 〔注〕信哉斯言，斯言雖信，而猶不可亡聖者，猶天下之知未能都亡 ... 然則有聖之害雖多，猶愈於亡聖之無治也 follows 天下之善人少而不善人多，則聖人之利天下也少而害天下也多, the exact Chinese of the key. Paraphrase (the saying true, yet the Sages cannot be dropped while the world's knowing remains, their harm less than having none) is carried; the condition 'while the world's cleverness remains' keeps Guo's limit, though his closing qualifier (未若都亡之無害, better still if all knowing were gone) is omitted, an omission not a distortion; 'lawlessness' for 無治 is a slight sharpening of 'no order' but within range. Plain sense matches day.js 10.21 to 10.23 (Chê's five qualities, then the moral). verse.js ok (Zhuangzi 10.23, at 814); entry-check.js ok. No comparison, tone plain.",
+ "better": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But Confucius said, “That fellow pretends to a knowledge of the science of the ante-mundane. He knows something, but not much. His government is of the internal, not of the external.",
+ "ref": "Zhuangzi 12.116",
+ "at": [
+  1096
+ ],
+ "s": "Tzŭ Kung tells Confucius of the gardener who scorned machines; Guo Xiang, on chapter 12, reads the pretence as lying in his turning from the present to the past, ashamed of the world’s affairs, whereas one truly of that art governs nothing, inner or outer.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 12, zh.wikisource (Nanhua zhenjing zhushu, juan 14, the Zhengtong Daozang edition), revision 6356578 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true,
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6356578",
+    "edition": "zh.wikisource 南華真經註疏 卷十四 (Zhengtong Daozang, DZ0745), revision 6356578 (2026); Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, chapter 12 (天地), notes on 彼假脩渾沌氏之術者也 and 治其內，而不治其外 (Giles 12.116)",
+    "via": "packet"
+   }
+  ],
+  "words": "以其背今向古，羞為世事，故知其非真渾沌也。…夫真渾沌，都不治也，豈以其內為異而偏有所治哉。",
+  "gloss": "(On ‘he pretends to the art of Hundun’:) because he turns his back on the present and faces the past, ashamed to take part in the world’s affairs, it is known that he is not the true Hundun. … (On ‘he governs the inner and not the outer’:) the true Hundun governs nothing at all; how would it set the inner apart and govern that alone?"
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 12.116, at 1096), one unit, starts at a sentence, no dash. Opened the packet for chapter 12 (卷十四) at 12.116: Guo Xiang’s notes on 彼假脩渾沌氏之術者也 and 治其內，而不治其外 carry the reading exactly (not the true Hundun because he turns from present to past, ashamed of worldly affairs; the true Hundun governs nothing, so cannot favour the inner), located by opening words; the following notes (此真渾沌也，故與世同波而不自失) are consistent. Plain sense faithful: 12.116 opens with the return to Lu to tell Confucius, and the gardener who refused the well-sweep, with Tzŭ Kung, is the preceding episode in Giles’ own spelling; no key-verse words repeated. entry-check ok."
+}

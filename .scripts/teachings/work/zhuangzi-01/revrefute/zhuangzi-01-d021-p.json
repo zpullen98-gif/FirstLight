@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d021-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7907030", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 21 --verse 17.10 (Guo Xiang, zh.wikisource revision 7907030): the commentary directly follows the text 吾在天地之間，猶小石小木之在大山也, the Chinese of the key verse, and contains both evidence segments verbatim (此發辭氣者，有似乎觀大可以明小，尋其意則不然 ... 然後惑者有由而反，各知其極，物安其分). The paraphrase holds: the manner of speaking seems to measure and diminish the small against the great (his next line has the great calling the small insufficient, so 'belittle' is fair), but its intent is not that; the corrective ends with each knowing its limit and things resting in their portion. Compression of the corrective device into 'their sense' is within the evidence. Locator 'chapter 17' is correct for a commentary located by chapter. Plain sense matches day.js 17.7 to 17.10 (the River, humbled, admires the Ocean; the Ocean would not venture to boast), repeats no four words of the key, names no commentator. verse.js ok (Zhuangzi 17.10, at 1466); entry-check.js ok, no errors or warns; 44 words, src 128 characters. No school required, no comparison, tone neutral.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d020-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6365330", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 16.27 and the raw wikitext of revision 6365330: line 220, marked 〔注〕, follows 則深根寧極而待 (Giles: fell back upon their own resources and waited) and reads 雖有事之世，而聖人未始不澹漠也，故深根寧極而待其自為耳，斯道之所以不喪也. Every clause of the paraphrase is carried: calm (澹漠) even in an age of affairs (有事之世), rooted deep (深根), waiting for things to act of themselves (待其自為), so the Way is not lost (斯道之所以不喪). His preceding note on 不當時命而大窮 (此不能澹漠之時也) confirms the contrast. Locator right (Giles 16.27, chapter 16). Plain sense matches day.js 16.27 (retired scholars were not men who hid; the age was not suitable); 'blaming the times' is a slightly coloured word for attributing it to the times but not a misstatement. verse.js ok (Zhuangzi 16.27, at 1447); entry-check.js ok, no errors or warns.",
+ "better": "Optional wording only: 'attributing their obscurity to the times' in place of 'blaming the times'; the reading and place need no change."
+}

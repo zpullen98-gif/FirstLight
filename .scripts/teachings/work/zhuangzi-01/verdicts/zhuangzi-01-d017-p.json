@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Rulers must practise inaction in order to administer the empire. The ruled must practise action in order to subserve the interests of the empire. This is an unchangeable law.",
+ "ref": "Zhuangzi 13.26",
+ "at": [
+  1163
+ ],
+ "s": "Having praised inaction, the chapter divides ruler from ruled; Guo Xiang, on chapter 13, reads the ruler’s use of the empire as a doing called inaction because it follows his nature, so that, each following his own, no one above or below acts.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 13, zh.wikisource (Nanhua zhenjing zhushu, juan 15, the Zhengtong Daozang edition), revision 6356924 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true,
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6356924",
+    "edition": "zh.wikisource 南華真經註疏 卷十五 (Zhengtong Daozang, DZ0745), revision 6356924 (2026); Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, chapter 13 (天道), note on 上必無為而用天下，下必有為為天下用，此不易之道也 (Giles 13.26)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫用天下者，亦有用之為耳。然自得此為，率性而動，故謂之無為也。…然各用其性而天機玄發，則古今上下無為，誰有為也。",
+  "gloss": "(On ‘the ruler must be without action and use the empire; the ruled must act and be used by the empire’:) the one who uses the empire also has the doing of using; but because he finds this doing in himself and moves by following his nature, it is called non-action. … But when each uses his own nature and the workings of heaven issue darkly forth, then past and present, above and below, are all non-action: who is it that acts?"
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 13.26, at 1163), three whole sentences inside one unit, no dash. Opened the packet for chapter 13 (卷十五) at 13.25 to 13.26: Guo Xiang’s note on 上必無為而用天下 says the ruler’s using is itself a doing, called non-action because self-found and by nature, and that when each uses his own nature no one above or below acts; the preceding note (the carpenter and the axe, ruler and minister each in his own charge) agrees. The sentence adds nothing beyond these words. Plain sense faithful: 13.25 praises inaction and 13.26 separates rulers from ruled; no key-verse words repeated. entry-check ok."
+}

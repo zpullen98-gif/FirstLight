@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“Let all things revert to their original constitution. If they do this, without knowledge, the result will be a simple purity which they will never lose; but knowledge will bring with it a divergence therefrom.",
+ "ref": "Zhuangzi 11.102",
+ "at": [
+  954
+ ],
+ "s": "Pressed again, the Vital Principle tells the Spirit of the Clouds to rest in inaction; Guo Xiang, on chapter 11, reads the return as true only when made without knowing, for things left in chaos to return of themselves never leave their root.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 11, zh.wikisource (Nanhua zhenjing zhushu, juan 13, the Zhengtong Daozang edition), revision 7907032 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907032",
+    "edition": "zh.wikisource 南華真經註疏 卷十三, Zhengtong Daozang (DZ0745), revision 7907032",
+    "locator": "chapter 11 (juan 13), Guo Xiang notes on 各復其根而不知, 渾渾沌沌，終身不離 and 若彼知之，乃是離之 (Giles 11.102)",
+    "via": "packet"
+   }
+  ],
+  "words": "不知而復，乃真復也。…渾沌無知而任其自復，乃能終身不離其本也。…知而復之，與復乖矣。",
+  "lang": "Classical Chinese",
+  "gloss": "To return without knowing is true return. … In undivided chaos, knowing nothing and left to return of themselves, they can all their lives not leave their root. … To return by knowing is at odds with returning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verbatim (verse.js ok, Zhuangzi 11.102, at 954). Opened the chapter 11 packet: Guo Xiang’s three consecutive notes on 萬物云云，各復其根 to 若彼知之，乃是離之 say that return without knowing is true return, that things in chaos left to return of themselves never leave their root, and that knowing return is at odds with return; the reading (true only when made without knowing, never leaving their root) carries these words without drift. Plain sense faithful to Giles 11.98 to 11.101 (the Spirit of the Clouds presses again; the Vital Principle tells him to rest in inaction). entry-check ok."
+}

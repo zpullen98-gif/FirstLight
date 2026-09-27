@@ -1,0 +1,9 @@
+{
+ "id": "zhuangzi-01-d020-p",
+ "revision": "C:/Users/zpull/FirstLight/.scripts/teachings/work/zhuangzi-01/revise/zhuangzi-01-d020-p~3.json",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6365330", "found": true},
+ "attacks": [],
+ "reason": "No attack lands. verse: verse.js ok (Zhuangzi 16.27, at 1447), a whole sentence of the text unit, not a note; it is Giles' rendering of 不當時命而大窮乎天下，則深根寧極而待, exactly the clause Guo Xiang annotates. plain: day.js 16.27 opens 'Those of old who were called retired scholars, were not men who hid their bodies, or kept back their words, or concealed their wisdom'; the clause says that and no more, with no four words of the key. attribution/locator: packet.js zhuangzi 20 --verse 16.27 (juan 18, rev 6365330) and the live page both give, marked 〔注〕 (Guo Xiang, not Cheng Xuanying's 疏) directly after 則深根寧極而待: 雖有事之世，而聖人未始不澹漠也，故深根寧極而待其自為耳，斯道之所以不喪也; the API confirms rev 6365330 is 南華真經註疏/卷十八, timestamp 2026-06-05, so src year holds. drift: calm (澹漠) in an age of affairs (有事之世), deep-rooted (深根), waits for things to act of themselves (待其自為), Way not lost (道之所以不喪) each map to his words; nothing added. school/comparison/tone: none needed, none present. form: entry-check ok, 44 words, one semicolon, British spelling, no dash.",
+ "better": ""
+}

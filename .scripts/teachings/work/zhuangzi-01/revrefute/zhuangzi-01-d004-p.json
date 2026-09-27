@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d004-p",
+ "refuted": true,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6364018", "found": true},
+ "attacks": ["drift"],
+ "reason": "Re-opened packet.js zhuangzi 4 --verse 2.154 (chapter 2 in juan 3, revision 6364018). The evidence words are there verbatim: 然所在無不適志…知夫在生而哀死者誤也 on 不知周也, and 而各適一時之志…世有假寐，而夢經百年者，則無以明今之百年，非假寐之夢者也 on the key verse’s own line 不知周之夢為胡蝶與. verse.js ok (Zhuangzi 2.154, at 225) and entry-check ok. But the revision’s new clause ‘a hundred-year life may be one long nap’s dream’ inverts Guo Xiang’s image: 假寐 is a doze, a brief nap (sleeping without lying down or undressing), and his point is that a short doze can hold a dream that runs through a hundred years (夢經百年), so the present hundred years cannot be shown not to be the dream of such a doze. Nothing in his words makes the nap long; the length belongs to the dream. The gloss in the entry’s own evidence (‘Some nap and dream through a hundred years’) does not support ‘long nap’ either. Plain sense, key, locator, form and tone otherwise hold.",
+ "better": "Keep everything but the drifting clause: ‘so a hundred-year life may be the dream of a single doze’ (or ‘of one brief nap’), which is 世有假寐，而夢經百年者…無以明今之百年，非假寐之夢者也 without adding length to the nap."
+}

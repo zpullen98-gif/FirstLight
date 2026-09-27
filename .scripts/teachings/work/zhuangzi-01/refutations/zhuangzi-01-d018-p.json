@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d018-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6365115",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 14.3 and the cached raw wikitext of revision 6365115: lines 11, 17, 23 and 33 are 〔注〕 (Guo Xiang): 不運而自行也, 不處而自止也, 不爭所而自代謝也, and 皆自爾 after 孰主張是？孰維綱是？. They carry the paraphrase; ‘with no one causing or directing them’ is Guo’s answer (皆自爾) to the questions who causes and who directs, and 不運 already denies a turner. Checked that the explicit 無物使之然也 at line 41 is Cheng Xuanying’s 疏, but the sentence does not depend on it, since Guo’s own answer to ‘who’ is ‘of themselves’. Locator chapter 14 right (Giles 14.3). Plain sense matches day.js 14.3 to 14.6 (questions on sky, clouds and wind open chapter 14), not from the italic argument; no four-word run from the key. verse.js ok (Zhuangzi 14.3, at 1247); entry-check.js ok, no errors or warns. No school, no comparison, tone neutral.",
+ "better": ""
+}

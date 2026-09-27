@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When ONE came into existence, there was ONE, but it was formless. When things got that by which they came into existence, it was called their virtue.",
+ "ref": "Zhuangzi 12.66",
+ "at": [
+  1046
+ ],
+ "s": "A brief account of the beginning moves from the Nameless toward destiny, form and nature; Guo Xiang, on chapter 12, reads it as things getting life of themselves, since non-being cannot produce them, and virtue as leaving them to that self-getting.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 12, zh.wikisource (Nanhua zhenjing zhushu, juan 14, the Zhengtong Daozang edition), revision 6356578 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6356578",
+    "edition": "zh.wikisource 南華真經註疏 卷十四, Zhengtong Daozang (DZ0745), revision 6356578",
+    "locator": "chapter 12 (juan 14), Guo Xiang notes on 一之所起，有一而未形 and 物得以生，謂之德 (Giles 12.66)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫一之所起，起於至一，非起於無也。…夫無不能生物，而云物得以生，乃所以明物生之自得，任其自得，斯可謂德也。",
+  "lang": "Classical Chinese",
+  "gloss": "The arising of the One arises from the utmost One, not from non-being. … Non-being cannot produce things; the text says things got that by which they live to make clear that the life of things is got of themselves, and leaving them to that self-getting may be called virtue.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verbatim (verse.js ok, Zhuangzi 12.66, at 1046). Opened the chapter 12 packet: Guo Xiang on 一之所起 says the One arises from the utmost One, not from non-being, and on 物得以生，謂之德 says non-being cannot produce things, the phrase makes clear that things get life of themselves, and leaving them to that self-getting is virtue; the reading paraphrases exactly this. Plain sense faithful to Giles 12.64 to 12.73 (Nothing, the Nameless, ONE, virtue, destiny, form, nature). entry-check ok."
+}

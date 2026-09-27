@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d014-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7907032", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 14 --verse 11.102: the three consecutive notes 不知而復，乃真復也 (on 各復其根而不知), 渾沌無知而任其自復，乃能終身不離其本也 (on 渾渾沌沌，終身不離) and 知而復之，與復乖矣 (on 若彼知之，乃是離之) stand verbatim on the Chinese of the key verse. Together they carry 'true only when made without knowing' (true return without knowing; knowing return at odds with return) and 'left in chaos to return of themselves never leave their root' without drift. verse.js ok (Zhuangzi 11.102, at 954); the key opens with Giles' unclosed quotation mark, verbatim and accepted by the tool. entry-check.js ok, no errors or warns. Plain sense matches day.js 11.98 to 11.101 (the Spirit of the Clouds urges again; the Vital Principle says rest in inaction), no key-verse words repeated. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

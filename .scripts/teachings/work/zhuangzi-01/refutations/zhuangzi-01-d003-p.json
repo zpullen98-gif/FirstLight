@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d003-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6364018",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 3 --verse 2.137 (chapter 2 from [2.74] is 卷三, revision 6364018, the url cited): Guo Xiang's notes on 予惡乎知悅生之非惑邪 (死生一也，而獨悅生，欲與變化相背，故未知其非惑也) and on 予惡乎知惡死之非弱喪而不知歸者邪 (少而失其故居，名為弱喪…焉知死之非夫還歸而惡之哉) contain the evidence verbatim, and these are the two sentences Giles renders as 2.137, so the locator is exact. Paraphrase (life and death one, delighting in life alone sets itself against change, death may be the strayed child's return home) is carried clause by clause; may be matches Guo's own 焉知 hedge, no drift. Plain sense matches day.js 2.128 to 2.137 (Chü Ch'iao asks Chang Wu Tzŭ about the sage; the reply turns to life and death). Death is treated neither softened nor sensationalised. No school, no comparison. verse.js ok (Zhuangzi 2.137, at 208); entry-check.js ok, no errors or warns.",
+ "better": ""
+}

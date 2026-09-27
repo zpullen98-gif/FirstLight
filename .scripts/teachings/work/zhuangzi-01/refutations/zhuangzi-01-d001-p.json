@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6351652",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 1 --verse 1.8: Guo Xiang's note directly on 蜩與鸒鳩笑之曰：我決起而飛…奚以之九萬里而南為 is the evidence verbatim (苟足於其性，則雖大鵬無以自貴於小鳥，小鳥無羨於天池…故小大雖殊，逍遙一也), so locator is exact. Paraphrase (each content in its own nature, great not prizing itself, small not envying, both equally at ease) is carried clause by clause; 逍遙一也 supports equally at ease, no drift. Key is the cicada's own words in Giles 1.8 (day.js), the line the note glosses; plain sense (cicada laughing at the Rukh's climb, telling the young dove of its short flights) matches 1.7 to 1.8 without repeating the verse. No school needed (roster gives none), no comparison, tone neutral. verse.js ok (Zhuangzi 1.8, at 7); entry-check.js ok, no errors or warns.",
+ "better": ""
+}

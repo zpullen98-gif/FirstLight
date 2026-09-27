@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "But at midnight a strong man may come and carry away the boat on his back.",
+ "ref": "Zhuangzi 6.64",
+ "at": [
+  507
+ ],
+ "s": "A boat hidden in a creek seems safe, though anything hidden may still be lost; Guo Xiang, on chapter 6, takes the ‘strong man’ as change, carrying heaven and earth on to the new, so the self of before is not the self of now.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 7, Zhengtong Daozang), revision 6011742 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6011742",
+    "edition": "zh.wikisource 南華真經註疏 卷七 (Zhengtong Daozang, DZ0745), revision 6011742, Guo Xiang's 注 only",
+    "locator": "大宗師, on 然而夜半有力者負之而走，昧者不知也 (Giles 6.64)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫無力之力，莫大於變化者也；故乃揭天地以趨新，負山嶽以合故故。不暫停，忽已涉新，則天地萬物無時而不移也。世皆新矣，而自以為故；舟日易矣，而視之若舊；山日更矣，而視之若前。今交一臂而失之，皆在冥中去矣。故向者之我，非復今我也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the strong man who carries the boat off at midnight:) of the strength that is no strength, none is greater than change; so it lifts heaven and earth and hurries them on to the new, shoulders the mountains to join the old. It never pauses; the world is new each moment yet takes itself for old, the boat changes daily yet looks the same. So the self of a moment ago is no longer the self of now.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement. Key verse verbatim (verse.js ok, Zhuangzi 6.64, at 507). Reopened packet.js zhuangzi 8 --verse 6.64 and 6.62: Guo Xiang on 然而夜半有力者負之而走 names change as the strength that is no strength, lifting heaven and earth on to the new, and concludes the self of before is not the self of now; his note on 6.62 frames the passage as the inescapability of change. The reading stands. The refuter is right on rule 2: the earlier plain sense (yet the passage imagines it stolen) restated the key verse printed above it rather than giving context. Changed only the plain-sense clause, to the refuter’s wording, which gives the boat hidden in 6.62 and the warning later in 6.64 that anything concealed may be lost; evidence words made one contiguous span (no ellipsis). entry-check ok."
+}

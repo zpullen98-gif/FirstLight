@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But good men are scarce and bad men plentiful, so that the good the Sages do to the world is little and the evil great.",
+ "ref": "Zhuangzi 10.23",
+ "at": [
+  814
+ ],
+ "s": "Robber Chê having claimed the Sages’ virtues for thieving, the chapter draws its moral; Guo Xiang, on chapter 10, takes the saying as true yet holds that the Sages cannot be dropped while the world’s cleverness remains, their harm being less than lawlessness without them.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 10, zh.wikisource (Nanhua zhenjing zhushu, juan 12, Zhengtong Daozang), revision 7907033 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907033",
+    "edition": "zh.wikisource 南華真經註疏 卷十二 (Zhengtong Daozang, DZ0745), revision 7907033 (2026-07-06); Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, chapter 10 (胠篋), note on 天下之善人少而不善人多，則聖人之利天下也少而害天下也多 (Giles 10.23)",
+    "via": "packet"
+   }
+  ],
+  "words": "信哉斯言，斯言雖信，而猶不可亡聖者，猶天下之知未能都亡，故須聖道以鎮之也。群知不亡而獨亡聖知，則天下之害又多於有聖矣。然則有聖之害雖多，猶愈於亡聖之無治也。雖愈於亡聖，故未若都亡之無害也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the good the Sages do being little and the harm great:) true indeed is this saying; yet though true, the Sage still cannot be done away with, because the knowing of the world cannot all be done away with, and so the Sage’s way is needed to hold it down. If the many knowings remain and only the Sage’s knowing is removed, the harm to the world is greater than with the Sage. So though the harm of having Sages is great, it is still better than the disorder of having none. Though better than having none, it is still not as good as all knowing being gone, which does no harm.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 10.23, at 814), second sentence of the unit, no dash. Opened the whole chapter 10 commentary in the packet (卷十二): Guo Xiang’s note on 天下之善人少而不善人多 … 害天下也多 (located by opening words) grants the saying, then holds the Sage cannot be done away with while the world’s knowing remains, the harm of Sages being less than the disorder (無治, ‘lawlessness’) of none. The reading keeps his condition (‘while the world’s cleverness remains’) and does not go beyond; it omits his closing line that the loss of all knowing would be better still, an omission that does not reverse or distort what is attributed. Plain sense faithful: in 10.21 to 10.22 Robber Chê finds wisdom, courage, heroism, shrewdness and justice in thieving and 10.23 opens by saying the Sages’ doctrine serves Chê too; no key-verse words repeated. Revision 7907033 dated 2026-07-06 by the Wikisource API; juan 12 confirmed. entry-check ok."
+}

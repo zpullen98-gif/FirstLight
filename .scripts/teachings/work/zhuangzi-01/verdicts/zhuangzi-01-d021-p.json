@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "In the universe I am but as a small stone or a small tree on a vast mountain.",
+ "ref": "Zhuangzi 17.10",
+ "at": [
+  1466
+ ],
+ "s": "Praised by the humbled River, the Spirit of the Ocean declines to boast; Guo Xiang, on 17.10, reads the words as seeming to belittle the small beside the great, though their sense is that each thing, knowing its limit, rests in its portion.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 17, on 17.10, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907030",
+    "edition": "zh.wikisource, Nanhua zhenjing zhushu juan 19 (Zhengtong Daozang, DZ0745), revision 7907030, Guo Xiang only",
+    "locator": "chapter 17, Guo Xiang's note on 吾在天地之間，猶小石小木之在大山也 (Giles 17.10)",
+    "via": "packet"
+   }
+  ],
+  "words": "此發辭氣者，有似乎觀大可以明小，尋其意則不然。…然後惑者有由而反，各知其極，物安其分，逍遙者用其本步而遊乎自得之場矣。",
+  "lang": "Classical Chinese",
+  "gloss": "The tone in which this is said seems as though looking at the great could make the small plain; but seek its meaning and it is not so. … Then the deluded have a way back: each knows its own limit, things rest in their portion, and the free and easy go at their own pace and roam in the field of their own content.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 17.10, at 1466). Read Guo Xiang on chapter 17 in the packet: his long note after 猶小石小木之在大山也 says the words seem to use the great to show up the small but their meaning is otherwise, and that the deluded return when each knows its limit and things rest in their portion. The sentence carries exactly this; 'belittle the small beside the great' is a fair rendering of 觀大可以明小 in the light of the same note's complaint that the large despise the small. Plain sense faithful: the River, humbled, praises the Ocean's inexhaustibility, and the Spirit of the Ocean says he would not boast. entry-check ok."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d013-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7907032", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 13 --verse 11.27: Guo Xiang's note on 故君子不得已而臨蒞天下，莫若無為。無為也而後安其性命之情 reads verbatim 無為者，非拱默之謂也，直各任其自為，則性命安矣, which carries the whole paraphrase (not folded hands and silence, leaving each to act of itself, nature and life at rest) with no drift; the note sits on the line that is the key verse (with its continuation at Giles 11.29). verse.js ok (Zhuangzi 11.27, at 879); entry-check.js ok, no errors or warns. Plain sense checked against day.js 11.17 to 11.27: the over-refinement of the eight, which the world reverences and cherishes, increasing error, then the perfect man summoned to power; 'eight refinements' follows Giles' 'over-refinement' wording and 'the ruler' is a fair gloss of one summoned to power over his fellows. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

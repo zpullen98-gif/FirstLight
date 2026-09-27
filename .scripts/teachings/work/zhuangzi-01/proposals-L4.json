@@ -1,0 +1,163 @@
+{
+ "lane": "L4",
+ "plan": "zhuangzi",
+ "batch": "zhuangzi-01",
+ "days": [
+  {
+   "d": 19,
+   "primary": {
+    "id": "zhuangzi-01-d019-p",
+    "key": "Foot-prints are made by the shoe: they are not the shoe itself.",
+    "ref": "Zhuangzi 14.132",
+    "at": [
+     1376
+    ],
+    "s": "Lao Tzŭ tells Confucius, whose Six Canons no ruler adopted, that they are old tracks; Guo Xiang, on 14.132, reads the shoe as what is so of itself, and the Canons as the print of one who leaves each thing to its true nature.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 14, on 14.132, zh.wikisource (Nanhua zhenjing zhushu, juan 16, Zhengtong Daozang), revision 6365115 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "所以迹者，真性也。夫任物之真性者，其迹則《六經》也。…況今之人事，則以自然為履，《六經》為迹。",
+     "gloss": "What makes the tracks is the true nature: for one who leaves things to their true nature, his tracks are the Six Classics. … So in the affairs of people now, take what is so of itself as the shoe, and the Six Classics as the tracks."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d019-s",
+    "key": "That woman saw the beauty of knitted brows, but she did not see wherein the beauty of knitted brows lay.",
+    "ref": "Zhuangzi 14.83",
+    "at": [
+     1327
+    ],
+    "s": "Among Shih Chin’s likenesses for Confucius’ revival of old ways is a woman who aped a beauty’s frown; Guo Xiang, on 14.83, reads rites and duty used in their time as Hsi Shih, and kept past their time as the ugly woman.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 14, on 14.83, zh.wikisource (Nanhua zhenjing zhushu, juan 16, Zhengtong Daozang), revision 6365115 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "況夫禮義，當其時而用之，則西施也；時過而不棄，則醜人也。",
+     "gloss": "How much more so with rites and duty: used when it is their time, they are Xi Shi (Hsi Shih); kept and not cast off when their time has passed, they are the ugly woman."
+    }
+   }
+  },
+  {
+   "d": 20,
+   "primary": {
+    "id": "zhuangzi-01-d020-p",
+    "key": "If the age was unsuitable and their mission at failure, they fell back upon their own resources and waited.",
+    "ref": "Zhuangzi 16.27",
+    "at": [
+     1447
+    ],
+    "s": "The chapter denies that the retired scholars of old hid, blaming the times; Guo Xiang, on 16.27, reads the waiting as a sage’s calm in a busy age: rooted deep, he waits for things to act of themselves, so the Way is not lost.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 16, on 16.27, zh.wikisource (Nanhua zhenjing zhushu, juan 18, Zhengtong Daozang), revision 6365330 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "雖有事之世，而聖人未始不澹漠也，故深根寧極而待其自為耳，斯道之所以不喪也。",
+     "gloss": "Even in an age given to affairs, the sage is never other than calm and unmoved; so he roots himself deep, rests in the ultimate, and waits for things to act of themselves; this is how the Way is not lost."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d020-s",
+    "key": "That which is adventitious, comes. Coming, you cannot prevent it; going, you cannot arrest it.",
+    "ref": "Zhuangzi 16.30",
+    "at": [
+     1450
+    ],
+    "s": "Once attaining one’s wish meant full joy, the chapter says, but now it means office; Guo Xiang, on 16.30, reads office as an outward thing whose gain and loss are not the self, worn calmly by one unaware it is lodged on him.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 16, on 16.30, zh.wikisource (Nanhua zhenjing zhushu, juan 18, Zhengtong Daozang), revision 6365330 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "在外物耳，得失之非我也。…淡然自若，不覺寄之在身。",
+     "gloss": "It lies only among outward things; gaining and losing it are not the self. … (On the next line, not indulging one’s will for office:) calm and at ease as ever, not aware that the lodged thing is on his person."
+    }
+   }
+  },
+  {
+   "d": 21,
+   "primary": {
+    "id": "zhuangzi-01-d021-p",
+    "key": "In the universe I am but as a small stone or a small tree on a vast mountain.",
+    "ref": "Zhuangzi 17.10",
+    "at": [
+     1466
+    ],
+    "s": "Praised by the humbled River, the Spirit of the Ocean declines to boast; Guo Xiang, on 17.10, reads the words as seeming to belittle the small beside the great, though their sense is that each thing, knowing its limit, rests in its portion.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 17, on 17.10, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "此發辭氣者，有似乎觀大可以明小，尋其意則不然。…然後惑者有由而反，各知其極，物安其分，逍遙者用其本步而遊乎自得之場矣。",
+     "gloss": "The tone in which this is said seems as if looking at the great could show up the small; but seek its meaning and it is not so. … Then the deluded have a way back: each knows its own limit, things rest in their portion, and the free and easy use their own stride to roam in the field of their own content."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d021-s",
+    "key": "He who clearly apprehends the scheme of existence, does not rejoice over life, nor repine at death; for he knows that terms are not final.",
+    "ref": "Zhuangzi 17.20",
+    "at": [
+     1476
+    ],
+    "s": "After space, time and fortune, the Ocean’s Spirit turns to life and death; Guo Xiang, on 17.20, reads the terms as end and beginning renewed daily: the old cannot be held, so the new is met without alarm and death and life change as one.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 17, on 17.20, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "明終始之日新也，則知故之不可執而留矣，是以涉日新而不愕，舍故而不驚，死生之化若一。",
+     "gloss": "Clear that ending and beginning are renewed day by day, he knows that the old cannot be grasped and kept; so he passes into the daily new without alarm and lets go the old without fright, and the change of death and life is as one."
+    }
+   }
+  },
+  {
+   "d": 22,
+   "primary": {
+    "id": "zhuangzi-01-d022-p",
+    "key": "Your very question shows that you knew I knew.",
+    "ref": "Zhuangzi 17.149",
+    "at": [
+     1605
+    ],
+    "s": "On the Hao bridge, Hui Tzŭ denies anyone but a fish can know its pleasure; Guo Xiang, on 17.149, reads it as saying no one need be a fish to know fishes, since Hui Tzŭ knew Chuang Tzŭ was no fish without being him.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 17, on 17.149, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "今子非我也，而云汝安知魚樂者，是知我之非魚也。苟知我之非魚，則凡相知者，果可以此知彼，不待是魚然後知魚也。",
+     "gloss": "Now you are not I, yet in saying ‘how do you know the pleasure of fish’ you know that I am not a fish. If you know that I am not a fish, then all who know one another can indeed know that one from this one, and need not be a fish before they know the fish."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d022-s",
+    "key": "“Therefore it has been said, do not let the artificial obliterate the natural; do not let will obliterate destiny; do not let virtue be sacrificed to fame. Diligently observe these precepts without fail, and thus you will revert to the divine.”",
+    "ref": "Zhuangzi 17.79",
+    "at": [
+     1535
+    ],
+    "s": "Having named four feet natural and the halter artificial, the Spirit of the Ocean gives three rules; Guo Xiang, on 17.79, reads the first as allowing halter and nose-string but forbidding that the beasts be driven past their portion.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 17, on 17.79, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "穿落之可也，若乃走作過分，羅步失節，則天理滅矣。",
+     "gloss": "Piercing the nose and haltering the head are permissible; but if they are made to run beyond their portion and their gait loses its measure, then the heavenly principle is destroyed."
+    }
+   }
+  }
+ ]
+}

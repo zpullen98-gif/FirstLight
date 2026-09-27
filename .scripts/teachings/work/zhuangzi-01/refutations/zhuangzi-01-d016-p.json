@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d016-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6356578",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 12.116 and the cached raw wikitext of revision 6356578: lines 871 and 883 are marked 〔注〕 (Guo Xiang, not Cheng Xuanying’s 疏): 以其背今向古，羞為世事，故知其非真渾沌也 on 彼假脩渾沌氏之術者也, and 夫真渾沌，都不治也，豈以其內為異而偏有所治哉 on 治其內，而不治其外. They carry the paraphrase: the pretence is known by his turning from present to past, ashamed of worldly affairs; the true Hundun governs nothing, so neither inner nor outer. ‘One truly of that art’ for 真渾沌 is supported by the next 注 (此真渾沌也) naming the man who passes through the world as the true Hundun. Locator chapter 12 right (Giles 12.116). Plain sense accurate: 12.116 opens with Tzŭ Kung (Giles’ spelling, day 15) returning to Lu to tell Confucius of the well-sweep gardener; no four-word run from the key. verse.js ok (Zhuangzi 12.116, at 1096); entry-check.js ok, no errors or warns. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

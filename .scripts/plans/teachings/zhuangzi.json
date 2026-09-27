@@ -3,6 +3,314 @@
  "div": "84653a3f7d",
  "days": [
   {
+   "d": 1,
+   "label": "Zhuangzi 1.1 to 1.63",
+   "key": "And sometimes I do not reach, but fall to the ground midway. What then can be the use of going up ninety thousand li in order to start for the south?”",
+   "ref": "Zhuangzi 1.8",
+   "at": [
+    7
+   ],
+   "s": "Laughing at the great bird’s climb, a cicada tells a young dove of its own short hops; Guo Xiang, on chapter 1, reads it as each content in its own nature, the great not prizing itself, the small not envying, both equally at ease.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 1, zh.wikisource (Nanhua zhenjing zhushu, juan 1, Zhengtong Daozang), revision 6351652 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d001-p"
+  },
+  {
+   "d": 2,
+   "label": "Zhuangzi 1.64 to 2.69",
+   "key": "But what is it that gives to each the individuality, to all the potentiality, of sound?",
+   "ref": "Zhuangzi 2.9",
+   "at": [
+    80
+   ],
+   "s": "Asked what Heaven’s music is, beyond wind in hollows and human pipes, Tzŭ Ch’i answers with a question; Guo Xiang, on chapter 2, reads Heaven’s music as no separate thing but the hollows and pipes themselves, each sounding of itself, with no one rousing them.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 2, zh.wikisource (Nanhua zhenjing zhushu, juan 2, Zhengtong Daozang), revision 5978516 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d002-p"
+  },
+  {
+   "d": 3,
+   "label": "Zhuangzi 2.70 to 2.140",
+   "key": "“How do I know that love of life is not a delusion after all? How do I know but that he who dreads to die is not as a child who has lost the way and cannot find his home?",
+   "ref": "Zhuangzi 2.137",
+   "at": [
+    208
+   ],
+   "s": "Answering Chü Ch’iao on the sage, Chang Wu Tzŭ turns to life and death; Guo Xiang, on chapter 2, reads life and death as one, so that delighting in life alone sets itself against change, and death may be the strayed child’s return home.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 2, zh.wikisource (Nanhua zhenjing zhushu, juan 3, Zhengtong Daozang), revision 6364018 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d003-p"
+  },
+  {
+   "d": 4,
+   "label": "Zhuangzi 2.141 to 4.13",
+   "key": "Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.",
+   "ref": "Zhuangzi 2.154",
+   "at": [
+    225
+   ],
+   "s": "Closing the chapter, Chuang Tzŭ tells of waking from a butterfly dream; Guo Xiang, on chapter 2, reads it as each state suiting its moment, so the present life may be a brief doze’s dream, and grieving at death while alive is an error.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 2, zh.wikisource (Nanhua zhenjing zhushu, juan 3, Zhengtong Daozang), revision 6364018 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d004-p"
+  },
+  {
+   "d": 5,
+   "label": "Zhuangzi 4.14 to 4.77",
+   "key": "Then the soul will be a negative existence, passively responsive to externals. In such a negative existence, only TAO can abide. And that negative state is the fasting of the heart.”",
+   "ref": "Zhuangzi 4.38",
+   "at": [
+    291
+   ],
+   "s": "Counselling Yen Hui before he goes to the headstrong Prince of Wei, Confucius explains a fast; Guo Xiang, on chapter 4, reads it as setting aside ears, eyes, mind and intent, trusting the breath’s own nature, for in an emptied heart the utmost Way gathers.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 4, zh.wikisource (Nanhua zhenjing zhushu, juan 5, Zhengtong Daozang), revision 7907034 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d005-p"
+  },
+  {
+   "d": 6,
+   "label": "Zhuangzi 4.78 to 5.23",
+   "key": "All men know the use of useful things; but they do not know the use of useless things.”",
+   "ref": "Zhuangzi 4.116",
+   "at": [
+    369
+   ],
+   "s": "Closing the chapter, the eccentric Chieh Yü, passing Confucius’ door, speaks of cinnamon and lacquer trees cut down for use; Guo Xiang, on chapter 4, reads it as the useful spending itself on another’s achievement while the useless keeps its own life whole.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 4, zh.wikisource (Nanhua zhenjing zhushu, juan 5, Zhengtong Daozang), revision 7907034 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d006-p"
+  },
+  {
+   "d": 7,
+   "label": "Zhuangzi 5.24 to 6.9",
+   "key": "What they loved was their mother; not the body which contained her, but that which made the body what it was.",
+   "ref": "Zhuangzi 5.43",
+   "at": [
+    412
+   ],
+   "s": "Asked by Duke Ai about a loathsome man everyone loves, Confucius tells of piglets leaving their dead mother; Guo Xiang, on chapter 5, takes the power behind the body as talent and virtue, whose departure at death broke the piglets’ kinship with her.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 5, zh.wikisource (Nanhua zhenjing zhushu, juan 6, Zhengtong Daozang), revision 6353768 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d007-p"
+  },
+  {
+   "d": 8,
+   "label": "Zhuangzi 6.10 to 6.106",
+   "key": "But at midnight a strong man may come and carry away the boat on his back.",
+   "ref": "Zhuangzi 6.64",
+   "at": [
+    507
+   ],
+   "s": "A boat hidden in a creek seems safe, though anything hidden may still be lost; Guo Xiang, on chapter 6, takes the ‘strong man’ as change, carrying heaven and earth on to the new, so the self of before is not the self of now.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 7, Zhengtong Daozang), revision 6011742 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d008-p"
+  },
+  {
+   "d": 9,
+   "label": "Zhuangzi 6.107 to 6.193",
+   "key": "“These men,” replied Confucius, “travel beyond the rule of life. I travel within it.",
+   "ref": "Zhuangzi 6.148",
+   "at": [
+    591
+   ],
+   "s": "Hearing from Tzŭ Kung of friends singing over a corpse, Confucius answers; Guo Xiang, on chapter 6, reads outside and inside as one, the sage roaming outside to enlarge the inside, a roaming the text gives these friends lest readers refuse it in Confucius.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 8, Zhengtong Daozang), revision 6354439 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d009-p"
+  },
+  {
+   "d": 10,
+   "label": "Zhuangzi 6.194 to 7.71",
+   "key": "For the perfect man employs his mind as a mirror. It grasps nothing: it refuses nothing. It receives, but does not keep.",
+   "ref": "Zhuangzi 7.61",
+   "at": [
+    718
+   ],
+   "s": "Ending a homily on inaction, the chapter turns to the perfect man; Guo Xiang, on chapter 7, reads the mirror as reflecting things without feeling, answering what comes and stopping when it goes, so all the world may come to it without wearying the spirit.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 7, zh.wikisource (Nanhua zhenjing zhushu, juan 9, Zhengtong Daozang), revision 6364291 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d010-p"
+  },
+  {
+   "d": 11,
+   "label": "Zhuangzi 8 to 9",
+   "key": "Then he kept them hungry and thirsty, trotting them and galloping them, and grooming, and trimming, with the misery of the tasselled bridle before and the fear of the knotted whip behind, until more than half of them were dead.",
+   "ref": "Zhuangzi 9.7",
+   "at": [
+    774
+   ],
+   "s": "Poh Loh, famed as a horse-tamer, sets to work; Guo Xiang, on chapter 9, takes good driving as suiting each horse’s strength and speed so its nature stays whole, and says that hearing this as leaving horses unridden strays far from the text’s meaning.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 9, zh.wikisource (Nanhua zhenjing zhushu, juan 11, Zhengtong Daozang), revision 6355259 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d011-p"
+  },
+  {
+   "d": 12,
+   "label": "Zhuangzi 10.1 to 11.12",
+   "key": "But good men are scarce and bad men plentiful, so that the good the Sages do to the world is little and the evil great.",
+   "ref": "Zhuangzi 10.23",
+   "at": [
+    814
+   ],
+   "s": "Robber Chê having claimed the Sages’ virtues for thieving, the chapter draws its moral; Guo Xiang, on chapter 10, takes the saying as true yet holds that the Sages cannot be dropped while the world’s cleverness remains, their harm being less than lawlessness without them.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 10, zh.wikisource (Nanhua zhenjing zhushu, juan 12, Zhengtong Daozang), revision 7907033 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d012-p"
+  },
+  {
+   "d": 13,
+   "label": "Zhuangzi 11.13 to 11.91",
+   "key": "Therefore, for the perfect man who is unavoidably summoned to power over his fellows, there is naught like Inaction.",
+   "ref": "Zhuangzi 11.27",
+   "at": [
+    879
+   ],
+   "s": "After eight refinements the world cherishes in error, the chapter turns to the ruler; Guo Xiang, on chapter 11, reads inaction not as folded hands and silence but as leaving each thing to act of itself, so that nature and life are at rest.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 11, zh.wikisource (Nanhua zhenjing zhushu, juan 13, the Zhengtong Daozang edition), revision 7907032 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d013-p"
+  },
+  {
+   "d": 14,
+   "label": "Zhuangzi 11.92 to 12.31",
+   "key": "“Let all things revert to their original constitution. If they do this, without knowledge, the result will be a simple purity which they will never lose; but knowledge will bring with it a divergence therefrom.",
+   "ref": "Zhuangzi 11.102",
+   "at": [
+    954
+   ],
+   "s": "Pressed again, the Vital Principle tells the Spirit of the Clouds to rest in inaction; Guo Xiang, on chapter 11, reads the return as true only when made without knowing, for things left unknowing to return of themselves never leave their root.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 11, zh.wikisource (Nanhua zhenjing zhushu, juan 13, the Zhengtong Daozang edition), revision 7907032 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d014-p"
+  },
+  {
+   "d": 15,
+   "label": "Zhuangzi 12.32 to 12.115",
+   "key": "When ONE came into existence, there was ONE, but it was formless. When things got that by which they came into existence, it was called their virtue.",
+   "ref": "Zhuangzi 12.66",
+   "at": [
+    1046
+   ],
+   "s": "A brief account of the beginning moves from the Nameless toward destiny, form and nature; Guo Xiang, on chapter 12, reads it as things getting life of themselves, since non-being cannot produce them, and virtue as leaving them to that self-getting.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 12, zh.wikisource (Nanhua zhenjing zhushu, juan 14, the Zhengtong Daozang edition), revision 6356578 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d015-p"
+  },
+  {
+   "d": 16,
+   "label": "Zhuangzi 12.116 to 13.17",
+   "key": "But Confucius said, “That fellow pretends to a knowledge of the science of the ante-mundane. He knows something, but not much. His government is of the internal, not of the external.",
+   "ref": "Zhuangzi 12.116",
+   "at": [
+    1096
+   ],
+   "s": "Tzŭ Kung tells Confucius of the gardener who scorned machines; Guo Xiang, on chapter 12, reads the pretence as lying in his turning from the present to the past, ashamed of the world’s affairs, whereas one truly of that art governs nothing, inner or outer.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 12, zh.wikisource (Nanhua zhenjing zhushu, juan 14, the Zhengtong Daozang edition), revision 6356578 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d016-p"
+  },
+  {
+   "d": 17,
+   "label": "Zhuangzi 13.18 to 13.85",
+   "key": "Rulers must practise inaction in order to administer the empire. The ruled must practise action in order to subserve the interests of the empire. This is an unchangeable law.",
+   "ref": "Zhuangzi 13.26",
+   "at": [
+    1163
+   ],
+   "s": "Having praised inaction, the chapter divides ruler from ruled; Guo Xiang, on chapter 13, reads the ruler’s use of the empire as a doing called inaction because it follows his nature, so that, each following his own, no one above or below acts.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 13, zh.wikisource (Nanhua zhenjing zhushu, juan 15, the Zhengtong Daozang edition), revision 6356924 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d017-p"
+  },
+  {
+   "d": 18,
+   "label": "Zhuangzi 13.86 to 14.68",
+   "key": "“The sky turns round; the earth stands still; sun and moon pursue one another. Who causes this? Who directs this?",
+   "ref": "Zhuangzi 14.3",
+   "at": [
+    1247
+   ],
+   "s": "A new chapter opens with questions about the motions of sky, clouds and wind; Guo Xiang, on chapter 14, reads the sky as moving, the earth as resting and sun and moon as taking turns, each of itself, with no one causing or directing them.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 14, zh.wikisource (Nanhua zhenjing zhushu, juan 16, the Zhengtong Daozang edition), revision 6365115 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d018-p"
+  },
+  {
+   "d": 19,
+   "label": "Zhuangzi 14.69 to 14.134",
+   "key": "Foot-prints are made by the shoe: they are not the shoe itself.",
+   "ref": "Zhuangzi 14.132",
+   "at": [
+    1376
+   ],
+   "s": "Lao Tzŭ tells Confucius, whose Six Canons no ruler adopted, that they are old tracks; Guo Xiang, on chapter 14, reads the shoe as what is so of itself, and the Canons as the print of one who leaves each thing to its true nature.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 14, zh.wikisource (Nanhua zhenjing zhushu, juan 16, Zhengtong Daozang), revision 6365115 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d019-p"
+  },
+  {
+   "d": 20,
+   "label": "Zhuangzi 14.135 to 17.4",
+   "key": "If the age was unsuitable and their mission at failure, they fell back upon their own resources and waited.",
+   "ref": "Zhuangzi 16.27",
+   "at": [
+    1447
+   ],
+   "s": "The chapter says the retired scholars of old hid neither body, words nor wisdom; Guo Xiang, on chapter 16, reads the waiting as a sage’s calm in a busy age: deep-rooted, he waits for things to act of themselves, so the Way is not lost.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 16, zh.wikisource (Nanhua zhenjing zhushu, juan 18, Zhengtong Daozang), revision 6365330 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d020-p"
+  },
+  {
+   "d": 21,
+   "label": "Zhuangzi 17.5 to 17.70",
+   "key": "In the universe I am but as a small stone or a small tree on a vast mountain.",
+   "ref": "Zhuangzi 17.10",
+   "at": [
+    1466
+   ],
+   "s": "Praised by the humbled River, the Spirit of the Ocean declines to boast; Guo Xiang, on chapter 17, reads the words as seeming to belittle the small beside the great, though their sense is that each thing, knowing its limit, rests in its portion.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 17, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d021-p"
+  },
+  {
+   "d": 22,
+   "label": "Zhuangzi 17.71 to 17.152",
+   "key": "Your very question shows that you knew I knew.",
+   "ref": "Zhuangzi 17.149",
+   "at": [
+    1605
+   ],
+   "s": "On the Hao bridge, Hui Tzŭ denies anyone but a fish can know its pleasure; Guo Xiang, on chapter 17, reads it as saying no one need be a fish to know fishes, since Hui Tzŭ knew Chuang Tzŭ was no fish without being him.",
+   "by": "guo-xiang",
+   "src": "Guo Xiang, Zhuangzi zhu, chapter 17, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+   "batch": "zhuangzi-01",
+   "id": "zhuangzi-01-d022-p"
+  },
+  {
    "d": 23,
    "label": "Zhuangzi 18.1 to 19.7",
    "key": "At this, the skull opened its eyes wide and knitted its brows and said, “How should I cast aside happiness greater than that of a king, and mingle once again in the toils and troubles of mortality?”",

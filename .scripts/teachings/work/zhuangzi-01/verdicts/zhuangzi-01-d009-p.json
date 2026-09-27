@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d009-p",
+ "d": 9,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "“These men,” replied Confucius, “travel beyond the rule of life. I travel within it.",
+ "ref": "Zhuangzi 6.148",
+ "at": [
+  591
+ ],
+ "s": "Hearing from Tzŭ Kung of friends singing over a corpse, Confucius answers; Guo Xiang, on chapter 6, reads outside and inside as darkly one, the sage ever roaming outside to enlarge the inside, and the text as lodging that roaming in these friends.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 8, Zhengtong Daozang), revision 6354439 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6354439",
+    "edition": "zh.wikisource 南華真經註疏 卷八 (Zhengtong Daozang, DZ0745), revision 6354439, Guo Xiang's 注 only",
+    "locator": "大宗師, on 孔子曰：彼，遊方之外者也；而丘，遊方之內者也 (Giles 6.145 to 6.148 run; the text line packet-labelled 6.145)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫理有至極，外內相冥…故聖人常遊外以弘內，無心以順有…若直就稱仲尼之如此，或者將據所見以排之，故超聖人之內迹，而寄方外於數子。",
+  "lang": "Classical Chinese",
+  "gloss": "(On ‘they roam outside the bounds, I roam within’:) the pattern of things has its utmost point, where outside and inside are darkly one. … So the sage always roams outside so as to enlarge the inside, and with no mind of his own goes along with what is. … Had it been said outright that Confucius was so, some would have rejected it on the strength of what they saw; so the text passes over the sage’s inner traces and lodges the beyond-the-bounds in these few men.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Zhuangzi 6.148, at 591). Plain sense matches day.js 6.135 to 6.148: Tzŭ Kung, sent to the mourning, finds Sang Hu's friends singing by the corpse and reports to Confucius, who answers. Guo Xiang's long note on 彼，遊方之外者也；而丘，遊方之內者也 (packet label 6.145, which is the Chinese of Giles' 6.148 opening; the Chinese line is confirmed by its opening words) states that outside and inside are darkly one, the sage roams outside to enlarge the inside, and Zhuangzi lodges the beyond-the-bounds in these men rather than naming Confucius outright. Read the chapter's notes from 6.134 to 6.152: consistent. The note falls in juan 8 (from 6.103), revision 6354439, as the src says. entry-check ok."
+}

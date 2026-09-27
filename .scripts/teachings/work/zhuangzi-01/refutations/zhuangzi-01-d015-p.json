@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d015-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6356578", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 15 --verse 12.66 and --verse 12.68: Guo Xiang on 一之所起，有一而未形 has 夫一之所起，起於至一，非起於無也, and on 物得以生，謂之德 (the Chinese of the key's second sentence, labelled 12.68 by the approximate aligner) has 夫無不能生物，而云物得以生，乃所以明物生之自得，任其自得，斯可謂德也, verbatim. These carry the paraphrase (things get life of themselves, since non-being cannot produce them; virtue as leaving them to that self-getting) with no drift. verse.js ok (Zhuangzi 12.66, at 1046); entry-check.js ok, no errors or warns. Plain sense matches day.js 12.64 to 12.73 (Nothing, the Nameless, ONE, virtue, destiny, form, nature) and repeats no key-verse words. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

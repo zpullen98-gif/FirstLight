@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Then he kept them hungry and thirsty, trotting them and galloping them, and grooming, and trimming, with the misery of the tasselled bridle before and the fear of the knotted whip behind, until more than half of them were dead.",
+ "ref": "Zhuangzi 9.7",
+ "at": [
+  774
+ ],
+ "s": "Poh Loh, famed as a horse-tamer, sets to work; Guo Xiang, on chapter 9, takes good driving as suiting each horse’s strength and speed so its nature stays whole, and says that hearing this as leaving horses unridden strays far from the text’s meaning.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 9, zh.wikisource (Nanhua zhenjing zhushu, juan 11, Zhengtong Daozang), revision 6355259 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6355259",
+    "edition": "zh.wikisource 南華真經註疏 卷十一 (Zhengtong Daozang, DZ0745), revision 6355259 (2026-06-05); Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, chapter 9 (馬蹄), note on 飢之，渴之，馳之，驟之 … 而馬之死者已過半矣 (Giles 9.7)",
+    "via": "packet"
+   }
+  ],
+  "words": "盡能在於自任，而乃走作驅步，求其過能之用，故有不堪而多死焉。若乃任駑驥之力，適遲疾之分，雖則足進接乎八荒之表，而眾馬之性全矣。而或者聞任馬之性，乃謂放而不乘；聞無為之風，遂云行不如外；何其往而不返哉。斯失乎莊生之旨遠矣。",
+  "lang": "Classical Chinese",
+  "gloss": "(On Po Le starving, driving and whipping the horses until more than half die:) bringing out their ability lies in letting them go of themselves, yet he rushes and drives them, seeking use beyond their ability, so they cannot bear it and many die. If one lets nag and thoroughbred use their own strength and suits slow and swift to their portions, their feet may reach beyond the eight wildernesses and the nature of every horse stays whole. Yet some, hearing of letting the horse follow its nature, say it means turning horses loose and not riding them; hearing of the way of non-action, say walking is worse than lying still. How far they go and do not come back. This strays far from Master Zhuang’s meaning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 9.7, at 774), second sentence of the unit, no dash, 40 words. Opened the whole chapter 9 commentary in the packet (卷十一): Guo Xiang’s note on 飢之，渴之 … 而馬之死者已過半矣 (located by opening words) says good driving suits each horse’s strength and slow or swift portion so every horse’s nature stays whole, and that taking ‘let the horse follow its nature’ to mean turning horses loose unridden strays far from Zhuangzi’s meaning; the reading paraphrases this without addition (‘the text’s meaning’ for 莊生之旨 avoids an authorship claim). Plain sense faithful: Poh Loh, extolled in 9.10 for managing horses, announces his skill in 9.6 and sets to work in 9.7; no key-verse words repeated. Revision 6355259 dated 2026-06-05 by the Wikisource API; juan 11 confirmed. entry-check ok."
+}

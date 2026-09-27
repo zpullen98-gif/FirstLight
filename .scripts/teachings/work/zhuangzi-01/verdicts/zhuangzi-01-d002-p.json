@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But what is it that gives to each the individuality, to all the potentiality, of sound?",
+ "ref": "Zhuangzi 2.9",
+ "at": [
+  80
+ ],
+ "s": "Asked what Heaven’s music is, beyond wind in hollows and human pipes, Tzŭ Ch’i answers with a question; Guo Xiang, on chapter 2, reads Heaven’s music as no separate thing but the hollows and pipes themselves, each sounding of itself, with no one rousing them.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 2, zh.wikisource (Nanhua zhenjing zhushu, juan 2, Zhengtong Daozang), revision 5978516 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=5978516",
+    "edition": "zh.wikisource 南華真經註疏 卷二, Zhengtong Daozang (DZ0745), revision 5978516",
+    "locator": "chapter 2 (juan 2), Guo Xiang notes on 夫吹萬不同，而使其自己也 and 咸其自取，怒者其誰邪 (Giles 2.9)",
+    "via": "packet"
+   }
+  ],
+  "words": "夫天籟者，豈復別有一物哉？即眾竅比竹之屬，接乎有生之類，會而共成一天耳。…物皆自得之耳，誰主怒之使然哉。",
+  "lang": "Classical Chinese",
+  "gloss": "The piping of Heaven: is it some other thing besides? It is just the hollows, the bamboo pipes and their like, joined with all living kinds, meeting together to make up one Heaven. … Things all get it of themselves; who is the master that rouses them to be so?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verbatim (verse.js ok, Zhuangzi 2.9, at 80). The two Guo Xiang notes on the Chinese lines Giles renders at 2.9, opened in the packet, say the piping of Heaven is no separate thing but the hollows and bamboo pipes together, that things all get it of themselves, and ask who could be the master rousing them; the reading carries exactly this. Plain sense faithful to 2.8 to 2.9 (Tzŭ Yu asks, Tzŭ Ch’i answers with a question). entry-check ok."
+}

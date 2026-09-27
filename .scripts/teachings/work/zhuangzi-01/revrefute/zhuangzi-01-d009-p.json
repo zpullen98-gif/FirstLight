@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d009-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6354439", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 9 --verse 6.145 and --verse 6.148 (chapter 6 in juan 8 from the 6.103 run, revision 6354439). The line 孔子曰：彼，遊方之外者也；而丘，遊方之內者也 is packet-labelled 6.145 but by its opening words is Giles’ 6.148 opening, the key verse; the 6.148 packet run holds only the later lines (彼以生為附贅縣疣 onward), so the locator ‘on chapter 6’ and the src are right. Guo Xiang’s note there has 夫理有至極，外內相冥, 故聖人常遊外以弘內，無心以順有 and 若直就稱仲尼之如此，或者將據所見以排之，故超聖人之內迹，而寄方外於數子 verbatim. Each clause is carried: outside and inside as one (外內相冥), the sage roaming outside to enlarge the inside (遊外以弘內), and the text lodging that roaming in these men because, said outright of Confucius, some would reject it on what they saw (據所見以排之 = ‘lest readers refuse it in Confucius’). The revision’s drop of ‘darkly’ loses a shade of 冥 but claims nothing beyond it. Plain sense matches day.js 6.135 to 6.148 (the three became friends; Sang Hu died; Tzŭ Kung found the others singing by the corpse and reported to Confucius) and names no commentator. No school needed (roster has none), no comparison, tone neutral. verse.js ok (Zhuangzi 6.148, at 591); entry-check ok, no errors or warns.",
+ "better": ""
+}

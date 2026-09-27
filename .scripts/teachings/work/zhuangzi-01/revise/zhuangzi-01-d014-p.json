@@ -1,0 +1,35 @@
+{
+ "id": "zhuangzi-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "“Let all things revert to their original constitution. If they do this, without knowledge, the result will be a simple purity which they will never lose; but knowledge will bring with it a divergence therefrom.",
+ "ref": "Zhuangzi 11.102",
+ "at": [954],
+ "s": "Pressed again, the Vital Principle tells the Spirit of the Clouds to rest in inaction; Guo Xiang, on chapter 11, reads the return as true only when made without knowing, for things left unknowing to return of themselves never leave their root.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 11, zh.wikisource (Nanhua zhenjing zhushu, juan 13, the Zhengtong Daozang edition), revision 7907032 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907032",
+    "edition": "zh.wikisource 南華真經註疏 卷十三, Zhengtong Daozang (DZ0745), revision 7907032",
+    "locator": "chapter 11 (juan 13), Guo Xiang notes on 各復其根而不知, 渾渾沌沌，終身不離 and 若彼知之，乃是離之 (Giles 11.102)",
+    "via": "packet"
+   }
+  ],
+  "words": "不知而復，乃真復也。…渾沌無知而任其自復，乃能終身不離其本也。…知而復之，與復乖矣。",
+  "lang": "Classical Chinese",
+  "gloss": "To return without knowing is true return. … Undivided and unknowing, left to return of themselves, they can all their lives not leave their root. … To return by knowing is at odds with returning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: Guo Xiang's 渾沌 here names undivided, unknowing simplicity (渾沌無知), and plain English 'chaos' reads as disorder, the opposite of his point and at odds with Giles' 'simple purity' printed above. Re-opened packet.js zhuangzi 14 --verse 11.102: 渾沌無知而任其自復，乃能終身不離其本也 stands verbatim, so 'things left unknowing to return of themselves never leave their root' renders 無知而任其自復 … 不離其本 directly; 不知而復，乃真復也 and 知而復之，與復乖矣 still carry 'true only when made without knowing'. Only the one phrase changed; commentator, place, key and src unchanged. verse.js ok (Zhuangzi 11.102, at 954); entry-check ok, no errors or warns."
+}

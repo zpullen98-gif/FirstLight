@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d005-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907034",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 5 --verse 4.38. Guo Xiang on 氣也者，虛而待物者也 reads 遺耳目，去心意，而付氣性之自得，此虛以待物者也 (a stray 他 follows in the transcription, excluded from the evidence), and on 唯道集虛。虛者，心齋也 reads 虛其心則至道集於懷也; both verbatim. These are the lines Giles renders as the key verse (negative existence, passively responsive; only TAO abides; fasting of the heart), so verse and locator fit. The paraphrase uses Guo’s breath (氣), not Giles’ “soul”, so the reading is Guo’s, not the translator’s. “for” linking the two notes is a light causal join the text itself makes (only the Way gathers in emptiness), not drift. Plain sense matches day.js: Confucius counsels Yen Hui (4.17 to 4.38) on his mission to the Prince of Wei (introduced at 4.7 on the previous day as of an unmanageable disposition; “headstrong” is a fair plain word). No school, no comparison, tone neutral. verse.js ok (Zhuangzi 4.38, at 291); entry-check ok, no errors or warns; 45 words.",
+ "better": ""
+}

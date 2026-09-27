@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d010-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6364291", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 7.61 and the live revision 6364291 (action=raw): the notes 〔注〕鑒物而無情 (after 至人之用心若鏡), 來即應，去即止 (after 不將不迎，應而不藏) and 物來乃鑒，鑒不以心，故雖天下來照，而無勞神之累 (after 故能勝物而不傷) stand verbatim at those lines. They carry the paraphrase (mirrors things without feeling, answers what comes and stops when it goes, the whole world may come without wearying the spirit) with no drift; the last note sits on the unit's closing clause, same unit as the key. Plain sense matches day.js: 7.57 and 7.59 open 'By Inaction' and 7.61 sums them up before turning to the perfect man; no key-verse words repeated. verse.js ok (Zhuangzi 7.61, at 718); entry-check.js ok, no errors or warns. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

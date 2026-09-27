@@ -1,0 +1,241 @@
+{
+ "lane": "L2",
+ "plan": "zhuangzi",
+ "batch": "zhuangzi-01",
+ "days": [
+  {
+   "d": 7,
+   "primary": {
+    "id": "zhuangzi-01-d007-p",
+    "key": "What they loved was their mother; not the body which contained her, but that which made the body what it was.",
+    "ref": "Zhuangzi 5.43",
+    "at": [
+     412
+    ],
+    "s": "Asked by Duke Ai about a loathsome man everyone loves, Confucius tells of piglets leaving their dead mother; Guo Xiang, on chapter 5, takes the power behind the body as talent and virtue, whose departure at death broke the piglets’ kinship with her.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 5, zh.wikisource (Nanhua zhenjing zhushu, juan 6, Zhengtong Daozang), revision 6353768 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫生者以才德為類，死而才德去矣，故生者以失類而走也。…使形者，才德也。",
+     "gloss": "(On the piglets leaving their dead mother:) the living take talent and virtue as what makes them kin; at death talent and virtue depart, and so the living run off, having lost their kin. … (On ‘that which made the body what it was’:) what moves the body is talent and virtue."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d007-s",
+    "key": "He who knows what God is, and who knows what Man is, has attained.",
+    "ref": "Zhuangzi 6.2",
+    "at": [
+     445
+    ],
+    "s": "Opening a chapter on the pure men of old, the text weighs divine against human knowledge; Guo Xiang, on chapter 6, explains the word here rendered God as Heaven, the self-so, and reads knowing both as knowing that each comes about of itself.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 7, Zhengtong Daozang), revision 6011742 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "知天人之所為者，皆自然也；…天者，自然之謂也。",
+     "gloss": "(On knowing what Heaven does and what man does:) one who knows what Heaven and man do knows both to be the self-so. … (On the next clause:) Heaven is a name for the self-so."
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "zhuangzi-01-d008-p",
+    "key": "But at midnight a strong man may come and carry away the boat on his back.",
+    "ref": "Zhuangzi 6.64",
+    "at": [
+     507
+    ],
+    "s": "A boat hidden in a creek seems safe, yet the passage imagines it stolen; Guo Xiang, on chapter 6, takes the ‘strong man’ as change, carrying heaven and earth on to the new, so the self of before is not the self of now.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 7, Zhengtong Daozang), revision 6011742 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫無力之力，莫大於變化者也；故乃揭天地以趨新…故向者之我，非復今我也。",
+     "gloss": "(On the strong man who carries off the boat at midnight:) of strength that is no strength, none is greater than change; so it lifts heaven and earth and hastens them to the new. … So the self of a moment ago is no longer the self of now."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d008-s",
+    "key": "And surely that which is such a kind arbiter of my life is the best arbiter of my death.",
+    "ref": "Zhuangzi 6.61",
+    "at": [
+     504
+    ],
+    "s": "Having listed what TAO gives in turn, from form to rest, the text concludes; Guo Xiang, on chapter 6, reads form, life, age and death alike as the self, both life and death as destiny, and so death as good wherever life is.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 7, Zhengtong Daozang), revision 6011742 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫形生老死，皆我也。…死與生，皆命也。…故若以吾生為善乎？則吾死亦善也。",
+     "gloss": "(On form, toil, repose and rest:) form, life, old age and death are all myself. … (On making life good and death good:) death and life are both destiny. … So if I take my life to be good, then my death is good too."
+    }
+   }
+  },
+  {
+   "d": 9,
+   "primary": {
+    "id": "zhuangzi-01-d009-p",
+    "key": "“These men,” replied Confucius, “travel beyond the rule of life. I travel within it.",
+    "ref": "Zhuangzi 6.148",
+    "at": [
+     591
+    ],
+    "s": "Hearing from Tzŭ Kung of friends singing over a corpse, Confucius answers; Guo Xiang, on chapter 6, reads outside and inside as darkly one, the sage ever roaming outside to enlarge the inside, and the text as lodging that roaming in these friends.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 8, Zhengtong Daozang), revision 6354439 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫理有至極，外內相冥…故聖人常遊外以弘內，無心以順有…若直就稱仲尼之如此，或者將據所見以排之，故超聖人之內迹，而寄方外於數子。",
+     "gloss": "(On ‘they travel beyond, I travel within’:) the pattern has its utmost point, where outside and inside are darkly one. … So the sage always roams outside so as to enlarge the inside, and without a mind of his own goes along with what is. … Had it been said straight out that Confucius was so, some would have rejected it on the strength of what they saw; so the text passes over the sage’s inner traces and lodges the roaming beyond the bounds in these few men."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d009-s",
+    "key": "Even you and I may be in a dream from which we have not yet awaked.",
+    "ref": "Zhuangzi 6.168",
+    "at": [
+     611
+    ],
+    "s": "Defending Mêng Sun’s tearless mourning, Confucius tells Yen Hui what none can know; Guo Xiang, on chapter 6, reads life and death as waking and dreaming, and since a dreamer thinks himself awake, waking cannot be told from dream, nor life from death.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 8, Zhengtong Daozang), revision 6354439 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫死生猶覺夢耳，今夢自以為覺，則無以明覺之非夢也；苟無以明覺之非夢，則亦無以明生之非死也。",
+     "gloss": "(On ‘a dream from which we have not yet awaked’:) death and life are like waking and dreaming; now the dreamer takes himself to be awake, so there is no way to make clear that waking is not a dream; and if that cannot be made clear, neither can it be made clear that life is not death."
+    }
+   }
+  },
+  {
+   "d": 10,
+   "primary": {
+    "id": "zhuangzi-01-d010-p",
+    "key": "For the perfect man employs his mind as a mirror. It grasps nothing: it refuses nothing. It receives, but does not keep.",
+    "ref": "Zhuangzi 7.61",
+    "at": [
+     718
+    ],
+    "s": "Ending a homily on inaction, the chapter turns to the perfect man; Guo Xiang, on chapter 7, reads the mirror as reflecting things without feeling, answering what comes and stopping when it goes, so all the world may come to it without wearying the spirit.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 7, zh.wikisource (Nanhua zhenjing zhushu, juan 9, Zhengtong Daozang), revision 6364291 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "鑒物而無情。…來即應，去即止。…物來乃鑒，鑒不以心，故雖天下來照，而無勞神之累。",
+     "gloss": "(On the mind as a mirror:) it mirrors things without feeling. … (On grasping nothing, refusing nothing, receiving but not keeping:) when a thing comes it answers, when it goes it stops. … (On triumphing over matter without injury:) things come and it mirrors them, but not with the mind, so though the whole world comes to be reflected, there is no burden of wearying the spirit."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d010-s",
+    "key": "And by thus getting rid of body and mind, I have become ONE with the Infinite.",
+    "ref": "Zhuangzi 6.205",
+    "at": [
+     648
+    ],
+    "s": "At his third report, Yen Hui tells Confucius what he has shed; Guo Xiang, on chapter 6, reads it as forgetting both the traces and what made them, aware of neither body within nor heaven and earth without, and so one body with change.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 6, zh.wikisource (Nanhua zhenjing zhushu, juan 8, Zhengtong Daozang), revision 6354439 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "既忘其迹，又忘其所以迹者，內不覺其一身，外不識有天地，然後曠然與變化為體而無不通也。",
+     "gloss": "(On casting off body and knowing and becoming one with the great pervasion, which the text calls sitting in forgetfulness:) having forgotten the traces, and forgotten too that which made the traces, within he is unaware of his own body, without he does not know there are heaven and earth; then, wide open, he is one body with change and there is nothing he does not pass through."
+    }
+   }
+  },
+  {
+   "d": 11,
+   "primary": {
+    "id": "zhuangzi-01-d011-p",
+    "key": "Then he kept them hungry and thirsty, trotting them and galloping them, and grooming, and trimming, with the misery of the tasselled bridle before and the fear of the knotted whip behind, until more than half of them were dead.",
+    "ref": "Zhuangzi 9.7",
+    "at": [
+     774
+    ],
+    "s": "Poh Loh, famed as a horse-tamer, sets to work; Guo Xiang, on chapter 9, takes good driving as suiting each horse’s strength and speed so its nature stays whole, and says that hearing this as leaving horses unridden strays far from the text’s meaning.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 9, zh.wikisource (Nanhua zhenjing zhushu, juan 11, Zhengtong Daozang), revision 6355259 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "若乃任駑驥之力，適遲疾之分，雖則足進接乎八荒之表，而眾馬之性全矣。而或者聞任馬之性，乃謂放而不乘；…斯失乎莊生之旨遠矣。",
+     "gloss": "(On Poh Loh starving, driving and whipping the horses:) if one lets nag and thoroughbred use their own strength and suits the slow and the swift to their portions, their feet may reach beyond the eight wildernesses and the nature of every horse stays whole. Yet some, hearing of letting the horse follow its nature, say it means turning horses loose and not riding them … this strays far from Master Zhuang’s meaning."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d011-s",
+    "key": "Intentional charity and intentional duty to one’s neighbour are surely not included in our moral nature. Yet what sorrow these have involved.",
+    "ref": "Zhuangzi 8.18",
+    "at": [
+     746
+    ],
+    "s": "After the duck’s and crane’s legs, the chapter turns to charity and duty; Guo Xiang, on chapter 8, takes charity and duty to be of themselves human feeling, needing only to be let be, and places the sorrow in those who fear otherwise.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 8, zh.wikisource (Nanhua zhenjing zhushu, juan 10, Zhengtong Daozang), revision 6364673 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "夫仁義自是人之情性，但當任之耳。…恐仁義非人情而憂之者，真可謂多憂也。",
+     "gloss": "(On the line Giles renders ‘intentional charity and duty … not included in our moral nature’:) charity and duty are of themselves man’s feeling and nature; one need only let them be. … (On ‘what sorrow’:) those who fear that charity and duty are not human feeling, and grieve over it, may truly be called full of sorrows."
+    }
+   }
+  },
+  {
+   "d": 12,
+   "primary": {
+    "id": "zhuangzi-01-d012-p",
+    "key": "But good men are scarce and bad men plentiful, so that the good the Sages do to the world is little and the evil great.",
+    "ref": "Zhuangzi 10.23",
+    "at": [
+     814
+    ],
+    "s": "Robber Chê having claimed the Sages’ virtues for thieving, the chapter draws its moral; Guo Xiang, on chapter 10, takes the saying as true yet holds that the Sages cannot be dropped while the world’s cleverness remains, their harm being less than lawlessness without them.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 10, zh.wikisource (Nanhua zhenjing zhushu, juan 12, Zhengtong Daozang), revision 7907033 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "信哉斯言，斯言雖信，而猶不可亡聖者，猶天下之知未能都亡，故須聖道以鎮之也。群知不亡而獨亡聖知，則天下之害又多於有聖矣。然則有聖之害雖多，猶愈於亡聖之無治也。",
+     "gloss": "(On the good the Sages do being little and the evil great:) true indeed is this saying; yet though it is true, the Sage still cannot be done away with, for the knowing of the world cannot all be done away with, and so the Sage’s way is needed to hold it down. If the many knowings remain and only the Sage’s knowing is removed, the harm to the world is greater than with the Sage. So though the harm of having Sages is great, it is still less than the lawlessness of having none."
+    }
+   },
+   "standby": {
+    "id": "zhuangzi-01-d012-s",
+    "key": "There has been such a thing as letting mankind alone; there has never been such a thing as governing mankind.",
+    "ref": "Zhuangzi 11.2",
+    "at": [
+     854
+    ],
+    "s": "Opening a chapter against the evils of government, the text states its thesis; Guo Xiang, on chapter 11, reads leaving people be as order and governing them as disorder, and values the sage king not for ruling but for leaving things to act of themselves.",
+    "by": "guo-xiang",
+    "by2": "",
+    "hedge": "",
+    "src": "Guo Xiang, Zhuangzi zhu, chapter 11, zh.wikisource (Nanhua zhenjing zhushu, juan 13, Zhengtong Daozang), revision 7907032 (2026)",
+    "basis": {
+     "source": "guo-xiang",
+     "words": "宥使自在則治，治之則亂也。…故所責聖王者，非貴其能治也，貴其無為而任物之自為也。",
+     "gloss": "(On letting mankind alone and governing mankind:) let them be and at their ease, and there is order; govern them, and there is disorder. … So what is asked of a sage king is not that he can govern, but that he does nothing and leaves things to do for themselves."
+    }
+   }
+  }
+ ]
+}

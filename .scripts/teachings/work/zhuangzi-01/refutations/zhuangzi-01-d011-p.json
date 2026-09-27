@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d011-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6355259", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 9.7 and the live revision 6355259 (action=raw): Guo Xiang's note 〔注〕夫善御者，將以盡其能也 ... 若乃任駑驥之力，適遲疾之分 ... 而眾馬之性全矣。而或者聞任馬之性，乃謂放而不乘 ... 斯失乎莊生之旨遠矣 follows 飢之，渴之，馳之，驟之 ... 而馬之死者已過半矣, the exact Chinese of the key sentence. Paraphrase (good driving suits each horse's strength and speed so its nature stays whole; hearing this as leaving horses unridden strays far from the meaning) is carried without drift; 'the text's meaning' for 莊生之旨 avoids an authorship claim. Plain sense: Poh Loh claims skill with horses (9.6) and 9.10 says every age extols him, so 'famed' is the text's; 'horse-tamer' is close to Giles' note but the text supports it. verse.js ok (Zhuangzi 9.7, at 774, the second sentence of the unit, which is the line the note glosses); entry-check.js ok. No comparison, tone plain.",
+ "better": ""
+}

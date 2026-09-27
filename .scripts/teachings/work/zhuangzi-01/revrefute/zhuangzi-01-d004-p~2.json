@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d004-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6364018", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 4 --verse 2.154 (chapter 2, juan 3 from the run labelled 2.74, revision 6364018). On the key verse’s own line 不知周之夢為胡蝶與 Guo Xiang has 而各適一時之志…世有假寐，而夢經百年者，則無以明今之百年，非假寐之夢者也 verbatim; on 不知周也 in the same section, 然所在無不適志…知夫在生而哀死者誤也 verbatim. ‘Each state suiting its moment’ is 各適一時之志; ‘a hundred-year life may be dreamt in a single doze’ keeps the doze brief (假寐) and the claim modal (無以明…非), so the earlier ‘long nap’ drift is gone; ‘grieving at death while alive is an error’ is 在生而哀死者誤也, grounded in his 所在無不適志. The ‘so’ compresses two notes on neighbouring lines but claims nothing he does not say. Plain sense matches day.js: 2.154 is the last section of chapter 2 and Chuang Tzŭ narrates the dream in his own name in the text. Key is the best line for the reading. verse.js ok (Zhuangzi 2.154, at 225, no dash); entry-check ok, no errors or warns. No school required, no comparison, tone neutral.",
+ "better": ""
+}

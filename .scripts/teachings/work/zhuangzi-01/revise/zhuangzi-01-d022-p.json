@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d022-p",
+ "d": 22,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Your very question shows that you knew I knew.",
+ "ref": "Zhuangzi 17.149",
+ "at": [
+  1605
+ ],
+ "s": "On the Hao bridge, Hui Tzŭ denies anyone but a fish can know its pleasure; Guo Xiang, on chapter 17, reads it as saying no one need be a fish to know fishes, since Hui Tzŭ knew Chuang Tzŭ was no fish without being him.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 17, zh.wikisource (Nanhua zhenjing zhushu, juan 19, Zhengtong Daozang), revision 7907030 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907030",
+    "edition": "zh.wikisource 南華真經註疏 卷十九 (Zhengtong Daozang, DZ0745), revision 7907030, Cheng Xuanying's shu left out",
+    "locator": "chapter 17, Guo Xiang's note on 莊子曰：請循其本。子曰汝安知魚樂云者……我知之濠上也 (Giles 17.149 to 17.151)",
+    "via": "packet"
+   }
+  ],
+  "words": "今子非我也，而云汝安知魚樂者，是知我之非魚也。苟知我之非魚，則凡相知者，果可以此知彼，不待是魚然後知魚也。",
+  "lang": "Classical Chinese",
+  "gloss": "Now you are not I, yet in saying 'how do you know the pleasure of fish' you know that I am not a fish. If you know I am not a fish, then all who know one another can indeed know that one from this one, and need not be a fish before knowing fish.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: 17.149 is Giles’ paragraph number in the app, not a place in Guo Xiang’s commentary, which is located by chapter (juan 19, chapter 17). Reopened packet.js zhuangzi 22 --verse 17.149: Guo Xiang’s note after 請循其本 … 我知之濠上也 still carries the evidence verbatim. Changed only the place: sentence now says ‘on chapter 17,’ and the src drops ‘, on 17.149’. Reading and commentator unchanged; 45 words, at the limit. verse.js ok (Zhuangzi 17.149, at 1605); entry-check.js ok, no errors or warns."
+}

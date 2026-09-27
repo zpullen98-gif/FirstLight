@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "All men know the use of useful things; but they do not know the use of useless things.”",
+ "ref": "Zhuangzi 4.116",
+ "at": [
+  369
+ ],
+ "s": "Closing the chapter, the eccentric Chieh Yü, passing Confucius’ door, speaks of cinnamon and lacquer trees cut down for use; Guo Xiang, on chapter 4, reads it as the useful spending itself on another’s achievement while the useless keeps its own life whole.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 4, zh.wikisource (Nanhua zhenjing zhushu, juan 5, Zhengtong Daozang), revision 7907034 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=7907034",
+    "edition": "zh.wikisource 南華真經註疏 卷五 (Zhengtong Daozang, DZ0745), revision 7907034; Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, Zhuangzi zhu, chapter 4, on 人皆知有用之用，而莫知無用之用也",
+    "via": "packet"
+   }
+  ],
+  "words": "有用則與彼為功，無用則自全其生。夫割肌膚以為天下者，天下之所知也。",
+  "gloss": "Being useful, a thing makes achievement for another; being useless, it keeps its own life whole. Those who cut their own flesh and skin for the world’s sake, the world knows of.",
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Zhuangzi 4.116, at 369); 4.116 closes chapter 4 (the chapter 5 argument follows), and Chieh Yü passing Confucius’ door and the cinnamon and lacquer trees are in 4.111 and 4.116. Guo Xiang’s note on the key line itself (人皆知有用之用，而莫知無用之用也) says the useful makes achievement for another while the useless keeps its own life whole; “spending itself” is carried by his next clause on cutting one’s own flesh for the world. Revision 7907034 dated 2026-07-06 by the Wikisource API. entry-check ok."
+}

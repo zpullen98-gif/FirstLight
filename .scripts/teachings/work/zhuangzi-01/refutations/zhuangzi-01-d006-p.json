@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d006-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=7907034",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 6 --verse 4.116. Guo Xiang’s note directly on 人皆知有用之用，而莫知無用之用也 reads 有用則與彼為功，無用則自全其生。夫割肌膚以為天下者，天下之所知也 verbatim. “keeps its own life whole” is 自全其生 exactly; “spending itself on another’s achievement” renders 與彼為功 with the self-cost carried by the next clause (cutting one’s own flesh and skin for the world), which is in the evidence, so no drift. Key verse is the exact line glossed. Plain sense matches day.js 4.111 to 4.116: the eccentric Chieh Yü passes Confucius’ door in Ch’u, the song names cinnamon and lacquer trees cut and felled for use, and 4.116 is the last unit of chapter 4 before the chapter 5 argument; no four-word run from the key. No school, no comparison, tone neutral. verse.js ok (Zhuangzi 4.116, at 369); entry-check ok, no errors or warns; 43 words.",
+ "better": ""
+}

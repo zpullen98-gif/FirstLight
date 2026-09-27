@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d022-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7907030", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 17.149: Guo Xiang's note after 莊子曰：請循其本。子曰汝安知魚樂云者，既已知吾知之而問我，我知之濠上也 contains the evidence verbatim (今子非我也…不待是魚然後知魚也), and his note on 17.147 (子非我，尚可以知我之非魚，則我非魚，亦可以知魚之樂也) says the same. The paraphrase (no one need be a fish to know fishes, since Hui Tzu knew Chuang Tzu was no fish without being him) is carried by 凡相知者，果可以此知彼，不待是魚然後知魚 with no drift; his continuation 故循子安知之云，已知吾之所知矣 glosses the key verse directly, so the verse is well chosen. Locator: the note covers the 請循其本 block (Giles 17.149 to 17.151), which opens at 17.149. Plain sense matches day.js 17.145 to 17.148 (Hui Tzu's 'not being a fish' objection); the slight generalisation 'anyone but a fish' follows Hui Tzu's own inference at 17.148 and Guo's summary 非魚則無緣相知. No school needed (roster gives none), no comparison, tone neutral. verse.js ok (Zhuangzi 17.149, at 1605); entry-check.js ok, no errors or warns; 44 words, one semicolon, reads, no dash.",
+ "better": ""
+}

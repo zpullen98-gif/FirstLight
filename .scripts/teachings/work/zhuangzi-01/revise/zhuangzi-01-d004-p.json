@@ -1,0 +1,42 @@
+{
+ "id": "zhuangzi-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Now I do not know whether I was then a man dreaming I was a butterfly, or whether I am now a butterfly dreaming I am a man.",
+ "ref": "Zhuangzi 2.154",
+ "at": [
+  225
+ ],
+ "s": "Closing the chapter, Chuang Tzŭ tells of waking from a butterfly dream; Guo Xiang, on chapter 2, reads it as each state suiting its moment, so a hundred-year life may be one long nap’s dream, and grieving at death while alive is an error.",
+ "by": "guo-xiang",
+ "by2": "",
+ "hedge": "",
+ "src": "Guo Xiang, Zhuangzi zhu, chapter 2, zh.wikisource (Nanhua zhenjing zhushu, juan 3, Zhengtong Daozang), revision 6364018 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=6364018",
+    "edition": "zh.wikisource 南華真經註疏 卷三 (Zhengtong Daozang, DZ0745), revision 6364018; Cheng Xuanying’s 疏 left out",
+    "locator": "Guo Xiang, Zhuangzi zhu, chapter 2, on 昔者莊周夢為胡蝶 (lines 不知周也 and 不知周之夢為胡蝶與)",
+    "via": "packet"
+   }
+  ],
+  "words": "然所在無不適志，則當生而係生者，又當死而戀死矣。由此觀之，知夫在生而哀死者誤也。…而各適一時之志，則無以明“胡蝶之不夢為周”矣。世有假寐，而夢經百年者，則無以明今之百年，非假寐之夢者也。",
+  "gloss": "Yet wherever he is he is content; so one who, alive, clings to life would, dead, cling to death. Seen this way, one who grieves over death while alive is in error. … Each suits the mind of its own moment, so there is no making clear that the butterfly is not dreaming it is Zhou. Some nap and dream through a hundred years; so there is no making clear that the present hundred years is not a napper’s dream.",
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds. Re-opened packet.js zhuangzi 4 --verse 2.154 (卷三, revision 6364018). On the key verse’s own line 不知周之夢為胡蝶與 Guo Xiang writes 而各適一時之志 and gives the image of one who naps and dreams through a hundred years (世有假寐，而夢經百年者), so the present hundred years cannot be shown not to be a nap’s dream; ‘may be one long nap’s dream’ restores the image and matches 無以明…非假寐之夢 without the overstatement of ‘cannot be told from’. ‘Grieving at death while alive is an error’ is 知夫在生而哀死者誤也 on 不知周也. Plain sense, key, place and src unchanged. verse.js ok (Zhuangzi 2.154, at 225); entry-check ok, 44 words."
+}

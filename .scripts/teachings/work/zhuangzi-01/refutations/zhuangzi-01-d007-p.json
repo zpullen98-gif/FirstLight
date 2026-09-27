@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d007-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=6353768", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js zhuangzi 7 --verse 5.43 (juan 6, rev 6353768): Guo Xiang's note on 少焉眴若皆棄之而走。不見己焉爾，不得類焉爾 reads 夫生者以才德為類，死而才德去矣，故生者以失類而走也, and his note on 所愛其母者，非愛其形也，愛使其形者也 reads 使形者，才德也; both verbatim as in the evidence. They carry the whole reading (what moves the body is talent and virtue; its leaving at death loses the young their kind, so they run) with no drift. The key verse is exactly the line Guo glosses, so it is well chosen; it is Giles' text, not his note. Plain sense matches day.js 5.40 to 5.43 (Duke Ai asks about the loathsome Ai T'ai T'o whom men and women flock to; Confucius answers with the piglets); 'everyone loves' is a fair summary of 'males and females alike all congregate'. No school needed (roster gives none), no comparison, tone neutral. verse.js ok (Zhuangzi 5.43, at 412); entry-check.js ok, no errors or warns.",
+ "better": ""
+}

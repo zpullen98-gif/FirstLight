@@ -1,0 +1,11 @@
+{
+ "id": "zhuangzi-01-d017-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=6356924",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js --verse 13.26 and the cached raw wikitext of revision 6356924: line 239 is one 〔注〕 (Guo Xiang) directly on 上必無為而用天下，下必有為為天下用，此不易之道也, containing 夫用天下者，亦有用之為耳。然自得此為，率性而動，故謂之無為也 and 然各用其性而天機玄發，則古今上下無為，誰有為也. It carries the whole paraphrase (the ruler’s using is a doing called inaction because it follows his nature; each using his own nature, no one above or below acts). Omitting Guo’s concession that the ruled are called acting because they handle affairs is omission, not drift. Plain sense matches day.js 13.25 (praise of inaction) and 13.26 (ruler and ruled distinguished), no four-word run from the key. verse.js ok (Zhuangzi 13.26, at 1163); entry-check.js ok, no errors or warns. Hierarchy but not a hard passage under rule 6; no school, no comparison.",
+ "better": ""
+}

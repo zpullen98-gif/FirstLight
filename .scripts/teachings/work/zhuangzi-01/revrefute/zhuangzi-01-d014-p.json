@@ -1,0 +1,8 @@
+{
+ "id": "zhuangzi-01-d014-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=7907032", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js zhuangzi 14 --verse 11.102 (chapter 11, juan 13, revision 7907032). The text lines 各復其根而不知 / 渾渾沌沌，終身不離 / 若彼知之，乃是離之 match Giles 11.102 by opening words, and Guo Xiang’s notes on them stand verbatim: 不知而復，乃真復也; 渾沌無知而任其自復，乃能終身不離其本也; 知而復之，與復乖矣. ‘True only when made without knowing’ is carried by 乃真復 together with the contrast 與復乖; ‘things left unknowing to return of themselves never leave their root’ renders 無知而任其自復 … 終身不離其本 directly; the revision’s ‘unknowing’ for ‘chaos’ follows 渾沌無知 and no longer invites the sense of disorder. The causal ‘for’ is a light join of two adjacent notes and claims nothing beyond them. Plain sense matches day.js 11.98 to 11.101 (the Spirit of the Clouds urges again; the Vital Principle says to rest in inaction), repeats no four words of the key and names no commentator. Key is from the text, not Giles’ Emerson note. No school needed, no comparison, tone neutral. verse.js ok (Zhuangzi 11.102, at 954); entry-check ok, no errors or warns.",
+ "better": ""
+}
