@@ -15,32 +15,49 @@ const path = require('path');
 const lib = require('./lib');
 
 const a = process.argv.slice(2);
-const plan = a[0], n = +a[1], out = a[2];
+const plan = a[0], all = a[1] === 'all', n = all ? 0 : +a[1], out = a[2];
 const flag = k => { const i = a.indexOf(k); return i > -1 ? a[i + 1] : null; };
 const nTrails = +(flag('--trails') || 5), name = flag('--name');
-if (!plan || !n || !out) { console.error('usage: node .scripts/teachings/review.js <plan> <n> <out.html> [--trails 5] [--name dry]'); process.exit(1); }
+if (!plan || !(all || n) || !out) { console.error('usage: node .scripts/teachings/review.js <plan> <n|all> <out.html> [--trails 5] [--name dry]'); process.exit(1); }
 
 const ROSTER = JSON.parse(fs.readFileSync(path.join(__dirname, 'roster.json'), 'utf8'));
-const B = lib.batchRef(plan, n, name);
-const bj = lib.readJSON(path.join(B.dir, 'batch.json'));
-if (!bj) { console.error('no batch.json yet'); process.exit(1); }
-const recheck = lib.readJSON(path.join(B.dir, 'recheck.json')) || {};
-const critic = lib.lastCritic(B.dir);
+/* one batch, or with "all" every batch of the plan that has landed (ledger.json) */
+const refs = all
+  ? ((lib.readJSON(path.join(__dirname, 'ledger.json')) || { plans: {} }).plans[plan] || { batches: [] }).batches
+      .map(bn => lib.batchRef(plan, +bn.slice(plan.length + 1)))
+  : [lib.batchRef(plan, n, name)];
+if (!refs.length) { console.error('nothing landed for ' + plan); process.exit(1); }
+const B = all ? { name: plan + '-all', dir: refs[0].dir } : refs[0];
+const bj = { days: [], holes: [] };
+const recheck = {};
+const critics = [];
+refs.forEach(R => {
+  const one = lib.readJSON(path.join(R.dir, 'batch.json'));
+  if (!one) { console.error('no batch.json in ' + R.name); process.exit(1); }
+  one.days.forEach(e => bj.days.push(Object.assign({ _dir: R.dir }, e)));
+  (one.holes || []).forEach(h => bj.holes.push(h));
+  Object.assign(recheck, lib.readJSON(path.join(R.dir, 'recheck.json')) || {});
+  const c = lib.lastCritic(R.dir);
+  if (c) critics.push(c);
+});
+bj.days.sort((x, y) => x.d - y.d);
+const critic = critics.length ? { ok: critics.every(c => c.ok), problems: [].concat(...critics.map(c => c.problems || [])) } : null;
 const esc = s => String(s === undefined || s === null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const who = id => (ROSTER.people[id] ? ROSTER.people[id].name : id);
 const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
 
 const trailOf = e => {
-  const v = lib.readJSON(path.join(B.dir, 'verdicts', e.id + '.json')) || {};
-  const r = lib.readJSON(path.join(B.dir, 'refutations', e.id + '.json'));
-  const rv = lib.readJSON(path.join(B.dir, 'reverify', e.id + '.json'));
+  const dir = e._dir || B.dir;
+  const v = lib.readJSON(path.join(dir, 'verdicts', e.id + '.json')) || {};
+  const r = lib.readJSON(path.join(dir, 'refutations', e.id + '.json'));
+  const rv = lib.readJSON(path.join(dir, 'reverify', e.id + '.json'));
   /* every revision round; the last cleared one is what ships */
   const rounds = [];
   for (let k = 1; ; k++) {
     const key = lib.roundKey(e.id, k);
-    const re1 = lib.readJSON(path.join(B.dir, 'revise', key + '.json'));
+    const re1 = lib.readJSON(path.join(dir, 'revise', key + '.json'));
     if (!re1) break;
-    rounds.push({ k, re: re1, rr: lib.readJSON(path.join(B.dir, 'revrefute', key + '.json')) });
+    rounds.push({ k, re: re1, rr: lib.readJSON(path.join(dir, 'revrefute', key + '.json')) });
   }
   const keptR = rounds.filter(x => x.re.verdict === 'CORRECTED' && x.rr && x.rr.refuted === false).pop();
   const re = keptR ? keptR.re : (rounds.length ? rounds[rounds.length - 1].re : null);
@@ -57,7 +74,10 @@ const days = bj.days.slice();
 const chosen = [];
 const take = e => { if (e && !chosen.includes(e) && chosen.length < nTrails) chosen.push(e); };
 [...new Set(days.map(e => e.by))].forEach(by => take(days.find(e => e.by === by)));
-days.filter(e => e.hedge || trailOf(e).kept || trailOf(e).rv || (trailOf(e).v.verdict === 'CORRECTED')).forEach(take);
+/* a whole plan: one trail from each batch first, then the rest at random; a
+   single batch: every hedged, refuted, corrected or revised entry first */
+if (all) refs.forEach(R => { const inB = days.filter(e => e._dir === R.dir && !chosen.includes(e)); if (inB.length) take(inB[Math.floor(rnd() * inB.length)]); });
+else days.filter(e => e.hedge || trailOf(e).kept || trailOf(e).rv || (trailOf(e).v.verdict === 'CORRECTED')).forEach(take);
 const rest = days.filter(e => !chosen.includes(e));
 while (chosen.length < nTrails && rest.length) take(rest.splice(Math.floor(rnd() * rest.length), 1)[0]);
 chosen.sort((x, y) => x.d - y.d);
@@ -114,7 +134,7 @@ const html = '<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><met
   '@media (max-width:560px){th,td{display:block;width:auto;padding:2px 0}th{padding-top:10px}}' +
   '</style></head><body><main>' +
   '<h1>' + esc(title) + '</h1>' +
-  '<p class="lede">Batch ' + esc(B.name) + '. Each day gives a key verse, copied word for word from that day’s chapter in Legge’s translation, and one sentence: the plain sense, then a classical commentator’s reading. ' +
+  '<p class="lede">' + (all ? 'Batches ' + refs.map(r => r.name).join(', ') : 'Batch ' + B.name) + '. Each day gives a key verse, copied word for word from that day’s chapter in Legge’s translation, and one sentence: the context of the verse in its chapter, then a classical commentator’s reading. ' +
   'Commentators: ' + Object.keys(spread).map(k => esc(k) + ' on ' + spread[k] + ' days').join(', ') + '. ' +
   'Every entry survived a verifier who found the commentator’s own words and a refuter told to break it, and a machine found those words again in the source. ' +
   (bj.holes && bj.holes.length ? 'Days with no surviving entry: ' + bj.holes.join(', ') + '. ' : '') +
