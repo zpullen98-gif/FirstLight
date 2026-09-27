@@ -1,0 +1,35 @@
+{
+ "id": "quran-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For that cause We decreed for the Children of Israel that whosoever killeth a human being for other than manslaughter or corruption in the earth, it shall be as if he had killed all mankind, and whoso saveth the life of one, it shall be as if he had saved the life of all mankind.",
+ "ref": "Al-Ma'idah 5:32",
+ "at": [700],
+ "s": "The tale of Adam’s two sons ends in this decree, before the penalty for waging war on Allah and His messenger; al-Tabari, on 5:32, reads saving a life as refraining from a killing Allah forbids, which leaves all people safe from the one who refrains.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 5:32, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/5.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 5:32 (packet.js quran 12 --verse 5.32), the tarjih paragraph on ‘wa-man ahyaha’ after the lists of reports",
+    "via": "packet"
+   }
+  ],
+  "words": "فأولى التأويلات به، قول من قال: من حرّم قتل من حرّم الله عز ذكره قتله على نفسه، فلم يتقدّم على قتله، فقد حيى الناس منه بسلامتهم منه، وذلك إحياؤه إياها",
+  "lang": "Arabic",
+  "gloss": "The likeliest of the interpretations of it is the saying of those who said: whoever forbids himself the killing of one whom God, exalted be His mention, has forbidden to be killed, and does not proceed to kill him, the people have life from him through their safety from him, and that is his giving it life.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Ma'idah 5:32, at 700; first sentence of the unit, ends before the dash-free second sentence). Plain sense faithful: 5:27 to 5:31 tell of Adam’s two sons, 5:32 opens ‘For that cause’, 5:33 gives the reward of those who make war upon Allah and His messenger; no four-word run from the key. In the packet on 5:32 al-Tabari lists the readings of ‘whoso saveth’ (supporting a prophet or just imam, rescuing from peril, pardoning a killer, sparing from drowning or burning, refraining from killing), then states his own preference: whoever refrains from a killing God has forbidden gives life to all, since all people are safe from him, adding the limit ‘except where God permits killing’, which the sentence carries as ‘a killing Allah forbids’. The sentence states his stated preference without drift. Entry-check ok."
+}

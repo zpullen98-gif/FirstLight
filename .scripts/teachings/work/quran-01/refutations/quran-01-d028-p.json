@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d028-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/13.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 28 --verse 13.28: Ibn Kathir’s single comment on 13:27 to 13:29 glosses tatma’innu qulubuhum as hearts growing glad and leaning (tarkanu) towards God’s side, settling at His remembrance and content with Him as mawla and nasir, then says that is why He said ala bi-dhikri Allahi tatma’innu al-qulub, ‘that is, huwa haqiqun bi-dhalika’. Evidence verbatim (script check true). The paraphrase keeps to these words. The one soft point: huwa could refer to the remembrance rather than to God, but the antecedent of the preceding bihi is God and the standard rendering is ‘He is worthy of it’, so ‘He is worthy of it’ is a defensible reading of his words, not a drift. Verse: verse.js ok, Ar-Ra’d 13:28 at 1734, the second sentence of the ayah and the famous line; the gloss on the first half of the same ayah is kept apart as ‘such rest’. Plain sense: 13:27 has the disbelievers asking for a portent and God guiding those who turn, 13:28 describes them; no four-word run. Locator matches the packet’s range. No school, comparison or hard passage. entry-check ok, 43 words.",
+ "better": ""
+}

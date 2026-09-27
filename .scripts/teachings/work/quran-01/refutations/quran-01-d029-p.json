@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d029-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/15.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 29 --verse 15.9: Ibn Kathir’s comment on 15:6 to 15:9 closes with God establishing that He sent down the dhikr, which is the Qur’an, and is its guardian from taghyir and tabdil (alteration and change); he then reports that some referred the pronoun in lahu lahafizun to the Prophet (citing 5:67) and says the first meaning is awla and the plain sense of the context. Both evidence pieces are verbatim (script check true, the ellipsis splits cleanly). ‘Prefers’ is his own awla, attributed to him and not resolved by the sentence, so rule 5 holds. Verse: verse.js ok, Al-Hijr 15:9 at 1810, the whole ayah. Plain sense: 15:6 calls the one to whom the Reminder is revealed a madman, 15:7 and 15:8 the demand for angels and its answer, then 15:9; no four-word run, no doctrine. Locator matches the packet’s range. al-Tabari on 15:9 also gives the Qur’an guarded from addition and loss, so naming Ibn Kathir is a choice, not an error; his explicit preference makes it the stronger entry. entry-check ok, 44 words.",
+ "better": ""
+}

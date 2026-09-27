@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/4.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 9 --verse 4.1: the evidence span stands verbatim in al-Tabari's own voice (qala Abu Ja'far), the gloss on the first clause before the reports naming Adam: God alerts all people that they are sons of one man and one mother, that each owes the other a right binding as a brother's right, and that the strong render the weak his due; the sentence carries exactly this and no more, with no preference claimed among reports. Verse: verse.js ok, An-Nisa 4:1 at 493, the first whole sentence of the ayah, and the clause the reading glosses. Plain sense checked against day.js: orphans (4:2 to 4:10), inheritance (4:11 to 4:12), lewdness (4:15, 4:19, 4:22, 4:25, the text's own word) and marriage (4:3, 4:19 to 4:25); addresses all people; no four-word run from the key. Locator right. No school needed, no comparison, not a hard key. entry-check ok (0 errors, 0 warns).",
+ "better": ""
+}

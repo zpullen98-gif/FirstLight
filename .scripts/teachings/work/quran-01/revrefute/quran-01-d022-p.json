@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d022-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/9.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 22 --verse 9.122. Inside the seg labelled 9:121 to 9:122 al-Tabari has separate headings for 9:121 (spending, crossing valleys) and 9:122; the reading sits under 9:122, so the place is right. On li-yatafaqqahu he reports Qatada (the stayers learn) and al-Hasan (the marchers learn from what God shows them of victory), then says fa-inna awla al-aqwal bi-l-sawab that the marching party gains understanding by witnessing God’s victory for the people of His religion and His Messenger’s companions over His enemies, names it al-Hasan al-Basri’s view, and rejects the stayers reading as impossible (nunkiru dhalika li-stihalatihi). Both evidence pieces found under the recheck normalisation. The paraphrase carries no more than this; it runs against Pickthall’s parenthesis ‘(who are left behind)’, which is correct attribution, the reading being al-Tabari’s and not the translator’s. Plain sense faithful and plain for a hard passage: 9:120 condemns staying behind, 9:123 commands fighting, 9:122 says not all should go out. verse.js ok (At-Tawbah 9:122, at 1356); entry-check.js ok, no errors or warns. No school, comparison, softening or sensationalising.",
+ "better": ""
+}

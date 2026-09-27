@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And do thou (O Muhammad) remember thy Lord within thyself humbly and with awe, below thy breath, at morn and evening. And be not thou of the neglectful.",
+ "ref": "Al-A'raf 7:205",
+ "at": [
+  1158
+ ],
+ "s": "After the command to heed the recited Qur’an, the chapter’s closing verses turn to private devotion; Ibn Kathir, on 7:205 to 7:206, reads it as urging much remembrance at the day’s start and end, a Meccan command older than the five daily prayers.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 7:205 to 7:206, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/7.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 7:205 to 7:206 (packet.js quran 19 --verse 7.205), one comment on the passage: the opening paragraph and the paragraph answering Ibn Jarir and Ibn Zayd",
+    "via": "packet"
+   }
+  ],
+  "words": "يَأْمُرُ تَعَالَى بِذِكْرِهِ أَوَّلَ النَّهَارِ وَآخِرَهُ، كَمَا أَمَرَ بِعِبَادَتِهِ فِي هَذَيْنَ الْوَقْتَيْنِ … وَقَدْ كَانَ هَذَا قَبْلَ أَنْ تُفْرَضَ الصَّلَوَاتُ الْخَمْسُ لَيْلَةَ الْإِسْرَاءِ، وَهَذِهِ الْآيَةُ مَكِّيَّةٌ … بَلِ الْمُرَادُ الْحَضُّ عَلَى كَثْرَةِ الذِّكْرِ مِنَ الْعِبَادِ بِالْغُدُوِّ وَالْآصَالِ، لِئَلَّا يَكُونُوا مِنَ الْغَافِلِينَ",
+  "lang": "Arabic",
+  "gloss": "God commands that He be remembered at the start and the end of the day, as He commanded His worship at these two times … and this was before the five prayers were made obligatory on the night of the Night Journey, and this ayah is Meccan … rather, what is meant is urging the servants to much remembrance morning and evening, so that they are not among the heedless.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "medium",
+ "reason": "Key verse verbatim (verse.js ok, Al-A’raf 7:205, at 1158; two whole sentences, Pickthall’s parenthesis kept). Plain sense faithful: 7:204 commands listening to the recited Qur’an and 7:205 to 7:206 close the surah on remembrance and the prostration of those with the Lord; no four-word run from the key. Ibn Kathir comments on 7:205 to 7:206 as one passage, so the place is cited as the passage. I read the whole comment: he opens with the command to remember God at the start and end of the day, parallel to worship at the two times in 50:39, notes this was before the five prayers were imposed on the night of the Isra and that the ayah is Meccan, then rejects the view of Ibn Jarir and Ibn Zayd that it addresses the listener during recitation and says the intent is urging much remembrance morning and evening lest they be heedless. The sentence’s “older than the five daily prayers” rests on his “this was before the five prayers were imposed” beside “this ayah is Meccan”; that is the natural reading of the passage, though his “this” could be taken as the two-times worship of 50:39, hence medium confidence. 43 words; entry-check ok."
+}

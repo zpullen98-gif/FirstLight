@@ -1,0 +1,241 @@
+{
+ "lane": "L3",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 18,
+   "primary": {
+    "id": "quran-01-d018-p",
+    "key": "And when he woke he said: Glory unto Thee! I turn unto Thee repentant, and I am the first of (true) believers.",
+    "ref": "Al-A'raf 7:143",
+    "at": [
+     1096
+    ],
+    "s": "Moses, after asking to gaze upon his Lord, falls senseless as the mountain is levelled; al-Tabari, on 7:143, reads his repentance as turning from that request, and takes him as first of his people to believe none sees Him in this world and lives.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 7:143, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "قال سبحانك\"، تنزيهًا لك، يا رب، وتبرئةً أن يراك أحد في الدنيا، ثم يعيش = \"تبت إليك\"، من مسألتي إياك ما سألتك من الرؤية= \"وأنا أوّل المؤمنين\"، بك من قومي، أن لا يراك في الدنيا أحد إلا هلك … وإنما اخترنا القول الذي اخترناه في قوله: \"وأنا أول المؤمنين\"، على قول من قال: معناه: أنا أول المؤمنين من بني إسرائيل= لأنه قد كان قبله في بني إسرائيل مؤمنون وأنبياء",
+     "gloss": "‘He said: Glory unto Thee’ means declaring You exalted, Lord, and far above being seen by anyone in this world who then lives; ‘I turn unto Thee’ means from my asking You for the vision; ‘and I am the first of believers’ means the first of my people to believe in You, that no one sees You in this world without perishing. … We chose this reading of ‘I am the first of believers’ over those who say it means the first believer among the Children of Israel, because there were believers and prophets among the Children of Israel before him."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d018-s",
+    "key": "Our Lord! Vouchsafe unto us steadfastness and make us die as men who have surrendered (unto Thee).",
+    "ref": "Al-A'raf 7:126",
+    "at": [
+     1079
+    ],
+    "s": "Under Pharaoh’s threat of crucifixion, the newly believing wizards answer him; Ibn Kathir, on 7:123 to 7:126, reads their plea as asking patience to bear his torment and escape a harsher one, men who were sorcerers at the day’s start and martyrs by its end.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 7:123 to 7:126, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "أَيْ: قَدْ تَحَقَّقْنَا أَنَّا إِلَيْهِ رَاجِعُونَ، وَعَذَابَهُ أَشَدُّ مِنْ عَذَابِكَ … فَلَنَصْبِرَنَّ الْيَوْمَ عَلَى عَذَابِكَ لِنَخْلُصَ مِنْ عَذَابِ اللَّهِ، لَمَّا قَالُوا: ﴿رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا﴾ أَيْ: عُمَّنَا بِالصَّبْرِ عَلَى دِينِكَ، وَالثَّبَاتِ عَلَيْهِ، ﴿وَتَوَفَّنَا مُسْلِمِينَ﴾ أَيْ: مُتَابِعِينَ لِنَبِيِّكَ مُوسَى … فَكَانُوا فِي أَوَّلِ النَّهَارِ سَحَرَةً، فَصَارُوا فِي آخِرِهِ شُهَدَاءَ بَرَرَةً",
+     "gloss": "That is: we are certain that we are returning to Him, and His punishment is harsher than yours … so we will endure your punishment today to be delivered from the punishment of God, when they said ‘Our Lord, pour out patience upon us’: that is, envelop us with patience in Your religion and steadfastness in it; ‘and take us as muslims’: that is, as followers of Your prophet Moses … So at the start of the day they were sorcerers, and by its end they had become righteous martyrs."
+    }
+   }
+  },
+  {
+   "d": 19,
+   "primary": {
+    "id": "quran-01-d019-p",
+    "key": "And do thou (O Muhammad) remember thy Lord within thyself humbly and with awe, below thy breath, at morn and evening. And be not thou of the neglectful.",
+    "ref": "Al-A'raf 7:205",
+    "at": [
+     1158
+    ],
+    "s": "After the command to heed the recited Qur’an, the chapter’s closing verses turn to private devotion; Ibn Kathir, on 7:205 to 7:206, reads it as urging much remembrance at the day’s start and end, a Meccan command older than the five daily prayers.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 7:205 to 7:206, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "يَأْمُرُ تَعَالَى بِذِكْرِهِ أَوَّلَ النَّهَارِ وَآخِرَهُ، كَمَا أَمَرَ بِعِبَادَتِهِ فِي هَذَيْنَ الْوَقْتَيْنِ … وَقَدْ كَانَ هَذَا قَبْلَ أَنْ تُفْرَضَ الصَّلَوَاتُ الْخَمْسُ لَيْلَةَ الْإِسْرَاءِ، وَهَذِهِ الْآيَةُ مَكِّيَّةٌ … بَلِ الْمُرَادُ الْحَضُّ عَلَى كَثْرَةِ الذِّكْرِ مِنَ الْعِبَادِ بِالْغُدُوِّ وَالْآصَالِ، لِئَلَّا يَكُونُوا مِنَ الْغَافِلِينَ",
+     "gloss": "God commands that He be remembered at the start of the day and at its end, as He commanded that He be worshipped at these two times … This was before the five prayers were made obligatory on the night of the Night Journey, and this verse is Meccan … Rather, what is meant is urging the servants to much remembrance morning and evening, so that they are not among the heedless."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d019-s",
+    "key": "Keep to forgiveness (O Muhammad), and enjoin kindness, and turn away from the ignorant.",
+    "ref": "Al-A'raf 7:199",
+    "at": [
+     1152
+    ],
+    "s": "Closing an argument against idol worship, the Prophet is given three commands; al-Tabari, on 7:199, reads ‘Keep to forgiveness’ as accepting what people’s characters readily give, without harshness, and, finding no sign it was abrogated, as teaching all Muslims how to live among others.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 7:199, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فقال بعضهم: تأويله: ﴿خذ العفو﴾ من أخلاق الناس، وهو الفضل وما لا يجهدهم … وأولى هذه الأقوال بالصواب قول من قال: معناه: خذ العفو من أخلاق الناس، واترك الغلظة عليهم … قيل: لا دلالة عندنا على أنه منسوخ … مرادًا به تأديبُ نبيّ الله والمسلمين جميعًا في عشرة الناس، وأمرهم بأخذ عفو أخلاقهم",
+     "gloss": "Some said its interpretation is: take the ʿafw of people’s characters, that is, the surplus and what does not strain them … The most correct of these sayings is that of those who said it means: take the ʿafw of people’s characters, and leave harshness towards them … It is answered: we have no indication that it is abrogated … [it may be] meant as a training of the Prophet of God and of the Muslims all together in living among people, and a command to them to accept what people’s characters readily give."
+    }
+   }
+  },
+  {
+   "d": 23,
+   "primary": {
+    "id": "quran-01-d023-p",
+    "key": "Say: In the bounty of Allah and in His mercy: therein let them rejoice. It is better than what they hoard.",
+    "ref": "Yunus 10:58",
+    "at": [
+     1421
+    ],
+    "s": "Just after an exhortation and a balm for the breasts is announced to mankind, the Prophet is told what to say; al-Tabari, on 10:58, reads the bounty as Islam and the mercy as the Qur’an, each worth more than this world’s wealth and treasure.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 10:58, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "﴿بفضل الله﴾ ، أيها الناس، الذي تفضل به عليكم، وهو الإسلام، فبيَّنه لكم، ودعاكم إليه = ﴿وبرحمته﴾ ، التي رحمكم بها، فأنزلها إليكم، فعلَّمكم ما لم تكونوا تعلمون من كتابه، وبصَّركم بها معالم دينكم، وذلك القرآن = ﴿فبذلك فليفرحوا هو خير مما يجمعون﴾ ، يقول: فإن الإسلام الذي دعاهم إليه، والقرآن الذي أنزله عليهم، خيرٌ مما يجمعون من حُطَام الدنيا وأموالها وكنوزها",
+     "gloss": "‘In the bounty of God’, O people, with which He has favoured you: that is Islam, which He made plain to you and called you to; ‘and in His mercy’, with which He had mercy on you and sent down to you, teaching you from His Book what you did not know and opening your eyes by it to the landmarks of your religion: that is the Qur’an. ‘Therein let them rejoice; it is better than what they hoard’: for the Islam He called them to and the Qur’an He sent down to them are better than the debris of this world, its wealth and its treasures, that they amass."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d023-s",
+    "key": "For those who do good is the best (reward) and more (thereto).",
+    "ref": "Yunus 10:26",
+    "at": [
+     1389
+    ],
+    "s": "Following the summons to the abode of peace, two rewards are set side by side; Ibn Kathir, on 10:26, reads the ‘more’ as multiplied reward and every gift of the Garden, highest of all the vision of His face, given by His bounty, not earned.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 10:26, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَقَوْلُهُ: ﴿وَزِيَادَة﴾ هِيَ تَضْعِيفُ ثَوَابِ الْأَعْمَالِ بِالْحَسَنَةِ عَشْرَ أَمْثَالِهَا إِلَى سَبْعِمِائَةِ ضِعْفٍ، وَزِيَادَةٌ عَلَى ذَلِكَ … وَيَشْمَلُ مَا يُعْطِيهِمُ اللَّهُ فِي الْجِنَانِ مِنَ القُصُور والحُور وَالرِّضَا عَنْهُمْ، وَمَا أَخْفَاهُ لَهُمْ مِنْ قُرَّةِ أَعْيُنٍ، وَأَفْضَلُ مِنْ ذَلِكَ وَأَعْلَاهُ النظرُ إِلَى وَجْهِهِ الْكَرِيمِ، فَإِنَّهُ زِيَادَةٌ أَعْظَمُ مِنْ جَمِيعِ مَا أُعْطُوهُ، لَا يَسْتَحِقُّونَهَا بِعَمَلِهِمْ، بَلْ بِفَضْلِهِ وَرَحْمَتِهِ",
+     "gloss": "His words ‘and more’: this is the multiplying of the reward of deeds, a good deed tenfold up to seven hundredfold, and more beyond that … It includes what God gives them in the Gardens of palaces and maidens and His good pleasure with them, and the delight He has hidden for them; and better and higher than all that is looking upon His noble face, for it is an increase greater than all they have been given, which they do not merit by their deeds, but receive by His bounty and mercy."
+    }
+   }
+  },
+  {
+   "d": 24,
+   "primary": {
+    "id": "quran-01-d024-p",
+    "key": "When they believed We drew off from them the torment of disgrace in the life of the world and gave them comfort for a while.",
+    "ref": "Yunus 10:98",
+    "at": [
+     1461
+    ],
+    "s": "After Pharaoh’s belief while drowning is rebuked, the chapter singles out the folk of Jonah; al-Tabari, on 10:98, takes them as the one people whose faith availed them after the punishment had come down, as Pharaoh’s did not, spared to live out their term.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 10:98, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ومعنى الكلام: فما كانت قرية آمنت عند معاينتها العذاب، ونزول سَخَط الله بها، بعصيانها ربها واستحقاقها عقابه، فنفعها إيمانها ذلك في ذلك الوقت، كما لم ينفع فرعون إيمانه حين أدركه الغرق بعد تماديه في غيّه، واستحقاقه سَخَط الله بمعصيته = إلا قوم يونس، فإنهم نفعهم إيمانهم بعد نزول العقوبة وحلول السخط بهم … ﴿ومتعناهم إلى حين﴾ ، يقول: وأخَّرنا في آجالهم ولم نعاجلهم بالعقوبة، وتركناهم في الدنيا يستمتعون فيها بآجالهم إلى حين مماتهم",
+     "gloss": "The sense of the passage is: no town that believed on seeing the punishment face to face, as God’s wrath came down on it for disobeying its Lord and deserving His penalty, was profited by that faith at that time, just as Pharaoh’s faith did not profit him when drowning overtook him after he had persisted in his error and earned God’s wrath by his disobedience, except the folk of Jonah: their faith profited them after the punishment had come down and the wrath had fallen on them … ‘and gave them comfort for a while’: We deferred their terms and did not hasten punishment on them, and left them in the world to enjoy their lifespans until the time of their death."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d024-s",
+    "key": "Lo! now they fold up their breasts that they may hide (their thoughts) from Him.",
+    "ref": "Hud 11:5",
+    "at": [
+     1477
+    ],
+    "s": "Early in Hud, after a call to repentance, the chapter turns to those who conceal; al-Wahidi, on 11:5, takes it as revealed about al-Akhnas ibn Shariq, a man sweet of speech who pleased the Prophet to his face while hiding the opposite in his heart.",
+    "by": "wahidi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Wahidi, Asbāb al-nuzūl, on 11:5, the al-Humaydan edition (1992) via OpenITI, commit cc9beb0",
+    "basis": {
+     "source": "wahidi",
+     "words": "نزلت في الأخنس بن شريق، وكان رجلا حلو الكلام حلو المنظر، يلقى رسول الله - صلى الله عليه وسلم - بما يحب ويطوي بقبله ما يكره. وقال الكلبي: كان يجالس النبي - صلى الله عليه وسلم - يظهر له أمرا يسره ويضمر في قلبه خلاف ما يظهر، فأنزل الله تعالى: {ألا إنهم يثنون صدورهم} يقول يكمنون ما في صدورهم من العداوة لمحمد",
+     "gloss": "It was revealed about al-Akhnas ibn Shariq, a man sweet of speech and pleasing to look upon, who met the Messenger of God with what pleased him and folded into his heart what he disliked. And al-Kalbi said: he used to sit with the Prophet, showing him what pleased him and hiding in his heart the opposite of what he showed; so God sent down ‘Lo! now they fold up their breasts’, meaning they conceal the enmity towards Muhammad that is in their breasts."
+    }
+   }
+  },
+  {
+   "d": 25,
+   "primary": {
+    "id": "quran-01-d025-p",
+    "key": "He said: O Noah! Lo! he is not of thy household; lo! he is of evil conduct, so ask not of Me that whereof thou hast no knowledge.",
+    "ref": "Hud 11:46",
+    "at": [
+     1518
+    ],
+    "s": "After the flood subsides, Noah pleads that his drowned son belonged to his household; al-Tabari, on 11:46, takes the son as truly his, yet not of the household promised rescue, since he opposed Noah’s religion, and reads the ‘evil conduct’ as that very plea.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 11:46, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى القولين في ذلك بالصواب قول من قال: تأويل ذلك: إنه ليس من أهلك الذين وعدتك أن أنجيهم، لأنه كان لدينك مخالفًا، وبي كافرًا = وكان ابنه لأن الله تعالى ذكره قد أخبر نبيه محمدًا … والصواب من القراءة في ذلك عندنا ما عليه قراء الأمصار، وذلك رفع ﴿عَمَلٌ﴾ بالتنوين، ورفع ﴿غَيْرُ﴾ ، يعني: إن سؤالك إياي ما تسألنيه في أبنك … عملٌ غير صالح، لأنَّه مسألة منك إليّ أن لا أفعل ما قد تقدّم مني القول بأني أفعله",
+     "gloss": "The more correct of the two sayings is that of those who said it means: he is not of your household whom I promised you to save, because he opposed your religion and disbelieved in Me; and he was his son, for God has told His Prophet Muhammad [that he was his son] … The correct reading for us is that of the reciters of the great cities, ‘amalun’ with nunation and ‘ghayru’ in the nominative, meaning: your asking Me what you ask concerning your son … is an unrighteous deed, because it is a request from you that I not do what I have already said I would do."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d025-s",
+    "key": "So tread thou the straight path as thou art commanded, and those who turn (unto Allah) with thee, and transgress not.",
+    "ref": "Hud 11:112",
+    "at": [
+     1584
+    ],
+    "s": "After the tales of destroyed townships, the Prophet is addressed directly; al-Qurtubi, on 11:112, reads the command as holding one course without swerving right or left, a verse he reports weighed on the Prophet more than any other.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 11:112, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَالِاسْتِقَامَةُ الِاسْتِمْرَارُ فِي جِهَةٍ وَاحِدَةٍ مِنْ غَيْرِ أَخْذٍ فِي جِهَةِ الْيَمِينِ وَالشِّمَالِ، فَاسْتَقِمْ عَلَى امْتِثَالِ أَمْرِ اللَّهِ … قَالَ ابْنُ عَبَّاسٍ مَا نَزَلَ عَلَى رَسُولِ اللَّهِ … آيَةٌ هِيَ أَشَدُّ وَلَا أَشَقُّ مِنْ هَذِهِ الْآيَةِ عَلَيْهِ، وَلِذَلِكَ قَالَ لِأَصْحَابِهِ حِينَ قَالُوا لَهُ: لَقَدْ أَسْرَعَ إِلَيْكَ الشَّيْبُ",
+     "gloss": "Going straight (istiqāma) is continuing in one direction without taking to the right or the left: so go straight in obeying God’s command … Ibn ʿAbbas said: no verse was sent down on the Messenger of God … harder or heavier on him than this verse, and that is why he said to his companions, when they told him that grey hair had come on him quickly, [that Hud and its sisters had made him grey]."
+    }
+   }
+  },
+  {
+   "d": 26,
+   "primary": {
+    "id": "quran-01-d026-p",
+    "key": "I do not exculpate myself. Lo! the (human) soul enjoineth unto evil, save that whereon my Lord hath mercy.",
+    "ref": "Yusuf 12:53",
+    "at": [
+     1648
+    ],
+    "s": "Joseph is cleared when the ruler’s wife confesses before the king; Ibn Kathir, on 12:50 to 12:53, reads it as her words, confessing the desire behind her advances, since Joseph was not yet present, and al-Tabari, on 12:53, as Joseph’s own, admitting that souls urge what they desire unless his Lord has mercy.",
+    "by": "ibn-kathir",
+    "by2": "tabari",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 12:50 to 12:53, and al-Tabari, Jāmiʿ al-bayān, on 12:53, Tarteel QUL Arabic texts, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿وَأَنَّ اللَّهَ لَا يَهْدِي كَيْدَ الْخَائِنِينَ وَمَا أُبَرِّئُ نَفْسِي﴾ تَقُولُ الْمَرْأَةُ: وَلَسْتُ أُبَرِّئُ نَفْسِي، فَإِنَّ النَّفْسَ تَتَحَدَّثُ وَتَتَمَنَّى؛ وَلِهَذَا رَاوَدَتْهُ لِأَنَّهَا أَمَارَةٌ بِالسُّوءِ … وَالْقَوْلُ الْأَوَّلُ أَقْوَى وَأُظْهِرُ؛ لِأَنَّ سِيَاقَ الْكَلَامِ كُلِّهِ مِنْ كَلَامِ امْرَأَةِ الْعَزِيزِ بِحَضْرَةِ الْمَلِكِ، وَلَمْ يَكُنْ يُوسُفُ، عَلَيْهِ السَّلَامُ، عِنْدَهُمْ، بَلْ بَعْدَ ذَلِكَ أَحْضَرَهُ الْمَلِكُ … قال أبو جعفر: يقول يوسف صلوات الله عليه: وما أبرئ نفسي من الخطأ والزلل فأزكيها= ﴿إن النفس لأمارة بالسوء﴾ ، يقول: إن النفوسَ نفوسَ العباد، تأمرهم بما تهواه، وإن كان هواها في غير ما فيه رضا الله= ﴿إلا ما رحم ربي﴾ يقول: إلا أن يرحم ربي من شاء من خلقه",
+     "gloss": "(Ibn Kathir, on 12:50 to 12:53:) ‘and that God guideth not the snare of the betrayers, and I do not exculpate myself’: the woman says, I do not absolve myself, for the soul talks and wishes, and that is why she solicited him, because it commands evil … The first saying is the stronger and more evident, because the whole course of the speech is the words of the ruler’s wife in the presence of the king, and Joseph was not with them; the king had him brought only after that. … (al-Tabari, on 12:53:) Joseph, God’s blessings on him, says: I do not absolve myself of error and slips so as to call myself pure; ‘the soul enjoineth unto evil’: the souls of God’s servants command them to what they desire, even when their desire lies outside what pleases God; ‘save that whereon my Lord hath mercy’: except that my Lord has mercy on whom He will of His creatures."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d026-s",
+    "key": "He said: Nay, but your minds have beguiled you into something. (My course is) comely patience. And Allah it is Whose help is to be sought in that (predicament) which ye describe.",
+    "ref": "Yusuf 12:18",
+    "at": [
+     1613
+    ],
+    "s": "Joseph’s brothers return at evening with his shirt stained in false blood; the Jalalayn, on 12:18, explains that Jacob knew their lie from the untorn shirt, and takes the patience as one without anguish.",
+    "by": "jalalayn",
+    "by2": "",
+    "hedge": "",
+    "src": "the Jalalayn, Tafsīr al-Jalālayn (al-Suyuti), on 12:18, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "jalalayn",
+     "words": "﴿بِدَمٍ كَذِب﴾ أيْ ذِي كَذِب بِأَنْ ذَبَحُوا سَخْلَة ولَطَّخُوهُ بِدَمِها وذُهِلُوا عَنْ شَقّه وقالُوا إنّهُ دَمه ﴿قالَ﴾ يَعْقُوب لَمّا رَآهُ صَحِيحًا وعَلِمَ كَذِبهمْ ﴿بَلْ سَوَّلَتْ﴾ زَيَّنَتْ ﴿لَكُمْ أنْفُسكُمْ أمْرًا﴾ فَفَعَلْتُمُوهُ بِهِ ﴿فَصَبْر جَمِيل﴾ لا جَزَع فِيهِ",
+     "gloss": "‘With false blood’: that is, blood carrying a lie, for they slaughtered a young goat, smeared the shirt with its blood, forgot to tear it, and said it was his blood. ‘He said’: Jacob, when he saw the shirt whole and knew their lie: ‘Nay, but your minds have beguiled you’, have made fair to you, ‘into something’, which you then did to him; ‘comely patience’: patience in which there is no anguish."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/5.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 13 --verse 5.87. After the three reported views of al-iʿtidaʾ (al-Suddi: Uthman b. Mazʿun's intended self-castration; Ikrima: the companions' forbidding of women, food, dress, sleep; al-Hasan: passing from lawful to forbidden), Abu Jaʿfar's own paragraph (qala Abu Jaʿfar) makes 'la taʿtadu' general, no one may overstep God's bound in what He made lawful or forbidden; the next paragraph says those who resolved to forbid themselves the lawful were reproached only (innama) for passing beyond what was laid down. All three evidence pieces string-match. The sentence's 'reproached for just that' refers back to overstepping, which is exactly his innama clause; he calls the Uthman occasion only 'not impossible', and the sentence does not assert the occasion, only the reproach, which he does assert. His heading opens 5:87 separately inside a seg labelled 5:86 to 5:87, so 'on 5:87' is his place. Plain sense checked in day.js: 5:87 addresses the believers, 5:88 food, 5:89 oaths, 5:90 to 5:91 strong drink; no four-word run from the key. No school, no comparison (his Christians/monks report is left out), no hard passage. verse.js ok (Al-Ma'idah 5:87, at 755, 24 words); entry-check.js ok, no errors or warns.",
+ "better": ""
+}

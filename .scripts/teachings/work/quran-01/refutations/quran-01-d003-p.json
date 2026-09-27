@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d003-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 3 --verse 2.190: al-Tabari, under the heading for 2:190 inside the QUL seg labelled 2:189 to 2:190, reports two views (first ayah on fighting, repealed by Bara'a; or unrepealed, the forbidden transgression being the killing of women and offspring), then says in his own voice that the view of Umar ibn Abd al-Aziz is the sounder because claiming repeal of a possibly unrepealed ayah without proof is arbitrary, and glosses wa-la ta'tadu as: do not kill a child, a woman, or anyone who has given the jizya of the people of the two Books and the Magians. Both evidence pieces found verbatim. The sentence carries his preference (unrepealed) and his limit (women, children, tribute-payers) without drift; the narrowing of tribute-payers to the two Books and the Magians is left out but nothing is added. Attribution is his own tarjih, not a reported view or Pickthall's 'begin not hostilities'. Verse: verse.js ok, Al-Baqarah 2:190 at 196, the ayah itself and the right line for the reading. Plain sense matches day.js 2:190 to 2:193 (fight, slay, drive out those who fight them), one plain clause, neither softened nor sensational. No school needed, no comparison, no watch term. entry-check ok (scratch/refute-quran-01-d003-p.json): one semicolon, roster name, verb 'takes'/'reads', no dash.",
+ "better": ""
+}

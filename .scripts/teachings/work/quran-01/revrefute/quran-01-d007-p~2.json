@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/3.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 7 --verse 3.92. Under his own heading for 3:92 Abu Jaʿfar glosses al-birr, addressing the believers (ayyuha al-muʾminun), as the birr from God that they seek by obedience, His favour in bringing them into His Garden and turning His punishment away, then paraphrases the ayah as giving in alms of what they love and wish to be theirs, of their choicest wealth. Both evidence pieces are found under the recheck normalisation (squash match true for each). The sentence now names the believers, so the old antecedent problem is gone; ‘wealth they most wish to keep’ is a fair compression of mimma tuhibbun wa-tahwawna an yakuna lakum min nafis amwalikum. Plain sense faithful: 3:91 refuses the earth full of gold as ransom from those who die in disbelief, 3:92 turns to spending. The reading is his, not Pickthall’s ‘piety’, and is framed as his reading of that word. verse.js ok (Al 'Imran 3:92, at 384); entry-check.js ok, no errors or warns. No school, comparison or tone issue.",
+ "better": ""
+}

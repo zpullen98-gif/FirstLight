@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d030-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/16.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 30 --verse 16.97 (cites 16.json): al-Tabari reports five readings of the good life (lawful provision, contentment, life as an obedient believer, happiness, life in Paradise), then says in his own voice wa-awla al-aqwal bi-l-sawab: contentment, because one made content with his allotted provision does not multiply his toil nor is his living troubled pursuing what escaped him and craving what he may not attain. The evidence string-matches the packet verbatim and carries the whole paraphrase, including 'the reading he prefers among several', which the trap requires him to state and he does. verse.js ok (An-Nahl 16:97, at 1997). day.js: 16:95 forbids purchasing small gain at the price of the covenant, 16:96 and 16:97 promise recompense, so the context clause is faithful (reward already begins at 16:96, a minor looseness only); no four-word run from the key. Locator right; no school, comparison or hard-passage issue. entry-check ok, no warns; src now opens with the roster name.",
+ "better": ""
+}

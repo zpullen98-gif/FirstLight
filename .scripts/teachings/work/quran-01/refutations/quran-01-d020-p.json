@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d020-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/8.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 20 --verse 8.61: al-Tabari reports Qatada (abrogated by 'slay the idolaters wherever ye find them' in Bara'a), Ikrima and al-Hasan (by 9:29) and Ibn Zayd (by jihad), then answers in his own voice: the abrogation claim has no evidence from scripture, sunna or reason; an abrogating verse must negate the other's ruling in every respect; 'if they incline to peace' was meant for Banu Qurayza, people of Scripture with whom peace on tribute is permitted, while 'slay the idolaters' was meant for the idol-worshipping Arabs from whom tribute may not be accepted; the evidence words appear verbatim, ending 'each of them stands in force for what it was revealed about'. The sentence (still in force, not cancelled by the order to slay in At-Tawbah, the two concerning different peoples) is his, stated as his own position, without drift; the limit he sets is carried by 'different peoples', and the specific people is left unnamed because the day's text does not name them (rule 4). Verse: verse.js ok, Al-Anfal 8:61 at 1220, the whole ayah, the right line. Plain sense: 8:60 commands making ready armed force against the enemy of Allah, 8:61 addresses 'thou'; 'offer of truce' is a fair context for 'incline to peace' and within al-Tabari's own gloss (truce among the forms of peace). Locator right (on 8:61, his reply to Qatada after the reports). No school, no comparison, tone plain. entry-check ok, no errors or warns.",
+ "better": "If words allow, the limit could be made explicit in his terms: peace with a people from whom tribute may be accepted, the slaying order for idolaters from whom it may not; the present wording is accurate but compressed."
+}

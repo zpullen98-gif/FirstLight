@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d017-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/7.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 17 --verse 7.26: al-Tabari's own tarjih paragraph (introduced by 'qala Abu Ja'far: wa-awla al-aqwal bi-l-sihha') gives the evidence words verbatim, after he lists the reports (faith from Qatada, al-Suddi, Ibn Jurayj; modesty from Ma'bad; good works from Ibn Abbas; good bearing; awe of God from Urwa; covering nakedness from Ibn Zayd) and the rafʿ/nasb reading dispute. The preference is his, stated as his, so 'reads' is licensed. 'Worn next to the soul' renders istish'ar (shi'ar, the garment next to the body), and he grounds it in the next paragraph on what wearing means (istish'ar al-nafs wa-l-qalb); the list faith, good works, modesty, awe is his (he adds good bearing, omitted without drift). His preferred nasb reading does not alter his definition of the phrase. verse.js ok (Al-A'raf 7:26, at 979), key is 7:26 text not apparatus. Plain sense checked in day.js: 7:22 shame manifest, 7:24 'Go down', 7:27 confirms going forth from the Garden, 7:26 addresses the Children of Adam; no four-word run from the key; quoted 'raiment of restraint' is three words. No school needed, no comparison, no hard passage. entry-check.js ok with no errors or warns; src names the roster edition and is under 160 characters.",
+ "better": ""
+}

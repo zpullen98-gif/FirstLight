@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Give full measure and full weight, in justice. We task not any soul beyond its scope.",
+ "ref": "Al-An'am 6:152",
+ "at": [
+  940
+ ],
+ "s": "Among the sacred duties the Prophet is told to recite, the rule of fair trade follows the one on the orphan’s wealth; al-Tabari, on 6:152, reads ‘beyond its scope’ as asking no payer for more than the due, and no payee to settle for less.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 6:152, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/6.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL Arabic text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 6:152 (packet.js quran 16 --verse 6.152), the section on “We task not any soul beyond its scope”",
+    "via": "packet"
+   }
+  ],
+  "words": "فإنه يقول: لا نكلف نفسًا، من إيفاء الكيل والوزن، إلا ما يسعها فيحلّ لها ولا تحرَجُ فيه. وذلك أن الله جل ثناؤه، علم من عباده أن كثيرًا منهم تَضيق نفسه عن أن تطيب لغيره بما لا يجبُ عليها له، فأمر المعطي بإيفاء رب الحق حقَّه الذي هو له، ولم يكلِّفه الزيادة، لما في الزيادة عليه من ضيق نفسه بها. وأمر الذي له الحق، بأخذ حقه، ولم يكلفه الرضا بأقل منه، لما في النقصان عنه من ضيق نفسه.",
+  "lang": "Arabic",
+  "gloss": "He is saying: We charge no soul, in giving full measure and weight, with more than it can bear, so that it is lawful for it and it is not straitened in it. For God knew of His servants that many of them are too narrow of soul to give willingly to another what they do not owe him; so He commanded the one who pays to give the owner of the right the right that is his, and did not charge him with more, because more would straiten his soul; and He commanded the one owed to take his right, and did not charge him with being content with less, because falling short of it would straiten his soul.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The prose problem holds: “dealings in trade follow the orphan’s wealth” can be read as trade pursuing the orphan’s wealth. day.js shows 6:151 opening “Say: Come, I will recite unto you that which your Lord hath made a sacred duty” and 6:152 setting the orphan’s wealth first, then full measure and weight; the new context clause states that order plainly without four words of the verse. Only the context clause changed; key, commentator, reading and src unchanged. Re-opened packet.js quran 16 --verse 6.152: al-Tabari, in his own voice, has the payer commanded to give the due and not charged with more, and the one owed to take his right and not charged to be content with less; the evidence is a contiguous span of the packet. verse.js ok (Al-An’am 6:152, at 940); entry-check ok (scratch/rev2-d016-p.json), 45 words."
+}

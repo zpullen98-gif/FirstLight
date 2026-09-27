@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d032-p",
+ "d": 32,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Establish worship at the going down of the sun until the dark of night, and (the recital of) the Qur’an at dawn.",
+ "ref": "Al-Isra 17:78",
+ "at": [
+  2106
+ ],
+ "s": "Turning from those who would drive the Prophet out, the surah gives him the hours of prayer; al-Tabari, on 17:77 to 17:78, takes ‘going down’ as the sun’s leaning past midday, for the noon prayer, and nightfall as the sunset prayer.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "Al-Tabari, Jāmiʿ al-bayān, on 17:77 to 17:78, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 17:77 to 17:78, one comment (packet.js quran 32 --verse 17.78), his two preferences, on dulūk al-shams and on ghasaq al-layl",
+    "via": "packet"
+   }
+  ],
+  "words": "وأولى القولين في ذلك بالصواب قول من قال: عنى بقوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ : صلاة الظهر، وذلك أن الدلوك في كلام العرب: الميل … بإقامتها عند غسق الليل، هي صلاة المغرب دون غيرها، لأن غسق الليل هو ما وصفنا من إقبال الليل وظلامه",
+  "lang": "Arabic",
+  "gloss": "The more correct of the two sayings is that of those who said that by (Establish prayer at the dulūk of the sun) He meant the noon prayer, because dulūk in the speech of the Arabs is leaning. … (the prayer he was commanded) to establish at the ghasaq of the night is the sunset prayer and no other, because the ghasaq of the night is, as we described, the night’s coming on and its darkness.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Isra 17:78, at 2106), the ayah’s first sentence with Pickthall’s parentheses kept, 22 words. Plain sense faithful: 17:76 tells of those who wished to scare the Prophet from the land and drive him forth, 17:77 of God’s unchanging way, and 17:78 to 17:79 give times of worship; no four-word run from the verse. Al-Tabari’s comment covers 17:77 to 17:78 as one seg, so the place is cited as that passage. He reports both readings of dulūk (sunset; the sun’s leaning at midday) with chains and prefers leaning, the noon prayer, arguing from Arab usage that the sun leans once past the zenith; he then prefers the sunset prayer for ghasaq al-layl over the afternoon prayer. He also says the span from dulūk to ghasaq holds the noon and afternoon prayers; the sentence leaves that out but says nothing he does not. Evidence is two verbatim pieces joined by an ellipsis (the recheck splits on it). 41 words; entry-check ok."
+}

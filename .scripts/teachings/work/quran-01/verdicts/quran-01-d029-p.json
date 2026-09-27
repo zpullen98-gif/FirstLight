@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d029-p",
+ "d": 29,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Lo! We, even We, reveal the Reminder, and lo! We verily are its Guardian.",
+ "ref": "Al-Hijr 15:9",
+ "at": [
+  1810
+ ],
+ "s": "Answering those who call the Prophet mad, the surah turns to the revelation itself; Ibn Kathir, on 15:6 to 15:9, takes the Reminder as the Qur’an, guarded by God from alteration and change, and prefers this to taking the Prophet as the one guarded.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 15:6 to 15:9, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/15.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 15:6 to 15:9, one comment on the passage (packet.js quran 29 --verse 15.9), its closing paragraphs on inna nahnu nazzalna al-dhikr",
+    "via": "packet"
+   }
+  ],
+  "words": "ثُمَّ قَرَّرَ تَعَالَى أَنَّهُ هُوَ الَّذِي أَنْزَلَ الذِّكْرَ، وَهُوَ الْقُرْآنُ، وَهُوَ الْحَافِظُ لَهُ مِنَ التَّغْيِيرِ وَالتَّبْدِيلِ. وَمِنْهُمْ مَنْ أَعَادَ الضَّمِيرَ فِي قَوْلِهِ تَعَالَى: ﴿لَهُ لَحَافِظُونَ﴾ عَلَى النَّبِيِّ … وَالْمَعْنَى الْأَوَّلُ أَوْلَى، وَهُوَ ظَاهِرُ السِّيَاقِ",
+  "lang": "Arabic",
+  "gloss": "Then He, exalted, established that it is He who sent down the Reminder, which is the Qur’an, and that He is its guardian against alteration and change. Some referred the pronoun in (We are its Guardian) to the Prophet … but the first meaning is more fitting, and it is the plain sense of the context.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Hijr 15:9, at 1810). Plain sense faithful: 15:6 to 15:7 have the Prophet called a madman and asked for angels, and 15:9 answers with the revelation; no four-word run from the verse. Ibn Kathir’s one comment on 15:6 to 15:9 says God sent down the Reminder, the Qur’an, and guards it from alteration and change, reports that some referred the pronoun to the Prophet (citing God protecting him from people), and holds the first meaning more fitting as the plain sense of the context. The reading is his. Changed only the last clause: the proposal’s “referring the guarding to the Prophet” could be read as the Prophet doing the guarding; it now says the rejected view takes the Prophet as the one guarded. Evidence cut by script from the packet. Entry-check ok on the corrected entry."
+}

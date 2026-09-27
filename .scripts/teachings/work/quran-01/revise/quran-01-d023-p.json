@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d023-p",
+ "d": 23,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Say: In the bounty of Allah and in His mercy: therein let them rejoice. It is better than what they hoard.",
+ "ref": "Yunus 10:58",
+ "at": [
+  1421
+ ],
+ "s": "Just after an exhortation and a balm for the breasts are announced to mankind, the Prophet is told what to say; al-Tabari, on 10:58, reads the bounty as Islam and the mercy as the Qur’an, together worth more than this world’s wealth and treasure.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 10:58, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/10.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 10:58 (packet.js quran 23 --verse 10.58), his own gloss opening the comment (qala Abu Ja’far), before the reports, the reverse view and the reading dispute",
+    "via": "packet"
+   }
+  ],
+  "words": "﴿بفضل الله﴾ ، أيها الناس، الذي تفضل به عليكم، وهو الإسلام، فبيَّنه لكم، ودعاكم إليه = ﴿وبرحمته﴾ ، التي رحمكم بها، فأنزلها إليكم، فعلَّمكم ما لم تكونوا تعلمون من كتابه، وبصَّركم بها معالم دينكم، وذلك القرآن = ﴿فبذلك فليفرحوا هو خير مما يجمعون﴾ ، يقول: فإن الإسلام الذي دعاهم إليه، والقرآن الذي أنزله عليهم، خيرٌ مما يجمعون من حُطَام الدنيا وأموالها وكنوزها",
+  "lang": "Arabic",
+  "gloss": "“In the bounty of God”, O people, with which He has favoured you: that is Islam, which He made plain to you and called you to; “and in His mercy”, with which He had mercy on you and sent down to you, teaching you from His Book what you did not know: that is the Qur’an. “Therein let them rejoice; it is better than what they hoard”: the Islam He called them to and the Qur’an He sent down are better than the debris of this world, its wealth and its treasures, that they amass.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: two subjects (an exhortation and a balm) took the singular is announced. Changed is to are and nothing else. Re-opened day.js: 10:57 addresses mankind (There hath come unto you an exhortation ..., a balm for that which is in the breasts), and 10:58 opens with Say, so the context clause stands. Re-opened packet.js quran 23 --verse 10.58: al-Tabari’s own gloss (qala Abu Ja’far) makes the bounty Islam and the mercy the Qur’an, jointly better than the debris of this world, its wealth and treasures; the evidence words re-found verbatim by machine. verse.js ok (Yunus 10:58, at 1421); entry-check ok, 44 words."
+}

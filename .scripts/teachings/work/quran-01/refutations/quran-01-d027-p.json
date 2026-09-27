@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d027-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/13.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 27 --verse 13.11: in al-Tabari's comment on 13:11, the paragraph on inna Allaha la yughayyiru ma bi-qawmin glosses what God does not change as ʿafiya and niʿma (well-being and favour), removed from them with destruction, until they change it in themselves by wronging and transgressing against one another, and then His punishment falls. The evidence is verbatim there (script check true) and carries the whole paraphrase, including ‘in punishment’ (ʿuqubatuhu); nothing is taken from Pickthall’s ‘(first)’. He reports no rival reading on this clause, so no preference is claimed. Verse: verse.js ok, Ar-Ra’d 13:11 at 1717, begins at a sentence start inside the ayah and is the line the reading concerns. Plain sense: 13:8 to 13:10 are on God’s knowledge of the hidden and the open; no four-word run from the verse; no doctrine. Locator right (13.json, on 13:11). No school, comparison or hard-passage issue. entry-check ok, 43 words.",
+ "better": ""
+}

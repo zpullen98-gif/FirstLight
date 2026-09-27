@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d027-p",
+ "d": 27,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Lo! Allah changeth not the condition of a folk until they (first) change that which is in their hearts; and if Allah willeth misfortune for a folk there is none that can repel it, nor have they a defender beside Him.",
+ "ref": "Ar-Ra'd 13:11",
+ "at": [
+  1717
+ ],
+ "s": "Amid verses on God’s knowledge of the hidden and the open, the surah speaks of a people’s lot; al-Tabari, on 13:11, takes it as the well-being and favour God does not strip away in punishment until they wrong and transgress against one another.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 13:11, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/13.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 13:11 (packet.js quran 27 --verse 13.11), the paragraph on inna Allaha la yughayyiru ma bi-qawmin",
+    "via": "packet"
+   }
+  ],
+  "words": "يقول تعالى ذكره: ﴿إن الله لا يغير ما بقوم﴾ ، من عافية ونعمة، فيزيل ذلك عنهم ويهلكهم= ﴿حتى يغيروا ما بأنفسهم﴾ من ذلك بظلم بعضهم بعضًا، واعتداء بعضهم على بعض، فَتَحلَّ بهم حينئذ عقوبته وتغييره",
+  "lang": "Arabic",
+  "gloss": "He, exalted be His mention, says: God does not change what is with a people, of well-being and favour, removing it from them and destroying them, until they change what is in themselves of that by wronging one another and one transgressing against another; then His punishment and His changing come down on them.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The divine-name problem does not apply: the sentence already writes ‘God’ and has no ‘Allah’ outside the key verse. The source-line problem holds: src opened with ‘Al-Tabari’; now ‘al-Tabari’, the roster display name, as every other al-Tabari entry has it, 104 characters. Nothing else changed. Re-opened packet.js quran 27 --verse 13.11: the evidence is re-found verbatim in al-Tabari on 13:11 (13.json). verse.js ok (Ar-Ra’d 13:11, at 1717); entry-check ok, no warns."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d006-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/3.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 6 --verse 3.31: Ibn Kathir's comment is one seg on 3:31 to 3:32, and the evidence words are in it verbatim (string match in node, true). After his lead point (the ayah judges anyone who claims to love God without following the Prophet), he glosses the promise in his own voice: there comes to them more than they sought in their love for Him, namely His love for them, greater than the first. The sentence carries exactly that, with no drift; the sages' saying and al-Hasan's report come after and are not what is attributed. Locator right (on 3:31 to 3:32, one comment on the passage). The revision only changes Allah's to God's outside quotation, per rule 7. verse.js ok (Al 'Imran 3:31, at 323), the ayah itself, not apparatus. Plain sense against day.js: 3:29 to 3:32 are Say commands, 3:33 names the Family of 'Imran and 3:35 begins its story; 'to mankind' rests on Pickthall's printed parenthesis but attributes nothing to him; 'them' refers back to mankind. No school, comparison or tone issue; the gentler half of his comment is still his own words. entry-check ok, no errors or warns.",
+ "better": ""
+}

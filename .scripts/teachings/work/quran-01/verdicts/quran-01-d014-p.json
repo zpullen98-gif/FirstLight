@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "O ye who believe! Ye have charge of your own souls. He who erreth cannot injure you if ye are rightly guided.",
+ "ref": "Al-Ma'idah 5:105",
+ "at": [
+  773
+ ],
+ "s": "After those content with their fathers’ ways are answered, the believers are addressed; Ibn Kathir, on 5:105, reads it as a charge to mend their own souls, and not as leave to stop enjoining right and forbidding wrong while that remains possible.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 5:105, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/5.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 5:105 (packet.js quran 14 --verse 5.105), the opening paragraph and the sentence before the Ahmad hadith of Abu Bakr",
+    "via": "packet"
+   }
+  ],
+  "words": "يَقُولُ تَعَالَى آمِرًا عِبَادَهُ الْمُؤْمِنِينَ أَنْ يُصْلِحُوا أَنْفُسَهُمْ وَيَفْعَلُوا الْخَيْرَ بِجُهْدِهِمْ وَطَاقَتِهِمْ، وَمُخْبِرًا لَهُمْ أَنَّهُ مَنْ أَصْلَحَ أَمْرَهُ لَا يَضُرُّهُ فَسَادُ مَنْ فَسَدَ مِنَ النَّاسِ، سَوَاءٌ كَانَ قَرِيبًا مِنْهُ أَوْ بَعِيدًا. … وَلَيْسَ فِي الْآيَةِ مسْتَدلٌّ عَلَى تَرْكِ الْأَمْرِ بِالْمَعْرُوفِ وَالنَّهْيِ عَنِ الْمُنْكَرِ، إِذَا كَانَ فِعْلُ ذَلِكَ مُمْكِنًا",
+  "lang": "Arabic",
+  "gloss": "God, exalted, speaks commanding His believing servants to set their own souls right and to do good with all their effort and strength, and telling them that whoever sets his affairs right is not harmed by the corruption of those who are corrupt, whether near him or far … There is nothing in the ayah to argue for giving up the enjoining of right and the forbidding of wrong, when doing so is possible.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Ma’idah 5:105, at 773; the first two sentences of the unit). Plain sense faithful: 5:104 answers those who say their fathers’ ways suffice, and 5:105 turns to the believers; no four-word run from the verse. In the packet on 5:105 Ibn Kathir opens in his own voice: God commands the believers to set their own souls right, and whoever does so is not harmed by another’s corruption; after the grammatical note he states that the ayah gives no ground for leaving off enjoining right and forbidding wrong when that is possible, then brings the Abu Bakr hadith and the reports of Ibn Masʿud and Ibn ʿUmar in support. The sentence carries both halves, with his limit, without drift; the reading is in the Arabic, not the English abridgement. 42 words; entry-check ok."
+}

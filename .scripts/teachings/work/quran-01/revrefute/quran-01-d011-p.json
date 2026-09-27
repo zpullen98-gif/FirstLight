@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d011-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/4.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 11 --verse 4.135 (cites 4.json): al-Tabari in his own voice (qala Abu Ja'far ... 'indi) calls the ayah God's schooling (ta'dib) of the believers against doing what those did who excused the Banu Ubayriq in their theft and testified to their good character before the Prophet, and says no wealth, poverty or kinship should carry a witness to false testimony or concealment; his opening gloss (taqaddum ... fi amr Bani Ubayriq) makes the same tie. Both evidence pieces string-match the packet; the ellipsis elides only the treachery and the testimony to their righteousness, which supports 'false vouching'. al-Suddi's occasion (a rich and a poor litigant) is a reported rival view and is not claimed. verse.js ok (An-Nisa 4:135, at 627, first sentence of the ayah, parentheses kept). day.js: 4:127 to 4:130 are rulings on women and orphans, with 4:131 to 4:134 on God's ownership between, so 'after' is loose but not false; the Ubayriq affair itself stands in the day at 4:109 to 4:112. No four-word run from the key. Locator right; no school, comparison or tone issue. entry-check ok, no warns; src edition wording only changed.",
+ "better": ""
+}

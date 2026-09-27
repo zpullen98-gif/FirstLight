@@ -1,0 +1,438 @@
+{
+ "plan": "quran",
+ "batch": "quran-01",
+ "div": "5a48e62cd7",
+ "days": [
+  {
+   "d": 1,
+   "label": "Al-Fatiha 1:1 to Al-Baqarah 2:78",
+   "id": "quran-01-d001-p",
+   "key": "Thee (alone) we worship; Thee (alone) we ask for help.",
+   "ref": "Al-Fatiha 1:5",
+   "at": [
+    4
+   ],
+   "s": "Midway through the opening surah, the praise of God turns into direct address; al-Tabari, on 1:5, reads the worship as humbling and abasing oneself before Him alone, preferring this to hope and fear because to the Arabs servitude is rooted in lowliness.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 1:5, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 2,
+   "label": "Al-Baqarah 2:79 to 2:139",
+   "id": "quran-01-d002-p",
+   "key": "Unto Allah belong the East and the West, and whithersoever ye turn, there is Allah’s Countenance.",
+   "ref": "Al-Baqarah 2:115",
+   "at": [
+    121
+   ],
+   "s": "Following a warning against barring worshippers from God’s sanctuaries, the surah claims every direction for Him; al-Tabari, on 2:115, reads the naming of East and West as teaching believers that all creatures between them are His and owe Him obedience, facing wherever He directs them.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 2:115, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 3,
+   "label": "Al-Baqarah 2:140 to 2:196",
+   "id": "quran-01-d003-p",
+   "key": "Fight in the way of Allah against those who fight against you, but begin not hostilities. Lo! Allah loveth not aggressors.",
+   "ref": "Al-Baqarah 2:190",
+   "at": [
+    196
+   ],
+   "s": "The verse opens the ayahs that command the believers to fight, slay and drive out those who fight them; al-Tabari, on 2:190, takes the command as unrepealed and reads the forbidden aggression as killing women, children or those who pay tribute.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 2:190, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 4,
+   "label": "Al-Baqarah 2:197 to 2:246",
+   "id": "quran-01-d004-p",
+   "key": "Warfare is ordained for you, though it is hateful unto you; but it may happen that ye hate a thing which is good for you, and it may happen that ye love a thing which is bad for you. Allah knoweth, ye know not.",
+   "ref": "Al-Baqarah 2:216",
+   "at": [
+    222
+   ],
+   "s": "Amid questions put to the Prophet, the believers are told that war is laid on them; al-Tabari, on 2:216, takes the duty as lifted from the rest once enough take it up, since those who stay behind are also promised good.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 2:216, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 5,
+   "label": "Al-Baqarah 2:247 to 2:286",
+   "id": "quran-01-d005-p",
+   "key": "Allah tasketh not a soul beyond its scope.",
+   "ref": "Al-Baqarah 2:286",
+   "at": [
+    292
+   ],
+   "s": "Near the surah’s close, after the warning that hidden thoughts will be reckoned, comes this assurance; al-Tabari, on 2:286, reads it as God never overtaxing a soul in its religion, nor holding it to account for an intention, a whispered suggestion or a passing thought.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 2:286, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 6,
+   "label": "Al 'Imran 3:1 to 3:69",
+   "id": "quran-01-d006-p",
+   "key": "Say, (O Muhammad, to mankind): If ye love Allah, follow me; Allah will love you and forgive you your sins.",
+   "ref": "Al 'Imran 3:31",
+   "at": [
+    323
+   ],
+   "s": "Before the surah turns to the family of ’Imran, the Prophet is told what to say to mankind; Ibn Kathir, on 3:31 to 3:32, reads the promise as giving more than was sought, God’s love for them, greater than their love for Him.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 3:31 to 3:32, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 7,
+   "label": "Al 'Imran 3:70 to 3:142",
+   "id": "quran-01-d007-p",
+   "key": "Ye will not attain unto piety until ye spend of that which ye love.",
+   "ref": "Al 'Imran 3:92",
+   "at": [
+    384
+   ],
+   "s": "After a ransom of gold is refused to those dying in disbelief, the surah turns to giving; al-Tabari, on 3:92, reads the piety as God’s kindness in bringing the believers into His Garden, reached by giving from the wealth they most wish to keep.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 3:92, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 8,
+   "label": "Al 'Imran 3:143 to 3:200",
+   "id": "quran-01-d008-p",
+   "key": "So pardon them and ask forgiveness for them and consult with them upon the conduct of affairs.",
+   "ref": "Al 'Imran 3:159",
+   "at": [
+    451
+   ],
+   "s": "Once those who turned back in battle are forgiven, the Prophet is told how to treat them; al-Tabari, on 3:159, reads the command to consult as winning over those not yet firm in Islam and teaching his community to take counsel together after him.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 3:159, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 9,
+   "label": "An-Nisa 4:1 to 4:50",
+   "id": "quran-01-d009-p",
+   "key": "O mankind! Be careful of your duty to your Lord Who created you from a single soul and from it created its mate and from them twain hath spread abroad a multitude of men and women.",
+   "ref": "An-Nisa 4:1",
+   "at": [
+    493
+   ],
+   "s": "Opening a chapter of laws on orphans, inheritance, marriage and lewdness, the verse addresses all people; al-Tabari, on 4:1, reads it as teaching that all are children of one father and mother, owing each other a brother’s right, the strong giving the weak their due.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 4:1, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 10,
+   "label": "An-Nisa 4:51 to 4:108",
+   "id": "quran-01-d010-p",
+   "key": "Lo! Allah commandeth you that ye restore deposits to their owners, and, if ye judge between mankind, that ye judge justly.",
+   "ref": "An-Nisa 4:58",
+   "at": [
+    550
+   ],
+   "s": "After a curse on those given a portion of the Scripture who favour idolaters, the passage turns to trusts and judgement; al-Tabari, on 4:58, reads it as spoken to rulers, the shepherd charged with his flock as the next verse charges the flock with obedience.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 4:58, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 11,
+   "label": "An-Nisa 4:109 to 4:176",
+   "id": "quran-01-d011-p",
+   "key": "O ye who believe! Be ye staunch in justice, witnesses for Allah, even though it be against yourselves or (your) parents or (your) kindred, whether (the case be of) a rich man or a poor man, for Allah is nearer unto both (them ye are).",
+   "ref": "An-Nisa 4:135",
+   "at": [
+    627
+   ],
+   "s": "After rulings on women and orphans, the believers are charged to bear true witness; al-Tabari, on 4:135, reads it as schooling them against the false vouching given for the Banu Ubayriq over their theft, so that no wealth, poverty or kinship bends a witness.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 4:135, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 12,
+   "label": "Al-Ma'idah 5:1 to 5:46",
+   "id": "quran-01-d012-p",
+   "key": "For that cause We decreed for the Children of Israel that whosoever killeth a human being for other than manslaughter or corruption in the earth, it shall be as if he had killed all mankind, and whoso saveth the life of one, it shall be as if he had saved the life of all mankind.",
+   "ref": "Al-Ma'idah 5:32",
+   "at": [
+    700
+   ],
+   "s": "The tale of Adam’s two sons ends in this decree, before the penalty for waging war on God and His messenger; al-Tabari, on 5:32, reads saving a life as refraining from a killing God forbids, which leaves all people safe from the one who refrains.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 5:32, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 13,
+   "label": "Al-Ma'idah 5:47 to 5:101",
+   "id": "quran-01-d013-p",
+   "key": "O ye who believe! Forbid not the good things which Allah hath made lawful for you, and transgress not, Lo! Allah loveth not transgressors.",
+   "ref": "Al-Ma'idah 5:87",
+   "at": [
+    755
+   ],
+   "s": "As rulings on food, oaths and strong drink begin, the believers are addressed; al-Tabari, on 5:87, takes ‘transgress not’ to bar any overstepping of God’s bounds, the companions who resolved to forbid themselves what He allowed being reproached for just that.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 5:87, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 14,
+   "label": "Al-Ma'idah 5:102 to Al-An'am 6:44",
+   "id": "quran-01-d014-p",
+   "key": "O ye who believe! Ye have charge of your own souls. He who erreth cannot injure you if ye are rightly guided.",
+   "ref": "Al-Ma'idah 5:105",
+   "at": [
+    773
+   ],
+   "s": "After those content with their fathers’ ways are answered, the believers are addressed; Ibn Kathir, on 5:105, reads it as a charge to mend their own souls, and not as leave to stop enjoining right and forbidding wrong while that remains possible.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 5:105, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 15,
+   "label": "Al-An'am 6:45 to 6:108",
+   "id": "quran-01-d015-p",
+   "key": "Revile not those unto whom they pray beside Allah lest they wrongfully revile Allah through ignorance.",
+   "ref": "Al-An'am 6:108",
+   "at": [
+    896
+   ],
+   "s": "After the Prophet is told he is no keeper over the idolaters, the believers are addressed; Ibn Kathir, on 6:108, reads it as a benefit given up for fear of a greater harm, since reviling the idolaters’ gods brings God reviled in return.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 6:108, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 16,
+   "label": "Al-An'am 6:109 to 6:165",
+   "id": "quran-01-d016-p",
+   "key": "Give full measure and full weight, in justice. We task not any soul beyond its scope.",
+   "ref": "Al-An'am 6:152",
+   "at": [
+    940
+   ],
+   "s": "Among the sacred duties the Prophet is told to recite, the rule of fair trade follows the one on the orphan’s wealth; al-Tabari, on 6:152, reads ‘beyond its scope’ as asking no payer for more than the due, and no payee to settle for less.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 6:152, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 17,
+   "label": "Al-A'raf 7:1 to 7:69",
+   "id": "quran-01-d017-p",
+   "key": "O Children of Adam! We have revealed unto you raiment to conceal your shame, and splendid vesture, but the raiment of restraint from evil, that is best.",
+   "ref": "Al-A'raf 7:26",
+   "at": [
+    979
+   ],
+   "s": "After Adam and his wife leave the Garden, their shame laid bare, the surah turns to his children; al-Tabari, on 7:26, reads the ‘raiment of restraint’ as the fear of God worn next to the soul, gathering faith, good works, modesty and awe.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 7:26, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 18,
+   "label": "Al-A'raf 7:70 to 7:145",
+   "id": "quran-01-d018-p",
+   "key": "And when he woke he said: Glory unto Thee! I turn unto Thee repentant, and I am the first of (true) believers.",
+   "ref": "Al-A'raf 7:143",
+   "at": [
+    1096
+   ],
+   "s": "Moses, after asking to gaze upon his Lord, falls senseless as the mountain is levelled; al-Tabari, on 7:143, reads his repentance as turning from that request, and takes him as first of his people to believe none sees Him in this world and lives.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 7:143, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 19,
+   "label": "Al-A'raf 7:146 to 7:206",
+   "id": "quran-01-d019-p",
+   "key": "And do thou (O Muhammad) remember thy Lord within thyself humbly and with awe, below thy breath, at morn and evening. And be not thou of the neglectful.",
+   "ref": "Al-A'raf 7:205",
+   "at": [
+    1158
+   ],
+   "s": "After the command to heed the recited Qur’an, the chapter’s closing verses turn to private devotion; Ibn Kathir, on 7:205 to 7:206, reads it as urging much remembrance at the day’s start and end, a Meccan command older than the five daily prayers.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 7:205 to 7:206, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 20,
+   "label": "Surah 8, Al-Anfal",
+   "id": "quran-01-d020-p",
+   "key": "And if they incline to peace, incline thou also to it, and trust in Allah. Lo! He, even He, is the Hearer, the Knower.",
+   "ref": "Al-Anfal 8:61",
+   "at": [
+    1220
+   ],
+   "s": "Following the command to muster force against the enemy, the Prophet is told how to answer an offer of truce; al-Tabari, on 8:61, takes it as unrepealed, as concerning a people of Scripture, allowed peace for tribute, whereas At-Tawbah’s order to slay means Arab idol-worshippers.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 8:61, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 21,
+   "label": "At-Tawbah 9:1 to 9:67",
+   "id": "quran-01-d021-p",
+   "key": "And if anyone of the idolaters seeketh thy protection (O Muhammad), then protect him so that he may hear the Word of Allah, and afterward convey him to his place of safety. That is because they are a folk who know not.",
+   "ref": "At-Tawbah 9:6",
+   "at": [
+    1240
+   ],
+   "s": "After the order to slay the idolaters, the Prophet is told what to do when one of them asks for protection; al-Tabari, on 9:6, reads it as safety while he hears the Qur’an and, if he refuses Islam, safe passage home to his people.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 9:6, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 22,
+   "label": "At-Tawbah 9:68 to 9:129",
+   "id": "quran-01-d022-p",
+   "key": "And the believers should not all go out to fight. Of every troop of them, a party only should go forth, that they (who are left behind) may gain sound knowledge in religion, and that they may warn their folk when they return to them, so that they may beware.",
+   "ref": "At-Tawbah 9:122",
+   "at": [
+    1356
+   ],
+   "s": "In a chapter that commands fighting and condemns staying behind, the believers learn who must march; al-Tabari, on 9:122, takes the understanding as gained by the party that marches, not by those who stay, from seeing God’s victory for the believers.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 9:122, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 23,
+   "label": "Yunus 10:1 to 10:72",
+   "id": "quran-01-d023-p",
+   "key": "Say: In the bounty of Allah and in His mercy: therein let them rejoice. It is better than what they hoard.",
+   "ref": "Yunus 10:58",
+   "at": [
+    1421
+   ],
+   "s": "Just after an exhortation and a balm for the breasts are announced to mankind, the Prophet is told what to say; al-Tabari, on 10:58, reads the bounty as Islam and the mercy as the Qur’an, together worth more than this world’s wealth and treasure.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 10:58, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 24,
+   "label": "Yunus 10:73 to Hud 11:43",
+   "id": "quran-01-d024-p",
+   "key": "When they believed We drew off from them the torment of disgrace in the life of the world and gave them comfort for a while.",
+   "ref": "Yunus 10:98",
+   "at": [
+    1461
+   ],
+   "s": "After Pharaoh’s belief while drowning is rebuked, the chapter singles out the folk of Jonah; al-Tabari, on 10:98, takes them as the one people whose faith availed them after the punishment had come down, as Pharaoh’s did not, spared to live out their term.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 10:98, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 25,
+   "label": "Hud 11:44 to 11:123",
+   "id": "quran-01-d025-p",
+   "key": "He said: O Noah! Lo! he is not of thy household; lo! he is of evil conduct, so ask not of Me that whereof thou hast no knowledge.",
+   "ref": "Hud 11:46",
+   "at": [
+    1518
+   ],
+   "s": "After the flood subsides, Noah pleads that his drowned son belonged to his household; al-Tabari, on 11:46, takes the son as truly his, yet not of the household promised rescue, since he opposed Noah’s religion, and reads the ‘evil conduct’ as that very plea.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 11:46, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 26,
+   "label": "Yusuf 12:1 to 12:69",
+   "id": "quran-01-d026-p",
+   "key": "I do not exculpate myself. Lo! the (human) soul enjoineth unto evil, save that whereon my Lord hath mercy.",
+   "ref": "Yusuf 12:53",
+   "at": [
+    1648
+   ],
+   "s": "Joseph is cleared when the ruler’s wife confesses before the king; Ibn Kathir, on 12:50 to 12:53, reads it as her words, confessing the desire behind her advances, since Joseph was not yet present, and al-Tabari, on 12:53, as Joseph’s own, admitting that souls urge what they desire unless his Lord has mercy.",
+   "by": "ibn-kathir",
+   "by2": "tabari",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 12:50 to 12:53, and al-Tabari, Jāmiʿ al-bayān, on 12:53, Tarteel QUL Arabic texts, commit 9ae590a (2026)"
+  },
+  {
+   "d": 27,
+   "label": "Yusuf 12:70 to Ar-Ra'd 13:26",
+   "id": "quran-01-d027-p",
+   "key": "Lo! Allah changeth not the condition of a folk until they (first) change that which is in their hearts; and if Allah willeth misfortune for a folk there is none that can repel it, nor have they a defender beside Him.",
+   "ref": "Ar-Ra'd 13:11",
+   "at": [
+    1717
+   ],
+   "s": "Amid verses on God’s knowledge of the hidden and the open, the surah speaks of a people’s lot; al-Tabari, on 13:11, takes it as the well-being and favour God does not strip away in punishment until they wrong and transgress against one another.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 13:11, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 28,
+   "label": "Ar-Ra'd 13:27 to Ibrahim 14:52",
+   "id": "quran-01-d028-p",
+   "key": "Verily in the remembrance of Allah do hearts find rest!",
+   "ref": "Ar-Ra'd 13:28",
+   "at": [
+    1734
+   ],
+   "s": "Answering the call for a sign, the surah describes those God guides; Ibn Kathir, on 13:27 to 13:29, takes such rest as hearts leaning towards God, content with Him as protector and helper, and this line as saying He is worthy of it.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 13:27 to 13:29, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 29,
+   "label": "Al-Hijr 15:1 to An-Nahl 16:43",
+   "id": "quran-01-d029-p",
+   "key": "Lo! We, even We, reveal the Reminder, and lo! We verily are its Guardian.",
+   "ref": "Al-Hijr 15:9",
+   "at": [
+    1810
+   ],
+   "s": "Answering those who call the Prophet mad, the surah turns to the revelation itself; Ibn Kathir, on 15:6 to 15:9, takes the Reminder as the Qur’an, guarded by God from alteration and change, and prefers this to taking the Prophet as the one guarded.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 15:6 to 15:9, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 30,
+   "label": "An-Nahl 16:44 to 16:128",
+   "id": "quran-01-d030-p",
+   "key": "Whosoever doeth right, whether male or female, and is a believer, him verily we shall quicken with good life, and We shall pay them a recompense in proportion to the best of what they used to do.",
+   "ref": "An-Nahl 16:97",
+   "at": [
+    1997
+   ],
+   "s": "After warning against trading God’s covenant for small gain, the surah turns to reward; al-Tabari, on 16:97, takes the good life as contentment, the reading he prefers among several, since one made content with his portion is not troubled chasing what escapes him.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 16:97, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 31,
+   "label": "Al-Isra 17:1 to 17:74",
+   "id": "quran-01-d031-p",
+   "key": "Glorified be He Who carried His servant by night from the Inviolable Place of Worship to the Far distant place of worship the neighbourhood whereof We have blessed, that We might show him of Our tokens!",
+   "ref": "Al-Isra 17:1",
+   "at": [
+    2029
+   ],
+   "s": "Al-Isra opens by glorifying God for a journey by night; al-Tabari, on 17:1, takes it as bodily, not of the spirit alone, since a journey like a dream would be no sign of prophethood, nor anything its deniers would have disputed.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 17:1, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 32,
+   "label": "Al-Isra 17:75 to Al-Kahf 18:32",
+   "id": "quran-01-d032-p",
+   "key": "Establish worship at the going down of the sun until the dark of night, and (the recital of) the Qur’an at dawn.",
+   "ref": "Al-Isra 17:78",
+   "at": [
+    2106
+   ],
+   "s": "Turning from those who would drive the Prophet out, the surah gives him the hours of prayer; al-Tabari, on 17:78, takes ‘going down’ as the sun’s leaning past midday, for the noon prayer, and nightfall as the sunset prayer.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 17:78, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 33,
+   "label": "Al-Kahf 18:33 to 18:110",
+   "id": "quran-01-d033-p",
+   "key": "Wealth and children are an ornament of the life of the world. But the good deeds which endure are better in thy Lord’s sight for reward, and better in respect of hope.",
+   "ref": "Al-Kahf 18:46",
+   "at": [
+    2185
+   ],
+   "s": "After the ruined garden and the likeness of plants dried to twigs, the ayah weighs passing goods against lasting ones; al-Tabari, on 18:46, takes the enduring deeds as all good works, not only the five prayers or words of praise, since God singled none out.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 18:46, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  }
+ ],
+ "holes": []
+}

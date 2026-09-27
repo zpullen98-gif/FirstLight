@@ -80,13 +80,14 @@
   },
   "quran": {
    "batches": [
-    "quran-02"
+    "quran-02",
+    "quran-01"
    ],
-   "days": 33,
+   "days": 66,
    "of": 66,
    "by": {
-    "tabari": 24,
-    "ibn-kathir": 6,
+    "tabari": 50,
+    "ibn-kathir": 13,
     "jalalayn": 1,
     "qurtubi": 2
    },

@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d014-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/5.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 14 --verse 5.105 (Ibn Kathir, Arabic). Both evidence pieces string-match his own voice: the opening sentence (God commanding His believing servants to set themselves right and do good, the corrupt not harming whoever sets his affairs right) and, after the grammatical note on al-ighra, the sentence that the ayah gives no argument for leaving off enjoining right and forbidding wrong when that is possible, just before the Ahmad hadith of Abu Bakr; the locator is exact. The paraphrase (a charge to mend their own souls, not leave to stop enjoining right while possible) is carried without drift and keeps his limit. Plain sense checked in day.js: 5:104 answers those who say their fathers’ ways suffice (‘What! Even though their fathers had no knowledge’), then 5:105 turns to the believers. verse.js ok (Al-Ma’idah 5:105, at 773, three whole sentences in one unit); entry-check ok. No school, comparison or tone issue; evidence excerpt avoids the forbidden sign.",
+ "better": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Say, (O Muhammad, to mankind): If ye love Allah, follow me; Allah will love you and forgive you your sins.",
+ "ref": "Al 'Imran 3:31",
+ "at": [
+  323
+ ],
+ "s": "Before the surah turns to the family of ’Imran, the Prophet is told what to say to mankind; Ibn Kathir, on 3:31 to 3:32, reads the promise as giving more than was sought, Allah’s love for them, greater than their love for Him.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 3:31 to 3:32, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/3.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 3:31 to 3:32 (packet.js quran 6 --verse 3.31), one comment on the passage, first paragraph",
+    "via": "packet"
+   }
+  ],
+  "words": "وَلِهَذَا قَالَ: ﴿قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ﴾ أَيْ: يَحْصُلُ لَكُمْ فَوْقَ مَا طَلَبْتُمْ مِنْ مَحَبَّتِكُمْ إِيَّاهُ، وَهُوَ مَحَبَّتُهُ إِيَّاكُمْ، وَهُوَ أَعْظَمُ مِنَ الْأَوَّلِ",
+  "lang": "Arabic",
+  "gloss": "For this reason He said: ‘Say: If you love God, follow me; God will love you’; that is, there comes to you something above what you sought in your love for Him, namely His love for you, and this is greater than the first.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al 'Imran 3:31, at 323). Plain sense faithful: 3:29 to 3:32 are sayings the Prophet is told to deliver, and 3:33 then turns to the Family of ’Imran, whose story follows from 3:35; no four-word run from the verse. Ibn Kathir comments on 3:31 to 3:32 as one passage; his lead point is that the ayah judges anyone who claims to love God without following the Prophet, and he then glosses the promise itself: there comes to them more than they sought, His love for them, which is greater than the first. The sentence carries exactly that gloss, at the right place, without drift. The proposer’s basis differs from the packet in the order of shadda and fatha in one word, so the evidence here is recopied from the packet characters. al-Qurtubi and the Jalalayn on 3:31 (occasion and lexicon; the Jalalayn glosses the love as reward) do not contradict it. 43 words; entry-check ok."
+}

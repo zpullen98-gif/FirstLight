@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d002-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 2 --verse 2.115: after reporting the several views on why East and West are named (the qibla change and the Jews’ objection, prayer in any direction before the Kaʿba was prescribed, voluntary prayer on a mount, a dark night with the qibla unknown, the Negus), al-Tabari gives his own view with wa-l-sawab min al-qawl fi dhalika, verbatim as in the evidence: God singled out East and West to inform His believing servants that He owns them and the creatures between them, and that all of these owe Him obedience in command, prohibition, duties and turning toward the direction to which they are turned; his following maʿna al-aya idhan restates it. So this is his stated preference, not a reported view, and the paraphrase does not go beyond it (it leaves aside his separate abrogation and wajh discussions). ‘Facing wherever He directs them’ is a fair rendering of al-tawajjuh nahwa al-wajh alladhi wujjihu ilayhi. Verse: verse.js ok, Al-Baqarah 2:115 at 121, stops before ‘Lo!’, the right line. Plain sense: 2:114 condemns barring the approach to Allah’s sanctuaries and 2:115 follows; ‘claims every direction for Him’ edges toward restating the verse but is no four-word run and adds nothing the text lacks. No hard passage, no comparison, no school. entry-check ok, 45 words.",
+ "better": ""
+}

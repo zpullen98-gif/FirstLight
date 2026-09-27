@@ -1,0 +1,266 @@
+{
+ "quran-01-d001-p": {
+  "d": 1,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/1.json"
+ },
+ "quran-01-d002-p": {
+  "d": 2,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json"
+ },
+ "quran-01-d003-p": {
+  "d": 3,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json"
+ },
+ "quran-01-d004-p": {
+  "d": 4,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json"
+ },
+ "quran-01-d005-p": {
+  "d": 5,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json"
+ },
+ "quran-01-d006-p": {
+  "d": 6,
+  "who": "ibn-kathir",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/3.json"
+ },
+ "quran-01-d007-p": {
+  "d": 7,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/3.json"
+ },
+ "quran-01-d008-p": {
+  "d": 8,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/3.json"
+ },
+ "quran-01-d009-p": {
+  "d": 9,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/4.json"
+ },
+ "quran-01-d010-p": {
+  "d": 10,
+  "who": "tabari",
+  "afterRefutation": true,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/4.json"
+ },
+ "quran-01-d011-p": {
+  "d": 11,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/4.json"
+ },
+ "quran-01-d012-p": {
+  "d": 12,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/5.json"
+ },
+ "quran-01-d013-p": {
+  "d": 13,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/5.json"
+ },
+ "quran-01-d014-p": {
+  "d": 14,
+  "who": "ibn-kathir",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/5.json"
+ },
+ "quran-01-d015-p": {
+  "d": 15,
+  "who": "ibn-kathir",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/6.json"
+ },
+ "quran-01-d016-p": {
+  "d": 16,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/6.json"
+ },
+ "quran-01-d017-p": {
+  "d": 17,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/7.json"
+ },
+ "quran-01-d018-p": {
+  "d": 18,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/7.json"
+ },
+ "quran-01-d019-p": {
+  "d": 19,
+  "who": "ibn-kathir",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/7.json"
+ },
+ "quran-01-d020-p": {
+  "d": 20,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/8.json"
+ },
+ "quran-01-d021-p": {
+  "d": 21,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/9.json"
+ },
+ "quran-01-d022-p": {
+  "d": 22,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/9.json"
+ },
+ "quran-01-d023-p": {
+  "d": 23,
+  "who": "tabari",
+  "afterRefutation": true,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/10.json"
+ },
+ "quran-01-d024-p": {
+  "d": 24,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/10.json"
+ },
+ "quran-01-d025-p": {
+  "d": 25,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/11.json"
+ },
+ "quran-01-d026-p": {
+  "d": 26,
+  "who": "ibn-kathir",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/12.json"
+ },
+ "quran-01-d027-p": {
+  "d": 27,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/13.json"
+ },
+ "quran-01-d028-p": {
+  "d": 28,
+  "who": "ibn-kathir",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/13.json"
+ },
+ "quran-01-d029-p": {
+  "d": 29,
+  "who": "ibn-kathir",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/15.json"
+ },
+ "quran-01-d030-p": {
+  "d": 30,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/16.json"
+ },
+ "quran-01-d031-p": {
+  "d": 31,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json"
+ },
+ "quran-01-d032-p": {
+  "d": 32,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json"
+ },
+ "quran-01-d033-p": {
+  "d": 33,
+  "who": "tabari",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/18.json"
+ }
+}

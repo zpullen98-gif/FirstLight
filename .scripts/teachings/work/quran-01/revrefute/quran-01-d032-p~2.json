@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d032-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 32 --verse 17.78. Inside the seg labelled 17:77 to 17:78 al-Tabari opens his own heading for 17:78 (the 17:77 heading is on God’s way with nations that expel their messengers), so ‘on 17:78’ is the right place. He reports dulūk as sunset and as the noon leaning, and says wa-awla al-qawlayn bi-l-sawab that it means the noon prayer, dulūk being mayl, the sun past the zenith having leaned towards setting; on ghasaq al-layl he reports Maghrib and ʿAsr and prefers Maghrib alone, ghasaq being the night’s coming on and its darkness, which comes only after sunset. All three evidence pieces found under the recheck normalisation. The sentence claims less than he says (he also puts ʿAsr in the span from dulūk to ghasaq) but nothing more; ‘nightfall as the sunset prayer’ compresses his view that the prayer at ghasaq is Maghrib, parallel to the first clause. Plain sense faithful: 17:76 those who would drive him forth, 17:77 the unchanging way, 17:78 to 17:79 the times of worship addressed to the Prophet. verse.js ok (Al-Isra 17:78, at 2106); entry-check.js ok, no errors or warns.",
+ "better": ""
+}

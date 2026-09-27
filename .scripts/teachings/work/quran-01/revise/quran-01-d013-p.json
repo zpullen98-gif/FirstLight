@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "O ye who believe! Forbid not the good things which Allah hath made lawful for you, and transgress not, Lo! Allah loveth not transgressors.",
+ "ref": "Al-Ma'idah 5:87",
+ "at": [
+  755
+ ],
+ "s": "As rulings on food, oaths and strong drink begin, the believers are addressed; al-Tabari, on 5:87, takes ‘transgress not’ to bar any overstepping of God’s bounds, the companions who resolved to forbid themselves what He allowed being reproached for just that.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 5:87, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/5.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 5:87 (packet.js quran 13 --verse 5.87; the seg is labelled 5:86 to 5:87 but carries its own heading for 5:87), Abu Jaʿfar’s closing paragraphs after the reports on the meaning of الاعتداء",
+    "via": "packet"
+   }
+  ],
+  "words": "وكان الله تعالى ذكره قد عمَّ بقوله:\"لا تعتدوا\"، النهيَ عن العدوان كُلّه … وليس لأحدٍ أن يتعدَّى حدَّ الله تعالى في شي من الأشياء مما أحلَّ أو حرَّم … وذلك أن الذين همُّوا بما همُّوا به من تحريم بعض ما أحلَّ لهم على أنفسهم، إنما عوتبوا على ما همُّوا به من تجاوزهم ما سَنَّ لهم وحدَّ، إلى غيره.",
+  "lang": "Arabic",
+  "gloss": "God, exalted be His mention, made general with His words ‘transgress not’ the prohibition of all transgression … and no one may overstep God’s bound in anything He has made lawful or forbidden … For those who resolved as they did to forbid themselves some of what was made lawful for them were reproached only for resolving to pass beyond what had been laid down and bounded for them, to something else.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The rule 9 problem holds for this entry: its src named the edition as ‘Tarteel QUL text’, dropping ‘Arabic’. Corrected to ‘the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)’, as the fix gives; nothing else changed. The divine-name problem does not apply: the sentence already writes ‘God’ and has no ‘Allah’ outside the key. Re-opened packet.js quran 13 --verse 5.87 and re-found all three evidence pieces in the source (copied again from the packet’s own bytes, whose shadda precedes the vowel): al-Tabari makes ‘la taʿtadu’ general, no one may overstep God’s bound in what He made lawful or forbidden, and the would-be self-deniers were reproached only for passing beyond what was laid down. Commentator and reading kept. verse.js ok (Al-Ma’idah 5:87, at 755); entry-check ok."
+}

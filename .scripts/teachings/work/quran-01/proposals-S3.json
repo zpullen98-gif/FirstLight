@@ -1,0 +1,77 @@
+{
+ "lane": "S3",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 12,
+   "primary": {
+    "id": "quran-01-d012-p",
+    "key": "For that cause We decreed for the Children of Israel that whosoever killeth a human being for other than manslaughter or corruption in the earth, it shall be as if he had killed all mankind, and whoso saveth the life of one, it shall be as if he had saved the life of all mankind.",
+    "ref": "Al-Ma'idah 5:32",
+    "at": [700],
+    "s": "The tale of Adam’s two sons ends in this decree, before the penalty for waging war on Allah and His messenger; al-Tabari, on 5:32, reads saving a life as refraining from a killing Allah forbids, which leaves all people safe from the one who refrains.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 5:32, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فأولى التأويلات به، قول من قال: من حرّم قتل من حرّم الله عز ذكره قتله على نفسه، فلم يتقدّم على قتله، فقد حيى الناس منه بسلامتهم منه، وذلك إحياؤه إياها",
+     "gloss": "The likeliest of the readings of it is the saying of those who said: whoever forbids himself the killing of one whom God, exalted be His mention, has forbidden to be killed, and does not go on to kill him, the people have life from him through their safety from him, and that is his giving it life. (He prefers this over the other reports he lists, on the ground that no single life equals all lives in immediate harm or benefit.)"
+    }
+   },
+   "standby": {
+    "id": "quran-01-d012-s",
+    "key": "O ye who believe! Be steadfast witnesses for Allah in equity, and let not hatred of any people seduce you that ye deal not justly. Deal justly, that is nearer to your duty.",
+    "ref": "Al-Ma'idah 5:8",
+    "at": [676],
+    "s": "Recalling the believers’ pledge to hear and obey, the chapter turns to their dealings with those they hate; al-Qurtubi, on 5:8 to 5:10, takes it that unbelief does not lift the duty of justice toward the disbeliever, and that mutilation stays barred even in war.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 5:8 to 5:10, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَدَلَّتِ الْآيَةُ أَيْضًا عَلَى أَنَّ كُفْرَ الْكَافِرِ لَا يَمْنَعُ مِنَ الْعَدْلِ عَلَيْهِ، وَأَنْ يُقْتَصَرَ بِهِمْ عَلَى الْمُسْتَحَقِّ مِنَ الْقِتَالِ وَالِاسْتِرْقَاقِ، وَأَنَّ الْمُثْلَةَ بِهِمْ غَيْرُ جَائِزَةٍ وَإِنْ قَتَلُوا نِسَاءَنَا وَأَطْفَالَنَا",
+     "gloss": "The verse also indicates that the unbeliever’s unbelief does not bar justice toward him, that they are to be dealt with only as far as is due in fighting and captivity, and that mutilating them is not permitted, even if they have killed our women and children."
+    }
+   }
+  },
+  {
+   "d": 20,
+   "primary": {
+    "id": "quran-01-d020-p",
+    "key": "And if they incline to peace, incline thou also to it, and trust in Allah. Lo! He, even He, is the Hearer, the Knower.",
+    "ref": "Al-Anfal 8:61",
+    "at": [1220],
+    "s": "Following the command to muster force against the enemy, the Prophet is told how to answer an offer of truce; al-Tabari, on 8:61, takes it as still in force, not cancelled by the order to slay in At-Tawbah, the two concerning different peoples.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 8:61, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فأما ما قاله قتادة ومن قال مثل قوله، من أن هذه الآية منسوخة، فقولٌ لا دلالة عليه من كتاب ولا سنة ولا فطرة عقل … فليس في إحدى الآيتين نفي حكم الأخرى، بل كل واحدة منهما محكمة فيما أنزلت فيه",
+     "gloss": "As for what Qatada and those who said as he did say, that this verse is abrogated, it is a saying with no evidence for it from Scripture, Sunna or sound reason … so neither of the two verses negates the ruling of the other; rather each of them stands in force for what it was revealed about. (Between these he says the verse on peace was meant for Qurayza, a people of Scripture with whom a settlement on tribute was permitted, and the verse in Bara’a on slaying the idolaters for the idol-worshipping Arabs, from whom tribute may not be accepted.)"
+    }
+   },
+   "standby": {
+    "id": "quran-01-d020-s",
+    "key": "And if thou fearest treachery from any folk, then throw back to them (their treaty) fairly. Lo! Allah loveth not the treacherous.",
+    "ref": "Al-Anfal 8:58",
+    "at": [1217],
+    "s": "After the order to make an example of treaty-breakers in war comes the rule for ending a pact; Ibn Kathir, on 8:58, reads ‘fairly’ as notice that the pact is ended, so both sides know alike, since Allah loves no treachery, even toward disbelievers.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 8:58, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "أَعْلِمْهُمْ بِأَنَّكَ قَدْ نَقَضْتَ عَهْدَهُمْ حَتَّى يَبْقَى عِلْمُكَ وَعِلْمُهُمْ بِأَنَّكَ حَرْبٌ لَهُمْ، وَهُمْ حَرْبٌ لَكَ … إِنَّ اللَّهَ لَا يُحِبُّ الْخَائِنِينَ﴾ أَيْ: حَتَّى وَلَوْ في حق الكفارين، لَا يُحِبُّهَا أَيْضًا",
+     "gloss": "Inform them that you have ended their treaty, so that your knowledge and theirs stand alike that you are at war with them and they with you … ‘Allah loveth not the treacherous’: that is, even in the case of the disbelievers He does not love it (treachery) either."
+    }
+   }
+  }
+ ]
+}

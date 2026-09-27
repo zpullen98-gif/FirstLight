@@ -1,0 +1,29 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 20,
+   "id": "quran-01-d020-p",
+   "problem": "Rule 6 and prose: on a hard ayah the reading ends on ‘the two concerning different peoples’, an image left without its point. In the packet on 8:61 al-Tabari sets the limit himself: the truce verse concerns the Banu Qurayza, a people of Scripture with whom peace on terms of tribute is permitted, while the order to slay in 9:5 means only the Arab idol-worshippers, from whom tribute may not be accepted. The sentence drops exactly that limit, so the reader cannot tell which peoples or why.",
+   "fix": "Carry his limit in his own terms, e.g. “Following the command to muster force against the enemy, the Prophet is told how to answer an offer of truce; al-Tabari, on 8:61, takes it as unrepealed by At-Tawbah’s order to slay, which he confines to the Arab idol-worshippers, this verse concerning a people of Scripture.” (41 words; re-run entry-check.js.)"
+  },
+  {
+   "d": 0,
+   "id": "",
+   "problem": "The divine name is inconsistent across the batch outside quotation. Days 1, 2, 5, 6, 7 and 12 write ‘Allah’ in their own prose (‘the praise of Allah’, ‘Allah’s sanctuaries’, ‘Allah never overtaxing’, ‘Allah’s love’, ‘Allah’s kindness’, ‘waging war on Allah’, ‘a killing Allah forbids’), while days 13, 15, 17, 18, 22, 27 to 31 and 33 write ‘God’. Rule 7 keeps the translation’s form (‘Allah’) for quotation and ‘God’ otherwise, so a reader meets both names on consecutive mornings.",
+   "fix": "Write ‘God’ wherever the sentence is not quoting the key verse, in quran-01-d001-p, d002-p, d005-p, d006-p, d007-p and d012-p (word counts unchanged); re-run entry-check.js on each."
+  },
+  {
+   "d": 23,
+   "id": "quran-01-d023-p",
+   "problem": "Grammar: ‘Just after an exhortation and a balm for the breasts is announced to mankind’ puts two subjects with a singular verb, which trips the reader in the first clause.",
+   "fix": "Change ‘is announced’ to ‘are announced’ (or ‘Just after mankind is offered an exhortation and a balm for the breasts’); re-run entry-check.js."
+  },
+  {
+   "d": 0,
+   "id": "",
+   "problem": "Rule 9 source lines are not in one form: days 27, 30, 31 and 32 open with ‘Al-Tabari’ where the roster display name and days 1 to 26 have ‘al-Tabari’; and days 11, 13, 14, 15, 16 and 17 name the edition as ‘Tarteel QUL text’, dropping ‘Arabic’ that the roster’s source and the other entries carry.",
+   "fix": "Open those src lines with ‘al-Tabari’ and name the edition as ‘the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)’ throughout, keeping each within 160 characters."
+  }
+ ]
+}

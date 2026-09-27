@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d024-p",
+ "d": 24,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When they believed We drew off from them the torment of disgrace in the life of the world and gave them comfort for a while.",
+ "ref": "Yunus 10:98",
+ "at": [
+  1461
+ ],
+ "s": "After Pharaoh’s belief while drowning is rebuked, the chapter singles out the folk of Jonah; al-Tabari, on 10:98, takes them as the one people whose faith availed them after the punishment had come down, as Pharaoh’s did not, spared to live out their term.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 10:98, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/10.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 10:98 (packet.js quran 24 --verse 10.98): the ma‘na al-kalam paragraph, the sentence on the exception of the folk of Jonah, and the gloss on wa-mattaʿnahum ila hin",
+    "via": "packet"
+   }
+  ],
+  "words": "ومعنى الكلام: فما كانت قرية آمنت عند معاينتها العذاب، ونزول سَخَط الله بها، بعصيانها ربها واستحقاقها عقابه، فنفعها إيمانها ذلك في ذلك الوقت، كما لم ينفع فرعون إيمانه حين أدركه الغرق بعد تماديه في غيّه، واستحقاقه سَخَط الله بمعصيته = إلا قوم يونس، فإنهم نفعهم إيمانهم بعد نزول العقوبة وحلول السخط بهم … وأخبر خلقه أنه نفعهم أيمانهم خاصة من بين سائر الأمم غيرهم … ﴿ومتعناهم إلى حين﴾ ، يقول: وأخَّرنا في آجالهم ولم نعاجلهم بالعقوبة، وتركناهم في الدنيا يستمتعون فيها بآجالهم إلى حين مماتهم",
+  "lang": "Arabic",
+  "gloss": "The sense of the passage is: no town that believed on seeing the punishment face to face, as God’s wrath came down on it for disobeying its Lord and deserving His penalty, was profited by that faith at that time, just as Pharaoh’s faith did not profit him when drowning overtook him after persisting in his error, except the folk of Jonah: their faith profited them after the punishment had come down and the wrath had fallen on them … He told His creatures that their faith profited them alone among all the other nations … ‘and gave them comfort for a while’: We deferred their terms, did not hasten punishment on them, and left them in the world to enjoy their lifespans until their death.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Yunus 10:98, at 1461; the second sentence of the ayah, 25 words). Plain sense faithful to day.js: 10:90 to 10:92 has Pharaoh believe as he drowns and be answered What! Now!, and 10:98 then names the folk of Jonah as the community whose belief profited it; the clause takes no four-word run from the key. Read al-Tabari’s whole comment on 10:98 in the packet (also glanced at Ibn Kathir, al-Qurtubi and the Jalalayn on the ayah): he glosses fa-lawla as a denial, says no town that believed on seeing the punishment was profited, as Pharaoh’s faith did not profit him, except the folk of Jonah, whose faith profited them after the punishment had come down, singled out from all other nations; and glosses the comfort as deferral of their terms until death. Every clause of the reading is his, no drift, nothing from Pickthall’s parentheses. Evidence pieces re-found by squashed match in the day’s packet. 44 words; entry-check ok."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Allah tasketh not a soul beyond its scope.",
+ "ref": "Al-Baqarah 2:286",
+ "at": [
+  292
+ ],
+ "s": "Near the surah’s close, after the warning that hidden thoughts will be reckoned, comes this assurance; al-Tabari, on 2:286, reads it as God never overtaxing a soul in its religion, nor holding it to account for an intention, a whispered suggestion or a passing thought.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 2:286, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL Arabic text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 2:286 (packet.js quran 5 --verse 2.286), the gloss on la yukallifu Allahu nafsan illa wusʿaha and his summary fa-taʾwil al-aya idhan after the reports and the gloss on laha ma kasabat",
+    "via": "packet"
+   }
+  ],
+  "words": "يعني بذلك جل ثناؤه: لا يكلف الله نفسا فيتعبدها إلا بما يسعها، فلا يضيق عليها ولا يجهدها … فتأويل الآية إذا: لا يكلف الله نفسا إلا ما يسعها فلا يجهدها، ولا يضيق عليها في أمر دينها، فيؤاخذها بهمة إن همت، ولا بوسوسة إن عرضت لها، ولا بخطرة إن خطرت بقلبها",
+  "lang": "Arabic",
+  "gloss": "He means by it: God does not burden a soul, binding it to His service, except with what is within its capacity, so He does not constrain it or overtax it … The meaning of the ayah, then, is: God burdens no soul except with what it can bear, so He does not overtax it nor constrain it in the matter of its religion by taking it to account for an intention if it intends, a whispering if one comes to it, or a passing thought if one crosses its heart.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds for this entry: the reading paraphrased al-Tabari as ‘Allah never overtaxing’, which is not a quotation of the key verse. It now reads ‘God never overtaxing’ (45 words, unchanged). The src already opens with ‘al-Tabari’ and carries ‘Arabic’, so the second problem does not apply. Commentator, reading, key verse and place are unchanged. The evidence was re-found verbatim in packet.js quran 5 --verse 2.286. verse.js ok, entry-check ok."
+}

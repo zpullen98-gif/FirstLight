@@ -1,0 +1,42 @@
+{
+ "lane": "L5",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 33,
+   "primary": {
+    "id": "quran-01-d033-p",
+    "key": "Wealth and children are an ornament of the life of the world. But the good deeds which endure are better in thy Lord’s sight for reward, and better in respect of hope.",
+    "ref": "Al-Kahf 18:46",
+    "at": [2185],
+    "s": "After the ruined garden and the likeness of plants dried to twigs, the ayah weighs passing goods against lasting ones; al-Tabari, on 18:46, takes the enduring deeds as all good works, not only the five prayers or words of praise, since God singled none out.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 18:46, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فقال بعضهم: هي الصلوات الخمس، وقال بعضهم: هي ذكر الله بالتسبيح والتقديس والتهليل، ونحو ذلك … وأولى الأقوال في ذلك بالصواب، قول من قال: هنّ جميع أعمال الخير، كالذي رُوي عن عليّ بن أبي طلحة، عن ابن عباس، لأن ذلك كله من الصالحات التي تبقى لصاحبها في الآخرة، وعليها يجازى ويُثاب، وإن الله عزّ ذكره لم يخصص من قوله … بعضا دون بعض في كتاب، ولا بخبر عن رسول الله",
+     "gloss": "Some of them said: they are the five prayers; and some said: they are the remembrance of God by glorifying, hallowing and declaring there is no god but He, and the like … The most correct of the sayings on this is that of those who said: they are all works of good, as was related from ʿAlī b. Abī Ṭalḥa from Ibn ʿAbbās, because all of that is among the good deeds that remain for their doer in the hereafter, and by them he is requited and rewarded; and God, exalted be His mention, did not single out in His words [‘and the enduring good deeds are better with thy Lord in reward’] some to the exclusion of others, neither in scripture nor in a report from the Messenger of God."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d033-s",
+    "key": "And whoever hopeth for the meeting with his Lord, let him do righteous work, and make none sharer of the worship due unto his Lord.",
+    "ref": "Al-Kahf 18:110",
+    "at": [2249],
+    "s": "At the surah’s close, the Prophet is told to call himself a mortal receiving revelation; Ibn Kathir, on 18:110, reads its last charge as the two pillars of an accepted deed, that it accord with God’s law and be done for God alone.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 18:110, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿فَلْيَعْمَلْ عَمَلا صَالِحًا﴾ ، مَا كَانَ مُوَافِقًا لِشَرْعِ اللَّهِ ﴿وَلا يُشْرِكْ بِعِبَادَةِ رَبِّهِ أَحَدًا﴾ وَهُوَ الَّذِي يُرَادُ بِهِ وَجْهُ اللَّهِ وَحْدَهُ لَا شَرِيكَ لَهُ، وَهَذَانَ رُكْنَا الْعَمَلِ الْمُتَقَبَّلِ. لَا بُدَّ أَنْ يَكُونَ خَالِصًا لِلَّهِ، صوابُا عَلَى شَرِيعَةِ رَسُولِ اللَّهِ",
+     "gloss": "[‘Let him do righteous work’]: what accords with the law of God; [‘and make none sharer of the worship due unto his Lord’]: and that is the work by which God’s face alone is sought, He who has no partner. These two are the two pillars of the accepted deed: it must be sincerely for God, and correct according to the law of the Messenger of God."
+    }
+   }
+  }
+ ]
+}
