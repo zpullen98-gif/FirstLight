@@ -326,11 +326,13 @@ async function reviseRound(items, why) {
 
 let revised = []
 /* an owner's amendment: every entry it touches is revised first */
-if ((A.revise || []).length) {
+/* A.revise: [{ id, d, problems? }], and A.reviseProblems for any without their own */
+const OWNER = (A.revise || []).map(x => Object.assign({}, x, { problems: x.problems || A.reviseProblems || [] }))
+if (OWNER.length) {
   phase('Revise')
-  log(`revising ${A.revise.length} entr${A.revise.length === 1 ? 'y' : 'ies'} to the owner's amended rules`)
-  revised = revised.concat(await reviseRound(A.revise, 'owner'))
-  log(`owner's amendment: ${revised.filter(x => x.kept).length} of ${A.revise.length} revisions cleared by their refuters`)
+  log(`revising ${OWNER.length} entr${OWNER.length === 1 ? 'y' : 'ies'} to the owner's amended rules`)
+  revised = revised.concat(await reviseRound(OWNER, 'owner'))
+  log(`owner's amendment: ${revised.filter(x => x.kept).length} of ${OWNER.length} revisions cleared by their refuters`)
 }
 
 phase('Edit')

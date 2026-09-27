@@ -25,11 +25,12 @@ let revise = [];
 if (ri > -1) {
   const st = lib.status(plan, n, dryName);
   revise = Object.keys(st.days).map(Number).sort((x, y) => x - y).filter(d => st.days[d].survivor)
-    .map(d => ({ id: st.days[d].survivor.id, d, problems: [{ problem: a[ri + 1], fix: a[ri + 2] }] }));
+    .map(d => ({ id: st.days[d].survivor.id, d }));
   todo.lanesMissing = [];
 }
 if (!brief) { console.error('no brief.json: run prep-batch.js first'); process.exit(1); }
 console.log(JSON.stringify({
   plan, n, name: B.name, dryName: dryName || '', root: lib.ROOT.replace(/\\/g, '/'), dir: B.dir.replace(/\\/g, '/'),
-  lanes: brief.lanes, days: brief.days, todo, rounds, revise
+  lanes: brief.lanes, days: brief.days, todo, rounds, revise,
+  reviseProblems: ri > -1 ? [{ problem: a[ri + 1], fix: a[ri + 2] }] : []
 }));
