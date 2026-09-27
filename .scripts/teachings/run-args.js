@@ -73,5 +73,5 @@ console.log(JSON.stringify({
   lanes, days: brief.days, todo, rounds, revise,
   reviseProblems: ri > -1 ? [{ problem: a[ri + 1], fix: a[ri + 2] }] : [],
   reviseWhy: a.includes('--revise-critic') && ri < 0 ? 'critic' : 'owner',
-  verifyPer: typeof lib.CFG.verifyPerAgent === 'object' ? (lib.CFG.verifyPerAgent[plan] || lib.CFG.verifyPerAgent.default || 3) : (lib.CFG.verifyPerAgent || 3)
+  verifyPer: typeof lib.CFG.verifyPerAgent === 'object' ? (lib.cfgOf('verifyPerAgent', plan) || lib.CFG.verifyPerAgent.default || 3) : (lib.CFG.verifyPerAgent || 3)
 }));

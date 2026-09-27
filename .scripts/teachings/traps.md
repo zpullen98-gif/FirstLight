@@ -109,6 +109,8 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - When the English is split differently from the Hebrew, the packet gives the verse’s English once, marked "for the whole verse": quote the English only for the words the Hebrew comment holds.
 - "[editor: ...]" in the Hebrew is an editor’s remark, not the commentator’s.
 - A comment Sefaria files at another verse is moved to its own verse and says where the editions print it (Rashi on Deuteronomy 32:43 and Proverbs 30:31, Radak on Isaiah 37:30 and Psalm 38:15): cite the verse it is on.
+- The source line names the edition read for EACH commentator ("Hebrew (On Your Way)", "Rosenbaum and Silbermann, 1929 to 1934"), not only the export commit; two commentators, two editions. (Found in course-jewish-dry.)
+- When the context clause ends on one promise or command and the reading says "the promise", the reading attaches to the nearest; name the lemma’s own promise in the reading. (Found in course-jewish-dry, Genesis 17:7.)
 
 ## bible
 
@@ -116,3 +118,13 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - Augustine numbers the Psalms as the Greek and Latin Bibles do: his Psalm 22 is the WEB's 23.
 - The WEB prints "Yahweh": a key verse keeps it as printed.
 - On an Old Testament day a Father's Christian reading is his reading ("Augustine, City of God 16.32, reads it as"), never the plain sense and never a claim about Jews or the Jewish reading.
+
+## courses
+
+- A word match is not a line about the entry: read the line in its passage (day.js <work> <work day>) before choosing it, and choose it for what it says there.
+- The chamber’s title and words are the app’s own gloss, printed above the line: never a key line, never quoted as scripture. Five of the chambers’ epigraphs are in other translations and are not in the app’s text at all.
+- The commentator is the line’s own work’s: a Rig Veda line takes Sāyaṇa or Yāska, never Śaṅkara; a Tanakh line never a Church Father; each work’s coverage, conduits and forbidden words hold.
+- A festival or practice the texts never name (a festival of lamps, a later feast, a day of remembrance): the line speaks to its substance, and the sentence says only what the line says in its place, never that the festival is in the text.
+- The same words can stand in two places (a Rig Veda refrain, a line two Psalms share, a verse the Qur’an repeats): verse.js lists them under also; verse.js takes the first place the line may be cited from and marks the others that would also pass; pass --ref to choose, and read the commentary on the place chosen.
+- A chamber that names one thing twice (Shabbat, Ramadan) or nearly so (Zakāt and Zakat, Ṣalāh and the five prayers) gets two different lines: the concept’s day the text that grounds it, the practice’s or festival’s day a line on its keeping.
+- A line from a passage its work marks as hard (sensitive.json) is held to rule 6 as that work’s own hard days are, and a course holding such a line is read by the owner with that work’s hard days (the Muslim course’s Jihād day is marked in sensitive.json).

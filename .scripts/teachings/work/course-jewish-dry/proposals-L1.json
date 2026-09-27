@@ -1,0 +1,130 @@
+{
+ "lane": "L1",
+ "plan": "course-jewish",
+ "batch": "course-jewish-dry",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "course-jewish-dry-d001-p",
+    "key": "And I will establish My covenant between Me and thee and thy seed after thee throughout their generations for an everlasting covenant, to be a God unto thee and to thy seed after thee.",
+    "ref": "Genesis 17:7",
+    "at": [
+     16,
+     7
+    ],
+    "s": "In Genesis 17 God appears to Abram, renames him Abraham and promises him nations and land; Sforno, on Genesis 17:7, reads the promise as God uniting His name with Abraham and his descendants without intermediary, so that, keeping the covenant, they endure for ever.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, Genesis 17:7, Hebrew, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "ליחד שמי עליכם בלתי אמצעי כמו שהוא מתיחד על כל הנצחיים כאמרו כי כל אשר יעשה האלהים הוא יהיה לעולם כי אמנם הנפסדים באשר הם נפסדים אינם פעולתם בלתי אמצעי אמר א\"כ שבהקמת הברית ושמירתו יהיו הוא וזרעו נצחיי' באיש לפניו",
+     "gloss": "To unite My name upon you without intermediary, as it is united upon all the everlasting things, as it says, ‘whatever God does, it shall be for ever’; for perishing things, in so far as they perish, are not His work without intermediary. He said, then, that by the establishing of the covenant and its keeping, he and his seed would be everlasting."
+    }
+   },
+   "standby": {
+    "id": "course-jewish-dry-d001-s",
+    "key": "And he took the book of the covenant, and read in the hearing of the people; and they said: ‘All that the LORD hath spoken will we do, and obey.’",
+    "ref": "Exodus 24:7",
+    "at": [
+     73,
+     7
+    ],
+    "s": "At Sinai Moses has written down God’s words, built an altar and had offerings made; Rashbam, on Exodus 24:7, takes the pledge as doing what God has said and heeding what He will command from then on, and Sforno, on the same verse, as doing for obedience’s sake, like servants seeking no reward.",
+    "by": "rashbam",
+    "by2": "sforno",
+    "hedge": "",
+    "src": "Rashbam and Sforno, Commentaries on the Torah, Exodus 24:7, Hebrew, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashbam; sforno",
+     "words": "נעשה ונשמע - נעשה מה שדיבר וגם נשמע מה שיצונו עוד מכאן ולהבא ונקיים. … נעשה ונשמע. נעשה לתכלית שנשמע בקולו כעבדים המשמשים את הרב שלא על דרך לקבל פרס כענין עושי דברו לשמוע בקול דברו",
+     "gloss": "[Rashbam:] We will do and we will hear: we will do what He has spoken, and we will also hear whatever He commands us further, from now on, and carry it out. … [Sforno:] We will do and we will hear: we will do with the aim of obeying His voice, like servants who serve the master not for the sake of receiving a reward, as in ‘that do His word, hearkening unto the voice of His word’."
+    }
+   }
+  },
+  {
+   "d": 9,
+   "primary": {
+    "id": "course-jewish-dry-d009-p",
+    "key": "Remember the sabbath day, to keep it holy.",
+    "ref": "Exodus 20:8",
+    "at": [
+     69,
+     8
+    ],
+    "s": "Among the ten words spoken at Sinai, this one opens the command on the seventh day; Rashi, on Exodus 20:8, takes ‘Remember’ as a charge to keep the day always in mind, setting aside for it any fine thing that comes to hand.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, Exodus 20:8, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "זכור. לְשׁוֹן פָּעוֹל הוּא, כְּמוֹ אָכוֹל וְשָׁתוֹ (ישעיהו כ\"ב), הָלוֹךְ וּבָכֹה (שמואל ב ג'), וְכֵן פִּתְרוֹנוֹ: תְּנוּ לֵב לִזְכֹּר תָּמִיד אֶת יוֹם הַשַּׁבָּת, שֶׁאִם נִזְדַּמֵּן לְךָ חֵפֶץ יָפֶה תְּהֵא מַזְמִינוֹ לְשַׁבָּת (מכילתא)",
+     "gloss": "Remember: it is a verbal form without tense, like ‘eating and drinking’ (Isaiah 22) and ‘going and weeping’ (2 Samuel 3), and so its meaning is: set your heart to remember the sabbath day always, so that if a fine thing comes your way you keep it ready for the sabbath."
+    }
+   },
+   "standby": {
+    "id": "course-jewish-dry-d009-s",
+    "key": "And on the seventh day God finished His work which He had made; and He rested on the seventh day from all His work which He had made.",
+    "ref": "Genesis 2:2",
+    "at": [
+     1,
+     2
+    ],
+    "s": "Genesis opens with six days in which heaven and earth and all their host are made; Rashi, on Genesis 2:2, reads the finishing as the coming of rest, the one thing the world still lacked, so that with the sabbath the work stood complete.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, Genesis 2:2, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ויכל אלהים ביום השביעי. … דָּ\"אַ מֶה הָיָה הָעוֹלָם חָסֵר? מְנוּחָה, בָּאת שַׁבָּת בָּאת מְנוּחָה, כָּלְתָה וְנִגְמְרָה הַמְּלָאכָה",
+     "gloss": "And on the seventh day God finished. … Another explanation: what was the world lacking? Rest. The sabbath came, rest came; the work was ended and completed."
+    }
+   }
+  },
+  {
+   "d": 14,
+   "primary": {
+    "id": "course-jewish-dry-d014-p",
+    "key": "Speak unto the children of Israel, saying: In the seventh month, in the first day of the month, shall be a solemn rest unto you, a memorial proclaimed with the blast of horns, a holy convocation.",
+    "ref": "Leviticus 23:24",
+    "at": [
+     112,
+     24
+    ],
+    "s": "Among the seasons appointed through Moses, this one follows Passover and the seven weeks; Rashi, on Leviticus 23:24, reads the memorial as verses of remembrance and of the horn that recall the binding of Isaac, and Ramban, on the same verse, as the blast itself, a remembrance before God on the day He judges, before ten days of pardon.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, Commentaries on the Torah, Leviticus 23:24, Hebrew, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "זכרון תרועה. זִכְרוֹן פְּסוּקֵי זִכְרוֹנוֹת וּפְסוּקֵי שׁוֹפָרוֹת (ספרא: ראש השנה ל\"ב) לִזְכֹּר לָכֶם עֲקֵדַת יִצְחָק שֶׁקָּרַב תַּחְתָּיו אַיִל … אבל כל זה אסמכתא מדבריהם … אבל \"זכרון תרועה\" כמו יום תרועה יהיה לכם (במדבר כט א) יאמר שנריע ביום הזה ויהיה לנו לזכרון לפני השם … מפני שהוא בחדשו של יום הכפורים בראש החודש נראה שבו יהיה דין לפניו יתברך כי בם ידין עמים בראש השנה ישב לכסא שופט צדק ואחרי כן בעשרת הימים ישא לפשע עבדיו",
+     "gloss": "[Rashi:] A memorial of blasts: a remembrance of the verses of remembrances and the verses of the horn (Sifra; Rosh Hashanah 32), to remember for you the binding of Isaac, in whose place a ram was offered. … [Ramban:] But all this is a support from Scripture for their own words. … But ‘a memorial of blasts’ is like ‘it is a day of blowing the horn unto you’ (Numbers 29:1): it says that we sound the blast on this day, and it will be a remembrance for us before God. … Since it falls at the new moon of the month of the day of atonement, it appears that on it there is judgement before Him, blessed be He, for by them He judges peoples: on the new year He sits on the throne judging righteously, and after that, in the ten days, He pardons the transgression of His servants."
+    }
+   },
+   "standby": {
+    "id": "course-jewish-dry-d014-s",
+    "key": "Blow the horn at the new moon, at the full moon for our feast-day.",
+    "ref": "Psalm 81:4",
+    "at": [
+     647,
+     4
+    ],
+    "s": "Psalm 81 calls Israel to song, timbrel and harp before the God of Jacob; Radak, on Psalm 81:4, explains the blast as the new year’s horn, a sign of slaves set free, since on that day the fathers’ servitude ceased.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Psalms, Psalm 81:4, Hebrew (Derekh Mesilah, Furth 1843), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ואמר בזה היום שהוא ראש חודש, תקעו שופר כמו שצוה אתכם משה ונראה כי זה הוא טעם מצות התרועה בראש השנה לפי שבטלו אבותינו מעבודתם ביום זה והתרועה הוא סי' שילוח עבדים",
+     "gloss": "And he said: on this day, which is the new moon, blow the horn, as Moses commanded you. And it appears that this is the reason for the commandment of the blast on the new year: because our fathers ceased from their servitude on this day, and the blast is a sign of the sending away of slaves."
+    }
+   }
+  }
+ ]
+}

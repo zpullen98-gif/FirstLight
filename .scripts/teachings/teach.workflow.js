@@ -26,6 +26,12 @@ const STATUS = `node ${ROOT}/.scripts/teachings/status.js ${PLAN} ${A.n}${A.dryN
 const T = (s) => `node ${ROOT}/.scripts/teachings/${s}`
 /* candidates per verifier (batches.json verifyPerAgent): fewer where a day's packet is long */
 const VPER = Math.max(1, +A.verifyPer || 3)
+/* A tradition course (course-<tr>): a day is a chamber entry, and its key line
+   is found anywhere in the tradition's works; the words below say so where a
+   work's day would read its own passage and packet. */
+const COURSE = /^course-/.test(String(PLAN))
+const PASSAGE = COURSE ? `the line's own passage (day.js <work> <work day>, as verse.js prints it)` : 'day.js'
+const PACKET = COURSE ? `the packet command verse.js prints for the line (packet.js <work> <work day> --verse <n>)` : 'packet.js for the day'
 
 const chunk = (arr, n) => { const out = []; for (let i = 0; i < arr.length; i += n) out.push(arr.slice(i, i + n)); return out }
 const PASS = ['VERIFIED', 'CORRECTED', 'HEDGE']
@@ -134,16 +140,24 @@ const CRITIC = {
   required: ['ok', 'problems'],
 }
 
-const COMMON = `You are working on First Light, an offline daily-practice app at ${ROOT}. Its Readings divide ten holy works into daily passages; The Teachings give each day a KEY VERSE copied verbatim from that day's passage and ONE SENTENCE: the passage's plain sense, then a named classical commentator's reading, with the place in his commentary. This run is batch ${NAME} of the ${PLAN} plan${A.dryName ? ' (a DRY RUN: it will never land, but hold it to every rule)' : ''}.
+const COMMON = `You are working on First Light, an offline daily-practice app at ${ROOT}. ${COURSE
+  ? `Its Readings hold seven tradition courses beside the ten works: a course gives each entry of a tradition's chamber in the Library (its concepts, then its practices, then its festivals) a KEY LINE copied verbatim from anywhere in that tradition's own works in the app, and ONE SENTENCE: where the line stands in its work, then a named classical commentator's reading of that line, with the place in his commentary. This run is batch ${NAME} of the ${PLAN} course`
+  : `Its Readings divide ten holy works into daily passages; The Teachings give each day a KEY VERSE copied verbatim from that day's passage and ONE SENTENCE: the passage's plain sense, then a named classical commentator's reading, with the place in his commentary. This run is batch ${NAME} of the ${PLAN} plan`}${A.dryName ? ' (a DRY RUN: it will never land, but hold it to every rule)' : ''}.
 
 READ FIRST, with the Read tool: ${BRIEF}. It holds the ten rules, the closed roster for this plan (who may be named, their coverage, sources and traps), the conduits, the forbidden and watch terms, the traps, how this tradition speaks of its text, the days and their ids, and the paths. Everything there binds you.
 
-The tools (run them with Bash; they read the app's own texts, so they are the only authority on wording):
+The tools (run them with Bash; they read the app's own texts, so they are the only authority on wording):${COURSE ? `
+  ${T(`day.js ${PLAN} <day>`)}        the day's chamber entry (its title and words, printed above the line) and the works a line may come from
+  ${T(`find.js ${PLAN} "<words>"`)}   every verse of those works holding all the words (whole words, accents folded; "word*" for a word's start; "re:<regex>", never /regex/, which Git Bash rewrites into a path), with its work, day and reference
+  ${T(`day.js <work> <work day>`)}   the passage around a line, unit by unit; only [ref] units may give a key line
+  ${T(`verse.js ${PLAN} <day> "<key line>" [--ref "<ref>"]`)}   must print "ok": true; copy its ref and at; it prints the work, the work's day, the passage and the packet command for the line
+  ${T(`packet.js <work> <work day> --verse <n>`)}   the commentaries on the line (the command verse.js prints), with the url to cite
+  ${T(`entry-check.js ${PLAN} <file.json>`)}     the gate on one entry: write the entry to a scratch file in ${DIR}/scratch/ with the Write tool, then run it; "ok": true or the entry does not stand` : `
   ${T(`day.js ${PLAN} <day>`)}        the day's passage, unit by unit; only [ref] units may give a key verse
   ${T(`packet.js ${PLAN} <day>`)}     the commentaries for the day, each line of text beside the commentary on it, with the url to cite
   ${T(`packet.js ${PLAN} <day> --verse <n>`)}   only the commentary on one verse (2.47, 1.2.20, 7.18): use it for a long chapter instead of reading the whole packet
   ${T(`verse.js ${PLAN} <day> "<key verse>"`)}   must print "ok": true; copy its ref and at
-  ${T(`entry-check.js ${PLAN} <file.json>`)}     the gate on one entry: write the entry to a scratch file in ${DIR}/scratch/ with the Write tool, then run it; "ok": true or the entry does not stand
+  ${T(`entry-check.js ${PLAN} <file.json>`)}     the gate on one entry: write the entry to a scratch file in ${DIR}/scratch/ with the Write tool, then run it; "ok": true or the entry does not stand`}
 
 The standard, in one sentence: a confident false attribution is worse than naming a different commentator, and a reading not found in the commentator's own words, in a source you actually opened, does not ship. Write your output files BEFORE you return, so a run that dies loses nothing. Your final text is a return value, not a message to a person: return the JSON the schema asks for and nothing else.`
 
@@ -152,9 +166,13 @@ const PROPOSE = (lane) => `${COMMON}
 YOUR LANE: ${lane.key}, days ${lane.days.join(', ')}.${lane.sensitive ? ' These days hold hard passages (rule 6): read them from disk with day.js, never paste the passage into your output beyond the key verse, and state the hard matter in one plain clause.' : ''}
 
 For EACH of your days, in order:
-1. Run day.js and packet.js for the day and read both whole.
+${COURSE
+  ? `1. Run day.js for the day: the chamber entry and the works. Search them with find.js from several angles (the entry's name, its substance in the translation's own words), read the best hits in their passages (day.js <work> <work day>), and for each line you might use run verse.js and read the commentary on it with the packet command it prints.
+2. Choose a PRIMARY and a STANDBY candidate. They must differ in key line, or in commentator, or both, so that one can stand if the other falls. Choose the line that bears most directly on the entry (rule 8 for a course day), then the commentator from THAT LINE'S OWN WORK'S roster whose comment on it is substantial; across your days, draw on every work the tradition has where a line of it serves best. Read brief.course.entries: where the chamber names one thing twice or nearly so (Shabbat as a concept and as a practice, Ramadan as a practice and a festival, Zakāt and Zakat, Ṣalāh and the five prayers), the concept day takes the text that grounds it and the practice or festival day a line on its keeping, and the two days' lines must differ (such days share your lane). If verse.js places a line in a passage its work marks as hard (${ROOT}/.scripts/teachings/sensitive.json), rule 6 binds it as it binds that work's own hard days.
+3. For each candidate: run verse.js until it prints "ok": true; copy ref and at from it. Write the sentence by the rules (form, plain sense on a course day, reading, style). Set by (and by2 only where two genuinely differ; then 60 words),`
+  : `1. Run day.js and packet.js for the day and read both whole.
 2. Choose a PRIMARY and a STANDBY candidate. They must differ in commentator, or in key verse, or both, so that one can stand if the other falls. Choose for each the commentator whose comment on this chapter is substantial and clearly tied to a line you can use as the key verse; follow the brief's voice on the mix across the batch.
-3. For each candidate: pick the key verse from day.js (a [ref] unit only, one to three whole sentences, no dash) and run verse.js until it prints "ok": true; copy ref and at from it. Write the sentence by the rules (form, plain sense, reading, style). Set by (and by2 only where two genuinely differ; then 75 words), hedge only if the reading reaches you only through a conduit (then src is in the "as given in" form), and src. Put in basis the commentator's own words from the packet that carry the reading, verbatim, and your gloss.
+3. For each candidate: pick the key verse from day.js (a [ref] unit only, one to three whole sentences, no dash) and run verse.js until it prints "ok": true; copy ref and at from it. Write the sentence by the rules (form, plain sense, reading, style). Set by (and by2 only where two genuinely differ; then 60 words),`} hedge only if the reading reaches you only through a conduit (then src is in the "as given in" form), and src. Put in basis the commentator's own words from the packet that carry the reading, verbatim, and your gloss.
 4. Write the candidate to a scratch file and run entry-check.js; fix it until "ok": true. Do not propose a candidate that fails.
 The ids are fixed: for day d the primary is brief.days[].id.primary and the standby brief.days[].id.standby.
 
@@ -164,9 +182,9 @@ const VERIFY = (ids, again) => `${COMMON}
 
 YOUR JOB: rule on each of these candidates independently: ${ids.join(', ')}.
 Find each in ${DIR}/proposals-*.json (the id names its day and role). For each:
-1. Run day.js and verse.js yourself: the key must be verbatim (ok: true) and ref and at must match.
-2. OPEN THE SOURCE YOURSELF: packet.js for a packet source (every source packet.js prints for the day), or the url for anything else. Find the commentator's own words at the place the sentence names. Do not trust the proposer's basis: read the commentary on the whole chapter.
-3. Judge the plain sense against day.js (faithful, overreach, misread) and the reading against the words you found: do they carry it, without drift, without the proposer's or translator's ideas added?
+1. Run ${COURSE ? 'day.js for the course day (the chamber entry), verse.js, and day.js on the line\'s own passage' : 'day.js and verse.js'} yourself: the key must be verbatim (ok: true) and ref and at must match.${COURSE ? ' Judge too whether the line bears directly on the chamber entry (rule 8 for a course day): a line that merely shares a word with it is corrected to a better line or rejected.' : ''}
+2. OPEN THE SOURCE YOURSELF: ${PACKET} for a packet source (every source it prints), or the url for anything else. Find the commentator's own words at the place the sentence names. Do not trust the proposer's basis: read the commentary on the whole ${COURSE ? 'passage around the line' : 'chapter'}.
+3. Judge the plain sense against ${PASSAGE} (faithful, overreach, misread) and the reading against the words you found: do they carry it, without drift, without the proposer's or translator's ideas added?
 4. The verdict:
    VERIFIED   the commentator says this, at this place, and the entry obeys every rule;
    CORRECTED  the reading is his but the place, the wording of the sentence, the key verse choice within the day, or the source line needed correcting: you give the corrected entry in full (it must pass entry-check.js), and say in reason what you changed;
@@ -183,8 +201,8 @@ YOUR JOB: REFUTE. A verifier passed these entries; try to break each one. DEFAUL
 ${JSON.stringify(vs.map(v => ({ id: v.id, d: v.d, verdict: v.verdict, key: v.key, ref: v.ref, s: v.s, by: v.by, by2: v.by2, hedge: v.hedge, src: v.src, evidence: v.evidence && { words: v.evidence.words, gloss: v.evidence.gloss, opened: v.evidence.opened } })), null, 1)}
 
 For each, attack on every line and record which attacks land:
-  verse        is the key verbatim in the day (run verse.js), from the text and not apparatus, the best-chosen line for the reading?
-  plain        does the plain sense say what the day's text says, and no more (run day.js)?
+  verse        is the key verbatim ${COURSE ? 'in the tradition\'s works (run verse.js), from the text and not apparatus, a line that bears directly on the day\'s chamber entry and the best-chosen for the reading' : 'in the day (run verse.js), from the text and not apparatus, the best-chosen line for the reading'}?
+  plain        does the plain sense say what ${COURSE ? 'the line\'s passage says, and no more, without claiming the line is about the entry where the text does not name it (run day.js on the line\'s work and day)' : 'the day\'s text says, and no more (run day.js)'}?
   attribution  is this the named commentator's reading at all, or another's, or the translator's, or the proposer's?
   locator      is the place right?
   drift        do his words, as you find them yourself, carry the whole paraphrase, or does the sentence claim more?
@@ -285,7 +303,7 @@ const CRITIC_PROMPT = (file, again) => `${COMMON}
 
 YOU ARE THE CRITIC${again ? ', READING AGAIN after revisions (the earlier reading is ' + DIR + '/critic-1.json; the revisions and their refuters are in ' + DIR + '/revise/ and ' + DIR + '/revrefute/)' : ''}. Read ${DIR}/batch.json and the brief, and for anything you doubt the verdict files in ${DIR}/verdicts/ and ${DIR}/reverify/. Check the batch against the rules, entry by entry and as a whole:
 - one entry per day, in order, each id a survivor (run ${STATUS})
-- every key verbatim (verse.js) and the best line of the day for the reading
+- every key verbatim (verse.js) and ${COURSE ? "a line that bears directly on its chamber entry (rule 8 for a course day), from the work that serves it best, and the best such line for the reading" : "the best line of the day for the reading"}
 - every sentence: the form and the cap, a plain sense that stays inside the passage and does not borrow the commentator's reading, a reading that is the named commentator's (open the packet for any you doubt), the place named, a school named where needed
 - rule 6: on a hard passage, the commentator's own limit carried where he sets one on the key verse's lines
 - no comparison, ranking or other tradition; hard passages neither softened nor sensationalised; hedges name their conduit
@@ -305,7 +323,7 @@ const REVISE = (items, why) => `${COMMON}
 
 YOU REVISE. ${why === 'owner' ? 'The owner read these entries at a checkpoint and amended the rules (the brief now carries the amended rules 1 and 2): each entry must be brought to them.' : 'The critic questioned these entries.'} Each is a survivor of verification and refutation, and you are a fresh verifier asked whether it should be CORRECTED. For each, read the entry as it now stands (${STATUS} --json gives it), its trail (${DIR}/verdicts/<id>.json, ${DIR}/refutations/<id>.json, ${DIR}/reverify/<id>.json, and any earlier rounds in ${DIR}/revise/), and the problems to answer:
 ${JSON.stringify(items.map(x => ({ id: x.id, d: x.d, problems: x.problems, write: `${DIR}/revise/${roundFile(x.id)}.json` })), null, 1)}
-Then OPEN THE SOURCE YOURSELF (packet.js for the day) and decide:
+Then OPEN THE SOURCE YOURSELF (${PACKET}) and decide:
   CORRECTED  the problem holds and the entry can be put right within the rules and the commentator's own words: give the whole corrected entry (key, ref, at, s, by, by2, hedge, src), and evidence whose words carry EVERY part of the corrected reading (several passages of his words may be joined with " … "; each must be verbatim from what you opened, because the operator re-finds each piece by machine);
   VERIFIED   the problem does not hold, or the fix would go beyond the evidence: give the entry unchanged and say why in reason.
 Run verse.js and entry-check.js on a corrected entry; both must pass. Keep the commentator and his reading unless a problem is with them; change only what the problems name.

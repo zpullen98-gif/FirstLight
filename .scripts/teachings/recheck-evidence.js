@@ -114,7 +114,9 @@ async function main() {
     for (const s of [rec.primary, rec.standby]) {
       if (!s || s.state !== 'alive') continue;
       const v = s.final;
-      const result = await recheck(plan, d, v.evidence || {});
+      /* a course day's evidence is in the packet of the line's own work and day */
+      const at = require('./corpus').isCourse(plan) ? require('./corpus').locateCourse(plan, d, v.key || '', v.ref) : null;
+      const result = await recheck(at && at.exact ? at.work : plan, at && at.exact ? at.pd : d, v.evidence || {});
       out[s.id] = Object.assign({ d, who: v.by, afterRefutation: !!s.afterRefutation }, result);
       counts[result.status]++;
       console.log('  ' + result.status.padEnd(11) + ' ' + s.id + ' (' + (v.by || '?') + ')' + (result.detail ? ': ' + result.detail : ''));

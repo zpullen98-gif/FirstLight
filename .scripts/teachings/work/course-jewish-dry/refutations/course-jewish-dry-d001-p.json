@@ -1,0 +1,11 @@
+{
+ "id": "course-jewish-dry-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Genesis/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 5 --verse 17:7: Sforno on the lemma להיות לך לאלהים ולזרעך אחריך holds the evidence words verbatim (machine substring check true). ליחד שמי עליכם בלתי אמצעי carries God binding His name on Abraham and his seed without intermediary, and שבהקמת הברית ושמירתו יהיו הוא וזרעו נצחיים carries that through the covenant and its keeping they endure for ever: no drift. verse.js ok, ref Genesis 17:7, at [16,7], no also; the line names the everlasting covenant with Abraham and his seed, a text naming the concept, so rule 8 is met. day.js tanakh 5 confirms the plain sense: the LORD appears to Abram (17:1), renaming (17:5), nations (17:4 to 6), land (17:8); no four words of the key repeated, no claim beyond the text. No school, comparison or tone issue; locator right (Sforno is covered on Genesis). entry-check ok, no warns; 44 words, src 91 characters.",
+ "better": "Optional wording only: ‘binding His name to’ is closer to ליחד שמי על than ‘uniting His name with’; the entry stands as written."
+}

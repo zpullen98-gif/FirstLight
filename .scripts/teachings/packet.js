@@ -89,6 +89,13 @@ if (require.main === module) {
   if (!plan || !dayArg) { console.error('usage: node .scripts/teachings/packet.js <plan> <day> [--verse <n>, e.g. 2.47, 1.2.20, 2:255] [--all]'); process.exit(1); }
   const day = corpus.dayOf(plan, +dayArg);
   console.log(plan + ', day ' + day.d + ': ' + day.label + '\n');
+  /* a course day has no packet: the line's own work and day have it */
+  if (day.course) {
+    console.log('A course day is a chamber entry and has no packet of its own. Place the line with\n' +
+      '  node .scripts/teachings/verse.js ' + plan + ' ' + day.d + ' "<the line>"\n' +
+      'which prints the packet command for it (packet.js <work> <work day> --verse <n>): read the commentary there.');
+    process.exit(0);
+  }
   const packets = packetsFor(plan, +dayArg);
   /* --verse on a day of several chapters prints only the chapters that hold
      the verse (all of them when none does, so a miss is still reported) */

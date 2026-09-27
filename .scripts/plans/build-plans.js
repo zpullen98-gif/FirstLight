@@ -104,7 +104,7 @@ function applyLock(all, lock, refreeze) {
   return { next, differs };
 }
 
-function render(all, teach) {
+function render(all, teach, courses) {
   const lines = [];
   lines.push('/* First Light: the Readings, divided into days.');
   lines.push('');
@@ -132,7 +132,7 @@ function render(all, teach) {
   });
   lines.push('},');
   lines.push('"teach": ' + JSON.stringify(teach || {}) + ',');
-  lines.push('"courses": {}');
+  lines.push('"courses": ' + JSON.stringify(courses || {}));
   lines.push('};');
   return lines.join('\n') + '\n';
 }
@@ -199,15 +199,18 @@ function main() {
 
   /* The teachings: every set is gated first, and a set that fails stops the
      whole build before anything is written. */
-  const { planTeachings } = require('./teach');
+  const { planTeachings, planCourses } = require('./teach');
   const { checkSet } = require('../check-teachings');
   const tp = planTeachings(all, checkSet);
+  /* the tradition courses, gated the same way, into the same lists */
+  const cp = planCourses(checkSet);
+  ['files', 'stale', 'report', 'errors'].forEach(k => { tp[k] = tp[k].concat(cp[k]); });
   if (tp.errors.length) {
     console.error('build-plans: nothing was written.\n  ' + tp.errors.join('\n  '));
     process.exit(1);
   }
 
-  const text = render(all, tp.teach);
+  const text = render(all, tp.teach, cp.courses);
   const lockText = JSON.stringify(applied.next, null, 1) + '\n';
   const prevOut = fs.existsSync(OUT) ? fs.readFileSync(OUT, 'utf8') : null;
   const prevLock = fs.existsSync(LOCK) ? fs.readFileSync(LOCK, 'utf8') : null;

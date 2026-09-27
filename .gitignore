@@ -3,3 +3,5 @@
 js/texts/teachings/_preview/
 # agents' scratch files for entry-check.js
 .scripts/teachings/work/*/scratch/
+# a course still being written (build-plans.js); ?preview=teachings reads it locally
+js/texts/courses/_preview/

@@ -15,12 +15,14 @@ A set reaches the reader only when it is **complete** and passes both gates. Unt
 | `corpus.js` | Each day's text, cut into citable units. Its `locate()` is the one authority on "verbatim". |
 | `lib.js` | Batch bookkeeping. `status()` says what is alive on disk. |
 | `day.js`, `verse.js`, `packet.js`, `entry-check.js`, `status.js` | The agents' tools. |
+| `find.js` | A course's search: every verse of the tradition's works holding all the words of a query, with its work, day and reference. |
 | `fetch-commentary.js` | Fetches the commentaries once into `.scripts/.cache/teachings/`, then writes one packet per chapter. |
 | `prep-batch.js`, `run-args.js`, `teach.workflow.js` | Prepare and run one batch. |
 | `recheck-evidence.js` | Finds every survivor's evidence again, by machine. A packet is OCR and is matched as it stands; only a fetched HTML page loses its tags. `--selftest` holds that, on fixtures and on Madhva at Gita 18.66. |
 | `land-batch.js` | The only way a batch reaches the set. It refuses rewording, unfound evidence, an unruled critic, and a set that fails the gate. |
 | `sample.js` | Entries with their full trails, for the owner's reading. |
 | `ledger.json` | What has landed, per plan. |
+| `.scripts/plans/teachings/_hold.json` | Complete sets held for the owner's reading: `{ "<plan>": "<why>" }`. A held set stays in preview, never listed for the reader, until its line is taken out. |
 | `work/<plan>-<NN>/` | The evidence trail of each batch, committed. Its `scratch/` folder is git-ignored. |
 
 The gate is `.scripts/check-teachings.js`, with `--selftest` and `--candidate <batch.json>`. It holds the authoring sets to the whole brief. `.scripts/check-plans.js` holds the shipped file to its contract.
@@ -42,10 +44,19 @@ The gate is `.scripts/check-teachings.js`, with `--selftest` and `--candidate <b
 7. **Build and check:** run `node .scripts/plans/build-plans.js`, then the three gates, then preview it. Commit by explicit path.
 8. **When a plan's set is complete**, the build lists it in `FL_PLANS.teach`. Then sync the wing and publish.
 
+## The tradition courses
+
+The seven courses (`course-hindu`, `course-jewish`, `course-buddhist`, `course-confucian`, `course-taoist`, `course-christian`, `course-muslim`) run through the same pipeline as the works, one batch each (`prep-batch.js course-jewish 1`). The tools treat a course as a plan:
+
+- **Its days** are the tradition's chamber entries in the Library (`FL_TRADITIONS`: concepts, then practices, then festivals), 17 or 18 of them. A day's label is the entry's title. Its division is a hash of the entries, so a set written against a chamber that has since changed is refused.
+- **Its key line** may come from any of the tradition's works in the app, as `roster.json`'s `courses` map lists them (the Hindu course: the Rig Veda, the Upanishads, the Gita). `find.js` searches them; `verse.js course-<tr> <day> "<line>"` places the line and prints the work, the work's day and the packet command for its commentary.
+- **Its rules** are the works' rules, applied where the line stands: `check-teachings.js` holds each course entry to the roster, coverage, forbidden words and form of the line's own work, on the work's day that holds it. Rules 2 and 8 of the brief have course forms (the context clause gives the line's place in its work and never claims the line is about the entry unless the text names it; the line is chosen for how directly it bears on the entry).
+- **Landing** records `work` and `pd` (the work and its day) on each entry. The build writes `js/texts/courses/<tr>.js` in the shape `check-plans.js` holds (`{ d, sec, i, line, ref, loc: { plan, at }, s, by }`) and lists it in `FL_PLANS.courses` once complete; until then `js/texts/courses/_preview/<tr>.js`, read on `/?nosw&preview=teachings#/hall/course-<tr>`.
+
 ## The owner's checkpoints (the plan)
 
 - **Tao batch 1 is the pilot.** The owner reads all 27 entries (`sample.js tao 1 --all`) and five evidence trails from end to end. The brief is amended before any other batch runs. If more than 40% of primaries die, pause.
-- **After that, sample 10 per work.** For the Qur'an, the owner also reads every sensitive day. For the Tanakh, sample again at batch 5. For the Bible, the owner reads `pairs.js` before the Old Testament lands (not yet written; write it before the Bible's first batch), with a checkpoint at the boundary between the Old and New Testaments.
+- **After that, sample 10 per work.** For the Qur'an, the owner also reads every sensitive day (`review.js quran all <out.html> --days <the hard days and ten more> --trails all`); the set is held in `_hold.json` until then. For the Tanakh, sample again at batch 5. For the Bible, the owner reads `pairs.js` before the Old Testament lands (not yet written; write it before the Bible's first batch), with a checkpoint at the boundary between the Old and New Testaments.
 
 ## Sources in hand
 

@@ -1,0 +1,43 @@
+{
+ "id": "course-jewish-dry-d009-p",
+ "d": 9,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Remember the sabbath day, to keep it holy.",
+ "ref": "Exodus 20:8",
+ "at": [
+  69,
+  8
+ ],
+ "s": "Among the ten words spoken at Sinai, this one opens the command about the seventh day; Rashi, on Exodus 20:8, takes ‘Remember’ as a charge to keep the day always in mind, setting aside for it any fine thing that comes to hand.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, Exodus 20:8, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Exodus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Exodus, Hebrew of M. Rosenbaum and A. M. Silbermann (1929 to 1934), Sefaria-Export-Archive commit 3f10136 (2026-03-23); read through packet.js tanakh 23 --verse 20:8",
+    "locator": "Rashi on Exodus 20:8, lemma זכור, second comment",
+    "via": "packet"
+   }
+  ],
+  "words": "זכור. לְשׁוֹן פָּעוֹל הוּא, כְּמוֹ אָכוֹל וְשָׁתוֹ (ישעיהו כ\"ב), הָלוֹךְ וּבָכֹה (שמואל ב ג'), וְכֵן פִּתְרוֹנוֹ: תְּנוּ לֵב לִזְכֹּר תָּמִיד אֶת יוֹם הַשַּׁבָּת, שֶׁאִם נִזְדַּמֵּן לְךָ חֵפֶץ יָפֶה תְּהֵא מַזְמִינוֹ לְשַׁבָּת (מכילתא)",
+  "lang": "Hebrew",
+  "gloss": "Remember: it is a verbal noun, like ‘eating and drinking’ (Isaiah 22) and ‘going and weeping’ (2 Samuel 3); and so its meaning is: set your heart to remember the sabbath day always, so that if a fine thing comes your way, you keep it ready for the sabbath (Mekhilta).",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds as a matter of prose only: ‘the command on the seventh day’ can be read as a command given on that day. Changed to ‘the command about the seventh day’; nothing else changes. Re-opened packet.js tanakh 23 --verse 20:8: Rashi’s second comment on זכור holds the evidence verbatim and carries the reading. verse.js ok (Exodus 20:8, at [69,8]); entry-check ok, no warns."
+}
