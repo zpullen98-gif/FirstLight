@@ -192,7 +192,11 @@ function checkEntry(e, ctx) {
   WATCH.forEach(([re, t]) => { if (re.test(s)) warn('"' + t + '": read it again for ranking or claim'); });
   (P ? P.forbid : []).forEach(t => { if (termRe(t).test(s)) err('"' + t + '" is forbidden in the ' + planId + ' plan'); });
   (P ? P.watch : []).forEach(t => { if (termRe(t).test(s)) warn('"' + t + '" is on the ' + planId + ' watch list'); });
-  const qre = /(^|[\s(])[\u2018\u201C]([^\u201D]*?)[\u2019\u201D](?=[\s,;.:)]|$)/g;
+  /* words the translation prints that the sentence's own voice does not
+     (the Qur'an's "Allah": the app writes "God", keeping "Allah" for a quotation) */
+  const unquoted = s.replace(/(^|[\s(])[‘“][^”]*?[’”](?=[\s,;.:)]|$)/g, '$1');
+  (P && P.quoteOnly ? P.quoteOnly : []).forEach(t => { if (termRe(t).test(unquoted)) err('"' + t + '" outside a quotation: the sentence’s own voice writes ' + (P.quoteOnlyUse || 'another word')); });
+  const qre =/(^|[\s(])[\u2018\u201C]([^\u201D]*?)[\u2019\u201D](?=[\s,;.:)]|$)/g;
   let q;
   while ((q = qre.exec(s))) if (words(q[2]) > 3) err('a quotation of ' + words(q[2]) + ' words in the sentence (at most three)');
 
