@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d005-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 5 --verse 2.286. Al-Tabari's own gloss on la yukallifu Allahu nafsan illa wus'aha (God binds a soul to His service only with what it can bear, neither constraining nor overtaxing it) and his summary after the reports and the gloss on laha ma kasabat (fa-ta'wil al-aya idhan: He does not overtax it or constrain it in the matter of its religion by holding it to account for an intention, a whispering or a passing thought) are both verbatim at the place named. The paraphrase (never overtaxing a soul in its religion, nor holding it to account for an intention, a whispered suggestion or a passing thought) is his summary, in his own voice, not a transmitted report. day.js: 2:284 says that whether ye make known what is in your minds or hide it Allah will bring you to account, 2:285 intervenes, and 2:286 is the surah's last ayah, so 'after the warning that hidden thoughts will be reckoned' is accurate ('near the close' is loose for the final ayah but not false) and takes no four words from the key. 'God' now stands outside quotation. verse.js ok (Al-Baqarah 2:286, at 292). entry-check ok, no warnings. No school, comparison or tone issue.",
+ "better": ""
+}

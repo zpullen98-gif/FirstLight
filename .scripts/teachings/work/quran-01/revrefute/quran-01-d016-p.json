@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d016-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/6.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 16 --verse 6.152 (al-Tabari, Arabic). In the section ‘wa-amma qawluhu: la nukallifu nafsan illa wusʿaha’ he speaks in his own voice (no competing reported views on this clause): no soul is charged, in full measure and weight, beyond what is within its capacity; the payer is commanded to give the right due and not charged with more, and the one owed is commanded to take his right and not charged with contentment with less. The evidence string-matches and the paraphrase (no payer asked for more than the due, no payee to settle for less) is exactly that; locator exact. Plain sense matches day.js: 6:151 ‘Say: Come, I will recite unto you that which your Lord hath made a sacred duty’, 6:152 opens on the orphan’s wealth, then measure and weight; al-Tabari links the measure clause back to that list. verse.js ok (Al-An’am 6:152, at 940, two whole sentences mid-verse); entry-check ok; three-word quote of the key within the cap.",
+ "better": ""
+}

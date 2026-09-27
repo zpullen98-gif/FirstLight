@@ -1,0 +1,35 @@
+{
+ "id": "quran-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And if they incline to peace, incline thou also to it, and trust in Allah. Lo! He, even He, is the Hearer, the Knower.",
+ "ref": "Al-Anfal 8:61",
+ "at": [1220],
+ "s": "Following the command to muster force against the enemy, the Prophet is told how to answer an offer of truce; al-Tabari, on 8:61, takes it as still in force, not cancelled by the order to slay in At-Tawbah, the two concerning different peoples.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 8:61, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/8.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 8:61 (packet.js quran 20 --verse 8.61), his reply to Qatada’s claim of abrogation, after the reports",
+    "via": "packet"
+   }
+  ],
+  "words": "فإنما عُني به مشركو العرب من عبدة الأوثان، الذين لا يجوز قبول الجزية منهم. فليس في إحدى الآيتين نفي حكم الأخرى، بل كل واحدة منهما محكمة فيما أنزلت فيه.",
+  "lang": "Arabic",
+  "gloss": "(The verse ‘slay the idolaters wherever ye find them’) was meant only for the idol-worshipping Arab idolaters, from whom tribute may not be accepted. So neither of the two verses negates the ruling of the other; rather each of them stands in force for what it was revealed about.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Anfal 8:61, at 1220). Plain sense faithful: 8:60 commands making ready armed force against the enemy, 8:61 addresses the Prophet (‘thou’) on their inclining to peace; no four-word run from the key. In the packet on 8:61 al-Tabari reports Qatada, Ikrima, al-Hasan and Ibn Zayd holding the verse abrogated by Bara’a (At-Tawbah), then rejects this in his own voice: the claim has no evidence from scripture, sunna or reason; an abrogating verse must negate the other’s ruling in every respect; the peace verse was meant for Qurayza, people of Scripture from whom tribute may be accepted, the slaying verse for the idol-worshipping Arabs, so each stands in force in its own case. The sentence (in force, not cancelled, two verses concerning different peoples) carries this without drift and names no group the day’s text does not name. The proposer’s basis spliced two passages with an ellipsis; the evidence here is one contiguous run from the packet. Entry-check ok."
+}

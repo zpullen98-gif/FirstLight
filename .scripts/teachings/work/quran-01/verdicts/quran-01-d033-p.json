@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d033-p",
+ "d": 33,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Wealth and children are an ornament of the life of the world. But the good deeds which endure are better in thy Lord’s sight for reward, and better in respect of hope.",
+ "ref": "Al-Kahf 18:46",
+ "at": [
+  2185
+ ],
+ "s": "After the ruined garden and the likeness of plants dried to twigs, the ayah weighs passing goods against lasting ones; al-Tabari, on 18:46, takes the enduring deeds as all good works, not only the five prayers or words of praise, since God singled none out.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 18:46, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/18.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 18:46 (packet.js quran 33 --verse 18.46), the closing tarjih paragraph after the lists of reports",
+    "via": "packet"
+   }
+  ],
+  "words": "وأولى الأقوال في ذلك بالصواب، قول من قال: هنّ جميع أعمال الخير، كالذي رُوي عن عليّ بن أبي طلحة، عن ابن عباس، لأن ذلك كله من الصالحات التي تبقى لصاحبها في الآخرة، وعليها يجازى ويُثاب، وإن الله عزّ ذكره لم يخصص من قوله ﴿وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِنْدَ رَبِّكَ ثَوَابًا﴾ بعضا دون بعض في كتاب، ولا بخبر عن رسول الله",
+  "lang": "Arabic",
+  "gloss": "The most correct of the sayings on this is that of those who said: they are all works of good, as was related from Ali b. Abi Talha from Ibn Abbas, because all of that is among the good deeds that remain for their doer in the hereafter, and by them he is requited and rewarded; and God, exalted be His mention, did not single out in His words [the enduring good deeds are better with thy Lord in reward] some to the exclusion of others, neither in scripture nor in a report from the Messenger of God.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Kahf 18:46, at 2185). Plain sense faithful: 18:42 the ruined garden, 18:45 the similitude of vegetation turned to dry twigs, 18:46 sets wealth and children against enduring deeds; no four-word run from the verse. In the packet on 18:46 al-Tabari lists four views (the five prayers; dhikr by tasbih, tahlil and the like; obedience to God; good speech), then states his preference: all works of good, because God did not single out some over others in scripture or in a report from the Prophet, adding that the Abu Hurayra hadith names those words as among the enduring deeds, not all of them. The sentence carries exactly this preference, stated by him, without drift. 45 words; entry-check ok."
+}

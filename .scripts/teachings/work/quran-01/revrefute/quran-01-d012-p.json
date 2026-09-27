@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d012-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/5.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 12 --verse 5.32: after the reports, Abu Ja'far gives his own preference (wa-awla hadhihi al-aqwal 'indi) on the killing half, then on 'wa-man ahyaha' the evidence words verbatim (node string match true): whoever forbids himself the killing of one God has forbidden to be killed, and does not proceed to it, the people have life from him through their safety from him. He adds the limit 'except where God permits killing' and his reason: no single life's saving equals all lives in immediate benefit, so ihya' means all souls are safe from him. 'Refraining from a killing God forbids, which leaves all people safe from the one who refrains' is that, with his limit, and no drift. Locator right (on 5:32, the tarjih paragraph after the reports). verse.js ok (Al-Ma'idah 5:32, at 700), first sentence of the ayah, the right line. Plain sense against day.js: 5:27 to 5:31 tell of Adam's two sons, ending with the raven and his remorse; 5:32 opens 'For that cause We decreed'; 5:33 gives the reward of those who make war upon Allah and His messenger. The hard ayah that follows is named plainly as a penalty, neither softened nor detailed; God used outside quotation per rule 7. No school, comparison or ranking. entry-check ok, no errors or warns.",
+ "better": ""
+}

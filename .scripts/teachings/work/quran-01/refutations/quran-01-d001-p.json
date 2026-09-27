@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/1.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 1 --verse 1.5: al-Tabari glosses iyyaka naʿbudu as humbling, abasing and submitting to God, acknowledging His lordship and no other’s; reports Ibn ʿAbbas (we affirm Thy oneness, fear and hope), says that report carries his meaning, then says he chose humbling over hope and fear because among all the Arabs servitude has abasement as its root (the trodden road, muʿabbad). The evidence is verbatim there and carries the whole paraphrase (humbling before Him alone, preferred to hope and fear, the Arab root in lowliness) without drift; nothing is taken from Pickthall’s parentheses. Verse: verse.js ok, Al-Fatiha 1:5 at 4, the ayah itself and the line the reading is about. Plain sense: 1:1 to 1:4 speak of Allah in the third person and 1:5 turns to address Him; no four-word run from the verse; ‘midway’ is loose (fifth of seven) but not false. Locator right. No school, comparison or hard passage. entry-check ok.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d032-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 32 --verse 17.78: the segment is labelled 17:77 to 17:78 as one comment, so the locator is right. Both evidence pieces are verbatim (the ellipsis joins two passages, which recheck-evidence.js splits on): he prefers dulūk as the noon prayer because dulūk is leaning, and the prayer at ghasaq al-layl as maghrib alone. The phrase past midday is carried by his own next lines (when the sun declines from the zenith it has leaned towards setting, and that is the time of the noon prayer). Nightfall for ghasaq is his gloss (the coming on of night and its darkness); slight compression only. verse.js ok (Al-Isra 17:78, at 2106); entry-check ok. Plain sense matches 17:76 to 17:77.",
+ "better": ""
+}

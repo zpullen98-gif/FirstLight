@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d031-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 31 --verse 17.1. After reporting both views with chains (by his body, on al-Buraq; by his spirit, from Aisha and Muawiya), al-Tabari gives his own ruling (wa-l-sawab min al-qawl fi dhalika ʿindana): God carried His servant as the reports tell, on al-Buraq, and there is no sense in the spirit-without-body view, since then it would be no proof of prophethood or argument for his mission, nor would the idolaters have denied it, as no one of sound nature objects to a dreamer seeing in sleep what lies a year's journey away. The evidence words string-match; he adds that beasts carry only bodies, confirming 'bodily'. 'A journey like a dream' compresses his equation of the spirit-only view with a sleeper's vision without going beyond it. Plain sense checked in day.js: 17:1 is the surah's first ayah and glorifies God for the night journey; no four-word run from the key. Key is the ayah's first sentence ending at the exclamation mark, not apparatus. No school, no comparison, no hard passage. verse.js ok (Al-Isra 17:1, at 2029, 36 words); entry-check.js ok, no errors or warns; src opens with the roster name.",
+ "better": ""
+}

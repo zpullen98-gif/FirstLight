@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And when he woke he said: Glory unto Thee! I turn unto Thee repentant, and I am the first of (true) believers.",
+ "ref": "Al-A'raf 7:143",
+ "at": [
+  1096
+ ],
+ "s": "Moses, after asking to gaze upon his Lord, falls senseless as the mountain is levelled; al-Tabari, on 7:143, reads his repentance as turning from that request, and takes him as first of his people to believe none sees Him in this world and lives.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 7:143, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/7.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 7:143 (packet.js quran 18 --verse 7.143), his own gloss on “fa-lamma afaqa qala subhanaka tubtu ilayka wa-ana awwalu l-mu’minin”, before the reports and his closing preference",
+    "via": "packet"
+   }
+  ],
+  "words": "\" قال سبحانك\"، تنزيهًا لك، يا رب، وتبرئةً أن يراك أحد في الدنيا، ثم يعيش = \"تبت إليك\"، من مسألتي إياك ما سألتك من الرؤية= \"وأنا أوّل المؤمنين\"، بك من قومي، أن لا يراك في الدنيا أحد إلا هلك",
+  "lang": "Arabic",
+  "gloss": "“He said: Glory unto Thee”: declaring You exalted, Lord, and clear of anyone seeing You in this world and then living; “I turn unto Thee”: from my asking You for the vision; “and I am the first of believers”: in You, of my people, that no one sees You in this world without perishing.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-A’raf 7:143, at 1096; the closing sentences of the ayah, beginning a sentence and ending with a full stop). Plain sense faithful: in 7:143 Moses asks to gaze upon his Lord, the mountain is sent crashing down and he falls senseless; no four-word run from the key. I read al-Tabari’s whole comment on 7:143 (the narrative reports, the dakk reading dispute, the ifaqa gloss, the reports on it and the tarjih). His own gloss says the repentance is from asking for the vision, and “first of the believers” is first of his people to believe that none sees God in this world and lives; he closes by preferring this over “first believer of the Children of Israel”, because there were believers and prophets among them before him. The sentence paraphrases exactly this, nothing added. 44 words; entry-check ok."
+}

@@ -1,0 +1,85 @@
+{
+ "lane": "S2",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 9,
+   "primary": {
+    "id": "quran-01-d009-p",
+    "key": "O mankind! Be careful of your duty to your Lord Who created you from a single soul and from it created its mate and from them twain hath spread abroad a multitude of men and women.",
+    "ref": "An-Nisa 4:1",
+    "at": [
+     493
+    ],
+    "s": "Opening a chapter of laws on orphans, inheritance, marriage and lewdness, the verse addresses all people; al-Tabari, on 4:1, reads it as teaching that all are children of one father and mother, owing each other a brother’s right, the strong giving the weak their due.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 4:1, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ومنبِّهَهم بذلك على أن جميعهم بنو رجل واحد وأم واحدة= وأن بعضهم من بعض، وأن حق بعضهم على بعض واجبٌ وجوبَ حق الأخ على أخيه، لاجتماعهم في النسب إلى أب واحد وأم واحدة … وعاطفًا بذلك بعضهم على بعض، ليتناصفوا ولا يتظالموا، وليبذُل القوي من نفسه للضعيف حقه بالمعروف",
+     "gloss": "God, describing Himself as the one Creator of all people from a single person, alerts His servants thereby that all of them are the children of one man and one mother, that they are of one another, and that the right of each upon the other is binding as a brother’s right upon his brother, since they share descent from one father and one mother … and so He turns them in kindness to one another, that they deal fairly and do not wrong each other, and that the strong render to the weak his due, in kindness."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d009-s",
+    "key": "And if ye fear a breach between them twain (the man and wife), appoint an arbiter from his folk and an arbiter from her folk. If they desire amendment Allah will make them of one mind.",
+    "ref": "An-Nisa 4:35",
+    "at": [
+     527
+    ],
+    "s": "After husbands are told to admonish, banish from bed and scourge wives they fear will rebel, the passage turns to discord; Ibn Kathir, on 4:35, reads it as aversion from both spouses, when men of both families weigh parting or reunion, the Lawgiver favouring reunion.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 4:35, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "ذَكَرَ [تَعَالَى] الْحَالَ الْأَوَّلَ، وَهُوَ إِذَا كَانَ النُّفُورُ وَالنُّشُوزُ مِنَ الزَّوْجَةِ، ثُمَّ ذَكَرَ الْحَالَ الثَّانِيَ وَهُوَ: إِذَا كَانَ النُّفُورُ مِنَ الزَّوْجَيْنِ … بَعَثَ الْحَاكِمُ ثِقَةً مَنْ أَهْلِ الْمَرْأَةِ، وَثِقَةً مِنْ قَوْمِ الرَّجُلِ، لِيَجْتَمِعَا وَيَنْظُرَا فِي أَمْرِهِمَا، وَيَفْعَلَا مَا فِيهِ الْمَصْلَحَةُ مِمَّا يَرَيَانِهِ مِنَ التَّفْرِيقِ أَوِ التَّوْفِيقِ وتَشَوف الشَّارِعُ إِلَى التَّوْفِيقِ",
+     "gloss": "God first named the case where aversion and rebellion come from the wife, then the second case, where the aversion comes from both spouses … [the jurists say] the ruler sends a trusted man from the wife’s family and a trusted man from the husband’s people, to meet and look into their affair and do what they see is in the couple’s interest, whether separating or reconciling them; and the Lawgiver looks towards reconciliation (hence the words ‘if they desire amendment’)."
+    }
+   }
+  },
+  {
+   "d": 10,
+   "primary": {
+    "id": "quran-01-d010-p",
+    "key": "Lo! Allah commandeth you that ye restore deposits to their owners, and, if ye judge between mankind, that ye judge justly.",
+    "ref": "An-Nisa 4:58",
+    "at": [
+     550
+    ],
+    "s": "After a curse on those given a portion of the Scripture who favoured idolaters, the passage turns to trusts and judgement; al-Tabari, on 4:58, reads it as spoken to rulers, the shepherd charged with his flock as the next verse charges the flock with obedience.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 4:58, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى هذه الأقوال بالصواب في ذلك عندي، قولُ من قال: هو خطاب من الله ولاةَ أمور المسلمين بأداء الأمانة إلى من وَلُوا أمره في فيئهم وحقوقهم، وما ائتمنوا عليه من أمورهم، بالعدل بينهم في القضية، والقَسْم بينهم بالسوية. يدل على ذلك ما وَعظ به الرعية في: ﴿أَطِيعُوا اللَّهَ وَأَطِيعُوا الرَّسُولَ وَأُولِي الأمْرِ مِنْكُمْ﴾ ، فأمرهم بطاعتهم، وأوصى الرّاعي بالرعية، وأوصى الرعية بالطاعة",
+     "gloss": "The most correct of these views to me is the view of those who said: it is God’s address to those in charge of the Muslims’ affairs, to render the trust to those whose affairs they hold, in their revenues and rights and whatever of their affairs they are entrusted with, with justice among them in judgement and equal shares in division. What shows this is His exhortation to the subjects in ‘obey Allah, and obey the messenger and those of you who are in authority’ (4:59): He commanded them to obey the rulers; He charged the shepherd with the flock, and charged the flock with obedience."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d010-s",
+    "key": "O ye who believe! When ye go forth (to fight) in the way of Allah, be careful to discriminate, and say not unto one who offereth you peace: “Thou art not a believer,” seeking the chance profits of this life (so that ye may despoil him).",
+    "ref": "An-Nisa 4:94",
+    "at": [
+     586
+    ],
+    "s": "Amid orders to fight, just after the penalties for killing a believer, the believers are warned; al-Wahidi, on 4:94, reads it, in his first report, as sent down after Muslims killed a man who greeted them with peace, and took his few sheep.",
+    "by": "wahidi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Wahidi, Asbāb al-nuzūl, on 4:94, ed. ʿIṣām al-Ḥumaydān (2nd ed., 1992), OpenITI text at commit cc9beb0",
+    "basis": {
+     "source": "wahidi",
+     "words": "عن ابن عباس قال: لحق المسلمون رجلا في غنيمة له، فقال: السلام عليكم، فقتلوه وأخذوا غنيمته، فنزلت هذه الآية: {ولا تقولوا لمن ألقى إليكم السلام لست مؤمنا تبتغون عرض الحياة الدنيا} أي تلك الغنيمة",
+     "gloss": "From Ibn Abbas: the Muslims overtook a man with a small flock of his own; he said, ‘Peace be upon you’, and they killed him and took his flock; then this ayah came down: ‘and say not to one who offers you peace, You are not a believer, seeking the goods of the life of this world’, that is, that flock. (The first of several reports he gives on 4:94; the others tell of other men killed after giving the greeting or declaring faith.)"
+    }
+   }
+  }
+ ]
+}

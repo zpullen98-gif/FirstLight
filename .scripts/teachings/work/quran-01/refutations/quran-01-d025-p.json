@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d025-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/11.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 25 --verse 11.46. al-Tabari reports both views (not his son: al-Hasan, Mujahid, Ibn Jurayj; his son but not of those promised rescue: Ibn ʿAbbas, ʿIkrima, Saʿid ibn Jubayr, al-Dahhak), then says in his own voice which is awla bi-l-sawab: not of the household I promised to save, because he opposed your religion and disbelieved in Me, and he was his son (God called him his son and cannot say otherwise). On ʿamalun ghayru salihin he states his preferred reading (reciters of the great cities) and its sense: your asking Me concerning your son is the unrighteous deed, since it asks Me not to do what I had said I would do. Evidence segments found verbatim (NFC). The paraphrase (truly his son, not of the household promised rescue, since he opposed Noah’s religion, the ‘evil conduct’ = the plea) matches his stated preferences, so the roster trap (say which he prefers only where he says so) is met; the reading is his, not Pickthall’s (whose ‘he is of evil conduct’ reads the son as subject), and the sentence marks that difference. Verse: verse.js ok, Hud 11:46 at 1518, first sentence of the ayah. Plain sense: 11:44 the water subsides, 11:45 Noah’s plea; ‘drowned’ rests on 11:43 just before the day’s passage and on 11:44, acceptable context. Locator right. entry-check ok on a scratch copy.",
+ "better": ""
+}

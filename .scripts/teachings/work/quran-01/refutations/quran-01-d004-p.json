@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d004-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 4 --verse 2.216: under kutiba 'alaykumu l-qital al-Tabari reports that some held the duty was on the Companions alone (Ata, with al-Awza'i's hesitation), that others held it binds each until those whose undertaking suffices take it up and then falls from the rest of the Muslims, and (after his judgement) that others held it binding on all until the Hour. Between the second and third he says in his own voice 'that is the correct view in our judgement', for the consensus of the authorities and for 4:95, where both strivers and those who stay behind are promised al-husna, which could not be if the latter neglected a duty. Evidence found verbatim. The sentence carries exactly that preference and the 4:95 reason; the consensus reason is omitted but nothing is added. Attribution is his explicit tarjih. Verse: verse.js ok, Al-Baqarah 2:216 at 222, the ayah itself. Plain sense matches day.js: 2:215, 2:217, 2:219 are questions put to the Prophet and 2:216 lays fighting on the believers; one plain clause, no four-word run. Tone neither softened nor sensational; the limit is his. No school, no comparison, no watch term. entry-check ok (scratch/refute-quran-01-d004-p.json).",
+ "better": ""
+}

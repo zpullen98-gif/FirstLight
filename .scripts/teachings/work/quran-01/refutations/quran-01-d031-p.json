@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d031-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 31 --verse 17.1: after reporting the bodily reading and the spirit-only reading (including the report from Aisha), al-Tabari gives his own preference (wal-sawab min al-qawl indana) that God carried His servant on al-Buraq, and says there is no sense in the spirit-without-body view because it would then be no proof of prophethood and the idolaters would not have denied it, since seeing a year-distant place in sleep was not objectionable. The evidence is verbatim and carries the whole paraphrase, including the dream comparison; he adds that animals carry only bodies. verse.js ok (Al-Isra 17:1, at 2029); entry-check ok. Plain sense accurate for the surah opening.",
+ "better": ""
+}

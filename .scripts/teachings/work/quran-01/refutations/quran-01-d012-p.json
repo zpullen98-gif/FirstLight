@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/5.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 12 --verse 5.32: in al-Tabari's comment on 5:32, after the reports (Mujahid, Qatada, al-Hasan and others on saving a life), Abu Ja'far gives his own preference first on the killing half and then, in his own voice, on 'wa-man ahyaha': the evidence words appear verbatim (whoever forbids himself the killing of one God has forbidden to be killed and does not proceed to it, the people have life from him through their safety from him), followed by the limit 'except where God permits killing' and his reason that no single life's saving equals all lives in immediate benefit, so the meaning is that all souls are safe from him. The sentence (refraining from a killing Allah forbids, leaving all people safe from the one who refrains) is his stated preference, with his limit, without drift. Verse: verse.js ok, Al-Ma'idah 5:32 at 700, first sentence of the ayah, ends before the prodigals sentence, the right line for the reading. Plain sense: 5:27 to 5:31 tell the two sons of Adam, 5:32 opens 'For that cause We decreed', 5:33 gives the reward of those who make war upon Allah and His messenger; says no more than the text and repeats no four-word run of the key. Locator right (on 5:32, tarjih paragraph after the reports). No school needed, no comparison, not softened or sensationalised. entry-check ok, no errors or warns.",
+ "better": ""
+}

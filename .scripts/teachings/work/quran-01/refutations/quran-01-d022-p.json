@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d022-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/9.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 22 --verse 9.122: al-Tabari’s comment is one segment labelled 9:121 to 9:122, so the locator is right. After reporting the views (Qatada: those who stay with the Prophet learn; al-Hasan: those who go out learn by what God shows them of victory), he gives his own tarjih verbatim as in the evidence: the most correct view is that the marching party gains understanding by witnessing God’s victory for the people of His religion over His enemies, and he rejects the stayers reading as impossible. The sentence (understanding gained by the party that marches, not by those who stay, from seeing God’s victory for the believers) is his preference, stated where he states it, without drift. Pickthall’s parenthesis ‘(who are left behind)’ is the translator’s addition (following the Qatada view); the reading attributed is al-Tabari’s, not the translator’s, and the contrast is his own rejection, not a resolution by the entry. Verse: verse.js ok, At-Tawbah 9:122 at 1356. Plain sense: 9:120 condemns staying behind the messenger, 9:123 commands fighting; no more than the text, hard matter plain. No school, no comparison. entry-check ok (43 words, one semicolon, verb takes, roster name).",
+ "better": ""
+}

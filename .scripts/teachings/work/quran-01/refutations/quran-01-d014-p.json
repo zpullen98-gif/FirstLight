@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d014-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/5.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 14 --verse 5.105: Ibn Kathir opens in his own voice with God commanding the believers to set their own souls right, whoever does so not harmed by another’s corruption, and after the grammatical note states that the ayah gives no ground for leaving off enjoining right and forbidding wrong when that is possible, before the Abu Bakr hadith; both evidence pieces string-match the Arabic (not the English abridgement). ‘While that remains possible’ renders idha kana fiʿlu dhalika mumkinan faithfully. Plain sense checked in day.js: 5:104 answers those content with what they found their fathers doing, then 5:105 addresses the believers. verse.js ok (Al-Ma’idah 5:105, at 773, three whole sentences within the unit); entry-check ok.",
+ "better": ""
+}

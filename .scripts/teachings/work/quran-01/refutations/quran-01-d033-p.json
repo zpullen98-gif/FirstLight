@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d033-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/18.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 33 --verse 18.46: al-Tabari's comment on 18:46 lists four views (the five prayers; dhikr by tasbih, tahmid, tahlil; obedience to God; good speech), then states his own preference verbatim as in the evidence: all works of good, because God did not single out some to the exclusion of others in scripture or in a report from the Prophet; he then rebuts restricting it to the words of praise on the Abu Hurayra hadith (they are among the enduring deeds, not all of them). So 'not only the five prayers or words of praise, since God singled none out' is his, stated as his preference, without drift. Verse: verse.js ok, Al-Kahf 18:46 at 2185, the ayah itself, the best line for the reading. Plain sense: 18:42 ruined garden, 18:45 vegetation turned to dry twigs, 18:46 sets ornament against enduring deeds; no more than the text. Locator right (on 18:46, closing tarjih paragraph). No school needed, no comparison, no hard passage. entry-check ok, 45 words (at the cap), one semicolon, verb 'takes', roster name.",
+ "better": ""
+}

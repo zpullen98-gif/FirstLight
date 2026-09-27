@@ -1,0 +1,77 @@
+{
+ "lane": "S1",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 3,
+   "primary": {
+    "id": "quran-01-d003-p",
+    "key": "Fight in the way of Allah against those who fight against you, but begin not hostilities. Lo! Allah loveth not aggressors.",
+    "ref": "Al-Baqarah 2:190",
+    "at": [196],
+    "s": "The verse opens the ayahs that command the believers to fight, slay and drive out those who fight them; al-Tabari, on 2:190, takes the command as unrepealed and reads the forbidden aggression as killing women, children or those who pay tribute.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 2:190, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى هذين القولين بالصواب، القولُ الذي قاله عمر بن عبد العزيز. لأن دعوى المدَّعي نَسْخَ آية يحتمل أن تكون غيرَ منسوخة، بغير دلالة على صحة دعواه، تحكُّم … فمعنى قوله:\"ولا تعتدوا\": لا تقتلوا وليدًا ولا امرأةً، ولا من أعطاكم الجزية من أهل الكتابَين والمجوس",
+     "gloss": "The sounder of these two views is the one ʿUmar ibn ʿAbd al-ʿAziz held (that the verse is not repealed, and that the transgression forbidden is against women, children and those who have not made war), since to claim that a verse which may well be unrepealed has been repealed, with no proof of the claim, is arbitrary … So the meaning of ‘and do not transgress’ is: do not kill a child or a woman, nor any who have given you the jizya (tribute) of the people of the two Books and the Magians."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d003-s",
+    "key": "And when My servants question thee concerning Me, then surely I am nigh. I answer the prayer of the suppliant when he crieth unto Me.",
+    "ref": "Al-Baqarah 2:186",
+    "at": [192],
+    "s": "Set among the rulings on the fast, the verse answers those who ask the Prophet about God; Ibn Kathir, on 2:186, reads it as a spur to prayer, which is never lost, and its placement as urging prayer at every breaking of the fast.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 2:186, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَالْمُرَادُ مِنْ هَذَا: أَنَّهُ تَعَالَى لَا يُخِيبُ دُعَاءَ دَاعٍ، وَلَا يَشْغَلُهُ عَنْهُ شَيْءٌ، بَلْ هُوَ سَمِيعُ الدُّعَاءِ. وَفِيهِ تَرْغِيبٌ فِي الدُّعَاءِ، وَأَنَّهُ لَا يَضِيعُ لَدَيْهِ تعالى … وَفِي ذِكْرِهِ تَعَالَى هَذِهِ الْآيَةَ الْبَاعِثَةَ عَلَى الدُّعَاءِ، مُتَخَلِّلَةً بَيْنَ أَحْكَامِ الصِّيَامِ، إِرْشَادٌ إِلَى الِاجْتِهَادِ فِي الدُّعَاءِ عِنْدَ إِكْمَالِ العِدّة، بَلْ وعندَ كُلِّ فِطْرٍ",
+     "gloss": "What is meant by this is that He, exalted, does not let the prayer of anyone who calls come to nothing, and nothing distracts Him from it; rather He hears prayer. In it is an encouragement to pray, and a sign that prayer is not lost with Him … In His placing this ayah, which moves people to pray, among the rulings on fasting, there is guidance to strive in prayer on completing the count of days, and indeed at every breaking of the fast."
+    }
+   }
+  },
+  {
+   "d": 4,
+   "primary": {
+    "id": "quran-01-d004-p",
+    "key": "Warfare is ordained for you, though it is hateful unto you; but it may happen that ye hate a thing which is good for you, and it may happen that ye love a thing which is bad for you. Allah knoweth, ye know not.",
+    "ref": "Al-Baqarah 2:216",
+    "at": [222],
+    "s": "Amid questions put to the Prophet, the believers are told that war is laid on them; al-Tabari, on 2:216, takes the duty as lifted from the rest once enough take it up, since those who stay behind are also promised good.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 2:216, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "هو على كل واحد حتى يقوم به من في قيامه الكفاية، فيسقطُ فرض ذلك حينئذ عن باقي المسلمين، كالصلاة على الجنائز وغسلهم الموتى ودفنهم، وعلى هذا عامة علماء المسلمين. قال أبو جعفر: وذلك هو الصواب عندنا لإجماع الحجة على ذلك … فأخبر جل ثناؤه أنّ الفضل للمجاهدين، وأن لهم وللقاعدين الحسنى، ولو كان القاعدون مضيِّعين فرضًا لكان لهم السُّوأى لا الحسنى",
+     "gloss": "(Others said:) it lies on every one until those whose undertaking suffices take it up, and then the duty falls from the rest of the Muslims, like the prayer over the dead and washing and burying them; and this is the view of the generality of Muslim scholars. Abu Jaʿfar (al-Tabari) said: that is the correct view in our judgement, for the consensus of the authorities on it … (citing 4:95) He, exalted, has told that the merit belongs to those who strive, and that for them and for those who stay behind alike is the good; had those who stay behind been neglecting a duty, theirs would have been the evil, not the good."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d004-s",
+    "key": "And of them (also) is he who saith: “Our Lord! Give unto us in the world that which is good and in the Hereafter that which is good, and guard us from the doom of Fire.”",
+    "ref": "Al-Baqarah 2:201",
+    "at": [207],
+    "s": "At the close of the pilgrimage rites, a second kind of petitioner follows one who asks for this world alone; al-Qurtubi, on 2:201, reads the two goods as the blessings of this world and the next, and the prayer as among the most comprehensive.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 2:201, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَالَّذِي عَلَيْهِ أَكْثَرُ أَهْلِ الْعِلْمِ أَنَّ الْمُرَادَ بِالْحَسَنَتَيْنِ نِعَمُ الدُّنْيَا وَالْآخِرَةِ. وَهَذَا هُوَ الصَّحِيحُ، فَإِنَّ اللَّفْظَ يَقْتَضِي هَذَا كُلَّهُ، فإن \"حَسَنَةً\" نَكِرَةٌ فِي سِيَاقِ الدُّعَاءِ، فَهُوَ مُحْتَمِلٌ لِكُلِ حَسَنَةٍ مِنَ الْحَسَنَاتِ عَلَى الْبَدَلِ … هَذِهِ الْآيَةُ مِنْ جَوَامِعِ الدُّعَاءِ الَّتِي عَمَّتِ الدُّنْيَا وَالْآخِرَةَ",
+     "gloss": "What most scholars hold is that the two goods mean the blessings of this world and of the next, and this is the sound view, for the wording requires all of it: ‘a good’ is indefinite in the setting of a prayer, so it can stand for any good whatever … This ayah is one of the comprehensive prayers, taking in both this world and the next."
+    }
+   }
+  }
+ ]
+}

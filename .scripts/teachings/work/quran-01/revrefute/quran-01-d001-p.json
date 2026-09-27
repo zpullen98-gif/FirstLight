@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d001-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/1.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 1 --verse 1.5. Al-Tabari's own gloss (qala Abu Ja'far) reads iyyaka na'budu as humbling, abasing and submitting to God alone, acknowledging His lordship and no other's; after the Ibn Abbas report (we affirm unity, fear and hope) he says in his own voice that he chose the sense of humbling and abasing over hoping and fearing because among all the Arabs servitude has abasement as its root. Both evidence passages are verbatim, and the paraphrase (humbling before Him alone, preferring this to hope and fear, servitude rooted in lowliness) stays inside them; the preference is one he states himself. day.js: 1:1 to 1:4 speak of Allah in the third person and 1:5 turns to Thee, so the context clause is accurate ('midway' is loose for ayah 5 of 7 but not false) and takes no four words from the key. The divine name outside quotation is now 'God' as rule 7 requires. verse.js ok (Al-Fatiha 1:5, at 4). entry-check ok, no warnings. Not a hard passage; no school, comparison or tone issue.",
+ "better": ""
+}

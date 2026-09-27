@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d031-p",
+ "d": 31,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Glorified be He Who carried His servant by night from the Inviolable Place of Worship to the Far distant place of worship the neighbourhood whereof We have blessed, that We might show him of Our tokens!",
+ "ref": "Al-Isra 17:1",
+ "at": [
+  2029
+ ],
+ "s": "Al-Isra opens by glorifying God for a journey by night; al-Tabari, on 17:1, takes it as bodily, not of the spirit alone, since a journey like a dream would be no sign of prophethood, nor anything its deniers would have disputed.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "Al-Tabari, Jāmiʿ al-bayān, on 17:1, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/17.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 17:1 (packet.js quran 31 --verse 17.1), his ruling on whether the night journey was of body or spirit",
+    "via": "packet"
+   }
+  ],
+  "words": "ولا معنى لقول من قال: أسرى بروحه دون جسده، لأن ذلك لو كان كذلك لم يكن في ذلك ما يوجب أن يكون ذلك دليلا على نبوّته، ولا حجة له على رسالته، ولا كان الذين أنكروا حقيقة ذلك من أهل الشرك، وكانوا يدفعون به عن صدقه فيه، إذ لم يكن منكرا عندهم، ولا عند أحد من ذوي الفطرة الصحيحة من بني آدم أن يرى الرائي منهم في المنام ما على مسيرة سنة",
+  "lang": "Arabic",
+  "gloss": "There is no sense in the saying of those who said He carried his spirit and not his body, for had it been so, there would have been nothing in it to make it a proof of his prophethood or an argument for his mission, nor would those of the idolaters who denied its reality, and used it to reject his truthfulness, have done so, since it was not objectionable to them, nor to anyone of sound nature among the children of Adam, that a dreamer should see in sleep what lies a year’s journey away.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Isra 17:1, at 2029), the first sentence of the ayah ending at the exclamation mark, 36 words. Plain sense faithful: the surah’s first ayah glorifies God for carrying His servant by night; no four-word run from the verse. In the packet on 17:1 al-Tabari reports both views with chains (by body on al-Buraq; by spirit, from ‘A’isha and Mu‘awiya), then in his own voice (“the correct saying in our view”) holds it was bodily and dismisses the spirit-only view because a dream-like journey would prove nothing of prophethood and the idolaters would not have denied it; he goes on to equate the spirit view with seeing in sleep, which grounds the sentence’s ‘like a dream’. No drift. Evidence one contiguous span. 41 words; entry-check ok."
+}

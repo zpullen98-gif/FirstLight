@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Ye will not attain unto piety until ye spend of that which ye love.",
+ "ref": "Al 'Imran 3:92",
+ "at": [
+  384
+ ],
+ "s": "After a ransom of gold is refused to those dying in disbelief, the surah turns to giving; al-Tabari, on 3:92, reads the piety as God’s kindness in bringing the believers into His Garden, reached by giving from the wealth they most wish to keep.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 3:92, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/3.json",
+    "edition": "Jāmiʿ al-bayān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 3:92 (packet.js quran 7 --verse 3.92), Abu Jaʿfar’s opening gloss, then his own paraphrase of the ayah after the reports that al-birr is the Garden",
+    "via": "packet"
+   }
+  ],
+  "words": "يعني بذلك جل ثناؤه: لن تدركوا، أيها المؤمنون، البرَّ = وهو\"البر\" من الله الذي يطلبونه منه بطاعتهم إياه وعبادتهم له ويرجونه منه، وذلك تفضّله عليهم بإدخالهم جنته، وصرف عذابه عنهم. … فتأويل الكلام: لن تنالوا، أيها المؤمنون، جنة ربكم =\"حتى تنفقوا مما تحبون\"، يقول: حتى تتصدقوا مما تحبون وتهوَوْن أن يكون لكم، من نفيس أموالكم",
+  "lang": "Arabic",
+  "gloss": "By it He, exalted be His praise, means: you will not attain, O believers, al-birr, which is the kindness from God that they seek from Him by their obedience and worship of Him and hope for from Him, and that is His favour to them in bringing them into His Garden and turning His punishment away from them. … So the sense of the words is: you will not reach, O believers, the Garden of your Lord ‘until you spend of what you love’, that is, until you give in alms of what you love and wish to keep for yourselves, of the choicest of your wealth.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds. The standing survivor still reads ‘Allah’s kindness’ and ‘bringing them’, whose only antecedent is ‘those dying in disbelief’. Re-opened packet.js quran 7 --verse 3.92. Abu Jaʿfar names the addressees ‘O believers’ (ayyuha al-muʾminun) twice, glosses al-birr as God’s favour in bringing them into His Garden, and paraphrases the ayah as giving in alms of what they love and wish to keep, of their choicest wealth. So ‘the believers’ and ‘God’s’ are both carried by his words. The evidence now joins these two verbatim pieces from the packet with an ellipsis, so the second half of the reading is covered too. Commentator and reading are kept. verse.js ok (Al 'Imran 3:92, at 384). entry-check ok, 44 words. Day 7 is no longer a hole and should come off the batch’s holes list; that list is the operator’s to edit."
+}

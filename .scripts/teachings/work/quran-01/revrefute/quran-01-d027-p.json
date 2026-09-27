@@ -1,0 +1,8 @@
+{
+ "id": "quran-01-d027-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/13.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 27 --verse 13.11 (cites 13.json): after al-Tabari settles the mu'aqqibat dispute, his own gloss (yaqulu ta'ala dhikruhu) on inna Allaha la yughayyiru ma bi-qawmin gives 'afiya and ni'ma removed with destruction until they change it by wronging and transgressing against one another, then His punishment falls; the evidence string-matches the packet verbatim and carries the whole paraphrase, including 'in punishment' ('uqubatuhu); no rival reading is reported on this clause and no preference is claimed. Nothing taken from Pickthall's '(first)' or 'hearts'. verse.js ok (Ar-Ra'd 13:11, at 1717), key begins at a sentence start inside the ayah and is the clause the reading concerns. day.js: 13:8 to 13:10 are on God's knowledge of the hidden and open, 13:12 turns to lightning, so 'amid' is fair; no four-word run from the key; no doctrine. Locator right. No school, comparison or hard-passage issue. entry-check ok, no warns; src now opens with the roster name.",
+ "better": ""
+}

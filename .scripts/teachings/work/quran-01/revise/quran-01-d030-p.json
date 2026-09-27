@@ -1,0 +1,42 @@
+{
+ "id": "quran-01-d030-p",
+ "d": 30,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Whosoever doeth right, whether male or female, and is a believer, him verily we shall quicken with good life, and We shall pay them a recompense in proportion to the best of what they used to do.",
+ "ref": "An-Nahl 16:97",
+ "at": [
+  1997
+ ],
+ "s": "After warning against trading God’s covenant for small gain, the surah turns to reward; al-Tabari, on 16:97, takes the good life as contentment, the reading he prefers among several, since one made content with his portion is not troubled chasing what escapes him.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 16:97, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/16.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "on 16:97 (packet.js quran 30 --verse 16.97), his preference after the reported readings of the good life",
+    "via": "packet"
+   }
+  ],
+  "words": "وأولى الأقوال بالصواب قول من قال: تأويل ذلك: فلنحيينه حياة طيبة بالقناعة، وذلك أن من قنعه الله بما قسم له من رزق لم يكثر للدنيا تعبه، ولم يعظم فيها نَصَبه ولم يتكدّر فيها عيشه باتباعه بغية ما فاته منها وحرصه على ما لعله لا يدركه فيها",
+  "lang": "Arabic",
+  "gloss": "The most correct of the sayings is that of those who said: its interpretation is, We shall give him a good life through contentment; for one whom God makes content with the provision He has allotted him does not multiply his toil for the world, his weariness in it does not grow great, and his living in it is not troubled by pursuing what has escaped him of it and craving what he may never attain in it.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The divine-name problem does not apply: the sentence already writes ‘God’ and has no ‘Allah’ outside the key verse. The source-line problem holds: src opened with ‘Al-Tabari’; now ‘al-Tabari’, the roster display name, as every other al-Tabari entry has it, 104 characters. Nothing else changed. Re-opened packet.js quran 30 --verse 16.97: the evidence (his stated preference for contentment and its reason) is re-found verbatim in al-Tabari on 16:97 (16.json). verse.js ok (An-Nahl 16:97, at 1997); entry-check ok, no warns."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d024-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/10.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 24 --verse 10.98. al-Tabari in his own voice (ma‘na al-kalam paragraph) glosses: no town that believed on seeing the punishment was profited by that faith, as Pharaoh’s faith did not profit him when drowning overtook him, except the folk of Jonah, whom it profited after the punishment had come down; God told His creatures it profited them alone among all nations; wa-mattaʿnahum ila hin = We deferred their terms and left them to enjoy their lifespans until death. All three evidence segments found verbatim (NFC). The paraphrase (the one people, after the punishment came down, as Pharaoh’s did not, spared to live out their term) is carried without drift; the Pharaoh comparison is his, and Pharaoh is named in the day’s text (10:90 to 10:92), so no rule 4 issue. Verse: verse.js ok, Yunus 10:98 at 1461, the second sentence of the ayah, the line the reading concerns. Plain sense: 10:90 to 10:92 rebuke Pharaoh’s belief at drowning and 10:98 names the folk of Jonah; no four-word run from the key; Pickthall’s parenthesis not used. Locator right. No school, comparison or softening. entry-check ok on a scratch copy.",
+ "better": ""
+}

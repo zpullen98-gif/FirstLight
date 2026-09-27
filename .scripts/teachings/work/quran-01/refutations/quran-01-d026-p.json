@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d026-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/12.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 26 --verse 12.53 (Ibn Kathir 12.json and al-Tabari 12.json). Ibn Kathir, in one comment on 12:50 to 12:53, glosses wa-ma ubarriʾu nafsi as the woman’s words (the soul talks and wishes, and that is why she solicited him), calls this the best-known and most fitting view, records that some take it as Joseph’s and that Ibn Jarir reported no other, and closes that the first is stronger because the whole speech is the ruler’s wife’s before the king and Joseph was not with them; the king had him brought afterwards. al-Tabari opens his own gloss on 12:53 with ‘Joseph says: I do not absolve myself of error’, souls command what they desire, except whom my Lord has mercy on. All evidence segments found verbatim (NFC). A genuine difference over the speaker, both named, not resolved (Ibn Kathir’s own preference is not carried into the sentence as a ranking). ‘confessing the desire behind her advances’ is carried by ‘the soul talks and wishes; that is why she solicited him’; ‘not yet present’ by ‘the king brought him only after’. Verse: verse.js ok, Yusuf 12:53 at 1648, first two sentences, Pickthall’s ‘(human)’ kept as printed and not attributed to either. Plain sense: 12:50 to 12:51, the women clear him and the ruler’s wife confesses in the king’s inquiry; it does not name the speaker of 12:53, so it takes no side. Locators right (range cited as one comment). Two commentators, under 60 words; entry-check ok on a scratch copy.",
+ "better": ""
+}

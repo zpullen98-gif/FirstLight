@@ -1,0 +1,241 @@
+{
+ "lane": "L4",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 27,
+   "primary": {
+    "id": "quran-01-d027-p",
+    "key": "Lo! Allah changeth not the condition of a folk until they (first) change that which is in their hearts; and if Allah willeth misfortune for a folk there is none that can repel it, nor have they a defender beside Him.",
+    "ref": "Ar-Ra'd 13:11",
+    "at": [
+     1717
+    ],
+    "s": "Amid verses on God’s knowledge of the hidden and the open, the surah speaks of a people’s lot; al-Tabari, on 13:11, takes it as the well-being and favour God does not strip away in punishment until they wrong and transgress against one another.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 13:11, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يقول تعالى ذكره: ﴿إن الله لا يغير ما بقوم﴾ ، من عافية ونعمة، فيزيل ذلك عنهم ويهلكهم= ﴿حتى يغيروا ما بأنفسهم﴾ من ذلك بظلم بعضهم بعضًا، واعتداء بعضهم على بعض، فَتَحلَّ بهم حينئذ عقوبته وتغييره",
+     "gloss": "He, exalted be His mention, says: God does not change what is with a people, of well-being and favour, removing it from them and destroying them, until they change what is in themselves of that, by wronging one another and one of them transgressing against another; then His punishment and His changing come down on them."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d027-s",
+    "key": "Go, O my sons, and ascertain concerning Joseph and his brother, and despair not of the Spirit of Allah. Lo! none despaireth of the Spirit of Allah save disbelieving folk.",
+    "ref": "Yusuf 12:87",
+    "at": [
+     1682
+    ],
+    "s": "Grieving for Joseph, the father answers his sons’ reproach by sending them out again; al-Qurtubi, on 12:87, reads the Spirit as God’s relief, which the believer hopes for in hardship and the disbeliever despairs of, and takes such despair as one of the grave sins.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 12:87, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "(وَلا تَيْأَسُوا مِنْ رَوْحِ اللَّهِ) أَيْ لَا تَقْنَطُوا مِنْ فَرَجِ اللَّهِ، قَالَهُ ابْنُ زَيْدٍ، يُرِيدُ: أَنَّ الْمُؤْمِنَ يَرْجُو فَرَجَ اللَّهِ، وَالْكَافِرَ يَقْنَطُ فِي الشِّدَّةِ. وَقَالَ قَتَادَةُ وَالضَّحَّاكُ: مِنْ رَحْمَةِ اللَّهِ. (إِنَّهُ لَا يَيْأَسُ مِنْ رَوْحِ اللَّهِ إِلَّا الْقَوْمُ الْكافِرُونَ) دَلِيلٌ عَلَى أَنَّ الْقُنُوطَ مِنَ الْكَبَائِرِ، وَهُوَ الْيَأْسُ",
+     "gloss": "(And despair not of the Spirit of God:) that is, do not lose hope of God’s relief; Ibn Zayd said it, meaning that the believer hopes for God’s relief and the disbeliever despairs in hardship. Qatada and al-Dahhak said: of God’s mercy. (None despairs of the Spirit of God save the disbelieving folk:) evidence that despair is one of the grave sins, and it is hopelessness."
+    }
+   }
+  },
+  {
+   "d": 28,
+   "primary": {
+    "id": "quran-01-d028-p",
+    "key": "Verily in the remembrance of Allah do hearts find rest!",
+    "ref": "Ar-Ra'd 13:28",
+    "at": [
+     1734
+    ],
+    "s": "Answering the call for a sign, the surah describes those God guides; Ibn Kathir, on 13:27 to 13:29, takes such rest as hearts leaning towards God, content with Him as protector and helper, and this line as saying He is worthy of it.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 13:27 to 13:29, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿الَّذِينَ آمَنُوا وَتَطْمَئِنُّ قُلُوبُهُمْ بِذِكْرِ اللَّهِ﴾ أَيْ: تَطِيبُ وَتَرْكَنُ إِلَى جَانِبِ اللَّهِ، وَتَسْكُنُ عِنْدَ ذِكْرِهِ، وَتَرْضَى بِهِ مَوْلًى وَنَصِيرًا؛ وَلِهَذَا قَالَ: ﴿أَلا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ﴾ أَيْ: هُوَ حَقِيقٌ بِذَلِكَ",
+     "gloss": "(Those who believe and whose hearts find rest in the remembrance of God:) that is, they grow glad and lean towards God’s side, settle at His remembrance, and are content with Him as protector and helper; and for this He said (Verily in the remembrance of God do hearts find rest), that is, He is worthy of that."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d028-s",
+    "key": "And the similitude of a bad saying is as a bad tree, uprooted from upon the earth, possessing no stability.",
+    "ref": "Ibrahim 14:26",
+    "at": [
+     1775
+    ],
+    "s": "Beside the goodly saying’s firm and fruitful tree, the surah sets its opposite; al-Tabari, on 14:26, takes the bad saying as associating partners with God, and its tree as the likeness of unbelief, which has no footing on earth and no way up to God.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 14:26, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يقول تعالى ذكره: ومثل الشِّركَ بالله، وهي \"الكلمة الخبيثة\"، = كشجرة خبيثة … وإنما ضُرِبت هذه الشجرة التي وصَفها الله بهذه الصفة لكُفر الكافر وشركِه به مثلا. يقول: ليس لكُفر الكافر وعَمَله الذي هو معصيةُ الله في الأرض ثباتٌ، ولا له في السماء مَصْعَد، لأنه لا يَصْعَد إلى الله منه شيء",
+     "gloss": "He, exalted be His mention, says: and the likeness of associating partners with God, which is ‘the bad word’, is as a bad tree. … This tree that God described so was struck only as a likeness for the unbelief of the unbeliever and his associating partners with Him. He says: the unbeliever’s unbelief and his work, which is disobedience to God, have no firmness on the earth and no ascent in heaven, because nothing of it rises to God."
+    }
+   }
+  },
+  {
+   "d": 29,
+   "primary": {
+    "id": "quran-01-d029-p",
+    "key": "Lo! We, even We, reveal the Reminder, and lo! We verily are its Guardian.",
+    "ref": "Al-Hijr 15:9",
+    "at": [
+     1810
+    ],
+    "s": "Answering those who call the Prophet mad, the surah turns to the revelation itself; Ibn Kathir, on 15:6 to 15:9, takes the Reminder as the Qur’an, guarded by God from alteration and change, and prefers this to referring the guarding to the Prophet.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 15:6 to 15:9, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "ثُمَّ قَرَّرَ تَعَالَى أَنَّهُ هُوَ الَّذِي أَنْزَلَ الذِّكْرَ، وَهُوَ الْقُرْآنُ، وَهُوَ الْحَافِظُ لَهُ مِنَ التَّغْيِيرِ وَالتَّبْدِيلِ. وَمِنْهُمْ مَنْ أَعَادَ الضَّمِيرَ فِي قَوْلِهِ تَعَالَى: ﴿لَهُ لَحَافِظُونَ﴾ عَلَى النَّبِيِّ … وَالْمَعْنَى الْأَوَّلُ أَوْلَى، وَهُوَ ظَاهِرُ السِّيَاقِ",
+     "gloss": "Then He, exalted, established that it is He who sent down the Reminder, which is the Qur’an, and that He is its guardian against alteration and change. Some referred the pronoun in (We are its Guardian) to the Prophet … but the first meaning is more fitting, and it is the plain sense of the context."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d029-s",
+    "key": "And serve thy Lord till the Inevitable cometh unto thee.",
+    "ref": "Al-Hijr 15:99",
+    "at": [
+     1900
+    ],
+    "s": "At the close of Al-Hijr, the Prophet, distressed by what the scoffers say, is told to praise his Lord and bow down; al-Tabari, on 15:97 to 15:99, takes the Inevitable as death, called by a word for certainty because it is sure to come.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 15:97 to 15:99, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "واعبد ربك حتى يأتيك الموت، الذي هو مُوقَن به. وقيل: يقين، وهو موقَن به، كما قيل: خمر عتيق، وهي معتَّقَة",
+     "gloss": "Serve your Lord until death comes to you, which is a thing held certain. It was called ‘certainty’ though it is what is held certain, as one says ‘old wine’ of wine that has been aged."
+    }
+   }
+  },
+  {
+   "d": 30,
+   "primary": {
+    "id": "quran-01-d030-p",
+    "key": "Whosoever doeth right, whether male or female, and is a believer, him verily we shall quicken with good life, and We shall pay them a recompense in proportion to the best of what they used to do.",
+    "ref": "An-Nahl 16:97",
+    "at": [
+     1997
+    ],
+    "s": "After warning against trading God’s covenant for small gain, the surah turns to reward; al-Tabari, on 16:97, takes the good life as contentment, the reading he prefers among several, since one made content with his portion is not troubled chasing what escapes him.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 16:97, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى الأقوال بالصواب قول من قال: تأويل ذلك: فلنحيينه حياة طيبة بالقناعة، وذلك أن من قنعه الله بما قسم له من رزق لم يكثر للدنيا تعبه، ولم يعظم فيها نَصَبه ولم يتكدّر فيها عيشه باتباعه بغية ما فاته منها وحرصه على ما لعله لا يدركه فيها",
+     "gloss": "The most correct of the sayings is that of those who said: its interpretation is, We shall give him a good life through contentment; for one whom God makes content with the provision He has allotted him does not multiply his toil for the world, his weariness in it does not grow great, and his living in it is not troubled by pursuing what has escaped him of it and craving what he may never attain in it."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d030-s",
+    "key": "Call unto the way of thy Lord with wisdom and fair exhortation, and reason with them in the better way.",
+    "ref": "An-Nahl 16:125",
+    "at": [
+     2025
+    ],
+    "s": "After Abraham is set forth as upright, the Prophet is told how to summon people to his Lord; Ibn Kathir, on 16:125, takes the reasoning it asks for as gentle, soft and courteous, the mildness Moses and Aaron were bidden to use with Pharaoh.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 16:125, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "أَيْ: مَنِ احْتَاجَ مِنْهُمْ إِلَى مُنَاظَرَةٍ وَجِدَالٍ، فَلْيَكُنْ بِالْوَجْهِ الْحَسَنِ بِرِفْقٍ وَلِينٍ وَحُسْنِ خِطَابٍ … فَأَمَرَهُ تَعَالَى بِلِينِ الْجَانِبِ، كَمَا أَمَرَ مُوسَى وَهَارُونَ، عَلَيْهِمَا السَّلَامُ، حِينَ بَعَثَهُمَا إِلَى فِرْعَوْنَ",
+     "gloss": "That is, whoever of them needs debate and argument, let it be in the good manner, with kindness, gentleness and fair address. … So He, exalted, commanded him to be mild, as He commanded Moses and Aaron, peace be upon them both, when He sent them to Pharaoh."
+    }
+   }
+  },
+  {
+   "d": 31,
+   "primary": {
+    "id": "quran-01-d031-p",
+    "key": "Glorified be He Who carried His servant by night from the Inviolable Place of Worship to the Far distant place of worship the neighbourhood whereof We have blessed, that We might show him of Our tokens!",
+    "ref": "Al-Isra 17:1",
+    "at": [
+     2029
+    ],
+    "s": "Al-Isra opens by glorifying God for a journey by night; al-Tabari, on 17:1, takes it as bodily, not of the spirit alone, since a journey like a dream would be no sign of prophethood, nor anything its deniers would have disputed.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 17:1, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ولا معنى لقول من قال: أسرى بروحه دون جسده، لأن ذلك لو كان كذلك لم يكن في ذلك ما يوجب أن يكون ذلك دليلا على نبوّته، ولا حجة له على رسالته، ولا كان الذين أنكروا حقيقة ذلك من أهل الشرك، وكانوا يدفعون به عن صدقه فيه، إذ لم يكن منكرا عندهم، ولا عند أحد من ذوي الفطرة الصحيحة من بني آدم أن يرى الرائي منهم في المنام ما على مسيرة سنة",
+     "gloss": "There is no sense in the saying of those who said He carried his spirit and not his body, for had it been so, there would have been nothing in it to make it a proof of his prophethood or an argument for his mission, nor would those of the idolaters who denied its reality, and used it to reject his truthfulness, have done so, since it was not objectionable to them, nor to anyone of sound nature among the children of Adam, that a dreamer should see in sleep what lies a year’s journey away."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d031-s",
+    "key": "And lower unto them the wing of submission through mercy, and say: My Lord! Have mercy on them both as they did care for me when I was little.",
+    "ref": "Al-Isra 17:24",
+    "at": [
+     2052
+    ],
+    "s": "Among commands on honouring aged parents, the believers are told how to bear themselves; al-Qurtubi, on 17:23 to 17:24, takes the lowered wing as a figure of tenderness and humility, drawn from a bird spreading its wing for its young, and born of mercy within.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 17:23 to 17:24, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "هَذِهِ اسْتِعَارَةٌ فِي الشَّفَقَةِ وَالرَّحْمَةِ بِهِمَا وَالتَّذَلُّلُ لَهُمَا تَذَلُّلُ الرَّعِيَّةِ لِلْأَمِيرِ وَالْعَبِيدِ لِلسَّادَةِ، كَمَا أَشَارَ إِلَيْهِ سعيد بن الْمُسَيَّبِ. وَضَرَبَ خَفْضَ الْجَنَاحِ وَنَصْبَهُ مَثَلًا لِجَنَاحِ الطَّائِرِ حِينَ يَنْتَصِبُ بِجَنَاحِهِ لِوَلَدِهِ … أَيْ إِنَّ هَذَا الْخَفْضَ يَكُونُ مِنَ الرَّحْمَةِ الْمُسْتَكِنَّةِ فِي النَّفْسِ",
+     "gloss": "This is a metaphor for tenderness and mercy towards them and for humbling oneself to them as subjects humble themselves to a ruler and servants to masters, as Sa‘id ibn al-Musayyab indicated. He struck the lowering and raising of the wing as a likeness of a bird’s wing when it spreads its wing over its young. … That is, this lowering comes from the mercy that dwells in the soul."
+    }
+   }
+  },
+  {
+   "d": 32,
+   "primary": {
+    "id": "quran-01-d032-p",
+    "key": "Establish worship at the going down of the sun until the dark of night, and (the recital of) the Qur’an at dawn.",
+    "ref": "Al-Isra 17:78",
+    "at": [
+     2106
+    ],
+    "s": "Turning from those who would drive the Prophet out, the surah gives him the hours of prayer; al-Tabari, on 17:77 to 17:78, takes ‘going down’ as the sun’s leaning past midday, for the noon prayer, and nightfall as the sunset prayer.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 17:77 to 17:78, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى القولين في ذلك بالصواب قول من قال: عنى بقوله ﴿أَقِمِ الصَّلاةَ لِدُلُوكِ الشَّمْسِ﴾ : صلاة الظهر، وذلك أن الدلوك في كلام العرب: الميل … بإقامتها عند غسق الليل، هي صلاة المغرب دون غيرها",
+     "gloss": "The more correct of the two sayings is that of those who said that by (Establish prayer at the dulūk of the sun) He meant the noon prayer, because dulūk in the speech of the Arabs is leaning. … (the prayer he was commanded) to establish at the dark of night is the sunset prayer and no other."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d032-s",
+    "key": "Lo! We have placed all that is on the earth as an ornament thereof that We may try them: which of them is best in conduct.",
+    "ref": "Al-Kahf 18:7",
+    "at": [
+     2146
+    ],
+    "s": "After consoling the Prophet over those who will not believe, Al-Kahf speaks of the earth’s adornment; the Jalalayn, on 18:7, takes the trial as of people who look upon it, and ‘best in conduct’ as most detached from it.",
+    "by": "jalalayn",
+    "by2": "",
+    "hedge": "",
+    "src": "The Jalalayn (al-Mahalli), Tafsīr al-Jalālayn, on 18:7, Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "jalalayn",
+     "words": "﴿إنّا جَعَلْنا ما عَلى الأَرْض﴾ مِن الحَيَوان والنَّبات والشَّجَر والأَنْهار وغَيْر ذَلِكَ ﴿زِينَة لَها لِنَبْلُوَهُمْ﴾ لِنَخْتَبِر النّاس ناظِرِينَ إلى ذَلِكَ ﴿أيّهمْ أحْسَن عَمَلًا﴾ فِيهِ أيْ أزْهَد لَهُ",
+     "gloss": "(We have placed what is on the earth:) of animals, plants, trees, rivers and the rest, (as an ornament for it, that We may try them:) that We may test people as they look upon that, (which of them is best in deed) in it, that is, most abstinent towards it."
+    }
+   }
+  }
+ ]
+}

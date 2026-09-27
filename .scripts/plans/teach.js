@@ -58,12 +58,22 @@ function fileText(part, payload, note) {
 }
 function hashOf(text) { return crypto.createHash('sha1').update(text).digest('hex').slice(0, 10); }
 
+/* The owner's holds: .scripts/plans/teachings/_hold.json, { "<planId>": "<why>" }.
+   A set named there is never listed for the reader, however complete, until
+   the owner has read it and the line is taken out (the plan's checkpoints:
+   the Qur'an's hard days, the Tanakh's sample, the Bible's pairs). */
+function readHold() {
+  const f = path.join(SRC_DIR, '_hold.json');
+  return fs.existsSync(f) ? JSON.parse(fs.readFileSync(f, 'utf8')) : {};
+}
+
 /* Given the built plans ({ id: { plan: { div, days } } }) and a checker
    (check-teachings.js checkSet), decide what each set produces. Nothing is
    written here. Returns { teach, files: [{ path, text }], stale: [paths],
    report: [lines], errors: [lines] }. */
 function planTeachings(all, checkSet) {
   const sets = readSets();
+  const HOLD = readHold();
   const teach = {}, files = [], report = [], errors = [];
   const want = new Set();
   Object.keys(sets).forEach(id => {
@@ -77,7 +87,14 @@ function planTeachings(all, checkSet) {
       return;
     }
     if (set.div !== built.plan.div) { errors.push('teachings/' + id + '.json: written against division ' + set.div + ', the plan is ' + built.plan.div); return; }
-    if (complete) {
+    /* a complete set held for the owner's reading stays in preview */
+    if (complete && HOLD[id]) {
+      const text = fileText('_preview/' + id, payloadOf(set, nDays), 'a PREVIEW of the teachings of ' + id + ', complete and held for the owner');
+      const p = path.join(PREVIEW_DIR, id + '.js');
+      files.push({ path: p, text });
+      want.add(p);
+      report.push(id + ': ' + nDays + ' of ' + nDays + ', complete, HELD (' + HOLD[id] + '); preview only (/?nosw&preview=teachings#/hall/' + id + ')');
+    } else if (complete) {
       const text = fileText(id, payloadOf(set, nDays), 'the teachings of ' + id);
       const p = path.join(OUT_DIR, id + '.js');
       files.push({ path: p, text });

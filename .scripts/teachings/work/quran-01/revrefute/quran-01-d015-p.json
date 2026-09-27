@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d015-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/6.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 15 --verse 6.108 (Ibn Kathir, Arabic). The evidence is verbatim from his opening sentence: God forbids His Messenger and the believers to revile the idolaters’ gods, even if there is benefit in it, because a greater harm follows, the idolaters reviling the believers’ God in return. Later in the same comment he names the principle himself (tark al-maslaha li-mafsada arjah minha, giving up a benefit for a weightier harm), which fully carries ‘a benefit given up for fear of a greater harm’; no drift. Plain sense matches day.js: 6:106 names the idolaters, 6:107 says the Prophet is not set as keeper over them, 6:108 is a plural address, which Ibn Kathir himself extends to the believers. verse.js ok (Al-An’am 6:108, at 896); entry-check ok. No hard passage, school or comparison issue.",
+ "better": ""
+}

@@ -1,0 +1,241 @@
+{
+ "lane": "L2",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 11,
+   "primary": {
+    "id": "quran-01-d011-p",
+    "key": "O ye who believe! Be ye staunch in justice, witnesses for Allah, even though it be against yourselves or (your) parents or (your) kindred, whether (the case be of) a rich man or a poor man, for Allah is nearer unto both (them ye are).",
+    "ref": "An-Nisa 4:135",
+    "at": [
+     627
+    ],
+    "s": "After a rebuke to those who pleaded for wrongdoers, the believers are called to testify; al-Tabari, on 4:135, reads it as schooling them against the false vouching given for the Banu Ubayriq over their theft, so that no wealth, poverty or kinship bends a witness.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 4:135, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وهذه الآية عندي تأديبٌ من الله جل ثناؤه عبادَه المؤمنين أن يفعلوا ما فعله الذين عذَروا بني أبيرق= في سرقتهم ما سرقوا … ولا يحملنكم غِنَى من شهدتم له أو فقره أو قرابته ورَحِمُه منكم، على الشهادة له بالزور، ولا على ترك الشهادة عليه بالحق وكتمانها.",
+     "gloss": "This ayah, in my view, is God’s schooling of His believing servants against doing what was done by those who excused the Banu Ubayriq in the theft they committed … Let not the wealth, the poverty, or the kinship and blood-tie to you of the one you testify for carry you to false witness for him, nor to leaving off true witness against him and concealing it."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d011-s",
+    "key": "Allah loveth not the utterance of harsh speech save by one who hath been wronged. Allah is ever Hearer, Knower.",
+    "ref": "An-Nisa 4:148",
+    "at": [
+     640
+    ],
+    "s": "After the hypocrites’ doom and the door left open to the penitent, the passage turns to speech; al-Qurtubi, on 4:148 to 4:149, hears the closing ‘Hearer, Knower’ as warning the wrongdoer against wrong and the wronged against pursuing redress past its bound.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 4:148 to 4:149, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "قَوْلُهُ تَعَالَى: ﴿وَكانَ اللَّهُ سَمِيعاً عَلِيماً﴾ تَحْذِيرٌ لِلظَّالِمِ حَتَّى لَا يَظْلِمَ، وَلِلْمَظْلُومِ حَتَّى لَا يَتَعَدَّى الْحَدَّ فِي الِانْتِصَارِ. ثُمَّ أَتْبَعَ هَذَا بِقَوْلِهِ: \"إِنْ تُبْدُوا خَيْراً أَوْ تُخْفُوهُ أَوْ تَعْفُوا عَنْ سُوءٍ\" فَنَدَبَ إِلَى الْعَفْوِ وَرَغَّبَ فِيهِ.",
+     "gloss": "His words ‘And God is ever Hearing, Knowing’ are a warning to the wrongdoer, that he not do wrong, and to the wronged, that he not pass the bound in seeking redress. Then He followed this with ‘If you show good or hide it, or pardon an evil’, and so commended pardon and urged it."
+    }
+   }
+  },
+  {
+   "d": 13,
+   "primary": {
+    "id": "quran-01-d013-p",
+    "key": "O ye who believe! Forbid not the good things which Allah hath made lawful for you, and transgress not, Lo! Allah loveth not transgressors.",
+    "ref": "Al-Ma'idah 5:87",
+    "at": [
+     755
+    ],
+    "s": "As rulings on food, oaths and strong drink begin, the believers are addressed; al-Tabari, on 5:87, takes ‘transgress not’ to bar any overstepping of God’s bounds, the companions who resolved to forbid themselves what He allowed being reproached for just that.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 5:87, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وكان الله تعالى ذكره قد عمَّ بقوله:\"لا تعتدوا\"، النهيَ عن العدوان كُلّه … وليس لأحدٍ أن يتعدَّى حدَّ الله تعالى في شي من الأشياء مما أحلَّ أو حرَّم … وذلك أن الذين همُّوا بما همُّوا به من تحريم بعض ما أحلَّ لهم على أنفسهم، إنما عوتبوا على ما همُّوا به من تجاوزهم ما سَنَّ لهم وحدَّ، إلى غيره.",
+     "gloss": "God, exalted be His mention, made general with His words ‘transgress not’ the prohibition of all transgression … and no one may overstep God’s bound in anything He has made lawful or forbidden … For those who resolved as they did to forbid themselves some of what was made lawful for them were reproached only for resolving to pass beyond what had been laid down and bounded for them, to something else."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d013-s",
+    "key": "O ye who believe! Ask not of things which, if they were made unto you, would trouble you; but if ye ask of them when the Qur’an is being revealed, they will be made known unto you.",
+    "ref": "Al-Ma'idah 5:101",
+    "at": [
+     769
+    ],
+    "s": "After the reminder that the messenger’s duty is only to convey, the believers are addressed; al-Wahidi, on 5:101, takes it as sent down over mocking questions put to the Prophet, one asking who his father was, and over whether pilgrimage was due every year.",
+    "by": "wahidi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Wahidi, Asbāb al-nuzūl, on 5:101, ed. al-Humaydan (1992), OpenITI, commit cc9beb0",
+    "basis": {
+     "source": "wahidi",
+     "words": "كان قوم يسألون النبي … استهزاء، فيقول الرجل: من أبي؟ ويقول الرجل تضل ناقته: أين ناقتي؟ فأنزل الله تعالى فيهم هذه الآية … لما نزلت هذه الآية: {ولله على الناس حج البيت} قالوا: يا رسول الله، أفي كل عام؟ فسكت، ثم قالوا: أفي كل عام؟ فسكت، ثم قال في الرابعة: \"لا، ولو قلت: نعم لوجبت\"، فأنزل الله تعالى: {يا أيها الذين آمنوا لا تسألوا عن أشياء إن تبد لكم تسؤكم}",
+     "gloss": "People used to question the Prophet in mockery: a man would say, ‘Who is my father?’, and a man whose she-camel had strayed would say, ‘Where is my camel?’ So God sent down this ayah about them … When the ayah ‘Pilgrimage to the House is a duty owed to God by mankind’ came down, they said, ‘Messenger of God, every year?’ He was silent; they asked again, ‘Every year?’ and he was silent; then at the fourth time he said, ‘No; had I said yes, it would have become binding.’ Then God sent down ‘O you who believe, ask not about things which, if made plain to you, would trouble you.’"
+    }
+   }
+  },
+  {
+   "d": 14,
+   "primary": {
+    "id": "quran-01-d014-p",
+    "key": "O ye who believe! Ye have charge of your own souls. He who erreth cannot injure you if ye are rightly guided.",
+    "ref": "Al-Ma'idah 5:105",
+    "at": [
+     773
+    ],
+    "s": "After those content with their fathers’ ways are answered, the believers are addressed; Ibn Kathir, on 5:105, reads it as a charge to mend their own souls, and not as leave to stop enjoining right and forbidding wrong while that remains possible.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 5:105, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "يَقُولُ تَعَالَى آمِرًا عِبَادَهُ الْمُؤْمِنِينَ أَنْ يُصْلِحُوا أَنْفُسَهُمْ وَيَفْعَلُوا الْخَيْرَ بِجُهْدِهِمْ وَطَاقَتِهِمْ، وَمُخْبِرًا لَهُمْ أَنَّهُ مَنْ أَصْلَحَ أَمْرَهُ لَا يَضُرُّهُ فَسَادُ مَنْ فَسَدَ مِنَ النَّاسِ، سَوَاءٌ كَانَ قَرِيبًا مِنْهُ أَوْ بَعِيدًا. … وَلَيْسَ فِي الْآيَةِ مسْتَدلٌّ عَلَى تَرْكِ الْأَمْرِ بِالْمَعْرُوفِ وَالنَّهْيِ عَنِ الْمُنْكَرِ، إِذَا كَانَ فِعْلُ ذَلِكَ مُمْكِنًا",
+     "gloss": "God, exalted, speaks commanding His believing servants to set their own souls right and to do good with all their effort and strength, and telling them that whoever sets his affairs right is not harmed by the corruption of those who are corrupt, whether near him or far … There is nothing in the ayah to argue for giving up the enjoining of right and the forbidding of wrong, when doing so is possible."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d014-s",
+    "key": "There is not an animal in the earth, nor a flying creature flying on two wings, but they are peoples like unto you. We have neglected nothing in the Book (of Our decrees). Then unto their Lord they will be gathered.",
+    "ref": "Al-An'am 6:38",
+    "at": [
+     826
+    ],
+    "s": "After the demand for a portent, the passage looks to the beasts; al-Tabari, on 6:38, reads it as arguing that God, who records the deeds of beast and bird and gathers them, will far less leave human deeds unrequited.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 6:38, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فالرب الذي لم يضيِّع حفظَ أعمال البهائم والدوابّ في الأرض، والطير في الهواء، حتى حفظ عليها حركاتها وأفعالها، وأثبت ذلك منها في أم الكتاب، وحشرها ثم جازاها على ما سلف منها في دار البلاء، أحرى أن لا يُضيع أعمالكم، ولا يُفَرِّط في حفظ أفعالكم التي تجترحونها، أيها الناس، حتى يحشركم فيجازيكم على جميعها، إن خيرًا فخيرًا، وإن شرًّا فشرًّا",
+     "gloss": "So the Lord who did not neglect to keep the deeds of the beasts and creatures on the earth and the birds in the air, but kept their movements and acts against them, set them down in the Mother of the Book, gathered them and then requited them for what they did in the abode of trial, is all the more certain not to let your deeds be lost, nor to fail in keeping the acts you commit, O people, until He gathers you and requites you for them all, good for good and evil for evil."
+    }
+   }
+  },
+  {
+   "d": 15,
+   "primary": {
+    "id": "quran-01-d015-p",
+    "key": "Revile not those unto whom they pray beside Allah lest they wrongfully revile Allah through ignorance.",
+    "ref": "Al-An'am 6:108",
+    "at": [
+     896
+    ],
+    "s": "After the Prophet is told he is no keeper over the idolaters, the believers are addressed; Ibn Kathir, on 6:108, reads it as a benefit given up for fear of a greater harm, since reviling the idolaters’ gods brings God reviled in return.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 6:108, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "يَقُولُ تَعَالَى نَاهِيًا لِرَسُولِهِ … وَالْمُؤْمِنِينَ عَنْ سَبِّ آلِهَةِ الْمُشْرِكِينَ، وَإِنْ كَانَ فِيهِ مَصْلَحَةٌ، إِلَّا أَنَّهُ يَتَرَتَّبُ عَلَيْهِ مَفْسَدَةٌ أَعْظَمُ مِنْهَا، وَهِيَ مُقَابَلَةُ الْمُشْرِكِينَ بِسَبِّ إِلَهِ الْمُؤْمِنِينَ، وَهُوَ اللَّهُ لَا إِلَهَ إِلَّا هُوَ. … وَهُوَ تَرْكُ الْمَصْلَحَةِ لِمَفْسَدَةٍ أَرْجَحَ مِنْهَا",
+     "gloss": "God, exalted, speaks forbidding His Messenger and the believers to revile the gods of the idolaters: even if there be some benefit in it, a greater harm follows from it, namely the idolaters answering by reviling the God of the believers, who is God, there is no god but He. … which is the giving up of a benefit for the sake of a harm that outweighs it."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d015-s",
+    "key": "Repel not those who call upon their Lord at morn and evening, seeking His Countenance.",
+    "ref": "Al-An'am 6:52",
+    "at": [
+     840
+    ],
+    "s": "Following the charge to warn those who fear the gathering, the Prophet is addressed; al-Tabari, on 6:52, reads it as reportedly sent down over weak believers the idolaters wanted gone, and takes their calling on their Lord to cover praise and works of worship.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 6:52, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ذكر أن هذه الآية نزلت على رسول الله … في سبب جماعة من ضعفاء المسلمين، قال المشركون له: لو طردت هؤلاء عنك لغشيناك وحضرنا مجلسك! … و\"الدعاء لله\"، يكون بذكره وتمجيده والثناء عليه قولا وكلامًا = وقد يكون بالعمل له بالجوارح الأعمالَ التي كان عليهم فرضُها … ولا قول أولى بذلك بالصحة، من وصف القوم بما وصفهم الله به: من أنهم كانوا يدعون ربهم بالغداة والعشي، فيعمُّون بالصفة التي وصفهم بها ربهم، ولا يخصُّون منها بشيء دون شيء.",
+     "gloss": "It is reported that this ayah came down to the Messenger of God on account of a group of the weak among the Muslims, when the idolaters said to him, ‘If you drove these away from you, we would come to you and attend your gathering.’ … Calling on God may be by remembering, glorifying and praising Him in speech and words, and it may be by working for Him with the limbs the works made obligatory on them … No view is sounder than to describe the people as God described them, as calling on their Lord morning and evening, taking the description He gave them in its generality and restricting it to nothing in particular."
+    }
+   }
+  },
+  {
+   "d": 16,
+   "primary": {
+    "id": "quran-01-d016-p",
+    "key": "Give full measure and full weight, in justice. We task not any soul beyond its scope.",
+    "ref": "Al-An'am 6:152",
+    "at": [
+     940
+    ],
+    "s": "Within the sacred duties the Prophet is told to recite, dealings in trade follow the orphan’s wealth; al-Tabari, on 6:152, reads ‘beyond its scope’ as asking no payer for more than the due, and no payee to settle for less.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 6:152, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فإنه يقول: لا نكلف نفسًا، من إيفاء الكيل والوزن، إلا ما يسعها فيحلّ لها ولا تحرَجُ فيه. … فأمر المعطي بإيفاء رب الحق حقَّه الذي هو له، ولم يكلِّفه الزيادة، لما في الزيادة عليه من ضيق نفسه بها. وأمر الذي له الحق، بأخذ حقه، ولم يكلفه الرضا بأقل منه، لما في النقصان عنه من ضيق نفسه.",
+     "gloss": "He is saying: We charge no soul, in giving full measure and weight, with more than it can bear, so that it is lawful for it and it is not straitened in it. … So He commanded the one who pays to give the owner of the right the full right that is his, and did not charge him with more, because more would straiten his soul; and He commanded the one owed to take his right, and did not charge him with being content with less, because falling short of it would straiten his soul."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d016-s",
+    "key": "And whomsoever it is Allah’s will to guide, He expandeth his bosom unto the Surrender, and whomsoever it is His Will to send astray, He maketh his bosom close and narrow as if he were engaged in sheer ascent.",
+    "ref": "Al-An'am 6:125",
+    "at": [
+     913
+    ],
+    "s": "After the demand to be given what messengers receive, the passage turns to guidance; the Jalalayn, on 6:125, explains the widening as light cast into the heart so that it opens, and the climb as the strain of faith on the one led astray.",
+    "by": "jalalayn",
+    "by2": "",
+    "hedge": "",
+    "src": "The Jalalayn, Tafsīr al-Jalālayn, on 6:125, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "jalalayn",
+     "words": "﴿فَمَن يُرِدْ اللَّه أنْ يَهْدِيه يَشْرَح صَدْره لِلْإسْلامِ﴾ بِأَنْ يَقْذِف فِي قَلْبه نُورًا فَيَنْفَسِح لَهُ ويَقْبَلهُ كَما ورَدَ فِي حَدِيث ﴿ومَن يُرِدْ﴾ اللَّه ﴿أنْ يُضِلّهُ يَجْعَل صَدْره ضَيِّقًا﴾ بِالتَّخْفِيفِ والتَّشْدِيد عَنْ قَبُوله … ﴿فِي السَّماء﴾ إذا كُلِّفَ الإيمان لِشِدَّتِهِ عَلَيْهِ",
+     "gloss": "‘Whom God wills to guide, He opens his breast to Islam’: by casting a light into his heart, so that it widens for it and accepts it, as a hadith relates. ‘And whom God wills to send astray, He makes his breast narrow’ against accepting it … ‘as though he were climbing into the sky’ when charged with faith, because of how hard it is upon him."
+    }
+   }
+  },
+  {
+   "d": 17,
+   "primary": {
+    "id": "quran-01-d017-p",
+    "key": "O Children of Adam! We have revealed unto you raiment to conceal your shame, and splendid vesture, but the raiment of restraint from evil, that is best.",
+    "ref": "Al-A'raf 7:26",
+    "at": [
+     979
+    ],
+    "s": "After Adam and his wife leave the Garden, their shame laid bare, the surah turns to his children; al-Tabari, on 7:26, reads the ‘raiment of restraint’ as the fear of God worn next to the soul, gathering faith, good works, modesty and awe.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 7:26, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى الأقوال بالصحة في تأويل قوله:\"ولباس التقوى\"، استشعار النفوس تقوى الله، في الانتهاء عما نهى الله عنه من معاصيه، والعمل بما أمر به من طاعته، وذلك يجمع الإيمان، والعمل الصالح، والحياء، وخشية الله، والسمتَ الحسن",
+     "gloss": "The soundest of the views on the meaning of His words ‘the raiment of piety’ is the souls’ wearing the fear of God as the garment next to them, in refraining from the acts of disobedience God has forbidden and in doing the obedience He has commanded; and that gathers faith, good works, modesty, awe of God and a good bearing."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d017-s",
+    "key": "O Children of Adam! Look to your adornment at every place of worship, and eat and drink, but be not prodigal.",
+    "ref": "Al-A'raf 7:31",
+    "at": [
+     984
+    ],
+    "s": "After the lewdness excused by ancestral custom, the children of Adam are addressed again; al-Qurtubi, on 7:31, takes it as aimed at those who circled the House naked, yet binding for prayer at every mosque, since the general wording, not the occasion, governs.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 7:31, Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "قَوْلُهُ تَعَالَى: ﴿يَا بَنِي آدَمَ﴾ هُوَ خِطَابٌ لِجَمِيعِ الْعَالَمِ، وَإِنْ كَانَ الْمَقْصُودُ بِهَا مَنْ كَانَ يَطُوفُ مِنَ الْعَرَبِ بِالْبَيْتِ عُرْيَانًا، فَإِنَّهُ عَامٌّ فِي كُلِّ مَسْجِدٍ لِلصَّلَاةِ. لِأَنَّ الْعِبْرَةَ لِلْعُمُومِ لَا! لِلسَّبَبِ.",
+     "gloss": "His words ‘O Children of Adam’ are an address to the whole world; and though those meant by it were the Arabs who used to circle the House naked, it is general for every mosque, for prayer, because what counts is the generality of the wording and not the occasion."
+    }
+   }
+  }
+ ]
+}

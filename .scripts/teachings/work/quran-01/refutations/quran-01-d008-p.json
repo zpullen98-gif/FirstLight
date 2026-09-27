@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d008-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/3.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 8 --verse 3.159: after three reported views on why the Prophet is told to consult (to put hearts at ease and bind them to their religion; for the merit of counsel; so the believers after him follow his practice), al-Tabari gives his tarjih ('awla al-aqwal bi-l-sawab'): God commanded consultation of his Companions in matters of the enemy and war, to win over those whose insight into Islam was not yet secure against Satan's temptation, and to teach his community to consult among themselves after him. Evidence words found verbatim (1 hit). The sentence carries both limbs and nothing more; it is his stated preference, so naming it as his reading is right. It omits his confinement to matters of war, but claims no scope. Plain sense checked against day.js: 3:155 says those who turned back on the day the hosts met are forgiven, then 3:159 tells the Prophet to pardon them; the identification of 'them' with those who turned back is al-Qurtubi's explicit reading and is compatible with al-Tabari, who glosses 'them' as the Prophet's followers and Companions and the pardon as for what they did against him. verse.js ok (Al 'Imran 3:159, at 451). 44 words; entry-check ok (scratch/refute-quran-01-d008-p.json).",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d005-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/2.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 5 --verse 2.286: al-Tabari opens by glossing la yukallifu Allahu nafsan illa wusʿaha as God not binding a soul to His service except with what it can bear, neither constraining nor overtaxing it; reports Ibn ʿAbbas and al-Suddi tying it to the whisperings believers could not resist; then, after the gloss on laha ma kasabat, gives his own summary fa-taʾwil al-aya idhan, verbatim as in the evidence: no overtaxing, no constraint in the matter of its religion by taking it to account for an intention, a whispering or a passing thought. The paraphrase carries exactly this and no more. Verse: verse.js ok, Al-Baqarah 2:286 at 292, the ayah’s opening sentence ending in a full stop. Plain sense: 2:284 says Allah will bring to account what is in minds whether shown or hidden, and 2:286 closes the surah; accurate, no four-word run. Locator right. No hard passage, school or comparison. entry-check ok.",
+ "better": ""
+}

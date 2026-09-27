@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d016-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/6.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Revision changes only the context clause. Re-opened packet.js quran 16 --verse 6.152 (al-Tabari, Arabic, seg [6:152] alone, not a range). In the section on la nukallifu nafsan illa wusʿaha he speaks in his own voice with no competing reported views: no soul is charged, in full measure and weight, beyond what is within its capacity; the payer is commanded to give the due and not charged with more, the one owed to take his right and not charged with being content with less. The evidence is a contiguous verbatim span there, and the paraphrase carries no more than it. New plain sense checked against day.js: 6:151 opens ‘Say: Come, I will recite unto you that which your Lord hath made a sacred duty’, 6:152 puts the orphan’s wealth first, then measure and weight; the clause states that order, names no commentator and repeats no four words of the key; al-Tabari himself ties the measure clause back to the 6:151 list. verse.js ok (Al-An'am 6:152, at 940); entry-check ok on the revision as written; three-word quote of the key within the cap; no comparison, school or tone issue.",
+ "better": ""
+}

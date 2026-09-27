@@ -1,0 +1,241 @@
+{
+ "lane": "L1",
+ "plan": "quran",
+ "batch": "quran-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "quran-01-d001-p",
+    "key": "Thee (alone) we worship; Thee (alone) we ask for help.",
+    "ref": "Al-Fatiha 1:5",
+    "at": [
+     4
+    ],
+    "s": "Midway through the opening surah, the praise of Allah turns into direct address; al-Tabari, on 1:5, reads the worship as humbling and abasing oneself before Him alone, preferring this to hope and fear because to the Arabs servitude is rooted in lowliness.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 1:5, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وتأويل قوله ﴿إيَّاكَ نعبُدُ﴾ : لك اللهم نَخشعُ ونَذِلُّ ونستكينُ، إقرارًا لك يا رَبنا بالرُّبوبية لا لغيرك … وإنما اخترنا البيان عن تأويله بأنه بمعنى نَخشع ونذلّ ونستكينُ، دون البيان عنه بأنه بمعنى نرجو ونَخاف- وإن كان الرّجاء والخوف لا يكونان إلا مع ذلة- لأنّ العبودية، عندَ جميع العرب أصلُها الذلّة",
+     "gloss": "The meaning of ‘Thee we worship’ is: to Thee, O God, we humble ourselves, abase ourselves and submit, acknowledging Thy lordship and no other’s … We chose to explain it as ‘we humble ourselves, abase ourselves and submit’ rather than as ‘we hope and fear’ (though hope and fear exist only with abasement) because servitude, among all the Arabs, has abasement as its root."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d001-s",
+    "key": "Thee (alone) we worship; Thee (alone) we ask for help.",
+    "ref": "Al-Fatiha 1:5",
+    "at": [
+     4
+    ],
+    "s": "After three ayahs of praise, the opening surah turns to direct address; Ibn Kathir, on 1:5, reads the turn as the worshipper, having praised, drawing near as if to stand before Allah, and the repeated pronoun set first as confining worship and trust to Him.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 1:5, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَقُدِّمَ الْمَفْعُولُ وَهُوَ ﴿إِيَّاكَ﴾ ، وَكُرِّرَ؛ لِلِاهْتِمَامِ وَالْحَصْرِ، أَيْ: لَا نَعْبُدُ إِلَّا إِيَّاكَ، وَلَا نَتَوَكَّلُ إِلَّا عَلَيْكَ، وَهَذَا هُوَ كَمَالُ الطَّاعَةِ … وَتَحَوُّلُ الْكَلَامِ مِنَ الْغَيْبَةِ إِلَى الْمُوَاجَهَةِ بِكَافِ الْخِطَابِ، وَهُوَ مُنَاسَبَةٌ ، لِأَنَّهُ لَمَّا أَثْنَى عَلَى اللَّهِ فَكَأَنَّهُ اقْتَرَبَ وَحَضَرَ بَيْنَ يَدَيِ اللَّهِ تَعَالَى",
+     "gloss": "The object, ‘Thee’, is put first and repeated, for emphasis and restriction: that is, we worship none but Thee and rely on none but Thee, and this is the perfection of obedience … The speech turns from the third person to face-to-face address with the pronoun of the second person, and this is fitting, because when he has praised God it is as though he has drawn near and come to stand before God Most High."
+    }
+   }
+  },
+  {
+   "d": 2,
+   "primary": {
+    "id": "quran-01-d002-p",
+    "key": "Unto Allah belong the East and the West, and whithersoever ye turn, there is Allah’s Countenance.",
+    "ref": "Al-Baqarah 2:115",
+    "at": [
+     121
+    ],
+    "s": "Following a warning against barring worshippers from Allah’s sanctuaries, the surah claims every direction for Him; al-Tabari, on 2:115, reads the naming of East and West as teaching believers that all creatures between them are His and owe Him obedience, facing wherever He directs them.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 2:115, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "والصواب من القول في ذلك: أن الله تعالى ذكره إنما خص الخبر عن المشرق والمغرب في هذه الآية بأنهما له ملكا، وإن كان لا شيء إلا وهو له ملك - إعلاما منه عباده المؤمنين أن له ملكهما وملك ما بينهما من الخلق، وأن على جميعهم = إذ كان له ملكهم = طاعته فيما أمرهم ونهاهم، وفيما فرض عليهم من الفرائض، والتوجهِ نحو الوجه الذي وجهوا إليه، إذْ كان من حكم المماليك طاعة مالكهم",
+     "gloss": "The right view of this is that God singled out East and West in this ayah as His possession, though there is nothing that is not His possession, to inform His believing servants that He owns them both and the creatures between them, and that all of these, since He owns them, owe Him obedience in what He commands and forbids, in the duties He lays on them, and in turning toward the direction to which they are turned, since it is the rule of those owned to obey their owner."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d002-s",
+    "key": "Nay, but whosoever surrendereth his purpose to Allah while doing good, his reward is with his Lord; and there shall no fear come upon them neither shall they grieve.",
+    "ref": "Al-Baqarah 2:112",
+    "at": [
+     118
+    ],
+    "s": "Answering those who claim paradise for themselves alone, the surah says who is rewarded; Ibn Kathir, on 2:111 to 2:113, reads it as setting two conditions for any deed to be accepted: sincerity to Allah alone, and conformity to the revealed law.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 2:111 to 2:113, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿بَلَى مَنْ أَسْلَمَ وَجْهَهُ لِلَّهِ وَهُوَ مُحْسِنٌ﴾ أَيْ: مَنْ أَخْلَصَ الْعَمَلَ لِلَّهِ وَحْدَهُ لَا شَرِيكَ لَهُ … فَإِنَّ لِلْعَمَلِ الْمُتَقَبَّلِ شَرْطَيْنِ، أَحَدُهُمَا: أَنْ يَكُونَ خَالِصًا لِلَّهِ وَحْدَهُ وَالْآخَرُ: أَنْ يَكُونَ صَوَابًا مُوَافِقًا لِلشَّرِيعَةِ. فَمَتَى كَانَ خَالِصًا وَلَمْ يَكُنْ صَوَابًا لَمْ يُتَقَبَّلْ",
+     "gloss": "‘Nay, whoever surrenders his face to God while doing good’: that is, whoever makes his work sincere for God alone, who has no partner … For an accepted deed has two conditions: one, that it be sincerely for God alone; the other, that it be right, in accord with the revealed law. Whenever it is sincere but not right, it is not accepted."
+    }
+   }
+  },
+  {
+   "d": 5,
+   "primary": {
+    "id": "quran-01-d005-p",
+    "key": "Allah tasketh not a soul beyond its scope.",
+    "ref": "Al-Baqarah 2:286",
+    "at": [
+     292
+    ],
+    "s": "Near the surah’s close, after the warning that hidden thoughts will be reckoned, comes this assurance; al-Tabari, on 2:286, reads it as Allah never overtaxing a soul in its religion, nor holding it to account for an intention, a whispered suggestion or a passing thought.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 2:286, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يعني بذلك جل ثناؤه: لا يكلف الله نفسا فيتعبدها إلا بما يسعها، فلا يضيق عليها ولا يجهدها … فتأويل الآية إذا: لا يكلف الله نفسا إلا ما يسعها فلا يجهدها، ولا يضيق عليها في أمر دينها، فيؤاخذها بهمة إن همت، ولا بوسوسة إن عرضت لها، ولا بخطرة إن خطرت بقلبها",
+     "gloss": "He means by it: God does not burden a soul, binding it to His service, except with what is within its capacity, so He does not constrain it or overtax it … The meaning of the ayah, then, is: God burdens no soul except with what is within its capacity, so He does not overtax it, nor constrain it in the matter of its religion by taking it to account for an intention if it intends, a whispering if one comes to it, or a passing thought if one crosses its heart."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d005-s",
+    "key": "A kind word with forgiveness is better than almsgiving followed by injury.",
+    "ref": "Al-Baqarah 2:263",
+    "at": [
+     269
+    ],
+    "s": "Amid ayahs on alms without reproach or hurt, the surah weighs speech against giving; Ibn Kathir, on 2:262 to 2:264, reads the ‘kind word’ as a good word and a prayer for a Muslim, and the forgiveness as pardoning a wrong of word or deed.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 2:262 to 2:264, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "ثُمَّ قَالَ تَعَالَى: ﴿قَوْلٌ مَعْرُوفٌ﴾ أَيْ: مِنْ كَلِمَةٍ طَيِّبَةٍ وَدُعَاءٍ لِمُسْلِمٍ ﴿وَمَغْفِرَة﴾ أَيْ: غَفَرَ عَنْ ظُلْمٍ قَوْلِيٍّ أَوْ فِعْلِيٍّ ﴿خَيْرٌ مِنْ صَدَقَةٍ يَتْبَعُهَا أَذًى﴾",
+     "gloss": "Then He says: ‘a kind word’, that is, a good word and a prayer for a Muslim; ‘and forgiveness’, that is, pardoning a wrong done in word or in deed; ‘is better than an alms followed by injury’."
+    }
+   }
+  },
+  {
+   "d": 6,
+   "primary": {
+    "id": "quran-01-d006-p",
+    "key": "Say, (O Muhammad, to mankind): If ye love Allah, follow me; Allah will love you and forgive you your sins.",
+    "ref": "Al 'Imran 3:31",
+    "at": [
+     323
+    ],
+    "s": "Before the surah turns to the family of ’Imran, the Prophet is told what to say to mankind; Ibn Kathir, on 3:31 to 3:32, reads the promise as giving more than was sought, Allah’s love for them, greater than their love for Him.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 3:31 to 3:32, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَلِهَذَا قَالَ: ﴿قُلْ إِنْ كُنْتُمْ تُحِبُّونَ اللَّهَ فَاتَّبِعُونِي يُحْبِبْكُمُ اللَّهُ﴾ أَيْ: يَحْصُلُ لَكُمْ فَوْقَ مَا طَلَبْتُمْ مِنْ مَحَبَّتِكُمْ إِيَّاهُ، وَهُوَ مَحَبَّتُهُ إِيَّاكُمْ، وَهُوَ أَعْظَمُ مِنَ الْأَوَّلِ",
+     "gloss": "For this reason He said: ‘Say: If you love God, follow me; God will love you’; that is, there comes to you something above what you sought in your love for Him, namely His love for you, and this is greater than the first."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d006-s",
+    "key": "None knoweth its explanation save Allah. And those who are of sound instruction say: We believe therein; the whole is from our Lord; but only men of understanding really heed.",
+    "ref": "Al 'Imran 3:7",
+    "at": [
+     299
+    ],
+    "s": "Dividing the Scripture into clear revelations and allegorical ones, the surah faults those who pursue the allegorical; al-Tabari, on 3:7 to 3:8, reads the explanation withheld as the time of the Hour, the learned excelling others by knowing that Allah alone knows it.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 3:7 to 3:8, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يعني جل ثناؤه بذلك: وما يعلم وقتَ قيام الساعة، وانقضاء مدة أكل محمد وأمته، وما هو كائن، إلا الله، دونَ منْ سواه من البشر الذين أمَّلوا إدراك علم ذلك من قبل الحساب والتنجيم والكهانة. وأما الراسخون في العلم فيقولون:\"آمنا به، كل من عند ربنا\" - لا يعلمون ذلك، ولكن فَضْل عِلمهم في ذلك على غيرهم، العلمُ بأن الله هو العالم بذلك دونَ منْ سواه من خلقه",
+     "gloss": "He means by it: none knows the time when the Hour will come, the end of the span allotted to Muhammad and his community, and what is to be, except God, and none of the human beings who hoped to grasp it by reckoning, astrology and divination. As for those firmly rooted in knowledge, they say ‘We believe in it; all is from our Lord’: they do not know that, but the excellence of their knowledge in it over others is the knowledge that God alone of His creation knows it."
+    }
+   }
+  },
+  {
+   "d": 7,
+   "primary": {
+    "id": "quran-01-d007-p",
+    "key": "Ye will not attain unto piety until ye spend of that which ye love.",
+    "ref": "Al 'Imran 3:92",
+    "at": [
+     384
+    ],
+    "s": "After a ransom of gold is refused to those dying in disbelief, the surah turns to giving; al-Tabari, on 3:92, reads the piety as Allah’s kindness in bringing them into His Garden, reached by giving from the wealth they most wish to keep.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 3:92, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يعني بذلك جل ثناؤه: لن تدركوا، أيها المؤمنون، البرَّ = وهو\"البر\" من الله الذي يطلبونه منه بطاعتهم إياه وعبادتهم له ويرجونه منه، وذلك تفضّله عليهم بإدخالهم جنته، وصرف عذابه عنهم … فتأويل الكلام: لن تنالوا، أيها المؤمنون، جنة ربكم =\"حتى تنفقوا مما تحبون\"، يقول: حتى تتصدقوا مما تحبون وتهوَوْن أن يكون لكم، من نفيس أموالكم",
+     "gloss": "He means by it: you will not attain, O believers, al-birr, the kindness from God that they seek from Him by obeying and worshipping Him and hope for from Him, and that is His favour to them in bringing them into His Garden and turning His punishment from them … So the meaning of the words is: you will not reach, O believers, your Lord’s Garden ‘until you spend of what you love’, that is, until you give in alms from what you love and wish to keep for yourselves, of your most precious wealth."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d007-s",
+    "key": "And hold fast, all of you together, to the cable of Allah, and do not separate.",
+    "ref": "Al 'Imran 3:103",
+    "at": [
+     395
+    ],
+    "s": "After urging the believers to die only in surrender, the surah calls them to unity; al-Qurtubi, on 3:103, reads the ban on division as no bar to differing over points of law, since the Companions differed on rulings and stayed in concord.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 3:103, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَلَيْسَ فِيهِ دَلِيلٌ عَلَى تَحْرِيمِ الِاخْتِلَافِ فِي الْفُرُوعِ، فَإِنَّ ذَلِكَ لَيْسَ اخْتِلَافًا إِذِ الِاخْتِلَافُ مَا يَتَعَذَّرُ مَعَهُ الِائْتِلَافُ وَالْجَمْعُ، وَأَمَّا حُكْمُ مَسَائِلِ الِاجْتِهَادِ فَإِنَّ الِاخْتِلَافَ فِيهَا بِسَبَبِ اسْتِخْرَاجِ الْفَرَائِضِ وَدَقَائِقِ مَعَانِي الشَّرْعِ، وَمَا زَالَتِ الصَّحَابَةُ يَخْتَلِفُونَ فِي أَحْكَامِ الْحَوَادِثِ، وَهُمْ مَعَ ذَلِكَ مُتَآلِفُونَ",
+     "gloss": "There is no proof in it that disagreement over the branches of the law is forbidden, for that is not disagreement, since disagreement is that with which concord and union become impossible; as for questions open to independent judgement, disagreement in them comes from deriving the duties and the fine points of the law, and the Companions never ceased to disagree over the rulings on new cases, and they were nevertheless in concord."
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "quran-01-d008-p",
+    "key": "So pardon them and ask forgiveness for them and consult with them upon the conduct of affairs.",
+    "ref": "Al 'Imran 3:159",
+    "at": [
+     451
+    ],
+    "s": "Once those who turned back in battle are forgiven, the Prophet is told how to treat them; al-Tabari, on 3:159, reads the command to consult as winning over those not yet firm in Islam and teaching his community to take counsel together after him.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 3:159, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى الأقوال بالصواب في ذلك أن يقال: إن الله عز وجل أمرَ نبيه ﷺ بمشاورة أصحابه فيما حزبه من أمر عدوه ومكايد حربه، تألُّفًا منه بذلك من لم تكن بصيرته بالإسلام البصيرةَ التي يُؤْمَنُ عليه معها فتنة الشيطان = وتعريفًا منه أمته مأتى الأمور التي تحزُبهم من بعده ومطلبها، ليقتدوا به في ذلك عند النوازل التي تنزل بهم، فيتشاوروا فيما بينهم، كما كانوا يرونه في حياته ﷺ يفعله",
+     "gloss": "The most correct of the views on this is to say: God commanded His Prophet to consult his Companions in the matters of the enemy and the stratagems of war that pressed on him, to win over by it those whose insight into Islam was not yet such that they were safe from Satan’s temptation, and to teach his community how to approach and pursue the matters that would press on them after him, so that they would follow his example in this when trials came upon them and consult among themselves, as they had seen him do in his lifetime."
+    }
+   },
+   "standby": {
+    "id": "quran-01-d008-s",
+    "key": "And their Lord hath heard them (and He saith): Lo! I suffer not the work of any worker, male or female, to be lost.",
+    "ref": "Al 'Imran 3:195",
+    "at": [
+     487
+    ],
+    "s": "After the prayer of those who ponder creation, the surah gives their Lord’s answer; al-Wahidi, on 3:195, takes it as sent down when Umm Salama told the Prophet she heard Allah say nothing of women in the emigration.",
+    "by": "wahidi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Wahidi, Asbāb al-nuzūl, on 3:195, ed. al-Humaydān (1992), the OpenITI text, commit cc9beb0",
+    "basis": {
+     "source": "wahidi",
+     "words": "قالت أم سلمة: يا رسول الله لا أسمع الله ذكر النساء في الهجرة بشيء، فأنزل الله تعالى: {فاستجاب لهم ربهم أني لا أضيع عمل عامل منكم من ذكر أو أنثى} الآية",
+     "gloss": "Umm Salama said: O Messenger of God, I do not hear God mention women at all in connection with the emigration. So God Most High sent down: ‘And their Lord answered them: I suffer not the work of any worker among you, male or female, to be lost’, the ayah."
+    }
+   }
+  }
+ ]
+}

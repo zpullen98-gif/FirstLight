@@ -1,0 +1,11 @@
+{
+ "id": "quran-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/3.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 7 --verse 3.92: al-Tabari (Abu Ja'far, in his own voice) glosses al-birr as the kindness from God that the believers seek, His favour in bringing them into His Garden and turning His punishment from them; the evidence words are found verbatim (1 hit). The second half of the paraphrase is also his own: 'until you give in charity of what you love and wish to keep for yourselves, of the choicest of your wealth' (hatta tatasaddaqu mimma tuhibbuna wa-tahwawna an yakuna lakum min nafis amwalikum), so 'the wealth they most wish to keep' is carried. Reading is his, not the reported 'al-birr is the Garden' of 'Amr ibn Maymun and al-Suddi, nor Pickthall's 'piety'. Locator right. verse.js ok (Al 'Imran 3:92, at 384). Plain sense checked against day.js: 3:91 refuses an earth full of gold as ransom from those who die in disbelief, then 3:92 turns to spending. No school, comparison or tone issue. entry-check ok (scratch/refute-quran-01-d007-p.json).",
+ "better": ""
+}
