@@ -1,0 +1,241 @@
+{
+ "lane": "L5",
+ "plan": "quran",
+ "batch": "quran-02",
+ "days": [
+  {
+   "d": 60,
+   "primary": {
+    "id": "quran-02-d060-p",
+    "key": "There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.",
+    "ref": "Al-Mujadilah 58:7",
+    "at": [
+     5110
+    ],
+    "s": "Between a wife’s complaint heard by God and a warning to those who conspire against the messenger, the Prophet is asked to consider God’s knowledge; al-Tabari, on 58:7, reads ‘their fourth’ as God witnessing them by His knowledge while He is on His Throne.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 58:7, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ثم وصف جلّ ثناؤه قربه من عباده وسماعه نجواهم … وعني بقوله: ﴿هُوَ رَابِعُهُمْ﴾ ، بمعنى: أنه مشاهدهم بعلمه، وهو على عرشه.",
+     "gloss": "Then He, exalted be His praise, described His nearness to His servants and His hearing of their secret talk … and by His saying ‘He is their fourth’ is meant that He witnesses them by His knowledge, while He is upon His Throne."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d060-s",
+    "key": "That ye grieve not for the sake of that which hath escaped you, nor yet exult because of that which hath been given.",
+    "ref": "Al-Hadid 57:23",
+    "at": [
+     5097
+    ],
+    "s": "Following the word that every disaster is written in a Book beforehand, the verse gives the reason; al-Qurtubi, on 57:22 to 57:24, takes the grief and joy it forbids as only those that pass beyond what is permitted.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 57:22 to 57:24, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَالْحُزْنُ وَالْفَرَحُ الْمَنْهِيُّ عَنْهُمَا هُمَا اللَّذَانِ يُتَعَدَّى فِيهِمَا إلى مالا يجوز، قال الله تعالى: (وَاللَّهُ لا يُحِبُّ كُلَّ مُخْتالٍ فَخُورٍ) أي متكبر بما أوتى من الدنيا، فخور به على الناس.",
+     "gloss": "The grief and the joy that are forbidden are those in which one passes beyond into what is not permitted; God, exalted, said: ‘and God loves not every proud boaster’, that is, one who is haughty over what he has been given of this world and boasts of it over people."
+    }
+   }
+  },
+  {
+   "d": 61,
+   "primary": {
+    "id": "quran-02-d061-p",
+    "key": "And let every soul look to that which it sendeth on before for the morrow.",
+    "ref": "Al-Hashr 59:18",
+    "at": [
+     5143
+    ],
+    "s": "After the hypocrites are likened to the devil, the believers are twice told to keep their duty to God; Ibn Kathir, on 59:18 to 59:20, reads the verse as a call to reckon with oneself before being reckoned with.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 59:18 to 59:20, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَقَوْلُهُ: ﴿وَلْتَنْظُرْ نَفْسٌ مَا قَدَّمَتْ لِغَدٍ﴾ أَيْ: حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا، وَانْظُرُوا مَاذَا ادَّخَرْتُمْ لِأَنْفُسِكُمْ مِنَ الْأَعْمَالِ الصَّالِحَةِ لِيَوْمِ مَعَادِكُمْ وَعَرْضِكُمْ عَلَى رَبِّكُمْ",
+     "gloss": "And His saying ‘and let a soul look to what it has sent ahead for tomorrow’ means: take yourselves to account before you are taken to account, and look at what good works you have stored up for yourselves for the day of your return and of your being set before your Lord."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d061-s",
+    "key": "Allah forbiddeth you not those who warred not against you on account of religion and drove you not out from your homes, that ye should show them kindness and deal justly with them.",
+    "ref": "Al-Mumtahanah 60:8",
+    "at": [
+     5157
+    ],
+    "s": "Told not to befriend those who drove out the messenger, the believers learn where that ban stops; al-Tabari, on 60:8, takes it as covering people of any religion who did not fight them, unabrogated, if the kindness gives an enemy no arms or opening.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 60:8, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى الأقوال في ذلك بالصواب قول من قال: عُنِي بذلك: لا ينهاكم الله عن الذين لم يقاتلوكم في الدين، من جميع أصناف الملل والأديان أن تبرُّوهم وتصلوهم، وتقسطوا إليهم … ولا معنى لقول من قال: ذلك منسوخ، لأن برّ المؤمن من أهل الحرب ممن بينه وبينه قرابة نسب، أو ممن لا قرابة بينه وبينه ولا نسب غير محرّم ولا منهيّ عنه إذا لم يكن في ذلك دلالة له، أو لأهل الحرب على عورة لأهل الإسلام، أو تقوية لهم بكُراع أو سلاح.",
+     "gloss": "The most correct of the sayings on this is that of whoever said it means: God does not forbid you, regarding those who did not fight you over religion, of all kinds of communities and religions, that you be kind to them, keep ties with them and deal justly with them … and there is no sense in the saying of whoever said it is abrogated, since a believer’s kindness to one of the people at war, kin or not, is neither unlawful nor forbidden so long as it gives no pointer, to him or to the people at war, to a weak point of the people of Islam, nor strengthens them with horses or weapons."
+    }
+   }
+  },
+  {
+   "d": 62,
+   "primary": {
+    "id": "quran-02-d062-p",
+    "key": "So keep your duty to Allah as best ye can, and listen, and obey, and spend; that is better for your souls.",
+    "ref": "At-Taghabun 64:16",
+    "at": [
+     5214
+    ],
+    "s": "After wealth and children are called a trial, the believers are given their charge; al-Tabari, on 64:15 to 64:16, takes it as not cancelling the earlier command to fear God as is His due, for nothing clear says so, and keeps both in force.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 64:15 to 64:16, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وليس في قوله: ﴿فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ﴾ دلالة واضحة على أنه لقوله: ﴿اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ﴾ ناسخ، إذ كان محتملا قوله: اتقوا الله حقّ تقاته فيما استطعتم، ولم يكن بأنه له ناسخ عن رسول الله ﷺ فإذا كان ذلك كذلك، فالواجب استعمالهما جميعًا على ما يحتملان من وجوه الصحة.",
+     "gloss": "There is in His saying ‘so fear God as far as you are able’ no clear indication that it abrogates His saying ‘fear God as is His due’, since the latter can mean ‘fear God as is His due, in what you are able’, and there is no report from the Messenger of God that it abrogates it; that being so, what is required is to apply both together, in the sound senses they can bear."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d062-s",
+    "key": "O ye who believe! Turn unto Allah in sincere repentance!",
+    "ref": "At-Tahrim 66:8",
+    "at": [
+     5236
+    ],
+    "s": "The believers, warned to guard themselves and their families from the Fire, are called back to God; Ibn Kathir, on 66:6 to 66:8, reads ‘sincere repentance’ as a true and resolute turning that wipes out past misdeeds and gathers the penitent’s scattered life.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 66:6 to 66:8, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "ثُمَّ قَالَ تَعَالَى: ﴿يَا أَيُّهَا الَّذِينَ آمَنُوا تُوبُوا إِلَى اللَّهِ تَوْبَةً نَصُوحًا﴾ أَيْ: تَوْبَةً صَادِقَةً جَازِمَةً، تَمْحُو مَا قَبْلَهَا مِنَ السَّيِّئَاتِ وَتَلُمُّ شَعَثَ التَّائِبِ وَتَجْمَعُهُ، وَتَكُفُّهُ عَمَّا كَانَ يَتَعَاطَاهُ مِنَ الدَّنَاءَاتِ.",
+     "gloss": "Then He, exalted, said: ‘O you who believe, turn to God in sincere repentance’, that is, a repentance true and resolute, which wipes out the evil deeds before it, gathers the scattered state of the penitent and makes him whole, and holds him back from the base things he used to deal in."
+    }
+   }
+  },
+  {
+   "d": 63,
+   "primary": {
+    "id": "quran-02-d063-p",
+    "key": "And I have said: Seek pardon of your Lord. Lo! He was ever Forgiving.",
+    "ref": "Nuh 71:10",
+    "at": [
+     5428
+    ],
+    "s": "Noah, telling God how his people stopped their ears to his calling, recalls what he urged on them; al-Qurtubi, on 71:10 to 71:12, takes the passage as evidence that seeking forgiveness brings down rain and provision, when it comes with sincerity and leaving sin.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 71:10 to 71:12, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "الثَّالِثَةُ- فِي هَذِهِ الْآيَةِ وَالَّتِي فِي \"هُودٍ\" دَلِيلٌ عَلَى أَنَّ الِاسْتِغْفَارَ يُسْتَنْزَلُ بِهِ الرِّزْقُ وَالْأَمْطَارُ … وَقَدْ مَضَى فِي سُورَةِ \"آلِ عِمْرَانَ\" كَيْفِيَّةُ الِاسْتِغْفَارِ، وَإِنَّ ذَلِكَ يَكُونُ عَنْ إِخْلَاصٍ وَإِقْلَاعٍ مِنَ الذُّنُوبِ. وَهُوَ الْأَصْلُ فِي الإجابة.",
+     "gloss": "The third question: in this ayah and the one in Hud is evidence that by seeking forgiveness provision and rain are brought down … the manner of seeking forgiveness has already been treated in the surah Al Imran, and that it comes from sincerity and a giving up of sins; and that is the root of being answered."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d063-s",
+    "key": "And lo! thou art of a tremendous nature.",
+    "ref": "Al-Qalam 68:4",
+    "at": [
+     5274
+    ],
+    "s": "Answering those who call the Prophet mad, the chapter assures him of an unfailing reward; al-Tabari, on 68:4 to 68:7, reads his ‘tremendous nature’ as the discipline of the Qur’an with which God schooled him, that is, Islam and its laws.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 68:4 to 68:7, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يقول تعالى ذكر لنبيه محمد ﷺ: وإنك يا محمد لعلى أدب عظيم، وذلك أدب القرآن الذي أدّبه الله به، وهو الإسلام وشرائعه.",
+     "gloss": "He, exalted be His mention, says to His Prophet Muhammad: and you, Muhammad, are of a tremendous discipline, and that is the discipline of the Qur’an with which God disciplined him, which is Islam and its laws."
+    }
+   }
+  },
+  {
+   "d": 64,
+   "primary": {
+    "id": "quran-02-d064-p",
+    "key": "Stir not thy tongue herewith to hasten it.",
+    "ref": "Al-Qiyamah 75:16",
+    "at": [
+     5566
+    ],
+    "s": "In a chapter on the Day of Resurrection, an aside turns to the Prophet receiving revelation; al-Tabari, on 75:16 to 75:19, takes it as barring haste to repeat the words before God had gathered them in his breast, not later rehearsal to remember them.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 75:16 to 75:19, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأشبه القولين بما دلّ عليه ظاهر التنزيل، القول الذي ذُكر عن سعيد بن جُبير، عن ابن عباس، وذلك أن قوله: ﴿إِنَّ عَلَيْنَا جَمْعَهُ وَقُرْآنَهُ﴾ ينبئ أنه إنما نهى عن تحريك اللسان به متعجلا فيه قبل جمعه، ومعلوم أن دراسته للتذكر إنما كانت تكون من النبيّ ﷺ من بعد جمع الله له ما يدرس من ذلك.",
+     "gloss": "The likelier of the two sayings to what the plain sense of the revelation points to is the one reported from Sa‘id ibn Jubayr from Ibn ‘Abbas, because His saying ‘upon Us is its gathering and its recitation’ tells that he was forbidden only to move his tongue with it in haste before its gathering; and it is known that the Prophet’s rehearsal of it to remember it came only after God had gathered for him what he rehearsed."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d064-s",
+    "key": "Lo! the vigil of the night is (a time) when impression is more keen and speech more certain.",
+    "ref": "Al-Muzzammil 73:6",
+    "at": [
+     5480
+    ],
+    "s": "The Prophet is bidden to rise by night and chant the Qur’an, for a weighty word is coming; Ibn Kathir, on 73:1 to 73:9, reads night prayer as bringing heart and tongue into accord, the mind more gathered than amid the day’s clamour.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 73:1 to 73:9, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَالْمَقْصُودُ أَنَّ قِيَامَ اللَّيْلِ هُوَ أَشَدُّ مُوَاطَأَةً بَيْنَ الْقَلْبِ وَاللِّسَانِ، وَأَجْمَعُ عَلَى التِّلَاوَةِ؛ وَلِهَذَا قَالَ: ﴿هِيَ أَشَدُّ وَطْئًا وَأَقْوَمُ قِيلا﴾ أَيْ: أَجْمَعُ لِلْخَاطِرِ فِي أَدَاءِ الْقِرَاءَةِ وَتَفَهُّمِهَا مِنْ قِيَامِ النَّهَارِ؛ لِأَنَّهُ وَقْتُ انْتِشَارِ النَّاسِ ولَغَط الْأَصْوَاتِ وَأَوْقَاتُ الْمَعَاشِ.",
+     "gloss": "The point is that rising at night brings heart and tongue into closer accord and gathers one more for recitation; hence He said ‘it is firmer in impression and more upright in speech’, that is, it gathers the mind more for reciting and understanding than rising by day, because the day is the time when people spread about, voices clamour and livelihoods are sought."
+    }
+   }
+  },
+  {
+   "d": 65,
+   "primary": {
+    "id": "quran-02-d065-p",
+    "key": "Nay, but that which they have earned is rust upon their hearts.",
+    "ref": "Al-Mutaffifin 83:14",
+    "at": [
+     5861
+    ],
+    "s": "Against deniers who dismiss the revelations as old fables, the chapter gives its answer; al-Tabari, on 83:12 to 83:14, reads the rust as sins that overpower the heart, flood it and close round it until they cover it, as wine overpowers the mind.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 83:12 to 83:14, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يقول: غلب على قلوبهم وغَمَرها وأحاطت بها الذنوب فغطتها، يقال منه: رانت الخمر على عقله، فهي تَرِين عليه رَيْنا، وذلك إذا سكر، فغلبت على عقله",
+     "gloss": "He says: the sins overpowered their hearts, flooded them and closed round them, and so covered them; one says of it, ‘the wine rana over his mind’, it covers it over, and that is when he is drunk and it overpowers his mind."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d065-s",
+    "key": "Thou, verily, O man, art working toward thy Lord a work which thou wilt meet (in His presence).",
+    "ref": "Al-Inshiqaq 84:6",
+    "at": [
+     5889
+    ],
+    "s": "After images of the sky split and the earth emptied, man himself is addressed; the Jalalayn, on 84:6, reads his toil as toward death, the meeting with his Lord, and what he meets as his own deeds, good or evil.",
+    "by": "jalalayn",
+    "by2": "",
+    "hedge": "",
+    "src": "the Jalalayn, Tafsīr al-Jalālayn, on 84:6, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "jalalayn",
+     "words": "﴿يا أيّها الإنْسان إنَّك كادِح﴾ جاهِد فِي عَمَلك ﴿إلى﴾ لِقاء ﴿رَبّك﴾ وهُوَ المَوْت ﴿كَدْحًا فَمُلاقِيه﴾ أيْ مُلاقٍ عَمَلك المَذْكُور مِن خَيْر أوْ شَرّ يَوْم القِيامَة",
+     "gloss": "‘O man, you are toiling’, striving in your work, ‘toward’ the meeting with ‘your Lord’, which is death, ‘a toil, and will meet it’, that is, you will meet the work just named, of good or evil, on the Day of Resurrection."
+    }
+   }
+  }
+ ]
+}

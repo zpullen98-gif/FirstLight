@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d057-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/49.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 49:13 via packet.js quran 57 --verse 49.13. Under li-taʿārafū he says in his own voice (not in a report) that the nations and tribes were made so people know one another in nearness and distance of kinship, not for any merit of theirs in that nor as a nearness to God, and under inna akramakum that the noblest with God is the most God-fearing, not the one with the greatest house or largest clan. Both evidence excerpts found verbatim; the sentence merges merit and nearness to God into ‘not as merit before God’, a fair compression, and ‘grandest house’ renders aʿẓamukum baytan. Plain sense checked against day.js: 49:11 (deride, defame, nicknames) and 49:12 (suspicion, spy, backbite), then 49:13 opens ‘O mankind!’; the key begins after that vocative and stops before ‘Lo! Allah is Knower, Aware.’; no four words repeated. The reading is al-Tabari’s, not Pickthall’s (‘best in conduct’ is the translator; ‘most God-fearing’ is the commentator). verse.js ok (Al-Hujurat 49:13, at 4624); entry-check ok, no warns. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

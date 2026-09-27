@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d062-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/64.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 64:15 to 64:16 (packet.js quran 62 --verse 64.16): after the two Qatada reports that 64:16 abrogates 3:102, he says in his own voice that there is no clear indication it abrogates 'fear God as is His due', since that can be read 'in what you are able', and no report from the Messenger says it does, so both must be applied; found verbatim (the ellipsis in the evidence stands only for the honorific sign). The paraphrase (not cancelling, nothing clear says so, both kept in force) is carried whole; he states his own preference here, so naming it respects the trap about his reported views. 'The earlier command' is thin: al-Tabari only reports ('dhukira') that 64:16 came down after 3:102, but he does not dispute the order, and 3:102 is also earlier in the text, so it is not drift worth refuting. verse.js ok (64:16, at 5214); the key holds 'as best ye can', the phrase his reading turns on. Plain sense: 64:15 calls wealth and children a temptation (trial is a fair gloss), 64:16 gives the charge; faithful. entry-check.js ok, no warnings.",
+ "better": ""
+}

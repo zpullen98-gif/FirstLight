@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d053-p",
+ "d": 53,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The good deed and the evil deed are not alike. Repel the evil deed with one which is better, then lo! he, between whom and thee there was enmity (will become) as though he was a bosom friend.",
+ "ref": "Fussilat 41:34",
+ "at": [
+  4251
+ ],
+ "s": "After praise for one who prays and does right, the Prophet is taught how to answer enmity; al-Tabari, on 41:33 to 41:34, reads it as repelling ignorance with forbearance, offence with pardon and harm with patience, till the foe is like a near kinsman.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 41:33 to 41:34, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/41.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 41:33 to 41:34 (one segment), his own paraphrase of ‘repel with that which is better’ and of ‘as though he was a bosom friend’",
+    "via": "packet"
+   }
+  ],
+  "words": "ادفع يا محمد بحلمك جهل من جهل عليك، ويعفوك عمن أساء إليك إساءة المسيء، وبصبرك عليهم مكروه ما تجد منهم، ويلقاك من قِبلهم … فيصير المسيء إليك الذي بينك وبينه عداوة، كأنه من ملاطفته إياك. وبرّه لك، وليّ لك من بني أعمامك، قريب النسب بك",
+  "lang": "Arabic",
+  "gloss": "Repel, O Muhammad, with your forbearance the ignorance of whoever acts ignorantly toward you, with your pardon the offence of whoever offends you, and with your patience the hurt you find from them and meet at their hands … so that the one who offends you, between whom and you there is enmity, becomes, through his kindness and goodness to you, like a friend of yours from among your cousins, near to you in kinship.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Fussilat 41:34, at 4251). Opened al-Tabari on 41:33 to 41:34 (one segment) through packet.js --verse 41.34, with the Ibn Kathir, al-Qurtubi and Jalalayn comments printed beside it. In his own voice (yaqulu taʿala dhikruhu), addressed to the Prophet, al-Tabari paraphrases the command as repelling ignorance with forbearance, offence with pardon and hurt with patience, then glosses the result as the offender becoming like a friend among cousins, near in kinship (hamim is the near one). He also reports the view of Ibn ʿAbbas (patience, forbearance and pardon) and of ʿAtaʾ and Mujahid (the greeting of peace), but the sentence gives only his own paraphrase and claims no preference. Plain sense draws on 41:33 (praise for one who calls to his Lord and does right) and repeats no four words of the key verse. Entry-check ok, 44 words."
+}

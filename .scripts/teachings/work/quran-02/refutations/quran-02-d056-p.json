@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d056-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/46.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js quran 56 --verse 46.15: under the heading on wa balagha arbaʿina sana he says in his own voice, before the Qatada reports, that this is when God's proof against him is complete, the ignorance of his youth lifted from him, and he knows what is due to God by right in dutifulness to his parents. The evidence words are verbatim there and the paraphrase (proof complete, youth's folly gone, knowing what he owes God in honouring his parents) matches clause for clause without addition; he does not report a dispute on forty (the dispute he records is on ashudd, 33 years or puberty, which the sentence does not touch). Locator right (comment on 46:15). verse.js ok (Al-Ahqaf 46:15, at 4524, 48 words); entry-check ok. The key stops at the vocative 'My Lord!', which Pickthall punctuates as a sentence end and the gate accepts; it leaves the prayer's content off the page, a weak point of choice but not a breach, since the reading is about the forty years and no shorter whole-sentence cut reaches them. Plain sense checked against day.js: 46:17 is the son who says 'Fie upon you both' to his parents, and 46:15 runs from bearing to forty; the contrast is the passage's own. No school, comparison or tone problem.",
+ "better": ""
+}

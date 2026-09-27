@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d038-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/23.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 38 --verse 23.115: al-Tabari has one comment on 23:114 to 23:115, and the evidence words stand verbatim in his own voice after wa-qawluhu afa-hasibtum annama khalaqnakum abathan (ayyuha al-ashqiya, la'iban wa-batilan, ba'da mamatikum la tasiruna ahya'an, fa-tujzawna bima kuntum fi al-dunya ta'malun). Each piece of the paraphrase is carried: the wretched, play and falsehood, not living again after death, repaid for their deeds; nothing more is claimed, and his note on the two readings of turja'un is rightly left out. Locator right (range segment cited as on the passage). On 23:114 he glosses the speaker as God (qala Allah lahum), so the plain sense 'God questions them' is not the translator's addition. Plain sense checked in day.js: 23:103 to 23:111 are those in hell, 23:112 to 23:114 the question how long they tarried and the answer 'but a little'; 'the doomed' matches 'those who lose their souls, in hell abiding', neither softened nor sensational; no four-word run from the key verse. No school, comparison or other tradition. verse.js ok (Al-Mu'minun 23:115, at 2787); entry-check ok, no warns.",
+ "better": ""
+}

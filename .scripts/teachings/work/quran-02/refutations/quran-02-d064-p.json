@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d064-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/75.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js quran 64 --verse 75:16: al-Tabari's one comment on 75:16 to 75:19 reports two sayings on the occasion (haste to memorise on descent, from Sa'id ibn Jubayr from Ibn Abbas; frequent recitation for fear of forgetting) and then states his own preference for the first, because 'upon Us its gathering' shows the prohibition was only of moving the tongue in haste before its gathering, the Prophet's rehearsal to remember coming after God gathered it. The evidence is verbatim there, the preference is his own (roster trap met), and 'in his breast' is his own gloss of jam'ahu (fi sadrika) in the same segment. Plain sense: chapter 75 is on the Day of Resurrection and 75:16 to 75:19 turns to the one receiving the recitation; framing it as the Prophet follows the brief's voice. verse.js ok (Al-Qiyamah 75:16, at 5566); entry-check.js ok, no errors or warnings.",
+ "better": ""
+}

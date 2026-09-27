@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d035-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/20.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 20:124 to 20:126 (one segment) via packet.js quran 35 --verse 20.124. Abu Jaʿfar states the more correct view is that it is the torment of the grave, then argues: not the hereafter (20:127 says its doom is sterner, which needs an earlier torment), not this life (many deniers live more amply than many believers), so the barzakh. Evidence words found verbatim. The since-clause gives only the second of his two eliminations, a partial but faithful reason; ‘live in ease’ is a fair compression of his ‘more ample living’. The hadith detail of serpents is rightly left out (rule 6, no graphic detail). Plain sense: ‘Adam and his wife are sent down with a promise of guidance’ resolves the dual of 20:123, but the passage itself names the two (20:117, 20:121 ‘they twain’) and al-Tabari on 20:123 also reads Adam and Hawwa; not a landing attack. verse.js ok (Ta-Ha 20:124, at 2471); entry-check ok, no warns.",
+ "better": ""
+}

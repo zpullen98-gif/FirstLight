@@ -1,0 +1,241 @@
+{
+ "lane": "L4",
+ "plan": "quran",
+ "batch": "quran-02",
+ "days": [
+  {
+   "d": 53,
+   "primary": {
+    "id": "quran-02-d053-p",
+    "key": "The good deed and the evil deed are not alike. Repel the evil deed with one which is better, then lo! he, between whom and thee there was enmity (will become) as though he was a bosom friend.",
+    "ref": "Fussilat 41:34",
+    "at": [
+     4251
+    ],
+    "s": "After praise for one who prays and does right, the Prophet is taught how to answer enmity; al-Tabari, on 41:33 to 41:34, reads it as repelling ignorance with forbearance, offence with pardon and harm with patience, till the foe is like a near kinsman.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 41:33 to 41:34, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ادفع يا محمد بحلمك جهل من جهل عليك، ويعفوك عمن أساء إليك إساءة المسيء، وبصبرك عليهم مكروه ما تجد منهم، ويلقاك من قِبلهم … فيصير المسيء إليك الذي بينك وبينه عداوة، كأنه من ملاطفته إياك. وبرّه لك، وليّ لك من بني أعمامك، قريب النسب بك",
+     "gloss": "Repel, O Muhammad, with your forbearance the ignorance of whoever acts ignorantly toward you, with your pardon the offence of whoever offends you, and with your patience the hurt you find from them and meet at their hands … so that the one who offends you, between whom and you there is enmity, becomes, through his kindness and goodness to you, like a friend of yours from among your cousins, near to you in kinship."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d053-s",
+    "key": "Lo! those who say: Our Lord is Allah, and afterward are upright, the angels descend upon them, saying: Fear not nor grieve, but hear good tidings of the paradise which ye are promised.",
+    "ref": "Fussilat 41:30",
+    "at": [
+     4247
+    ],
+    "s": "After the doom of those who would drown out the Qur’an, the surah turns to those who confess their Lord and hold firm; Ibn Kathir, on 41:30 to 41:32, takes holding firm as sincere work for God, done in His obedience as He laid down.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 41:30 to 41:32, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿إِنَّ الَّذِينَ قَالُوا رَبُّنَا اللَّهُ ثُمَّ اسْتَقَامُوا﴾ أَيْ: أَخْلَصُوا الْعَمَلَ لِلَّهِ، وَعَمِلُوا بِطَاعَةِ اللَّهِ تَعَالَى عَلَى مَا شَرَعَ اللَّهُ لَهُمْ",
+     "gloss": "‘Those who say: Our Lord is God, then are upright’: that is, they made their work sincere for God, and worked in obedience to God Most High according to what God laid down for them."
+    }
+   }
+  },
+  {
+   "d": 54,
+   "primary": {
+    "id": "quran-02-d054-p",
+    "key": "Friends on that day will be foes one to another, save those who kept their duty (to Allah).",
+    "ref": "Az-Zukhruf 43:67",
+    "at": [
+     4391
+    ],
+    "s": "Between the sudden Hour and the welcome into the Garden, the surah speaks of friendship; Ibn Kathir, on 43:66 to 43:73, reads it as every friendship not for God turning to enmity at the Resurrection, while one for God lasts as He lasts.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 43:66 to 43:73, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿الأخِلاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلا الْمُتَّقِينَ﴾ أَيْ: كُلُّ صَدَاقَةٍ وَصَحَابَةٍ لِغَيْرِ اللَّهِ فَإِنَّهَا تَنْقَلِبُ يَوْمَ الْقِيَامَةِ عَدَاوَةً إِلَّا مَا كَانَ لِلَّهِ، عَزَّ وَجَلَّ، فَإِنَّهُ دَائِمٌ بِدَوَامِهِ",
+     "gloss": "‘Friends on that day will be foes one to another, save those who kept their duty’: that is, every friendship and companionship for other than God turns on the Day of Resurrection into enmity, except what was for God, mighty and majestic, for that lasts as long as He lasts."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d054-s",
+    "key": "And if Allah were to enlarge the provision for His slaves they would surely rebel in the earth, but He sendeth down by measure as He willeth.",
+    "ref": "Ash-Shura 42:27",
+    "at": [
+     4298
+    ],
+    "s": "Before signs of rain after despair and ships at sea, the surah turns to provision; al-Tabari, on 42:27, hears in it, by report, an answer to needy Muslims who wished for wealth, and takes the measure as their sufficiency, God knowing what mends each servant.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 42:27, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ذكر أن هذه الآية نزلت من أجل قوم من أهل الفاقة من المسلمين تمنوا سعة الدنيا والغنى … ولكنه ينزل رزقهم بقدر لكفايتهم الذي يشاء منه … إن الله بما يصلح عباده ويفسدهم من غنى وفقر وسعة وإقتار، وغير ذلك من مصالحهم ومضارهم، ذو خبرة، وعلم، بصير بتدبيرهم",
+     "gloss": "It is mentioned that this ayah came down on account of some needy people among the Muslims who wished for breadth of worldly goods and for riches … but He sends down their provision by a measure, for their sufficiency, as much of it as He wills … God, as to what mends His servants and what spoils them, of riches and poverty, plenty and scarcity, and their other benefits and harms, is informed and knowing, seeing how to order them."
+    }
+   }
+  },
+  {
+   "d": 55,
+   "primary": {
+    "id": "quran-02-d055-p",
+    "key": "And the heaven and the earth wept not for them, nor were they reprieved.",
+    "ref": "Ad-Dukhan 44:29",
+    "at": [
+     4442
+    ],
+    "s": "Pharaoh’s folk drowned and their gardens left to others, the surah closes their story; al-Tabari, on 44:29 to 44:31, explains, from reports, that heaven and earth weep for a dying believer, but these had no good work rising to God and no place of prayer.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 44:29 to 44:31, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وقيل: إنما قيل ﴿فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالأرْضُ﴾ لأن المؤمن إذا مات، بكت عليه السماء والأرض أربعين صباحا، ولم تبكيا على فرعون وقومه، لأنه لم يكن لهم عمل يَصعْد إلى الله صالح، فتبكي عليهم السماء، ولا مسجد في الأرض، فتبكي عليهم الأرض. وبنحو الذي قلنا في ذلك قال أهل التأويل",
+     "gloss": "It has been said that ‘the heaven and the earth wept not for them’ was said because when a believer dies, heaven and earth weep for him forty mornings, and they did not weep for Pharaoh and his people, since they had no good work rising to God for the heaven to weep over them, and no place of prayer on earth for the earth to weep over them. Much as we have said on this, the interpreters said."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d055-s",
+    "key": "Hast thou seen him who maketh his desire his god, and Allah sendeth him astray purposely, and sealeth up his hearing and his heart, and setteth on his sight a covering?",
+    "ref": "Al-Jathiyah 45:23",
+    "at": [
+     4495
+    ],
+    "s": "Asking if wrongdoers will be counted with believers, the surah turns to one man; Ibn Kathir, on 45:21 to 45:23, takes him as one who obeys his desire alone, sent astray either because God knew he deserved it or after knowledge had reached him.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 45:21 to 45:23, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿أَفَرَأَيْتَ مَنِ اتَّخَذَ إِلَهَهُ هَوَاهُ﴾ أَيْ: إِنَّمَا يَأْتَمِرُ بِهَوَاهُ، فَمَهْمَا رَآهُ حَسَنًا فَعَلَهُ، وَمَهْمَا رَآهُ قَبِيحًا تَرَكَهُ … وَقَوْلُهُ: ﴿وَأَضَلَّهُ اللَّهُ عَلَى عِلْمٍ﴾ يَحْتَمِلُ قَوْلَيْنِ: أحدها وَأَضَلَّهُ اللَّهُ لِعِلْمِهِ أَنَّهُ يَسْتَحِقُّ ذَلِكَ. وَالْآخَرُ: وَأَضَلَّهُ اللَّهُ بَعْدَ بُلُوغِ الْعِلْمِ إِلَيْهِ، وَقِيَامِ الْحُجَّةِ عَلَيْهِ",
+     "gloss": "‘Hast thou seen him who takes his desire as his god’: that is, he takes his orders only from his desire; whatever he sees as good he does, and whatever he sees as ugly he leaves … And His words ‘and God sent him astray upon knowledge’ admit two readings: one, God sent him astray because He knew that he deserved it; the other, God sent him astray after knowledge had reached him and the proof stood against him."
+    }
+   }
+  },
+  {
+   "d": 57,
+   "primary": {
+    "id": "quran-02-d057-p",
+    "key": "Lo! We have created you male and female, and have made you nations and tribes that ye may know one another. Lo! the noblest of you, in the sight of Allah, is the best in conduct.",
+    "ref": "Al-Hujurat 49:13",
+    "at": [
+     4624
+    ],
+    "s": "After forbidding believers to mock, spy and backbite, the surah addresses all humankind; al-Tabari, on 49:13, reads the tribes as made for knowing near and distant kin, not as merit before God, and the noblest as the most God-fearing, not the grandest house.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 49:13, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "إنما جعلنا هذه الشعوب والقبائل لكم أيها الناس، ليعرف بعضكم بعضا في قرب القرابة منه وبعده، لا لفضيلة لكم في ذلك، وقُربة تقرّبكم إلى الله، بل أكرمكم عند الله أتقاكم … إن أكرمكم أيها الناس عند ربكم، أشدّكم اتقاء له بأداء فرائضه واجتناب معاصيه، لا أعظمكم بيتا ولا أكثركم عشيرة",
+     "gloss": "We made these nations and tribes for you, O people, only so that you might know one another by nearness and distance of kinship, not for any merit of yours in that, nor as a nearness bringing you close to God; rather the noblest of you with God is the most God-fearing … The noblest of you, O people, with your Lord is the one who fears Him most, by performing His duties and avoiding disobedience to Him, not the one with the greatest house or the largest clan."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d057-s",
+    "key": "O ye who believe! Shun much suspicion; for lo! some suspicion is a crime.",
+    "ref": "Al-Hujurat 49:12",
+    "at": [
+     4623
+    ],
+    "s": "Following a ban on mockery and nicknames, the surah sets more rules for believers among themselves; al-Qurtubi, on 49:12, takes the forbidden suspicion as an accusation with no sound sign or evident cause, against someone seen as discreet and upright, not one known for vice.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 49:12, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "قَالَ عُلَمَاؤُنَا: فَالظَّنُّ هُنَا وَفِي الْآيَةِ هُوَ التُّهْمَةُ. وَمَحَلُّ التَّحْذِيرِ وَالنَّهْيِ إِنَّمَا هُوَ تُهْمَةٌ لَا سَبَبَ لَهَا يُوجِبُهَا … أَنَّ كُلَّ مَا لَمْ تُعْرَفْ لَهُ أَمَارَةٌ صَحِيحَةٌ وَسَبَبٌ ظَاهِرٌ كان حراما واجب الاجتناب. وَذَلِكَ إِذَا كَانَ الْمَظْنُونُ بِهِ مِمَّنْ شُوهِدَ مِنْهُ السَّتْرَ وَالصَّلَاحَ، وَأُونِسَتْ مِنْهُ الْأَمَانَةُ فِي الظَّاهِرِ، فَظَنُّ الْفَسَادِ بِهِ وَالْخِيَانَةِ مُحَرَّمٌ، بِخِلَافِ مَنِ اشْتَهَرَهُ النَّاسُ بِتَعَاطِي الرَّيْبَ وَالْمُجَاهَرَةِ بِالْخَبَائِثِ",
+     "gloss": "Our scholars say: the suspicion here and in the ayah is accusation, and the place of the warning and the prohibition is only an accusation that has no cause requiring it … whatever has no sound sign and evident cause known for it is forbidden and must be avoided. That is when the one suspected is someone seen to be discreet and upright, whose trustworthiness is plain outwardly: to suspect him of corruption and betrayal is forbidden, unlike one whom people know for dealing in doubtful things and openly doing vile deeds."
+    }
+   }
+  },
+  {
+   "d": 58,
+   "primary": {
+    "id": "quran-02-d058-p",
+    "key": "I created the jinn and humankind only that they might worship Me.",
+    "ref": "Adh-Dhariyat 51:56",
+    "at": [
+     4730
+    ],
+    "s": "Having told the Prophet to turn away yet warn, God speaks in the first person; al-Tabari, on 51:56 to 51:57, takes them, with Ibn Abbas, as made to humble themselves before His command, since even deniers bow to His decree and defy only His commands.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 51:56 to 51:57, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى القولين في ذلك بالصواب القول الذي ذكرنا عن ابن عباس، وهو: ما خلقت الجنّ والإنس إلا لعبادتنا، والتذلل لأمرنا. فإن قال قائل: فكيف كفروا وقد خلقهم للتذلل لأمره؟ قيل: إنهم قد تذللوا لقضائه الذي قضاه عليهم، لأن قضاءه جار عليهم، لا يقدرون من الامتناع منه إذا نزل بهم، وإنما خالفه من كفر به في العمل بما أمره به",
+     "gloss": "The more correct of the two readings is the one we cited from Ibn Abbas, namely: I created the jinn and humankind only to worship Us and to humble themselves to Our command. If someone asks: how then did they disbelieve, when He created them to humble themselves to His command? It is answered: they have humbled themselves to His decree which He decreed upon them, since His decree runs over them and they cannot hold out against it when it befalls them; the one who disbelieved in Him opposed Him only in acting on what He commanded him."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d058-s",
+    "key": "And they who believe and whose seed follow them in faith, We cause their seed to join them (there), and We deprive them of nought of their (life’s) work.",
+    "ref": "At-Tur 52:21",
+    "at": [
+     4755
+    ],
+    "s": "Amid the Garden’s couches and passing cup, the surah turns to families; Ibn Kathir, on 52:21 to 52:28, reads it as grace: children who follow in faith are raised to their parents’ rank though short in deeds, to gladden the parents, who lose nothing.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 52:21 to 52:28, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "يُخْبِرُ تَعَالَى عَنْ فَضْلِهِ وَكَرَمِهِ، وَامْتِنَانِهِ وَلُطْفِهِ بِخَلْقِهِ وَإِحْسَانِهِ: أَنَّ الْمُؤْمِنِينَ إِذَا اتَّبَعَتْهُمْ ذُرِّيَّاتُهُمْ فِي الْإِيمَانِ يُلحقهم بِآبَائِهِمْ فِي الْمَنْزِلَةِ وَإِنْ لَمْ يَبْلُغُوا عَمَلَهُمْ، لِتَقَرَّ أَعْيُنُ الْآبَاءِ بِالْأَبْنَاءِ عِنْدَهُمْ فِي مَنَازِلِهِمْ، فَيَجْمَعُ بَيْنَهُمْ عَلَى أَحْسَنِ الْوُجُوهِ، بِأَنْ يَرْفَعَ النَّاقِصَ الْعَمَلِ، بِكَامِلِ الْعَمَلِ، وَلَا يَنْقُصَ ذَلِكَ مِنْ عَمَلِهِ وَمَنْزِلَتِهِ",
+     "gloss": "He tells of His bounty and generosity, His favour, kindness and goodness to His creatures: that when the believers’ offspring follow them in faith, He joins them to their fathers in rank though they did not reach their deeds, so that the fathers’ eyes may be gladdened by the children with them in their dwellings; He brings them together in the finest way, raising the one lacking in deeds to the one complete in deeds, without lessening the latter’s deeds or rank."
+    }
+   }
+  },
+  {
+   "d": 59,
+   "primary": {
+    "id": "quran-02-d059-p",
+    "key": "All that are in the heavens and the earth entreat Him. Every day He exerciseth (universal) power.",
+    "ref": "Ar-Rahman 55:29",
+    "at": [
+     4929
+    ],
+    "s": "Between the passing of all on earth and a warning to jinn and men, the surah turns to prayer; Ibn Kathir, on 55:26 to 55:30, reads it as God needing none and all creatures needing Him every moment, asking by their state and their speech.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 55:26 to 55:30, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَهَذَا إِخْبَارٌ عَنْ غِنَاهُ عَمَّا سِوَاهُ وَافْتِقَارِ الْخَلَائِقِ إِلَيْهِ فِي جَمِيعِ الْآنَاتِ، وَأَنَّهُمْ يَسْأَلُونَهُ بِلِسَانِ حَالِهِمْ وَقَالِهِمْ، وَأَنَّهُ كُلَّ يَوْمٍ هُوَ فِي شأن.",
+     "gloss": "This is a report of His freedom from need of anything besides Him, and of all creatures’ need of Him at every moment, and that they ask Him with the tongue of their state and of their speech, and that every day He is about some matter."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d059-s",
+    "key": "The hour drew nigh and the moon was rent in twain.",
+    "ref": "Al-Qamar 54:1",
+    "at": [
+     4846
+    ],
+    "s": "Opening a surah of peoples who denied their warners, the verse names a portent; al-Wahidi, on 54:1, takes its occasion from a report that the moon split in the Prophet’s time, Quraysh called it sorcery, and travellers, when asked, said they saw it.",
+    "by": "wahidi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Wahidi, Asbāb al-nuzūl, on 54:1, ed. al-Humaydan (1992), OpenITI, commit cc9beb0",
+    "basis": {
+     "source": "wahidi",
+     "words": "انشق القمر على عهد رسول الله … فقالت قريش: هذا سحر ابن أبي كبشة سحركم، فاسألوا السفار فسألوهم فقالوا: نعم قد رأينا، فأنزل الله",
+     "gloss": "The moon split in the time of the Messenger of God … and Quraysh said: This is the sorcery of Ibn Abi Kabsha, he has bewitched you; ask the travellers. So they asked them, and they said: Yes, we saw it. Then God sent down"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d040-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/25.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js quran 40 --verse 25.72: he reports three views of al-zur (shirk from al-Dahhak and Ibn Zayd, singing from Mujahid, lying from Ibn Jurayj), gives its root sense (dressing a thing up as other than it is), then in his own voice (fa-awla al-aqwal bi-l-sawab) prefers the general reading: nothing of falsehood, neither shirk nor singing nor lying nor anything bearing the name zur, because God made the description general. The evidence words are verbatim there and carry the whole paraphrase, including the ground; the preference is his own stated one, so the trap on reported readings does not bite. Locator right (his comment is on 25:72 alone). verse.js ok (Al-Furqan 25:72, at 2926); entry-check ok. Plain sense checked against day.js: the slaves of the Beneficent (25:63, Pickthall's words) spend the night prostrate (25:64), spend without excess (25:67), then what they avoid (25:68, 25:72); no key-verse words repeated. No school needed, no comparison, tone plain. Attacks tried on every line and none landed.",
+ "better": ""
+}

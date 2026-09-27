@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d042-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/27.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Ibn Kathir via packet.js quran 42 --verse 27.62: his comment is on 27:62 alone and opens with the evidence words verbatim, that God points out He is the one called on in hardships and hoped for in calamities, and glosses the ayah as: who is the one to whom alone the desperate turns, and besides whom none removes the harm of the afflicted. The paraphrase (called on in hardship, the desperate turn to Him alone, He alone lifts harm) is carried in full, in the Arabic, not the English abridgement. Locator right. The reading's 'the desperate' is his gloss of al-mudtarr where Pickthall prints 'the wronged one'; that is the commentator's own word, not drift. verse.js ok (An-Naml 27:62, at 3220; the key is the ayah's first sentence ending in a question mark, which rule 8 allows); entry-check ok. Plain sense checked against day.js: 27:59 to 27:64 is a run of questions setting Allah against the partners ascribed to Him (creation, earth, answering the distressed, guidance, provision). The secondary al-Tabari locator in the verdict does not ship. No school, comparison or tone issue. Attacks tried on every line and none landed.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d038-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/23.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 38 --verse 23.96: Ibn Kathir’s single comment on 23:93 to 23:98 contains the evidence words verbatim (thumma qala murshidan lahu ila al-tiryaq al-nafi fi mukhalatat al-nas, wa-huwa al-ihsan ila man yusi’u ... fa-taudu adawatuhu sadaqatan). The paraphrase (antidote for life among people, good done to the one who does ill, enmity turning to friendship) is his; ‘until’ for his resultative fa- is a fair rendering. Attacked the omission of a limit: al-Tabari says the forbearance preceded the command to fight, but Ibn Kathir’s comment has no abrogation or limit (searched it: no naskh), and the ayah is not a hard passage, so rule 6 does not bite and nothing beyond his words is attributed. day.js: 23:93 to 23:94 is the plea not to be set among the wrongdoing folk, 23:96 follows; context clause faithful. verse.js ok (Al-Mu’minun 23:96, at 2768); entry-check ok.",
+ "better": ""
+}

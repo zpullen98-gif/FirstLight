@@ -1,0 +1,241 @@
+{
+ "lane": "L3",
+ "plan": "quran",
+ "batch": "quran-02",
+ "days": [
+  {
+   "d": 47,
+   "primary": {
+    "id": "quran-02-d047-p",
+    "key": "Lo! We offered the trust unto the heavens and the earth and the hills, but they shrank from bearing it and were afraid of it. And man assumed it.",
+    "ref": "Al-Ahzab 33:72",
+    "at": [
+     3604
+    ],
+    "s": "Near the surah’s close, after warnings to the hypocrites, the ayah turns to the burden man took on; al-Tabari, on 33:72, reads the trust as every trust of religion and of people, since God confined it to no one kind.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Ahzab 33:72, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى الأقوال في ذلك بالصواب ما قاله الذين قالوا: إنه عُنِي بالأمانة في هذا الموضع: جميع معاني الأمانات في الدين وأمانات الناس وذلك أن الله لم يخص بقوله ﴿عَرَضْنَا الأمَانَةَ﴾ بعض معاني الأمانات لما وصفنا.",
+     "gloss": "The most correct of the sayings on this is that of those who said that by the trust in this place is meant every sense of the trusts in religion and the trusts of people; for God did not, in His saying “We offered the trust”, single out some of the senses of trusts, for the reason we have described."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d047-s",
+    "key": "O ye who believe! Remember Allah with much remembrance.",
+    "ref": "Al-Ahzab 33:41",
+    "at": [
+     3573
+    ],
+    "s": "Just after the Prophet is named messenger and seal, the believers are called to praise at morning and evening; al-Qurtubi, on 33:41, reads the command as remembrance and thanks for God’s favours, left without limit because it is easy for the servant.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on Al-Ahzab 33:41, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "أَمَرَ اللَّهُ تَعَالَى عِبَادَهُ بِأَنْ يَذْكُرُوهُ وَيَشْكُرُوهُ، وَيُكْثِرُوا مِنْ ذَلِكَ عَلَى مَا أَنْعَمَ بِهِ عَلَيْهِمْ. وَجَعَلَ تَعَالَى ذَلِكَ دُونَ حَدٍّ لِسُهُولَتِهِ عَلَى الْعَبْدِ.",
+     "gloss": "God the Exalted commanded His servants to remember Him and thank Him, and to do so abundantly, for what He has bestowed on them. And the Exalted set it without a limit, because of its ease for the servant."
+    }
+   }
+  },
+  {
+   "d": 48,
+   "primary": {
+    "id": "quran-02-d048-p",
+    "key": "Then We gave the Scripture as inheritance unto those whom We elected of Our bondmen. But of them are some who wrong themselves and of them are some who are lukewarm, and of them are some who outstrip (others) through good deeds, by Allah’s leave.",
+    "ref": "Fatir 35:32",
+    "at": [
+     3691
+    ],
+    "s": "After the Prophet’s Scripture is said to confirm what came before, the ayah sorts its heirs into three; al-Tabari, on 35:32, reads the one who wrongs himself as guilty of sins short of hypocrisy and idolatry, since the Gardens promised next include all three.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Fatir 35:32, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأما الظالم لنفسه فإنه لأن يكون من أهل الذنوب والمعاصي التي هي دون النفاق والشرك عندي أشبه بمعنى الآية من أن يكون المنافق أو الكافر، وذلك أن الله تعالى ذكره أتبع هذه الآية قوله ﴿جَنَّاتُ عَدْنٍ يَدْخُلُونَهَا﴾ فعم بدخول الجنة جميع الأصناف الثلاثة.",
+     "gloss": "As for the one who wrongs himself, that he be of the people of sins and disobedience that fall below hypocrisy and associating partners with God is, in my view, closer to the sense of the ayah than that he be the hypocrite or the disbeliever; for God, exalted be His mention, followed this ayah with His saying “Gardens of Eden, they enter them”, and so took in all three kinds with entry into the Garden."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d048-s",
+    "key": "The erudite among His bondmen fear Allah alone.",
+    "ref": "Fatir 35:28",
+    "at": [
+     3687
+    ],
+    "s": "From the varied colours of fruits, hills, people and cattle, the ayah turns to the learned; Ibn Kathir, on 35:27 to 35:28, reads it as saying only those who know God fear Him as is His due, the fear growing with the knowledge.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Fatir 35:27 to 35:28, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "إِنَّمَا يَخْشَاهُ حَقَّ خَشْيَتِهِ الْعُلَمَاءُ الْعَارِفُونَ بِهِ … كُلَّمَا كَانَتِ الْمَعْرِفَةُ بِهِ أَتَمُّ وَالْعِلْمُ بِهِ أَكْمَلَ، كَانَتِ الْخَشْيَةُ لَهُ أَعْظَمَ وَأَكْثَرَ.",
+     "gloss": "Only the learned who know Him fear Him with the fear that is His due … the more complete the knowledge of Him and the more perfect the learning about Him, the greater and the more abundant the fear of Him."
+    }
+   }
+  },
+  {
+   "d": 49,
+   "primary": {
+    "id": "quran-02-d049-p",
+    "key": "And he hath coined for Us a similitude, and hath forgotten the fact of his creation, saying: Who will revive these bones when they have rotted away?",
+    "ref": "Ya-Sin 36:78",
+    "at": [
+     3782
+    ],
+    "s": "After man, made from a drop, is called an open opponent, the ayah gives his challenge; Ibn Kathir, on 36:77 to 36:80, reads it, whichever scoffer occasioned it, as meant for every denier of the resurrection, who forgets he was made from nothing.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Ya-Sin 36:77 to 36:80, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَعَلَى كُلِّ تَقْدِيرٍ سَوَاءً كَانَتْ هَذِهِ الْآيَاتُ قَدْ نَزَلَتْ فِي أُبي بْنِ خَلَفٍ، أَوْ [فِي] الْعَاصِ [بْنِ وَائِلٍ] ، أَوْ فِيهِمَا، فَهِيَ عَامَّةٌ فِي كُلِّ مَنْ أَنْكَرَ الْبَعْثَ … وَنَسِيَ نَفْسَهُ، وَأَنَّ اللَّهَ خَلَقَهُ مِنَ الْعَدَمِ، فَعَلِمَ مِنْ نَفْسِهِ مَا هُوَ أَعْظَمُ مِمَّا اسْتَبْعَدَهُ وَأَنْكَرَهُ وَجَحَدَهُ",
+     "gloss": "On every reckoning, whether these ayahs came down about Ubayy ibn Khalaf, or about al-ʿAs ibn Wa’il, or about both, they are general, for everyone who denies the resurrection … and he forgot himself, and that God created him from nothing, and so knew in himself something greater than what he thought far-fetched, denied and rejected."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d049-s",
+    "key": "And there came from the uttermost part of the city a man running. He cried: O my people! Follow those who have been sent!",
+    "ref": "Ya-Sin 36:20",
+    "at": [
+     3724
+    ],
+    "s": "In the parable of a city that threatens to stone its envoys, a new voice enters; al-Tabari, on 36:20 to 36:21, reads the man as a believer from the city’s edge who came, as reported, on learning the people meant to kill the three envoys.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Ya-Sin 36:20 to 36:21, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وذلك أن أهل المدينة هذه عزموا، واجتمعت آراؤهم على قتل هؤلاء الرسل الثلاثة فيما ذكر، فبلغ ذلك هذا الرجل، وكان منزله أقصى المدينة، وكان مؤمنًا",
+     "gloss": "That is because the people of this city had resolved, and their opinions had agreed, on killing these three messengers, as is reported; word of that reached this man, whose home was at the farthest end of the city, and he was a believer."
+    }
+   }
+  },
+  {
+   "d": 50,
+   "primary": {
+    "id": "quran-02-d050-p",
+    "key": "And when (his son) was old enough to walk with him, (Abraham) said: O my dear son, I have seen in a dream that I must sacrifice thee. So look, what thinkest thou?",
+    "ref": "As-Saffat 37:102",
+    "at": [
+     3889
+    ],
+    "s": "After the tidings of a gentle son, the ayah brings father and son to the trial; al-Tabari, on 37:101 to 37:102, reads the father’s question as sounding the son’s resolve, not seeking counsel on obeying God, whose command he would carry out in any case.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on As-Saffat 37:101 to 37:102, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فإن قال قائل: أو كان إبراهيم يؤامر ابنه في المضيّ لأمر الله، والانتهاء إلى طاعته؟ قيل: لم يكن ذلك منه مشاورة لابنه في طاعة الله، ولكنه كان منه ليعلم ما عند ابنه من العَزْم: هل هو من الصبر على أمر الله على مثل الذي هو عليه، فيسر بذلك أم لا وهو في الأحوال كلها ماض لأمر الله.",
+     "gloss": "If someone asks: was Abraham consulting his son about going ahead with God’s command and coming to obey Him? The answer is: it was not a consultation of his son on obeying God, but was meant to learn what resolve his son had, whether he was as patient under God’s command as he himself was, so that he might be glad of it, or not; in every case he was going ahead with God’s command."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d050-s",
+    "key": "(This is) a Scripture that We have revealed unto thee, full of blessing, that they may ponder its revelations, and that men of understanding may reflect.",
+    "ref": "Sad 38:29",
+    "at": [
+     3998
+    ],
+    "s": "Having asked whether the pious fare as the wicked, the surah speaks of its Book; al-Qurtubi, on 38:27 to 38:29, reads the call to ponder as making knowledge of the Qur’an’s meanings a duty, and measured recitation preferable to haste.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on Sad 38:27 to 38:29, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَفِي هَذَا دَلِيلٌ عَلَى، وُجُوبِ مَعْرِفَةِ مَعَانِي الْقُرْآنِ، وَدَلِيلٌ عَلَى أَنَّ التَّرْتِيلَ أَفْضَلُ مِنَ الْهَذِّ ، إِذْ لَا يَصِحُّ التَّدَبُّرُ مَعَ الْهَذِّ عَلَى مَا بَيَّنَّاهُ فِي كِتَابِ التَّذْكَارِ.",
+     "gloss": "In this is proof that knowing the meanings of the Qur’an is obligatory, and proof that measured recitation (tartil) is better than hurried reading, since pondering is not sound with hurried reading, as we have set out in the book al-Tidhkar."
+    }
+   }
+  },
+  {
+   "d": 51,
+   "primary": {
+    "id": "quran-02-d051-p",
+    "key": "Say: O My slaves who have been prodigal to their own hurt! Despair not of the mercy of Allah, Who forgiveth all sins.",
+    "ref": "Az-Zumar 39:53",
+    "at": [
+     4110
+    ],
+    "s": "After the warning that a boon granted is a test, the Prophet is given words for those deep in sin; al-Tabari, on 39:53, reads them as meant for every such sinner, believer or idolater, though idolatry is forgiven only upon repentance.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Az-Zumar 39:53, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى الأقوال في ذلك بالصواب قول من قال: عنى تعالى ذكره بذلك جميع من أسرف على نفسه من أهل الإيمان والشرك، لأن الله عم بقوله ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ جميع المسرفين، فلم يخصص به مسرفا دون مسرف. فإن قال قائل: فيغفر الله الشرك؟ قيل: نعم إذا تاب منه المشرك.",
+     "gloss": "The most correct of the sayings on this is the saying of those who said that God, exalted be His mention, meant by it everyone who has been prodigal against himself, of the people of faith and of associating partners with God, because God made His saying “O My slaves who have been prodigal against themselves” general to all the prodigal, and did not single out one prodigal over another. If someone asks: does God forgive associating partners with Him? The answer is: yes, when the one who associated partners repents of it."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d051-s",
+    "key": "Allah receiveth (men’s) souls at the time of their death, and that (soul) which dieth not (yet) in its sleep.",
+    "ref": "Az-Zumar 39:42",
+    "at": [
+     4099
+    ],
+    "s": "Once the Prophet is told he is no warder over the straying, the ayah turns to sleep and death; Ibn Kathir, on 39:41 to 39:42, reads it as naming two deaths, the greater when souls are taken from bodies and the lesser in sleep.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Az-Zumar 39:41 to 39:42, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَأَنَّهُ يَتَوَفَّى الْأَنْفُسَ الْوَفَاةَ الْكُبْرَى، بِمَا يُرْسِلُ مِنَ الْحَفَظَةِ الَّذِينَ يَقْبِضُونَهَا مِنَ الْأَبْدَانِ، وَالْوَفَاةَ الصُّغْرَى عِنْدَ الْمَنَامِ … وَفِي هَذِهِ الْآيَةِ ذَكَرَ الْكُبْرَى ثُمَّ الصُّغْرَى",
+     "gloss": "And that He takes souls in the greater death, through the guardians He sends who take them from the bodies, and in the lesser death at sleep … and in this ayah He mentions the greater, then the lesser."
+    }
+   }
+  },
+  {
+   "d": 52,
+   "primary": {
+    "id": "quran-02-d052-p",
+    "key": "If he is lying, then his lie is upon him; and if he is truthful, then some of that wherewith he threateneth you will strike you.",
+    "ref": "Ghafir 40:28",
+    "at": [
+     4160
+    ],
+    "s": "As Pharaoh proposes to kill Moses, a believer of his own house who hides his faith speaks up; al-Qurtubi, on 40:28, reads the concession as no doubt of Moses’ truth but a gentle way to hold the people back from harming him.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on Ghafir 40:28, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَإِنْ يَكُ كاذِباً فَعَلَيْهِ كَذِبُهُ … وَلَمْ يَكُنْ ذلك لشك منه في رسالته وصدقه، ولكم تلطفا في الاستكفاف واستنزلا عَنِ الْأَذَى.",
+     "gloss": "“And if he is lying, his lie is upon him” … and that was not from any doubt on his part about his mission and his truthfulness, but (the digitisation prints “ولكم” for “ولكن”) out of gentleness in seeking to restrain them, and to bring them down from doing harm."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d052-s",
+    "key": "And your Lord hath said: Pray unto Me and I will hear your prayer.",
+    "ref": "Ghafir 40:60",
+    "at": [
+     4192
+    ],
+    "s": "Just after the word that the Hour is surely coming, the ayah gives the Lord’s own promise; al-Tabari, on 40:59 to 40:60, reads the prayer asked for as worship given to God alone, and the promised answer as His pardon and mercy.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Ghafir 40:59 to 40:60, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يقول تعالى ذكره: ويقول ربكم أيها الناس لكم ادعوني: يقول: اعبدوني وأخلصوا لي العبادة دون من تعبدون من دوني من الأوثان والأصنام وغير ذلك ﴿أَسْتَجِبْ لَكُمْ﴾ يقول: أُجِبْ دعاءكم فأعفو عنكم وأرحمكم.",
+     "gloss": "He, exalted be His mention, says: your Lord says to you, O people, “Call on Me”, that is: worship Me and make worship sincerely Mine, apart from the idols, images and the rest that you worship besides Me; “I will answer you”, that is: I will answer your prayer, and so pardon you and have mercy on you."
+    }
+   }
+  }
+ ]
+}

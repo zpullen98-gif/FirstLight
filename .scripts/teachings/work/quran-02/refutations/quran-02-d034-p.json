@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d034-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/20.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 20:11 to 20:12 (one segment) via packet.js quran 34 --verse 20.12. After the two sets of reports (dead donkey skin from Kaʿb, ʿIkrima, Qatada, ʿAli; direct contact with the blessed ground from al-Hasan, Mujahid, Ibn Abi Najih), Abu Jaʿfar in his own voice prefers the second: God told him to remove his sandals so his feet would touch the blessing of the valley directly, since it was a holy valley, and argues nothing in the outward wording of the revelation ties it to donkey skin or impurity. The evidence words are found verbatim. The since-clause gives one of his reasons (he also cites the following clause and doubts the isnad of the Ibn Masʿud hadith) but claims nothing he does not say. Plain sense (Moses reaches the fire, called by name, 20:10 to 20:11) matches day.js and repeats no four words of the key. verse.js ok (Ta-Ha 20:12, at 2359); entry-check ok, no warns. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

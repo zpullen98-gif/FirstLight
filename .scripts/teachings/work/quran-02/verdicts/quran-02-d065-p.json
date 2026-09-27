@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d065-p",
+ "d": 65,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Nay, but that which they have earned is rust upon their hearts.",
+ "ref": "Al-Mutaffifin 83:14",
+ "at": [
+  5861
+ ],
+ "s": "Against deniers who dismiss the revelations as old fables, the chapter gives its answer; al-Tabari, on 83:12 to 83:14, reads the rust as sins that overpower the heart, flood it and close round it until they cover it, as wine overpowers the mind.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 83:12 to 83:14, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/83.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 83:12 to 83:14 (one segment), at his gloss of ‘kallā bal rāna ʿalā qulūbihim’",
+    "via": "packet"
+   }
+  ],
+  "words": "يقول: غلب على قلوبهم وغَمَرها وأحاطت بها الذنوب فغطتها، يقال منه: رانت الخمر على عقله، فهي تَرِين عليه رَيْنا، وذلك إذا سكر، فغلبت على عقله",
+  "lang": "Arabic",
+  "gloss": "He says: the sins overpowered their hearts, flooded them and closed round them, and so covered them; one says of it, ‘the wine rana over his mind’, it covers it over, and that is when he is drunk and it overpowers his mind.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Mutaffifin 83:14, at 5861). In his single comment on 83:12 to 83:14 al-Tabari glosses rana in his own voice: sins overpowered the hearts, flooded them, closed round them and covered them, and gives the usage of the verb for wine overpowering a drunkard’s mind, then says the exegetes and the report from the Prophet (the black spot hadith) agree. The sentence paraphrases his gloss; the wine clause reproduces his lexical parallel, not an added moral. Plain sense faithful: 83:13 has the denier call the revelations fables of the men of old and 83:14 opens with the rebuttal Nay. entry-check ok."
+}

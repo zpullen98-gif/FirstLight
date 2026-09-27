@@ -1,0 +1,48 @@
+{
+ "id": "quran-02-d042-p",
+ "d": 42,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Is not He (best) Who answereth the wronged one when he crieth unto Him and removeth the evil, and hath made you viceroys of the earth?",
+ "ref": "An-Naml 27:62",
+ "at": [
+  3220
+ ],
+ "s": "Among questions setting God against the partners ascribed to Him, this one turns to human need; Ibn Kathir, on 27:62, reads it as naming God the one called on in hardship, to whom alone the desperate turn and who alone lifts harm.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 27:62, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/27.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 27:62, opening paragraph",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/27.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 27:62, inside the segment labelled 27:61 (brief gloss only)",
+    "via": "packet"
+   }
+  ],
+  "words": "يُنَبِّهُ تَعَالَى أَنَّهُ هُوَ المدعُوّ عِنْدَ الشَّدَائِدِ، المرجُوّ عِنْدَ النَّوَازِلِ، كَمَا قَالَ: ﴿وَإِذَا مَسَّكُمُ الضُّرُّ فِي الْبَحْرِ ضَلَّ مَنْ تَدْعُونَ إِلا إِيَّاهُ﴾ ، وَقَالَ تَعَالَى: ﴿ثُمَّ إِذَا مَسَّكُمُ الضُّرُّ فَإِلَيْهِ تَجْأَرُونَ﴾ . وَهَكَذَا قَالَ هَاهُنَا: ﴿أَمَّنْ يُجِيبُ الْمُضْطَرَّ إِذَا دَعَاهُ﴾ أَيْ: مَنْ هُوَ الَّذِي لَا يَلْجَأُ الْمُضْطَرُّ إِلَّا إِلَيْهِ، وَالَّذِي لَا يَكْشِفُ ضُرَّ الْمَضْرُورِينَ سِوَاهُ.",
+  "lang": "Arabic",
+  "gloss": "God points out that He is the One called upon in hardships, the One hoped for when calamities fall, as He said: when harm touches you at sea, those you call on fail, except Him; and: then when harm touches you, to Him you cry out. So too here: who answers the desperate one when he calls, that is, who is the One to whom the desperate turns and to none but Him, and besides whom none removes the harm of the afflicted.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, An-Naml 27:62, at 3220); the first sentence of the ayah, ending at its question mark. Ibn Kathir’s own opening comment on 27:62 says God is the one called on in hardships and hoped for in calamities, the one to whom alone the desperate turn and besides whom none removes harm; the sentence paraphrases that and nothing more. al-Tabari, the default, gives only a one-line gloss on 27:62 (inside the segment labelled 27:61), so Ibn Kathir, whose comment is substantial, is the right choice. Plain sense faithful: 27:59 to 27:64 set God against what they ascribe as partners in a run of questions. Evidence tightened to one contiguous passage (the proposer’s basis used an ellipsis). Entry-check ok, no change to the entry."
+}

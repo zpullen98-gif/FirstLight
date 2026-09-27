@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d066-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/97.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js quran 66 --verse 97:3: al-Tabari's single comment on 97:1 to 97:5 lists the readings (Mujahid and Amr ibn Qays: deeds that night; Qatada: months without the Night of Power; the Israelite night-worshipper; the Umayyad-reign report) and then, in his own voice, says the view most in keeping with the plain wording is that deeds on the Night of Power are better than the deeds of a thousand months without it, dismissing the others as baseless. The evidence words are verbatim at that place; the paraphrase (deeds that night outweighing deeds of a thousand months that lack it) matches his preferred view without drift, and he states the preference himself, so the roster trap is met. Locator: the packet labels it one comment on the range, cited as such. Plain sense: 97:3 does stand between the sending down (97:1) and the angels' descent (97:4), and 'night of revelation' follows 97:1; no key-verse words repeated. No school, comparison or tone issue. verse.js ok (Al-Qadr 97:3, at 6127, 10 words); entry-check.js ok with no errors or warnings; 44 words, no dash.",
+ "better": ""
+}

@@ -1,0 +1,42 @@
+{
+ "lane": "L6",
+ "plan": "quran",
+ "batch": "quran-02",
+ "days": [
+  {
+   "d": 66,
+   "primary": {
+    "id": "quran-02-d066-p",
+    "key": "The Night of Power is better than a thousand months.",
+    "ref": "Al-Qadr 97:3",
+    "at": [6127],
+    "s": "In a surah on the night of revelation, between the sending down and the angels’ descent, the ayah weighs the night’s worth; al-Tabari, on 97:1 to 97:5, reads it as deeds done that night outweighing the deeds of a thousand months that lack it.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 97:1 to 97:5, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأشبه الأقوال في ذلك بظاهر التنزيل قول من قال: عملٌ في ليلة القدر خير من عمل ألف شهر، ليس فيها ليلة القدر.",
+     "gloss": "The view most in keeping with the plain wording of the revelation is that of those who said: deeds on the Night of Power are better than the deeds of a thousand months in which there is no Night of Power."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d066-s",
+    "key": "Lo! it is thy insulter (and not thou) who is without posterity.",
+    "ref": "Al-Kawthar 108:3",
+    "at": [6206],
+    "s": "After the Prophet is told of the abundance given him and bidden to pray and sacrifice, the surah turns to his detractor; al-Wahidi, on 108:1 to 108:3, reads it as revealed about al-As ibn Wa’il, who called him cut off after his son died.",
+    "by": "wahidi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Wahidi, Asbāb al-nuzūl, on 108:1 to 108:3, ed. al-Humaydan (1992), OpenITI text at commit cc9beb0",
+    "basis": {
+     "source": "wahidi",
+     "words": "قال ابن عباس: نزلت في العاص بن وائل … قال: ذاك الأبتر، يعني النبي … وكان قد توفي قبل ذلك عبد الله ابن رسول الله … وكانوا يسمون من ليس له ابن: أبتر، فأنزل الله تعالى هذه السورة.",
+     "gloss": "Ibn Abbas said: it was revealed about al-As ibn Wa’il … he said: that one who is cut off, meaning the Prophet … Abd Allah, the son of the Messenger of God, had died before that … and they used to call one who had no son cut off; so God sent down this surah."
+    }
+   }
+  }
+ ]
+}

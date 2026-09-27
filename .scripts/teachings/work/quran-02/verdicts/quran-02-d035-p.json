@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d035-p",
+ "d": 35,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But he who turneth away from remembrance of Me, his will be a narrow life, and I shall bring him blind to the assembly on the Day of Resurrection.",
+ "ref": "Ta-Ha 20:124",
+ "at": [
+  2471
+ ],
+ "s": "After Adam and his wife are sent down with a promise of guidance, the verse turns to the fate of those who refuse it; al-Tabari, on 20:124 to 20:126, reads the narrow life as the grave’s torment, since many who turn away live in ease.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on Ta-Ha 20:124 to 20:126, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/20.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 20:124 to 20:126 (one segment), Abu Jaʿfar’s preference and his argument after it",
+    "via": "packet"
+   }
+  ],
+  "words": "فلا تخلو تلك المعيشة الضنك التي جعلها الله لهم من أن تكون لهم في حياتهم الدنيا، أو في قبورهم قبل البعث، إذ كان لا وجه لأن تكون في الآخرة لما قد بيَّنا، فإن كانت لهم في حياتهم الدنيا، فقد يجب أن يكون كلّ من أعرض عن ذكر الله من الكفار، فإن معيشته فيها ضنك، وفي وجودنا كثيرا منهم أوسع معيشة من كثير من المقبلين على ذكر الله تبارك وتعالى، القائلين له المؤمنين في ذلك، ما يدلّ على أن ذلك ليس كذلك، وإذ خلا القول في ذلك من هذين الوجهين صحّ الوجه الثالث، وهو أن ذلك في البرزخ.",
+  "lang": "Arabic",
+  "gloss": "That narrow life which God assigned them must then be either in their life in this world or in their graves before the raising, since it cannot be in the hereafter for the reason explained. If it were theirs in their worldly life, then every denier who turned from God’s remembrance would have a narrow life there, yet we find many of them living more amply than many who turn toward God’s remembrance and believe; that shows it is not so. With those two excluded, the third holds: that it is in the barzakh.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Ta-Ha 20:124, at 2471). Opened al-Tabari on 20:124 to 20:126 (one segment) through packet.js. He lists three places for the narrow life (Hell; an unlawful or anxious livelihood in this world; the barzakh, the torment of the grave) and says in his own voice that the most correct is the torment of the grave, arguing that 20:127 (‘the doom of the Hereafter will be sterner’) rules out the hereafter and that many deniers living more amply than believers rules out this world. The sentence gives his preferred reading and the second of his two reasons; it is a compression, not a drift, since he does use that fact to exclude the worldly reading. Plain sense matches 20:117 to 20:123 (Adam and his wife, ‘Go down hence, both of you’, the promise of guidance). Entry-check ok."
+}

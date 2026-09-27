@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d053-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/41.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js quran 53 --verse 41.34: the segment is one comment on 41:33 to 41:34, and the quoted words stand verbatim in his own voice (yaqūl taʿālā dhikruhu li-nabiyyihi): repel with forbearance the ignorance, with pardon the offence, with patience the hurt; then the offender becomes, through kindness, like a friend from among your cousins, near in kinship (al-ḥamīm: al-qarīb). This is his own reading, given first, before the reported alternative that the better thing is the greeting of peace (ʿAtaʾ, Mujahid); the entry claims no preference over it and no more than his words carry. Plain sense checked against day.js 41:33 to 41:36: Pickthall has him who prayeth unto his Lord and doeth right; the addressee thee is named O Muhammad in 41:36, so the Prophet is taught is within the text and the brief voice. verse.js ok (Fussilat 41:34, at 4251); entry-check ok. No comparison, no school needed, no hard passage.",
+ "better": ""
+}

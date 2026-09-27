@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d048-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/35.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 35:32 (packet.js quran 48 --verse 35.32): the evidence run is verbatim in his own-voice section (marked 'indi), after the reports that the one who wrongs himself is the forgiven sinner or the hypocrite; he holds the sinner short of hypocrisy and shirk closer to the ayah's sense because 35:33 extends entry into the Gardens to all three kinds. The paraphrase ('sins short of hypocrisy and idolatry', 'the Gardens promised next include all three') carries no more than that; 'reads' fairly renders his 'closer to the sense'. He adds elsewhere that the wrongdoer may enter after punishment; its omission does not misstate him. Plain sense checked on day.js: 35:31 says the Scripture inspired to the Prophet confirms what came before, 35:32 divides the heirs in three. One probe that did not land: 'its heirs' attaches the inheritance to the Prophet's Scripture, whereas al-Tabari himself takes the inherited Scripture as the earlier books (faith in them) passed to Muhammad's community; but the plain sense is the text's own natural sequence (35:31 then 35:32), is not attributed to him, and does not contradict the reading shipped. verse.js ok (Fatir 35:32, at 3691); entry-check ok, no warnings.",
+ "better": ""
+}

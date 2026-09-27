@@ -1,0 +1,437 @@
+{
+ "plan": "quran",
+ "batch": "quran-02",
+ "div": "5a48e62cd7",
+ "days": [
+  {
+   "d": 34,
+   "label": "Maryam 19:1 to Ta-Ha 20:27",
+   "id": "quran-02-d034-p",
+   "key": "Lo! I, even I, am thy Lord, So take off thy shoes, for lo! thou art in the holy valley of Tuwa.",
+   "ref": "Ta-Ha 20:12",
+   "at": [
+    2359
+   ],
+   "s": "Early in Ta-Ha, Moses reaches the fire and is called by name; al-Tabari, on 20:11 to 20:12, reads the command as letting his bare feet touch the blessing of a sanctified valley, since nothing in the text ties it to sandals of donkey skin.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on Ta-Ha 20:11 to 20:12, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 35,
+   "label": "Ta-Ha 20:28 to 20:135",
+   "id": "quran-02-d035-p",
+   "key": "But he who turneth away from remembrance of Me, his will be a narrow life, and I shall bring him blind to the assembly on the Day of Resurrection.",
+   "ref": "Ta-Ha 20:124",
+   "at": [
+    2471
+   ],
+   "s": "After Adam and his wife are sent down with a promise of guidance, the verse turns to the fate of those who refuse it; al-Tabari, on 20:124 to 20:126, reads the narrow life as the grave’s torment, since many who turn away live in ease.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on Ta-Ha 20:124 to 20:126, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 36,
+   "label": "Surah 21, Al-Anbiya",
+   "id": "quran-02-d036-p",
+   "key": "We sent thee not save as a mercy for the peoples.",
+   "ref": "Al-Anbiya 21:107",
+   "at": [
+    2589
+   ],
+   "s": "Near the close of Al-Anbiya, after its line of earlier prophets, the Prophet is addressed; al-Tabari, on 21:106 to 21:107, reads the mercy as meant for believer and denier alike, the one guided to the Garden, the other spared the swift ruin of earlier peoples.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Anbiya 21:106 to 21:107, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 37,
+   "label": "Surah 22, Al-Hajj",
+   "id": "quran-02-d037-p",
+   "key": "Their flesh and their food reach not Allah, but the devotion from you reacheth Him.",
+   "ref": "Al-Hajj 22:37",
+   "at": [
+    2631
+   ],
+   "s": "After the pilgrims are told to name God over their camels, the verse turns to the offering itself; al-Tabari, on 22:37 to 22:38, reads what reaches Him as their fear of Him in the sacrifice, offered for His sake and as He bade.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Hajj 22:37 to 22:38, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 38,
+   "label": "Surah 23, Al-Mu'minun",
+   "id": "quran-02-d038-p",
+   "key": "Deemed ye then that We had created you for naught, and that ye would not be returned unto Us?",
+   "ref": "Al-Mu'minun 23:115",
+   "at": [
+    2787
+   ],
+   "s": "After the doomed are told they tarried on earth but a little, God questions them; al-Tabari, on 23:114 to 23:115, takes it as asking the wretched whether they thought themselves made in play and falsehood, not to live again and be repaid for their deeds.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 23:114 to 23:115, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 39,
+   "label": "Surah 24, An-Nur",
+   "id": "quran-02-d039-p",
+   "key": "Allah is the Light of the heavens and the earth. The similitude of His light is as a niche wherein is a lamp.",
+   "ref": "An-Nur 24:35",
+   "at": [
+    2825
+   ],
+   "s": "Following a verse on the plain revelations sent down, the chapter gives its parable of the lamp; al-Tabari, on 24:35, reads the Light as God’s guidance of all in heaven and earth, and the lamp as a parable of the Qur’an in believers’ hearts.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on An-Nur 24:35, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 40,
+   "label": "Surah 25, Al-Furqan",
+   "id": "quran-02-d040-p",
+   "key": "And those who will not witness vanity, but when they pass near senseless play, pass by with dignity.",
+   "ref": "Al-Furqan 25:72",
+   "at": [
+    2926
+   ],
+   "s": "Near the surah’s close, the portrait of the slaves of the Beneficent turns from night prayer and spending to what they shun; al-Tabari, on 25:72, reads the ‘vanity’ as every falsehood, associating partners with God, singing and lying alike, since the description is general.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 25:72, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 41,
+   "label": "Surah 26, Ash-Shu'ara",
+   "id": "quran-02-d041-p",
+   "key": "Save him who bringeth unto Allah a whole heart.",
+   "ref": "Ash-Shu'ara 26:89",
+   "at": [
+    3020
+   ],
+   "s": "Abraham’s prayer turns to the day of raising, when wealth and sons avail nothing, and names the one exception; al-Tabari, on 26:85 to 26:89, reads the ‘whole heart’ as one free of doubt about God’s oneness and the raising after death.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 26:85 to 26:89, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 42,
+   "label": "Surah 27, An-Naml",
+   "id": "quran-02-d042-p",
+   "key": "Is not He (best) Who answereth the wronged one when he crieth unto Him and removeth the evil, and hath made you viceroys of the earth?",
+   "ref": "An-Naml 27:62",
+   "at": [
+    3220
+   ],
+   "s": "Among questions setting God against the partners ascribed to Him, this one turns to human need; Ibn Kathir, on 27:62, reads it as naming God the one called on in hardship, to whom alone the desperate turn and who alone lifts harm.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 27:62, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 43,
+   "label": "Al-Qasas 28:1 to 28:76",
+   "id": "quran-02-d043-p",
+   "key": "One of the two women said: O my father! Hire him! For the best (man) that thou canst hire in the strong, the trustworthy.",
+   "ref": "Al-Qasas 28:26",
+   "at": [
+    3277
+   ],
+   "s": "Moses, having watered two women’s flocks, now stands before their aged father; the Jalalayn, on 28:26, explains the strength and trust by what she told her father, his lifting the well’s stone and bidding her walk behind him.",
+   "by": "jalalayn",
+   "src": "The Jalalayn, Tafsīr al-Jalālayn (al-Mahalli), on 28:26, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 44,
+   "label": "Al-Qasas 28:77 to Al-'Ankabut 29:69",
+   "id": "quran-02-d044-p",
+   "key": "Lo! worship preserveth from lewdness and iniquity, but verily remembrance of Allah is more important.",
+   "ref": "Al-'Ankabut 29:45",
+   "at": [
+    3384
+   ],
+   "s": "After the spider parable, the Prophet is told to recite the revelation and keep up the prayer; al-Tabari, on 29:44 to 29:45, takes the ‘remembrance of Allah’ as God’s remembrance of His servants, greater than theirs of Him, judging this nearest the plain text.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 29:44 to 29:45, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 45,
+   "label": "Surahs 30 to 31, Ar-Rum to Luqman",
+   "id": "quran-02-d045-p",
+   "key": "Be modest in thy bearing and subdue thy voice.",
+   "ref": "Luqman 31:19",
+   "at": [
+    3487
+   ],
+   "s": "Luqman’s counsel to his son passes from prayer and patience to conduct among people; Ibn Kathir, on 31:16 to 31:19, reads the modest ‘bearing’ as a gait neither sluggish nor hurried, and the subdued voice as speech not raised needlessly.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 31:16 to 31:19, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 46,
+   "label": "As-Sajdah 32:1 to Al-Ahzab 33:38",
+   "id": "quran-02-d046-p",
+   "key": "Verily in the messenger of Allah ye have a good example for him who looketh unto Allah and the Last Day, and remembereth Allah much.",
+   "ref": "Al-Ahzab 33:21",
+   "at": [
+    3553
+   ],
+   "s": "As the clans lay siege and waverers seek leave, the besieged are pointed to the messenger; al-Tabari, on 33:21 to 33:22, reads it as reproaching believers who hung back: one hoping for God’s reward does not spare himself, but stays with him wherever he is.",
+   "by": "tabari",
+   "src": "Al-Tabari, Jāmiʿ al-bayān, on 33:21 to 33:22, Arabic text, Tarteel QUL via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 47,
+   "label": "Al-Ahzab 33:39 to Saba 34:31",
+   "id": "quran-02-d047-p",
+   "key": "Lo! We offered the trust unto the heavens and the earth and the hills, but they shrank from bearing it and were afraid of it. And man assumed it.",
+   "ref": "Al-Ahzab 33:72",
+   "at": [
+    3604
+   ],
+   "s": "Near the surah’s close, after the believers are told to speak straight, the ayah turns to the burden man took on; al-Tabari, on 33:72, reads the trust as every trust of religion and of people, since God confined it to no one kind.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Ahzab 33:72, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 48,
+   "label": "Saba 34:32 to Fatir 35:45",
+   "id": "quran-02-d048-p",
+   "key": "Then We gave the Scripture as inheritance unto those whom We elected of Our bondmen. But of them are some who wrong themselves and of them are some who are lukewarm, and of them are some who outstrip (others) through good deeds, by Allah’s leave.",
+   "ref": "Fatir 35:32",
+   "at": [
+    3691
+   ],
+   "s": "After the Prophet’s Scripture is said to confirm what came before, the ayah sorts its heirs into three; al-Tabari, on 35:32, reads the one who wrongs himself as guilty of sins short of hypocrisy and idolatry, since the Gardens promised next include all three.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on Fatir 35:32, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 49,
+   "label": "Ya-Sin 36:1 to As-Saffat 37:95",
+   "id": "quran-02-d049-p",
+   "key": "And he hath coined for Us a similitude, and hath forgotten the fact of his creation, saying: Who will revive these bones when they have rotted away?",
+   "ref": "Ya-Sin 36:78",
+   "at": [
+    3782
+   ],
+   "s": "After man, made from a drop, is called an open opponent, the ayah gives his challenge; Ibn Kathir, on 36:77 to 36:80, reads it, whether Ubayy ibn Khalaf or al-ʿAs ibn Wa’il occasioned it, as meant for every denier of the resurrection.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Ya-Sin 36:77 to 36:80, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 50,
+   "label": "As-Saffat 37:96 to Sad 38:88",
+   "id": "quran-02-d050-p",
+   "key": "And when (his son) was old enough to walk with him, (Abraham) said: O my dear son, I have seen in a dream that I must sacrifice thee. So look, what thinkest thou?",
+   "ref": "As-Saffat 37:102",
+   "at": [
+    3889
+   ],
+   "s": "After the tidings of a gentle son, the ayah brings father and son to the trial; al-Tabari, on 37:101 to 37:102, reads the father’s question as sounding the son’s resolve, not seeking counsel on obeying God, whose command he would carry out in any case.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on As-Saffat 37:101 to 37:102, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 51,
+   "label": "Surah 39, Az-Zumar",
+   "id": "quran-02-d051-p",
+   "key": "Say: O My slaves who have been prodigal to their own hurt! Despair not of the mercy of Allah, Who forgiveth all sins.",
+   "ref": "Az-Zumar 39:53",
+   "at": [
+    4110
+   ],
+   "s": "After the warning that a boon granted is a test, the Prophet is given words for those deep in sin; al-Tabari, on 39:53, reads them as meant for every such sinner, believer or idolater, though idolatry is forgiven only upon repentance.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on Az-Zumar 39:53, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 52,
+   "label": "Surah 40, Ghafir",
+   "id": "quran-02-d052-p",
+   "key": "If he is lying, then his lie is upon him; and if he is truthful, then some of that wherewith he threateneth you will strike you.",
+   "ref": "Ghafir 40:28",
+   "at": [
+    4160
+   ],
+   "s": "As Pharaoh proposes to kill Moses, a believer of his own house who hides his faith speaks up; al-Qurtubi, on 40:28, reads the concession as no doubt of Moses’ truth but a gentle way to hold the people back from harming him.",
+   "by": "qurtubi",
+   "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on Ghafir 40:28, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 53,
+   "label": "Fussilat 41:1 to Ash-Shura 42:26",
+   "id": "quran-02-d053-p",
+   "key": "The good deed and the evil deed are not alike. Repel the evil deed with one which is better, then lo! he, between whom and thee there was enmity (will become) as though he was a bosom friend.",
+   "ref": "Fussilat 41:34",
+   "at": [
+    4251
+   ],
+   "s": "After praise for one who prays and does right, the Prophet is taught how to answer enmity; al-Tabari, on 41:33 to 41:34, reads it as repelling ignorance with forbearance, offence with pardon and harm with patience, till the foe is like a near kinsman.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 41:33 to 41:34, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 54,
+   "label": "Ash-Shura 42:27 to Az-Zukhruf 43:89",
+   "id": "quran-02-d054-p",
+   "key": "Friends on that day will be foes one to another, save those who kept their duty (to Allah).",
+   "ref": "Az-Zukhruf 43:67",
+   "at": [
+    4391
+   ],
+   "s": "Between the sudden Hour and the welcome into the Garden, the surah speaks of friendship; Ibn Kathir, on 43:66 to 43:73, reads it as every friendship not for God turning to enmity at the Resurrection, while one for God lasts as He lasts.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 43:66 to 43:73, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 55,
+   "label": "Surahs 44 to 45, Ad-Dukhan to Al-Jathiyah",
+   "id": "quran-02-d055-p",
+   "key": "And the heaven and the earth wept not for them, nor were they reprieved.",
+   "ref": "Ad-Dukhan 44:29",
+   "at": [
+    4442
+   ],
+   "s": "Pharaoh’s folk drowned and their gardens left to others, the surah closes their story; al-Tabari, on 44:29 to 44:31, explains, from reports, that heaven and earth weep for a dying believer, but these had no good work rising to God and no place of prayer.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 44:29 to 44:31, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 56,
+   "label": "Surahs 46 to 47, Al-Ahqaf to Muhammad",
+   "id": "quran-02-d056-p",
+   "key": "And We have commended unto man kindness toward parents. His mother beareth him with reluctance, and bringeth him forth with reluctance, and the bearing of him and the weaning of him is thirty months, till, when he attaineth full strength and reacheth forty years, he saith: My Lord!",
+   "ref": "Al-Ahqaf 46:15",
+   "at": [
+    4524
+   ],
+   "s": "Against a son who scorns his parents, the surah sets a life from womb to forty; al-Tabari, on 46:15, reads forty as the age when God’s proof against a man is complete: youth’s folly gone, he knows what he owes God in honouring his parents.",
+   "by": "tabari",
+   "src": "Al-Tabari, Jāmiʿ al-bayān, on 46:15, Arabic text, Tarteel QUL via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 57,
+   "label": "Surahs 48 to 50, Al-Fath to Qaf",
+   "id": "quran-02-d057-p",
+   "key": "Lo! We have created you male and female, and have made you nations and tribes that ye may know one another. Lo! the noblest of you, in the sight of Allah, is the best in conduct.",
+   "ref": "Al-Hujurat 49:13",
+   "at": [
+    4624
+   ],
+   "s": "After forbidding believers to mock, spy and backbite, the surah addresses all humankind; al-Tabari, on 49:13, reads the tribes as made for knowing near and distant kin, not as merit before God, and the noblest as the most God-fearing, not the grandest house.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 49:13, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 58,
+   "label": "Surahs 51 to 53, Adh-Dhariyat to An-Najm",
+   "id": "quran-02-d058-p",
+   "key": "I created the jinn and humankind only that they might worship Me.",
+   "ref": "Adh-Dhariyat 51:56",
+   "at": [
+    4730
+   ],
+   "s": "Having told the Prophet to turn away yet warn, God speaks in the first person; al-Tabari, on 51:56 to 51:57, takes them, with Ibn Abbas, as made to worship and bow to Him, since deniers too yield to His decree, resisting only His bidding.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 51:56 to 51:57, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 59,
+   "label": "Surahs 54 to 56, Al-Qamar to Al-Waqi'ah",
+   "id": "quran-02-d059-p",
+   "key": "All that are in the heavens and the earth entreat Him. Every day He exerciseth (universal) power.",
+   "ref": "Ar-Rahman 55:29",
+   "at": [
+    4929
+   ],
+   "s": "Between the passing of all on earth and a warning to jinn and men, the surah turns to prayer; Ibn Kathir, on 55:26 to 55:30, reads it as God needing none and all creatures needing Him every moment, asking by their state and their speech.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 55:26 to 55:30, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 60,
+   "label": "Surahs 57 to 58, Al-Hadid to Al-Mujadilah",
+   "id": "quran-02-d060-p",
+   "key": "There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.",
+   "ref": "Al-Mujadilah 58:7",
+   "at": [
+    5110
+   ],
+   "s": "Between a wife’s complaint heard by God and a warning to those who conspire against the messenger, the Prophet is asked to consider God’s knowledge; al-Tabari, on 58:7, reads ‘their fourth’ as God witnessing them by His knowledge while He is on His Throne.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 58:7, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 61,
+   "label": "Surahs 59 to 62, Al-Hashr to Al-Jumu'ah",
+   "id": "quran-02-d061-p",
+   "key": "And let every soul look to that which it sendeth on before for the morrow.",
+   "ref": "Al-Hashr 59:18",
+   "at": [
+    5143
+   ],
+   "s": "After the hypocrites are likened to the devil, the believers are twice told to keep their duty to God; Ibn Kathir, on 59:18 to 59:20, reads the verse as a call to reckon with oneself before being reckoned with.",
+   "by": "ibn-kathir",
+   "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 59:18 to 59:20, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 62,
+   "label": "Surahs 63 to 67, Al-Munafiqun to Al-Mulk",
+   "id": "quran-02-d062-p",
+   "key": "So keep your duty to Allah as best ye can, and listen, and obey, and spend; that is better for your souls.",
+   "ref": "At-Taghabun 64:16",
+   "at": [
+    5214
+   ],
+   "s": "After wealth and children are called a trial, the believers are given their charge; al-Tabari, on 64:15 to 64:16, takes it as not cancelling the earlier command to fear God as is His due, for nothing clear says so, and keeps both in force.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 64:15 to 64:16, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 63,
+   "label": "Surahs 68 to 72, Al-Qalam to Al-Jinn",
+   "id": "quran-02-d063-p",
+   "key": "And I have said: Seek pardon of your Lord. Lo! He was ever Forgiving.",
+   "ref": "Nuh 71:10",
+   "at": [
+    5428
+   ],
+   "s": "Noah, telling God how his people stopped their ears to his calling, recalls what he urged on them; al-Qurtubi, on 71:10 to 71:12, takes the passage as evidence that seeking forgiveness brings down rain and provision, when it comes with sincerity and leaving sin.",
+   "by": "qurtubi",
+   "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 71:10 to 71:12, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 64,
+   "label": "Surahs 73 to 77, Al-Muzzammil to Al-Mursalat",
+   "id": "quran-02-d064-p",
+   "key": "Stir not thy tongue herewith to hasten it.",
+   "ref": "Al-Qiyamah 75:16",
+   "at": [
+    5566
+   ],
+   "s": "In a chapter on the Day of Resurrection, an aside turns to the Prophet receiving revelation; al-Tabari, on 75:16 to 75:19, takes it as barring haste to repeat the words before God had gathered them in his breast, not later rehearsal to remember them.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 75:16 to 75:19, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 65,
+   "label": "Surahs 78 to 86, An-Naba to At-Tariq",
+   "id": "quran-02-d065-p",
+   "key": "Nay, but that which they have earned is rust upon their hearts.",
+   "ref": "Al-Mutaffifin 83:14",
+   "at": [
+    5861
+   ],
+   "s": "Against deniers who dismiss the revelations as old fables, the chapter gives its answer; al-Tabari, on 83:12 to 83:14, reads the rust as sins that overpower the heart, flood it and close round it until they cover it, as wine overpowers the mind.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 83:12 to 83:14, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  },
+  {
+   "d": 66,
+   "label": "Surahs 87 to 114, Al-A'la to An-Nas",
+   "id": "quran-02-d066-p",
+   "key": "The Night of Power is better than a thousand months.",
+   "ref": "Al-Qadr 97:3",
+   "at": [
+    6127
+   ],
+   "s": "In a surah on the night of revelation, between the sending down and the angels’ descent, the ayah weighs the night’s worth; al-Tabari, on 97:1 to 97:5, reads it as deeds done that night outweighing the deeds of a thousand months that lack it.",
+   "by": "tabari",
+   "src": "al-Tabari, Jāmiʿ al-bayān, on 97:1 to 97:5, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)"
+  }
+ ],
+ "holes": []
+}

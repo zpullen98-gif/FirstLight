@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d045-p",
+ "d": 45,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Be modest in thy bearing and subdue thy voice.",
+ "ref": "Luqman 31:19",
+ "at": [
+  3487
+ ],
+ "s": "Luqman’s counsel to his son passes from prayer and patience to conduct among people; Ibn Kathir, on 31:16 to 31:19, reads the modest ‘bearing’ as a gait neither sluggish nor hurried, and the subdued voice as speech not raised needlessly.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 31:16 to 31:19, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/31.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 31:16 to 31:19 (one segment), on wa-qsid fi mashyika and wa-ghdud min sawtika",
+    "via": "packet"
+   }
+  ],
+  "words": "﴿وَاقْصِدْ فِي مَشْيِكَ﴾ أَيِ: امْشِ مَشْيًا مُقْتَصِدًا لَيْسَ بِالْبَطِيءِ الْمُتَثَبِّطِ، وَلَا بِالسَّرِيعِ الْمُفْرِطِ، بَلْ عَدْلًا وَسَطًا بَيْنَ بَيْنَ. وَقَوْلُهُ: ﴿وَاغْضُضْ مِنْ صَوْتِكَ﴾ أَيْ: لَا تُبَالِغْ فِي الْكَلَامِ، وَلَا تَرْفَعْ صَوْتَكَ فِيمَا لَا فَائِدَةَ فِيهِ",
+  "lang": "Arabic",
+  "gloss": "‘Be moderate in thy walking’: that is, walk at a measured pace, neither slow and sluggish nor fast and excessive, but balanced, midway between the two. And His saying ‘lower thy voice’: that is, do not overdo speech, and do not raise thy voice over what has no benefit in it.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Luqman 31:19, at 3487). Opened the packet for 31:19 (all sources); Ibn Kathir comments on 31:16 to 31:19 as one segment, and in his own voice glosses the walking as a measured pace neither slow and sluggish nor fast and excessive, and the lowered voice as not overdoing speech nor raising the voice where there is no benefit. The sentence paraphrases this closely; ‘bearing’ is Pickthall’s word for mashy, and the sentence ties Ibn Kathir’s gait to it without adding. Plain sense faithful: Luqman’s exhortation to his son (31:13) moves from worship and perseverance (31:17) to conduct toward people (31:18 to 31:19). entry-check ok, no changes."
+}

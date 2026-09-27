@@ -1,0 +1,30 @@
+{
+ "id": "quran-02-d062-p",
+ "d": 62,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "So keep your duty to Allah as best ye can, and listen, and obey, and spend; that is better for your souls.",
+ "ref": "At-Taghabun 64:16",
+ "at": [5214],
+ "s": "After wealth and children are called a trial, the believers are given their charge; al-Tabari, on 64:15 to 64:16, takes it as not cancelling the earlier command to fear God as is His due, for nothing clear says so, and keeps both in force.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 64:15 to 64:16, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/64.json", "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed", "locator": "comment on 64:15 to 64:16 (one segment), his own judgement after the reports from Qatada that the ayah abrogates 3:102", "via": "packet"}
+  ],
+  "words": "وليس في قوله: ﴿فَاتَّقُوا اللَّهَ مَا اسْتَطَعْتُمْ﴾ دلالة واضحة على أنه لقوله: ﴿اتَّقُوا اللَّهَ حَقَّ تُقَاتِهِ﴾ ناسخ، إذ كان محتملا قوله: اتقوا الله حقّ تقاته فيما استطعتم، ولم يكن بأنه له ناسخ عن رسول الله … فإذا كان ذلك كذلك، فالواجب استعمالهما جميعًا على ما يحتملان من وجوه الصحة.",
+  "lang": "Arabic",
+  "gloss": "There is in His saying ‘so fear God as far as you are able’ no clear indication that it abrogates His saying ‘fear God as is His due’, since that can mean ‘fear God as is His due, in what you are able’, and no report from the Messenger of God says it abrogates it … that being so, what is required is to apply both together, in the sound senses they can bear.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, At-Taghabun 64:16, at 5214), the first sentence of the ayah. In his single comment on 64:15 to 64:16 al-Tabari first reports (from Qatada, twice) that the ayah was sent as a relief and abrogates ‘fear God as is His due’ (3:102), then in his own voice denies any clear indication of abrogation, since the older command can be read as ‘in what you are able’ and no report from the Prophet says so, and concludes both must be applied together. The sentence paraphrases that judgement and marks it as his; al-Qurtubi on 64:16 also records this as al-Tabari’s choice. ‘Earlier command’ follows the order of the mushaf and the reported view that 64:16 came after it; al-Tabari does not dispute the order, only the abrogation. Plain sense: 64:15 calls wealth and children a temptation (a trial), and 64:16 gives the charge; faithful. Evidence skips only the blessing sign after ‘Messenger of God’. Entry-check ok, no warnings."
+}

@@ -1,0 +1,66 @@
+{
+ "id": "quran-02-d037-p",
+ "d": 37,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Their flesh and their food reach not Allah, but the devotion from you reacheth Him.",
+ "ref": "Al-Hajj 22:37",
+ "at": [
+  2631
+ ],
+ "s": "After the pilgrims are told to name God over their camels, the verse turns to the offering itself; al-Tabari, on 22:37 to 22:38, reads what reaches Him as their fear of Him in the sacrifice, offered for His sake and as He bade.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Hajj 22:37 to 22:38, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/22.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 22:37 to 22:38 (one segment), opening gloss of ‘lan yanala Allaha luhumuha’",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/22.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 22:37, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafseer-al-qurtubi/22.json",
+    "edition": "al-Jāmiʿ li-aḥkām al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 22:37, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-jalalayn/22.json",
+    "edition": "Tafsīr al-Jalālayn, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 22:37, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/OpenITI/0475AH/blob/cc9beb0d9645e8cdce892556423b9926a127054f/data/0468IbnAhmadWahidiNaysaburi/0468IbnAhmadWahidiNaysaburi.AsbabNuzul/0468IbnAhmadWahidiNaysaburi.AsbabNuzul.Shamela0011314-ara1",
+    "edition": "Asbāb nuzūl al-Qurʾān, ed. al-Ḥumaydān (1992), OpenITI commit cc9beb0",
+    "locator": "nothing on 22:37",
+    "via": "packet"
+   }
+  ],
+  "words": "لم يصل إلى الله لحوم بدنكم ولا دماؤها، ولكن يناله اتقاؤكم إياه أن اتقيتموه فيها فأردتم بها وجهه، وعملتم فيها بما ندبكم إليه وأمركم به في أمرها وعظمتم بها حرماته",
+  "lang": "Arabic",
+  "gloss": "The flesh of your sacrificial camels and their blood do not reach God; what reaches Him is your fear of Him, if you feared Him in them and sought His face by them, did with them what He urged and commanded you concerning them, and honoured His sacred things by them.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Hajj 22:37, at 2631). In his one comment on 22:37 to 22:38 al-Tabari opens in his own voice (yaqulu taala dhikruhu): the flesh and blood of the camels do not reach God, what reaches Him is their taqwa, fearing Him in them, seeking His face by them and doing with them what He urged and commanded; he then says the exegetes held the like (Ibrahim, Ibn Zayd). The sentence paraphrases exactly that, and renders taqwa as fear of Him, as he glosses it, not Pickthall’s ‘devotion’. Plain sense: 22:36 tells the hearers to mention the name of Allah over the camels, and 22:37 turns to what of the offering reaches Him; faithful to day.js. Ibn Kathir, al-Qurtubi and the Jalalayn read it compatibly (acceptance of sincere intent). 43 words; entry-check ok."
+}

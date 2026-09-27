@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d055-p",
+ "d": 55,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And the heaven and the earth wept not for them, nor were they reprieved.",
+ "ref": "Ad-Dukhan 44:29",
+ "at": [
+  4442
+ ],
+ "s": "Pharaoh’s folk drowned and their gardens left to others, the surah closes their story; al-Tabari, on 44:29 to 44:31, explains, from reports, that heaven and earth weep for a dying believer, but these had no good work rising to God and no place of prayer.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 44:29 to 44:31, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/44.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 44:29 to 44:31 (one segment), the second reported explanation of the weeping, before the reports from Ibn ʿAbbas, Mujahid, Saʿid ibn Jubayr, al-Dahhak and Qatada",
+    "via": "packet"
+   }
+  ],
+  "words": "وقيل: إنما قيل ﴿فَمَا بَكَتْ عَلَيْهِمُ السَّمَاءُ وَالأرْضُ﴾ لأن المؤمن إذا مات، بكت عليه السماء والأرض أربعين صباحا، ولم تبكيا على فرعون وقومه، لأنه لم يكن لهم عمل يَصعْد إلى الله صالح، فتبكي عليهم السماء، ولا مسجد في الأرض، فتبكي عليهم الأرض. وبنحو الذي قلنا في ذلك قال أهل التأويل",
+  "lang": "Arabic",
+  "gloss": "It has been said that ‘the heaven and the earth wept not for them’ was said because when a believer dies, heaven and earth weep for him forty mornings, and they did not weep for Pharaoh and his people, since they had no good work rising to God for the heaven to weep over them, and no place of prayer on earth for the earth to weep over them. Much as we have said on this, the interpreters said.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Ad-Dukhan 44:29, at 4442). Opened al-Tabari on 44:29 to 44:31 (one segment) through packet.js --verse 44.29, beside Ibn Kathir (44:17 to 44:33), al-Qurtubi and the Jalalayn. Al-Tabari identifies the drowned as Pharaoh and his people and gives two reported explanations introduced by qila: the weeping of the sky is the redness of its edges (from al-Suddi and ʿAtaʾ), and heaven and earth weep forty mornings for a dead believer but did not weep for these, who had no righteous work rising to God and no place of prayer on earth; the long run of reports that follows (Ibn ʿAbbas, Mujahid, Saʿid ibn Jubayr, al-Dahhak, Qatada) carries the second. He states no preference in his own voice, and the sentence claims none: it says he explains from reports, which is accurate, and it leaves out the redness view without denying it. Plain sense: 44:24 to 44:28 tell of the drowned host and the gardens made an inheritance for other folk, and 44:31 names Pharaoh; faithful, no four words of the key repeated. Entry-check ok, 45 words."
+}

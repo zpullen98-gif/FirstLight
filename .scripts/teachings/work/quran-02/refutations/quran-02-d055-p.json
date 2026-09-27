@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d055-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/44.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js quran 55 --verse 44.29: one segment on 44:29 to 44:31. His own gloss is only that heaven and earth did not weep over those God drowned, Pharaoh and his people; he then gives two explanations each introduced as qīla: first that the sky weeping is the redness of its edges (al-Suddi, ʿAtaʾ), then the quoted one, that heaven and earth weep for a dying believer forty mornings and did not for Pharaoh and his people, who had no good work rising to God and no masjid on earth. That second is followed at once by his formula wa-bi-naḥw alladhī qulnā (much as we have said the interpreters said) and by the bulk of his reports (Ibn ʿAbbas, Mujahid, Saʿid ibn Jubayr, al-Dahhak, Qatada, a Prophetic report), so he makes it his own. The sentence says he explains it from reports and claims no preference, so the attribution holds and the words carry the paraphrase (forty mornings dropped, nothing added). Weak point, not fatal: the redness reading is passed over in silence. Plain sense against day.js 44:23 to 44:31: the drowned host (44:24), gardens made an inheritance for other folk (44:28); the story of Pharaoh continues to 44:31 with the deliverance of the Children of Israel, but the verse does close the account of Pharaoh folk themselves. Punishment is stated plainly, not softened. verse.js ok (Ad-Dukhan 44:29, at 4442); entry-check ok.",
+ "better": "If the operator wants the fuller picture, the reading can say al-Tabari gives this among reported explanations beside another, that the sky weeping is the redness of its edges; the cap would have to allow it."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d058-p",
+ "d": 58,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I created the jinn and humankind only that they might worship Me.",
+ "ref": "Adh-Dhariyat 51:56",
+ "at": [
+  4730
+ ],
+ "s": "Having told the Prophet to turn away yet warn, God speaks in the first person; al-Tabari, on 51:56 to 51:57, takes them, with Ibn Abbas, as made to humble themselves before His command, since even deniers bow to His decree and defy only His commands.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 51:56 to 51:57, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/51.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 51:56 to 51:57, his preference between the two readings",
+    "via": "packet"
+   }
+  ],
+  "words": "وأولى القولين في ذلك بالصواب القول الذي ذكرنا عن ابن عباس، وهو: ما خلقت الجنّ والإنس إلا لعبادتنا، والتذلل لأمرنا. فإن قال قائل: فكيف كفروا وقد خلقهم للتذلل لأمره؟ قيل: إنهم قد تذللوا لقضائه الذي قضاه عليهم، لأن قضاءه جار عليهم، لا يقدرون من الامتناع منه إذا نزل بهم، وإنما خالفه من كفر به في العمل بما أمره به",
+  "lang": "Arabic",
+  "gloss": "The more correct of the two readings is the one we cited from Ibn Abbas, namely: I created the jinn and humankind only to worship Us and to humble themselves to Our command. If someone asks: how then did they disbelieve, when He created them to humble themselves to His command? It is answered: they have humbled themselves to His decree which He decreed upon them, since His decree runs over them and they cannot hold out against it when it befalls them; the one who disbelieved in Him opposed Him only in acting on what He commanded him.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Adh-Dhariyat 51:56, at 4730). Al-Tabari reports two readings (made for the happy to worship and the wretched to disobey, from Zayd ibn Aslam; made to acknowledge servitude willingly or not, from Ibn Abbas) and says in his own words that the Ibn Abbas reading is the more correct: created to worship and humble themselves to His command; he then answers the objection that disbelievers still submit to His decree and oppose Him only in doing what He commanded. The sentence names his preference only because he states it, and does not go beyond his words. Plain sense matches 51:54 to 51:55 and the first-person divine speech of 51:56. Entry-check ok, no changes."
+}

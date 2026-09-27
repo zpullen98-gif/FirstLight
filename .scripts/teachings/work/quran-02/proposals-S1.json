@@ -1,0 +1,85 @@
+{
+ "lane": "S1",
+ "plan": "quran",
+ "batch": "quran-02",
+ "days": [
+  {
+   "d": 46,
+   "primary": {
+    "id": "quran-02-d046-p",
+    "key": "Verily in the messenger of Allah ye have a good example for him who looketh unto Allah and the Last Day, and remembereth Allah much.",
+    "ref": "Al-Ahzab 33:21",
+    "at": [
+     3553
+    ],
+    "s": "As the clans lay siege and waverers seek leave, the besieged are pointed to the messenger; al-Tabari, on 33:21 to 33:22, reads it as reproaching believers who hung back: one hoping for God’s reward does not spare himself, but stays with him wherever he is.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 33:21 to 33:22, Arabic text, Tarteel QUL via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وهذا عتاب من الله للمتخلفين عن رسول الله ﷺ وعسكره بالمدينة، من المؤمنين به، يقول لهم جلّ ثناؤه: ﴿لقد كان لكم في رسول الله أسوة حسنة﴾ : أن تتأسوا به وتكونوا معه حيث كان، ولا تتخلَّفوا عنه ﴿لِمَنْ كانَ يَرْجُو اللَّهَ﴾ يقول: فإن من يرجو ثواب الله ورحمته في الآخرة لا يرغب بنفسه، ولكنه تكون له به أُسوة في أن يكون معه حيث يكون هو.",
+     "gloss": "This is a reproach from God to those of the believers in him who stayed behind from the Messenger of God and his camp at Medina. He says to them: in the Messenger of God you had a good example, that you should model yourselves on him and be with him wherever he was, and not stay behind from him. ‘For him who hopes for God’: for whoever hopes for God’s reward and mercy in the hereafter does not spare himself (does not hold his own self above him), but has in him an example in being with him wherever he is."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d046-s",
+    "key": "Verily in the messenger of Allah ye have a good example for him who looketh unto Allah and the Last Day, and remembereth Allah much.",
+    "ref": "Al-Ahzab 33:21",
+    "at": [
+     3553
+    ],
+    "s": "At the clans’ siege, the verse stands between waverers who shirk the fight and believers who hold firm; al-Qurtubi, on 33:21, reads the example as a pattern for every act and a comfort in every state, for wounded, bereaved and hungry, the Prophet stayed patient.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 33:21, Arabic text, Tarteel QUL via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَالْأُسْوَةُ مَا يُتَأَسَّى بِهِ، أَيْ يُتَعَزَّى بِهِ. فَيُقْتَدَى بِهِ فِي جَمِيعِ أَفْعَالِهِ وَيُتَعَزَّى بِهِ فِي جَمِيعِ أَحْوَالِهِ، فَلَقَدْ شُجَّ وَجْهُهُ، وَكُسِرَتْ رَبَاعِيَتُهُ، وَقُتِلَ عَمُّهُ حَمْزَةُ، وَجَاعَ بَطْنُهُ، وَلَمْ يُلْفَ إِلَّا صَابِرًا مُحْتَسِبًا، وَشَاكِرًا رَاضِيًا.",
+     "gloss": "The example (uswa) is that by which one models oneself, that is, in which one takes comfort. So he is followed in all his acts and taken as a comfort in all his states: his face was gashed, his tooth broken, his uncle Hamza killed, his belly went hungry, and he was found only patient, looking to God for reward, grateful and content."
+    }
+   }
+  },
+  {
+   "d": 56,
+   "primary": {
+    "id": "quran-02-d056-p",
+    "key": "And We have commended unto man kindness toward parents. His mother beareth him with reluctance, and bringeth him forth with reluctance, and the bearing of him and the weaning of him is thirty months, till, when he attaineth full strength and reacheth forty years, he saith: My Lord!",
+    "ref": "Al-Ahqaf 46:15",
+    "at": [
+     4524
+    ],
+    "s": "Against a son who scorns his parents, the surah sets a life from womb to forty; al-Tabari, on 46:15, reads forty as the age when God’s proof against a man is complete: youth’s folly gone, he knows what he owes God in honouring his parents.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Tabari, Jāmiʿ al-bayān, on 46:15, Arabic text, Tarteel QUL via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "ذلك حين تكاملت حجة الله عليه، وسير عنه جهالة شبابه وعرف الواجب لله من الحق في بر والديه.",
+     "gloss": "That (reaching forty years) is when God’s proof against him is complete, the ignorance of his youth has been lifted from him, and he knows what he owes God, by right, in dutifulness to his parents."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d056-s",
+    "key": "Will they then not meditate on the Qur’an, or are there locks on the hearts?",
+    "ref": "Muhammad 47:24",
+    "at": [
+     4568
+    ],
+    "s": "Warning those who quail when war is mentioned, the surah turns to the Qur’an; al-Qurtubi, on 47:22 to 47:24, reads the locks as hearts sealed by God and shut to faith, and ‘on the hearts’ as taking in all such hearts, not theirs alone.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "Al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 47:22 to 47:24, Arabic text, Tarteel QUL via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "فَالْأَقْفَالُ ها هنا إشارة إلى ارتتاج الْقَلْبِ وَخُلُوِّهِ عَنِ الْإِيمَانِ أَيْ لَا يَدْخُلُ قُلُوبَهُمُ الْإِيمَانُ وَلَا يَخْرُجُ مِنْهَا الْكُفْرُ، لِأَنَّ اللَّهَ تَعَالَى طَبَعَ عَلَى قُلُوبِهِمْ وَقَالَ: \"عَلى قُلُوبٍ\" لِأَنَّهُ لَوْ قَالَ عَلَى قُلُوبِهِمْ لَمْ يَدْخُلْ قَلْبُ غَيْرِهِمْ فِي هَذِهِ الْجُمْلَةِ. وَالْمُرَادُ أَمْ عَلَى قُلُوبِ هَؤُلَاءِ وَقُلُوبِ مَنْ كَانُوا بِهَذِهِ الصِّفَةِ أَقْفَالُهَا.",
+     "gloss": "The locks here point to the heart’s being shut fast and empty of faith: faith does not enter their hearts and disbelief does not leave them, because God has sealed their hearts. He said ‘on hearts’ because, had He said ‘on their hearts’, no heart but theirs would fall within the statement; the meaning is: or are there on the hearts of these, and the hearts of all who are of this description, their locks."
+    }
+   }
+  }
+ ]
+}

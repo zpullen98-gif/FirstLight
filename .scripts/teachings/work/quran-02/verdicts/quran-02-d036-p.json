@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d036-p",
+ "d": 36,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "We sent thee not save as a mercy for the peoples.",
+ "ref": "Al-Anbiya 21:107",
+ "at": [
+  2589
+ ],
+ "s": "Near the close of Al-Anbiya, after its line of earlier prophets, the Prophet is addressed; al-Tabari, on 21:106 to 21:107, reads the mercy as meant for believer and denier alike, the one guided to the Garden, the other spared the swift ruin of earlier peoples.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Anbiya 21:106 to 21:107, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/21.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 21:106 to 21:107 (one segment), his preference at the end after the two views on ‘the worlds’",
+    "via": "packet"
+   }
+  ],
+  "words": "وأولى القولين في ذلك بالصواب.القول الذي رُوي عن ابن عباس، وهو أن الله أرسل نبيه محمدا ﷺ رحمة لجميع العالم، مؤمنهم وكافرهم. فأما مؤمنهم فإن الله هداه به، وأدخله بالإيمان به، وبالعمل بما جاء من عند الله الجنة. وأما كافرهم فإنه دفع به عنه عاجل البلاء الذي كان ينزل بالأمم المكذّبة رسلها من قبله.",
+  "lang": "Arabic",
+  "gloss": "The more correct of the two views is the one reported from Ibn ʿAbbas: that God sent His Prophet Muhammad as a mercy to the whole world, its believers and its deniers. As for its believers, God guided them by him and brought them into the Garden through faith in him and acting on what came from God. As for its deniers, through him He averted from them the swift calamity that used to fall on the nations before him that denied their messengers.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Anbiya 21:107, at 2589). Opened al-Tabari on 21:106 to 21:107 (one segment) through packet.js, and checked the headings of Ibn Kathir, al-Qurtubi and the Jalalayn on the ayah. Al-Tabari sets out two views (the mercy is for all, believer and denier, from Ibn ʿAbbas; it is for believers only, from Ibn Zayd) and in his own voice prefers the first, explaining that believers are guided into the Garden and deniers are spared the swift calamity that fell on earlier nations who denied their messengers. The sentence paraphrases exactly this. Plain sense (near the close of the surah, after its line of prophets, the Prophet addressed) is faithful to day.js. Entry-check ok."
+}

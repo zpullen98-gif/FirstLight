@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d056-p",
+ "d": 56,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And We have commended unto man kindness toward parents. His mother beareth him with reluctance, and bringeth him forth with reluctance, and the bearing of him and the weaning of him is thirty months, till, when he attaineth full strength and reacheth forty years, he saith: My Lord!",
+ "ref": "Al-Ahqaf 46:15",
+ "at": [
+  4524
+ ],
+ "s": "Against a son who scorns his parents, the surah sets a life from womb to forty; al-Tabari, on 46:15, reads forty as the age when God’s proof against a man is complete: youth’s folly gone, he knows what he owes God in honouring his parents.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "Al-Tabari, Jāmiʿ al-bayān, on 46:15, Arabic text, Tarteel QUL via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/46.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 46:15, at the heading on ‘wa balagha arbaʿīna sana’",
+    "via": "packet"
+   }
+  ],
+  "words": "ذلك حين تكاملت حجة الله عليه، وسير عنه جهالة شبابه وعرف الواجب لله من الحق في بر والديه.",
+  "lang": "Arabic",
+  "gloss": "That (reaching forty years) is when God’s proof against him is complete, the ignorance of his youth has been lifted from him, and he knows what he owes God, by right, in dutifulness to his parents.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Ahqaf 46:15, at 4524); it stops at ‘My Lord!’, a sentence end the gate accepts, and no shorter cut of the ayah within 60 words reaches the forty years. In his comment on 46:15, under ‘and reacheth forty years’, al-Tabari states in his own voice (before the Qatada reports) that this is when God’s proof against the man is complete, the ignorance of youth lifted, and he knows what he owes God in dutifulness to his parents; the sentence paraphrases that without addition. Plain sense contrasts the dutiful man with the scornful son of 46:17 and the span from bearing to forty, faithful to day.js. Entry-check ok, no changes."
+}

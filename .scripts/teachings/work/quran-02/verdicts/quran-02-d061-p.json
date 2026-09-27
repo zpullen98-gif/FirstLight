@@ -1,0 +1,30 @@
+{
+ "id": "quran-02-d061-p",
+ "d": 61,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And let every soul look to that which it sendeth on before for the morrow.",
+ "ref": "Al-Hashr 59:18",
+ "at": [5143],
+ "s": "After the hypocrites are likened to the devil, the believers are twice told to keep their duty to God; Ibn Kathir, on 59:18 to 59:20, reads the verse as a call to reckon with oneself before being reckoned with.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 59:18 to 59:20, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/59.json", "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed", "locator": "comment on 59:18 to 59:20 (one segment), his gloss of ‘wa-l-tanẓur nafsun mā qaddamat li-ghad’, after the hadith of Jarir", "via": "packet"}
+  ],
+  "words": "وَقَوْلُهُ: ﴿وَلْتَنْظُرْ نَفْسٌ مَا قَدَّمَتْ لِغَدٍ﴾ أَيْ: حَاسِبُوا أَنْفُسَكُمْ قَبْلَ أَنْ تُحَاسَبُوا، وَانْظُرُوا مَاذَا ادَّخَرْتُمْ لِأَنْفُسِكُمْ مِنَ الْأَعْمَالِ الصَّالِحَةِ لِيَوْمِ مَعَادِكُمْ وَعَرْضِكُمْ عَلَى رَبِّكُمْ",
+  "lang": "Arabic",
+  "gloss": "And His saying ‘let a soul look to what it has sent ahead for tomorrow’ means: take yourselves to account before you are taken to account, and look at what good works you have stored up for yourselves for the day of your return and of your being set before your Lord.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Hashr 59:18, at 5143), the middle sentence of the ayah. Ibn Kathir’s single comment on 59:18 to 59:20 glosses this clause in his own voice with ‘hasibu anfusakum qabla an tuhasabu’ and the looking to good works stored for the return to the Lord; the sentence paraphrases the first half of that gloss without adding to it. Plain sense: 59:16 likens the hypocrites to the devil and 59:18 twice commands the believers to observe their duty to God, around the key sentence; faithful, and no four-word run from the key. Entry-check ok, no warnings."
+}

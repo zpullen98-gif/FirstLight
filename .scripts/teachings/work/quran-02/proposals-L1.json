@@ -1,0 +1,241 @@
+{
+ "lane": "L1",
+ "plan": "quran",
+ "batch": "quran-02",
+ "days": [
+  {
+   "d": 34,
+   "primary": {
+    "id": "quran-02-d034-p",
+    "key": "Lo! I, even I, am thy Lord, So take off thy shoes, for lo! thou art in the holy valley of Tuwa.",
+    "ref": "Ta-Ha 20:12",
+    "at": [
+     2359
+    ],
+    "s": "Early in Ta-Ha, Moses reaches the fire and is called by name; al-Tabari, on 20:11 to 20:12, reads the command as letting his bare feet touch the blessing of a sanctified valley, since nothing in the text ties it to sandals of donkey skin.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Ta-Ha 20:11 to 20:12, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى القولين في ذلك بالصواب قول من قال: أمره الله تعالى ذكره بخلع نعليه ليباشر بقدميه بركة الوادي، إذ كان واديا مقدسا. وإنما قلنا ذلك أولى التأويلين بالصواب، لأنه لا دلالة في ظاهر التنزيل على أنه أمر بخلعهما من أجل أنهما من جلد حمار ولا لنجاستهما",
+     "gloss": "The more correct of the two views is that of those who said: God commanded him to take off his sandals so that his feet might touch the blessing of the valley, since it was a holy valley. We call that the more correct interpretation because nothing in the plain wording of the revelation indicates that he was told to take them off because they were of donkey skin, or because they were unclean."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d034-s",
+    "key": "Lo! those who believe and do good works, the Beneficent will appoint for them love.",
+    "ref": "Maryam 19:96",
+    "at": [
+     2345
+    ],
+    "s": "Near the close of Maryam, after the warning that each comes alone at the Resurrection, a promise follows for believers; Ibn Kathir, on 19:96 to 19:98, reads it as affection planted for them in righteous hearts, the acceptance on earth that follows heaven’s love.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Maryam 19:96 to 19:98, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "يُخْبِرُ تَعَالَى أَنَّهُ يَغْرِسُ لِعِبَادِهِ الْمُؤْمِنِينَ الَّذِينَ يَعْمَلُونَ الصَّالِحَاتِ … يَغْرِسُ لَهُمْ فِي قُلُوبِ عِبَادِهِ الصَّالِحِينَ مَوَدَّةً، وَهَذَا أَمْرٌ لَا بُدَّ مِنْهُ وَلَا مَحِيدَ عَنْهُ … فَيُحِبُّهُ أَهْلُ السَّمَاءِ، ثُمَّ يُوضَعُ لَهُ الْقَبُولُ فِي الْأَرْضِ",
+     "gloss": "He tells that for His believing servants who do righteous deeds He plants … He plants for them affection in the hearts of His righteous servants, and this is a thing that must be, with no turning aside from it … [from the report he cites:] and the people of heaven love him; then acceptance is set down for him on earth."
+    }
+   }
+  },
+  {
+   "d": 35,
+   "primary": {
+    "id": "quran-02-d035-p",
+    "key": "But he who turneth away from remembrance of Me, his will be a narrow life, and I shall bring him blind to the assembly on the Day of Resurrection.",
+    "ref": "Ta-Ha 20:124",
+    "at": [
+     2471
+    ],
+    "s": "After Adam and his wife are sent down with a promise of guidance, the verse turns to the fate of those who refuse it; al-Tabari, on 20:124 to 20:126, reads the narrow life as the grave’s torment, since many who turn away live in ease.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Ta-Ha 20:124 to 20:126, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "قال أبو جعفر: وأولى الأقوال في ذلك بالصواب قول من قال: هو عذاب القبر … فإن كانت لهم في حياتهم الدنيا، فقد يجب أن يكون كلّ من أعرض عن ذكر الله من الكفار، فإن معيشته فيها ضنك، وفي وجودنا كثيرا منهم أوسع معيشة من كثير من المقبلين على ذكر الله تبارك وتعالى … صحّ الوجه الثالث، وهو أن ذلك في البرزخ",
+     "gloss": "Abu Ja‘far said: the most correct of the views on this is that of those who said it is the torment of the grave … If it were theirs in their life in this world, then everyone who turns away from God’s remembrance would have a narrow life there, yet we find many of them living more amply than many who turn toward God’s remembrance … so the third view holds: that it is in the barzakh, the interval between death and the raising."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d035-s",
+    "key": "And speak unto him a gentle word, that peradventure he may heed or fear.",
+    "ref": "Ta-Ha 20:44",
+    "at": [
+     2391
+    ],
+    "s": "As Moses and Aaron are sent to Pharaoh, they are told how to address him; al-Qurtubi, on 20:43 to 20:44, second issue, reads it as the manner of commanding right, for if Moses, promised protection, was to speak gently, others are the more bound to.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on Ta-Ha 20:43 to 20:44, second issue, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "فِي قَوْلِهِ تَعَالَى: (فَقُولا لَهُ قَوْلًا لَيِّناً) دَلِيلٌ عَلَى جَوَازِ الْأَمْرِ بِالْمَعْرُوفِ وَالنَّهْيِ عَنِ الْمُنْكَرِ، وَأَنَّ ذَلِكَ يَكُونُ بِاللَّيِّنِ مِنَ الْقَوْلِ لِمَنْ مَعَهُ الْقُوَّةُ، وَضُمِنَتْ لَهُ الْعِصْمَةُ … فَكَيْفَ بِنَا فَنَحْنُ أَوْلَى بِذَلِكَ",
+     "gloss": "In His words ‘speak unto him a gentle word’ is a proof that commanding right and forbidding wrong is lawful, and that it is to be done with gentle speech toward one who holds power, though he [Moses] had been guaranteed protection … so how is it with us, who are the more bound to that."
+    }
+   }
+  },
+  {
+   "d": 36,
+   "primary": {
+    "id": "quran-02-d036-p",
+    "key": "We sent thee not save as a mercy for the peoples.",
+    "ref": "Al-Anbiya 21:107",
+    "at": [
+     2589
+    ],
+    "s": "Near the close of Al-Anbiya, after its line of earlier prophets, the Prophet is addressed; al-Tabari, on 21:106 to 21:107, reads the mercy as meant for believer and denier alike, the one guided to the Garden, the other spared the swift ruin of earlier peoples.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Anbiya 21:106 to 21:107, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى القولين في ذلك بالصواب … رحمة لجميع العالم، مؤمنهم وكافرهم. فأما مؤمنهم فإن الله هداه به، وأدخله بالإيمان به، وبالعمل بما جاء من عند الله الجنة. وأما كافرهم فإنه دفع به عنه عاجل البلاء الذي كان ينزل بالأمم المكذّبة رسلها من قبله",
+     "gloss": "The more correct of the two views on this … [is that God sent him as] a mercy to the whole world, its believers and its deniers. As for its believers, God guided them by him and brought them, through faith in him and acting on what came from God, into the Garden. As for its deniers, through him He averted from them the swift calamity that used to fall on the nations before him that denied their messengers."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d036-s",
+    "key": "Then we heard his prayer and saved him from the anguish. Thus we save believers.",
+    "ref": "Al-Anbiya 21:88",
+    "at": [
+     2570
+    ],
+    "s": "Among the prophets Al-Anbiya recalls, Dhu’n-Nun, gone off in anger, cries out from the darkness confessing his wrong; Ibn Kathir, on 21:87 to 21:88, reads the promise as reaching believers who turn and call on God in hardship, above all with that same prayer.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Al-Anbiya 21:87 to 21:88, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿وَكَذَلِكَ نُنْجِي الْمُؤْمِنِينَ﴾ أَيْ: إِذَا كَانُوا فِي الشَّدَائِدِ ودَعَونا مُنِيبِينَ إِلَيْنَا، وَلَا سِيَّمَا إِذَا دَعَوْا بِهَذَا الدُّعَاءِ فِي حَالِ الْبَلَاءِ، فَقَدْ جَاءَ التَّرْغِيبُ فِي الدُّعَاءِ بِهَا عَنْ سَيِّدِ الْأَنْبِيَاءِ",
+     "gloss": "‘Thus we save believers’: that is, when they are in hardships and call on Us, turning back to Us, and above all when they call with this prayer in a time of trial; for encouragement to pray with it has come from the master of the prophets."
+    }
+   }
+  },
+  {
+   "d": 37,
+   "primary": {
+    "id": "quran-02-d037-p",
+    "key": "Their flesh and their food reach not Allah, but the devotion from you reacheth Him.",
+    "ref": "Al-Hajj 22:37",
+    "at": [
+     2631
+    ],
+    "s": "After the pilgrims are told to name God over their camels, the verse turns to the offering itself; al-Tabari, on 22:37 to 22:38, reads what reaches Him as their fear of Him in the sacrifice, offered for His sake and as He bade.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Hajj 22:37 to 22:38, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "لم يصل إلى الله لحوم بدنكم ولا دماؤها، ولكن يناله اتقاؤكم إياه أن اتقيتموه فيها فأردتم بها وجهه، وعملتم فيها بما ندبكم إليه وأمركم به في أمرها وعظمتم بها حرماته",
+     "gloss": "The flesh of your sacrificial camels and their blood do not reach God; what reaches Him is your fear of Him, if you feared Him in them and sought His face by them, did with them what He urged and commanded you concerning them, and honoured His sacred things by them."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d037-s",
+    "key": "And among mankind is he who worshippeth Allah upon a narrow marge so that if good befalleth him he is content therewith, but if a trial befalleth him, he falleth away utterly.",
+    "ref": "Al-Hajj 22:11",
+    "at": [
+     2605
+    ],
+    "s": "Early in Al-Hajj, in a series of portraits of mankind, the chapter turns to one whose worship wavers; al-Wahidi, on 22:11, reads it as revealed about Bedouin emigrants to Medina, content while health and herds prospered, who turned back when sickness and loss came.",
+    "by": "wahidi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Wahidi, Asbāb al-nuzūl, on Al-Hajj 22:11, ed. al-Humaydan (1992) via OpenITI, commit cc9beb0",
+    "basis": {
+     "source": "wahidi",
+     "words": "قال المفسرون: نزلت في أعراب كانوا يقدمون على رسول الله … المدينة مهاجرين من باديتهم، وكان أحدهم إذا قدم المدينة فإن صح بها جسمه ونتجت فرسه مهرا حسنا وولدت امرأته غلاما وكثر ماله وما شيته رضي عنه واطمأن … وإن أصابه وجع المدينة وولدت امرأته جارية وأجهضت رماكه وذهب ماله وتأخرت عنه الصدقة، أتاه الشيطان",
+     "gloss": "The exegetes say: it was revealed about Bedouin Arabs who used to come to the Messenger of God … at Medina as emigrants from their desert. When one of them came to Medina, if his body stayed healthy there, his mare foaled a fine colt, his wife bore a boy and his wealth and herds grew, he was pleased with it and at ease … but if the sickness of Medina struck him, his wife bore a girl, his mares miscarried, his wealth went and the alms were late in reaching him, Satan came to him."
+    }
+   }
+  },
+  {
+   "d": 38,
+   "primary": {
+    "id": "quran-02-d038-p",
+    "key": "Repel evil with that which is better. We are Best Aware of that which they allege.",
+    "ref": "Al-Mu'minun 23:96",
+    "at": [
+     2768
+    ],
+    "s": "Late in Al-Mu’minun, between the Prophet’s prayers for refuge, he is given a rule of conduct; Ibn Kathir, on 23:93 to 23:98, reads it as the antidote for life among people, good done to the wrongdoer until enmity turns to friendship.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Al-Mu’minun 23:93 to 23:98, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "ثُمَّ قَالَ مُرْشِدًا لَهُ إِلَى التِّرْياق النَّافِعِ فِي مُخَالَطَةِ النَّاسِ، وَهُوَ الْإِحْسَانُ إِلَى مَنْ يُسِيءُ، لِيَسْتَجْلِبَ خَاطِرَهُ، فَتَعُودُ عَدَاوَتُهُ صَدَاقَةً وَبُغْضُهُ مَحَبَّةً، فَقَالَ: ﴿ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ﴾",
+     "gloss": "Then He said, guiding him to the beneficial antidote in dealing with people, which is doing good to the one who does ill, so as to win his heart, until his enmity turns to friendship and his hatred to love: ‘Repel evil with that which is better.’"
+    }
+   },
+   "standby": {
+    "id": "quran-02-d038-s",
+    "key": "Then fashioned We the drop a clot, then fashioned We the clot a little lump, then fashioned We the little lump bones, then clothed the bones with flesh, and then produced it as another creation.",
+    "ref": "Al-Mu'minun 23:14",
+    "at": [
+     2686
+    ],
+    "s": "After the marks of the believers, the chapter traces how man is made from wet earth; al-Tabari, on 23:13 to 23:14, reads the final stage as the breathing in of the spirit, by which the formed body becomes a human, as Adam’s clay did.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on Al-Mu’minun 23:13 to 23:14, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "وأولى الأقوال في ذلك بالصواب قول من قال: عنى بذلك نفخ الروح فيه، وذلك أنه بنفخ الروح فيه يتحول خلقا آخر إنسانا، وكان قبل ذلك بالأحوال التي وصفه الله أنه كان بها، من نطفة وعلقة ومضغة وعظم وبنفخ الروح فيه، يتحوّل عن تلك المعاني كلها إلى معنى الإنسانية، كما تحوّل أبوه آدم بنفخ الروح في الطينة التي خلق منها إنسانا",
+     "gloss": "The most correct of the views on this is that of those who said: He meant by it the breathing of the spirit into him; for by the breathing of the spirit into him he is changed into another creation, a human being. Before that he was in the states God described, drop, clot, lump and bone, and by the breathing of the spirit into him he is changed from all of those into humanity, as his father Adam was changed into a human by the breathing of the spirit into the clay from which he was created."
+    }
+   }
+  },
+  {
+   "d": 39,
+   "primary": {
+    "id": "quran-02-d039-p",
+    "key": "Allah is the Light of the heavens and the earth. The similitude of His light is as a niche wherein is a lamp.",
+    "ref": "An-Nur 24:35",
+    "at": [
+     2825
+    ],
+    "s": "Following a verse on the plain revelations sent down, the chapter gives its parable of the lamp; al-Tabari, on 24:35, reads the Light as God’s guidance of all in heaven and earth, and the lamp as a parable of the Qur’an in believers’ hearts.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on An-Nur 24:35, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يعني تعالى ذكره بقوله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ﴾ هادي من في السماوات والأرض، فهم بنوره إلى الحق يهتدون، وبهداه من حيرة الضلالة يعتصمون … وأوْلى الأقوال في ذلك بالصواب قول من قال: ذلك مثل ضربه الله للقرآن في قلب أهل الإيمان به",
+     "gloss": "By ‘God is the Light of the heavens and the earth’ He means the Guide of all who are in the heavens and the earth: by His light they are guided to the truth, and by His guidance they hold fast against the bewilderment of error … The most correct of the views on this is that of those who said: it is a parable God struck for the Qur’an in the hearts of those who believe in it."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d039-s",
+    "key": "Let them forgive and show indulgence. Yearn ye not that Allah may forgive you? Allah is Forgiving, Merciful.",
+    "ref": "An-Nur 24:22",
+    "at": [
+     2812
+    ],
+    "s": "Late in the passage on the slander, those of means are told to keep giving to kin; Ibn Kathir, on 24:22, reads it as revealed when Abu Bakr swore to stop supporting his kinsman Mistah, and as promising forgiveness in kind to those who forgive.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on An-Nur 24:22, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "وَهَذِهِ الْآيَةُ نَزَلَتْ فِي الصدِّيق، حِينَ حَلَفَ أَلَّا يَنْفَعَ مِسْطَح بْنَ أُثَاثَةَ بِنَافِعَةٍ … فَإِنَّهُ كَانَ ابْنَ خَالَةِ الصَّدِيقِ، وَكَانَ مِسْكِينًا لَا مَالَ لَهُ إِلَّا مَا يُنْفِقُ عَلَيْهِ أَبُو بَكْرٍ … أَيْ: فَإِنَّ الْجَزَاءَ مِنْ جِنْسِ الْعَمَلِ، فَكَمَا تَغْفِرُ عَنِ الْمُذْنِبِ إِلَيْكَ نَغْفِرُ لَكَ، وَكَمَا تَصْفَحُ نَصْفَحُ عَنْكَ",
+     "gloss": "This ayah was revealed about al-Siddiq, when he swore not to benefit Mistah ibn Uthatha with anything … for he was the son of al-Siddiq’s maternal aunt, and poor, with no wealth but what Abu Bakr spent on him … that is, the reward is of the same kind as the deed: as you forgive the one who wrongs you, We forgive you, and as you pardon, We pardon you."
+    }
+   }
+  }
+ ]
+}

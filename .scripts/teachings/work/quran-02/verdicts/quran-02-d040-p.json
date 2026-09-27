@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d040-p",
+ "d": 40,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And those who will not witness vanity, but when they pass near senseless play, pass by with dignity.",
+ "ref": "Al-Furqan 25:72",
+ "at": [
+  2926
+ ],
+ "s": "Near the surah’s close, the portrait of the slaves of the Beneficent turns from night prayer and spending to what they shun; al-Tabari, on 25:72, reads the ‘vanity’ as every falsehood, associating partners with God, singing and lying alike, since the description is general.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 25:72, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/25.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 25:72, after the three reported views of al-zur (shirk, singing, lying) and his own note on its root sense",
+    "via": "packet"
+   }
+  ],
+  "words": "فإذا كان ذلك كذلك، فأولى الأقوال بالصواب في تأويله أن يقال: والذين لا يشهدون شيئا من الباطل لا شركا، ولا غناء، ولا كذبا ولا غيره، وكلّ ما لزمه اسم الزور، لأن الله عمّ في وصفه إياهم أنهم لا يشهدون الزور، فلا ينبغي أن يخص من ذلك شيء إلا بحجة يجب التسليم لها، من خبر أو عقل.",
+  "lang": "Arabic",
+  "gloss": "The most correct view on its interpretation, since that is so, is to say: those who witness nothing of falsehood, neither associating partners with God, nor singing, nor lying, nor anything else, nor whatever the name zur applies to; because God made His description of them general, that they do not witness zur, so nothing may be singled out from it except by a proof that must be accepted, from a report or from reason.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Furqan 25:72, at 2926). al-Tabari on 25:72 reports three views of al-zur (shirk from al-Dahhak and Ibn Zayd, singing from Mujahid, lying from Ibn Jurayj), explains its root as dressing a thing up as other than it is, then in his own voice (awla al-aqwal bi-l-sawab) prefers the general reading: every falsehood, shirk, singing and lying included, because God made the description general. The sentence paraphrases exactly that and names his ground. Plain sense faithful to day.js: the portrait of the slaves of the Beneficent (25:63) moves from night prayer (25:64) and spending (25:67) to what they avoid (25:68, 25:72). One word of the key verse quoted. Entry-check ok, no changes."
+}

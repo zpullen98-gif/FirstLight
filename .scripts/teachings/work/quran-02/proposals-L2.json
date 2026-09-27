@@ -1,0 +1,241 @@
+{
+ "lane": "L2",
+ "plan": "quran",
+ "batch": "quran-02",
+ "days": [
+  {
+   "d": 40,
+   "primary": {
+    "id": "quran-02-d040-p",
+    "key": "And those who will not witness vanity, but when they pass near senseless play, pass by with dignity.",
+    "ref": "Al-Furqan 25:72",
+    "at": [
+     2926
+    ],
+    "s": "Near the surah’s close, the portrait of the slaves of the Beneficent turns from night prayer and spending to what they shun; al-Tabari, on 25:72, reads the ‘vanity’ as every falsehood, associating partners with God, singing and lying alike, since the description is general.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 25:72, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "فأولى الأقوال بالصواب في تأويله أن يقال: والذين لا يشهدون شيئا من الباطل لا شركا، ولا غناء، ولا كذبا ولا غيره، وكلّ ما لزمه اسم الزور، لأن الله عمّ في وصفه إياهم أنهم لا يشهدون الزور، فلا ينبغي أن يخص من ذلك شيء إلا بحجة يجب التسليم لها، من خبر أو عقل.",
+     "gloss": "The most correct of the views on its interpretation is to say: those who witness nothing of falsehood, neither associating partners with God, nor singing, nor lying, nor anything else, nor whatever the name zur applies to, because God made general His description of them as not witnessing zur, so nothing should be singled out from it except by a proof that must be accepted, from a report or from reason."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d040-s",
+    "key": "And He it is Who hath appointed night and day in succession, for him who desireth to remember, or desireth thankfulness.",
+    "ref": "Al-Furqan 25:62",
+    "at": [
+     2916
+    ],
+    "s": "Between the stars of heaven and the slaves of the Beneficent, the surah turns to the daily round; Ibn Kathir, on 25:61 to 25:62, reads the alternation as a timing for worship, a deed missed in one being made up in the other.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 25:61 to 25:62, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "أَيْ: جَعَلَهُمَا يَتَعَاقَبَانِ، تَوْقِيتًا لِعِبَادَةِ عِبَادِهِ لَهُ، فَمَنْ فَاتَهُ عَمَلٌ فِي اللَّيْلِ اسْتَدْرَكَهُ فِي النَّهَارِ، وَمَنْ فَاتَهُ عَمَلٌ فِي النَّهَارِ اسْتَدْرَكَهُ فِي اللَّيْلِ.",
+     "gloss": "That is, He made them follow one another as a timing for His servants’ worship of Him: whoever misses a deed in the night makes it up in the day, and whoever misses a deed in the day makes it up in the night."
+    }
+   }
+  },
+  {
+   "d": 41,
+   "primary": {
+    "id": "quran-02-d041-p",
+    "key": "Save him who bringeth unto Allah a whole heart.",
+    "ref": "Ash-Shu'ara 26:89",
+    "at": [
+     3020
+    ],
+    "s": "Abraham’s prayer turns to the day of raising, when wealth and sons avail nothing, and names the one exception; al-Tabari, on 26:85 to 26:89, reads the ‘whole heart’ as one free of doubt about God’s oneness and the raising after death.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 26:85 to 26:89, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يقول: ولا تخزني يوم يبعثون، يوم لا ينفع إلا القلب السليم. والذي عني به من سلامة القلب في هذا الموضع: هو سلامة القلب من الشكّ في توحيد الله، والبعث بعد الممات.",
+     "gloss": "He says: do not shame me on the day they are raised, the day when nothing avails but the sound heart. What is meant by the soundness of the heart in this place is the heart’s soundness from doubt about the oneness of God and the resurrection after death."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d041-s",
+    "key": "And give unto me a good report in later generations.",
+    "ref": "Ash-Shu'ara 26:84",
+    "at": [
+     3015
+    ],
+    "s": "Abraham, turning from his people’s idols to prayer, has just asked for wisdom; al-Qurtubi, on 26:83 to 26:89, takes the request as granted, since none calls down blessing on the Prophet without blessing Abraham too, above all in the prayers and from the pulpits.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 26:83 to 26:89, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "قُلْتُ: وَقَدْ فَعَلَ اللَّهُ ذَلِكَ إِذْ لَيْسَ أَحَدٌ يُصَلِّيَ عَلَى النَّبِيِّ ﷺ إِلَّا وَهُوَ يُصَلِّي عَلَى إِبْرَاهِيمَ وَخَاصَّةً فِي الصَّلَوَاتِ، وَعَلَى الْمَنَابِرِ الَّتِي هِيَ أَفْضَلُ الْحَالَاتِ وَأَفْضَلُ الدَّرَجَاتِ. وَالصَّلَاةُ دُعَاءٌ بِالرَّحْمَةِ.",
+     "gloss": "I say: God has done that, since there is no one who calls down blessing on the Prophet but he also calls down blessing on Abraham, especially in the prayers and on the pulpits, which are the best of occasions and the highest of places. And the blessing is a prayer for mercy."
+    }
+   }
+  },
+  {
+   "d": 42,
+   "primary": {
+    "id": "quran-02-d042-p",
+    "key": "Is not He (best) Who answereth the wronged one when he crieth unto Him and removeth the evil, and hath made you viceroys of the earth?",
+    "ref": "An-Naml 27:62",
+    "at": [
+     3220
+    ],
+    "s": "Among questions setting God against the partners ascribed to Him, this one turns to human need; Ibn Kathir, on 27:62, reads it as naming God the one called on in hardship, to whom alone the desperate turn and who alone lifts harm.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 27:62, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "يُنَبِّهُ تَعَالَى أَنَّهُ هُوَ المدعُوّ عِنْدَ الشَّدَائِدِ، المرجُوّ عِنْدَ النَّوَازِلِ … أَيْ: مَنْ هُوَ الَّذِي لَا يَلْجَأُ الْمُضْطَرُّ إِلَّا إِلَيْهِ، وَالَّذِي لَا يَكْشِفُ ضُرَّ الْمَضْرُورِينَ سِوَاهُ.",
+     "gloss": "God points out that He is the One called upon in hardships, the One hoped for when calamities fall … that is: who is the One to whom the desperate turns and to none but Him, and besides whom none removes the harm of the afflicted?"
+    }
+   },
+   "standby": {
+    "id": "quran-02-d042-s",
+    "key": "And (Solomon) smiled, laughing at her speech, and said: My Lord, arouse me to be thankful for Thy favour wherewith Thou hast favoured me and my parents, and to do good that shall be pleasing unto Thee, and include me in (the number of) Thy righteous slaves.",
+    "ref": "An-Naml 27:19",
+    "at": [
+     3177
+    ],
+    "s": "In the Valley of the Ants, an ant warns the others of Solomon’s hosts; the Jalalayn, on 27:19, explains that the wind carried her words to him from three miles away and that he held his army back until the ants were indoors.",
+    "by": "jalalayn",
+    "by2": "",
+    "hedge": "",
+    "src": "The Jalalayn, Tafsīr al-Jalālayn (al-Mahalli), on 27:19, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "jalalayn",
+     "words": "﴿فَتَبَسَّمَ﴾ سُلَيْمان ابْتِداء ﴿ضاحِكًا﴾ انْتِهاء ﴿مِن قَوْلها﴾ وقَدْ سَمِعَهُ مِن ثَلاثَة أمْيال حَمَلَتْهُ إلَيْهِ الرِّيح فَحَبَسَ جُنْده حِين أشْرَفَ عَلى وادِيهمْ حَتّى دَخَلُوا بُيُوتهمْ",
+     "gloss": "Solomon smiled at first and ended laughing at her words, which he had heard from three miles away, the wind having carried them to him; so he held back his army when he came over their valley until they had gone into their homes."
+    }
+   }
+  },
+  {
+   "d": 43,
+   "primary": {
+    "id": "quran-02-d043-p",
+    "key": "One of the two women said: O my father! Hire him! For the best (man) that thou canst hire in the strong, the trustworthy.",
+    "ref": "Al-Qasas 28:26",
+    "at": [
+     3277
+    ],
+    "s": "Moses, having watered two women’s flocks, now stands before their aged father; the Jalalayn, on 28:26, explains the strength and trust by what she told her father, his lifting the well’s stone and bidding her walk behind him.",
+    "by": "jalalayn",
+    "by2": "",
+    "hedge": "",
+    "src": "The Jalalayn, Tafsīr al-Jalālayn (al-Mahalli), on 28:26, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "jalalayn",
+     "words": "﴿يا أبَتِ اسْتَأْجِرْهُ﴾ اتَّخِذْهُ أجِيرًا يَرْعى غَنَمنا بَدَلنا ﴿إنّ خَيْر مَن اسْتَأْجَرْت القَوِيّ الأَمِين﴾ أيْ اسْتَأْجِرْهُ لِقُوَّتِهِ وأَمانَته فَسَأَلَها عَنْهُ فَأَخْبَرَتْهُ بِما تَقَدَّمَ مِن رَفْعه حَجَر البِئْر ومِن قَوْله لَها: امْشِي خَلْفِي",
+     "gloss": "‘O my father, hire him’: take him on as a hired man to tend our sheep in our place. ‘The best that thou canst hire is the strong, the trustworthy’: that is, hire him for his strength and his trustworthiness. He asked her about him, and she told him of what had gone before: his lifting the stone of the well, and his saying to her, walk behind me."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d043-s",
+    "key": "So he watered (their flock) for them. Then he turned aside into the shade, and said: My Lord! I am needy of whatever good Thou sendest down for me.",
+    "ref": "Al-Qasas 28:24",
+    "at": [
+     3275
+    ],
+    "s": "Fleeing to Midian, Moses finds two women holding back their flocks at the water; al-Tabari, on 28:24, reads the plea, on the reports he gives, as spoken in great hunger, a hint to the two women that they might feed him.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 28:24, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "محتاج. وذُكِر أن نبيّ الله موسى عليه السلام قال هذا القول، وهو بجهد شديد، وعَرَّض ذلك للمرأتين تعريضا لهما، لعلهما أن تُطعماه مما به من شدّة الجوع. وقيل: إن الخير الذي قال نبي الله ﴿إِنِّي لِمَا أَنزلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ﴾ محتاج، إنَّمَا عنى به: شَبْعَةٌ من طعام. وبنحو الذي قلنا في ذلك قال أهل التأويل.",
+     "gloss": "In need. It is reported that God’s prophet Moses said these words while in great hardship, and meant them as a hint to the two women, that they might feed him, because of the severity of his hunger. And it is said that the good he meant when he said he was in need of whatever good was sent down to him was a meal to fill him. The people of interpretation said the like of what we have said."
+    }
+   }
+  },
+  {
+   "d": 44,
+   "primary": {
+    "id": "quran-02-d044-p",
+    "key": "Lo! worship preserveth from lewdness and iniquity, but verily remembrance of Allah is more important.",
+    "ref": "Al-'Ankabut 29:45",
+    "at": [
+     3384
+    ],
+    "s": "After the spider parable, the Prophet is told to recite the revelation and keep up the prayer; al-Tabari, on 29:44 to 29:45, takes the ‘remembrance of Allah’ as God’s remembrance of His servants, greater than theirs of Him, judging this nearest the plain text.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 29:44 to 29:45, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "اختلف أهل التأويل في تأويله، فقال بعضهم: معناه: ولذكر الله إياكم أفضل من ذكركم. … قال أبو جعفر: وأشبه هذه الأقوال بما دلّ عليه ظاهر التنزيل، قول من قال: ولذكر الله إياكم أفضل من ذكركم إياه.",
+     "gloss": "The people of interpretation differed on its interpretation. Some said its meaning is: God’s remembrance of you is better than your remembrance. … Abu Ja‘far said: the most consonant of these views with what the plain text of the revelation indicates is the view of whoever said: God’s remembrance of you is better than your remembrance of Him."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d044-s",
+    "key": "As for those who strive in Us, We surely guide them to Our paths, and lo! Allah is with the good.",
+    "ref": "Al-'Ankabut 29:69",
+    "at": [
+     3408
+    ],
+    "s": "The surah, which opened on believers tested by affliction, ends with a promise to those who exert themselves; al-Qurtubi, on 29:69, understands God’s being with the good as help, protection and guidance, while He is with all by encompassing them and by His power.",
+    "by": "qurtubi",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on 29:69, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "qurtubi",
+     "words": "وَهُوَ سُبْحَانُهُ مَعَهُمْ بِالنُّصْرَةِ وَالْمَعُونَةُ، وَالْحِفْظِ وَالْهِدَايَةِ، وَمَعَ الْجَمِيعِ بِالْإِحَاطَةِ وَالْقُدْرَةُ. فَبَيْنَ المعينين بون.",
+     "gloss": "He, glory be to Him, is with them by support and aid, by protection and guidance, and He is with everyone by encompassing them and by His power. So between the two kinds of being-with there is a distance."
+    }
+   }
+  },
+  {
+   "d": 45,
+   "primary": {
+    "id": "quran-02-d045-p",
+    "key": "Be modest in thy bearing and subdue thy voice.",
+    "ref": "Luqman 31:19",
+    "at": [
+     3487
+    ],
+    "s": "Luqman’s counsel to his son passes from prayer and patience to conduct among people; Ibn Kathir, on 31:16 to 31:19, reads the modest ‘bearing’ as a gait neither sluggish nor hurried, and the subdued voice as speech not raised needlessly.",
+    "by": "ibn-kathir",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 31:16 to 31:19, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "ibn-kathir",
+     "words": "﴿وَاقْصِدْ فِي مَشْيِكَ﴾ أَيِ: امْشِ مَشْيًا مُقْتَصِدًا لَيْسَ بِالْبَطِيءِ الْمُتَثَبِّطِ، وَلَا بِالسَّرِيعِ الْمُفْرِطِ، بَلْ عَدْلًا وَسَطًا بَيْنَ بَيْنَ. وَقَوْلُهُ: ﴿وَاغْضُضْ مِنْ صَوْتِكَ﴾ أَيْ: لَا تُبَالِغْ فِي الْكَلَامِ، وَلَا تَرْفَعْ صَوْتَكَ فِيمَا لَا فَائِدَةَ فِيهِ",
+     "gloss": "‘Be moderate in thy walking’: that is, walk at a measured pace, neither slow and sluggish nor fast and excessive, but balanced, midway between the two. And His saying ‘lower thy voice’: that is, do not overdo speech, and do not raise thy voice over what has no benefit in it."
+    }
+   },
+   "standby": {
+    "id": "quran-02-d045-s",
+    "key": "And of His signs is this: He created for you helpmeets from yourselves that ye might find rest in them, and He ordained between you love and mercy.",
+    "ref": "Ar-Rum 30:21",
+    "at": [
+     3429
+    ],
+    "s": "Among the signs the surah lists, from dust to lightning, this one turns to spouses; al-Tabari, on 30:20 to 30:21, takes the love as born of kinship by marriage, and the mercy as God’s, by which He inclines them to one another.",
+    "by": "tabari",
+    "by2": "",
+    "hedge": "",
+    "src": "al-Tabari, Jāmiʿ al-bayān, on 30:20 to 30:21, Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+    "basis": {
+     "source": "tabari",
+     "words": "يقول: جعل بينكم بالمصاهرة والختونة مودة تتوادّون بها، وتتواصلون من أجلها، ﴿وَرَحْمَةً﴾ رحمكم بها، فعطف بعضكم بذلك على بعض",
+     "gloss": "He says: He placed between you, through kinship by marriage, a love by which you love one another and keep up ties for its sake, and a mercy with which He had mercy on you, and so by it He inclined some of you towards others."
+    }
+   }
+  }
+ ]
+}

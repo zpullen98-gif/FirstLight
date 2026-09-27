@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d039-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/24.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 39 --verse 24.35: al-Tabari glosses the Light in his own voice as the Guide of all in the heavens and the earth (and says he chose it because the ayah follows 24:34), then, after the reported views, states his preference in his own words: wa-awla al-aqwal fi dhalika bi-al-sawab ... mathal darabahu Allah li-al-Qur’an fi qalb ahl al-iman bihi, and he makes the misbah the parable of what is in the believer’s heart of the Qur’an and plain signs. So both halves of the reading are his and his stated preference, satisfying the trap on reported readings. day.js: 24:34 is the verse on revelations sent down that make plain, so the context clause is faithful and names no commentator. verse.js ok (An-Nur 24:35, at 2825); entry-check ok. No drift, school, comparison or tone issue.",
+ "better": ""
+}

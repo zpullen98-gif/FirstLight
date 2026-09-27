@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d065-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/83.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js quran 65 --verse 83:14: al-Tabari's one comment on 83:12 to 83:14, in his own voice at kalla bal rana, glosses it as the sins overpowering their hearts, flooding them and surrounding them so that they covered them, and supports the verb with the usage 'the wine rana over his mind' when drunk and it overpowers his mind; then says the people of interpretation agree. Evidence verbatim there; the paraphrase (overpower, flood, close round, cover; as wine overpowers the mind) tracks his words, 'until' being a fair rendering of the fa- sequence. Plain sense: 83:13 has the deniers call the revelations fables of the men of old and 83:14 opens 'Nay' in answer; no key-verse words repeated. verse.js ok (Al-Mutaffifin 83:14, at 5861); entry-check.js ok, no errors or warnings. No school, comparison or tone issue.",
+ "better": ""
+}

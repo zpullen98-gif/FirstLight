@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d054-p",
+ "d": 54,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Friends on that day will be foes one to another, save those who kept their duty (to Allah).",
+ "ref": "Az-Zukhruf 43:67",
+ "at": [
+  4391
+ ],
+ "s": "Between the sudden Hour and the welcome into the Garden, the surah speaks of friendship; Ibn Kathir, on 43:66 to 43:73, reads it as every friendship not for God turning to enmity at the Resurrection, while one for God lasts as He lasts.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on 43:66 to 43:73, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/43.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 43:66 to 43:73 (one segment), his gloss (ay) on 43:67",
+    "via": "packet"
+   }
+  ],
+  "words": "﴿الأخِلاءُ يَوْمَئِذٍ بَعْضُهُمْ لِبَعْضٍ عَدُوٌّ إِلا الْمُتَّقِينَ﴾ أَيْ: كُلُّ صَدَاقَةٍ وَصَحَابَةٍ لِغَيْرِ اللَّهِ فَإِنَّهَا تَنْقَلِبُ يَوْمَ الْقِيَامَةِ عَدَاوَةً إِلَّا مَا كَانَ لِلَّهِ، عَزَّ وَجَلَّ، فَإِنَّهُ دَائِمٌ بِدَوَامِهِ",
+  "lang": "Arabic",
+  "gloss": "‘Friends on that day will be foes one to another, save those who kept their duty’: that is, every friendship and companionship for other than God turns on the Day of Resurrection into enmity, except what was for God, mighty and majestic, for that lasts as long as He lasts.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Az-Zukhruf 43:67, at 4391). Opened Ibn Kathir on 43:66 to 43:73 (one segment) through packet.js --verse 43.67, beside al-Tabari (43:67 to 43:68), al-Qurtubi and the Jalalayn. Ibn Kathir’s own gloss (ay) on the ayah says every friendship and companionship for other than God turns into enmity on the Day of Resurrection except what was for God, which is lasting through His lasting (the pronoun most naturally refers to God, just named); he then cites Abraham’s words at 29:25 and reports from ʿAli, Ibn ʿAbbas, Mujahid and Qatada. The sentence paraphrases his gloss without drift. Plain sense: 43:66 speaks of the Hour coming suddenly and 43:68 to 43:70 of the welcome into the Garden, so the context clause is faithful and repeats no four words of the key. Entry-check ok, 43 words."
+}

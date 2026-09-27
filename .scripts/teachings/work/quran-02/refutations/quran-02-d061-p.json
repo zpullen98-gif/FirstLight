@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d061-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/59.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Ibn Kathir on 59:18 to 59:20 (packet.js quran 61 --verse 59.18): after the hadith of Jarir, he glosses 'wa-l-tanzur nafsun ma qaddamat li-ghad' with 'ay: hasibu anfusakum qabla an tuhasabu', found verbatim, in his own glossing voice (ay:), not a report he attributes to another; the phrase echoes a well-known saying but he uses it unattributed as his own gloss, so the attribution to him holds. The paraphrase (reckon with oneself before being reckoned with) is the first half of his gloss and claims nothing beyond it. verse.js ok (59:18, at 5143); the key is exactly the clause he glosses. Plain sense checked with day.js: 59:16 likens the hypocrites to the devil (the subject is Pickthall's parenthesis, but 59:11 to 59:17 are about the hypocrites and al-Tabari on 59:17 names them), and 59:18 twice says 'Observe your duty to Allah'; faithful. Locator matches the segment 59:18 to 59:20. entry-check.js ok, no warnings.",
+ "better": ""
+}

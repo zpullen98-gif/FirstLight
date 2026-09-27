@@ -1,0 +1,66 @@
+{
+ "id": "quran-02-d039-p",
+ "d": 39,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Allah is the Light of the heavens and the earth. The similitude of His light is as a niche wherein is a lamp.",
+ "ref": "An-Nur 24:35",
+ "at": [
+  2825
+ ],
+ "s": "Following a verse on the plain revelations sent down, the chapter gives its parable of the lamp; al-Tabari, on 24:35, reads the Light as God’s guidance of all in heaven and earth, and the lamp as a parable of the Qur’an in believers’ hearts.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on An-Nur 24:35, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/24.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 24:35 (one segment), opening gloss of ‘Allahu nuru al-samawati wa-al-ard’ and his preference ‘wa-awla al-aqwal fi dhalika bi-al-sawab’ on ‘mathalu nurihi ka-mishkat’",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/24.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 24:35, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafseer-al-qurtubi/24.json",
+    "edition": "al-Jāmiʿ li-aḥkām al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 24:35, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-jalalayn/24.json",
+    "edition": "Tafsīr al-Jalālayn, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 24:35, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/OpenITI/0475AH/blob/cc9beb0d9645e8cdce892556423b9926a127054f/data/0468IbnAhmadWahidiNaysaburi/0468IbnAhmadWahidiNaysaburi.AsbabNuzul/0468IbnAhmadWahidiNaysaburi.AsbabNuzul.Shamela0011314-ara1",
+    "edition": "Asbāb nuzūl al-Qurʾān, ed. al-Ḥumaydān (1992), OpenITI commit cc9beb0",
+    "locator": "nothing on 24:35",
+    "via": "packet"
+   }
+  ],
+  "words": "يعني تعالى ذكره بقوله: ﴿اللَّهُ نُورُ السَّمَاوَاتِ وَالأرْضِ﴾ هادي من في السماوات والأرض، فهم بنوره إلى الحق يهتدون، وبهداه من حيرة الضلالة يعتصمون … وأوْلى الأقوال في ذلك بالصواب قول من قال: ذلك مثل ضربه الله للقرآن في قلب أهل الإيمان به",
+  "lang": "Arabic",
+  "gloss": "By ‘God is the Light of the heavens and the earth’ He means the Guide of all who are in the heavens and the earth: by His light they are guided to the truth, and by His guidance they hold fast against the bewilderment of error … The most correct of the views on this is that of those who said: it is a parable God struck for the Qur’an in the hearts of those who believe in it.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, An-Nur 24:35, at 2825). In his long comment on 24:35 al-Tabari glosses the Light in his own voice as the Guide of all in the heavens and the earth, and says he chose this because the ayah follows 24:34 on the plain revelations sent down; after listing the readings of ‘the similitude of His light’ (the believer, Muhammad, obedience, guidance, the Qur’an) he rules that the most correct is a parable God struck for the Qur’an in the hearts of those who believe in it, the lamp standing for the Qur’an and plain signs in the believer’s heart. The sentence paraphrases both points without drift. Plain sense names 24:34 correctly and names no commentator. Evidence pieces (split on the ellipsis) both re-found by machine. 44 words; entry-check ok."
+}

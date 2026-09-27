@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d051-p",
+ "d": 51,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Say: O My slaves who have been prodigal to their own hurt! Despair not of the mercy of Allah, Who forgiveth all sins.",
+ "ref": "Az-Zumar 39:53",
+ "at": [
+  4110
+ ],
+ "s": "After the warning that a boon granted is a test, the Prophet is given words for those deep in sin; al-Tabari, on 39:53, reads them as meant for every such sinner, believer or idolater, though idolatry is forgiven only upon repentance.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on Az-Zumar 39:53, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/39.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 39:53, his closing judgement after the reports that it was revealed for idolaters and for lapsed Muslims",
+    "via": "packet"
+   }
+  ],
+  "words": "وأولى الأقوال في ذلك بالصواب قول من قال: عنى تعالى ذكره بذلك جميع من أسرف على نفسه من أهل الإيمان والشرك، لأن الله عم بقوله ﴿يَا عِبَادِيَ الَّذِينَ أَسْرَفُوا عَلَى أَنْفُسِهِمْ﴾ جميع المسرفين، فلم يخصص به مسرفا دون مسرف. فإن قال قائل: فيغفر الله الشرك؟ قيل: نعم إذا تاب منه المشرك.",
+  "lang": "Arabic",
+  "gloss": "The most correct of the sayings on this is the saying of those who said that God, exalted be His mention, meant by it everyone who has been prodigal against himself, of the people of faith and of associating partners with God, because God made His saying “O My slaves who have been prodigal against themselves” general to all the prodigal, and did not single out one prodigal over another. If someone asks: does God forgive associating partners with Him? The answer is: yes, when the one who associated partners repents of it.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Az-Zumar 39:53, at 4110). al-Tabari reports three views (idolaters of Mecca; Muslims who had lapsed under persecution; those who held grave sinners damned) and then gives his own preference: the ayah means everyone prodigal against himself, of the people of faith and of shirk, since God made it general; and to the objection whether shirk is forgiven, yes, when the idolater repents of it. The sentence carries exactly that preference, stated as his, with the limit he sets. Plain sense (39:49, a boon granted is a test; the Prophet told Say) is faithful to day.js. The evidence spans two consecutive paragraphs of the same comment; machine match (whitespace and punctuation ignored) found it. Entry-check ok, no changes."
+}

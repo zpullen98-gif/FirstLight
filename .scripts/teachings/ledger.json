@@ -76,6 +76,20 @@
     "guo-xiang": 22
    },
    "hedged": 0
+  },
+  "quran": {
+   "batches": [
+    "quran-02"
+   ],
+   "days": 33,
+   "of": 66,
+   "by": {
+    "tabari": 24,
+    "ibn-kathir": 6,
+    "jalalayn": 1,
+    "qurtubi": 2
+   },
+   "hedged": 0
   }
  }
 }

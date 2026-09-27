@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d047-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/33.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 33:72 (packet.js quran 47 --verse 33.72): after three reported camps (duties and obedience of religion from Ibn Abbas, Sa'id ibn Jubayr, al-Dahhak, Qatada; trusts of people from Ibn Mas'ud; Adam's trust to Qabil from al-Suddi) he gives, in his own voice (wa-awla al-aqwal bi-l-sawab), every sense of trust in religion and among people, because God did not single out one kind. The evidence run is verbatim there and carries the paraphrase with no drift; the preference is his, as the roster trap requires. Plain sense checked against day.js: 33:70 tells the believers to guard their duty and speak straight, 33:72 is the penultimate ayah of 73, so 'near the surah's close' holds; no key-verse run of four words. Key stops before 'Lo! he hath proved a tyrant and a fool', a sentence boundary permitted by rule 8, and the sentence does not soften it by paraphrase. verse.js ok (Al-Ahzab 33:72, at 3604); entry-check ok, no warnings. No school, comparison or tone issue.",
+ "better": ""
+}

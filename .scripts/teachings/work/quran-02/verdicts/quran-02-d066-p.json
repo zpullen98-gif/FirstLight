@@ -1,0 +1,30 @@
+{
+ "id": "quran-02-d066-p",
+ "d": 66,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Night of Power is better than a thousand months.",
+ "ref": "Al-Qadr 97:3",
+ "at": [6127],
+ "s": "In a surah on the night of revelation, between the sending down and the angels’ descent, the ayah weighs the night’s worth; al-Tabari, on 97:1 to 97:5, reads it as deeds done that night outweighing the deeds of a thousand months that lack it.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 97:1 to 97:5, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/97.json", "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed", "locator": "comment on 97:1 to 97:5 (one segment), at his discussion of ‘khayrun min alfi shahr’", "via": "packet"}
+  ],
+  "words": "وأشبه الأقوال في ذلك بظاهر التنزيل قول من قال: عملٌ في ليلة القدر خير من عمل ألف شهر، ليس فيها ليلة القدر.",
+  "lang": "Arabic",
+  "gloss": "The view most in keeping with the plain wording of the revelation is that of those who said: deeds done on the Night of Power are better than the deeds of a thousand months in which there is no Night of Power.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Qadr 97:3, at 6127). In his single comment on 97:1 to 97:5 al-Tabari lists the readings (Mujahid and Amr ibn Qays: deeds that night; Qatada: months without the Night of Power; the Israelite warrior and Umayyad reports) and then states in his own voice that the reading closest to the plain wording is deeds on that night outweighing the deeds of a thousand months without it, dismissing the others. The sentence paraphrases exactly that. Plain sense places the ayah between the sending down (97:1) and the angels’ descent (97:4), faithful to day.js. 44 words; entry-check ok."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d063-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafseer-al-qurtubi/71.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js quran 63 --verse 71:10: al-Qurtubi's one comment on 71:10 to 71:12 has three questions; the third says in his own voice that this ayah and the one in Hud are evidence that provision and rain are brought down by seeking forgiveness, and closes that its manner (treated under Al Imran) is from sincerity and giving up sins, the root of being answered. Both ellipsis pieces of the evidence are verbatim there; the paraphrase (rain and provision, conditioned on sincerity and leaving sin) carries no more than he says. Plain sense: Noah addresses 'My Lord' at 71:5 and the fingers in the ears are at 71:7, before the urging of 71:10; no key-verse words repeated. Key is the best citable line (71:11 ends in a comma and cannot stand alone). verse.js ok (Nuh 71:10, at 5428); entry-check.js ok, no errors or warnings. No school, comparison or tone issue.",
+ "better": ""
+}

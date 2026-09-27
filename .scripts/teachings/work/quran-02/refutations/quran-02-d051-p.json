@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d051-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/39.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js quran 51 --verse 39.53 (segment 39:53 alone): after three reported views (idolaters; Muslims who lapsed under persecution; those who held grave sinners damned) he gives his own preference (wa-awlā al-aqwāl bi-l-ṣawāb) that it means all who were prodigal against themselves, of the people of faith and of shirk, and to the objection answers that shirk is forgiven when the idolater repents; the very next lines say God does not forgive shirk except after repentance (lā yaghfir al-shirk illā baʿda tawba), so 'only upon repentance' is his and not drift. Evidence words verbatim in two consecutive paragraphs. Locator right. verse.js ok (Az-Zumar 39:53, at 4110). Plain sense checked against day.js: 39:49 calls a granted boon a test, 39:53 opens with Say; 'After' is loose (39:50 to 39:52 intervene) but not false; 'deep in sin' is a fair rendering of prodigal against themselves; no key run repeated. No school, comparison or tone issue. entry-check ok.",
+ "better": ""
+}

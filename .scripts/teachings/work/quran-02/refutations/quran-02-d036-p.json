@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d036-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/21.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 21:106 to 21:107 (one segment) via packet.js quran 36 --verse 21.107. He sets out two views (all the worlds, believer and denier, from Ibn ʿAbbas; believers only, from Ibn Zayd) and explicitly prefers Ibn ʿAbbas’s: the believers guided and brought into the Garden, the deniers spared the swift calamity that fell on earlier nations who denied their messengers. Evidence words found verbatim (the ﷺ inside the evidence is verbatim Arabic, not in the sentence). The paraphrase carries no more than this; attribution is correct because al-Tabari adopts the view in his own voice. Plain sense (near the close of the surah, after its series of prophets, the Prophet addressed) matches day.js. verse.js ok (Al-Anbiya 21:107, at 2589); entry-check ok, no warns. No comparison, no school, tone neutral.",
+ "better": ""
+}

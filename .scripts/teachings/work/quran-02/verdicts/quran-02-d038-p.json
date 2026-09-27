@@ -1,0 +1,66 @@
+{
+ "id": "quran-02-d038-p",
+ "d": 38,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Repel evil with that which is better. We are Best Aware of that which they allege.",
+ "ref": "Al-Mu'minun 23:96",
+ "at": [
+  2768
+ ],
+ "s": "Late in Al-Mu’minun, after a plea not to be counted among the wrongdoers, the Prophet receives a rule of conduct; Ibn Kathir, on 23:93 to 23:98, reads it as the antidote for life among people, good done to the wrongdoer until enmity turns to friendship.",
+ "by": "ibn-kathir",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Kathir, Tafsīr al-Qurʾān al-ʿAẓīm, on Al-Mu’minun 23:93 to 23:98, the Tarteel QUL Arabic text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/23.json",
+    "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 23:93 to 23:98, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/23.json",
+    "edition": "Tafsīr al-Qurʾān al-ʿAẓīm, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 23:93 to 23:98 (one segment), at ‘thumma qala murshidan lahu ila al-tiryaq al-nafi’",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafseer-al-qurtubi/23.json",
+    "edition": "al-Jāmiʿ li-aḥkām al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 23:96, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-jalalayn/23.json",
+    "edition": "Tafsīr al-Jalālayn, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 23:96, checked for comparison",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/OpenITI/0475AH/blob/cc9beb0d9645e8cdce892556423b9926a127054f/data/0468IbnAhmadWahidiNaysaburi/0468IbnAhmadWahidiNaysaburi.AsbabNuzul/0468IbnAhmadWahidiNaysaburi.AsbabNuzul.Shamela0011314-ara1",
+    "edition": "Asbāb nuzūl al-Qurʾān, ed. al-Ḥumaydān (1992), OpenITI commit cc9beb0",
+    "locator": "nothing on 23:96",
+    "via": "packet"
+   }
+  ],
+  "words": "ثُمَّ قَالَ مُرْشِدًا لَهُ إِلَى التِّرْياق النَّافِعِ فِي مُخَالَطَةِ النَّاسِ، وَهُوَ الْإِحْسَانُ إِلَى مَنْ يُسِيءُ، لِيَسْتَجْلِبَ خَاطِرَهُ، فَتَعُودُ عَدَاوَتُهُ صَدَاقَةً وَبُغْضُهُ مَحَبَّةً، فَقَالَ: ﴿ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ﴾",
+  "lang": "Arabic",
+  "gloss": "Then He said, guiding him to the beneficial antidote in dealing with people, which is doing good to the one who does ill, so as to win his heart, until his enmity turns to friendship and his hatred to love: ‘Repel evil with that which is better.’",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Mu’minun 23:96, at 2768). Ibn Kathir, in his single comment on 23:93 to 23:98, says in his own voice that God then guided the Prophet to the beneficial antidote in dealing with people: doing good to the one who does ill, to win him, so that enmity turns to friendship and hatred to love; the reading is his and the place right. CHANGED the context clause only: the proposal placed the ayah ‘between the Prophet’s prayers for refuge’, but 23:93 to 23:94 is a plea not to be set among the wrongdoing folk, and both refuge prayers (23:97 to 23:98) come after it, so the ayah is not between them; now ‘after a plea not to be counted among the wrongdoers, the Prophet receives a rule of conduct’. Note for the record: al-Tabari, al-Qurtubi and the Jalalayn add that this forbearance toward the idolaters came before the command to fight (al-Qurtubi: abrogated as to the unbelievers, standing among believers); Ibn Kathir sets no such limit, and the sentence attributes nothing beyond his words. 45 words; entry-check ok."
+}

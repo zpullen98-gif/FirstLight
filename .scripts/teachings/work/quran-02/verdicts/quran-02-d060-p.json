@@ -1,0 +1,30 @@
+{
+ "id": "quran-02-d060-p",
+ "d": 60,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "There is no secret conference of three but He is their fourth, nor of five but He is their sixth, nor of less than that or more but He is with them wheresoever they may be; and afterward, on the Day of Resurrection, He will inform them of what they did.",
+ "ref": "Al-Mujadilah 58:7",
+ "at": [5110],
+ "s": "Between a wife’s complaint heard by God and a warning to those who conspire against the messenger, the Prophet is asked to consider God’s knowledge; al-Tabari, on 58:7, reads ‘their fourth’ as God witnessing them by His knowledge while He is on His Throne.",
+ "by": "tabari",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Tabari, Jāmiʿ al-bayān, on 58:7, the Tarteel QUL text via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/58.json", "edition": "Jāmiʿ al-bayān ʿan taʾwīl āy al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed", "locator": "comment on 58:7 (its own segment), the sentence after his gloss of the ayah, before the report from al-Dahhak", "via": "packet"}
+  ],
+  "words": "﴿أَيْنَمَا كَانُوا﴾ يقول: في أيّ موضع ومكان كانوا. وعني بقوله: ﴿هُوَ رَابِعُهُمْ﴾ ، بمعنى: أنه مشاهدهم بعلمه، وهو على عرشه.",
+  "lang": "Arabic",
+  "gloss": "‘Wherever they may be’: he says, in whatever place or spot they are. And by His saying ‘He is their fourth’ is meant that He witnesses them by His knowledge, while He is upon His Throne.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Al-Mujadilah 58:7, at 5110; the ayah’s opening question is left out, the key begins at a sentence). In his own comment on 58:7 al-Tabari glosses the ayah as God hearing their secret talk, then states in his own voice that ‘their fourth’ means He witnesses them by His knowledge while upon His Throne, and backs it with al-Dahhak’s report (above the Throne, His knowledge with them). The sentence paraphrases that exactly. Plain sense: 58:1 is the complaint of the woman heard by God, 58:8 the warning to those who conspire against the messenger, and 58:7 opens by asking ‘Hast thou not seen’ that God knows; faithful. Proposer’s basis joined two pieces with an ellipsis; the evidence here is one contiguous stretch. Entry-check ok, no warnings."
+}

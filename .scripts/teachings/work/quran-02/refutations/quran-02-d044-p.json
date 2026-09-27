@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d044-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/29.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js 44 --verse 29:45: one segment on 29:44 to 29:45. He lists the views on wa-la-dhikru llahi akbar (God remembering you above your remembering Him, Ibn Abbas; God remembering the servant in prayer greater than the prayer; the prayer and your remembrance in it greater than what it forbids) and then, as Abu Jaafar, states in his own voice that the view most like what the plain text indicates is: God remembering you is better than your remembering Him. The sentence reports his stated preference, not a merely listed view (roster trap met). His iyyakum (you) rendered His servants and afdal rendered greater are within the sense, no drift. Plain sense: spider parable at 29:41, the Prophet told in 29:45 to recite and keep up worship, which is the unkeyed first sentence of the same ayah: faithful. Quote of key is three words. verse.js ok (Al-Ankabut 29:45, at 3384); entry-check ok, 44 words.",
+ "better": ""
+}

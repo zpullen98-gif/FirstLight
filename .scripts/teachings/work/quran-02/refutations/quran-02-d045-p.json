@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d045-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/31.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Ibn Kathir in Arabic via packet.js 45 --verse 31:19: one segment on 31:16 to 31:19. On wa-qsid fi mashyika he says walk at a measured pace, not slow and sluggish nor fast and excessive, but balanced between; on wa-ghdud min sawtika, do not overdo speech and do not raise your voice over what has no benefit. The sentence (gait neither sluggish nor hurried; speech not raised needlessly) is carried by these words without addition. Pickthall s bearing renders mashy; the gait reading is Ibn Kathir s own gloss, not the translator s. Plain sense checked against 31:16 to 31:18 (the unseen grain, establish worship and persevere, then not turning the cheek or walking pertly): faithful. verse.js ok (Luqman 31:19, at 3487); entry-check ok, 40 words, src 140 chars.",
+ "better": ""
+}

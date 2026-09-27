@@ -1,0 +1,514 @@
+{
+ "plan": "quran",
+ "batch": "quran-02",
+ "dry": false,
+ "div": "5a48e62cd7",
+ "root": "C:/Users/zpull/FirstLight",
+ "days": [
+  {
+   "d": 34,
+   "label": "Maryam 19:1 to Ta-Ha 20:27",
+   "id": {
+    "primary": "quran-02-d034-p",
+    "standby": "quran-02-d034-s"
+   }
+  },
+  {
+   "d": 35,
+   "label": "Ta-Ha 20:28 to 20:135",
+   "id": {
+    "primary": "quran-02-d035-p",
+    "standby": "quran-02-d035-s"
+   }
+  },
+  {
+   "d": 36,
+   "label": "Surah 21, Al-Anbiya",
+   "id": {
+    "primary": "quran-02-d036-p",
+    "standby": "quran-02-d036-s"
+   }
+  },
+  {
+   "d": 37,
+   "label": "Surah 22, Al-Hajj",
+   "id": {
+    "primary": "quran-02-d037-p",
+    "standby": "quran-02-d037-s"
+   }
+  },
+  {
+   "d": 38,
+   "label": "Surah 23, Al-Mu'minun",
+   "id": {
+    "primary": "quran-02-d038-p",
+    "standby": "quran-02-d038-s"
+   }
+  },
+  {
+   "d": 39,
+   "label": "Surah 24, An-Nur",
+   "id": {
+    "primary": "quran-02-d039-p",
+    "standby": "quran-02-d039-s"
+   }
+  },
+  {
+   "d": 40,
+   "label": "Surah 25, Al-Furqan",
+   "id": {
+    "primary": "quran-02-d040-p",
+    "standby": "quran-02-d040-s"
+   }
+  },
+  {
+   "d": 41,
+   "label": "Surah 26, Ash-Shu'ara",
+   "id": {
+    "primary": "quran-02-d041-p",
+    "standby": "quran-02-d041-s"
+   }
+  },
+  {
+   "d": 42,
+   "label": "Surah 27, An-Naml",
+   "id": {
+    "primary": "quran-02-d042-p",
+    "standby": "quran-02-d042-s"
+   }
+  },
+  {
+   "d": 43,
+   "label": "Al-Qasas 28:1 to 28:76",
+   "id": {
+    "primary": "quran-02-d043-p",
+    "standby": "quran-02-d043-s"
+   }
+  },
+  {
+   "d": 44,
+   "label": "Al-Qasas 28:77 to Al-'Ankabut 29:69",
+   "id": {
+    "primary": "quran-02-d044-p",
+    "standby": "quran-02-d044-s"
+   }
+  },
+  {
+   "d": 45,
+   "label": "Surahs 30 to 31, Ar-Rum to Luqman",
+   "id": {
+    "primary": "quran-02-d045-p",
+    "standby": "quran-02-d045-s"
+   }
+  },
+  {
+   "d": 46,
+   "label": "As-Sajdah 32:1 to Al-Ahzab 33:38",
+   "id": {
+    "primary": "quran-02-d046-p",
+    "standby": "quran-02-d046-s"
+   }
+  },
+  {
+   "d": 47,
+   "label": "Al-Ahzab 33:39 to Saba 34:31",
+   "id": {
+    "primary": "quran-02-d047-p",
+    "standby": "quran-02-d047-s"
+   }
+  },
+  {
+   "d": 48,
+   "label": "Saba 34:32 to Fatir 35:45",
+   "id": {
+    "primary": "quran-02-d048-p",
+    "standby": "quran-02-d048-s"
+   }
+  },
+  {
+   "d": 49,
+   "label": "Ya-Sin 36:1 to As-Saffat 37:95",
+   "id": {
+    "primary": "quran-02-d049-p",
+    "standby": "quran-02-d049-s"
+   }
+  },
+  {
+   "d": 50,
+   "label": "As-Saffat 37:96 to Sad 38:88",
+   "id": {
+    "primary": "quran-02-d050-p",
+    "standby": "quran-02-d050-s"
+   }
+  },
+  {
+   "d": 51,
+   "label": "Surah 39, Az-Zumar",
+   "id": {
+    "primary": "quran-02-d051-p",
+    "standby": "quran-02-d051-s"
+   }
+  },
+  {
+   "d": 52,
+   "label": "Surah 40, Ghafir",
+   "id": {
+    "primary": "quran-02-d052-p",
+    "standby": "quran-02-d052-s"
+   }
+  },
+  {
+   "d": 53,
+   "label": "Fussilat 41:1 to Ash-Shura 42:26",
+   "id": {
+    "primary": "quran-02-d053-p",
+    "standby": "quran-02-d053-s"
+   }
+  },
+  {
+   "d": 54,
+   "label": "Ash-Shura 42:27 to Az-Zukhruf 43:89",
+   "id": {
+    "primary": "quran-02-d054-p",
+    "standby": "quran-02-d054-s"
+   }
+  },
+  {
+   "d": 55,
+   "label": "Surahs 44 to 45, Ad-Dukhan to Al-Jathiyah",
+   "id": {
+    "primary": "quran-02-d055-p",
+    "standby": "quran-02-d055-s"
+   }
+  },
+  {
+   "d": 56,
+   "label": "Surahs 46 to 47, Al-Ahqaf to Muhammad",
+   "id": {
+    "primary": "quran-02-d056-p",
+    "standby": "quran-02-d056-s"
+   }
+  },
+  {
+   "d": 57,
+   "label": "Surahs 48 to 50, Al-Fath to Qaf",
+   "id": {
+    "primary": "quran-02-d057-p",
+    "standby": "quran-02-d057-s"
+   }
+  },
+  {
+   "d": 58,
+   "label": "Surahs 51 to 53, Adh-Dhariyat to An-Najm",
+   "id": {
+    "primary": "quran-02-d058-p",
+    "standby": "quran-02-d058-s"
+   }
+  },
+  {
+   "d": 59,
+   "label": "Surahs 54 to 56, Al-Qamar to Al-Waqi'ah",
+   "id": {
+    "primary": "quran-02-d059-p",
+    "standby": "quran-02-d059-s"
+   }
+  },
+  {
+   "d": 60,
+   "label": "Surahs 57 to 58, Al-Hadid to Al-Mujadilah",
+   "id": {
+    "primary": "quran-02-d060-p",
+    "standby": "quran-02-d060-s"
+   }
+  },
+  {
+   "d": 61,
+   "label": "Surahs 59 to 62, Al-Hashr to Al-Jumu'ah",
+   "id": {
+    "primary": "quran-02-d061-p",
+    "standby": "quran-02-d061-s"
+   }
+  },
+  {
+   "d": 62,
+   "label": "Surahs 63 to 67, Al-Munafiqun to Al-Mulk",
+   "id": {
+    "primary": "quran-02-d062-p",
+    "standby": "quran-02-d062-s"
+   }
+  },
+  {
+   "d": 63,
+   "label": "Surahs 68 to 72, Al-Qalam to Al-Jinn",
+   "id": {
+    "primary": "quran-02-d063-p",
+    "standby": "quran-02-d063-s"
+   }
+  },
+  {
+   "d": 64,
+   "label": "Surahs 73 to 77, Al-Muzzammil to Al-Mursalat",
+   "id": {
+    "primary": "quran-02-d064-p",
+    "standby": "quran-02-d064-s"
+   }
+  },
+  {
+   "d": 65,
+   "label": "Surahs 78 to 86, An-Naba to At-Tariq",
+   "id": {
+    "primary": "quran-02-d065-p",
+    "standby": "quran-02-d065-s"
+   }
+  },
+  {
+   "d": 66,
+   "label": "Surahs 87 to 114, Al-A'la to An-Nas",
+   "id": {
+    "primary": "quran-02-d066-p",
+    "standby": "quran-02-d066-s"
+   }
+  }
+ ],
+ "lanes": [
+  {
+   "key": "L1",
+   "days": [
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L2",
+   "days": [
+    40,
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L3",
+   "days": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L4",
+   "days": [
+    53,
+    54,
+    55,
+    57,
+    58,
+    59
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L5",
+   "days": [
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L6",
+   "days": [
+    66
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "S1",
+   "days": [
+    46,
+    56
+   ],
+   "sensitive": true
+  }
+ ],
+ "sensitive": [
+  46,
+  56
+ ],
+ "rules": [
+  "1. FORM. One sentence: <plain sense>; <Commentator>, <place>, reads it as <reading>. Exactly one semicolon and one full stop, at the end. Aim for 35 to 45 words; at most 45, or 60 when two commentators are named (then: ...; A (school), place, reads it as X, and B (school), place, as Y.). The owner set this length: a reader meets it at six in the morning. The verb after the commentator is one of: reads, takes, hears, explains, understands. Never: shows, proves, reveals, the true meaning, actually.",
+  "2. PLAIN SENSE (before the semicolon). A short clause of CONTEXT, because the key verse is printed just above the sentence: where the verse stands in the day’s passage and what the passage around it is doing (who speaks, to whom, what the chapter is about, what comes before or after), in the passage’s own terms. It NEVER repeats the key verse’s own words (the gate fails four words in a row taken from the verse) and never paraphrases it line by line. Forms that work: \"Closing a chapter on the sage’s humility, the verse ...\"; \"In a chapter of contrasts between the multitude and the speaker, ...\"; \"Krishna, answering Arjuna’s doubt about action, ...\". Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim (\"the chapter\", \"the text\", \"the Master says\"; never \"Laozi wrote\" or \"Muhammad writes\"). It never names the commentator.",
+  "3. THE READING (after the semicolon). One commentator from this plan’s roster (two only where they genuinely differ, and then name the difference without resolving it), opening the second half with his display name exactly as the roster gives it, then the place in the commentary (chapter, verse, book and section, page), then a paraphrase that the evidence supports and does not go beyond. No quotation from the commentator in the sentence. At most three words of the key verse may be quoted, in curly quotes.",
+  "4. NEVER ANOTHER TRADITION. No comparison, no ranking, no \"unlike\", \"fulfils\", \"anticipates\", \"all faiths\", \"superior\". Name other groups only as the day’s text itself names them.",
+  "5. DISAGREEMENT IS NAMED, NOT RESOLVED. No \"rightly\", \"better\", \"more accurately\", \"correctly\", \"mistaken\".",
+  "6. HARD PASSAGES (war, killing, punishment, exclusion, law, sexuality). The plain sense states it in one plain clause: no softening, no pleading for context, no graphic detail, no polemic. The reading gives the commentator’s reading, including any limit he sets, attributed to him.",
+  "7. HOUSE STYLE. British spelling (honour, colour, realise, judgement). Curly quotes and apostrophes only. No em dash, no en dash, no double hyphen, anywhere. No question or exclamation mark in the sentence. No you, your, we, our, us. No honorifics (Saint, St., Sri, pbuh and its signs, the Venerable, Lord Krishna). Names exactly as the roster spells them. The divine name as the key verse’s translation prints it when quoting; otherwise \"God\" or \"the LORD\" as the translation has it; never spell out the four-letter Hebrew name.",
+  "8. THE KEY VERSE. Copied from `day.js`, verbatim, inside ONE unit (one verse, one ayah, one of Legge’s numbered sections, one paragraph); one to three whole sentences, beginning where a sentence begins and ending in . ? or !; 4 to 60 words; no dash of any kind (choose another verse, or stop before it); only these changes: straight quotes to curly, wrapped lines joined. Everything else stays exactly as printed, parentheses and capitals included. Never from a note, an argument, a commentary, a chant or a colophon (`day.js` marks them NOT CITABLE). Run `verse.js` on every key: it must print \"ok\": true, and its ref and at are copied into the proposal unchanged.",
+  "9. THE SOURCE LINE (src). The commentator’s display name first, then the work and the place, then the edition actually read and its year: for example \"Wang Bi, Laozi zhu, chapter 8, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)\". When the reading is found only through a conduit (Legge’s notes and the like), the form is \"<name>, as given in <conduit>, <place>\" and the entry carries hedge: <conduit id>. At most 160 characters. No dash.",
+  "10. THE STANDARD. A confident false attribution is worse than naming a different commentator. A reading not found in a source you opened does not ship. When in doubt, choose the reading you can show in the commentator’s own words."
+ ],
+ "voice": "The Qur’an is read in Marmaduke Pickthall’s translation (1930), which writes \"Allah\". The context clause says where the ayah stands in the day’s surah and to whom it speaks (\"the believers are told\", \"the Prophet is told\"); the reading PARAPHRASES the named mufassir, never quotes him. The commentaries are in Arabic and very long (al-Qurtubi on 4:43 alone is 100,000 characters): packet.js prints an index for a day; read with packet.js <day> --verse <s:a>. A comment covering a range of ayahs is one comment on the passage: cite it as on that passage. al-Tabari is the default, then Ibn Kathir, the Jalalayn and al-Qurtubi, each where his comment on the chosen ayah is substantial; al-Wahidi only where he gives the occasion of the ayah. Hard ayahs (fighting, punishment, the hypocrites, the People of the Book) are stated plainly and carry the mufassir’s own limit or occasion (rule 6).",
+ "roster": {
+  "commentators": [
+   {
+    "id": "tabari",
+    "name": "al-Tabari",
+    "alsoName": "Al-Tabari",
+    "school": "",
+    "dates": "died 923",
+    "work": "Jāmiʿ al-bayān (Tafsir al-Tabari)",
+    "lang": "Arabic",
+    "coverage": "all",
+    "sources": [
+     "Jāmiʿ al-bayān, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)"
+    ],
+    "traps": [
+     "Paraphrase only.",
+     "Al-Tabari reports several readings with their chains: say which one he prefers only where he says so."
+    ]
+   },
+   {
+    "id": "ibn-kathir",
+    "name": "Ibn Kathir",
+    "alsoName": "",
+    "school": "",
+    "dates": "died 1373",
+    "work": "Tafsīr al-Qurʾān al-ʿAẓīm",
+    "lang": "Arabic",
+    "coverage": "all",
+    "sources": [
+     "Tafsīr al-Qurʾān al-ʿAẓīm, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)"
+    ],
+    "traps": [
+     "The English ‘Ibn Kathir’ is an abridgement: find the reading in the Arabic."
+    ]
+   },
+   {
+    "id": "jalalayn",
+    "name": "the Jalalayn",
+    "alsoName": "The Jalalayn",
+    "school": "",
+    "dates": "al-Mahalli (died 1459) and al-Suyuti (died 1505)",
+    "work": "Tafsīr al-Jalālayn",
+    "lang": "Arabic",
+    "coverage": "all",
+    "sources": [
+     "Tafsīr al-Jalālayn, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)",
+     "On 219 ayahs the Jalalayn gives the ayah alone; the packet’s note lists them."
+    ],
+    "traps": [
+     "Two authors: al-Mahalli wrote on al-Fatiha and surahs 18 to 114, al-Suyuti on 2 to 17. Say ‘the Jalalayn’ or the right author."
+    ]
+   },
+   {
+    "id": "qurtubi",
+    "name": "al-Qurtubi",
+    "alsoName": "Al-Qurtubi",
+    "school": "",
+    "dates": "died 1273",
+    "work": "al-Jāmiʿ li-aḥkām al-Qurʾān",
+    "lang": "Arabic",
+    "coverage": "all",
+    "sources": [
+     "al-Jāmiʿ li-aḥkām al-Qurʾān, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026), editors’ footnotes and citation brackets removed (classical text public domain; digitisation, no licence stated: short excerpts with attribution)",
+     "His comment on 17:30 is lost from the manuscripts."
+    ],
+    "traps": [
+     "Paraphrase only."
+    ]
+   },
+   {
+    "id": "wahidi",
+    "name": "al-Wahidi",
+    "alsoName": "Al-Wahidi",
+    "school": "",
+    "dates": "died 1075",
+    "work": "Asbāb al-nuzūl (the occasions of revelation)",
+    "lang": "Arabic",
+    "coverage": "all",
+    "sources": [
+     "Asbāb al-nuzūl, the al-Humaydan edition via OpenITI, commit cc9beb0 (CC BY-NC-SA 4.0 digitisation; non-commercial)"
+    ],
+    "traps": [
+     "He treats only some ayahs: name him only where he gives an occasion for the ayah."
+    ]
+   },
+   {
+    "id": "tabarsi",
+    "name": "the Shi’i commentator al-Tabarsi",
+    "alsoName": "The Shi’i commentator al-Tabarsi",
+    "school": "Shi’i",
+    "dates": "died 1153",
+    "work": "Majmaʿ al-bayān",
+    "lang": "Arabic",
+    "coverage": "all",
+    "sources": [
+     "No machine-readable source is in hand: al-Tabarsi is not named until one is."
+    ],
+    "traps": [
+     "Named only where the Shi’i reading differs materially, and then beside a Sunni commentator, the difference named and not resolved."
+    ]
+   }
+  ],
+  "conduits": []
+ },
+ "forbid": [
+  "pbuh",
+  "PBUH",
+  "(s)",
+  "(saw)",
+  "ﷺ",
+  "Bible",
+  "biblical",
+  "Christian reading"
+ ],
+ "watch": [
+  "Jews",
+  "Christians",
+  "unbelievers",
+  "infidels",
+  "jihad"
+ ],
+ "traps": {
+  "all": "- A reading not found in a source you opened does not ship. A confident false attribution is worse than naming a different commentator.\n- The commentator's own words go into the evidence verbatim, in the language they were written in, with your English gloss. A paraphrase of what you remember is not evidence.\n- The plain sense says what the day's text says, in its own terms. It is not the commentator's reading restated, and it is not doctrine.\n- A key verse is copied from `day.js`, never typed from memory: a remembered translation is almost never the app's translation, and five of the chambers' epigraphs prove it.\n- The key verse's translation may carry its translator's interpretation (Legge's parentheses, Besant's Theosophy, Pickthall's additions). The reading attributed to the commentator must be his, not the translator's.",
+  "plan": "- Paraphrase only: never quote a tafsir in the sentence.\n- The Jalalayn has two authors: al-Mahalli on al-Fatiha and surahs 18 to 114, al-Suyuti on 2 to 17.\n- The English \"Ibn Kathir\" online is an abridgement: find the reading in the Arabic.\n- Pickthall's parentheses are his additions, and he writes \"Allah\": a key verse keeps them as printed."
+ },
+ "countsSoFar": {},
+ "tools": {
+  "day": "node C:/Users/zpull/FirstLight/.scripts/teachings/day.js quran <day>",
+  "verse": "node C:/Users/zpull/FirstLight/.scripts/teachings/verse.js quran <day> \"<key verse>\"",
+  "packet": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js quran <day>",
+  "status": "node C:/Users/zpull/FirstLight/.scripts/teachings/status.js quran 2",
+  "gate": "node C:/Users/zpull/FirstLight/.scripts/check-teachings.js --candidate C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/batch.json"
+ },
+ "evidence": {
+  "rule": "The commentator’s own words, verbatim from a source you actually opened, 12 to 120 characters for Chinese or 12 to 120 words otherwise, in the original language where you read it so, with your English gloss. At most 40 words from any copyrighted English. A packet source is cited with via \"packet\" and the packet’s url; anything else you opened with via \"webfetch\" and its exact url. The operator re-finds these words by machine (recheck-evidence.js) before anything lands.",
+  "packetSources": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js quran <day>"
+ },
+ "paths": {
+  "dir": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02",
+  "proposals": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/proposals-<lane>.json",
+  "verdicts": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/verdicts/<id>.json",
+  "refutations": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/refutations/<id>.json",
+  "reverify": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/reverify/<id>.json",
+  "batch": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/batch.json",
+  "sources": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/SOURCES-quran-02.md",
+  "critic": "C:/Users/zpull/FirstLight/.scripts/teachings/work/quran-02/critic.json"
+ }
+}

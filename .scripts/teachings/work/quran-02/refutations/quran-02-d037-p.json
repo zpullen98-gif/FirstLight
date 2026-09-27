@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d037-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/22.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js quran 37 --verse 22.37: al-Tabari’s one comment on 22:37 to 22:38 opens in his own voice (yaqulu taala dhikruhu) with the evidence words verbatim: the flesh and blood of the camels do not reach God, what reaches Him is your fearing Him in them, seeking His face by them and doing what He urged and commanded. The paraphrase (fear of Him in the sacrifice, for His sake, as He bade) carries no more than that. Locator matches the packet segment label and the range rule. day.js: 22:36 tells the hearers to mention the name of Allah over the camels, so the context clause is faithful; ‘pilgrims’ fits the Hajj setting (22:27) and al-Tabari’s own ‘in your Hajj’. verse.js ok (Al-Hajj 22:37, at 2631); entry-check ok. No school, comparison or tone issue. Tried: blood vs Pickthall’s ‘food’ (the sentence names neither, so no conflict).",
+ "better": ""
+}

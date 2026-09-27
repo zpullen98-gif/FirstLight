@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d050-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/37.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js quran 50 --verse 37.102: one segment labelled 37:101 to 37:102; after preferring the reading tarā (what view do you take), he raises in his own voice the objection whether Abraham was consulting his son on obeying God and answers that it was no consultation on obeying God but to learn the son's resolve (ʿazm), whether he was as patient under God's command, while in every case going ahead with it. Evidence words verbatim at that place; they carry the whole paraphrase (sounding the son's resolve, not seeking counsel, command carried out in any case) without drift, and the sentence avoids his Isaac identification. Locator right. verse.js ok (As-Saffat 37:102, at 3889), key is a text unit and the best line for a reading of the question. Plain sense checked against day.js: 37:101 tidings of a gentle son, 37:106 a clear test; nothing more claimed; no key words repeated. No school needed, no comparison, tone plain (the key itself states the sacrifice). entry-check ok.",
+ "better": ""
+}

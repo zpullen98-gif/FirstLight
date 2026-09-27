@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d052-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafseer-al-qurtubi/40.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Qurtubi via packet.js quran 52 --verse 40.28 (segment 40:28, fīhi arbaʿ masāʾil): in al-thāniya, on wa-in yaku kādhiban fa-ʿalayhi kadhibuhu, he says in his own unattributed voice that this was not from doubt of Moses' mission and truthfulness but a gentle way (talaṭṭuf) of seeking their restraint and bringing them down from harm (the digitisation's ولكم for ولكن is noted in the gloss). Evidence words verbatim at that place and carry the paraphrase; 'harming him' makes explicit the object of al-adhā, which the context (Pharaoh's proposal to kill Moses) supplies, not drift. Locator right. al-Tabari on the same words gives only a gloss (the sin of his lie is on him, so no need to kill him), so naming al-Qurtubi is sound. verse.js ok (Ghafir 40:28, at 4160); key starts at a sentence inside the ayah. Plain sense checked against day.js: 40:26 Pharaoh asks leave to kill Moses; 40:28 a believing man of Pharaoh's family who hid his faith speaks; no key words repeated. No school, comparison or tone issue. entry-check ok.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d041-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/26.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari via packet.js quran 41 --verse 26.89: the comment is one segment on 26:85 to 26:89, and at the words illa man ata Allaha bi-qalbin salim he says in his own voice that the soundness of heart meant in this place is its soundness from doubt about the oneness of God and the raising after death, then adds that the people of interpretation said the like (Muhammad ibn Sirin, Qatada, Ibn Zayd follow). The evidence words are verbatim there and carry the paraphrase without drift. Locator right (cited as on 26:85 to 26:89, the segment as the text divides it). verse.js ok (Ash-Shu'ara 26:89, at 3020); entry-check ok. Plain sense checked against day.js: Abraham's prayer (from 26:83) asks not to be abased on the day when they are raised (26:87), the day when wealth and sons avail not (26:88), and 26:89 names the exception; the borrowed words come from 26:88, not the key verse. No school, comparison or tone issue. Attacks tried on every line and none landed.",
+ "better": ""
+}

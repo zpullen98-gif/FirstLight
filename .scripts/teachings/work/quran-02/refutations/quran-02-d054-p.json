@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d054-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/43.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Ibn Kathir (Arabic) via packet.js quran 54 --verse 43.67: the segment covers 43:66 to 43:73 and his ay gloss on 43:67 stands verbatim: every friendship and companionship for other than God turns into enmity on the Day of Resurrection, except what was for God, for it lasts as He lasts (dāʾim bi-dawāmihi, the pronoun going back to God just named). The paraphrase carries exactly this and nothing more; the reports he adds (ʿAli on the two pairs of friends) are not claimed. Plain sense checked against day.js 43:66 (the Hour coming suddenly) and 43:68 to 43:73 (the welcome into the Garden): faithful, no key words repeated. verse.js ok (Az-Zukhruf 43:67, at 4391); entry-check ok. No comparison, no school needed.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d059-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/55.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Ibn Kathir on 55:26 to 55:30 (one segment) via packet.js quran 59 --verse 55.29, in the Arabic, not the English abridgement. Under yasʾaluhu man fī al-samāwāt he says in his own voice that this reports His freedom from need of anything besides Him and all creatures’ need of Him at every moment, and that they ask Him with the tongue of their state and of their speech; the evidence words are found verbatim and carry the paraphrase whole (the sentence drops only the restated ‘every day He is about some matter’). The reports after it (ʿUbayd b. ʿUmayr, Mujahid, Qatada, the hadith) are not attributed to him. Locator right: the segment covers 55:26 to 55:30 and is cited as on that passage. Plain sense checked against day.js: 55:26 to 55:27 (all on earth passes away, the Countenance remains) before, 55:31 to 55:35 (O ye two dependents, penetrate the heavens, heat of fire) after; no four words repeated. Al-Tabari (the default) is also substantial here and says much the same (all in heaven and earth turn to Him with their needs, none free of need of Him), but naming Ibn Kathir is permitted and his ‘state and speech’ is distinctively his. verse.js ok (Ar-Rahman 55:29, at 4929); entry-check ok, no warns.",
+ "better": "Optional: ‘the surah turns to prayer’ could read as the surah itself praying; ‘the surah turns to what all creation asks of God’ is plainer."
+}

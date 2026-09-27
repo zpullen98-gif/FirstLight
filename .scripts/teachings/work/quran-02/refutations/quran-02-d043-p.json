@@ -1,0 +1,11 @@
+{
+ "id": "quran-02-d043-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-jalalayn/28.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the Jalalayn (al-Mahalli, surah 28) via packet.js on 28:24, 28:25 and 28:26. On 28:26 the words stand as quoted: hire him for his strength and trustworthiness; her father asked her about him and she told him of his lifting the well stone (narrated at 28:24, a stone only ten men could lift) and his saying walk behind me (narrated at 28:25). The paraphrase carries no more than this; it omits his further detail (Moses lowering his head) but claims no completeness. Plain sense checked against 28:23 to 28:25 (the watering, the very old father, Moses brought to him): faithful. Attribution to the Jalalayn and to al-Mahalli in src is right for surah 28. verse.js ok (Al-Qasas 28:26, at 3277); entry-check ok, 38 words, src 139 chars. No comparison, no school needed, no hard passage.",
+ "better": ""
+}

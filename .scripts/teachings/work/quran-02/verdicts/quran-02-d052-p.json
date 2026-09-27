@@ -1,0 +1,42 @@
+{
+ "id": "quran-02-d052-p",
+ "d": 52,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If he is lying, then his lie is upon him; and if he is truthful, then some of that wherewith he threateneth you will strike you.",
+ "ref": "Ghafir 40:28",
+ "at": [
+  4160
+ ],
+ "s": "As Pharaoh proposes to kill Moses, a believer of his own house who hides his faith speaks up; al-Qurtubi, on 40:28, reads the concession as no doubt of Moses’ truth but a gentle way to hold the people back from harming him.",
+ "by": "qurtubi",
+ "by2": "",
+ "hedge": "",
+ "src": "al-Qurtubi, al-Jāmiʿ li-aḥkām al-Qurʾān, on Ghafir 40:28, the Arabic text of the Tarteel QUL library via spa5k/tafsir_api, commit 9ae590a (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafseer-al-qurtubi/40.json",
+    "edition": "al-Jāmiʿ li-aḥkām al-Qurʾān, the Tarteel QUL text via spa5k/tafsir_api commit 9ae590a (2026), editors’ footnotes removed",
+    "locator": "comment on 40:28, the second of its four questions (al-thāniya), on “wa-in yaku kādhiban fa-ʿalayhi kadhibuhu”",
+    "via": "packet"
+   }
+  ],
+  "words": "وَإِنْ يَكُ كاذِباً فَعَلَيْهِ كَذِبُهُ\" وَلَمْ يَكُنْ ذلك لشك منه في رسالته وصدقه، ولكم تلطفا في الاستكفاف واستنزلا عَنِ الْأَذَى.",
+  "lang": "Arabic",
+  "gloss": "“And if he is lying, his lie is upon him”: that was not from any doubt on his part about his mission and his truthfulness, but (the digitisation prints ولكم for ولكن) out of gentleness in seeking to restrain them, and to bring them down from doing harm.",
+  "licence": "classical text public domain; digitisation by Tarteel (QUL), no licence stated; short excerpt with attribution",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Ghafir 40:28, at 4160). al-Qurtubi, in the second question of his comment on 40:28, says the believer’s “if he is lying, his lie is upon him” came from no doubt of Moses’ mission and truthfulness but was a gentle way to restrain them and bring them down from harming him. The sentence paraphrases exactly that. Plain sense (Pharaoh asks leave to kill Moses at 40:26; a believing man of Pharaoh’s family who hid his faith speaks) is faithful to day.js; the key begins after those words so nothing repeats. al-Qurtubi’s comment on this ayah is substantial, so naming him over al-Tabari fits the voice rule. Only the evidence was tidied: the same words given as one contiguous run from the packet instead of two pieces joined by an ellipsis. Entry-check ok; sentence unchanged."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d049-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-ibn-kathir/36.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Ibn Kathir's one comment on 36:77 to 36:80 (packet.js quran 49 --verse 36.78): he gives the Ubayy ibn Khalaf report (Mujahid, Ikrima, Urwa, al-Suddi, Qatada) and the al-'As ibn Wa'il report (Ibn Abbas via Sa'id ibn Jubayr), rejects the Abdullah ibn Ubayy report as the surah is Meccan, then says in his own words that on every reckoning, whether about Ubayy, al-'As or both, the ayahs are general for every denier of the resurrection, the article in 'al-insan' being for the kind. Evidence run is verbatim as the packet prints it (bracketed editorial insertions included). The paraphrase carries exactly that; dropping 'or both' is harmless. Locator matches the segment. Plain sense checked on day.js: 36:77 calls man, made from a drop, an open opponent, and 36:78 gives his challenge; no key-verse run. verse.js ok (Ya-Sin 36:78, at 3782); entry-check ok, no warnings. No school, comparison or tone issue.",
+ "better": ""
+}

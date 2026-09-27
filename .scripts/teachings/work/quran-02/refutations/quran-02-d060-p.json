@@ -1,0 +1,8 @@
+{
+ "id": "quran-02-d060-p",
+ "refuted": false,
+ "reopened": {"url": "https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@9ae590abdaaa38462f4f91cc141903aa6f72cc23/tafsir/ar-tafsir-al-tabari/58.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened al-Tabari on 58:7 (packet.js quran 60 --verse 58.7): in his own voice, after glossing the ayah and before the al-Dahhak report, he writes that 'He is their fourth' means He witnesses them by His knowledge while He is upon His Throne; the evidence words are there verbatim and carry the paraphrase whole (knowledge, witnessing, the Throne), with no drift. verse.js ok (58:7, at 5110; the key is the ayah's second sentence, beginning after the opening question). Plain sense checked against day.js: 58:1 the woman disputing about her husband and complaining to God, 58:8 those who conspire for disobedience toward the messenger, 58:7 opening 'Hast thou not seen' addressed to the Prophet; faithful and adds no doctrine. Locator right (58:7 is its own segment). No school needed, no comparison, not a hard passage. entry-check.js ok, no errors or warnings. Ibn Kathir and al-Qurtubi say the same (knowledge), so no rival reading is suppressed.",
+ "better": ""
+}
