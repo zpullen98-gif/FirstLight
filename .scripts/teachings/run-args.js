@@ -61,6 +61,20 @@ if (a.includes('--revise-critic')) {
       /* full ids, and the short form a critic uses after the first ("d020-p") */
       const ids = new Set(txt.match(idRe) || []);
       (txt.match(/\bd\d{3}-[ps]\b/g) || []).forEach(sh => ids.add(B.name + '-' + sh));
+      /* and, when it names no entry, the days it names ("days 2, 7 and 9 to 11",
+         "d8"), each reaching that day's survivor */
+      if (!ids.size) {
+        const st = lib.status(plan, n, dryName);
+        const days = new Set();
+        let m;
+        const listRe = /\bdays?\s+(\d+(?:\s*(?:,|and|to)\s*\d+)*)/gi;
+        while ((m = listRe.exec(txt))) {
+          const parts = m[1].split(/\s*(?:,|and)\s*/);
+          parts.forEach(x => { const r = x.split(/\s*to\s*/).map(Number); for (let d = r[0]; d <= (r[1] || r[0]); d++) days.add(d); });
+        }
+        (txt.match(/\bd(\d{1,3})\b/g) || []).forEach(x => days.add(+x.slice(1)));
+        days.forEach(d => { const sv = st.days[d] && st.days[d].survivor; if (sv) ids.add(sv.id); });
+      }
       [...ids].forEach(id => add(id, p));
     }
   });
