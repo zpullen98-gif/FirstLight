@@ -1,0 +1,8 @@
+{
+ "id": "tao-dry-d001-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 1 and the url itself (revision 2354026, timestamp 2024-01-10, title 道德經 (王弼本)): Wang Bi's comment on 無名，天地之始，有名，萬物之母 reads verbatim 凡有皆始於無 ... 則為萬物之始 ... 則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物. His base line matches Legge's line. The paraphrase (all that exists begins in non-being; the formless, nameless Tao first begins things and then rears them as their mother) is carried by those words without drift: it keeps his two stages (未形/有形) and does not claim the Tao itself becomes named. Plain sense restates the key verse without leaning on Legge's parentheses, names no commentator, no authorship claim. verse.js ok (ref Tao Te Ching 1, at [0]); entry-check.js ok on my own copy (scratch/refute-tao-dry-d001-p.json). No school, comparison or tone issue. src year 2024 confirmed by the MediaWiki API.",
+ "better": ""
+}

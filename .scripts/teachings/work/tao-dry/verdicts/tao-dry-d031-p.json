@@ -1,0 +1,42 @@
+{
+ "id": "tao-dry-d031-p",
+ "d": 31,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.",
+ "ref": "Tao Te Ching 31",
+ "at": [
+  30
+ ],
+ "s": "The chapter says that one who has killed multitudes should weep for them, and that the victor takes his place by the rites of mourning; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that his own virtue was too slight to transform people by the Tao, so that the innocent were harmed.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 31 (title 偃武), commentary on 殺人之眾，以哀悲泣之",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "傷己德薄，不能以道化人，而害無辜之民。",
+  "lang": "Classical Chinese",
+  "gloss": "He grieves that his own virtue was thin, that he could not transform people by the Tao, and so harmed innocent people.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 31, at [30]), a single sentence with no dash, taken after the dashed sentences of the unit. Wang Bi has no commentary on chapter 31 (packet confirms), so the Heshang Gong commentary is the right choice; its comment on exactly this line, 殺人之眾，以哀悲泣之, is 傷己德薄，不能以道化人，而害無辜之民, which the reading paraphrases without drift. Hard passage: the plain sense states the killing and the mourning rites in one plain clause without softening and does not lean on Legge’s “(rightly)”. Entry passes entry-check."
+}

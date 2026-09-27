@@ -1,0 +1,8 @@
+{
+ "id": "tao-dry-d031-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 31 and the raw wikitext of revision 2019760 (timestamp 2021-03-10, so the src year holds): under ==偃武==, on 殺人之眾，以哀悲泣之 the comment is 傷己德薄，不能以道化人，而害無辜之民 and on 戰勝，以喪禮處之 it is 古者戰勝，將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥，心不樂之, both verbatim as the evidence gives them. The Heshang Gong base lines match Legge's closing sentences, and Wang Bi has no comment here. The plain sense states the killing and the mourning rites plainly and does not lean on Legge's '(rightly)'. The reading stays inside the words: weeping = grief at thin virtue that failed to transform people by the Tao; the rites = 明 the gentleman prizes virtue, despises arms and 誅 only when unavoidable. It omits 而害無辜之民 but claims nothing beyond the text, and it keeps the limit rule 6 asks for. verse.js ok (Tao Te Ching 31, at [30]); entry-check ok on scratch/revrefute-tao-dry-d031-p.json. No school, comparison or tone fault found.",
+ "better": "Optional, not required: the weeping clause could keep the comment's own object, grief that his thin virtue could not transform people by the Tao and so harmed the innocent (而害無辜之民), if the word cap allows."
+}

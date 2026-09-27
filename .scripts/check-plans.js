@@ -288,6 +288,16 @@ function parseRef(P, ref) {
     if (!m) throw new Error('reference does not parse: ' + ref);
     return [atomAt(P, st, num(m[1]) - 1, num(m[2]) - 1), num(m[3])];
   }
+  /* A Dhammapada verse is cited without its chapter's title, and one of
+     Muller's pairs, printed as one paragraph on the first verse's atom, as
+     "Dhammapada 58 to 59". */
+  if (P.work === 'dhammapada') {
+    m = ref.match(/^Dhammapada (\d+)(?: to (\d+))?$/);
+    if (!m) throw new Error('reference does not parse: ' + ref);
+    const a = num(m[1]) - 1, total = st[st.length - 1];
+    if (a < 0 || a >= total || (m[2] && num(m[2]) !== num(m[1]) + 1)) throw new Error('reference out of range or not a pair: ' + ref);
+    return [a, null];
+  }
   const r = parseLabel(P, ref);
   if (r[0] !== r[1]) throw new Error('a reference names one place: ' + ref);
   return [r[0], null];
@@ -762,7 +772,18 @@ function payloadOf(src, kind, id) {
   if (w !== kind || p !== id) throw new Error('FLTextPut("' + w + '", "' + p + '") where ("' + kind + '", "' + id + '") was expected');
   return out;
 }
-function norm(s) { return String(s || '').replace(/\s+/g, ' ').trim(); }
+/* Verbatim means verbatim after this and nothing more: curly and straight
+   quotes are one mark (a key verse prints curly quotes over a translation
+   typed with straight ones), Gutenberg's italic underscores are dropped,
+   and whitespace runs are one space. The same rule as the authoring
+   corpus (.scripts/teachings/corpus.js norm). */
+function norm(s) {
+  return String(s || '')
+    .replace(/[\u2018\u2019\u201A\u201B\u2032`\u00B4]/g, "'")
+    .replace(/[\u201C\u201D\u201E\u201F\u2033]/g, '"')
+    .replace(/_/g, '')
+    .replace(/\s+/g, ' ').trim();
+}
 function sentenceErrors(s, by, roster) {
   const out = [];
   if (!s || typeof s !== 'string') return ['no sentence'];

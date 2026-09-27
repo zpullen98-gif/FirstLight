@@ -139,30 +139,29 @@ const EMPTY_ATOMS = {
   pali: a => a.coord.v !== +String(a.coord.para).match(/^\d+/)[0]
 };
 
-/* Who a day's teaching may name, per plan (the closed roster; the authoring
-   phase may widen it here, never in the teaching files). A course may name
-   anyone on any plan's roster. */
-const TEACH_ROSTER = {
-  bible: ['Augustine', 'John Chrysostom', 'Chrysostom', 'Jerome', 'Gregory the Great', 'Basil',
-          'Ambrose', 'Origen', 'Irenaeus', 'Athanasius', 'Cyril of Alexandria', 'Gregory of Nyssa',
-          'Gregory of Nazianzus', 'Ephrem', 'Bede', 'Leo the Great', 'Hilary of Poitiers', 'Matthew Henry'],
-  tanakh: ['Rashi', 'Ibn Ezra', 'Radak', 'Ramban', 'Sforno', 'Midrash Rabbah', 'the Midrash'],
-  quran: ['al-Tabari', 'Ibn Kathir', 'the Jalalayn'],
-  veda: ['Sayana', 'Sāyaṇa'],
-  pali: ['the Dhammapada commentary', 'Buddhaghosa'],
-  gita: ['Shankara', 'Śaṅkara', 'Ramanuja', 'Rāmānuja', 'Madhva'],
-  upanishads: ['Shankara', 'Śaṅkara', 'Ramanuja', 'Rāmānuja', 'Madhva'],
-  analects: ['Zhu Xi', 'He Yan'],
-  tao: ['Wang Bi', 'Heshang Gong'],
-  zhuangzi: ['Guo Xiang']
-};
-/* One person under two spellings, or a longer and a shorter form of one
-   name: the key each counts under when the gate asks how many commentators
-   a sentence names. */
-const TEACH_ALIASES = {
-  'Chrysostom': 'John Chrysostom', 'the Midrash': 'Midrash Rabbah',
-  'Śaṅkara': 'Shankara', 'Rāmānuja': 'Ramanuja', 'Sāyaṇa': 'Sayana'
-};
+/* Who a day's teaching may name, per plan: the closed roster in
+   .scripts/teachings/roster.json, the one place it is widened, never in the
+   teaching files. A course may name anyone on any plan's roster.
+   TEACH_ROSTER[plan] lists every spelling the gate recognises: each person's
+   display name (name, and alsoName where a sentence may open with it),
+   any work names (the Midrash collections) and aliases (spellings that are
+   the same person but never the display name). TEACH_ALIASES maps each of
+   those to the person's display name, the key a name counts under when the
+   gate asks how many commentators a sentence names. */
+const ROSTER = require(path.join(ROOT, '.scripts', 'teachings', 'roster.json'));
+const TEACH_ROSTER = {}, TEACH_ALIASES = {};
+Object.keys(ROSTER.plans).forEach(plan => {
+  const list = [];
+  ROSTER.plans[plan].commentators.forEach(id => {
+    const p = ROSTER.people[id];
+    if (!p) throw new Error('roster.json: plan ' + plan + ' names ' + id + ', who is not in people');
+    [p.name].concat(p.alsoName ? [p.alsoName] : [], p.names || [], p.aliases || []).forEach(n => {
+      if (!list.includes(n)) list.push(n);
+      if (n !== p.name) TEACH_ALIASES[n] = p.name;
+    });
+  });
+  TEACH_ROSTER[plan] = list;
+});
 /* American spellings a teaching sentence may not use (British English). */
 const AMERICAN = /\b(honor|honors|honored|honorable|color|colors|favor|favored|favorite|behavior|center|centered|realize|realized|realizes|realizing|recognize|recognized|organize|organized|analyze|analyzed|judgment|fulfill|fulfills|fulfillment|defense|offense|labor|labored|neighbor|neighbors|savior|traveled|traveling|worshiped|worshiping|counseled|splendor|endeavor)\b/i;
 

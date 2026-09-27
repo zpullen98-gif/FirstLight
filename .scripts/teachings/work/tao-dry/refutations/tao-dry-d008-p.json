@@ -1,0 +1,8 @@
+{
+ "id": "tao-dry-d008-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 8 and the url (revision 2019760, 2021-03-10, 老子河上公章句/上, which holds chapters 1 to 37): chapter 8 (易性) has 上善之人，如水之性 on 上善若水, 萬物得水以生 on 與善仁, and 壅之則止，決之則流，聽從人也 on 夫唯不爭, all exact; every following gloss is framed as 水性, so 'reads what follows as water’s ways' is fair. 'Giving all things life' is a fair rendering of 萬物得水以生 and 'released' of 決. The Heshang Gong base text of chapter 8 matches Legge's lines. Wang Bi's chapter 8 comment is slight (人惡卑也 etc.), so the choice is sound. Plain sense matches Legge (benefits all things, the low place all men dislike) without leaning on '(that of)'. verse.js ok (ref Tao Te Ching 8, at [7]); entry-check.js ok on scratch/refute-tao-dry-d008-p.json; roster name 'the Heshang Gong commentary' used exactly, verb 'takes', curly apostrophes, one semicolon.",
+ "better": ""
+}

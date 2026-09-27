@@ -1,0 +1,17 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 31,
+   "id": "tao-dry-d031-p",
+   "problem": "Rule 6 limit not carried. The key verse includes the line 戰勝，以喪禮處之 (the victor ... according to those rites), and the Heshang Gong commentary on that very line sets a limit: 明君子貴德而賤兵，不得以而誅不祥，心不樂之 (the gentleman prizes virtue and despises arms, punishes only when he cannot avoid it, and takes no joy in it). The reading gives only the grief of 傷己德薄 on the first half, so on a hard passage the commentator’s own limit on the key verse’s lines is dropped (the refuter and the earlier dry-run critic both flagged it; the batch is unchanged).",
+   "fix": "Add the limit within the cap and add that comment to the evidence words, e.g. “The chapter says that one who has killed multitudes should weep for them, and the victor takes his place by the rites of mourning; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that his thin virtue could not transform people by the Tao, and those rites as marking that arms are used only when unavoidable.” (59 words; entry-check ok on scratch/critic1-fix-tao-dry-d031-p.json)."
+  },
+  {
+   "d": 8,
+   "id": "tao-dry-d008-p",
+   "problem": "Prose: the closing images ‘stopping when dammed and flowing when released’ are left without their point. In the commentary they gloss 夫唯不爭 with 聽從人也 (it goes along with people), but the sentence does not say so, so the reader cannot tell why they matter. The sentence also doubles ‘takes’ (water ‘takes the low place’, then the commentary ‘takes the highest excellence’) and repeats ‘the highest excellence’.",
+   "fix": "“The chapter likens the highest excellence to water, which benefits all things and occupies the low place all men dislike; the Heshang Gong commentary, on chapter 8, takes it as a person whose nature is like water’s, and reads its not striving as yielding to people, stopping when dammed and flowing when released.” (53 words; entry-check ok on scratch/critic1-fix-tao-dry-d008-p.json; every clause is in 上善之人，如水之性 and 壅之則止，決之則流，聽從人也)."
+  }
+ ]
+}

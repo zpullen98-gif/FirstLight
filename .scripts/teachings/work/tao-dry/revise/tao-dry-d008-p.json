@@ -1,0 +1,35 @@
+{
+ "id": "tao-dry-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The highest excellence is like (that of) water.",
+ "ref": "Tao Te Ching 8",
+ "at": [7],
+ "s": "The chapter likens the highest excellence to water, which benefits all things and occupies the low place all men dislike; the Heshang Gong commentary, on chapter 8, takes it as a person whose nature is like water’s, and reads water’s not striving as going along with people, stopping when dammed and flowing when released.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "locator": "chapter 8 (title 易性), commentary on 上善若水 and on 夫唯不爭",
+    "via": "packet"
+   }
+  ],
+  "words": "上善之人，如水之性。 … 壅之則止，決之則流，聽從人也。",
+  "lang": "Classical Chinese",
+  "gloss": "The person of highest goodness is like water in nature. … Dam it and it stops, cut it a channel and it flows: it goes along with people.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The critic is right on prose: the images of stopping and flowing gloss 夫唯不爭 and end 聽從人也, which the sentence left unstated, and ‘takes’ and ‘the highest excellence’ were repeated. Adopted the critic’s fix with one change: ‘its not striving’ became ‘water’s not striving’, since the comment speaks of water (壅之則止) and ‘its’ was ambiguous; ‘going along with’ renders 聽從 more closely than ‘yielding to’. ‘Occupies’ now matches Legge’s wording in the plain sense. Every clause is carried verbatim by the evidence. verse.js ok (Tao Te Ching 8, at [7]); entry-check ok on scratch/revise-tao-dry-d008-p.json (54 words)."
+}

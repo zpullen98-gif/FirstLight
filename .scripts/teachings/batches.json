@@ -1,0 +1,7 @@
+{
+  "about": "Batch sizes per plan: batch n holds days (n-1)*size+1 to min(n*size, N). Lanes are day ranges of laneDays per proposing agent; a sensitive day goes to its own lane of two. The order is the plan's (section Order of work): Tao (the pilot is tao-01), Dhammapada, Gita and Upanishads, Analects, the courses, Qur'an, Zhuangzi, Rig Veda, Tanakh, Bible.",
+  "size": { "tao": 27, "pali": 26, "gita": 18, "upanishads": 12, "analects": 21, "quran": 33, "zhuangzi": 22, "veda": 32, "tanakh": 30, "bible": 30 },
+  "laneDays": { "tao": 6, "pali": 6, "gita": 6, "upanishads": 6, "analects": 6, "quran": 6, "zhuangzi": 6, "veda": 6, "tanakh": 5, "bible": 5 },
+  "sensitiveLaneDays": 2,
+  "verifyPerAgent": 3
+}

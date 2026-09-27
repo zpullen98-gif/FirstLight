@@ -1,0 +1,1201 @@
+{
+  "about": "The closed roster of classical commentators, per plan. A teaching's sentence names, after its semicolon, one of the display names allowed for its plan (two where schools differ), and the gate fails any name not listed or any day outside the commentator's coverage. Coverage lists book names exactly as the plan's labels print them; \"all\" covers the whole plan. A source may be opened by a verifier; the evidence quotes the commentator's own words from a source actually opened, at most 40 words from any copyrighted English. Rule of thumb: published before 1931 is public domain in the United States in 2026.",
+  "plans": {
+    "tao": {
+      "commentators": [
+        "wang-bi",
+        "heshang-gong"
+      ],
+      "conduits": [
+        "legge-sbe39"
+      ],
+      "forbid": [],
+      "watch": [
+        "Buddhist",
+        "Confucian",
+        "Christian"
+      ]
+    },
+    "zhuangzi": {
+      "commentators": [
+        "guo-xiang"
+      ],
+      "conduits": [
+        "legge-sbe39",
+        "giles-1889"
+      ],
+      "forbid": [],
+      "watch": [
+        "Buddhist",
+        "Christian"
+      ]
+    },
+    "analects": {
+      "commentators": [
+        "zhu-xi",
+        "he-yan"
+      ],
+      "conduits": [
+        "legge-cc1"
+      ],
+      "forbid": [],
+      "watch": [
+        "Taoist",
+        "Daoist",
+        "Buddhist",
+        "Christian"
+      ]
+    },
+    "pali": {
+      "commentators": [
+        "dhp-commentary"
+      ],
+      "conduits": [
+        "muller-sbe10"
+      ],
+      "forbid": [
+        "Buddhaghosa wrote",
+        "Buddhaghosa says"
+      ],
+      "watch": [
+        "Mahayana",
+        "Hindu",
+        "Christian"
+      ]
+    },
+    "gita": {
+      "commentators": [
+        "shankara",
+        "ramanuja",
+        "madhva"
+      ],
+      "conduits": [
+        "telang-sbe8"
+      ],
+      "forbid": [
+        "Theosophy",
+        "Theosophical"
+      ],
+      "watch": [
+        "Buddhist",
+        "Christian"
+      ]
+    },
+    "upanishads": {
+      "commentators": [
+        "shankara",
+        "ramanuja",
+        "madhva"
+      ],
+      "conduits": [
+        "muller-sbe1-15"
+      ],
+      "forbid": [
+        "Paramananda"
+      ],
+      "watch": [
+        "Buddhist",
+        "Christian"
+      ]
+    },
+    "veda": {
+      "commentators": [
+        "sayana",
+        "yaska"
+      ],
+      "conduits": [
+        "wilson-rv",
+        "griffith-notes",
+        "muller-rv"
+      ],
+      "forbid": [],
+      "watch": [
+        "Aryan",
+        "primitive",
+        "Christian"
+      ]
+    },
+    "quran": {
+      "commentators": [
+        "tabari",
+        "ibn-kathir",
+        "jalalayn",
+        "qurtubi",
+        "wahidi",
+        "tabarsi"
+      ],
+      "conduits": [],
+      "forbid": [
+        "pbuh",
+        "PBUH",
+        "(s)",
+        "(saw)",
+        "ﷺ",
+        "Bible",
+        "biblical",
+        "Christian reading"
+      ],
+      "watch": [
+        "Jews",
+        "Christians",
+        "unbelievers",
+        "infidels",
+        "jihad"
+      ]
+    },
+    "tanakh": {
+      "commentators": [
+        "rashi",
+        "ibn-ezra",
+        "radak",
+        "ramban",
+        "rashbam",
+        "sforno",
+        "metzudat-david",
+        "midrash"
+      ],
+      "conduits": [],
+      "forbid": [
+        "Christ",
+        "Christian",
+        "church",
+        "Church",
+        "Old Testament",
+        "New Testament",
+        "Jesus",
+        "gospel",
+        "Gospel",
+        "Trinity",
+        "fulfil",
+        "fulfils",
+        "fulfilled",
+        "foreshadow",
+        "foreshadows",
+        "prefigure",
+        "prefigures",
+        "Messianic prophecy"
+      ],
+      "watch": [
+        "Messiah",
+        "Gentile",
+        "Gentiles"
+      ]
+    },
+    "bible": {
+      "commentators": [
+        "augustine",
+        "chrysostom",
+        "jerome",
+        "gregory-great",
+        "basil",
+        "ambrose",
+        "cyril-alexandria",
+        "athanasius",
+        "irenaeus",
+        "ephrem",
+        "leo-great",
+        "hilary",
+        "gregory-nyssa",
+        "gregory-nazianzus",
+        "cyprian",
+        "bede",
+        "matthew-henry"
+      ],
+      "conduits": [
+        "catena-aurea"
+      ],
+      "forbid": [
+        "superseded",
+        "supersedes",
+        "replaced Israel",
+        "the Jews killed",
+        "Christ-killers",
+        "Judaism was"
+      ],
+      "watch": [
+        "the Jews",
+        "Pharisees",
+        "fulfils",
+        "foreshadows",
+        "prefigures",
+        "Israel"
+      ],
+      "fallback": {
+        "matthew-henry": {
+          "maxShare": 0.1,
+          "books": [
+            "Genesis",
+            "Exodus",
+            "Leviticus",
+            "Numbers",
+            "Deuteronomy",
+            "Joshua",
+            "Judges",
+            "Ruth",
+            "1 Samuel",
+            "2 Samuel",
+            "1 Kings",
+            "2 Kings",
+            "1 Chronicles",
+            "2 Chronicles",
+            "Ezra",
+            "Nehemiah",
+            "Esther",
+            "Job",
+            "Psalm",
+            "Proverbs",
+            "Ecclesiastes",
+            "Song of Songs",
+            "Isaiah",
+            "Jeremiah",
+            "Lamentations",
+            "Ezekiel",
+            "Daniel",
+            "Hosea",
+            "Joel",
+            "Amos",
+            "Obadiah",
+            "Jonah",
+            "Micah",
+            "Nahum",
+            "Habakkuk",
+            "Zephaniah",
+            "Haggai",
+            "Zechariah",
+            "Malachi",
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John",
+            "Acts"
+          ]
+        }
+      }
+    }
+  },
+  "people": {
+    "wang-bi": {
+      "name": "Wang Bi",
+      "dates": "226 to 249",
+      "work": "Commentary on the Laozi (Laozi zhu)",
+      "lang": "Classical Chinese",
+      "coverage": {
+        "tao": "all"
+      },
+      "sources": [
+        "Chinese text on zh.wikisource.org or ctext.org (public domain)",
+        "Legge's notes, SBE 39 (1891), as a conduit"
+      ],
+      "traps": [
+        "Wang Bi's base text differs from Legge's in places: confirm the line he comments on is the line in the day's chapter.",
+        "Name him plainly: no title."
+      ]
+    },
+    "heshang-gong": {
+      "name": "the Heshang Gong commentary",
+      "alsoName": "The Heshang Gong commentary",
+      "dates": "Han dynasty or later; its author is unknown",
+      "work": "Laozi Daodejing Heshang Gong zhangju",
+      "lang": "Classical Chinese",
+      "coverage": {
+        "tao": "all"
+      },
+      "sources": [
+        "Chinese text on zh.wikisource.org or ctext.org (public domain)",
+        "Legge's notes, SBE 39 (1891), which translate its chapter titles"
+      ],
+      "traps": [
+        "The name is a legend (the Old Man by the River): name the commentary, never tell his story or treat him as a historical author.",
+        "Its chapter titles (for example ‘Embodying the Tao’ for chapter 1) are part of the commentary and may be cited as its reading."
+      ],
+      "aliases": [
+        "Heshang Gong"
+      ]
+    },
+    "guo-xiang": {
+      "name": "Guo Xiang",
+      "dates": "died 312",
+      "work": "Commentary on the Zhuangzi (Zhuangzi zhu)",
+      "lang": "Classical Chinese",
+      "coverage": {
+        "zhuangzi": "all"
+      },
+      "sources": [
+        "Chinese text on ctext.org or zh.wikisource.org (public domain)",
+        "Legge, SBE 39 and 40 (1891), as a conduit"
+      ],
+      "traps": [
+        "Guo Xiang's commentary covers the 33-chapter recension, which Giles follows; locate by opening words, not paragraph number.",
+        "Giles' own notes are printed in the app's text and are not a key verse and not Guo Xiang."
+      ]
+    },
+    "zhu-xi": {
+      "name": "Zhu Xi",
+      "dates": "1130 to 1200",
+      "work": "Collected Commentaries on the Analects (Lunyu jizhu)",
+      "lang": "Classical Chinese",
+      "coverage": {
+        "analects": "all"
+      },
+      "sources": [
+        "Chinese text on ctext.org (public domain)",
+        "Legge's notes, The Chinese Classics vol. 1 (1893), as a conduit"
+      ],
+      "traps": [
+        "Zhu Xi's chapter divisions differ from Legge's in places: locate by opening words."
+      ]
+    },
+    "he-yan": {
+      "name": "He Yan",
+      "dates": "died 249",
+      "work": "Collected Explanations of the Analects (Lunyu jijie)",
+      "lang": "Classical Chinese",
+      "coverage": {
+        "analects": "all"
+      },
+      "sources": [
+        "Chinese text on ctext.org (public domain)"
+      ],
+      "traps": [
+        "The Jijie gathers earlier glosses under their authors' names (Kong Anguo, Ma Rong, Zheng Xuan): say ‘He Yan's collected commentary’ or name the gathered author as given there."
+      ]
+    },
+    "dhp-commentary": {
+      "name": "the Theravāda commentary",
+      "alsoName": "The Theravāda commentary",
+      "dates": "fifth century, ascribed by tradition to Buddhaghosa",
+      "work": "Dhammapada-aṭṭhakathā",
+      "lang": "Pali",
+      "coverage": {
+        "pali": "all"
+      },
+      "sources": [
+        "E. W. Burlingame, Buddhist Legends, Harvard Oriental Series 28 to 30 (1921), archive.org buddhistlegends01 to 03 (public domain)",
+        "Max Müller's notes, SBE 10 (1881), as a conduit"
+      ],
+      "traps": [
+        "Never state the ascription to Buddhaghosa as fact.",
+        "Burlingame translates the stories, which frame the verses: the reading is the lesson the story draws from the verse, located by book, story, volume and page."
+      ],
+      "aliases": [
+        "the Dhammapada commentary",
+        "The Dhammapada commentary"
+      ]
+    },
+    "shankara": {
+      "name": "Śaṅkara",
+      "school": "Advaita",
+      "dates": "eighth century",
+      "work": "Bhāṣya (commentary) on the Gita and on the Upanishads",
+      "lang": "Sanskrit",
+      "coverage": {
+        "gita": "all",
+        "upanishads": "all"
+      },
+      "sources": [
+        "Gita: A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya (1897; 2nd ed. 1901), archive.org (public domain)",
+        "Isa and Kena: S. Sitarama Sastri, The Upanishads and Sri Sankara's Commentary vol. 1 (1898); Katha: vol. 2 (1898), archive.org (public domain)"
+      ],
+      "traps": [
+        "Name the school (Advaita) whenever a second commentator is named."
+      ],
+      "aliases": [
+        "Shankara"
+      ]
+    },
+    "ramanuja": {
+      "name": "Rāmānuja",
+      "school": "Viśiṣṭādvaita",
+      "dates": "1017 to 1137",
+      "work": "Gītā Bhāṣya; Śrī Bhāṣya",
+      "lang": "Sanskrit",
+      "coverage": {
+        "gita": "all",
+        "upanishads": "sri-bhasya"
+      },
+      "sources": [
+        "Gita: A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya's Visishtadvaita Commentary (1898), archive.org (public domain)",
+        "Upanishads: only where the Śrī Bhāṣya treats the verse, G. Thibaut, SBE 48 (1904) (public domain)"
+      ],
+      "traps": [
+        "He wrote no commentary on the Isa, Kena or Katha: on an Upanishad day name him only where the Śrī Bhāṣya treats the verse, and name the Śrī Bhāṣya as the place.",
+        "Always name his school (Viśiṣṭādvaita)."
+      ],
+      "aliases": [
+        "Ramanuja"
+      ]
+    },
+    "madhva": {
+      "name": "Madhva",
+      "school": "Dvaita",
+      "dates": "thirteenth century",
+      "work": "Gītā Bhāṣya; Upaniṣad Bhāṣyas",
+      "lang": "Sanskrit",
+      "coverage": {
+        "gita": "all",
+        "upanishads": "all"
+      },
+      "sources": [
+        "Gita: S. Subba Rau, The Bhagavad-Gita, translated with the commentary of Sri Madhwacharya (1906), archive.org (public domain)",
+        "Isa, Kena, Katha: S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911), archive.org (public domain)"
+      ],
+      "traps": [
+        "Always name his school (Dvaita)."
+      ]
+    },
+    "sayana": {
+      "name": "Sāyaṇa",
+      "dates": "died 1387",
+      "work": "Commentary on the Rig Veda (Vedārthaprakāśa)",
+      "lang": "Sanskrit",
+      "coverage": {
+        "veda": "all"
+      },
+      "sources": [
+        "H. H. Wilson, Rig-Veda-Sanhita, 6 vols (1850 to 1888), which follows Sāyaṇa, archive.org (public domain)",
+        "Max Müller's edition of the Rig Veda with Sāyaṇa's commentary (1849 to 1874), for the Sanskrit"
+      ],
+      "traps": [
+        "Wilson numbers by aṣṭaka and adhyāya as well: store and cite mandala.hymn.verse.",
+        "When the reading is known only through Wilson, use the ‘as given in’ source form."
+      ],
+      "aliases": [
+        "Sayana"
+      ]
+    },
+    "yaska": {
+      "name": "Yāska",
+      "dates": "about the fifth century BCE",
+      "work": "Nirukta",
+      "lang": "Sanskrit",
+      "coverage": {
+        "veda": "all"
+      },
+      "sources": [
+        "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org (public domain)"
+      ],
+      "traps": [
+        "Yāska treats only some verses: name him only where the Nirukta treats the verse, with the Nirukta's book and section."
+      ],
+      "aliases": [
+        "Yaska"
+      ]
+    },
+    "tabari": {
+      "name": "al-Tabari",
+      "alsoName": "Al-Tabari",
+      "dates": "died 923",
+      "work": "Jāmiʿ al-bayān (Tafsir al-Tabari)",
+      "lang": "Arabic",
+      "coverage": {
+        "quran": "all"
+      },
+      "sources": [
+        "quran.com API, tafsir id 15 (Arabic), by ayah"
+      ],
+      "traps": [
+        "Paraphrase only.",
+        "Al-Tabari reports several readings with their chains: say which one he prefers only where he says so."
+      ]
+    },
+    "ibn-kathir": {
+      "name": "Ibn Kathir",
+      "dates": "died 1373",
+      "work": "Tafsīr al-Qurʾān al-ʿAẓīm",
+      "lang": "Arabic",
+      "coverage": {
+        "quran": "all"
+      },
+      "sources": [
+        "quran.com API, tafsir id 14 (Arabic), by ayah",
+        "tafsir id 169 is the abridged English (Darussalam, copyrighted): at most 40 words, and find the reading in the Arabic"
+      ],
+      "traps": [
+        "The English ‘Ibn Kathir’ is an abridgement: find the reading in the Arabic."
+      ]
+    },
+    "jalalayn": {
+      "name": "the Jalalayn",
+      "alsoName": "The Jalalayn",
+      "dates": "al-Mahalli (died 1459) and al-Suyuti (died 1505)",
+      "work": "Tafsīr al-Jalālayn",
+      "lang": "Arabic",
+      "coverage": {
+        "quran": "all"
+      },
+      "sources": [
+        "altafsir.com, one ayah at a time (the English by Feras Hamza is copyrighted by the Royal Aal al-Bayt Institute: fair dealing only, never bulk)"
+      ],
+      "traps": [
+        "Two authors: al-Mahalli wrote on al-Fatiha and surahs 18 to 114, al-Suyuti on 2 to 17. Say ‘the Jalalayn’ or the right author."
+      ]
+    },
+    "qurtubi": {
+      "name": "al-Qurtubi",
+      "alsoName": "Al-Qurtubi",
+      "dates": "died 1273",
+      "work": "al-Jāmiʿ li-aḥkām al-Qurʾān",
+      "lang": "Arabic",
+      "coverage": {
+        "quran": "all"
+      },
+      "sources": [
+        "quran.com API, tafsir id 90 (Arabic), by ayah"
+      ],
+      "traps": [
+        "Paraphrase only."
+      ]
+    },
+    "wahidi": {
+      "name": "al-Wahidi",
+      "alsoName": "Al-Wahidi",
+      "dates": "died 1075",
+      "work": "Asbāb al-nuzūl (the occasions of revelation)",
+      "lang": "Arabic",
+      "coverage": {
+        "quran": "all"
+      },
+      "sources": [
+        "Asbab al-Nuzul in Arabic; name the report as he gives it"
+      ],
+      "traps": [
+        "He treats only some ayahs: name him only where he gives an occasion for the ayah."
+      ]
+    },
+    "tabarsi": {
+      "name": "the Shi’i commentator al-Tabarsi",
+      "alsoName": "The Shi’i commentator al-Tabarsi",
+      "school": "Shi’i",
+      "dates": "died 1153",
+      "work": "Majmaʿ al-bayān",
+      "lang": "Arabic",
+      "coverage": {
+        "quran": "all"
+      },
+      "sources": [
+        "Majmaʿ al-bayān in Arabic"
+      ],
+      "traps": [
+        "Named only where the Shi’i reading differs materially, and then beside a Sunni commentator, the difference named and not resolved."
+      ]
+    },
+    "rashi": {
+      "name": "Rashi",
+      "dates": "1040 to 1105",
+      "work": "Commentary on the Torah, Prophets and Writings",
+      "lang": "Hebrew",
+      "coverage": {
+        "tanakh": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy",
+          "Joshua",
+          "Judges",
+          "1 Samuel",
+          "2 Samuel",
+          "1 Kings",
+          "2 Kings",
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Hosea",
+          "Joel",
+          "Amos",
+          "Obadiah",
+          "Jonah",
+          "Micah",
+          "Nahum",
+          "Habakkuk",
+          "Zephaniah",
+          "Haggai",
+          "Zechariah",
+          "Malachi",
+          "Psalm",
+          "Proverbs",
+          "Job",
+          "Song of Songs",
+          "Ruth",
+          "Lamentations",
+          "Ecclesiastes",
+          "Esther",
+          "Daniel",
+          "Ezra",
+          "Nehemiah"
+        ]
+      },
+      "sources": [
+        "Sefaria API v3 (https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.22.8): Torah in English by Rosenbaum and Silbermann (1929 to 1934, public domain) and Metsudah (2009, CC-BY); Prophets and Writings by the Judaica Press, trans. A. J. Rosenberg (CC-BY)"
+      ],
+      "traps": [
+        "The commentary on Chronicles printed under his name is widely held not to be his: not covered.",
+        "For Ezra and Nehemiah check Sefaria's notes on the attribution.",
+        "Hebrew is the primary evidence; name the English version quoted."
+      ]
+    },
+    "ibn-ezra": {
+      "name": "Ibn Ezra",
+      "dates": "1089 to 1167",
+      "work": "Commentaries on the Torah and the Prophets and Writings",
+      "lang": "Hebrew",
+      "coverage": {
+        "tanakh": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy",
+          "Isaiah",
+          "Hosea",
+          "Joel",
+          "Amos",
+          "Obadiah",
+          "Jonah",
+          "Micah",
+          "Nahum",
+          "Habakkuk",
+          "Zephaniah",
+          "Haggai",
+          "Zechariah",
+          "Malachi",
+          "Psalm",
+          "Job",
+          "Song of Songs",
+          "Ruth",
+          "Lamentations",
+          "Ecclesiastes",
+          "Esther",
+          "Daniel"
+        ]
+      },
+      "sources": [
+        "Sefaria API v3; the Torah English by Strickman and Silver is CC-BY-NC: evidence only, at most 40 words"
+      ],
+      "traps": [
+        "The Proverbs commentary under his name is disputed: not covered."
+      ]
+    },
+    "radak": {
+      "name": "Radak",
+      "dates": "David Kimhi, 1160 to 1235",
+      "work": "Commentaries on Genesis, the Prophets, Psalms and Chronicles",
+      "lang": "Hebrew",
+      "coverage": {
+        "tanakh": [
+          "Genesis",
+          "Joshua",
+          "Judges",
+          "1 Samuel",
+          "2 Samuel",
+          "1 Kings",
+          "2 Kings",
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Hosea",
+          "Joel",
+          "Amos",
+          "Obadiah",
+          "Jonah",
+          "Micah",
+          "Nahum",
+          "Habakkuk",
+          "Zephaniah",
+          "Haggai",
+          "Zechariah",
+          "Malachi",
+          "Psalm",
+          "1 Chronicles",
+          "2 Chronicles"
+        ]
+      },
+      "sources": [
+        "Sefaria API v3"
+      ],
+      "traps": []
+    },
+    "ramban": {
+      "name": "Ramban",
+      "dates": "Nahmanides, 1194 to 1270",
+      "work": "Commentary on the Torah",
+      "lang": "Hebrew",
+      "coverage": {
+        "tanakh": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy"
+        ]
+      },
+      "sources": [
+        "Sefaria API v3"
+      ],
+      "traps": []
+    },
+    "rashbam": {
+      "name": "Rashbam",
+      "dates": "about 1085 to 1158",
+      "work": "Commentary on the Torah",
+      "lang": "Hebrew",
+      "coverage": {
+        "tanakh": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy"
+        ]
+      },
+      "sources": [
+        "Sefaria API v3"
+      ],
+      "traps": [
+        "His commentary on the opening chapters of Genesis survives only in part."
+      ]
+    },
+    "sforno": {
+      "name": "Sforno",
+      "dates": "about 1475 to 1550",
+      "work": "Commentaries on the Torah and some Writings and Prophets",
+      "lang": "Hebrew",
+      "coverage": {
+        "tanakh": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy",
+          "Psalm",
+          "Job",
+          "Song of Songs",
+          "Ecclesiastes",
+          "Jonah",
+          "Habakkuk",
+          "Zechariah"
+        ]
+      },
+      "sources": [
+        "Sefaria API v3"
+      ],
+      "traps": []
+    },
+    "metzudat-david": {
+      "name": "Metzudat David",
+      "dates": "David Altschuler, eighteenth century",
+      "work": "Commentary on the Prophets and Writings",
+      "lang": "Hebrew",
+      "coverage": {
+        "tanakh": [
+          "Joshua",
+          "Judges",
+          "1 Samuel",
+          "2 Samuel",
+          "1 Kings",
+          "2 Kings",
+          "Isaiah",
+          "Jeremiah",
+          "Ezekiel",
+          "Hosea",
+          "Joel",
+          "Amos",
+          "Obadiah",
+          "Jonah",
+          "Micah",
+          "Nahum",
+          "Habakkuk",
+          "Zephaniah",
+          "Haggai",
+          "Zechariah",
+          "Malachi",
+          "Psalm",
+          "Proverbs",
+          "Job",
+          "Song of Songs",
+          "Ruth",
+          "Lamentations",
+          "Ecclesiastes",
+          "Esther",
+          "Daniel",
+          "Ezra",
+          "Nehemiah",
+          "1 Chronicles",
+          "2 Chronicles"
+        ]
+      },
+      "sources": [
+        "Sefaria API v3"
+      ],
+      "traps": []
+    },
+    "midrash": {
+      "name": "the Midrash",
+      "alsoName": "The Midrash",
+      "names": [
+        "Genesis Rabbah",
+        "Exodus Rabbah",
+        "Leviticus Rabbah",
+        "Numbers Rabbah",
+        "Deuteronomy Rabbah",
+        "Midrash Tehillim",
+        "Ruth Rabbah",
+        "Esther Rabbah",
+        "Lamentations Rabbah",
+        "Ecclesiastes Rabbah",
+        "Song of Songs Rabbah",
+        "the Mekhilta",
+        "Sifra",
+        "Sifre"
+      ],
+      "dates": "late antiquity to the Middle Ages",
+      "work": "the classical Midrash collections, named as a work",
+      "lang": "Hebrew and Aramaic",
+      "coverage": {
+        "tanakh": "all"
+      },
+      "sources": [
+        "Sefaria API v3"
+      ],
+      "traps": [
+        "Name the collection and its section (‘Genesis Rabbah 56’), never ‘the rabbis say’."
+      ],
+      "aliases": [
+        "Midrash Rabbah"
+      ]
+    },
+    "augustine": {
+      "name": "Augustine",
+      "dates": "354 to 430",
+      "work": "Expositions on the Psalms, Tractates on John, City of God, Confessions, sermons",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 1 (Schaff, 1886 to 1890), ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": [
+        "He numbers the Psalms as the Greek and Latin Bibles do: his Psalm 22 is the WEB's 23.",
+        "Reading the Latin, he may comment on wording the WEB lacks: choose another verse or say ‘reading the Latin’."
+      ]
+    },
+    "chrysostom": {
+      "name": "John Chrysostom",
+      "dates": "about 347 to 407",
+      "work": "Homilies on Genesis, Matthew, John, Acts and the Pauline letters",
+      "lang": "Greek",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 1 vols 9 to 14, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": [
+        "The Catena's ‘Pseudo-Chrys.’ is the Opus imperfectum, not Chrysostom."
+      ],
+      "aliases": [
+        "Chrysostom"
+      ]
+    },
+    "jerome": {
+      "name": "Jerome",
+      "dates": "about 347 to 420",
+      "work": "Commentaries and letters",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 6, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "gregory-great": {
+      "name": "Gregory the Great",
+      "dates": "about 540 to 604",
+      "work": "Moralia on Job; homilies on the Gospels and Ezekiel",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "Morals on the Book of Job (Oxford, 1844 to 1850), archive.org (public domain)"
+      ],
+      "traps": []
+    },
+    "basil": {
+      "name": "Basil of Caesarea",
+      "dates": "about 330 to 379",
+      "work": "Hexaemeron; homilies on the Psalms",
+      "lang": "Greek",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 8, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "ambrose": {
+      "name": "Ambrose",
+      "dates": "about 339 to 397",
+      "work": "On the Duties of the Clergy, letters, exegetical works",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 10, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": [
+        "Ambrosiaster is not Ambrose."
+      ]
+    },
+    "cyril-alexandria": {
+      "name": "Cyril of Alexandria",
+      "dates": "died 444",
+      "work": "Commentary on John; Commentary on Luke",
+      "lang": "Greek",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "Commentary on John (Pusey and Randell, 1874 to 1885) and on Luke (Payne Smith, 1859), ccel.org and archive.org (public domain)"
+      ],
+      "traps": []
+    },
+    "athanasius": {
+      "name": "Athanasius",
+      "dates": "about 296 to 373",
+      "work": "On the Incarnation, Against the Arians, letters",
+      "lang": "Greek",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 4, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "irenaeus": {
+      "name": "Irenaeus",
+      "dates": "about 130 to 202",
+      "work": "Against Heresies",
+      "lang": "Greek (surviving in Latin)",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "ANF vol. 1, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "ephrem": {
+      "name": "Ephrem the Syrian",
+      "dates": "about 306 to 373",
+      "work": "Hymns and commentaries",
+      "lang": "Syriac",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 13, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "leo-great": {
+      "name": "Leo the Great",
+      "dates": "died 461",
+      "work": "Sermons and letters",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 12, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "hilary": {
+      "name": "Hilary of Poitiers",
+      "dates": "about 310 to 367",
+      "work": "On the Trinity; homilies on the Psalms",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 9, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "gregory-nyssa": {
+      "name": "Gregory of Nyssa",
+      "dates": "about 335 to 395",
+      "work": "On the Making of Man; Life of Moses; homilies",
+      "lang": "Greek",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 5, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "gregory-nazianzus": {
+      "name": "Gregory of Nazianzus",
+      "dates": "about 329 to 390",
+      "work": "Orations",
+      "lang": "Greek",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "NPNF series 2 vol. 7, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "cyprian": {
+      "name": "Cyprian",
+      "dates": "died 258",
+      "work": "Treatises and letters",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "ANF vol. 5, ccel.org and newadvent.org/fathers (public domain)"
+      ],
+      "traps": []
+    },
+    "bede": {
+      "name": "Bede",
+      "dates": "about 673 to 735",
+      "work": "Commentaries on Mark, Luke and Acts; homilies",
+      "lang": "Latin",
+      "coverage": {
+        "bible": "all"
+      },
+      "sources": [
+        "as gathered in the Catena Aurea (Newman, 1841 to 1845), ccel.org (public domain)"
+      ],
+      "traps": []
+    },
+    "matthew-henry": {
+      "name": "the Protestant commentator Matthew Henry",
+      "alsoName": "The Protestant commentator Matthew Henry",
+      "dates": "1662 to 1714",
+      "work": "Exposition of the Old and New Testaments",
+      "lang": "English",
+      "coverage": {
+        "bible": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy",
+          "Joshua",
+          "Judges",
+          "Ruth",
+          "1 Samuel",
+          "2 Samuel",
+          "1 Kings",
+          "2 Kings",
+          "1 Chronicles",
+          "2 Chronicles",
+          "Ezra",
+          "Nehemiah",
+          "Esther",
+          "Job",
+          "Psalm",
+          "Proverbs",
+          "Ecclesiastes",
+          "Song of Songs",
+          "Isaiah",
+          "Jeremiah",
+          "Lamentations",
+          "Ezekiel",
+          "Daniel",
+          "Hosea",
+          "Joel",
+          "Amos",
+          "Obadiah",
+          "Jonah",
+          "Micah",
+          "Nahum",
+          "Habakkuk",
+          "Zephaniah",
+          "Haggai",
+          "Zechariah",
+          "Malachi",
+          "Matthew",
+          "Mark",
+          "Luke",
+          "John",
+          "Acts"
+        ]
+      },
+      "sources": [
+        "ccel.org mhc1 to mhc6 (public domain)"
+      ],
+      "traps": [
+        "A labelled fallback only: used where no Father on the day's chapters is found, at most one day in ten, and only Genesis to Acts (Romans to Revelation were finished by others)."
+      ]
+    }
+  },
+  "conduits": {
+    "legge-sbe39": {
+      "name": "Legge's notes",
+      "full": "James Legge, The Texts of Taoism, Sacred Books of the East 39 and 40 (1891)",
+      "licence": "public domain"
+    },
+    "giles-1889": {
+      "name": "Giles' notes",
+      "full": "Herbert A. Giles, Chuang Tzu: Mystic, Moralist, and Social Reformer (1889)",
+      "licence": "public domain"
+    },
+    "legge-cc1": {
+      "name": "Legge's notes",
+      "full": "James Legge, The Chinese Classics vol. 1 (2nd ed. 1893)",
+      "licence": "public domain"
+    },
+    "muller-sbe10": {
+      "name": "Müller's notes",
+      "full": "F. Max Müller, The Dhammapada, Sacred Books of the East 10 (1881)",
+      "licence": "public domain"
+    },
+    "telang-sbe8": {
+      "name": "Telang's translation",
+      "full": "K. T. Telang, The Bhagavadgita, Sacred Books of the East 8 (1882)",
+      "licence": "public domain",
+      "use": "the verification translation for every Gita key verse, never a commentator"
+    },
+    "muller-sbe1-15": {
+      "name": "Müller's notes",
+      "full": "F. Max Müller, The Upanishads, Sacred Books of the East 1 and 15 (1879, 1884)",
+      "licence": "public domain"
+    },
+    "wilson-rv": {
+      "name": "Wilson's translation",
+      "full": "H. H. Wilson, Rig-Veda-Sanhita (1850 to 1888)",
+      "licence": "public domain"
+    },
+    "griffith-notes": {
+      "name": "Griffith's notes",
+      "full": "Ralph T. H. Griffith, The Hymns of the Rigveda (1889 to 1892)",
+      "licence": "public domain"
+    },
+    "muller-rv": {
+      "name": "Müller's edition",
+      "full": "F. Max Müller, Rig-Veda-Sanhita with the commentary of Sayanacharya (1849 to 1874)",
+      "licence": "public domain"
+    },
+    "catena-aurea": {
+      "name": "the Catena Aurea",
+      "full": "Thomas Aquinas, Catena Aurea, trans. J. H. Newman and others (1841 to 1845)",
+      "licence": "public domain",
+      "use": "name the Father whose words it gathers, in the form ‘X, as given in the Catena Aurea’"
+    }
+  }
+}

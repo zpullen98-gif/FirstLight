@@ -1,0 +1,26 @@
+{
+ "tao-dry-d001-p": {
+  "d": 1,
+  "who": "wang-bi",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026"
+ },
+ "tao-dry-d008-p": {
+  "d": 8,
+  "who": "heshang-gong",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760"
+ },
+ "tao-dry-d031-p": {
+  "d": 31,
+  "who": "heshang-gong",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760"
+ }
+}

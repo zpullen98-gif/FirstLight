@@ -1,0 +1,47 @@
+{
+ "plan": "tao",
+ "batch": "tao-dry",
+ "div": "bb6ff32525",
+ "days": [
+  {
+   "d": 1,
+   "label": "Tao Te Ching 1",
+   "id": "tao-dry-d001-p",
+   "key": "(Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.",
+   "ref": "Tao Te Ching 1",
+   "at": [
+    0
+   ],
+   "s": "The chapter says that, nameless, the Tao is the Originator of heaven and earth, and named, the Mother of all things; Wang Bi, on chapter 1, reads it as saying that all that exists begins in non-being, and that the Tao, without form or name, first begins all things and then rears them as their mother.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 1, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 8,
+   "label": "Tao Te Ching 8",
+   "id": "tao-dry-d008-p",
+   "key": "The highest excellence is like (that of) water.",
+   "ref": "Tao Te Ching 8",
+   "at": [
+    7
+   ],
+   "s": "The chapter likens the highest excellence to water, which benefits all things and occupies the low place all men dislike; the Heshang Gong commentary, on chapter 8, takes it as a person whose nature is like water’s, and reads water’s not striving as going along with people, stopping when dammed and flowing when released.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 31,
+   "label": "Tao Te Ching 31",
+   "id": "tao-dry-d031-p",
+   "key": "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.",
+   "ref": "Tao Te Ching 31",
+   "at": [
+    30
+   ],
+   "s": "The chapter says one who has killed multitudes should weep for them, and the victor takes his place by mourning rites; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that his thin virtue could not transform people by the Tao, and those rites as marking that the gentleman despises arms and punishes only when unavoidable.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  }
+ ],
+ "holes": []
+}

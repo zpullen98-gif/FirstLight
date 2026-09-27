@@ -1,0 +1,8 @@
+{
+ "id": "tao-dry-d031-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 31 and the url (revision 2019760, 2021): in chapter 31 (偃武) the comment on 殺人之眾，以哀悲泣之 is exactly 傷己德薄，不能以道化人，而害無辜之民, which carries the paraphrase (grief that his own virtue was too slight to transform people by the Tao, so that the innocent were harmed) without drift. Wang Bi has no comment on chapter 31 (packet confirms), so the Heshang Gong commentary is the right name. Hard passage: the plain sense states the killing and the mourning rites plainly, neither softened nor sensationalised, and does not lean on Legge's '(rightly)'. verse.js ok (ref Tao Te Ching 31, at [30], one sentence, no dash); entry-check.js ok on scratch/refute-tao-dry-d031-p.json. Minor: the reading covers only the first half of the key verse; the commentary on 戰勝，以喪禮處之 adds the limit 明君子貴德而賤兵，不得以而誅不祥, which could be named but its absence does not falsify the entry.",
+ "better": "Optional enrichment: the same commentary on 戰勝，以喪禮處之 (古者戰勝，將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥) reads the victor’s mourning rites as showing that the gentleman prizes virtue, despises arms and punishes only when he cannot avoid it; this would carry the limit rule 6 asks for if the sentence has room."
+}

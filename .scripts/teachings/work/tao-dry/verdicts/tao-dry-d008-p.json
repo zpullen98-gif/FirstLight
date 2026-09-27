@@ -1,0 +1,48 @@
+{
+ "id": "tao-dry-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The highest excellence is like (that of) water.",
+ "ref": "Tao Te Ching 8",
+ "at": [
+  7
+ ],
+ "s": "The chapter likens the highest excellence to water, which benefits all things and takes the low place all men dislike; the Heshang Gong commentary, on chapter 8, takes the highest excellence as a person whose nature is like water’s, and reads what follows as water’s ways, giving all things life, stopping when dammed and flowing when released.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 8 (title 易性), commentary on 上善若水, 與善仁 and 夫唯不爭",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   },
+   {
+    "locator": "chapter 8, for comparison: Wang Bi comments only 人惡卑也, 道無水有 and 言人皆應於治道也",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "上善之人，如水之性。…萬物得水以生。…壅之則止，決之則流，聽從人也。",
+  "lang": "Classical Chinese",
+  "gloss": "The person of highest goodness is like water in nature. … All things receive water and so live. … Dam it and it stops, cut it a channel and it flows: it goes along with people.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 8, at [7]); the Heshang Gong commentary glosses 上善若水 as 上善之人，如水之性 and then reads each line of the chapter as a trait of water (水性), including 萬物得水以生 on 與善仁 and 壅之則止，決之則流 on 夫唯不爭. One change to the sentence: “as a person with water’s nature” became “as a person whose nature is like water’s”, because the commentary says 如水之性 (like the nature of water), a likeness and not an identity. Wang Bi’s comment on the chapter is slight, so the Heshang Gong choice is sound. Corrected entry passes entry-check."
+}

@@ -104,7 +104,7 @@ function applyLock(all, lock, refreeze) {
   return { next, differs };
 }
 
-function render(all) {
+function render(all, teach) {
   const lines = [];
   lines.push('/* First Light: the Readings, divided into days.');
   lines.push('');
@@ -131,7 +131,7 @@ function render(all) {
     lines.push('}' + (i < C.PLANS.length - 1 ? ',' : ''));
   });
   lines.push('},');
-  lines.push('"teach": {},');
+  lines.push('"teach": ' + JSON.stringify(teach || {}) + ',');
   lines.push('"courses": {}');
   lines.push('};');
   return lines.join('\n') + '\n';
@@ -196,16 +196,36 @@ function main() {
 
   let applied;
   try { applied = applyLock(all, readLock(), refreeze); } catch (e) { console.error('build-plans: ' + e.message); process.exit(1); }
-  const text = render(all);
+
+  /* The teachings: every set is gated first, and a set that fails stops the
+     whole build before anything is written. */
+  const { planTeachings } = require('./teach');
+  const { checkSet } = require('../check-teachings');
+  const tp = planTeachings(all, checkSet);
+  if (tp.errors.length) {
+    console.error('build-plans: nothing was written.\n  ' + tp.errors.join('\n  '));
+    process.exit(1);
+  }
+
+  const text = render(all, tp.teach);
   const lockText = JSON.stringify(applied.next, null, 1) + '\n';
   const prevOut = fs.existsSync(OUT) ? fs.readFileSync(OUT, 'utf8') : null;
   const prevLock = fs.existsSync(LOCK) ? fs.readFileSync(LOCK, 'utf8') : null;
   let wrote = [];
   if (refreeze && prevLock !== lockText) { fs.writeFileSync(LOCK, lockText, 'utf8'); wrote.push('divisions.json'); }
+  tp.files.forEach(f => {
+    const prev = fs.existsSync(f.path) ? fs.readFileSync(f.path, 'utf8') : null;
+    if (prev === f.text) return;
+    fs.mkdirSync(path.dirname(f.path), { recursive: true });
+    fs.writeFileSync(f.path, f.text, 'utf8');
+    wrote.push(path.relative(C.ROOT, f.path).replace(/\\/g, '/'));
+  });
+  tp.stale.forEach(p => { fs.unlinkSync(p); wrote.push('removed ' + path.relative(C.ROOT, p).replace(/\\/g, '/')); });
   if (prevOut !== text) { fs.writeFileSync(OUT, text, 'utf8'); wrote.push('js/data-plans.js'); }
   console.log(summary(all));
   if (applied.differs.length) console.log('\n  refrozen: ' + applied.differs.join('; '));
-  console.log('\n  ' + (wrote.length ? 'wrote ' + wrote.join(' and ') : 'unchanged: js/data-plans.js matches the lock and the texts') +
+  if (tp.report.length) console.log('\n  teachings: ' + tp.report.join('\n             '));
+  console.log('\n  ' + (wrote.length ? 'changed: ' + wrote.join(', ') : 'unchanged: js/data-plans.js matches the lock and the texts') +
     ' (' + (Buffer.byteLength(text) / 1024).toFixed(1) + ' KB)');
 }
 

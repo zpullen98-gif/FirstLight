@@ -185,6 +185,14 @@ cut only at natural boundaries, and later a daily course per tradition.
   `js/texts/courses/<tr>.js` are listed in `FL_PLANS.teach` / `FL_PLANS.courses`
   only when the gate has passed the whole set, and load through
   `FLTextLoad(work, part, ver)` under their own hash, never `FL_TEXT_V`.
+- **The teachings are written by `.scripts/teachings/`** (read its README first):
+  the authoring set `.scripts/plans/teachings/<plan>.json` is written only by
+  `land-batch.js`, gated by `.scripts/check-teachings.js` (the whole brief, against
+  the real texts), and emitted by `build-plans.js`: complete sets to
+  `js/texts/teachings/`, a set in progress to the git-ignored
+  `js/texts/teachings/_preview/`, read only with `?preview=teachings` in the address.
+  The closed roster is `.scripts/teachings/roster.json`; `config.js` derives
+  `TEACH_ROSTER` from it.
 - **Nothing of it reaches Today.** `ui-today.js` must not mention `FL_PLANS`,
   `planToday`, `hallById`, `readRender`, `POOLS` or `#/hall`; the gate fails if it
   does. Traditions are never ranked (the works in the Library's shelf order, the

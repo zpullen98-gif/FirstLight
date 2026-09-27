@@ -1,0 +1,112 @@
+{
+ "lane": "L1",
+ "plan": "tao",
+ "batch": "tao-dry",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "tao-dry-d001-p",
+    "key": "(Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.",
+    "ref": "Tao Te Ching 1",
+    "at": [0],
+    "s": "The chapter says that, nameless, the Tao is the Originator of heaven and earth, and named, the Mother of all things; Wang Bi, on chapter 1, reads it as saying that all that exists begins in non-being, and that the Tao, without form or name, first begins all things and then rears them as their mother.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 1, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物。",
+     "gloss": "All that exists begins in non-being. So at the time without form and without name, it is the beginning of all things; when there come to be form and name, it grows them, rears them, shapes them and matures them, being their mother. The Tao, without form and without name, begins and completes all things."
+    }
+   },
+   "standby": {
+    "id": "tao-dry-d001-s",
+    "key": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "ref": "Tao Te Ching 1",
+    "at": [0],
+    "s": "The chapter says the Tao that can be trodden is not the enduring and unchanging Tao; the Heshang Gong commentary, on chapter 1, takes the trodden Tao as the way of classical learning, government and instruction, and the enduring one as the way of natural growth, which nourishes the spirit through non-action and gives the people peace without meddling.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 1, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "謂經術政教之道也。…非自然生長之道也。常道當以無為養神，無事安民，含光藏暉，滅跡匿端，不可稱道。",
+     "gloss": "(On the Tao that can be told:) this means the way of classical learning, government and instruction. … (On the enduring Tao:) it is not the way of natural growth. The enduring Tao should nourish the spirit through non-action and give the people peace without meddling, keep its light within and hide its brilliance, efface its tracks and conceal its beginnings; it cannot be spoken of."
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "tao-dry-d008-p",
+    "key": "The highest excellence is like (that of) water.",
+    "ref": "Tao Te Ching 8",
+    "at": [7],
+    "s": "The chapter likens the highest excellence to water, which benefits all things and takes the low place all men dislike; the Heshang Gong commentary, on chapter 8, takes the highest excellence as a person with water’s nature, and reads what follows as water’s ways, giving all things life, stopping when dammed and flowing when released.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "上善之人，如水之性。…萬物得水以生。…壅之則止，決之則流，聽從人也。",
+     "gloss": "The person of highest goodness is like the nature of water. … All things receive water and so live. … Dam it and it stops, open a way for it and it flows: it follows people."
+    }
+   },
+   "standby": {
+    "id": "tao-dry-d008-s",
+    "key": "The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike. Hence (its way) is near to (that of) the Tao.",
+    "ref": "Tao Te Ching 8",
+    "at": [7],
+    "s": "The chapter says that water benefits all things and takes the low place all men dislike, and so is near to the Tao; Wang Bi, on chapter 8, takes that place as lowliness, which men dislike, and reads water as only near to the Tao, since the Tao is non-being and water has being.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 8, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "人惡卑也。…道無水有，故曰，幾也。",
+     "gloss": "Men dislike what is low. … The Tao is non-being, water has being; therefore the text says ‘near’."
+    }
+   }
+  },
+  {
+   "d": 31,
+   "primary": {
+    "id": "tao-dry-d031-p",
+    "key": "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.",
+    "ref": "Tao Te Ching 31",
+    "at": [30],
+    "s": "The chapter says that one who has killed multitudes should weep for them, and that the victor takes his place by the rites of mourning; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that his own virtue was too slight to transform people by the Tao, so that the innocent were harmed.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "傷己德薄，不能以道化人，而害無辜之民。",
+     "gloss": "He grieves that his own virtue was thin, that he could not transform people by the Tao, and so harmed innocent people."
+    }
+   },
+   "standby": {
+    "id": "tao-dry-d031-s",
+    "key": "Now arms, however beautiful, are instruments of evil omen, hateful, it may be said, to all creatures. Therefore they who have the Tao do not like to employ them.",
+    "ref": "Tao Te Ching 31",
+    "at": [30],
+    "s": "The chapter calls arms, however beautiful, instruments of evil omen that all creatures hate, which those who have the Tao do not like to employ; the Heshang Gong commentary, on chapter 31, reads weapons as tools that alarm the spirit and muddy the harmonious breath, doing harm whenever they move, so that all things hate them.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "兵者，驚精神，濁和氣，不善人之器也，不當修飾之。…兵動則有所害，故萬物無有不惡之者。",
+     "gloss": "Weapons alarm the vital spirit and muddy the harmonious breath; they are the tools of people who are not good, and should not be adorned. … When weapons move there is harm, so among all things there is none that does not hate them."
+    }
+   }
+  }
+ ]
+}

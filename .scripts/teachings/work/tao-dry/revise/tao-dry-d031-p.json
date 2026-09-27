@@ -1,0 +1,35 @@
+{
+ "id": "tao-dry-d031-p",
+ "d": 31,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.",
+ "ref": "Tao Te Ching 31",
+ "at": [30],
+ "s": "The chapter says one who has killed multitudes should weep for them, and the victor takes his place by mourning rites; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that his thin virtue could not transform people by the Tao, and those rites as marking that the gentleman despises arms and punishes only when unavoidable.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "locator": "chapter 31 (title 偃武), commentary on 殺人之眾，以哀悲泣之 and on 戰勝，以喪禮處之",
+    "via": "packet"
+   }
+  ],
+  "words": "傷己德薄，不能以道化人，而害無辜之民。 … 明君子貴德而賤兵，不得以而誅不祥，心不樂之",
+  "lang": "Classical Chinese",
+  "gloss": "He grieves that his own virtue was thin, that he could not transform people by the Tao, and so harmed innocent people. … It makes clear that the gentleman prizes virtue and despises arms, punishes the inauspicious only when he cannot avoid it, and takes no joy in it.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "The critic is right under rule 6: the key verse includes 戰勝，以喪禮處之, and the Heshang Gong comment on that very line sets the limit 明君子貴德而賤兵，不得以而誅不祥 (the gentleman despises arms and punishes only when unavoidable), which the entry dropped. Added it, rendering 誅 as punishes rather than the critic’s broader ‘arms are used’, and trimmed the plain sense (‘by mourning rites’) to fit 59 words. Both halves are carried verbatim by the evidence. verse.js ok (Tao Te Ching 31, at [30]); entry-check ok on scratch/revise-tao-dry-d031-p.json. Wang Bi has no comment on chapter 31, so the commentator stands."
+}
