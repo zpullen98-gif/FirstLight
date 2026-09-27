@@ -1,0 +1,46 @@
+{
+ "lane": "L9",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 9,
+   "primary": {
+    "id": "gita-01-d009-p",
+    "key": "He who offereth to Me with devotion a leaf, a flower, a fruit, water, that I accept from the striving self, offered as it is with devotion.",
+    "ref": "Bhagavad Gita 9.26",
+    "at": [
+     363
+    ],
+    "s": "Having set heavens won by ritual against his worshippers’ goal, Krishna turns to humble gifts; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 9.26, reads it as Krishna, wanting nothing and ever in bliss, still relishing such a gift as if newly given a delight beyond hope.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya 9.26, trans. A. Govindacharya (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "He Who is all-satisfied ... Though I, as such, am naturally in the enjoyment of supreme felicity, yet do ] enjoy the offering brought Me (in the manner aforesaid), as if 1 came (anew) in possession ... of a treat so rare as to be beyond the most distant expectations of a desiring heart",
+     "gloss": "He who wants for nothing ... Though by nature I am already in the enjoyment of the highest bliss, I still enjoy the offering brought to me in this way as if I had newly come into possession of a treat so rare that it lies beyond the furthest hopes of a longing heart."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d009-s",
+    "key": "The same am I to all beings; there is none hateful to Me nor dear. They verily who worship Me with devotion, they are in Me, and I also in them.",
+    "ref": "Bhagavad Gita 9.29",
+    "at": [
+     366
+    ],
+    "s": "Krishna, having bidden Arjuna make every act an offering, speaks of his bearing towards beings; Śaṅkara (Advaita), Gītā Bhāṣya 9.29, reads it by the likeness of fire, warming only those who draw near, so grace on the devoted implies no hatred of others.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya 9.29, trans. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "Then the Lord has love and hatred, since He bestows His grace on His devotees, not on others ... I am like .fire : just as fire does not ward off cold from those who are at a distance and wards it off from those who go near it, so I bestow My grace on My devotees, not on others. Those who worship Me, the Lord, with devotion are in Me, as a matter of course, but not owing to any attachment on My part. In them also I am, only as a matter of course, not in others. By this behaviour, I cannot (be said to) hate the latter.",
+     "gloss": "(The objection:) Then the Lord loves and hates, since he gives his grace to his devotees and not to others ... (The answer:) I am like fire: as fire does not keep off the cold from those who stand far from it but keeps it off from those who come near, so I give my grace to my devotees and not to others. Those who worship me with devotion are in me as a matter of course, not because of any attachment on my part, and I am in them, as a matter of course, and not in others. By acting so I cannot be said to hate those others."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The difficulty of those whose minds are set on the Unmanifested is greater; for the path of the Unmanifested is hard for the embodied to reach.",
+ "ref": "Bhagavad Gita 12.5",
+ "at": [473],
+ "s": "Krishna calls devotees fixed on him best in yoga, though worshippers of the Imperishable reach him too; Rāmānuja (Viśiṣṭādvaita), on 12.5, reads the Unmanifested as the individual soul, which those who love the body as the self think on only with great struggle.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, on 12.5, in A. Govindacharya’s translation (1898), archive.org gita-bhasya (OCR)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "on 12.5 (comment on 12.3 to 12.5, standing in the 12.5 segment); also read his proem and comment on 12.1", "via": "packet"}],
+  "words": "Avyakta-Path is the getting the mind to think of the subject relating to avyakta=Individual soul. This is attained with great struggle by the emodted 7. e., those who love the body as if it were the 4tma; for, so do those encased in bodies fancy.",
+  "lang": "en",
+  "gloss": "The path of the Unmanifest is bringing the mind to think on what concerns the unmanifest, that is, the individual soul. This is reached with great struggle by the embodied, that is, those who love the body as if it were the self; for so those encased in bodies imagine.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 12.5, at 473). Plain sense summarises 12.2 to 12.4 without repeating the key verse. Rāmānuja’s comment on 12.5 (and on 12.1, where he glosses aksharam-avyaktam as pratyagātmā, the individual soul) equates avyakta with the individual soul and says its path is attained with great struggle by those who love the body as if it were the ātmā; the sentence paraphrases this without drift. Evidence taken verbatim from the packet paragraph, OCR errors included. entry-check ok."
+}

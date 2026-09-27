@@ -1,0 +1,54 @@
+{
+ "id": "gita-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And he who serveth Me exclusively by the Yoga of devotion, he, crossing beyond the qualities, he is fit to become the Eternal.",
+ "ref": "Bhagavad Gita 14.26",
+ "at": [
+  548
+ ],
+ "s": "Krishna answers the last part of Arjuna’s question, how to cross the three qualities; Madhva (Dvaita), on 14.26, takes Brahman, the verse’s ‘Eternal’, as the intelligent Prakriti, so that fitness for it means being as beloved of the Lord as that Prakriti is.",
+ "by": "madhva",
+ "by2": "",
+ "hedge": "",
+ "src": "Madhva, Gītā Bhāṣya, on 14.26, in S. Subba Rau’s translation (1906), archive.org india.history.resource.91865",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/india.history.resource.91865",
+    "edition": "S. Subba Rau, The Bhagavad-Gita, translated with the commentary of Sri Madhwacharya (1906), archive.org india.history.resource.91865 (OCR)",
+    "locator": "chapter 14, the V. paragraph on 14.26",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/gita-bhasya",
+    "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898) (OCR)",
+    "locator": "Lecture XIV, 14.26",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/bhagavadgitwith00agoog",
+    "edition": "A. Mahadeva Sastri, Sankara’s commentary, 2nd ed. (1901) (OCR)",
+    "locator": "chapter 14, 14.26",
+    "via": "packet"
+   }
+  ],
+  "words": "The term Brahman here is used to denote the intelligent Prakriti … to be as beloved of the Lord as that Prakriti is",
+  "lang": "English (Subba Rau’s 1906 translation of the Sanskrit)",
+  "gloss": "In this verse the word Brahman denotes the intelligent Prakriti; to attain (become fit for) Brahman is to be as beloved of the Lord as that Prakriti is (Subba Rau adds the alternative: to enter and remain in that Prakriti until release).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds. Re-opened packet.js gita 14 --verse 14.26: Subba Rau’s Madhva has a V. paragraph (the packet’s source notes say V. paragraphs are the comment on the verse) saying Brahman here denotes the intelligent Prakriti and that to attain Brahman is to be as beloved of the Lord as that Prakriti is. The Madhva text renders the verse’s ‘Eternal’ (Besant) as Brahman, as do Sastri and Telang, so the sentence names Brahman and ties it to the verse’s word. The reading keeps only what the words carry (no identification of Prakriti with any deity is added; the alternative reading ‘to enter and remain in that Prakriti till Moksha’ is left out, not contradicted). Key verse and revised plain sense kept; by madhva, school (Dvaita) named, src names Subba Rau (1906). verse.js ok (14.26, at 548); entry-check ok after trimming to 44 words, no errors or warns."
+}

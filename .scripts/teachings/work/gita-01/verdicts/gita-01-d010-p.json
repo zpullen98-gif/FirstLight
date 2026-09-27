@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I, O Gudakesha, am the Self, seated in the heart of all beings; I am the beginning, the middle, and also the end of all beings.",
+ "ref": "Bhagavad Gita 10.20",
+ "at": [391],
+ "s": "Granting Arjuna’s plea for his glories, Krishna names this first, ahead of the chief of each kind; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 10.20, reads it as the Lord seated as soul in beings who form his body, and so their support, ruler and master.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya 10.20, A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 10.20", "via": "packet"}],
+  "words": "In the hearts of all beings, who constitute My body, I am seated as their Atma (Soul)—To be the Atma is indeed to be in every manner the Support, the Ruler and the Master.",
+  "lang": "en",
+  "gloss": "The Lord is seated as the soul in the hearts of all beings, who are his body; being their soul means being in every way their support, ruler and master.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 10.20 (verse.js ok, ref and at match). Plain sense faithful: Arjuna asks for the divine glories (10.16 to 10.18), Krishna agrees (10.19) and 10.20 comes first, before the list of the chief of each class from 10.21. Rāmānuja's own commentary on 10.20 in the Govindacharya packet says the beings constitute the Lord's body, he is seated in them as their Atma, and to be the Atma is to be their Support, Ruler and Master: the reading carries exactly this, with nothing from Besant's wording. School named; entry-check ok."
+}

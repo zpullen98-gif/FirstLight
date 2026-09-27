@@ -1,0 +1,31 @@
+{
+ "id": "gita-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "It is said that the senses are great; greater than the senses is the mind: greater than the mind is the Reason; but what is greater than the Reason, is He.",
+ "ref": "Bhagavad Gita 3.42",
+ "at": [160],
+ "s": "Having named desire as the foe that drives a man to sin, Krishna, near the chapter’s close, ranks the powers within; Śaṅkara (Advaita), on 3.42, reads the closing ‘He’ as the Self, the witness of reason, and Rāmānuja (Viśiṣṭādvaita), on 3.42, as desire, strongest and most overpowering of all.",
+ "by": "shankara",
+ "by2": "ramanuja",
+ "hedge": "",
+ "src": "Śaṅkara, Gītā Bhāṣya 3.42, tr. A. Mahadeva Sastri (1901); Rāmānuja, Gītā Bhāṣya 3.42, tr. A. Govindacharya (1898); both archive.org",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://archive.org/details/bhagavadgitwith00agoog", "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)", "locator": "commentary on 3.42", "via": "packet"},
+   {"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 3.42", "via": "packet"}
+  ],
+  "words": "He, the Self, the witness of reason, is superior to reason. … Supposing the senses and all, duddhi inclusive, were quiet and passive, desire or lust, which is craving, deeply rooted in the heart, and rajzas-born, will yet assert mastery … That which then is the most strong and overpowering, vis., kama … is denoted by the pronoun ‘sah.’",
+  "lang": "en",
+  "gloss": "[Śaṅkara, on 3.42:] He who is behind all, the dweller in the body, the Self, the witness of reason, is superior to reason. … [Rāmānuja, on 3.42:] Even if the senses, mind and intellect (buddhi) were all quiet, desire, rooted in the heart and born of rajas, would still assert mastery; that strongest, most overpowering thing, desire (kāma), is what the pronoun ‘sah’ (he) denotes.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 3.42 (verse.js ok, ref and at match). Plain sense faithful: 3.36 asks what drives a man to sin, 3.37 to 3.41 name desire as the foe and its seats, 3.42 ranks senses, mind, Reason and what is beyond; no four words of the verse repeated. Both readings opened in the day 3 packet on 3.42 (and checked against 3.40 and 3.43): Śaṅkara says the one beyond reason is the Self, the witness of reason (3.43: knowing the Self superior to reason); Rāmānuja's own commentary, not only Govindacharya's footnote, says the pronoun sah denotes desire (kāma), the strongest and most overpowering, and 3.43 continues 'knowing this lust which surpasses buddhi'. A genuine difference, named not resolved; schools named. Evidence trimmed of Govindacharya's parenthetical gloss on kama. Entry-check ok. OPERATOR NOTE: recheck-evidence.js will report NOT FOUND for the Śaṅkara piece, a tool defect not a missing text: its tag stripper /<[^>]+>/ deletes packet characters 7693 to 64136 of the day 3 haystack (from Śaṅkara's stray '<f Wherefore' to Rāmānuja's 'go to work. >'), which swallows all of Śaṅkara on chapter 3; squashed without the stripper, 'He, the Self, the witness of reason, is superior to reason.' is found in the packet exactly as packet.js prints it. The Rāmānuja pieces are found by machine. An accepting ruling in rulings.json (or a stripper fix) is needed for this entry to land."
+}

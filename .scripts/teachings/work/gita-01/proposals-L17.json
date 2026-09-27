@@ -1,0 +1,46 @@
+{
+ "lane": "L17",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 17,
+   "primary": {
+    "id": "gita-01-d017-p",
+    "key": "The faith of each is shaped to his own nature, O Bhârata. The man consists of his faith; that which his faith is, he is even that.",
+    "ref": "Bhagavad Gita 17.3",
+    "at": [
+     596
+    ],
+    "s": "Answering Arjuna’s question about worship in faith without the scriptures’ ordinances, Krishna begins to sort faith into three kinds; Madhva (Dvaita), on 17.3, reads faith as following the soul’s essential nature, so that pure faith marks the soul itself as pure.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Gītā Bhāṣya, on 17.3, tr. S. Subba Rau (1906), archive.org india.history.resource.91865",
+    "basis": {
+     "source": "madhva",
+     "words": "The purport of the reply is, If his Sraddha is Sitvika, the Jiva is to be understood as Satvika, and so on. ‘The first clause demonstrates this proposition. For Sraddha follows the essential nature of the Jiva.",
+     "gloss": "The answer means that if a man’s faith (śraddhā) is sāttvika, the soul (jīva) itself is to be understood as sāttvika, and likewise with the other two; the verse’s first clause proves this, because faith follows the soul’s own essential nature."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d017-s",
+    "key": "Speech causing no annoyance, truthful, pleasant and beneficial, the practice of the study of the Scriptures, are called the austerity of speech.",
+    "ref": "Bhagavad Gita 17.15",
+    "at": [
+     608
+    ],
+    "s": "Between the austerities of body and of mind, Krishna places one that belongs to the tongue; Śaṅkara, on 17.15, reads its marks as required together, so that speech lacking any one of them, even true speech, is not this austerity.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 17.15, tr. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "An invariable combination of all these attributes is here meant. … so, that speech which, though true, is wanting in one, two, or three of the other attributes cannot form the austerity of speech",
+     "gloss": "All these marks are meant to be present together without fail; so speech that is true but lacks one, two or three of the other marks does not make up the austerity of speech."
+    }
+   }
+  }
+ ]
+}

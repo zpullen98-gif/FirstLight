@@ -1,0 +1,48 @@
+{
+ "id": "gita-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Abandoning all duties come unto Me alone for shelter; sorrow not, I will liberate thee from all sins.",
+ "ref": "Bhagavad Gita 18.66",
+ "at": [
+  687
+ ],
+ "s": "Krishna, after promising his most secret word, gives Arjuna a last charge; Madhva (Dvaita), on 18.66, reads the abandoning as giving up the fruits of duty and any duty not done to please the Lord, since Krishna could not otherwise urge Arjuna to fight, and Śaṅkara (Advaita), on 18.66, as renouncing all works, unrighteous as well as righteous.",
+ "by": "madhva",
+ "by2": "shankara",
+ "hedge": "",
+ "src": "Madhva, Gītā Bhāṣya, on 18.66, tr. S. Subba Rau (1906); Śaṅkara, Gītā Bhāṣya, on 18.66, tr. A. Mahadeva Sastri, 2nd ed. (1901); both archive.org",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/india.history.resource.91865",
+    "edition": "S. Subba Rau, The Bhagavad-Gita, translated with the commentary of Sri Madhwacharya (1906), archive.org india.history.resource.91865 (OCR)",
+    "locator": "commentary on 18.66",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/bhagavadgitwith00agoog",
+    "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)",
+    "locator": "commentary on 18.66",
+    "via": "packet"
+   }
+  ],
+  "words": "In the light of the foregoing teaching and the conclusion of the work it would be inconsistent to say that all duties should be absolutely abandoned. In fact Sri Krishna could not then urge Arjuna to fight. So the expression means two things : (1) Having abandoned the fruits of the duties performed ; (2) having abandoned all the duties that are not meant for the delight of the Tord. … Righteous deeds (dharma) : including unrighteous deeds (a-dharma) also, since naishkarmya or freedom from all action is intended to be taught here. … So, the passage means \" renouncing dll works.\"",
+  "lang": "en",
+  "gloss": "[Madhva, on 18.66:] In the light of the whole teaching and the close of the work it would be inconsistent to say all duties are to be abandoned outright, for Krishna could not then urge Arjuna to fight; so the phrase means two things: abandoning the fruits of the duties performed, and abandoning every duty not meant for the delight of the Lord (“Tord” is the OCR’s). … [Śaṅkara, on 18.66:] “Righteous deeds” (dharma) takes in unrighteous deeds (adharma) too, because freedom from all action (naiṣkarmya) is what is taught here … so the passage means renouncing all works (“dll” is the OCR’s “all”).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 18.66 (verse.js ok; ref Bhagavad Gita 18.66 and at [687] match; agrees in sense with Telang). Plain sense faithful: 18.64 promises the supreme word, most secret of all, and 18.65 to 18.66 deliver it as the last instruction for Arjuna himself before the rules on handing the teaching on (18.67 onward); no four words of the key verse repeated. Opened packet.js gita 18 --verse 18.66 and read all three commentaries on it: Madhva (Subba Rau) says outright abandonment of all duties would contradict the teaching and Krishna could not then urge Arjuna to fight, so the phrase means abandoning the fruits of duties and the duties not meant for the delight of the Lord; Śaṅkara (Mahadeva Sastri) says dharma here includes adharma since naiṣkarmya is taught, so it means renouncing all works (the long appended discussion assigns this renunciation to the wise and Karma-Yoga to the ignorant, which the sentence does not contradict). The two genuinely differ and the sentence names the difference without resolving it; both schools named; 58 words, within the two-commentator limit; entry-check ok. OPERATOR NOTE: every evidence piece is verbatim in the packet as printed, but recheck-evidence.js squash strips /<[^>]+>/ and the day 18 packet text has a stray '<' in Śaṅkara on 18.9 ('<ttvic') whose next '>' is in Telang, a 252,115-character span that swallows Śaṅkara, Rāmānuja and Madhva on 18.66; it will report NOT FOUND until that squash strips only real tags, so this entry needs a rulings.json ruling or the squash fixed."
+}

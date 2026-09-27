@@ -1,0 +1,46 @@
+{
+ "lane": "L15",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 15,
+   "primary": {
+    "id": "gita-01-d015-p",
+    "key": "A portion of Mine own Self, transformed in the world of life into an immortal Spirit, draweth round itself the senses of which the mind is the sixth, veiled in matter.",
+    "ref": "Bhagavad Gita 15.7",
+    "at": [
+     556
+    ],
+    "s": "Having named his supreme abode, from which none return, Krishna turns to the embodied soul; Śaṅkara (Advaita), Gītā Bhāṣya 15.7, reads this portion as a portion only in imagination, like the sun reflected in water, which returns to the sun once the water is removed.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya 15.7, trans. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "He is like the sun reflected in water ; the reflected sun is but a portion of the real sun ; and on the removal of water the reflected sun returns to the original sun and remains as that very sun. … Our theory is not open to this objection ; for, it is only a portion limited by the up^dhi sjet. up by avidy^ ; it is a portion as it were, an imaginary portion.",
+     "gloss": "He [the individual soul] is like the sun reflected in water: the reflected sun is only a portion of the real sun, and when the water is removed the reflected sun returns to the original sun and remains that very sun. … [To the objection that the partless Supreme Self can have no portion:] our view is not open to this objection, for it is only a portion limited by the limiting adjunct (upādhi) set up by ignorance (avidyā): a portion as it were, an imaginary portion."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d015-s",
+    "key": "Since I excel the destructible, and am more excellent also than the indestructible, in the world and in the Veda I am proclaimed the Supreme Spirit.",
+    "ref": "Bhagavad Gita 15.18",
+    "at": [
+     567
+    ],
+    "s": "After setting the Supreme Self apart from the destructible and the indestructible, Krishna claims that place as his own; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 15.17 to 15.18, reads the two he surpasses as the souls still bound and the souls set free.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya 15.17 to 15.18, trans. A. Govindacharya (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "But there is a Supreme Soul (or Spirit) Who is different from both Kshara and Akshara, or Conditioned souls and Freed souls, respectively. That Spirit is declared as a distinct Postulate, as the Paramatma, in all the Srutis. The very epithet Param-atma (the Supreme or Exalted Soul) shows that the Supreme Spirit is a distinct Verity other than the bound and the freed souls. … Inasmuch as, for reasons stated aforesaid, | am beyone the Kshara-soul—described—and transcend also the Akshara-soul—the musta, described—thence), I am renowned as Purushottama—the Sublimest Purusha.",
+     "gloss": "[On 15.17:] There is a Supreme Soul who is different from both the Kshara and the Akshara, that is, from the conditioned souls and the freed souls respectively; he is declared in all the Śrutis as the Paramātman, and that very name shows the Supreme Spirit to be a reality distinct from the bound and the freed souls. … [On 15.18:] Since, for the reasons given, I am beyond the Kshara soul already described and transcend also the Akshara soul, the freed (mukta) soul, I am renowned as Purushottama, the highest Person."
+    }
+   }
+  }
+ ]
+}

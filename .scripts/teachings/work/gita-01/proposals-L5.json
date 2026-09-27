@@ -1,0 +1,46 @@
+{
+ "lane": "L5",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 5,
+   "primary": {
+    "id": "gita-01-d005-p",
+    "key": "Sages look equally on a Brâhmana adorned with learning and humility, a cow, an elephant, and even a dog and an outcaste.",
+    "ref": "Bhagavad Gita 5.18",
+    "at": [
+     221
+    ],
+    "s": "Krishna, having spoken of wisdom that destroys unwisdom, turns to how the wise regard beings of every rank; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 5.18, reads it as seeing every self as equal, alike in intelligence, with differences of form belonging to matter, not spirit.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya 5.18, trans. A. Govindacharya (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "The wise see that all atmas (in whatever bodies they may chance to dwell) are equal, viewed by the standard of the attribute of intelligence being shared by them all in common. … The varied appearances are due to (prakriti) matter; not to (atma) spirit.",
+     "gloss": "The wise see that all selves, in whatever bodies they happen to dwell, are equal, judged by the attribute of intelligence that they all share in common. … The differences in appearance come from matter (prakṛti), not from the self (ātman)."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d005-s",
+    "key": "He who is able to endure here on earth, ere he be liberated from the body, the force born from desire and passion, he is harmonised, he is a happy man.",
+    "ref": "Bhagavad Gita 5.23",
+    "at": [
+     226
+    ],
+    "s": "After calling contact-born delights wombs of pain, Krishna turns to what must be withstood; Śaṅkara, Gītā Bhāṣya 5.23, reads release from the body as death, named as the limit because desire and anger stir throughout life and are not to be trusted until death.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya 5.23, trans. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "Before liberation f}om the body : up to the point of death. By thus marking death as the limit, the Lord teaches that the impulse of desire and anger is unavoidable during life, since its causes are innumerable, and that till the very moment of death it should not be trusted.",
+     "gloss": "Before liberation from the body: up to the point of death. By setting death as the limit, the Lord teaches that the impulse of desire and anger cannot be avoided while life lasts, since its causes are countless, and that it is not to be trusted until the very moment of death."
+    }
+   }
+  }
+ ]
+}

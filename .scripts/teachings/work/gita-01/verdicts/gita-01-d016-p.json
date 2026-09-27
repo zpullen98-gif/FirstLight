@@ -1,0 +1,33 @@
+{
+ "id": "gita-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore let the Scriptures be thy authority, in determining what ought to be done, or what ought not to be done. Knowing what hath been declared by the ordinances of the Scriptures, thou oughtest to work in this world.",
+ "ref": "Bhagavad Gita 16.24",
+ "at": [593],
+ "s": "Closing the chapter on two natures, Krishna turns from those who follow desire to a charge for Arjuna; Rāmānuja (Viśiṣṭādvaita), on 16.24, reads the scriptures as teaching the truth of the Supreme Person and enjoining works that please him and lead to him.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, on 16.24, tr. A. Govindacharya (1898), archive.org gita-bhasya",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya's Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "Lecture XVI, commentary on 16.24", "via": "packet"},
+   {"url": "https://archive.org/details/bhagavadgitwith00agoog", "edition": "A. Mahadeva Sastri, Sankara's commentary, 2nd ed. (1901)", "locator": "chapter 16, 16.23 to 16.24", "via": "packet"},
+   {"url": "https://archive.org/details/india.history.resource.91865", "edition": "S. Subba Rau, Madhva's commentary (1906)", "locator": "chapter 16, 16.23 to 16.24", "via": "packet"},
+   {"url": "https://archive.org/details/bhagavadgtwi00tela", "edition": "K. T. Telang, SBE 8 (1882)", "locator": "16.24", "via": "packet"}
+  ],
+  "words": "What Sdstra-canons teach and enjoin are what the Vedas and their exegetic Codes, véz, Dharma-Sastra (= Moral social Institutes) Itihdsas and Puranas (=legendary lore of men and Gods) etc, éeach as regards (1) the Highest Truth of Purushottama, and enjoin (2) works or services which are pleasing to Him, and constituting Means to reaching Him.",
+  "lang": "English (Govindacharya's 1898 translation of the Sanskrit)",
+  "gloss": "What the canons of the Śāstra teach and enjoin is what the Vedas and their explanatory codes (Dharma-Śāstra, Itihāsas, Purāṇas) teach about the highest truth of Purushottama, the Supreme Person, and the works pleasing to him that are the means of reaching him.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 16.24, at 593). Rāmānuja's own commentary on 16.24 in the packet (Govindacharya 1898) says the Śāstra teaches the Highest Truth of Purushottama and enjoins works pleasing to him and means to reaching him; the sentence paraphrases exactly this without drift. Plain sense matches day.js (16.23 on those who follow desire, 16.24 the charge closing the chapter on divine and demoniacal natures). School named, entry-check ok."
+}

@@ -1,0 +1,46 @@
+{
+ "lane": "L18",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 18,
+   "primary": {
+    "id": "gita-01-d018-p",
+    "key": "Abandoning all duties come unto Me alone for shelter; sorrow not, I will liberate thee from all sins.",
+    "ref": "Bhagavad Gita 18.66",
+    "at": [
+     687
+    ],
+    "s": "Krishna, after promising his most secret word, gives Arjuna a last charge; Madhva (Dvaita), on 18.66, reads the abandoning as giving up the fruits of duty and any duty not done to please the Lord, since Krishna could not otherwise urge Arjuna to fight, and Śaṅkara (Advaita), on 18.66, as renouncing all works, unrighteous as well as righteous.",
+    "by": "madhva",
+    "by2": "shankara",
+    "hedge": "",
+    "src": "Madhva, Gītā Bhāṣya, on 18.66, tr. S. Subba Rau (1906); Śaṅkara, Gītā Bhāṣya, on 18.66, tr. A. Mahadeva Sastri, 2nd ed. (1901); both archive.org",
+    "basis": {
+     "source": "madhva; shankara",
+     "words": "In the light of the foregoing teaching and the conclusion of the work it would be inconsistent to say that all duties should be absolutely abandoned. In fact Sri Krishna could not then urge Arjuna to fight. So the expression means two things : (1) Having abandoned the fruits of the duties performed ; (2) having abandoned all the duties that are not meant for the delight of the Tord. … Righteous deeds (dharma) : including unrighteous deeds (a-dharma) also, since naishkarmya or freedom from all action is intended to be taught here. … So, the passage means “ renouncing dll works.”",
+     "gloss": "Madhva (Subba Rau, on 18.66): in the light of the whole teaching and the close of the work it would be inconsistent to say that all duties are to be abandoned outright, for then Krishna could not urge Arjuna to fight; so the phrase means two things, abandoning the fruits of the duties performed, and abandoning every duty not meant for the delight of the Lord (“Tord” is the OCR’s). Śaṅkara (Mahadeva Sastri, on 18.66): “all duties” (dharma) includes unrighteous deeds (adharma) as well, because freedom from all action (naiṣkarmya) is what is being taught here; so the passage means renouncing all works (“dll” is the OCR’s “all”). Operator note: every piece is verbatim in packet.js for day 18, but recheck-evidence.js’s squash strips /<[^>]+>/ and the day’s packet text has a stray “<” in Śaṅkara’s 18.9 (“S§<ttvic”) and the next “>” in Telang’s 18.13 (“O >ou”), 252,115 characters apart, so it will report NOT FOUND for any day 18 words between them until the squash strips only real tags."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d018-s",
+    "key": "Verily renunciation of actions that are prescribed is not proper; the relinquishment thereof from delusion is said to be of darkness.",
+    "ref": "Bhagavad Gita 18.7",
+    "at": [
+     628
+    ],
+    "s": "Krishna, having ruled that sacrifice, gift and austerity must still be done, sorts relinquishing into three kinds; Śaṅkara, on 18.7, reads it as self-contradiction, to hold a duty binding and then drop it, and so as born of ignorance, which is darkness (tamas).",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 18.7, tr. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "Therefore for a seeker of liberation who is ignorant and is (therefore) bound to perform works, … Not proper : since it is admitted to be a purifier in the case of an ignorant man. To hold that a duty is obligatory and then to abandon it involves a self-contradiction. Therefore, this sort of abandonment is due to ignorance and is said to be Tamasic, inasmuch as ignorance is Tamas.",
+     "gloss": "For a seeker of liberation who is still ignorant and so bound to perform works: abandoning a prescribed duty is not proper, since duty is admitted to purify the ignorant man; to hold that a duty is obligatory and then to abandon it is a self-contradiction; so this abandoning comes from ignorance and is called tamasic, because ignorance is tamas (darkness)."
+    }
+   }
+  }
+ ]
+}

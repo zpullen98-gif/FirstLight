@@ -1,0 +1,60 @@
+{
+ "id": "gita-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he who serveth Me exclusively by the Yoga of devotion, he, crossing beyond the qualities, he is fit to become the Eternal.",
+ "ref": "Bhagavad Gita 14.26",
+ "at": [
+  548
+ ],
+ "s": "Krishna, having described the one beyond the three qualities, answers Arjuna’s last question, how to cross them; Rāmānuja (Viśiṣṭādvaita), on 14.26, reads loving devotion as the chief means, since mere reflection on how soul differs from matter can give way to the mind’s old habits.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, on 14.26, in A. Govindacharya’s translation (1898), archive.org gita-bhasya",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/gita-bhasya",
+    "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)",
+    "locator": "Lecture XIV, commentary on 14.26 (read with 14.19 to 14.27)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/bhagavadgitwith00agoog",
+    "edition": "A. Mahadeva Sastri, Sankara’s commentary, 2nd ed. (1901)",
+    "locator": "chapter 14, 14.26",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/india.history.resource.91865",
+    "edition": "S. Subba Rau, Madhva’s commentary (1906)",
+    "locator": "chapter 14, 14.26",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/bhagavadgtwi00tela",
+    "edition": "K. T. Telang, SBE 8 (1882)",
+    "locator": "14.26",
+    "via": "packet"
+   }
+  ],
+  "words": "The chief Means by which to surmount the aforesaid qualities, is now stated … Not by mere reflection over the matter-soul distinction … can qualities be crossed ; for reflection is ever liable to be violated by habits inimical to it which the mind has contracted in the lung past … incessant and all-absorbing lovedevotion to Me. The votary of Bhakti will surmount the otherwise insurmountable qualities",
+  "lang": "English (Govindacharya’s 1898 translation of the Sanskrit)",
+  "gloss": "The chief means of surmounting the qualities is now stated: not by mere reflection on the distinction of matter and soul can the qualities be crossed, since reflection is always liable to be broken by contrary habits the mind has formed in the long past (OCR “lung”); bhakti yoga is incessant, all-absorbing loving devotion to the Lord, and its votary surmounts the otherwise insurmountable qualities.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 14.26, at 548). Rāmānuja’s commentary on 14.26 in the packet (Govindacharya 1898) states devotion as the chief means of surmounting the qualities, because mere reflection on the matter-soul distinction is liable to be violated by the mind’s long-contracted contrary habits; his 14.27 comment repeats that by Bhaktiyoga the qualities are surmounted. The sentence paraphrases this without drift. Plain sense matches day.js: 14.21 asks the marks, conduct and how he goes beyond; 14.22 to 14.25 describe him; 14.26 answers the how. School named; entry-check ok."
+}

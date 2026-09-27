@@ -1,0 +1,48 @@
+{
+ "id": "gita-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Abandoning all duties come unto Me alone for shelter; sorrow not, I will liberate thee from all sins.",
+ "ref": "Bhagavad Gita 18.66",
+ "at": [
+  687
+ ],
+ "s": "Krishna, after promising Arjuna his supreme word, most secret of all, speaks it; Madhva (Dvaita), on 18.66, reads the abandoning as giving up the fruits of duty and any duty not done to please the Lord, since Krishna could not otherwise urge Arjuna to fight, and Śaṅkara (Advaita), on 18.66, as renouncing all works, unrighteous as well as righteous.",
+ "by": "madhva",
+ "by2": "shankara",
+ "hedge": "",
+ "src": "Madhva, Gītā Bhāṣya, on 18.66, tr. S. Subba Rau (1906); Śaṅkara, Gītā Bhāṣya, on 18.66, tr. A. Mahadeva Sastri, 2nd ed. (1901); both archive.org",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/india.history.resource.91865",
+    "edition": "S. Subba Rau, The Bhagavad-Gita, translated with the commentary of Sri Madhwacharya (1906), archive.org india.history.resource.91865 (OCR)",
+    "locator": "commentary on 18.66",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/bhagavadgitwith00agoog",
+    "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)",
+    "locator": "commentary on 18.66",
+    "via": "packet"
+   }
+  ],
+  "words": "In the light of the foregoing teaching and the conclusion of the work it would be inconsistent to say that all duties should be absolutely abandoned. In fact Sri Krishna could not then urge Arjuna to fight. So the expression means two things : (1) Having abandoned the fruits of the duties performed ; (2) having abandoned all the duties that are not meant for the delight of the Tord. … Righteous deeds (dharma) : including unrighteous deeds (a-dharma) also, since naishkarmya or freedom from all action is intended to be taught here. … So, the passage means \" renouncing dll works.\"",
+  "lang": "en",
+  "gloss": "[Madhva, on 18.66:] In the light of the whole teaching and the close of the work it would be inconsistent to say all duties are to be abandoned outright, for Krishna could not then urge Arjuna to fight; so the phrase means two things: abandoning the fruits of the duties performed, and abandoning every duty not meant for the delight of the Lord (“Tord” is the OCR’s). … [Śaṅkara, on 18.66:] “Righteous deeds” (dharma) takes in unrighteous deeds (adharma) too, because freedom from all action (naiṣkarmya) is what is taught here … so the passage means renouncing all works (“dll” is the OCR’s “all”).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement, siding with the refuter on the plain sense only. Changed the plain sense from “gives Arjuna a last charge” to “after promising Arjuna his supreme word, most secret of all, speaks it”: day.js shows 18.67 lays a further charge on Arjuna (never to speak this to one without asceticism or devotion), so 18.66 is not his last charge, while 18.64 names the supreme word, most secret of all, in the passage’s own terms. Everything else stands as in the earlier verdict: verse.js ok (Bhagavad Gita 18.66, at [687], 18 words); re-opened packet.js gita 18 --verse 18.66 and found verbatim Madhva (Subba Rau, V. paragraph) saying outright abandonment of all duties would be inconsistent with the teaching and Krishna could not then urge Arjuna to fight, so it means abandoning the fruits of duties and the duties not meant for the delight of the Lord; and Śaṅkara (Mahadeva Sastri) saying dharma includes adharma since naishkarmya is taught, so the passage means renouncing all works. Both schools named, difference not resolved; entry-check ok with no errors or warnings. OPERATOR NOTE carried over: recheck-evidence.js squash strips /<[^>]+>/ and a stray < in Śaṅkara on 18.9 swallows the 18.66 text, so the evidence may report NOT FOUND until the squash or a ruling fixes it; the words are verbatim in the packet as printed."
+}

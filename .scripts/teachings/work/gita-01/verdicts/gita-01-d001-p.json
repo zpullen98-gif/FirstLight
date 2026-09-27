@@ -1,0 +1,42 @@
+{
+ "id": "gita-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Having thus spoken on the battle-field, Arjuna sank down on the seat of the chariot, casting away his bow and arrow, his mind overborne by grief.",
+ "ref": "Bhagavad Gita 1.47",
+ "at": [
+  46
+ ],
+ "s": "Closing the chapter, Sanjaya reports how Arjuna ends his plea against slaying his kinsmen; Rāmānuja (Viśiṣṭādvaita), on 1.47, reads his collapse as moved by affection for kin, pity and fear that right would suffer, though the other side had often plotted his death.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, on 1.47, archive.org gita-bhasya (A. Govindacharya’s translation, 1898)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/gita-bhasya",
+    "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)",
+    "locator": "commentary following 1.47, closing Lecture I",
+    "via": "packet"
+   }
+  ],
+  "words": "albeit often subjected by thee, along with his brothers, to horrid acts of treachery, with intent to kill—such as for instance, the burning them up in a lac-made house® &c.,—albeit thy knowing that, by him (Partha), the destruction of all thy people is certain,—by the fact that e has the help of Parama-purusha* Himself present with him—(yet, Partha) looked on them all with feelings of friendship for kinsmen, and overcome by pity, and by fear lest right (or righteousness) may suffer, he shrank within himself and said",
+  "lang": "en",
+  "gloss": "Though Arjuna, with his brothers, had often suffered at the hands of Dhritarāshtra’s party horrid treachery meant to kill them, such as the burning of the lac house, and though his party’s victory was certain with the Supreme Person beside him, he looked on them all with a kinsman’s affection, and, overcome by pity and by fear lest righteousness suffer, shrank within himself and said he would not fight.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 1.47 (verse.js ok, ref and at match; Mahadeva Sastri’s and Subba Rau’s translations of 1.47 in the packet agree in sense, and Subba Rau and Govindacharya both mark the speaker as Sanjaya). Plain sense faithful: 1.47 is Sanjaya’s closing narration after Arjuna’s plea (1.28 to 1.46) against killing his kin; no four words of the verse repeated. Opened the day 1 packet and read Rāmānuja (Govindacharya) across the whole chapter: his only substantive comment is the paragraph after 1.47, which gives the motives exactly as the sentence has them (friendship for kinsmen, pity, fear lest right suffer) and the concession that the other side had often attempted to kill Arjuna and his brothers. Śaṅkara does not comment on chapter 1 and Madhva gives only notes, so Rāmānuja is the right choice. School named; entry-check ok."
+}

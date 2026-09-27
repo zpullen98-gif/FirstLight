@@ -1,0 +1,31 @@
+{
+ "id": "gita-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The difficulty of those whose minds are set on the Unmanifested is greater; for the path of the Unmanifested is hard for the embodied to reach.",
+ "ref": "Bhagavad Gita 12.5",
+ "at": [473],
+ "s": "Krishna calls devotees fixed on him best in yoga, though worshippers of the Imperishable reach him too; Śaṅkara (Advaita), on 12.5, reads the Unmanifested as the Imperishable Supreme Reality, hard to reach because attachment to the body must be abandoned, and Rāmānuja (Viśiṣṭādvaita), on 12.5, as the individual soul, reached only with great struggle.",
+ "by": "shankara",
+ "by2": "ramanuja",
+ "hedge": "",
+ "src": "Śaṅkara, Gītā Bhāṣya, on 12.5, tr. A. Mahadeva Sastri (1901); Rāmānuja, Gītā Bhāṣya, on 12.5, tr. A. Govindacharya (1898); archive.org (OCR)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://archive.org/details/bhagavadgitwith00agoog", "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)", "locator": "chapter 12, commentary on 12.5 (with its footnote)", "via": "packet"},
+   {"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "on 12.5 (comment on 12.3 to 12.5, standing in the 12.5 segment)", "via": "packet"}
+  ],
+  "words": "greater still is the trouble of those who identify themselves with the Imperishable and contemplate the Supreme Reality … The Goal, the Imperishable, is very hard for the embodied to reach, for those who are attached to their bodies … Because of the necessity there is for abandoning attachment to the body … Avyakta-Path is the getting the mind to think of the subject relating to avyakta=Individual soul. This is attained with great struggle by the emodted",
+  "lang": "en",
+  "gloss": "Śaṅkara: greater still is the trouble of those who identify themselves with the Imperishable and contemplate the Supreme Reality; the goal, the Imperishable, is very hard for the embodied, those attached to their bodies, to reach, because attachment to the body must be abandoned. Rāmānuja: the path of the Unmanifest is bringing the mind to think on what concerns the unmanifest, that is, the individual soul; this is reached with great struggle by the embodied (OCR “emodted”).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds. packet.js gita 12 --verse 12.5 shows the schools genuinely differ on the key verse: Śaṅkara (Mahadeva Sastri 1901) takes those set on the Unmanifest as those who identify with the Imperishable and contemplate the Supreme Reality, their trouble greater because attachment to the body must be abandoned; Rāmānuja (Govindacharya 1898) glosses avyakta as the individual soul, attained with great struggle. Both are now named, school given, difference stated without resolving it; by shankara, by2 ramanuja; src names both editions. Plain sense, key, ref and at unchanged; Rāmānuja’s reading kept, trimmed to fit the 60-word cap. Evidence pieces verbatim from the packet (Śaṅkara’s dash and hyphen break avoided by splitting; OCR “emodted” kept). verse.js ok (12.5, at 473); entry-check ok, no errors or warns."
+}

@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The faith of each is shaped to his own nature, O Bhârata. The man consists of his faith; that which his faith is, he is even that.",
+ "ref": "Bhagavad Gita 17.3",
+ "at": [596],
+ "s": "Answering Arjuna’s question about worship in faith without the scriptures’ ordinances, Krishna begins to sort faith into three kinds; Madhva (Dvaita), on 17.3, reads faith as following the soul’s essential nature, so that pure faith marks the soul itself as pure.",
+ "by": "madhva",
+ "by2": "",
+ "hedge": "",
+ "src": "Madhva, Gītā Bhāṣya, on 17.3, tr. S. Subba Rau (1906), archive.org india.history.resource.91865",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/india.history.resource.91865", "edition": "S. Subba Rau, The Bhagavad-Gita, translated with the commentary of Sri Madhwacharya (1906), archive.org india.history.resource.91865 (OCR)", "locator": "commentary on 17.3", "via": "packet"}],
+  "words": "The purport of the reply is, If his Sraddha is Sitvika, the Jiva is to be understood as Satvika, and so on. ‘The first clause demonstrates this proposition. For Sraddha follows the essential nature of the Jiva.",
+  "lang": "en",
+  "gloss": "The answer means that if a man’s faith (śraddhā) is sāttvika, the soul (jīva) itself is to be understood as sāttvika, and so with the other two; the verse’s first clause proves this, because faith follows the soul’s own essential nature.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 17.3 (verse.js ok, ref and at match; agrees in sense with Telang). Plain sense faithful: 17.1 has Arjuna ask about those who sacrifice with faith but set aside the scriptures’ ordinances, 17.2 begins the threefold division of faith; no four words of the key verse repeated. Opened Madhva (Subba Rau) in the day 17 packet on 17.1 to 17.4: on 17.3 he says faith follows the essential nature of the jiva, so sattvika faith means the jiva is to be understood as sattvika; 17.2 and 17.4 confirm the souls are classed by their faith as an essential attribute. ‘Pure’ is Besant’s own word for sattva in 17.2, so the sentence adds nothing beyond his words. School named; entry-check ok."
+}

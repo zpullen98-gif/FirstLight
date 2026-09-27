@@ -1,0 +1,46 @@
+{
+ "lane": "L16",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 16,
+   "primary": {
+    "id": "gita-01-d016-p",
+    "key": "Therefore let the Scriptures be thy authority, in determining what ought to be done, or what ought not to be done. Knowing what hath been declared by the ordinances of the Scriptures, thou oughtest to work in this world.",
+    "ref": "Bhagavad Gita 16.24",
+    "at": [
+     593
+    ],
+    "s": "Closing the chapter on two natures, Krishna turns from those who follow desire to a charge for Arjuna; Rāmānuja (Viśiṣṭādvaita), on 16.24, reads the scriptures as teaching the truth of the Supreme Person and enjoining works that please him and lead to him.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, on 16.24, tr. A. Govindacharya (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "What Sdstra-canons teach and enjoin are what the Vedas and their exegetic Codes, véz, Dharma-Sastra (= Moral social Institutes) Itihdsas and Puranas (=legendary lore of men and Gods) etc, éeach as regards (1) the Highest Truth of Purushottama, and enjoin (2) works or services which are pleasing to Him, and constituting Means to reaching Him.",
+     "gloss": "What the canons of the Śāstra teach and enjoin is what the Vedas and their explanatory codes (the Dharma-Śāstra, the Itihāsas and the Purāṇas) teach about, first, the highest truth of Purushottama (the Supreme Person), and enjoin as, second, the works or services that please him and are the means of reaching him."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d016-s",
+    "key": "A man liberated from these three gates of darkness, O son of Kunti, accomplisheth his own welfare, and thus reacheth the highest goal.",
+    "ref": "Bhagavad Gita 16.22",
+    "at": [
+     591
+    ],
+    "s": "Having named lust, wrath and greed the triple gate to hell, Krishna turns to one freed from them; Śaṅkara, on 16.22, reads the freed man as now acting for his own good, since what hindered him is gone, and so even attaining liberation.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 16.22, tr. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "Gates to darkness : leading to hell (naraka) which is full of pain and delusion. He who is released from lust, wrath and greed will act for the good of the self, because of the absence of that by which obstructed he has not heitherto so acted. By so doing he even attains moksha.",
+     "gloss": "The gates to darkness lead to hell, which is full of pain and delusion. One released from lust, wrath and greed will act for his own good, because what obstructed him and kept him from so acting until now is absent; by so acting he even attains liberation (moksha)."
+    }
+   }
+  }
+ ]
+}

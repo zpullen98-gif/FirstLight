@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d014-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/india.history.resource.91865", "found": true},
+ "attacks": [],
+ "reason": "Re-ran packet.js gita 14 --verse 14.26 and read the cached Subba Rau djvu text (lines 14193 to 14210): the V. paragraph on (26.) reads 'The term Brahman here is used to denote the intelligent Prakriti, To attain...Brahman; to be as beloved of the Lord as that Prakriti is (or to enter and remain) in that Prakriti till Moksha'. The book is headed 'Sri Madhwa's Commentaries (in English)'; the V. glosses match Madhva's bhashya style elsewhere (14.3 'Yoni, Bharya, wife'), and the A. lead-in to 14.26 ('How does he overcome the Gunas') confirms the plain sense's framing of 14.21's third question, which day.js prints. verse.js ok (14.26, at 548); entry-check ok, no errors or warns. School Dvaita named; src 111 characters, no dash; no comparison; tone neutral. Residual, not fatal: Madhva gives an alternative gloss (to enter and remain in that Prakriti till Moksha, echoed in the verse translation's own parenthesis, so probably Madhva's and not Subba Rau's as the evidence gloss says); the sentence gives the first gloss only, with 'takes ... as', not as the sole meaning.",
+ "better": "Evidence gloss should not credit the alternative ('to enter and remain in that Prakriti till Moksha') to Subba Rau: it stands inside the V. paragraph and in the translation of the verse itself, so it is Madhva's second gloss."
+}

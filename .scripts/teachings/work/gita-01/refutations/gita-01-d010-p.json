@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d010-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/gita-bhasya", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js gita 10 --verse 10.20 (and 10.19, 10.21 for context): Rāmānuja's commentary on 10.20 in Govindacharya (1898) reads verbatim 'In the hearts of all beings, who constitute My body, I am seated as their Atma (Soul)—To be the Atma is indeed to be in every manner the Support, the Ruler and the Master.' The paraphrase (seated as soul in beings who form his body, and so their support, ruler and master) is carried entirely by those words and matches his characteristic body-soul doctrine, not Besant's wording. The comment stands at 10.20 (not grouped with a later verse), so the locator holds. Plain sense checked against day.js: Arjuna asks for the glories at 10.16 to 10.18, Krishna agrees at 10.19 promising the chief ones, 10.20 comes first and 10.21 onward lists the chief of each kind; no key-verse words repeated. School named; no comparison; not a hard passage. verse.js ok (ref Bhagavad Gita 10.20, at [391]); entry-check.js ok with no errors or warnings; key agrees with Telang's sense.",
+ "better": ""
+}

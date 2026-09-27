@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d004-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/download/bhagavadgitwith00agoog/bhagavadgitwith00agoog_djvu.txt", "found": true},
+ "attacks": [],
+ "reason": "Re-opened both the packet (packet.js gita 4 --verse 4.37) and the archive.org OCR text of Sastri 1901 itself: the evidence words stand verbatim in the commentary on 4.37 (printed p. 135, running head 'JNANA-YOGA'), directly under the verse 37 translation. Every clause of the reading is carried: 'renders all actions impotent' gives making actions powerless; 'cannot indeed literally reduce actions to ashes' gives not literally burning them; 'the actions by which this body has been brought into existence will come to an end only when their effects will have been fully worked out' gives those that brought this body into being must still run their course. Nothing is added. Verse: verse.js ok, exact, ref Bhagavad Gita 4.37 at [198], a text unit not apparatus, and the right verse for this reading; Besant's wording agrees with Sastri's and Telang's in substance and nothing is built on a Theosophical word. Plain sense: 4.36 (Besant) is the raft of wisdom crossing all sin and 4.37 follows with the fire image, so 'a second image' after the raft is accurate, and it repeats no four-word run of the key. Attribution is Śaṅkara's own gloss, not the translator's or another's. Locator right. One commentator, so no school needed under the rules. No comparison, no tone problem, not a hard passage. entry-check.js ok with no errors or warnings.",
+ "better": "Locator could be tightened in src if room: Sastri 1901, p. 135 (commentary on 4.37)."
+}

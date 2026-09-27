@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d002-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/bhagavadgitwith00agoog; https://archive.org/details/gita-bhasya (both via packet.js gita 2 --verse 2.12)", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js gita 2 --verse 2.12. Śaṅkara (Mahadeva Sastri): 'The plural * us ' is used with reference to the bodies that are different ; it does not mean that there are more than one Self' stands verbatim in his commentary on 2.12, carrying 'the plural to mean the many bodies, not many selves' without drift. Rāmānuja (Govindacharya): 'It is thus evident that (1) the fact of the soul being distinct from Bhagavan Sarvesvara (God), and (2) the fact of the multiety of souls, have been declared (in this verse)' stands verbatim, in the running text (not the translator's bracketed or footnote matter), on 2.12; it carries 'souls are many and distinct from God'. The translator's footnote comparing the verse with Revelation is not used, so no comparison. Verse: verse.js ok, ref Bhagavad Gita 2.12, at [58]; the verse is the one both commentaries treat, so it is the right key. Plain sense: day.js has Arjuna say 'I will not fight!' and fall silent at 2.9, Krishna answer at 2.10 to 2.11 that the wise grieve for neither living nor dead, and 2.12 open the reasoning; faithful, no four-word run from the key. Schools named for both; the two genuinely differ (one Self vs many souls) and the sentence names the difference without resolving it. Form: 52 words (cap 60 with two), one semicolon, verbs 'takes' and the elided second verb pattern the rules allow, src 147 characters; entry-check ok with no errors or warnings.",
+ "better": ""
+}

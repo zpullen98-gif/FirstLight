@@ -1,0 +1,31 @@
+{
+ "id": "gita-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Nor at any time verily was I not, nor thou, nor these princes of men, nor verily shall we ever cease to be, hereafter.",
+ "ref": "Bhagavad Gita 2.12",
+ "at": [58],
+ "s": "Krishna, answering Arjuna, who has said he will not fight and fallen silent, begins to teach why the wise do not grieve; Śaṅkara (Advaita), on 2.12, takes the plural to mean the many bodies, not many selves, and Rāmānuja (Viśiṣṭādvaita), on 2.12, as teaching that souls are many and distinct from God.",
+ "by": "shankara",
+ "by2": "ramanuja",
+ "hedge": "",
+ "src": "Śaṅkara, Gītā Bhāṣya, on 2.12, tr. A. Mahadeva Sastri (1901), archive.org; Rāmānuja, Gītā Bhāṣya, on 2.12, tr. A. Govindacharya (1898), archive.org",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://archive.org/details/bhagavadgitwith00agoog", "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)", "locator": "commentary on 2.12", "via": "packet"},
+   {"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 2.12", "via": "packet"}
+  ],
+  "words": "The plural * us ' is used with reference to the bodies that are different ; it does not mean that there are more than one Self. … It is thus evident that (1) the fact of the soul being distinct from Bhagavan*® Sarvesvara (God), and (2) the fact of the multiety of souls, have been declared (in this verse) by Bhagavan’ Himself.",
+  "lang": "en",
+  "gloss": "[Śaṅkara, on 2.12:] The plural ‘us’ is said with reference to the bodies, which are different; it does not mean that there is more than one Self. … [Rāmānuja, on 2.12:] So it is evident that the Lord himself declares in this verse, first, that the soul is distinct from God, the Lord of all, and second, that souls are many.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 2.12 (verse.js ok, ref and at match). Plain sense faithful: 2.9 has Arjuna say he will not fight and fall silent, 2.10 to 2.11 have Krishna answer that the wise grieve for neither living nor dead, and 2.12 begins that teaching; no words of the key verse repeated. Both readings opened in the day 2 packet on 2.12: Śaṅkara (Mahadeva Sastri) says the plural refers to the different bodies and does not mean more than one Self; Rāmānuja (Govindacharya) says the verse declares the soul distinct from God and the souls many, which is his own conclusion to the verse, not the translator's bracketed gloss. The two genuinely differ and the sentence names the difference without resolving it; schools named. Entry-check ok."
+}

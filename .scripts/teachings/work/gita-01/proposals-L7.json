@@ -1,0 +1,42 @@
+{
+ "lane": "L7",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 7,
+   "primary": {
+    "id": "gita-01-d007-p",
+    "key": "There is naught whatsoever higher than I, O Dhananjaya. All this is threaded on Me, as rows of pearls on a string.",
+    "ref": "Bhagavad Gita 7.7",
+    "at": [286],
+    "s": "Having named his two natures as the womb of all beings, Krishna speaks to Arjuna of his own place; Rāmānuja (Viśiṣṭādvaita), on 7.7, reads the string as a soul holding its body together: all things, sentient and insentient, are the body that Krishna ensouls.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, on 7.7, archive.org gita-bhasya (A. Govindacharya’s translation, 1898)",
+    "basis": {
+     "source": "ramanuja",
+     "words": "All this=the sum of things, cz¢ (intelligents) and achit (non-intelligents),—all that exists as the aggregate of causes and effects, and constituting My body.\n\nAll this depends on Me as body depends on soul, z. ¢., I,am their Soul; and they, are My body, in the manner that number of gems are held together by means of a string. … Hence, all things constitute the body of Parmapurusha,$ Who ensouls them.",
+     "gloss": "All this, the sum of things sentient (cit) and insentient (acit), all that exists as causes and effects, constitutes My body. All this depends on Me as a body depends on its soul: I am their soul and they are My body, held together as gems are held by a string. Hence all things constitute the body of the Supreme Person (Paramapuruṣa), who ensouls them."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d007-s",
+    "key": "Noble are all these, but I hold the wise as verily Myself; he, Self united, is fixed on Me, the highest Path.",
+    "ref": "Bhagavad Gita 7.18",
+    "at": [297],
+    "s": "Krishna, having named four kinds who worship him and set the wise one first, weighs the four; Śaṅkara (Advaita), on 7.18, reads the wise one as the very Self of Krishna, not different from him, firm in the faith that he himself is Vāsudeva.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 7.18, archive.org bhagavadgitwith00agoog (A. Mahadeva Sastri’s translation, 2nd ed., 1901)",
+    "basis": {
+     "source": "shankara",
+     "words": "It is my conviction that the wise man is the very Self, not different from Me. The wise man strives to reach Me, firm in the faith that he himself is the Lord V^sudeva and is no other than He.",
+     "gloss": "Krishna’s conviction is that the wise man is His very Self, not different from Him; the wise man strives to reach Him, firm in the faith that he himself is the Lord Vāsudeva and no other than He."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "lane": "L11",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 11,
+   "primary": {
+    "id": "gita-01-d011-p",
+    "key": "Time am I, laying desolate the world, Made manifest on earth to slay mankind!",
+    "ref": "Bhagavad Gita 11.32",
+    "at": [445],
+    "s": "Asked by a shaken Arjuna who the devouring form is, Krishna declares the opposing warriors doomed and bids him fight; Rāmānuja (Viśiṣṭādvaita), on 11.32, takes Time from a root meaning to count: the one who reckons when each king’s life-span runs out.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, 11.32, in A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org",
+    "basis": {
+     "source": "ramanuja",
+     "words": "Kala is derived from the root Kalayati!=ganayati=to count or calculate. Jam the Time which reckons when the life-time of Dhritarashtra is going to expire, and similarly of other royal dignitaries.",
+     "gloss": "Kāla (Time) comes from the root kalayati, glossed as gaṇayati, to count or calculate: I am the Time that reckons when the life-span of Dhritarashtra, and likewise of the other kings, is due to expire. (The OCR ‘Jam’ is ‘I am’; the packet url is https://archive.org/details/gita-bhasya, commentary on 11.32.)"
+    }
+   },
+   "standby": {
+    "id": "gita-01-d011-s",
+    "key": "In power boundless, measureless in strength, Thou holdest all: then Thou Thyself art All.",
+    "ref": "Bhagavad Gita 11.40",
+    "at": [453],
+    "s": "A trembling Arjuna hymns Krishna with name upon name and bows again and again; Madhva (Dvaita), on 11.40, takes the verse as the rule for Vedic texts calling all this Brahman: the Supreme is All by encompassing all, not by identity with it.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Gītā Bhāṣya, 11.40, in S. Subba Rau, The Bhagavad-Gita, translated with the commentary of Sri Madhwacharya (1906), archive.org",
+    "basis": {
+     "source": "madhva",
+     "words": "If the Vedic texts such as “All this indeed is Brahman” be thought contradictory to what has been described, the present verse institutes the rule of interpretation in all such cases. The Supreme Being is All because He compasses all, not because He is identically All",
+     "gloss": "Should Vedic texts like ‘all this is Brahman’ seem to contradict the Lord’s distinct glories just described, this verse sets the rule for reading every such text: the Supreme is called All because he encompasses everything, not because he is identical with everything. (Packet url https://archive.org/details/india.history.resource.91865, Madhva’s note V. on 11.40.)"
+    }
+   }
+  }
+ ]
+}

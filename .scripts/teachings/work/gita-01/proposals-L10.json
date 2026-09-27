@@ -1,0 +1,42 @@
+{
+ "lane": "L10",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 10,
+   "primary": {
+    "id": "gita-01-d010-p",
+    "key": "I, O Gudakesha, am the Self, seated in the heart of all beings; I am the beginning, the middle, and also the end of all beings.",
+    "ref": "Bhagavad Gita 10.20",
+    "at": [391],
+    "s": "Granting Arjuna’s plea for his glories, Krishna names this first, ahead of the chief of each kind; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 10.20, reads it as the Lord seated as soul in beings who form his body, and so their support, ruler and master.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya 10.20, A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "In the hearts of all beings, who constitute My body, I am seated as their Atma (Soul)—To be the Atma is indeed to be in every manner the Support, the Ruler and the Master.",
+     "gloss": "The Lord is seated as the soul (ātman) in the hearts of all beings, and those beings are his body; to be their soul is to be, in every way, their support, their ruler and their master."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d010-s",
+    "key": "Out of pure compassion for them, dwelling within their Self, I destroy the ignorance-born darkness by the shining lamp of wisdom.",
+    "ref": "Bhagavad Gita 10.11",
+    "at": [382],
+    "s": "Krishna, speaking of devotees who delight in talking of him, says what more he does for them; Śaṅkara, Gītā Bhāṣya 10.11, reads the darkness as illusory knowledge from want of discrimination, and the lamp as discriminating knowledge fed by devotion and fanned by meditation.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya 10.11, A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "destroy the darkness of ignorance, — that illusory knowledge which is caused by the absence of discrimination, — by the lamp of wisdom, by the lamp of discriminatory knowledge, fed by the oil of pure Devotion (Bhakti-pras&da), fanned by the wind of earnest meditation on Me",
+     "gloss": "The darkness of ignorance is the illusory knowledge that arises when discrimination is absent; the Lord destroys it with the lamp of wisdom, which is discriminating knowledge, fed with the oil of pure devotion and fanned by the wind of earnest meditation on him."
+    }
+   }
+  }
+ ]
+}

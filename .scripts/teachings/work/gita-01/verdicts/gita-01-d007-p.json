@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "There is naught whatsoever higher than I, O Dhananjaya. All this is threaded on Me, as rows of pearls on a string.",
+ "ref": "Bhagavad Gita 7.7",
+ "at": [286],
+ "s": "Having named his two natures as the womb of all beings, Krishna speaks to Arjuna of his own place; Rāmānuja (Viśiṣṭādvaita), on 7.7, reads the string as a soul holding its body together: all things, sentient and insentient, are the body that Krishna ensouls.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, on 7.7, archive.org gita-bhasya (A. Govindacharya’s translation, 1898)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 7.7", "via": "packet"}],
+  "words": "All this depends on Me as body depends on soul, z. ¢., I,am their Soul; and they, are My body, in the manner that number of gems are held together by means of a string.",
+  "lang": "en",
+  "gloss": "All this depends on the Lord as a body depends on its soul: he is their soul and they are his body, held together as gems are held together by a string. (The same comment glosses 'all this' as the sum of things sentient and non-sentient constituting his body, and concludes that all things are the body of the Supreme Person who ensouls them.)",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 7.7 (verse.js ok, ref and at match). Plain sense faithful: 7.4 to 7.6 name the lower and higher natures and call them the womb of all beings, and 7.7 turns to Krishna's own supremacy over them; no four-word run from the key verse. Rāmānuja's own commentary on 7.7 in the Govindacharya packet glosses 'all this' as the sum of chit and achit constituting My body, says all this depends on Me as body on soul, I their Soul and they My body, as gems held together by a string, and concludes all things are the body of Paramapurusha who ensouls them; his comment on 7.12 confirms the body/soul frame. The reading carries this without drift and does not lean on Besant's wording. School named; entry-check ok."
+}

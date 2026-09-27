@@ -1,0 +1,42 @@
+{
+ "lane": "L14",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 14,
+   "primary": {
+    "id": "gita-01-d014-p",
+    "key": "And he who serveth Me exclusively by the Yoga of devotion, he, crossing beyond the qualities, he is fit to become the Eternal.",
+    "ref": "Bhagavad Gita 14.26",
+    "at": [548],
+    "s": "Krishna, having described the one beyond the three qualities, answers Arjuna’s last question, how to cross them; Rāmānuja (Viśiṣṭādvaita), on 14.26, reads loving devotion as the chief means, since mere reflection on how soul differs from matter can give way to the mind’s old habits.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, on 14.26, in A. Govindacharya’s translation (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "The chief Means by which to surmount the aforesaid qualities, is now stated … Not by mere reflection over the matter-soul distinction … can qualities be crossed ; for reflection is ever liable to be violated by habits inimical to it which the mind has contracted in the lung past … incessant and all-absorbing lovedevotion to Me. The votary of Bhakti will surmount the otherwise insurmountable qualities",
+     "gloss": "The chief means of surmounting the qualities is now stated: the qualities cannot be crossed by mere reflection on the distinction between matter and soul, because reflection is always liable to be broken by contrary habits the mind has formed in the long past (the OCR prints “lung”); bhakti yoga is incessant, all-absorbing loving devotion to the Lord, and the one devoted in this way will surmount the qualities, which otherwise cannot be surmounted."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d014-s",
+    "key": "When the dweller in the body hath crossed over these three qualities, whence all bodies have been produced, liberated from birth, death, old age and sorrow, he drinketh the nectar of immortality.",
+    "ref": "Bhagavad Gita 14.20",
+    "at": [542],
+    "s": "After tracing how the three qualities bind the embodied and where each leads, Krishna speaks of passing beyond them; Śaṅkara (Advaita), on 14.20, reads the crossing, and the freedom and immortality that follow, as reached by the wise man while he is still alive.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 14.20, in A. Mahadeva Sastri’s translation, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "The wise man crosses, while still alive, beyond the three gunas … He is emancipated, while still alive, from birth, death, decay and pain, and attains to immortality … When it was said that (the wise man) crosses beyond the guwas and attains to immortality while still alive, Arjuna found an occasion for a question",
+     "gloss": "The wise man crosses beyond the three gunas while he is still alive; while still alive he is freed from birth, death, decay and pain and attains immortality; and his lead-in to 14.21 repeats it: because the wise man was said to cross the gunas and reach immortality while still alive, Arjuna found the occasion for his question."
+    }
+   }
+  }
+ ]
+}

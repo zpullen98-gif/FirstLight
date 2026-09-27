@@ -1,0 +1,42 @@
+{
+ "lane": "L13",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 13,
+   "primary": {
+    "id": "gita-01-d013-p",
+    "key": "Understand Me as the Knower of the Field in all Fields, O Bhârata.",
+    "ref": "Bhagavad Gita 13.2",
+    "at": [490],
+    "s": "Answering Arjuna’s question on matter and spirit, Krishna calls the body the field, then speaks of himself; Śaṅkara, on 13.2, reads it as the knower in every body being the Lord, whom the round of births, resting only on ignorance, never touches.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya on 13.2, tr. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "Wherefore we conclude that the Kshetrajna is ever identical with Isvara. … Therefore, saws^ra is only based on avidya and exists only for the ignorant man who sees the world as it appears to him. Neither avidy^ nor its eftect pertains to Kshetrajna pure and simple.",
+     "gloss": "So we conclude that the knower of the field (Kshetrajña) is ever identical with the Lord (Īśvara). … Therefore saṃsāra, the round of births, rests only on ignorance (avidyā) and exists only for the ignorant man who sees the world as it appears to him. Neither ignorance nor its effect belongs to the knower of the field, pure and simple."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d013-s",
+    "key": "He who seeth that Matter verily performeth all actions, and that the Self is actionless, he seeth.",
+    "ref": "Bhagavad Gita 13.29",
+    "at": [517],
+    "s": "In closing verses on who truly sees, Krishna turns to the doing of deeds; Madhva (Dvaita), on 13.29, takes the word rendered Matter as ‘having begun’, reading all actions as begun by the Lord, and the actionless Self as the Lord, who has no maker.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Gītā Bhāṣya on 13.29 (verse 30 in this edition), tr. S. Subba Rau (1906), archive.org india.history.resource.91865",
+    "basis": {
+     "source": "madhva",
+     "words": "And he sees who sees that all actions performed are begun and done by the Lord Himself and also that Paramatma (the Lord) is without a maker. … Prakritya: is an indeclinable past participle from Pra t Kri (to begin). … Thus all actions are under the direction of the Lord who has no maker, superior to Himself.",
+     "gloss": "[Subba Rau’s rendering of the verse as Madhva reads it:] He sees who sees that all actions are begun and done by the Lord Himself, and that the Supreme Self (the Lord) has no maker. … [Madhva:] Prakṛtya is an indeclinable past participle (a gerund) from pra plus kṛ, ‘to begin’. … So all actions are under the direction of the Lord, who has no maker above Him."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "lane": "L3",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 3,
+   "primary": {
+    "id": "gita-01-d003-p",
+    "key": "It is said that the senses are great; greater than the senses is the mind: greater than the mind is the Reason; but what is greater than the Reason, is He.",
+    "ref": "Bhagavad Gita 3.42",
+    "at": [160],
+    "s": "Having named desire as the foe that drives a man to sin, Krishna, near the chapter’s close, ranks the powers within; Śaṅkara (Advaita), on 3.42, reads the closing ‘He’ as the Self, the witness of reason, and Rāmānuja (Viśiṣṭādvaita), on 3.42, as desire, strongest and most overpowering of all.",
+    "by": "shankara",
+    "by2": "ramanuja",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya 3.42, tr. A. Mahadeva Sastri (1901); Rāmānuja, Gītā Bhāṣya 3.42, tr. A. Govindacharya (1898); both archive.org",
+    "basis": {
+     "source": "shankara (packet, https://archive.org/details/bhagavadgitwith00agoog); ramanuja (packet, https://archive.org/details/gita-bhasya)",
+     "words": "He, the Self, the witness of reason, is superior to reason. … Supposing the senses and all, duddhi inclusive, were quiet and passive, desire or lust, which is craving, deeply rooted in the heart, and rajzas-born, will yet assert mastery … That which then is the most strong and overpowering, vis., kama (lust, desire, craving, or appetite for phenomenal experiences) is denoted by the pronoun ‘sah.’",
+     "gloss": "Śaṅkara on 3.42: the one beyond reason is the Self, the witness of reason. Rāmānuja on 3.42: even were the senses, mind and intellect (buddhi) quiet, desire, rooted in the heart and born of rajas, would still assert mastery; the pronoun ‘sah’ (he) denotes this strongest, most overpowering thing, desire (kāma). His 3.43 follows it through: knowing this desire that surpasses buddhi, destroy it. Operator note: packet.js prints Śaṅkara’s words above, but recheck-evidence.js’s tag stripper (/<[^>]+>/) removes the packet text from Śaṅkara’s stray “<f Wherefore” (his 3.1 introduction) to Rāmānuja’s “go to work. >” (3.9), so every Śaṅkara piece on chapter 3 will read NOT FOUND by machine although it is printed there."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d003-s",
+    "key": "As a flame is enveloped by smoke, as a mirror by dust, as an embryo is wrapped by the amnion, so This is enveloped by it.",
+    "ref": "Bhagavad Gita 3.38",
+    "at": [156],
+    "s": "Having named desire as the foe that drives a man to sin, Krishna pictures its hold in three likenesses; Madhva (Dvaita), on 3.38, reads them first as three grades of souls, the highest somewhat beset by desire, the middling much obscured, the lowest overwhelmed.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, commentary on the Gita, 3.38, tr. S. Subba Rau (1906), archive.org india.history.resource.91865",
+    "basis": {
+     "source": "madhva (packet, https://archive.org/details/india.history.resource.91865)",
+     "words": "Just as flame is surrounded by smoke, so … the highest class of souls, is somewhat beset by desire, Just as a mirror may be covered with dust, so … the middling class is much obscured by desire. And just as the embryo is completely wrapped up in amnion, so … the lowest class, is overwhelmed by desire and lostin it. Thus ofall the three classes of Jivas, Desire more or less obstructs the knowledge",
+     "gloss": "Madhva on 3.38 (Subba Rau’s “V.” paragraph after verse 38): as smoke surrounds a flame, desire somewhat besets the highest class of souls; as dust covers a mirror, it much obscures the middling class; as the amnion wraps the embryo, it overwhelms the lowest, who are lost in it; so in all three classes of souls (jīvas) desire obstructs knowledge in degree. The ellipses skip only OCR noise standing for ‘this’. He then gives a second reading (the Lord, the mind, the soul), hence ‘first’ in the sentence."
+    }
+   }
+  }
+ ]
+}

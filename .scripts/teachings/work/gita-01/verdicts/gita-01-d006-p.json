@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "As a lamp in a windless place flickereth not, to such is likened the Yogî of subdued thought, absorbed in the yoga of the Self.",
+ "ref": "Bhagavad Gita 6.19",
+ "at": [251],
+ "s": "Between rules for sitting and eating and an account of yoga’s joy, Krishna gives an image; Rāmānuja (Viśiṣṭādvaita), on 6.19, reads the flame as the yogi’s self, shining steady in its light of knowledge once the mind’s distractions are shut out.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, 6.19, A. Govindacharya’s translation, archive.org gita-bhasya (1898)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 6.19", "via": "packet"}],
+  "words": "The purport is, that atma shines steady and radiant in its light of intelligence (jfiana), by reason of all extraneous workings or distractions of the mind having been shut out, like the flame of a lamp burning steady and bright when all breeze is shut out from blowing against it.",
+  "lang": "en",
+  "gloss": "The point is that the self (ātman) shines steady and radiant in its light of knowledge (jñāna), because every outside working or distraction of the mind has been shut out, as a lamp flame burns steady and bright when every breeze is kept from it.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 6.19 (verse.js ok, ref and at match). Plain sense faithful: 6.10 to 6.17 give the secluded seat, posture and measure in eating and sleep, and 6.20 to 6.23 describe the delight of yoga. In the Govindacharya packet Rāmānuja renders the simile as comparing the atma with which the yogi communes, and his commentary on 6.19 says the lamp illustrates how atma-nature becomes steady and effulgent to the concentrating yogi, then gives the purport quoted: the self shines steady in its light of intelligence (jñāna) once the mind’s distractions are shut out. The sentence carries exactly this (knowledge for jñāna); it is not Besant’s wording and differs from Śaṅkara, who takes the simile of the yogin’s steadfast mind. School named; entry-check ok."
+}

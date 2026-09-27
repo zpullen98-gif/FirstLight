@@ -1,0 +1,42 @@
+{
+ "lane": "L12",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 12,
+   "primary": {
+    "id": "gita-01-d012-p",
+    "key": "The difficulty of those whose minds are set on the Unmanifested is greater; for the path of the Unmanifested is hard for the embodied to reach.",
+    "ref": "Bhagavad Gita 12.5",
+    "at": [473],
+    "s": "Krishna calls devotees fixed on him best in yoga, though worshippers of the Imperishable reach him too; Rāmānuja (Viśiṣṭādvaita), on 12.5, reads the Unmanifested as the individual soul, which those who love the body as the self think on only with great struggle.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, on 12.5, in A. Govindacharya’s translation (1898), archive.org gita-bhasya (OCR)",
+    "basis": {
+     "source": "ramanuja",
+     "words": "To those whose mind is given to avyakta (soul), difficulties are great. Avyakta-Path is the getting the mind to think of the subject relating to avyakta=Individual soul. This is attained with great struggle by the emodted 7. e., those who love the body as if it were the 4tma; for, so do those encased in bodies fancy.",
+     "gloss": "For those whose mind is given to the unmanifest (the soul), the difficulties are great. The path of the unmanifest is bringing the mind to think on what concerns the unmanifest, that is, the individual soul. This is attained with great struggle by the embodied, that is, by those who love the body as if it were the self; for so those encased in bodies imagine."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d012-s",
+    "key": "Those devotees who ever harmonised worship Thee, and those also who worship the Indestructible, the Unmanifested, whether of these is the more learned in yoga?",
+    "ref": "Bhagavad Gita 12.1",
+    "at": [469],
+    "s": "After the vision of the universal form, Arjuna asks Krishna to weigh two kinds of worshipper; Śaṅkara (Advaita), on 12.1, reads them as devotees of the Lord in that form and renouncers who meditate on the Imperishable Brahman as free of every limiting condition.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 12.1, in A. Mahadeva Sastri’s translation, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)",
+    "basis": {
+     "source": "shankara",
+     "words": "These devotees, seeking nobody else for their refuge, meditate on Thee in. the Universal Form just manifested. There are others who, having abandoned all desires and renounced all actions, meditate on the Imperishable (akshara) Brahman … as devoid of all upadhis or conditions.",
+     "gloss": "These devotees, taking no one else as their refuge, meditate on Thee in the Universal Form just shown. There are others who, having abandoned all desires and renounced all actions, meditate on the Imperishable (akshara) Brahman as devoid of every upādhi, every limiting condition."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "lane": "L4",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 4,
+   "primary": {
+    "id": "gita-01-d004-p",
+    "key": "As the burning fire reduces fuel to ashes, O Arjuna, so doth the fire of wisdom reduce all actions to ashes.",
+    "ref": "Bhagavad Gita 4.37",
+    "at": [198],
+    "s": "Having likened wisdom to a raft across all sin, Krishna gives Arjuna a second image; Śaṅkara, Gītā Bhāṣya 4.37, reads it as wisdom making actions powerless, not literally burning them, while those that brought this body into being must still run their course.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya 4.37, trans. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "The fire of wisdom cannot indeed literally reduce actions to ashes as fire reduces fuel to ashes. Accordingly we should understand that right knowledge is the cause which renders all actions impotent. But the actions by which this body has been brought into existence will come to an end only when their effects will have been fully worked out ; for, those actions have already commenced their effects.",
+     "gloss": "Wisdom does not literally turn actions to ash as fire does fuel; right knowledge is what makes all actions powerless. But the actions that brought this body into existence end only when their effects are fully worked out, because they have already begun to bear fruit."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d004-s",
+    "key": "For the protection of the good, for the destruction of evil-doers, for the sake of firmly establishing righteousness, I am born from age to age.",
+    "ref": "Bhagavad Gita 4.8",
+    "at": [169],
+    "s": "Krishna, explaining his births to Arjuna, gives their purposes, among them the destruction of the wicked; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 4.8, reads ‘the good’ as devotees who cannot live without seeing him, and their protection as his letting them see him.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya 4.8, trans. A. Govindacharya (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "Sddhus : are the good and virtuous, the godly, the eminent Vaishnavas … They are those who feel that without seeing Me … they cannot live and move, cannot support their very being … For the protection of these holy men … I grant them the privilege (or right) to be able to see Me and My doings, and hold coriverse with Me, and so on.",
+     "gloss": "The sādhus (the good) are the virtuous and godly, the foremost devotees of Vishnu; they feel that without seeing him they cannot live, move or sustain their being. To protect these holy men he grants them the right to see him and his deeds and to converse with him."
+    }
+   }
+  }
+ ]
+}

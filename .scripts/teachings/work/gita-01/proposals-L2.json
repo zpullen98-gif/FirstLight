@@ -1,0 +1,42 @@
+{
+ "lane": "L2",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 2,
+   "primary": {
+    "id": "gita-01-d002-p",
+    "key": "Nor at any time verily was I not, nor thou, nor these princes of men, nor verily shall we ever cease to be, hereafter.",
+    "ref": "Bhagavad Gita 2.12",
+    "at": [58],
+    "s": "Krishna, answering Arjuna, who has said he will not fight and fallen silent, begins to teach why the wise do not grieve; Śaṅkara (Advaita), on 2.12, takes the plural to mean the many bodies, not many selves, and Rāmānuja (Viśiṣṭādvaita), on 2.12, as teaching that souls are many and distinct from God.",
+    "by": "shankara",
+    "by2": "ramanuja",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 2.12, tr. A. Mahadeva Sastri (1901), archive.org; Rāmānuja, Gītā Bhāṣya, on 2.12, tr. A. Govindacharya (1898), archive.org",
+    "basis": {
+     "source": "shankara; ramanuja",
+     "words": "The plural * us ' is used with reference to the bodies that are different ; it does not mean that there are more than one Self. … It is thus evident that (1) the fact of the soul being distinct from Bhagavan*® Sarvesvara (God), and (2) the fact of the multiety of souls, have been declared (in this verse) by Bhagavan’ Himself.",
+     "gloss": "[Śaṅkara, on 2.12:] The plural ‘us’ is said with reference to the bodies, which are different; it does not mean that there is more than one Self. … [Rāmānuja, on 2.12:] It is evident that the Lord himself declares in this verse (1) that the soul is distinct from God, the Lord of all, and (2) that souls are many."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d002-s",
+    "key": "Thy business is with the action only, never with its fruits; so let not the fruit of action be thy motive, nor be thou to inaction attached.",
+    "ref": "Bhagavad Gita 2.47",
+    "at": [93],
+    "s": "Having taught that the dweller in the body is never slain, Krishna turns to the Yoga; Madhva (Dvaita), on 2.47, reads it as teaching that souls are fit only to do the work, with no power over its fruits, which God alone dispenses.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Gītā Bhāṣya, on 2.47, tr. S. Subba Rau (1906), archive.org",
+    "basis": {
+     "source": "madhva",
+     "words": "Thyself and all other souls have only the ability and fitness to do the work, but have never power over the fruits of action. It is only the Lord that can dispense the fruits",
+     "gloss": "You and all other souls have only the ability and the fitness to do the work, and never any power over the fruits of action; it is the Lord alone who can dispense the fruits."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d009-p",
+ "d": 9,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who offereth to Me with devotion a leaf, a flower, a fruit, water, that I accept from the striving self, offered as it is with devotion.",
+ "ref": "Bhagavad Gita 9.26",
+ "at": [363],
+ "s": "Having set heavens won by ritual against his worshippers’ goal, Krishna turns to humble gifts; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 9.26, reads it as Krishna, wanting nothing and ever in bliss, still relishing such a gift as if newly given a delight beyond hope.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya 9.26, trans. A. Govindacharya (1898), archive.org gita-bhasya",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 9.26", "via": "packet"}],
+  "words": "He Who is all-satisfied ... Though I, as such, am naturally in the enjoyment of supreme felicity, yet do ] enjoy the offering brought Me (in the manner aforesaid), as if 1 came (anew) in possession ... of a treat so rare as to be beyond the most distant expectations of a desiring heart",
+  "lang": "en",
+  "gloss": "He who wants for nothing ... Though by nature I am already in the enjoyment of the highest bliss, I still enjoy the offering brought to me in this way as if I had newly come into possession of a treat so rare that it lies beyond the furthest hopes of a longing heart.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 9.26 (verse.js ok, ref and at match). Plain sense faithful: 9.20 to 9.21 set the Vedic sacrificers who win heaven and return against those who worship Krishna, 9.25 ends that contrast with his worshippers coming to him, and 9.26 turns to the humble offering of leaf, flower, fruit and water. Rāmānuja's own commentary on 9.26 in the Govindacharya packet calls the Lord all-satisfied and naturally in supreme felicity, yet enjoying such an offering as if newly possessed of a treat beyond the most distant expectations of a desiring heart: the reading carries exactly this, with nothing from Besant's 'striving self'. The ellipses skip the list of attributes and an OCR page header; each piece is verbatim. School named; entry-check ok."
+}

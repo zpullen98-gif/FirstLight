@@ -1,0 +1,30 @@
+{
+ "id": "gita-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Time am I, laying desolate the world, Made manifest on earth to slay mankind!",
+ "ref": "Bhagavad Gita 11.32",
+ "at": [445],
+ "s": "Asked by Arjuna who the devouring form is, Krishna declares the opposing warriors doomed and bids him fight; Rāmānuja (Viśiṣṭādvaita), on 11.32, takes Time from a root meaning to count: the one who reckons when the life-span of each king ranged against Arjuna runs out.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, 11.32, in A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 11.32", "via": "packet"}
+  ],
+  "words": "Kala is derived from the root Kalayati!=ganayati=to count or calculate. Jam the Time which reckons when the life-time of Dhritarashtra is going to expire, and similarly of other royal dignitaries. … By My mere fiat—no waiting for thy help—the Dhartarashtras, and other warriors ranged in opposition to thee shall meet ruin.",
+  "lang": "en",
+  "gloss": "Kāla (Time) is derived from kalayati, glossed gaṇayati, to count or calculate: I am the Time that reckons when the life-span of Dhritarashtra, and likewise of the other kings, is due to expire (OCR ‘Jam’ = ‘I am’). By My fiat alone, without waiting for Arjuna’s help, the sons of Dhritarashtra and the other warriors ranged against him shall perish.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "The problem holds. Re-opened packet.js gita 11 --verse 11.32: Rāmānuja’s reckoning is of Dhritarashtra’s life-time ‘and similarly of other royal dignitaries’, and the same comment closes that the Dhartarashtras ‘and other warriors ranged in opposition to thee shall meet ruin’; ‘each king’s life-span’ alone let the limit he sets fall away. Corrected the reading to ‘each king ranged against Arjuna’, carried by the second joined passage, and added it to the evidence. The key is kept: extending it would pull in Besant’s ‘thou shalt alone survive’, which Telang and all three commentators render as ‘even without thee’. To stay within 45 words, ‘a shaken’ was dropped from the plain sense; nothing else changed. verse.js ok (ref 11.32, at 445); entry-check ok."
+}

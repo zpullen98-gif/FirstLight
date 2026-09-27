@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d006-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/gita-bhasya", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js gita 6 --verse 6.19 and the whole-chapter packet (Govindacharya 1898, archive.org gita-bhasya). Rāmānuja's segment on 6.19 stands alone (joint segments are 6.11-12, 6.13-14, 6.20-22, 6.38-39), so the locator holds. His rendering compares the flame to 'the atma, with which communes the yogi', his commentary says the lamp illustrates how 'atma-nature becomes steady and effulgent to that yogi who concentrates his thoughts on it', and the purport quoted in the evidence is found verbatim: atma shines steady and radiant in its light of intelligence (jñāna) by reason of the mind's distractions having been shut out. That carries every clause (the flame as the self, steady in its light of knowledge, distractions shut out); 'the yogi's self' matches the self on which the yogi concentrates in this chapter; 'once' for 'by reason of' is not a drift. It is his reading, not Besant's: it does not rest on her capitalised 'Self' (Telang: 'a devotee ... who devotes himself to abstraction of mind'), and it differs from Śaṅkara, who takes the simile of the yogin's steadfast mind. Plain sense checked with day.js: 6.10 to 6.17 give seat, posture and measure in eating and sleep, 6.20 to 6.23 the delight of yoga; no four-word run from the verse, no doctrine. School named, no comparison, tone neutral. verse.js ok at Bhagavad Gita 6.19 [251]; entry-check.js ok with no errors or warnings on a scratch copy (41 words, one semicolon, verb 'reads', src 91 characters).",
+ "better": ""
+}

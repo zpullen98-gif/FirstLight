@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d001-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/gita-bhasya", "found": true},
+ "attacks": [],
+ "reason": "Re-opened the day 1 packet (packet.js gita 1 --verse 1.47): the evidence words stand verbatim in Govindacharya's Ramanuja, in the paragraph after 1.47 that closes Lecture I (his chapter 1 comment runs as one segment 1.4 to 1.47, and this is the only substantive comment on 1.47). They carry each clause: friendship for kinsmen (affection for kin), overcome by pity, fear lest right suffer, and the concession that Arjuna and his brothers were often subjected to treachery with intent to kill (lac house). Tested drift on 'collapse': Ramanuja gives these motives for his shrinking within himself and refusing to fight, then the sinking into the car as grief at separation from kin; 'shrank within himself' is itself the collapse, so the paraphrase holds, though narrowly. Omits the certain-victory concession, which is not a distortion. verse.js ok (1.47, at [46], ref and at match); key matches Telang 1.47 in sense and is text, not colophon. Plain sense: Sanjaya's closing narration after Arjuna's plea 1.28 to 1.46, no four words of the verse repeated, no doctrine. School named, no comparison, tone plain. entry-check.js ok, 43 words.",
+ "better": "Optionally tighter to his two steps: '...reads his refusal as moved by affection for kin, pity and fear that right would suffer, and his sinking down as grief at parting from them, though the other side had often sought his death.' Not required."
+}

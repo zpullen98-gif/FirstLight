@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d011-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/gita-bhasya", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Govindacharya (1898) through packet.js --verse 11.32 and the cached djvu text (line 20563): the paragraph 'Kala is derived from the root Kalayati=ganayati=to count or calculate. [I] am the Time which reckons when the life-time of Dhritarashtra is going to expire, and similarly of other royal dignitaries' follows the printed verse 32 directly, so the locator is right and the words are Ramanuja's, not Besant's or Telang's. The paraphrase (Time from a root meaning to count; the one who reckons when each king's life-span runs out) is carried by those words; 'each king' generalises 'Dhritarashtra ... and other royal dignitaries' only as far as Ramanuja's own 'world of kings' in the lead-in. Plain sense checked with day.js: 11.30 devouring, 11.31 Arjuna asks what awful Form this is, 11.32 to 11.34 the warriors will not escape and Arjuna is told to stand up and fight; no four-word run from the key; killing stated plainly without softening. verse.js ok (ref 11.32, at 445); the key carries 'Time', the word the reading glosses (kala). School named, no comparison, no other tradition. entry-check ok, 42 words, src 140 characters.",
+ "better": ""
+}

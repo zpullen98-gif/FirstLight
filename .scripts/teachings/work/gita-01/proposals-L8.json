@@ -1,0 +1,46 @@
+{
+ "lane": "L8",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 8,
+   "primary": {
+    "id": "gita-01-d008-p",
+    "key": "He who constantly thinketh upon Me, not thinking ever of another, of him I am easily reached, O Pârtha, of this ever-harmonised Yogî.",
+    "ref": "Bhagavad Gita 8.14",
+    "at": [
+     323
+    ],
+    "s": "After the yogi who departs uttering Aum, Krishna turns to the devotee of unbroken remembrance; Rāmānuja (Viśiṣṭādvaita), on 8.14, reads that ease as Krishna’s own work: unable to bear parting from such a devotee, he chooses him, ripens his meditation and clears its obstacles.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, on 8.14, A. Govindacharya’s English translation (1898), archive.org gita-bhasya",
+    "basis": {
+     "source": "ramanuja",
+     "words": "I, on My part, would not be able to bear separation of them … from Me; and therefore I Myself elect him (vrize). … carry to fruition the Meditation he adopts for reaching Me; … ward off for him the obstacles which may hamper him in his progress in Meditation",
+     "gloss": "I for my part could not bear to be separated from them, and so I myself choose him; I bring to fruition the meditation he takes up to reach me; I ward off for him the obstacles that could hinder his progress in meditation."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d008-s",
+    "key": "Therefore verily there existeth, higher than that unmanifested, another unmanifested, eternal, which in the destroying of all beings, is not destroyed.",
+    "ref": "Bhagavad Gita 8.20",
+    "at": [
+     329
+    ],
+    "s": "Having told of beings pouring forth at Brahmā’s dawn and dissolving at nightfall, Krishna turns to what outlasts them; Śaṅkara (Advaita), on 8.20, reads the first unmanifested as ignorance, the seed of all beings, and the other as Brahman, the Imperishable, wholly different in nature.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, on 8.20, A. Mahadeva Sastri’s English translation, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+    "basis": {
+     "source": "shankara",
+     "words": "Being : the Supreme, the Para-Brahman, called the Akshara. … He is distinct from the Avyakta mentioned above, which is Avidya itself, the seed of the whole multitude of created beings ; that is to say, He is of quite a different nature from the Avyakta.",
+     "gloss": "The ‘other’ being is the Supreme, the Para-Brahman, called the Imperishable. … He is distinct from the unmanifested spoken of above, which is ignorance itself, the seed of the whole host of created beings; that is, he is of an altogether different nature from that unmanifested."
+    }
+   }
+  }
+ ]
+}

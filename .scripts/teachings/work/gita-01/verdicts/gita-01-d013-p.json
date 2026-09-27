@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Understand Me as the Knower of the Field in all Fields, O Bhârata.",
+ "ref": "Bhagavad Gita 13.2",
+ "at": [490],
+ "s": "Answering Arjuna’s question on matter and spirit, Krishna calls the body the field, then speaks of himself; Śaṅkara, on 13.2, reads it as the knower in every body being the Lord, whom the round of births, resting only on ignorance, never touches.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Gītā Bhāṣya on 13.2, tr. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/bhagavadgitwith00agoog", "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)", "locator": "on 13.2 (the long excursus under 13.2: 'The relation of the Self to samsara', 'Avidya inheres in the organ, not in the Self')", "via": "packet"}],
+  "words": "Thus, it cannot be imagined that the Kshetrajiia, the Lord, though existing in all Kshetras, can ever so much as smell of the nature of a sawsd.rin. … Therefore, saws^ra is only based on avidya and exists only for the ignorant man who sees the world as it appears to him. Neither avidy^ nor its eftect pertains to Kshetrajna pure and simple.",
+  "lang": "en",
+  "gloss": "So it cannot be imagined that the knower of the field (Kshetrajña), the Lord, though present in all fields, has even the smell of a being in saṃsāra. … Therefore saṃsāra, the round of births, rests only on ignorance (avidyā) and exists only for the ignorant man who sees the world as it appears to him. Neither ignorance nor its effect belongs to the knower of the field, pure and simple.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 13.2, at 490; the first sentence of the unit, matching Telang's 'know me also ... to be the Kshetragña in all Kshetras'). Plain sense: the unnumbered opening verse is Arjuna's question on Matter and Spirit and 13.1 calls the body the Field before 13.2 turns to Krishna himself; no four-word run from the key verse. Read Śaṅkara's whole comment on 13.2 in the packet (Sastri numbers the verse 13.2 as the app does): he glosses Kshetrajña as 'Myself, the Supreme Lord, not a being of the world', concludes 'the Kshetrajna is ever identical with Isvara', says the Lord in all Kshetras cannot 'smell of the nature of a samsarin', and that samsara rests only on avidya and does not pertain to the Kshetrajña. The sentence paraphrases this without drift. Evidence copied verbatim from the packet (OCR errors kept), two contiguous pieces joined by an ellipsis, both re-found by the recheck normaliser. entry-check ok."
+}

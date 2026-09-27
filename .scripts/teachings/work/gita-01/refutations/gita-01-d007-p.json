@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d007-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/gita-bhasya", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Rāmānuja's commentary through packet.js gita 7 --verse 7.7 (Govindacharya 1898, archive.org gita-bhasya). The evidence words stand verbatim under 7.7b ('All this depends on Me as body depends on soul ... I am their Soul; and they are My body, in the manner that number of gems are held together by means of a string'), with 'all this' glossed as chit and achit constituting My body and the conclusion that all things are the body of Paramapurusha 'Who ensouls them'. So the string as the soul on which the body depends, sentient and insentient as his body, and Krishna as the one who ensouls them are all his words; no drift, and nothing leans on Besant's 'pearls'. Locator right: his comment on 7.7a is filed in the packet's 7.6 segment by OCR segmentation, but the paraphrase uses only the 7.7b comment, which is on 7.7. Plain sense: 7.4 to 7.6 set out the lower and higher natures and 7.6 calls them (Telang, and Rāmānuja's own rendering: 'these (two Natures)') the womb of all beings; 7.7 turns to Krishna's own supremacy; no run of four words from the key verse, no doctrine. School named. No comparison, no hard passage. verse.js ok (ref Bhagavad Gita 7.7, at [286]); entry-check.js ok, no errors or warns; 44 words, one semicolon, one full stop, British spelling, no dash.",
+ "better": ""
+}

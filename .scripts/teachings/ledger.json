@@ -52,6 +52,19 @@
     "madhva": 2
    },
    "hedged": 0
+  },
+  "gita": {
+   "batches": [
+    "gita-01"
+   ],
+   "days": 18,
+   "of": 18,
+   "by": {
+    "ramanuja": 9,
+    "shankara": 6,
+    "madhva": 3
+   },
+   "hedged": 0
   }
  }
 }

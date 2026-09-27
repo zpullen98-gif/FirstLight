@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "As the burning fire reduces fuel to ashes, O Arjuna, so doth the fire of wisdom reduce all actions to ashes.",
+ "ref": "Bhagavad Gita 4.37",
+ "at": [198],
+ "s": "Having likened wisdom to a raft across all sin, Krishna gives Arjuna a second image; Śaṅkara, Gītā Bhāṣya 4.37, reads it as wisdom making actions powerless, not literally burning them, while those that brought this body into being must still run their course.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Gītā Bhāṣya 4.37, trans. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/bhagavadgitwith00agoog", "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901), archive.org bhagavadgitwith00agoog (OCR)", "locator": "commentary on 4.37", "via": "packet"}],
+  "words": "The fire of wisdom cannot indeed literally reduce actions to ashes as fire reduces fuel to ashes. Accordingly we should understand that right knowledge is the cause which renders all actions impotent. But the actions by which this body has been brought into existence will come to an end only when their effects will have been fully worked out ; for, those actions have already commenced their effects.",
+  "lang": "en",
+  "gloss": "The fire of wisdom does not literally turn actions to ash as fire does fuel; right knowledge is what makes all actions powerless. But the actions that brought this body into existence end only when their effects are fully worked out, since they have already begun to bear fruit.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 4.37 (verse.js ok, ref Bhagavad Gita 4.37 and at [198] match; Telang and Sastri agree in substance, no Besant colouring built on). Plain sense faithful: 4.36 has Krishna tell Arjuna he will cross all sin by the raft of wisdom, and 4.37 follows with the fire image; no four-word run from the key verse. Śaṅkara's own commentary on 4.37 in the Sastri packet says wisdom renders actions impotent, cannot literally reduce them to ashes, and that the actions which brought this body into existence end only when their effects are worked out; the reading carries exactly this and adds nothing (it stops short of his further point about actions of previous births, which it does not misstate). Proposer's basis is a verbatim contiguous run of the packet. Rāmānuja and Madhva comments on the verse were also read; neither is named. Entry-check ok."
+}

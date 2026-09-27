@@ -1,0 +1,42 @@
+{
+ "lane": "L1",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "gita-01-d001-p",
+    "key": "Having thus spoken on the battle-field, Arjuna sank down on the seat of the chariot, casting away his bow and arrow, his mind overborne by grief.",
+    "ref": "Bhagavad Gita 1.47",
+    "at": [46],
+    "s": "Closing the chapter, Sanjaya reports how Arjuna ends his plea against slaying his kinsmen; Rāmānuja (Viśiṣṭādvaita), on 1.47, reads his collapse as moved by affection for kin, pity and fear that right would suffer, though the other side had often plotted his death.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, on 1.47, archive.org gita-bhasya (A. Govindacharya’s translation, 1898)",
+    "basis": {
+     "source": "ramanuja",
+     "words": "the most compassionate … albeit often subjected by thee, along with his brothers, to horrid acts of treachery, with intent to kill … looked on them all with feelings of friendship for kinsmen, and overcome by pity, and by fear lest right (or righteousness) may suffer, he shrank within himself and said … In no case whatsoever shall I fight … he became most dejected (in mind), affected with grief at the thought of separation from kin",
+     "gloss": "Sanjaya tells Dhritarāshtra that Arjuna, the most compassionate, though often subjected by the king’s party, with his brothers, to horrid treachery meant to kill them, looked on them all with a kinsman’s affection; overcome by pity and by fear that righteousness would suffer, he shrank within himself and said he would in no case fight, and became deeply dejected, grieving at the thought of separation from his kin."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d001-s",
+    "key": "For I desire not victory, O Krishna, nor kingdom, nor pleasures; what is kingdom to us, O Govinda, what enjoyment or even life?",
+    "ref": "Bhagavad Gita 1.32",
+    "at": [31],
+    "s": "Halted between the armies, Arjuna pleads with Krishna against fighting his kinsmen; Śaṅkara (Advaita), introducing 2.11, reads the scene from 1.2 to 2.9 as tracing grief and delusion, the causes of saṃsāra, to the notion that his kin are his own and he theirs.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, introduction to 2.11, archive.org bhagavadgitwith00agoog (A. Mahadeva Sastri’s translation, 2nd ed., 1901)",
+    "basis": {
+     "source": "https://archive.org/download/bhagavadgitwith00agoog/bhagavadgitwith00agoog_djvu.txt",
+     "words": "Now the portion from i. 2 to ii. 9 should be interpreted as showing whence arise those evils of grief, delusion, etc., which in sentient creatures cause the misery of samsira … all this arising from his notion that \" I am theirs and they are … You have grieved for them saying ** I am the cause of their death; of what avail are pleasures of dominion and other things to me left alone without",
+     "gloss": "The passage from 1.2 to 2.9 is to be read as showing where the evils of grief, delusion and the rest arise, which cause the misery of saṃsāra in living beings; Arjuna’s grief and delusion all arise from his notion ‘I am theirs and they are mine’. Commenting on 2.11: Arjuna grieved for them, saying ‘I am the cause of their death; what use to me are the pleasures of dominion and the rest, left alone without them?’ (Śaṅkara does not comment on 1.1 to 2.10; this introduction stands at the head of his comment on 2.11, and the day 2 packet prints the same words from the same edition.)"
+    }
+   }
+  }
+ ]
+}

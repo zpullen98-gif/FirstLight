@@ -1,0 +1,23 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 0,
+   "id": "",
+   "problem": "Spread: Rāmānuja holds 11 of 18 days and Madhva appears only on days 17 and 18, although the packets show the others with real, school-marking comments on Rāmānuja days. On 12.5 Śaṅkara (Mahadeva Sastri) takes the worshippers of the Unmanifest as those who identify themselves with the Imperishable and contemplate the Supreme Reality, their greater trouble being that they must abandon attachment to the body. Rāmānuja takes the same word as the individual soul, so the two schools genuinely differ on the key verse. On 14.26 Madhva (Subba Rau) takes Brahman as the intelligent Prakriti, and becoming fit for it as being as beloved of the Lord as she is. The gate warns on the same imbalance.",
+   "fix": "On day 12 name both, keeping the plain sense: ...; Śaṅkara (Advaita), on 12.5, reads the Unmanifested as the Imperishable Supreme Reality, hard to reach because attachment to the body must be abandoned, and Rāmānuja (Viśiṣṭādvaita), on 12.5, as the individual soul (by: shankara, by2: ramanuja, 60 words at most, src naming both editions). Alternatively, or as well, give day 14 to Madhva (Dvaita) on 14.26 from the Subba Rau paragraph quoted in the packet."
+  },
+  {
+   "d": 14,
+   "id": "gita-01-d014-p",
+   "problem": "The plain sense says Krishna 'answers Arjuna’s last question', but 14.21 is a single question in three parts (marks, conduct, how to cross the qualities), and Arjuna asks again at 17.1 and 18.1. A reader will take 'last question' as the final one in the Gita, which is inexact.",
+   "fix": "Plain sense: 'Krishna answers the last part of Arjuna’s question, how to cross the three qualities;' (14 words; the sentence falls to 41 words), reading unchanged."
+  },
+  {
+   "d": 15,
+   "id": "gita-01-d015-p",
+   "problem": "Prose: in 'like the sun reflected in water, which returns to the sun once the water is removed' the relative clause attaches to 'water', so the sentence says the water returns to the sun. Śaṅkara (Mahadeva Sastri, 15.7) says the reflected sun returns to the original sun.",
+   "fix": "Write 'like the sun’s reflection in water, which returns to the sun once the water is removed' (same word count, 45)."
+  }
+ ]
+}

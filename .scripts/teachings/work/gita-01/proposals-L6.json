@@ -1,0 +1,42 @@
+{
+ "lane": "L6",
+ "plan": "gita",
+ "batch": "gita-01",
+ "days": [
+  {
+   "d": 6,
+   "primary": {
+    "id": "gita-01-d006-p",
+    "key": "As a lamp in a windless place flickereth not, to such is likened the Yogî of subdued thought, absorbed in the yoga of the Self.",
+    "ref": "Bhagavad Gita 6.19",
+    "at": [251],
+    "s": "Between rules for sitting and eating and an account of yoga’s joy, Krishna gives an image; Rāmānuja (Viśiṣṭādvaita), on 6.19, reads the flame as the yogi’s self, shining steady in its light of knowledge once the mind’s distractions are shut out.",
+    "by": "ramanuja",
+    "by2": "",
+    "hedge": "",
+    "src": "Rāmānuja, Gītā Bhāṣya, 6.19, A. Govindacharya’s translation, archive.org gita-bhasya (1898)",
+    "basis": {
+     "source": "ramanuja",
+     "words": "as an illustration to show how atma-nature becomes steady and effulgent to that yogi who con-centres his thoughts on it … The purport is, that atma shines steady and radiant in its light of intelligence (jfiana), by reason of all extraneous workings or distractions of the mind having been shut out, like the flame of a lamp burning steady and bright when all breeze is shut out from blowing against it.",
+     "gloss": "The simile is cited to show how the nature of the self (ātman) becomes steady and bright for the yogi who fixes his thought on it; the point is that the self shines steady and radiant in its light of knowledge (jñāna) because every outside working and distraction of the mind has been shut out, as a lamp flame burns steady and bright when every breeze is kept from it."
+    }
+   },
+   "standby": {
+    "id": "gita-01-d006-s",
+    "key": "Without doubt, O mighty-armed, the mind is hard to curb and restless; but it may be curbed by constant practice and by dispassion.",
+    "ref": "Bhagavad Gita 6.35",
+    "at": [267],
+    "s": "Krishna answers Arjuna, who finds the mind as hard to hold as the wind; Śaṅkara, on 6.35, explains practice as constantly repeating one thought on one object, and dispassion as freedom from desire for pleasures, seen or unseen, won by seeing the evil in them.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Gītā Bhāṣya, 6.35, A. Mahadeva Sastri’s translation, 2nd ed., archive.org bhagavadgitwith00agoog (1901)",
+    "basis": {
+     "source": "shankara",
+     "words": "Practice * consists in constantly repeating the same idea 6r thought regarding some one object of thought. 'Indifference * means freedom from desire for any pleasures seen or unseen, attained through a constant perception of evil in them.",
+     "gloss": "Practice is constantly repeating the same idea or thought about some single object of thought. Indifference (vairāgya, the verse’s dispassion) is freedom from desire for any pleasures, seen or unseen, gained by constantly perceiving the evil in them."
+    }
+   }
+  }
+ ]
+}

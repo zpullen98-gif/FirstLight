@@ -1,0 +1,42 @@
+{
+ "id": "gita-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "A portion of Mine own Self, transformed in the world of life into an immortal Spirit, draweth round itself the senses of which the mind is the sixth, veiled in matter.",
+ "ref": "Bhagavad Gita 15.7",
+ "at": [
+  556
+ ],
+ "s": "Having named his supreme abode, from which none return, Krishna turns to the embodied soul; Śaṅkara (Advaita), Gītā Bhāṣya 15.7, reads this portion as a portion only in imagination, like the sun’s reflection in water, which returns to the sun once the water is removed.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Gītā Bhāṣya 15.7, trans. A. Mahadeva Sastri, 2nd ed. (1901), archive.org bhagavadgitwith00agoog",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/bhagavadgitwith00agoog",
+    "edition": "A. Mahadeva Sastri, The Bhagavad-Gita with the Commentary of Sri Sankaracharya, 2nd ed. (1901) (OCR)",
+    "locator": "chapter 15, commentary on 15.7 (read with 15.1 to 15.20, esp. the question closing 15.6)",
+    "via": "packet"
+   }
+  ],
+  "words": "He is like the sun reflected in water ; the reflected sun is but a portion of the real sun ; and on the removal of water the reflected sun returns to the original sun and remains as that very sun. … it is only a portion limited by the up^dhi sjet. up by avidy^ ; it is a portion as it were, an imaginary portion.",
+  "lang": "English (Mahadeva Sastri’s 1901 translation of the Sanskrit)",
+  "gloss": "The individual soul is like the sun reflected in water: the reflection is only a portion of the real sun, and when the water is removed it returns to the original sun and remains that very sun. [To the objection that the partless Supreme Self can have no portion:] it is only a portion limited by the upadhi set up by avidya, a portion as it were, an imaginary portion.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: in the old wording the relative clause \"which returns to the sun\" attached to \"water\", saying the water returns; re-opened Sastri 15.7 via packet.js gita 15 --verse 15.7, which says the reflected sun returns to the original sun on removal of the water. Applied the critic fix: \"like the sun’s reflection in water, which returns to the sun once the water is removed\", so the clause now attaches to the reflection. Only that phrase changed; commentator, place, key, ref, at and src unchanged. 45 words. verse.js ok (15.7, at 556); entry-check ok. Both evidence pieces verbatim from the packet at 15.7."
+}

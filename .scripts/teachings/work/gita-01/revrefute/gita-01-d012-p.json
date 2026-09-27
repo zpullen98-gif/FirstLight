@@ -1,0 +1,9 @@
+{
+ "id": "gita-01-d012-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/bhagavadgitwith00agoog", "found": true},
+ "also_reopened": {"url": "https://archive.org/details/gita-bhasya", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js gita 12 --verse 12.5. Śaṅkara (Mahadeva Sastri 1901) on 12.5: 'greater still is the trouble of those who identify themselves with the Imperishable and contemplate the Supreme Reality, the trouble arising from the necessity of having to abandon their attachment for the body. The Goal, the Imperishable, is very hard for the embodied to reach', with the footnote 'Because of the necessity there is for abandoning attachment to the body'; this carries Unmanifested = the Imperishable/Supreme Reality and the body-attachment reason. Rāmānuja (Govindacharya 1898) in the 12.5 segment: 'Avyakta-Path is the getting the mind to think of the subject relating to avyakta=Individual soul. This is attained with great struggle by the emodted', carrying the individual-soul reading; the difference is genuine and named without resolution, both schools given. Evidence pieces verbatim (ellipsis-split, recheck-evidence style), 77 words. verse.js ok (12.5, at 473, 26 words, no dash, text not apparatus). day.js: plain sense summarises 12.2 to 12.4 (best in yoga; 'these also come unto Me'), no four-word run from the key. entry-check ok, no errors or warns; 54 words under the 60 cap; src 140 chars. Residual nits only: 'Imperishable Supreme Reality' fuses two of Śaṅkara's nouns that he treats as one referent; 'reached only' slightly compresses 'the path ... attained with great struggle'.",
+ "better": "Optional polish: the plain sense could use Besant's 'Indestructible' (12.1, 12.3) instead of the translators' 'Imperishable', so the plain half stays in the passage's own terms."
+}

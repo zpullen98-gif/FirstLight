@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who constantly thinketh upon Me, not thinking ever of another, of him I am easily reached, O Pârtha, of this ever-harmonised Yogî.",
+ "ref": "Bhagavad Gita 8.14",
+ "at": [323],
+ "s": "After the yogi who departs uttering Aum, Krishna turns to the devotee of unbroken remembrance; Rāmānuja (Viśiṣṭādvaita), on 8.14, reads that ease as Krishna’s own work: unable to bear parting from such a devotee, he chooses him, ripens his meditation and clears its obstacles.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya, on 8.14, A. Govindacharya’s English translation (1898), archive.org gita-bhasya",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 8.14 (p. 273)", "via": "packet"}],
+  "words": "I, on My part, would not be able to bear separation of them (My lavers) from Me; and therefore I Myself elect him (vrize). J carry to fruition the Meditation he adopts for reaching Me; / ward off for him the obstacles which may hamper him in his progress in Meditation",
+  "lang": "en",
+  "gloss": "I for my part could not bear the separation of my lovers from me, and therefore I myself choose him; I bring to fruition the meditation he takes up to reach me; I ward off for him the obstacles that could hinder his progress in meditation. (OCR: 'lavers' = lovers, 'J' and '/' = I.)",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 8.14 (verse.js ok, ref and at match). Plain sense faithful: 8.12 to 8.13 describe the yogi who goes forth reciting Aum and thinking on Krishna, and 8.14 turns to the one who thinks on him constantly; no four-word run from the key verse. Rāmānuja's own commentary on 8.14 in the Govindacharya packet explains the ease of access ('I am, again, happily accessible to him this-wise') as Krishna's doing: unable to bear separation from his lovers he elects him, carries his meditation to fruition and wards off its obstacles; his 8.15 comment on the devotees' fervid love is consistent. The reading carries these words without drift and does not rest on Besant's 'ever-harmonised'. School named; entry-check ok with no warnings."
+}

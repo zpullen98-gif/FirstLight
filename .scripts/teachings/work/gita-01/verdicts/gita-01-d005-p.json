@@ -1,0 +1,28 @@
+{
+ "id": "gita-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Sages look equally on a Brâhmana adorned with learning and humility, a cow, an elephant, and even a dog and an outcaste.",
+ "ref": "Bhagavad Gita 5.18",
+ "at": [221],
+ "s": "Krishna, having spoken of wisdom that destroys unwisdom, turns to how the wise regard beings of every rank; Rāmānuja (Viśiṣṭādvaita), Gītā Bhāṣya 5.18, reads it as seeing every self as equal, alike in intelligence, with differences of form belonging to matter, not spirit.",
+ "by": "ramanuja",
+ "by2": "",
+ "hedge": "",
+ "src": "Rāmānuja, Gītā Bhāṣya 5.18, trans. A. Govindacharya (1898), archive.org gita-bhasya",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [{"url": "https://archive.org/details/gita-bhasya", "edition": "A. Govindacharya, Sri Bhagavad-Gita with Sri Ramanujacharya’s Visishtadvaita Commentary (1898), archive.org gita-bhasya (OCR)", "locator": "commentary on 5.18", "via": "packet"}],
+  "words": "The egual-seeing (or regarding), for the knowers of atmanature, consists in the regarding of all atmas (residing in those bodies) as equal, by reason of their essential characteristic, vz., intelligence (jfiana) being a common property. The varied appearances are due to (prakriti) matter; not to (atma) spirit.",
+  "lang": "en",
+  "gloss": "For those who know the nature of the self, seeing equally consists in regarding all selves dwelling in those bodies as equal, because their essential characteristic, intelligence (jñāna), is common to all. The differences in appearance come from matter (prakṛti), not from the self (ātman).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim at 5.18 (verse.js ok, ref and at match; Telang agrees in substance, no Besant colouring used). Plain sense faithful: 5.15 to 5.17 speak of wisdom enveloped by unwisdom and of unwisdom destroyed by the wisdom of the Self, and 5.18 turns to how sages regard a Brâhmana, cow, elephant, dog and outcaste alike. Rāmānuja's own commentary on 5.18 in the Govindacharya packet says equal-seeing is regarding all atmas as equal because intelligence is their common essential property, and that the varied appearances are due to matter, not spirit: the reading carries exactly this. The proposer's evidence spliced two sentences out of order with an ellipsis; the evidence here is one contiguous verbatim run from the packet. School named; entry-check ok."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "gita-01-d014-p",
+ "refuted": false,
+ "reopened": {"url": "https://archive.org/details/gita-bhasya", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js gita 14 --verse 14.26: Govindacharya's Ramanuja comment stands in the 14.26 segment itself and opens 'The chief Means by which to surmount the aforesaid qualities, is now stated', then says qualities cannot be crossed by mere reflection over the matter-soul distinction since reflection is liable to be violated by habits the mind contracted in the long past, and glosses Bhakti-yoga as incessant, all-absorbing love-devotion. Evidence words verbatim (OCR 'lung' kept); they carry chief means, loving devotion, and the reason clause without drift. Revised plain sense checked against day.js: 14.21 is one question in three parts ending 'how doth he go beyond these three qualities'; 14.26 answers that part (Madhva's own comment in the packet says the same), so the revision fixes the earlier 'last question' ambiguity. No four-word run from the key. verse.js ok (14.26, at 548, 23 words, no dash); Besant's 'the Eternal' matches Brahman in Telang/Sastri and the reading does not rest on it. School named, no comparison, not a hard passage, British spelling; entry-check ok, no errors or warns. Residual risk only: 'chief' may be Govindacharya's framing of the avatarika, but it is in the cited translation named in src.",
+ "better": ""
+}
