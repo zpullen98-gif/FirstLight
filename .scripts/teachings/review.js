@@ -17,7 +17,9 @@ const lib = require('./lib');
 const a = process.argv.slice(2);
 const plan = a[0], all = a[1] === 'all', n = all ? 0 : +a[1], out = a[2];
 const flag = k => { const i = a.indexOf(k); return i > -1 ? a[i + 1] : null; };
-const nTrails = +(flag('--trails') || 5), name = flag('--name');
+const nTrails = flag('--trails') === 'all' ? Infinity : +(flag('--trails') || 5), name = flag('--name');
+/* --days a,b,c: only those days (a checkpoint's chosen set) */
+const onlyDays = flag('--days') ? new Set(flag('--days').split(',').map(Number)) : null;
 if (!plan || !(all || n) || !out) { console.error('usage: node .scripts/teachings/review.js <plan> <n|all> <out.html> [--trails 5] [--name dry]'); process.exit(1); }
 
 const ROSTER = JSON.parse(fs.readFileSync(path.join(__dirname, 'roster.json'), 'utf8'));
@@ -40,7 +42,9 @@ refs.forEach(R => {
   const c = lib.lastCritic(R.dir);
   if (c) critics.push(c);
 });
+if (onlyDays) bj.days = bj.days.filter(e => onlyDays.has(e.d));
 bj.days.sort((x, y) => x.d - y.d);
+const HARD = new Set(lib.sensitiveDays(plan, bj.days.map(e => e.d)));
 const critic = critics.length ? { ok: critics.every(c => c.ok), problems: [].concat(...critics.map(c => c.problems || [])) } : null;
 const esc = s => String(s === undefined || s === null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const who = id => (ROSTER.people[id] ? ROSTER.people[id].name : id);
@@ -93,6 +97,7 @@ const entryHTML = e => {
   if (t.rv) tags.push('refuted, then re-verified');
   if (t.kept) tags.push('revised after the critic');
   if (e.id.slice(-1) === 's') tags.push('the standby');
+  if (HARD.has(e.d)) tags.push('a hard passage');
   return '<article class="entry" id="d' + e.d + '"><div class="day">Day ' + e.d + '</div>' +
     '<blockquote>“' + esc(e.key) + '”</blockquote><div class="ref">' + esc(e.ref) + '</div>' +
     '<p class="s">' + esc(e.s) + '</p><p class="src">' + esc(e.src) + '</p>' +
@@ -115,7 +120,11 @@ const trailHTML = e => {
     '</table><p><a href="#d' + e.d + '">Back to the entry</a></p></section>';
 };
 
-const title = 'The Teachings: ' + bj.days.length + ' days of the ' + (plan === 'tao' ? 'Tao Te Ching' : plan) + ' for review';
+/* the work and the translation its key verses are copied from */
+const WORK = { tao: ['the Tao Te Ching', 'Legge’s translation'], pali: ['the Dhammapada', 'Müller’s translation'], gita: ['the Bhagavad Gita', 'Besant’s translation'],
+  upanishads: ['the Upanishads', 'Paramananda’s translation'], analects: ['the Analects', 'Legge’s translation'], zhuangzi: ['the Zhuangzi', 'Giles’ translation'],
+  quran: ['the Qur’an', 'Pickthall’s translation'], veda: ['the Rig Veda', 'Griffith’s translation'], tanakh: ['the Tanakh', 'the JPS translation of 1917'], bible: ['the Bible', 'the World English Bible'] }[plan] || [plan, 'the app’s translation'];
+const title = 'The Teachings: ' + bj.days.length + ' days of ' + WORK[0] + ' for review';
 const html = '<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">' +
   '<title>Teachings review</title><style>' +
   ':root{--bg:#faf8f3;--fg:#23201b;--muted:#6b645a;--line:#e3ddd1;--accent:#8a5a1f;--card:#fffdf8}' +
@@ -134,13 +143,14 @@ const html = '<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><met
   '@media (max-width:560px){th,td{display:block;width:auto;padding:2px 0}th{padding-top:10px}}' +
   '</style></head><body><main>' +
   '<h1>' + esc(title) + '</h1>' +
-  '<p class="lede">' + (all ? 'Batches ' + refs.map(r => r.name).join(', ') : 'Batch ' + B.name) + '. Each day gives a key verse, copied word for word from that day’s chapter in Legge’s translation, and one sentence: the context of the verse in its chapter, then a classical commentator’s reading. ' +
+  '<p class="lede">' + (all ? 'Batches ' + refs.map(r => r.name).join(', ') : 'Batch ' + B.name) + '. Each day gives a key verse, copied word for word from that day’s passage in ' + WORK[1] + ', and one sentence: the context of the verse in its chapter, then a classical commentator’s reading. ' +
   'Commentators: ' + Object.keys(spread).map(k => esc(k) + ' on ' + spread[k] + ' days').join(', ') + '. ' +
   'Every entry survived a verifier who found the commentator’s own words and a refuter told to break it, and a machine found those words again in the source. ' +
-  (bj.holes && bj.holes.length ? 'Days with no surviving entry: ' + bj.holes.join(', ') + '. ' : '') +
+  (bj.holes && bj.holes.length && !onlyDays ? 'Days with no surviving entry: ' + bj.holes.join(', ') + '. ' : '') +
+  (HARD.size ? HARD.size + ' of these days hold a hard passage (war, punishment, law), marked so: each is stated plainly and carries the commentator’s own limit or occasion where he sets one. ' : '') +
   (critic ? 'The critic’s last reading: ' + (critic.ok ? 'no problems.' : critic.problems.length + ' problem(s), listed at the end.') : '') + '</p>' +
   '<h2>The ' + bj.days.length + ' days</h2>' + bj.days.map(entryHTML).join('') +
-  '<h2>' + chosen.length + ' evidence trails, end to end</h2><p class="lede">Chosen to cover each commentator and every corrected, hedged or revised entry, then at random.</p>' +
+  '<h2>' + chosen.length + ' evidence trails, end to end</h2><p class="lede">' + (chosen.length === bj.days.length ? 'One for every day above.' : 'Chosen to cover each commentator and every corrected, hedged or revised entry, then at random.') + '</p>' +
   chosen.map(trailHTML).join('') +
   (critic && !critic.ok ? '<h2>The critic’s open problems</h2><ul>' + critic.problems.map(p => '<li>' + esc(typeof p === 'string' ? p : 'Day ' + p.d + ': ' + p.problem + ' Fix: ' + p.fix) + '</li>').join('') + '</ul>' : '') +
   '</main></body></html>';
