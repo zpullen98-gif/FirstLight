@@ -175,6 +175,7 @@ function courseFileText(part, payload, note, id) {
 function planCourses(checkSet) {
   const corpus = require(path.join(C.ROOT, '.scripts', 'teachings', 'corpus'));
   const sets = readCourseSets();
+  const HOLD = readHold();
   const courses = {}, files = [], report = [], errors = [];
   const want = new Set();
   Object.keys(sets).forEach(id => {
@@ -188,7 +189,15 @@ function planCourses(checkSet) {
     }
     if (set.div !== corpus.courseDiv(id)) { errors.push('teachings/' + id + '.json: written against chamber ' + set.div + ', the chamber is ' + corpus.courseDiv(id)); return; }
     const payload = coursePayload(set, corpus);
-    if (set.days.length === n) {
+    /* a complete course held for the owner's reading stays in preview, as a
+       held work does */
+    if (set.days.length === n && HOLD[id]) {
+      const text = courseFileText('_preview/' + tr, payload, 'a PREVIEW of the course of the ' + tr + ' tradition, complete and held for the owner', id);
+      const p = path.join(COURSE_PREVIEW, tr + '.js');
+      files.push({ path: p, text });
+      want.add(p);
+      report.push(id + ': ' + n + ' of ' + n + ', complete, HELD (' + HOLD[id] + '); preview only (/?nosw&preview=teachings#/hall/' + id + ')');
+    } else if (set.days.length === n) {
       const text = courseFileText(tr, payload, 'the course of the ' + tr + ' tradition', id);
       const p = path.join(COURSE_OUT, tr + '.js');
       files.push({ path: p, text });
