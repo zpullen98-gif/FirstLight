@@ -264,7 +264,6 @@ const firstAll = flat.flatMap(r => r.first).length
 const standbyAlive = flat.flatMap(r => r.second).filter(x => x.alive).length
 log(`primaries alive ${firstAlive} of ${firstAll}; standbys alive ${standbyAlive} of ${flat.flatMap(r => r.second).length}; lanes missing days: ${flat.flatMap(r => r.missing).join(', ') || 'none'}`)
 
-phase('Edit')
 const EDITOR = (again) => `${COMMON}
 
 YOU ARE THE EDITOR for ${NAME}.${again ? ' THIS IS THE SECOND EDIT, after revisions: read everything again from disk; where a revision was cleared, status.js now gives the revised entry.' : ''} Run this and read its JSON: ${STATUS} --json
@@ -292,24 +291,54 @@ YOU ARE THE CRITIC${again ? ', READING AGAIN after revisions (the earlier readin
 - the prose: would a thoughtful reader at six in the morning find each sentence clear, exact and worth reading (no doubled word, no image left without its point)
 Report each problem with its day and entry id, what is wrong, and the fix that would put it right within the rules and the commentator's own words. Name only real problems: a preference is not a problem. WRITE ${file} as {"ok":..,"problems":[{"d":..,"id":..,"problem":..,"fix":..}]} BEFORE you return; ok is true only if you found nothing. Return the schema.`
 
-const REVISE = (items) => `${COMMON}
+/* Revision rounds (lib.roundKey): revise/<id>.json is the first round of an
+   entry, <id>~2.json the second, and each refuter writes under the same name
+   in revrefute/. A.rounds gives each entry's next round, read from disk by
+   run-args.js; a second round in the same run counts on from it. */
+const ROUNDS = Object.assign({}, A.rounds || {})
+const roundFile = (id) => { const k = ROUNDS[id] || 1; return k > 1 ? id + '~' + k : id }
 
-YOU REVISE. The critic questioned these entries; each is a survivor of verification and refutation, and you are a fresh verifier asked whether it should be CORRECTED. For each, read the entry (${STATUS} --json gives it), its verdict files (${DIR}/verdicts/<id>.json, ${DIR}/refutations/<id>.json, ${DIR}/reverify/<id>.json), and the critic's problem and fix:
-${JSON.stringify(items, null, 1)}
+const REVISE = (items, why) => `${COMMON}
+
+YOU REVISE. ${why === 'owner' ? 'The owner read these entries at a checkpoint and amended the rules (the brief now carries the amended rules 1 and 2): each entry must be brought to them.' : 'The critic questioned these entries.'} Each is a survivor of verification and refutation, and you are a fresh verifier asked whether it should be CORRECTED. For each, read the entry as it now stands (${STATUS} --json gives it), its trail (${DIR}/verdicts/<id>.json, ${DIR}/refutations/<id>.json, ${DIR}/reverify/<id>.json, and any earlier rounds in ${DIR}/revise/), and the problems to answer:
+${JSON.stringify(items.map(x => ({ id: x.id, d: x.d, problems: x.problems, write: `${DIR}/revise/${roundFile(x.id)}.json` })), null, 1)}
 Then OPEN THE SOURCE YOURSELF (packet.js for the day) and decide:
-  CORRECTED  the critic is right and the entry can be put right within the rules and the commentator's own words: give the whole corrected entry (key, ref, at, s, by, by2, hedge, src), and evidence whose words carry EVERY part of the corrected reading (several passages of his words may be joined with " … "; each must be verbatim from what you opened, because the operator re-finds each piece by machine);
-  VERIFIED   the critic is wrong, or the fix would go beyond the evidence: give the entry unchanged and say why in reason.
-Run verse.js and entry-check.js on a corrected entry; both must pass. Keep everything the critic did not question.
-WRITE each to ${DIR}/revise/<id>.json (the verdict schema, role as in the id) BEFORE you return. Return all of them through the schema.`
+  CORRECTED  the problem holds and the entry can be put right within the rules and the commentator's own words: give the whole corrected entry (key, ref, at, s, by, by2, hedge, src), and evidence whose words carry EVERY part of the corrected reading (several passages of his words may be joined with " … "; each must be verbatim from what you opened, because the operator re-finds each piece by machine);
+  VERIFIED   the problem does not hold, or the fix would go beyond the evidence: give the entry unchanged and say why in reason.
+Run verse.js and entry-check.js on a corrected entry; both must pass. Keep the commentator and his reading unless a problem is with them; change only what the problems name.
+WRITE each to the "write" path given for it (the verdict schema; id is the entry id, without any round mark) BEFORE you return. Return all of them through the schema.`
 
-const REVREFUTE = (vs) => REFUTE(vs).replace(`(read the full verdicts in ${DIR}/verdicts/)`, `(these are REVISIONS, in ${DIR}/revise/; the entries they would replace are in ${DIR}/verdicts/ and ${DIR}/reverify/)`).split(`${DIR}/refutations/<id>.json`).join(`${DIR}/revrefute/<id>.json`)
+const REVREFUTE = (vs) => REFUTE(vs)
+  .replace(`(read the full verdicts in ${DIR}/verdicts/)`, `(these are REVISIONS: each id's revision is the file named below, and the entry it would replace is in ${DIR}/verdicts/ and ${DIR}/reverify/)`)
+  .replace(`WRITE each refutation to ${DIR}/refutations/<id>.json BEFORE you return.`, `The revisions, and where to WRITE each refutation: ${JSON.stringify(vs.map(v => ({ id: v.id, revision: `${DIR}/revise/${roundFile(v.id)}.json`, write: `${DIR}/revrefute/${roundFile(v.id)}.json` })))}. WRITE each refutation to its write path BEFORE you return.`)
 
-let edit = await agent(EDITOR(false), { label: 'edit', phase: 'Edit', schema: EDIT, effort: 'high' })
+async function reviseRound(items, why) {
+  const res = await parallel(chunk(items, 3).map(g => async () => {
+    const rv = await agent(REVISE(g, why), { label: `revise:${g[0].id}${g.length > 1 ? '..' : ''}`, phase: 'Revise', schema: VERDICTS, effort: 'high' })
+    const corr = ((rv && rv.verdicts) || []).filter(v => v.verdict === 'CORRECTED' && passes(v))
+    if (!corr.length) return g.map(x => ({ id: x.id, kept: false, why: 'no correction' }))
+    const rr = await agent(REVREFUTE(corr), { label: `refute revision:${corr[0].id}${corr.length > 1 ? '..' : ''}`, phase: 'Revise', schema: REFUTATIONS, effort: 'high' })
+    return corr.map(v => { const r = ((rr && rr.refutations) || []).find(x => x.id === v.id); return { id: v.id, kept: !!(r && r.refuted === false) } })
+  }))
+  items.forEach(x => { ROUNDS[x.id] = (ROUNDS[x.id] || 1) + 1 })
+  return res.filter(Boolean).flat()
+}
+
+let revised = []
+/* an owner's amendment: every entry it touches is revised first */
+if ((A.revise || []).length) {
+  phase('Revise')
+  log(`revising ${A.revise.length} entr${A.revise.length === 1 ? 'y' : 'ies'} to the owner's amended rules`)
+  revised = revised.concat(await reviseRound(A.revise, 'owner'))
+  log(`owner's amendment: ${revised.filter(x => x.kept).length} of ${A.revise.length} revisions cleared by their refuters`)
+}
+
+phase('Edit')
+let edit = await agent(EDITOR(revised.length > 0), { label: 'edit', phase: 'Edit', schema: EDIT, effort: 'high' })
 log(`editor: ${edit ? edit.selected : '?'} of ${edit ? edit.days : '?'} selected; holes ${edit ? JSON.stringify(edit.holes) : '?'}; ${edit ? edit.spread : ''}`)
 
 phase('Critic')
 let critic = await agent(CRITIC_PROMPT(`${DIR}/critic-1.json`, false), { label: 'critic', phase: 'Critic', schema: CRITIC, effort: 'medium' })
-let revised = []
 const flagged = critic && !critic.ok ? critic.problems.filter(p => p.id && /-d\d{3}-[ps]$/.test(p.id)) : []
 if (flagged.length) {
   phase('Revise')
@@ -317,15 +346,9 @@ if (flagged.length) {
   flagged.forEach(p => { (byId[p.id] = byId[p.id] || []).push({ problem: p.problem, fix: p.fix }) })
   const items = Object.keys(byId).map(id => ({ id, d: +id.match(/-d(\d{3})-/)[1], problems: byId[id] }))
   log(`critic questioned ${items.length} entr${items.length === 1 ? 'y' : 'ies'}: revising`)
-  const res = await parallel(chunk(items, 3).map(g => async () => {
-    const rv = await agent(REVISE(g), { label: `revise:${g[0].id}${g.length > 1 ? '..' : ''}`, phase: 'Revise', schema: VERDICTS, effort: 'high' })
-    const corr = ((rv && rv.verdicts) || []).filter(v => v.verdict === 'CORRECTED' && passes(v))
-    if (!corr.length) return []
-    const rr = await agent(REVREFUTE(corr), { label: `refute revision:${corr[0].id}${corr.length > 1 ? '..' : ''}`, phase: 'Revise', schema: REFUTATIONS, effort: 'high' })
-    return corr.map(v => { const r = ((rr && rr.refutations) || []).find(x => x.id === v.id); return { id: v.id, kept: !!(r && r.refuted === false) } })
-  }))
-  revised = res.filter(Boolean).flat()
-  log(`revisions kept ${revised.filter(x => x.kept).length} of ${revised.length} corrected`)
+  const round = await reviseRound(items, 'critic')
+  revised = revised.concat(round)
+  log(`revisions kept ${round.filter(x => x.kept).length} of ${round.length}`)
   phase('Edit')
   edit = await agent(EDITOR(true), { label: 'edit(again)', phase: 'Edit', schema: EDIT, effort: 'high' })
   phase('Critic')

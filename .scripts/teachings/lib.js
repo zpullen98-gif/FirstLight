@@ -115,13 +115,26 @@ function stateOf(id, V, R, RV, REV, RR) {
   else if (!rv) return { id, state: 'refuted', final: null };
   else if (passes(rv)) s = { id, state: 'alive', final: rv, afterRefutation: true };
   else return { id, state: 'dead', why: 'refuted, then ' + rv.verdict + ' on re-verification', final: null };
-  const re = REV && REV[id], rr = RR && RR[id];
-  if (re && re.verdict === 'CORRECTED' && passes(re)) {
+  /* revisions come in rounds: revise/<id>.json is the first, <id>~2.json the
+     second, and so on, each with its refuter under the same name in
+     revrefute/. The last cleared round gives the final form; the state
+     reported is the latest round's. */
+  for (let k = 1; REV && REV[roundKey(id, k)]; k++) {
+    const re = REV[roundKey(id, k)], rr = RR && RR[roundKey(id, k)];
+    s.rounds = k;
+    if (!(re.verdict === 'CORRECTED' && passes(re))) { s.revision = 'unchanged'; continue; }
     if (!rr) s.revision = 'unrefuted';
-    else if (rr.refuted === false) { s.final = re; s.revision = 'kept'; }
+    else if (rr.refuted === false) { s.final = re; s.revision = 'kept'; s.keptRound = k; }
     else s.revision = 'refuted';
   }
   return s;
+}
+function roundKey(id, k) { return k > 1 ? id + '~' + k : id; }
+/* The next revision round for a candidate, from the files on disk. */
+function nextRound(dir, id) {
+  let k = 1;
+  while (fs.existsSync(path.join(dir, 'revise', roundKey(id, k) + '.json'))) k++;
+  return k;
 }
 
 /* A batch: plan-NN, or a named dry run (plan-<name>, its days from its brief). */
@@ -156,7 +169,7 @@ function status(plan, n, name) {
       if (!s) return;
       if (s.state === 'unrefuted') out.needRefute.push(s.id);
       if (s.state === 'refuted') out.needReverify.push(s.id);
-      if (s.revision === 'unrefuted') out.needRevRefute.push(s.id);
+      if (s.revision === 'unrefuted') out.needRevRefute.push(roundKey(s.id, s.rounds));
     });
     if (rec.primary && rec.primary.state === 'unverified') out.needVerdict.push(pid);
     if (rec.primary && rec.primary.state === 'dead') {
@@ -182,4 +195,4 @@ function entryOf(final) {
   return e;
 }
 
-module.exports = { ROOT, WORK, CFG, SENSITIVE, PASS, nn, batchName, batchDir, candId, batchDays, batchRef, idOf, sensitiveDays, lanesOf, readJSON, readDirJSON, proposals, passes, stateOf, status, entryOf, ENTRY_FIELDS };
+module.exports = { ROOT, WORK, CFG, SENSITIVE, PASS, nn, batchName, batchDir, candId, batchDays, batchRef, idOf, sensitiveDays, lanesOf, readJSON, readDirJSON, proposals, passes, stateOf, roundKey, nextRound, status, entryOf, ENTRY_FIELDS };

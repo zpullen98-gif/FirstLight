@@ -11,8 +11,10 @@
                   text and not a note, a commentary, a chant or a colophon;
                   begins where a sentence begins and ends in . ? or !; 4 to 60
                   words; no dash; curly quotes only; ref and at are where it is
-     the sentence one sentence, one semicolon, a full stop; at most 60 words,
-                  or 75 when two commentators are named; after the semicolon
+     the sentence one sentence, one semicolon, a full stop; at most 45 words,
+                  or 60 when two commentators are named (the owner, 2026-09-26);
+                  a plain sense that gives context and repeats no four words
+                  in a row of the key verse; after the semicolon
                   a commentator on this plan's closed roster, covering the
                   day's book, then a verb of reading (reads, takes, hears,
                   explains, understands); a school named where one is needed;
@@ -51,6 +53,17 @@ const BANNED = [
   [/\b(superior|inferior)\b/i, 'superior or inferior'], [/\bcorrectly\b/i, 'correctly'], [/\bmistaken(ly)?\b/i, 'mistaken']
 ];
 const WATCH = [[/\bshows?\b/i, 'shows'], [/\breveals?\b/i, 'reveals'], [/\bbetter\b/i, 'better'], [/\bforeshadow/i, 'foreshadows']];
+/* the owner's caps (checkpoint, 2026-09-26): one commentator, two */
+const CAP1 = 45, CAP2 = 60;
+/* Four words in a row from the key verse, in the plain sense, repeat it. */
+function repeated(plain, key) {
+  const w = s => corpus.norm(s).toLowerCase().replace(/[^a-z0-9\u00C0-\u024F\u1E00-\u1EFF' ]+/g, ' ').split(/\s+/).filter(Boolean);
+  const k = w(key), p = w(plain);
+  const grams = new Set();
+  for (let i = 0; i + 4 <= k.length; i++) grams.add(k.slice(i, i + 4).join(' '));
+  for (let i = 0; i + 4 <= p.length; i++) { const g = p.slice(i, i + 4).join(' '); if (grams.has(g)) return g; }
+  return '';
+}
 const ABBREV = /\b(vols?|pp?|chs?|nos?|eds?|trans|cf|ca|ff|vv?|sect?|bk|col|fol|repr)\.\s/gi;
 
 function words(s) { return (String(s).match(/\S+/g) || []).length; }
@@ -125,7 +138,7 @@ function checkEntry(e, ctx) {
   if (/[.]\s+\S/.test(bare)) err('more than one sentence');
   const two = !!e.by2;
   const w = words(s);
-  if (w > (two ? 75 : 60)) err('sentence of ' + w + ' words (at most ' + (two ? 75 : 60) + ')');
+  if (w > (two ? CAP2 : CAP1)) err('sentence of ' + w + ' words (at most ' + (two ? CAP2 : CAP1) + ')');
   const parts = s.split(';');
   const plain = parts[0] || '', reading = (parts.slice(1).join(';') || '').trim();
 
@@ -163,6 +176,9 @@ function checkEntry(e, ctx) {
     else if (!named.has(x.id)) err('names ' + x.n + ' without by2');
   });
   namesOf(e.by).concat(two ? namesOf(e.by2) : []).forEach(n => { if (termRe(n).test(plain)) err('the plain sense names ' + n + ': the reading is attributed only after the semicolon'); });
+  /* the plain sense gives the context; the verse is printed just above it */
+  const rep = repeated(plain, key);
+  if (rep) err('the plain sense repeats the key verse ("' + rep + '"): give the chapter\u2019s context instead');
 
   /* style */
   [['sentence', s], ['source', e.src || '']].forEach(([what, t]) => {
@@ -284,7 +300,8 @@ function selftest() {
     ['two semicolons', e => { e.s = e.s.replace(' and takes', '; and takes'); }, /semicolons/],
     ['two sentences', e => { e.s = e.s.replace(' which benefits', '. It benefits'); }, /more than one sentence/],
     ['a question', e => { e.s = e.s.replace(/\.$/, '?'); }, /question|full stop/],
-    ['61 words', e => { e.s = e.s.replace('the way of the Tao', 'the way of the Tao ' + 'and so on '.repeat(15).trim()); }, /words \(at most 60\)/],
+    ['46 words', e => { e.s = e.s.replace('the way of the Tao', 'the way of the Tao ' + 'and so on '.repeat(5).trim()); }, /words \(at most 45\)/],
+    ['the plain sense repeats the verse', e => { e.s = e.s.replace('The chapter likens the highest excellence to water, which benefits all things and takes the low place', 'The chapter says the highest excellence is like water'); }, /repeats the key verse/],
     ['opens with no roster name', e => { e.s = e.s.replace('Wang Bi, on', 'the old commentary, on'); }, /must open with/],
     ['another tradition named', e => { e.s = e.s.replace('the way of the Tao', 'what Rashi calls humility'); }, /not on the tao roster/],
     ['a second name without by2', e => { e.s = e.s.replace('the way of the Tao', 'the way the Heshang Gong commentary also takes'); }, /without by2/],
@@ -361,7 +378,7 @@ function selftest() {
     const k = 'Thy business is with the action only, never with its fruits; so let not the fruit of action be thy motive, nor be thou to inaction attached.';
     const lg = corpus.locate('gita', 2, k);
     const ge = { d: 2, label: rt.planDayLabel('gita', 2), key: k, ref: lg.ref, at: lg.at,
-      s: 'Krishna tells Arjuna that his concern is with the action alone and never with its fruits; ' + ROSTER.people.ramanuja.name + ', G\u012bt\u0101 Bh\u0101\u1e63ya 2.47, reads it as work done as worship.',
+      s: 'Krishna, answering Arjuna\u2019s refusal to fight, turns to deeds and their rewards; ' + ROSTER.people.ramanuja.name + ', G\u012bt\u0101 Bh\u0101\u1e63ya 2.47, reads it as work done as worship.',
       by: 'ramanuja', src: ROSTER.people.ramanuja.name + ', G\u012bt\u0101 Bh\u0101\u1e63ya 2.47, trans. A. Govindacharya (1898)' };
     const r1 = checkSet({ plan: 'gita', div: rt.planDef('gita').div, days: [ge] }, {});
     const named = Object.assign({}, ge, { s: ge.s.replace(', G\u012bt\u0101', ' (Vi\u015bi\u1e63\u1e6d\u0101dvaita), G\u012bt\u0101') });

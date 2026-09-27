@@ -793,7 +793,7 @@ function sentenceErrors(s, by, roster) {
   const hit = roster.filter(r => s.indexOf(r) > -1);
   const people = new Set(hit.filter(r => !hit.some(o => o !== r && o.indexOf(r) > -1)).map(r => C.TEACH_ALIASES[r] || r));
   const two = people.size > 1;
-  if (w > (two ? 75 : 60)) out.push('sentence of ' + w + ' words');
+  if (w > (two ? 60 : 45)) out.push('sentence of ' + w + ' words');
   if (!/[.]$/.test(s.trim()) || /[.!?]\s+[A-Z]/.test(s)) out.push('not one sentence');
   if (!by || s.indexOf(by) < 0) out.push('the sentence does not name "' + by + '"');
   if (!roster.includes(by)) out.push('"' + by + '" is not on the roster');
@@ -1089,9 +1089,9 @@ function selftest() {
   expectFail('a sentence past 60 words', 'T', ctx => withTeach(ctx, f => { f.days[0].s = 'Wang Bi reads it ' + 'very '.repeat(60) + 'plainly.'; }));
   expectFail('an unspaced double hyphen in a key', 'T', ctx => withTeach(ctx, f => { f.days[0].key = 'Space infinite' + DD + 'Time infinite, and more'; }), /a dash in/);
   {
-    /* one commentator under a long and a short name is one person: 70
-       words may not pass as a sentence naming two */
-    const pad = 'the reading turns on this line '.repeat(11);
+    /* one commentator under a long and a short name is one person: 54
+       words may not pass as a sentence naming two (caps 45 and 60) */
+    const pad = 'the reading turns on this line '.repeat(8);
     const cases = [
       ['John Chrysostom reads ' + pad + 'and Chrysostom stops there.', 'John Chrysostom', 'bible', true],
       ['The Midrash Rabbah reads ' + pad + 'and the Midrash stops there.', 'Midrash Rabbah', 'tanakh', true],

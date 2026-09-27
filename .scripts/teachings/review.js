@@ -34,9 +34,18 @@ const trailOf = e => {
   const v = lib.readJSON(path.join(B.dir, 'verdicts', e.id + '.json')) || {};
   const r = lib.readJSON(path.join(B.dir, 'refutations', e.id + '.json'));
   const rv = lib.readJSON(path.join(B.dir, 'reverify', e.id + '.json'));
-  const re = lib.readJSON(path.join(B.dir, 'revise', e.id + '.json'));
-  const rr = lib.readJSON(path.join(B.dir, 'revrefute', e.id + '.json'));
-  const kept = !!(re && re.verdict === 'CORRECTED' && rr && rr.refuted === false);
+  /* every revision round; the last cleared one is what ships */
+  const rounds = [];
+  for (let k = 1; ; k++) {
+    const key = lib.roundKey(e.id, k);
+    const re1 = lib.readJSON(path.join(B.dir, 'revise', key + '.json'));
+    if (!re1) break;
+    rounds.push({ k, re: re1, rr: lib.readJSON(path.join(B.dir, 'revrefute', key + '.json')) });
+  }
+  const keptR = rounds.filter(x => x.re.verdict === 'CORRECTED' && x.rr && x.rr.refuted === false).pop();
+  const re = keptR ? keptR.re : (rounds.length ? rounds[rounds.length - 1].re : null);
+  const rr = keptR ? keptR.rr : (rounds.length ? rounds[rounds.length - 1].rr : null);
+  const kept = !!keptR;
   return { v, r, rv, re, rr, kept, ev: ((kept ? re : null) || (rv && lib.passes(rv) ? rv : null) || v).evidence || {} };
 };
 

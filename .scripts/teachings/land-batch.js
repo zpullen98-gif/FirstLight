@@ -1,6 +1,6 @@
 /* The Teachings, an operator tool: land a verified batch in its plan's set.
 
-   node .scripts/teachings/land-batch.js <plan> <n>
+   node .scripts/teachings/land-batch.js <plan> <n> [--replace]
 
    Nothing is written until every check passes:
      - the batch has not landed, and its days are free in the set
@@ -40,6 +40,12 @@ function main() {
   if (bj.div && bj.div !== div) refuse('the batch was written against division ' + bj.div + ', the plan is ' + div);
   const set = readSet(plan) || { plan, div, days: [] };
   if (set.div !== div) refuse('the set was written against division ' + set.div);
+  /* --replace: a batch revised under amended rules takes back its own days */
+  if (process.argv.includes('--replace')) {
+    const before = set.days.length;
+    set.days = set.days.filter(e => e.batch !== B.name);
+    console.log('  --replace: ' + (before - set.days.length) + ' landed day(s) of ' + B.name + ' taken back for re-landing');
+  }
   const landed = new Set(set.days.map(e => e.d));
   const entries = bj.days || [];
   const inBatch = new Set(B.days);
@@ -102,6 +108,7 @@ function main() {
   joined.days.forEach(e => { by[e.by] = (by[e.by] || 0) + 1; });
   const L = ledger.plans[plan] || { batches: [] };
   if (!L.batches.includes(B.name)) L.batches.push(B.name);
+  if (process.argv.includes('--replace')) L.relanded = (L.relanded || []).concat([B.name]);
   L.days = joined.days.length;
   L.of = rt.planDays(plan);
   L.by = by;
@@ -113,7 +120,14 @@ function main() {
   if (fs.existsSync(secFile)) {
     let src = fs.readFileSync(SOURCES, 'utf8');
     if (src.indexOf('\n# The Teachings') < 0) src = src.replace(/\s*$/, '\n\n# The Teachings\n\nEach day’s key verse and one sentence, per plan, verified batch by batch; the evidence trails are in .scripts/teachings/work/.\n');
-    src = src.replace(/\s*$/, '\n\n' + fs.readFileSync(secFile, 'utf8').trim() + '\n');
+    const sec = fs.readFileSync(secFile, 'utf8').trim();
+    const head = sec.split('\n')[0];
+    /* a re-landed batch replaces its own section */
+    const at = src.indexOf('\n' + head + '\n');
+    if (at > -1) {
+      const next = src.indexOf('\n## ', at + head.length + 1);
+      src = src.slice(0, at) + '\n' + sec + '\n' + (next > -1 ? src.slice(next) : '');
+    } else src = src.replace(/\s*$/, '\n\n' + sec + '\n');
     fs.writeFileSync(SOURCES, src, 'utf8');
   }
 

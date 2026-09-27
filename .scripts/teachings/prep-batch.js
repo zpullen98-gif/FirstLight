@@ -1,6 +1,6 @@
 /* The Teachings, an operator tool: prepare a batch for its workflow run.
 
-   node .scripts/teachings/prep-batch.js <plan> <n> [--days 1,2,3] [--name dry]
+   node .scripts/teachings/prep-batch.js <plan> <n> [--days 1,2,3] [--name dry] [--redo]
 
    Writes work/<plan>-<NN>/brief.json (everything an agent is bound by) and
    todo.json (what is still to do, read from the files on disk, so a run
@@ -20,8 +20,8 @@ const { readSet } = require('../check-teachings');
 const ROSTER = JSON.parse(fs.readFileSync(path.join(__dirname, 'roster.json'), 'utf8'));
 
 const RULES = [
-  '1. FORM. One sentence: <plain sense>; <Commentator>, <place>, reads it as <reading>. Exactly one semicolon and one full stop, at the end. At most 60 words, or 75 when two commentators are named (then: ...; A (school), place, reads it as X, and B (school), place, as Y.). The verb after the commentator is one of: reads, takes, hears, explains, understands. Never: shows, proves, reveals, the true meaning, actually.',
-  '2. PLAIN SENSE (before the semicolon). What the day’s passage says, anchored on the key verse, in its own terms: who speaks, to whom, what is said or asked or happens. Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim ("the chapter", "the text", "the Master says", "Krishna tells Arjuna"; never "Laozi wrote" or "Muhammad writes"). It never names the commentator.',
+  '1. FORM. One sentence: <plain sense>; <Commentator>, <place>, reads it as <reading>. Exactly one semicolon and one full stop, at the end. Aim for 35 to 45 words; at most 45, or 60 when two commentators are named (then: ...; A (school), place, reads it as X, and B (school), place, as Y.). The owner set this length: a reader meets it at six in the morning. The verb after the commentator is one of: reads, takes, hears, explains, understands. Never: shows, proves, reveals, the true meaning, actually.',
+  '2. PLAIN SENSE (before the semicolon). A short clause of CONTEXT, because the key verse is printed just above the sentence: where the verse stands in the day’s passage and what the passage around it is doing (who speaks, to whom, what the chapter is about, what comes before or after), in the passage’s own terms. It NEVER repeats the key verse’s own words (the gate fails four words in a row taken from the verse) and never paraphrases it line by line. Forms that work: "Closing a chapter on the sage’s humility, the verse ..."; "In a chapter of contrasts between the multitude and the speaker, ..."; "Krishna, answering Arjuna’s doubt about action, ...". Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim ("the chapter", "the text", "the Master says"; never "Laozi wrote" or "Muhammad writes"). It never names the commentator.',
   '3. THE READING (after the semicolon). One commentator from this plan’s roster (two only where they genuinely differ, and then name the difference without resolving it), opening the second half with his display name exactly as the roster gives it, then the place in the commentary (chapter, verse, book and section, page), then a paraphrase that the evidence supports and does not go beyond. No quotation from the commentator in the sentence. At most three words of the key verse may be quoted, in curly quotes.',
   '4. NEVER ANOTHER TRADITION. No comparison, no ranking, no "unlike", "fulfils", "anticipates", "all faiths", "superior". Name other groups only as the day’s text itself names them.',
   '5. DISAGREEMENT IS NAMED, NOT RESOLVED. No "rightly", "better", "more accurately", "correctly", "mistaken".',
@@ -67,7 +67,9 @@ function main() {
   let days = lib.batchDays(plan, n);
   if (dryDays) days = dryDays.split(',').map(Number);
   const landed = new Set(((set && set.days) || []).map(e => e.d));
-  if (!dryName && days.every(d => landed.has(d))) { console.error('refused: ' + lib.batchName(plan, n) + ' has landed'); process.exit(1); }
+  /* --redo: the owner amended the rules after the batch landed; it is prepared
+     again for a revision run and re-landed with land-batch.js --replace */
+  if (!dryName && !args.includes('--redo') && days.every(d => landed.has(d))) { console.error('refused: ' + lib.batchName(plan, n) + ' has landed (use --redo to revise it under amended rules)'); process.exit(1); }
   const missing = [];
   days.forEach(d => packetsFor(plan, d).forEach(p => { if (p.missing) missing.push('day ' + d + ' chapter ' + p.ch); }));
   if (missing.length) { console.error('refused: packets missing (run node .scripts/teachings/fetch-commentary.js ' + plan + '): ' + missing.slice(0, 6).join(', ')); process.exit(1); }

@@ -1,6 +1,6 @@
 /* The Teachings, an operator tool: the args for a batch's workflow run.
 
-   node .scripts/teachings/run-args.js <plan> <n> [--name dry]
+   node .scripts/teachings/run-args.js <plan> <n> [--name dry] [--revise-all "<problem>" "<fix>"]
 
    Prints the JSON to pass as the Workflow tool's args, built from the
    batch's brief.json and todo.json (run prep-batch.js first, and again
@@ -16,8 +16,20 @@ if (!plan || !n) { console.error('usage: node .scripts/teachings/run-args.js <pl
 const B = lib.batchRef(plan, n, dryName);
 const brief = lib.readJSON(path.join(B.dir, 'brief.json'));
 const todo = lib.readJSON(path.join(B.dir, 'todo.json')) || {};
+/* each candidate's next revision round, from disk */
+const rounds = {};
+brief.days.forEach(x => [x.id.primary, x.id.standby].forEach(id => { const k = lib.nextRound(B.dir, id); if (k > 1) rounds[id] = k; }));
+/* --revise-all "<problem>" "<fix>": every survivor revised first (an owner's amendment) */
+const ri = a.indexOf('--revise-all');
+let revise = [];
+if (ri > -1) {
+  const st = lib.status(plan, n, dryName);
+  revise = Object.keys(st.days).map(Number).sort((x, y) => x - y).filter(d => st.days[d].survivor)
+    .map(d => ({ id: st.days[d].survivor.id, d, problems: [{ problem: a[ri + 1], fix: a[ri + 2] }] }));
+  todo.lanesMissing = [];
+}
 if (!brief) { console.error('no brief.json: run prep-batch.js first'); process.exit(1); }
 console.log(JSON.stringify({
   plan, n, name: B.name, dryName: dryName || '', root: lib.ROOT.replace(/\\/g, '/'), dir: B.dir.replace(/\\/g, '/'),
-  lanes: brief.lanes, days: brief.days, todo
+  lanes: brief.lanes, days: brief.days, todo, rounds, revise
 }));
