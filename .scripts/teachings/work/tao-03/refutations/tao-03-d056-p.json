@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d056-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the packet (Wang Bi, Huating Zhang edition, revision 2354026, chapter 56). His base text has 和其光 and 同其塵 as in the day's chapter, commented 無所特顯，則物無所偏爭也 and 無所特賤，則物無所偏恥也; the reading (nothing made to stand out or marked as base, so things have nothing to contend over or be ashamed of) carries exactly these and no more. His variant 解其分 is not relied on. The key verse must start at 'He will blunt' to begin a sentence, so it is the right choice for a reading on its second half. Plain sense (one who knows keeps silent; the chapter lists his ways) matches day.js and does not lean on Legge's parentheses. verse.js ok (Tao Te Ching 56, at [55]); entry-check ok. No comparison, no school, not a hard passage.",
+ "better": ""
+}

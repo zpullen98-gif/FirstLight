@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d081-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: chapter 81 (顯質), on 聖人不積 the comment is 聖人積德不積財, on 既以為人己愈有 it is 既以為人施設德化，己愈有德, and on 既以與人己愈多 it is 既以財賄布施與人，而財益多; 'storing up virtue, not wealth: his virtue grows as he spreads it, his wealth as he gives it away' is exactly those three comments, and the reading does not lean on Legge's '(for himself)'. Plain sense (last chapter, after sayings on speech and knowing) matches unit one of day.js. verse.js ok (ref Tao Te Ching 81, at [80]); entry-check ok; 43 words; one semicolon, colon permitted by the gate.",
+ "better": ""
+}

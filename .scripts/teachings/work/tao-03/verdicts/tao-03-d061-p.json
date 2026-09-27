@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d061-p",
+ "d": 61,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Each gets what it desires, but the great state must learn to abase itself.",
+ "ref": "Tao Te Ching 61",
+ "at": [
+  60
+ ],
+ "s": "Closing a chapter on states that win one another by lowliness, the verse turns to the greater; Wang Bi, on chapter 61, reads it as a small state stooping only to keep itself whole, while all under heaven turns to a great state that stoops.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 61, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 61, comment on 夫兩者各得其所欲，大者宜為下",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "小國修下自全而已，不能令天下歸之，大國修下則天下歸之。故曰，各得其所欲，則大者宜為下也。",
+  "lang": "zh",
+  "gloss": "A small state that cultivates lowliness only keeps itself whole and cannot make all under heaven turn to it; a great state that cultivates lowliness has all under heaven turn to it. Hence: each gets what it desires, and the great one should be the lower.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, at 60). Wang Bi’s comment on the chapter’s closing line says a small state’s lowliness only preserves itself while a great state’s lowliness draws all under heaven, which is what the sentence carries. Read his comments on the whole chapter (江海居大而處下, 靜而不求, 唯修卑下): consistent. Plain sense faithful, no verse words repeated. Gate passes."
+}

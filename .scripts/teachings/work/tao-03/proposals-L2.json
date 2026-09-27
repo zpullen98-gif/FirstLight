@@ -1,0 +1,241 @@
+{
+ "lane": "L2",
+ "plan": "tao",
+ "batch": "tao-03",
+ "days": [
+  {
+   "d": 61,
+   "primary": {
+    "id": "tao-03-d061-p",
+    "key": "Each gets what it desires, but the great state must learn to abase itself.",
+    "ref": "Tao Te Ching 61",
+    "at": [
+     60
+    ],
+    "s": "Closing a chapter on states that win one another by lowliness, the verse turns to the greater; Wang Bi, on chapter 61, reads it as a small state stooping only to keep itself whole, while all under heaven turns to a great state that stoops.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 61, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "小國修下自全而已，不能令天下歸之，大國修下則天下歸之。故曰，各得其所欲，則大者宜為下也。",
+     "gloss": "(On the closing lines, 大國不過欲兼畜人…大者宜為下:) a small state that cultivates lowliness only keeps itself whole and cannot make all under heaven turn to it; a great state that cultivates lowliness has all under heaven turn to it. Hence it says: each gets what it desires, and the great one should be the lower."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d061-s",
+    "key": "Thus it is that a great state, by condescending to small states, gains them for itself; and that small states, by abasing themselves to a great state, win it over to them.",
+    "ref": "Tao Te Ching 61",
+    "at": [
+     60
+    ],
+    "s": "After the female who overcomes the male by stillness, the chapter turns to states great and small; the Heshang Gong commentary, on chapter 61, reads it as teaching that any state, great or small, that holds to humility and nourishes people is without fault.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 61, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "能謙下之，則常有之。…此言國無大小，能持謙畜人，則無過失也。",
+     "gloss": "(On 故大國以下小國，則取小國:) if it can humble itself before them, it keeps them always. … (On 小國以下大國，則取大國:) this says that whether a state is great or small, if it can hold to humility and nourish people, it is without fault."
+    }
+   }
+  },
+  {
+   "d": 62,
+   "primary": {
+    "id": "tao-03-d062-p",
+    "key": "Even men who are not good are not abandoned by it.",
+    "ref": "Tao Te Ching 62",
+    "at": [
+     61
+    ],
+    "s": "Calling the Tao a grace to good men and a guard to bad, the chapter goes further; the Heshang Gong commentary, on chapter 62, reads it as a charge to transform such men by the Tao, for before the Three Sovereigns none were cast off.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 62, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "人雖不善，當以道化之。蓋三皇之前，無有棄民，德化淳也。",
+     "gloss": "(On 人之不善，何棄之有, ‘even men who are not good are not abandoned’:) though a man is not good, he should be transformed by the Tao; for before the Three Sovereigns there were no cast-off people, the transforming power of virtue being pure."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d062-s",
+    "key": "Why was it that the ancients prized this Tao so much? Was it not because it could be got by seeking for it, and the guilty could escape (from the stain of their guilt) by it?",
+    "ref": "Tao Te Ching 62",
+    "at": [
+     61
+    ],
+    "s": "Setting the Tao above gifts of jade and horses, the chapter closes with the ancients; Wang Bi, on chapter 62, reads it as the Tao giving what is sought to those who seek by it, and escape to those who seek escape, extending to everything.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 62, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "以求則得求，以免則得免，無所而不施，故為天下貴也。",
+     "gloss": "(On 古之所以貴此道者何？不曰以求得，有罪以免邪？故為天下貴:) seek by it and one gets what is sought; seek escape by it and one escapes; there is nothing to which it does not extend, and so it is the most prized under heaven."
+    }
+   }
+  },
+  {
+   "d": 63,
+   "primary": {
+    "id": "tao-03-d063-p",
+    "key": "Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties.",
+    "ref": "Tao Te Ching 63",
+    "at": [
+     62
+    ],
+    "s": "Ending a chapter on forestalling difficulty, the text returns to the sage; Wang Bi, on chapter 63, reads it as the sage, for all his gifts, still treating small, easy things as hard, which those without such gifts must heed all the more.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 63, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。",
+     "gloss": "(On 是以聖人猶難之, ‘the sage sees difficulty even in what seems easy’:) even with a sage’s gifts he still treats the small and the easy as hard; how much less may one without a sage’s gifts think to neglect them. Hence it says: he still treats them as hard."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d063-s",
+    "key": "(The master of it) anticipates things that are difficult while they are easy, and does things that would become great while they are small.",
+    "ref": "Tao Te Ching 63",
+    "at": [
+     62
+    ],
+    "s": "After sayings on acting without action, the chapter turns to foresight; the Heshang Gong commentary, on chapter 63, reads it as meeting a hard matter before it has formed and beginning great things small, since calamity and disorder come from small things.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 63, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "欲圖難事，當於易時，未及成也。…欲為大事，必作於小，禍亂從小來也。",
+     "gloss": "(On 圖難於其易:) to plan against a hard matter, it should be at the easy time, before it has come to be. … (On 為大於其細:) to do a great thing, one must work at it while it is small, for calamity and disorder come from small things."
+    }
+   }
+  },
+  {
+   "d": 64,
+   "primary": {
+    "id": "tao-03-d064-p",
+    "key": "Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by.",
+    "ref": "Tao Te Ching 64",
+    "at": [
+     63
+    ],
+    "s": "The chapter ends by setting the sage apart from the many; the Heshang Gong commentary, on chapter 64, reads it as the sage learning what is so of itself and how to govern himself, where others learn cunning and how to govern the world.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 64, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人學人所不能學。人學智詐，聖人學自然；人學治世，聖人學治身；守道真也。",
+     "gloss": "(On 學不學, ‘he learns what (other men) do not learn’:) the sage learns what others cannot learn. Others learn cleverness and deceit; the sage learns what is so of itself. Others learn to govern the world; the sage learns to govern himself. He keeps to the truth of the Tao."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d064-s",
+    "key": "He who acts (with an ulterior purpose) does harm; he who takes hold of a thing (in the same way) loses his hold.",
+    "ref": "Tao Te Ching 64",
+    "at": [
+     63
+    ],
+    "s": "After the tree from a sprout and the journey from one step, the chapter warns; Wang Bi, on chapter 64, reads it as governing by active measures and holding by forms and names, which instead breed trouble and let cunning and evasion multiply.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 64, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "當以慎終除微，慎微除亂，而以施為治之，形名執之，反生事原，巧辟滋作，故敗失也。",
+     "gloss": "(On 為者敗之，執者失之, with the lines before it:) one should remove the minute by care for the end, and remove disorder by care for the minute; but to govern by active measures and to hold things by forms and names instead breeds the source of trouble, and cunning and evasion multiply: hence ruin and loss."
+    }
+   }
+  },
+  {
+   "d": 65,
+   "primary": {
+    "id": "tao-03-d065-p",
+    "key": "The ancients who showed their skill in practising the Tao did so, not to enlighten the people, but rather to make them simple and ignorant.",
+    "ref": "Tao Te Ching 65",
+    "at": [
+     64
+    ],
+    "s": "Opening a chapter against governing by wisdom, the verse recalls the ancients; Wang Bi, on chapter 65, reads the enlightening as seeing much cunning, which clouds their simplicity, and the ignorance as having no knowledge, guarding the genuine and following what is so of itself.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 65, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "明謂多見巧詐，蔽其樸也。愚謂無知守真，順自然也。",
+     "gloss": "(On 非以明民，將以愚之:) ‘enlightening’ means seeing much cunning and deceit, which clouds their unhewn simplicity; ‘making simple’ means having no knowledge, guarding the genuine, and following what is so of itself."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d065-s",
+    "key": "He who (tries to) govern a state by his wisdom is a scourge to it; while he who does not (try to) do so is a blessing.",
+    "ref": "Tao Te Ching 65",
+    "at": [
+     64
+    ],
+    "s": "Tracing unruliness to much knowledge, the chapter weighs two ways of rule; the Heshang Gong commentary, on chapter 65, reads it as setting clever men over the state’s affairs, who stray from the Tao and wield power recklessly, where without them the people keep upright.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 65, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "使智慧之人治國之政事，必遠道德，妄作威福，為國之賊也。…不使智慧之人治國之政事，則民守正直，不為邪飾",
+     "gloss": "(On 以智治國，國之賊:) if clever men are made to run the state’s government, they will stray far from the Tao and its virtue and deal out punishment and favour recklessly, and are the state’s scourge. … (On 不以智治國，國之福:) if clever men are not made to run it, the people keep upright and do not dress up what is crooked."
+    }
+   }
+  },
+  {
+   "d": 66,
+   "primary": {
+    "id": "tao-03-d066-p",
+    "key": "In this way though he has his place above them, men do not feel his weight, nor though he has his place before them, do they feel it an injury to them.",
+    "ref": "Tao Te Ching 66",
+    "at": [
+     65
+    ],
+    "s": "The chapter draws out what the sage’s lowliness brings; the Heshang Gong commentary, on chapter 66, reads it as the sage neither oppressing those below with rank nor overshadowing those behind with brightness, so the people love him as parents and wish him no harm.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 66, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人在民上為主，不以尊貴虐下，故民戴而不為重。…聖人在民前，不以光明蔽後，民親之若父母，無有欲害之心也。",
+     "gloss": "(On 處上而民不重:) the sage, above the people as their ruler, does not use his honoured rank to oppress those below, so the people bear him up and do not find him heavy. … (On 處前而民不害:) the sage, before the people, does not let his brightness overshadow those behind; the people love him as father and mother and have no wish to harm him."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d066-s",
+    "key": "Therefore all in the world delight to exalt him and do not weary of him. Because he does not strive, no one finds it possible to strive with him.",
+    "ref": "Tao Te Ching 66",
+    "at": [
+     65
+    ],
+    "s": "Closing a chapter on ruling from below, the text sums up; the Heshang Gong commentary, on chapter 66, reads the world’s unwearied delight as answering a love that treats the people as infants, and the not striving as not contending over who comes first.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 66, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人恩深愛厚，視民如赤子，故天下樂推進以為主，無有厭也。…天下無厭聖人時，是由聖人不與人爭先後也。",
+     "gloss": "(On 天下樂推而不厭:) the sage’s kindness is deep and his love generous; he looks on the people as infants, so all under heaven gladly push him forward as ruler and never weary of him. … (On 以其不爭:) that all under heaven never weary of the sage comes from his not contending with others over who goes first and who after."
+    }
+   }
+  }
+ ]
+}

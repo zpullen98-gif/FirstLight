@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d076-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (Heshang Gong, revision 1552800, the page for chapters 38 to 81, chapter title 戒強). The comments on 人之生也柔弱 (人生含和氣，抱精神，故柔弱也) and 其死也堅強 (人死和氣竭，精神亡，故堅強也) sit on exactly the two halves of the key line, whose base text matches Legge's, and carry the paraphrase whole: supple while holding harmonious breath, essence and spirit; hard once these are exhausted and gone. The comments on the plants line (和氣存也 / 和氣去也) agree. Plain sense: the key is the chapter's opening sentence and unit 1 pairs softness and weakness with life; 'begins with the body' is a light gloss on 'Man at his birth' before the chapter moves to all things and trees, not a claim beyond the text, and it takes no four words from the verse. verse.js ok (ref Tao Te Ching 76, at [75]); entry-check ok; 43 words; src 137 characters; no school, comparison or tone issue (the chapter's line on forces is outside the key and the reading).",
+ "better": ""
+}

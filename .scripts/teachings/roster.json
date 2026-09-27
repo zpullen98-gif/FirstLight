@@ -370,12 +370,15 @@
         "pali": "all"
       },
       "sources": [
-        "E. W. Burlingame, Buddhist Legends, Harvard Oriental Series 28 to 30 (1921), archive.org buddhistlegends01 to 03 (public domain)",
-        "Max Müller's notes, SBE 10 (1881), as a conduit"
+        "The Pali text: Chaṭṭha Saṅgāyana, Vipassana Research Institute, s0502a.att.xml (free for non-commercial use, with attribution): the explanation of every verse",
+        "E. W. Burlingame, Buddhist Legends, Harvard Oriental Series 28 to 30 (1921), archive.org buddhistlegends01budd to 03budd (public domain): the stories, which frame each verse; Burlingame omits the word-by-word explanations except on verses 324, 354 and 415",
+        "Max Müller’s notes, SBE 10 (1881), as a conduit"
       ],
       "traps": [
         "Never state the ascription to Buddhaghosa as fact.",
-        "Burlingame translates the stories, which frame the verses: the reading is the lesson the story draws from the verse, located by book, story, volume and page."
+        "The reading is the lesson the commentary draws from the verse: from its Pali explanation (Tattha ...), or from the story as Burlingame translates it, located by book and story (Burlingame I.4) and the Norman page he prints.",
+        "Burlingame leaves out the verse explanations (except 324, 354, 415): a reading of a word in the verse comes from the Pali, with the verifier’s gloss.",
+        "Some stories only point to another (“the same as the foregoing”): read the story they point to."
       ],
       "aliases": [
         "the Dhammapada commentary",

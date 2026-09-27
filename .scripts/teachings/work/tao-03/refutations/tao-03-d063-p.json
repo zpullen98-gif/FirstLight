@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d063-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: Wang Bi's comment sits after 是以聖人猶難之 (his closing 故曰，猶難之也 fixes the place), the line Legge renders in the key verse; it reads 以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎. The paraphrase (the sage, for all his gifts, still treats small easy things as hard; those without such gifts must heed them all the more) is his a fortiori without addition. He has no comment on 故終無難矣, and the sentence claims none. Plain sense (a chapter on forestalling difficulty, the sage already named in its second unit so 'returns' holds) is faithful and uses no parenthesis of Legge's. verse.js ok (Tao Te Ching 63, at [62]); entry-check ok; 43 words; no school, comparison or tone issue.",
+ "better": ""
+}

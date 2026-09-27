@@ -1,0 +1,359 @@
+{
+ "plan": "tao",
+ "batch": "tao-03",
+ "div": "bb6ff32525",
+ "days": [
+  {
+   "d": 55,
+   "label": "Tao Te Ching 55",
+   "id": "tao-03-d055-p",
+   "key": "He who has in himself abundantly the attributes (of the Tao) is like an infant. Poisonous insects will not sting him; fierce beasts will not seize him; birds of prey will not strike him.",
+   "ref": "Tao Te Ching 55",
+   "at": [
+    54
+   ],
+   "s": "The chapter opens here, before the infant’s weak bones, firm grip and tireless crying; the Heshang Gong commentary, on chapter 55, reads it as the spirits guarding one who holds virtue as parents guard a newborn, which harms nothing and is harmed by nothing.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 55, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 56,
+   "label": "Tao Te Ching 56",
+   "id": "tao-03-d056-p",
+   "key": "He will blunt his sharp points and unravel the complications of things; he will attemper his brightness, and bring himself into agreement with the obscurity (of others).",
+   "ref": "Tao Te Ching 56",
+   "at": [
+    55
+   ],
+   "s": "Describing one who knows yet keeps silent, the chapter lists his ways; Wang Bi, on chapter 56, reads the tempered brightness and shared obscurity as letting nothing stand out or be marked as base, so things have nothing to contend over or be ashamed of.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 56, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 57,
+   "label": "Tao Te Ching 57",
+   "id": "tao-03-d057-p",
+   "key": "A state may be ruled by (measures of) correction; weapons of war may be used with crafty dexterity; (but) the kingdom is made one’s own (only) by freedom from action and purpose.",
+   "ref": "Tao Te Ching 57",
+   "at": [
+    56
+   ],
+   "s": "Opening a chapter on prohibitions that breed poverty and theft, the text sets correction and war by craft beside inaction; Wang Bi, on chapter 57, reads rule by correction as laws aimed at the branches, leaving the root unestablished, which must end in crafty war.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 57, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 58,
+   "label": "Tao Te Ching 58",
+   "id": "tao-03-d058-p",
+   "key": "Therefore the sage is (like) a square which cuts no one (with its angles); (like) a corner which injures no one (with its sharpness). He is straightforward, but allows himself no license; he is bright, but does not dazzle.",
+   "ref": "Tao Te Ching 58",
+   "at": [
+    57
+   ],
+   "s": "Closing a chapter where correction turns to distortion, the text pictures the sage through paired contraries; Wang Bi, on chapter 58, reads it as guiding things away from crookedness without cutting them, and lighting what misleads them without hunting out their hidden faults.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 58, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 59,
+   "label": "Tao Te Ching 59",
+   "id": "tao-03-d059-p",
+   "key": "For regulating the human (in our constitution) and rendering the (proper) service to the heavenly, there is nothing like moderation.",
+   "ref": "Tao Te Ching 59",
+   "at": [
+    58
+   ],
+   "s": "The chapter opens with this counsel and ends on deep roots; the Heshang Gong commentary, on chapter 59, reads moderation as cherishing and sparing: a ruler sparing the people’s wealth, without extravagance, and one governing the self sparing his vital essence, without dissipation.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 59, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 60,
+   "label": "Tao Te Ching 60",
+   "id": "tao-03-d060-p",
+   "key": "Governing a great state is like cooking small fish.",
+   "ref": "Tao Te Ching 60",
+   "at": [
+    59
+   ],
+   "s": "Opening a chapter on rule by the Tao, the likeness comes from the kitchen; the Heshang Gong commentary, on chapter 60, reads it as fish cooked ungutted, unscaled and unstirred lest they break, as fuss disorders a state and scatters a body’s vital essence.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 60, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 61,
+   "label": "Tao Te Ching 61",
+   "id": "tao-03-d061-p",
+   "key": "Each gets what it desires, but the great state must learn to abase itself.",
+   "ref": "Tao Te Ching 61",
+   "at": [
+    60
+   ],
+   "s": "Closing a chapter on states that win one another by lowliness, the verse turns to the greater; Wang Bi, on chapter 61, reads it as a small state stooping only to keep itself whole, while all under heaven turns to a great state that stoops.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 61, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 62,
+   "label": "Tao Te Ching 62",
+   "id": "tao-03-d062-p",
+   "key": "Even men who are not good are not abandoned by it.",
+   "ref": "Tao Te Ching 62",
+   "at": [
+    61
+   ],
+   "s": "Calling the Tao a grace to good men and a guard to bad, the chapter goes further; the Heshang Gong commentary, on chapter 62, reads it as a charge to transform such men by the Tao, for before the Three Sovereigns none were cast off.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 62, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 63,
+   "label": "Tao Te Ching 63",
+   "id": "tao-03-d063-p",
+   "key": "Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties.",
+   "ref": "Tao Te Ching 63",
+   "at": [
+    62
+   ],
+   "s": "Ending a chapter on forestalling difficulty, the text returns to the sage; Wang Bi, on chapter 63, reads it as the sage, for all his gifts, still treating small, easy things as hard, which those without such gifts must heed all the more.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 63, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 64,
+   "label": "Tao Te Ching 64",
+   "id": "tao-03-d064-p",
+   "key": "Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by.",
+   "ref": "Tao Te Ching 64",
+   "at": [
+    63
+   ],
+   "s": "The chapter ends by setting the sage apart from the many; the Heshang Gong commentary, on chapter 64, reads it as the sage learning what is so of itself and how to govern himself, where others learn cunning and how to govern the world.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 64, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 65,
+   "label": "Tao Te Ching 65",
+   "id": "tao-03-d065-p",
+   "key": "The ancients who showed their skill in practising the Tao did so, not to enlighten the people, but rather to make them simple and ignorant.",
+   "ref": "Tao Te Ching 65",
+   "at": [
+    64
+   ],
+   "s": "Opening a chapter against governing by wisdom, the verse recalls the ancients; Wang Bi, on chapter 65, reads the enlightening as seeing much cunning, which clouds their simplicity, and the ignorance as having no knowledge, guarding the genuine and following what is so of itself.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 65, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 66,
+   "label": "Tao Te Ching 66",
+   "id": "tao-03-d066-p",
+   "key": "In this way though he has his place above them, men do not feel his weight, nor though he has his place before them, do they feel it an injury to them.",
+   "ref": "Tao Te Ching 66",
+   "at": [
+    65
+   ],
+   "s": "The chapter draws out what the sage’s lowliness brings; the Heshang Gong commentary, on chapter 66, reads it as the sage neither oppressing those below with rank nor overshadowing those behind with brightness, so the people love him as parents and wish him no harm.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 66, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 67,
+   "label": "Tao Te Ching 67",
+   "id": "tao-03-d067-p",
+   "key": "But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others.",
+   "ref": "Tao Te Ching 67",
+   "at": [
+    66
+   ],
+   "s": "After answering what the world says of the speaker’s Tao, the chapter names his treasures; the Heshang Gong commentary, on chapter 67, reads the three as loving the people like infants, taxing as though taking from oneself, and keeping humble, never first to begin.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 67, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 68,
+   "label": "Tao Te Ching 68",
+   "id": "tao-03-d068-p",
+   "key": "He who vanquishes yet still Keeps from his foes apart; He whose hests men most fulfil Yet humbly plies his art.",
+   "ref": "Tao Te Ching 68",
+   "at": [
+    67
+   ],
+   "s": "In a chapter on the skilled warrior, the verse turns to victory and command; the Heshang Gong commentary, on chapter 68, reads the victor as winning by benevolence and virtue, so foes yield without contest, and the good user of men as keeping below them.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 68, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 69,
+   "label": "Tao Te Ching 69",
+   "id": "tao-03-d069-p",
+   "key": "Thus it is that when opposing weapons are (actually) crossed, he who deplores (the situation) conquers.",
+   "ref": "Tao Te Ching 69",
+   "at": [
+    68
+   ],
+   "s": "Closing a chapter on war that begins with a saying about yielding ground, the verse speaks of armies meeting; Wang Bi, on chapter 69, takes those who grieve as sure to cherish one another, neither chasing gain nor shunning harm, and so sure to win.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 69, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 70,
+   "label": "Tao Te Ching 70",
+   "id": "tao-03-d070-p",
+   "key": "My words are very easy to know, and very easy to practise; but there is no one in the world who is able to know and able to practise them.",
+   "ref": "Tao Te Ching 70",
+   "at": [
+    69
+   ],
+   "s": "In a chapter where few know the speaker, the verse opens on his words; Wang Bi, on chapter 70, takes them as known without leaving home and done without action, but restless desire keeps men from knowing them, and glory and profit from practising them.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 70, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 71,
+   "label": "Tao Te Ching 71",
+   "id": "tao-03-d071-p",
+   "key": "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.",
+   "ref": "Tao Te Ching 71",
+   "at": [
+    70
+   ],
+   "s": "Opening a short chapter on a sickness, the verse contrasts two ways of knowing; the Heshang Gong commentary, on chapter 71, reads it as knowing the Tao yet saying one does not, virtue at its height, and saying one knows it without knowing, virtue’s sickness.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 71, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 72,
+   "label": "Tao Te Ching 72",
+   "id": "tao-03-d072-p",
+   "key": "When the people do not fear what they ought to fear, that which is their great dread will come on them.",
+   "ref": "Tao Te Ching 72",
+   "at": [
+    71
+   ],
+   "s": "Opening a chapter on the people and the sage, the verse gives a warning; Wang Bi, on chapter 72, takes it to mean that once stillness and humility give way to reliance on might, might no longer holds the people, and Heaven’s punishment comes.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 72, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 73,
+   "label": "Tao Te Ching 73",
+   "id": "tao-03-d073-p",
+   "key": "It is the way of Heaven not to strive, and yet it skilfully overcomes; not to speak, and yet it is skilful in obtaining a reply; does not call, and yet men come to it of themselves.",
+   "ref": "Tao Te Ching 73",
+   "at": [
+    72
+   ],
+   "s": "Weighing daring against not daring, the chapter turns to Heaven’s way; Wang Bi, on chapter 73, reads it as uncontested because it does not contend, answering with fortune for compliance and misfortune for defiance, and dwelling low, so things return of themselves.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 73, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 74,
+   "label": "Tao Te Ching 74",
+   "id": "tao-03-d074-p",
+   "key": "There is always One who presides over the infliction of death. He who would inflict death in the room of him who so presides over it may be described as hewing wood instead of a great carpenter.",
+   "ref": "Tao Te Ching 74",
+   "at": [
+    73
+   ],
+   "s": "Having questioned rule by fear of death, the chapter turns to who kills; the Heshang Gong commentary, on chapter 74, reads the One as Heaven, watching men’s faults, and a ruler killing in its stead as a clumsy workman, toiling in vain and wounding himself.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 74, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 75,
+   "label": "Tao Te Ching 75",
+   "id": "tao-03-d075-p",
+   "key": "The people are difficult to govern because of the (excessive) agency of their superiors (in governing them). It is through this that they are difficult to govern.",
+   "ref": "Tao Te Ching 75",
+   "at": [
+    74
+   ],
+   "s": "Set between famine and making light of death, the verse names a second trouble; Wang Bi, on chapter 75, reads the chapter as tracing the people’s waywardness and the disorder of government to those above, not below, for the people follow those above.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 75, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 76,
+   "label": "Tao Te Ching 76",
+   "id": "tao-03-d076-p",
+   "key": "Man at his birth is supple and weak; at his death, firm and strong.",
+   "ref": "Tao Te Ching 76",
+   "at": [
+    75
+   ],
+   "s": "Opening a chapter that pairs softness with life, the verse begins with the body; the Heshang Gong commentary, on chapter 76, reads the living as supple while they hold harmonious breath, essence and spirit, and the dead as hard once these are gone.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 76, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 77,
+   "label": "Tao Te Ching 77",
+   "id": "tao-03-d077-p",
+   "key": "Who can take his own superabundance and therewith serve all under heaven? Only he who is in possession of the Tao!",
+   "ref": "Tao Te Ching 77",
+   "at": [
+    76
+   ],
+   "s": "Having set Heaven’s way of evening out against man’s, the chapter asks and answers; Wang Bi, on chapter 77, reads the one who has the Tao as dwelling in fullness yet wholly empty, taking from what is to make up what is not.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 77, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 78,
+   "label": "Tao Te Ching 78",
+   "id": "tao-03-d078-p",
+   "key": "Every one in the world knows that the soft overcomes the hard, and the weak the strong, but no one is able to carry it out in practice.",
+   "ref": "Tao Te Ching 78",
+   "at": [
+    77
+   ],
+   "s": "From water, softest of things, the chapter turns to people; the Heshang Gong commentary, on chapter 78, reads it through water quenching fire and the tongue outlasting the teeth, and takes the failure to practise it as shame at humility and love of force.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 78, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 79,
+   "label": "Tao Te Ching 79",
+   "id": "tao-03-d079-p",
+   "key": "When a reconciliation is effected (between two parties) after a great animosity, there is sure to be a grudge remaining (in the mind of the one who was wrong).",
+   "ref": "Tao Te Ching 79",
+   "at": [
+    78
+   ],
+   "s": "The chapter opens on this difficulty before turning to the sage’s half of the record; Wang Bi, on chapter 79, reads the animosity as born of an agreement not clearly settled, and the grudge as a wound that reconciling by virtue does not heal.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 79, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 80,
+   "label": "Tao Te Ching 80",
+   "id": "tao-03-d080-p",
+   "key": "Though they had boats and carriages, they should have no occasion to ride in them; though they had buff coats and sharp weapons, they should have no occasion to don or use them.",
+   "ref": "Tao Te Ching 80",
+   "at": [
+    79
+   ],
+   "s": "Picturing a little state of few people, the chapter turns to travel and arms; the Heshang Gong commentary, on chapter 80, reads the idle boats as stillness and non-action, fond of no pleasure trips, and the idle arms as no resentment anywhere under Heaven.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 80, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  },
+  {
+   "d": 81,
+   "label": "Tao Te Ching 81",
+   "id": "tao-03-d081-p",
+   "key": "The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself.",
+   "ref": "Tao Te Ching 81",
+   "at": [
+    80
+   ],
+   "s": "The last chapter, after sayings on speech and knowing, turns here to the sage; the Heshang Gong commentary, on chapter 81, reads him as storing up virtue, not wealth: his virtue grows as he spreads it, his wealth as he gives it away.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 81, zh.wikisource (a normalised text), revision 1552800 (2019)"
+  }
+ ],
+ "holes": []
+}

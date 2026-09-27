@@ -1,0 +1,23 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 74,
+   "id": "tao-03-d074-p",
+   "problem": "Rule 6 on a hard passage (the infliction of death): the reading stops at labouring to no effect, but the commentary sets its own limit on the line just after the key verse (夫代大匠斲者，希有不傷手矣): 人君行刑罰，猶拙夫代大匠斲，則方圓不得其理，還自傷。代天殺者…還受其殃, the ruler who punishes in Heaven’s place harms himself in turn and suffers its calamity. The brief requires the comment on the line after the key verse to be read and its limit carried.",
+   "fix": "Carry the self-harm, from the commentary’s own words (還自傷): Having questioned rule by fear of death, the chapter turns to who kills; the Heshang Gong commentary, on chapter 74, reads the One as Heaven, watching men’s faults, and a ruler killing in its stead as a clumsy workman, toiling in vain and wounding himself. (45 words; entry-check ok). Add 還自傷 to the evidence words with the gloss ‘and in turn harms himself’."
+  },
+  {
+   "d": 72,
+   "id": "tao-03-d072-p",
+   "problem": "Prose: ‘warning’ is doubled across the semicolon (‘the verse gives a warning; … takes it as warning that’), a repetition that reads as a slip at six in the morning.",
+   "fix": "Drop the second ‘warning’: Opening a chapter on the people and the sage, the verse gives a warning; Wang Bi, on chapter 72, takes it to mean that once stillness and humility give way to reliance on might, might no longer holds the people, and Heaven’s punishment comes. (44 words; entry-check ok)."
+  },
+  {
+   "d": 70,
+   "id": "tao-03-d070-p",
+   "problem": "Prose: the gapped clause ‘keeps men from knowing and glory and profit from practising’ first parses as ‘knowing (and) glory and profit’, so the reader must go back to find the second subject.",
+   "fix": "Give each verb its object and mark the gap with a comma: In a chapter where few know the speaker, the verse opens on his words; Wang Bi, on chapter 70, takes them as known without leaving home and done without action, but restless desire keeps men from knowing them, and glory and profit from practising them. (45 words; entry-check ok; Wang Bi’s 不出戶窺牖而知 is kept as ‘without leaving home’)."
+  }
+ ]
+}

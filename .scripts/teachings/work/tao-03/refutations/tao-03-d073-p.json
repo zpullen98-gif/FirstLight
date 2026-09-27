@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d073-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: Wang Bi’s base lines 天之道，不爭而善勝，不言而善應，不召而自來 match Legge’s key verse, and his three comments carry the three parts of the reading in order: 天唯不爭，故天下莫能與之爭 (Heaven does not contend, so none can contend with it), 順則吉，逆則凶，不言而善應也 (fortune for compliance, misfortune for defiance, is its answering without speech), 處下則物自歸 (dwelling below, things return of themselves). No drift beyond referring to Heaven’s way as “it”. Plain sense (daring against not daring, then Heaven’s way) matches day.js, leans on none of Legge’s parentheses and repeats no four words of the key. verse.js ok (ref Tao Te Ching 73, at [72]); entry-check ok. Key verse is not itself a hard line; no school, comparison or tone issue.",
+ "better": ""
+}

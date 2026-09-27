@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d074-p",
+ "d": 74,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "There is always One who presides over the infliction of death. He who would inflict death in the room of him who so presides over it may be described as hewing wood instead of a great carpenter.",
+ "ref": "Tao Te Ching 74",
+ "at": [
+  73
+ ],
+ "s": "Having questioned rule by fear of death, the chapter turns to who kills; the Heshang Gong commentary, on chapter 74, reads the One as Heaven, watching men’s faults, and a ruler killing in its stead as a clumsy workman, toiling in vain and wounding himself.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 74, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 74 (制惑), comments on 常有司殺者, 夫代司殺者，是謂代大匠斲 and 夫代大匠斲者，希有不傷手矣",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "via": "packet"
+   }
+  ],
+  "words": "司殺者謂天，居高臨下，司察人過。 … 人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也。 … 人君行刑罰，猶拙夫代大匠斲，則方圓不得其理，還自傷。",
+  "lang": "Classical Chinese",
+  "gloss": "The one who presides over killing means Heaven, which dwells on high, looks down on what is below and watches men’s faults. … A ruler who wishes to kill in its stead is like a clumsy man hewing wood in place of the great carpenter: he toils and achieves nothing. … A ruler who carries out punishments is like the clumsy man hewing in place of the great carpenter: square and round miss their pattern, and in turn he harms himself.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "law",
+ "confidence": "high",
+ "reason": "Problem holds. Re-opened packet.js tao 74 (Heshang Gong, revision 1552800): on the line just after the key verse, 夫代大匠斲者，希有不傷手矣, the commentary says 人君行刑罰，猶拙夫代大匠斲，則方圓不得其理，還自傷, so the ruler who punishes in Heaven’s place harms himself; rule 6 and the plan trap require the limit on the line after the key verse to be carried. The reading now ends ‘toiling in vain and wounding himself’, and the evidence adds 還自傷. ‘watching over’ trimmed to ‘watching’ (司察) to keep 45 words; ‘clumsy hand’ becomes ‘clumsy workman’ (拙夫). Commentator, key verse and plain sense unchanged. verse.js ok (Tao Te Ching 74, at [73]); entry-check ok (45 words)."
+}

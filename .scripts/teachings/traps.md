@@ -26,6 +26,8 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - A comment that points back (此上之所云也, this is what was said above) is not a reading in itself. Name what the earlier lines say, from the commentator's own comments on them. (Found in tao-01.)
 - 任 in Wang Bi's 任自然 is to leave things to themselves, not to follow: a reading in which heaven and earth, or the sage, follow what is so of itself turns his non-interference into imitation of nature, which is nearer the Heshang Gong commentary's idiom. Render 任 as leaving to, or letting be. (Found in the tao-01 restyle.)
 - A plain sense written as a participle with no main clause ("Closing a chapter on water,") attaches itself to whatever follows the semicolon, the commentator. Give the context clause its own subject and verb, or make the verse its subject. (Found in the tao-01 restyle.)
+- The packet may group a chapter's closing lines under one Wang Bi comment: find which sentence of the block glosses which line before building on it (chapter 77: 唯其道也 closes the gloss on 唯有道者). Where he comments once on a run of lines, a closing 故曰 quoting a line fixes where the comment belongs (chapter 63). (Found in tao-03.)
+- A limit on a hard passage may be spread across two comments: chapter 74's first says the ruler's effort fails (勞而無功), the second, on the next line, that he harms himself (還自傷). A reading that stops at the first has not carried the limit. (Found in tao-03, by the critic after two passes missed it.)
 
 ## pali
 

@@ -1,0 +1,241 @@
+{
+ "lane": "L4",
+ "plan": "tao",
+ "batch": "tao-03",
+ "days": [
+  {
+   "d": 73,
+   "primary": {
+    "id": "tao-03-d073-p",
+    "key": "It is the way of Heaven not to strive, and yet it skilfully overcomes; not to speak, and yet it is skilful in obtaining a reply; does not call, and yet men come to it of themselves.",
+    "ref": "Tao Te Ching 73",
+    "at": [
+     72
+    ],
+    "s": "Weighing daring against not daring, the chapter turns to Heaven’s way; Wang Bi, on chapter 73, reads it as uncontested because it does not contend, answering with fortune for compliance and misfortune for defiance, and dwelling low, so things return of themselves.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 73, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "天唯不爭，故天下莫能與之爭。…順則吉，逆則凶，不言而善應也。…處下則物自歸。",
+     "gloss": "(On not striving yet overcoming:) Heaven simply does not contend, and so nothing in the world can contend with it. … (On not speaking yet answering:) Go along with it and there is good fortune, go against it and there is misfortune: that is not speaking and yet answering well. … (On not calling yet men come:) It dwells below, and so things return to it of themselves."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d073-s",
+    "key": "The meshes of the net of Heaven are large; far apart, but letting nothing escape.",
+    "ref": "Tao Te Ching 73",
+    "at": [
+     72
+    ],
+    "s": "Closing a chapter on Heaven’s uncontending way, the verse turns to its net; the Heshang Gong commentary, on chapter 73, reads the net as Heaven keeping watch over the good and evil of men, missing nothing though its meshes lie wide.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 73, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "天所網羅恢恢甚大，雖疏遠，司察人善惡，無有所失。",
+     "gloss": "What Heaven nets and gathers in is vast and very great; though its meshes are wide and far apart, it watches over the good and evil of men, and nothing is lost."
+    }
+   }
+  },
+  {
+   "d": 74,
+   "primary": {
+    "id": "tao-03-d074-p",
+    "key": "There is always One who presides over the infliction of death. He who would inflict death in the room of him who so presides over it may be described as hewing wood instead of a great carpenter.",
+    "ref": "Tao Te Ching 74",
+    "at": [
+     73
+    ],
+    "s": "Having questioned rule by fear of death, the chapter turns to who kills; the Heshang Gong commentary, on chapter 74, reads the One as Heaven, watching over men’s faults, and a ruler killing in its stead as a clumsy hand, labouring to no effect.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 74, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "司殺者謂天，居高臨下，司察人過。…人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也。",
+     "gloss": "The one who presides over killing means Heaven, which dwells on high, looks down on what is below and watches over men’s faults. … A ruler who wishes to kill in its stead is like a clumsy man hewing wood in place of the great carpenter: he toils and achieves nothing."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d074-s",
+    "key": "The people do not fear death; to what purpose is it to (try to) frighten them with death?",
+    "ref": "Tao Te Ching 74",
+    "at": [
+     73
+    ],
+    "s": "The verse opens a chapter on putting wrongdoers to death; the Heshang Gong commentary, on chapter 74, reads the people’s fearlessness as born of punishments too cruel to live under, from a ruler threatening death instead of easing punishment and teaching the shedding of desire.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 74, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "治國者刑罰酷深，民不聊生，故不畏死也。…人君不寬刑罰，教民去情欲，奈何設刑法以死懼之？…當除己之所殘剋，教民去利欲也。",
+     "gloss": "When those who govern the state make punishments cruel and severe, the people have nothing to live on, and so they do not fear death. … The ruler does not relax punishments and teach the people to put away passion and desire: why then set up penal laws to frighten them with death? … (To make the people fear death) he should remove his own cruelty and harshness and teach the people to put away the desire for gain."
+    }
+   }
+  },
+  {
+   "d": 75,
+   "primary": {
+    "id": "tao-03-d075-p",
+    "key": "The people are difficult to govern because of the (excessive) agency of their superiors (in governing them). It is through this that they are difficult to govern.",
+    "ref": "Tao Te Ching 75",
+    "at": [
+     74
+    ],
+    "s": "Set between famine and making light of death, the verse names a second trouble; Wang Bi, on chapter 75, reads the chapter as tracing the people’s waywardness and the disorder of government to those above, not below, for the people follow those above.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 75, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "言民之所以僻，治之所以亂，皆由上不由其下也，民從上也。",
+     "gloss": "It says that the reason the people go astray and the reason government falls into disorder both lie with those above and not with those below: the people follow those above."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d075-s",
+    "key": "The people suffer from famine because of the multitude of taxes consumed by their superiors. It is through this that they suffer famine.",
+    "ref": "Tao Te Ching 75",
+    "at": [
+     74
+    ],
+    "s": "Opening a chapter of three troubles among the people, the verse begins with hunger; the Heshang Gong commentary, on chapter 75, reads it as the fruit of a ruler’s heavy taxing, by whom the people are turned to greed, forsaking the Tao and virtue.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 75, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "人民所以饑深者，以其君上稅食下太多，民皆化上為貪，叛道違德，故饑。",
+     "gloss": "The reason the people’s hunger is deep is that their ruler taxes and eats from those below far too much; the people are all transformed by those above into greed, rebel against the Tao and go against virtue, and so they go hungry."
+    }
+   }
+  },
+  {
+   "d": 76,
+   "primary": {
+    "id": "tao-03-d076-p",
+    "key": "Man at his birth is supple and weak; at his death, firm and strong.",
+    "ref": "Tao Te Ching 76",
+    "at": [
+     75
+    ],
+    "s": "Opening a chapter that pairs softness with life, the verse begins with the body; the Heshang Gong commentary, on chapter 76, reads the living as supple while they hold harmonious breath, essence and spirit, and the dead as hard once these are gone.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 76, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "人生含和氣，抱精神，故柔弱也。…人死和氣竭，精神亡，故堅強也。",
+     "gloss": "A man alive holds the harmonious breath and embraces essence and spirit, and so he is supple and weak. … When a man dies the harmonious breath is exhausted and essence and spirit are gone, and so he is hard and strong."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d076-s",
+    "key": "Hence he who (relies on) the strength of his forces does not conquer; and a tree which is strong will fill the out-stretched arms, (and thereby invites the feller.)",
+    "ref": "Tao Te Ching 76",
+    "at": [
+     75
+    ],
+    "s": "After pairing hardness with death and softness with life, the chapter turns to armies and trees; Wang Bi, on chapter 76, reads the first as one who uses a strong army for violence in the world, whom all things hate and who therefore cannot win.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 76, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "强兵以暴於天下者，物之所惡也，故必不得勝。",
+     "gloss": "One who uses a strong army to do violence in the world is what all things hate, and so he surely cannot win."
+    }
+   }
+  },
+  {
+   "d": 77,
+   "primary": {
+    "id": "tao-03-d077-p",
+    "key": "Who can take his own superabundance and therewith serve all under heaven? Only he who is in possession of the Tao!",
+    "ref": "Tao Te Ching 77",
+    "at": [
+     76
+    ],
+    "s": "Having set Heaven’s way of evening out against man’s, the chapter asks and answers; Wang Bi, on chapter 77, reads the one who has the Tao as dwelling in fullness yet wholly empty, taking from what is to make up what is not.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 77, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "言唯能處盈而全虛，損有以補無，和光同塵，蕩而均者，唯其道也。",
+     "gloss": "It says that only one who can dwell in fullness yet keep emptiness entire, take from what is to make up what is not, soften his light and share the dust, and be broad and even: only one with the Tao."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d077-s",
+    "key": "Who can take his own superabundance and therewith serve all under heaven? Only he who is in possession of the Tao!",
+    "ref": "Tao Te Ching 77",
+    "at": [
+     76
+    ],
+    "s": "Having set man’s way against Heaven’s, the chapter asks and answers; the Heshang Gong commentary, on chapter 77, reads it of a ruler who pares his own rank and pay to serve those who lack, which only a ruler with the Tao can do.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 77, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "言誰能居有餘之位，自省爵祿以奉天下不足者乎？唯有道之君能行也。",
+     "gloss": "It says: who can hold a place of superabundance and himself cut down his rank and emoluments to serve those in the world who lack? Only a ruler who has the Tao can do it."
+    }
+   }
+  },
+  {
+   "d": 78,
+   "primary": {
+    "id": "tao-03-d078-p",
+    "key": "Every one in the world knows that the soft overcomes the hard, and the weak the strong, but no one is able to carry it out in practice.",
+    "ref": "Tao Te Ching 78",
+    "at": [
+     77
+    ],
+    "s": "From water, softest of things, the chapter turns to people; the Heshang Gong commentary, on chapter 78, reads it through water quenching fire and the tongue outlasting the teeth, and takes the failure to practise it as shame at humility and love of force.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 78, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "水能滅火，陰能消陽。…舌柔齒剛，齒先舌亡。…恥謙卑，好強梁。",
+     "gloss": "(On the weak overcoming the strong:) Water can put out fire; yin can dissolve yang. … (On the soft overcoming the hard:) The tongue is soft and the teeth hard; the teeth perish before the tongue. … (On no one being able to practise it:) They are ashamed of humility and lowliness, and love force and violence."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d078-s",
+    "key": "Therefore a sage has said, ‘He who accepts his state’s reproach, Is hailed therefore its altars’ lord; To him who bears men’s direful woes They all the name of King accord.’",
+    "ref": "Tao Te Ching 78",
+    "at": [
+     77
+    ],
+    "s": "Turning from water’s softness to kingship, the chapter cites a sage; the Heshang Gong commentary, on chapter 78, reads it of a ruler who, like rivers and seas taking in small streams, accepts the state’s filth, and who takes the people’s calamity on himself.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 78, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "人君能受國之垢濁者，若江海不逆小流，則能長保其社稷，為一國之君主也。…人君能引過自與，代民受不祥之殃，則可以王天下。",
+     "gloss": "A ruler who can take on the filth and turbidity of the state, as rivers and seas do not refuse small streams, can long keep its altars of land and grain and be lord of the state. … A ruler who can draw faults upon himself and receive the calamity of ill omen in the people’s stead can be king of all under heaven."
+    }
+   }
+  }
+ ]
+}

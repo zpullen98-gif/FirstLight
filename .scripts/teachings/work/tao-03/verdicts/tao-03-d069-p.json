@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d069-p",
+ "d": 69,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Thus it is that when opposing weapons are (actually) crossed, he who deplores (the situation) conquers.",
+ "ref": "Tao Te Ching 69",
+ "at": [
+  68
+ ],
+ "s": "Closing a chapter on war that begins with a saying about yielding ground, the verse speaks of armies meeting; Wang Bi, on chapter 69, takes those who grieve as sure to cherish one another, neither chasing gain nor shunning harm, and so sure to win.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 69, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 69, comment on 故抗兵相加，哀者勝矣",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "抗，舉也；加，當也。哀者，必相惜而不趣利避害，故必勝。",
+  "lang": "Classical Chinese",
+  "gloss": "Kang means to raise; jia means to meet. Those who grieve are sure to cherish one another and do not rush after gain or flee from harm; therefore they are sure to win.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 69, at [68]); Wang Bi’s base line 故抗兵相加，哀者勝矣 is the key verse’s line, and his comment on it carries the reading: those who grieve cherish one another, neither hasten to gain nor avoid harm, and so win. Plain sense states the war setting in plain terms (armies meeting; the chapter opens with the saying about retiring a foot rather than advancing), without softening, and leans on none of Legge’s parentheses. The limit Wang Bi sets (not chasing gain) is carried. entry-check ok, 45 words."
+}

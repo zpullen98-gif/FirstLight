@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d059-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (the 38 to 81 page, correct for chapter 59): the commentary's base text 治人，事天，莫若嗇 matches the key verse, and its comment on 莫若嗇 is verbatim 嗇，愛惜也。治國者當愛民財，不為奢泰。治身者當愛精氣，不為放逸。 The paraphrase (cherishing and sparing; one governing the state spares the people's wealth, not extravagant; one governing the self spares vital essence, not dissolute) is carried word for word; 'a ruler' for 治國者 is fair. The reading does not rest on Legge's parenthesis '(in our constitution)'. Plain sense (opens with the counsel, ends on deep roots) is accurate to day.js, thin but within rule 2, and repeats no four verse words. verse.js ok (Tao Te Ching 59, at [58]); entry-check ok; 43 words; no school, comparison or tone issue.",
+ "better": ""
+}

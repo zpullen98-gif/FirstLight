@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d081-p",
+ "d": 81,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself.",
+ "ref": "Tao Te Ching 81",
+ "at": [
+  80
+ ],
+ "s": "The last chapter, after sayings on speech and knowing, turns here to the sage; the Heshang Gong commentary, on chapter 81, reads him as storing up virtue, not wealth: his virtue grows as he spreads it, his wealth as he gives it away.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 81, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (normalised text)",
+    "locator": "chapter 81 (顯質), comments on 聖人不積, 既以為人己愈有, 既以與人己愈多",
+    "via": "packet"
+   }
+  ],
+  "words": "聖人積德不積財，有德以教愚，有財以與貧也。…既以為人施設德化，己愈有德。…既以財賄布施與人，而財益多",
+  "lang": "zh",
+  "gloss": "The sage stores up virtue, not wealth: with virtue he teaches the ignorant, with wealth he gives to the poor. … Having spread virtue’s transforming work for others, he has the more virtue. … Having given his goods to others, his wealth grows the more.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (ok true, at 80). The Heshang Gong commentary on the three lines reads the sage as storing virtue not wealth, his virtue increasing as he spreads it and his wealth as he gives it; the sentence says exactly this. Wang Bi’s comments here are terse (無私自有, 物所尊也), so the choice is sound. Gate passes."
+}

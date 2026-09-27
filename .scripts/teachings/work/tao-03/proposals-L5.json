@@ -1,0 +1,124 @@
+{
+ "lane": "L5",
+ "plan": "tao",
+ "batch": "tao-03",
+ "days": [
+  {
+   "d": 79,
+   "primary": {
+    "id": "tao-03-d079-p",
+    "key": "When a reconciliation is effected (between two parties) after a great animosity, there is sure to be a grudge remaining (in the mind of the one who was wrong).",
+    "ref": "Tao Te Ching 79",
+    "at": [
+     78
+    ],
+    "s": "The chapter opens on this difficulty before turning to the sage’s half of the record; Wang Bi, on chapter 79, reads the animosity as born of an agreement not clearly settled, and the grudge as a wound that reconciling by virtue does not heal.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 79, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "不明理其契，以致大怨已至。而德和之，其傷不復，故有餘怨也。",
+     "gloss": "Failing to settle the terms of one’s agreement clearly brings it about that great resentment has come; and though virtue then reconciles it, the wound is not restored, and so resentment remains."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d079-s",
+    "key": "In the Way of Heaven, there is no partiality of love; it is always on the side of the good man.",
+    "ref": "Tao Te Ching 79",
+    "at": [
+     78
+    ],
+    "s": "Closing a chapter on the sage who presses no claim, the verse turns to Heaven; the Heshang Gong commentary, on chapter 79, reads Heaven as holding none near or far, and the good man it favours as the one who keeps to the tally.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 79, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "有德之君，司察契信而已。…天道無有親疏，唯與善人，則與司契者也。",
+     "gloss": "The ruler who has virtue attends only to the good faith of the tally, nothing more. … The Way of Heaven holds none near and none far; it gives only to good men, that is, to those who keep to the tally."
+    }
+   }
+  },
+  {
+   "d": 80,
+   "primary": {
+    "id": "tao-03-d080-p",
+    "key": "Though they had boats and carriages, they should have no occasion to ride in them; though they had buff coats and sharp weapons, they should have no occasion to don or use them.",
+    "ref": "Tao Te Ching 80",
+    "at": [
+     79
+    ],
+    "s": "Picturing a little state of few people, the chapter turns to travel and arms; the Heshang Gong commentary, on chapter 80, reads the idle boats as stillness and non-action, fond of no pleasure trips, and the idle arms as no resentment anywhere under Heaven.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 80, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "清靜無為，不作煩華，不好出入遊娛也。…無怨惡於天下。",
+     "gloss": "Clear and still, not acting, making no troublesome show, not fond of going out and about for travel and amusement. … No resentment or hatred anywhere under Heaven."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d080-s",
+    "key": "In a little state with a small population, I would so order it, that, though there were individuals with the abilities of ten or a hundred men, there should be no employment of them; I would make the people, while looking on death as a grievous thing, yet not remove elsewhere (to avoid it).",
+    "ref": "Tao Te Ching 80",
+    "at": [
+     79
+    ],
+    "s": "The chapter opens with the speaker imagining how he would govern; Wang Bi, on chapter 80, reads the little state as an example: if even a small state of few people can be turned back to antiquity, how much more a large, populous one.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 80, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "國既小，民又寡，尚可使反古，況國大民眾乎？故舉小國而言也。",
+     "gloss": "The state being small and its people few, it can still be made to return to antiquity; how much more a state that is large, with many people. So the text takes the small state to speak of."
+    }
+   }
+  },
+  {
+   "d": 81,
+   "primary": {
+    "id": "tao-03-d081-p",
+    "key": "The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself.",
+    "ref": "Tao Te Ching 81",
+    "at": [
+     80
+    ],
+    "s": "The last chapter, after sayings on speech and knowing, turns here to the sage; the Heshang Gong commentary, on chapter 81, reads him as storing up virtue, not wealth: his virtue grows as he spreads it, his wealth as he gives it away.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 81, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人積德不積財，有德以教愚，有財以與貧也。…既以為人施設德化，己愈有德。…既以財賄布施與人，而財益多",
+     "gloss": "The sage stores up virtue and does not store up wealth: having virtue, he teaches the ignorant; having wealth, he gives to the poor. … Having spread the transforming work of virtue for others, he himself has the more virtue. … Having given his goods and wealth away to others, his wealth grows the more."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d081-s",
+    "key": "The sage does not accumulate (for himself). The more that he expends for others, the more does he possess of his own; the more that he gives to others, the more does he have himself.",
+    "ref": "Tao Te Ching 81",
+    "at": [
+     80
+    ],
+    "s": "Between sayings on speech and on Heaven’s Way, the last chapter turns to the sage; Wang Bi, on chapter 81, reads him as free of self-interest, siding only with the good, and his having more as things honouring him and turning to him.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 81, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "無私自有，唯善是與，任物而已。…物所尊也。…物所歸也。",
+     "gloss": "Free of self-interest, he has of himself; he sides only with the good; he leaves things to themselves, nothing more. … He is the one things honour. … He is the one things turn to."
+    }
+   }
+  }
+ ]
+}

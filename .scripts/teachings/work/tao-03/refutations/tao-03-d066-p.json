@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d066-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: Wang Bi has no comment on chapter 66, so the Heshang Gong commentary (revision 1552800, title 後己) is the right choice. Its comments on 處上而民不重 and 處前而民不害, the two halves of the key verse, read 聖人在民上為主，不以尊貴虐下，故民戴而不為重 and 聖人在民前，不以光明蔽後，民親之若父母，無有欲害之心也; the paraphrase (not oppressing those below with rank, not overshadowing those behind with brightness, the people loving him as parents and wishing him no harm) is carried by these words. The only compression is that ‘so’ hangs the love-as-parents consequence on both clauses where the commentary gives it to the second (the first yields 民戴而不為重); this does not add a claim the commentary does not make. Plain sense (what the sage’s lowliness brings) matches the preceding unit. verse.js ok (Tao Te Ching 66, at [65]); entry-check ok; 45 words; no school, comparison or tone issue.",
+ "better": ""
+}

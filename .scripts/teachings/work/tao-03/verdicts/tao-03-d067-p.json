@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d067-p",
+ "d": 67,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others.",
+ "ref": "Tao Te Ching 67",
+ "at": [
+  66
+ ],
+ "s": "After answering what the world says of the speaker’s Tao, the chapter names his treasures; the Heshang Gong commentary, on chapter 67, reads the three as loving the people like infants, taxing as though taking from oneself, and keeping humble, never first to begin.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 67, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 67 (三寶), comments on 一曰慈，二曰儉，三曰不敢為天下先",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "愛百姓若赤子。…賦歛若取之於己也。…執謙退，不為倡始也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On gentleness:) loving the hundred clans as newborn infants. (On economy:) levying taxes as though taking them from oneself. (On not daring to be first:) holding to humility and withdrawal, not being the one who starts things.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 67, at [66]). The Heshang Gong commentary glosses each of the three treasures on its own line: 慈 as loving the people as infants, 儉 as taxing as though taking from oneself, 不敢為天下先 as holding to humility and not initiating. The sentence carries exactly these three glosses; Wang Bi’s comment on the same lines treats their effects, not their content. Plain sense (the chapter answers what the world says of its Tao, then names the treasures) is faithful and repeats no four words of the key. entry-check ok, 44 words."
+}

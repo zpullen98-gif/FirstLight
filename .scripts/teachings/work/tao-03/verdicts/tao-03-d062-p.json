@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d062-p",
+ "d": 62,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Even men who are not good are not abandoned by it.",
+ "ref": "Tao Te Ching 62",
+ "at": [
+  61
+ ],
+ "s": "Calling the Tao a grace to good men and a guard to bad, the chapter goes further; the Heshang Gong commentary, on chapter 62, reads it as a charge to transform such men by the Tao, for before the Three Sovereigns none were cast off.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 62, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 62 (title 為道), comment on 人之不善，何棄之有",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "人雖不善，當以道化之。蓋三皇之前，無有棄民，德化淳也。",
+  "lang": "zh",
+  "gloss": "Though a man is not good, he should be transformed by the Tao; for in the age before the Three Sovereigns there were no cast-off people, the transforming power of virtue being pure.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, at 61); the Heshang Gong line 人之不善，何棄之有 is the line Legge renders. Its comment says such men should be transformed by the Tao and that before the Three Sovereigns no people were cast off; the sentence says exactly that. Wang Bi’s comment here (不善當保道以免放) is a single thin clause, so the choice of commentator is sound. Plain sense draws on the chapter’s opening (grace to good men, guard to bad), not on the key verse. Gate passes."
+}

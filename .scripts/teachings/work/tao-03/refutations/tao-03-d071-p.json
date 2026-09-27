@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d071-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and the live revision 1552800 (action=raw): under ==知病== (chapter 71) the comments on 知不知上 and 不知知病 read 知道言不知，是乃德之上 and 不知道言知，是乃德之病, exactly the reading given. The reading uses the commentary’s 言 (saying), not Legge’s supplied ‘(think)’, so it is not the translator’s. Plain sense (a short chapter on a sickness, two ways of knowing) holds with the parentheses struck out. verse.js ok (at 70); entry-check ok; ellipsis in evidence is handled by recheck-evidence.js.",
+ "better": ""
+}

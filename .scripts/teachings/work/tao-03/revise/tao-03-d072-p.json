@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d072-p",
+ "d": 72,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "When the people do not fear what they ought to fear, that which is their great dread will come on them.",
+ "ref": "Tao Te Ching 72",
+ "at": [
+  71
+ ],
+ "s": "Opening a chapter on the people and the sage, the verse gives a warning; Wang Bi, on chapter 72, takes it to mean that once stillness and humility give way to reliance on might, might no longer holds the people, and Heaven’s punishment comes.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 72, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 72, comment on 民不畏威，則大威至。無狎其所居，無厭其所生。",
+    "via": "packet"
+   }
+  ],
+  "words": "離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻，威不能復制民，民不能堪其威，則上下大潰矣，天誅將至。故曰，民不畏威，則大威至。",
+  "lang": "Classical Chinese",
+  "gloss": "If one departs from clear stillness, follows restless desire, casts off humility and keeping behind, and relies on awesome power, things are disturbed and the people go astray; might can no longer control the people, the people cannot bear the might, high and low collapse, and Heaven’s punishment is about to come. Hence it says: when the people do not fear might, great might arrives.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: ‘warning’ stood on both sides of the semicolon. Only the second is dropped (‘takes it to mean that’); the reading is unchanged and still rests on Wang Bi’s comment in packet.js tao 72 (revision 2354026), 離其清淨…天誅將至。故曰，民不畏威，則大威至, re-opened and found verbatim. verse.js ok (at [71]); entry-check ok (44 words)."
+}

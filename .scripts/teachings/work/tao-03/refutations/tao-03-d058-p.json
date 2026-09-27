@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d058-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: Wang Bi's base lines 是以聖人方而不割 and 光而不燿 are the first and last clauses Legge renders in the key verse. His comment on the first is 以方導物，舍去其邪，不以方割物 (guides things with squareness so they leave their crookedness, not cutting them); on the last 以光鑑其所以迷，不以光照求其隱慝也 (lights what misleads them, not searching out hidden wrongs). Both segments are verbatim in the packet and the recheck splits on the ellipsis. The paraphrase is carried by these words without drift; it covers two of the four clauses, which is a selection, not an overreach. Plain sense (correction turning to distortion, the sage drawn in contraries) is faithful to day.js, leans on no parenthesis and repeats no four verse words. verse.js ok (Tao Te Ching 58, at [57]); entry-check ok; 43 words; src 98 chars; no school, comparison or tone issue.",
+ "better": ""
+}

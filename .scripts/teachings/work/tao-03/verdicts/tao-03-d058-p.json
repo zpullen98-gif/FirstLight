@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d058-p",
+ "d": 58,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore the sage is (like) a square which cuts no one (with its angles); (like) a corner which injures no one (with its sharpness). He is straightforward, but allows himself no license; he is bright, but does not dazzle.",
+ "ref": "Tao Te Ching 58",
+ "at": [
+  57
+ ],
+ "s": "Closing a chapter where correction turns to distortion, the text pictures the sage through paired contraries; Wang Bi, on chapter 58, reads it as guiding things away from crookedness without cutting them, and lighting what misleads them without hunting out their hidden faults.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 58, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 58, comments on 是以聖人方而不割 and 光而不燿 (whole chapter read)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "以方導物，舍去其邪，不以方割物…以光鑑其所以迷，不以光照求其隱慝也",
+  "lang": "Classical Chinese",
+  "gloss": "With squareness he guides things so that they leave off their crookedness, and does not use squareness to cut things. … With light he illumines what leads them astray, and does not use its shining to search out their hidden wrongs.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 58, at [57]). Wang Bi’s base text (方而不割 … 光而不燿) matches Legge’s lines. His comment on 方而不割 is guiding things with squareness so they leave their crookedness without cutting them; on 光而不燿, using light to show what misleads them without searching out hidden faults. The sentence paraphrases exactly these two comments; “lighting” for 鑑 is a fair rendering. Plain sense (the chapter closes after correction turns to distortion, the sage drawn in contraries) is faithful to day.js and repeats no four words of the key. entry-check ok, 43 words."
+}

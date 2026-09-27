@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d075-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: Wang Bi has one comment on chapter 75, after the whole chapter: 言民之所以僻，治之所以亂，皆由上不由其下也，民從上也. The sentence says he reads the chapter (not the single line) as tracing the people’s waywardness and the disorder of government to those above, not below, since the people follow those above: word for word within the comment, and 治之所以亂 bears directly on the key verse. His base line 民之難治，以其上之有為，是以難治 matches Legge’s key verse. Plain sense (between famine and making light of death, a second trouble) matches day.js and does not use Legge’s parentheses. Locator right. verse.js ok (ref Tao Te Ching 75, at [74]); entry-check ok. Note only: the Heshang Gong comment on this very line (以其君上多欲，好有為也 … 其民化上有為，情偽難治) is more closely tied to the key verse, but Wang Bi’s reading is his own, found at the place named, and the batch balance favours neither strongly.",
+ "better": "Optional alternative: the Heshang Gong commentary, chapter 75 (貪損), on 民之難治，以其上之有為: 以其君上多欲，好有為也 … 是以其民化上有為，情偽難治 (the ruler’s many desires and love of action are copied by the people, whose feigning makes them hard to govern), revision 1552800."
+}

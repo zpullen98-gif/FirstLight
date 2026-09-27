@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d070-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and the live revision 2354026 (action=raw): under ==七十章==, the comment on 吾言甚易知，甚易行。天下莫能知，莫能行。 reads 可不出戶窺牖而知…無為而成…惑於躁欲…迷於榮利, carrying every clause (known without going out of doors, done without action, restless desire blocks knowing, glory and profit block practice). Wang Bi’s base line matches Legge’s. Plain sense (few know the speaker) is in the chapter and leans on no parenthesis. verse.js ok (ref Tao Te Ching 70, at 69); entry-check ok. No school, comparison or tone issue.",
+ "better": ""
+}

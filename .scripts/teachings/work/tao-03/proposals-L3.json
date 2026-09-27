@@ -1,0 +1,241 @@
+{
+ "lane": "L3",
+ "plan": "tao",
+ "batch": "tao-03",
+ "days": [
+  {
+   "d": 67,
+   "primary": {
+    "id": "tao-03-d067-p",
+    "key": "But I have three precious things which I prize and hold fast. The first is gentleness; the second is economy; and the third is shrinking from taking precedence of others.",
+    "ref": "Tao Te Ching 67",
+    "at": [
+     66
+    ],
+    "s": "After answering what the world says of the speaker’s Tao, the chapter names his treasures; the Heshang Gong commentary, on chapter 67, reads the three as loving the people like infants, taxing as though taking from oneself, and keeping humble, never first to begin.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 67, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "愛百姓若赤子。…賦歛若取之於己也。…執謙退，不為倡始也。",
+     "gloss": "Loving the hundred clans as newborn infants. … Levying taxes as though taking them from oneself. … Holding to humility and withdrawal, not being the one who starts things."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d067-s",
+    "key": "With that gentleness I can be bold; with that economy I can be liberal; shrinking from taking precedence of others, I can become a vessel of the highest honour.",
+    "ref": "Tao Te Ching 67",
+    "at": [
+     66
+    ],
+    "s": "Between the three treasures and a warning against dropping them, the verse names their fruits; Wang Bi, on chapter 67, takes gentleness as winning and holding firm, frugality as leaving the world unexhausted, and keeping behind as drawing things to one who then leads them.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 67, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "夫慈，以陳則勝，以守則固，故能勇也。…節儉愛費，天下不匱，故能廣也。…唯後外其身，為物所歸，然後乃能立成器為天下利，為物之長也。",
+     "gloss": "Gentleness, set in battle array, wins, and on guard holds firm; hence it can be bold. … Being frugal and sparing of expense, the world does not run short; hence it can be broad. … Only one who puts his own person last and outside becomes that to which things turn; only then can he set up finished vessels for the world’s benefit and be the head of things."
+    }
+   }
+  },
+  {
+   "d": 68,
+   "primary": {
+    "id": "tao-03-d068-p",
+    "key": "He who vanquishes yet still Keeps from his foes apart; He whose hests men most fulfil Yet humbly plies his art.",
+    "ref": "Tao Te Ching 68",
+    "at": [
+     67
+    ],
+    "s": "In a chapter on the skilled warrior, the verse turns to victory and command; the Heshang Gong commentary, on chapter 68, reads the victor as winning by benevolence and virtue, so foes yield without contest, and the good user of men as keeping below them.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 68, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "善以道勝敵者，附近以仁，來遠以德，不與敵爭，而敵自服也。…善用人自輔佐者，常為人執謙下也。",
+     "gloss": "One good at conquering enemies by the Tao draws the near with benevolence and brings the distant with virtue; he does not contend with the enemy, and the enemy submits of itself. … One good at using men to assist him always keeps himself humble and below them."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d068-s",
+    "key": "He who in (Tao’s) wars has skill Assumes no martial port; He who fights with most good will To rage makes no resort.",
+    "ref": "Tao Te Ching 68",
+    "at": [
+     67
+    ],
+    "s": "Opening a chapter on the master warrior, the verse begins with bearing and temper; Wang Bi, on chapter 68, takes martial bearing as prizing the lead to override others, and the good fighter as coming after and answering, never leading, so anger has no place.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 68, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "武，尚先陵人也。…後而不先，應而不唱，故不在怒。",
+     "gloss": "‘Martial’ is prizing being first and overriding others. … He comes after and not first, answers and does not lead off; hence anger has no place in him."
+    }
+   }
+  },
+  {
+   "d": 69,
+   "primary": {
+    "id": "tao-03-d069-p",
+    "key": "Thus it is that when opposing weapons are (actually) crossed, he who deplores (the situation) conquers.",
+    "ref": "Tao Te Ching 69",
+    "at": [
+     68
+    ],
+    "s": "Closing a chapter on war that begins with a saying about yielding ground, the verse speaks of armies meeting; Wang Bi, on chapter 69, takes those who grieve as sure to cherish one another, neither chasing gain nor shunning harm, and so sure to win.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 69, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "抗，舉也；加，當也。哀者，必相惜而不趣利避害，故必勝。",
+     "gloss": "Kang means to raise; jia means to meet. Those who grieve are sure to cherish one another and neither rush after gain nor flee from harm; hence they are sure to win."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d069-s",
+    "key": "A master of the art of war has said, ‘I do not dare to be the host (to commence the war); I prefer to be the guest (to act on the defensive). I do not dare to advance an inch; I prefer to retire a foot.’",
+    "ref": "Tao Te Ching 69",
+    "at": [
+     68
+    ],
+    "s": "Opening a chapter on war, the text cites a saying; the Heshang Gong commentary, on chapter 69, takes the host as raising troops first and the guest as moving only after Heaven, advancing as invading borders for gain and retreating as shutting the gates.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 69, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "主，先也。不敢先舉兵。…客者，和而不倡。用兵當承天而後動。…侵人境界，利人財寶，為進；閉門守城，為退。",
+     "gloss": "The host means going first: not daring to be first to raise troops. … The guest harmonises and does not lead; in using troops one should follow Heaven and only then move. … Invading others’ borders and profiting from their wealth is advancing; shutting the gates and guarding the city is retreating."
+    }
+   }
+  },
+  {
+   "d": 70,
+   "primary": {
+    "id": "tao-03-d070-p",
+    "key": "My words are very easy to know, and very easy to practise; but there is no one in the world who is able to know and able to practise them.",
+    "ref": "Tao Te Ching 70",
+    "at": [
+     69
+    ],
+    "s": "In a chapter where few know the speaker, the verse opens on his words; Wang Bi, on chapter 70, takes them as known without going out of doors and done without action, but restless desire keeps men from knowing and glory and profit from practising.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 70, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "可不出戶窺牖而知，故曰甚易知也。無為而成，故曰甚易行也。惑於躁欲，故曰，莫之能知也。迷於榮利，故曰，莫之能行也。",
+     "gloss": "It can be known without going out of the door or peering through the window, hence ‘very easy to know’. It is accomplished without action, hence ‘very easy to practise’. Deluded by restless desire, hence ‘none can know it’. Lost in glory and profit, hence ‘none can practise it’."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d070-s",
+    "key": "It is thus that the sage wears (a poor garb of) hair cloth, while he carries his (signet of) jade in his bosom.",
+    "ref": "Tao Te Ching 70",
+    "at": [
+     69
+    ],
+    "s": "Closing a chapter on words that are easy yet little known, the text turns to the sage; the Heshang Gong commentary, on chapter 70, reads the haircloth as meagre outside and the jade as rich within, treasure and virtue hidden from view.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 70, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "被褐者薄外，懷玉者厚內，匿寶藏德，不以示人也。",
+     "gloss": "Wearing coarse haircloth is being meagre outside; holding jade in the bosom is being rich within: he hides his treasure and stores his virtue, not showing them to others."
+    }
+   }
+  },
+  {
+   "d": 71,
+   "primary": {
+    "id": "tao-03-d071-p",
+    "key": "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.",
+    "ref": "Tao Te Ching 71",
+    "at": [
+     70
+    ],
+    "s": "Opening a short chapter on a sickness, the verse contrasts two ways of knowing; the Heshang Gong commentary, on chapter 71, reads it as knowing the Tao yet saying one does not, virtue at its height, and saying one knows it without knowing, virtue’s sickness.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 71, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "知道言不知，是乃德之上。…不知道言知，是乃德之病。",
+     "gloss": "To know the Tao and say one does not know: this is the height of virtue. … Not to know the Tao and say one knows: this is the sickness of virtue."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d071-s",
+    "key": "The sage has not the disease. He knows the pain that would be inseparable from it, and therefore he does not have it.",
+    "ref": "Tao Te Ching 71",
+    "at": [
+     70
+    ],
+    "s": "After calling one kind of knowing a sickness, the chapter closes on the sage; the Heshang Gong commentary, on chapter 71, reads the sage as free of the sickness of forced knowing because he is always pained that the many have it.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 71, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人無此強知之病者，以其常苦眾人有此病。",
+     "gloss": "The sage is without this sickness of forced knowing (claiming a knowledge one lacks) because he is always pained that the multitude have this sickness."
+    }
+   }
+  },
+  {
+   "d": 72,
+   "primary": {
+    "id": "tao-03-d072-p",
+    "key": "When the people do not fear what they ought to fear, that which is their great dread will come on them.",
+    "ref": "Tao Te Ching 72",
+    "at": [
+     71
+    ],
+    "s": "Opening a chapter on the people and the sage, the verse gives a warning; Wang Bi, on chapter 72, takes it as warning that once stillness and humility give way to reliance on might, might no longer holds the people, and Heaven’s punishment comes.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 72, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "離其清淨，行其躁欲，棄其謙後，任其威權，則物擾而民僻，威不能復制民，民不能堪其威，則上下大潰矣，天誅將至。…言威力不可任也。",
+     "gloss": "If one departs from clear stillness and follows restless desire, casts off humility and keeping behind, and relies on awesome power, then things are disturbed and the people go astray; might can no longer control the people, and the people cannot bear the might; then high and low collapse utterly, and Heaven’s punishment will come. … This says that awesome force cannot be relied on."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d072-s",
+    "key": "Therefore the sage knows (these things) of himself, but does not parade (his knowledge); loves, but does not (appear to set a) value on, himself. And thus he puts the latter alternative away and makes choice of the former.",
+    "ref": "Tao Te Ching 72",
+    "at": [
+     71
+    ],
+    "s": "After a warning to the people, the chapter closes on the sage; the Heshang Gong commentary, on chapter 72, reads him as knowing his gains and losses but hiding his virtue, and loving his person to guard its vital breath without exalting his name.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 72, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "自知己之得失，不自顯見德美於外，藏之於內。…自愛其身以保精氣，不自貴高榮名於世。",
+     "gloss": "He knows his own gains and losses, and does not display the beauty of his virtue outwardly but stores it within. … He loves his own person so as to preserve his vital breath, and does not exalt himself with glory and fame in the world."
+    }
+   }
+  }
+ ]
+}

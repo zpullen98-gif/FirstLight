@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d055-p",
+ "d": 55,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "He who has in himself abundantly the attributes (of the Tao) is like an infant. Poisonous insects will not sting him; fierce beasts will not seize him; birds of prey will not strike him.",
+ "ref": "Tao Te Ching 55",
+ "at": [
+  54
+ ],
+ "s": "The chapter opens here, before the infant’s weak bones, firm grip and tireless crying; the Heshang Gong commentary, on chapter 55, reads it as the spirits guarding one who holds virtue as parents guard a newborn, which harms nothing and is harmed by nothing.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 55, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 55 (玄符), comments on 比於赤子 and on 猛獸不據，玃鳥不搏",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "神明保佑含德之人，若父母之於赤子也。…赤子不害於物，物亦不害之。",
+  "lang": "Classical Chinese",
+  "gloss": "The spirits protect and aid the person who holds virtue, as father and mother do an infant. … The infant does no harm to things, and things in turn do no harm to it.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). The Heshang Gong commentary glosses the same lines (比於赤子; 毒蟲不螫; 猛獸不據，玃鳥不搏): spirits guard the one who holds virtue as parents guard an infant, and the infant harms nothing and nothing harms it; the reading carries exactly that. One change to the plain sense: \"the newborn’s soft bones\" became \"the infant’s weak bones\", since the chapter has the bones weak and the sinews soft (and says infant). entry-check ok."
+}

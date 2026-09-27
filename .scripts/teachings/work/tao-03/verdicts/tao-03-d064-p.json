@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d064-p",
+ "d": 64,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore the sage desires what (other men) do not desire, and does not prize things difficult to get; he learns what (other men) do not learn, and turns back to what the multitude of men have passed by.",
+ "ref": "Tao Te Ching 64",
+ "at": [
+  63
+ ],
+ "s": "The chapter ends by setting the sage apart from the many; the Heshang Gong commentary, on chapter 64, reads it as the sage learning what is so of itself and how to govern himself, where others learn cunning and how to govern the world.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 64, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 64 (守微), comment on 學不學",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "聖人學人所不能學。人學智詐，聖人學自然；人學治世，聖人學治身；守道真也。",
+  "lang": "zh",
+  "gloss": "The sage learns what others cannot learn. Others learn cleverness and deceit; the sage learns what is so of itself. Others learn to govern the world; the sage learns to govern himself, keeping to the truth of the Tao.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, at 63, unit 3 of chapter 64, starts at Therefore). Read the whole chapter in both commentaries: the Heshang Gong comment on 學不學, a line inside the key verse, contrasts others learning cunning and governing the world with the sage learning what is so of itself and governing himself; the sentence carries exactly that. Plain sense places the verse in the closing unit without leaning on Legge’s parentheses. Gate passes."
+}

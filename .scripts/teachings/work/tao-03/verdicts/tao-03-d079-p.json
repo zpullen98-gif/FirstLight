@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d079-p",
+ "d": 79,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When a reconciliation is effected (between two parties) after a great animosity, there is sure to be a grudge remaining (in the mind of the one who was wrong).",
+ "ref": "Tao Te Ching 79",
+ "at": [
+  78
+ ],
+ "s": "The chapter opens on this difficulty before turning to the sage’s half of the record; Wang Bi, on chapter 79, reads the animosity as born of an agreement not clearly settled, and the grudge as a wound that reconciling by virtue does not heal.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 79, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 79, comment on 和大怨，必有餘怨",
+    "via": "packet"
+   }
+  ],
+  "words": "不明理其契，以致大怨已至。而德和之，其傷不復，故有餘怨也。",
+  "lang": "zh",
+  "gloss": "Not clearly keeping to one’s tally (agreement) brings on great resentment; though virtue then reconciles it, the injury is not restored, so resentment remains.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (ok true, at 78). Wang Bi’s own comment on 和大怨，必有餘怨 traces the great resentment to an agreement not clearly kept and says the injury is not restored even when virtue reconciles it; the sentence carries exactly that. Plain sense gives context without repeating the verse. Gate passes."
+}

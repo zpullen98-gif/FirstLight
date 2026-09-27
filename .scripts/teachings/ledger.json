@@ -3,13 +3,14 @@
  "plans": {
   "tao": {
    "batches": [
-    "tao-01"
+    "tao-01",
+    "tao-03"
    ],
-   "days": 27,
+   "days": 54,
    "of": 81,
    "by": {
-    "wang-bi": 14,
-    "heshang-gong": 13
+    "wang-bi": 27,
+    "heshang-gong": 27
    },
    "hedged": 0,
    "relanded": [

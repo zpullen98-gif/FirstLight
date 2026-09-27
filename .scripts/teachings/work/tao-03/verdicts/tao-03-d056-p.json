@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d056-p",
+ "d": 56,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He will blunt his sharp points and unravel the complications of things; he will attemper his brightness, and bring himself into agreement with the obscurity (of others).",
+ "ref": "Tao Te Ching 56",
+ "at": [
+  55
+ ],
+ "s": "Describing one who knows yet keeps silent, the chapter lists his ways; Wang Bi, on chapter 56, reads the tempered brightness and shared obscurity as letting nothing stand out or be marked as base, so things have nothing to contend over or be ashamed of.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 56, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 56, comments on 和其光 and 同其塵",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "無所特顯，則物無所偏爭也。…無所特賤，則物無所偏恥也。",
+  "lang": "Classical Chinese",
+  "gloss": "[On tempering his brightness:] when nothing is made to stand out, things have nothing to contend over one against another. … [On joining the dust:] when nothing is singled out as base, things have nothing in particular to be ashamed of.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Wang Bi’s base text has 和其光，同其塵 as in the day’s chapter (his 解其分 variant is not relied on); his comments on those two lines say exactly what the reading says: nothing made to stand out, so no contention; nothing marked as base, so no shame. Plain sense (one who knows keeps silent; the chapter lists his ways) matches the chapter. entry-check ok."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d076-p",
+ "d": 76,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Man at his birth is supple and weak; at his death, firm and strong.",
+ "ref": "Tao Te Ching 76",
+ "at": [
+  75
+ ],
+ "s": "Opening a chapter that pairs softness with life, the verse begins with the body; the Heshang Gong commentary, on chapter 76, reads the living as supple while they hold harmonious breath, essence and spirit, and the dead as hard once these are gone.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 76, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 76 (戒強), comments on 人之生也柔弱 and 其死也堅強",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "人生含和氣，抱精神，故柔弱也。…人死和氣竭，精神亡，故堅強也。",
+  "lang": "Classical Chinese",
+  "gloss": "A man alive holds the harmonious breath and embraces essence and spirit, and so he is supple and weak. … When a man dies the harmonious breath is exhausted and essence and spirit are gone, and so he is hard and strong.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 76, at [75], unit 0). Read the whole chapter in both packet commentaries; the Heshang Gong comments on 人之生也柔弱 and 其死也堅強, the two halves of the key line, say exactly what the reading says (harmonious breath, essence and spirit held in life; exhausted and gone in death), and its comments on the plants line (和氣存也 / 和氣去也) agree. Base text matches Legge’s line. Plain sense faithful: the key is the chapter’s opening line and the chapter pairs softness and weakness with life. Src names the packet’s revision 1552800 for chapters 38 to 81. Entry-check ok; nothing changed."
+}

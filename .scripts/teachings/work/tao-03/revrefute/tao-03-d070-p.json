@@ -1,0 +1,8 @@
+{
+ "id": "tao-03-d070-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 70 (Wang Bi, revision 2354026). His comment on 吾言甚易知，甚易行。天下莫能知，莫能行 (the same line as the key verse) is verbatim as given: 可不出戶窺牖而知…無為而成…惑於躁欲…迷於榮利. The reading maps clause by clause: known without leaving home (不出戶窺牖而知; 'leaving home' drops the window but stays within the words), done without action (無為而成), restless desire keeping men from knowing (惑於躁欲…莫之能知), glory and profit from practising (迷於榮利…莫之能行). The revision's added objects fix the earlier ambiguous list. Plain sense (few know the speaker, unit 3; the verse opens on his words) matches day.js. Wang Bi's comment is more substantial here than the Heshang Gong commentary's one line (人惡柔弱，好剛強也). verse.js ok (at [69]); entry-check ok.",
+ "better": ""
+}

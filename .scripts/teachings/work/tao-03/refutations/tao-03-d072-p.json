@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d072-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and the live revision 2354026 (action=raw): under ==七十二章== the comment on 民不畏威，則大威至。無狎其所居，無厭其所生。 contains the evidence verbatim and ties it explicitly to the key line (故曰，民不畏威，則大威至), so the chain (clear stillness and humility abandoned for reliance on might, might no longer controlling the people, 天誅將至) is his reading of this line and not Legge’s ‘what they ought to fear’. ‘Heaven’s punishment comes’ slightly flattens 將至 (is about to come) but does not overclaim. Hard element (punishment) stated plainly, not softened. verse.js ok (at 71); entry-check ok.",
+ "better": ""
+}

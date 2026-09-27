@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d075-p",
+ "d": 75,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The people are difficult to govern because of the (excessive) agency of their superiors (in governing them). It is through this that they are difficult to govern.",
+ "ref": "Tao Te Ching 75",
+ "at": [
+  74
+ ],
+ "s": "Set between famine and making light of death, the verse names a second trouble; Wang Bi, on chapter 75, reads the chapter as tracing the people’s waywardness and the disorder of government to those above, not below, for the people follow those above.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 75, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 75, the single comment closing the chapter",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "言民之所以僻，治之所以亂，皆由上不由其下也，民從上也。",
+  "lang": "Classical Chinese",
+  "gloss": "It says that the reason the people go astray and the reason government falls into disorder both lie with those above and not with those below: the people follow those above.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 75, at [74]); Wang Bi’s base text has 民之難治，以其上之有為，是以難治, the line Legge renders. Wang Bi comments once on the whole chapter, and the sentence rightly says he reads the chapter (not the line alone): the people’s going astray and the disorder of government come from those above, not below, for the people follow those above. The paraphrase adds nothing beyond those words and does not lean on Legge’s parentheses. Plain sense (the verse sits between the famine and making-light-of-death sections) matches day.js. Entry-check ok."
+}

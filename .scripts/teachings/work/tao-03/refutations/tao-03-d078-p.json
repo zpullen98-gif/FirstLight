@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d078-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (Heshang Gong, revision 1552800, chapter title 任信). The commentary splits the key line into 弱之勝強 / 柔之勝剛 / 天下莫不知 / 莫能行 and comments on each: 水能滅火，陰能消陽 (water quenches fire), 舌柔齒剛，齒先舌亡 (the teeth perish before the tongue) and, on 莫能行, 恥謙卑，好強梁 (ashamed of humility and lowliness, loving force). Each clause of the paraphrase is its own words at the line named; the omitted gloss on 天下莫不知 does not contradict it. Base text matches Legge's line. Wang Bi has no comment on this line, so the choice is sound. Plain sense: unit 0 is on water as the softest thing and unit 1 turns to what everyone in the world knows and fails to do; no four words from the verse. verse.js ok (ref Tao Te Ching 78, at [77]); entry-check ok; 44 words; verbs reads/takes both allowed; 'practise' British; no school, comparison or tone issue.",
+ "better": ""
+}

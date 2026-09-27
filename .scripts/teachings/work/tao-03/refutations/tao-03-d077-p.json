@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d077-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (Wang Bi, Huating Zhang edition, revision 2354026). His base line 孰能有餘以奉天下？唯有道者 matches Legge's key verse. The packet groups the chapter's closing lines under one comment block, but its first sentence, 言唯能處盈而全虛，損有以補無，和光同塵，蕩而均者，唯其道也, ends on 唯其道也 and so glosses 唯有道者 itself; the second sentence (聖人不欲示其賢) is the gloss on the sage line, which the reading does not use. The paraphrase renders 處盈而全虛 (dwelling in fullness yet keeping emptiness whole) and 損有以補無 (taking from what is to make up what is not) closely and leaves 有/無 as literal as he does; it claims nothing beyond them. Plain sense: units 0 and 1 set Heaven's levelling way against man's, and unit 2 is a question with its answer; no Legge parenthesis is leaned on. verse.js ok (ref Tao Te Ching 77, at [76]); entry-check ok; 43 words; no school, comparison or tone issue.",
+ "better": ""
+}

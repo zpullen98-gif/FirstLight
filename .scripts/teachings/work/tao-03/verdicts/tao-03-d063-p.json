@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d063-p",
+ "d": 63,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore the sage sees difficulty even in what seems easy, and so never has any difficulties.",
+ "ref": "Tao Te Ching 63",
+ "at": [
+  62
+ ],
+ "s": "Ending a chapter on forestalling difficulty, the text returns to the sage; Wang Bi, on chapter 63, reads it as the sage, for all his gifts, still treating small, easy things as hard, which those without such gifts must heed all the more.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 63, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 63, comment on 是以聖人猶難之",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "以聖人之才猶尚難於細易，況非聖人之才而欲忽於此乎，故曰，猶難之也。",
+  "lang": "zh",
+  "gloss": "Even with a sage’s gifts he still treats the minute and the easy as hard; how much less may one without a sage’s gifts think to neglect them. Hence it says: he still treats them as hard.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, at 62). Wang Bi’s only comment on the chapter’s second half sits on 是以聖人猶難之, the line the key verse renders: the sage, gifted as he is, still treats small easy things as hard, a fortiori for those without such gifts. The sentence paraphrases this without addition. Plain sense faithful (the sage appears earlier in the chapter, so ‘returns’ holds). Gate passes."
+}

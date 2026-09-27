@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d079-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: Wang Bi's comment on 和大怨，必有餘怨 (his base line matches Legge's first sentence) reads 不明理其契，以致大怨已至。而德和之，其傷不復，故有餘怨也, i.e. the great resentment comes of a tally not clearly kept, and though virtue reconciles it the injury is not restored, so resentment remains; the paraphrase (animosity born of an agreement not clearly settled, grudge as an unhealed wound that reconciling by virtue does not mend) stays within it. 'Settled' is a slight smoothing of 明理 and 'the grudge as a wound' compresses 'the wound unrestored, hence the grudge', but neither claims more than he says. Plain sense gives context without the verse's words or Legge's parentheses. verse.js ok (ref Tao Te Ching 79, at [78]); entry-check ok; 44 words; no school, comparison or tone issue.",
+ "better": ""
+}

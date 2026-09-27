@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d064-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (HSG revision 1552800, chapter 64, title 守微): the comment on 學不學, a line inside the key verse whose base text matches Legge (he learns what (other men) do not learn), reads 聖人學人所不能學。人學智詐，聖人學自然；人學治世，聖人學治身, which carries the paraphrase exactly (cunning for 智詐, what is so of itself for 自然, govern himself for 治身, govern the world for 治世). The reading addresses the learning half of a four-clause verse; the comment on the next line (復眾人之所過: the multitude pass over root for branch) continues the same learning theme, so ‘reads it as’ is not an overclaim, though the desire half (欲不欲: 伏光, 質樸) is left aside. Plain sense places the verse in the final unit without using Legge’s parentheses and without four words from the verse. verse.js ok (Tao Te Ching 64, at [63]); entry-check ok; 44 words; no school, comparison or tone issue.",
+ "better": ""
+}

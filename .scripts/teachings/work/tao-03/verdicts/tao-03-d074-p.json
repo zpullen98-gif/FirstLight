@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d074-p",
+ "d": 74,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "There is always One who presides over the infliction of death. He who would inflict death in the room of him who so presides over it may be described as hewing wood instead of a great carpenter.",
+ "ref": "Tao Te Ching 74",
+ "at": [
+  73
+ ],
+ "s": "Having questioned rule by fear of death, the chapter turns to who kills; the Heshang Gong commentary, on chapter 74, reads the One as Heaven, watching over men’s faults, and a ruler killing in its stead as a clumsy hand, labouring to no effect.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 74, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 74 (制惑), comments on 常有司殺者 and 夫代司殺者，是謂代大匠斲",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "via": "packet"
+   }
+  ],
+  "words": "司殺者謂天，居高臨下，司察人過。…人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也。",
+  "lang": "Classical Chinese",
+  "gloss": "The one who presides over killing means Heaven, which dwells on high, looks down on what is below and watches over men’s faults. … A ruler who wishes to kill in its stead is like a clumsy man hewing wood in place of the great carpenter: he toils and achieves nothing.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "law",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 74, at [73]); the Heshang Gong base lines 常有司殺者 and 夫代司殺者，是謂代大匠斲 match Legge’s two sentences. Its comments say the one who presides over killing is Heaven, which watches over men’s faults, and that a ruler killing in its stead is a clumsy man hewing wood for the great carpenter, toiling to no effect; the reading carries exactly this, including the limit on the ruler. Legge’s notes independently report the Heaven gloss. Plain sense (the chapter first questions frightening the people with death) matches day.js and states the subject plainly (rule 6). Entry-check ok."
+}

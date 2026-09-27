@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d077-p",
+ "d": 77,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Who can take his own superabundance and therewith serve all under heaven? Only he who is in possession of the Tao!",
+ "ref": "Tao Te Ching 77",
+ "at": [
+  76
+ ],
+ "s": "Having set Heaven’s way of evening out against man’s, the chapter asks and answers; Wang Bi, on chapter 77, reads the one who has the Tao as dwelling in fullness yet wholly empty, taking from what is to make up what is not.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 77, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 77, comment following 孰能有餘以奉天下？唯有道者。是以聖人為而不恃，功成而不處，其不欲見賢",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "言唯能處盈而全虛，損有以補無，和光同塵，蕩而均者，唯其道也。",
+  "lang": "Classical Chinese",
+  "gloss": "It says that only one who can dwell in fullness yet keep emptiness entire, take from what there is to make up what there is not, soften his light and share the dust, and be broad and even: only one with the Tao.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 77, at [76], unit 2). Wang Bi’s base line 孰能有餘以奉天下？唯有道者 matches Legge’s. His comment on this closing block opens by glossing 唯有道者: only one who dwells in fullness yet keeps emptiness entire (處盈而全虛) and takes from what is to make up what is not (損有以補無) has the Tao; the reading renders these two clauses closely and adds nothing beyond them (it leaves 有/無 as literal as he does). The Heshang Gong comment here (a ruler who reduces his own rank and emolument) was also read; Wang Bi’s ties more directly to the line. Plain sense faithful: units 0 and 1 set Heaven’s levelling way against man’s and unit 2 is a question with its answer. Entry-check ok; nothing changed."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d080-p",
+ "d": 80,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Though they had boats and carriages, they should have no occasion to ride in them; though they had buff coats and sharp weapons, they should have no occasion to don or use them.",
+ "ref": "Tao Te Ching 80",
+ "at": [
+  79
+ ],
+ "s": "Picturing a little state of few people, the chapter turns to travel and arms; the Heshang Gong commentary, on chapter 80, reads the idle boats as stillness and non-action, fond of no pleasure trips, and the idle arms as no resentment anywhere under Heaven.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 80, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (normalised text)",
+    "locator": "chapter 80 (獨立), comments on 雖有舟輿，無所乘之 and 雖有甲兵，無所陳之",
+    "via": "packet"
+   }
+  ],
+  "words": "清靜無為，不作煩華，不好出入遊娛也。…無怨惡於天下。",
+  "lang": "zh",
+  "gloss": "Clear and still, acting through non-action, making no troublesome display, not fond of going out and about for travel and amusement. … No resentment or hatred anywhere under Heaven.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (ok true, at 79). The Heshang Gong commentary glosses the unused boats and carriages as stillness and non-action, no fondness for travel and amusement, and the unused arms as no resentment under Heaven; the sentence follows these two comments line by line without addition. Gate passes."
+}

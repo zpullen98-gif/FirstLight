@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d074-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (the 38 to 81 page, revision 1552800, as the brief requires): the Heshang Gong base text 常有司殺者 and 夫代司殺者，是謂代大匠斲 matches the key verse; its comments read 司殺者謂天，居高臨下，司察人過 (the one presiding over killing is Heaven, which watches men’s faults) and 人君欲代殺之，是猶拙夫代大匠斲木，勞而無功也 (a ruler killing in its stead is a clumsy man hewing for the great carpenter, toiling to no effect). The paraphrase stays inside these words. Hard passage: the plain sense names the subject plainly (rule by fear of death, who kills) without softening; the commentary’s limit (the ruler should not kill in Heaven’s place, and futility) is carried; its further point on the next line (the ruler wounds himself and suffers calamity) is outside the key verse and its omission softens nothing. Legge’s note independently confirms the Heshang Gong reading of the One as Heaven. verse.js ok (ref Tao Te Ching 74, at [73]); entry-check ok.",
+ "better": ""
+}

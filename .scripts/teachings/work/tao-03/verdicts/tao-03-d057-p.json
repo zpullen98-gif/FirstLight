@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d057-p",
+ "d": 57,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "A state may be ruled by (measures of) correction; weapons of war may be used with crafty dexterity; (but) the kingdom is made one’s own (only) by freedom from action and purpose.",
+ "ref": "Tao Te Ching 57",
+ "at": [
+  56
+ ],
+ "s": "Opening a chapter on prohibitions that breed poverty and theft, the text sets correction and war by craft beside inaction; Wang Bi, on chapter 57, reads rule by correction as laws aimed at the branches, leaving the root unestablished, which must end in crafty war.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 57, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 57, comment on 以正治國，以奇用兵，以無事取天下",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "以正治國，立辟以攻末，本不立而末淺，民無所及，故必至於奇用兵也。",
+  "lang": "Classical Chinese",
+  "gloss": "Governing the state by correction sets up laws and penalties to attack the branches; the root not being established, the branches are shallow and the people have nothing to reach, so it must come to the crafty use of arms.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Wang Bi comments on this opening line in his own base text: rule by correction sets up penal laws against the branches, the root is not established, and so it must come to crafty war. The reading (laws aimed at the branches, root unestablished, ending in crafty war) carries those words without addition. Plain sense (a chapter on prohibitions breeding poverty and theft; correction and craft set beside inaction) matches the chapter. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d060-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (the 38 to 81 page, correct for chapter 60): base text 治大國者若烹小鮮 matches the key verse, and the comment on it is verbatim 鮮，魚。烹小魚不去腸、不去鱗、不敢撓，恐其糜也。治國煩則下亂，治身煩則精散。 Ungutted, unscaled, unstirred lest they fall apart, fuss disordering a state (those below) and scattering the body's essence: every element of the paraphrase is in these words and nothing beyond them. It is more substantial than Wang Bi's 不擾也 on this line. Plain sense (opening a chapter on rule by the Tao, a likeness from the kitchen) matches day.js and repeats no four verse words. verse.js ok (Tao Te Ching 60, at [59]); entry-check ok; 44 words; no school, comparison or tone issue.",
+ "better": ""
+}

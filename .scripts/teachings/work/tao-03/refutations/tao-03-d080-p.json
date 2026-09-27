@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d080-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (the 38 to 81 page, rev 1552800, as the plan trap requires): chapter 80 (獨立), on 雖有舟輿，無所乘之 the comment is 清靜無為，不作煩華，不好出入遊娛也 and on 雖有甲兵，無所陳之 it is 無怨惡於天下; the sentence carries both lines' comments and nothing else (it omits 不作煩華, which is allowed). Base text matches Legge's unit. Plain sense ('a little state of few people', turning to travel and arms) is context, not the verse's words, and does not lean on Legge's parentheses. verse.js ok (ref Tao Te Ching 80, at [79]); entry-check ok; 44 words; not a hard passage in the rule 6 sense and not softened.",
+ "better": ""
+}

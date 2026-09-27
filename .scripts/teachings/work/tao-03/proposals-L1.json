@@ -1,0 +1,241 @@
+{
+ "lane": "L1",
+ "plan": "tao",
+ "batch": "tao-03",
+ "days": [
+  {
+   "d": 55,
+   "primary": {
+    "id": "tao-03-d055-p",
+    "key": "He who has in himself abundantly the attributes (of the Tao) is like an infant. Poisonous insects will not sting him; fierce beasts will not seize him; birds of prey will not strike him.",
+    "ref": "Tao Te Ching 55",
+    "at": [
+     54
+    ],
+    "s": "The chapter opens here, before the newborn’s soft bones, firm grip and tireless crying; the Heshang Gong commentary, on chapter 55, reads it as the spirits guarding one who holds virtue as parents guard a newborn, which harms nothing and is harmed by nothing.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 55, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "神明保佑含德之人，若父母之於赤子也。…赤子不害於物，物亦不害之。",
+     "gloss": "The spirits protect and aid the person who holds virtue, as father and mother do an infant. … The infant does no harm to things, and things in turn do no harm to it."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d055-s",
+    "key": "All life-increasing arts to evil turn; Where the mind makes the vital breath to burn, (False) is the strength, (and o’er it we should mourn.)",
+    "ref": "Tao Te Ching 55",
+    "at": [
+     54
+    ],
+    "s": "Here the rhyme passes from knowing harmony to its opposite, before a warning that strength brings age; Wang Bi, on chapter 55, reads it as adding to life, which brings early death, and a mind driving the breath when it should hold nothing.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 55, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "生不可益，益之則夭也。…心宜無有，使氣則強。",
+     "gloss": "Life cannot be added to; add to it and it is cut off young. … The mind ought to hold nothing; when it drives the breath, there is strength."
+    }
+   }
+  },
+  {
+   "d": 56,
+   "primary": {
+    "id": "tao-03-d056-p",
+    "key": "He will blunt his sharp points and unravel the complications of things; he will attemper his brightness, and bring himself into agreement with the obscurity (of others).",
+    "ref": "Tao Te Ching 56",
+    "at": [
+     55
+    ],
+    "s": "Describing one who knows yet keeps silent, the chapter lists his ways; Wang Bi, on chapter 56, reads the tempered brightness and shared obscurity as letting nothing stand out or be marked as base, so things have nothing to contend over or be ashamed of.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 56, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "無所特顯，則物無所偏爭也。…無所特賤，則物無所偏恥也。",
+     "gloss": "[On tempering his brightness:] when nothing is made to stand out, things have nothing to contend over one against another. … [On joining the dust:] when nothing is marked out as base, things have nothing in particular to be ashamed of."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d056-s",
+    "key": "He who knows (the Tao) does not (care to) speak (about it); he who is (ever ready to) speak about it does not know it.",
+    "ref": "Tao Te Ching 56",
+    "at": [
+     55
+    ],
+    "s": "Opening a chapter on keeping the mouth shut, the text sets knowing against talking; the Heshang Gong commentary, on chapter 56, reads it as the knower prizing deeds, not words, for a team of four cannot overtake the tongue, and much speech brings much trouble.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 56, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "知者貴行不貴言也。…駟不及舌，多言多患。",
+     "gloss": "The one who knows prizes action and does not prize words. … A team of four horses cannot overtake the tongue; much speech, much trouble."
+    }
+   }
+  },
+  {
+   "d": 57,
+   "primary": {
+    "id": "tao-03-d057-p",
+    "key": "A state may be ruled by (measures of) correction; weapons of war may be used with crafty dexterity; (but) the kingdom is made one’s own (only) by freedom from action and purpose.",
+    "ref": "Tao Te Ching 57",
+    "at": [
+     56
+    ],
+    "s": "Opening a chapter on prohibitions that breed poverty and theft, the text sets correction and war by craft beside inaction; Wang Bi, on chapter 57, reads rule by correction as laws aimed at the branches, leaving the root unestablished, which must end in crafty war.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 57, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "夫以道治國，崇本以息末，以正治國，立辟以攻末，本不立而末淺，民無所及，故必至於奇用兵也。",
+     "gloss": "Governing the state by the Tao exalts the root to still the branches; governing the state by correction sets up laws and penalties to attack the branches. The root not being established, the branches are shallow and the people have nothing to reach, so it must come to the crafty use of arms."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d057-s",
+    "key": "I will take no trouble about it, and the people will of themselves become rich; I will manifest no ambition, and the people will of themselves attain to the primitive simplicity.’",
+    "ref": "Tao Te Ching 57",
+    "at": [
+     56
+    ],
+    "s": "The chapter ends with a sage’s words on ruling by restraint; the Heshang Gong commentary, on chapter 57, reads it as a ruler who levies no forced labour and, desiring nothing, sheds finery, so the people settle and prosper and follow him into plainness.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 57, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "我無徭役徵召之事，民安其業故皆自富也。…我常無欲，去華文，微服飾，民則隨我為質樸也。",
+     "gloss": "I have no business of forced labour and levies; the people are at peace in their work, and so all grow rich of themselves. … I am always without desire; I put away ornament and make my dress plain, and the people then follow me into plain simplicity."
+    }
+   }
+  },
+  {
+   "d": 58,
+   "primary": {
+    "id": "tao-03-d058-p",
+    "key": "Therefore the sage is (like) a square which cuts no one (with its angles); (like) a corner which injures no one (with its sharpness). He is straightforward, but allows himself no license; he is bright, but does not dazzle.",
+    "ref": "Tao Te Ching 58",
+    "at": [
+     57
+    ],
+    "s": "Closing a chapter where correction turns to distortion, the text pictures the sage through paired contraries; Wang Bi, on chapter 58, reads it as guiding things away from crookedness without cutting them, and lighting what misleads them without hunting out their hidden faults.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 58, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "以方導物，舍去其邪，不以方割物…以光鑑其所以迷，不以光照求其隱慝也",
+     "gloss": "With squareness he guides things so that they leave off their crookedness, and does not use squareness to cut things. … With light he mirrors what leads them astray, and does not use its shining to search out their hidden wrongs."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d058-s",
+    "key": "The government that seems the most unwise, Oft goodness to the people best supplies; That which is meddling, touching everything, Will work but ill, and disappointment bring.",
+    "ref": "Tao Te Ching 58",
+    "at": [
+     57
+    ],
+    "s": "Opening a chapter on government, rhymed lines weigh two kinds of rule; the Heshang Gong commentary, on chapter 58, reads it as broad, easy rule that seems dim, leaving the people honest, prosperous and close, against hasty rule under which they cannot make a living.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 58, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "其政教寬大，悶悶昧昧，似若不明也。…政教寬大，故民醇醇富厚，相親睦也。…政教急疾。民不聊生。",
+     "gloss": "Its government and teaching are broad and generous, dim and dull, as if lacking clarity. … Government and teaching being broad and generous, the people are honest, prosperous and well off, and live on close terms with one another. … Government and teaching are hasty and harsh; the people have no means to live."
+    }
+   }
+  },
+  {
+   "d": 59,
+   "primary": {
+    "id": "tao-03-d059-p",
+    "key": "For regulating the human (in our constitution) and rendering the (proper) service to the heavenly, there is nothing like moderation.",
+    "ref": "Tao Te Ching 59",
+    "at": [
+     58
+    ],
+    "s": "The chapter opens with this counsel and ends on deep roots; the Heshang Gong commentary, on chapter 59, reads moderation as cherishing and sparing: a ruler sparing the people’s wealth, without extravagance, and one governing the self sparing his vital essence, without dissipation.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 59, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "嗇，愛惜也。治國者當愛民財，不為奢泰。治身者當愛精氣，不為放逸。",
+     "gloss": "Moderation (se) means cherishing and sparing. One who governs a state should cherish the people’s wealth and not be extravagant. One who governs the self should cherish the vital essence and not be dissolute."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d059-s",
+    "key": "For regulating the human (in our constitution) and rendering the (proper) service to the heavenly, there is nothing like moderation.",
+    "ref": "Tao Te Ching 59",
+    "at": [
+     58
+    ],
+    "s": "Opening a chapter that ends on deep roots and firm stalks, the text names one discipline; Wang Bi, on chapter 59, takes moderation as the farmer, who clears stray kinds for evenness and removes the cause of weeds and blight instead of rushing at them.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 59, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "嗇，農夫，農人之治田務，去其殊類，歸於齊一也。全其自然，不急其荒病，除其所以荒病",
+     "gloss": "Moderation (se) is the farmer. In the farmer’s tending of his fields he clears out the stray kinds and brings them back to evenness; he keeps whole what they are of themselves, does not rush at their weeds and blight, but removes what causes the weeds and blight."
+    }
+   }
+  },
+  {
+   "d": 60,
+   "primary": {
+    "id": "tao-03-d060-p",
+    "key": "Governing a great state is like cooking small fish.",
+    "ref": "Tao Te Ching 60",
+    "at": [
+     59
+    ],
+    "s": "Opening a chapter on rule by the Tao, the likeness comes from the kitchen; the Heshang Gong commentary, on chapter 60, reads it as fish cooked ungutted, unscaled and unstirred lest they break, as fuss disorders a state and scatters a body’s vital essence.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 60, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "烹小魚不去腸、不去鱗、不敢撓，恐其糜也。治國煩則下亂，治身煩則精散。",
+     "gloss": "In cooking small fish one does not take out the guts, does not take off the scales, and dares not stir them, for fear they will fall to pieces. Govern a state with fuss and those below fall into disorder; govern the self with fuss and the vital essence scatters."
+    }
+   },
+   "standby": {
+    "id": "tao-03-d060-s",
+    "key": "It is not that it could not hurt men, but neither does the ruling sage hurt them.",
+    "ref": "Tao Te Ching 60",
+    "at": [
+     59
+    ],
+    "s": "Having said the spirits of the dead harm no one, the chapter turns to the sage; Wang Bi, on chapter 60, reads it as the Tao so pervading that neither spirit nor sage harms anyone, nor is known as such, the height of the Tao.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 60, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "道洽則神不傷人，神不傷人則不知神之為神。道洽則聖人亦不傷人，聖人不傷人則不知聖人之為聖也。…使不知神聖之為神聖，道之極也。",
+     "gloss": "When the Tao pervades, the spirits do not harm people, and when the spirits do not harm people, people do not know the spirits as spirits. When the Tao pervades, the sage too does not harm people, and when the sage does not harm people, they do not know the sage as a sage. … To bring it about that they do not know spirit and sage as such is the utmost of the Tao."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d070-p",
+ "d": 70,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "My words are very easy to know, and very easy to practise; but there is no one in the world who is able to know and able to practise them.",
+ "ref": "Tao Te Ching 70",
+ "at": [
+  69
+ ],
+ "s": "In a chapter where few know the speaker, the verse opens on his words; Wang Bi, on chapter 70, takes them as known without going out of doors and done without action, but restless desire keeps men from knowing and glory and profit from practising.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 70, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 70, comment on 吾言甚易知，甚易行。天下莫能知，莫能行。",
+    "via": "packet"
+   }
+  ],
+  "words": "可不出戶窺牖而知，故曰甚易知也。無為而成，故曰甚易行也。惑於躁欲，故曰，莫之能知也。迷於榮利，故曰，莫之能行也。",
+  "lang": "Classical Chinese",
+  "gloss": "It can be known without going out of the door or peering through the window, hence very easy to know; it is accomplished without action, hence very easy to practise. Deluded by restless desire, hence none can know it; lost in glory and profit, hence none can practise it.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Wang Bi comments on the same opening line in his base text; every clause of the reading (known without going out of doors, done without action, restless desire blocking knowing, glory and profit blocking practice) is in his comment on it. Plain sense (few know the speaker; the verse opens on his words) matches the chapter. entry-check ok."
+}

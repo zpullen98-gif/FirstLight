@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d065-p",
+ "d": 65,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The ancients who showed their skill in practising the Tao did so, not to enlighten the people, but rather to make them simple and ignorant.",
+ "ref": "Tao Te Ching 65",
+ "at": [
+  64
+ ],
+ "s": "Opening a chapter against governing by wisdom, the verse recalls the ancients; Wang Bi, on chapter 65, reads the enlightening as seeing much cunning, which clouds their simplicity, and the ignorance as having no knowledge, guarding the genuine and following what is so of itself.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 65, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 65, comment on 古之善為道者，非以明民，將以愚之",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "明謂多見巧詐，蔽其樸也。愚謂無知守真，順自然也。",
+  "lang": "zh",
+  "gloss": "‘Enlightening’ means (making them) see much craft and deceit, which clouds their unhewn simplicity; ‘making them simple’ means having no knowledge, guarding the genuine, following what is so of itself.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, at 64, chapter 65 unit 0). Wang Bi’s own comment on the very line of the key verse glosses 明 as seeing much craft and deceit that clouds simplicity and 愚 as no knowledge, guarding the genuine, following what is so of itself; the sentence paraphrases it without addition. Plain sense is chapter context only. Gate passes."
+}

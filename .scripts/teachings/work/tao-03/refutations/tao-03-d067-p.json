@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d067-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the packet and the live revision 1552800 (dated 23 March 2019): the Heshang Gong commentary glosses 一曰慈 as 愛百姓若赤子, 二曰儉 as 賦歛若取之於己也, 三曰不敢為天下先 as 執謙退，不為倡始也, each on its own line of chapter 67, and its base text lines match Legge’s. The three clauses of the reading carry these glosses without drift (never first to begin is a fair rendering of 不為倡始). Plain sense matches the first two units of day.js and repeats no four words of the key. Key is the best line for the reading. verse.js ok (Tao Te Ching 67, at [66]); entry-check ok, 44 words, one semicolon. No comparison, no school needed, not a hard passage.",
+ "better": ""
+}

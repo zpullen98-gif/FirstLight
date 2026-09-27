@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d078-p",
+ "d": 78,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Every one in the world knows that the soft overcomes the hard, and the weak the strong, but no one is able to carry it out in practice.",
+ "ref": "Tao Te Ching 78",
+ "at": [
+  77
+ ],
+ "s": "From water, softest of things, the chapter turns to people; the Heshang Gong commentary, on chapter 78, reads it through water quenching fire and the tongue outlasting the teeth, and takes the failure to practise it as shame at humility and love of force.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 78, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 78 (任信), comments on 弱之勝強, 柔之勝剛 and 莫能行",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "水能滅火，陰能消陽。…舌柔齒剛，齒先舌亡。…恥謙卑，好強梁。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the weak overcoming the strong:) Water can put out fire; yin can dissolve yang. … (On the soft overcoming the hard:) The tongue is soft and the teeth hard; the teeth perish before the tongue. … (On no one being able to practise it:) They are ashamed of humility and lowliness, and love force and violence.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 78, at [77], unit 1). The Heshang Gong commentary splits the key line into 弱之勝強 / 柔之勝剛 / 天下莫不知 / 莫能行 and comments on each; water quenching fire, the tongue outlasting the teeth, and shame at humility with love of force as its gloss on 莫能行 are all its own words on these lines. Wang Bi has no comment on this line in the packet, so the Heshang Gong choice is the only substantial one. Plain sense faithful: unit 0 is about water, softest of things, and unit 1 turns to what everyone in the world knows. Entry-check ok; nothing changed."
+}

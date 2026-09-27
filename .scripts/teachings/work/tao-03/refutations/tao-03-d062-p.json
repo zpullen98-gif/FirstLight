@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d062-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: the Heshang Gong base line 人之不善，何棄之有 is the line Legge renders (his Huainanzi emendation touches only the preceding sentence), and its comment reads 人雖不善，當以道化之。蓋三皇之前，無有棄民，德化淳也. 'A charge to transform such men by the Tao' fairly renders 當以道化之, and 'before the Three Sovereigns none were cast off' renders 三皇之前，無有棄民; the next comment (故立天子，置三公: 欲使教化不善之人) confirms the same line of reading. Cited page 1552800 is the one packet.js names for chapter 62. Plain sense draws on the chapter's first unit (grace to good men, bad men guarded) and stays in the text's terms. verse.js ok (Tao Te Ching 62, at [61]); entry-check ok; roster name used exactly; no school, comparison or tone issue.",
+ "better": ""
+}

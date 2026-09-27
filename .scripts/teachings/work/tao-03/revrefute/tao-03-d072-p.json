@@ -1,0 +1,8 @@
+{
+ "id": "tao-03-d072-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 72 (Wang Bi, revision 2354026). The evidence span 離其清淨…天誅將至。故曰，民不畏威，則大威至 is verbatim in his comment on 民不畏威，則大威至。無狎其所居，無厭其所生, and the closing 故曰 ties the chain explicitly to the key line, which is the same line as Legge's 'When the people do not fear...'. The reading (stillness and humility given up for reliance on might, might no longer holding the people, Heaven's punishment coming) is carried clause by clause by 離其清淨, 棄其謙後, 任其威權, 威不能復制民 and 天誅將至; the subject left implicit is implicit in Wang Bi too. Plain sense (a chapter on the people and the sage; the verse warns) matches day.js without leaning on Legge's parentheses. verse.js ok (at [71]); entry-check ok. Note only: the Heshang Gong commentary's 威，害也…大害者，謂死亡也 is the reading Legge follows, but Wang Bi's is his own and correctly attributed.",
+ "better": ""
+}

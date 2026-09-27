@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d059-p",
+ "d": 59,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For regulating the human (in our constitution) and rendering the (proper) service to the heavenly, there is nothing like moderation.",
+ "ref": "Tao Te Ching 59",
+ "at": [
+  58
+ ],
+ "s": "The chapter opens with this counsel and ends on deep roots; the Heshang Gong commentary, on chapter 59, reads moderation as cherishing and sparing: a ruler sparing the people’s wealth, without extravagance, and one governing the self sparing his vital essence, without dissipation.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 59, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 59 (守道), comment on 莫若嗇 (whole chapter read)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "嗇，愛惜也。治國者當愛民財，不為奢泰。治身者當愛精氣，不為放逸。",
+  "lang": "Classical Chinese",
+  "gloss": "Moderation (se) means cherishing and sparing. One who governs a state should cherish the people’s wealth and not be extravagant. One who governs the self should cherish the vital essence and not be dissolute.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 59, at [58]). The Heshang Gong commentary glosses 嗇 as 愛惜 (cherishing, sparing) and applies it twice: the ruler of a state sparing the people’s wealth without extravagance, the one governing the self sparing the vital essence without dissipation. The sentence carries exactly this double reading and adds nothing. Plain sense (the chapter opens with the counsel and ends on deep roots) is faithful to day.js, does not lean on Legge’s parentheses, and repeats no four words of the key. entry-check ok, 43 words."
+}

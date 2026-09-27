@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d061-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js: Wang Bi's base line 夫兩者各得其所欲，大者宜為下 is the line Legge renders as the key verse, and his comment on it reads 小國修下自全而已，不能令天下歸之，大國修下則天下歸之。故曰，各得其所欲，則大者宜為下也. The paraphrase (a small state stooping only keeps itself whole; all under heaven turns to a great state that stoops) is carried by those words; 'stooping only to keep itself whole' is read as result rather than purpose, which the English allows. Plain sense (states winning one another by lowliness, then the greater) matches Legge's chapter without leaning on his parentheses and repeats no four verse words. verse.js ok (Tao Te Ching 61, at [60]); entry-check ok; 45 words, at the cap; no school, comparison or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d057-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the packet (Wang Bi, revision 2354026, chapter 57). His base text 以正治國，以奇用兵，以無事取天下 matches Legge's opening line, and his comment on it says 以正治國，立辟以攻末，本不立而末淺，民無所及，故必至於奇用兵也: rule by correction sets up laws to attack the branches, the root is not established, so it must come to crafty war. The reading carries exactly that chain. Plain sense: 'sets beside inaction' keeps to the three parallel Chinese clauses without leaning on Legge's '(but)' and '(only)'; 'prohibitions that breed poverty and theft' folds the chapter's prohibitive enactments and display of legislation together, which is fair to unit 2 of day.js. verse.js ok (Tao Te Ching 57, at [56]); entry-check ok. No comparison, no school; law is stated plainly without softening.",
+ "better": ""
+}

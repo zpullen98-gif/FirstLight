@@ -1,0 +1,11 @@
+{
+ "id": "tao-03-d065-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened through packet.js (Wang Bi, Huating Zhang edition, revision 2354026, chapter 65): his base line 古之善為道者，非以明民，將以愚之 is Legge’s key verse, and his comment 明謂多見巧詐，蔽其樸也。愚謂無知守真，順自然也 carries every element of the paraphrase (seeing much craft and deceit, clouding their simplicity 樸; no knowledge, guarding the genuine 守真, following what is so of itself 順自然) and claims nothing more. Plain sense (a chapter against governing by wisdom, the verse recalling the ancients) matches the chapter’s second unit and does not lean on Legge’s ‘(tries to)’. The passage is not softened: ‘ignorance’ is kept and glossed as Wang Bi glosses 愚. verse.js ok (Tao Te Ching 65, at [64]); entry-check ok; 45 words, at the cap; no school or comparison issue.",
+ "better": ""
+}

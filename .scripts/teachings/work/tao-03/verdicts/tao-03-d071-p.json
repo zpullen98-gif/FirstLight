@@ -1,0 +1,42 @@
+{
+ "id": "tao-03-d071-p",
+ "d": 71,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "To know and yet (think) we do not know is the highest (attainment); not to know (and yet think) we do know is a disease.",
+ "ref": "Tao Te Ching 71",
+ "at": [
+  70
+ ],
+ "s": "Opening a short chapter on a sickness, the verse contrasts two ways of knowing; the Heshang Gong commentary, on chapter 71, reads it as knowing the Tao yet saying one does not, virtue at its height, and saying one knows it without knowing, virtue’s sickness.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 71, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "locator": "chapter 71 (知病), comments on 知不知上 and 不知知病",
+    "via": "packet"
+   }
+  ],
+  "words": "知道言不知，是乃德之上。…不知道言知，是乃德之病。",
+  "lang": "Classical Chinese",
+  "gloss": "To know the Tao and say one does not know it: this is the height of virtue. … Not to know the Tao and say one knows it: this is the sickness of virtue.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok). The Heshang Gong base text reads 知不知上，不知知病 as in the chapter; its comments on the two halves say exactly what the reading gives (knowing the Tao yet saying one does not is virtue at its height; claiming to know without knowing is virtue’s sickness). Plain sense does not lean on Legge’s parentheses. entry-check ok."
+}
