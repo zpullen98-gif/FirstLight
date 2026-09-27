@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 1 and fetched revision 2354026 raw myself (道德經 (王弼本), timestamp 2024-01-10, so the year in src is right; header 華亭張氏原本). The evidence is verbatim in the comment under 無名，天地之始，有名，萬物之母, the line the key verse translates. His words carry the whole reading: the unnamed, unformed stage is the beginning of the ten thousand things, the formed and named stage is where it grows and rears them as their mother, and 道以無形無名始成萬物 names the Tao as the subject of both (backed again by 兩者，始與母也 on the next line). The reading says begins things, not heaven and earth, matching his comment (為萬物之始) rather than his base text, so no base-text trap. Plain sense restates the key verse without Legge’s supplied (conceived of as). verse.js ok (Tao Te Ching 1, at [0]); entry-check ok, no warns (55 words, src 97 chars). No school, no comparison, tone plain.",
+ "better": ""
+}

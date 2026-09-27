@@ -1,0 +1,119 @@
+/* The Teachings, for the owner's checkpoints: one batch as a page to read.
+
+   node .scripts/teachings/review.js <plan> <n> <out.html> [--trails 5] [--name dry]
+
+   Every entry of the batch as the reader would see it (key verse, reference,
+   sentence) with its source line, then the full evidence trail of a chosen
+   few: the commentator's own words and their gloss, what was opened, the
+   verdict, the refuter's attack, any re-verification or revision, and the
+   machine recheck. The trails are chosen to cover every commentator named,
+   every hedged or revised entry, and then a seeded random few. The page is
+   self-contained (no network) and follows the light or dark setting. */
+'use strict';
+const fs = require('fs');
+const path = require('path');
+const lib = require('./lib');
+
+const a = process.argv.slice(2);
+const plan = a[0], n = +a[1], out = a[2];
+const flag = k => { const i = a.indexOf(k); return i > -1 ? a[i + 1] : null; };
+const nTrails = +(flag('--trails') || 5), name = flag('--name');
+if (!plan || !n || !out) { console.error('usage: node .scripts/teachings/review.js <plan> <n> <out.html> [--trails 5] [--name dry]'); process.exit(1); }
+
+const ROSTER = JSON.parse(fs.readFileSync(path.join(__dirname, 'roster.json'), 'utf8'));
+const B = lib.batchRef(plan, n, name);
+const bj = lib.readJSON(path.join(B.dir, 'batch.json'));
+if (!bj) { console.error('no batch.json yet'); process.exit(1); }
+const recheck = lib.readJSON(path.join(B.dir, 'recheck.json')) || {};
+const critic = lib.readJSON(path.join(B.dir, 'critic.json')) || lib.readJSON(path.join(B.dir, 'critic-1.json'));
+const esc = s => String(s === undefined || s === null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+const who = id => (ROSTER.people[id] ? ROSTER.people[id].name : id);
+const cap = s => s.charAt(0).toUpperCase() + s.slice(1);
+
+const trailOf = e => {
+  const v = lib.readJSON(path.join(B.dir, 'verdicts', e.id + '.json')) || {};
+  const r = lib.readJSON(path.join(B.dir, 'refutations', e.id + '.json'));
+  const rv = lib.readJSON(path.join(B.dir, 'reverify', e.id + '.json'));
+  const re = lib.readJSON(path.join(B.dir, 'revise', e.id + '.json'));
+  const rr = lib.readJSON(path.join(B.dir, 'revrefute', e.id + '.json'));
+  const kept = !!(re && re.verdict === 'CORRECTED' && rr && rr.refuted === false);
+  return { v, r, rv, re, rr, kept, ev: ((kept ? re : null) || (rv && lib.passes(rv) ? rv : null) || v).evidence || {} };
+};
+
+/* which trails to print */
+let seed = 0;
+for (const c of B.name) seed = (seed * 31 + c.charCodeAt(0)) >>> 0;
+const rnd = () => { seed = (seed * 1103515245 + 12345) >>> 0; return seed / 4294967296; };
+const days = bj.days.slice();
+const chosen = [];
+const take = e => { if (e && !chosen.includes(e) && chosen.length < nTrails) chosen.push(e); };
+[...new Set(days.map(e => e.by))].forEach(by => take(days.find(e => e.by === by)));
+days.filter(e => e.hedge || trailOf(e).kept || (trailOf(e).v.verdict === 'CORRECTED')).forEach(take);
+const rest = days.filter(e => !chosen.includes(e));
+while (chosen.length < nTrails && rest.length) take(rest.splice(Math.floor(rnd() * rest.length), 1)[0]);
+chosen.sort((x, y) => x.d - y.d);
+
+const spread = {};
+days.forEach(e => { spread[who(e.by)] = (spread[who(e.by)] || 0) + 1; });
+
+const entryHTML = e => {
+  const t = trailOf(e);
+  const tags = [cap(who(e.by)) + (e.by2 ? ' and ' + who(e.by2) : '')];
+  if (e.hedge) tags.push('as given in ' + (ROSTER.conduits[e.hedge] ? ROSTER.conduits[e.hedge].name : e.hedge));
+  if (t.v.verdict === 'CORRECTED') tags.push('corrected by its verifier');
+  if (t.rv) tags.push('refuted, then re-verified');
+  if (t.kept) tags.push('revised after the critic');
+  if (e.id.slice(-1) === 's') tags.push('the standby');
+  return '<article class="entry" id="d' + e.d + '"><div class="day">Day ' + e.d + '</div>' +
+    '<blockquote>“' + esc(e.key) + '”</blockquote><div class="ref">' + esc(e.ref) + '</div>' +
+    '<p class="s">' + esc(e.s) + '</p><p class="src">' + esc(e.src) + '</p>' +
+    '<p class="tags">' + tags.map(x => '<span>' + esc(x) + '</span>').join('') +
+    (chosen.includes(e) ? '<a href="#trail-' + e.d + '">its evidence trail</a>' : '') + '</p></article>';
+};
+const row = (k, v) => v ? '<tr><th>' + esc(k) + '</th><td>' + v + '</td></tr>' : '';
+const trailHTML = e => {
+  const t = trailOf(e), ev = t.ev;
+  const rc = recheck[e.id];
+  return '<section class="trail" id="trail-' + e.d + '"><h3>Day ' + e.d + ': ' + esc(e.ref) + ', ' + esc(who(e.by)) + '</h3><table>' +
+    row('The commentator’s words', '<span class="zh">' + esc(ev.words) + '</span>') +
+    row('Gloss', esc(ev.gloss)) +
+    row('Opened', (ev.opened || []).map(o => esc(o.locator) + '<br><span class="url">' + esc(o.url) + ' (' + esc(o.via) + ')</span>').join('<br>')) +
+    row('Verdict', '<b>' + esc(t.v.verdict) + '</b> (' + esc(t.v.confidence) + '). ' + esc(t.v.reason)) +
+    row('Refuter', t.r ? '<b>' + (t.r.refuted ? 'Refuted' : 'Cleared') + '</b>. ' + esc(t.r.reason) : 'none') +
+    row('Re-verified', t.rv ? '<b>' + esc(t.rv.verdict) + '</b>. ' + esc(t.rv.reason) : '') +
+    row('Revision', t.re ? '<b>' + esc(t.re.verdict) + '</b>. ' + esc(t.re.reason) + (t.rr ? '<br><b>Its refuter: ' + (t.rr.refuted ? 'refuted' : 'cleared') + '</b>. ' + esc(t.rr.reason) : '') : '') +
+    row('Machine recheck', rc ? '<b>' + esc(rc.status) + '</b>' + (rc.detail ? ' ' + esc(rc.detail) : '') : 'not run') +
+    '</table><p><a href="#d' + e.d + '">Back to the entry</a></p></section>';
+};
+
+const title = 'The Teachings: ' + bj.days.length + ' days of the ' + (plan === 'tao' ? 'Tao Te Ching' : plan) + ' for review';
+const html = '<!doctype html><html lang="en-GB"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">' +
+  '<title>Teachings review</title><style>' +
+  ':root{--bg:#faf8f3;--fg:#23201b;--muted:#6b645a;--line:#e3ddd1;--accent:#8a5a1f;--card:#fffdf8}' +
+  '@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17150f;--fg:#ece6da;--muted:#a79f91;--line:#3a352c;--accent:#d8a55e;--card:#1f1c16}}' +
+  'body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 Georgia,"Iowan Old Style",serif}' +
+  'main{max-width:720px;margin:0 auto;padding:28px 16px 80px}h1{font-size:1.5rem;line-height:1.3;margin:0 0 6px}h2{font-size:1.15rem;margin:40px 0 12px;color:var(--accent)}' +
+  '.lede{color:var(--muted);margin:0 0 20px}.entry{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin:0 0 14px}' +
+  '.day{font:600 .75rem/1 system-ui,sans-serif;letter-spacing:.08em;text-transform:uppercase;color:var(--accent)}' +
+  'blockquote{margin:10px 0 2px;font-size:1.12rem;font-style:italic}.ref{font:.8rem system-ui,sans-serif;color:var(--muted);letter-spacing:.04em;text-transform:uppercase}' +
+  '.s{margin:10px 0 6px}.src{font:.82rem/1.45 system-ui,sans-serif;color:var(--muted);margin:0}' +
+  '.tags{margin:8px 0 0;font:.78rem system-ui,sans-serif;display:flex;flex-wrap:wrap;gap:6px;align-items:center}.tags span{border:1px solid var(--line);border-radius:999px;padding:2px 9px;color:var(--muted)}' +
+  'a{color:var(--accent)}.tags a{margin-left:auto;min-height:32px;display:inline-flex;align-items:center}' +
+  '.trail{border-top:1px solid var(--line);padding-top:14px;margin-top:22px}.trail h3{font-size:1rem;margin:0 0 8px}' +
+  'table{border-collapse:collapse;width:100%;font:.9rem/1.5 system-ui,sans-serif}th{text-align:left;vertical-align:top;color:var(--muted);font-weight:600;padding:6px 10px 6px 0;width:9.5em}td{padding:6px 0;vertical-align:top;overflow-wrap:anywhere}' +
+  '.zh{font-size:1.05rem}.url{color:var(--muted);font-size:.8rem}ul{padding-left:1.2em}' +
+  '@media (max-width:560px){th,td{display:block;width:auto;padding:2px 0}th{padding-top:10px}}' +
+  '</style></head><body><main>' +
+  '<h1>' + esc(title) + '</h1>' +
+  '<p class="lede">Batch ' + esc(B.name) + '. Each day gives a key verse, copied word for word from that day’s chapter in Legge’s translation, and one sentence: the plain sense, then a classical commentator’s reading. ' +
+  'Commentators: ' + Object.keys(spread).map(k => esc(k) + ' on ' + spread[k] + ' days').join(', ') + '. ' +
+  'Every entry survived a verifier who found the commentator’s own words and a refuter told to break it, and a machine found those words again in the source. ' +
+  (bj.holes && bj.holes.length ? 'Days with no surviving entry: ' + bj.holes.join(', ') + '. ' : '') +
+  (critic ? 'The critic’s last reading: ' + (critic.ok ? 'no problems.' : critic.problems.length + ' problem(s), listed at the end.') : '') + '</p>' +
+  '<h2>The ' + bj.days.length + ' days</h2>' + bj.days.map(entryHTML).join('') +
+  '<h2>' + chosen.length + ' evidence trails, end to end</h2><p class="lede">Chosen to cover each commentator and every corrected, hedged or revised entry, then at random.</p>' +
+  chosen.map(trailHTML).join('') +
+  (critic && !critic.ok ? '<h2>The critic’s open problems</h2><ul>' + critic.problems.map(p => '<li>' + esc(typeof p === 'string' ? p : 'Day ' + p.d + ': ' + p.problem + ' Fix: ' + p.fix) + '</li>').join('') + '</ul>' : '') +
+  '</main></body></html>';
+fs.writeFileSync(out, html, 'utf8');
+console.log('  wrote ' + out + ': ' + bj.days.length + ' entries, ' + chosen.length + ' trails (days ' + chosen.map(e => e.d).join(', ') + ')');

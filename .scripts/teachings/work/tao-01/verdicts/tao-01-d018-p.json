@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When the Great Tao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue.",
+ "ref": "Tao Te Ching 18",
+ "at": [
+  17
+ ],
+ "s": "The chapter says benevolence and righteousness came into vogue when the Great Tao ceased to be observed; the Heshang Gong commentary, on chapter 18, reads the Great Tao’s age as one of filial sons, loyalty and good faith in every house, where benevolence and righteousness went unseen until the Tao was abandoned and evil and rebellion arose.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 18, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 18 (俗薄), comment on 大道廢，有仁義"
+   }
+  ],
+  "words": "大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道。",
+  "lang": "Classical Chinese",
+  "gloss": "In the time of the Great Tao, every family had filial sons and every household loyalty and good faith, and benevolence and righteousness were not seen. When the Great Tao was abandoned and not used, evil and rebellion arose, and only then were there benevolence and righteousness to be handed on and spoken of.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 18, at [17]). The Heshang Gong base line 大道廢，有仁義 is the key verse's line, and its comment on that line carries every element of the reading: filial sons in every family, loyalty and good faith in every household, benevolence and righteousness unseen (仁義不見), then the Tao abandoned and evil and rebellion arising (大道廢不用，惡逆生). Its closing remark on the chapter (大道之世，仁義沒) agrees. Plain sense faithful. entry-check ok."
+}

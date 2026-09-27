@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d025-p",
+ "d": 25,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is.",
+ "ref": "Tao Te Ching 25",
+ "at": [
+  24
+ ],
+ "s": "The chapter says man takes his law from the Earth, the Earth from Heaven, Heaven from the Tao, whose law is its being what it is; Wang Bi, on chapter 25, reads each as not going against the next, and the Tao as going against nothing that is so of itself, square in the square, round in the round.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 25, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 25, comment on 人法地，地法天，天法道，道法自然",
+    "via": "packet"
+   }
+  ],
+  "words": "人不違地，乃得全安，法地也。地不違天，乃得全載，法天也。天不違道，乃得全覆，法道也。道不違自然，乃得其性，法自然者。在方而法 方，在圓而法圓，於自然無所違也。",
+  "lang": "Classical Chinese",
+  "gloss": "Man, not going against the Earth, is kept whole and safe: that is taking law from the Earth. The Earth, not going against Heaven, bears all whole: taking law from Heaven. Heaven, not going against the Tao, covers all whole: taking law from the Tao. The Tao, not going against what is so of itself, attains its nature: taking law from what is so of itself. In the square it takes the square as law, in the round the round; toward what is so of itself it goes against nothing.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 25, at [24]). Wang Bi comments on exactly this line (人法地，地法天，天法道，道法自然) in his base text, and the comment carries each step as 不違 (not going against) the next and the Tao as 於自然無所違 in the square and the round; the sentence paraphrases this without drift. Plain sense restates the key verse. entry-check ok."
+}

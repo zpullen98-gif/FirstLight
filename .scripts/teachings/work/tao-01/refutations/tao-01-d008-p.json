@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d008-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 8 and the raw revision 2019760 (section ==易性==, chapter 8). 壅之則止，決之則流，聽從人也 sits under 夫唯不爭 and 水性如是，故天下無有怨尤水者也 under 故無尤, verbatim. The entry uses the comment on the second 不爭 (the line the key verse translates), not the gloss on 水善利萬物而不爭, as the plan trap requires. Paraphrase (water goes along with people, stops when dammed, flows when released, so no one under heaven resents or blames it) matches word for word; the commentary's own frame 上善之人，如水之性 licenses reading the not wrangling as water's way. Plain sense avoids Legge's parentheses and says only what the line says. verse.js ok (Tao Te Ching 8, at [7]); entry-check ok, no warns (51 words). No school, comparison or tone issue.",
+ "better": ""
+}

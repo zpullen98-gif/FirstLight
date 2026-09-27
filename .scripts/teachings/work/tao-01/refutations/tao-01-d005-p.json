@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d005-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 5 and fetched revision 2354026 raw myself (道德經 (王弼本), API timestamp 2024-01-10, so the year in src is right). Under ==五章==, the comment on 天地不仁，以萬物為芻狗 contains both evidence segments verbatim. Wang Bi’s base line is the line of the key verse. The paraphrase is carried: following what is so of itself (任自然), making and doing nothing (無為無造), all things ordering themselves (萬物自相治理), and the grass and beasts example (地不為獸生芻，而獸食芻), which also keeps his distinctive split of 芻狗 into grass and dogs without overclaiming it. Nothing added. verse.js ok (Tao Te Ching 5, at [4]); entry-check ok, no warns. Plain sense stays on the key verse and does not lean on Legge’s parenthesis (“wish” sits outside it). No school, comparison or tone problem.",
+ "better": ""
+}

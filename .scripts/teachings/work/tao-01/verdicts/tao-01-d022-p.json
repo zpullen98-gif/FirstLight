@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d022-p",
+ "d": 22,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
+ "ref": "Tao Te Ching 22",
+ "at": [
+  21
+ ],
+ "s": "The chapter says the partial becomes complete, the crooked straight, the empty full and the worn out new; Wang Bi, on chapter 22, reads the four as not displaying one’s own brightness, which makes one whole, not holding oneself right, which makes one’s rightness plain, not boasting, which keeps one’s merit, and not vaunting oneself, which lets one’s virtue endure.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 22, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 22, comments on 曲則全，枉則直，窪則盈，敝則新",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "不自見其明則全也。…不自是則其是彰也。…不自伐則其功有也。…不自矜則其德長也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the partial becoming complete:) not displaying his own brightness, he is whole. (On the crooked becoming straight:) not holding himself right, his rightness is made plain. (On the empty becoming full:) not boasting of himself, his merit remains. (On the worn out becoming new:) not vaunting himself, his virtue grows long.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 22, at [21]). Wang Bi base text 曲則全，枉則直，窪則盈，敝則新 is the line of the key verse, and his four comments, read in the packet, carry each clause of the reading exactly: not self-displaying so whole, not self-righting so rightness plain, not boasting so merit kept, not vaunting so virtue lasting. Whole chapter read: nothing contradicts. Plain sense restates the key verse. entry-check ok."
+}

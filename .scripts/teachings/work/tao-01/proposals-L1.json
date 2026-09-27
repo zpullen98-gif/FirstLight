@@ -1,0 +1,241 @@
+{
+ "lane": "L1",
+ "plan": "tao",
+ "batch": "tao-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "tao-01-d001-p",
+    "key": "(Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.",
+    "ref": "Tao Te Ching 1",
+    "at": [
+     0
+    ],
+    "s": "The chapter calls the nameless the Originator of heaven and earth and the named the Mother of all things; Wang Bi, on chapter 1, reads both as the work of the Tao, which, without form or name, begins things before they take shape and rears them as their mother once they have form and name.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 1, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物。",
+     "gloss": "All that is begins in non-being. So at the time when things are still without form and without name, it is the beginning of the ten thousand things; when they come to have form and name, it grows them, rears them, settles them and matures them, and is their mother. The Tao, being without form and without name, begins and completes the ten thousand things."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d001-s",
+    "key": "The Tao that can be trodden is not the enduring and unchanging Tao. The name that can be named is not the enduring and unchanging name.",
+    "ref": "Tao Te Ching 1",
+    "at": [
+     0
+    ],
+    "s": "The chapter says the Tao that can be trodden and the name that can be named are not the enduring ones; the Heshang Gong commentary, on chapter 1, takes them as the way of classical learning and government and the fame of wealth and rank, and the enduring Tao as nourishing the spirit by non-action.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 1, zh.wikisource, revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "謂經術政教之道也。…非自然生長之道也。常道當以無為養神，無事安民…謂富貴尊榮，高世之名也。",
+     "gloss": "[The Tao that can be trodden] means the way of classical learning, government and instruction... [not the enduring Tao:] it is not the Tao of natural growth; the enduring Tao should nourish the spirit through non-action and settle the people by having no affairs... [The name that can be named] means wealth, rank, honour and glory, a name raised above the world."
+    }
+   }
+  },
+  {
+   "d": 2,
+   "primary": {
+    "id": "tao-01-d002-p",
+    "key": "All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is.",
+    "ref": "Tao Te Ching 2",
+    "at": [
+     1
+    ],
+    "s": "The chapter says that all the world, knowing beauty and skill, thereby knows ugliness and the want of skill; Wang Bi, on chapter 2, reads beauty and ugliness as the heart’s delight and loathing, like joy and anger, which share one root, so that neither can be singled out alone.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 2, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也；善不善，猶是非也。喜怒同根，是非同門，故不可得偏舉也。",
+     "gloss": "Beauty is what the human heart delights in and moves toward; ugliness is what the human heart hates and abhors. Beauty and ugliness are like joy and anger; good and not good are like right and wrong. Joy and anger share one root, right and wrong come out of one gate, so neither can be raised up alone."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d002-s",
+    "key": "Therefore the sage manages affairs without doing anything, and conveys his instructions without the use of speech.",
+    "ref": "Tao Te Ching 2",
+    "at": [
+     1
+    ],
+    "s": "The chapter says the sage handles affairs without action and teaches without words; the Heshang Gong commentary, on chapter 2, takes it as the sage governing by the Tao and leading others with his own person as their teacher.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 2, zh.wikisource, revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "以道治也。…以身師導之也。",
+     "gloss": "[The sage manages affairs without doing anything:] he governs by the Tao... [conveys his instructions without the use of speech:] with his own person as their teacher he leads them."
+    }
+   }
+  },
+  {
+   "d": 3,
+   "primary": {
+    "id": "tao-01-d003-p",
+    "key": "Therefore the sage, in the exercise of his government, empties their minds, fills their bellies, weakens their wills, and strengthens their bones.",
+    "ref": "Tao Te Ching 3",
+    "at": [
+     2
+    ],
+    "s": "The chapter says the sage, in governing, empties the people’s minds, fills their bellies, weakens their wills and strengthens their bones; the Heshang Gong commentary, on chapter 3, reads it as governing the state and the self alike: clearing the mind of cravings, embracing the Tao and the One, and firming the bones by husbanding the vital essence.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 3, zh.wikisource, revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "說聖人治國與治身同也。…除嗜欲，去亂煩。…懷道抱一守，五神也。…愛精重施，髓滿骨堅。",
+     "gloss": "This says that the sage’s governing of the state is the same as his governing of the self... [empties their minds:] he removes cravings and clears away confusion and vexation... [fills their bellies:] he holds the Tao and embraces the One, guarding the five spirits... [strengthens their bones:] he cherishes the vital essence and is sparing in spending it, so the marrow is full and the bones firm."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d003-s",
+    "key": "Not to value and employ men of superior ability is the way to keep the people from rivalry among themselves; not to prize articles which are difficult to procure is the way to keep them from becoming thieves; not to show them what is likely to excite their desires is the way to keep their minds from disorder.",
+    "ref": "Tao Te Ching 3",
+    "at": [
+     2
+    ],
+    "s": "The chapter says that not valuing the most able keeps the people from rivalry and not prizing rare articles keeps them from theft; Wang Bi, on chapter 3, reads it as saying that ability needs only to be put to work and not exalted, as goods need only to be used and not prized.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 3, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "賢，猶能也。尚者，嘉之名也。貴者，隆之稱也。唯能是任，尚也曷為；唯用是施，貴之何為。",
+     "gloss": "Worth means ability. To exalt is a word for praising; to prize is a word for honouring highly. If ability alone is what is put to its task, what is exalting for? If use alone is what is applied, what is prizing for?"
+    }
+   }
+  },
+  {
+   "d": 4,
+   "primary": {
+    "id": "tao-01-d004-p",
+    "key": "We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness, and bring ourselves into agreement with the obscurity of others.",
+    "ref": "Tao Te Ching 4",
+    "at": [
+     3
+    ],
+    "s": "The chapter counsels blunting sharp points, unravelling complications, tempering brightness and agreeing with the obscurity of others; the Heshang Gong commentary, on chapter 4, takes it as counsel to check the keen pursuit of merit and fame, following the Tao, which does not display itself, to untie knotted resentment, and to share the common dust rather than stand apart.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 4, zh.wikisource, revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "人欲銳精進取功名，當挫止之，法道不自見也。…紛，結恨也。當念道無為以解釋。…當與眾庶同垢塵，不當自別殊。",
+     "gloss": "When a person wants to strive keenly to advance and seize merit and fame, he should blunt it and stop, taking as his model the Tao, which does not display itself... Complications are knotted resentments; one should think on the non-action of the Tao to untie them... One should share the dirt and dust of the common people, and not set oneself apart."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d004-s",
+    "key": "The Tao is (like) the emptiness of a vessel; and in our employment of it we must be on our guard against all fulness.",
+    "ref": "Tao Te Ching 4",
+    "at": [
+     3
+    ],
+    "s": "The chapter speaks of the Tao as the emptiness of a vessel and warns against all fulness in its use; Wang Bi, on chapter 4, reads it as saying that what is used while empty is never used up, whereas what is filled to solidity overflows, so the Tao never fills and is without end.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 4, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "沖而用之，用乃不能窮，滿以造實，實來則溢，故沖而用之，又復不盈，其為無窮亦已極矣。",
+     "gloss": "Used while empty, its use can never be exhausted; fill a thing to make it solid, and when solidity comes it overflows. So, used while empty, it never becomes full: its being without end is complete."
+    }
+   }
+  },
+  {
+   "d": 5,
+   "primary": {
+    "id": "tao-01-d005-p",
+    "key": "Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with.",
+    "ref": "Tao Te Ching 5",
+    "at": [
+     4
+    ],
+    "s": "The chapter says heaven and earth act from no wish to be benevolent, dealing with all things as dogs of grass; Wang Bi, on chapter 5, reads it as heaven and earth following what is so of itself, making and doing nothing while all things order themselves: earth grows no grass for beasts, yet beasts eat grass.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 5, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "天地任自然，無為無造，萬物自相治理，故不仁也。…地不為獸生芻，而獸食芻；不為人生狗，而人食狗。",
+     "gloss": "Heaven and earth leave all to what is so of itself; they do nothing and make nothing, and the ten thousand things order one another of themselves; therefore they are not benevolent... Earth does not grow grass for the beasts, yet the beasts eat grass; it does not produce dogs for people, yet people eat dogs."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d005-s",
+    "key": "Much speech to swift exhaustion lead we see; Your inner being guard, and keep it free.",
+    "ref": "Tao Te Ching 5",
+    "at": [
+     4
+    ],
+    "s": "The chapter says much speech leads swiftly to exhaustion and urges guarding the inner being and keeping it free; the Heshang Gong commentary, on chapter 5, reads it as a warning that many words harm the body and an open mouth brings calamity, and as counsel to keep virtue within, nourishing the spirit, sparing the breath and speaking little.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 5, zh.wikisource, revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "多事害神，多言害身，口開舌舉，必有禍患。…不如守德於中，育養精神，愛氣希言。",
+     "gloss": "Many affairs harm the spirit, many words harm the body; when the mouth opens and the tongue moves, calamity is sure to follow... Better to guard virtue within, nurturing the vital spirit, sparing the breath and speaking little."
+    }
+   }
+  },
+  {
+   "d": 6,
+   "primary": {
+    "id": "tao-01-d006-p",
+    "key": "The valley spirit dies not, aye the same; The female mystery thus do we name.",
+    "ref": "Tao Te Ching 6",
+    "at": [
+     5
+    ],
+    "s": "The chapter says the valley spirit does not die and is named the female mystery; the Heshang Gong commentary, on chapter 6, reads the valley as nourishing, so that one who nourishes the spirits of the five viscera does not die, and the female mystery as the nose and mouth, through which heaven and earth feed a person.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 6, zh.wikisource, revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "谷，養也。人能養神則不死也。神，謂五臟之神也。…玄，天也，於人為鼻。牝，地也，於人為口。天食人以五氣，從鼻入藏於心。…地食人以五味，從口入藏於胃。",
+     "gloss": "The valley means nourishing. If a person can nourish the spirits, he does not die. The spirits are the spirits of the five viscera... The mysterious is heaven, which in a person is the nose; the female is earth, which in a person is the mouth. Heaven feeds a person with the five breaths, which enter by the nose and are stored in the heart... Earth feeds a person with the five flavours, which enter by the mouth and are stored in the stomach."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d006-s",
+    "key": "Long and unbroken does its power remain, Used gently, and without the touch of pain.",
+    "ref": "Tao Te Ching 6",
+    "at": [
+     5
+    ],
+    "s": "The chapter’s verse ends by saying its power remains long and unbroken, used gently and without pain; Wang Bi, on chapter 6, reads its lasting as neither presence, for its form is never seen, nor absence, for all things are born from it, and its use as completing every thing without toil.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 6, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "欲言存邪，則不見其形，欲言亡邪，萬物以之生。故緜緜若存也，無物不成，用而不勞也。",
+     "gloss": "Would one say it exists? Then its form is not seen. Would one say it has perished? Yet the ten thousand things are born from it. Hence it is unbroken, as if it existed. There is nothing it does not complete, and it is used without toil."
+    }
+   }
+  }
+ ]
+}

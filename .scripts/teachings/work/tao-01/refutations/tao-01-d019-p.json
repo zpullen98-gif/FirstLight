@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d019-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 19 (Heshang Gong, zh.wikisource rev 2019760, the page for chapters 1 to 37). Base text 絕聖，棄智，民利百倍 is the line of the key verse. Comment on 絕聖 reads 絕聖制作，反初守元。五帝垂象，倉頡作書，不如三皇結繩無文, and on 棄智 reads 棄智慧，反無為; both found verbatim, matching the evidence string. The paraphrase carries both clauses: giving up the sages’ making to return to the beginning, knotted cords without writing over Cangjie’s script (不如 = not as good as; ‘since’ is a fair rendering of the comment’s juxtaposed justification), and discarding wisdom as return to non-action. Five Emperors omitted, which narrows rather than adds. Plain sense keeps Legge’s conditional; ‘profit’ for ‘better for’ is a light rewording, not doctrine. verse.js ok (Tao Te Ching 19, at [18]); entry-check ok, no warns. No school, no comparison, tone plain.",
+ "better": ""
+}

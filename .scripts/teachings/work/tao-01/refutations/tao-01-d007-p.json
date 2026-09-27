@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 7 and fetched revision 2019760 raw myself (page 老子河上公章句/上, timestamp 2021-03-10, so the year in src is right); section ==韜光== is chapter 7 and every evidence segment is there verbatim, each under the clause the locator names: 先人而後己也 on 是以聖人後其身, 天下敬之，先以為長 on 而身先, 薄己而厚人也 on 外其身, 百姓愛之如父母 on 而身存. The base line matches Legge's key verse. The paraphrase (others first, sparing to self and generous to others, the world honours him, the people love him as father and mother) is carried clause by clause; the causal 'so that' is backed by the comment on 非以其無私邪 (being loved and protected comes from his impartial selflessness). Nothing added; the spirits' protection is omitted, not contradicted. Plain sense restates the key verse without Legge's supplied words. verse.js ok (Tao Te Ching 7, at [6]); entry-check ok, no warns (59 words, src 136 chars). No school needed, no comparison, tone plain, no story of Heshang Gong.",
+ "better": "Not a replacement: Wang Bi on the same lines (rev 2354026) says only 無私者，無為於身也, thinner than the Heshang Gong comment; usable for a standby."
+}

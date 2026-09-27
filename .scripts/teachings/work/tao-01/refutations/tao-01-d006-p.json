@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d006-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 6 and fetched revision 2019760 raw myself (timestamp 2021-03-10). Section ==成象== is chapter 6; the comment on 谷神不死 (谷，養也。人能養神則不死也。神，謂五臟之神也) and on 是謂玄牝 (玄，天也，於人為鼻。牝，地也，於人為口。天食人以五氣，從鼻入藏於心 … 地食人以五味，從口入藏於胃) are there verbatim. Base lines match the key verse. The paraphrase is carried exactly: valley as nourishing, the one who nourishes the spirits of the five viscera does not die, the female mystery as nose and mouth through which heaven and earth feed a person. Nothing beyond the words. verse.js ok (Tao Te Ching 6, at [5]); entry-check ok, no warns. Plain sense matches the key verse; no school, no comparison, tone plain, no story of Heshang Gong.",
+ "better": ""
+}

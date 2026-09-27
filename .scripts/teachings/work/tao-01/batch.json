@@ -1,0 +1,359 @@
+{
+ "plan": "tao",
+ "batch": "tao-01",
+ "div": "bb6ff32525",
+ "days": [
+  {
+   "d": 1,
+   "label": "Tao Te Ching 1",
+   "id": "tao-01-d001-p",
+   "key": "(Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.",
+   "ref": "Tao Te Ching 1",
+   "at": [
+    0
+   ],
+   "s": "The chapter calls the nameless the Originator of heaven and earth and the named the Mother of all things; Wang Bi, on chapter 1, reads both as the work of the Tao, which, without form or name, begins things before they take shape and rears them as their mother once they have form and name.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 1, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 2,
+   "label": "Tao Te Ching 2",
+   "id": "tao-01-d002-p",
+   "key": "All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is.",
+   "ref": "Tao Te Ching 2",
+   "at": [
+    1
+   ],
+   "s": "The chapter says that when all the world knows beauty and skill as such, it has with them ugliness and the want of skill; Wang Bi, on chapter 2, reads beauty and ugliness as the heart’s delight and loathing, like joy and anger, which share one root, so that neither can be singled out alone.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 2, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 3,
+   "label": "Tao Te Ching 3",
+   "id": "tao-01-d003-p",
+   "key": "Therefore the sage, in the exercise of his government, empties their minds, fills their bellies, weakens their wills, and strengthens their bones.",
+   "ref": "Tao Te Ching 3",
+   "at": [
+    2
+   ],
+   "s": "The chapter says the sage, in governing, empties the people’s minds, fills their bellies, weakens their wills and strengthens their bones; the Heshang Gong commentary, on chapter 3, reads it as governing the state and the self alike: clearing the mind of cravings, embracing the Tao and the One, and firming the bones by husbanding the vital essence.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 3, zh.wikisource, revision 2019760 (2021)"
+  },
+  {
+   "d": 4,
+   "label": "Tao Te Ching 4",
+   "id": "tao-01-d004-p",
+   "key": "We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness, and bring ourselves into agreement with the obscurity of others.",
+   "ref": "Tao Te Ching 4",
+   "at": [
+    3
+   ],
+   "s": "The chapter counsels blunting sharp points, unravelling complications, tempering brightness and agreeing with the obscurity of others; the Heshang Gong commentary, on chapter 4, takes it as counsel to check the keen pursuit of merit and fame, following the Tao, which does not display itself, to untie knotted resentment, and to share the common dust rather than stand apart.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 4, zh.wikisource, revision 2019760 (2021)"
+  },
+  {
+   "d": 5,
+   "label": "Tao Te Ching 5",
+   "id": "tao-01-d005-p",
+   "key": "Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with.",
+   "ref": "Tao Te Ching 5",
+   "at": [
+    4
+   ],
+   "s": "The chapter says heaven and earth act from no wish to be benevolent, dealing with all things as dogs of grass; Wang Bi, on chapter 5, reads it as heaven and earth following what is so of itself, making and doing nothing while all things order themselves: earth grows no grass for beasts, yet beasts eat grass.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 5, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 6,
+   "label": "Tao Te Ching 6",
+   "id": "tao-01-d006-p",
+   "key": "The valley spirit dies not, aye the same; The female mystery thus do we name.",
+   "ref": "Tao Te Ching 6",
+   "at": [
+    5
+   ],
+   "s": "The chapter says the valley spirit does not die and is named the female mystery; the Heshang Gong commentary, on chapter 6, reads the valley as nourishing, so that one who nourishes the spirits of the five viscera does not die, and the female mystery as the nose and mouth, through which heaven and earth feed a person.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 6, zh.wikisource, revision 2019760 (2021)"
+  },
+  {
+   "d": 7,
+   "label": "Tao Te Ching 7",
+   "id": "tao-01-d007-p",
+   "key": "Therefore the sage puts his own person last, and yet it is found in the foremost place; he treats his person as if it were foreign to him, and yet that person is preserved.",
+   "ref": "Tao Te Ching 7",
+   "at": [
+    6
+   ],
+   "s": "The chapter says the sage puts his person last and it is found foremost, treats it as foreign and it is preserved; the Heshang Gong commentary, on chapter 7, reads this as putting others first, taking little for himself and giving much to others, so that the world honours him and the people love him as father and mother.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 7, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 8,
+   "label": "Tao Te Ching 8",
+   "id": "tao-01-d008-p",
+   "key": "And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.",
+   "ref": "Tao Te Ching 8",
+   "at": [
+    7
+   ],
+   "s": "The chapter ends by saying that when there is no wrangling, no one finds fault; the Heshang Gong commentary, on chapter 8, takes the not wrangling as water’s way of going along with people, stopping when dammed and flowing when released, so that no one under heaven resents or blames it.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 9,
+   "label": "Tao Te Ching 9",
+   "id": "tao-01-d009-p",
+   "key": "When the work is done, and one’s name is becoming distinguished, to withdraw into obscurity is the way of Heaven.",
+   "ref": "Tao Te Ching 9",
+   "at": [
+    8
+   ],
+   "s": "The chapter calls withdrawing into obscurity, when the work is done and the name grows distinguished, the way of Heaven; the Heshang Gong commentary, on chapter 9, reads it as warning that one who does not step down after success meets harm, which is Heaven’s constant way, as the sun moves on after noon and the full moon wanes.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 9, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 10,
+   "label": "Tao Te Ching 10",
+   "id": "tao-01-d010-p",
+   "key": "(The Tao) produces (all things) and nourishes them; it produces them and does not claim them as its own; it does all, and yet does not boast of it; it presides over all, and yet does not control them. This is what is called ‘The mysterious Quality’ (of the Tao).",
+   "ref": "Tao Te Ching 10",
+   "at": [
+    9
+   ],
+   "s": "The chapter calls producing and nourishing without claiming, boasting or controlling ‘The mysterious Quality’; Wang Bi, on chapter 10, reads producing as not blocking the source of things and nourishing as not restraining their nature, so that things are born and grow of themselves, and takes the mystery as virtue that has no master.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 10, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 11,
+   "label": "Tao Te Ching 11",
+   "id": "tao-01-d011-p",
+   "key": "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends.",
+   "ref": "Tao Te Ching 11",
+   "at": [
+    10
+   ],
+   "s": "The chapter says thirty spokes unite in one nave, but the use of the wheel depends on the empty space; Wang Bi, on chapter 11, reads it as saying that the nave can gather the thirty spokes because of its non-being, since its emptiness can receive things, and so it holds the many together.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 11, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 12,
+   "label": "Tao Te Ching 12",
+   "id": "tao-01-d012-p",
+   "key": "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former.",
+   "ref": "Tao Te Ching 12",
+   "at": [
+    11
+   ],
+   "s": "The chapter says the sage seeks to satisfy the belly and not the eyes, putting the latter from him and preferring the former; Wang Bi, on chapter 12, reads serving the belly as using things to nourish oneself and serving the eyes as being enslaved by things, which is why the sage does not serve the eyes.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 12, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 13,
+   "label": "Tao Te Ching 13",
+   "id": "tao-01-d013-p",
+   "key": "Therefore he who would administer the kingdom, honouring it as he honours his own person, may be employed to govern it, and he who would administer it with the love which he bears to his own person may be entrusted with it.",
+   "ref": "Tao Te Ching 13",
+   "at": [
+    12
+   ],
+   "s": "The chapter says the kingdom may be entrusted to one who honours and loves it as his own person; the Heshang Gong commentary, on chapter 13, takes the honouring as a ruler prizing himself and scorning others, who holds it only for a time, and the loving as one loving himself for the people’s sake, who lasts without blame.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 13, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 14,
+   "label": "Tao Te Ching 14",
+   "id": "tao-01-d014-p",
+   "key": "When we can lay hold of the Tao of old to direct the things of the present day, and are able to know it as it was of old in the beginning, this is called (unwinding) the clue of Tao.",
+   "ref": "Tao Te Ching 14",
+   "at": [
+    13
+   ],
+   "s": "The chapter calls holding the Tao of old to direct the present, and knowing the ancient beginning, the clue of Tao; Wang Bi, on chapter 14, takes that Tao as the formless and nameless ancestor of all things, through which every age, however customs change, achieves its order, so the ancient beginning can still be known now.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 14, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 15,
+   "label": "Tao Te Ching 15",
+   "id": "tao-01-d015-p",
+   "key": "Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water.",
+   "ref": "Tao Te Ching 15",
+   "at": [
+    14
+   ],
+   "s": "The chapter likens the skilful masters of old to melting ice, unfashioned wood, a valley and muddy water; the Heshang Gong commentary, on chapter 15, takes the ice as shedding feeling and desire to grow daily emptier, the wood as keeping the spirit within, with no outer ornament, and the muddy water as merging with the crowd, not wilful.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 15, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 16,
+   "label": "Tao Te Ching 16",
+   "id": "tao-01-d016-p",
+   "key": "All things alike go through their processes of activity, and (then) we see them return (to their original state).",
+   "ref": "Tao Te Ching 16",
+   "at": [
+    15
+   ],
+   "s": "The chapter says that all things alike go through their activity and are seen to return; Wang Bi, on chapter 16, takes the seeing as done through emptiness and stillness, and reads the return as their going back at last to emptiness and stillness, since all being arises from emptiness and all movement from stillness.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 16, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 17,
+   "label": "Tao Te Ching 17",
+   "id": "tao-01-d017-p",
+   "key": "In the next age they loved them and praised them. In the next they feared them; in the next they despised them.",
+   "ref": "Tao Te Ching 17",
+   "at": [
+    16
+   ],
+   "s": "The chapter says that in later ages they loved and praised them, then feared them, then despised them; Wang Bi, on chapter 17, takes these as lesser rulers: one who, unable to govern by non-action, sets up goodness and bestows favours, one who relies on power, and one who rules by cleverness and whose orders are evaded.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 17, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 18,
+   "label": "Tao Te Ching 18",
+   "id": "tao-01-d018-p",
+   "key": "When the Great Tao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue.",
+   "ref": "Tao Te Ching 18",
+   "at": [
+    17
+   ],
+   "s": "The chapter says benevolence and righteousness came into vogue when the Great Tao ceased to be observed; the Heshang Gong commentary, on chapter 18, reads the Great Tao’s age as one of filial sons, loyalty and good faith in every house, where benevolence and righteousness went unseen until the Tao was abandoned and evil and rebellion arose.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 18, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 19,
+   "label": "Tao Te Ching 19",
+   "id": "tao-01-d019-p",
+   "key": "If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold.",
+   "ref": "Tao Te Ching 19",
+   "at": [
+    18
+   ],
+   "s": "The chapter says renouncing sageness and discarding wisdom would profit the people a hundredfold; the Heshang Gong commentary, on chapter 19, reads the renouncing of sageness as giving up the sages’ making and devising to return to the beginning, since the Three Sovereigns’ unwritten knotted cords surpassed Cangjie’s script, and the discarding of wisdom as a return to non-action.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 19, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 20,
+   "label": "Tao Te Ching 20",
+   "id": "tao-01-d020-p",
+   "key": "The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring. I alone seem listless and still, my desires having as yet given no indication of their presence.",
+   "ref": "Tao Te Ching 20",
+   "at": [
+    19
+   ],
+   "s": "The chapter says the multitude look pleased, as if at a full banquet, while ‘I alone’ seem listless and still, desires not yet showing; the Heshang Gong commentary, on chapter 20, reads their pleasure as dissolute desire, like a hungry man craving a feast and never satisfied, and the stillness as calm, with no form or sign of passion yet.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 20, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 21,
+   "label": "Tao Te Ching 21",
+   "id": "tao-01-d021-p",
+   "key": "How know I that it is so with all the beauties of existing things? By this (nature of the Tao).",
+   "ref": "Tao Te Ching 21",
+   "at": [
+    20
+   ],
+   "s": "The chapter asks how it is known that it is so with all the beauties of existing things, and answers, by this; Wang Bi, on chapter 21, reads the question as how it is known that all things begin in non-being, and takes ‘this’ as the chapter’s preceding account of the nameless, through which all things come to be.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 21, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 22,
+   "label": "Tao Te Ching 22",
+   "id": "tao-01-d022-p",
+   "key": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
+   "ref": "Tao Te Ching 22",
+   "at": [
+    21
+   ],
+   "s": "The chapter says the partial becomes complete, the crooked straight, the empty full and the worn out new; Wang Bi, on chapter 22, reads the four as not displaying one’s own brightness, which makes one whole, not holding oneself right, which makes one’s rightness plain, not boasting, which keeps one’s merit, and not vaunting oneself, which lets one’s virtue endure.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 22, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 23,
+   "label": "Tao Te Ching 23",
+   "id": "tao-01-d023-p",
+   "key": "Abstaining from speech marks him who is obeying the spontaneity of his nature.",
+   "ref": "Tao Te Ching 23",
+   "at": [
+    22
+   ],
+   "s": "The chapter says that abstaining from speech marks one who obeys the spontaneity of his nature; Wang Bi, on chapter 23, takes the phrase as speech listened for and not heard and, drawing on a later chapter’s flavourless words of the Tao, reads such speech as the utmost speech of what is so of itself.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 23, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 24,
+   "label": "Tao Te Ching 24",
+   "id": "tao-01-d024-p",
+   "key": "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily).",
+   "ref": "Tao Te Ching 24",
+   "at": [
+    23
+   ],
+   "s": "The chapter says the one on tiptoe does not stand firm and the one who stretches his legs does not walk; the Heshang Gong commentary, on chapter 24, takes the first as one greedy for power and fame, who cannot stand long, and the second as one who strides over others, thinking himself noble, till the many block his way.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 24, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 25,
+   "label": "Tao Te Ching 25",
+   "id": "tao-01-d025-p",
+   "key": "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is.",
+   "ref": "Tao Te Ching 25",
+   "at": [
+    24
+   ],
+   "s": "The chapter says man takes his law from the Earth, the Earth from Heaven, Heaven from the Tao, whose law is its being what it is; Wang Bi, on chapter 25, reads each as not going against the next, and the Tao as going against nothing that is so of itself, square in the square, round in the round.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 25, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  },
+  {
+   "d": 26,
+   "label": "Tao Te Ching 26",
+   "id": "tao-01-d026-p",
+   "key": "Gravity is the root of lightness; stillness, the ruler of movement.",
+   "ref": "Tao Te Ching 26",
+   "at": [
+    25
+   ],
+   "s": "The chapter says gravity is the root of lightness, and stillness the ruler of movement; the Heshang Gong commentary, on chapter 26, reads it both for the ruler, who without gravity is not honoured and without stillness loses authority, and for governing the self, where without gravity the spirit is lost and without stillness the body is endangered.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 26, zh.wikisource (a normalised text), revision 2019760 (2021)"
+  },
+  {
+   "d": 27,
+   "label": "Tao Te Ching 27",
+   "id": "tao-01-d027-p",
+   "key": "In the same way the sage is always skilful at saving men, and so he does not cast away any man; he is always skilful at saving things, and so he does not cast away anything.",
+   "ref": "Tao Te Ching 27",
+   "at": [
+    26
+   ],
+   "s": "The chapter says the sage, always skilful at saving men and things, casts none away; Wang Bi, on chapter 27, reads it as the sage setting up no forms and names to check things and no path of advancement that sets apart and casts off the unworthy, but aiding all things to be so of themselves.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 27, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)"
+  }
+ ],
+ "holes": []
+}

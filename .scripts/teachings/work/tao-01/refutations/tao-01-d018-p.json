@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d018-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 18 and fetched revision 2019760 raw myself (老子河上公章句/上, timestamp 2021-03-10, the page packet.js names for chapters 1 to 37; year in src right). Section ==俗薄== is the eighteenth heading, i.e. chapter 18, and on the base line 大道廢，有仁義 (the key verse's line) the evidence stands verbatim. The reading is carried clause by clause: 大道之時，家有孝子，戶有忠信 (the Great Tao's age, filial sons and loyalty and good faith in every house), 仁義不見 (benevolence and righteousness unseen), 大道廢不用，惡逆生，乃有仁義 (only when the Tao was abandoned and evil and rebellion arose were there benevolence and righteousness). The chapter's closing comment 大道之世，仁義沒 agrees. Nothing is said of Heshang Gong as a person. Plain sense restates the key verse without Legge's '(Way or Method)'. verse.js ok (Tao Te Ching 18, at [17]); entry-check ok, no warns (57 words, src 137 chars). No comparison, tone plain.",
+ "better": ""
+}

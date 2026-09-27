@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "How know I that it is so with all the beauties of existing things? By this (nature of the Tao).",
+ "ref": "Tao Te Ching 21",
+ "at": [
+  20
+ ],
+ "s": "The chapter asks how it is known that it is so with all the beauties of existing things, and answers, by this; Wang Bi, on chapter 21, reads the question as how it is known that all things begin in non-being, and takes ‘this’ as what has been said above.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 21, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 21, comments on 以閱眾甫 and 吾何以知眾甫之狀哉？以此",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "眾甫，物之始也。以無名說萬物始也。…此上之所云也。言吾何以知萬物之始於無哉，以此知之也。",
+  "lang": "Classical Chinese",
+  "gloss": "‘The many fathers’ are the beginning of things: the text explains the beginning of all things by the nameless. … ‘This’ is what has been said above. It means: how do I know that all things begin in non-being? I know it by this.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 21, at [20]). Wang Bi’s base text reads 吾何以知眾甫之狀哉？以此 (Legge’s ‘all the beauties of existing things’ renders 眾甫 differently, but it is the same line); his comment on that line says ‘this’ is what was said above and glosses the question as how it is known that all things begin in non-being, exactly as the sentence has it. Plain sense restates the key verse and does not lean on Legge’s parenthesis. entry-check ok."
+}

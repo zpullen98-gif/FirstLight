@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d010-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 10: Wang Bi base text 生之，畜之。生而不有，為而不恃，長而不宰，是謂玄德 is the line of the key verse. Comments 生之: 不塞其原也; 畜之: 不禁其性也; on the closing line: 不塞其原，則物自生…不禁其性，則物自濟…物自長足，不吾宰成，有德無主，非玄而何. Producing as not blocking the source, nourishing as not restraining nature, things born (自生) and growing (自長足) of themselves, and the mystery as virtue with no master (有德無主，非玄而何) are all in his words. Plain sense restates the key verse without leaning on Legge’s parentheses; the dropped presiding clause is compression, not addition. verse.js ok (at [9]); entry-check ok; 54 words, one semicolon. No school needed, no comparison, not a hard passage. Minor note: his summary line reads 有德而不知其主 (its master is not known) beside 有德無主; the sentence follows the latter, which is his.",
+ "better": ""
+}

@@ -1,0 +1,17 @@
+{
+ "about": "The Teachings: what has landed, per plan. Written by land-batch.js.",
+ "plans": {
+  "tao": {
+   "batches": [
+    "tao-01"
+   ],
+   "days": 27,
+   "of": 81,
+   "by": {
+    "wang-bi": 14,
+    "heshang-gong": 13
+   },
+   "hedged": 0
+  }
+ }
+}

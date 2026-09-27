@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d014-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 14 and fetched revision 2354026 raw myself (道德經 (王弼本), timestamp 2024-01-10, year in src right); 無形無名者，萬物之宗也, 時移俗易，故莫不由乎此以成其治者也 and 故雖在今，可以知古始也 are all verbatim inside ==十四章==, in the comment on 能知古始，是謂道紀. Wang Bi’s base text here (執古之道，以御今之有。能知古始，是謂道紀) matches Legge’s key verse. The paraphrase holds: the formless and nameless as ancestor of all things; though times shift and customs change, none fails to rely on it to achieve order (‘every age’ is a fair gloss of 雖今古不同 … 莫不由乎此); antiquity remote but its Tao remains, so the ancient beginning can be known now. Linking ‘that Tao’ to the formless ancestor follows his own 故可執古之道 in the same comment. Plain sense restates the verse and does not lean on Legge’s ‘(unwinding)’. verse.js ok (Tao Te Ching 14, at [13]); entry-check ok, no warns. No school, comparison or tone issue.",
+ "better": ""
+}

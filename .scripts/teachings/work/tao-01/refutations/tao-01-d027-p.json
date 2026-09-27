@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d027-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 27 (Wang Bi, zh.wikisource rev 2354026). verse.js ok (Tao Te Ching 27, at [26]); the key begins a sentence mid-unit and ends before the quoted title, no dash. Wang Bi comments on 是以聖人常善救人，故無棄人 (his base text also has 常善救物，故無棄物): 聖人不立形名以檢於物，不造進向以殊棄不肖，輔萬物之自然. The sentence renders these three clauses without addition; 輔萬物 (all things) lets the reading stand for the things half too, so reads it over the whole key verse is not drift. Evidence found verbatim. The Heshang Gong alternative (teaching loyalty and filial piety) is weaker and would invite a watch term; Wang Bi is the better choice here. My own entry-check: ok, no warns.",
+ "better": ""
+}

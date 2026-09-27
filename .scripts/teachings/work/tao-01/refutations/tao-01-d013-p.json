@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 13 and fetched revision 2019760 raw myself (老子河上公章句/上, timestamp 2021-03-10, so the year in src is right); both evidence segments sit verbatim in section ==厭恥== (chapter 13), under 故貴以身為天下者，則可寄天下 and 愛以身為天下，若可託天下, lines that match Legge’s key verse. The paraphrase is carried clause by clause: prizing himself and scorning others (貴其身而賤人), holding it only for a time (可寄立，不可以久也), loving himself for the people’s sake (愛其身，非為己也，乃欲為萬民之父母), lasting without blame (長無咎也). The commentary’s split of the two parallel clauses departs from Legge’s plain sense, but the sentence names it without resolving it (rule 5), and Legge’s own note confirms the commentary draws that distinction. ‘Scorning’ for 賤 is at the strong edge of ‘holding cheap’ but within it. Plain sense restates the verse without leaning on anything supplied. verse.js ok (Tao Te Ching 13, at [12]); entry-check ok, no warns. No school needed, no comparison, tone plain, nothing told of the legend.",
+ "better": "Not a replacement: Wang Bi on the same lines (rev 2354026) reads both clauses positively, as one whose person nothing (favour, disgrace, glory, calamity) can alter or harm, so the world may be given to him; usable for a standby that follows Legge’s parallel reading."
+}

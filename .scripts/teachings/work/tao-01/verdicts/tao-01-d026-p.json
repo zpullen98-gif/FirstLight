@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d026-p",
+ "d": 26,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Gravity is the root of lightness; stillness, the ruler of movement.",
+ "ref": "Tao Te Ching 26",
+ "at": [
+  25
+ ],
+ "s": "The chapter says gravity is the root of lightness, and stillness the ruler of movement; the Heshang Gong commentary, on chapter 26, reads it both for the ruler, who without gravity is not honoured and without stillness loses authority, and for governing the self, where without gravity the spirit is lost and without stillness the body is endangered.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 26, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "locator": "chapter 26 (重德), comments on 重為輕根 and 靜為躁君",
+    "via": "packet"
+   }
+  ],
+  "words": "人君不重則不尊，治身不重則失神 … 人君不靜則失威，治身不靜則身危",
+  "lang": "Classical Chinese",
+  "gloss": "A ruler who is not grave is not honoured; one who governs the self without gravity loses the spirit. … A ruler who is not still loses his majesty; one who governs the self without stillness puts the body in danger.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 26, at [25]); it is the whole first unit and matches the commentary text 重為輕根，靜為躁君. The Heshang Gong commentary glosses each half twice, for the ruler (不尊, 失威) and for governing the self (失神, 身危); the sentence carries both pairs and nothing more (its images of the plant root and the dragon and tiger are left out, not distorted). Plain sense faithful. entry-check ok."
+}

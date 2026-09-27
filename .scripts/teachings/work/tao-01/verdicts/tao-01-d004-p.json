@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness, and bring ourselves into agreement with the obscurity of others.",
+ "ref": "Tao Te Ching 4",
+ "at": [
+  3
+ ],
+ "s": "The chapter counsels blunting sharp points, unravelling complications, tempering brightness and agreeing with the obscurity of others; the Heshang Gong commentary, on chapter 4, takes it as counsel to check the keen pursuit of merit and fame, following the Tao, which does not display itself, to untie knotted resentment, and to share the common dust rather than stand apart.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 4, zh.wikisource, revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 4 (title 無源), comments on 挫其銳, 解其紛, 同其塵",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "人欲銳精進取功名，當挫止之，法道不自見也。…紛，結恨也。當念道無為以解釋。…當與眾庶同垢塵，不當自別殊。",
+  "lang": "Classical Chinese",
+  "gloss": "(On blunting sharp points:) when a person wants to press keenly forward to seize merit and fame, he should check it and stop, modelling himself on the Tao, which does not display itself. (On unravelling complications:) complications are knotted resentments; one should think on the non-action of the Tao to untie them. (On agreeing with the dust:) one should share the grime and dust of the common people and not set oneself apart.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 4, at [3]). The Heshang Gong base text 挫其銳，解其紛，和其光，同其塵 is the line of the key verse. Its comments carry each element of the reading: checking the keen pursuit of merit and fame after the Tao that does not display itself, untying knotted resentment, sharing the common dust rather than standing apart. Read the whole chapter; nothing contradicts. Plain sense restates the key verse faithfully. entry-check ok."
+}

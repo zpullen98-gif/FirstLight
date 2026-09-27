@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d023-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 23 and fetched revision 2354026 raw myself. Under ==二十三章== the comment on 希言自然 is verbatim the evidence: 聽之不聞名曰希，下章言，道之出言淡兮其無味也，視之不足見，聽之不足聞，然則無味不足聽之言，乃是自然之至言也. 希言自然 is the line Legge renders as the key verse. The sentence says what the comment says: 希 glossed as what is listened for and not heard (the gloss borrows chapter 14 wording, which the sentence does not misattribute), a following chapter (35) cited on the flavourless words of the Tao, and such speech concluded to be the utmost speech of 自然. Wang Bi reads 希言 differently from Legge’s abstaining from speech, but the sentence attributes that reading to him with takes/reads and does not resolve it; the plain sense stays with Legge’s wording and no parenthesis. verse.js ok (Tao Te Ching 23, at [22]); entry-check ok, no warns (55 words). No school, comparison or tone issue.",
+ "better": ""
+}

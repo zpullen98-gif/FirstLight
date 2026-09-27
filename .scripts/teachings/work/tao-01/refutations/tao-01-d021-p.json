@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d021-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 21 (Wang Bi, zh.wikisource rev 2354026). Wang Bi’s base line 吾何以知眾甫之狀哉？以此 is the key verse’s line (Legge’s text has 然 for 狀, rendered ‘that it is so’; same line, same question and answer). Comment found verbatim: 此上之所云也。言吾何以知萬物之始於無哉，以此知之也, with 眾甫，物之始也 on the line before; this carries both halves of the reading (‘this’ is what was said above; the question as how it is known that all things begin in non-being). The reading differs from Legge’s ‘beauties’ and is attributed to Wang Bi without judgement. Plain sense does not lean on Legge’s parenthesis. verse.js ok (Tao Te Ching 21, at [20]); entry-check ok, no warns. No school, no comparison, tone plain.",
+ "better": "Not a replacement, only noted: the Heshang Gong commentary on the same line (rev 2019760) takes 此 as 今, now, and says all things now arise by receiving the Tao’s essential qi (以今萬物皆得道精氣而生), a clear divergence that would suit a standby or a two-commentator entry."
+}

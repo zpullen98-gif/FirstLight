@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with.",
+ "ref": "Tao Te Ching 5",
+ "at": [
+  4
+ ],
+ "s": "The chapter says heaven and earth act from no wish to be benevolent, dealing with all things as dogs of grass; Wang Bi, on chapter 5, reads it as heaven and earth following what is so of itself, making and doing nothing while all things order themselves: earth grows no grass for beasts, yet beasts eat grass.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 5, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 5, comment on 天地不仁，以萬物為芻狗",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "天地任自然，無為無造，萬物自相治理，故不仁也。…地不為獸生芻，而獸食芻；不為人生狗，而人食狗。",
+  "lang": "Classical Chinese",
+  "gloss": "Heaven and earth leave things to what is so of itself; they neither act nor make, and the ten thousand things order one another of themselves; therefore they are not benevolent. ... Earth does not grow grass for the beasts, yet the beasts eat grass; it does not produce dogs for people, yet people eat dogs.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 5, at [4]). Wang Bi comments on 天地不仁，以萬物為芻狗, the line of the key verse. His comment carries the reading exactly: 任自然, 無為無造, 萬物自相治理, and the grass and beasts illustration (he takes 芻 and 狗 separately, which the sentence reflects without borrowing Legge’s straw-dog explanation). Plain sense faithful. entry-check ok."
+}

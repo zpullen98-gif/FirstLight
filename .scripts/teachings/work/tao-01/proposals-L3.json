@@ -1,0 +1,217 @@
+{
+ "lane": "L3",
+ "plan": "tao",
+ "batch": "tao-01",
+ "days": [
+  {
+   "d": 13,
+   "primary": {
+    "id": "tao-01-d013-p",
+    "key": "Therefore he who would administer the kingdom, honouring it as he honours his own person, may be employed to govern it, and he who would administer it with the love which he bears to his own person may be entrusted with it.",
+    "ref": "Tao Te Ching 13",
+    "at": [12],
+    "s": "The chapter says the kingdom may be entrusted to one who honours and loves it as his own person; the Heshang Gong commentary, on chapter 13, takes the honouring as a ruler prizing himself and scorning others, who holds it only for a time, and the loving as one loving himself for the people’s sake, who lasts without blame.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 13, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "言人君貴其身而賤人，欲為天下主者，則可寄立，不可以久也。…言人君能愛其身，非為己也，乃欲為萬民之父母。以此得為天下主者，乃可以託其身於萬民之上，長無咎也。",
+     "gloss": "It says: a ruler who prizes his own person and treats others as base, wishing to be master of the world, may be set in place, but cannot last long. … It says: a ruler who can love his own person, not for his own sake but wishing to be father and mother to the myriad people, and who by this becomes master of the world, may entrust his person above the myriad people and long be without blame."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d013-s",
+    "key": "Therefore he who would administer the kingdom, honouring it as he honours his own person, may be employed to govern it, and he who would administer it with the love which he bears to his own person may be entrusted with it.",
+    "ref": "Tao Te Ching 13",
+    "at": [12],
+    "s": "The chapter says the kingdom may be entrusted to one who honours and loves it as his own person; Wang Bi, on chapter 13, takes honouring as letting nothing change one’s person and loving as letting nothing harm it, so that only one whom favour, disgrace, glory and calamity neither harm nor change may be handed the kingdom.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 13, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "無以易其身，故曰貴也。…無物可以損其身，故曰愛也。…不以寵辱榮患損易其身，然後乃可以天下付之也。",
+     "gloss": "Nothing can change his person: hence ‘honouring’. … No thing can harm his person: hence ‘love’. … Only when he does not let favour and disgrace, glory and calamity harm or change his person can the world be handed to him."
+    }
+   }
+  },
+  {
+   "d": 14,
+   "primary": {
+    "id": "tao-01-d014-p",
+    "key": "When we can lay hold of the Tao of old to direct the things of the present day, and are able to know it as it was of old in the beginning, this is called (unwinding) the clue of Tao.",
+    "ref": "Tao Te Ching 14",
+    "at": [13],
+    "s": "The chapter calls holding the Tao of old to direct the present, and knowing the ancient beginning, the clue of Tao; Wang Bi, on chapter 14, takes that Tao as the formless and nameless ancestor of all things, through which every age, however customs change, achieves its order, so the ancient beginning can still be known now.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 14, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "無形無名者，萬物之宗也。雖今古不同，時移俗易，故莫不由乎此以成其治者也。…上古雖遠，其道存焉，故雖在今，可以知古始也。",
+     "gloss": "What is without form and without name is the ancestor of all things. Though present and past are not the same, and times shift and customs change, none fails to follow it in achieving its order. … Though high antiquity is remote, its Tao remains; so even now one can know the ancient beginning."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d014-s",
+    "key": "With these three qualities, it cannot be made the subject of description; and hence we blend them together and obtain The One.",
+    "ref": "Tao Te Ching 14",
+    "at": [13],
+    "s": "The chapter says that with these three qualities it cannot be described, and so they are blended into The One; the Heshang Gong commentary, on chapter 14, takes the three as being without colour, sound or form, which speech and books cannot convey, so that it is received in stillness and sought with the spirit, not got by questioning.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 14, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "無色曰夷。…無聲曰希。…無形曰微。…夫無色、無聲、無形，口不能言，書不能傳，當受之以靜，求之以神，不可問詰而得之也。",
+     "gloss": "Without colour is called yi. … Without sound is called xi. … Without form is called wei. … What is without colour, sound and form the mouth cannot speak of and books cannot pass on; it must be received in stillness and sought with the spirit, and cannot be got by questioning."
+    }
+   }
+  },
+  {
+   "d": 15,
+   "primary": {
+    "id": "tao-01-d015-p",
+    "key": "Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water.",
+    "ref": "Tao Te Ching 15",
+    "at": [14],
+    "s": "The chapter likens the skilful masters of old to melting ice, unfashioned wood, a valley and muddy water; the Heshang Gong commentary, on chapter 15, takes the ice as shedding feeling and desire to grow daily emptier, the wood as keeping the spirit within, with no outer ornament, and the muddy water as merging with the crowd, not wilful.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 15, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "渙者，解散。釋者，消亡。除情去欲，日以空虛。…內守精神，外無文采也。…與眾合同，不自專也。",
+     "gloss": "Huan means dispersing; shi means vanishing: putting away feeling and desire, growing emptier day by day. … Within, guarding the vital spirit; without, no ornament. … Joining and becoming one with the crowd, not acting on one’s own will."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d015-s",
+    "key": "Who can (make) the muddy water (clear)? Let it be still, and it will gradually become clear.",
+    "ref": "Tao Te Ching 15",
+    "at": [14],
+    "s": "The chapter says that muddy water, if left still, will gradually become clear; Wang Bi, on chapter 15, reads this as the way of the natural, in which calming things through murkiness brings clearness, as ordering them through obscurity brings brightness, and takes ‘Who can’ as marking how hard this is and ‘gradually’ as meaning with care.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 15, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "夫晦以理物則得明，濁以靜物則得清，安以動物則得生，此自然之道也。孰能者，言其難也。徐者，詳慎也。",
+     "gloss": "If one orders things by obscurity, brightness is gained; if one calms things by turbidity, clearness is gained; if one moves things by rest, life is gained: this is the way of the natural. ‘Who can’ says that it is hard. ‘Gradually’ means with care and caution."
+    }
+   }
+  },
+  {
+   "d": 16,
+   "primary": {
+    "id": "tao-01-d016-p",
+    "key": "All things alike go through their processes of activity, and (then) we see them return (to their original state).",
+    "ref": "Tao Te Ching 16",
+    "at": [15],
+    "s": "The chapter says that all things alike go through their activity and are seen to return; Wang Bi, on chapter 16, takes the seeing as done through emptiness and stillness, and reads the return as their going back at last to emptiness and stillness, since all being arises from emptiness and all movement from stillness.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 16, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜，是物之極篤也。",
+     "gloss": "It is through emptiness and stillness that their return is observed. All being arises from emptiness, and movement from stillness; so though all things act together, they at last return to emptiness and stillness: this is the utmost and the genuine in things."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d016-s",
+    "key": "When things (in the vegetable world) have displayed their luxuriant growth, we see each of them return to its root. This returning to their root is what we call the state of stillness; and that stillness may be called a reporting that they have fulfilled their appointed end.",
+    "ref": "Tao Te Ching 16",
+    "at": [15],
+    "s": "The chapter says that flourishing things each return to their root, and calls that return stillness; the Heshang Gong commentary, on chapter 16, takes stillness to mean the root, quiet, soft and lowly, to which withering things return and live again, and reads that stillness as a return to nature and life, so that they do not die.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 16, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "言萬物無不枯落，各復反其根而更生也。…靜謂根也。根安靜柔弱，謙卑處下，故不復死也。…言安靜者是為復還性命，使不死也。",
+     "gloss": "It says that of all things none fails to wither and fall, and each goes back to its root and lives again. … Stillness means the root. The root is at rest and quiet, soft and weak, humble and dwelling low, and so it does not die again. … It says that being at rest is a return to one’s nature and life, so that one does not die."
+    }
+   }
+  },
+  {
+   "d": 17,
+   "primary": {
+    "id": "tao-01-d017-p",
+    "key": "In the next age they loved them and praised them. In the next they feared them; in the next they despised them.",
+    "ref": "Tao Te Ching 17",
+    "at": [16],
+    "s": "The chapter says that in later ages they loved and praised them, then feared them, then despised them; Wang Bi, on chapter 17, takes these as lesser rulers: one who, unable to govern by non-action, sets up goodness and bestows favours, one who relies on power, and one who rules by cleverness and whose orders are evaded.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 17, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "不能以無為居事，不言為教，立善行施，使下得親而譽之也。…不復能以恩仁令物，而賴威權也。…不能法以正齊民，而以智治國，下知避之，其令不從",
+     "gloss": "Unable to abide in affairs by non-action and to teach without words, he sets up goodness and dispenses favours, so that those below come to love and praise him. … No longer able to command things by kindness and benevolence, he relies on majesty and power. … Unable to order the people by correct law, he governs the state by cleverness; those below learn to evade him, and his orders are not followed."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d017-s",
+    "key": "Their work was done and their undertakings were successful, while the people all said, ‘We are as we are, of ourselves!’",
+    "ref": "Tao Te Ching 17",
+    "at": [16],
+    "s": "The chapter says that when the work was done, the people all said they were as they were of themselves; the Heshang Gong commentary, on chapter 17, takes the success as the world at peace, and the people’s saying as not knowing their ruler’s pure, rich virtue and thinking themselves so by nature.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 17, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "謂天下太平也。…百姓不知君上之德淳厚，反以為己自當然也。",
+     "gloss": "(On the work done and the undertakings successful:) this means the world at great peace. … The people did not know the pure, rich virtue of the ruler above, and thought instead that they were so of themselves, as a matter of course."
+    }
+   }
+  },
+  {
+   "d": 18,
+   "primary": {
+    "id": "tao-01-d018-p",
+    "key": "When the Great Tao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue.",
+    "ref": "Tao Te Ching 18",
+    "at": [17],
+    "s": "The chapter says benevolence and righteousness came into vogue when the Great Tao ceased to be observed; the Heshang Gong commentary, on chapter 18, reads the Great Tao’s age as one of filial sons, loyalty and good faith in every house, where benevolence and righteousness went unseen until the Tao was abandoned and evil and rebellion arose.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 18, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道。",
+     "gloss": "In the time of the Great Tao, every family had filial sons and every household loyalty and good faith, and benevolence and righteousness were not seen. When the Great Tao was abandoned and not used, evil and rebellion arose, and only then were there benevolence and righteousness to be handed on and spoken of."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d018-s",
+    "key": "When harmony no longer prevailed throughout the six kinships, filial sons found their manifestation; when the states and clans fell into disorder, loyal ministers appeared.",
+    "ref": "Tao Te Ching 18",
+    "at": [17],
+    "s": "The chapter says filial sons appeared when the six kinships lost their harmony, and loyal ministers when the states fell into disorder; Wang Bi, on chapter 18, reads the finest names as born of great evil: were the kin at one and the state in order of themselves, none would know where filial piety, kindness and loyal ministers were.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 18, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "甚美之名生於大惡，所謂美惡同門。…若六親自和，國家自治，則孝慈忠臣不知其所在矣。",
+     "gloss": "The finest names are born of great evil: this is what is called beauty and ugliness sharing one gate. … If the six kin were in harmony of themselves and the state in order of itself, then filial piety, kindness and loyal ministers would not be known to be anywhere."
+    }
+   }
+  }
+ ]
+}

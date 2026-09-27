@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d015-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 15 and fetched revision 2019760 raw myself; 除情去欲，日以空虛, 內守精神，外無文采也 and 與眾合同，不自專也 are verbatim in section ==顯德== (chapter 15), under 渙兮若冰之將釋, 敦兮其若朴 and 渾兮其若濁 respectively, the base lines matching Legge’s ice, unfashioned wood and muddy water. Each image in the reading is tied to the comment on its own line: ice as shedding feeling and desire, growing daily emptier; wood as keeping the spirit within, no outer ornament; muddy water as merging with the crowd, not self-assertive (‘not wilful’ is a fair gloss of 不自專). The comment 守本真 on 渾 is omitted, not contradicted. Plain sense lists four of the verse’s images in Legge’s own terms and does not lean on ‘(of the Tao)’. verse.js ok (Tao Te Ching 15, at [14]); entry-check ok, no warns. No school, comparison or tone issue.",
+ "better": "Not a replacement: Wang Bi’s comment on the same run of images says only that all these ‘likes’ mean their appearance cannot be given form or name (凡此諸若，皆言其容象不可得而形名也), thinner than the Heshang Gong comment."
+}

@@ -1,0 +1,217 @@
+{
+ "lane": "L2",
+ "plan": "tao",
+ "batch": "tao-01",
+ "days": [
+  {
+   "d": 7,
+   "primary": {
+    "id": "tao-01-d007-p",
+    "key": "Therefore the sage puts his own person last, and yet it is found in the foremost place; he treats his person as if it were foreign to him, and yet that person is preserved.",
+    "ref": "Tao Te Ching 7",
+    "at": [6],
+    "s": "The chapter says the sage puts his person last and it is found foremost, treats it as foreign and it is preserved; the Heshang Gong commentary, on chapter 7, reads this as putting others first, taking little for himself and giving much to others, so that the world honours him and the people love him as father and mother.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 7, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "先人而後己也。…天下敬之，先以為長。…薄己而厚人也。…百姓愛之如父母，神明祐之若赤子，故身常存。",
+     "gloss": "(On putting his person last:) he puts others first and himself after. … (On its being found foremost:) all under heaven revere him and put him first as their elder. … (On treating his person as foreign:) he is sparing to himself and generous to others. … (On its being preserved:) the people love him as father and mother, the spirits protect him as an infant, and so his person always endures."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d007-s",
+    "key": "The reason why heaven and earth are able to endure and continue thus long is because they do not live of, or for, themselves.",
+    "ref": "Tao Te Ching 7",
+    "at": [6],
+    "s": "The chapter says heaven and earth endure and continue long because they do not live of, or for, themselves; Wang Bi, on chapter 7, reads living for themselves as contending with things, and not living for themselves as what makes things turn to them.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 7, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "自生則與物爭，不自生則物歸也。",
+     "gloss": "(On ‘they do not live for themselves’:) to live for oneself is to contend with things; not to live for oneself is to have things turn to one."
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "tao-01-d008-p",
+    "key": "And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.",
+    "ref": "Tao Te Ching 8",
+    "at": [7],
+    "s": "The chapter ends by saying that when there is no wrangling, no one finds fault; the Heshang Gong commentary, on chapter 8, takes the not wrangling as water’s way of going along with people, stopping when dammed and flowing when released, so that no one under heaven resents or blames it.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "壅之則止，決之則流，聽從人也。…水性如是，故天下無有怨尤水者也。",
+     "gloss": "(On 夫唯不爭, ‘does not wrangle’:) dam it and it stops, open a way for it and it flows: it goes along with people. … (On 故無尤, ‘no one finds fault’:) such is water’s nature, and so no one under heaven resents or blames water."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d008-s",
+    "key": "The highest excellence is like (that of) water. The excellence of water appears in its benefiting all things, and in its occupying, without striving (to the contrary), the low place which all men dislike. Hence (its way) is near to (that of) the Tao.",
+    "ref": "Tao Te Ching 8",
+    "at": [7],
+    "s": "The chapter says water benefits all things and occupies, without striving, the low place all men dislike, and so is near to the Tao; Wang Bi, on chapter 8, takes that place as lowliness, which men dislike, and reads water as only near to the Tao, since the Tao is non-being and water has being.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 8, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "人惡卑也。…道無水有，故曰，幾也。",
+     "gloss": "(On the place all men dislike:) men dislike what is low. … (On ‘near to the Tao’:) the Tao is non-being and water has being; therefore the text says ‘near’."
+    }
+   }
+  },
+  {
+   "d": 9,
+   "primary": {
+    "id": "tao-01-d009-p",
+    "key": "When the work is done, and one’s name is becoming distinguished, to withdraw into obscurity is the way of Heaven.",
+    "ref": "Tao Te Ching 9",
+    "at": [8],
+    "s": "The chapter calls withdrawing into obscurity, when the work is done and the name grows distinguished, the way of Heaven; the Heshang Gong commentary, on chapter 9, reads it as warning that one who does not step down after success meets harm, which is Heaven’s constant way, as the sun moves on after noon and the full moon wanes.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 9, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "言人所為，功成事立，名蹟稱遂，不退身避位，則遇於害，此乃天之常道也。譬如日中則移，月滿則虧",
+     "gloss": "It says that when what a person does has succeeded, the work accomplished and the name made, if he does not withdraw and leave his post he meets harm: this is Heaven’s constant way. It is like the sun moving on after noon and the moon waning when full."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d009-s",
+    "key": "It is better to leave a vessel unfilled, than to attempt to carry it when it is full.",
+    "ref": "Tao Te Ching 9",
+    "at": [8],
+    "s": "The chapter prefers leaving a vessel unfilled to carrying it when it is full; Wang Bi, on chapter 9, takes the carrying as keeping hold of virtue, and reads keeping it and filling it besides as bound to topple, and so worse even than having neither virtue nor merit.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 9, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "持，謂不失德也。既不失其德又盈之，勢必傾危。故不如其已者，謂乃更不如無德無功者也。",
+     "gloss": "‘Holding’ (持, Legge’s ‘carry’) means not losing one’s virtue. To keep one’s virtue and fill it to the full as well is bound to topple into danger. So ‘not as good as stopping’ means it is even worse than having neither virtue nor merit."
+    }
+   }
+  },
+  {
+   "d": 10,
+   "primary": {
+    "id": "tao-01-d010-p",
+    "key": "(The Tao) produces (all things) and nourishes them; it produces them and does not claim them as its own; it does all, and yet does not boast of it; it presides over all, and yet does not control them. This is what is called ‘The mysterious Quality’ (of the Tao).",
+    "ref": "Tao Te Ching 10",
+    "at": [9],
+    "s": "The chapter calls producing and nourishing without claiming, boasting or controlling ‘The mysterious Quality’; Wang Bi, on chapter 10, reads producing as not blocking the source of things and nourishing as not restraining their nature, so that things are born and grow of themselves, and takes the mystery as virtue that has no master.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 10, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "不塞其原也。…不禁其性也。…不塞其原，則物自生，何功之有。不禁其性，則物自濟，何為之恃。物自長足，不吾宰成，有德無主，非玄而何。",
+     "gloss": "(On ‘produces’:) not blocking their source. … (On ‘nourishes’:) not restraining their nature. … If their source is not blocked, things are born of themselves: what merit is there? If their nature is not restrained, things complete themselves: what doing is there to rely on? Things grow and suffice of themselves, not ruled and completed by me: there is virtue and no master. What is that if not mysterious?"
+    }
+   },
+   "standby": {
+    "id": "tao-01-d010-s",
+    "key": "In the opening and shutting of his gates of heaven, cannot he do so as a female bird?",
+    "ref": "Tao Te Ching 10",
+    "at": [9],
+    "s": "The chapter asks whether he can open and shut his gates of heaven as a female bird; the Heshang Gong commentary, on chapter 10, takes the gates of heaven, in governing the self, as the nostrils, opening and closing in breath, and reads the female way as quiet and yielding, and in ruling the state as responding without leading.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 10, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "治身之天門謂鼻孔，開謂喘息也，闔謂呼吸也。…治身當如雌牝，安靜柔弱，治國應變，合而不唱也。",
+     "gloss": "The gates of heaven, in governing the self, are the nostrils; their opening and shutting are the breath going out and in. … In governing the self one should be like the female, quiet and still, soft and yielding; in governing the state, one answers change, joining in and not leading the song."
+    }
+   }
+  },
+  {
+   "d": 11,
+   "primary": {
+    "id": "tao-01-d011-p",
+    "key": "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends.",
+    "ref": "Tao Te Ching 11",
+    "at": [10],
+    "s": "The chapter says thirty spokes unite in one nave, but the use of the wheel depends on the empty space; Wang Bi, on chapter 11, reads it as saying that the nave can gather the thirty spokes because of its non-being, since its emptiness can receive things, and so it holds the many together.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 11, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "轂所以能統三十輻者，無也，以其無能受物之故，故能以實統眾也。",
+     "gloss": "What enables the nave to hold the thirty spokes together is non-being: because its emptiness can receive things, it can, being solid, unite the many."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d011-s",
+    "key": "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends.",
+    "ref": "Tao Te Ching 11",
+    "at": [10],
+    "s": "The chapter says thirty spokes unite in one nave, but the use of the wheel depends on the empty space; the Heshang Gong commentary, on chapter 11, reads the hollow nave where the spokes meet as teaching that one governing the self should put away passion and desire and empty the five organs, so that the spirit returns.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 11, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "共一轂者，轂中有孔，故眾輻共湊之。治身者當除情去慾，使五藏空虛，神乃歸之。",
+     "gloss": "‘Sharing one nave’: there is a hole in the nave, so the many spokes converge on it. One who governs the self should remove feelings and put away desires, making the five organs empty, and then the spirit returns to them."
+    }
+   }
+  },
+  {
+   "d": 12,
+   "primary": {
+    "id": "tao-01-d012-p",
+    "key": "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former.",
+    "ref": "Tao Te Ching 12",
+    "at": [11],
+    "s": "The chapter says the sage seeks to satisfy the belly and not the eyes, putting the latter from him and preferring the former; Wang Bi, on chapter 12, reads serving the belly as using things to nourish oneself and serving the eyes as being enslaved by things, which is why the sage does not serve the eyes.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 12, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "為腹者以物養己，為目者以物役己，故聖人不為目也。",
+     "gloss": "Serving the belly, one uses things to nourish oneself; serving the eyes, one lets things enslave oneself. So the sage does not serve the eyes."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d012-s",
+    "key": "Colour’s five hues from th’ eyes their sight will take; Music’s five notes the ears as deaf can make; The flavours five deprive the mouth of taste; The chariot course, and the wild hunting waste Make mad the mind; and objects rare and strange, Sought for, men’s conduct will to evil change.",
+    "ref": "Tao Te Ching 12",
+    "at": [11],
+    "s": "The chapter says the five colours, notes and flavours blind, deafen and dull, and racing and hunting madden the mind; the Heshang Gong commentary, on chapter 12, reads lust for colour as wasting the vital essence and the sight, love of the five notes as driving harmony from the heart, and racing as scattering a spirit that loves quiet.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 12, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "貪淫好色，則傷精失明也。…好聽五音，則和氣去心，不能聽無聲之聲。…人精神好安靜，馳騁呼吸，精神散亡，故發狂也。",
+     "gloss": "Greed, excess and love of colour harm the vital essence and lose the sight. … Fond of hearing the five notes, the harmonious breath leaves the heart, and one cannot hear the sound that has no sound. … The vital spirit loves quiet; in racing and panting it scatters and is lost, and so madness breaks out."
+    }
+   }
+  }
+ ]
+}

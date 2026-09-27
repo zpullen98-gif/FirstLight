@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "In the next age they loved them and praised them. In the next they feared them; in the next they despised them.",
+ "ref": "Tao Te Ching 17",
+ "at": [
+  16
+ ],
+ "s": "The chapter says that in later ages they loved and praised them, then feared them, then despised them; Wang Bi, on chapter 17, takes these as lesser rulers: one who, unable to govern by non-action, sets up goodness and bestows favours, one who relies on power, and one who rules by cleverness and whose orders are evaded.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 17, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 17, comments on 其次，親而譽之 / 其次，畏之 / 其次，侮之"
+   }
+  ],
+  "words": "不能以無為居事，不言為教，立善行施，使下得親而譽之也。…不復能以恩仁令物，而賴威權也。…不能法以正齊民，而以智治國，下知避之，其令不從",
+  "lang": "Classical Chinese",
+  "gloss": "Unable to abide in affairs by non-action and to teach without words, he sets up goodness and dispenses favours, so that those below come to love and praise him. … No longer able to command things by kindness and benevolence, he relies on majesty and power. … Unable to order the people by correct law, he governs the state by cleverness; those below learn to evade him and his orders are not followed.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 17, at [16]); two whole sentences in one unit. Wang Bi comments line by line on 其次親而譽之, 其次畏之, 其次侮之, and each of the three rulers in the sentence matches his comment (立善行施; 賴威權; 以智治國, 下知避之, 其令不從). 'Lesser' is fair for his 其次 set against the 大人 of the first line. 'Whose orders are evaded' compresses 下知避之，其令不從 without adding to it. Plain sense faithful. entry-check ok."
+}

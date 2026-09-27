@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d022-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 22 and fetched revision 2354026 raw myself (page 道德經 (王弼本), timestamp 2024-01-10, so the year in src is right). Under ==二十二章== each of the four evidence segments sits verbatim as the comment directly under its line: 不自見其明則全也 on 曲則全, 不自是則其是彰也 on 枉則直, 不自伐則其功有也 on 窪則盈, 不自矜則其德長也 on 敝則新. Wang Bi base text 曲則全，枉則直，窪則盈，敝則新 is the line Legge renders as the key verse. The paraphrase is carried clause by clause (brightness not displayed so whole; not holding oneself right so rightness plain; not boasting so merit kept; not vaunting so virtue lasts) and adds nothing. Plain sense restates the key verse, no parentheses to lean on. verse.js ok (Tao Te Ching 22, at [21]); entry-check ok, no warns (60 words, at the cap; src 98 chars). No school needed, no comparison, tone plain.",
+ "better": "Not a replacement: the Heshang Gong commentary (rev 2019760, section 益謙) reads the same four lines as bending oneself to follow the many and putting others first; usable for a standby."
+}

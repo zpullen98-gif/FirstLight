@@ -1,0 +1,378 @@
+{
+ "plan": "tao",
+ "batch": "tao-01",
+ "dry": false,
+ "div": "bb6ff32525",
+ "root": "C:/Users/zpull/FirstLight",
+ "days": [
+  {
+   "d": 1,
+   "label": "Tao Te Ching 1",
+   "id": {
+    "primary": "tao-01-d001-p",
+    "standby": "tao-01-d001-s"
+   }
+  },
+  {
+   "d": 2,
+   "label": "Tao Te Ching 2",
+   "id": {
+    "primary": "tao-01-d002-p",
+    "standby": "tao-01-d002-s"
+   }
+  },
+  {
+   "d": 3,
+   "label": "Tao Te Ching 3",
+   "id": {
+    "primary": "tao-01-d003-p",
+    "standby": "tao-01-d003-s"
+   }
+  },
+  {
+   "d": 4,
+   "label": "Tao Te Ching 4",
+   "id": {
+    "primary": "tao-01-d004-p",
+    "standby": "tao-01-d004-s"
+   }
+  },
+  {
+   "d": 5,
+   "label": "Tao Te Ching 5",
+   "id": {
+    "primary": "tao-01-d005-p",
+    "standby": "tao-01-d005-s"
+   }
+  },
+  {
+   "d": 6,
+   "label": "Tao Te Ching 6",
+   "id": {
+    "primary": "tao-01-d006-p",
+    "standby": "tao-01-d006-s"
+   }
+  },
+  {
+   "d": 7,
+   "label": "Tao Te Ching 7",
+   "id": {
+    "primary": "tao-01-d007-p",
+    "standby": "tao-01-d007-s"
+   }
+  },
+  {
+   "d": 8,
+   "label": "Tao Te Ching 8",
+   "id": {
+    "primary": "tao-01-d008-p",
+    "standby": "tao-01-d008-s"
+   }
+  },
+  {
+   "d": 9,
+   "label": "Tao Te Ching 9",
+   "id": {
+    "primary": "tao-01-d009-p",
+    "standby": "tao-01-d009-s"
+   }
+  },
+  {
+   "d": 10,
+   "label": "Tao Te Ching 10",
+   "id": {
+    "primary": "tao-01-d010-p",
+    "standby": "tao-01-d010-s"
+   }
+  },
+  {
+   "d": 11,
+   "label": "Tao Te Ching 11",
+   "id": {
+    "primary": "tao-01-d011-p",
+    "standby": "tao-01-d011-s"
+   }
+  },
+  {
+   "d": 12,
+   "label": "Tao Te Ching 12",
+   "id": {
+    "primary": "tao-01-d012-p",
+    "standby": "tao-01-d012-s"
+   }
+  },
+  {
+   "d": 13,
+   "label": "Tao Te Ching 13",
+   "id": {
+    "primary": "tao-01-d013-p",
+    "standby": "tao-01-d013-s"
+   }
+  },
+  {
+   "d": 14,
+   "label": "Tao Te Ching 14",
+   "id": {
+    "primary": "tao-01-d014-p",
+    "standby": "tao-01-d014-s"
+   }
+  },
+  {
+   "d": 15,
+   "label": "Tao Te Ching 15",
+   "id": {
+    "primary": "tao-01-d015-p",
+    "standby": "tao-01-d015-s"
+   }
+  },
+  {
+   "d": 16,
+   "label": "Tao Te Ching 16",
+   "id": {
+    "primary": "tao-01-d016-p",
+    "standby": "tao-01-d016-s"
+   }
+  },
+  {
+   "d": 17,
+   "label": "Tao Te Ching 17",
+   "id": {
+    "primary": "tao-01-d017-p",
+    "standby": "tao-01-d017-s"
+   }
+  },
+  {
+   "d": 18,
+   "label": "Tao Te Ching 18",
+   "id": {
+    "primary": "tao-01-d018-p",
+    "standby": "tao-01-d018-s"
+   }
+  },
+  {
+   "d": 19,
+   "label": "Tao Te Ching 19",
+   "id": {
+    "primary": "tao-01-d019-p",
+    "standby": "tao-01-d019-s"
+   }
+  },
+  {
+   "d": 20,
+   "label": "Tao Te Ching 20",
+   "id": {
+    "primary": "tao-01-d020-p",
+    "standby": "tao-01-d020-s"
+   }
+  },
+  {
+   "d": 21,
+   "label": "Tao Te Ching 21",
+   "id": {
+    "primary": "tao-01-d021-p",
+    "standby": "tao-01-d021-s"
+   }
+  },
+  {
+   "d": 22,
+   "label": "Tao Te Ching 22",
+   "id": {
+    "primary": "tao-01-d022-p",
+    "standby": "tao-01-d022-s"
+   }
+  },
+  {
+   "d": 23,
+   "label": "Tao Te Ching 23",
+   "id": {
+    "primary": "tao-01-d023-p",
+    "standby": "tao-01-d023-s"
+   }
+  },
+  {
+   "d": 24,
+   "label": "Tao Te Ching 24",
+   "id": {
+    "primary": "tao-01-d024-p",
+    "standby": "tao-01-d024-s"
+   }
+  },
+  {
+   "d": 25,
+   "label": "Tao Te Ching 25",
+   "id": {
+    "primary": "tao-01-d025-p",
+    "standby": "tao-01-d025-s"
+   }
+  },
+  {
+   "d": 26,
+   "label": "Tao Te Ching 26",
+   "id": {
+    "primary": "tao-01-d026-p",
+    "standby": "tao-01-d026-s"
+   }
+  },
+  {
+   "d": 27,
+   "label": "Tao Te Ching 27",
+   "id": {
+    "primary": "tao-01-d027-p",
+    "standby": "tao-01-d027-s"
+   }
+  }
+ ],
+ "lanes": [
+  {
+   "key": "L1",
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L2",
+   "days": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L3",
+   "days": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L4",
+   "days": [
+    19,
+    20,
+    21,
+    22,
+    23,
+    24
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L5",
+   "days": [
+    25,
+    26,
+    27
+   ],
+   "sensitive": false
+  }
+ ],
+ "sensitive": [],
+ "rules": [
+  "1. FORM. One sentence: <plain sense>; <Commentator>, <place>, reads it as <reading>. Exactly one semicolon and one full stop, at the end. At most 60 words, or 75 when two commentators are named (then: ...; A (school), place, reads it as X, and B (school), place, as Y.). The verb after the commentator is one of: reads, takes, hears, explains, understands. Never: shows, proves, reveals, the true meaning, actually.",
+  "2. PLAIN SENSE (before the semicolon). What the day’s passage says, anchored on the key verse, in its own terms: who speaks, to whom, what is said or asked or happens. Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim (\"the chapter\", \"the text\", \"the Master says\", \"Krishna tells Arjuna\"; never \"Laozi wrote\" or \"Muhammad writes\"). It never names the commentator.",
+  "3. THE READING (after the semicolon). One commentator from this plan’s roster (two only where they genuinely differ, and then name the difference without resolving it), opening the second half with his display name exactly as the roster gives it, then the place in the commentary (chapter, verse, book and section, page), then a paraphrase that the evidence supports and does not go beyond. No quotation from the commentator in the sentence. At most three words of the key verse may be quoted, in curly quotes.",
+  "4. NEVER ANOTHER TRADITION. No comparison, no ranking, no \"unlike\", \"fulfils\", \"anticipates\", \"all faiths\", \"superior\". Name other groups only as the day’s text itself names them.",
+  "5. DISAGREEMENT IS NAMED, NOT RESOLVED. No \"rightly\", \"better\", \"more accurately\", \"correctly\", \"mistaken\".",
+  "6. HARD PASSAGES (war, killing, punishment, exclusion, law, sexuality). The plain sense states it in one plain clause: no softening, no pleading for context, no graphic detail, no polemic. The reading gives the commentator’s reading, including any limit he sets, attributed to him.",
+  "7. HOUSE STYLE. British spelling (honour, colour, realise, judgement). Curly quotes and apostrophes only. No em dash, no en dash, no double hyphen, anywhere. No question or exclamation mark in the sentence. No you, your, we, our, us. No honorifics (Saint, St., Sri, pbuh and its signs, the Venerable, Lord Krishna). Names exactly as the roster spells them. The divine name as the key verse’s translation prints it when quoting; otherwise \"God\" or \"the LORD\" as the translation has it; never spell out the four-letter Hebrew name.",
+  "8. THE KEY VERSE. Copied from `day.js`, verbatim, inside ONE unit (one verse, one ayah, one of Legge’s numbered sections, one paragraph); one to three whole sentences, beginning where a sentence begins and ending in . ? or !; 4 to 60 words; no dash of any kind (choose another verse, or stop before it); only these changes: straight quotes to curly, wrapped lines joined. Everything else stays exactly as printed, parentheses and capitals included. Never from a note, an argument, a commentary, a chant or a colophon (`day.js` marks them NOT CITABLE). Run `verse.js` on every key: it must print \"ok\": true, and its ref and at are copied into the proposal unchanged.",
+  "9. THE SOURCE LINE (src). The commentator’s display name first, then the work and the place, then the edition actually read and its year: for example \"Wang Bi, Laozi zhu, chapter 8, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)\". When the reading is found only through a conduit (Legge’s notes and the like), the form is \"<name>, as given in <conduit>, <place>\" and the entry carries hedge: <conduit id>. At most 160 characters. No dash.",
+  "10. THE STANDARD. A confident false attribution is worse than naming a different commentator. A reading not found in a source you opened does not ship. When in doubt, choose the reading you can show in the commentator’s own words."
+ ],
+ "voice": "The Tao Te Ching is read here in James Legge’s translation (SBE 39, 1891), one chapter a day. Its authorship is traditional: say \"the chapter\" or \"the text\", never \"Laozi says\". The two roster commentaries are the oldest that survive: Wang Bi (third century), who reads the text through non-being (無) as the root of all that is, and the Heshang Gong commentary (Han dynasty or later, author unknown), which reads it as counsel for governing the self and the state and for nourishing life. Aim for a real mix across the batch: roughly half the days name each, choosing on each day the one whose comment on that chapter is the more substantial and the more clearly tied to the key verse.",
+ "roster": {
+  "commentators": [
+   {
+    "id": "wang-bi",
+    "name": "Wang Bi",
+    "alsoName": "",
+    "school": "",
+    "dates": "226 to 249",
+    "work": "Commentary on the Laozi (Laozi zhu)",
+    "lang": "Classical Chinese",
+    "coverage": "all",
+    "sources": [
+     "Chinese text on zh.wikisource.org or ctext.org (public domain)",
+     "Legge's notes, SBE 39 (1891), as a conduit"
+    ],
+    "traps": [
+     "Wang Bi's base text differs from Legge's in places: confirm the line he comments on is the line in the day's chapter.",
+     "Name him plainly: no title."
+    ]
+   },
+   {
+    "id": "heshang-gong",
+    "name": "the Heshang Gong commentary",
+    "alsoName": "The Heshang Gong commentary",
+    "school": "",
+    "dates": "Han dynasty or later; its author is unknown",
+    "work": "Laozi Daodejing Heshang Gong zhangju",
+    "lang": "Classical Chinese",
+    "coverage": "all",
+    "sources": [
+     "Chinese text on zh.wikisource.org or ctext.org (public domain)",
+     "Legge's notes, SBE 39 (1891), which translate its chapter titles"
+    ],
+    "traps": [
+     "The name is a legend (the Old Man by the River): name the commentary, never tell his story or treat him as a historical author.",
+     "Its chapter titles (for example ‘Embodying the Tao’ for chapter 1) are part of the commentary and may be cited as its reading."
+    ]
+   }
+  ],
+  "conduits": [
+   {
+    "id": "legge-sbe39",
+    "name": "Legge's notes",
+    "full": "James Legge, The Texts of Taoism, Sacred Books of the East 39 and 40 (1891)",
+    "licence": "public domain"
+   }
+  ]
+ },
+ "forbid": [],
+ "watch": [
+  "Buddhist",
+  "Confucian",
+  "Christian"
+ ],
+ "traps": {
+  "all": "- A reading not found in a source you opened does not ship. A confident false attribution is worse than naming a different commentator.\n- The commentator's own words go into the evidence verbatim, in the language they were written in, with your English gloss. A paraphrase of what you remember is not evidence.\n- The plain sense says what the day's text says, in its own terms. It is not the commentator's reading restated, and it is not doctrine.\n- A key verse is copied from `day.js`, never typed from memory: a remembered translation is almost never the app's translation, and five of the chambers' epigraphs prove it.\n- The key verse's translation may carry its translator's interpretation (Legge's parentheses, Besant's Theosophy, Pickthall's additions). The reading attributed to the commentator must be his, not the translator's.",
+  "plan": "- Wang Bi and the Heshang Gong commentary comment on their own base texts, which differ from each other and in places from Legge's. Check that the line commented on is the line in the day's chapter before building a reading on it.\n- The Heshang Gong commentary's chapter titles (for chapter 8, 易性, which Legge renders as the placid and contented nature) are part of that commentary and may be cited as its reading of the chapter.\n- The name Heshang Gong is a legend (the Old Man by the River). Name the commentary and nothing about him: no life, no dates, no \"he wrote\".\n- Wang Bi has no commentary on chapters 31 and 66 in the received text. On those days name the Heshang Gong commentary, or Legge's notes where they report a reading, in the \"as given in\" form.\n- Legge's notes are OCR from the 1891 printing: romanisations come out as \"Lao-jze\", \"Tdo\", \"T&o\". Quote evidence exactly as the packet has it, noise included, so the machine recheck finds it; gloss it cleanly.\n- Legge's parentheses are words he supplied. They stay in the key verse exactly as printed, and the plain sense does not lean on them.\n- Say \"the chapter\" or \"the text\". Never \"Laozi says\" or \"Lao Tzu wrote\": the authorship is traditional, not known.\n- The Heshang Gong commentary is on two Wikisource pages: revision 2019760 holds chapters 1 to 37 and revision 1552800 chapters 38 to 81. Cite the one packet.js names for the day, never the other. (Found in the dry run.)\n- On a hard passage the commentary's limit may sit on a line inside the key verse or just after it (chapter 31: the victor mourns, and arms are used only when they cannot be avoided). Read the comment on every line of the key verse and the line after before writing the reading, and carry the limit (rule 6). (Found in the dry run.)\n- A phrase can occur twice in a chapter with different comments (chapter 8: 不爭 in 水善利萬物而不爭 and again in 夫唯不爭, glossed differently by the Heshang Gong commentary). A reading of the phrase uses the comment on the line it names. (Found in the dry run.)"
+ },
+ "countsSoFar": {},
+ "tools": {
+  "day": "node C:/Users/zpull/FirstLight/.scripts/teachings/day.js tao <day>",
+  "verse": "node C:/Users/zpull/FirstLight/.scripts/teachings/verse.js tao <day> \"<key verse>\"",
+  "packet": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js tao <day>",
+  "status": "node C:/Users/zpull/FirstLight/.scripts/teachings/status.js tao 1",
+  "gate": "node C:/Users/zpull/FirstLight/.scripts/check-teachings.js --candidate C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/batch.json"
+ },
+ "evidence": {
+  "rule": "The commentator’s own words, verbatim from a source you actually opened, 12 to 120 characters for Chinese or 12 to 120 words otherwise, in the original language where you read it so, with your English gloss. At most 40 words from any copyrighted English. A packet source is cited with via \"packet\" and the packet’s url; anything else you opened with via \"webfetch\" and its exact url. The operator re-finds these words by machine (recheck-evidence.js) before anything lands.",
+  "packetSources": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js tao <day>"
+ },
+ "paths": {
+  "dir": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01",
+  "proposals": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/proposals-<lane>.json",
+  "verdicts": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/verdicts/<id>.json",
+  "refutations": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/refutations/<id>.json",
+  "reverify": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/reverify/<id>.json",
+  "batch": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/batch.json",
+  "sources": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/SOURCES-tao-01.md",
+  "critic": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tao-01/critic.json"
+ }
+}

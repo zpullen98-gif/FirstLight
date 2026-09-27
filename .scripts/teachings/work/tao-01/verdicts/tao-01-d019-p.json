@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold.",
+ "ref": "Tao Te Ching 19",
+ "at": [
+  18
+ ],
+ "s": "The chapter says renouncing sageness and discarding wisdom would profit the people a hundredfold; the Heshang Gong commentary, on chapter 19, reads the renouncing of sageness as giving up the sages’ making and devising to return to the beginning, since the Three Sovereigns’ unwritten knotted cords surpassed Cangjie’s script, and the discarding of wisdom as a return to non-action.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 19, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 19 (還淳), comments on 絕聖 and 棄智",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "絕聖制作，反初守元。五帝垂象，倉頡作書，不如三皇結繩無文。…棄智慧，反無為。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 絕聖, renouncing sageness:) cut off the making and devising of the sages, return to the beginning and keep to the origin; the Five Emperors hanging out their images and Cangjie making writing were not as good as the Three Sovereigns’ knotted cords without writing. … (On 棄智, discarding wisdom:) discard wisdom and cleverness, return to non-action.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 19, at [18]). The Heshang Gong base text reads 絕聖，棄智，民利百倍, the line of the key verse; its comments on 絕聖 and 棄智 carry exactly the two readings the sentence gives (giving up the sages’ making to return to the beginning, the knotted cords over Cangjie’s script, and discarding wisdom as return to non-action). Plain sense restates the key verse (民利百倍 as profit a hundredfold). entry-check ok."
+}

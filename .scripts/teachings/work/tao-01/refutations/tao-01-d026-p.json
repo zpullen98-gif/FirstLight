@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d026-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 26 (the Heshang Gong commentary, zh.wikisource rev 2019760, chapter 26, title 重德). verse.js ok (Tao Te Ching 26, at [25]); the key is the whole first unit and the commentary base text 重為輕根，靜為躁君 matches it. Comment on 重為輕根: 人君不重則不尊，治身不重則失神; on 靜為躁君: 人君不靜則失威，治身不靜則身危. The sentence carries these four pairs exactly (失威 as losing authority is fair) and adds nothing; the plant and dragon/tiger images are left out, not misread. Both evidence halves found verbatim. Roster name used as given, verb reads, 58 words, British honoured. My own entry-check: ok, no warns.",
+ "better": ""
+}

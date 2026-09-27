@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d025-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 25 (Wang Bi, zh.wikisource rev 2354026). verse.js ok (Tao Te Ching 25, at [24]); the key is the whole last unit and the right line. Wang Bi comments on exactly 人法地，地法天，天法道，道法自然, which matches Legge. His words 人不違地…地不違天…天不違道…道不違自然…在方而法方，在圓而法圓，於自然無所違也 carry every clause: each not going against the next, the Tao going against nothing so of itself, square in the square and round in the round (subject is the Tao, as 法自然者 sets it). Evidence string found verbatim in the packet, including the stray space in 法 方. Plain sense restates the key verse and adds nothing. No school needed, no comparison, tone plain. My own entry-check on the shipped fields: ok, no warns.",
+ "better": "Not a replacement, only noted: the Heshang Gong commentary on 道法自然 (same packet, rev 2019760) says 道性自然，無所法也, the Tao takes law from nothing because its nature is so of itself; it would suit a standby entry."
+}

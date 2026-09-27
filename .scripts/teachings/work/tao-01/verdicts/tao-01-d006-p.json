@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The valley spirit dies not, aye the same; The female mystery thus do we name.",
+ "ref": "Tao Te Ching 6",
+ "at": [
+  5
+ ],
+ "s": "The chapter says the valley spirit does not die and is named the female mystery; the Heshang Gong commentary, on chapter 6, reads the valley as nourishing, so that one who nourishes the spirits of the five viscera does not die, and the female mystery as the nose and mouth, through which heaven and earth feed a person.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 6, zh.wikisource, revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 6 (title 成象), comments on 谷神不死 and 是謂玄牝",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "谷，養也。人能養神則不死也。神，謂五臟之神也。…玄，天也，於人為鼻。牝，地也，於人為口。天食人以五氣，從鼻入藏於心。…地食人以五味，從口入藏於胃。",
+  "lang": "Classical Chinese",
+  "gloss": "The valley means nourishing. If a person can nourish the spirits he does not die; the spirits are the spirits of the five viscera. ... The dark is heaven, which in a person is the nose; the female is earth, which in a person is the mouth. Heaven feeds a person with the five breaths, which enter by the nose and are stored in the heart. ... Earth feeds a person with the five flavours, which enter by the mouth and are stored in the stomach.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 6, at [5]). The Heshang Gong base text 谷神不死，是謂玄牝 is the line of the key verse. Its comments gloss 谷 as 養, tie not dying to nourishing the spirits of the five viscera, and take 玄 and 牝 as heaven and earth, nose and mouth, through which heaven and earth feed a person with breaths and flavours: every element of the reading. Plain sense faithful. entry-check ok."
+}

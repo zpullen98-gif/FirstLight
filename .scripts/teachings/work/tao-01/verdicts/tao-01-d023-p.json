@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d023-p",
+ "d": 23,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Abstaining from speech marks him who is obeying the spontaneity of his nature.",
+ "ref": "Tao Te Ching 23",
+ "at": [
+  22
+ ],
+ "s": "The chapter says that abstaining from speech marks one who obeys the spontaneity of his nature; Wang Bi, on chapter 23, takes the phrase as speech listened for and not heard and, drawing on a later chapter’s flavourless words of the Tao, reads such speech as the utmost speech of what is so of itself.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 23, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 23, comment on 希言自然",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "聽之不聞名曰希，下章言，道之出言淡兮其無味也，視之不足見，聽之不足聞，然則無味不足聽之言，乃是自然之至言也。",
+  "lang": "Classical Chinese",
+  "gloss": "What is listened for and not heard is called faint. A later chapter says the words the Tao puts forth are bland, without flavour; looked at, not enough to be seen; listened to, not enough to be heard. So flavourless words, not enough to be heard, are the utmost words of what is so of itself.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 23, at [22]). Wang Bi comments on 希言自然, the line Legge renders as the key verse; his comment glosses 希 as what is listened for and not heard, cites the later chapter (35) on the flavourless words of the Tao, and concludes that such words are the utmost speech of 自然, which is what the sentence says. Whole chapter read. Plain sense follows Legge without leaning on his parentheses. entry-check ok."
+}

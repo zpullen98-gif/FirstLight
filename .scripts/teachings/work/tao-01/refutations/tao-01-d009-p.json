@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 9 and the raw revision 2019760 (section ==運夷==, chapter 9). The comment on 功成、名遂、身退，天之道 reads verbatim 言人所為，功成事立，名蹟稱遂，不退身避位，則遇於害，此乃天之常道也。譬如日中則移，月滿則虧. The Heshang Gong base line has all three clauses of Legge's key verse (work done, name made, withdrawal), unlike Wang Bi's 功遂身退. The paraphrase (one who does not step down after success meets harm, this is Heaven's constant way, the sun moves on after noon, the full moon wanes) is carried in full; 'warning' is a fair rendering of a comment whose force is 不退…則遇於害. Plain sense faithful to the key verse. verse.js ok (Tao Te Ching 9, at [8]); entry-check ok, no warns (59 words). No school, comparison or tone issue.",
+ "better": "Not a replacement: Wang Bi (rev 2354026) comments 四時更運，功成則移 on his shorter base line 功遂身退, a possible standby reading."
+}

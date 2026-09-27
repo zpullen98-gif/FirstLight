@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d024-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 24 and fetched revision 2019760 raw myself (page 老子河上公章句/上, timestamp 2021-03-10, so the year in src is right). Section ==苦恩== is chapter 24 (it follows 虛無, chapter 23); under 跂者不立 the comment 跂，進也。謂貪權慕名，進取功榮，則不可久立身行道也 and under 跨者不行 the comment 自以為貴而跨於人，眾共蔽之，使不得行 are verbatim the evidence, each under the line the locator names. The base line 跂者不立，跨者不行 is the key verse’s line. Paraphrase carried: greedy for power and fame, cannot stand long (立身 compressed to stand, 行道 omitted, a reduction not an addition); thinking himself noble strides over others, the many block him so he cannot go. Plain sense drops Legge’s supplied (easily), as the brief asks. verse.js ok (Tao Te Ching 24, at [23]); entry-check ok, no warns (60 words, at the cap; src 137 chars). Commentary named without any story of its legendary author; no school, comparison or tone issue.",
+ "better": "Could render the first gloss more exactly as cannot long establish himself and walk the Tao (不可久立身行道), but the current compression does not misstate it."
+}

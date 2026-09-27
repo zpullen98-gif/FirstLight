@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "All things alike go through their processes of activity, and (then) we see them return (to their original state).",
+ "ref": "Tao Te Ching 16",
+ "at": [
+  15
+ ],
+ "s": "The chapter says that all things alike go through their activity and are seen to return; Wang Bi, on chapter 16, takes the seeing as done through emptiness and stillness, and reads the return as their going back at last to emptiness and stillness, since all being arises from emptiness and all movement from stillness.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 16, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 16, comment on 萬物並作，吾以觀復"
+   }
+  ],
+  "words": "以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜，是物之極篤也。",
+  "lang": "Classical Chinese",
+  "gloss": "Their return is observed through emptiness and stillness. All being arises from emptiness and movement from stillness; so though all things move and act together, they at last return to emptiness and stillness: this is the utmost and the genuine in things.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 16, at [15]). Wang Bi's base line 萬物並作，吾以觀復 is the key verse's line. His comment carries each clause of the reading: observing by emptiness and stillness (以虛靜觀其反復), return at last to emptiness and stillness (卒復歸於虛靜), being from emptiness and movement from stillness (凡有起於虛，動起於靜). Plain sense restates the key verse without Legge's parentheses and avoids 'we'. entry-check ok."
+}

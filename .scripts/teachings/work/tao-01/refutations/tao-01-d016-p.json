@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d016-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 16 and fetched revision 2354026 raw myself (道德經 (王弼本), timestamp 2024-01-10, so the year in src is right). Under ==十六章==, on the base line 萬物並作，吾以觀復 (the key verse's line), the evidence stands verbatim. Each clause of the reading is carried: the seeing done through emptiness and stillness (以虛靜觀其反復), the return at last to emptiness and stillness (卒復歸於虛靜), and the ground given with 故, all being from emptiness and movement from stillness (凡有起於虛，動起於靜). Nothing added. Plain sense restates the key verse, keeps clear of Legge's supplied '(to their original state)' and avoids 'we'. verse.js ok (Tao Te Ching 16, at [15]); entry-check ok, no warns (55 words, src 98 chars). No school needed, no comparison, tone plain.",
+ "better": ""
+}

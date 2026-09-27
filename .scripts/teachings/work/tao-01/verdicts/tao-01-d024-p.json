@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d024-p",
+ "d": 24,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily).",
+ "ref": "Tao Te Ching 24",
+ "at": [
+  23
+ ],
+ "s": "The chapter says the one on tiptoe does not stand firm and the one who stretches his legs does not walk; the Heshang Gong commentary, on chapter 24, takes the first as one greedy for power and fame, who cannot stand long, and the second as one who strides over others, thinking himself noble, till the many block his way.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 24, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 24, comments on 跂者不立 and 跨者不行",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "謂貪權慕名，進取功榮，則不可久立身行道也。…自以為貴而跨於人，眾共蔽之，使不得行。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the one on tiptoe:) it means one who covets power and hankers after fame, pushing forward for merit and glory; he cannot long stand and walk the Tao. (On the one who strides:) thinking himself noble he strides over others; the many together block him, so that he cannot go on.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 24, at [23]). The Heshang Gong base text 跂者不立，跨者不行 is the line of the key verse (跂 for Wang Bi’s 企), and its two comments carry the reading: the first as one greedy for power and fame who cannot stand long, the second as one who strides over others thinking himself noble till the many block him. Whole chapter read. Plain sense drops Legge’s parenthesis (easily). entry-check ok."
+}

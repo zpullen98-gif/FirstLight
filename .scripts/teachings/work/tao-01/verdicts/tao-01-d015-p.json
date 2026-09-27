@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water.",
+ "ref": "Tao Te Ching 15",
+ "at": [
+  14
+ ],
+ "s": "The chapter likens the skilful masters of old to melting ice, unfashioned wood, a valley and muddy water; the Heshang Gong commentary, on chapter 15, takes the ice as shedding feeling and desire to grow daily emptier, the wood as keeping the spirit within, with no outer ornament, and the muddy water as merging with the crowd, not wilful.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 15, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 15 (顯德), comments on 渙兮若冰之將釋, 敦兮其若朴 and 渾兮其若濁"
+   }
+  ],
+  "words": "渙者，解散。釋者，消亡。除情去欲，日以空虛。…內守精神，外無文采也。…與眾合同，不自專也。",
+  "lang": "Classical Chinese",
+  "gloss": "Huan is dispersing; shi is vanishing: putting away feeling and desire, growing emptier day by day. … Within, guarding the vital spirit; without, no ornament. … Joining and becoming one with the crowd, not acting on his own authority.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 15, at [14]). The Heshang Gong commentary comments line by line on the images in the key verse; its comments on the melting ice (除情去欲，日以空虛), the unhewn wood (內守精神，外無文采也) and the muddy water (與眾合同，不自專也) carry each clause of the reading. Its base lines match the day’s chapter. The plain sense lists images from the key verse itself, the masters being named in the preceding unit. entry-check ok."
+}

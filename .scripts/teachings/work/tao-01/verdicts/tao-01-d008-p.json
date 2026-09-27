@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.",
+ "ref": "Tao Te Ching 8",
+ "at": [
+  7
+ ],
+ "s": "The chapter ends by saying that when there is no wrangling, no one finds fault; the Heshang Gong commentary, on chapter 8, takes the not wrangling as water’s way of going along with people, stopping when dammed and flowing when released, so that no one under heaven resents or blames it.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 8, comments on 夫唯不爭 and 故無尤"
+   }
+  ],
+  "words": "壅之則止，決之則流，聽從人也。…水性如是，故天下無有怨尤水者也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 夫唯不爭, ‘does not wrangle’:) dam it and it stops, open a channel and it flows: it goes along with people. (On 故無尤, ‘no one finds fault’:) such is the nature of water, and so no one under heaven resents or blames water.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 8, at [7]). The reading uses the comment on the line the key verse names (夫唯不爭, the second 不爭 of the chapter, not the gloss on 水善利萬物而不爭), as the plan trap requires, and the comment on 故無尤 that follows; both carry the paraphrase without drift. Plain sense does not lean on Legge's parentheses. entry-check ok."
+}

@@ -1,0 +1,13 @@
+{
+ "id": "tao-01-d002-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [
+  "plain"
+ ],
+ "reason": "The reading stands: re-opened via packet.js tao 2 and the raw revision 2354026 (2024-01-10), and Wang Bi’s comment 美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也…喜怒同根…故不可得偏舉也 is verbatim under the block beginning 天下皆知美之為美，斯惡已, and carries the paraphrase without drift. verse.js ok (at [1]), entry-check ok. The plain sense is what fails: “knowing beauty and skill, thereby knows ugliness and the want of skill” gets its second “knows” from Legge’s supplied “(the idea of)”. The brief bars a plain sense that leans on Legge’s parentheses, and here the supplied words are interpretive: 斯惡已 is also read as “that is already ugliness”. Without them the text says only that in doing this they have what ugliness is. A small fix, but as it stands the plain sense restates the translator’s gloss as the chapter’s sense.",
+ "better": "Keep the reading and the key verse; replace the plain sense with: “The chapter says that when all the world knows beauty and skill as such, it has with them ugliness and the want of skill;” (full sentence passes entry-check, scratch/refute-d002-alt.json)."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d017-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 17 and fetched revision 2354026 raw myself (timestamp 2024-01-10). Under ==十七章== Wang Bi's base lines 其次，親而譽之 / 其次，畏之 / 其次，侮之 match the key verse, and all three evidence segments are there verbatim on those lines. The three rulers are carried: 不能以無為居事…立善行施 (unable to manage affairs by non-action, sets up goodness and bestows favours), 賴威權 (relies on majesty and power), 以智治國，下知避之，其令不從 (rules by cleverness, those below evade him, his orders not followed). 'Lesser rulers' is fair: he glosses 太上 as 大人 and each 其次 as one who can no longer do what the one before did (不能, 不復能). 'Whose orders are evaded' is a slight compression of 下知避之 plus 其令不從, not an addition; 'govern' for 居事 is within range. Omissions (teaching without words, correct law) are omissions, not drift. Plain sense stays with the text's ages and pronouns without Legge's parentheses. verse.js ok (Tao Te Ching 17, at [16]); entry-check ok, no warns (57 words). No comparison, tone plain.",
+ "better": "Optional tightening only: 'one who rules by cleverness, so that those below evade him and his orders go unheeded' tracks 下知避之，其令不從 more literally."
+}

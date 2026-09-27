@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends.",
+ "ref": "Tao Te Ching 11",
+ "at": [
+  10
+ ],
+ "s": "The chapter says thirty spokes unite in one nave, but the use of the wheel depends on the empty space; Wang Bi, on chapter 11, reads it as saying that the nave can gather the thirty spokes because of its non-being, since its emptiness can receive things, and so it holds the many together.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 11, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 11, comment on 三十輻共一轂，當其無，有車之用"
+   }
+  ],
+  "words": "轂所以能統三十輻者，無也，以其無能受物之故，故能以實統眾也。",
+  "lang": "Classical Chinese",
+  "gloss": "What enables the nave to hold the thirty spokes together is non-being: because its non-being can receive things, it can, with its substance, unite the many.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 11, at [10]); Wang Bi comments on exactly this line (三十輻共一轂，當其無，有車之用). His comment says the nave can unite (統) the thirty spokes by non-being (無), because non-being can receive things, and so unites the many (統眾); the sentence carries this, rendering 無能受物 as its emptiness receiving things, which stays within the words. Plain sense faithful and avoids Legge's parenthesis. entry-check ok."
+}

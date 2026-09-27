@@ -22,6 +22,8 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - The Heshang Gong commentary is on two Wikisource pages: revision 2019760 holds chapters 1 to 37 and revision 1552800 chapters 38 to 81. Cite the one packet.js names for the day, never the other. (Found in the dry run.)
 - On a hard passage the commentary's limit may sit on a line inside the key verse or just after it (chapter 31: the victor mourns, and arms are used only when they cannot be avoided). Read the comment on every line of the key verse and the line after before writing the reading, and carry the limit (rule 6). (Found in the dry run.)
 - A phrase can occur twice in a chapter with different comments (chapter 8: 不爭 in 水善利萬物而不爭 and again in 夫唯不爭, glossed differently by the Heshang Gong commentary). A reading of the phrase uses the comment on the line it names. (Found in the dry run.)
+- A parenthesis of Legge's can slip into the plain sense unquoted, as a verb: on day 2 "(the idea of) what ugliness is" became "knows ugliness", the translator's reading stated as the chapter's. Read the plain sense against the key verse with every parenthesis struck out. (Found in tao-01.)
+- A comment that points back (此上之所云也, this is what was said above) is not a reading in itself. Name what the earlier lines say, from the commentator's own comments on them. (Found in tao-01.)
 
 ## pali
 

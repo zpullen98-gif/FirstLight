@@ -1,0 +1,241 @@
+{
+ "lane": "L4",
+ "plan": "tao",
+ "batch": "tao-01",
+ "days": [
+  {
+   "d": 19,
+   "primary": {
+    "id": "tao-01-d019-p",
+    "key": "If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold.",
+    "ref": "Tao Te Ching 19",
+    "at": [
+     18
+    ],
+    "s": "The chapter says renouncing sageness and discarding wisdom would profit the people a hundredfold; the Heshang Gong commentary, on chapter 19, reads the renouncing of sageness as giving up the sages’ making and devising to return to the beginning, since the Three Sovereigns’ unwritten knotted cords surpassed Cangjie’s script, and the discarding of wisdom as a return to non-action.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 19, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "絕聖制作，反初守元。五帝垂象，倉頡作書，不如三皇結繩無文。…棄智慧，反無為。",
+     "gloss": "(On renouncing sageness:) renounce the making and devising of the sages, return to the beginning and keep to the origin. The Five Emperors hanging out their images and Cangjie making writing were not as good as the Three Sovereigns’ knotted cords, without writing. … (On discarding wisdom:) discard wisdom and cleverness, return to non-action."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d019-s",
+    "key": "If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold. If we could renounce our benevolence and discard our righteousness, the people would again become filial and kindly. If we could renounce our artful contrivances and discard our (scheming for) gain, there would be no thieves nor robbers.",
+    "ref": "Tao Te Ching 19",
+    "at": [
+     18
+    ],
+    "s": "The chapter says renouncing sageness and wisdom, benevolence and righteousness, and contrivance and gain would profit the people and end theft; Wang Bi, on chapter 19, takes these as the best of talent, of human goodness and of use, and reads bare renunciation as saying too little unless people are given plainness, simplicity and few desires to hold to.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 19, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "聖智，才之善也。仁義，人之善也。巧利，用之善也。而直云絕，文甚不足，不令之有所屬，無以見其指，故曰，此三者以為文而未足，故令人有所屬，屬之於素樸寡欲。",
+     "gloss": "Sageness and wisdom are the best of talent. Benevolence and righteousness are the best of human goodness. Skill and profit are the best of use. Yet simply to say ‘renounce’ is a statement that falls far short: without giving it something to attach to, there is no way to see its point. So the text says these three, as a statement, are not enough, and therefore lets people have something to attach to: it attaches them to plainness, simplicity and few desires."
+    }
+   }
+  },
+  {
+   "d": 20,
+   "primary": {
+    "id": "tao-01-d020-p",
+    "key": "The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring. I alone seem listless and still, my desires having as yet given no indication of their presence.",
+    "ref": "Tao Te Ching 20",
+    "at": [
+     19
+    ],
+    "s": "The chapter says the multitude look pleased, as if at a full banquet, while ‘I alone’ seem listless and still, desires not yet showing; the Heshang Gong commentary, on chapter 20, reads their pleasure as dissolute desire, like a hungry man craving a feast and never satisfied, and the stillness as calm, with no form or sign of passion yet.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 20, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "熙熙，放淫多情欲也。…如飢思太牢之具，意無足時也。…我獨怕然安靜，未有情慾之形兆也。",
+     "gloss": "‘Merry’ means dissolute and full of passions and desires. … Like a hungry man longing for the dishes of a full banquet, the mind never has a time of satisfaction. … I alone am placid and still, with as yet no form or sign of passion and desire."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d020-s",
+    "key": "(Thus) I alone am different from other men, but I value the nursing-mother (the Tao).",
+    "ref": "Tao Te Ching 20",
+    "at": [
+     19
+    ],
+    "s": "The chapter’s ‘I’ says he alone is different from other men, but values the nursing-mother; Wang Bi, on chapter 20, takes the nursing-mother as the root of life, and reads his difference from others as this, that they all abandon the root by which the people live and prize the flowers of superficial ornament.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 20, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "食母，生之本也。人者皆棄生民之本，貴末飾之華，故曰我獨欲異於人。",
+     "gloss": "The nursing-mother is the root of life. People all abandon the root by which the people live and prize the flower of branch-tip ornament; therefore the text says, I alone wish to be different from others."
+    }
+   }
+  },
+  {
+   "d": 21,
+   "primary": {
+    "id": "tao-01-d021-p",
+    "key": "How know I that it is so with all the beauties of existing things? By this (nature of the Tao).",
+    "ref": "Tao Te Ching 21",
+    "at": [
+     20
+    ],
+    "s": "The chapter asks how it is known that it is so with all the beauties of existing things, and answers, by this; Wang Bi, on chapter 21, reads the question as how it is known that all things begin in non-being, and takes ‘this’ as what has been said above.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 21, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "眾甫，物之始也。以無名說萬物始也。…此上之所云也。言吾何以知萬物之始於無哉，以此知之也。",
+     "gloss": "‘The many fathers’ are the beginning of things: the text explains the beginning of all things by the nameless. … ‘This’ is what has been said above. It means: how do I know that all things begin in non-being? I know it by this."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d021-s",
+    "key": "Profound it is, dark and obscure; Things’ essences all there endure.",
+    "ref": "Tao Te Ching 21",
+    "at": [
+     20
+    ],
+    "s": "The chapter says the Tao is profound, dark and obscure, and that the essences of things endure in it; the Heshang Gong commentary, on chapter 21, reads that darkness as the Tao’s formlessness, within which there is real essence, where spirit and light press together and yin and yang meet.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 21, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "道唯窈冥無形，其中有精實，神明相薄，陰陽交會也。",
+     "gloss": "The Tao is only deep, dark and without form; within it there is essence and substance, where spirit and light press upon each other and yin and yang meet and join."
+    }
+   }
+  },
+  {
+   "d": 22,
+   "primary": {
+    "id": "tao-01-d022-p",
+    "key": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
+    "ref": "Tao Te Ching 22",
+    "at": [
+     21
+    ],
+    "s": "The chapter says the partial becomes complete, the crooked straight, the empty full and the worn out new; Wang Bi, on chapter 22, reads the four as not displaying one’s own brightness, which makes one whole, not holding oneself right, which makes one’s rightness plain, not boasting, which keeps one’s merit, and not vaunting oneself, which lets one’s virtue endure.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 22, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "不自見其明則全也。…不自是則其是彰也。…不自伐則其功有也。…不自矜則其德長也。",
+     "gloss": "(On ‘the partial becomes complete’:) not displaying one’s own brightness, one is whole. … (On ‘the crooked, straight’:) not holding oneself right, one’s rightness is made plain. … (On ‘the empty, full’:) not boasting of oneself, one’s merit remains. … (On ‘the worn out, new’:) not vaunting oneself, one’s virtue grows long."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d022-s",
+    "key": "He is free from self-display, and therefore he shines; from self-assertion, and therefore he is distinguished; from self-boasting, and therefore his merit is acknowledged; from self-complacency, and therefore he acquires superiority.",
+    "ref": "Tao Te Ching 22",
+    "at": [
+     21
+    ],
+    "s": "The chapter says that the sage, free from self-display, self-assertion, self-boasting and self-complacency, shines, is distinguished, has his merit acknowledged and acquires superiority; the Heshang Gong commentary, on chapter 22, reads his shining as seeing not with his own eyes but through the eyes of the whole world, and his distinction as never holding himself right and others wrong.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 22, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人不以其目視千里之外也，乃因天下之目以視，故能明達也。…聖人不自以為是而非人，故能彰顯於世。",
+     "gloss": "The sage does not look beyond a thousand li with his own eyes, but sees through the eyes of all the world, and so he can be bright and far-seeing. … The sage does not hold himself right and others wrong, and so he can be distinguished in the world."
+    }
+   }
+  },
+  {
+   "d": 23,
+   "primary": {
+    "id": "tao-01-d023-p",
+    "key": "Abstaining from speech marks him who is obeying the spontaneity of his nature.",
+    "ref": "Tao Te Ching 23",
+    "at": [
+     22
+    ],
+    "s": "The chapter says that abstaining from speech marks one who obeys the spontaneity of his nature; Wang Bi, on chapter 23, takes the phrase as speech listened for and not heard and, drawing on a later chapter’s flavourless words of the Tao, reads such speech as the utmost speech of what is so of itself.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 23, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "聽之不聞名曰希，下章言，道之出言淡兮其無味也，視之不足見，聽之不足聞，然則無味不足聽之言，乃是自然之至言也。",
+     "gloss": "What is listened for and not heard is called ‘faint’. A later chapter says that the words the Tao puts forth are bland and without flavour; looked at, it is not enough to be seen; listened to, it is not enough to be heard. So words without flavour, not enough to be heard, are the utmost words of what is so of itself."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d023-s",
+    "key": "To whom is it that these (two) things are owing? To Heaven and Earth. If Heaven and Earth cannot make such (spasmodic) actings last long, how much less can man!",
+    "ref": "Tao Te Ching 23",
+    "at": [
+     22
+    ],
+    "s": "The chapter says that if Heaven and Earth cannot make the violent wind and sudden rain last long, still less can man; the Heshang Gong commentary, on chapter 23, takes man here as one bent on sudden violence, and explains that people should go about their affairs calm like the Tao, not like whirlwind and downpour.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 23, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "天地至神合為飄風暴雨，尚不能使終朝至暮，何況人欲為暴卒乎。…人為事當如道安靜，不當如飄風驟雨也。",
+     "gloss": "Heaven and Earth, most spirit-like, join to make the whirlwind and the violent rain, yet cannot make them last from morning to evening; how much less a man who would act with sudden violence. … (On the next line:) when people go about their affairs they should be calm and still like the Tao, not like the whirlwind and the sudden rain."
+    }
+   }
+  },
+  {
+   "d": 24,
+   "primary": {
+    "id": "tao-01-d024-p",
+    "key": "He who stands on his tiptoes does not stand firm; he who stretches his legs does not walk (easily).",
+    "ref": "Tao Te Ching 24",
+    "at": [
+     23
+    ],
+    "s": "The chapter says the one on tiptoe does not stand firm and the one who stretches his legs does not walk; the Heshang Gong commentary, on chapter 24, takes the first as one greedy for power and fame, who cannot stand long, and the second as one who strides over others, thinking himself noble, till the many block his way.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 24, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "謂貪權慕名，進取功榮，則不可久立身行道也。…自以為貴而跨於人，眾共蔽之，使不得行。",
+     "gloss": "It means one who covets power and hankers after fame, pushing forward for merit and glory: he cannot long stand firm and walk the Tao. … Thinking himself noble, he strides over others; the many together block him, so that he cannot go on."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d024-s",
+    "key": "Such conditions, viewed from the standpoint of the Tao, are like remnants of food, or a tumour on the body, which all dislike.",
+    "ref": "Tao Te Ching 24",
+    "at": [
+     23
+    ],
+    "s": "The chapter says that, seen from the Tao, such conditions are like remnants of food or a tumour, which all dislike; Wang Bi, on chapter 24, reads them as conduct like Xi Zhi’s, leftovers of a rich feast, fine at first but now foul, and the tumour as merit, real at first, turned into a wart by boasting of it.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 24, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "其唯於道而論之，若郤至之行，盛饌之餘也。本雖美，更可薉也。本雖有功而自伐之，故更為肬贅者也。",
+     "gloss": "Judged by the Tao alone, it is like the conduct of Xi Zhi, the leftovers of a rich feast: though fine at first, it has become foul. Though there was merit at first, one boasts of it, and so it becomes a wart and an excrescence."
+    }
+   }
+  }
+ ]
+}

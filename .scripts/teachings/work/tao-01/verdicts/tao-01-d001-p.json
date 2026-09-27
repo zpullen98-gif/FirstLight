@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "(Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.",
+ "ref": "Tao Te Ching 1",
+ "at": [
+  0
+ ],
+ "s": "The chapter calls the nameless the Originator of heaven and earth and the named the Mother of all things; Wang Bi, on chapter 1, reads both as the work of the Tao, which, without form or name, begins things before they take shape and rears them as their mother once they have form and name.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 1, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 1, comment on 無名，天地之始，有名，萬物之母"
+   }
+  ],
+  "words": "凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物。",
+  "lang": "Classical Chinese",
+  "gloss": "All that is begins in non-being; so while things are still without form and without name, it is the beginning of the ten thousand things, and once they have form and name it grows them, rears them, settles and matures them, and is their mother. The Tao, without form and without name, begins and completes the ten thousand things.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 1, at [0]). Wang Bi’s base line 無名，天地之始，有名，萬物之母 is the key verse’s line; his comment on it carries every element of the reading: the Tao without form or name begins the ten thousand things while they are formless and nameless, and grows and rears them as their mother once they have form and name. Plain sense restates the key verse without leaning on Legge’s parentheses. entry-check ok."
+}

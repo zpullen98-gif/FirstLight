@@ -1,0 +1,112 @@
+{
+ "lane": "L5",
+ "plan": "tao",
+ "batch": "tao-01",
+ "days": [
+  {
+   "d": 25,
+   "primary": {
+    "id": "tao-01-d025-p",
+    "key": "Man takes his law from the Earth; the Earth takes its law from Heaven; Heaven takes its law from the Tao. The law of the Tao is its being what it is.",
+    "ref": "Tao Te Ching 25",
+    "at": [24],
+    "s": "The chapter says man takes his law from the Earth, the Earth from Heaven, Heaven from the Tao, whose law is its being what it is; Wang Bi, on chapter 25, reads each as not going against the next, and the Tao as going against nothing that is so of itself, square in the square, round in the round.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 25, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "人不違地，乃得全安，法地也。地不違天，乃得全載，法天也。…道不違自然，乃得其性，法自然者。在方而法 方，在圓而法圓，於自然無所違也。",
+     "gloss": "Man, not going against the Earth, is kept whole and safe: that is taking law from the Earth. The Earth, not going against Heaven, bears all things whole: that is taking law from Heaven. … The Tao, not going against what is so of itself, attains its nature: that is taking law from what is so of itself. In the square it takes the square as its law, in the round the round; toward what is so of itself it goes against nothing."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d025-s",
+    "key": "I do not know its name, and I give it the designation of the Tao (the Way or Course). Making an effort (further) to give it a name I call it The Great.",
+    "ref": "Tao Te Ching 25",
+    "at": [24],
+    "s": "The chapter’s speaker, not knowing the name of what came before Heaven and Earth, designates it the Tao and, with effort, calls it The Great; the Heshang Gong commentary, on chapter 25, reads the designation as given since all things are seen to be born from the Tao, and ‘The Great’ as high with nothing above, wide with nothing outside.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 25, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "我不見道之形容，不知當何以名之，見萬物皆從道所生，故字之曰道。…不知其名，強曰大者，高而無上，羅而無外，無不包容，故曰大也。",
+     "gloss": "I do not see the form of the Tao and do not know what name to give it; seeing that all things are born from the Tao, I give it the designation Tao. … Not knowing its name, it is forced to call it great: high with nothing above it, spread wide with nothing outside it, there is nothing it does not contain; therefore it is called great."
+    }
+   }
+  },
+  {
+   "d": 26,
+   "primary": {
+    "id": "tao-01-d026-p",
+    "key": "Gravity is the root of lightness; stillness, the ruler of movement.",
+    "ref": "Tao Te Ching 26",
+    "at": [25],
+    "s": "The chapter says gravity is the root of lightness, and stillness the ruler of movement; the Heshang Gong commentary, on chapter 26, reads it both for the ruler, who without gravity is not honoured and without stillness loses authority, and for governing the self, where without gravity the spirit is lost and without stillness the body is endangered.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 26, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "人君不重則不尊，治身不重則失神，草木之花葉輕，故零落，根重故長存也。…人君不靜則失威，治身不靜則身危",
+     "gloss": "A ruler who is not grave is not honoured; one who governs the self without gravity loses the spirit; the flowers and leaves of plants are light and so they fall, the root is heavy and so it long endures. … A ruler who is not still loses his authority; one who governs the self without stillness puts the body in danger."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d026-s",
+    "key": "Gravity is the root of lightness; stillness, the ruler of movement.",
+    "ref": "Tao Te Ching 26",
+    "at": [25],
+    "s": "The chapter says gravity is the root of lightness, and stillness the ruler of movement; Wang Bi, on chapter 26, reads it as true of all things, since the light cannot carry the heavy nor the small hold down the great, while what does not go sets things going and what does not move governs movement.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 26, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "凡物輕不能載重，小不能鎮大。不行者使行，不動者制動，是以重必為輕根，靜必為躁君也。",
+     "gloss": "In all things the light cannot carry the heavy, and the small cannot hold down the great. What does not go makes things go; what does not move governs movement. Therefore gravity must be the root of lightness, and stillness the ruler of agitation."
+    }
+   }
+  },
+  {
+   "d": 27,
+   "primary": {
+    "id": "tao-01-d027-p",
+    "key": "In the same way the sage is always skilful at saving men, and so he does not cast away any man; he is always skilful at saving things, and so he does not cast away anything.",
+    "ref": "Tao Te Ching 27",
+    "at": [26],
+    "s": "The chapter says the sage, always skilful at saving men and things, casts none away; Wang Bi, on chapter 27, reads it as the sage setting up no forms and names to check things and no path of advancement that sets apart and casts off the unworthy, but aiding all things to be so of themselves.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 27, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "聖人不立形名以檢於物，不造進向以殊棄不肖，輔萬物之自然而不為始，故曰無棄人也。",
+     "gloss": "The sage does not set up forms and names by which to check things, and does not create paths of advancement by which to set apart and cast off the unworthy; he aids all things in being so of themselves and does not make himself their beginning. Therefore the text says he casts away no man."
+    }
+   },
+   "standby": {
+    "id": "tao-01-d027-s",
+    "key": "In the same way the sage is always skilful at saving men, and so he does not cast away any man; he is always skilful at saving things, and so he does not cast away anything.",
+    "ref": "Tao Te Ching 27",
+    "at": [26],
+    "s": "The chapter says the sage, always skilful at saving men and things, casts none away; the Heshang Gong commentary, on chapter 27, reads the saving of men as teaching them loyalty and filial piety to save their lives, and the saving of things as teaching the people to follow the four seasons to save all things from harm.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 27, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人所以常教人忠孝者，欲以救人性命。…聖人所以常教民順四時者，欲以救萬物之殘傷。",
+     "gloss": "The reason the sage always teaches people loyalty and filial piety is that he wishes thereby to save their lives. … The reason the sage always teaches the people to follow the four seasons is that he wishes thereby to save all things from injury and harm."
+    }
+   }
+  }
+ ]
+}

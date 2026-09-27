@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d004-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 4 and fetched revision 2019760 raw myself (老子河上公章句/上, API timestamp 2021-03-10, so the year in src is right). Section ==無源== is chapter 4; all three evidence segments are there verbatim, under 挫其銳, 解其紛 and 同其塵 as the locator says. The Heshang Gong base line 挫其銳，解其紛，和其光，同其塵 is the line of Legge’s key verse. Paraphrase carried clause by clause: checking the keen pursuit of merit and fame (人欲銳精進取功名，當挫止之), untying knotted resentment (紛，結恨也), sharing the common dust rather than standing apart (當與眾庶同垢塵，不當自別殊). The comment on 和其光 is left out, not contradicted. The one soft spot, 法道不自見 rendered as the Tao which does not display itself rather than modelling on the Tao and not displaying oneself, is supported by the same chapter’s 道匿名藏譽 and changes nothing in the counsel. verse.js ok (Tao Te Ching 4, at [3]); entry-check ok, no warns. Plain sense restates the key verse without Legge’s supplied words; no school needed, no comparison, tone plain, no story of Heshang Gong.",
+ "better": "Optional tightening, not required: “to check the keen pursuit of merit and fame after the pattern of the Tao, which hides itself” keeps closer to 法道不自見 read with 道匿名藏譽."
+}

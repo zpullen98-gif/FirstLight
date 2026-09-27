@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is.",
+ "ref": "Tao Te Ching 2",
+ "at": [
+  1
+ ],
+ "s": "The chapter says that when all the world knows beauty and skill as such, it has with them ugliness and the want of skill; Wang Bi, on chapter 2, reads beauty and ugliness as the heart’s delight and loathing, like joy and anger, which share one root, so that neither can be singled out alone.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 2, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 2, comment on 天下皆知美之為美，斯惡已。皆知善之為善，斯不善已"
+   }
+  ],
+  "words": "美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也；善不善，猶是非也。喜怒同根，是非同門，故不可得偏舉也。",
+  "lang": "Classical Chinese",
+  "gloss": "Beauty is what the human heart delights in and moves toward; ugliness is what the human heart loathes. Beauty and ugliness are like joy and anger; good and not good like right and wrong. Joy and anger share one root, right and wrong one gate, so neither can be raised up on its own.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement: the refuter is right on the plain sense and the entry can be put right. The earlier plain sense (all the world, knowing beauty and skill, thereby knows ugliness and the want of skill) took its second knowing from Legge’s supplied (the idea of), which the brief bars; replaced with: when all the world knows beauty and skill as such, it has with them ugliness and the want of skill. Reading, key verse, ref/at and src unchanged: re-ran day.js and verse.js (ok, at [1]); opened packet.js tao 2 and read Wang Bi on the whole chapter; his base text 天下皆知美之為美，斯惡已。皆知善之為善，斯不善已 matches the key verse and his comment on it (美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也…喜怒同根…故不可得偏舉也) carries the paraphrase without drift. entry-check ok."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d021-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js and the raw wikisource revision 2354026: Wang Bi on 吾何以知眾甫之狀哉？以此 has 此上之所云也。言吾何以知萬物之始於無哉，以此知之也 (line 252), and on the two lines just above 至真之極，不可得名，無名則是其名也。自古及今，無不由此而成 and 眾甫，物之始也。以無名說萬物始也 (lines 248, 250). The question-as-non-being clause is his gloss nearly word for word; 'the chapter's preceding account of the nameless, through which all things come to be' names the content of 上之所云 from his comments on the immediately preceding lines (以無名說萬物始, 無不由此而成; 萬物以始以成 earlier in the chapter covers 'come to be'), a summary not an addition. Same line in his base text (狀 for Legge's 'so'). Key is the only citable unit (the verse unit has a double hyphen) and verse.js ok, at [20]; plain sense restates the key without the parenthesis; no school needed, no comparison, not a hard passage; entry-check ok with no errors or warns. Weakest point: 'how it is known' drops the first person of 'How know I', a minor loss, not a misstatement.",
+ "better": ""
+}

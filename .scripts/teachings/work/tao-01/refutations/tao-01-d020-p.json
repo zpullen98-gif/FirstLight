@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d020-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 20 (Heshang Gong, rev 2019760). Base text 眾人熙熙，如享太牢，如春登臺。我獨怕兮其未兆 matches the key verse (Legge’s ‘listless and still’ renders 怕). Comments found verbatim: 熙熙，放淫多情欲也 (dissolute, many passions and desires); 如飢思太牢之具，意無足時也 (a hungry man longing for the banquet, never satisfied); 我獨怕然安靜，未有情慾之形兆也 (calm and still, no form or sign of passion yet). Each clause of the reading maps to one of these; nothing added. Plain sense restates the key verse, quotes only ‘I alone’ (two words). verse.js ok (Tao Te Ching 20, at [19]); entry-check ok, no warns. No school, no comparison, tone plain.",
+ "better": ""
+}

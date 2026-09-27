@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore the sage, in the exercise of his government, empties their minds, fills their bellies, weakens their wills, and strengthens their bones.",
+ "ref": "Tao Te Ching 3",
+ "at": [
+  2
+ ],
+ "s": "The chapter says the sage, in governing, empties the people’s minds, fills their bellies, weakens their wills and strengthens their bones; the Heshang Gong commentary, on chapter 3, reads it as governing the state and the self alike: clearing the mind of cravings, embracing the Tao and the One, and firming the bones by husbanding the vital essence.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 3, zh.wikisource, revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 3, comments on 是以聖人之治，虛其心，實其腹，弱其志，強其骨"
+   }
+  ],
+  "words": "說聖人治國與治身同也。…除嗜欲，去亂煩。…懷道抱一守，五神也。…愛精重施，髓滿骨堅。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the sage’s governing:) this says the sage’s governing of the state is the same as his governing of the self. (On emptying the mind:) he removes cravings and clears away confusion and vexation. (On filling the belly:) he holds the Tao and embraces the One, guarding the five spirits. (On strengthening the bones:) he cherishes the vital essence and is sparing in spending it, so the marrow is full and the bones firm.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 3, at [2]). The Heshang Gong base text 是以聖人之治，虛其心，實其腹，弱其志，強其骨 is the key verse’s line; its comments carry each element of the reading: governing the state and the self are the same (說聖人治國與治身同也), emptying the mind is removing cravings, filling the belly is holding the Tao and embracing the One, strengthening the bones is cherishing the vital essence so the bones are firm. Reading omits the comment on weakening the will but adds nothing not in the words. Plain sense faithful (their = the people of the preceding verse). entry-check ok."
+}

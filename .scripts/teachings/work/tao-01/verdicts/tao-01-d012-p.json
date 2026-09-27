@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former.",
+ "ref": "Tao Te Ching 12",
+ "at": [
+  11
+ ],
+ "s": "The chapter says the sage seeks to satisfy the belly and not the eyes, putting the latter from him and preferring the former; Wang Bi, on chapter 12, reads serving the belly as using things to nourish oneself and serving the eyes as being enslaved by things, which is why the sage does not serve the eyes.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 12, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 12, comment on 是以聖人為腹不為目，故去彼取此"
+   }
+  ],
+  "words": "為腹者以物養己，為目者以物役己，故聖人不為目也。",
+  "lang": "Classical Chinese",
+  "gloss": "Serving the belly, one uses things to nourish oneself; serving the eyes, one lets things enslave oneself. So the sage does not serve the eyes.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 12, at [11]); Wang Bi comments on exactly this line (是以聖人為腹不為目，故去彼取此), and Legge's note independently quotes the same comment. The sentence paraphrases 以物養己 / 以物役己 / 故聖人不為目 without addition. Plain sense restates the key verse without Legge's parenthetical cravings. entry-check ok."
+}

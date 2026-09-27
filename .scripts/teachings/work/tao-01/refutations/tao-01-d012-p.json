@@ -1,0 +1,11 @@
+{
+ "id": "tao-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 12: Wang Bi comments on exactly 是以聖人為腹不為目，故去彼取此 with 為腹者以物養己，為目者以物役己，故聖人不為目也; the paraphrase is a clause-for-clause rendering with nothing added. Legge’s note in the same packet independently quotes this comment as Wang Pi’s, confirming the attribution. Plain sense restates the key verse (latter = eyes, former = belly, consistent) without Legge’s supplied cravings. verse.js ok (at [11]); entry-check ok; 57 words, one semicolon. No school, comparison or tone issue.",
+ "better": ""
+}
