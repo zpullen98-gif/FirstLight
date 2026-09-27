@@ -48,7 +48,7 @@ const days = bj.days.slice();
 const chosen = [];
 const take = e => { if (e && !chosen.includes(e) && chosen.length < nTrails) chosen.push(e); };
 [...new Set(days.map(e => e.by))].forEach(by => take(days.find(e => e.by === by)));
-days.filter(e => e.hedge || trailOf(e).kept || (trailOf(e).v.verdict === 'CORRECTED')).forEach(take);
+days.filter(e => e.hedge || trailOf(e).kept || trailOf(e).rv || (trailOf(e).v.verdict === 'CORRECTED')).forEach(take);
 const rest = days.filter(e => !chosen.includes(e));
 while (chosen.length < nTrails && rest.length) take(rest.splice(Math.floor(rnd() * rest.length), 1)[0]);
 chosen.sort((x, y) => x.d - y.d);
