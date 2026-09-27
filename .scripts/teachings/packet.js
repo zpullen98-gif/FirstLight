@@ -53,7 +53,8 @@ function covers(base, verse) {
   const m = String(base).match(/^\[([^\]]+)\]/);
   if (!m) return false;
   const want = String(verse).split(/[.:]/).map(Number);
-  const nums = s => (s.match(/\d+(?:[.:]\d+)*/) || [''])[0].split(/[.:]/).map(Number);
+  /* the LAST chapter-and-verse group, so "1 Samuel 3:13" reads 3:13, not 1 */
+  const nums = s => { const all = s.match(/\d+(?:[.:]\d+)+/g) || s.match(/\d+/g) || ['']; return all[all.length - 1].split(/[.:]/).map(Number); };
   const parts = m[1].split(/\s+to\s+/);
   const a = nums(parts[0]), b = parts[1] ? nums(parts[1]) : a;
   const cmp = (x, y) => { for (let i = 0; i < Math.max(x.length, y.length); i++) { const d = (x[i] || 0) - (y[i] || 0); if (d) return d; } return 0; };
