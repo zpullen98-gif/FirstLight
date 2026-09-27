@@ -80,3 +80,28 @@ for what it illuminates, not for what it forecasts.
 
 The code is yours to read. The quoted texts are public domain or quoted under fair
 use with attribution; the practice videos belong to their creators.
+
+## House art direction, 27 September 2026
+
+The owner's Explorer's Library direction now extends to First Light. This intentionally
+supersedes the earlier "typography, not pictures" rule for the decorative masthead.
+All words and controls remain real HTML. `assets/first-light-dawn-v1.webp` is a dawn
+library scene, 1536 by 1024, compressed to 416,874 bytes; it and the added Cinzel
+font are cached with the shell. Font licensing is in `fonts/house-OFL.txt`.
+
+`css/house.css` supplies the shell and the four solar palettes. `house-library.css`
+and `house-practice.css` cover the reading and practice surfaces. The original
+Cormorant Garamond reading face and Karla interface face are retained. Keep the
+pre-paint palette values in index.html aligned with --bg for each phase.
+
+`js/house.js` loads after app.js, adds presentation-only route markers through
+renderNav, and makes the Today masthead compact during the guided morning. It does
+not alter records, privacy choices, content, practice timers or completion rules.
+Keep the existing safe-area insets, keyboard focus and reduced-motion treatment.
+
+For the suite, commit source changes then use OutsideOfTime's resync-light script.
+Hand-merge index.html and sw.js, preserving the wing's integration; order there is
+app.js, house.js, oot-light.js. New CSS, font and artwork need precache entries too.
+The release uses firstlight-v87 in source and oot-light-v83 in the wing. Permanent
+texts-v3 caches remain unchanged. The live public destination remains /light/;
+standalone FirstLight GitHub Pages was not enabled for this design change.
