@@ -629,7 +629,9 @@ async function pali(packetsOnly) {
   if (ml.dropped.length) console.log('  Müller: set aside as verses, not notes: ' + ml.dropped.join(', '));
 }
 
-const PLANS = { tao, pali };
+/* plans whose builders live in sources/<name>.js take the shared helpers */
+const analects = (packetsOnly) => require('./sources/analects').build({ get, wsUrl, wsPage, CACHE, packetsOnly });
+const PLANS = { tao, pali, analects };
 
 async function main() {
   const [plan, flag] = process.argv.slice(2);

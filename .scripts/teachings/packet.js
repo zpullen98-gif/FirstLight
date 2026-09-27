@@ -14,15 +14,23 @@ const path = require('path');
 const corpus = require('./corpus');
 const { CACHE } = require('./fetch-commentary');
 
+/* A packet per chapter, numbered: the Tao's chapter, the Dhammapada's, the
+   Gita's, the Analects' book. The Upanishads' packets are per section and
+   named by its slug ("isa-upanishad", "katha-upanishad-1-2",
+   "kena-upanishad-3"), keyed on the day's verse units only (a peace chant
+   carries no section). */
+function slug(s) { return String(s).toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, ''); }
 function chaptersOf(plan, d) {
   const set = [];
   corpus.dayOf(plan, d).units.forEach(u => {
-    const m = String(u.ch).match(/(\d+)$/);
-    if (m && !set.includes(+m[1])) set.push(+m[1]);
+    let k;
+    if (plan === 'upanishads') { if (u.kind !== 'verse') return; k = slug(u.ch); }
+    else { const m = String(u.ch).match(/(\d+)$/); if (!m) return; k = +m[1]; }
+    if (!set.includes(k)) set.push(k);
   });
   return set;
 }
-function packetFile(plan, ch) { return path.join(CACHE, plan, String(ch).padStart(2, '0') + '.json'); }
+function packetFile(plan, ch) { return path.join(CACHE, plan, (typeof ch === 'number' ? String(ch).padStart(2, '0') : ch) + '.json'); }
 function packetsFor(plan, d) {
   return chaptersOf(plan, d).map(ch => {
     const f = packetFile(plan, ch);

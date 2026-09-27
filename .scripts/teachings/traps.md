@@ -55,6 +55,9 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - Zhu Xi's chapter divisions differ from Legge's in places: locate by the opening words, not the number.
 - He Yan's collection gathers earlier glosses under their own authors' names: name the gathered author as the collection gives it, or say "He Yan's collected commentary".
 - Legge's text carries "--" before a list and supplied words in parentheses: a key verse holding the "--" is not allowed; choose another sentence.
+- He Yan's collection gives most glosses under their authors' tags: 馬曰 is Ma Rong, 孔曰 Kong Anguo, 包曰 Bao Xian, 鄶曰 Zheng Xuan, 王曰 Wang Su, 周曰 Zhou Shi; an untagged note is He Yan's own. The sentence opens with “He Yan’s collection” and names the gathered scholar (“He Yan’s collection, on 7.18, gives Kong Anguo’s reading ...”); never credits He Yan with a tagged gloss.
+- The packet marks each of Legge's chapters [7.18]; He Yan's and Zhu Xi's own divisions differ from Legge's in places (books 10 and 14 above all), so check that a comment sits on the line the key verse holds.
+- Books 7 to 20 of He Yan are a text converted from simplified characters (誌 for 志, 複 for 復): quote the evidence exactly as the packet has it; gloss it as the original means.
 
 ## zhuangzi
 
