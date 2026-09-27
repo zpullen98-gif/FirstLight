@@ -105,8 +105,7 @@
       ],
       "conduits": [
         "wilson-rv",
-        "griffith-notes",
-        "muller-rv"
+        "griffith-notes"
       ],
       "forbid": [],
       "watch": [
@@ -463,12 +462,13 @@
         "veda": "all"
       },
       "sources": [
-        "H. H. Wilson, Rig-Veda-Sanhita, 6 vols (1850 to 1888), which follows Sāyaṇa, archive.org (public domain)",
-        "Max Müller's edition of the Rig Veda with Sāyaṇa's commentary (1849 to 1874), for the Sanskrit"
+        "His Sanskrit, verse by verse: Sanskrit Wikisource ऋग्वेदः सूक्तं <m>.<h>, pinned revisions (sources/veda-lock.json); read it and gloss it yourself",
+        "H. H. Wilson, Rig-Veda-Sanhita, 6 vols (1850 to 1888; vols 4 to 6 ed. Cowell and Webster), archive.org, which translates following Sāyaṇa and explains him in its notes"
       ],
       "traps": [
-        "Wilson numbers by aṣṭaka and adhyāya as well: store and cite mandala.hymn.verse.",
-        "When the reading is known only through Wilson, use the ‘as given in’ source form."
+        "The app numbers Book 8 as Griffith does: app 8.49 to 8.92 are standard 8.60 to 8.103, and app 8.93 to 8.103 are the Vālakhilya (standard 8.49 to 8.59), on which Sāyaṇa did not comment (8.56 and 8.58 doubtful). The packet labels use the app’s numbers.",
+        "In 15 hymns Sāyaṇa counts one or more verses more than Griffith (1.53, 1.73, 2.10, 2.28, 3.8, 5.32, 5.55, 8.48, 9.7, 10.48, 10.61, 10.86, 10.132 among them): the packet says so; cite the verse the key verse holds in the app.",
+        "Webster’s [bracketed] notes in Wilson’s vols 5 and 6 are Webster’s, not Wilson’s; neither is Sāyaṇa unless it reports him."
       ],
       "aliases": [
         "Sayana"
@@ -483,7 +483,7 @@
         "veda": "all"
       },
       "sources": [
-        "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org (public domain)"
+        "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask, as the packet gives the section (or its page)"
       ],
       "traps": [
         "Yāska treats only some verses: name him only where the Nirukta treats the verse, with the Nirukta's book and section."

@@ -382,10 +382,16 @@ function readTeachFor(canonId, d) {
   var t = T.days[d - 1];
   return t && t.d === d ? t : null;
 }
+/* The key verse in quotation marks, unless it carries double marks of its
+   own (a line that ends inside a speech would print ”” otherwise): then the
+   line stands as printed, set apart by its style. */
+function readQuoted(s) {
+  return /[“”]/.test(s) ? esc(s) : '“' + esc(s) + '”';
+}
 function readTeachHTML(t) {
   if (!t) return '';
   return '<div class="label">The teaching</div>' +
-    '<p class="tkey">“' + esc(t.key) + '”</p>' +
+    '<p class="tkey">' + readQuoted(t.key) + '</p>' +
     '<div class="ds">' + esc(t.ref) + '</div>' +
     '<p class="px ts">' + esc(t.s) + '</p>';
 }
@@ -407,7 +413,7 @@ function readCourseFor(tr, d) {
 }
 function readCourseHTML(t) {
   if (!t) return '';
-  return '<p class="tkey">“' + esc(t.line) + '”</p>' +
+  return '<p class="tkey">' + readQuoted(t.line) + '</p>' +
     '<div class="ds">' + esc(t.ref) + (t.loc ? '' : (t.ext ? ', ' + esc(t.ext) : '')) + '</div>' +
     '<p class="px ts">' + esc(t.s) + '</p>';
 }
