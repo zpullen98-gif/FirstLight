@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "When we can lay hold of the Tao of old to direct the things of the present day, and are able to know it as it was of old in the beginning, this is called (unwinding) the clue of Tao.",
+ "ref": "Tao Te Ching 14",
+ "at": [
+  13
+ ],
+ "s": "Closing a chapter on the invisible, the verse joins past and present; Wang Bi, on chapter 14, takes that Tao as the formless, nameless ancestor of all things, through which every age achieves order however customs change, so the ancient beginning is knowable now.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 14, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 14, comment on 能知古始，是謂道紀"
+   }
+  ],
+  "words": "無形無名者，萬物之宗也。雖今古不同，時移俗易，故莫不由乎此以成其治者也。…上古雖遠，其道存焉，故雖在今，可以知古始也。",
+  "lang": "Classical Chinese",
+  "gloss": "What is without form and without name is the ancestor of all things. Though present and past differ, and times shift and customs change, none fails to follow it in achieving its order. … Though high antiquity is remote, its Tao remains; so even now one can know the ancient beginning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Rules 1 and 2 as amended hold against the old entry (57 words; its plain sense restated the verse). Rewritten to 44 words: the plain sense now gives only context (closing a chapter on the invisible, Legge’s own word in the preceding unit, and joining past and present) and repeats no four words of the verse. Commentator, key, ref, at and src unchanged. Re-opened packet.js tao 14: Wang Bi’s comment on 執古之道，以御今之有。能知古始，是謂道紀 is verbatim in revision 2354026 and carries each clause: formless and nameless ancestor of all things (無形無名者，萬物之宗也), every age achieving order however customs change (雖今古不同，時移俗易，故莫不由乎此以成其治者也), the ancient beginning knowable now (故雖在今，可以知古始也). verse.js ok (Tao Te Ching 14, at [13]); entry-check ok, no warns."
+}

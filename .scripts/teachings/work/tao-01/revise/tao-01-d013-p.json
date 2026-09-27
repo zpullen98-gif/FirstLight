@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Therefore he who would administer the kingdom, honouring it as he honours his own person, may be employed to govern it, and he who would administer it with the love which he bears to his own person may be entrusted with it.",
+ "ref": "Tao Te Ching 13",
+ "at": [
+  12
+ ],
+ "s": "Closing a chapter on favour and disgrace, the verse turns to government; the Heshang Gong commentary, on chapter 13, takes the first ruler as prizing himself and scorning others, ruling only briefly, and the second as loving himself for the people’s sake, long without blame.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 13, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 13 (厭恥), comments on 故貴以身為天下者，則可寄天下 and 愛以身為天下，若可託天下"
+   }
+  ],
+  "words": "言人君貴其身而賤人，欲為天下主者，則可寄立，不可以久也。…言人君能愛其身，非為己也，乃欲為萬民之父母。以此得為天下主者，乃可以託其身於萬民之上，長無咎也。",
+  "lang": "Classical Chinese",
+  "gloss": "It says: a ruler who prizes his own person and holds others cheap, wishing to be master of the world, may be set in place for a time, but cannot last. … It says: a ruler who can love his own person, not for his own sake but wishing to be father and mother to the myriad people, and who so becomes master of the world, may entrust his person above the myriad people and long be without blame.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Rules 1 and 2 as amended hold against the old entry (59 words; its plain sense restated the verse). Rewritten to 45 words: the plain sense now gives only context (the chapter on favour and disgrace closing on government) and repeats no four words of the verse. Commentator, key, ref, at and src unchanged. Re-opened packet.js tao 13: the two comments under 故貴以身為天下者，則可寄天下 and 愛以身為天下，若可託天下 are verbatim in revision 2019760 and carry every clause: prizing himself and scorning others (貴其身而賤人), ruling only briefly (可寄立，不可以久也), loving himself for the people’s sake (愛其身，非為己也，乃欲為萬民之父母), long without blame (長無咎也). verse.js ok (Tao Te Ching 13, at [12]); entry-check ok, no warns."
+}

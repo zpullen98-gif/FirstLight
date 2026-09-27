@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d010-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 10 and the cached raw wikisource revision 2354026 (all evidence strings found verbatim). Wang Bi's base text has 生之，畜之。生而不有，為而不恃，長而不宰，是謂玄德, the line of the key verse. His comments: on 生之 不塞其原也 (producing as not blocking the source), on 畜之 不禁其性也 (nourishing as not restraining their nature), and on the closing line 有德無主，非玄而何 (the mystery as virtue with no master). Each clause of the reading is his, nothing added; the dropped 物自生 / 物自長足 clause is compression. Plain sense names three of the chapter's earlier topics (souls, breath, loving the people and ruling the state) in the text's own words, repeats no run of the key and avoids Legge's supplied '(The Tao)'. verse.js ok (at [9]); entry-check ok, no errors or warns; 44 words, one semicolon, verb 'reads'. No school needed, no comparison, not a hard passage. Weakest point: 'the verse sums up' is a mild structural claim, since the earlier sections are questions about a person and the last states the mysterious virtue; it is defensible as a conclusion (the chapter ends by naming it, and Wang Bi's earlier comments end in things transforming of themselves), not a misstatement.",
+ "better": ""
+}

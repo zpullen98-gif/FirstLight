@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d020-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 20 and the raw wikisource revision 2019760: the Heshang Gong commentary has 熙熙，放淫多情欲也 on 眾人熙熙, 如飢思太牢之具，意無足時也 on 如享太牢, and 我獨怕然安靜，未有情慾之形兆也 on 我獨怕兮其未兆, all found verbatim, on the lines Legge's key verse translates (HSG's 怕 matches 'listless and still'). The reading carries each gloss without addition: dissolute desire, a hungry man longing for the banquet and never satisfied, calm with no sign of passion yet. Legge's own rendering of the second sentence follows this commentary, so the translator and the attributed reading agree rather than one being passed off as the other. verse.js ok (Tao Te Ching 20, at [19]); entry-check ok. Plain sense (renouncing learning, then the crowd set against the speaker) matches the day's units. The tower-in-spring comment is left out, a narrowing. No school, no comparison; 'dissolute' is the commentary's own 放淫, not sensationalised.",
+ "better": ""
+}

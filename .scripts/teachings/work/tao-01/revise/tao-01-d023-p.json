@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d023-p",
+ "d": 23,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Abstaining from speech marks him who is obeying the spontaneity of his nature.",
+ "ref": "Tao Te Ching 23",
+ "at": [22],
+ "s": "A chapter on passing storms and on following the Tao opens with the verse; Wang Bi, on chapter 23, takes the speech as faint, unheard like the Tao’s flavourless words, and reads it as the utmost speech of what is so of itself.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 23, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 23, comment on 希言自然",
+    "via": "packet"
+   }
+  ],
+  "words": "聽之不聞名曰希，下章言，道之出言淡兮其無味也，視之不足見，聽之不足聞，然則無味不足聽之言，乃是自然之至言也。",
+  "lang": "Classical Chinese",
+  "gloss": "What is listened for and not heard is called faint. A later chapter says the words the Tao puts forth are bland, without flavour; looked at, not enough to be seen; listened to, not enough to be heard. So flavourless words, not enough to be heard, are the utmost words of what is so of itself.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the plain sense restated the key verse. It is now context only: the verse opens a chapter that goes on to the violent wind and sudden rain that do not last and then to those who make the Tao their business. Wang Bi and his reading are kept, shortened: his comment on 希言自然 (re-read in packet.js tao 23) glosses 希 as what is listened for and not heard, cites the later chapter on the flavourless words the Tao puts forth, and calls such words the utmost words of 自然. Key, ref, at, src unchanged. verse.js ok (Tao Te Ching 23, at [22]); entry-check ok, 43 words, no warns."
+}

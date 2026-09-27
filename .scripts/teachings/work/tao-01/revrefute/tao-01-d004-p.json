@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d004-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 4 and the raw wikisource revision 2019760 (timestamp 2021-03-10, so the src year holds): chapter 4 (無源) has 人欲銳精進取功名，當挫止之 on 挫其銳, 紛，結恨也。當念道無為以解釋 on 解其紛, and 當與眾庶同垢塵，不當自別殊 on 同其塵, each found once. The three clauses of the reading (checking the keen pursuit of merit and fame, untying knotted resentment, sharing the dust rather than standing apart) are carried by those words; the base lines match Legge's key verse. 'The common dust' compresses 'the dust of the common people' (眾庶) but does not add to it. Plain sense is context only (the verse sits between the emptiness of a vessel and 'pure and still'), no four-word run of the key, no parenthesis leaned on. verse.js ok (Tao Te Ching 4, at [3]); entry-check ok, no errors or warns. No school needed, no comparison, not a hard passage. Weakest point: the comment on 和其光 is skipped, an omission not a misstatement.",
+ "better": ""
+}

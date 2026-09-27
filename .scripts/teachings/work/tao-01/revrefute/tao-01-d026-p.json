@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d026-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 26 and the raw wikisource revision 2019760, section 重德 (lines 698 to 703): the Heshang Gong commentary on 重為輕根 has 人君不重則不尊，治身不重則失神 and on 靜為躁君 has 人君不靜則失威，治身不靜則身危, the same two lines as Legge's key. The paraphrase (ruler not honoured without gravity, losing authority without stillness; for the self, spirit lost and body endangered) is those four clauses and nothing more; the plant and dragon/tiger analogies are dropped, not contradicted. Right page for chapters 1 to 37. verse.js ok (Tao Te Ching 26, at [25], whole unit 0); plain sense is context only (the chapter opens here, then the prince and his baggage waggons, unit 2); roster name 'the Heshang Gong commentary' mid-sentence and alsoName in src; entry-check ok, no warns. No school, no comparison, not a hard passage. The evidence joins two comments with an ellipsis; each half is verbatim.",
+ "better": ""
+}

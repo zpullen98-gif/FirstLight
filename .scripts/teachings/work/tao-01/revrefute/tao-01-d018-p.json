@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d018-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 18 and the cached raw wikitext of revision 2019760 (tao-hsg-2019760.json, section 俗薄, in the chapters 1 to 37 page as the plan requires): the comment on 大道廢，有仁義 is 大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道, verbatim as the evidence. The reading (the Great Tao's age one of filial sons and good faith, benevolence and righteousness unseen until evil and rebellion arose) is carried clause by clause; dropping 'loyalty' from 忠信 and the abandonment clause (which the key verse itself states) narrows but does not add. The commentary's closing 大道之世，仁義沒，孝慈滅 agrees that the names were unseen, so 'filial sons' in that age is not in tension with its own reading. Base line matches. Plain sense ('opening a chapter where virtues appear as order fails, the verse gives the first') is true of the key's place and the chapter's pattern (six kinships, states in disorder); 'virtues' loosely covers wisdom and shrewdness, but the clause claims only that virtues appear, not that nothing else does; did not land. Roster name exact, no comparison, not a hard passage. verse.js ok (Tao Te Ching 18, at [17]); entry-check ok, no errors or warns.",
+ "better": ""
+}

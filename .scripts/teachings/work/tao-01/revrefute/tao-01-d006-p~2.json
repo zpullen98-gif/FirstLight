@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d006-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 6 (Heshang Gong, revision 2019760, title 成象): on 谷神不死, 谷，養也。人能養神則不死也。神，謂五臟之神也; on 是謂玄牝, 玄，天也，於人為鼻。牝，地也，於人為口. The reading (the valley as nourishing the spirits of the five viscera; the female mystery as heaven and earth, in a person the nose and mouth) says this and no more, keeping the pairing heaven with nose, earth with mouth. Base lines match the key verse's two lines. Plain sense (the chapter opens here, then names a gate and a root) matches day.js. No story of the legendary author. The revision only adds '(a normalised text)' to src. verse.js ok (Tao Te Ching 6, at [5]); entry-check ok, no warns, 44 words; src 136 characters.",
+ "better": ""
+}

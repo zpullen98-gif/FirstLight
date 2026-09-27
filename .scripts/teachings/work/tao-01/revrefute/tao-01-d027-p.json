@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d027-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 27 and the raw wikisource revision 2354026 (line 332): Wang Bi on 是以聖人常善救人，故無棄人 (the line in Legge's key) has 聖人不立形名以檢於物，不造進向以殊棄不肖，輔萬物之自然而不為始. The three clauses of the reading (no forms and names to check things, no path of advancement to cast off the unworthy, aiding all things to be so of themselves) are his, in order, with no drift. His comment sits on the saving-men half; the saving-things half is bundled in his text with 是謂襲明 and the teacher line and gets no separate gloss, but his own 萬物 and 物 in the comment cover things, so 'reads it' is not overreaching. verse.js ok (Tao Te Ching 27, at [26], a whole sentence inside unit 0 with no dash); plain sense is context only (after the five skilful figures the chapter turns to the sage); entry-check ok, no warns. No school, no comparison, not a hard passage.",
+ "better": ""
+}

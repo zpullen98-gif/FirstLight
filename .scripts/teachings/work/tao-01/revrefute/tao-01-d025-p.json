@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d025-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 25 and the raw wikisource revision 2354026 (line 312, under 人法地，地法天，天法道，道法自然, the same line as Legge's): Wang Bi has 人不違地…地不違天…天不違道…道不違自然 and 於自然無所違也, which carry 'each not going against the next' and 'the Tao going against nothing so of itself' with no drift; only the square and round illustration and the 全安/全載/全覆 results are dropped. verse.js ok (Tao Te Ching 25, at [24], whole unit 3); plain sense is context from units 1 to 3 (the formless thing before Heaven and Earth), repeats no key words and does not lean on Legge's parentheses; entry-check ok, no warns. No school needed, no comparison, not a hard passage. Weakest point: 'links four in a chain' counts Man, Earth, Heaven and the Tao and leaves the Tao's own law as the chain's end, which is a fair description, not a misstatement.",
+ "better": ""
+}

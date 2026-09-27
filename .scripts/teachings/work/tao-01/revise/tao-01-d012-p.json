@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Therefore the sage seeks to satisfy (the craving of) the belly, and not the (insatiable longing of the) eyes. He puts from him the latter, and prefers to seek the former.",
+ "ref": "Tao Te Ching 12",
+ "at": [11],
+ "s": "After the chapter warns how colours, notes, flavours, the hunt and rare objects harm people, the verse draws its lesson; Wang Bi, on chapter 12, reads serving the belly as using things to nourish oneself, and serving the eyes as letting things enslave one.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 12, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 12, comment on 是以聖人為腹不為目，故去彼取此",
+    "via": "packet"
+   }
+  ],
+  "words": "為腹者以物養己，為目者以物役己，故聖人不為目也。",
+  "lang": "Classical Chinese",
+  "gloss": "Serving the belly, one uses things to nourish oneself; serving the eyes, one lets things enslave oneself. So the sage does not serve the eyes.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The amended rules hold against the old entry (57 words; its plain sense restated the key verse). Rewritten to 44 words: the plain sense now gives only context (the verse follows the chapter’s rhymed warning that the five colours, notes and flavours, the chase and rare objects take sight, hearing and taste, madden the mind and turn conduct to evil) and repeats no run of the key verse or Legge’s supplied cravings. The reading keeps Wang Bi’s comment on exactly this line, 為腹者以物養己，為目者以物役己, rendered clause for clause; its conclusion 故聖人不為目 is left implicit for length. Key, ref, at and src unchanged; verse.js ok (at [11]); entry-check ok."
+}

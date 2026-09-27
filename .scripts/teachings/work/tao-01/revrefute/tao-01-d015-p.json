@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d015-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 15 and the cached raw revision 2019760: under 顯德 (chapter 15) the comments are 渙兮若冰之將釋: 渙者，解散。釋者，消亡。除情去欲，日以空虛; 敦兮其若朴: 敦者，質厚。朴者，形未分。內守精神，外無文采也; 渾兮其若濁: 渾者，守本真，濁者，不照然。與眾合同，不自專也, all verbatim (the 除情去欲 at chapter 14 is a different comment; the evidence is from chapter 15's). Base lines match Legge's melting ice, unfashioned wood and muddy water in the key verse. Each clause of the reading is in his words: ice as shedding feeling and desire (除情去欲), wood as spirit kept within without ornament (內守精神，外無文采), muddy water as merging with the crowd (與眾合同); nothing added. Seven likenesses is a correct count of the key verse; the masters are named in the preceding unit, so 'Describing the skilful masters of old' is context, not a restatement; no parenthesis leaned on. No school, comparison or tone issue. verse.js ok (Tao Te Ching 15, at [14], 57 words); entry-check ok, no errors or warns. Weakest point: the muddy-water comment first glosses 渾 as keeping the original truth, which the reading omits; omission, not drift.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d003-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 3 (Heshang Gong, revision 2019760, title 安民): 說聖人治國與治身同也 on 是以聖人之治, 除嗜欲，去亂煩 on 虛其心, 愛精重施，髓滿骨堅 on 強其骨, each at the clause the key verse translates. The reading (state and self governed alike, the mind cleared of cravings, the bones firmed by husbanding the vital essence) is carried clause by clause; skipping 實其腹 and 弱其志 omits without adding, and it does not say whose mind. Plain sense (the preceding unit's counsel on rivalry and theft, then the turn to the sage's rule) is context only. The revision only adds '(a normalised text)' to src, as packet.js describes the edition. verse.js ok (Tao Te Ching 3, at [2]); entry-check ok, no warns, 45 words (at the cap); src 136 characters.",
+ "better": ""
+}

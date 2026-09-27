@@ -24,6 +24,8 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - A phrase can occur twice in a chapter with different comments (chapter 8: 不爭 in 水善利萬物而不爭 and again in 夫唯不爭, glossed differently by the Heshang Gong commentary). A reading of the phrase uses the comment on the line it names. (Found in the dry run.)
 - A parenthesis of Legge's can slip into the plain sense unquoted, as a verb: on day 2 "(the idea of) what ugliness is" became "knows ugliness", the translator's reading stated as the chapter's. Read the plain sense against the key verse with every parenthesis struck out. (Found in tao-01.)
 - A comment that points back (此上之所云也, this is what was said above) is not a reading in itself. Name what the earlier lines say, from the commentator's own comments on them. (Found in tao-01.)
+- 任 in Wang Bi's 任自然 is to leave things to themselves, not to follow: a reading in which heaven and earth, or the sage, follow what is so of itself turns his non-interference into imitation of nature, which is nearer the Heshang Gong commentary's idiom. Render 任 as leaving to, or letting be. (Found in the tao-01 restyle.)
+- A plain sense written as a participle with no main clause ("Closing a chapter on water,") attaches itself to whatever follows the semicolon, the commentator. Give the context clause its own subject and verb, or make the verse its subject. (Found in the tao-01 restyle.)
 
 ## pali
 

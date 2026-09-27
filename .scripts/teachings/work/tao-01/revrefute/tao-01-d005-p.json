@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d005-p",
+ "refuted": true,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": ["drift"],
+ "reason": "The words are there: packet.js tao 5 and the raw revision 2354026 (2024-01-10) give Wang Bi on 天地不仁，以萬物為芻狗 as 天地任自然，無為無造，萬物自相治理，故不仁也 … 地不為獸生芻，而獸食芻, and the base line is the key verse's line. But the sentence renders 任自然 as heaven and earth 'following what is so of itself', which makes heaven and earth the ones who follow their own spontaneity; 任 is to leave to, give free rein to, and Wang Bi's point is that heaven and earth leave the things to what they are of themselves (the proposer's own gloss says 'leave things to'), which the next clause (萬物自相治理) then spells out. The verb in the sentence shifts his reading from non-interference toward heaven and earth imitating naturalness (closer to the Heshang Gong commentary's 法天地行自然 idiom). Small, but the paraphrase goes beyond the gloss it cites. Everything else holds: verse.js ok (at [4]), entry-check ok with no warns, plain sense is context only and leans on no parenthesis, locator right, no school, no comparison.",
+ "better": "The chapter opens here, then says the same of the sages; Wang Bi, on chapter 5, reads it as heaven and earth making nothing and leaving all things to order themselves: earth grows no grass for beasts, yet beasts eat grass. (Grounded in 任自然，無為無造，萬物自相治理 and 地不為獸生芻，而獸食芻.)"
+}

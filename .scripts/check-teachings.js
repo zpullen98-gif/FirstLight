@@ -255,6 +255,9 @@ function checkCandidate(file) {
   /* the label is the plan's, filled in here as land-batch.js fills it */
   cand.days.forEach(e => { if (!e.label && Number.isInteger(e.d) && e.d >= 1 && e.d <= corpus.rt().planDays(cand.plan)) e.label = corpus.rt().planDayLabel(cand.plan, e.d); });
   const set = readSet(cand.plan) || { plan: cand.plan, div: corpus.rt().planDef(cand.plan).div, days: [] };
+  /* a batch being revised and re-landed (land-batch.js --replace) is checked
+     against the set without its own earlier landing */
+  if (cand.batch) set.days = set.days.filter(e => e.batch !== cand.batch);
   const landed = new Set(set.days.map(e => e.d));
   const clash = cand.days.filter(e => landed.has(e.d)).map(e => e.d);
   const joined = { plan: set.plan, div: set.div, days: set.days.concat(cand.days).sort((a, b) => a.d - b.d) };

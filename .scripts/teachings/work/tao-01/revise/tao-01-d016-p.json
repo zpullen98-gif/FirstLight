@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "All things alike go through their processes of activity, and (then) we see them return (to their original state).",
+ "ref": "Tao Te Ching 16",
+ "at": [15],
+ "s": "After a call for vacancy and stillness, the chapter turns to things in motion; Wang Bi, on chapter 16, takes the return as seen through emptiness and stillness, to which all things go back at last, since being arises from emptiness and movement from stillness.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 16, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 16, comment on 萬物並作，吾以觀復",
+    "via": "packet"
+   }
+  ],
+  "words": "以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜，是物之極篤也。",
+  "lang": "Classical Chinese",
+  "gloss": "Their return is observed through emptiness and stillness. All being arises from emptiness and movement from stillness; so though all things move and act together, they at last return to emptiness and stillness: this is the utmost and the genuine in things.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 55 words and its plain sense restated the key verse. Rewritten to rules 1 and 2: the plain sense now gives context only (the verse follows the chapter's opening call for vacancy and stillness and turns to things in motion) and repeats no four-word run of the key; the reading is Wang Bi's, unchanged in substance and shortened, every clause carried by his comment on 萬物並作，吾以觀復 (以虛靜觀其反復; 卒復歸於虛靜; 凡有起於虛，動起於靜), re-read in packet.js tao 16. Key, ref, at, commentator, src and evidence unchanged. verse.js ok (Tao Te Ching 16, at [15]); entry-check ok, 45 words."
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "(The Tao) produces (all things) and nourishes them; it produces them and does not claim them as its own; it does all, and yet does not boast of it; it presides over all, and yet does not control them. This is what is called ‘The mysterious Quality’ (of the Tao).",
+ "ref": "Tao Te Ching 10",
+ "at": [9],
+ "s": "Ending a chapter on the souls, the breath and ruling the state, the verse sums up; Wang Bi, on chapter 10, reads producing as not blocking the source of things, nourishing as not restraining their nature, and the mystery as virtue with no master.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 10, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 10, comment on 生而不有，為而不恃，長而不宰，是謂玄德 (with the comments on 生之 and 畜之)",
+    "via": "packet"
+   }
+  ],
+  "words": "不塞其原，則物自生，何功之有。不禁其性，則物自濟，何為之恃。物自長足，不吾宰成，有德無主，非玄而何。",
+  "lang": "Classical Chinese",
+  "gloss": "If their source is not blocked, things are born of themselves: what merit is there? If their nature is not restrained, things complete themselves: what doing is there to rely on? Things grow and suffice of themselves, not ruled and completed by me: there is virtue and no master. What is that if not mysterious?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The amended rules hold against the old entry (54 words; its plain sense restated the key verse). Rewritten to 44 words: the plain sense now gives only context (the verse closes a chapter whose earlier sections speak of the intelligent and animal souls, the breath, and loving the people and ruling the state), repeats no run of the key verse and does not lean on Legge’s supplied ‘(The Tao)’. The reading keeps Wang Bi and his own glosses, shortened: 生之 as 不塞其原, 畜之 as 不禁其性, and 有德無主，非玄而何 for the mystery; the clause on things growing of themselves was dropped for length, adding nothing. Key, ref, at and src unchanged; verse.js ok (at [9]); entry-check ok."
+}

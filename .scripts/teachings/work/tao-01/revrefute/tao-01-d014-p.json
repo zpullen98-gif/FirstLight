@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d014-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 14 and the cached raw revision 2354026: under 十四章, the comment on 能知古始，是謂道紀 reads 無形無名者，萬物之宗也。雖今古不同，時移俗易，故莫不由乎此以成其治者也。故可執古之道，以御今之有。上古雖遠，其道存焉，故雖在今，可以知古始也, verbatim as the evidence has it (the elided sentence restates the base line). His base text 執古之道，以御今之有。能知古始，是謂道紀 matches the key verse. The reading carries his clauses without addition: formless, nameless ancestor of all things (無形無名者，萬物之宗), every age achieving order however customs change (雖今古不同，時移俗易，莫不由乎此以成其治), the ancient beginning knowable now (雖在今，可以知古始). Identifying 'that Tao' with the formless and nameless follows his own 故可執古之道 immediately after. Plain sense is context only (closing a chapter on the invisible, joining past and present), leans on no parenthesis, repeats no four words. No school, comparison or tone issue. verse.js ok (Tao Te Ching 14, at [13]); entry-check ok, no errors or warns. Weakest point: 'so' compresses his stated reason (其道存焉, its Tao remains) into a consequence; a compression, not a misstatement.",
+ "better": ""
+}

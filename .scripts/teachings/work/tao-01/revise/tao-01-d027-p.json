@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d027-p",
+ "d": 27,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "In the same way the sage is always skilful at saving men, and so he does not cast away any man; he is always skilful at saving things, and so he does not cast away anything.",
+ "ref": "Tao Te Ching 27",
+ "at": [26],
+ "s": "After five skilful figures, the chapter turns to the sage; Wang Bi, on chapter 27, reads it as setting no forms and names to check things and no path of advancement to cast off the unworthy, but aiding all things to be so of themselves.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 27, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 27, comment on 是以聖人常善救人，故無棄人",
+    "via": "packet"
+   }
+  ],
+  "words": "聖人不立形名以檢於物，不造進向以殊棄不肖，輔萬物之自然而不為始，故曰無棄人也。",
+  "lang": "Classical Chinese",
+  "gloss": "The sage does not set up forms and names by which to check things, and does not create paths of advancement by which to set apart and cast off the unworthy; he aids all things in being so of themselves and does not make himself their beginning. Therefore the text says he casts away no man.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old plain sense restated the key verse. It is now context only: the verse follows the chapter's five skilful figures (traveller, speaker, reckoner, closer, binder) and turns to the sage. The reading keeps Wang Bi's three clauses (不立形名以檢於物, 不造進向以殊棄不肖, 輔萬物之自然), lightly shortened, nothing added; evidence unchanged and re-found verbatim in packet.js tao 27 (rev 2354026). Key, ref, at, by and src unchanged. verse.js ok (Tao Te Ching 27, at [26]); entry-check ok, no warns, 45 words."
+}

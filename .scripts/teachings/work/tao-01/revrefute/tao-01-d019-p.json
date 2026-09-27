@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d019-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 19 and the raw wikisource revision 2019760: the Heshang Gong commentary on 絕聖 has 絕聖制作，反初守元 and on 棄智 has 棄智慧，反無為, both found verbatim, on the lines that match Legge's first sentence. 'Giving up the sages' making to return to the beginning' carries 絕聖制作，反初 (守元 dropped, a narrowing); 'return to non-action' is 反無為. verse.js ok (Tao Te Ching 19, at [18]); entry-check ok, no errors or warns. Plain sense is context only: the chapter has three paired renunciations and Legge's closing rhymed lines speak of simple views and courses plain; no four-word run of the key. No school needed, no comparison, not a hard passage. Weakest point: 'the sages' making' is a thin English for 制作 (devising institutions and writing), and 'which close on' is loosely phrased, but neither misstates.",
+ "better": ""
+}

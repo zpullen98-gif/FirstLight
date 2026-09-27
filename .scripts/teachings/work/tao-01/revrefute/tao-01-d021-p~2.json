@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d021-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 21 and the raw wikisource revision 2354026: Wang Bi on 吾何以知眾甫之狀哉？以此 has 此上之所云也。言吾何以知萬物之始於無哉，以此知之也, and on the lines just above 至真之極，不可得名，無名則是其名也。自古及今，無不由此而成 and 眾甫，物之始也。以無名說萬物始也, all found verbatim. The question-as-non-being clause is his gloss nearly word for word; 'this' as the account above of the nameless, through which all is completed, names what 上之所云 points back to from his own comments on the preceding lines (以無名說萬物始, 無不由此而成), as the plan trap requires. Same line in his base text (眾甫之狀; Legge's 'beauties' renders 甫 differently, but the sentence attributes only Wang Bi's reading). verse.js ok (Tao Te Ching 21, at [20]); entry-check ok. Plain sense is context only, no parenthesis leaned on; one word of the key quoted. No school, no comparison, not a hard passage. Weakest point: the passive 'how all things are known' drops the first person of 'How know I', a minor loss, not a misstatement.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d004-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 4 (Heshang Gong, revision 2019760, title 無源): 人欲銳精進取功名，當挫止之 on 挫其銳, 紛，結恨也。當念道無為以解釋 on 解其紛, 當與眾庶同垢塵，不當自別殊 on 同其塵; the base lines match Legge's key verse. The three clauses of the reading are carried by those words; 'the common dust' compresses 眾庶同垢塵 without adding; 和其光 is skipped, an omission. Plain sense (between the vessel's emptiness in unit 1 and 'pure and still' after the key) matches day.js and leans on no parenthesis. The revision only adds '(a normalised text)' to src. verse.js ok (Tao Te Ching 4, at [3]); entry-check ok, no warns, 43 words; src 136 characters.",
+ "better": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "We should blunt our sharp points, and unravel the complications of things; we should attemper our brightness, and bring ourselves into agreement with the obscurity of others.",
+ "ref": "Tao Te Ching 4",
+ "at": [
+  3
+ ],
+ "s": "Between images of the Tao’s emptiness and stillness, the chapter turns to conduct; the Heshang Gong commentary, on chapter 4, takes it as checking the keen pursuit of merit and fame, untying knotted resentment, and sharing the common dust rather than standing apart.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 4, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 4 (title 無源), comments on 挫其銳, 解其紛, 同其塵",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "人欲銳精進取功名，當挫止之 … 紛，結恨也。當念道無為以解釋。 … 當與眾庶同垢塵，不當自別殊。",
+  "lang": "Classical Chinese",
+  "gloss": "(On blunting sharp points:) when a person wants to press keenly forward to seize merit and fame, he should check it and stop. … (On unravelling complications:) complications are knotted resentments; one should think on the non-action of the Tao to untie them. … (On agreeing with the dust:) one should share the grime and dust of the common people and not set oneself apart.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: packet.js tao 4 names the Heshang Gong edition as revision 2019760, “a normalised text; the Sibu congkan Song edition differs in places”, and the src of days 7 to 26 says so while this one did not, so rule 9 was met unevenly. Only the src changes: “(a normalised text)” is inserted after “zh.wikisource”, 136 characters. Key, ref, at, sentence, commentator and evidence are unchanged; the evidence words were re-found in packet.js tao 4 under the key verse’s lines. verse.js ok (Tao Te Ching 4); entry-check ok, no warns."
+}

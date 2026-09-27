@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d005-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 5: Wang Bi's base line 天地不仁，以萬物為芻狗 is the key verse's line, and his comment on it has 天地任自然，無為無造，萬物自相治理，故不仁也 and 地不為獸生芻，而獸食芻. The sentence now makes heaven and earth leave all things to order themselves (任自然 … 萬物自相治理), making nothing (無為無造), with the grass and beasts example verbatim in sense; the earlier drift on 任 is gone and nothing is added. Plain sense is context only (the unit's next sentence says the same of the sages), leans on no parenthesis, repeats no four words of the key. verse.js ok (Tao Te Ching 5, at [4]); entry-check ok, no errors or warns, 41 words; src 97 characters. Weakest point: 'making nothing' compresses 無為無造 (neither act nor make), an omission of 'act', not a misstatement.",
+ "better": ""
+}

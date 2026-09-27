@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d023-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 23 and the raw revision 2354026 myself. Under ==二十三章== the comment directly under 希言自然 is verbatim the evidence (聽之不聞名曰希，下章言，道之出言淡兮其無味也 … 乃是自然之至言也), and 希言自然 is the line Legge renders as the key verse. The sentence carries it without drift: 希 taken as faint, what is listened for and not heard; identified with the later chapter's flavourless words the Tao puts forth; and concluded to be the utmost speech of 自然 ('what is so of itself'). Wang Bi's faint speech differs from Legge's 'abstaining from speech', but the difference is attributed to him with takes/reads and not resolved (rule 5). Plain sense is context only and accurate to the day's text (storms that do not last, then making the Tao one's business), leaning on no parenthesis such as '(spasmodic)'. verse.js ok (Tao Te Ching 23, at [22]); entry-check ok, no errors, no warns. No school, comparison or tone issue. Weakest point: 'the speech' after a verse that says abstaining from speech reads slightly abruptly, a matter of style, not a misstatement.",
+ "better": ""
+}

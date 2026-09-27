@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "In the next age they loved them and praised them. In the next they feared them; in the next they despised them.",
+ "ref": "Tao Te Ching 17",
+ "at": [16],
+ "s": "Tracing rule from the highest antiquity, the chapter names three later ages; Wang Bi, on chapter 17, takes them as lesser rulers: one who, unable to govern by non-action, bestows favours, one who relies on power, and one who rules by cleverness and is evaded.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 17, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 17, comments on 其次，親而譽之 / 其次，畏之 / 其次，侮之",
+    "via": "packet"
+   }
+  ],
+  "words": "不能以無為居事，不言為教，立善行施，使下得親而譽之也。…不復能以恩仁令物，而賴威權也。…不能法以正齊民，而以智治國，下知避之，其令不從",
+  "lang": "Classical Chinese",
+  "gloss": "Unable to abide in affairs by non-action and to teach without words, he sets up goodness and dispenses favours, so that those below come to love and praise him. … No longer able to command things by kindness and benevolence, he relies on majesty and power. … Unable to order the people by correct law, he governs the state by cleverness; those below learn to evade him and his orders are not followed.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 57 words and its plain sense restated the key verse. Rewritten to rules 1 and 2: the plain sense now gives context only (the chapter traces rule down from the highest antiquity and the verse names the three later ages) and repeats no four-word run of the key; the reading is Wang Bi's, shortened, each ruler carried by his comment on the matching line, re-read in packet.js tao 17 (不能以無為居事…立善行施; 賴威權; 以智治國，下知避之). 'Is evaded' compresses 下知避之; the clause on orders not followed is dropped for length, not changed. Key, ref, at, commentator, src and evidence unchanged. verse.js ok (Tao Te Ching 17, at [16]); entry-check ok, 45 words."
+}

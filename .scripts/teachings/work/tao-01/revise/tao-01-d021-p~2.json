@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "How know I that it is so with all the beauties of existing things? By this (nature of the Tao).",
+ "ref": "Tao Te Ching 21",
+ "at": [
+  20
+ ],
+ "s": "Closing a chapter on the elusive Tao, the text asks and answers; Wang Bi, on chapter 21, reads the question as how all things are known to begin in non-being, and ‘this’ as the account above of the nameless, through which all is completed.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 21, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 21, comments on 自今及古，其名不去, 以閱眾甫 and 吾何以知眾甫之狀哉？以此",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "至真之極，不可得名，無名則是其名也。自古及今，無不由此而成 … 眾甫，物之始也。以無名說萬物始也。 … 此上之所云也。言吾何以知萬物之始於無哉，以此知之也。",
+  "lang": "Classical Chinese",
+  "gloss": "The utmost of the truly real cannot be named; being nameless is its name. From of old until now nothing has not come to completion through this … ‘The many fathers’ are the beginning of things: the text explains the beginning of all things by the nameless. … ‘This’ is what has been said above. It means: how do I know that all things begin in non-being? I know it by this.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the kept sentence ran to 60 words and its plain sense restated the key verse. The plain sense is now context only (the verse closes Legge’s rhymed chapter on the Tao that eludes sight and touch, as a question and its answer), with no run of the verse’s words. The reading keeps Wang Bi and the earlier round’s content for ‘this’ (the account above of the nameless, 以無名說萬物始也, and 無不由此而成, nothing completed except through it), re-found verbatim in packet.js tao 21, with the question glossed from 言吾何以知萬物之始於無哉. Key, ref, at and src unchanged. verse.js ok (Tao Te Ching 21, at [20]); entry-check ok."
+}

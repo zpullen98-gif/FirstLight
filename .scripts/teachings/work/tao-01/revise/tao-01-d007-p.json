@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Therefore the sage puts his own person last, and yet it is found in the foremost place; he treats his person as if it were foreign to him, and yet that person is preserved.",
+ "ref": "Tao Te Ching 7",
+ "at": [6],
+ "s": "After heaven and earth, enduring by not living for themselves, the chapter turns to the sage; the Heshang Gong commentary, on chapter 7, reads this as putting others first, taking little for himself and giving much, so the people love him as father and mother.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 7, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 7, comments on 是以聖人後其身, 外其身, 而身存 and 非以其無私邪"
+   }
+  ],
+  "words": "先人而後己也。…薄己而厚人也。…百姓愛之如父母，神明祐之若赤子，故身常存。…聖人為人所愛，神明所祐，非以其公正無私所致乎。",
+  "lang": "Classical Chinese",
+  "gloss": "(On putting his person last:) he puts others first and himself after. (On treating his person as foreign:) he is thin to himself and generous to others. (On its being preserved:) the people love him as father and mother, the spirits protect him as an infant, so his person always endures. (On having no private ends:) that the sage is loved by people and protected by the spirits, is it not brought about by his fair and selfless impartiality?",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 59 words and its plain sense restated the key verse clause by clause. The plain sense is now context only (the chapter moves from heaven and earth, which endure because they do not live for themselves, to the sage), with no run of the key verse's words. The reading keeps the Heshang Gong commentary and its reading, shortened: others first (先人而後己), little for himself and much for others (薄己而厚人), the people love him as father and mother (百姓愛之如父母), the causal link carried by the comment on 非以其無私邪. The clause on the world honouring him is dropped for length, nothing added. Key, ref, at, src unchanged; verse.js ok (Tao Te Ching 7, at [6]); entry-check ok."
+}

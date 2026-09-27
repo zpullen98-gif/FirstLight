@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d013-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 13 and the cached raw revision 2019760: under 厭恥 (chapter 13) the comment on 故貴以身為天下者，則可寄天下 is 言人君貴其身而賤人，欲為天下主者，則可寄立，不可以久也, and on 愛以身為天下，若可託天下 is 言人君能愛其身，非為己也，乃欲為萬民之父母…長無咎也, both verbatim. Base lines match Legge's key verse (unit at [12]). Every clause of the reading is in his words: prizing himself and scorning others (貴其身而賤人), ruling only briefly (可寄立，不可以久也), loving himself for the people's sake (非為己也，乃欲為萬民之父母), long without blame (長無咎也); nothing added. The reading sets the first ruler against the second, which Legge's own note confirms is the Heshang Gong distinction, and it is attributed, not stated as the text's sense. Plain sense gives context only (a chapter on favour and disgrace closing on government), no four words of the verse, no parenthesis leaned on. No school needed, no comparison, not a hard passage. verse.js ok (Tao Te Ching 13, at [12]); entry-check ok, no errors or warns. Weakest point: the plain sense names only favour and disgrace, not the chapter's second theme of honour, calamity and the body, a partial but not false description.",
+ "better": ""
+}

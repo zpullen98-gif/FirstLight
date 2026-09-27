@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d022-p",
+ "d": 22,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The partial becomes complete; the crooked, straight; the empty, full; the worn out, new.",
+ "ref": "Tao Te Ching 22",
+ "at": [21],
+ "s": "Reversals open a chapter on the sage free from self-display; Wang Bi, on chapter 22, reads them as not displaying oneself, not holding oneself right, not boasting and not vaunting oneself, which leave one whole, one’s rightness plain, one’s merit kept and one’s virtue lasting.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 22, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 22, comments on 曲則全, 枉則直, 窪則盈 and 敝則新",
+    "via": "packet"
+   }
+  ],
+  "words": "不自見其明則全也。 … 不自是則其是彰也。 … 不自伐則其功有也。 … 不自矜則其德長也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the partial becoming complete:) not displaying his own brightness, he is whole. (On the crooked becoming straight:) not holding himself right, his rightness is made plain. (On the empty becoming full:) not boasting of himself, his merit remains. (On the worn out becoming new:) not vaunting himself, his virtue grows long.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the entry ran to 60 words and its plain sense restated the key verse. Plain sense rewritten as context only (the verse opens the chapter, whose second paragraph is on the sage free from self-display), repeating no four words of the key verse. Wang Bi and his reading are kept, shortened to his four comments under 曲則全, 枉則直, 窪則盈, 敝則新 (re-read in packet.js tao 22): not self-displaying so whole, not holding oneself right so rightness plain, not boasting so merit kept, not vaunting so virtue long. Key, ref, at, src unchanged. verse.js ok (Tao Te Ching 22, at [21]); entry-check ok, 45 words, no warns."
+}

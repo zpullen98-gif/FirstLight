@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "All in the world know the beauty of the beautiful, and in doing this they have (the idea of) what ugliness is; they all know the skill of the skilful, and in doing this they have (the idea of) what the want of skill is.",
+ "ref": "Tao Te Ching 2",
+ "at": [1],
+ "s": "Opening a chapter that sets opposites side by side, the verse gives the first two pairs; Wang Bi, on chapter 2, reads beauty and ugliness as the heart’s delight and loathing, like joy and anger, which share one root, so neither can be singled out.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 2, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 2, comment on 天下皆知美之為美，斯惡已。皆知善之為善，斯不善已"
+   }
+  ],
+  "words": "美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也；善不善，猶是非也。喜怒同根，是非同門，故不可得偏舉也。",
+  "lang": "Classical Chinese",
+  "gloss": "Beauty is what the human heart delights in and moves toward; ugliness is what the human heart loathes. Beauty and ugliness are like joy and anger; good and not good like right and wrong. Joy and anger share one root, right and wrong one gate, so neither can be raised up on its own.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence was about 52 words and its plain sense restated the verse (all the world knowing beauty and skill, with ugliness and the want of skill). New plain sense is context only: the verse opens a chapter that sets opposites side by side (existence and non-existence, difficulty and ease, length and shortness follow) and gives its first two pairs; no four-word run from the key verse, nothing taken from Legge’s ‘(the idea of)’. Commentator and reading kept, trimmed only by ‘alone’: Wang Bi’s comment on this block carries beauty and ugliness as what the heart delights in and loathes, like joy and anger, which share one root, so they cannot be raised singly (不可得偏舉). Key verse unchanged: verse.js ok (Tao Te Ching 2, at [1]); entry-check ok, no warns, 44 words."
+}

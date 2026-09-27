@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Heaven and earth do not act from (the impulse of) any wish to be benevolent; they deal with all things as the dogs of grass are dealt with.",
+ "ref": "Tao Te Ching 5",
+ "at": [
+  4
+ ],
+ "s": "The chapter opens here, then says the same of the sages; Wang Bi, on chapter 5, reads it as heaven and earth making nothing and leaving all things to order themselves: earth grows no grass for beasts, yet beasts eat grass.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 5, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 5, comment on 天地不仁，以萬物為芻狗",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "天地任自然，無為無造，萬物自相治理 … 地不為獸生芻，而獸食芻",
+  "lang": "Classical Chinese",
+  "gloss": "Heaven and earth leave (things) to what is so of itself; they neither act nor make, and the ten thousand things order one another of themselves. … Earth does not grow grass for the beasts, yet the beasts eat grass.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds. The earlier revision was refuted only on 任自然: its sentence made heaven and earth the ones who follow what is so of itself, where Wang Bi says they leave things to it and the things then order themselves (萬物自相治理). The landed day 5 sentence also fails the current gate (57 words, plain sense repeating the key). Re-opened packet.js tao 5: Wang Bi comments on 天地不仁，以萬物為芻狗, the key verse’s line, with 天地任自然，無為無造，萬物自相治理，故不仁也 and 地不為獸生芻，而獸食芻. The revrefute’s sentence carries exactly that: making nothing (無為無造), leaving all things to order themselves (任自然 … 萬物自相治理), and the grass and beasts example. Plain sense is context only (the chapter opens with the verse, then says the same of the sages, as the unit’s next sentence does), no four-word run of the key, no reliance on Legge’s parenthesis. Key, ref, at [4], by wang-bi and src kept from the revision. verse.js ok (Tao Te Ching 5, at [4]); entry-check ok, no warns, 41 words. Day 5 should go back between days 4 and 6 and out of holes."
+}

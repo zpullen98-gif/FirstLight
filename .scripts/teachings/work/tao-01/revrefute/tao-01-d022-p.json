@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d022-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 22 and the raw revision 2354026 myself (page 道德經 (王弼本), timestamp 2024-01-10, so the src year holds). Under ==二十二章== each evidence segment sits verbatim as the comment directly under its line: 不自見其明則全也 under 曲則全, 不自是則其是彰也 under 枉則直, 不自伐則其功有也 under 窪則盈, 不自矜則其德長也 under 敝則新; that base line is the key verse's line. The paraphrase is carried clause by clause (not self-displaying so whole, not holding oneself right so rightness plain, not boasting so merit had, not vaunting so virtue long) and claims nothing more; 'not displaying oneself' compresses 不自見其明 without changing it. Plain sense is now context only: the verse opens the chapter and the chapter's second unit is on the sage free from self-display (Legge's own words, not a parenthesis); it repeats no four words of the verse and avoids the supplied '(of humility)'. Key is the best line for the reading, since Wang Bi comments on exactly these four clauses. verse.js ok (Tao Te Ching 22, at [21]); entry-check ok, no errors, no warns. No school needed, no comparison, not a hard passage.",
+ "better": ""
+}

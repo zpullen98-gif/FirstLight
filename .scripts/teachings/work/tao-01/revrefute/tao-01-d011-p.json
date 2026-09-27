@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d011-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 11 and the cached raw wikisource revision 2354026 (evidence found verbatim). Wang Bi comments on exactly 三十輻共一轂，當其無，有車之用 with 轂所以能統三十輻者，無也，以其無能受物之故，故能以實統眾也: the nave unites (統) the spokes by its non-being (其無), that non-being can receive things (能受物), and so it unites the many (統眾). The reading carries these in order; omitting 以實 (a crux, some editions 以寡) claims nothing beyond his words and does not contradict them. Plain sense (a chapter of three images, vessel and room to follow) matches the day's text and leans on no parenthesis. verse.js ok (at [10]); entry-check ok, no errors or warns; 42 words, one semicolon, verb 'reads'. No school, comparison or tone issue. His comment on the closing saying (皆賴無以為用) would also serve, but the chosen line has a direct comment and is well chosen.",
+ "better": ""
+}

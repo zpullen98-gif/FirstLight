@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "When the Great Tao (Way or Method) ceased to be observed, benevolence and righteousness came into vogue.",
+ "ref": "Tao Te Ching 18",
+ "at": [17],
+ "s": "Opening a chapter where virtues appear as order fails, the verse gives the first; the Heshang Gong commentary, on chapter 18, reads the Great Tao’s age as one of filial sons and good faith, when benevolence and righteousness went unseen until evil and rebellion arose.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 18, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "locator": "chapter 18 (俗薄), comment on 大道廢，有仁義",
+    "via": "packet"
+   }
+  ],
+  "words": "大道之時，家有孝子，戶有忠信，仁義不見也。大道廢不用，惡逆生，乃有仁義可傳道。",
+  "lang": "Classical Chinese",
+  "gloss": "In the time of the Great Tao, every family had filial sons and every household loyalty and good faith, and benevolence and righteousness were not seen. When the Great Tao was abandoned and not used, evil and rebellion arose, and only then were there benevolence and righteousness to be handed on and spoken of.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 57 words and its plain sense restated the key verse. Rewritten to rules 1 and 2: the plain sense now gives context only (the verse opens a chapter in which each virtue appears as harmony or order fails, and is the first such case) and repeats no four-word run of the key; the reading is the Heshang Gong commentary's, shortened ('in every house' and 'loyalty' dropped for length), every clause carried by its comment on 大道廢，有仁義, re-read in packet.js tao 18 (大道之時，家有孝子，戶有忠信，仁義不見; 大道廢不用，惡逆生，乃有仁義). Key, ref, at, commentator, src and evidence unchanged. verse.js ok (Tao Te Ching 18, at [17]); entry-check ok, 45 words."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Therefore the sage, in the exercise of his government, empties their minds, fills their bellies, weakens their wills, and strengthens their bones.",
+ "ref": "Tao Te Ching 3",
+ "at": [
+  2
+ ],
+ "s": "After counsel to keep the people from rivalry and theft, the verse turns to the sage’s rule; the Heshang Gong commentary, on chapter 3, reads it as governing state and self alike, the mind cleared of cravings, the bones firmed by husbanding the vital essence.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 3, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 3, comments on 是以聖人之治, 虛其心 and 強其骨"
+   }
+  ],
+  "words": "說聖人治國與治身同也。 … 除嗜欲，去亂煩。 … 愛精重施，髓滿骨堅。",
+  "lang": "Classical Chinese",
+  "gloss": "(On the sage’s governing:) this says the sage’s governing of the state is the same as his governing of the self. … (On emptying the mind:) he removes cravings and clears away confusion and vexation. … (On strengthening the bones:) he cherishes the vital essence and is sparing in spending it, so the marrow is full and the bones firm.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: packet.js tao 3 names the Heshang Gong edition as revision 2019760, “a normalised text; the Sibu congkan Song edition differs in places”, and the src of days 7 to 26 says so while this one did not, so rule 9 was met unevenly. Only the src changes: “(a normalised text)” is inserted after “zh.wikisource”, 136 characters. Key, ref, at, sentence, commentator and evidence are unchanged; the evidence words were re-found in packet.js tao 3 under the key verse’s lines. verse.js ok (Tao Te Ching 3); entry-check ok, no warns."
+}

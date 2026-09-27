@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The multitude of men look satisfied and pleased; as if enjoying a full banquet, as if mounted on a tower in spring. I alone seem listless and still, my desires having as yet given no indication of their presence.",
+ "ref": "Tao Te Ching 20",
+ "at": [
+  19
+ ],
+ "s": "After renouncing learning, the chapter sets the crowd against its speaker; the Heshang Gong commentary, on chapter 20, reads the crowd’s pleasure as dissolute desire, a hungry man longing for a feast, never satisfied, and the stillness as calm, with no sign of passion yet.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 20, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 20 (異俗), comments on 眾人熙熙, 如享太牢 and 我獨怕兮其未兆",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "熙熙，放淫多情欲也。 … 如飢思太牢之具，意無足時也。 … 我獨怕然安靜，未有情慾之形兆也。",
+  "lang": "Classical Chinese",
+  "gloss": "‘Merry’ means unrestrained, dissolute and full of passions and desires. … Like a hungry man longing for the dishes of a full banquet: the mind has no time of being satisfied. … I alone am placid, calm and still, with as yet no form or sign of passion and desire.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran past 45 words and its plain sense restated the key verse. The plain sense is now context only (the chapter opens by renouncing learning and then sets the crowd against the speaker, ‘different from other men’), with no run of the verse’s words. The reading keeps the commentator and his three glosses, re-found verbatim in packet.js tao 20: 熙熙，放淫多情欲也; 如飢思太牢之具，意無足時也; 我獨怕然安靜，未有情慾之形兆也. ‘Form or sign’ is shortened to ‘sign’, a narrowing. Key, ref, at and src unchanged. verse.js ok (Tao Te Ching 20, at [19]); entry-check ok."
+}

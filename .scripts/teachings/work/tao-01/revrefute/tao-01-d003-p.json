@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d003-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 3 (the Heshang Gong commentary, revision 2019760, the page packet.js names for chapters 1 to 37). Base text 是以聖人之治，虛其心，實其腹，弱其志，強其骨 is the key verse's line; the comments at their own clauses are 說聖人治國與治身同也 (on 是以聖人之治), 除嗜欲，去亂煩 (on 虛其心) and 愛精重施，髓滿骨堅 (on 強其骨). The reading (governing state and self alike, the mind cleared of cravings, the bones firmed by husbanding the vital essence) is carried clause by clause; dropping the belly and will comments omits but adds nothing, and it does not say whose mind, so it does not overclaim either the people's or the sage's. All three evidence pieces re-found by the recheck's own matching. Plain sense is context only (the preceding unit's counsel on rivalry and theft, then the turn to the sage's rule). Roster name used exactly, no story of Heshang Gong. verse.js ok, ref Tao Te Ching 3, at [2]; entry-check ok, no errors or warns, at the 45-word cap. Weakest point: the src year (2021) could not be checked from the cache (no timestamp stored), but it matches the batch's source record and the gate.",
+ "better": ""
+}

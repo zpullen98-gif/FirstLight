@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The thirty spokes unite in the one nave; but it is on the empty space (for the axle), that the use of the wheel depends.",
+ "ref": "Tao Te Ching 11",
+ "at": [10],
+ "s": "Opening a chapter of three images, with vessel and room to follow, the verse gives the first; Wang Bi, on chapter 11, reads the nave as gathering its spokes through its non-being, which can receive things, and so holding the many together.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 11, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 11, comment on 三十輻共一轂，當其無，有車之用",
+    "via": "packet"
+   }
+  ],
+  "words": "轂所以能統三十輻者，無也，以其無能受物之故，故能以實統眾也。",
+  "lang": "Classical Chinese",
+  "gloss": "What enables the nave to hold the thirty spokes together is non-being: because its non-being can receive things, it can, with its substance, unite the many.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The amended rules hold against the old entry (54 words; its plain sense restated the key verse). Rewritten to 42 words: the plain sense now gives only context (the verse opens a chapter of three images, the wheel, then the clay vessel and the room, ending in a saying on existence and use) and repeats no run of the key verse. The reading keeps Wang Bi’s comment on exactly this line: the nave gathers (統) the thirty spokes by non-being (無), because non-being can receive things (無能受物), and so unites the many (統眾); 以實 is left out, so nothing beyond his words is claimed. Key, ref, at and src unchanged; verse.js ok (at [10]); entry-check ok."
+}

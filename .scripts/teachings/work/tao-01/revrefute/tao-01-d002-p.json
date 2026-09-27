@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d002-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 2 (Wang Bi, revision 2354026). His base text 天下皆知美之為美，斯惡已。皆知善之為善，斯不善已 matches the key verse, and his comment on that block reads 美者，人心之所進樂也；惡者，人心之所惡疾也。美惡，猶喜怒也…喜怒同根，是非同門，故不可得偏舉也: delight and loathing of the heart, like joy and anger, one root, so neither can be raised one-sidedly. The paraphrase carries exactly this and no more ('singled out' is a fair rendering of 偏舉). Evidence re-found by the recheck's own matching. Plain sense is context only (the verse opens the chapter and gives its first two pairs of opposites, which the following unit extends); it no longer takes Legge's '(the idea of)' as a verb, the fault the brief records for this day. verse.js ok, ref Tao Te Ching 2, at [1]; entry-check ok, no errors or warns. No school, no comparison, not a hard passage.",
+ "better": ""
+}

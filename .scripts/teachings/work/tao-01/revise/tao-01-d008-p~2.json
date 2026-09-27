@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.",
+ "ref": "Tao Te Ching 8",
+ "at": [
+  7
+ ],
+ "s": "The verse closes a chapter that likens the highest excellence to water; the Heshang Gong commentary, on chapter 8, takes the not wrangling as water’s way of going along with people, stopping when dammed and flowing when released, so no one under heaven blames it.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 8, comments on 上善若水, 夫唯不爭 and 故無尤"
+   }
+  ],
+  "words": "上善之人，如水之性。…壅之則止，決之則流，聽從人也。…水性如是，故天下無有怨尤水者也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 上善若水:) the person of highest excellence is like the nature of water. (On 夫唯不爭, ‘does not wrangle’:) dam it and it stops, open a channel and it flows: it goes along with people. (On 故無尤, ‘no one finds fault’:) such is the nature of water, and so no one under heaven resents or blames water.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: “Closing a chapter that likens the highest excellence to water;” has no main clause, so the participle dangles onto the commentary. Given a subject and verb (“The verse closes a chapter that likens the highest excellence to water”), which day.js bears out: the key is the chapter’s last unit and its first unit likens the highest excellence to water. The reading is unchanged and re-found in packet.js tao 8: on 夫唯不爭 (the second 不爭, the key verse’s line) 壅之則止，決之則流，聽從人也, on 故無尤 水性如是，故天下無有怨尤水者也, with 上善之人，如水之性 as the warrant for reading it as water’s way. Key, ref, at [7], by and src unchanged. verse.js ok (Tao Te Ching 8, at [7]); entry-check ok, no warns, 45 words."
+}

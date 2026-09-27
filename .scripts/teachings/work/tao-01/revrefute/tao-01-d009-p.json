@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d009-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js and the raw revision 2019760: under 運夷 (ch. 9) the comment on 功成、名遂、身退，天之道 reads 言人所為，功成事立，名蹟稱遂，不退身避位，則遇於害 ... 譬如日中則移，月滿則虧; the Heshang Gong base line has all three clauses of Legge's key verse. The paraphrase (whoever achieves and does not step down meets harm, as the noon sun moves on and the full moon wanes) is carried word for word by that comment. Plain sense lists the chapter's earlier warnings (full vessel, sharpened point, gold and jade, arrogant wealth and honours) and says the chapter ends on success, which is the topic of its last sentence; no four-word run from the key. verse.js ok (at [8]); entry-check ok, 45 words.",
+ "better": ""
+}

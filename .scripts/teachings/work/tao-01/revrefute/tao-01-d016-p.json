@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d016-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 16 and the cached raw wikitext of revision 2354026 (tao-wangbi-2354026.json, section 十六章): Wang Bi's comment on 萬物並作，吾以觀復 reads 以虛靜觀其反復。凡有起於虛，動起於靜，故萬物雖並動作，卒復歸於虛靜, exactly as the evidence gives it. Each clause of the reading is carried: return seen through emptiness and stillness (以虛靜觀其反復), all things going back at last to it (卒復歸於虛靜), being from emptiness and movement from stillness as the ground (凡有起於虛，動起於靜, with 故). His base line is the key verse's line. Plain sense ('after a call for vacancy and stillness, the chapter turns to things in motion') is context from the unparenthesised words of the chapter's opening and the verse, repeats no run of the key, no doctrine. No school needed, no comparison, not a hard passage. verse.js ok (Tao Te Ching 16, at [15]); entry-check ok, no errors or warns. Weakest point: 'seen through emptiness and stillness' leaves open whether the seer or the seeing is empty, which is the ambiguity of 以虛靜觀 itself.",
+ "better": ""
+}

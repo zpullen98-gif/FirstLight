@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "If we could renounce our sageness and discard our wisdom, it would be better for the people a hundredfold.",
+ "ref": "Tao Te Ching 19",
+ "at": [
+  18
+ ],
+ "s": "This opens the chapter’s three renunciations, which close on simple views and plain courses; the Heshang Gong commentary, on chapter 19, reads renouncing sageness as giving up the sages’ making to return to the beginning, and discarding wisdom as return to non-action.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 19, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 19 (還淳), comments on 絕聖 and 棄智",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "絕聖制作，反初守元。 … 棄智慧，反無為。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 絕聖, renouncing sageness:) cut off the making and devising of the sages, return to the beginning and keep to the origin. … (On 棄智, discarding wisdom:) discard wisdom and cleverness, return to non-action.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 57 words and its plain sense restated the key verse. The plain sense is now context only (the verse opens the chapter’s three renunciations, and the chapter closes, in Legge’s rhymed lines, on simple views and plain courses), with no run of the verse’s words. The reading keeps the commentator and both his glosses, on 絕聖 (絕聖制作，反初守元) and on 棄智 (棄智慧，反無為), re-found in packet.js tao 19; the knotted-cords illustration is dropped for length, which narrows and adds nothing. Key, ref, at and src unchanged. verse.js ok (Tao Te Ching 19, at [18]); entry-check ok."
+}

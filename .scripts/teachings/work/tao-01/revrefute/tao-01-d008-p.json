@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d008-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js and the raw revision 2019760: under 易性 (ch. 8) the comment on 夫唯不爭 is 壅之則止，決之則流，聽從人也 and on 故無尤 is 水性如是，故天下無有怨尤水者也; the entry uses the comment on the second 不爭 (the line the key verse translates), not the one on 水善利萬物而不爭, so the chapter-8 double-phrase trap is avoided. The paraphrase (going along with people, stopping when dammed, flowing when released, no one under heaven blames it) matches those words without drift, and 上善之人，如水之性 warrants treating the not wrangling as water's way. Plain sense does not lean on Legge's parentheses and repeats no four words of the key. verse.js ok (at [7]); entry-check ok, 43 words.",
+ "better": ""
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d026-p",
+ "d": 26,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Gravity is the root of lightness; stillness, the ruler of movement.",
+ "ref": "Tao Te Ching 26",
+ "at": [25],
+ "s": "The chapter opens here, then turns to a prince and his baggage waggons; the Heshang Gong commentary, on chapter 26, reads it for the ruler, not honoured without gravity and losing authority without stillness, and for the self, the spirit lost and the body endangered.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 26, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "locator": "chapter 26 (重德), comments on 重為輕根 and 靜為躁君",
+    "via": "packet"
+   }
+  ],
+  "words": "人君不重則不尊，治身不重則失神 … 人君不靜則失威，治身不靜則身危",
+  "lang": "Classical Chinese",
+  "gloss": "A ruler who is not grave is not honoured; one who governs the self without gravity loses the spirit. … A ruler who is not still loses his majesty; one who governs the self without stillness puts the body in danger.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 58 words and its plain sense restated the key verse. The plain sense is now context only: the verse is the chapter's opening unit, after which the chapter turns to the prince who does not go far from his baggage waggons (unit 2). The reading keeps the Heshang Gong commentary's two applications of each half, for the ruler (不尊, 失威) and for governing the self (失神, 身危), shortened and nothing added; evidence unchanged and re-found verbatim in packet.js tao 26 (rev 2019760). Key, ref, at, by and src unchanged. verse.js ok (Tao Te Ching 26, at [25]); entry-check ok, no warns, 45 words."
+}

@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "(Conceived of as) having no name, it is the Originator of heaven and earth; (conceived of as) having a name, it is the Mother of all things.",
+ "ref": "Tao Te Ching 1",
+ "at": [0],
+ "s": "Following the chapter’s opening on the enduring Tao and name, the verse sets out two aspects; Wang Bi, on chapter 1, reads both as the Tao, which begins things while they lack form and name and rears them as their mother once formed and named.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 1, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 1, comments on 無名，天地之始，有名，萬物之母 and on 此兩者，同出而異名"
+   }
+  ],
+  "words": "凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物。 … 兩者，始與母也。",
+  "lang": "Classical Chinese",
+  "gloss": "All that is begins in non-being; so while things are still without form and without name, it is the beginning of the ten thousand things, and once they have form and name it grows them, rears them, settles and matures them, and is their mother. The Tao, without form and without name, begins and completes the ten thousand things. … The two are the beginning and the mother.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 55 words and its plain sense restated the verse (the Originator of heaven and earth, the Mother of all things). New plain sense is context only: the verse follows the chapter’s opening on the enduring Tao and name and sets out two aspects (the chapter’s own term, ‘Under these two aspects’), with no four-word run from the key verse and no lean on Legge’s ‘(conceived of as)’. Commentator and reading kept, shortened: Wang Bi’s comment on the key verse’s own line says the Tao, without form or name, is the beginning of things while they are formless and nameless and rears them as their mother once they have form and name; 兩者，始與母也 carries ‘both’. Key verse unchanged: verse.js ok (Tao Te Ching 1, at [0]); entry-check ok, no warns, 44 words."
+}

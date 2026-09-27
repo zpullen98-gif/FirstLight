@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d009-p",
+ "d": 9,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "When the work is done, and one’s name is becoming distinguished, to withdraw into obscurity is the way of Heaven.",
+ "ref": "Tao Te Ching 9",
+ "at": [8],
+ "s": "After warnings against fullness, sharpness, treasure and arrogance, the chapter ends on success; the Heshang Gong commentary, on chapter 9, reads it as warning that whoever achieves and does not step down meets harm, as the noon sun moves on and the full moon wanes.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 9, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 9, comment on 功成、名遂、身退，天之道"
+   }
+  ],
+  "words": "言人所為，功成事立，名蹟稱遂，不退身避位，則遇於害，此乃天之常道也。譬如日中則移，月滿則虧",
+  "lang": "Classical Chinese",
+  "gloss": "It says that when what a person does has succeeded, the work accomplished and the name made, if he does not withdraw and leave his post he meets harm: this is Heaven’s constant way. It is like the sun moving on at noon and the moon waning when full.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 59 words and its plain sense restated the key verse. The plain sense is now context only (the chapter's earlier warnings on the full vessel, the sharpened point, gold and jade, and arrogant wealth and honours, before it ends on accomplished work), with no run of the key verse's words. The reading keeps the Heshang Gong commentary's comment on 功成、名遂、身退，天之道 (whose base line carries all three clauses of the key verse): one who has achieved and does not step down meets harm, with the sun at noon and the full moon; the phrase on Heaven's constant way is dropped for length, nothing added. Key, ref, at, src unchanged; verse.js ok (Tao Te Ching 9, at [8]); entry-check ok."
+}

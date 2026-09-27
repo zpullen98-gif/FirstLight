@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d001-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 1 (Wang Bi, revision 2354026). His base line 無名，天地之始，有名，萬物之母 is the key verse's line; his comment on it has 凡有皆始於無，故「未形」「無名」之時，則為萬物之始。及其「有形」「有名」之時，則長之、育之、亭之、毒之，為其母也。道以無形無名始成萬物, and on 此兩者 he has 兩者，始與母也. The reading (the Tao begins things while they lack form and name and rears them as their mother once formed and named; both are the Tao) is carried without drift, and the 'they' correctly follows his 其 (things, not the Tao); 'begins things' follows his own 萬物之始 rather than Legge's heaven and earth, which is his wording, not an addition. Both evidence pieces re-found by the recheck's own matching. Plain sense is context only (the chapter's opening on the enduring Tao and name precedes; 'two aspects' is Legge's main-text word in unit 4, not a parenthesis), no four-word run from the key. verse.js ok, ref Tao Te Ching 1, at [0]; entry-check ok, no errors or warns. No school needed, no comparison, not a hard passage. Weakest point: 'aspects' is Legge's interpretive rendering of 此兩者, but it is his printed text, not a supplied parenthesis, and the sentence does not build on it.",
+ "better": ""
+}

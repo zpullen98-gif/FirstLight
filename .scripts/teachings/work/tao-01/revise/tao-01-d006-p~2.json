@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The valley spirit dies not, aye the same; The female mystery thus do we name.",
+ "ref": "Tao Te Ching 6",
+ "at": [
+  5
+ ],
+ "s": "The chapter opens here, then turns to a gate and root; the Heshang Gong commentary, on chapter 6, reads the valley as nourishing the spirits of the five viscera, and the female mystery as heaven and earth, in a person the nose and mouth.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 6, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 6 (title 成象), comments on 谷神不死 and 是謂玄牝",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "谷，養也。人能養神則不死也。神，謂五臟之神也。 … 玄，天也，於人為鼻。牝，地也，於人為口。",
+  "lang": "Classical Chinese",
+  "gloss": "The valley means nourishing. If a person can nourish the spirits he does not die; the spirits are the spirits of the five viscera. … The dark is heaven, which in a person is the nose; the female is earth, which in a person is the mouth.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: packet.js tao 6 names the Heshang Gong edition as revision 2019760, “a normalised text; the Sibu congkan Song edition differs in places”, and the src of days 7 to 26 says so while this one did not, so rule 9 was met unevenly. Only the src changes: “(a normalised text)” is inserted after “zh.wikisource”, 136 characters. Key, ref, at, sentence, commentator and evidence are unchanged; the evidence words were re-found in packet.js tao 6 under the key verse’s lines. verse.js ok (Tao Te Ching 6); entry-check ok, no warns."
+}

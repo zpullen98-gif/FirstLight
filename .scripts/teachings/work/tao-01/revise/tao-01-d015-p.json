@@ -1,0 +1,42 @@
+{
+ "id": "tao-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Shrinking looked they like those who wade through a stream in winter; irresolute like those who are afraid of all around them; grave like a guest (in awe of his host); evanescent like ice that is melting away; unpretentious like wood that has not been fashioned into anything; vacant like a valley, and dull like muddy water.",
+ "ref": "Tao Te Ching 15",
+ "at": [
+  14
+ ],
+ "s": "Describing the skilful masters of old, the verse strings seven likenesses; the Heshang Gong commentary, on chapter 15, takes the ice as shedding feeling and desire, the wood as spirit kept within without ornament, and the muddy water as merging with the crowd.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 15, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 15 (顯德), comments on 渙兮若冰之將釋, 敦兮其若朴 and 渾兮其若濁"
+   }
+  ],
+  "words": "除情去欲，日以空虛。…內守精神，外無文采也。…與眾合同，不自專也。",
+  "lang": "Classical Chinese",
+  "gloss": "Putting away feeling and desire, growing emptier day by day. … Within, guarding the vital spirit; without, no ornament. … Joining and becoming one with the crowd, not acting on his own authority.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Rules 1 and 2 as amended hold against the old entry (59 words; its plain sense listed the verse’s own images). Rewritten to 43 words: the plain sense now gives only context (the chapter describing the skilful masters of old, named in the unit before, and the verse as a run of seven likenesses) and repeats no four words of the verse; the reading is shortened within his words (growing daily emptier and not wilful dropped, nothing added). Commentator, key, ref, at and src unchanged. Re-opened packet.js tao 15: the comments under 渙兮若冰之將釋, 敦兮其若朴 and 渾兮其若濁 are verbatim in revision 2019760: shedding feeling and desire (除情去欲), spirit kept within without ornament (內守精神，外無文采也), merging with the crowd (與眾合同). verse.js ok (Tao Te Ching 15, at [14]); entry-check ok, no warns."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tao-01-d012-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 12 and the cached raw wikisource revision 2354026 (evidence found verbatim). Wang Bi comments on exactly 是以聖人為腹不為目，故去彼取此 with 為腹者以物養己，為目者以物役己，故聖人不為目也; the reading renders the first two clauses exactly (serving the belly as using things to nourish oneself, serving the eyes as letting things enslave one), and Legge's note in the same packet independently quotes this comment as Wang Pi's. Plain sense summarises the rhymed first unit (colours, notes, flavours, the chariot course and hunt, rare objects) as harms and the key's 'Therefore' as the lesson drawn, without Legge's supplied cravings. verse.js ok (at [11]); entry-check ok, no errors or warns; 44 words, one semicolon, verb 'reads'. No school, comparison or tone issue.",
+ "better": ""
+}

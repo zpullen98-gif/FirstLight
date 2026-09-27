@@ -1,0 +1,35 @@
+{
+ "id": "tao-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And when (one with the highest excellence) does not wrangle (about his low position), no one finds fault with him.",
+ "ref": "Tao Te Ching 8",
+ "at": [7],
+ "s": "Closing a chapter that likens the highest excellence to water; the Heshang Gong commentary, on chapter 8, takes the not wrangling as water’s way of going along with people, stopping when dammed and flowing when released, so no one under heaven blames it.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 8, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 8, comments on 上善若水, 夫唯不爭 and 故無尤"
+   }
+  ],
+  "words": "上善之人，如水之性。…壅之則止，決之則流，聽從人也。…水性如是，故天下無有怨尤水者也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 上善若水:) the person of highest excellence is like the nature of water. (On 夫唯不爭, ‘does not wrangle’:) dam it and it stops, open a channel and it flows: it goes along with people. (On 故無尤, ‘no one finds fault’:) such is the nature of water, and so no one under heaven resents or blames water.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the old sentence ran to 51 words and its plain sense restated the key verse. The plain sense is now context only (the verse closes a chapter likening the highest excellence to water, as the chapter's first section does), with no run of the key verse's words and no reliance on Legge's parentheses. The reading keeps the Heshang Gong commentary and its comment on the line the key verse translates (夫唯不爭, not the earlier 不爭), shortened only by rendering 怨尤 as ‘blames’; its frame 上善之人，如水之性 is added to the evidence as the warrant for reading the not wrangling as water's way. Key, ref, at, src unchanged; verse.js ok (Tao Te Ching 8, at [7]); entry-check ok."
+}
