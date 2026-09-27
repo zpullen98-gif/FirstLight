@@ -29,6 +29,17 @@
     "he-yan": 10
    },
    "hedged": 0
+  },
+  "pali": {
+   "batches": [
+    "pali-01"
+   ],
+   "days": 26,
+   "of": 26,
+   "by": {
+    "dhp-commentary": 26
+   },
+   "hedged": 0
   }
  }
 }

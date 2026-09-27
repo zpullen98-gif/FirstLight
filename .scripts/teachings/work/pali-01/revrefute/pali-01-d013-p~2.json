@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 13: the Pali Tattha on Dhammapada 178 has the evidence verbatim (Sotāpattiphalaṃ varanti yasmā ettake ṭhāne rajjaṃ kāretvāpi nirayādīhi amuttova hoti, sotāpanno pana pihitāpāyadvāro hutvā ... tasmā sotāpattiphalameva varaṃ uttamanti attho). It carries the whole reading: the reward is the fruit of stream-entry, because a ruler of so much is not freed from hell and the rest, while the stream-enterer has the doors to the states of woe shut. Attack on attribution considered: the identification with stream-entry is also the Pali verse's own word and Müller's note, but the commentary does state it (sotāpattiphalameva varaṃ) and the reason clause is its own, so the attribution is not false. Story XIII.11 (Kala attains the Fruit of Conversion, surpassing a Universal Monarch and the worlds of gods and Brahma) agrees and confirms the locator XIII.11. Plain sense true to day.js (178 closes 167 to 178). verse.js ok (Dhammapada 178, at 177); entry-check ok on the revision file.",
+ "better": ""
+}

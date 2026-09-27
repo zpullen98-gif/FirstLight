@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust).",
+ "ref": "Dhammapada 283",
+ "at": [
+  282
+ ],
+ "s": "Between verses on zeal and love’s bond, the chapter speaks to the Bhikshus; the Theravāda commentary, on Dhammapada 283, hears ‘not a tree’ as the Teacher checking new monks who took him to mean trees, since he meant the forest of defilements such as lust.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XX.8 (on Dhammapada 283), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā, Maggavagga, story of the old monks (XX.8), commentary on verses 283 to 284",
+    "via": "packet"
+   }
+  ],
+  "words": "Tattha mā rukkhanti satthārā hi ‘‘vanaṃ chindathā’’ti vutte tesaṃ acirapabbajitānaṃ ‘‘satthā amhe vāsiādīni gahetvā vanaṃ chindāpetī’’ti rukkhaṃ chinditukāmatā uppajji. Atha ne ‘‘mayā rāgādikilesavanaṃ sandhāyetaṃ vuttaṃ, na rukkhe’’ti paṭisedhento ‘‘mā rukkha’’nti āha.",
+  "lang": "pi",
+  "gloss": "‘Not a tree’: when the Teacher said ‘Cut down the forest’, a wish to cut trees arose in those recently ordained monks, who thought ‘the Teacher is having us take adzes and the like and cut down the forest’; then, checking them with ‘I said this with reference to the forest of defilements such as lust, not to trees’, he said ‘not a tree’.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the Pali (packet.js pali 20, reopened) says only that a wish to cut trees arose in the newly ordained (rukkhaṃ chinditukāmatā uppajji) because they took the Teacher to mean real felling, and that he forbade it (paṭisedhento); ‘stopping new monks felling real trees’ reports an act the source does not. The corrected reading, the Teacher checking new monks who took him to mean trees, since he meant the forest of defilements such as lust (rāgādikilesavanaṃ … na rukkhe), is carried by the evidence. The plain sense is shortened (‘Between verses on zeal and love’s bond’) only to stay within 45 words; its content is unchanged and still true to day.js (282 on zeal, 284 on the bond of love). Commentator, place, key, ref and at unchanged. verse.js ok (Dhammapada 283, at 282); entry-check ok."
+}

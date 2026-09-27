@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d002-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-ran day.js, packet.js, verse.js (ok, Dhammapada 21, at [20]) and entry-check.js (ok, 41 words). The evidence words are verbatim in the packet and in the cached CST file (Appamattā na mīyantīti ..., the commentary on verses 21 to 23 under subhead 1. Sāmāvatīvatthu, the first story of the Appamādavagga, so II.1 is right). The Pali carries the reading: they are not to be taken as unageing and undying (ajarā amarā hontīti na sallakkhetabbaṃ), since no being is unageing and undying, but the round (vaṭṭa) of the heedless has no bound and that of the heedful has one. ‘do not die’ is three words of the key, in curly quotes. The plain sense (the chapter opens by setting the earnest against the thoughtless) is faithful. Müller’s parenthesis (Nirvana) in the key is the translator’s, and the reading does not rest on it. No drift, no comparison, form ok.",
+ "better": ""
+}

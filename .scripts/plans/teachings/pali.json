@@ -1,0 +1,370 @@
+{
+ "plan": "pali",
+ "div": "4c59432849",
+ "days": [
+  {
+   "d": 1,
+   "label": "Dhammapada 1 to 20, The Twin-Verses",
+   "key": "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
+   "ref": "Dhammapada 5",
+   "at": [
+    4
+   ],
+   "s": "After two verses on nursing and letting go the memory of abuse and robbery, the twin-verses turn to how enmity ends; the Theravāda commentary, on verse 5, reads answering abuse with abuse as washing filth with filth, and patience and loving-kindness as clear water.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā I.4 (on verse 5), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d001-p"
+  },
+  {
+   "d": 2,
+   "label": "Dhammapada 21 to 32, On Earnestness",
+   "key": "Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already.",
+   "ref": "Dhammapada 21",
+   "at": [
+    20
+   ],
+   "s": "The chapter on earnestness opens by weighing the earnest against the thoughtless; the Theravāda commentary, on verse 21, reads the earnest who ‘do not die’ as those whose round of rebirth has a limit, for no being escapes age and death.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā II.1 (on verses 21 to 23), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d002-p"
+  },
+  {
+   "d": 3,
+   "label": "Dhammapada 33 to 43, Thought",
+   "key": "As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back.",
+   "ref": "Dhammapada 33",
+   "at": [
+    32
+   ],
+   "s": "The chapter on thought opens with an image for the restless mind; the Theravāda commentary, on verse 33, reads the fletcher’s work of stripping, oiling, heating and pressing as shedding gross defilements, moistening with faith, heating with effort, and straightening by calm and insight.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā III.1 (on verses 33 to 34), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d003-p"
+  },
+  {
+   "d": 4,
+   "label": "Dhammapada 44 to 59, Flowers",
+   "key": "As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.",
+   "ref": "Dhammapada 49",
+   "at": [
+    48
+   ],
+   "s": "After two verses on death and distraction, the chapter of flowers turns to the sage; the Theravāda commentary, Dhammapada-aṭṭhakathā IV.5, reads it as the monk who wins a household over, making the Buddha’s virtues known without impairing its faith or its riches.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IV.5 (on verse 49), trans. Burlingame, Buddhist Legends, vol. 2 (1921), Norman p. 374",
+   "batch": "pali-01",
+   "id": "pali-01-d004-p"
+  },
+  {
+   "d": 5,
+   "label": "Dhammapada 60 to 75, The Fool",
+   "key": "If a traveller does not meet with one who is his better, or his equal, let him firmly keep to his solitary journey; there is no companionship with a fool.",
+   "ref": "Dhammapada 61",
+   "at": [
+    60
+   ],
+   "s": "In the chapter on the fool, the verse weighs company against solitude; the Theravāda commentary, Dhammapada-aṭṭhakathā V.2, takes the traveller’s going as the mind’s search for a good friend, yet allows helping a lesser man out of compassion, expecting nothing from him.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā V.2 (on verse 61), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d005-p"
+  },
+  {
+   "d": 6,
+   "label": "Dhammapada 76 to 89, The Wise Man (Pandita)",
+   "key": "If you see an intelligent man who tells you where true treasures are to be found, who shows what is to be avoided, and administers reproofs, follow that wise man; it will be better, not worse, for those who follow him.",
+   "ref": "Dhammapada 76",
+   "at": [
+    75
+   ],
+   "s": "Opening the chapter on the wise man, the verse speaks of whom to follow; the Theravāda commentary, Dhammapada-aṭṭhakathā VI.1, reads it as a charge to take correction without offence, like the pupil Radha, and to look on whoever admonishes as one pointing to treasure.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VI.1 (on verse 76), trans. Burlingame, Buddhist Legends, vol. 2 (1921), Norman p. 106",
+   "batch": "pali-01",
+   "id": "pali-01-d006-p"
+  },
+  {
+   "d": 7,
+   "label": "Dhammapada 90 to 99, The Venerable (Arhat)",
+   "key": "There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.",
+   "ref": "Dhammapada 90",
+   "at": [
+    89
+   ],
+   "s": "Opening a chapter on the venerable, the verse names who is past pain; the Theravāda commentary, on verse 90, takes the suffering that ceases as the mind’s fever, for heat and cold still reach the body even of one whose cankers are destroyed.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VII.1 (on verse 90), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d007-p"
+  },
+  {
+   "d": 8,
+   "label": "Dhammapada 100 to 115, The Thousands",
+   "key": "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.",
+   "ref": "Dhammapada 103",
+   "at": [
+    102
+   ],
+   "s": "After verses setting one saying of the law above a thousand empty ones, the verse weighs two victories; the Theravāda commentary, in story VIII.3, takes self-conquest as defeating the robbers that are one’s own depravities, beside which defeating other robbers is no victory.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VIII.3 (on verses 102 to 103), trans. Burlingame, Buddhist Legends (1921), vol. 2, Norman p. 225",
+   "batch": "pali-01",
+   "id": "pali-01-d008-p"
+  },
+  {
+   "d": 9,
+   "label": "Dhammapada 116 to 128, Evil",
+   "key": "If a man would hasten towards the good, he should keep his thought away from evil; if a man does what is good slothfully, his mind delights in evil.",
+   "ref": "Dhammapada 116",
+   "at": [
+    115
+   ],
+   "s": "Opening a chapter on evil deeds and good, the verse sets haste against delay; the Theravāda commentary, on verse 116, reads the slow doer as one wavering whether to give, as on a muddy road, while a thousand stingy thoughts get their chance.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IX.1 (on verse 116), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d009-p"
+  },
+  {
+   "d": 10,
+   "label": "Dhammapada 129 to 145, Punishment",
+   "key": "If, like a shattered metal plate (gong), thou utter not, then thou hast reached Nirvana; contention is not known to thee.",
+   "ref": "Dhammapada 134",
+   "at": [
+    133
+   ],
+   "s": "After a warning that harsh words come back in kind, the verse turns to silence; the Theravāda commentary, Dhammapada-aṭṭhakathā X.4, reads the plate as a rimless dish, soundless when struck, and ‘reached Nirvana’ as said of one who keeps so still though not yet arrived.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā X.4 (on verse 134), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d010-p"
+  },
+  {
+   "d": 11,
+   "label": "Dhammapada 146 to 156, Old Age",
+   "key": "But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.",
+   "ref": "Dhammapada 153 to 154",
+   "at": [
+    152
+   ],
+   "s": "Amid verses on the ageing body, the passage tells in the first person of a builder long sought and found; the Theravāda commentary, Dhammapada-aṭṭhakathā XI.8, reads the tabernacle as individual existence, its maker as craving, the rafters as the defilements and the ridge-pole as ignorance.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XI.8 (on verses 153 to 154), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d011-p"
+  },
+  {
+   "d": 12,
+   "label": "Dhammapada 157 to 166, Self",
+   "key": "If a man hold himself dear, let him watch himself carefully; during one at least out of the three watches a wise man should be watchful.",
+   "ref": "Dhammapada 157",
+   "at": [
+    156
+   ],
+   "s": "Opening a chapter on the self, the verse ties self-regard to vigilance; the Theravāda commentary, Dhammapada-aṭṭhakathā XII.1, reads the three watches as the three stages of life, and guarding oneself as doing good in at least one of them, not hiding behind shut doors.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XII.1 (on verse 157), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d012-p"
+  },
+  {
+   "d": 13,
+   "label": "Dhammapada 167 to 178, The World",
+   "key": "Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.",
+   "ref": "Dhammapada 178",
+   "at": [
+    177
+   ],
+   "s": "The chapter on the world ends by setting one attainment above every kingdom and heaven; the Theravāda commentary, on verse 178, takes it as stream-entry, for a ruler of so much is not freed from hell, while the stream-enterer has shut the doors to woe.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIII.11 (on verse 178), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d013-p"
+  },
+  {
+   "d": 14,
+   "label": "Dhammapada 179 to 196, The Buddha (The Awakened)",
+   "key": "Not to commit any sin, to do good, and to purify one’s mind, that is the teaching of (all) the Awakened.",
+   "ref": "Dhammapada 183",
+   "at": [
+    182
+   ],
+   "s": "The chapter on the Awakened states here what they teach; the Theravāda commentary, on verse 183, reads doing good as raising and developing wholesome states up to the path of arahatship, and purifying as cleansing one’s own mind of the five hindrances.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIV.4 (on verse 183), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d014-p"
+  },
+  {
+   "d": 15,
+   "label": "Dhammapada 197 to 208, Happiness",
+   "key": "Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.",
+   "ref": "Dhammapada 203",
+   "at": [
+    202
+   ],
+   "s": "In the chapter on happiness, after a verse on passion, the verse ends on Nirvana; the Theravāda commentary, on verse 203, reads hunger as chief of diseases, since others pass once treated while hunger needs treating always, and the body as the five aggregates.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XV.5 (on verse 203), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d015-p"
+  },
+  {
+   "d": 16,
+   "label": "Dhammapada 209 to 220, Pleasure",
+   "key": "From pleasure comes grief, from pleasure comes fear; he who is free from pleasure knows neither grief nor fear.",
+   "ref": "Dhammapada 212",
+   "at": [
+    211
+   ],
+   "s": "Here the chapter begins tracing grief and fear to five sources in turn; the Theravāda commentary, story XVI.2, reads it as comfort for a layman weeping daily at the burning-ground for his dead son: sorrow and fear arise only from one held dear.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVI.2 (on verse 212), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 276 to 278",
+   "batch": "pali-01",
+   "id": "pali-01-d016-p"
+  },
+  {
+   "d": 17,
+   "label": "Dhammapada 221 to 234, Anger",
+   "key": "He who holds back rising anger like a rolling chariot, him I call a real driver; other people are but holding the reins.",
+   "ref": "Dhammapada 222",
+   "at": [
+    221
+   ],
+   "s": "Early in a chapter on anger, the verse gives restraint its image; the Theravāda commentary, story XVII.2, reads it as praise for a tree-spirit who, when a monk felling her tree cut off her child’s arm, checked her fury and did not strike him.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVII.2 (on verse 222), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 300 to 301",
+   "batch": "pali-01",
+   "id": "pali-01-d017-p"
+  },
+  {
+   "d": 18,
+   "label": "Dhammapada 235 to 255, Impurity",
+   "key": "Let a wise man blow off the impurities of his self, as a smith blows off the impurities of silver one by one, little by little, and from time to time.",
+   "ref": "Dhammapada 239",
+   "at": [
+    238
+   ],
+   "s": "Amid warnings of death and wrongdoing, the verse gives a smith’s image; the Theravāda commentary, story XVIII.2, reads it as spoken to a Brahman who improved the monks’ robing-place step by step up to a hall: repeated good works remove a wise man’s stains.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVIII.2 (on verse 239), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 338 to 340",
+   "batch": "pali-01",
+   "id": "pali-01-d018-p"
+  },
+  {
+   "d": 19,
+   "label": "Dhammapada 256 to 272, The Just",
+   "key": "A man is not a Muni because he observes silence (mona, i.e. mauna), if he is foolish and ignorant; but the wise who, taking the balance, chooses the good and avoids evil, he is a Muni, and is a Muni thereby; he who in this world weighs both sides is called a Muni.",
+   "ref": "Dhammapada 268 to 269",
+   "at": [
+    267
+   ],
+   "s": "In a chapter testing titles against conduct, the pair after the Bhikshu verses takes up the Muni; the Theravāda commentary, on Dhammapada 268 to 269, reads the sage as a weigher at the scales, removing evil like an excess and adding the wholesome where short.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIX.8 (on Dhammapada 268 to 269), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d019-p"
+  },
+  {
+   "d": 20,
+   "label": "Dhammapada 273 to 289, The Way",
+   "key": "Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust).",
+   "ref": "Dhammapada 283",
+   "at": [
+    282
+   ],
+   "s": "Between verses on zeal and love’s bond, the chapter speaks to the Bhikshus; the Theravāda commentary, on verse 283, hears ‘not a tree’ as the Teacher checking new monks who took him to mean trees, since he meant the forest of defilements such as lust.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XX.8 (on verse 283), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d020-p"
+  },
+  {
+   "d": 21,
+   "label": "Dhammapada 290 to 305, Miscellaneous",
+   "key": "A true Brahmana goes scatheless, though he have killed father and mother, and two valiant kings, though he has destroyed a kingdom with all its subjects.",
+   "ref": "Dhammapada 294",
+   "at": [
+    293
+   ],
+   "s": "Among miscellaneous sayings, this verse has a killer of parents and kings go unharmed; the Theravāda commentary, on verse 294, reads mother as craving, father as conceit, kings as eternalist and annihilationist views, the kingdom as the sense bases, all slain by the arahat path.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXI.4 (on verse 294), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d021-p"
+  },
+  {
+   "d": 22,
+   "label": "Dhammapada 306 to 319, The Downward Course",
+   "key": "Like a well-guarded frontier fort, with defences within and without, so let a man guard himself. Not a moment should escape, for they who allow the right moment to pass, suffer pain when they are in hell.",
+   "ref": "Dhammapada 315",
+   "at": [
+    314
+   ],
+   "s": "After warnings against slack discipline, the chapter turns to vigilance; the Theravāda commentary, on verse 315, reads the guard as the six sense doors shut under mindfulness, and the moment as a Buddha’s arising, birth in the middle country, right view and unimpaired senses.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXII.7 (on verse 315), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d022-p"
+  },
+  {
+   "d": 23,
+   "label": "Dhammapada 320 to 333, The Elephant",
+   "key": "Silently shall I endure abuse as the elephant in battle endures the arrow sent from the bow: for the world is ill-natured.",
+   "ref": "Dhammapada 320",
+   "at": [
+    319
+   ],
+   "s": "Opening the elephant chapter, the speaker takes the war elephant as his model; the Theravāda commentary, in its story of the hired revilers (XXIII.1), reads it as staying in a reviling city until the uproar dies away, bearing abuse as a duty.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIII.1 (on verses 320 to 322), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman vol. 4, pp. 2 to 3",
+   "batch": "pali-01",
+   "id": "pali-01-d023-p"
+  },
+  {
+   "d": 24,
+   "label": "Dhammapada 334 to 359, Thirst",
+   "key": "The gift of the law exceeds all gifts; the sweetness of the law exceeds all sweetness; the delight in the law exceeds all delights; the extinction of thirst overcomes all pain.",
+   "ref": "Dhammapada 354",
+   "at": [
+    353
+   ],
+   "s": "After one freed by thirst’s destruction asks whom he shall teach, the chapter praises the law; the Theravāda commentary, on verse 354, reads its gift as highest because givers give only after hearing it, else none would give even a ladleful of gruel.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIV.10 (on verse 354), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+   "batch": "pali-01",
+   "id": "pali-01-d024-p"
+  },
+  {
+   "d": 25,
+   "label": "Dhammapada 360 to 382, The Bhikshu (Mendicant)",
+   "key": "Rouse thyself by thyself, examine thyself by thyself, thus self-protected and attentive wilt thou live happily, O Bhikshu!",
+   "ref": "Dhammapada 379",
+   "at": [
+    378
+   ],
+   "s": "Late in the chapter on the mendicant, the verse addresses him directly; the Theravāda commentary, Dhammapada-aṭṭhakathā XXV.10, reads it as spoken for a former ploughman who, whenever discontent came, admonished himself beneath the tree where his old rags hung, and so became an arahat.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXV.10 (on verses 379 to 380), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 115 to 116",
+   "batch": "pali-01",
+   "id": "pali-01-d025-p"
+  },
+  {
+   "d": 26,
+   "label": "Dhammapada 383 to 423, The Brahmana (Arhat)",
+   "key": "After a man has once understood the law as taught by the Well-awakened (Buddha), let him worship it carefully, as the Brahmana worships the sacrificial fire.",
+   "ref": "Dhammapada 392",
+   "at": [
+    391
+   ],
+   "s": "Amid sayings on the true Brahmana, this verse borrows the fire rite; the Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9, reads it as reverence for the teacher from whom the teaching was learnt, as Sariputta, who first heard it from Assaji, raised joined hands towards wherever Assaji stayed.",
+   "by": "dhp-commentary",
+   "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9 (on verse 392), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman vol. 4, pp. 150 to 151",
+   "batch": "pali-01",
+   "id": "pali-01-d026-p"
+  }
+ ]
+}

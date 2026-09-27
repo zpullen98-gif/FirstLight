@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d019-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 19: the Pali on 268 to 269 (Tattha na monenāti ...) carries the evidence verbatim: yathā hi tulaṃ gahetvā ṭhito atirekaṃ ce hoti, harati; ūnaṃ ce hoti, pakkhipati; evameva ... pāpaṃ harati parivajjeti, ... kusalaṃ paripūreti; sa munīti so muni nāma. The revised paraphrase (the sage as a weigher at the scales, removing evil like an excess and adding the wholesome where short) is exactly this simile, and the same gloss later has the sage weigh inner and outer aggregates as on a scale, so the weigher image does not overreach. Not Müller’s (his parenthesis is etymology only). Locator XIX.8 matches Burlingame (It Is Not Silence That Makes the Sage, on 268 to 269). Plain sense true to day.js: titles (just, learned, elder, Samana, Bhikshu, Muni, Ariya) set against conduct, the Muni pair following the Bhikshu pair 266 to 267. verse.js ok (Dhammapada 268 to 269, at 267, 53 words); entry-check ok, no warnings.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 9 and the cached s0502a.att.xml (60c7fb3): chapter 9 Pāpavaggo, 1. Cūḷekasāṭakabrāhmaṇavatthu, the Tattha on verse 116 carries the evidence verbatim (Dandhañhi karototi ... dassāmi, na dassāmi ... cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti, tassa ekasāṭakassa viya maccherasahassaṃ pāpaṃ okāsaṃ labhati). The sentence (the slow doer wavering whether to give, as on a muddy road, while a thousand stingy thoughts get their chance) is the commentary’s own illustration, drawn from its own words and its story of the one-robed Brahman, without drift. Plain sense (opening the chapter on evil, haste set against delay) true to day.js. verse.js ok (Dhammapada 116, at 115); entry-check ok. Locator IX.1 on verse 116 matches the VRI subhead and Burlingame.",
+ "better": ""
+}

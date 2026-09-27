@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already.",
+ "ref": "Dhammapada 21",
+ "at": [
+  20
+ ],
+ "s": "The chapter on earnestness opens by weighing the earnest against the thoughtless; the Theravāda commentary, on verse 21, reads the earnest who ‘do not die’ as those whose round of rebirth has a limit, for no being escapes age and death.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā II.1 (on verses 21 to 23), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā, Appamādavagga, Sāmāvatīvatthu (II.1), commentary on verses 21 to 23",
+    "via": "packet"
+   }
+  ],
+  "words": "Appamattā na mīyantīti satiyā samannāgatā hi appamattā na maranti. Ajarā amarā hontīti na sallakkhetabbaṃ. Na hi koci satto ajaro amaro nāma atthi, pamattassa pana vaṭṭaṃ nāma aparicchinnaṃ, appamattassa paricchinnaṃ. Tasmā pamattā jātiādīhi aparimuttattā jīvantāpi matāyeva nāma. Appamattā pana appamādalakkhaṇaṃ vaḍḍhetvā khippaṃ maggaphalāni sacchikatvā dutiyatatiyaattabhāvesu na nibbattanti. Tasmā te jīvantāpi matāpi na mīyantiyeva nāma.",
+  "lang": "pi",
+  "gloss": "\"The heedful do not die\": the heedful, possessed of mindfulness, do not die. It should not be taken that they become unageing and undying; there is no being that is unageing and undying, but for the heedless the round is unbounded, for the heedful it is bounded. So the heedless, not freed from birth and the rest, are as dead even while living; the heedful, quickly realising the paths and fruits, are not reborn in a second or third existence, so living or dead they are said not to die.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Dhammapada 21, at [20]). Plain sense faithful: the chapter opens contrasting the earnest and the thoughtless. The Pali on verses 21 to 23 says the heedful do not die, not that they are unageing and undying, for no being is so; their round (vaṭṭa) is bounded, and they are not reborn in a second or third existence. The sentence carries this; ‘round of rebirth’ is supported by the following clause on non-rebirth. The quoted ‘do not die’ is three words of the key. entry-check ok."
+}

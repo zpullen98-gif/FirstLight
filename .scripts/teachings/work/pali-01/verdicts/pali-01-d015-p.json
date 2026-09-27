@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.",
+ "ref": "Dhammapada 203",
+ "at": [
+  202
+ ],
+ "s": "After a verse on passion as fire, the chapter turns to hunger and the body; the Theravāda commentary, in story XV.5, reads it through a poor man whom the Teacher had fed before preaching, since hunger would keep him from grasping the Law.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XV.5 (on verse 203), trans. Burlingame, Buddhist Legends (1921)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "via": "packet",
+    "locator": "Story XV.5 (Dhammapada 203), The Buddha Feeds the Hungry, Norman pp. 262 to 263"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "via": "packet",
+    "locator": "Tattha on Dhammapada 203 (jighacchāparamā rogāti ...)"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), notes (OCR)",
+    "via": "packet",
+    "locator": "note on 203 (saṅkhāra as the five khandhas)"
+   }
+  ],
+  "words": "Therefore I thought to myself, ‘If I preach the Law to this man while he is suffering from the pangs of hunger, he will not be able to comprehend it.’ Therefore was it that I did what I did. Monks, there is no affliction like the affliction of hunger.",
+  "lang": "en",
+  "gloss": "Story XV.5: the Teacher, having had food served to a poor man at Alavi who had spent the day hungry searching for his lost ox, answers the indignant monks that a man in the pangs of hunger could not comprehend the Law, says there is no affliction like hunger, and speaks verse 203.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 203, at [202] match). Read Story XV.5 in full in the packet and the Pali explanation of 203 (hunger must be treated always, saṅkhārā are the five aggregates). The story is the commentary’s own framing: the Teacher has a hungry poor man fed before preaching because hunger would keep him from comprehending the Law, and speaks the verse to the objecting monks; the sentence carries this without addition. Plain sense faithful (verse 202 on passion as fire precedes). entry-check ok."
+}

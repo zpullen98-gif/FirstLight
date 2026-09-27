@@ -1,0 +1,124 @@
+{
+ "lane": "L5",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 13,
+   "primary": {
+    "id": "pali-01-d013-p",
+    "key": "Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.",
+    "ref": "Dhammapada 178",
+    "at": [
+     177
+    ],
+    "s": "The chapter on the world ends by setting one attainment above every kingdom and heaven; the Theravāda commentary, on verse 178, explains why: a world-ruler is still not freed from hell, but the stream-enterer has shut the doors to the states of woe.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIII.11 (on verse 178), the Pali, Chaṭṭha Saṅgāyana edition (VRI), tipitaka-xml 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha pathabyā ekarajjenāti cakkavattirajjena. … Sotāpattiphalaṃ varanti yasmā ettake ṭhāne rajjaṃ kāretvāpi nirayādīhi amuttova hoti, sotāpanno pana pihitāpāyadvāro hutvā sabbadubbalopi aṭṭhame bhave na nibbattati, tasmā sotāpattiphalameva varaṃ uttamanti attho.",
+     "gloss": "“Sole rule over the earth” means the rule of a wheel-turning monarch. … “The fruit of stream-entry is better”: because one who has ruled over so great a domain is still not freed from hell and the other lower states, whereas the stream-enterer, the doors to the states of woe shut, is not born in an eighth existence even if he is the weakest of them; therefore the fruit of stream-entry alone is better, the highest. That is the meaning."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d013-s",
+    "key": "He who formerly was reckless and afterwards became sober, brightens up this world, like the moon when freed from clouds.",
+    "ref": "Dhammapada 172",
+    "at": [
+     171
+    ],
+    "s": "The chapter on the world turns here to a changed life; the Theravāda commentary, in story XIII.5, reads it of a monk who swept all day while heedless, and swept no more once he dwelt in the bliss of the paths and fruits.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIII.5 (on verse 172), trans. Burlingame, Buddhist Legends (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "Monks, my son the Elder spoke the truth; formerly, in the days of his heedlessness, my son spent the whole time sweeping, but now he spends his time in the enjoyment of the bliss of the Paths and the Fruits, and therefore sweeps no more.",
+     "gloss": "The Teacher answers the monks who complained that the elder had stopped sweeping: while he was heedless he spent all his time sweeping; now he passes his time in the bliss of the paths and fruits and so sweeps no more. The stanza on the once-heedless man who lights up the world follows at once."
+    }
+   }
+  },
+  {
+   "d": 14,
+   "primary": {
+    "id": "pali-01-d014-p",
+    "key": "Not to commit any sin, to do good, and to purify one’s mind, that is the teaching of (all) the Awakened.",
+    "ref": "Dhammapada 183",
+    "at": [
+     182
+    ],
+    "s": "The chapter on the Awakened states here what they teach; the Theravāda commentary, on verse 183, reads doing good as raising and developing wholesome states up to the path of arahatship, and purifying as cleansing one’s own mind of the five hindrances.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIV.4 (on verse 183), the Pali, Chaṭṭha Saṅgāyana edition (VRI), tipitaka-xml 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha sabbapāpassāti sabbassa akusalakammassa. Upasampadāti abhinikkhamanato paṭṭhāya yāva arahattamaggā kusalassa uppādanañceva uppāditassa ca bhāvanā. Sacittapariyodapananti pañcahi nīvaraṇehi attano cittassa vodāpanaṃ. Etaṃ buddhāna sāsananti sabbabuddhānaṃ ayamanusiṭṭhi.",
+     "gloss": "“Of all evil”: of all unwholesome action. “The doing” (of good): from the going forth up to the path of arahatship, the producing of the wholesome and the developing of what has been produced. “The purifying of one’s own mind”: the cleansing of one’s own mind of the five hindrances. “This is the teaching of the buddhas”: this is the instruction of all the buddhas."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d014-s",
+    "key": "Even the gods envy those who are awakened and not forgetful, who are given to meditation, who are wise, and who delight in the repose of retirement (from the world).",
+    "ref": "Dhammapada 181",
+    "at": [
+     180
+    ],
+    "s": "After two verses on the trackless Awakened, the chapter praises those who meditate; the Theravāda commentary, on verse 181, reads the retirement not as leaving home but as delight in nibbāna, the stilling of defilements, and the envy as a wish to become buddhas.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIV.2 (on verse 181), the Pali, Chaṭṭha Saṅgāyana edition (VRI), tipitaka-xml 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Nekkhammūpasame ratāti ettha pabbajjā nekkhammanti na gahetabbā, kilesavūpasamanibbānaratiṃ pana sandhāyetaṃ vuttaṃ. Devāpīti devāpi manussāpi tesaṃ pihayanti patthenti. … ‘‘Aho vata mayaṃ buddhā bhaveyyāmā’’ti buddhabhāvaṃ icchamānā pihayantīti attho.",
+     "gloss": "“Delighting in the calm of renunciation”: here renunciation is not to be taken as the going forth; it is said of delight in nibbāna, the stilling of the defilements. “Even the gods”: gods and men alike long for them and yearn for them. … They long for them wishing for buddhahood, thinking “Oh, that we might be buddhas”. That is the meaning."
+    }
+   }
+  },
+  {
+   "d": 15,
+   "primary": {
+    "id": "pali-01-d015-p",
+    "key": "Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.",
+    "ref": "Dhammapada 203",
+    "at": [
+     202
+    ],
+    "s": "After a verse on passion as fire, the chapter turns to hunger and the body; the Theravāda commentary, in story XV.5, reads it through a poor man whom the Teacher had fed before preaching, since hunger would keep him from grasping the Law.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XV.5 (on verse 203), trans. Burlingame, Buddhist Legends (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "Therefore I thought to myself, ‘If I preach the Law to this man while he is suffering from the pangs of hunger, he will not be able to comprehend it.’ Therefore was it that I did what I did. Monks, there is no affliction like the affliction of hunger.",
+     "gloss": "The Teacher explains to the indignant monks why he had food served to the poor man before preaching: a man in the pangs of hunger could not comprehend the Law, and there is no affliction like hunger. The stanza on hunger as the worst of diseases follows at once."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d015-s",
+    "key": "Health is the greatest of gifts, contentedness the best riches; trust is the best of relationships, Nirvana the highest happiness.",
+    "ref": "Dhammapada 204",
+    "at": [
+     203
+    ],
+    "s": "After a verse on the worst of ills, the chapter names four highest goods; the Theravāda commentary, on verse 204, reads trust as what makes kin: a mother or father without it is a stranger, and a trusted stranger the highest kin.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XV.6 (on verse 204), the Pali, Chaṭṭha Saṅgāyana edition (VRI), tipitaka-xml 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Vissāsaparamā ñātīti mātā vā hotu pitā vā, yena saddhiṃ vissāso natthi, so aññātakova. Yena aññātakena pana saddhiṃ vissāso atthi, so asambandhopi paramo uttamo ñāti.",
+     "gloss": "“Trust is the highest kin”: be it mother or father, one with whom there is no trust is a stranger indeed; but a stranger with whom there is trust, though unrelated, is the highest, the best of kin."
+    }
+   }
+  }
+ ]
+}

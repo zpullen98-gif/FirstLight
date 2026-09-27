@@ -1,0 +1,124 @@
+{
+ "lane": "L8",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 22,
+   "primary": {
+    "id": "pali-01-d022-p",
+    "key": "Like a well-guarded frontier fort, with defences within and without, so let a man guard himself. Not a moment should escape, for they who allow the right moment to pass, suffer pain when they are in hell.",
+    "ref": "Dhammapada 315",
+    "at": [
+     314
+    ],
+    "s": "After warnings against slack discipline, the chapter turns to vigilance; the Theravāda commentary, on verse 315, reads the guard as the six sense doors shut under mindfulness, and the moment as a Buddha’s arising, birth in the middle country, right view and unimpaired senses.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXII.7 (on verse 315), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "evaṃ tumhepi satiṃ upaṭṭhapetvā ajjhattikāni cha dvārāni pidahitvā dvārarakkhikaṃ satiṃ avissajjetvā … ayaṃ buddhuppādakhaṇo majjhimadese uppattikhaṇo sammādiṭṭhiyā paṭiladdhakhaṇo channaṃ āyatanānaṃ avekallakhaṇoti sabbopi ayaṃ khaṇo atikkamati, so khaṇo tumhe mā atikkamatu",
+     "gloss": "So you too, setting up mindfulness, shutting the six inner doors and never letting go of mindfulness as the door-keeper … [for one who does not guard himself] this moment of a Buddha’s arising, the moment of birth in the middle country, the moment of having gained right view, the moment of the six sense bases being unimpaired, all this moment passes by; let that moment not pass you by."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d022-s",
+    "key": "An evil deed is better left undone, for a man repents of it afterwards; a good deed is better done, for having done it, one does not repent.",
+    "ref": "Dhammapada 314",
+    "at": [
+     313
+    ],
+    "s": "Amid warnings of the road to hell, the chapter weighs two kinds of deed; the Theravāda commentary, in its story of the jealous woman (XXII.6), reads it as a warning against even a slight wrong done in secret, for hidden evil still brings remorse.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXII.6 (on verse 314), trans. Burlingame, Buddhist Legends 3 (1921), at Norman 3.486",
+    "basis": {
+     "source": "burlingame",
+     "words": "One ought never to do even a slight wrong, thinking, ‘Others know nothing about this evil deed which I have committed.’ Even though no one else knows about it, one should do only that which is good. For an evil deed, even though one hide it, brings remorse afterwards, but a good deed produces naught but happiness.",
+     "gloss": "In the story that frames the verse, the Teacher warns against doing even a small wrong on the thought that no one else knows of it: even unknown to others, only good should be done, for an evil deed, though hidden, brings remorse afterwards, while a good deed brings only happiness."
+    }
+   }
+  },
+  {
+   "d": 23,
+   "primary": {
+    "id": "pali-01-d023-p",
+    "key": "Silently shall I endure abuse as the elephant in battle endures the arrow sent from the bow: for the world is ill-natured.",
+    "ref": "Dhammapada 320",
+    "at": [
+     319
+    ],
+    "s": "Opening the elephant chapter, the speaker takes the war elephant as his model; the Theravāda commentary, in its story of the hired revilers (XXIII.1), reads it as staying in a reviling city until the uproar dies away, bearing abuse as a duty.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIII.1 (on verses 320 to 322), trans. Burlingame, Buddhist Legends 3 (1921), at Norman 4.2",
+    "basis": {
+     "source": "burlingame",
+     "words": "Wherever a tumult arises, even there should we remain until that tumult dies away, and only under those circumstances should we go elsewhere. … And even as it is incumbent upon an elephant that has entered the fray that he should withstand the arrows which come from the four quarters, precisely so it is my duty to endure with patience the words spoken by many wicked men.",
+     "gloss": "In the story that frames the verse, the Teacher, reviled in the city by people bribed to abuse him, refuses to move on: where a tumult arises one should stay until it dies away, and as the elephant in the fray must withstand arrows from every quarter, so it is his duty to bear patiently the words of many wicked men."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d023-s",
+    "key": "The elephant called Dhanapalaka, his temples running with sap, and difficult to hold, does not eat a morsel when bound; the elephant longs for the elephant grove.",
+    "ref": "Dhammapada 324",
+    "at": [
+     323
+    ],
+    "s": "Between verses on taming and on gluttony, the chapter pictures a captive elephant; the Theravāda commentary, on verse 324, reads the longing as memory of a mother grieving in the forest and of a duty to his parents that only the grove allows.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIII.3 (on verse 324), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Mātā pana me araññe puttaviyogena dukkhappattā ahosi, mātāpituupaṭṭhānadhammo na me pūrati, kiṃ me iminā bhojanenā’’ti dhammikaṃ mātāpituupaṭṭhānadhammameva sari. Taṃ pana yasmā tasmiṃ nāgavaneyeva ṭhito sakkā pūretuṃ",
+     "gloss": "‘My mother in the forest has come to grief through separation from her son; my duty of supporting mother and father goes unfulfilled; what is this food to me?’ He remembered only the righteous duty of supporting mother and father. And because that could be fulfilled only by standing in that very elephant grove [it is said that the elephant remembers the grove]."
+    }
+   }
+  },
+  {
+   "d": 24,
+   "primary": {
+    "id": "pali-01-d024-p",
+    "key": "The gift of the law exceeds all gifts; the sweetness of the law exceeds all sweetness; the delight in the law exceeds all delights; the extinction of thirst overcomes all pain.",
+    "ref": "Dhammapada 354",
+    "at": [
+     353
+    ],
+    "s": "Late in a chapter on thirst, four things are named above all their kind; the Theravāda commentary, on verse 354, reads the first as highest because givers give only after hearing the law, and without it none would give even a spoonful of gruel.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIV.10 (on verse 354), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Kiṃ kāraṇā? Evarūpāni hi puññāni karontā dhammaṃ sutvāva karonti, no asutvā. Sace hi ime sattā dhammaṃ na suṇeyyuṃ, uḷuṅkamattaṃ yāgumpi kaṭacchumattaṃ bhattampi na dadeyyuṃ. Iminā kāraṇena sabbadānehi dhammadānameva seṭṭhaṃ.",
+     "gloss": "For what reason? Because those who do such meritorious deeds [the gifts of robes, food, medicine and dwellings just listed] do them only after hearing the Dhamma, not without hearing it. If these beings did not hear the Dhamma, they would not give even a spoonful of gruel or a ladleful of rice. For this reason, of all gifts the gift of the Dhamma is the best."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d024-s",
+    "key": "That fetter wise people call strong which drags down, yields, but is difficult to undo; after having cut this at last, people leave the world, free from cares, and leaving desires and pleasures behind.",
+    "ref": "Dhammapada 346",
+    "at": [
+     345
+    ],
+    "s": "After iron, wood and hemp are called weak bonds, the chapter describes the strong one; the Theravāda commentary, on verse 346, reads its yielding as a bond that cuts no skin and draws no blood, so its captive works on unaware that he is bound.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIV.4 (on verses 345 to 346), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Sithilanti bandhanaṭṭhāne chavicammamaṃsāni na chindati, lohitaṃ na nīharati, bandhanabhāvampi ajānāpetvā thalapathajalapathādīsu kammāni kātuṃ detīti sithilaṃ.",
+     "gloss": "‘Loose’ [Müller: yields]: at the place where it binds, it does not cut skin, hide or flesh, and draws no blood; without even letting it be known that it is a bond, it lets one do work on roads by land, by water and so on; so it is called loose."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "id": "pali-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Hunger is the worst of diseases, the body the greatest of pains; if one knows this truly, that is Nirvana, the highest happiness.",
+ "ref": "Dhammapada 203",
+ "at": [202],
+ "s": "In the chapter on happiness, after a verse on passion, the verse ends on Nirvana; the Theravāda commentary, on verse 203, reads hunger as chief of diseases, since others pass once treated while hunger needs treating always, and the body as the five aggregates.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XV.5 (on verse 203), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml", "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3", "locator": "Tattha on Dhammapada 203 (jighacchāparamā rogāti ...), chapter XV, story 5", "via": "packet"},
+   {"url": "https://archive.org/details/buddhistlegends03budd", "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)", "locator": "Story XV.5 (Dhammapada 203), The Buddha Feeds the Hungry, Norman pp. 262 to 263", "via": "packet"},
+   {"url": "https://archive.org/details/dhammapadacollection01ml", "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), notes (OCR)", "locator": "note on 203 (the commentator takes saṅkhāra for the five khandhas)", "via": "packet"}
+  ],
+  "words": "Tattha jighacchāparamā rogāti yasmā añño rogo sakiṃ tikicchito vinassati vā tadaṅgavasena vā pahīyati, jighacchā pana niccakālaṃ tikicchitabbāyevāti sesarogānaṃ ayaṃ paramā nāma. Saṅkhārāti pañca khandhā.",
+  "lang": "pi",
+  "gloss": "There, 'hunger is the chief of diseases': because any other disease, once treated, perishes or is abandoned for the time being, whereas hunger must be treated at all times, it is called the chief of the remaining diseases. 'Saṅkhārā' means the five aggregates.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement: the refuter is right on both counts and the entry can be put right within the evidence. verse.js ok (Dhammapada 203, at [202]); key kept. PLAIN: the old clause said the chapter turns to hunger and the body after 202, but 202 already names the body and the clause restated the key verse's nouns; replaced with context only (chapter on happiness, after the verse on passion, closing on Nirvana). DRIFT: Story XV.5 (Burlingame pp. 262 to 263, read in full) grounds only the first line (no affliction like hunger), not a reading of the whole verse; the commentary's own lesson on the verse is the Pali Tattha on 203, verbatim in the packet: hunger is chief because other diseases pass once treated while hunger must always be treated, and saṅkhārā are the five aggregates (Müller's note confirms the commentator takes it so). Reading, src and evidence moved to the Pali. entry-check.js ok, no warnings."
+}

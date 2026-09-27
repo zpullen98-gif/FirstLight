@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d008-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends02budd",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 8: Story VIII.3 (Dhammapada 102 to 103), Kuṇḍalakesī, the Teacher’s words in the Hall of Truth stand between Norman markers [225] and [226] and match the evidence verbatim. Cross-checked the Pali in the cached s0502a.att.xml (60c7fb3), 3. Kuṇḍalakesittherīvatthu: ‘Avasesacore jinantassa ca jayo nāma na hoti, ajjhattikakilesacore jinantasseva pana jayo nāma hotī’, and the Tattha on 103 (attano lobhādikilesajayena attānaṃ jineyya) says the same, so the reading (self-conquest as defeating the robbers that are one’s own depravities, beside which defeating other robbers is no victory) is the commentary’s and not Burlingame’s. verse.js ok (Dhammapada 103, at 102); entry-check ok. Plain sense: ‘one saying of the law above a thousand empty ones’ is a composite of verses 100 to 102 (the thousand senseless words of 100 to 101, the word of the law of 102); loose but not false, noted only.",
+ "better": ""
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.",
+ "ref": "Dhammapada 178",
+ "at": [
+  177
+ ],
+ "s": "The chapter on the world ends by setting one attainment above every kingdom and heaven; the Theravāda commentary, on verse 178, explains why: a world-ruler is still not freed from hell, but the stream-enterer has shut the doors to the states of woe.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIII.11 (on verse 178), the Pali, Chaṭṭha Saṅgāyana edition (VRI), tipitaka-xml 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "via": "packet",
+    "locator": "Tattha on Dhammapada 178 (pathabyā ekarajjenāti ...)"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "via": "packet",
+    "locator": "Story XIII.11 (Dhammapada 178), Virtue Bought and Paid for, Norman p. 191"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), notes (OCR)",
+    "via": "packet",
+    "locator": "note on 178 (the four stages; no commentary reading)"
+   }
+  ],
+  "words": "Sotāpattiphalaṃ varanti yasmā ettake ṭhāne rajjaṃ kāretvāpi nirayādīhi amuttova hoti, sotāpanno pana pihitāpāyadvāro hutvā sabbadubbalopi aṭṭhame bhave na nibbattati, tasmā sotāpattiphalameva varaṃ uttamanti attho.",
+  "lang": "pi",
+  "gloss": "“The fruit of stream-entry is better”: because even one who has exercised rule over so great a domain is not freed from hell and the other lower states, whereas the stream-enterer, the doors to the states of woe shut, is not born an eighth time even if he is the weakest; therefore the fruit of stream-entry alone is better, highest. That is the meaning.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 178, at [177] match). Read the Pali explanation of every verse in chapter XIII and Story XIII.11: the Pali on 178 glosses sole rule as a wheel-turning monarch’s rule and says the stream-fruit is best because a ruler of so much is still not freed from hell and the lower states, while the stream-enterer has the doors to the states of woe shut. The sentence carries exactly that; the story (Kala’s attainment surpassing a Universal Monarch and the worlds of gods and Brahma) agrees. Plain sense faithful (178 closes the chapter). entry-check ok."
+}

@@ -1,0 +1,31 @@
+{
+ "id": "pali-01-d026-p",
+ "d": 26,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "After a man has once understood the law as taught by the Well-awakened (Buddha), let him worship it carefully, as the Brahmana worships the sacrificial fire.",
+ "ref": "Dhammapada 392",
+ "at": [391],
+ "s": "Amid sayings on the true Brahmana, this verse borrows the fire rite; the Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9, reads it as reverence for the teacher from whom the teaching was learnt, as Sariputta, who first heard it from Assaji, raised joined hands towards wherever Assaji stayed.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9 (on verse 392), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman vol. 4, pp. 150 to 151",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://archive.org/details/buddhistlegends03budd", "edition": "E. W. Burlingame, Buddhist Legends, Harvard Oriental Series 28 to 30 (1921), archive.org buddhistlegends03budd (OCR)", "locator": "Story XXVI.9 (Dhammapada 392), Reverence to Whom Reverence Is Due; opens after the [150] mark, the Teacher's words follow the [151] mark (Norman vol. 4, pp. 150 to 151)", "via": "packet"},
+   {"url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml", "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3", "locator": "Tattha on Dhammapada 392 (aggihuttaṃvāti ...)", "via": "packet"}
+  ],
+  "words": "This Venerable Elder, we are told, first heard the Law from the lips of Elder Assaji; and from the day when he attained the Fruit of Conversion, in whatever quarter he heard that Elder Assaji was residing, in that direction he would extend his clasped hands in an attitude of reverent supplication … For a monk should reverence the teacher through whom he has learned the Law with the same degree of reverence with which a Brahman reverences the sacred fire.",
+  "lang": "en",
+  "gloss": "Sariputta first heard the Law from Assaji and stretched out joined hands towards whatever quarter Assaji was staying in; the Teacher says a monk should revere the teacher through whom he learnt the Law as a Brahman reveres the sacred fire. The Pali Tattha agrees: yamhā ācariyā tathāgatapaveditaṃ dhammaṃ vijāneyya, taṃ sakkaccaṃ namasseyya.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds for this entry: its Burlingame src gave 'vol. 3 (1921)' with no Norman page. In the packet, Story XXVI.9 opens right after Burlingame's inline [150] mark and the Teacher's words carrying the reading come after the [151] mark, so the place is Norman pp. 150 to 151. Book XXVI is in Norman's vol. 4 while Burlingame's is vol. 3, so the src follows the batch precedent set for day 23 ('Norman vol. 4, pp. 2 to 3') to keep the two volume numbers apart. Only the src changed (152 characters). The key, ref, at, s, commentator and reading are unchanged. verse.js ok (Dhammapada 392, at 391); entry-check ok."
+}

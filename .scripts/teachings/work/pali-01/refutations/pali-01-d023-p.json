@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d023-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-ran day.js, packet.js, verse.js (ok, Dhammapada 320, at [319], 22 words) and entry-check.js (ok). Burlingame XXIII.1 in the packet has the words verbatim; I also checked the Pali of the same story (subhead 1. Attadantavatthu, cached CST at 60c7fb3), which carries them itself and is not borrowed by the translator: Ānanda, na evaṃ kātuṃ vaṭṭati, yattha adhikaraṇaṃ uppannaṃ, tattheva tasmiṃ vūpasante aññattha gantuṃ vaṭṭati ... bahūhi dussīlehi kathitakathānaṃ sahanaṃ nāma mayhaṃ bhāro, with the PTS page break 4.0002 just before the Ānanda exchange, so Norman 4.2 is right. Māgaṇḍiyā pays the citizens (nāgarānaṃ lañjaṃ datvā), so hired revilers is accurate. The Tattha gloss agrees (adhivāsanaṃ ajjhupekkhanameva mama bhāro). Plain sense correct (opens The Elephant chapter, speaker in first person). No drift, school, comparison or tone problem.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d020-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 20: the Pali on 283 to 284 opens Tattha mā rukkhanti ... and has the evidence verbatim: the Teacher’s Cut down the forest raised in the recently ordained (acirapabbajita) a wish to cut trees, and he forbade it with not a tree, meaning the forest of defilements such as lust (rāgādikilesavanaṃ). The sentence’s paraphrase (stopping new monks felling real trees, since he meant the forest of defilements such as lust) is carried; stopping is fair for paṭisedhento, since the monks had only the wish. Reading is the commentary’s, not Müller’s parenthesis. Story XX.8 (The Old Monks and the Old Woman, on 283 to 284) confirms place and that the monks were old men newly gone forth. Plain sense true to day.js: 282 on zeal, 284 on the bond of love for women, 283 addresses the Bhikshus. verse.js ok (Dhammapada 283, at 282); entry-check ok (45 words, at the cap). the Teacher is the commentary’s own term (satthā) inside the attributed reading, not a name for the Buddha in the plain sense.",
+ "better": ""
+}

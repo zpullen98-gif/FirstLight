@@ -1,0 +1,112 @@
+{
+ "lane": "L4",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 10,
+   "primary": {
+    "id": "pali-01-d010-p",
+    "key": "If, like a shattered metal plate (gong), thou utter not, then thou hast reached Nirvana; contention is not known to thee.",
+    "ref": "Dhammapada 134",
+    "at": [133],
+    "s": "After a warning that harsh words come back in kind, the verse turns to silence; the Theravāda commentary, Dhammapada-aṭṭhakathā X.4, reads the plate as a rimless dish, soundless when struck, and ‘reached Nirvana’ as said of one who keeps so still though not yet arrived.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā X.4 (on verse 134), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Sace neresīti sace attānaṃ niccalaṃ kātuṃ sakkhissasi. Kaṃso upahato yathāti mukhavaṭṭiyaṃ chinditvā talamattaṃ katvā ṭhapitakaṃsathālaṃ viya. Tañhi hatthapādehi vā daṇḍakena vā pahaṭampi saddaṃ na karoti, esa pattosīti sace evarūpo bhavituṃ sakkhissasi, imaṃ paṭipadaṃ pūrayamāno idāni appattopi eso nibbānappatto nāma.",
+     "gloss": "‘If you do not stir’: if you are able to make yourself unmoving. ‘Like a struck bronze’: like a bronze dish set down after its rim has been cut away and it has been made a bare base. For that, even when struck with hands or feet or a stick, makes no sound. ‘This one has attained’: if you are able to become such, then, carrying this practice through, though you have not attained it now, this one is called ‘attained to nibbāna’."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d010-s",
+    "key": "All men tremble at punishment, all men fear death; remember that you are like unto them, and do not kill, nor cause slaughter.",
+    "ref": "Dhammapada 129",
+    "at": [128],
+    "s": "Opening a chapter on punishment, the verse forbids killing; the Theravāda commentary, Dhammapada-aṭṭhakathā X.1, reads ‘All men’ as excepting four who do not fear: the one whose taints are destroyed, who sees no being that dies, and the thoroughbred elephant, horse and bull.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā X.1 (on verse 129), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Imissā ca desanāya byañjanaṃ niravasesaṃ, attho pana sāvaseso. … evamidha ‘‘sabbe tasantī’’ti vuttepi hatthājāneyyo assājāneyyo usabhājāneyyo khīṇāsavoti ime cattāro ṭhapetvā avasesāva tasantīti veditabbā. Imesu hi khīṇāsavo sakkāyadiṭṭhiyā pahīnattā maraṇakasattaṃ apassanto na bhāyati, itare tayo sakkāyadiṭṭhiyā balavattā attano paṭipakkhabhūtaṃ sattaṃ apassantā na bhāyantīti.",
+     "gloss": "In this teaching the wording leaves nothing out, but the meaning does leave something out. … So here, although ‘all tremble’ is said, it is to be understood that, leaving out these four, the thoroughbred elephant, the thoroughbred horse, the thoroughbred bull and the one whose taints are destroyed, only the rest tremble. Of these, the one whose taints are destroyed, having abandoned the view of a self, sees no being that dies and so does not fear; the other three, because their view of a self is strong, see no being that could stand against them and so do not fear."
+    }
+   }
+  },
+  {
+   "d": 11,
+   "primary": {
+    "id": "pali-01-d011-p",
+    "key": "But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.",
+    "ref": "Dhammapada 153 to 154",
+    "at": [152],
+    "s": "Amid verses on the ageing body, the passage tells in the first person of a builder long sought and found; the Theravāda commentary, Dhammapada-aṭṭhakathā XI.8, reads the tabernacle as individual existence, its maker as craving, the rafters as the defilements and the ridge-pole as ignorance.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XI.8 (on verses 153 to 154), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "gahakāraṃ gavesantoti ahaṃ imassa attabhāvasaṅkhātassa gehassa kārakaṃ taṇhāvaḍḍhakiṃ gavesanto … Puna gehanti puna imasmiṃ saṃsāravaṭṭe attabhāvasaṅkhātaṃ mama gehaṃ na kāhasi. Sabbā te phāsukā bhaggāti tava sabbā avasesā kilesaphāsukā mayā bhaggā. Gahakūṭaṃ visaṅkhatanti imassa tayā katassa attabhāvagehassa avijjāsaṅkhātaṃ kaṇṇikamaṇḍalampi mayā viddhaṃsitaṃ.",
+     "gloss": "‘Seeking the house-builder’: I, seeking the maker of this house called individual existence, the carpenter craving … ‘A house again’: you will not again make my house called individual existence in this round of rebirth. ‘All your rafters are broken’: all your remaining rafters, the defilements, are broken by me. ‘The ridge-pole is dismantled’: the ridge-pole of this house of individual existence that you made, the one called ignorance, is also destroyed by me."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d011-s",
+    "key": "A man who has learnt little, grows old like an ox; his flesh grows, but his knowledge does not grow.",
+    "ref": "Dhammapada 152",
+    "at": [151],
+    "s": "Among verses on the body’s decay, the verse weighs a life spent without learning; the Theravāda commentary, Dhammapada-aṭṭhakathā XI.7, reads ‘learnt little’ as knowing few discourses, yet counts as learned one who takes up a meditation subject and practises it.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XI.7 (on verse 152), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha appassutāyanti ekassa vā dvinnaṃ vā paṇṇāsakānaṃ. Atha vā pana vaggānaṃ sabbantimena paricchedena ekassa vā dvinnaṃ vā suttantānaṃ vāpi abhāvena appassuto ayaṃ. Kammaṭṭhānaṃ pana uggahetvā anuyuñjanto bahussutova.",
+     "gloss": "‘This man of little learning’: (lacking) one or two sets of fifty (discourses). Or else, at the very lowest measure among the divisions, through lacking even one or two discourses, this man is of little learning. But one who has taken up a meditation subject and applies himself to it is learned indeed."
+    }
+   }
+  },
+  {
+   "d": 12,
+   "primary": {
+    "id": "pali-01-d012-p",
+    "key": "If a man hold himself dear, let him watch himself carefully; during one at least out of the three watches a wise man should be watchful.",
+    "ref": "Dhammapada 157",
+    "at": [156],
+    "s": "Opening a chapter on the self, the verse ties self-regard to vigilance; the Theravāda commentary, Dhammapada-aṭṭhakathā XII.1, reads the three watches as the three stages of life, and guarding oneself as doing good in at least one of them, not hiding behind shut doors.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XII.1 (on verse 157), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha yāmanti satthā attano dhammissaratāya desanākusalatāya ca idha tiṇṇaṃ vayānaṃ aññataraṃ vayaṃ yāmanti katvā desesi … Tattha sace gīhī samāno ‘‘attānaṃ rakkhissāmī’’ti uparipāsādatale susaṃvutaṃ gabbhaṃ pavisitvā sampannārakkho hutvā vasantopi, pabbajito hutvā susaṃvute pihitadvāravātapāne leṇe viharantopi attānaṃ na rakkhatiyeva. Gihī pana samāno yathābalaṃ dānasīlādīni puññāni karonto, pabbajito vā pana vattapaṭivattapariyattimanasikāresu ussukkaṃ āpajjanto attānaṃ rakkhati nāma. Evaṃ tīsu vayesu asakkonto aññatarasmimpi vaye paṇḍitapuriso attānaṃ paṭijaggatiyeva.",
+     "gloss": "‘Watch’: here the Teacher, by his mastery of the teaching and his skill in teaching, taught making one of the three stages of life a ‘watch’ … Here, if a householder, thinking ‘I will guard myself’, enters a well-closed room on the upper floor of a mansion and lives there fully guarded, or a renunciant lives in a cave well closed with its doors and windows shut, he does not guard himself at all. But a householder doing merit, giving, virtue and the rest, as far as he is able, or a renunciant eager in his duties, his learning and his attention, is said to guard himself. So, if he cannot do it in all three stages of life, the wise man looks after himself in at least one of them."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d012-s",
+    "key": "Self is the lord of self, who else could be the lord? With self well subdued, a man finds a lord such as few can find.",
+    "ref": "Dhammapada 160",
+    "at": [159],
+    "s": "After verses on taming oneself before teaching others, the verse turns to the self; the Theravāda commentary, Dhammapada-aṭṭhakathā XII.4, reads ‘lord’ as support, since only one standing on himself can win heaven, the path or its fruit, and the lord hard to find as arahantship.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XII.4 (on verse 160), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha nāthoti patiṭṭhā. … yasmā attani ṭhitena attasampannena kusalaṃ katvā saggaṃ vā pāpuṇituṃ, maggaṃ vā bhāvetuṃ, phalaṃ vā sacchikātuṃ sakkā. Tasmā hi attāva attano patiṭṭhā hoti, paro ko nāma kassa patiṭṭhā siyā. Attanā eva hi sudantena nibbisevanena arahattaphalasaṅkhātaṃ dullabhaṃ nāthaṃ labhati. Arahattañhi sandhāya idha ‘‘nāthaṃ labhati dullabha’’nti vuttaṃ.",
+     "gloss": "‘Lord’ means support. … Since it is by one who stands on himself, complete in himself, that good can be done and heaven reached, the path developed, or the fruit realised, the self alone is the support of the self; what other could be anyone’s support. By his own self well tamed, free of fault, he gains the support hard to gain that is called the fruit of arahantship. For it is with arahantship in view that ‘he gains a lord hard to gain’ is said here."
+    }
+   }
+  }
+ ]
+}

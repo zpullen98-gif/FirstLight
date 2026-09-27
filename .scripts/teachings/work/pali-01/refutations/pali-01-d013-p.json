@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 13: the Pali Tattha on Dhammapada 178 has the evidence verbatim (Sotāpattiphalaṃ varanti yasmā ettake ṭhāne rajjaṃ kāretvāpi nirayādīhi amuttova hoti, sotāpanno pana pihitāpāyadvāro hutvā ...). It glosses sole rule over the earth as a wheel-turning monarch’s rule and says one who has ruled so much is not freed from hell and the lower states, while the stream-enterer has the doors to the states of woe shut: the sentence carries exactly that. Story XIII.11 (Kala, Norman p. 191) agrees (the Fruit of Conversion surpasses a Universal Monarch and the worlds of gods and Brahma), so the locator XIII.11 is right. Plain sense true to day.js: 178 is the last verse of the chapter on the world. verse.js ok (Dhammapada 178, at 177); entry-check ok. Minor only: a world-ruler compresses the commentary’s ettake ṭhāne, which covers all three dominions, and the sentence leaves the reader to link stream-enterer to the verse’s first step; not a refutation.",
+ "better": ""
+}

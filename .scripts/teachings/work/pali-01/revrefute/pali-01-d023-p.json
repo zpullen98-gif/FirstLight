@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d023-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-ran day.js (verse 320 opens chapter 23, The Elephant), verse.js (ok, Dhammapada 320, at [319]) and entry-check.js on the revision (ok, no errors or warns). packet.js prints Burlingame XXIII.1 with the evidence words verbatim, the [2] mark before the Ananda exchange and [3] right after 'wicked men.'. In the cached CST Pali (1. Attadantavatthu) the same exchange runs from after <pb ed=P n=4.0002> (yattha adhikaraṇaṃ uppannaṃ, tattheva tasmiṃ vūpasante aññattha gantuṃ vaṭṭati) to sahanaṃ nāma <pb ed=P n=4.0003> mayhaṃ bhāro, so Norman vol. 4, pp. 2 to 3 is right, and Burlingame vol. 3 = HOS 30 = buddhistlegends03budd holds. The Buddha pronounces the stanzas 'so saying', 'with reference to himself', so the frame lesson (stay where the tumult arose until it settles; enduring the words of many wicked men is my duty, bhāro) is the commentary's reading of the verse, and the Tattha gloss agrees (adhivāsanaṃ ajjhupekkhanameva mama bhāro). 'Hired revilers' holds (nāgarānaṃ lañjaṃ datvā; 'for a bribe reviled'). Plain sense is context, shares no four-word run with the key, no dash, British form, no school needed, no comparison, tone even. Only src changed from the verified entry, and the change is accurate.",
+ "better": "The Pali word-commentary on 'dussīlo hi' (tattha adhivāsanaṃ ajjhupekkhanameva mama bhāro: among a multitude mostly ill-conducted, enduring and looking on with equanimity is my burden) is an equally strong, verse-internal alternative if the owner prefers the lesson drawn from the verse's own words over the frame."
+}

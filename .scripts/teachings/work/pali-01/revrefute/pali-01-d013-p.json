@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Revision changes only the src (‘tipitaka-xml 60c7fb3’ to ‘commit 60c7fb3 (2023)’). Re-opened packet.js pali 13: the Pali Tattha on 178 has the evidence verbatim (Sotāpattiphalaṃ varanti yasmā ettake ṭhāne rajjaṃ kāretvāpi nirayādīhi amuttova hoti, sotāpanno pana pihitāpāyadvāro hutvā ...), and it glosses sole rule over the earth as cakkavattirajja. The reading (a ruler still not freed from hell, the stream-enterer with the doors to the states of woe shut) is carried by those words; Story XIII.11 (Kala, Norman p. 191) agrees and fixes the locator. Plain sense true to day.js: 178 closes the chapter on the world. verse.js ok (Dhammapada 178, at 177); entry-check ok. Minor only: ‘world-ruler’ compresses ettake ṭhāne and ‘hell’ narrows nirayādīhi (hell and the rest); the colon after ‘explains why’ passes the gate. Not a refutation.",
+ "better": ""
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If, like a shattered metal plate (gong), thou utter not, then thou hast reached Nirvana; contention is not known to thee.",
+ "ref": "Dhammapada 134",
+ "at": [
+  133
+ ],
+ "s": "After a warning that harsh words come back in kind, the verse turns to silence; the Theravāda commentary, Dhammapada-aṭṭhakathā X.4, reads the plate as a rimless dish, soundless when struck, and ‘reached Nirvana’ as said of one who keeps so still though not yet arrived.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā X.4 (on verse 134), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "chapter 10, story 4, Tattha on Dhammapada 133 to 134 (sace neresi, kaṃso upahato yathā, esa pattosi)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 29 (1921), archive.org buddhistlegends02budd (OCR)",
+    "locator": "Story X.4 (Dhammapada 133 to 134), The Monk and the Phantom, Norman p. 57",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), archive.org dhammapadacollection01ml",
+    "locator": "Note on 134",
+    "via": "packet"
+   }
+  ],
+  "words": "Sace neresīti sace attānaṃ niccalaṃ kātuṃ sakkhissasi. Kaṃso upahato yathāti mukhavaṭṭiyaṃ chinditvā talamattaṃ katvā ṭhapitakaṃsathālaṃ viya. Tañhi hatthapādehi vā daṇḍakena vā pahaṭampi saddaṃ na karoti, esa pattosīti sace evarūpo bhavituṃ sakkhissasi, imaṃ paṭipadaṃ pūrayamāno idāni appattopi eso nibbānappatto nāma.",
+  "lang": "Pali",
+  "gloss": "“If you do not stir”: if you are able to make yourself unmoving. “Like a struck bronze”: like a bronze dish set down after its rim has been cut off and it is made a bare base. For that, even when struck with hands or feet or a stick, makes no sound. “This one has reached”: if you are able to become such, fulfilling this practice, though you have not attained it now, this one is called “attained to nibbāna”.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The Pali explanation glosses neresi as making oneself unmoving, the struck bronze as a bronze dish with its rim cut away, which gives no sound however it is struck, and says one who can be so, fulfilling the practice, is called attained to nibbāna though not yet attained. The sentence carries exactly this; Burlingame X.4 frames it the same way (make no sound, like a brass plate shattered at the rim). X.4 is the right story; the Pali is the right source for a word-level reading, as the brief requires. Key verse verbatim (ok: true, ref and at match). Plain sense is faithful: 133 warns that harsh words are answered in kind, 134 turns to not uttering. entry-check ok."
+}

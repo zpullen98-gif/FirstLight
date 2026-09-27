@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d021-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 21: the Pali on 294 carries the evidence verbatim: craving (taṇhā) is the mother, the conceit I am (asmimāna) the father, the eternalist and annihilationist views the two warrior kings, the twelve bases the kingdom, delight and lust the retinue, and all slain by the sword of the knowledge of the arahat path (arahattamaggañāṇāsinā hatattā). The sentence (mother as craving, father as self-conceit, two kings as views of eternity and annihilation, all slain by the path of arahatship) is carried without drift and is the commentary’s own, not Müller’s (his note on 294 to 295 reports the allegory only via D’Alwis and ranges wider; nothing of it is imported). Locator XXI.4 matches Burlingame (The Monk Who Had Killed His Mother and Father, Lakuṇṭaka Bhaddiya, on 294 to 295). Hard passage: plain sense states the killing plainly in one clause, no softening, no polemic. verse.js ok (Dhammapada 294, at 293); entry-check ok (44 words).",
+ "better": ""
+}

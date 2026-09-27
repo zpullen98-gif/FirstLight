@@ -38,6 +38,12 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - The commentary is ascribed by tradition to Buddhaghosa: never state the ascription as fact. Name it "the Theravāda commentary".
 - Burlingame translates the stories the commentary tells to frame each verse. The reading is the lesson the story draws from the verse, located by book, story, volume and page.
 - Müller prints nine pairs of verses as one paragraph: cite the pair as "Dhammapada 58 to 59".
+- A Burlingame story often reports what the monks say of an elder and then gives the Teacher’s correction: the reading is the Teacher’s answer, never the monks’ report. Read to the end of the story. (Found in pali-01.)
+- A story may frame only one line of a verse: a reading of the whole verse comes from the Pali explanation; a reading from the story says it frames the line it frames. (Found in pali-01.)
+- A plain sense that ranks or lists what the key verse ranks or lists is the verse restated, and tends to misstate one member: give the verse’s place in the chapter instead. (Found in pali-01.)
+- When the commentary reads every line of a hard verse figuratively (verse 294: mother as craving, father as conceit), the reading carries every line it reads, or the line left out stands to be read literally. (Found in pali-01.)
+- When the commentary names what a phrase stands for and then gives its reason, carry the naming as well as the reason. (Found in pali-01.)
+- A “whenever” or “while” clause at the end of a relative clause attaches to the nearest verb: put it beside the verb it governs; and when a revision is opened for one field, read the whole sentence again. (Found in pali-01, all plans.)
 
 ## gita
 

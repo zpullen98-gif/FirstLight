@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "A true Brahmana goes scatheless, though he have killed father and mother, and two valiant kings, though he has destroyed a kingdom with all its subjects.",
+ "ref": "Dhammapada 294",
+ "at": [
+  293
+ ],
+ "s": "Among miscellaneous sayings, this verse has a killer of parents and kings go unharmed; the Theravāda commentary, on Dhammapada 294, reads mother as craving, father as conceit, kings as eternalist and annihilationist views, the kingdom as the sense bases, all slain by the arahat path.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXI.4 (on Dhammapada 294), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā, Pakiṇṇakavagga, Lakuṇṭakabhaddiyattheravatthu (XXI.4), commentary on verse 294",
+    "via": "packet"
+   }
+  ],
+  "words": "tīsu bhavesu sattānaṃ jananato taṇhā mātā nāma. ‘‘Ahaṃ asukassa nāma rañño vā rājamahāmattassa vā putto’’ti pitaraṃ nissāya asmimānassa uppajjanato asmimāno pitā nāma. Loko viya rājānaṃ yasmā sabbadiṭṭhigatāni dve sassatucchedadiṭṭhiyo bhajanti, tasmā dve sassatucchedadiṭṭhiyo dve khattiyarājāno nāma. Dvādasāyatanāni vitthataṭṭhena raṭṭhadisattā raṭṭhaṃ nāma. Āyasādhako āyuttakapuriso viya tannissito nandirāgo anucaro nāma. Anīghoti niddukkho. Brāhmaṇoti khīṇāsavo. Etesaṃ taṇhādīnaṃ arahattamaggañāṇāsinā hatattā khīṇāsavo niddukkho hutvā yātīti ayametthattho.",
+  "lang": "pi",
+  "gloss": "Craving is called the mother because it gives birth to beings in the three kinds of becoming; the conceit ‘I am’ is called the father because it arises in dependence on a father (‘I am the son of such a king or minister’); the two views of eternalism and annihilationism, which all views follow as the world follows a king, are the two warrior kings; the twelve sense bases, being like a kingdom in their extent, are the kingdom; delight-and-lust dependent on them, like a revenue officer, is the retinue (the subjects); ‘scatheless’ is free of suffering; the Brahmana is one whose taints are destroyed. Because craving and the rest are slain with the sword of the knowledge of the arahat path, he goes free of suffering: this is the meaning here.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "The problem holds: the verse’s widest act, destroying a kingdom with its subjects, was left out of the reading, so that line stood to be read literally beside a figurative reading of the rest, though the commentary reads it too (Dvādasāyatanāni … raṭṭhaṃ nāma; nandirāgo anucaro nāma). Reopened packet.js pali 21: the corrected reading (mother craving, father conceit, kings the eternalist and annihilationist views, the kingdom the sense bases, all slain by the arahat path: taṇhādīnaṃ arahattamaggañāṇāsinā hatattā) is carried verbatim by the evidence. Hard passage: the plain sense still states the killing in one plain clause, and the commentary’s figurative limit is attributed to it. Commentator, place, key, ref and at unchanged. verse.js ok (Dhammapada 294, at 293); entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d010-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 10: the Pali Tattha on 133 to 134 (chapter 10, story 4, Koṇḍadhāna; Burlingame X.4 The Monk and the Phantom) has the evidence verbatim: sace neresī as making oneself niccala (unmoving), kaṃso upahato as a bronze dish with its rim cut off (mukhavaṭṭiyaṃ chinditvā) that makes no sound when struck, and esa pattosi as ‘though not attained now, called attained to nibbāna’ (idāni appattopi eso nibbānappatto nāma). Paraphrase (rimless dish, soundless when struck, still, not yet arrived) is carried without drift; Burlingame’s story agrees (brass plate shattered at the rim makes no sound). Plain sense true to day.js: 133 warns harsh words are answered in kind, 134 turns to not uttering; no four verse words reused. Locator X.4 right. verse.js ok (ref Dhammapada 134, at [133]); entry-check ok. Commit year 2023 confirmed by another verifier via GitHub API.",
+ "better": ""
+}

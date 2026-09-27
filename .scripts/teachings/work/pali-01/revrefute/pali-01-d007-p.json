@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 7: the Pali on verse 90 carries the evidence verbatim (Pariḷāho na vijjatīti duvidho pariḷāho kāyiko cetasiko cāti. Tesu khīṇāsavassa sītuṇhādivasena uppannattā kāyikapariḷāho anibbutova ... cetasikapariḷāhavasena desanaṃ vinivattento ... paramatthena ... pariḷāho na vijjatī). The paraphrase (the suffering that ceases is the mind’s fever, for heat and cold still reach the body even of one whose cankers are destroyed) is this gloss; ‘reach the body’ slightly understates ‘bodily fever from cold and heat is not quenched’ but claims nothing beyond it. Burlingame VII.1 (Jīvaka and the wound, Norman pp. 164 to 166) frames the same question, so the story and Pali agree. The reading is the commentary’s, not Müller’s (no note on 90). Plain sense true to day.js: 90 opens chapter VII, The Venerable (Arhat). verse.js ok (Dhammapada 90, at 89); entry-check ok, no warnings.",
+ "better": ""
+}

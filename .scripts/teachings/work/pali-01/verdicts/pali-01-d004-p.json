@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.",
+ "ref": "Dhammapada 49",
+ "at": [
+  48
+ ],
+ "s": "After two verses on death and distraction, the chapter of flowers turns to the sage; the Theravāda commentary, Dhammapada-aṭṭhakathā IV.5, reads it as the monk who wins a household over, making the Buddha’s virtues known without impairing its faith or its riches.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IV.5 (on verse 49), trans. Burlingame, Buddhist Legends, part 2 (1921)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, part 2, HOS 29 (1921), archive.org buddhistlegends02budd (OCR)",
+    "via": "packet",
+    "locator": "Story IV.5 (Dhammapada 49), Niggardly Kosiya, Norman pp. 366 to 376 (the Teacher in the Hall of Truth, before the stanza)"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3 (2023)",
+    "via": "packet",
+    "locator": "Tattha on Dhammapada 49 (bhamaroti ...)"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "Müller, SBE 10 (1881), notes",
+    "via": "packet",
+    "locator": "notes on chapter IV"
+   }
+  ],
+  "words": "Monks, a monk who would convert a household without impairing faith, without impairing riches, without wearying or oppressing that household, must approach that household to make known the virtues of the Buddha as a bee approaches a flower to gather honey therefrom.",
+  "lang": "en",
+  "gloss": "Story IV.5: after Moggallana won over the miserly treasurer Kosiya, the Teacher tells the monks that a monk who would convert a household must approach it to make the Buddha’s virtues known as a bee approaches a flower, without impairing its faith or its riches, and speaks verse 49. The Pali explanation agrees: Na hi tassa gāme caraṇapaccayā kulānaṃ saddhāhāni vā bhogahāni vā honti (his going in the village brings the families no loss of faith or of wealth).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 49, at [48] match). Read the whole of chapter IV in the packet: Story IV.5 in Burlingame carries the reading word for word (convert a household, make known the virtues of the Buddha, without impairing faith or riches), and the Pali Tattha on verse 49 independently says the sage’s round brings the families no loss of faith or wealth. Plain sense faithful: verses 47 and 48 are on death seizing the distracted man. Place IV.5 and src correct (Buddhist Legends part 2 is HOS 29). entry-check ok."
+}

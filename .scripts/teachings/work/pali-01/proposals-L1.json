@@ -1,0 +1,124 @@
+{
+ "lane": "L1",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "pali-01-d001-p",
+    "key": "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
+    "ref": "Dhammapada 5",
+    "at": [
+     4
+    ],
+    "s": "After two verses on nursing and letting go the memory of abuse and robbery, the twin-verses turn to how enmity ends; the Theravāda commentary, on verse 5, reads answering abuse with abuse as washing filth with filth, and patience and loving-kindness as clear water.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā I.4 (on verse 5), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "yathā hi kheḷasiṅghāṇikādīhi asucīhi makkhitaṃ ṭhānaṃ teheva asucīhi dhovantā suddhaṃ niggandhaṃ kātuṃ na sakkonti, atha kho taṃ ṭhānaṃ bhiyyosomattāya asuddhatarañceva duggandhatarañca hoti; evameva akkosantaṃ paccakkosanto paharantaṃ paṭipaharanto verena veraṃ vūpasametuṃ na sakkoti … yathā pana tāni kheḷādīni asucīni vippasannena udakena dhoviyamānāni nassanti, taṃ ṭhānaṃ suddhaṃ hoti sugandhaṃ; evameva averena khantimettodakena yoniso manasikārena paccavekkhaṇena verāni vūpasammanti",
+     "gloss": "Just as people who wash a place smeared with filth such as spittle and snot with that same filth cannot make it clean and free of smell, but the place becomes still more impure and foul-smelling, so one who reviles the reviler in return and strikes the striker in return cannot calm enmity with enmity … But just as that filth, washed with very clear water, disappears and the place becomes clean and fragrant, so by non-enmity, by the water of patience and loving-kindness, by wise attention and reflection, enmities are calmed."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d001-s",
+    "key": "The thoughtless man, even if he can recite a large portion (of the law), but is not a doer of it, has no share in the priesthood, but is like a cowherd counting the cows of others.",
+    "ref": "Dhammapada 19",
+    "at": [
+     18
+    ],
+    "s": "The twin-verses close by setting the reciter who does not act beside the one who acts; the Theravāda commentary, in story I.14, reads the learned teacher as a hired cowherd and the old monk who meditated as the owner enjoying the cow’s five products.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā I.14 (on verses 19 to 20), trans. Burlingame, Buddhist Legends, part 1 (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "Reverend Sir, since I became a monk in old age, I shall not be able to fulfill the Duty of Study, but I can fulfill the Duty of Meditation … Monks, your own teacher is in my Religion like a man who tends cows for hire. But my son is like a master who enjoys the five products of the cow at his own good pleasure.",
+     "gloss": "The older of two monks, ordained late, takes up the Duty of Meditation rather than the Duty of Study and becomes an arahat; to the pupils of the younger, learned monk the Teacher says that their teacher is like a man who tends cows for hire, while the older monk is like the owner who enjoys the five products of the cow as he pleases."
+    }
+   }
+  },
+  {
+   "d": 2,
+   "primary": {
+    "id": "pali-01-d002-p",
+    "key": "Earnestness is the path of immortality (Nirvana), thoughtlessness the path of death. Those who are in earnest do not die, those who are thoughtless are as if dead already.",
+    "ref": "Dhammapada 21",
+    "at": [
+     20
+    ],
+    "s": "The chapter on earnestness opens by weighing the earnest against the thoughtless; the Theravāda commentary, on verse 21, reads the earnest who ‘do not die’ as those whose round of rebirth has a limit, for no being escapes age and death.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā II.1 (on verses 21 to 23), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Ajarā amarā hontīti na sallakkhetabbaṃ. Na hi koci satto ajaro amaro nāma atthi, pamattassa pana vaṭṭaṃ nāma aparicchinnaṃ, appamattassa paricchinnaṃ. … Appamattā pana appamādalakkhaṇaṃ vaḍḍhetvā khippaṃ maggaphalāni sacchikatvā dutiyatatiyaattabhāvesu na nibbattanti. Tasmā te jīvantāpi matāpi na mīyantiyeva nāma.",
+     "gloss": "It should not be taken that they become unageing and undying. For there is no being that is unageing and undying; but for the heedless the round is unbounded, for the heedful it is bounded. … The heedful, developing the mark of heedfulness, quickly realise the paths and fruits and are not reborn in a second or third existence. So, living or dead, they are said not to die."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d002-s",
+    "key": "By rousing himself, by earnestness, by restraint and control, the wise man may make for himself an island which no flood can overwhelm.",
+    "ref": "Dhammapada 25",
+    "at": [
+     24
+    ],
+    "s": "In a chapter praising earnestness, the verse turns from its rewards to an image of refuge; the Theravāda commentary, on verse 25, reads the island as arahatship, a footing in the deep ocean of rebirth that no flood of defilement can sweep over.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā II.3 (on verse 25), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "medhāvī imasmiṃ ativiya dullabhapatiṭṭhatāya atigambhīre saṃsārasāgare attano patiṭṭhānabhūtaṃ arahattaphalaṃ dīpaṃ kayirātha kareyya, kātuṃ sakkuṇeyyāti attho. Kīdisaṃ? Yaṃ ogho nābhikīratīti yaṃ catubbidhopi kilesogho abhikirituṃ viddhaṃsetuṃ na sakkoti. Na hi sakkā arahattaṃ oghena abhikiritunti.",
+     "gloss": "The wise man, in this very deep ocean of saṃsāra where a footing is exceedingly hard to find, should make, that is, is able to make, the fruit of arahatship, which becomes his own footing, into an island. Of what kind? One that no flood overwhelms: one that even the fourfold flood of defilements cannot overwhelm or destroy. For arahatship cannot be overwhelmed by the flood."
+    }
+   }
+  },
+  {
+   "d": 3,
+   "primary": {
+    "id": "pali-01-d003-p",
+    "key": "As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back.",
+    "ref": "Dhammapada 33",
+    "at": [
+     32
+    ],
+    "s": "The chapter on thought opens with an image for the restless mind; the Theravāda commentary, on verse 33, reads the fletcher’s work of stripping, oiling, heating and pressing as shedding gross defilements, moistening with faith, heating with effort, and straightening by calm and insight.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā III.1 (on verses 33 to 34), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "yathā nāma usukāro araññato ekaṃ vaṅkadaṇḍakaṃ āharitvā nittacaṃ katvā kañjiyatelena makkhetvā aṅgārakapalle tāpetvā rukkhālake uppīḷetvā nivaṅkaṃ ujuṃ vālavijjhanayoggaṃ karoti … evameva medhāvī paṇḍito viññū puriso phandanādisabhāvametaṃ cittaṃ dhutaṅgāraññāvāsavasena, nittacaṃ apagataoḷārikakilesaṃ katvā saddhāsinehena temetvā kāyikacetasikavīriyena tāpetvā samathavipassanālake uppīḷetvā ujuṃ akuṭilaṃ nibbisevanaṃ karoti",
+     "gloss": "Just as a fletcher brings a crooked stick from the forest, strips off its bark, smears it with rice-gruel and oil, heats it over a pan of coals, presses it in the crook of a tree and makes it straight, fit to split a hair … so the wise, discerning man takes this mind, whose nature is to quiver, strips its bark by the ascetic practices and dwelling in the forest, so that its gross defilements are gone, moistens it with the oil of faith, heats it with bodily and mental energy, presses it in the crook of calm and insight, and makes it straight, uncrooked and tame."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d003-s",
+    "key": "Let the wise man guard his thoughts, for they are difficult to perceive, very artful, and they rush wherever they list: thoughts well guarded bring happiness.",
+    "ref": "Dhammapada 36",
+    "at": [
+     35
+    ],
+    "s": "After a verse on taming the flighty mind, the chapter turns to guarding it; the Theravāda commentary, in story III.3, reads the verse as counsel to a monk wearied by rules to guard one thing, his thoughts, so that the rest need no guarding.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā III.3 (on verse 36), trans. Burlingame, Buddhist Legends, part 2 (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "Reverend Sir, I have come to the following conclusion, ‘ Here there is not even room for me to stretch out my hands. It is possible for me to obtain Release from Suffering as a householder. I will therefore become a householder.’” “Monk, if you can guard one thing, it will not be necessary for you to guard the rest.” “What is that, Reverend Sir?” “Can you guard your thoughts?” “I can. Reverend Sir.” “Well then, guard your thoughts alone.”",
+     "gloss": "A monk, taught by one teacher from the Abhidhamma and by another from the Vinaya what is lawful and unlawful, finds no room to stretch out his hands and resolves to return to the household life; the Teacher tells him that if he can guard one thing he need not guard the rest, and that one thing is his thoughts: guard your thoughts alone."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust).",
+ "ref": "Dhammapada 283",
+ "at": [
+  282
+ ],
+ "s": "Between a verse on zeal and one on love’s bond, the chapter speaks to the Bhikshus; the Theravāda commentary, on Dhammapada 283, hears ‘not a tree’ as the Teacher stopping new monks felling real trees, since he meant the forest of defilements such as lust.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XX.8 (on Dhammapada 283), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā, Maggavagga, story of the old monks (XX.8), commentary on verses 283 to 284",
+    "via": "packet"
+   }
+  ],
+  "words": "Tattha mā rukkhanti satthārā hi ‘‘vanaṃ chindathā’’ti vutte tesaṃ acirapabbajitānaṃ ‘‘satthā amhe vāsiādīni gahetvā vanaṃ chindāpetī’’ti rukkhaṃ chinditukāmatā uppajji. Atha ne ‘‘mayā rāgādikilesavanaṃ sandhāyetaṃ vuttaṃ, na rukkhe’’ti paṭisedhento ‘‘mā rukkha’’nti āha.",
+  "lang": "pi",
+  "gloss": "‘Not a tree’: when the Teacher said ‘Cut down the forest’, a wish to cut trees arose in those recently ordained monks, thinking ‘the Teacher is having us take adzes and the like and cut down the forest’; then, forbidding them with ‘I said this with reference to the forest of defilements such as lust, not trees’, he said ‘not a tree’.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Dhammapada 283, at [282]; the first two whole sentences of the unit, parentheses kept). Plain sense faithful: 282 is on zeal (yoga), 284 on the bond of love towards women, and 283 addresses the Bhikshus. The Pali on 283 says exactly that the recently ordained took ‘cut down the forest’ literally and the Teacher forbade it, meaning the forest of defilements such as lust (rāgādikilesavana); this is the commentary's own gloss, not Müller's parenthesis. Burlingame XX.8 is the story for 283 to 284 (old monks, recently ordained), so the place is right. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-ran day.js, packet.js, verse.js (ok, Dhammapada 5, at [4]) and entry-check.js (ok, 44 words). The evidence words are verbatim in the packet and in the cached CST file at commit 60c7fb3 (Tattha na hi verena ..., commentary on verse 5), and the story is subhead 4. Kāḷayakkhinīvatthu in the Yamakavagga, so I.4 is right; the commit is dated 2023-06-22 (GitHub API). The Pali carries the whole reading: reviling the reviler and striking the striker is washing filth with filth (kheḷasiṅghāṇikādīhi asucīhi ... teheva asucīhi dhovantā), and non-enmity is the clear water, khantimettodaka, the water of patience and loving-kindness. Plain sense is correct (verses 3 to 4 are the harbouring and not harbouring pair). Small point, not enough to refute: the plain sense says enmity, which is the Pali vera, where Müller prints hatred. No school needed, no comparison, no softening, no Buddhaghosa ascription.",
+ "better": ""
+}

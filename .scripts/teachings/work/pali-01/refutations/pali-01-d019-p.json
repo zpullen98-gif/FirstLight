@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d019-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 19: the Pali explanation of 268 to 269 (Tattha na monenati ...) carries the evidence words verbatim (Yo ca tulaṃva pagayhāti ... kusalaṃ paripūreti): the balance simile, evil taken away like the excess, the wholesome filled in where short, exactly as the sentence has it; later the same gloss has the sage weigh inner and outer aggregates as on a scale, so reads the balance as weighing does not overreach. Locator XIX.8 matches Burlingame (It Is Not Silence That Makes the Sage, on 268 to 269) and the Titthiyavatthu. Plain sense true to day.js: the chapter sets titles (just, learned, elder, Samana, Bhikshu, Muni, Ariya) against conduct and 268 to 269 follow the Bhikshu pair 266 to 267. The reading comes from the Pali, not Müller (whose note on 266 to 270 is only etymology). verse.js ok (Dhammapada 268 to 269, at 267, 53 words); entry-check ok (44 words). Minor only: the story lesson (silence alone does not make a sage, against the heretics) would also serve, but the Pali gloss is the commentary’s own.",
+ "better": ""
+}

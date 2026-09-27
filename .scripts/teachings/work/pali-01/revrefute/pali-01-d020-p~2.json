@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d020-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 20: the Pali on 283 to 284 (Tattha mā rukkhanti ... ‘‘mā rukkha’’nti āha) carries the evidence verbatim; acirapabbajitānaṃ is new monks, rukkhaṃ chinditukāmatā uppajji is their taking him to mean trees, paṭisedhento is checking, rāgādikilesavanaṃ ... na rukkhe is the forest of defilements such as lust, not trees. No drift. The reading is the commentary’s, not Müller’s parenthesis or his pun note (Note on 283). XX.8 is Burlingame’s story on 283 to 284 (The Old Monks and the Old Woman). Plain sense true to day.js: 282 on zeal, 284 on the bondage of love, 283 addresses the Bhikshus. The only change, ‘on verse 283’ in s and src, is a correct verse place. verse.js ok (Dhammapada 283, at 282); entry-check ok, no warnings. Noted, not landing: the quote ‘not a tree’ drops Müller’s ‘only’, which the Pali mā rukkhaṃ does not carry, so the commentary’s reading stands against the translator’s gloss rather than being imported from it.",
+ "better": "Alternative on the same Tattha, covering more of the key: as fear of lions and the like arises from an ordinary forest, so the fear of birth and the rest arises from the forest of defilements (Vanatoti yathā pākatikavanato sīhādibhayaṃ jāyati, evaṃ jātiādibhayampi kilesavanato jāyatīti attho)."
+}

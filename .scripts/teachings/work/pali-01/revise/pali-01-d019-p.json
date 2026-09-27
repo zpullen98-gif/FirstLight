@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "A man is not a Muni because he observes silence (mona, i.e. mauna), if he is foolish and ignorant; but the wise who, taking the balance, chooses the good and avoids evil, he is a Muni, and is a Muni thereby; he who in this world weighs both sides is called a Muni.",
+ "ref": "Dhammapada 268 to 269",
+ "at": [
+  267
+ ],
+ "s": "In a chapter testing titles against conduct, the pair after the Bhikshu verses takes up the Muni; the Theravāda commentary, on Dhammapada 268 to 269, reads the sage as a weigher at the scales, removing evil like an excess and adding the wholesome where short.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIX.8 (on Dhammapada 268 to 269), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā, Dhammaṭṭhavagga, Titthiyavatthu (XIX.8), commentary on verses 268 to 269",
+    "via": "packet"
+   }
+  ],
+  "words": "Yo ca tulaṃva pagayhāti yathā hi tulaṃ gahetvā ṭhito atirekaṃ ce hoti, harati. Ūnaṃ ce hoti, pakkhipati. Evameva yo atirekaṃ haranto viya pāpaṃ harati parivajjeti, ūnake pakkhipanto viya kusalaṃ paripūreti. … Sa munīti so muni nāmāti attho.",
+  "lang": "pi",
+  "gloss": "‘As if taking up a balance’: just as one standing with a balance in hand takes some away if there is too much and puts some in if there is too little, so he, as if removing the excess, removes and avoids evil, and, as if putting in where it is short, fills up the wholesome. … ‘He is a Muni’: the meaning is, he is called a sage.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds as a matter of prose: ‘reads the balance as weighing’ is circular and leaves the image detached from its point. The Pali on 268 to 269 (packet.js pali 19, reopened) likens the sage to one standing at the scales (tulaṃ gahetvā ṭhito) who takes away the excess and puts in where short, and then says of that man ‘so muni nāma’; so ‘reads the sage as a weigher at the scales, removing evil like an excess and adding the wholesome where short’ is carried word for word by the evidence. The plain sense loses only ‘of honour’ to stay within the cap; its sense is unchanged. Commentator, place, key, ref and at unchanged. verse.js ok (Dhammapada 268 to 269, at 267); entry-check ok."
+}

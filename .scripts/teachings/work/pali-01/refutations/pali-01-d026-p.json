@@ -1,0 +1,13 @@
+{
+ "id": "pali-01-d026-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends03budd",
+  "found": true
+ },
+ "attacks": [
+  "drift"
+ ],
+ "reason": "Re-opened packet.js pali 26: Story XXVI.9 (Norman [150] to [151]) has the evidence words verbatim and the Pali Tattha (yamhā ācariyā ... taṃ sakkaccaṃ namasseyya) carries the reading of reverence for the teacher; verse.js ok (Dhammapada 392, at 391) and entry-check ok. But the sentence says Sariputta reverenced whatever quarter Assaji stayed in, which is the very charge the story refutes: the monks report that he is doing reverence to the cardinal points, and the Teacher answers that Sariputta is not doing reverence to the cardinal points but has reverenced his own teacher. The commentary’s point is that the reverence is to the teacher, only directed towards his quarter; the entry as written attributes to Sariputta the reverence of the quarter that the Teacher denies. That is drift against the commentator’s own words, and must be reworded before it ships. Plain sense also reads his fire rite as if the fire rite belonged to the chapter’s true Brahmana; the fire rite is the ritual Brahmana’s, so the fire rite is cleaner (not a refutation on its own). The corrected sentence below passes entry-check (45 words).",
+ "better": "Amid sayings on the true Brahmana, this verse borrows the fire rite; the Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9, reads it as reverence for the teacher from whom the teaching was learnt, as Sariputta, who first heard it from Assaji, raised joined hands towards wherever Assaji stayed."
+}

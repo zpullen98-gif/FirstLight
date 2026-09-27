@@ -1,0 +1,124 @@
+{
+ "lane": "L6",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 16,
+   "primary": {
+    "id": "pali-01-d016-p",
+    "key": "From pleasure comes grief, from pleasure comes fear; he who is free from pleasure knows neither grief nor fear.",
+    "ref": "Dhammapada 212",
+    "at": [
+     211
+    ],
+    "s": "Here the chapter begins tracing grief and fear to five sources in turn; the Theravāda commentary, story XVI.2, reads it as comfort for a layman weeping daily at the burning-ground for his dead son: sorrow and fear arise only from one held dear.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVI.2 (on verse 212), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 276 to 278",
+    "basis": {
+     "source": "burlingame",
+     "words": "The story goes that this layman, on losing his son, was so overwhelmed with grief that he went every day to the burning-ground and wept … Therefore grieve not at the thought that your dear son is dead. For whether sorrow or fear arises, it arises solely because of one that is dear.",
+     "gloss": "A layman who had lost his son went every day to the cremation ground to weep; he is told not to grieve for his dead son, because sorrow or fear, whenever it arises, arises only on account of one who is dear."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d016-s",
+    "key": "Those who love nothing and hate nothing, have no fetters.",
+    "ref": "Dhammapada 211",
+    "at": [
+     210
+    ],
+    "s": "The passage draws its lesson from the pain of losing the pleasant and seeing the unpleasant; the Theravāda commentary, on verse 211, explains that with nothing dear the knot of covetousness is abandoned, with nothing disliked that of ill will, and the rest follow.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVI.1 (on verse 211), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Ganthā tesaṃ na vijjantīti yesaṃ piyaṃ natthi, tesaṃ abhijjhākāyagantho pahīyati. Yesaṃ appiyaṃ natthi, tesaṃ byāpādo kāyagantho. Tesu pana dvīsu pahīnesu sesaganthā pahīnā honti.",
+     "gloss": "‘For them no knots exist’: for those to whom nothing is dear, the bodily knot of covetousness is abandoned; for those to whom nothing is not dear, the bodily knot of ill will. And when those two are abandoned, the remaining knots are abandoned."
+    }
+   }
+  },
+  {
+   "d": 17,
+   "primary": {
+    "id": "pali-01-d017-p",
+    "key": "He who holds back rising anger like a rolling chariot, him I call a real driver; other people are but holding the reins.",
+    "ref": "Dhammapada 222",
+    "at": [
+     221
+    ],
+    "s": "Early in a chapter on anger, the verse gives restraint its image; the Theravāda commentary, story XVII.2, reads it as praise for a tree-spirit who, when a monk felling her tree cut off her child’s arm, checked her fury and did not strike him.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVII.2 (on verse 222), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 300 to 301",
+    "basis": {
+     "source": "burlingame",
+     "words": "The monk, however, had already swung his axe, was unable to check the force of his upraised axe, and cut off the arm of the child. Furious with anger, the tree-spirit raised both her hands and exclaimed, “I will strike him dead.” … Lowering her upraised hands, she went weeping to the Teacher … you have done well in holding in, like a swift-speeding chariot, your anger when it was thus aroused.",
+     "gloss": "The monk, unable to check his axe, cut off the tree-spirit’s child’s arm; she raised her hands to strike him dead, then lowered them and went weeping to the Teacher, who praised her for holding in her aroused anger like a swift chariot."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d017-s",
+    "key": "Speak the truth, do not yield to anger; give, if thou art asked for little; by these three steps thou wilt go near the gods.",
+    "ref": "Dhammapada 224",
+    "at": [
+     223
+    ],
+    "s": "Here the chapter’s counsels on anger widen to three practices; the Theravāda commentary, on verse 224, takes the asker as a virtuous renunciant standing at the house door, and holds that even one of the three leads to the world of the gods.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVII.4 (on verse 224), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Yācitoti yācakā nāma sīlavanto pabbajitā. Te hi kiñcāpi ‘‘dethā’’ti ayācitvāva gharadvāre tiṭṭhanti, atthato pana yācantiyeva nāma. … Etehi tīhīti etesu tīsu ekenāpi kāraṇena devalokaṃ gaccheyyāti attho.",
+     "gloss": "‘Asked’: those who ask are virtuous renunciants. For although they stand at the house door without asking ‘Give’, in substance they are asking. … ‘By these three’: the meaning is that by even one of these three causes one would go to the world of the gods."
+    }
+   }
+  },
+  {
+   "d": 18,
+   "primary": {
+    "id": "pali-01-d018-p",
+    "key": "Let a wise man blow off the impurities of his self, as a smith blows off the impurities of silver one by one, little by little, and from time to time.",
+    "ref": "Dhammapada 239",
+    "at": [
+     238
+    ],
+    "s": "Amid warnings of death and wrongdoing, the verse gives a smith’s image; the Theravāda commentary, story XVIII.2, reads it as spoken to a Brahman who improved the monks’ robing-place step by step up to a hall: repeated good works remove a wise man’s stains.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVIII.2 (on verse 239), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 338 to 340",
+    "basis": {
+     "source": "burlingame",
+     "words": "he took his mattock, went thither, cleared the place, and made it as clean and smooth as a threshing-floor … he brought sand and sprinkled it on the ground … Accordingly he caused a pavilion to be erected … So there he caused a hall to be erected … Brahman, a wise man by doing good works, time after time, little by little. gradually removes the stains of his own evil deeds.",
+     "gloss": "The Brahman cleared the grass where the monks robed, then sprinkled sand, then put up a pavilion, then a hall; he is told that a wise man, by doing good works time after time, little by little, gradually removes the stains of his own evil deeds."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d018-s",
+    "key": "The fault of others is easily perceived, but that of oneself is difficult to perceive; a man winnows his neighbour’s faults like chaff, but his own fault he hides, as a cheat hides the bad die from the gambler.",
+    "ref": "Dhammapada 252",
+    "at": [
+     251
+    ],
+    "s": "Near its close, the chapter turns to finding fault; the Theravāda commentary, on verse 252, reads the cheat as a fowler hiding his body behind broken branches to catch and kill birds, as the man who winnows others’ faults hides his own.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVIII.10 (on verse 252), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Kaliṃva kitavā saṭhoti ettha sakuṇesu aparajjhanabhāvena attabhāvo kali nāma, sākhabhaṅgādikaṃ paṭicchādanaṃ kitavā nāma, sākuṇiko saṭho nāma. Yathā sakuṇaluddako sakuṇe gahetvā māretukāmo kitavā viya attabhāvaṃ paṭicchādeti, evaṃ attano vajjaṃ chādetīti attho.",
+     "gloss": "‘As a cheat his kali with a kitavā’: here the body is called kali, because it is what offends against the birds; a covering of broken branches and the like is called kitavā; the fowler is called the cheat. As a bird-hunter who wants to catch and kill birds hides his body as with that covering, so this man hides his own fault; that is the meaning."
+    }
+   }
+  }
+ ]
+}

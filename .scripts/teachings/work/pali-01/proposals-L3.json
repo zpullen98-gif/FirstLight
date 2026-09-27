@@ -1,0 +1,124 @@
+{
+ "lane": "L3",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 7,
+   "primary": {
+    "id": "pali-01-d007-p",
+    "key": "There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.",
+    "ref": "Dhammapada 90",
+    "at": [
+     89
+    ],
+    "s": "Opening a chapter on the venerable, the verse names who is past pain; the Theravāda commentary, on verse 90, takes the suffering that ceases as the mind’s fever, for heat and cold still reach the body even of one whose cankers are destroyed.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VII.1 (on verse 90), the Pali, Chaṭṭha Saṅgāyana edition (VRI), GitHub commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Pariḷāho na vijjatīti duvidho pariḷāho kāyiko cetasiko cāti. Tesu khīṇāsavassa sītuṇhādivasena uppannattā kāyikapariḷāho anibbutova, taṃ sandhāya jīvako pucchati. Satthā pana dhammarājatāya desanāvidhikusalatāya cetasikapariḷāhavasena desanaṃ vinivattento, ‘‘jīvaka, paramatthena evarūpassa khīṇāsavassa pariḷāho na vijjatī’’ti āha.",
+     "gloss": "‘No fever (suffering) exists’: fever is of two kinds, bodily and mental. Of these, in one whose cankers are destroyed the bodily fever, arising by way of cold, heat and the like, is not quenched, and it was of this that Jīvaka asked. But the Teacher, as king of the Dhamma and skilled in the ways of teaching, turned the teaching to mental fever and said, ‘Jīvaka, in the highest sense no fever exists for one whose cankers are destroyed, such as this.’"
+    }
+   },
+   "standby": {
+    "id": "pali-01-d007-s",
+    "key": "Such a one who does his duty is tolerant like the earth, like Indra’s bolt; he is like a lake without mud; no new births are in store for him.",
+    "ref": "Dhammapada 95",
+    "at": [
+     94
+    ],
+    "s": "Among the chapter’s portraits of the venerable, the verse gives three likenesses; the Theravāda commentary, on verse 95, reads earth and city gate-post, which receive garlands and filth alike, as the monk free of cankers meeting honour and neglect without favour or hostility.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VII.6 (on verse 95), the Pali, Chaṭṭha Saṅgāyana edition (VRI), GitHub commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "yathā nāma pathaviyaṃ sucīni gandhamālādīnipi nikkhipanti, asucīni muttakarīsādīnipi nikkhipanti, yathā nāma nagaradvāre nikhātaṃ indakhīlaṃ dārakādayo omuttentipi ūhadantipi, apare pana taṃ gandhamālādīhi sakkaronti. Tattha pathaviyā indakhīlassa ca neva anurodho uppajjati, na virodho; evameva yvāyaṃ khīṇāsavo bhikkhu … sakkārañca asakkārañca karontesu neva anurujjhati, no virujjhati",
+     "gloss": "Just as people lay clean things on the earth, perfumes, garlands and the like, and lay unclean things on it too, urine, excrement and the like; just as boys and others urinate and defecate on the post (indakhīla) sunk at the city gate, while others honour it with perfumes, garlands and the like; and in neither the earth nor the post does favour or hostility arise; just so this monk whose cankers are destroyed … towards those who honour him and those who do not, neither favours nor opposes."
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "pali-01-d008-p",
+    "key": "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.",
+    "ref": "Dhammapada 103",
+    "at": [
+     102
+    ],
+    "s": "After verses setting one saying of the law above a thousand empty ones, the verse weighs two victories; the Theravāda commentary, in story VIII.3, takes self-conquest as defeating the robbers that are one’s own depravities, beside which defeating other robbers is no victory.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VIII.3 (on verses 102 to 103), trans. Burlingame, Buddhist Legends (1921), vol. 2, Norman p. 225",
+    "basis": {
+     "source": "burlingame",
+     "words": "There is no superior merit in a hundred sentences that are meaningless; but one Sentence of the Law is better. He that defeats all other robbers wins no victory at all, but he who defeats the robbers that are his own Depravities, his is victory indeed.",
+     "gloss": "The Teacher’s lesson, spoken before verses 102 and 103 in the story of the nun who had defeated a robber: a hundred meaningless sentences have no merit beside one sentence of the Law, and defeating other robbers is no victory at all beside defeating the robbers that are one’s own depravities, which alone is victory."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d008-s",
+    "key": "He who always greets and constantly reveres the aged, four things will increase to him, viz. life, beauty, happiness, power.",
+    "ref": "Dhammapada 109",
+    "at": [
+     108
+    ],
+    "s": "Amid verses setting reverence above long sacrifice, the verse turns to the aged; the Theravāda commentary, on verse 109, takes the increase of life as a threat to it subsiding so that a man lives out his span, not as years added beyond it.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VIII.8 (on verse 109), the Pali, Chaṭṭha Saṅgāyana edition (VRI), GitHub commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Cattāro dhammā vaḍḍhantīti āyumhi vaḍḍhamāne yattakaṃ kālaṃ taṃ vaḍḍhati, tattakaṃ itarepi vaḍḍhantiyeva. Yena hi paññāsavassaāyusaṃvattanikaṃ kusalaṃ kataṃ, pañcavīsativassakāle cassa jīvitantarāyo uppajjeyya, so abhivādanasīlatāya paṭippassambhati, so yāvatāyukameva tiṭṭhati, vaṇṇādayopissa āyunāva saddhiṃ vaḍḍhanti. Ito uttaripi eseva nayo. Anantarāyena pavattassāyuno vaḍḍhanaṃ nāma natthi.",
+     "gloss": "‘Four things increase’: as life increases, for as long as it increases the others increase too. For if one has done wholesome deeds that lead to a life of fifty years, and at twenty-five a danger to his life should arise, it subsides through his habit of reverence; he lasts just as long as his life-span, and beauty and the rest increase along with his life. Beyond this too the method is the same. Of a life that runs on without danger there is no such thing as increase."
+    }
+   }
+  },
+  {
+   "d": 9,
+   "primary": {
+    "id": "pali-01-d009-p",
+    "key": "If a man would hasten towards the good, he should keep his thought away from evil; if a man does what is good slothfully, his mind delights in evil.",
+    "ref": "Dhammapada 116",
+    "at": [
+     115
+    ],
+    "s": "Opening a chapter on evil deeds and good, the verse sets haste against delay; the Theravāda commentary, on verse 116, reads the slow doer as one wavering whether to give, as on a muddy road, while a thousand stingy thoughts get their chance.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IX.1 (on verse 116), the Pali, Chaṭṭha Saṅgāyana edition (VRI), GitHub commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Dandhañhi karototi yo pana ‘‘dassāmi, na dassāmi sampajjissati nu kho me, no’’ti evaṃ cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti, tassa ekasāṭakassa viya maccherasahassaṃ pāpaṃ okāsaṃ labhati. Athassa pāpasmiṃ ramatī mano, kusalakammakaraṇakāleyeva hi cittaṃ kusale ramati, tato muccitvā pāpaninnameva hotīti.",
+     "gloss": "‘For of one who does it slowly’: whoever does good slowly, thinking ‘I will give, I will not give; will it turn out well for me or not?’, like a man going along a muddy road, to him, as to the man with one robe, a thousand thoughts of stinginess, evil, find their opening. Then his mind delights in evil; for only while a good deed is being done does the mind delight in good, and released from that it leans towards evil."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d009-s",
+    "key": "He who has no wound on his hand, may touch poison with his hand; poison does not affect one who has no wound; nor is there evil for one who does not commit evil.",
+    "ref": "Dhammapada 124",
+    "at": [
+     123
+    ],
+    "s": "Among the chapter’s sayings on evil and its fruit, the verse draws a likeness from poison; the Theravāda commentary, in story IX.8, reads the unwounded hand as a man harbouring no thought of wrong, who may hand another a bow and stay guiltless.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IX.8 (on verse 124), trans. Burlingame, Buddhist Legends (1921), vol. 2, Norman p. 28",
+    "basis": {
+     "source": "burlingame",
+     "words": "If a man’s hand be free from wounds, even though he take poison into his hand, yet the poison will not harm him. Precisely so, a man who harbors no thoughts of wrong and who commits no evil, may take down bows and other similar objects and present them to another, and yet be guiltless of sin.",
+     "gloss": "The Teacher’s lesson before verse 124, on the hunter’s wife who handed her husband his weapons meaning only to obey him: as poison cannot harm an unwounded hand, so one who harbours no thought of wrong and does no evil may take down bows and the like and give them to another, and still be without sin."
+    }
+   }
+  }
+ ]
+}

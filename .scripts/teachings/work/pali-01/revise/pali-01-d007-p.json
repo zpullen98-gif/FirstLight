@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "There is no suffering for him who has finished his journey, and abandoned grief, who has freed himself on all sides, and thrown off all fetters.",
+ "ref": "Dhammapada 90",
+ "at": [
+  89
+ ],
+ "s": "Opening a chapter on the venerable, the verse names who is past pain; the Theravāda commentary, on verse 90, takes the suffering that ceases as the mind’s fever, for heat and cold still reach the body even of one whose cankers are destroyed.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VII.1 (on verse 90), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3 (committed 2023-06-22)",
+    "locator": "Dhammapada-aṭṭhakathā, chapter 7, on verse 90 (Pariḷāho na vijjatīti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 28 to 30 (1921), vol. 2, archive.org buddhistlegends02budd (OCR)",
+    "locator": "Story VII.1, Norman pp. 164 to 166 (Jīvaka and the wound)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), archive.org dhammapadacollection01ml (OCR)",
+    "locator": "notes on chapter 7 (none on verse 90)",
+    "via": "packet"
+   }
+  ],
+  "words": "Pariḷāho na vijjatīti duvidho pariḷāho kāyiko cetasiko cāti. Tesu khīṇāsavassa sītuṇhādivasena uppannattā kāyikapariḷāho anibbutova, taṃ sandhāya jīvako pucchati. Satthā pana dhammarājatāya desanāvidhikusalatāya cetasikapariḷāhavasena desanaṃ vinivattento, ‘‘jīvaka, paramatthena evarūpassa khīṇāsavassa pariḷāho na vijjatī’’ti āha.",
+  "lang": "Pali",
+  "gloss": "‘No fever (suffering) exists’: fever is of two kinds, bodily and mental. Of these, in one whose cankers are destroyed the bodily fever, arising by way of cold, heat and the like, is not quenched, and it was of this that Jīvaka asked. But the Teacher, as king of the Dhamma and skilled in the ways of teaching, turned the teaching to mental fever and said, ‘Jīvaka, in the highest sense no fever exists for one whose cankers are destroyed, such as this.’",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds for this entry: the src named the VRI edition as GitHub commit 60c7fb3. Brought to the batch form, the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023), 133 characters. Reopened packet.js pali 7: the Tattha on verse 90 still carries the evidence verbatim (Pariḷāho na vijjatīti duvidho pariḷāho kāyiko cetasiko cāti ...). Sentence, key, ref, at, commentator, reading and evidence unchanged. verse.js ok (Dhammapada 90, at 89); entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d018-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends03budd",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 18 and the cached OCR (hos30, lines 6376 to 6435): Story XVIII.2, the Brahman clears the grass from the robing place, sprinkles sand, puts up a pavilion, then a hall; the Teacher says a wise man by doing good works time after time, little by little, gradually removes the stains of his own evil deeds, and speaks 239. By the inline marks the story body runs N 338 to 340 (headline N.3.340 8 confirms), as cited; Burlingame’s footnote says 338-341. Pali Tattha agrees (punappunaṃ kusalaṃ karonto paṇḍito attano rāgādimalaṃ niddhameyya). All five evidence pieces machine-match the packet (the page break after little by little is only whitespace and punctuation). Plain sense true: 235 to 238 warn of death, 240 of a transgressor’s own works. verse.js ok (Dhammapada 239, at [238]); entry-check ok, 44 words.",
+ "better": ""
+}

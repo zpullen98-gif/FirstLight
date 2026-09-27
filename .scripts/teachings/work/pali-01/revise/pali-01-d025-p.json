@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d025-p",
+ "d": 25,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Rouse thyself by thyself, examine thyself by thyself, thus self-protected and attentive wilt thou live happily, O Bhikshu!",
+ "ref": "Dhammapada 379",
+ "at": [
+  378
+ ],
+ "s": "Late in the chapter on the mendicant, the verse addresses him directly; the Theravāda commentary, Dhammapada-aṭṭhakathā XXV.10, reads it as spoken for a former ploughman who admonished himself beneath the tree where his old rags hung whenever discontent came, and so became an arahat.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXV.10 (on verses 379 to 380), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 115 to 116",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "locator": "Story XXV.10 (Dhammapada 379 to 380), The Monk and the Ragged Garment, Norman pp. 115 to 116",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Tattha on Dhammapada 379 to 380 (codayattānanti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "Müller, SBE 10 (1881), notes",
+    "locator": "notes on chapter XXV (none on 379 to 380)",
+    "via": "packet"
+   }
+  ],
+  "words": "the Elder caused him to take his loin-cloth and his plow and hang them up on the branch of a tree … whenever he became discontented, he would go to the foot of the tree and admonish himself. … After a few days he attained Arahatship. … My son has admonished himself by himself, and has thus reached the consummation of the religious life.",
+  "lang": "en",
+  "gloss": "Story XXV.10: the new monk’s loin-cloth and plough were hung on a tree; whenever discontent came he went to its foot and admonished himself, and within days attained arahatship; answering the monks who said he lied, the Teacher says his son admonished himself by himself and so reached the goal of the religious life, and speaks verses 379 to 380. The Pali explanation agrees: attanāva attānaṃ codaya sāraya (urge and remind yourself by yourself).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds for this entry: the Burlingame src gave vol. 3 (1921) with no Norman page. Reopened packet.js pali 25: Story XXV.10 prints Norman markers [115] after its opening sentence and [116] before the repeated self-admonition, and the reading (rags hung on the tree, admonishing himself whenever discontent came, arahatship, the Teacher’s words) lies on those two pages, so the src now ends Norman pp. 115 to 116, the form other entries use for a page span (152 characters). The Norman volume is not printed in the packet, so it is not added. Sentence, key, ref, at, commentator and reading unchanged; every evidence piece re-found verbatim. verse.js ok (Dhammapada 379, at 378); entry-check ok."
+}

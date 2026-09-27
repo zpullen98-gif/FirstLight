@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d022-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-ran day.js, packet.js, verse.js (ok, Dhammapada 315, at [314], 37 words) and entry-check.js (ok, no errors or warns). The evidence words are verbatim in the packet and in the cached CST file at commit 60c7fb3, under subhead 7. Sambahulabhikkhuvatthu of the Nirayavagga, so XXII.7 is right (Burlingame prints Book 22, Story 8 after it; Norman 3.487 to 488 matches the [488] marker). The Pali carries the whole reading: satiṃ upaṭṭhapetvā ajjhattikāni cha dvārāni pidahitvā (six inner doors shut, mindfulness as door-keeper) and the khaṇa as buddhuppāda, birth in majjhimadesa, sammādiṭṭhi gained and the six āyatana avekalla. Plain sense is fair (311 to 313 warn against slack asceticism and careless practice; 315 is the vigilance verse). No school needed, no comparison, hell stated plainly, no Buddhaghosa ascription.",
+ "better": ""
+}

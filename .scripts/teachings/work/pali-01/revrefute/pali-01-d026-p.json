@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d026-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends03budd",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-ran day.js (392 stands between the 'Him I call a Brahmana' verse 391 and verse 393 on what makes a Brahmana), verse.js (ok, Dhammapada 392, at [391]) and entry-check.js on the revision copied to scratch (ok, no errors or warns; 45 words, at the cap). packet.js prints Burlingame XXVI.9 with both evidence runs verbatim and contiguous (the ellipsis joins two passages of the same story), the story opening after the [150] mark and the Teacher's words after [151]. The cached Burlingame OCR heads the story 'N.4.150' and the cached CST Pali (9. Sāriputtattheravatthu) puts <pb ed=P n=4.0151> at the same point (after pucchitvā), so Norman vol. 4, pp. 150 to 151 and Burlingame vol. 3 are right. The reading is the commentary's own, not Müller's: Müller has 'worship it' (the law), while the frame (attano ācariyaṃ namassati; yañhi ācariyaṃ nissāya bhikkhu dhammaṃ vijānāti, tena so brāhmaṇena aggi viya sakkaccaṃ namassitabbo) and the Tattha (yamhā ācariyā ... dhammaṃ vijāneyya, taṃ sakkaccaṃ namasseyya) make the object the teacher. 'Raised joined hands towards wherever Assaji stayed' matches añjaliṃ paggayha and 'in whatever quarter he heard that Elder Assaji was residing'; it no longer says he reverenced the quarter, which the Teacher denies. Plain sense is context only, no four-word run from the key, no school needed, no comparison, tone even, no dash, British 'learnt'. Only src changed from the reverified entry, and the added Norman locator is accurate.",
+ "better": ""
+}

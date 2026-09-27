@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If a man hold himself dear, let him watch himself carefully; during one at least out of the three watches a wise man should be watchful.",
+ "ref": "Dhammapada 157",
+ "at": [
+  156
+ ],
+ "s": "Opening a chapter on the self, the verse ties self-regard to vigilance; the Theravāda commentary, Dhammapada-aṭṭhakathā XII.1, reads the three watches as the three stages of life, and guarding oneself as doing good in at least one of them, not hiding behind shut doors.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XII.1 (on verse 157), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "chapter 12, story 1, Tattha on Dhammapada 157 (yāmaṃ)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 29 (1921), archive.org buddhistlegends02budd (OCR)",
+    "locator": "Story XII.1 (Dhammapada 157), Prince Bodhi and the Magic Bird, Norman pp. 134 to 137",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), archive.org dhammapadacollection01ml",
+    "locator": "Note on 157",
+    "via": "packet"
+   }
+  ],
+  "words": "Tattha yāmanti satthā attano dhammissaratāya desanākusalatāya ca idha tiṇṇaṃ vayānaṃ aññataraṃ vayaṃ yāmanti katvā desesi, tasmā evamettha attho veditabbo. Sace attānaṃ piyaṃ jāneyya, rakkheyya naṃ surakkhitanti yathā so surakkhito hoti, evaṃ naṃ rakkheyya. Tattha sace gīhī samāno ‘‘attānaṃ rakkhissāmī’’ti uparipāsādatale susaṃvutaṃ gabbhaṃ pavisitvā sampannārakkho hutvā vasantopi, pabbajito hutvā susaṃvute pihitadvāravātapāne leṇe viharantopi attānaṃ na rakkhatiyeva. Gihī pana samāno yathābalaṃ dānasīlādīni puññāni karonto, pabbajito vā pana vattapaṭivattapariyattimanasikāresu ussukkaṃ āpajjanto attānaṃ rakkhati nāma. Evaṃ tīsu vayesu asakkonto aññatarasmimpi vaye paṇḍitapuriso attānaṃ paṭijaggatiyeva.",
+  "lang": "Pali",
+  "gloss": "“Watch”: the Teacher, by his mastery of the teaching and skill in teaching, here taught making one of the three stages of life a “watch”; so the sense is to be understood thus. If he knows himself dear, let him guard himself so that he is well guarded. Here, a householder who, thinking “I will guard myself”, enters a well-closed room on the upper floor of a mansion and lives fully guarded, or a renunciant who lives in a cave well closed with doors and windows shut, does not guard himself at all. But a householder doing meritorious deeds, giving, virtue and the rest, as far as he can, or a renunciant zealous in his duties, learning and attention, is said to guard himself. So, unable in all three stages, the wise man still looks after himself in at least one.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The Pali explanation says the Teacher made one of the three stages of life (vaya) a watch (yāma), that shutting oneself in a guarded room or a closed cave is no guarding, that doing merit or being zealous in duty is, and that the wise man guards himself in at least one stage. The sentence carries exactly this, from the commentary’s own words, not from Müller’s note (which says the same of the watches but is only a conduit, and the reading does not rest on it). Burlingame XII.1 frames it the same way (guard himself during one of the three periods of his life). Key verse verbatim (ok: true, ref and at match). Plain sense faithful: 157 opens the chapter on the self. entry-check ok."
+}

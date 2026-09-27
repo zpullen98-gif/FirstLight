@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d016-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends03budd",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 16 and the cached archive.org djvu OCR (hos30, lines 4518 to 4593): Story XVI.2 has the layman going every day to the burning-ground to weep (after the [276] mark) and the Teacher saying sorrow or fear arises solely because of one that is dear (after [278]); Burlingame footnote gives Text: N iii. 276-278, matching the cited pages. The Pali Tattha on 212 agrees (piyameva sattaṃ vā saṅkhāraṃ vā nissāya uppajjati). Evidence pieces machine-match the packet. Plain sense true: 212 opens the five-fold refrain of 212 to 216 (pleasure, affection, lust, love, greed). verse.js ok (Dhammapada 212, at [211]); entry-check ok, 43 words, no school needed, no comparison, tone plain.",
+ "better": ""
+}

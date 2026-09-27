@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 7 and the cached s0502a.att.xml (60c7fb3): chapter 7 Arahantavaggo, subhead 1 Jīvakapañhavatthu, the Tattha explanation of verse 90 carries the evidence verbatim (pariḷāha twofold, bodily and mental; the bodily one from cold, heat and the like is not quenched in the khīṇāsava, which is what Jīvaka asked about; the Teacher turned the teaching to mental fever, paramatthena no fever). The story frame agrees (Jīvaka asks whether pariḷāha arose in the body). The sentence (suffering that ceases taken as the mind’s fever, heat and cold still reach the body of one whose cankers are destroyed) is carried without drift. Plain sense true to day.js (verse 90 opens the chapter The Venerable) and repeats no four words of the key. verse.js ok (Dhammapada 90, at 89); entry-check ok on the entry as it would ship. Locator VII.1 matches both Burlingame and the VRI subhead numbering. Minor only: ‘ceases’ is slightly stronger than the verse’s ‘there is no’, not a refutation.",
+ "better": ""
+}

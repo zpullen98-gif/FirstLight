@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d016-p",
+ "d": 16,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "From pleasure comes grief, from pleasure comes fear; he who is free from pleasure knows neither grief nor fear.",
+ "ref": "Dhammapada 212",
+ "at": [
+  211
+ ],
+ "s": "Here the chapter begins tracing grief and fear to five sources in turn; the Theravāda commentary, story XVI.2, reads it as comfort for a layman weeping daily at the burning-ground for his dead son: sorrow and fear arise only from one held dear.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVI.2 (on verse 212), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 276 to 278",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "locator": "Story XVI.2 (Dhammapada 212), The Buddha Comforts the Afflicted, Norman pp. 276 to 278",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Tattha on Dhammapada 212 (piyatoti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "Müller, SBE 10 (1881), notes",
+    "locator": "notes on chapter XVI (none on 212)",
+    "via": "packet"
+   }
+  ],
+  "words": "The story goes that this layman, on losing his son, was so overwhelmed with grief that he went every day to the burning-ground and wept … Therefore grieve not at the thought that your dear son is dead. For whether sorrow or fear arises, it arises solely because of one that is dear.",
+  "lang": "en",
+  "gloss": "Story XVI.2: a layman who had lost his son went every day to the cremation ground and wept; the Teacher tells him not to grieve for his dead son, for sorrow or fear, whenever it arises, arises only on account of one who is dear, and speaks verse 212. The Pali explanation agrees: sorrow or fear arises only in dependence on a dear being or thing (piyameva sattaṃ vā saṅkhāraṃ vā nissāya uppajjati).",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 212, at [211] match). Story XVI.2 read in full in the packet: a layman grieving daily at the burning-ground for his son is told that sorrow or fear arises solely because of one that is dear; the Pali Tattha on 212 says the same (piyameva ... nissāya uppajjati). Plain sense faithful: verse 212 opens the five-fold refrain (pleasure, affection, lust, love, greed) of 212 to 216. Place, src and Norman pages 276 to 278 check against the page marks. entry-check ok."
+}

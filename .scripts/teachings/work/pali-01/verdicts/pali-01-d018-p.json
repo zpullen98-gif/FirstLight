@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Let a wise man blow off the impurities of his self, as a smith blows off the impurities of silver one by one, little by little, and from time to time.",
+ "ref": "Dhammapada 239",
+ "at": [
+  238
+ ],
+ "s": "Amid warnings of death and wrongdoing, the verse gives a smith’s image; the Theravāda commentary, story XVIII.2, reads it as spoken to a Brahman who improved the monks’ robing-place step by step up to a hall: repeated good works remove a wise man’s stains.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVIII.2 (on verse 239), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 338 to 340",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "locator": "Story XVIII.2 (Dhammapada 239), Little by Little, Norman pp. 338 to 340",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Tattha on Dhammapada 239 (anupubbenāti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "Müller, SBE 10 (1881), notes",
+    "locator": "note on 239 (a cross-reference only)",
+    "via": "packet"
+   }
+  ],
+  "words": "So on the following day he took his mattock, went thither, cleared the place, and made it as clean and smooth as a threshing-floor … So he brought sand and sprinkled it on the ground … Accordingly he caused a pavilion to be erected … So there he caused a hall to be erected … Brahman, a wise man by doing good works, time after time, little by little. gradually removes the stains of his own evil deeds.",
+  "lang": "en",
+  "gloss": "Story XVIII.2: a Brahman, watching the monks robe, cleared the grass from their robing-place, then sprinkled sand, then had a pavilion put up, then a hall; the Teacher tells him that a wise man, by doing good works time after time, little by little, gradually removes the stains of his own evil deeds, and speaks verse 239. The Pali explanation agrees: as a goldsmith removes dross only by heating and beating again and again, so the wise man doing good again and again (punappunaṃ kusalaṃ karonto) blows away his own stains of passion and the rest.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 239, at [238] match). Story XVIII.2 read in full in the packet: the Brahman’s step-by-step works (clearing, sand, pavilion, hall) and the Teacher’s lesson that a wise man by good works, time after time, little by little, removes the stains of his evil deeds; the Pali Tattha on 239 says the same (punappunaṃ kusalaṃ karonto ... malaṃ niddhameyya). Plain sense faithful: 235 to 238 warn of death, 240 of a transgressor’s own works. Place, src and Norman pages 338 to 340 check. entry-check ok."
+}

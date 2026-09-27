@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d021-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 21: the Pali on 294 (Tattha sānucaranti ...) carries the evidence verbatim: taṇhā mātā nāma, asmimāno pitā nāma, the two sassata and uccheda views the two khattiya kings, the twelve āyatanas the kingdom, nandirāga the retinue, and all slain by the sword of the knowledge of the arahat path (etesaṃ taṇhādīnaṃ arahattamaggañāṇāsinā hatattā). The revision adds only the kingdom as the sense bases, which Dvādasāyatanāni ... raṭṭhaṃ nāma carries; all slain is etesaṃ taṇhādīnaṃ; no drift. The reading is the commentary’s own Pali, not Müller’s note (which reports it via D’Alwis as lust, pride, heretical systems, sensual pleasure: nothing of that wording imported). Locator XXI.4 matches Burlingame’s story on 294 to 295 in the packet. Plain sense true to day.js 294 and states the killing plainly in one clause without softening; no four-word run from the key. verse.js ok (Dhammapada 294, at 293); entry-check ok, no warnings.",
+ "better": ""
+}

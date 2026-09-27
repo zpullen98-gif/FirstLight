@@ -1,0 +1,13 @@
+{
+ "id": "pali-01-d024-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [
+  "plain"
+ ],
+ "reason": "The reading stands: verse.js ok (Dhammapada 354, at [353]), entry-check ok, and the Pali on 354 (XXIV.10, the story after 9. Upakājīvakavatthu) carries it verbatim, dhammaṃ sutvāva karonti, no asutvā ... uḷuṅkamattaṃ yāgumpi ... na dadeyyuṃ. The plain sense does not. It says the verse sets the law and thirst’s end above all, but the day’s text sets the law’s gift, sweetness and delight above all gifts, sweetness and delights, and says only that the extinction of thirst overcomes all pain: it ranks thirst’s end above nothing. The verifier’s own reason names this difference and the correction then blurs it. The clause is also a summary of the key verse itself, not the context rule 2 asks for. Small point, not a reason on its own: uḷuṅka is a ladle, which the gloss has, while the sentence says spoonful (the spoon is kaṭacchu, with rice); defensible as English, but the evidence and sentence should agree.",
+ "better": "In the thirst chapter, the verse ranks the law over every gift, sweetness and delight; the Theravāda commentary, on verse 354, reads the law’s gift as highest because givers give only after hearing the law, without which none would give even a spoonful of gruel. (45 words, entry-check ok as scratch/refute-d024-p-better.json)"
+}

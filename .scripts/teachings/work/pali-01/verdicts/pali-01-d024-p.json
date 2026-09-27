@@ -1,0 +1,48 @@
+{
+ "id": "pali-01-d024-p",
+ "d": 24,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The gift of the law exceeds all gifts; the sweetness of the law exceeds all sweetness; the delight in the law exceeds all delights; the extinction of thirst overcomes all pain.",
+ "ref": "Dhammapada 354",
+ "at": [
+  353
+ ],
+ "s": "Late in the thirst chapter, the verse sets the law and thirst’s end above all; the Theravāda commentary, on verse 354, reads the law’s gift as highest because givers give only after hearing the law, without which none would give even a spoonful of gruel.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIV.10 (on verse 354), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā XXIV.10, commentary on verse 354 (Tattha sabbadānaṃ dhammadānanti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "Burlingame, Buddhist Legends, HOS 30 (1921)",
+    "locator": "Story XXIV.10, Norman 4.73 to 74 and the native gloss",
+    "via": "packet"
+   }
+  ],
+  "words": "Kiṃ kāraṇā? Evarūpāni hi puññāni karontā dhammaṃ sutvāva karonti, no asutvā. Sace hi ime sattā dhammaṃ na suṇeyyuṃ, uḷuṅkamattaṃ yāgumpi kaṭacchumattaṃ bhattampi na dadeyyuṃ. Iminā kāraṇena sabbadānehi dhammadānameva seṭṭhaṃ.",
+  "lang": "Pali",
+  "gloss": "For what reason? Those who do such meritorious deeds do them only after hearing the Dhamma, not without hearing it. If these beings did not hear the Dhamma, they would not give even a ladleful of gruel or a spoonful of rice. For this reason, of all gifts the gift of the Dhamma alone is best.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verified (Dhammapada 354, at 353, ok true), and the reading is the Pali commentary’s own reason on verse 354 (dhammaṃ sutvāva karonti ... uḷuṅkamattaṃ yāgumpi ... na dadeyyuṃ). Changed the plain sense: the proposal said four things are each named above all their kind, but the fourth clause sets the extinction of thirst over all pain, not over its kind; now “the verse sets the law and thirst’s end above all”, with “Late in the thirst chapter” to stay within 45 words. “reads the first” became “reads the law’s gift”, since the new plain sense no longer lists four things. Place, src and key unchanged. entry-check ok."
+}

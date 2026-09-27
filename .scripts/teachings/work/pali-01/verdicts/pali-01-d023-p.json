@@ -1,0 +1,48 @@
+{
+ "id": "pali-01-d023-p",
+ "d": 23,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Silently shall I endure abuse as the elephant in battle endures the arrow sent from the bow: for the world is ill-natured.",
+ "ref": "Dhammapada 320",
+ "at": [
+  319
+ ],
+ "s": "Opening the elephant chapter, the speaker takes the war elephant as his model; the Theravāda commentary, in its story of the hired revilers (XXIII.1), reads it as staying in a reviling city until the uproar dies away, bearing abuse as a duty.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIII.1 (on verses 320 to 322), trans. Burlingame, Buddhist Legends 3 (1921), at Norman 4.2",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "locator": "Story XXIII.1 (on verses 320 to 322), Norman 4.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "commentary on verses 320 to 322 (Dussīlo hīti ... tattha adhivāsanaṃ ajjhupekkhanameva mama bhāro)",
+    "via": "packet"
+   }
+  ],
+  "words": "Wherever a tumult arises, even there should we remain until that tumult dies away, and only under those circumstances should we go elsewhere. But who are reviling and abusing you, Ananda?” “Reverend Sir, beginning with the slaves and servants, all are reviling us.” “Ananda, I am like an elephant that has entered the fray. And even as it is incumbent upon an elephant that has entered the fray that he should withstand the arrows which come from the four quarters, precisely so it is my duty to endure with patience the words spoken by many wicked men.",
+  "lang": "English",
+  "gloss": "In the framing story, when Ananda urges leaving the city where hired people revile them, the Teacher says one should stay where a tumult arises until it dies away, and that as an elephant in the fray must withstand arrows from every quarter, so it is his duty to bear patiently the words of many wicked men.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "day.js and verse.js confirm the key (Dhammapada 320, at 319, ok true). Burlingame’s Story XXIII.1 (which quotes the Appamāda Vagga story it points to) has the Teacher refuse to move on, stay until the tumult dies away, and call enduring abuse his duty as the elephant withstands arrows; the Pali word-commentary agrees (adhivāsanaṃ ajjhupekkhanameva mama bhāro, endurance and equanimity alone are my burden). The revilers were bribed by Magandiya, so “hired revilers” holds. Plain sense faithful. entry-check ok."
+}

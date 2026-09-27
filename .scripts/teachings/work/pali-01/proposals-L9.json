@@ -1,0 +1,77 @@
+{
+ "lane": "L9",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 25,
+   "primary": {
+    "id": "pali-01-d025-p",
+    "key": "Rouse thyself by thyself, examine thyself by thyself, thus self-protected and attentive wilt thou live happily, O Bhikshu!",
+    "ref": "Dhammapada 379",
+    "at": [378],
+    "s": "Near the close of the chapter on the mendicant, the verse addresses him directly; the Theravāda commentary, Dhammapada-aṭṭhakathā XXV.10, reads it as praise of a former ploughman who rebuked his discontent beneath the tree where his old rags hung until he became an arahat.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXV.10 (on verses 379 to 380), trans. Burlingame, Buddhist Legends, vol. 3 (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "the Elder caused him to take his loin-cloth and his plow and hang them up on the branch of a tree … whenever he became discontented, he would go to the foot of the tree and admonish himself. … After a few days he attained Arahatship. … My son has admonished himself by himself, and has thus reached the consummation of the religious life.",
+     "gloss": "Story XXV.10 (Burlingame’s English, public domain): the new monk’s old loin-cloth and plough were hung on a tree; whenever discontent came he went to that tree and admonished himself, and within days became an arahat; the Teacher, answering the monks who called his words false, says his son has admonished himself by himself and so reached the goal of the religious life, and speaks verses 379 to 380."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d025-s",
+    "key": "O Bhikshu, empty this boat! if emptied, it will go quickly; having cut off passion and hatred thou wilt go to Nirvana.",
+    "ref": "Dhammapada 369",
+    "at": [368],
+    "s": "Among verses urging the mendicant towards the quiet place, a boat appears; the Theravāda commentary, on verse 369, reads the boat as his own person, filled with wrong thoughts as with water, which, bailed and its sense doors stopped by restraint, goes swiftly to Nirvana.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXV.7 (on verse 369), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "bhikkhu imaṃ attabhāvasaṅkhātaṃ nāvaṃ micchāvitakkodakaṃ chaḍḍento siñca … evaṃ tavāpi ayaṃ micchāvitakkodakabharitā attabhāvanāvā cakkhudvārādichiddāni saṃvarena pidahitvā uppannassa micchāvitakkodakassa sittatāya sittā sallahukā saṃsāravaṭṭe anosīditvā sīghaṃ nibbānaṃ gamissati",
+     "gloss": "Monk, bail this boat, which is reckoned as your own person, throwing out the water of wrong thoughts … so this boat of your person, filled with the water of wrong thoughts, once its holes, the eye-door and the rest, are closed by restraint and the water of wrong thoughts that has come in is bailed out, will be light and, not sinking in the round of rebirth, will go swiftly to Nibbāna."
+    }
+   }
+  },
+  {
+   "d": 26,
+   "primary": {
+    "id": "pali-01-d026-p",
+    "key": "After a man has once understood the law as taught by the Well-awakened (Buddha), let him worship it carefully, as the Brahmana worships the sacrificial fire.",
+    "ref": "Dhammapada 392",
+    "at": [391],
+    "s": "Amid sayings on the true Brahmana, this verse borrows his fire rite; the Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9, reads it as reverence for the teacher from whom the teaching was learnt, as Sariputta did reverence towards wherever Assaji, his first teacher, stayed.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9 (on verse 392), trans. Burlingame, Buddhist Legends, vol. 3 (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "in whatever quarter he heard that Elder Assaji was residing, in that direction he would extend his clasped hands in an attitude of reverent supplication … he first heard the Law from the lips of Elder Assaji, and that from the day when he attained the Fruit of Conversion, he has reverenced his own teacher. For a monk should reverence the teacher through whom he has learned the Law with the same degree of reverence with which a Brahman reverences the sacred fire.",
+     "gloss": "Story XXVI.9 (Burlingame’s English, public domain): Sariputta, who first heard the teaching from Assaji, raised joined hands towards whatever quarter Assaji was staying in; the Teacher explains that he is honouring his own teacher, and that a monk should revere the teacher from whom he learnt the teaching as a Brahman reveres the sacred fire, then speaks verse 392. The Pali explanation agrees: evaṃ yamhā ācariyā tathāgatapaveditaṃ dhammaṃ vijāneyya, taṃ sakkaccaṃ namasseyyāti attho (so one should reverently honour the teacher from whom one learnt the teaching the Tathāgata made known)."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d026-s",
+    "key": "Stop the stream valiantly, drive away the desires, O Brahmana! When you have understood the destruction of all that was made, you will understand that which was not made.",
+    "ref": "Dhammapada 383",
+    "at": [382],
+    "s": "The chapter on the true Brahmana opens with a command addressed to him; the Theravāda commentary, on verse 383, reads the stream as craving, which no slight effort can cut, so that it must be cut with great striving joined to knowledge.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.1 (on verse 383), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "taṇhāsotaṃ nāma na appamattakena vāyāmena chindituṃ sakkā, tasmā ñāṇasampayuttena mahantena parakkamena parakkamitvā taṃ sotaṃ chinda",
+     "gloss": "The stream of craving cannot be cut with a slight effort; therefore, striving with a great striving joined to knowledge, cut that stream."
+    }
+   }
+  }
+ ]
+}

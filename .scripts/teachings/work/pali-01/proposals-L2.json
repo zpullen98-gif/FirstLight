@@ -1,0 +1,124 @@
+{
+ "lane": "L2",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 4,
+   "primary": {
+    "id": "pali-01-d004-p",
+    "key": "As the bee collects nectar and departs without injuring the flower, or its colour or scent, so let a sage dwell in his village.",
+    "ref": "Dhammapada 49",
+    "at": [
+     48
+    ],
+    "s": "After two verses on death and distraction, the chapter of flowers turns to the sage; the Theravāda commentary, Dhammapada-aṭṭhakathā IV.5, reads it as the monk who wins a household over, making the Buddha’s virtues known without impairing its faith or its riches.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IV.5 (on verse 49), trans. Burlingame, Buddhist Legends, part 2 (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "Monks, a monk who would convert a household without impairing faith, without impairing riches, without wearying or oppressing that household, must approach that household to make known the virtues of the Buddha as a bee approaches a flower to gather honey therefrom.",
+     "gloss": "Burlingame IV.5, the Teacher in the Hall of Truth, praising the Elder Moggallana who had won over the miserly treasurer Kosiya, just before verse 49: a monk who would convert a household without impairing its faith or its riches, and without wearying or oppressing it, must approach that household to make known the virtues of the Buddha as a bee approaches a flower to gather its honey."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d004-s",
+    "key": "Like a beautiful flower, full of colour, but without scent, are the fine but fruitless words of him who does not act accordingly.",
+    "ref": "Dhammapada 51",
+    "at": [
+     50
+    ],
+    "s": "Opening a pair of verses on flowers with and without scent, the chapter sets speech beside deed; the Theravāda commentary, Dhammapada-aṭṭhakathā IV.7, takes the fine words as the Buddha’s word in the three Piṭakas, fruitless for one who does not carefully practise it.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IV.7 (on verse 51), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Evaṃ subhāsitā vācāti subhāsitā vācā nāma tepiṭakaṃ buddhavacanaṃ. Taṃ vaṇṇasaṇṭhānasampannaṃ agandhakapupphasadisaṃ. Yathā pana agandhakapupphaṃ yo naṃ dhāreti, tassa sarīre gandhaṃ na pharati, evaṃ etampi yo naṃ sakkaccaṃ savanādīhi na samācarati, tassa sakkaccaṃ asamācarantassa yaṃ tattha kattabbaṃ, taṃ akubbato sutagandhañca vācāgandhañca paṭipattigandhañca na āvahati aphalā hoti.",
+     "gloss": "(On verse 51) “Thus well-spoken speech”: well-spoken speech means the word of the Buddha in the three Piṭakas. It is like a flower perfect in colour and shape but without scent. As a scentless flower spreads no scent on the body of the one who wears it, so this too: for one who does not practise it with care, by hearing and the rest, and does not do what is to be done in it, it brings no scent of learning, of speech or of practice; it is fruitless."
+    }
+   }
+  },
+  {
+   "d": 5,
+   "primary": {
+    "id": "pali-01-d005-p",
+    "key": "If a traveller does not meet with one who is his better, or his equal, let him firmly keep to his solitary journey; there is no companionship with a fool.",
+    "ref": "Dhammapada 61",
+    "at": [
+     60
+    ],
+    "s": "In the chapter on the fool, the verse weighs company against solitude; the Theravāda commentary, Dhammapada-aṭṭhakathā V.2, takes the traveller’s going as the mind’s search for a good friend, yet allows helping a lesser man out of compassion, expecting nothing from him.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā V.2 (on verse 61), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha caranti iriyāpathacāraṃ aggahetvā manasācāro veditabbo, kalyāṇamittaṃ pariyesantoti attho. … hīnena pana saddhiṃ ekato vasanto ekato saṃbhogaparibhogaṃ karonto sīlādīhi parihāyati. … Tasmā sace kāruññaṃ paṭicca ‘‘ayaṃ maṃ nissāya sīlādīhi vaḍḍhissatī’’ti tamhā puggalā kiñci apaccāsīsanto taṃ saṅgaṇhituṃ sakkoti, iccetaṃ kusalaṃ.",
+     "gloss": "(On verse 61) Here “going” is to be understood not as going in the bodily postures but as the going of the mind: the meaning is, seeking a good friend. … But living together with a lesser man, sharing goods and their use with him, one falls away in virtue and the rest. … Therefore if, out of compassion, thinking “relying on me he will grow in virtue and the rest”, expecting nothing from that person, one is able to take him in, that is good."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d005-s",
+    "key": "Let the fool wish for a false reputation, for precedence among the Bhikshus, for lordship in the convents, for worship among other people!",
+    "ref": "Dhammapada 73",
+    "at": [
+     72
+    ],
+    "s": "After verses on the fruit of the fool’s evil deeds, the chapter turns to his ambitions; the Theravāda commentary, Dhammapada-aṭṭhakathā V.14, reads it as the fault of a monk who counts dwelling and lay disciples his own, so that ill will and pride increase.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā V.14 (on verses 73 to 74), trans. Burlingame, Buddhist Legends, part 2 (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "A religious ought not to give way to pride or ill-will, thinking, ‘This dwelling is mine, this residence is mine, this male lay disciple is mine, this female lay disciple is mine.’ For if he so do, ill-will and pride and the other Depravities increase.",
+     "gloss": "Burlingame V.14, the Teacher to the Elder Sudhamma, who had quarrelled with the householder Citta over the honours given in his house, just before verses 73 to 74: a monk ought not to give way to pride or ill will, thinking this dwelling, this residence, this lay disciple, man or woman, is mine; for if he does, ill will and pride and the other Depravities increase."
+    }
+   }
+  },
+  {
+   "d": 6,
+   "primary": {
+    "id": "pali-01-d006-p",
+    "key": "If you see an intelligent man who tells you where true treasures are to be found, who shows what is to be avoided, and administers reproofs, follow that wise man; it will be better, not worse, for those who follow him.",
+    "ref": "Dhammapada 76",
+    "at": [
+     75
+    ],
+    "s": "Opening the chapter on the wise man, the verse speaks of whom to follow; the Theravāda commentary, Dhammapada-aṭṭhakathā VI.1, reads it as a charge to take correction without offence, like the pupil Radha, and to look on whoever admonishes as one pointing to treasure.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VI.1 (on verse 76), trans. Burlingame, Buddhist Legends, part 2 (1921)",
+    "basis": {
+     "source": "burlingame",
+     "words": "Monks, when a fault is pointed out to a monk, he ought to be amenable to discipline like Radha; and when he is admonished, he should not take offense. Indeed he who gives admonition should be looked upon as one who points out where treasures are to be found.",
+     "gloss": "Burlingame VI.1, the Teacher on the Elder Radha, the poor Brahman whom Sariputta ordained and who never resented correction, just before verse 76: when a fault is pointed out to a monk he ought to be amenable to discipline like Radha, and when admonished he should not take offence; he who gives admonition should be looked upon as one who points out where treasures are to be found."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d006-s",
+    "key": "He who drinks in the law lives happily with a serene mind: the sage rejoices always in the law, as preached by the elect (Ariyas).",
+    "ref": "Dhammapada 79",
+    "at": [
+     78
+    ],
+    "s": "After a verse on the friends to keep, the chapter turns to the sage and the law; the Theravāda commentary, Dhammapada-aṭṭhakathā VI.4, explains that the law is not drunk from a vessel like gruel, and takes the drinking as penetrating the noble truths.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VI.4 (on verse 79), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha dhammapītīti dhammapāyako, dhammaṃ pivantoti attho. Dhammo ca nāmesa na sakkā bhājanena yāguādīni viya pātuṃ? Navavidhaṃ pana lokuttaradhammaṃ nāmakāyena phusanto ārammaṇato sacchikaronto pariññābhisamayādīhi dukkhādīni ariyasaccāni paṭivijjhanto dhammaṃ pivati nāma.",
+     "gloss": "(On verse 79) “Drinker of the Dhamma”: one who drinks the Dhamma. Can this Dhamma be drunk with a vessel, like gruel and the rest? It cannot; but one who touches the ninefold supramundane Dhamma with the mental body, realises it as an object, and penetrates the noble truths, suffering and the rest, by full understanding and the other penetrations, is said to drink the Dhamma."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Better than sovereignty over the earth, better than going to heaven, better than lordship over all worlds, is the reward of the first step in holiness.",
+ "ref": "Dhammapada 178",
+ "at": [
+  177
+ ],
+ "s": "The chapter on the world ends by setting one attainment above every kingdom and heaven; the Theravāda commentary, on verse 178, takes it as stream-entry, for a ruler of so much is not freed from hell, while the stream-enterer has shut the doors to woe.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIII.11 (on verse 178), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "via": "packet",
+    "locator": "Tattha on Dhammapada 178 (pathabyā ekarajjenāti ...)"
+   }
+  ],
+  "words": "Sotāpattiphalaṃ varanti yasmā ettake ṭhāne rajjaṃ kāretvāpi nirayādīhi amuttova hoti, sotāpanno pana pihitāpāyadvāro hutvā sabbadubbalopi aṭṭhame bhave na nibbattati, tasmā sotāpattiphalameva varaṃ uttamanti attho.",
+  "lang": "Pali",
+  "gloss": "“The fruit of stream-entry is better”: because even one who has exercised rule over so great a domain is not freed from hell and the other lower states, whereas the stream-enterer, the doors to the states of woe shut, is not born an eighth time even if he is the weakest; therefore the fruit of stream-entry alone is better, highest. That is the meaning.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds. Reopened packet.js pali 13: the Tattha on 178 glosses the verse’s reward as Sotāpattiphalaṃ (the fruit of stream-entry) and gives its reason with ettake ṭhāne rajjaṃ kāretvāpi (having ruled over so much), which covers earth, heaven and all worlds; “a world-ruler” narrowed that. The sentence now names the identification (takes it as stream-entry) and then the reason, with “a ruler of so much”, all in the commentary’s terms. src, key, ref, at and commentator unchanged; evidence re-found verbatim. verse.js ok (Dhammapada 178, at 177); entry-check ok (scratch/crit-fix13.json)."
+}

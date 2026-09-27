@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Revision changes only the src, to the batch form ‘commit 60c7fb3 (2023)’ (critic-run1-2 fix). Re-opened packet.js pali 9: the Pali Tattha on verse 116 carries the evidence verbatim (Dandhañhi karototi yo pana dassāmi, na dassāmi ... cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti, tassa ekasāṭakassa viya maccherasahassaṃ pāpaṃ okāsaṃ labhati). The paraphrase (the slow doer wavering whether to give, like one on a muddy road, a thousand stingy thoughts finding their chance) stays inside those words; Story IX.1 (Little One-Robe, Norman pp. 1 to 4) confirms the locator and the story the gloss points to. Not Müller’s (no note on 116). Plain sense true to day.js: 116 opens the chapter on evil, and the verse sets hastening to good against slothful good. verse.js ok (Dhammapada 116, at 115); entry-check ok, no warnings. No school needed (one-commentator roster), no comparison, no dash, 43 words.",
+ "better": ""
+}

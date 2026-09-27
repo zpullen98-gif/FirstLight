@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d014-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 14: the Pali Tattha on Dhammapada 183 to 185 has the evidence verbatim (Upasampadāti abhinikkhamanato paṭṭhāya yāva arahattamaggā kusalassa uppādanañceva uppāditassa ca bhāvanā. Sacittapariyodapananti pañcahi nīvaraṇehi attano cittassa vodāpanaṃ.). Doing good as producing the wholesome and developing what is produced up to the path of arahatship, and purifying as cleansing one’s own mind of the five hindrances: the sentence carries both without adding. Story XIV.4 (Ananda’s question on the Seven Buddhas’ Fast-day, Norman p. 237) frames 183 to 185, so XIV.4 is the right place; the sentence locates by verse 183. Plain sense true to day.js (a chapter on the Awakened; 183 names their teaching). verse.js ok (Dhammapada 183, at 182); entry-check ok. Minor only: the plain sense is thin and leans on the verse’s last clause, and raising is a loose English for uppādana (arousing, producing); the gloss omits nothing that changes the sense. Not a refutation.",
+ "better": ""
+}

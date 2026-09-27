@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For hatred does not cease by hatred at any time: hatred ceases by love, this is an old rule.",
+ "ref": "Dhammapada 5",
+ "at": [
+  4
+ ],
+ "s": "After two verses on nursing and letting go the memory of abuse and robbery, the twin-verses turn to how enmity ends; the Theravāda commentary, on verse 5, reads answering abuse with abuse as washing filth with filth, and patience and loving-kindness as clear water.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā I.4 (on verse 5), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā, Yamakavagga, Kāḷayakkhinīvatthu (I.4), commentary on verse 5",
+    "via": "packet"
+   }
+  ],
+  "words": "yathā hi kheḷasiṅghāṇikādīhi asucīhi makkhitaṃ ṭhānaṃ teheva asucīhi dhovantā suddhaṃ niggandhaṃ kātuṃ na sakkonti, atha kho taṃ ṭhānaṃ bhiyyosomattāya asuddhatarañceva duggandhatarañca hoti; evameva akkosantaṃ paccakkosanto paharantaṃ paṭipaharanto verena veraṃ vūpasametuṃ na sakkoti, atha kho bhiyyo bhiyyo verameva karoti. Iti verāni nāma verena kismiñci kāle na sammanti, atha kho vaḍḍhantiyeva. Averena ca sammantīti yathā pana tāni kheḷādīni asucīni vippasannena udakena dhoviyamānāni nassanti, taṃ ṭhānaṃ suddhaṃ hoti sugandhaṃ; evameva averena khantimettodakena yoniso manasikārena paccavekkhaṇena verāni vūpasammanti",
+  "lang": "pi",
+  "gloss": "Just as people who wash a place smeared with filth such as spittle and snot with that same filth cannot make it clean and odourless, and the place only grows fouler, so one who reviles the reviler and strikes the striker cannot calm enmity by enmity but only makes more of it; enmities never cease by enmity but grow. \"But cease by non-enmity\": just as that filth washed with clear water disappears and the place becomes clean and fragrant, so by non-enmity, by the water of patience and loving-kindness, by wise attention and reflection, enmities are calmed.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Dhammapada 5, at [4]). Plain sense faithful: verses 3 to 4 set holding and not holding the grudge of abuse, beating, defeat and robbery, and verse 5 says how enmity ends. The Pali explanation of verse 5 (Tattha na hi verena ...) gives exactly the filth-washed-with-filth simile for reviling the reviler and striking the striker, and the clear water as the water of patience and loving-kindness (khantimettodaka). Reading carried without drift. Place and src correct (Kāḷayakkhinīvatthu is the fourth story of the Yamakavagga; commit dated 2023-06-22). entry-check ok."
+}

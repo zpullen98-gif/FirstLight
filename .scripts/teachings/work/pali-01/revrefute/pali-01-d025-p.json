@@ -1,0 +1,13 @@
+{
+ "id": "pali-01-d025-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends03budd",
+  "found": true
+ },
+ "attacks": [
+  "form"
+ ],
+ "reason": "Re-opened packet.js pali 25: Story XXV.10 (The Monk and the Ragged Garment) has every evidence phrase verbatim (loin-cloth and plow hung on the branch of a tree; whenever he became discontented he went to the foot of the tree and admonished himself; after a few days Arahatship; My son has admonished himself by himself ... consummation of the religious life), and the Pali Tattha (attanāva attānaṃ codaya sāraya) agrees. Attribution, locator (XXV.10; Norman [115] and [116] bracket the reading, the heading line falls before [115]) and plain sense (day.js 379 ends O Bhikshu) all hold; verse.js ok (Dhammapada 379, at 378); entry-check ok. What lands is form: in ‘beneath the tree where his old rags hung whenever discontent came’ the clause ‘whenever discontent came’ attaches to the nearest verb, hung, so the sentence as a reader meets it says the rags hung only when discontent came, which the story does not say; the story’s ‘whenever’ governs his going to the tree and admonishing himself. A one-clause reorder fixes it at the same word count, and that reorder passes entry-check (scratch/rr-d025b.json, ok, no warnings).",
+ "better": "Late in the chapter on the mendicant, the verse addresses him directly; the Theravāda commentary, Dhammapada-aṭṭhakathā XXV.10, reads it as spoken for a former ploughman who, whenever discontent came, admonished himself beneath the tree where his old rags hung, and so became an arahat."
+}

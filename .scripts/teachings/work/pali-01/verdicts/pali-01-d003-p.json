@@ -1,0 +1,42 @@
+{
+ "id": "pali-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "As a fletcher makes straight his arrow, a wise man makes straight his trembling and unsteady thought, which is difficult to guard, difficult to hold back.",
+ "ref": "Dhammapada 33",
+ "at": [
+  32
+ ],
+ "s": "The chapter on thought opens with an image for the restless mind; the Theravāda commentary, on verse 33, reads the fletcher’s work of stripping, oiling, heating and pressing as shedding gross defilements, moistening with faith, heating with effort, and straightening by calm and insight.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā III.1 (on verses 33 to 34), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā, Cittavagga, Meghiyattheravatthu (III.1), commentary on verses 33 to 34",
+    "via": "packet"
+   }
+  ],
+  "words": "yathā nāma usukāro araññato ekaṃ vaṅkadaṇḍakaṃ āharitvā nittacaṃ katvā kañjiyatelena makkhetvā aṅgārakapalle tāpetvā rukkhālake uppīḷetvā nivaṅkaṃ ujuṃ vālavijjhanayoggaṃ karoti, katvā ca pana rājarājamahāmattānaṃ sippaṃ dassetvā mahantaṃ sakkārasammānaṃ labhati, evameva medhāvī paṇḍito viññū puriso phandanādisabhāvametaṃ cittaṃ dhutaṅgāraññāvāsavasena, nittacaṃ apagataoḷārikakilesaṃ katvā saddhāsinehena temetvā kāyikacetasikavīriyena tāpetvā samathavipassanālake uppīḷetvā ujuṃ akuṭilaṃ nibbisevanaṃ karoti",
+  "lang": "pi",
+  "gloss": "Just as a fletcher brings a crooked stick from the forest, strips its bark, smears it with rice-gruel and oil, heats it over a pan of coals, presses it in the crook of a tree and makes it straight, fit to split a hair, and wins honour for his craft, so the wise man, by the ascetic practices and forest dwelling, strips this quivering mind of its bark, its gross defilements, moistens it with the oil of faith, heats it with bodily and mental energy, presses it in the crook of calm and insight, and makes it straight, uncrooked and tame.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Dhammapada 33, at [32]). Plain sense faithful: the chapter on thought opens on the fletcher image for the unsteady mind. The Pali on verses 33 to 34 maps each step of the fletcher (stripping bark, smearing with gruel and oil, heating over coals, pressing in a tree-crook) onto stripping gross defilements by ascetic practice, moistening with faith, heating with bodily and mental energy, and pressing in the crook of calm and insight. Reading carried without drift. entry-check ok."
+}

@@ -1,0 +1,48 @@
+{
+ "id": "pali-01-d024-p",
+ "d": 24,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The gift of the law exceeds all gifts; the sweetness of the law exceeds all sweetness; the delight in the law exceeds all delights; the extinction of thirst overcomes all pain.",
+ "ref": "Dhammapada 354",
+ "at": [
+  353
+ ],
+ "s": "After one freed by thirst’s destruction asks whom he shall teach, the chapter praises the law; the Theravāda commentary, on verse 354, reads its gift as highest because givers give only after hearing it, else none would give even a ladleful of gruel.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXIV.10 (on verse 354), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā XXIV.10, commentary on verse 354 (Tattha sabbadānaṃ dhammadānanti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "Burlingame, Buddhist Legends, HOS 30 (1921)",
+    "locator": "Story XXIV.10, Norman 4.73 to 74 and the native gloss",
+    "via": "packet"
+   }
+  ],
+  "words": "Kiṃ kāraṇā? Evarūpāni hi puññāni karontā dhammaṃ sutvāva karonti, no asutvā. Sace hi ime sattā dhammaṃ na suṇeyyuṃ, uḷuṅkamattaṃ yāgumpi kaṭacchumattaṃ bhattampi na dadeyyuṃ. Iminā kāraṇena sabbadānehi dhammadānameva seṭṭhaṃ.",
+  "lang": "Pali",
+  "gloss": "For what reason? Those who do such meritorious deeds do them only after hearing the Dhamma, not without hearing it. If these beings did not hear the Dhamma, they would not give even a ladleful of gruel or a spoonful of rice. For this reason, of all gifts the gift of the Dhamma alone is best.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement: the refuter is right about the plain sense and it can be put right. Key verified by verse.js (Dhammapada 354, at [353], ok true). The reading is the Pali commentary’s own reason on verse 354 (XXIV.10): dhammaṃ sutvāva karonti, no asutvā ... uluṅkamattaṃ yāgumpi ... na dadeyyuṃ, found verbatim in packet.js. The earlier plain sense (the verse sets the law and thirst’s end above all) misstated the fourth clause, which says only that thirst’s extinction overcomes all pain, and it summarised the key verse instead of giving context. Replaced it with context from the passage: verse 353, just before, where one freed through the destruction of thirst asks whom he shall teach, and the chapter then praises the law. Reading kept, shortened (its gift, hearing it), and spoonful changed to ladleful so the sentence agrees with uluṅka and the gloss. Key, place, src and evidence unchanged. 43 words; entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d020-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 20: the Pali on 283 to 284 opens Tattha mā rukkhanti and carries the evidence verbatim: when the Teacher said cut the forest, the recently ordained (acirapabbajitānaṃ) wished to cut trees, thinking he would have them take adzes to the forest, and he checked them (paṭisedhento) saying he meant the forest of defilements such as lust (rāgādikilesavanaṃ), not trees. The revised wording (checking new monks who took him to mean trees) removes the earlier claim of an actual felling and is carried word for word; checking renders paṭisedhento. The reading is the commentary’s, not Müller’s parenthesis (of lust) nor his pun note. Locator XX.8 matches Burlingame’s story on 283 to 284 (The Old Monks and the Old Woman). Plain sense true to day.js: 282 on zeal, 284 on the bondage of love towards women, 283 addresses the Bhikshus. ‘not a tree’ is three words of the key, within the limit. verse.js ok (Dhammapada 283, at 282); entry-check ok, no warnings.",
+ "better": ""
+}

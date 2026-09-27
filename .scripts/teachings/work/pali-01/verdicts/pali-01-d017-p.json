@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who holds back rising anger like a rolling chariot, him I call a real driver; other people are but holding the reins.",
+ "ref": "Dhammapada 222",
+ "at": [
+  221
+ ],
+ "s": "Early in a chapter on anger, the verse gives restraint its image; the Theravāda commentary, story XVII.2, reads it as praise for a tree-spirit who, when a monk felling her tree cut off her child’s arm, checked her fury and did not strike him.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XVII.2 (on verse 222), trans. Burlingame, Buddhist Legends, vol. 3 (1921), Norman pp. 300 to 301",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "locator": "Story XVII.2 (Dhammapada 222), The Tree-spirit and the Monk, Norman pp. 300 to 301",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Tattha on Dhammapada 222 (uppatitanti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "Müller, SBE 10 (1881), notes",
+    "locator": "notes on chapter XVII (none on 222)",
+    "via": "packet"
+   }
+  ],
+  "words": "Furious with anger, the tree-spirit raised both her hands and exclaimed, “I will strike him dead.” … Lowering her upraised hands, she went weeping to the Teacher … “Well done, well done, spirit! you have done well in holding in, like a swift-speeding chariot, your anger when it was thus aroused.”",
+  "lang": "en",
+  "gloss": "Story XVII.2: after a monk felling her tree cut off her child’s arm, the tree-spirit raised her hands to kill him, then lowered them and went weeping to the Teacher, who praised her for holding in her aroused anger like a swift chariot, and spoke verse 222. The Pali explanation: as a skilled charioteer checks a chariot running too fast, so one who can check arisen anger is the true charioteer; others merely hold the reins.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 222, at [221] match). Story XVII.2 read in full in the packet: the monk’s axe cuts off the spirit’s child’s arm, she raises her hands to strike him dead, restrains herself, and the Teacher says “Well done” for holding in her anger like a swift chariot before speaking 222; the Pali Tattha glosses the chariot image to the same effect. Plain sense faithful (222 is the second verse of the chapter on anger). Place, src and Norman pages 300 to 301 check. entry-check ok."
+}

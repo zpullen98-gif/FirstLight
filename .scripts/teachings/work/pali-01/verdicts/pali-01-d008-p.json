@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If one man conquer in battle a thousand times thousand men, and if another conquer himself, he is the greatest of conquerors.",
+ "ref": "Dhammapada 103",
+ "at": [
+  102
+ ],
+ "s": "After verses setting one saying of the law above a thousand empty ones, the verse weighs two victories; the Theravāda commentary, in story VIII.3, takes self-conquest as defeating the robbers that are one’s own depravities, beside which defeating other robbers is no victory.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VIII.3 (on verses 102 to 103), trans. Burlingame, Buddhist Legends (1921), vol. 2, Norman p. 225",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 28 to 30 (1921), vol. 2, archive.org buddhistlegends02budd (OCR)",
+    "locator": "Story VIII.3 (Dhammapada 102 to 103), Kuṇḍalakesī, the Teacher’s words in the Hall of Truth, Norman p. 225",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3 (committed 2023-06-22)",
+    "locator": "Dhammapada-aṭṭhakathā, chapter 8, on verses 102 to 103 (Ekañca jeyyamattānanti ... attano lobhādikilesajayena attānaṃ jineyya)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), archive.org dhammapadacollection01ml (OCR)",
+    "locator": "notes on chapter 8 (none on verse 103)",
+    "via": "packet"
+   }
+  ],
+  "words": "There is no superior merit in a hundred sentences that are meaningless; but one Sentence of the Law is better. He that defeats all other robbers wins no victory at all, but he who defeats the robbers that are his own Depravities, his is victory indeed.",
+  "lang": "English",
+  "gloss": "The Teacher’s lesson, spoken before verses 102 and 103 in the story of the nun who had defeated a robber: a hundred meaningless sentences have no merit beside one sentence of the Law, and defeating other robbers is no victory at all beside defeating the robbers that are one’s own depravities, which alone is victory.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Dhammapada 103, at [102]). Plain sense: verses 100 to 102 set one word of sense or of the law above a thousand senseless words and 103 contrasts two conquests: faithful. In Story VIII.3 (Burlingame vol. 2, after the [225] page mark and before [226]) the Teacher, of the nun who had defeated a robber, says defeating all other robbers is no victory and defeating the robbers that are one’s own Depravities is victory indeed; the Pali explanation on 103 agrees (conquering oneself by conquering one’s own defilements, greed and the rest). Reading, place and src correct. entry-check ok; evidence re-found."
+}

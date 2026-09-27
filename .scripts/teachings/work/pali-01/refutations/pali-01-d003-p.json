@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d003-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-ran day.js, packet.js, verse.js (ok, Dhammapada 33, at [32]) and entry-check.js (ok, 44 words). The evidence words are verbatim in the packet and in the cached CST file (Usukārova tejananti ..., the commentary on verses 33 to 34 under subhead 1. Meghiyattheravatthu, the first story of the Cittavagga, so III.1 is right). Each of the four steps maps onto the Pali: nittacaṃ = apagataoḷārikakilesaṃ (stripping the bark is shedding gross defilements), kañjiyatelena makkhetvā / saddhāsinehena temetvā (the oiling is moistening with faith), tāpetvā / kāyikacetasikavīriyena (the heating is bodily and mental effort), and rukkhālake uppīḷetvā ujuṃ / samathavipassanālake uppīḷetvā ujuṃ (the pressing is straightening by calm and insight). The plain sense (the chapter on thought opens with an image) is accurate, since 33 opens chapter III. No drift, no comparison, form ok.",
+ "better": ""
+}

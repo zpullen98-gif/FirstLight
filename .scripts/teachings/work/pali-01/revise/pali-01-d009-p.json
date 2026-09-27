@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d009-p",
+ "d": 9,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "If a man would hasten towards the good, he should keep his thought away from evil; if a man does what is good slothfully, his mind delights in evil.",
+ "ref": "Dhammapada 116",
+ "at": [
+  115
+ ],
+ "s": "Opening a chapter on evil deeds and good, the verse sets haste against delay; the Theravāda commentary, on verse 116, reads the slow doer as one wavering whether to give, as on a muddy road, while a thousand stingy thoughts get their chance.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā IX.1 (on verse 116), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3 (committed 2023-06-22)",
+    "locator": "Dhammapada-aṭṭhakathā, chapter 9, on verse 116 (Dandhañhi karototi ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 28 to 30 (1921), vol. 2, archive.org buddhistlegends02budd (OCR)",
+    "locator": "Story IX.1 (Dhammapada 116), the Brahman with a Single Robe, Norman pp. 1 to 4",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), archive.org dhammapadacollection01ml (OCR)",
+    "locator": "notes on chapter 9 (none on verse 116)",
+    "via": "packet"
+   }
+  ],
+  "words": "Dandhañhi karototi yo pana ‘‘dassāmi, na dassāmi sampajjissati nu kho me, no’’ti evaṃ cikkhallamaggena gacchanto viya dandhaṃ puññaṃ karoti, tassa ekasāṭakassa viya maccherasahassaṃ pāpaṃ okāsaṃ labhati. Athassa pāpasmiṃ ramatī mano, kusalakammakaraṇakāleyeva hi cittaṃ kusale ramati, tato muccitvā pāpaninnameva hotīti.",
+  "lang": "Pali",
+  "gloss": "‘For of one who does it slowly’: whoever does good slowly, thinking ‘I will give, I will not give; will it turn out well for me or not?’, like a man going along a muddy road, to him, as to the man with one robe, a thousand thoughts of stinginess, evil, find their opening. Then his mind delights in evil; for only while a good deed is being done does the mind delight in good, and released from that it leans towards evil.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the src named the VRI edition as 'GitHub commit 60c7fb3' where the batch form is 'commit 60c7fb3 (2023)'. Only the src changed, to the first of the two named forms (133 characters). Re-opened packet.js pali 9 (edition line: s0502a.att.xml, commit 60c7fb3) and re-found the Tattha on verse 116 verbatim as one passage; key, ref, at, sentence, commentator and reading unchanged. verse.js ok (Dhammapada 116, at 115); entry-check ok."
+}

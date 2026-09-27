@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d005-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 5: the Pali Tattha on 61 reads caranti iriyāpathacāraṃ aggahetvā manasācāro veditabbo, kalyāṇamittaṃ pariyesantoti attho (the going is of the mind, seeking a good friend), and sace kāruññaṃ paṭicca ... tamhā puggalā kiñci apaccāsīsanto taṃ saṅgaṇhituṃ sakkoti, iccetaṃ kusalaṃ (if out of compassion, expecting nothing from that person, one can take him on, that is good), after hīnena ... parihāyati names the lesser man. Both halves of the paraphrase are there; allows is if anything weaker than kusalaṃ, not an overreach. V.2 matches the packet’s story numbering (Story V.2 is on Dhammapada 61). Commit 60c7fb3 dated 2023-06-22 by the GitHub API, so (2023) is right. Plain sense (chapter on the fool, company against solitude) true to day.js. verse.js ok (Dhammapada 61, at 60); entry-check ok.",
+ "better": ""
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Not to commit any sin, to do good, and to purify one’s mind, that is the teaching of (all) the Awakened.",
+ "ref": "Dhammapada 183",
+ "at": [
+  182
+ ],
+ "s": "The chapter on the Awakened states here what they teach; the Theravāda commentary, on verse 183, reads doing good as raising and developing wholesome states up to the path of arahatship, and purifying as cleansing one’s own mind of the five hindrances.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIV.4 (on verse 183), the Pali, Chaṭṭha Saṅgāyana edition (VRI), tipitaka-xml 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "via": "packet",
+    "locator": "Tattha on Dhammapada 183 to 185 (sabbapāpassāti ...)"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 30 (1921), archive.org buddhistlegends03budd (OCR)",
+    "via": "packet",
+    "locator": "Story XIV.4 (Dhammapada 183 to 185), How Did the Seven Buddhas Keep Fast-day?, Norman p. 237"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), notes (OCR)",
+    "via": "packet",
+    "locator": "note on 183 (textual; no commentary reading)"
+   }
+  ],
+  "words": "Upasampadāti abhinikkhamanato paṭṭhāya yāva arahattamaggā kusalassa uppādanañceva uppāditassa ca bhāvanā. Sacittapariyodapananti pañcahi nīvaraṇehi attano cittassa vodāpanaṃ.",
+  "lang": "pi",
+  "gloss": "“The doing” (of good): from the going forth onward up to the path of arahatship, the producing of the wholesome and the developing of what has been produced. “The purifying of one’s own mind”: the cleansing of one’s own mind of the five hindrances.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok with curly apostrophe; ref Dhammapada 183, at [182] match). Read the whole chapter’s Pali explanations and Story XIV.4 (which only frames the verses as the Fast-day admonition of all Buddhas). The Pali on 183 glosses upasampadā as producing the wholesome and developing it up to the path of arahatship, and self-purification as cleansing the mind of the five hindrances: the sentence says exactly this, dropping only the starting point (abhinikkhamana), which adds nothing false. Plain sense faithful. entry-check ok."
+}

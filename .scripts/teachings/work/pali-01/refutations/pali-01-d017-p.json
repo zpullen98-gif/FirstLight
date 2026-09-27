@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d017-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends03budd",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 17 and the cached OCR (hos30, from line 5253): Story XVII.2, the monk cuts off the child’s arm while felling the tree, the tree-spirit raises her hands to strike him dead, lowers them and goes weeping to the Teacher, who praises her for holding in her aroused anger like a swift-speeding chariot and speaks 222. Inline Norman marks confirm the start-of-page convention (headline N.3.277 15 follows [277]); the evidence falls on N 300 and 301 as cited (Burlingame footnote gives the whole story as N iii. 299-302). Pali Tattha agrees (a skilled charioteer checks a chariot running too fast). Plain sense true: 222 is the second verse of the chapter on anger. verse.js ok (Dhammapada 222, at [221]); entry-check ok, 44 words; not graphic, no comparison.",
+ "better": ""
+}

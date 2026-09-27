@@ -1,0 +1,48 @@
+{
+ "id": "pali-01-d022-p",
+ "d": 22,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Like a well-guarded frontier fort, with defences within and without, so let a man guard himself. Not a moment should escape, for they who allow the right moment to pass, suffer pain when they are in hell.",
+ "ref": "Dhammapada 315",
+ "at": [
+  314
+ ],
+ "s": "After warnings against slack discipline, the chapter turns to vigilance; the Theravāda commentary, on verse 315, reads the guard as the six sense doors shut under mindfulness, and the moment as a Buddha’s arising, birth in the middle country, right view and unimpaired senses.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXII.7 (on verse 315), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, VRI, s0502a.att.xml, commit 60c7fb3",
+    "locator": "Dhammapada-aṭṭhakathā XXII.7, commentary on verse 315 (Tattha santarabāhiranti ...)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends03budd",
+    "edition": "Burlingame, Buddhist Legends, HOS 30 (1921)",
+    "locator": "Story XXII.7, Norman 3.487 to 488",
+    "via": "packet"
+   }
+  ],
+  "words": "evaṃ tumhepi satiṃ upaṭṭhapetvā ajjhattikāni cha dvārāni pidahitvā dvārarakkhikaṃ satiṃ avissajjetvā yathā gayhamānāni bāhirāni cha āyatanāni ajjhattikānaṃ upaghātāya saṃvattanti, tathā aggahaṇena tānipi thirāni katvā tesaṃ appavesāya dvārarakkhikaṃ satiṃ appahāya vicarantā attānaṃ gopethāti attho. Khaṇo vo mā upaccagāti yo hi evaṃ attānaṃ na gopeti, taṃ puggalaṃ ayaṃ buddhuppādakhaṇo majjhimadese uppattikhaṇo sammādiṭṭhiyā paṭiladdhakhaṇo channaṃ āyatanānaṃ avekallakhaṇoti sabbopi ayaṃ khaṇo atikkamati, so khaṇo tumhe mā atikkamatu.",
+  "lang": "Pali",
+  "gloss": "So you too, setting up mindfulness, shutting the six inner doors, not letting go of mindfulness as door-keeper, and making the outer six sense bases firm by not grasping them, guard yourselves. Let not the moment pass you: for one who does not guard himself, the moment of a Buddha’s arising, of birth in the middle country, of having gained right view, of the six sense bases unimpaired, all passes by; let that moment not pass you.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "day.js and verse.js confirm the key (Dhammapada 315, at 314, ok true). The VRI Pali commentary on verse 315 reads the guarding as setting up mindfulness and shutting the six inner doors with mindfulness as door-keeper, and the moment as the moment of a Buddha’s arising, birth in the middle country, gained right view and the six sense bases unimpaired: the sentence says exactly this. Plain sense (after 311 to 313 on slack asceticism and careless practice) is faithful. The proposer’s basis used an ellipsis; the evidence here is one contiguous span. entry-check ok."
+}

@@ -1,0 +1,31 @@
+{
+ "id": "pali-01-d026-p",
+ "d": 26,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "After a man has once understood the law as taught by the Well-awakened (Buddha), let him worship it carefully, as the Brahmana worships the sacrificial fire.",
+ "ref": "Dhammapada 392",
+ "at": [391],
+ "s": "Amid sayings on the true Brahmana, this verse borrows the fire rite; the Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9, reads it as reverence for the teacher from whom the teaching was learnt, as Sariputta, who first heard it from Assaji, raised joined hands towards wherever Assaji stayed.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXVI.9 (on verse 392), trans. Burlingame, Buddhist Legends, vol. 3 (1921)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://archive.org/details/buddhistlegends03budd", "edition": "E. W. Burlingame, Buddhist Legends, Harvard Oriental Series 30 (1921), archive.org buddhistlegends03budd (OCR)", "locator": "Story XXVI.9 (Dhammapada 392), Reverence to Whom Reverence Is Due, Norman pp. 150 to 151", "via": "packet"},
+   {"url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml", "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3", "locator": "Tattha on Dhammapada 392 (aggihuttaṃvāti ...)", "via": "packet"}
+  ],
+  "words": "The fact is that he first heard the Law from the lips of Elder Assaji, and that from the day when he attained the Fruit of Conversion, he has reverenced his own teacher. For a monk should reverence the teacher through whom he has learned the Law with the same degree of reverence with which a Brahman reverences the sacred fire.",
+  "lang": "en",
+  "gloss": "The Teacher, answering the monks who said Sariputta was worshipping the cardinal points, says Sariputta reverences his own teacher Assaji, from whom he first heard the Law, and that a monk should revere the teacher through whom he learnt the Law as a Brahman reveres the sacred fire; the story earlier tells that Sariputta extended clasped hands towards whatever quarter Assaji was residing in. The Pali Tattha agrees: yamhā ācariyā tathāgatapaveditaṃ dhammaṃ vijāneyya, taṃ sakkaccaṃ namasseyya.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The refuter is right: the earlier sentence said Sariputta reverenced the quarter Assaji stayed in, which is the charge the Teacher denies in Story XXVI.9 (Norman 150 to 151); the commentary's point is reverence to the teacher, only directed towards his quarter. Reworded the second clause to say Sariputta raised joined hands towards wherever Assaji stayed, which the story states, and changed 'his fire rite' to 'the fire rite'. Key verse verbatim (verse.js ok, Dhammapada 392, at 391); reading confirmed in the Burlingame story and in the Pali Tattha; entry-check ok. Evidence now one contiguous public-domain passage."
+}

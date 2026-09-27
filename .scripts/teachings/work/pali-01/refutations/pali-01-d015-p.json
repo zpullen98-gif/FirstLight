@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d015-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://archive.org/details/buddhistlegends03budd",
+  "found": true
+ },
+ "attacks": ["plain", "drift"],
+ "reason": "Re-opened packet.js pali 15. The evidence is verbatim in Story XV.5 (Alavi, the poor man and his lost ox, Norman pp. 262 to 263), and the story’s reason (a man in the pangs of hunger could not comprehend the Law; no affliction like hunger) is the commentary’s, so the attribution and the place stand, and verse.js (Dhammapada 203, at 202) and entry-check both pass. Two attacks land. PLAIN: the clause says the chapter, after a verse on passion as fire, turns to hunger and the body; but day.js 202 already names the body (there is no pain like this body), so the chapter does not turn to the body at 203, and the clause is otherwise the key verse’s own two nouns restated rather than context (the chapter is on happiness and 203, like 202 and 204, closes on the highest happiness). DRIFT: the sentence says the commentary reads it, the whole verse, through the fed poor man, but the story speaks only to the first line (hunger); the commentary’s own explanation of the whole verse is the Pali Tattha on 203, which the sentence passes over: hunger is the chief disease because other illnesses once treated pass while hunger must be treated always, saṅkhārā are the five aggregates, and knowing this as it is the wise man realises Nirvana. The voice rule prefers the lesson the commentary itself draws from the verse.",
+ "better": "Keep the key. Plain sense with true context, for example: In a chapter on happiness, the verse after one on passion, hatred and the burden of the body names another affliction and ends, like its neighbours, on the highest happiness. Reading from the Pali (s0502a.att.xml, Tattha on 203: yasmā añño rogo sakiṃ tikicchito vinassati vā tadaṅgavasena vā pahīyati, jighacchā pana niccakālaṃ tikicchitabbāyevāti sesarogānaṃ ayaṃ paramā nāma. Saṅkhārāti pañca khandhā): the Theravāda commentary, on verse 203, reads hunger as the worst disease because other illnesses pass once treated while hunger must be treated always, and takes the body as the five aggregates. Or keep Story XV.5 but say it frames the first line (hunger), not the whole verse."
+}

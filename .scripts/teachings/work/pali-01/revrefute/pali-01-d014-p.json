@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d014-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Revision changes only the src (‘tipitaka-xml 60c7fb3’ to ‘commit 60c7fb3 (2023)’). Re-opened packet.js pali 14: the Pali Tattha on 183 to 185 has the evidence verbatim (Upasampadāti abhinikkhamanato paṭṭhāya yāva arahattamaggā kusalassa uppādanañceva uppāditassa ca bhāvanā. Sacittapariyodapananti pañcahi nīvaraṇehi attano cittassa vodāpanaṃ.). The sentence carries both glosses without adding; it leaves out ‘from the going forth’, which narrows nothing. Story XIV.4 (the Seven Buddhas’ Fast-day, Norman p. 237) frames 183 to 185, so XIV.4 is right. Müller’s note on 183 is textual only, so the reading is not his. Plain sense true to day.js though thin (the chapter on the Awakened; 183 names their teaching). verse.js ok (Dhammapada 183, at 182, curly apostrophe the only change); entry-check ok. Not a refutation.",
+ "better": ""
+}

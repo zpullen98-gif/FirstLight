@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If a traveller does not meet with one who is his better, or his equal, let him firmly keep to his solitary journey; there is no companionship with a fool.",
+ "ref": "Dhammapada 61",
+ "at": [
+  60
+ ],
+ "s": "In the chapter on the fool, the verse weighs company against solitude; the Theravāda commentary, Dhammapada-aṭṭhakathā V.2, takes the traveller’s going as the mind’s search for a good friend, yet allows helping a lesser man out of compassion, expecting nothing from him.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā V.2 (on verse 61), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3 (2023)",
+    "via": "packet",
+    "locator": "Tattha on Dhammapada 61 (caranti ...), in the commentary’s story V.2"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, part 2, HOS 29 (1921), archive.org buddhistlegends02budd (OCR)",
+    "via": "packet",
+    "locator": "Story V.2 (Dhammapada 61), The Rebellious Pupil, Norman p. 23"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "Müller, SBE 10 (1881), notes",
+    "via": "packet",
+    "locator": "Note on 61 (Suttanipata cross-reference only)"
+   }
+  ],
+  "words": "Tattha caranti iriyāpathacāraṃ aggahetvā manasācāro veditabbo, kalyāṇamittaṃ pariyesantoti attho. Seyyaṃ sadisamattanoti attano sīlasamādhipaññāguṇehi adhikataraṃ vā sadisaṃ vā na labheyya ce. Ekacariyanti etesu hi seyyaṃ labhamāno sīlādīhi vaḍḍhati, sadisaṃ labhamāno na parihāyati, hīnena pana saddhiṃ ekato vasanto ekato saṃbhogaparibhogaṃ karonto sīlādīhi parihāyati. Tena vuttaṃ – ‘‘evarūpo puggalo na sevitabbo na bhajitabbo na payirupāsitabbo aññatra anuddayā aññatra anukampā’’ti (pu. pa. 121; a. ni. 3.26). Tasmā sace kāruññaṃ paṭicca ‘‘ayaṃ maṃ nissāya sīlādīhi vaḍḍhissatī’’ti tamhā puggalā kiñci apaccāsīsanto taṃ saṅgaṇhituṃ sakkoti, iccetaṃ kusalaṃ.",
+  "lang": "pi",
+  "gloss": "Here “going” is to be understood not as going in the bodily postures but as the going of the mind: the meaning is, seeking a good friend. “Better or equal”: if he does not find one surpassing or equal in virtue, concentration and wisdom. With a better man one grows in virtue and the rest, with an equal one does not decline, but living and sharing goods with a lesser man one falls away; hence it is said such a person is not to be followed except out of kindness and compassion. So if, out of compassion, thinking “relying on me he will grow in virtue”, expecting nothing from that person, one can take him in, that is good.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 61, at [60] match). The reading is in the Pali Tattha on verse 61: caraṃ as manasācāra, seeking a kalyāṇamitta; and the compassion clause (kāruññaṃ paṭicca ... kiñci apaccāsīsanto taṃ saṅgaṇhituṃ sakkoti, iccetaṃ kusalaṃ). The Burlingame story V.2 (Kassapa’s rebellious pupil) frames the verse but does not carry these points, so the Pali source line is the right one. “Allows helping” is within “that is good”. VRI commit 60c7fb3 dated 2023-06-22 (GitHub API), so the year stands. Evidence is one contiguous span, not the proposer’s ellipsed excerpt. entry-check ok."
+}

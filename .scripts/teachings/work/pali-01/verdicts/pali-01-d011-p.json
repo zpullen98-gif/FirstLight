@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But now, maker of the tabernacle, thou hast been seen; thou shalt not make up this tabernacle again. All thy rafters are broken, thy ridge-pole is sundered; the mind, approaching the Eternal (visankhara, nirvana), has attained to the extinction of all desires.",
+ "ref": "Dhammapada 153 to 154",
+ "at": [
+  152
+ ],
+ "s": "Amid verses on the ageing body, the passage tells in the first person of a builder long sought and found; the Theravāda commentary, Dhammapada-aṭṭhakathā XI.8, reads the tabernacle as individual existence, its maker as craving, the rafters as the defilements and the ridge-pole as ignorance.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XI.8 (on verses 153 to 154), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana text, Vipassana Research Institute, s0502a.att.xml, commit 60c7fb3",
+    "locator": "chapter 11, story 8, Tattha on Dhammapada 153 to 154 (gahakāraṃ gavesanto ... gahakūṭaṃ visaṅkhataṃ)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, HOS 29 (1921), archive.org buddhistlegends02budd (OCR)",
+    "locator": "Story XI.8 (Dhammapada 153 to 154), Elder Ananda’s Stanzas, Norman pp. 127 to 128",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "F. Max Müller, The Dhammapada, SBE 10 (1881), archive.org dhammapadacollection01ml",
+    "locator": "Note on 153 to 154",
+    "via": "packet"
+   }
+  ],
+  "words": "Tattha gahakāraṃ gavesantoti ahaṃ imassa attabhāvasaṅkhātassa gehassa kārakaṃ taṇhāvaḍḍhakiṃ gavesanto yena ñāṇena sakkā taṃ daṭṭhuṃ, tassa bodhiñāṇassatthāya dīpaṅkarapādamūle katābhinīhāro ettakaṃ kālaṃ anekajātisaṃsāraṃ anekajātisatasahassasaṅkhātaṃ imaṃ saṃsāravaṭṭaṃ anibbisaṃ taṃ ñāṇaṃ avindanto alabhantoyeva sandhāvissaṃ saṃsariṃ, aparāparaṃ anuvicarinti attho. Dukkhā jāti punappunanti idaṃ gahakārakagavesanassa kāraṇavacanaṃ. Yasmā jarābyādhimaraṇamissitāya jāti nāmesā punappunaṃ upagantuṃ dukkhā, na ca sā tasmiṃ adiṭṭhe nivattati. Tasmā taṃ gavesanto sandhāvissanti attho. Diṭṭhosīti sabbaññutaññāṇaṃ paṭivijjhantena mayā idāni diṭṭhosi. Puna gehanti puna imasmiṃ saṃsāravaṭṭe attabhāvasaṅkhātaṃ mama gehaṃ na kāhasi. Sabbā te phāsukā bhaggāti tava sabbā avasesā kilesaphāsukā mayā bhaggā. Gahakūṭaṃ visaṅkhatanti imassa tayā katassa attabhāvagehassa avijjāsaṅkhātaṃ kaṇṇikamaṇḍalampi mayā viddhaṃsitaṃ.",
+  "lang": "Pali",
+  "gloss": "“Seeking the house-builder”: I, seeking the maker of this house called individual existence, the carpenter craving, for the sake of the knowledge of awakening by which he can be seen, ran on through this round of countless births without finding that knowledge. “Birth is painful again and again” gives the reason for the search: birth mixed with ageing, sickness and death is painful to undergo again and again and does not cease while he is unseen. “You are seen”: now seen by me as I penetrate omniscient knowledge. “A house again”: you will not make my house called individual existence again in this round. “All your rafters are broken”: all your remaining rafters, the defilements, are broken by me. “The ridge-pole is dismantled”: the ridge-pole of this house of individual existence that you made, the one called ignorance, is destroyed by me.",
+  "licence": "free for non-commercial use, with attribution to the Vipassana Research Institute",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Every term of the reading is in the Pali explanation: the house is attabhāva (individual existence), its maker taṇhāvaḍḍhaki (the carpenter craving), the rafters kilesaphāsukā (defilement-rafters), the ridge-pole avijjāsaṅkhātaṃ kaṇṇikamaṇḍalaṃ (the ridge-pole called ignorance). Müller’s own gloss on the maker as the cause of new births is his, not used. XI.8 is the right story. Key verse is a whole-sentence span inside the one unit Dhammapada 153 to 154, verbatim (ok: true, ref and at match). Plain sense faithful: the chapter is on old age and the body, and 153 to 154 speak in the first person of seeking and finding the maker. entry-check ok."
+}

@@ -1,0 +1,54 @@
+{
+ "id": "pali-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If you see an intelligent man who tells you where true treasures are to be found, who shows what is to be avoided, and administers reproofs, follow that wise man; it will be better, not worse, for those who follow him.",
+ "ref": "Dhammapada 76",
+ "at": [
+  75
+ ],
+ "s": "Opening the chapter on the wise man, the verse speaks of whom to follow; the Theravāda commentary, Dhammapada-aṭṭhakathā VI.1, reads it as a charge to take correction without offence, like the pupil Radha, and to look on whoever admonishes as one pointing to treasure.",
+ "by": "dhp-commentary",
+ "by2": "",
+ "hedge": "",
+ "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā VI.1 (on verse 76), trans. Burlingame, Buddhist Legends, part 2 (1921)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/buddhistlegends02budd",
+    "edition": "E. W. Burlingame, Buddhist Legends, part 2, HOS 29 (1921), archive.org buddhistlegends02budd (OCR)",
+    "via": "packet",
+    "locator": "Story VI.1 (Dhammapada 76), A Poor Man Wins Spiritual Treasure, Norman pp. 104 to 107 (the Teacher, just before the stanza)"
+   },
+   {
+    "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+    "edition": "Chaṭṭha Saṅgāyana, VRI, s0502a.att.xml, commit 60c7fb3 (2023)",
+    "via": "packet",
+    "locator": "Tattha on Dhammapada 76 (nidhīnanti ...)"
+   },
+   {
+    "url": "https://archive.org/details/dhammapadacollection01ml",
+    "edition": "Müller, SBE 10 (1881), notes",
+    "via": "packet",
+    "locator": "notes on chapter VI (none on 76)"
+   }
+  ],
+  "words": "Monks, when a fault is pointed out to a monk, he ought to be amenable to discipline like Radha; and when he is admonished, he should not take offense. Indeed he who gives admonition should be looked upon as one who points out where treasures are to be found.",
+  "lang": "en",
+  "gloss": "Story VI.1: the Teacher, speaking of Radha, who never resented his preceptor Sariputta’s correction, says a monk shown a fault should be amenable like Radha and take no offence, and that one who admonishes is to be looked on as one pointing out treasure; then he speaks verse 76. The Pali Tattha agrees: when such a person points out a fault, kopo na kātabbo, tuṭṭheneva bhavitabbaṃ (no anger is to be shown; one should be glad), as a poor man is glad to be shown treasure.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Dhammapada 76, at [75] match). Burlingame VI.1 carries the reading in the Teacher’s own words just before the stanza, and the Pali Tattha on verse 76 makes the same point with the image of a poor man shown treasure. Radha named as “the pupil”, no honorific. Plain sense faithful (verse 76 opens chapter VI). entry-check ok."
+}

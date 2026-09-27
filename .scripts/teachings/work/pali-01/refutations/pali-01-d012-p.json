@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 12: the Pali Tattha on 157 (chapter 12, story 1; Burlingame XII.1) has yāma taken as one of the three vaya (stages of life), the man in a closed room or a cave with doors and windows shut does not guard himself, the householder doing merit (dānasīlādīni puññāni) or monk zealous in duties does, and unable in all three stages the wise man tends himself in at least one (aññatarasmimpi vaye), going on to kusalaṃ kātabbaṃ in the middle or last stage. Paraphrase (three stages, doing good in at least one, not shut doors) is carried without drift; Müller’s note agrees but the reading is the commentary’s own. Plain sense: 157 opens the Self chapter per day.js; no verse words reused. verse.js ok (ref Dhammapada 157, at [156]); entry-check ok.",
+ "better": ""
+}

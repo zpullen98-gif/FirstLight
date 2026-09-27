@@ -1,0 +1,124 @@
+{
+ "lane": "L7",
+ "plan": "pali",
+ "batch": "pali-01",
+ "days": [
+  {
+   "d": 19,
+   "primary": {
+    "id": "pali-01-d019-p",
+    "key": "A man is not a Muni because he observes silence (mona, i.e. mauna), if he is foolish and ignorant; but the wise who, taking the balance, chooses the good and avoids evil, he is a Muni, and is a Muni thereby; he who in this world weighs both sides is called a Muni.",
+    "ref": "Dhammapada 268 to 269",
+    "at": [
+     267
+    ],
+    "s": "In a chapter testing titles of honour against conduct, the pair after the Bhikshu verses takes up the Muni; the Theravāda commentary, on Dhammapada 268 to 269, reads the balance as weighing, with evil removed like an excess and the wholesome added where short.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIX.8 (on Dhammapada 268 to 269), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Yo ca tulaṃva pagayhāti yathā hi tulaṃ gahetvā ṭhito atirekaṃ ce hoti, harati. Ūnaṃ ce hoti, pakkhipati. Evameva yo atirekaṃ haranto viya pāpaṃ harati parivajjeti, ūnake pakkhipanto viya kusalaṃ paripūreti.",
+     "gloss": "‘And he who, as if taking up a balance’: just as one who stands holding a balance takes some away if there is too much, and puts some in if there is too little, so he who, as if taking away the excess, takes away evil and avoids it, and, as if putting in where it is short, fills up the wholesome."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d019-s",
+    "key": "Bhikshu, be not confident as long as thou hast not attained the extinction of desires.",
+    "ref": "Dhammapada 271 to 272",
+    "at": [
+     270
+    ],
+    "s": "After naming what alone wins no release, the chapter turns to a monk; the Theravāda commentary, on Dhammapada 271 to 272, reads it as warning the virtuous monk who thinks little becoming remains: as a little dung stinks, a little becoming is suffering.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XIX.10 (on Dhammapada 271 to 272), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "bhikkhu iminā sampannasīlādibhāvamattakeneva ‘‘mayhaṃ bhavo appako parittako’’ti āsavakkhayasaṅkhātaṃ arahattaṃ appatto hutvā bhikkhu nāma vissāsaṃ nāpajjeyya. Yathā hi appamattakopi gūtho duggandho hoti, evaṃ appamattakopi bhavo dukkhoti.",
+     "gloss": "A monk, merely on the strength of being accomplished in virtue and the rest, thinking ‘my becoming is small, slight’, should not fall into confidence while he has not reached arahatship, which is called the destruction of the taints. For just as even a tiny amount of dung smells foul, so even a tiny amount of becoming is suffering."
+    }
+   }
+  },
+  {
+   "d": 20,
+   "primary": {
+    "id": "pali-01-d020-p",
+    "key": "Cut down the whole forest (of lust), not a tree only! Danger comes out of the forest (of lust).",
+    "ref": "Dhammapada 283",
+    "at": [
+     282
+    ],
+    "s": "Between a verse on zeal and one on love’s bond, the chapter speaks to the Bhikshus; the Theravāda commentary, on Dhammapada 283, hears ‘not a tree’ as the Teacher stopping new monks felling real trees, since he meant the forest of defilements such as lust.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XX.8 (on Dhammapada 283), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha mā rukkhanti satthārā hi ‘‘vanaṃ chindathā’’ti vutte tesaṃ acirapabbajitānaṃ ‘‘satthā amhe vāsiādīni gahetvā vanaṃ chindāpetī’’ti rukkhaṃ chinditukāmatā uppajji. Atha ne ‘‘mayā rāgādikilesavanaṃ sandhāyetaṃ vuttaṃ, na rukkhe’’ti paṭisedhento ‘‘mā rukkha’’nti āha.",
+     "gloss": "‘Not a tree’: for when the Teacher said ‘Cut down the forest’, a wish to cut trees arose in those recently ordained monks, who thought ‘the Teacher is having us take adzes and the like and cut down the forest’. Then, forbidding them with ‘I said this with reference to the forest of defilements such as lust, not to trees’, he said ‘not a tree’."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d020-s",
+    "key": "Sons are no help, nor a father, nor relations; there is no help from kinsfolk for one whom death has seized.",
+    "ref": "Dhammapada 288",
+    "at": [
+     287
+    ],
+    "s": "Following the image of a flood, the chapter’s verses on death turn to family; the Theravāda commentary, on Dhammapada 288, reads sons and kin as a shelter in life, with food and help, who at death can by no means ward death off.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XX.12 (on Dhammapada 288), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Pavattiyañhi puttādayo annapānādidānena ceva uppannakiccanittharaṇena ca tāṇā hutvāpi maraṇakāle kenaci upāyena maraṇaṃ paṭibāhituṃ asamatthatāya tāṇatthāya leṇatthāya na santi nāma.",
+     "gloss": "For in the course of life sons and the rest, though they are a protection by giving food, drink and the like and by carrying through whatever business arises, at the time of death, being unable by any means to ward off death, are said not to be there for protection, for shelter."
+    }
+   }
+  },
+  {
+   "d": 21,
+   "primary": {
+    "id": "pali-01-d021-p",
+    "key": "A true Brahmana goes scatheless, though he have killed father and mother, and two valiant kings, though he has destroyed a kingdom with all its subjects.",
+    "ref": "Dhammapada 294",
+    "at": [
+     293
+    ],
+    "s": "Among miscellaneous sayings, this verse has a killer of parents and kings go unharmed; the Theravāda commentary, on Dhammapada 294, reads mother as craving, father as self-conceit, and the two kings as views of eternity and annihilation, all slain by the path of arahatship.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXI.4 (on Dhammapada 294), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "tīsu bhavesu sattānaṃ jananato taṇhā mātā nāma … asmimānassa uppajjanato asmimāno pitā nāma … dve sassatucchedadiṭṭhiyo dve khattiyarājāno nāma … Etesaṃ taṇhādīnaṃ arahattamaggañāṇāsinā hatattā khīṇāsavo niddukkho hutvā yātīti ayametthattho.",
+     "gloss": "Craving is called the mother, because it gives birth to beings in the three kinds of becoming … the conceit ‘I am’ is called the father, because that conceit arises in dependence on a father … the two views of eternalism and annihilationism are called the two warrior kings … because craving and the rest are slain with the sword of the knowledge of the path of arahatship, the one whose taints are destroyed goes free of suffering: this is the meaning here."
+    }
+   },
+   "standby": {
+    "id": "pali-01-d021-s",
+    "key": "The disciples of Gotama (Buddha) are always well awake, and their thoughts day and night are always set on Buddha.",
+    "ref": "Dhammapada 296",
+    "at": [
+     295
+    ],
+    "s": "Of six verses sharing one refrain, the first turns thought to the Buddha; the Theravāda commentary, on Dhammapada 296, reads ‘well awake’ as sleeping and waking with the Buddha in mind, and still counts those who recall him even once a day.",
+    "by": "dhp-commentary",
+    "by2": "",
+    "hedge": "",
+    "src": "The Theravāda commentary, Dhammapada-aṭṭhakathā XXI.5 (on Dhammapada 296), the Pali, Chaṭṭha Saṅgāyana edition (VRI), commit 60c7fb3 (2023)",
+    "basis": {
+     "source": "dhp-commentary",
+     "words": "Tattha suppabuddhaṃ pabujjhantīti buddhagataṃ satiṃ gahetvā supantā, gahetvāyeva ca pabujjhantā suppabuddhaṃ pabujjhanti nāma. … Tathā asakkontā pana ekadivasaṃ tīsu kālesu dvīsu kālesu ekasmimpi kāle buddhānussatiṃ manasi karontā suppabuddhaṃ pabujjhantiyeva nāma.",
+     "gloss": "‘They awake well awakened’: those who sleep having taken up mindfulness directed to the Buddha, and wake having taken it up, are said to awake well awakened. … But those unable to do so, who bring the recollection of the Buddha to mind three times, twice, or even once in a day, are still said to awake well awakened."
+    }
+   }
+  }
+ ]
+}

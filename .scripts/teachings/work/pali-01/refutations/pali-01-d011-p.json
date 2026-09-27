@@ -1,0 +1,11 @@
+{
+ "id": "pali-01-d011-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/VipassanaTech/tipitaka-xml/blob/60c7fb31b82f7a379372cb32d52fd9f9ffe13365/romn/s0502a.att.xml",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js pali 11: the Pali Tattha on 153 to 154 (chapter 11, story 8; Burlingame XI.8 Elder Ananda’s Stanzas, the Bo-tree utterance) has every element verbatim: attabhāvasaṅkhātassa gehassa (house called individual existence), kārakaṃ taṇhāvaḍḍhakiṃ (maker, the carpenter craving), kilesaphāsukā bhaggā (rafters, the defilements), avijjāsaṅkhātaṃ kaṇṇikamaṇḍalaṃ (ridge-pole called ignorance). The four equations are exactly the commentary’s, not Müller’s parenthesis. Plain sense true to day.js: amid the chapter’s body verses (147 to 150), a first-person search through many births for the maker, now seen. verse.js ok (ref Dhammapada 153 to 154, at [152]); entry-check ok.",
+ "better": ""
+}
