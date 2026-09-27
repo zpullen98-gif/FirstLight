@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d029-p",
+ "d": 29,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Move far from me what sins I have committed: let me not suffer, King, for guilt of others. Full many a morn remains to dawn upon us: in these, O Varuna, while we live direct us.",
+ "ref": "Rig Veda 2.28.8",
+ "at": [
+  218,
+  8
+ ],
+ "s": "Late in a hymn to Varuna, the verse follows praise of his unmoving statutes; Sāyaṇa, on 2.28.8, reads the sins as debts, the singer’s forebears’ and his own, and the undawned mornings as dawns that seem not to break for a debtor awake before daylight.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.28.8 (his verse 9), sa.wikisource (printed edition not named), revision 208788 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A8%E0%A5%AE&oldid=208788",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं २.२८, revision 208788 (2019)",
+    "locator": "commentary on his 2.28.9 (the app’s 2.28.8; he counts 11 verses to Griffith’s 10)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n311/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "2.28.9 (app 2.28.8) and its notes on anyakritena and the undawned mornings",
+    "via": "packet"
+   }
+  ],
+  "words": "हे वरुण ऋणा ऋणानि पित्रादिभिः कृतान्यस्माभिर्देयानि परासावीः परासुव पराचीनं प्रेरय प्रेरणे छान्दुसोलुङ् अध अधुना मत्कृतानि मया निष्पादितानि ऋणानि परासुव अपि च हे राजन् स्वामिन् वरुण अहं अन्यकृतेन अन्यैरर्जितेन धनेन मा भोजं भोगं मा लभेयम् किं कारणमिति चेदुच्यते - भूयसीः भूयस्यो बहुतराः उषसः अव्युष्टा इत्नु सत्यं अव्युष्टा एव अपररात्रेषूत्थाय ऋणानि चिन्तयतो जाग्रतो मम व्युष्टा अप्यव्युष्टकल्पा आसन्",
+  "lang": "sa",
+  "gloss": "O Varuna, ṛṇā, debts: the debts made by fathers and others, which we must pay, parāsāvīḥ, drive away, send off (an irregular aorist of impelling); adha, now: those made by me, the debts I have incurred, drive away. And, O King, lord Varuna, let me not enjoy by wealth earned by others. Why? Many dawns were truly undawned: for me, who rise in the last part of the night and stay awake thinking of my debts, even the dawns that broke were as good as undawned.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: in ‘his forebears’ and his own’ the nearest antecedent is Sāyaṇa. Re-opened packet.js veda 29 --verse 2.28.9 (his verse 9, the app’s 2.28.8; revision 208788): the debts are pitrādibhiḥ kṛtāni asmābhir deyāni (made by fathers and others, to be paid by us) and mayā niṣpāditāni (made by me), the speaker of the hymn. CORRECTED only that phrase to ‘the singer’s forebears’ and his own’; the undawned-mornings clause, place and src unchanged. Evidence unchanged and carries every part. verse.js ok (2.28.8, at [218,8]); entry-check ok; 45 words."
+}

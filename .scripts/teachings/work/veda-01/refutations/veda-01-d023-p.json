@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d023-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AD%E0%A5%A6&oldid=207936",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 23 --verse 1.170.1; the evidence words stand verbatim in Sāyaṇa’s commentary on 1.170.1 (machine-checked substring). He opens paridevanaprakāraḥ pratipādyate, indra āha (the lament is set out, Indra speaks), glosses what was set aside for us (asmadarthanirupta) as not ours today, so how tomorrow, takes adbhuta as the reversal of an offering set aside for one and given to another (anyasmai nirupya anyasmai dattam), and ends adya śvo vā labhyate ity āśā na kāryā (hope of getting it today or tomorrow is not to be held). Every clause of the reading is carried; the yadvā alternative (the future) is a second option he gives, not contradicted. Plain sense checked against day.js: 1.170.2 to 1.170.5 name the Maruts, Agastya and Indra, speak of being slain in the fight, neglect, giving naught and oblations, so a quarrel over an offering opening with a complaint is the text’s own; no four-word overlap. verse.js ok (Rig Veda 1.170.1, at [169,1], 24 words, whole verse). entry-check ok, no errors or warnings. Wikisource API: revid 207936 is ऋग्वेदः सूक्तं १.१७०, 2019-07-27, so src year right. Reading stated as his, no school needed, no comparison, no hard passage, British spelling, no dash. Wilson’s note independently reports Sāyaṇa and Yāska taking the first negative as today and hope not to be entertained. No attack lands.",
+ "better": ""
+}

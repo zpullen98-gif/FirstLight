@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d032-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A8&oldid=315134",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 32 --verse 3.2.9: the evidence words stand verbatim in Sāyaṇa's commentary on 3.2.9 (sa.wikisource rev 315134, dated 2021-08-03 by the Wikisource API, page ऋग्वेदः सूक्तं ३.२). He reads the three samidhs as Agni's three bodies in earthly, lightning and solar form (pārthiva-vaidyuta-sūrya-rūpāḥ tanūḥ), the earthly one placed in the world of mortals (martye martyaloke adadhuḥ), the other two gone to the mid-air, and then offers the alternative (athavā) of the three fuel sticks, two āghāra and one anūyāja; Wilson's note on the verse reports both readings. The paraphrase carries nothing beyond these words. Verse: verse.js ok, ref Rig Veda 3.2.9, at [235,9], a text unit. Plain sense: Vaisvanara is 3.2.1 and the great High Priest of Gods is 3.2.8, so the context clause is the hymn's own; 'threefold fire' names the verse's three splendours of Agni without borrowing its words. Locator right, no school needed (roster has none), no comparison, no hard passage, entry-check ok with no warns, 44 words, one semicolon.",
+ "better": ""
+}

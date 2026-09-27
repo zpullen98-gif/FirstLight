@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AF%E0%A5%AB&oldid=333253",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 12 --verse 1.95.3: the evidence words stand verbatim in Sāyaṇa on 1.95.3 (revision 333253, matching veda-lock.json): samudre as vaḍavānala (submarine fire), divi as the sun, apsu glossed as a name of antarikṣa and so the lightning fire; then Agni as the sun makes known the six seasons prakarṣeṇa vibhaktatayā. ‘Fire beneath the ocean, the sun in heaven and the lightning in mid-air, and the sun as marking off the seasons’ is carried without drift. Note for the reader, not a fault: Griffith’s key puts samudra as ‘mid-air’ and apsu as ‘the waters’, so Sāyaṇa’s ‘mid-air’ is Griffith’s ‘waters’; the sentence states only his reading and claims nothing false. Plain sense: day.js 1.95.1 to 1.95.2 present the Babe and the Infant produced by Tvastar’s ten daughters, and 1.95.9 and 1.95.11 name Agni, so ‘a hymn to Agni as a newborn infant’ holds (‘newborn’ is a light gloss on ‘produced this Infant’). verse.js ok (Rig Veda 1.95.3, at [94,3]); entry-check ok, 44 words.",
+ "better": "Optional, if words allow: “reads them as the fire beneath the ocean, the sun in heaven and, taking the waters as mid-air, the lightning” makes the mapping to Griffith’s wording visible."
+}

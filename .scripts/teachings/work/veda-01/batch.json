@@ -1,0 +1,457 @@
+{
+ "plan": "veda",
+ "batch": "veda-01",
+ "div": "b606361f14",
+ "days": [
+  {
+   "d": 1,
+   "label": "Rig Veda 1.1 to 1.12",
+   "id": "veda-01-d001-p",
+   "key": "I laud Agni, the chosen Priest, God, minister of sacrifice, The Hotar, lavishest of wealth.",
+   "ref": "Rig Veda 1.1.1",
+   "at": [
+    0,
+    1
+   ],
+   "s": "The collection opens with the singer praising the fire god through his offices at the rite; Sāyaṇa, on 1.1.1, explains ‘chosen Priest’ first by a likeness: Agni accomplishes the offering the sacrifice requires as a king’s household priest accomplishes what the king desires.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.1.1, sa.wikisource (printed edition not named), revision 410218 (2025)"
+  },
+  {
+   "d": 2,
+   "label": "Rig Veda 1.13 to 1.23",
+   "id": "veda-01-d002-p",
+   "key": "Through all this world strode Visnu; thrice his foot he planted, and the whole Was gathered in his footstep’s dust.",
+   "ref": "Rig Veda 1.22.17",
+   "at": [
+    21,
+    17
+   ],
+   "s": "In a hymn to many gods, six closing verses sing of Visnu and his strides; Yāska, Nirukta 12.19, explains the three steps by two teachers’ views: on earth, mid-air and heaven, or on the mountain of sunrise, the meridian and the mountain of sunset.",
+   "by": "yaska",
+   "src": "Yāska, Nirukta 12.19, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask"
+  },
+  {
+   "d": 3,
+   "label": "Rig Veda 1.24 to 1.30",
+   "id": "veda-01-d003-p",
+   "key": "WHATEVER law of thine, O God, O Varuna, as we are men, Day after day we violate.",
+   "ref": "Rig Veda 1.25.1",
+   "at": [
+    24,
+    1
+   ],
+   "s": "Pleading with Varuna not to strike in anger, the hymn opens with an admission; Sāyaṇa, on 1.25.1, takes the law as the rite, which the worshippers, careless as subjects at times are, damage day by day, and supplies a prayer that Varuna make it whole.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.25.1, sa.wikisource (printed edition not named), revision 283258 (2020)"
+  },
+  {
+   "d": 4,
+   "label": "Rig Veda 1.31 to 1.35",
+   "id": "veda-01-d004-p",
+   "key": "I will declare the manly deeds of Indra, the first that he achieved, the Thunder-wielder. He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain torrents.",
+   "ref": "Rig Veda 1.32.1",
+   "at": [
+    31,
+    1
+   ],
+   "s": "Opening a hymn on Indra’s fight with Vrtra, the singer announces the god’s first deeds; Sāyaṇa, on 1.32.1, takes ‘the Dragon’ as the cloud and counts three deeds: slaying the cloud, bringing the waters down to earth, and setting the mountain rivers flowing.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.32.1, sa.wikisource (printed edition not named), revision 403053 (2024)"
+  },
+  {
+   "d": 5,
+   "label": "Rig Veda 1.36 to 1.44",
+   "id": "veda-01-d005-p",
+   "key": "Let him not love to speak ill words: but fear the One who holds all four Within his hand, until they fall.",
+   "ref": "Rig Veda 1.41.9",
+   "at": [
+    40,
+    9
+   ],
+   "s": "A hymn on those the Adityas guard ends with a warning about speech; Sāyaṇa, on 1.41.9, takes the four as cowrie shells in a game of dice, their holder feared by the other player until they fall, as evil speech should be feared.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.41.9, sa.wikisource (printed edition not named), revision 350337 (2022)"
+  },
+  {
+   "d": 6,
+   "label": "Rig Veda 1.45 to 1.51",
+   "id": "veda-01-d006-p",
+   "key": "Looking upon the loftier light above the darkness we have come To Surya, God among the Gods, the light that is most excellent.",
+   "ref": "Rig Veda 1.50.10",
+   "at": [
+    49,
+    10
+   ],
+   "s": "In a hymn to the rising Sun, just before a prayer for healing, the worshippers tell of their coming; Sāyaṇa, on 1.50.10, takes the darkness as night or as sin, and the coming as union with the Sun, since people become what they worship.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.50.10, sa.wikisource (printed edition not named), revision 401983 (2024)"
+  },
+  {
+   "d": 7,
+   "label": "Rig Veda 1.52 to 1.58",
+   "id": "veda-01-d007-p",
+   "key": "In fear they raised the lofty self-resplendent hymn, praise giving and effectual, leading up to heaven, When Indra’s helpers fighting for the good of men, the Maruts, faithful to mankind, joyed in the light.",
+   "ref": "Rig Veda 1.52.9",
+   "at": [
+    51,
+    9
+   ],
+   "s": "Between Vrtra’s fall and Heaven reeling in terror at the Dragon’s roar, the hymn remembers the battle; Sāyaṇa, on 1.52.9, reads the ‘lofty’ hymn as the Brhat Saman, sung in fear of Vrtra, and the Maruts as attending on men in the form of breath.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.52.9, sa.wikisource (printed edition not named), revision 237934 (2020)"
+  },
+  {
+   "d": 8,
+   "label": "Rig Veda 1.59 to 1.65",
+   "id": "veda-01-d008-p",
+   "key": "When Indra and the Angirases desired it, Sarama found provision for her offspring.",
+   "ref": "Rig Veda 1.62.3",
+   "at": [
+    61,
+    3
+   ],
+   "s": "Praising Indra, by whom the Angirases found the cattle, the hymn tells of the search; Sāyaṇa, on 1.62.3, reads it through the tale of Sarama, the gods’ hound, sent after the cows the Panis stole, going only once Indra promised their milk to her young.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.62.3, sa.wikisource (printed edition not named), revision 400586 (2024)"
+  },
+  {
+   "d": 9,
+   "label": "Rig Veda 1.66 to 1.77",
+   "id": "veda-01-d009-p",
+   "key": "Soon as the holy beings had discovered the thrice-seven mystic things contained within thee, With these, one-minded, they preserve the Amrta: guard thou the life of all their plants and cattle.",
+   "ref": "Rig Veda 1.72.6",
+   "at": [
+    71,
+    6
+   ],
+   "s": "With Agni found in the loftiest station, the hymn speaks of what lies hidden in him; Sāyaṇa, on 1.72.6, reads the ‘thrice-seven’ as twenty-one sacrifices, seven each of cooked food, oblation and Soma, placed in Agni alone because no rite can be done without fire.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.72.6, sa.wikisource (printed edition not named), revision 220672 (2019)"
+  },
+  {
+   "d": 10,
+   "label": "Rig Veda 1.78 to 1.85",
+   "id": "veda-01-d010-p",
+   "key": "Then verily they recognized the essential form of Tvastar’s Bull, Here in the mansion of the Moon.",
+   "ref": "Rig Veda 1.84.15",
+   "at": [
+    83,
+    15
+   ],
+   "s": "In a hymn to Indra, the verse follows the tale of Dadhyac’s bones and the horse’s head; Sāyaṇa, on 1.84.15, reads it as the sun’s rays recognising in the Moon’s clear watery orb their own light, hidden by night.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.84.15, sa.wikisource (printed edition not named), revision 400850 (2024)"
+  },
+  {
+   "d": 11,
+   "label": "Rig Veda 1.86 to 1.93",
+   "id": "veda-01-d011-p",
+   "key": "A hundred autumns stand before us, O ye Gods, within whose space ye bring our bodies to decay; Within whose space our sons become fathers in turn. Break ye not in the midst our course of fleeting life.",
+   "ref": "Rig Veda 1.89.9",
+   "at": [
+    88,
+    9
+   ],
+   "s": "Having asked the Gods for firm limbs and the life they appoint, the hymn names that life’s length; Sāyaṇa, on 1.89.9, takes the hundred autumns as the span fixed for men at creation, and the sons as becoming their fathers’ guardians, or else fathers themselves.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.89.9, sa.wikisource (printed edition not named), revision 292662 (2020)"
+  },
+  {
+   "d": 12,
+   "label": "Rig Veda 1.94 to 1.101",
+   "id": "veda-01-d012-p",
+   "key": "Three several places of his birth they honour, in mid-air, in the heaven, and in the waters. Governing in the east of earthly regions, the seasons hath he stablished in their order.",
+   "ref": "Rig Veda 1.95.3",
+   "at": [
+    94,
+    3
+   ],
+   "s": "In a hymn to Agni as a newborn infant, the verse counts his births; Sāyaṇa, on 1.95.3, reads the three as the fire beneath the ocean, the sun in heaven and the lightning, taking the first place as the sea and ‘the waters’ as mid-air.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.95.3, sa.wikisource (printed edition not named), revision 333253 (2022)"
+  },
+  {
+   "d": 13,
+   "label": "Rig Veda 1.102 to 1.108",
+   "id": "veda-01-d013-p",
+   "key": "That pathway of the Sun in heaven, made to be highly glorified, Is not to be transgressed, O Gods. O mortals, ye behold it not. Mark this my woe, ye Earth and Heaven.",
+   "ref": "Rig Veda 1.105.16",
+   "at": [
+    104,
+    16
+   ],
+   "s": "In a lament that tells of Trita buried in a well, the singer points to the Sun’s road; Sāyaṇa, on 1.105.16, reads it as a road even the gods cannot overstep, since the seasons, the sacrifices and so the gods’ life depend on the Sun.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.105.16, sa.wikisource (printed edition not named), revision 400930 (2024)"
+  },
+  {
+   "d": 14,
+   "label": "Rig Veda 1.109 to 1.113",
+   "id": "veda-01-d014-p",
+   "key": "Gone are the men who in the days before us looked on the rising of the earlier Morning. We, we the living, now behold her brightness and they come nigh who shall hereafter see her.",
+   "ref": "Rig Veda 1.113.11",
+   "at": [
+    112,
+    11
+   ],
+   "s": "In a hymn that follows Dawn through mornings past and to come, the singer counts the generations who see her; Sāyaṇa, on 1.113.11, reads the verse as meaning that Dawn pervades all three times, past, present and future.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.113.11, sa.wikisource (printed edition not named), revision 401270 (2024)"
+  },
+  {
+   "d": 15,
+   "label": "Rig Veda 1.114 to 1.117",
+   "id": "veda-01-d015-p",
+   "key": "The soul of all that moveth not or moveth, the Sun hath filled the air and earth and heaven.",
+   "ref": "Rig Veda 1.115.1",
+   "at": [
+    114,
+    1
+   ],
+   "s": "A hymn to the Sun opens on his rising and follows his horses to nightfall; Sāyaṇa, on 1.115.1, reads the Sun first as the supreme Self moving all from within, the cause from which the moving and unmoving world is not separate.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.115.1, sa.wikisource (printed edition not named), revision 329056 (2021)"
+  },
+  {
+   "d": 16,
+   "label": "Rig Veda 1.118 to 1.123",
+   "id": "veda-01-d016-p",
+   "key": "Fain to bring light to homes of men the noble and active Goddess hath emerged from darkness.",
+   "ref": "Rig Veda 1.123.1",
+   "at": [
+    122,
+    1
+   ],
+   "s": "A hymn to Dawn opens with the Daksina’s broad chariot harnessed and the immortal Gods aboard; Sāyaṇa, on 1.123.1, reads the Goddess’s purpose as healing, a cure she works on the dwellings of men by driving away the darkness of night.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.123.1, sa.wikisource (printed edition not named), revision 348392 (2022)"
+  },
+  {
+   "d": 17,
+   "label": "Rig Veda 1.124 to 1.129",
+   "id": "veda-01-d017-p",
+   "key": "Not interrupting heavenly ordinances, although she minisheth human generations. The last of endless morns that have departed, the first of those that come, Dawn brightly shineth.",
+   "ref": "Rig Veda 1.124.2",
+   "at": [
+    123,
+    2
+   ],
+   "s": "As the fire is kindled and Savitar sends all creatures to work, the hymn weighs Dawn’s dealings with Gods and men; Sāyaṇa, on 1.124.2, reads her as helping the Gods’ rites like the Agnihotra with her light while wearing away the life of men.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.124.2, sa.wikisource (printed edition not named), revision 368324 (2023)"
+  },
+  {
+   "d": 18,
+   "label": "Rig Veda 1.130 to 1.135",
+   "id": "veda-01-d018-p",
+   "key": "Couples desirous of thine aid are storming thee, pouring their presents forth to win a stall of kine, pouring gifts, Indra, seeking thee.",
+   "ref": "Rig Veda 1.131.3",
+   "at": [
+    130,
+    3
+   ],
+   "s": "With Heaven and Earth bowed to Indra, the hymn tells of those who worship him; Sāyaṇa, on 1.131.3, reads the ‘couples’ as husbands and wives, holding that a wife may share the rite with her husband, though not perform it alone.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.131.3, sa.wikisource (printed edition not named), revision 207804 (2019)"
+  },
+  {
+   "d": 19,
+   "label": "Rig Veda 1.136 to 1.142",
+   "id": "veda-01-d019-p",
+   "key": "Grant to our chariot, to our house, O Agni, a boat with moving feet and constant oarage, One that may further well our wealthy princes and all the folk, and be our certain refuge.",
+   "ref": "Rig Veda 1.140.12",
+   "at": [
+    139,
+    12
+   ],
+   "s": "After following Agni’s flames through plants and trees, the hymn closes on prayers for gifts; Sāyaṇa, on 1.140.12, reads the boat as the Soma sacrifice, its oars the priests, its feet the offerings, gods and mantras, carrying sacrificers across the round of birth and death.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.140.12, sa.wikisource (printed edition not named), revision 401272 (2024)"
+  },
+  {
+   "d": 20,
+   "label": "Rig Veda 1.143 to 1.154",
+   "id": "veda-01-d020-p",
+   "key": "May I attain to that his well-loved mansion where men devoted to the Gods are happy. For there springs, close akin to the Wide-Strider, the well of meath in Visnu’s highest footstep.",
+   "ref": "Rig Veda 1.154.5",
+   "at": [
+    153,
+    5
+   ],
+   "s": "After praising Visnu’s three strides across the worlds, the singer voices his own longing; Sāyaṇa, on 1.154.5, takes the mansion as the imperishable world of Brahman, free of hunger, thirst, old age, death and return, and Visnu as kin to all who do good.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.154.5, sa.wikisource (printed edition not named), revision 403472 (2024)"
+  },
+  {
+   "d": 21,
+   "label": "Rig Veda 1.155 to 1.162",
+   "id": "veda-01-d021-p",
+   "key": "No, here thou diest not, thou art not injured: by easy paths unto the Gods thou goest.",
+   "ref": "Rig Veda 1.162.21",
+   "at": [
+    161,
+    21
+   ],
+   "s": "Near the end of a hymn on the horse sacrifice, the horse, now killed, is addressed; Sāyaṇa, on 1.162.21, takes the killing as no death like other horses’ and no pointless harm, answering the objection that the death is seen: the horse reaches the gods.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.162.21, sa.wikisource (printed edition not named), revision 401046 (2024)"
+  },
+  {
+   "d": 22,
+   "label": "Rig Veda 1.163 to 1.164",
+   "id": "veda-01-d022-p",
+   "key": "They call him Indra, Mitra, Varuna, Agni, and he is heavenly nobly-winged Garutman. To what is One, sages give many a title they call it Agni, Yama, Matarisvan.",
+   "ref": "Rig Veda 1.164.46",
+   "at": [
+    163,
+    46
+   ],
+   "s": "Just after a riddle on the four divisions of speech, in a long hymn of riddles, the singer runs through the names of the gods; Sāyaṇa, on 1.164.46, reads the One as the Sun, not other than Brahman and so the self of all, and Yāska, Nirukta 7.18, as this very Agni, the great self.",
+   "by": "sayana",
+   "by2": "yaska",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.164.46, sa.wikisource, revision 402071 (2024); Yāska, Nirukta 7.18, trans. Lakshman Sarup (1920 to 1921)"
+  },
+  {
+   "d": 23,
+   "label": "Rig Veda 1.165 to 1.171",
+   "id": "veda-01-d023-p",
+   "key": "NAUGHT is to-day, to-morrow naught. Who comprehends the mystery? We must address ourselves unto another’s thought, and lost is then the hope we formed.",
+   "ref": "Rig Veda 1.170.1",
+   "at": [
+    169,
+    1
+   ],
+   "s": "A short hymn of quarrel over an offering, naming Indra, Agastya and the Maruts, opens with a complaint; Sāyaṇa, on 1.170.1, hears Indra lamenting an offering set aside for him and given to another, and giving up hope of it today or tomorrow.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.170.1, sa.wikisource (printed edition not named), revision 207936 (2019)"
+  },
+  {
+   "d": 24,
+   "label": "Rig Veda 1.172 to 1.182",
+   "id": "veda-01-d024-p",
+   "key": "Here sprung to life, they both have sung together, with bodies free from stain, with signs that mark them; One of you Prince of Sacrifice, the Victor, the other counts as Heaven’s auspicious offspring.",
+   "ref": "Rig Veda 1.181.4",
+   "at": [
+    180,
+    4
+   ],
+   "s": "Between prayers for the Asvins’ car and steeds, the hymn sets the twins side by side; Sāyaṇa, on 1.181.4, reads them as the Moon, son of mid-air, whose rising makes plants grow, and the Sun, son of heaven, each upholding the world.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.181.4, sa.wikisource (printed edition not named), revision 207948 (2019)"
+  },
+  {
+   "d": 25,
+   "label": "Rig Veda 1.183 to 1.191",
+   "id": "veda-01-d025-p",
+   "key": "These of themselves support all things existing: as on a car the Day and Night roll onward.",
+   "ref": "Rig Veda 1.185.1",
+   "at": [
+    184,
+    1
+   ],
+   "s": "Opening a hymn to Heaven and Earth, the singer asks which came first; Sāyaṇa, on 1.185.1, takes these lines as the reason none can know, since any cause one names is itself upheld by them, and, turning like wheels, they have no first.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.185.1, sa.wikisource (printed edition not named), revision 402616 (2024)"
+  },
+  {
+   "d": 26,
+   "label": "Rig Veda 2.1 to 2.8",
+   "id": "veda-01-d026-p",
+   "key": "Thee, Agni, have the Adityas taken as their mouth; the Bright Ones have made thee, O Sage, to be their tongue. They who love offerings cling to thee at solemn rites: by thee the Gods devour the duly offered food.",
+   "ref": "Rig Veda 2.1.13",
+   "at": [
+    191,
+    13
+   ],
+   "s": "In the book’s opening hymn, which names Agni as each god in turn, the verse speaks of the gods; Sāyaṇa, on 2.1.13, reads them as eating and tasting only through Agni, waiting on him since without him they cannot eat the oblation.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.1.13, Sanskrit text at sa.wikisource (printed edition not named), revision 400202 (2024)"
+  },
+  {
+   "d": 27,
+   "label": "Rig Veda 2.9 to 2.14",
+   "id": "veda-01-d027-p",
+   "key": "Of whom, the Terrible, they ask, Where is He? or verily they say of him, He is not. He sweeps away, like birds, the foe’s possessions. Have faith in him, for He, O men, is Indra.",
+   "ref": "Rig Veda 2.12.5",
+   "at": [
+    202,
+    5
+   ],
+   "s": "In a hymn whose refrain names Indra to the people, this verse meets those who doubt him; Sāyaṇa, on 2.12.5, reads the doubters as those who, not seeing him, think him nowhere, and the verse as bidding trust that Indra is, though not plainly seen.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.12.5, Sanskrit text at sa.wikisource (printed edition not named), revision 401594 (2024)"
+  },
+  {
+   "d": 28,
+   "label": "Rig Veda 2.15 to 2.22",
+   "id": "veda-01-d028-p",
+   "key": "THE rich new car hath been equipped at morning; four yokes it hath, three whips, seven reins to guide it: Ten-sided, friendly to mankind, light-winner, that must be urged to speed with prayers and wishes.",
+   "ref": "Rig Veda 2.18.1",
+   "at": [
+    208,
+    1
+   ],
+   "s": "Opening a hymn that calls Indra to the Soma with ever more horses, the verse pictures a car; Sāyaṇa, on 2.18.1, first reads the car as the morning sacrifice, its yokes the pressing-stones, its whips three pitches of voice, its reins the seven metres.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.18.1, sa.wikisource (printed edition not named), revision 208756 (2019)"
+  },
+  {
+   "d": 29,
+   "label": "Rig Veda 2.23 to 2.28",
+   "id": "veda-01-d029-p",
+   "key": "Move far from me what sins I have committed: let me not suffer, King, for guilt of others. Full many a morn remains to dawn upon us: in these, O Varuna, while we live direct us.",
+   "ref": "Rig Veda 2.28.8",
+   "at": [
+    218,
+    8
+   ],
+   "s": "Late in a hymn to Varuna, the verse follows praise of his unmoving statutes; Sāyaṇa, on 2.28.8, reads the sins as debts, the singer’s forebears’ and his own, and the undawned mornings as dawns that seem not to break for a debtor awake before daylight.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.28.8 (his verse 9), sa.wikisource (printed edition not named), revision 208788 (2019)"
+  },
+  {
+   "d": 30,
+   "label": "Rig Veda 2.29 to 2.34",
+   "id": "veda-01-d030-p",
+   "key": "What time hath past since they were first set flowing?",
+   "ref": "Rig Veda 2.30.1",
+   "at": [
+    220,
+    1
+   ],
+   "s": "Opening a hymn chiefly to Indra, the verse tells of waters that never rest from flowing; Sāyaṇa, on 2.30.1, takes the question as a dismissal, since the waters are eternal and there was no first time to measure.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.30.1, sa.wikisource (printed edition not named), revision 213335 (2019)"
+  },
+  {
+   "d": 31,
+   "label": "Rig Veda 2.35 to 2.41",
+   "id": "veda-01-d031-p",
+   "key": "What was spread out she weaves afresh, re-weaving: the skillful leaves his labour half-completed.",
+   "ref": "Rig Veda 2.38.4",
+   "at": [
+    228,
+    4
+   ],
+   "s": "In a hymn to Savitar, the verse comes just after Night is said to follow his rule; Sāyaṇa, on 2.38.4, reads the weaver as Night, who like a woman weaving cloth wraps up again the light that lay spread out.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.38.4, sa.wikisource (printed edition not named), revision 222990 (2020)"
+  },
+  {
+   "d": 32,
+   "label": "Rig Veda 2.42 to 3.4",
+   "id": "veda-01-d032-p",
+   "key": "They who are free from death, fain for him, purified three splendours of the mighty Agni, circling all. To man, for his enjoyment, one of these they gave: the other two have passed into the sister sphere.",
+   "ref": "Rig Veda 3.2.9",
+   "at": [
+    235,
+    9
+   ],
+   "s": "Hailing Agni as Vaisvanara, High Priest of the Gods, the hymn praises his threefold fire; Sāyaṇa, on 3.2.9, reads the three as his earthly, lightning and solar forms, the earthly one set among mortals, or else as the rite’s three fuel sticks.",
+   "by": "sayana",
+   "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 3.2.9, sa.wikisource (printed edition not named), revision 315134 (2021)"
+  }
+ ],
+ "holes": []
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d011-p",
+ "d": 11,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "A hundred autumns stand before us, O ye Gods, within whose space ye bring our bodies to decay; Within whose space our sons become fathers in turn. Break ye not in the midst our course of fleeting life.",
+ "ref": "Rig Veda 1.89.9",
+ "at": [
+  88,
+  9
+ ],
+ "s": "Having asked the Gods for firm limbs and the life they appoint, the hymn turns to its length; Sāyaṇa, on 1.89.9, takes the hundred autumns as the span fixed for men at creation, and the sons as becoming their fathers’ guardians, or else fathers themselves.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.89.9, sa.wikisource (printed edition not named), revision 292662 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AE%E0%A5%AF&oldid=292662",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.८९, revision 292662 (2020-11-15)",
+    "locator": "commentary on 1.89.9",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n280/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.89.9 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "यस्मात् सृष्टिकाले मनुष्याणां शतं संवत्सरा आयुरिति युष्माभिः परिकल्पितं तस्मात् … \"यत्र च \"पुत्रासः पुत्राः \"पितरः अस्माकं रक्षितारः ”भवन्ति(यद्वा । यत्र यस्यामवस्थायां पुत्रासः अस्माकं पुत्राः स्वपुत्राणां पितरो भवन्ति ।",
+  "lang": "sa",
+  "gloss": "Since at creation a hundred years was fixed by you as the life of men, therefore (do not harm us in the middle, before the fixed span has gone) … and where the sons become fathers, that is, our protectors (or else: the stage at which our sons become fathers of their own sons).",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.89.9, at [88,9]). Sāyaṇa on 1.89.9 (packet, revision 292662, dated 2020-11-15 by the Wikisource API) says a hundred years was fixed by the Gods as man’s life at creation (sṛṣṭikāle), glosses pitaraḥ as asmākaṃ rakṣitāraḥ (our protectors), and gives the alternative that the sons become fathers of their own sons; the sentence’s ‘fathers’ guardians, or else fathers themselves’ carries both without drift. Plain sense draws on 1.89.8 (firm limbs, the term of life appointed by the Gods), repeats no four words of the key; faithful. entry-check ok."
+}

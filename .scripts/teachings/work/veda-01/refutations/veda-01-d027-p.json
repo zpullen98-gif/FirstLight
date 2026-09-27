@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d027-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A7%E0%A5%A8&oldid=401594",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 27 --verse 2.12.5 (Sāyaṇa at sa.wikisource rev 401594, matching the lock). Evidence verbatim in his commentary on 5 (ellipses skip only a grammatical note on sa and his citation of 8.100.3): apaśyanto janāḥ ... pṛcchanti (people not seeing him ask), na kvacid asau tiṣṭhatīti manyamānāḥ ... eṣa indro nāstīti (thinking he stays nowhere they say he is not), and yadyapy asau viśeṣato ’smābhir na dṛśyate tathāpi astīti viśvāsaṃ kuruta (though not distinctly seen, trust that he is). Both halves of the reading, the doubters as not seeing and thinking him nowhere, and the bidding to trust that Indra is though not plainly seen, are his own words; no drift. Attacks tried: verse (verse.js ok, 2.12.5 at [202,5], 36 words, the whole verse needed since the reading covers both the doubt and the call to faith); plain (day.js: every verse of 2.12 ends ‘He, O men, is Indra’, so ‘refrain names Indra to the people’ is the text’s own; no four words of the key); attribution (Sanskrit is his; Wilson’s ‘(in any one place)’ follows him); locator (2.12 not among the differing hymns; ॥५ matches); school, comparison, tone (none apply); form (entry-check ok, 45 words, verb ‘reads’). None lands.",
+ "better": ""
+}

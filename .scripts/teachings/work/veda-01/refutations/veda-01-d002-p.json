@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d002-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A8%E0%A5%A8&oldid=352131",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 2 --verse 1.22.17: Sāyaṇa's commentary opens with the evidence words verbatim (viṣṇuḥ trivikramāvatāradhārī idaṃ pratīyamānaṃ sarvaṃ jagad uddiśya vicakrame ... asya viṣṇoḥ pāṃsure dhūliyukte pādasthāne samūḷham idaṃ sarvaṃ jagat samyag antarbhūtam). The Trivikrama descent, the dusty foot-place and the whole visible world contained in it are all his; the Śākapūṇi and Aurṇavābha readings that follow are Yāska's, quoted, and the sentence rightly does not give them to Sāyaṇa. Wilson's note independently reports 'Sayana conceives the text to allude to the Trivikrama Avatara'. day.js: hymn 1.22 has 21 verses, 1.22.16 to 1.22.21 all name Vishnu (six), after Asvins, Savitar, the Spouses of the Gods, Heaven and Earth, so the context clause is faithful. verse.js ok (Rig Veda 1.22.17, at [21,17]); entry-check ok, 44 words; src 110 characters. 'the three-strider' is a plain gloss of the name, not a claim. All nine attacks tried; none lands.",
+ "better": ""
+}

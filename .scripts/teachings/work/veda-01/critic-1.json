@@ -1,0 +1,23 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 7,
+   "id": "veda-01-d007-p",
+   "problem": "The context clause 'the hymn recalls the singers’ praise and the Maruts’ joy' restates the key verse’s two halves (they raised the hymn; the Maruts joyed) instead of placing it in the passage, against rule 2 (never paraphrase the key line by line). The reading also spells 'Bṛhat Sāman' with diacritics while the batch otherwise keeps Griffith’s plain spellings (Vrtra, Visnu, Sarama; the day’s text prints 'Brhaspati'), the same inconsistency earlier fixed for Vishnu and Vritra.",
+   "fix": "Place the verse between its neighbours (1.52.8 Vrtra slain, 1.52.10 Heaven reels at the Dragon’s roar) and use the plain spelling: 'Between Vrtra’s fall and Heaven reeling in terror at his roar, the hymn remembers the battle; Sāyaṇa, on 1.52.9, reads the ‘lofty’ hymn as the Brhat Saman, sung in fear of Vrtra, and the Maruts as attending on men in the form of breath.' (44 words; passes entry-check in scratch/c3/d7fix.json)."
+  },
+  {
+   "d": 8,
+   "id": "veda-01-d008-p",
+   "problem": "Mixed transliteration in one sentence: 'Sarama' in Griffith’s plain form beside 'Paṇis' with diacritics, while the batch keeps Griffith’s plain spellings (Vrtra, Visnu, Brhaspati as the day’s text prints it).",
+   "fix": "Write 'Panis': '...sent after the cows the Panis stole, going only once Indra promised their milk to her young.' (45 words; passes entry-check in scratch/c3/d8fix.json)."
+  },
+  {
+   "d": 21,
+   "id": "veda-01-d021-p",
+   "problem": "The source line breaks the batch’s form: 'Sāyaṇa, Vedārthaprakāśa, on 1.162.21, sa.wikisource (ऋग्वेदः सूक्तं १.१६२), revision 401046 (2024)' drops 'Rig Veda', puts the page title in Devanagari where every other entry gives the edition note, and omits '(printed edition not named)'. Day 22’s src likewise omits the edition note ('sa.wikisource, revision 402071 (2024)').",
+   "fix": "d21 src: ‘Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.162.21, sa.wikisource (printed edition not named), revision 401046 (2024)’; d22 src: ‘Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.164.46, sa.wikisource (printed edition not named), revision 402071 (2024); Yāska, Nirukta 7.18, Sarup (1920 to 1921)’ (154 characters, within the 160 cap)."
+  }
+ ]
+}

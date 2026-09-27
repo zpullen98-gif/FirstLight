@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "I will declare the manly deeds of Indra, the first that he achieved, the Thunder-wielder. He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain torrents.",
+ "ref": "Rig Veda 1.32.1",
+ "at": [
+  31,
+  1
+ ],
+ "s": "Opening a hymn on Indra’s fight with Vrtra, the singer announces the god’s first deeds; Sāyaṇa, on 1.32.1, takes ‘the Dragon’ as the cloud and counts three deeds: slaying the cloud, bringing the waters down to earth, and setting the mountain rivers flowing.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.32.1, sa.wikisource (printed edition not named), revision 403053 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A9%E0%A5%A8&oldid=403053",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.३२, revision 403053 (2024-06-14)",
+    "locator": "commentary on 1.32.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n137/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.32.1 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "कानि वीर्याणीति तदुच्यते । \"अहिं मेघम् \"अहन् हतवान् । तदेतदेकं वीर्यम् । \"अनु पश्चात् “अपः जलानि “ततर्द हिंसितवान् भूमौ पातितवानित्यर्थः । इदं द्वितीयं वीर्यम् । \"पर्वतानां संबन्धिनीः “वक्षणाः प्रवहणशीलाः नदीः “प्र “अभिनत् भिन्नवान् कूलद्वयकर्षणेन प्रवाहितवानित्यर्थः । इदं तृतीयं वीर्यम् ।",
+  "lang": "sa",
+  "gloss": "Which valorous deeds? That is now told. He slew the ahi, the cloud: that is one deed. Afterwards he struck the waters, that is, made them fall to the ground: this is the second deed. He split the flowing rivers of the mountains, that is, set them flowing by cutting through their two banks: this is the third deed.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds as a consistency matter. Hymn 1.32 in day.js prints Griffith’s “Vṛitra” (1.32.5 to 1.32.11) and 1.33.13 prints “Vrtra”; day 7 of this batch writes “Vrtra” twice. The sentence’s “Vritra” matched neither form on the day, so it is changed to “Vrtra” and nothing else. Evidence unchanged and re-found in packet.js veda 4 --verse 1.32.1. verse.js ok (Rig Veda 1.32.1, at [31,1]); entry-check ok."
+}

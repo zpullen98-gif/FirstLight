@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d019-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AA%E0%A5%A6&oldid=401272",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 19 --verse 1.140.12. Sāyaṇa's own gloss carries every element: nāvam = saṃsārottārikāṃ somayāgātmikāṃ (the Soma sacrifice that carries across rebirth); nityāritrām = niyatartvigrūpa ... kāṣṭhasādhana (oars that are the appointed priests); padvatīm = dravyadevatāmantrādirūpapāda (feet that are the materials, deities, mantras); pārayāt ... jananamaraṇādibahuduḥkhātmakasya pāram (across birth, death and their sorrows), applied to janān yajamānān. 'Offerings' for dravya is a fair rendering of the ritual materials; Wilson's note reports the same scheme. Plain sense checked against day.js: 1.140.2 trees, 1.140.6 brown plants, 1.140.9 fields, then 1.140.10 to 13 are petitions; no four-word run from the key. verse.js ok (Rig Veda 1.140.12, at [139,12]); entry-check ok, no errors or warnings. Locator right, no comparison, no school needed, tone plain. Attacks tried on all nine lines; none lands.",
+ "better": ""
+}

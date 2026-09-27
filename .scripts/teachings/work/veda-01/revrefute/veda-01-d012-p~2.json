@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AF%E0%A5%AB&oldid=333253",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 12 --verse 1.95.3 (rev 333253): the evidence words are a verbatim substring of Sāyaṇa’s commentary on 1.95.3 (machine-checked). He gives three births: samudre as vaḍavānala (the submarine fire), divi as the sun, and apsu with āpaḥ iti antarikṣanāma, the lightning fire in mid-air; the reading, including ‘taking the waters as a name for mid-air’, is carried without drift, and Wilson’s note b agrees. Only the context verb changed from the prior cleared version: ‘counts his births’ names what the verse does (three places of birth) without repeating four key words. Plain sense against day.js: 1.95.1 to 1.95.5 speak of the Infant born and produced by Tvastar’s ten daughters, Agni named at 1.95.9 and 1.95.11, verse 3 of 11, so ‘early in a hymn to Agni as a newborn infant’ holds. verse.js ok (Rig Veda 1.95.3, at [94,3]); entry-check ok, no warns, 41 words. Two words of the key quoted in curly quotes, within the three allowed. No school, comparison or tone issue.",
+ "better": ""
+}

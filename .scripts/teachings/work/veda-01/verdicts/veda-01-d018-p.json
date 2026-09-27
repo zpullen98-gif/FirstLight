@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d018-p",
+ "d": 18,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Couples desirous of thine aid are storming thee, pouring their presents forth to win a stall of kine, pouring gifts, Indra, seeking thee.",
+ "ref": "Rig Veda 1.131.3",
+ "at": [
+  130,
+  3
+ ],
+ "s": "With Heaven and Earth bowed to Indra, the hymn turns to those who worship him; Sāyaṇa, on 1.131.3, reads the ‘couples’ as husbands and wives, holding that a wife may share the rite with her husband, though not perform it alone.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.131.3, sa.wikisource (printed edition not named), revision 207804 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A9%E0%A5%A7&oldid=207804",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१३१, revision 207804 (2019-07-26)",
+    "locator": "commentary on 1.131.3",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n69/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.131.3 and its note on mithunāḥ",
+    "via": "packet"
+   }
+  ],
+  "words": "“मिथुनाः पत्नीसहिता यजमानाः “वि ततस्रे यज्ञं वितन्वते … यद्यपि स्त्रियाः नास्ति पृथगधिकारस्तथापि पूर्वमीमांसायां षष्ठेऽधिकाराध्याये तृतीयचतुर्थाभ्यामधिकरणाभ्यां अस्त्येव स्त्रिया अधिकारः स च पत्या सहेति",
+  "lang": "sa",
+  "gloss": "‘The couples’: sacrificers together with their wives ‘spread out’ the sacrifice … Although a woman has no separate right, yet in the Pūrva Mīmāṃsā, in the sixth book on qualification, its third and fourth sections establish that a woman does have a right, and that together with her husband.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "exclusion",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.131.3, at [130,3]), the first sentence of the verse. Sāyaṇa on 1.131.3 glosses mithunāḥ as sacrificers with their wives (patnīsahitā yajamānāḥ) and argues at length, citing the Pūrva Mīmāṃsā, the ādhāna rule and Manu 5.155, that a woman has no separate right to sacrifice but does have one together with her husband; Wilson’s note reports the same (not to celebrate sacrifices by herself alone). The sentence states his limit as his. Plain sense draws on 1.131.1 (Dyaus and Earth bowed to Indra); faithful. Sensitivity flagged exclusion because the reading sets a limit on women’s ritual right; it is attributed and neither softened nor argued. Revision 207804 dated 2019-07-26 by the Wikisource API. entry-check ok."
+}

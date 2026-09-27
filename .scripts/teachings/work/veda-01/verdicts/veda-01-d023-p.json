@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d023-p",
+ "d": 23,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "NAUGHT is to-day, to-morrow naught. Who comprehends the mystery? We must address ourselves unto another’s thought, and lost is then the hope we formed.",
+ "ref": "Rig Veda 1.170.1",
+ "at": [
+  169,
+  1
+ ],
+ "s": "A short hymn of quarrel over an offering, naming Indra, Agastya and the Maruts, opens with a complaint; Sāyaṇa, on 1.170.1, hears Indra lamenting an offering set aside for him and given to another, and giving up hope of it today or tomorrow.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.170.1, sa.wikisource (printed edition not named), revision 207936 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AD%E0%A5%A6&oldid=207936",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१७०, revision 207936 (2019-07-27)",
+    "locator": "commentary on 1.170.1 (and the hymn introduction quoting Nirukta)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n193/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.170.1 and its notes (Sāyaṇa and Yāska take the first negative as today)",
+    "via": "packet"
+   }
+  ],
+  "words": "परिदेवनप्रकारः प्रतिपाद्यते । इन्द्र आह । अद्यतनं यदस्ति तत् \"नूनम् अद्य न अस्ति । नूनमत्र विचिकित्सार्थे । अत्र अद्य इति यद्यपि नास्ति तथापि उत्तरवाक्ये श्वः इति दर्शनादत्र अद्येति गम्यते । तथा “श्वः अपि नूनं \"नो। उशब्दः अवधारणे। श्वस्तनमपि नैव नास्ति । अद्य यथा अस्मदर्थनिरुप्तम् अस्मभ्यं नास्ति किल श्वः कथं लप्स्यते इति भावः। \"यदद्भुतम् अन्यस्मै निरुप्य अन्यस्मै दत्तमति यदस्ति वैपरीत्यं “तत् \"कः \"वेद । यद्वा । यदद्भुतं भावि कार्यं यदस्ति तत्को वेद । अद्य श्वो वा लभ्यते इत्याशा न कार्येत्युक्तं भवति",
+  "lang": "sa",
+  "gloss": "The manner of the lament is set out. Indra says: what belongs to today, that is not ours today ... nor tomorrow either. The sense is: as today what was set aside for us is not ours, how will it be obtained tomorrow? “What is strange”: the reversal, that having been set aside for one it is given to another, who knows that? Or: who knows what is to come? It is thus said that the hope that it will be obtained today or tomorrow should not be held.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.170.1, at [169,1]). Sāyaṇa on 1.170.1 opens ‘the manner of the lament is set out; Indra says’, glosses the verse as what was set aside for us (asmadartha-nirupta) is not ours today, so how tomorrow, takes ‘the mystery’ as the reversal of an offering set aside for one and given to another, and concludes that hope of getting it today or tomorrow should not be held; the hymn introduction quotes Yāska on Agastya setting aside an oblation for Indra and wishing to give it to the Maruts, and Wilson’s note agrees. Plain sense faithful: verses 2 to 5 name the Maruts, Agastya and Indra and argue over oblations; no four-word overlap. Source year confirmed by the Wikisource API (2019-07-27). entry-check ok."
+}

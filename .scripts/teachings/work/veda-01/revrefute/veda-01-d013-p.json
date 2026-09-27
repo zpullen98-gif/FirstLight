@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A6%E0%A5%AB&oldid=400930",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 13 --verse 1.105.16 (rev 400930): the evidence words are a verbatim substring of Sāyaṇa on 1.105.16 (machine-checked): the Āditya cannot be overstepped even by the gods (yuṣmābhir api ... atikramituṃ na śakyaḥ) because their life depends on it, sun then seasons, seasons then sacrifices, sacrifices then the gods’ life; the sentence carries that chain and no more. Looseness only: he glosses panthāḥ as the Sun himself (satatagāmī, or the path of worshippers by the Sun’s gate), so what is not overstepped is the Sun as path, while the sentence says ‘a road’ after Griffith’s ‘the Sun’s road’; not a false attribution, and the ‘since’ clause ties it to the Sun. Plain sense against day.js: 1.105 is a refrain lament (‘Mark this my woe’), and 1.105.17 has Trita ‘buried in the well’ in Griffith’s own word; ‘points to’ renders asau, that yonder. verse.js ok (Rig Veda 1.105.16, at [104,16]); entry-check ok, no warns, 45 words at the cap.",
+ "better": "Optionally tighter to his gloss: “reads the Sun himself, the path, as what even the gods cannot overstep, since the seasons, the sacrifices and so the gods’ life depend on him.” Not required."
+}

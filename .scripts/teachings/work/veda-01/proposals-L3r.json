@@ -1,0 +1,112 @@
+{
+ "lane": "L3r",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 16,
+   "primary": {
+    "id": "veda-01-d016-p",
+    "key": "Fain to bring light to homes of men the noble and active Goddess hath emerged from darkness.",
+    "ref": "Rig Veda 1.123.1",
+    "at": [122, 1],
+    "s": "A hymn to Dawn opens with the Daksina’s broad chariot harnessed and the immortal Gods aboard; Sāyaṇa, on 1.123.1, reads the Goddess’s purpose as healing, a cure she works on the dwellings of men by driving away the darkness of night.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.123.1, sa.wikisource (printed edition not named), revision 348392 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "अनन्तरं सा उषाः \"कृष्णात् निकृष्टवर्णात् नैशात् तमसः सकाशात् \"उदस्थात् उत्थिता अभूत् … मानुषाय \"क्षयाय मनुष्याणां निवासाय “चिकित्सन्ती अन्धकारनिवारणरूपां चिकित्सां कुर्वती तमो निवारयन्तीत्यर्थः",
+     "gloss": "Then that Dawn rose up from ‘the black’, the base-coloured darkness of night … ‘for the human abode’, for the dwelling of men, ‘cikitsantī’: working a healing (cikitsā) whose form is the warding off of darkness; that is, she wards off the dark."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d016-s",
+    "key": "The folk, O Mitra-Varuna, who hate you, who sinfully hating pour you no libations, Lay in their hearts, themselves, a wasting sickness, whereas the righteous gaineth all by worship.",
+    "ref": "Rig Veda 1.122.9",
+    "at": [121, 9],
+    "s": "Turning to Mitra and Varuna in a hymn to all the Gods, the singer contrasts two kinds of men; Sāyaṇa, on 1.122.9, reads the heart’s sickness as the pain of seeing the good things enjoyed by those who keep the rite.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.122.9, sa.wikisource (printed edition not named), revision 205402 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“सः मूढो द्विविधो जनः “स्वयं “यक्ष्मं व्याधिं “हृदये स्वचित्ते 'नि “धत्ते स्थापयति । अनुष्ठातॄणां भोगान् पश्यन् व्यथितो भवतीत्यर्थः ।",
+     "gloss": "That deluded man, of either kind, ‘himself’ places a yakṣma, a sickness, ‘in his heart’, in his own mind: seeing the enjoyments of those who perform the rite, he is pained; that is the meaning."
+    }
+   }
+  },
+  {
+   "d": 17,
+   "primary": {
+    "id": "veda-01-d017-p",
+    "key": "Not interrupting heavenly ordinances, although she minisheth human generations. The last of endless morns that have departed, the first of those that come, Dawn brightly shineth.",
+    "ref": "Rig Veda 1.124.2",
+    "at": [123, 2],
+    "s": "As the fire is kindled and Savitar sends all creatures to work, the hymn turns to Dawn’s dealings with Gods and men; Sāyaṇa, on 1.124.2, reads her as helping the Gods’ rites like the Agnihotra with her light while wearing away the life of men.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.124.2, sa.wikisource (printed edition not named), revision 368324 (2023)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"दैव्यानि व्रतानि देवसंबन्धीनि अग्निहोत्रादीनि कर्माणि । … तानि कर्माणि \"अमिनती अहिंसन्ती' भानप्रदानेनानुकूलं कुर्वती । तथा \"मनुष्या मनुष्याणां \"युगानि युगोपलक्षितान् निमेषादिकालावयवान् “प्रमिनती प्रकर्षेण हिंसन्ती आयुः क्षपयन्तीत्यर्थः ।",
+     "gloss": "‘The divine ordinances’ (vratas): rites belonging to the gods, the Agnihotra and the rest … those rites she does not harm (aminatī) but makes favourable by giving light; and ‘the yugas of men’: the divisions of time the yugas stand for, the blink of an eye and the rest, she destroys outright (praminatī); that is, she wears away their life."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d017-s",
+    "key": "Near is she seen, as ’twere the Bright One’s bosom: she showeth sweet things like a new song-singer.",
+    "ref": "Rig Veda 1.124.4",
+    "at": [123, 4],
+    "s": "A hymn to Dawn gathers likenesses for her rising in the east; Yāska, Nirukta 4.16, takes the ‘Bright One’ as the Sun, named from purifying, and the singer as a seer who makes his wishes plain in praise, as Dawn makes her forms plain.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 4.16, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921)",
+    "basis": {
+     "source": "yaska",
+     "words": "The pure one is the sun, (so called) from … Nodha, (singer) means a seer: he composes .1 new hymn. As he makes his desires apparent in his songs of praise so dawn manifests her beauteous forms.",
+     "gloss": "The pure one (śundhyu, the Bright One) is the sun, so called from purifying … Nodhas (the singer) means a seer: he composes a new hymn. As he makes his desires plain in his songs of praise, so Dawn makes her lovely forms plain. (Sarup’s OCR prints “.1” for “a”.)"
+    }
+   }
+  },
+  {
+   "d": 18,
+   "primary": {
+    "id": "veda-01-d018-p",
+    "key": "Couples desirous of thine aid are storming thee, pouring their presents forth to win a stall of kine, pouring gifts, Indra, seeking thee.",
+    "ref": "Rig Veda 1.131.3",
+    "at": [130, 3],
+    "s": "With Heaven and Earth bowed to Indra, the hymn turns to those who worship him; Sāyaṇa, on 1.131.3, reads the ‘couples’ as husbands and wives, holding that a wife may share the rite with her husband, though not perform it alone.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.131.3, sa.wikisource (printed edition not named), revision 207804 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“मिथुनाः पत्नीसहिता यजमानाः “वि ततस्रे यज्ञं वितन्वते । … यद्यपि स्त्रियाः नास्ति पृथगधिकारस्तथापि पूर्वमीमांसायां षष्ठेऽधिकाराध्याये तृतीयचतुर्थाभ्यामधिकरणाभ्यां अस्त्येव स्त्रिया अधिकारः स च पत्या सहेति प्रपञ्चितत्वात् … तस्मात् मिथुना यज्ञं ततस्रे इत्येतत् युक्तम् ।",
+     "gloss": "‘The couples’: sacrificers together with their wives, ‘spread out’ (vi tatasre) the sacrifice … Although a woman has no separate right, yet, since the Pūrva Mīmāṃsā, in its sixth book, on qualification, sets out in its third and fourth sections that a woman does have a right, and that together with her husband … therefore ‘the couples spread out the sacrifice’ is fitting."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d018-s",
+    "key": "Ride hither to the offering of the pleasant juice, the holy Fig-tree which victorious priests surround: victorious be they still for us.",
+    "ref": "Rig Veda 1.135.8",
+    "at": [134, 8],
+    "s": "A hymn calling Vayu and Indra to the pressed Soma nears its close, promising Vayu cows that never run dry; Sāyaṇa, on 1.135.8, takes the ‘Fig-tree’ as the Soma itself, standing on the mountains, which victorious sacrificers gather round to buy.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.135.8, sa.wikisource (printed edition not named), revision 226442 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "“यं सोमम् “अश्वत्थं पर्वतादिव्याप्तिप्रदेशे स्थितं \"जायवः जेतारो यजमानाः “उपतिष्ठन्त उपेत्य तिष्ठन्ति क्रयाद्यर्थम् ।",
+     "gloss": "‘Which’ Soma, ‘the aśvattha’ (the Fig-tree), standing in the places it spreads over, mountains and the like, ‘the victorious ones’, the conquering sacrificers, ‘surround’: they approach and attend on it, for its purchase and the like."
+    }
+   }
+  }
+ ]
+}

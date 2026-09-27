@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d008-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AC%E0%A5%A8&oldid=400586",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 8 --verse 1.62.3: the ākhyāna before the gloss on 1.62.3 holds the evidence verbatim: Saramā the devaśunī, the cows carried off by the Paṇis, Indra sends her to track them, she asks that her young (śiśave) be given the milk-food from those cows, he agrees. The paraphrase (gods’ hound, cows the Paṇis stole, sent once Indra promised their milk to her young) is carried by these words; Wilson note b agrees. Tried the plain attack: ‘the search’ is not Griffith’s word (he has ‘desired it’), but 1.62.2 in day.js has the Angirases finding the cattle and 1.62.3 goes on to Brhaspati finding them, so a search is the passage’s own situation and the clause claims no doctrine; not landed. Key is the verse’s first whole sentence, 13 words. verse.js ok (Rig Veda 1.62.3, at [61,3]); entry-check ok, 43 words; src 109 characters; Wikisource API confirms revision 400586 is sūkta 1.62 dated 2024-02-09. Yāska does not treat the verse (he glosses the name Saramā at Nirukta 11.24, not this verse). No school, comparison or tone issue.",
+ "better": ""
+}

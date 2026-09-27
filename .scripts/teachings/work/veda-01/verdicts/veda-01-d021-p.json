@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "No, here thou diest not, thou art not injured: by easy paths unto the Gods thou goest.",
+ "ref": "Rig Veda 1.162.21",
+ "at": [
+  161,
+  21
+ ],
+ "s": "Near the end of a hymn on the horse sacrifice, the horse, now killed, is addressed; Sāyaṇa, on 1.162.21, takes the killing as no death like other horses’ and no pointless harm, answering the objection that the death is seen: the horse reaches the gods.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on 1.162.21, sa.wikisource (ऋग्वेदः सूक्तं १.१६२), revision 401046 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AC%E0%A5%A8&oldid=401046",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१६२, revision 401046 (2024)",
+    "locator": "commentary on 1.162.21",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n145/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.162.21",
+    "via": "packet"
+   }
+  ],
+  "words": "नैव इदानीम् इतराश्ववत् मृतो भवसि देवत्वप्राप्तेर्वक्ष्यमाणत्वात्। अत एव “न “रिष्यसि न हिंस्यसे । व्यर्थहिंसायाः अभावात् । ननु प्रत्यक्ष्यतो मृतिः अवयवनाशश्च दृश्यते कथमेवमुच्यते इति । उच्यते। … देवानेव प्राप्नोषि। अतो युक्तैषोक्तिः।",
+  "lang": "sa",
+  "gloss": "You surely do not now die as other horses die, since your reaching godhood is about to be stated; for that very reason you are not harmed, not injured, since there is no pointless injury. But surely death and the destruction of the limbs are seen before the eyes: how can this be said? It is answered: ... you reach the gods themselves. So the statement is fitting.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.162.21, at [161,21]), stopping before the second half about the yoked steeds. Opened the packet for the whole of 1.162: Sāyaṇa on 21 glosses na vā u etan mriyase as nor do you now die like other horses (itarāśvavat), since reaching godhood is to be stated; na riṣyasi as not injured, since there is no pointless injury (vyarthahiṃsāyāḥ abhāvāt); then raises the objection that death and the loss of limbs are seen (nanu pratyakṣato mṛtiḥ ... dṛśyate) and answers it: by god-paths you reach the gods, so the statement is fitting. Every clause of the reading is in those words; his closing ritual note (recited by the sacrificer if the horse fails the sniffing rite) does not bear on it. Wilson translates the same way. Plain sense is a plain clause on the killing, true to 1.162.18 to 20 (the hatchet in the body, the dissection), no softening, no four words of the key. Revision 401046 dated 2024-03-10 by the Wikisource API. entry-check ok."
+}

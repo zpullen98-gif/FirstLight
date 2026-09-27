@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d030-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A9%E0%A5%A6&oldid=213335",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 30 --verse 2.30.1 (rev 213335): evidence verbatim (substring match true). kiṃśabda ākṣepe (kim in dismissal), kiṃ parimāṇaṃ tasya kālasya, na kim api, nityā eva hi tāḥ: the question dismissed, the waters eternal, no measurable time of their birth; the sentence says no more. Wilson’s note in the packet independently reports the commentator’s drift as the eternity of the waters. day.js: 2.30.1 opens the hymn, streams unceasing flow day after day, and Indra dominates 2.30 with Brhaspati, Soma and Sarasvati also addressed, so ‘chiefly to Indra’ holds. Key is the final sentence of the unit, verse.js ok (2.30.1, at [220,1]); entry-check ok, no warns. No school, comparison or tone issue.",
+ "better": ""
+}

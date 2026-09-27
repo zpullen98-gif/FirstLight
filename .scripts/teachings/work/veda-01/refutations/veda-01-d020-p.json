@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d020-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AB%E0%A5%AA&oldid=403472",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 20 --verse 1.154.5. Sāyaṇa glosses pāthaḥ via Nirukta 6.7 as mid-air, then 'avinaśvaraṃ brahmalokam ity arthaḥ' (the imperishable world of Brahman); the place he would attain is one where 'kṣuttṛṣṇājarāmaraṇapunarāvṛttyādibhayaṃ nāsti' (no fear or danger of hunger, thirst, old age, death, return); 'sa hi bandhuḥ' = 'sa khalu sarveṣāṃ sukṛtināṃ bandhubhūtaḥ', and 'tasya padaṃ prāptavatām' confirms the 'he' is Viṣṇu, so 'Visnu as kin to all who do good' is his reading and not Griffith's (who makes the well the kin). The only slack is 'free of' for 'no fear of', which is a fair English rendering of bhayaṃ nāsti and does not add doctrine. Plain sense: 1.154.1 to 4 praise the three strides; verse 5 is the singer's first-person wish; no four-word run from the key. verse.js ok (Rig Veda 1.154.5, at [153,5]); entry-check ok. Attacks tried on all nine lines; none lands.",
+ "better": "Optional tightening, not required: 'free of any fear of hunger, thirst, old age, death and return' tracks bhayaṃ nāsti more literally, if the word count allows."
+}

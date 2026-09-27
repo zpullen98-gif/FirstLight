@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Then verily they recognized the essential form of Tvastar’s Bull, Here in the mansion of the Moon.",
+ "ref": "Rig Veda 1.84.15",
+ "at": [
+  83,
+  15
+ ],
+ "s": "In a hymn to Indra, after the tale of Dadhyac’s bones and the horse’s head, the verse turns to the Moon; Sāyaṇa, on 1.84.15, takes it that the sun’s rays know their own light, hidden by night, as reflected in the Moon’s clear watery orb.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.84.15, sa.wikisource (printed edition not named), revision 400850 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AE%E0%A5%AA&oldid=400850",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.८४, revision 400850 (2024-02-26)",
+    "locator": "commentary on 1.84.15",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n266/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.84.15 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "अत्राह अस्मिन्नेव \"गोः गन्तुः \"चन्द्रमसो \"गृहे मण्डले “त्वष्टुः दीप्तस्यादित्यस्य संबन्धि \"अपीच्यं रात्रावन्तर्हितं स्वकीयं यत् \"नाम तेजः तदादित्यस्य रश्मयः \"इत्था इत्थमनेन प्रकारेण “अमन्वत अजानन् । उदकमये स्वच्छे चन्द्रबिम्बे सूर्यकिरणाः प्रतिफलन्ति ।",
+  "lang": "sa",
+  "gloss": "Right here, in the house, that is the orb, of the moving (go) moon, the rays of the sun knew thus, in this manner, the name, that is the light, belonging to Tvaṣṭṛ, the shining Āditya: their own light, which is hidden at night. The sun’s rays are reflected in the moon’s clear, watery orb.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "CORRECTED. Key verse verbatim (verse.js ok, ref 1.84.15, at [83,15]). Sāyaṇa on 1.84.15 (packet, revision 400850, dated 2024-02-26 by the Wikisource API) supplies the sun’s rays as subject, glosses nāma as their own light (tejas) hidden at night, amanvata as ajānan (knew), and the moon’s house as its orb, adding that the sun’s rays are reflected in the clear watery lunar orb; Wilson’s note agrees. The reading stands. Changed: (1) the context clause now names the god, Indra, as the brief’s voice requires, and says ‘the verse’; (2) ‘find their own light … where it is reflected’ became ‘know their own light … as reflected’, closer to his gloss ajānan and within 45 words. Plain sense faithful to 1.84.13 to 1.84.14. entry-check ok."
+}

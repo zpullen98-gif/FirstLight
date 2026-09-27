@@ -1,0 +1,253 @@
+{
+ "lane": "L2",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 7,
+   "primary": {
+    "id": "veda-01-d007-p",
+    "key": "In fear they raised the lofty self-resplendent hymn, praise giving and effectual, leading up to heaven, When Indra’s helpers fighting for the good of men, the Maruts, faithful to mankind, joyed in the light.",
+    "ref": "Rig Veda 1.52.9",
+    "at": [
+     51,
+     9
+    ],
+    "s": "In a hymn on Indra’s fight with Vrtra, the verse turns to the praise and the Maruts; Sāyaṇa, on 1.52.9, reads the ‘lofty’ hymn as the Bṛhat Sāman, sung in fear of Vrtra, and the Maruts as serving men in the form of breath.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.52.9, sa.wikisource (printed edition not named), revision 237934 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "बृहत् बृहत्साम स्तोतारो यजमानाः “भियसा वृत्रभयेन “यत् यदा “उक्थ्यम् उक्थार्हं स्तोत्रयोग्यम् “अकृण्वत अकुर्वन् … एवंविधेन स्तोत्रेण वृत्राद्भीता इन्द्रमस्तोषतेत्यर्थः … नृषाचः प्राणरूपेण नॄन् सेवमाना भूत्वा “इन्द्रम् अपि तेनैव रूपेण “अनु “अमदन् आनुपूर्व्येण हर्षं प्रापयन्",
+     "gloss": "Bṛhat means the Bṛhat Sāman: when the praisers, the sacrificers, through fear, fear of Vṛtra, made it fit for recitation, fit for a hymn of praise … the sense is that, afraid of Vṛtra, they praised Indra with such a hymn … nṛṣācaḥ: becoming servers of men in the form of breath, (the Maruts) in that same form gladdened Indra too, in due order."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d007-s",
+    "key": "On paths most excellent he measured out mid-air: he with oblation calls to service of the Gods.",
+    "ref": "Rig Veda 1.58.1",
+    "at": [
+     57,
+     1
+    ],
+    "s": "Opening a hymn to Agni, the tireless herald and Vivasvan’s messenger, the verse follows his course; Sāyaṇa, on 1.58.1, takes it that mid-air, though there before, was as if it were not, and now, shining with Agni’s radiance, looks newly made.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.58.1, sa.wikisource (printed edition not named), revision 300112 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "साधिष्ठेभिः समीचीनैः \"पथिभिः मागैर्गन्छन् \"रजः अन्तरिक्षलोकं \"वि “ममे निर्ममे । पूर्वं विद्यमानमप्यन्तरिक्षम् असत्कल्पमभूत्। इदानीं तस्य तेजसा प्रकाशमानं सत् उत्पन्नमिव दृश्यते",
+     "gloss": "Going by the best, fitting paths, he measured out, that is made, rajas, the region of mid-air. Mid-air, though it existed before, was as if it did not exist; now, shining with his radiance, it appears as though produced."
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "veda-01-d008-p",
+    "key": "When Indra and the Angirases desired it, Sarama found provision for her offspring.",
+    "ref": "Rig Veda 1.62.3",
+    "at": [
+     61,
+     3
+    ],
+    "s": "Praising Indra, through whom the Angirases found the cattle, the hymn turns to the search; Sāyaṇa, on 1.62.3, reads it through the tale of Sarama, the gods’ hound, sent after the cows the Paṇis stole once Indra promised their milk to her young.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.62.3, sa.wikisource (printed edition not named), revision 400586 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "अत्रेदमाख्यानम् । सरमा नाम देवशुनी । पणिभिर्गोष्वपहृतासु तद्गवेषणाय तां सरमामिन्द्रः प्रहैषीत्। यथा लोके व्याधो वनान्तर्गतमृगान्वेषणाय श्वानं विसृजति तद्वत् । सा च सरमा एवमवोचत्। हे इन्द्र अस्मदीयाय शिशवे तद्गोसंबन्धि क्षीराद्यन्नं यदि प्रयच्छसि तर्हि गमिष्यामीति । स तथेत्यब्रवीत्",
+     "gloss": "Here is the story. Saramā is the name of the gods’ bitch. When the cows had been carried off by the Paṇis, Indra sent that Saramā to search for them, as in the world a hunter lets a dog loose to track the deer in the forest. And Saramā said: Indra, if you give my young one food from those cows, milk and the like, then I will go. He said: so be it."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d008-s",
+    "key": "Now will I tell the greatness of the Hero whom Puru’s sons follow as Vrtra’s slayer: Agni Vaisvanara struck down the Dasyu, cleave Sambara through and shattered down his fences.",
+    "ref": "Rig Veda 1.59.6",
+    "at": [
+     58,
+     6
+    ],
+    "s": "Near the close of a hymn to Agni Vaisvanara, centre of the people, the singer tells of a victory; Yāska, Nirukta 7.23, takes the ‘Hero’ as the sprinkler of the waters, served by men who want rain, and Vrtra and Sambara as the cloud.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 7.23, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "I will speak forth the greatness, i.e. the pre-eminence of the bull, 1. e. the sprinkler of the waters. Supplicating men, i. e. whose request is to be granted, and who are desirous of rain, attend upon, i.e. serve him, who is the slayer of Vrtra, i. e. the cloud. … The Vaisvanara Agni slew him, shook the waters, and shattered 6ambara, i. e. the cloud.",
+     "gloss": "I will proclaim the greatness, that is the pre-eminence, of the bull, that is the one who sprinkles the waters. Supplicating men, whose request is to be granted and who long for rain, attend on, that is serve, him, the slayer of Vṛtra, that is of the cloud … Agni Vaiśvānara slew him, shook down the waters, and shattered Śambara, that is the cloud."
+    }
+   }
+  },
+  {
+   "d": 9,
+   "primary": {
+    "id": "veda-01-d009-p",
+    "key": "Soon as the holy beings had discovered the thrice-seven mystic things contained within thee, With these, one-minded, they preserve the Amrta: guard thou the life of all their plants and cattle.",
+    "ref": "Rig Veda 1.72.6",
+    "at": [
+     71,
+     6
+    ],
+    "s": "Once the gods have found the hidden Agni, the hymn turns to his secrets; Sāyaṇa, on 1.72.6, reads the ‘thrice-seven’ as twenty-one sacrifices, seven each of cooked food, of oblation and of Soma, placed in Agni alone because no rite can be done without fire.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.72.6, sa.wikisource (printed edition not named), revision 220672 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "सप्त एकविंशतिसंख्याकानि “गुह्यानि रहस्यानि वेदैकसमधिगम्यानि “यत् यानि “पदा पदानि । पद्यते गम्यते स्वर्गः एभिरिति व्युत्पत्त्या पदशब्देनात्र यज्ञा उच्यन्ते । ते चैकविंशतिसंख्याकाः। औपासनहोमवैश्वदेवादयः सप्त पाकयज्ञाः । अग्न्याधेयदर्शपूर्णमासादयः सप्त हविर्यज्ञाः । अग्निष्टोमात्यग्निष्टोमादयः सप्त सोमयज्ञाः । एवमेकविंशतिसंख्याकानि यज्ञलक्षणानि पदानि हे अग्न “त्वे “इत् त्वय्येव “निहिता स्थापितानि । तेषां सर्वेषां त्वत्प्रधानत्वात्। न ह्यग्निमन्तरेण यागा अनुष्ठातुं शक्यन्ते",
+     "gloss": "Thrice seven, twenty-one in number, hidden, secret, to be known from the Veda alone, the padas: since heaven is reached (padyate) by them, the word pada here means sacrifices. And they are twenty-one: the seven cooked-food sacrifices (pākayajña), aupāsana, homa, vaiśvadeva and the rest; the seven oblation sacrifices (haviryajña), the setting up of the fires, the new- and full-moon rites and the rest; the seven Soma sacrifices, agniṣṭoma, atyagniṣṭoma and the rest. So the twenty-one steps that are sacrifices are placed, O Agni, in you alone, since you are chief in all of them; for without Agni no sacrifice can be performed."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d009-s",
+    "key": "O Agni, break not our ancestral friendship, Sage as thou art, endowed with deepest knowledge. Old age, like gathering cloud, impairs the body: before that evil be come nigh protect me.",
+    "ref": "Rig Veda 1.71.10",
+    "at": [
+     70,
+     10
+    ],
+    "s": "At the close of a hymn to Agni, the singer’s last plea is for himself; Sāyaṇa, on 1.71.10, takes the ‘ancestral friendship’ as one come down from Vasiṣṭha, and the plea as a prayer that old age never reach the seer, that is, for immortality.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.71.10, sa.wikisource (printed edition not named), revision 207712 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "पित्र्याणि पितरं वसिष्ठमुपक्रम्यागतानि “सख्या सखित्वानि “मा “प्र “मर्षिष्ठाः मा विनाशय … जरिमा जरा “मिनाति मां सूक्तद्रष्टारं हिनस्ति । “अभिशस्तेः हिंसाहेतोः “तस्याः जरायाः “पुरा “अधीहि मां बुध्यस्व । सा यथा न प्राप्नोति तथा कुरु । अमृतत्वं प्रयच्छेति यावत्",
+     "gloss": "The friendships of the fathers, those come down beginning with the father Vasiṣṭha: do not destroy them … Old age (jarimā) harms me, the seer of the hymn. Before that old age, the cause of harm, heed me; act so that it does not reach me. That is to say: grant immortality."
+    }
+   }
+  },
+  {
+   "d": 10,
+   "primary": {
+    "id": "veda-01-d010-p",
+    "key": "Then verily they recognized the essential form of Tvastar’s Bull, Here in the mansion of the Moon.",
+    "ref": "Rig Veda 1.84.15",
+    "at": [
+     83,
+     15
+    ],
+    "s": "After the tale of Dadhyac’s bones and the horse’s head, the hymn turns to the Moon; Sāyaṇa, on 1.84.15, takes it that the sun’s rays find their own light, hidden by night, in the Moon’s clear watery orb, where it is reflected.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.84.15, sa.wikisource (printed edition not named), revision 400850 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "गोः गन्तुः \"चन्द्रमसो \"गृहे मण्डले “त्वष्टुः दीप्तस्यादित्यस्य संबन्धि \"अपीच्यं रात्रावन्तर्हितं स्वकीयं यत् \"नाम तेजः तदादित्यस्य रश्मयः \"इत्था इत्थमनेन प्रकारेण “अमन्वत अजानन् । उदकमये स्वच्छे चन्द्रबिम्बे सूर्यकिरणाः प्रतिफलन्ति । तत्र प्रतिफलिताः किरणाः सूर्ये यादृशीं संज्ञां लभन्ते तादृशीं चन्द्रेऽपि वर्तमाना लभन्ते इत्यर्थः । एतदुक्तं भवति । यद्रात्रावन्तर्हित सौरं तेजस्तच्चन्द्र मण्डलं प्रविश्य अहनीव नैशं तमो निवार्य सर्वं प्रकाशयति",
+     "gloss": "In this house, the orb, of the moving (go) moon, the rays of the sun thus knew the name, that is the light, of Tvaṣṭṛ, the shining Āditya, their own light that is hidden at night. In the moon’s watery, clear orb the sun’s rays are reflected; the rays reflected there bear in the moon the same name they bear in the sun. What is said is this: the solar light that is hidden at night enters the moon’s orb and, driving off the darkness of night as if by day, lights up everything."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d010-s",
+    "key": "They drave the cloud transverse directed hitherward, and poured the fountain forth for thirsting Gotama.",
+    "ref": "Rig Veda 1.85.11",
+    "at": [
+     84,
+     11
+    ],
+    "s": "Near the close of a hymn on the Maruts’ mighty deeds, the singer recalls their kindness to a sage; Sāyaṇa, on 1.85.11, takes the ‘cloud’ as a well, pushed sideways by the Maruts to the sage’s hermitage, its water drawn for the thirsty Gotama.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.85.11, sa.wikisource (printed edition not named), revision 403338 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "अवतम् उद्धृतं कूपं यस्यां दिशि ऋषिर्वसति “तया “दिशा “जिह्मं वक्रं तिर्यञ्चं नुनुद्रे प्रेरितवन्तः । एवं कूपं नीत्वा ऋष्याश्रमेऽवस्थाप्य “तृष्णजे तृषिताय “गोतमाय ऋषये तदर्थम् “उत्सं जलप्रवाहं कूपादुद्धत्य \"असिञ्चन् आहावेऽवानयन्",
+     "gloss": "The well (avata), a dug well: (the Maruts) pushed it crooked, sideways, in the direction where the seer lived. Having so brought the well and set it down in the seer’s hermitage, for the thirsty seer Gotama they drew the spring (utsa), a stream of water, up from the well and poured it into the drinking trough."
+    }
+   }
+  },
+  {
+   "d": 11,
+   "primary": {
+    "id": "veda-01-d011-p",
+    "key": "A hundred autumns stand before us, O ye Gods, within whose space ye bring our bodies to decay; Within whose space our sons become fathers in turn. Break ye not in the midst our course of fleeting life.",
+    "ref": "Rig Veda 1.89.9",
+    "at": [
+     88,
+     9
+    ],
+    "s": "Having asked the Gods for firm limbs and the life they appoint, the hymn turns to its length; Sāyaṇa, on 1.89.9, takes the hundred autumns as the span fixed for men at creation, and the sons as becoming their fathers’ guardians, or else fathers themselves.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.89.9, sa.wikisource (printed edition not named), revision 292662 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "यस्मात् सृष्टिकाले मनुष्याणां शतं संवत्सरा आयुरिति युष्माभिः परिकल्पितं तस्मात् \"नः अस्मान् \"आयुर्गन्तोः क्लृप्तस्यायुषो गमनात्पूर्वं \"मध्या मध्ये \"मा “रीरिषत मा हिंसिष्ट … पितरः अस्माकं रक्षितारः ”भवन्ति(यद्वा । यत्र यस्यामवस्थायां पुत्रासः अस्माकं पुत्राः स्वपुत्राणां पितरो भवन्ति । अस्माकं यदा पौत्रा भवन्ति",
+     "gloss": "Since at the time of creation a hundred years was fixed by you as the life of men, therefore do not harm us in the middle, before the appointed span of life has gone … (the sons become) fathers, that is our protectors. (Or else: the stage at which) our sons become fathers of their own sons, that is, when we have grandsons."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d011-s",
+    "key": "THESE Dawns have raised their banner; in the eastern half of the mid-air they spread abroad their shining light.",
+    "ref": "Rig Veda 1.92.1",
+    "at": [
+     91,
+     1
+    ],
+    "s": "Opening a hymn to Dawn that ends with a call to the Asvins, the verse greets the morning; Yāska, Nirukta 12.7, takes the banner as light, and the plural ‘Dawns’ as perhaps one deity, named in the plural out of respect.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 12.7, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "These same dawns have lifted up their l)anner, i.e. light. The plural number may have been used for one deity only, in order to show respect.",
+     "gloss": "These same dawns have lifted up their banner, that is, light. The plural may have been used of one deity only, to show respect."
+    }
+   }
+  },
+  {
+   "d": 12,
+   "primary": {
+    "id": "veda-01-d012-p",
+    "key": "Three several places of his birth they honour, in mid-air, in the heaven, and in the waters. Governing in the east of earthly regions, the seasons hath he stablished in their order.",
+    "ref": "Rig Veda 1.95.3",
+    "at": [
+     94,
+     3
+    ],
+    "s": "Early in a hymn to Agni as a newborn infant, the verse turns to his births; Sāyaṇa, on 1.95.3, reads them as the fire beneath the ocean, the sun in heaven and the lightning in mid-air, and the sun as marking off the seasons.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.95.3, sa.wikisource (printed edition not named), revision 333253 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "अस्याग्नेस्त्रीणि जन्मानि संभवन्ति । \"समुद्रे अब्धौ वडवानलरूपेण “एकं जन्म । “दिवि द्युलोके आदित्यात्मना “एकम् । \"अप्सु । आपः इति अन्तरिक्षनाम । अन्तरिक्षे वैद्युताग्निरूपेणैकम् । एवमग्निस्त्रेधात्मानं विभज्य त्रिषु स्थानेषु वर्तते इत्यर्थः … तत्रादित्यात्मना वर्तमानः सोऽग्निः “ऋतूनु वसन्ताद्यान् षडृतून \"प्रशासत् प्रकर्षेण विभक्ततया ज्ञापयन्",
+     "gloss": "This Agni has three births: in the ocean, one birth, in the form of the submarine fire; in heaven, one, as the sun; in the waters (āpaḥ is a name of mid-air), so in mid-air, one, in the form of the lightning fire. The sense is that Agni, dividing himself threefold, abides in three places … There, abiding as the sun, that Agni makes known the seasons, the six seasons, spring and the rest, by marking them off clearly."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d012-s",
+    "key": "The waters and the bowl have made him friendly. The Gods possessed the wealth bestowing Agni.",
+    "ref": "Rig Veda 1.96.1",
+    "at": [
+     95,
+     1
+    ],
+    "s": "Opening a hymn whose refrain recurs through seven verses, the singer tells of Agni’s birth by strength; Yāska, Nirukta 8.2, takes the wealth-giver to be this earthly fire, answering Krauṣṭuki, who held him to be Indra.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 8.2, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "But who is this giver of wealth ? ' It is Indra ', says Kraustuki … This very (i.e. terrestrial) Agni is called \"giver of wealth\",' says Sakapuni. … Gods supported Agni, giver of wealth.\"^ This too is a Vedic (juotation. … As to (the view) that Indra is the most liberal giver of strength and wealth, (we reply) that all gods possess supernatural power. … As to (the quotation) ' May the giver of wealth and his descendants drink ', (we reply) that it refers to this very (i. e. terrestrial) lire.",
+     "gloss": "But who is this giver of wealth? ‘It is Indra,’ says Krauṣṭuki … ‘This very (earthly) Agni is called the giver of wealth,’ says Śākapūṇi … ‘The gods supported Agni, giver of wealth’: this too is a Vedic text … As to the view that Indra is the most liberal giver of strength and wealth, we reply that all the gods possess sovereign power … As to the text ‘May the giver of wealth and his descendants drink’, we reply that it refers to this very (earthly) fire."
+    }
+   }
+  }
+ ]
+}

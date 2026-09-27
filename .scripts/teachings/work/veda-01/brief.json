@@ -1,0 +1,444 @@
+{
+ "plan": "veda",
+ "batch": "veda-01",
+ "dry": false,
+ "div": "b606361f14",
+ "root": "C:/Users/zpull/FirstLight",
+ "days": [
+  {
+   "d": 1,
+   "label": "Rig Veda 1.1 to 1.12",
+   "id": {
+    "primary": "veda-01-d001-p",
+    "standby": "veda-01-d001-s"
+   }
+  },
+  {
+   "d": 2,
+   "label": "Rig Veda 1.13 to 1.23",
+   "id": {
+    "primary": "veda-01-d002-p",
+    "standby": "veda-01-d002-s"
+   }
+  },
+  {
+   "d": 3,
+   "label": "Rig Veda 1.24 to 1.30",
+   "id": {
+    "primary": "veda-01-d003-p",
+    "standby": "veda-01-d003-s"
+   }
+  },
+  {
+   "d": 4,
+   "label": "Rig Veda 1.31 to 1.35",
+   "id": {
+    "primary": "veda-01-d004-p",
+    "standby": "veda-01-d004-s"
+   }
+  },
+  {
+   "d": 5,
+   "label": "Rig Veda 1.36 to 1.44",
+   "id": {
+    "primary": "veda-01-d005-p",
+    "standby": "veda-01-d005-s"
+   }
+  },
+  {
+   "d": 6,
+   "label": "Rig Veda 1.45 to 1.51",
+   "id": {
+    "primary": "veda-01-d006-p",
+    "standby": "veda-01-d006-s"
+   }
+  },
+  {
+   "d": 7,
+   "label": "Rig Veda 1.52 to 1.58",
+   "id": {
+    "primary": "veda-01-d007-p",
+    "standby": "veda-01-d007-s"
+   }
+  },
+  {
+   "d": 8,
+   "label": "Rig Veda 1.59 to 1.65",
+   "id": {
+    "primary": "veda-01-d008-p",
+    "standby": "veda-01-d008-s"
+   }
+  },
+  {
+   "d": 9,
+   "label": "Rig Veda 1.66 to 1.77",
+   "id": {
+    "primary": "veda-01-d009-p",
+    "standby": "veda-01-d009-s"
+   }
+  },
+  {
+   "d": 10,
+   "label": "Rig Veda 1.78 to 1.85",
+   "id": {
+    "primary": "veda-01-d010-p",
+    "standby": "veda-01-d010-s"
+   }
+  },
+  {
+   "d": 11,
+   "label": "Rig Veda 1.86 to 1.93",
+   "id": {
+    "primary": "veda-01-d011-p",
+    "standby": "veda-01-d011-s"
+   }
+  },
+  {
+   "d": 12,
+   "label": "Rig Veda 1.94 to 1.101",
+   "id": {
+    "primary": "veda-01-d012-p",
+    "standby": "veda-01-d012-s"
+   }
+  },
+  {
+   "d": 13,
+   "label": "Rig Veda 1.102 to 1.108",
+   "id": {
+    "primary": "veda-01-d013-p",
+    "standby": "veda-01-d013-s"
+   }
+  },
+  {
+   "d": 14,
+   "label": "Rig Veda 1.109 to 1.113",
+   "id": {
+    "primary": "veda-01-d014-p",
+    "standby": "veda-01-d014-s"
+   }
+  },
+  {
+   "d": 15,
+   "label": "Rig Veda 1.114 to 1.117",
+   "id": {
+    "primary": "veda-01-d015-p",
+    "standby": "veda-01-d015-s"
+   }
+  },
+  {
+   "d": 16,
+   "label": "Rig Veda 1.118 to 1.123",
+   "id": {
+    "primary": "veda-01-d016-p",
+    "standby": "veda-01-d016-s"
+   }
+  },
+  {
+   "d": 17,
+   "label": "Rig Veda 1.124 to 1.129",
+   "id": {
+    "primary": "veda-01-d017-p",
+    "standby": "veda-01-d017-s"
+   }
+  },
+  {
+   "d": 18,
+   "label": "Rig Veda 1.130 to 1.135",
+   "id": {
+    "primary": "veda-01-d018-p",
+    "standby": "veda-01-d018-s"
+   }
+  },
+  {
+   "d": 19,
+   "label": "Rig Veda 1.136 to 1.142",
+   "id": {
+    "primary": "veda-01-d019-p",
+    "standby": "veda-01-d019-s"
+   }
+  },
+  {
+   "d": 20,
+   "label": "Rig Veda 1.143 to 1.154",
+   "id": {
+    "primary": "veda-01-d020-p",
+    "standby": "veda-01-d020-s"
+   }
+  },
+  {
+   "d": 21,
+   "label": "Rig Veda 1.155 to 1.162",
+   "id": {
+    "primary": "veda-01-d021-p",
+    "standby": "veda-01-d021-s"
+   }
+  },
+  {
+   "d": 22,
+   "label": "Rig Veda 1.163 to 1.164",
+   "id": {
+    "primary": "veda-01-d022-p",
+    "standby": "veda-01-d022-s"
+   }
+  },
+  {
+   "d": 23,
+   "label": "Rig Veda 1.165 to 1.171",
+   "id": {
+    "primary": "veda-01-d023-p",
+    "standby": "veda-01-d023-s"
+   }
+  },
+  {
+   "d": 24,
+   "label": "Rig Veda 1.172 to 1.182",
+   "id": {
+    "primary": "veda-01-d024-p",
+    "standby": "veda-01-d024-s"
+   }
+  },
+  {
+   "d": 25,
+   "label": "Rig Veda 1.183 to 1.191",
+   "id": {
+    "primary": "veda-01-d025-p",
+    "standby": "veda-01-d025-s"
+   }
+  },
+  {
+   "d": 26,
+   "label": "Rig Veda 2.1 to 2.8",
+   "id": {
+    "primary": "veda-01-d026-p",
+    "standby": "veda-01-d026-s"
+   }
+  },
+  {
+   "d": 27,
+   "label": "Rig Veda 2.9 to 2.14",
+   "id": {
+    "primary": "veda-01-d027-p",
+    "standby": "veda-01-d027-s"
+   }
+  },
+  {
+   "d": 28,
+   "label": "Rig Veda 2.15 to 2.22",
+   "id": {
+    "primary": "veda-01-d028-p",
+    "standby": "veda-01-d028-s"
+   }
+  },
+  {
+   "d": 29,
+   "label": "Rig Veda 2.23 to 2.28",
+   "id": {
+    "primary": "veda-01-d029-p",
+    "standby": "veda-01-d029-s"
+   }
+  },
+  {
+   "d": 30,
+   "label": "Rig Veda 2.29 to 2.34",
+   "id": {
+    "primary": "veda-01-d030-p",
+    "standby": "veda-01-d030-s"
+   }
+  },
+  {
+   "d": 31,
+   "label": "Rig Veda 2.35 to 2.41",
+   "id": {
+    "primary": "veda-01-d031-p",
+    "standby": "veda-01-d031-s"
+   }
+  },
+  {
+   "d": 32,
+   "label": "Rig Veda 2.42 to 3.4",
+   "id": {
+    "primary": "veda-01-d032-p",
+    "standby": "veda-01-d032-s"
+   }
+  }
+ ],
+ "lanes": [
+  {
+   "key": "L1",
+   "days": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L2",
+   "days": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L3",
+   "days": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L4",
+   "days": [
+    19,
+    20,
+    22,
+    23,
+    24,
+    25
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L5",
+   "days": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L6",
+   "days": [
+    32
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "S1",
+   "days": [
+    21
+   ],
+   "sensitive": true
+  }
+ ],
+ "sensitive": [
+  21
+ ],
+ "rules": [
+  "1. FORM. One sentence: <plain sense>; <Commentator>, <place>, reads it as <reading>. Exactly one semicolon and one full stop, at the end. Aim for 35 to 45 words; at most 45, or 60 when two commentators are named (then: ...; A (school), place, reads it as X, and B (school), place, as Y.). The owner set this length: a reader meets it at six in the morning. The verb after the commentator is one of: reads, takes, hears, explains, understands. Never: shows, proves, reveals, the true meaning, actually.",
+  "2. PLAIN SENSE (before the semicolon). A short clause of CONTEXT, because the key verse is printed just above the sentence: where the verse stands in the day’s passage and what the passage around it is doing (who speaks, to whom, what the chapter is about, what comes before or after), in the passage’s own terms. It NEVER repeats the key verse’s own words (the gate fails four words in a row taken from the verse) and never paraphrases it line by line. Forms that work: \"Closing a chapter on the sage’s humility, the verse ...\"; \"In a chapter of contrasts between the multitude and the speaker, ...\"; \"Krishna, answering Arjuna’s doubt about action, ...\". Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim (\"the chapter\", \"the text\", \"the Master says\"; never \"Laozi wrote\" or \"Muhammad writes\"). It never names the commentator.",
+  "3. THE READING (after the semicolon). One commentator from this plan’s roster (two only where they genuinely differ, and then name the difference without resolving it), opening the second half with his display name exactly as the roster gives it, then the place in the commentary (chapter, verse, book and section, page), then a paraphrase that the evidence supports and does not go beyond. No quotation from the commentator in the sentence. At most three words of the key verse may be quoted, in curly quotes.",
+  "4. NEVER ANOTHER TRADITION. No comparison, no ranking, no \"unlike\", \"fulfils\", \"anticipates\", \"all faiths\", \"superior\". Name other groups only as the day’s text itself names them.",
+  "5. DISAGREEMENT IS NAMED, NOT RESOLVED. No \"rightly\", \"better\", \"more accurately\", \"correctly\", \"mistaken\".",
+  "6. HARD PASSAGES (war, killing, punishment, exclusion, law, sexuality). The plain sense states it in one plain clause: no softening, no pleading for context, no graphic detail, no polemic. The reading gives the commentator’s reading, including any limit he sets, attributed to him.",
+  "7. HOUSE STYLE. British spelling (honour, colour, realise, judgement). Curly quotes and apostrophes only. No em dash, no en dash, no double hyphen, anywhere. No question or exclamation mark in the sentence. No you, your, we, our, us. No honorifics (Saint, St., Sri, pbuh and its signs, the Venerable, Lord Krishna). Names exactly as the roster spells them. The divine name as the key verse’s translation prints it when quoting; otherwise \"God\" or \"the LORD\" as the translation has it; never spell out the four-letter Hebrew name.",
+  "8. THE KEY VERSE. Copied from `day.js`, verbatim, inside ONE unit (one verse, one ayah, one of Legge’s numbered sections, one paragraph); one to three whole sentences, beginning where a sentence begins and ending in . ? or !; 4 to 60 words; no dash of any kind (choose another verse, or stop before it); only these changes: straight quotes to curly, wrapped lines joined. Everything else stays exactly as printed, parentheses and capitals included. Never from a note, an argument, a commentary, a chant or a colophon (`day.js` marks them NOT CITABLE). Run `verse.js` on every key: it must print \"ok\": true, and its ref and at are copied into the proposal unchanged.",
+  "9. THE SOURCE LINE (src). The commentator’s display name first, then the work and the place, then the edition actually read and its year: for example \"Wang Bi, Laozi zhu, chapter 8, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)\". When the reading is found only through a conduit (Legge’s notes and the like), the form is \"<name>, as given in <conduit>, <place>\" and the entry carries hedge: <conduit id>. At most 160 characters. No dash.",
+  "10. THE STANDARD. A confident false attribution is worse than naming a different commentator. A reading not found in a source you opened does not ship. When in doubt, choose the reading you can show in the commentator’s own words."
+ ],
+ "voice": "The Rig Veda is read in Ralph Griffith’s translation (2nd ed. 1896 to 1897). A hymn addresses its god (Agni, Indra, Soma, the Dawn) by name; the context clause names the god and where the verse stands in the hymn. The roster commentator is Sāyaṇa: the packet gives his Sanskrit on each verse (read it and gloss it yourself) and Wilson’s translation, which follows him and names him in its notes; Yāska only where the Nirukta treats the verse. A reading known only through Wilson’s or Griffith’s notes is a hedge (as given in). Sāyaṇa’s reading is the ritual one: state it as his, never as what the hymn means. Packets are per hymn: packet.js <day> --verse <m.h.v> for one verse.",
+ "roster": {
+  "commentators": [
+   {
+    "id": "sayana",
+    "name": "Sāyaṇa",
+    "alsoName": "",
+    "school": "",
+    "dates": "died 1387",
+    "work": "Commentary on the Rig Veda (Vedārthaprakāśa)",
+    "lang": "Sanskrit",
+    "coverage": "all",
+    "sources": [
+     "His Sanskrit, verse by verse: Sanskrit Wikisource ऋग्वेदः सूक्तं <m>.<h>, pinned revisions (sources/veda-lock.json); read it and gloss it yourself",
+     "H. H. Wilson, Rig-Veda-Sanhita, 6 vols (1850 to 1888; vols 4 to 6 ed. Cowell and Webster), archive.org, which translates following Sāyaṇa and explains him in its notes"
+    ],
+    "traps": [
+     "The app numbers Book 8 as Griffith does: app 8.49 to 8.92 are standard 8.60 to 8.103, and app 8.93 to 8.103 are the Vālakhilya (standard 8.49 to 8.59), on which Sāyaṇa did not comment (8.56 and 8.58 doubtful). The packet labels use the app’s numbers.",
+     "In 15 hymns Sāyaṇa counts one or more verses more than Griffith (1.53, 1.73, 2.10, 2.28, 3.8, 5.32, 5.55, 8.48, 9.7, 10.48, 10.61, 10.86, 10.132 among them): the packet says so; cite the verse the key verse holds in the app.",
+     "Webster’s [bracketed] notes in Wilson’s vols 5 and 6 are Webster’s, not Wilson’s; neither is Sāyaṇa unless it reports him."
+    ]
+   },
+   {
+    "id": "yaska",
+    "name": "Yāska",
+    "alsoName": "",
+    "school": "",
+    "dates": "about the fifth century BCE",
+    "work": "Nirukta",
+    "lang": "Sanskrit",
+    "coverage": "all",
+    "sources": [
+     "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask, as the packet gives the section (or its page)"
+    ],
+    "traps": [
+     "Yāska treats only some verses: name him only where the Nirukta treats the verse, with the Nirukta's book and section."
+    ]
+   }
+  ],
+  "conduits": [
+   {
+    "id": "wilson-rv",
+    "name": "Wilson's translation",
+    "full": "H. H. Wilson, Rig-Veda-Sanhita (1850 to 1888)",
+    "licence": "public domain"
+   },
+   {
+    "id": "griffith-notes",
+    "name": "Griffith's notes",
+    "full": "Ralph T. H. Griffith, The Hymns of the Rigveda (1889 to 1892)",
+    "licence": "public domain"
+   }
+  ]
+ },
+ "forbid": [],
+ "watch": [
+  "Aryan",
+  "primitive",
+  "Christian"
+ ],
+ "traps": {
+  "all": "- A reading not found in a source you opened does not ship. A confident false attribution is worse than naming a different commentator.\n- The commentator's own words go into the evidence verbatim, in the language they were written in, with your English gloss. A paraphrase of what you remember is not evidence.\n- The plain sense says what the day's text says, in its own terms. It is not the commentator's reading restated, and it is not doctrine.\n- A key verse is copied from `day.js`, never typed from memory: a remembered translation is almost never the app's translation, and five of the chambers' epigraphs prove it.\n- The key verse's translation may carry its translator's interpretation (Legge's parentheses, Besant's Theosophy, Pickthall's additions). The reading attributed to the commentator must be his, not the translator's.",
+  "plan": "- Sāyaṇa is usually reached through Wilson's translation, which follows him: the source line then reads \"Sāyaṇa, as given in Wilson's translation\".\n- Wilson also numbers by aṣṭaka and adhyāya: cite mandala.hymn.verse.\n- Griffith leaves some verses in Latin or untranslated: no key verse from those."
+ },
+ "countsSoFar": {
+  "sayana": 32
+ },
+ "tools": {
+  "day": "node C:/Users/zpull/FirstLight/.scripts/teachings/day.js veda <day>",
+  "verse": "node C:/Users/zpull/FirstLight/.scripts/teachings/verse.js veda <day> \"<key verse>\"",
+  "packet": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js veda <day>",
+  "status": "node C:/Users/zpull/FirstLight/.scripts/teachings/status.js veda 1",
+  "gate": "node C:/Users/zpull/FirstLight/.scripts/check-teachings.js --candidate C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/batch.json"
+ },
+ "evidence": {
+  "rule": "The commentator’s own words, verbatim from a source you actually opened, 12 to 120 characters for Chinese or 12 to 120 words otherwise, in the original language where you read it so, with your English gloss. At most 40 words from any copyrighted English. A packet source is cited with via \"packet\" and the packet’s url; anything else you opened with via \"webfetch\" and its exact url. The operator re-finds these words by machine (recheck-evidence.js) before anything lands.",
+  "packetSources": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js veda <day>"
+ },
+ "paths": {
+  "dir": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01",
+  "proposals": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/proposals-<lane>.json",
+  "verdicts": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/verdicts/<id>.json",
+  "refutations": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/refutations/<id>.json",
+  "reverify": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/reverify/<id>.json",
+  "batch": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/batch.json",
+  "sources": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/SOURCES-veda-01.md",
+  "critic": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/critic.json"
+ }
+}

@@ -1,0 +1,253 @@
+{
+ "lane": "L1",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "veda-01-d001-p",
+    "key": "I laud Agni, the chosen Priest, God, minister of sacrifice, The Hotar, lavishest of wealth.",
+    "ref": "Rig Veda 1.1.1",
+    "at": [
+     0,
+     1
+    ],
+    "s": "The collection opens with the singer praising the fire god through his offices at the rite; Sāyaṇa, on 1.1.1, explains ‘chosen Priest’ first by a likeness: Agni accomplishes the offering the sacrifice requires as a king’s household priest accomplishes what the king desires.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.1.1, sa.wikisource (printed edition not named), revision 410218 (2025)",
+    "basis": {
+     "source": "sayana",
+     "words": "कीदृशमग्निम्। “यज्ञस्य “पुरोहितम्। यथा राज्ञः पुरोहितस्तदभीष्टं संपादयति, तथाग्निरपि यज्ञस्यापेक्षितं होमं संपादयति । यद्वा। यज्ञस्य संबन्धिनि पूर्वभागे आहवनीयरूपेणावस्थितम्।",
+     "gloss": "What kind of Agni? The purohita of the sacrifice: as a king’s purohita (household priest) accomplishes what the king desires, so Agni too accomplishes the oblation (homa) the sacrifice requires. Or else: stationed, in the form of the āhavanīya fire, in the front part belonging to the sacrifice."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d001-s",
+    "key": "Worthy is Agni to be praised by living as by ancient seers: He shall bring hitherward the Gods.",
+    "ref": "Rig Veda 1.1.2",
+    "at": [
+     0,
+     2
+    ],
+    "s": "After naming the fire god’s offices at the rite, the opening hymn turns to those who praise him, old and new; Yāska, Nirukta 7.16, explains it, then cautions that Agni is not this earthly fire alone, for the two higher lights are called Agni too.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 7.16, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "Agni should be solicited by seers, old as well as new ; he shall bring the gods here.2 May Agni, who should be solicited, [should be worshipped], by older seers as well as by us, who are the younger ones, bring the gods to this place. He (the student) should not think that Agni refers to this (terrestrial fire) only. The two higher luminaries (lightning and the sun) are called Agni also.",
+     "gloss": "Agni is to be solicited by seers old and new; he will bring the gods here. May Agni, who is to be solicited (worshipped) by the older seers and by us, the younger, bring the gods to this place. One should not think that Agni means this (earthly) fire only: the two higher lights are also called Agni (Sarup supplies which: lightning and the sun)."
+    }
+   }
+  },
+  {
+   "d": 2,
+   "primary": {
+    "id": "veda-01-d002-p",
+    "key": "Through all this world strode Visnu; thrice his foot he planted, and the whole Was gathered in his footstep’s dust.",
+    "ref": "Rig Veda 1.22.17",
+    "at": [
+     21,
+     17
+    ],
+    "s": "Near the close of a hymn calling a round of gods to the rite, six verses turn to Vishnu and his strides; Sāyaṇa, on 1.22.17, reads it of Vishnu in his descent as Trivikrama, the three-strider, whose dusty footprint held the whole visible world.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.22.17, sa.wikisource (printed edition not named), revision 352131 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "विष्णुः त्रिविक्रमावतारधारी “इदं प्रतीयमानं सर्वं जगदुद्दिश्य \"वि “चक्रमे विशेषेण क्रमणं कृतवान् । तदा “त्रेधा त्रिभिः प्रकारैः “पदं “नि “दधे स्वकीयं पादं प्रक्षिप्तवान् । “अस्य विष्णोः “पांसुरे धूलियुक्ते पादस्थाने “समूळ्हम् इदं सर्वं जगत् सम्यगन्तर्भूतम्।",
+     "gloss": "Vishnu, bearing the Trivikrama descent (avatāra), strode in a special striding over this whole world that appears to us. Then he set down his foot in three ways. In the dusty place of this Vishnu’s foot this whole world was completely contained."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d002-s",
+    "key": "Whatever sin is found in me, whatever evil I have wrought. If I have lied or falsely sworn, Waters, remove it far from me.",
+    "ref": "Rig Veda 1.23.22",
+    "at": [
+     22,
+     22
+    ],
+    "s": "After asking the Waters for healing, the singer seeks cleansing; Sāyaṇa, on 1.23.22, hears the sacrificer confess wrong done unknowingly, harm done knowingly, a curse on a good man and a lie, and ask the Waters to bear it all away on their current.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.23.22, sa.wikisource (printed edition not named), revision 401825 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "मयि यजमाने \"यत् \"किं \"च \"दुरितम् अज्ञानात् निष्पन्नं \"वा अथवा \"अहं यजमानः \"अभिदुद्रोह सर्वतो बुद्धिपूर्वकं द्रोहं कृतवानस्मि “वा अथवा \"शेपे साधुजनं शप्तवानस्मीति \"यत् अस्ति “उत अपि च \"अनृतम् उक्तवान् इति \"यत् अस्ति तत् इदं सर्वमपराधजातं “प्र “वहत मत्तोऽपनीय प्रवाहेणान्यतो नयत",
+     "gloss": "Whatever sin is in me, the sacrificer, arising from ignorance; or if I, the sacrificer, have done injury on every side, knowingly; or if I have cursed a good person; and also if I have spoken untruth: all this mass of offences, carry it away, taking it from me and leading it elsewhere on your current."
+    }
+   }
+  },
+  {
+   "d": 3,
+   "primary": {
+    "id": "veda-01-d003-p",
+    "key": "WHATEVER law of thine, O God, O Varuna, as we are men, Day after day we violate.",
+    "ref": "Rig Veda 1.25.1",
+    "at": [
+     24,
+     1
+    ],
+    "s": "Pleading with Varuna not to strike in anger, the hymn opens with an admission; Sāyaṇa, on 1.25.1, takes the law as the rite, which the worshippers, careless as subjects at times are, damage day by day, and supplies a prayer that Varuna make it whole.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.25.1, sa.wikisource (printed edition not named), revision 283258 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे \"वरुण \"यथा लोके \"विशः प्रजाः कदाचित् प्रमादं कुर्वन्ति तथा वयमपि \"ते तव संबन्धि \"यच्चिद्धि यदेव किंचित् \"व्रतं कर्म “द्यविद्यवि प्रतिदिनं “प्र “मिनीमसि प्रमादेन हिंसितवन्तः । तदपि व्रतं प्रमादपरिहारेण साङ्गं कुरु इति शेषः ।",
+     "gloss": "O Varuna, just as in the world subjects (prajāḥ) are sometimes careless, so we too, through carelessness, have damaged day by day whatever rite (vrata, glossed karma) belongs to you. To be supplied: make that rite too complete in all its parts, by removing the carelessness."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d003-s",
+    "key": "Loosen the bonds, O Varuna, that hold me, loosen the bonds above, between, and under. So in thy holy law may we made sinless belong to Aditi, O thou Aditya.",
+    "ref": "Rig Veda 1.24.15",
+    "at": [
+     23,
+     15
+    ],
+    "s": "Ending a hymn in which the fettered Sunahsepa calls on Varuna, the last verse pleads for release; Sāyaṇa, on 1.24.15, places the three bonds at the head, the navel and the feet, and takes Aditi here as the state of being unbroken.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.24.15, sa.wikisource (printed edition not named), revision 401826 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे \"वरुण \"उत्तमम् उत्कृष्टं शिरसि बद्धं \"पाशम् \"अस्मत् अस्मत्तः \"उत् \"श्रथाय उत्कृष्य शिथिलं कुरु । \"अधमं निकृष्टं पादेऽवस्थितं पाशम् \"अव श्रथाय अधस्तादवकृष्य शिथिलीकुरु । “मध्यमं नाभिप्रदेशगतं पाशं \"वि श्रथाय वियुज्य शिथिलीकुरु । \"अथ अनन्तरं हे \"आदित्य अदितेः पुत्र वरुण “वयं शुनःशेपाः “तव “व्रते त्वदीये कर्मणि \"अदितये खण्डनराहित्याय \"अनागसः अपराधरहिताः \"स्याम भवेम",
+     "gloss": "O Varuna, loosen from us the uppermost bond, the one tied at the head, drawing it upward; loosen the lowest bond, the one at the foot, drawing it downward; loosen the middle bond, at the region of the navel, taking it apart. Then, O Aditya, son of Aditi, Varuna, may we, Sunahsepa, be sinless in your rite, for aditi, that is, for freedom from being broken."
+    }
+   }
+  },
+  {
+   "d": 4,
+   "primary": {
+    "id": "veda-01-d004-p",
+    "key": "I will declare the manly deeds of Indra, the first that he achieved, the Thunder-wielder. He slew the Dragon, then disclosed the waters, and cleft the channels of the mountain torrents.",
+    "ref": "Rig Veda 1.32.1",
+    "at": [
+     31,
+     1
+    ],
+    "s": "Opening a hymn on Indra’s fight with Vritra, the singer announces the god’s first deeds; Sāyaṇa, on 1.32.1, takes ‘the Dragon’ as the cloud and counts three deeds: slaying the cloud, bringing the waters down to earth, and setting the mountain rivers flowing.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.32.1, sa.wikisource (printed edition not named), revision 403053 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "कानि वीर्याणीति तदुच्यते । \"अहिं मेघम् \"अहन् हतवान् । तदेतदेकं वीर्यम् । \"अनु पश्चात् “अपः जलानि “ततर्द हिंसितवान् भूमौ पातितवानित्यर्थः । इदं द्वितीयं वीर्यम् । \"पर्वतानां संबन्धिनीः “वक्षणाः प्रवहणशीलाः नदीः “प्र “अभिनत् भिन्नवान् कूलद्वयकर्षणेन प्रवाहितवानित्यर्थः । इदं तृतीयं वीर्यम् ।",
+     "gloss": "Which valorous deeds? That is now told. He slew the ahi, the cloud: that is one deed. Afterwards he struck the waters, that is, he made them fall to the ground: this is the second deed. He split open the flowing rivers belonging to the mountains, that is, he set them flowing by cutting through their two banks: this is the third deed."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d004-s",
+    "key": "Three heavens there are; two Savitar’s, adjacent: in Yama’s world is one, the home of heroes, As on a linch-pin, firm, rest things immortal: he who hath known it let him here declare it.",
+    "ref": "Rig Veda 1.35.6",
+    "at": [
+     34,
+     6
+    ],
+    "s": "Following Savitar’s golden car across the sky, the hymn maps the worlds; Sāyaṇa, on 1.35.6, takes the two beside Savitar as heaven and earth, lit by the Sun, and the one in Yama’s world as the middle air, by which the dead go to Yama.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.35.6, sa.wikisource (printed edition not named), revision 362850 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"द्यावः स्वर्गोपलक्षिताः प्रकाशमाना लोकाः \"तिस्रः त्रिसंख्याकाः सन्ति । तत्र \"द्वौ लोकौ “सवितुः सूर्यस्य “उपस्था समीपस्थाने वर्तेते; द्युलोकभूलोकयोः सूर्येण प्रकाशितत्वात् । “एका मध्यमा भूमिरन्तरिक्षलोकः \"यमस्य \"भुवने पितृपतेर्गृहे \"विराषाट् विरान् गन्तॄन् सहते । प्रेताः पुरुषा अन्तरिक्षमार्गेण यमलोके गच्छन्तीत्यर्थः ।",
+     "gloss": "The heavens, the shining worlds marked out by svarga, are three in number. Of them, two worlds stand in the place near Savitar, the Sun, since heaven and earth are lit by the Sun. One, the middle ground, the world of the atmosphere, is in Yama’s abode, the house of the lord of the fathers, and bears the goers (virāṣāṭ): that is, men who have died go to Yama’s world by the path of the atmosphere."
+    }
+   }
+  },
+  {
+   "d": 5,
+   "primary": {
+    "id": "veda-01-d005-p",
+    "key": "Let him not love to speak ill words: but fear the One who holds all four Within his hand, until they fall.",
+    "ref": "Rig Veda 1.41.9",
+    "at": [
+     40,
+     9
+    ],
+    "s": "A hymn on those the Adityas guard ends with a warning about speech; Sāyaṇa, on 1.41.9, takes the four as cowrie shells held in a game of dice, dreaded by the other player until they fall, as evil speech should be dreaded.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.41.9, sa.wikisource (printed edition not named), revision 350337 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"दुरुक्ताय \"न \"स्पृहयेत् दुष्टं वाक्यं न कामयेत् किंतु दुरुक्तात् \"बिभीयात् । तत्रावशिष्टो मन्त्रभागः सर्वोऽपि दृष्टान्तः । चित् इत्युपमार्थे वर्तते । अक्षद्यूतं कुर्वतोरुभयोर्मध्ये यः पुमान् \"चतुरः चतुःसंख्याकान् कपर्दकान् \"ददमानात् ददतो हस्ते धारयतः पुरुषात् \"आ \"निधातोः कपर्दकनिपातपर्यन्तं बिभीयात् अस्य जयो भविष्यति न भविष्यति इत्यन्यो भीतिं प्राप्नुयात् । अत्र यथा भयं तथा दुरुक्ताद्भेतव्यमिति धर्मरहस्यम् । तस्मादहं घ्नन्तं शपन्तं मा प्रतिवोचे इत्यभिप्रायः ।",
+     "gloss": "One should not desire evil speech (durukta), but should fear evil speech. The rest of the verse is all a comparison; cit carries the sense of a simile. Of two men playing at dice, one should fear the man who holds four cowrie shells in his hand, until the shells fall: whether he will win or not, the other is seized by fear. As there is fear here, so one should fear evil speech: this is a secret of dharma. Hence the intent: therefore I do not answer back the one who strikes or curses."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d005-s",
+    "key": "Stand up erect to lend us aid, stand up like Savitar the God: Erect as strength-bestower we call aloud, with unguents and with priests, on thee.",
+    "ref": "Rig Veda 1.36.13",
+    "at": [
+     35,
+     13
+    ],
+    "s": "Late in a long hymn to Agni, two verses call on the god to rise; Sāyaṇa, on 1.36.13, hears it addressed to the sacrificial post, or to Agni in its wood, anointed with ghee by the priests and called on for food.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.36.13, sa.wikisource (printed edition not named), revision 207557 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे यूप यद्वा यूपात्मकदारुनिष्ठाग्ने \"नः अस्माकम् “ऊतये रक्षणाय “ऊर्ध्वः उन्नतः \"तिष्ठ । तत्र दृष्टान्तः । \"सविता \"देवो “न । यथा सूर्यो देव उन्नतस्तिष्ठति तद्वत् । “ऊर्ध्वः उन्नतः सन् “वाजस्य अन्नस्य \"सनिता दाता भविष्यसि । \"यत् यस्मात् कारणात् \"अञ्जिभिः आज्येन यूपम् अञ्जद्भिः “वाघद्भिः यज्ञं वहद्भिर्ऋत्विग्भिः सह “विह्वयामहे अन्नदानाय त्वां विशेषेणाह्वयामः ।",
+     "gloss": "O post (yūpa), or else O Agni abiding in the wood that forms the post, stand upright for our protection, as the god Savitar, the Sun, stands on high. Standing high, you will be the giver of food (vāja), because, together with the priests who anoint the post with ghee and carry the sacrifice, we call on you especially for the gift of food."
+    }
+   }
+  },
+  {
+   "d": 6,
+   "primary": {
+    "id": "veda-01-d006-p",
+    "key": "Looking upon the loftier light above the darkness we have come To Surya, God among the Gods, the light that is most excellent.",
+    "ref": "Rig Veda 1.50.10",
+    "at": [
+     49,
+     10
+    ],
+    "s": "In a hymn to the rising Sun, just before a prayer for healing, the worshippers tell of their coming; Sāyaṇa, on 1.50.10, takes the darkness as night or as sin, and the coming as union with the Sun, since people become what they worship.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.50.10, sa.wikisource (printed edition not named), revision 401983 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“वयम् अनुष्ठातारः “तमसस्परि तमस उपरि रात्रेरूर्ध्वं वर्तमानं तमसः पापात् परि उपरि वर्तमानं वा पापरहितमित्यर्थः । तथा चाम्नायते - उद्वयं तमसस्परीत्याह पाप्मा वै तमः पाप्मानमेवास्मादप हन्ति' (तै. सं. ५. १. ८. ६) इति । \"ज्योतिः तेजस्विनम् \"उत्तरम् उद्गततरमुत्कृष्टतरं वा \"देवत्रा देवेषु मध्ये \"देवं दानादिगुणयुक्तं \"सूर्यं \"पश्यन्तः स्तुतिभिर्हविर्भिश्चोपासीनाः सन्तः \"उत्तमम् उत्कृष्टतमं \"ज्योतिः सूर्यरूपम् \"अगन्म प्राप्नवाम। तथा च श्रूयते - ‘ अगन्म ज्योतिरुत्तममित्याहासौ वा आदित्यो ज्योतिरुत्तममादित्यस्यैव सायुज्यं गच्छति' (तै.सं. ५.१.८.६) इति । युक्तं चैतत्, ‘तं यथा यथोपासते तदेव भवन्ति' इति श्रुत्यन्तरात् ॥",
+     "gloss": "We, the performers of the rite. Above the darkness: existing beyond the night, or existing above darkness taken as sin, that is, free from sin. So it is taught: he says ‘above the darkness’; darkness is sin; he strikes sin away from him (Taittirīya Saṃhitā 5.1.8.6). Seeing the Sun, the higher light, the god among the gods, that is, worshipping him with praises and oblations, may we reach the highest light, the light that is the Sun. So it is heard: he says ‘we have reached the highest light’; yonder Āditya is the highest light; he goes to union (sāyujya) with the Āditya (TS 5.1.8.6). And this is fitting, by another scripture: as they worship him, so they become."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d006-s",
+    "key": "Like a good matron Usas comes carefully tending everything: Rousing all life she stirs all creatures that have feet, and makes the birds of air fly up.",
+    "ref": "Rig Veda 1.48.5",
+    "at": [
+     47,
+     5
+    ],
+    "s": "In a hymn asking Dawn for wealth, the singer pauses on what her coming does to the world; Sāyaṇa, on 1.48.5, takes ‘Rousing all life’ as bringing all that moves to old age, since each returning dawn takes years from the living.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.48.5, sa.wikisource (printed edition not named), revision 204769 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "कीदृशी उषाः । \"वृजनं गमनशीलं जङ्गमं प्राणिजातं \"जरयन्ती जरां प्रापयन्ती । असकृदुषस्यावृत्तायां वयोहान्या प्राणिनो जीर्णा भवन्ति ।",
+     "gloss": "What kind of Dawn? Bringing to old age (jarayantī) the vṛjana, the whole race of living things that move. When dawn has come round again and again, living beings grow old through the loss of their years."
+    }
+   }
+  }
+ ]
+}

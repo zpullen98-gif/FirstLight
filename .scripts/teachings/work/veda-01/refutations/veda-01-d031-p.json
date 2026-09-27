@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d031-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A9%E0%A5%AE&oldid=222990",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 31 --verse 2.38.4 and --verse 2.38.3. Sāyaṇa on 2.38.4 holds the evidence words verbatim: vayantī vastraṃ vayantī nārīva rātrir vitatam ālokaṃ punaḥ samavyat, saṃveṣṭayate (Night, like a woman weaving a garment, again wraps up the spread-out light). Every element of the reading is in his words: the weaver is Night (rātriḥ), the simile of a woman weaving cloth (vastraṃ vayantī nārī), wraps up (saṃveṣṭayate glossing samavyat), again (punaḥ), the light lay spread out (vitatam ālokam, no agent named, so the verifier’s correction stands). Wilson’s 2.38.4 (‘She, (Night), enwraps the extended (world) like (a woman) weaving’) agrees. Plain sense: 2.38.3 in the app ends ‘Night closely followed Savitar’s dominion’, so ‘just after Night is said to follow his rule’ is accurate and repeats no four words of the key. verse.js ok (Rig Veda 2.38.4, at [228,4], 14 words, first sentence of the verse). entry-check ok, no errors or warnings. Wikisource API confirms revid 222990 is page ऋग्वेदः सूक्तं २.३८, timestamp 2020-01-22, so the src year is right. The reading is stated as Sāyaṇa’s, not as what the hymn means; no school needed, no comparison, no hard passage. Attacks tried on all nine lines; none lands.",
+ "better": ""
+}

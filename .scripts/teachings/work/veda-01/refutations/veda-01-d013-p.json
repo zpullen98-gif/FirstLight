@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d013-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A6%E0%A5%AB&oldid=400930",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 13 --verse 1.105.16: the evidence words stand verbatim in Sāyaṇa’s commentary on 1.105.16 (machine-checked against the packet). He says the Āditya cannot be overstepped even by the gods (atikramituṃ na śakyaḥ) because their life depends on it: with the Sun come the seasons, in the seasons the sacrifices, with the sacrifices the gods’ life; the sentence carries that chain and no more. Loosest point: Sāyaṇa makes panthāḥ an epithet of the Sun (satatagāmī, or the way of worshippers to Brahma’s world by the Sun’s gate), so what is not overstepped is the Sun himself; ‘a road’ follows the verse and his second gloss, not a drift into another reading. Wilson note c reports the same dependence. Plain sense checked against day.js: 1.105 is a refrain lament (‘Mark this my woe’), Trita in the well at 1.105.17; no four words of the key repeated. verse.js ok (Rig Veda 1.105.16, at [104,16]); entry-check ok, 45 words, at the cap. No school, comparison or tone issue.",
+ "better": "Optionally tighter to his gloss: “reads the Sun himself, the ever-moving path, as what even the gods cannot overstep, since the seasons, the sacrifices and so the gods’ life depend on him.” Not required."
+}

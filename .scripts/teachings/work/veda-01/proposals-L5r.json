@@ -1,0 +1,171 @@
+{
+ "lane": "L5r",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 28,
+   "primary": {
+    "id": "veda-01-d028-p",
+    "key": "THE rich new car hath been equipped at morning; four yokes it hath, three whips, seven reins to guide it: Ten-sided, friendly to mankind, light-winner, that must be urged to speed with prayers and wishes.",
+    "ref": "Rig Veda 2.18.1",
+    "at": [
+     208,
+     1
+    ],
+    "s": "Opening a hymn that calls Indra to the Soma with ever more horses, the verse pictures a car; Sāyaṇa, on 2.18.1, first reads the car as the morning sacrifice, its yokes the pressing-stones, its whips three pitches of voice, its reins the seven metres.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.18.1, sa.wikisource (printed edition not named), revision 208756 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "रथः रंहणाद्रथो यज्ञः । … एवंविधो यज्ञः प्रातः प्रातःकाले योजि अयोज्यस्माभिः । चतुर्युगः । युज्यन्त इति युगानि ग्रावाणः । … त्रिकशः । तिस्रः कशा वाचो मन्द्रमध्यमोत्कृष्टरूपो यस्य स तथोक्तः । … सप्तरश्मिः । अश्नुवते व्याप्नुवन्ति कर्माणीति रश्मयश्छन्दांसि । सप्तसंख्याकानि गायत्र्यादीनि छन्दांसि यस्य स तथोक्तः ।",
+     "gloss": "Ratha, the car, named from raṃhaṇa (speeding), is the sacrifice. … Such a sacrifice was yoked by us at morning time. Four-yoked: yokes, so called because they are joined, are the pressing-stones. … Three-whipped: whose three whips are speech in its low, middle and high forms. … Seven-reined: reins, so called because they pervade the rites, are the metres; it has seven metres, the gāyatrī and the rest."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d028-s",
+    "key": "One share of the libation hath he swallowed down: one share he left.",
+    "ref": "Rig Veda 2.22.2",
+    "at": [
+     212,
+     2
+    ],
+    "s": "Closing the passage, a short hymn tells what Indra did after drinking at the Trikadrukas; Sāyaṇa, on 2.22.2, reads the verse as Indra dividing the Soma in two, keeping one part in his belly and leaving the other for the gods.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.22.2, sa.wikisource (printed edition not named), revision 402243 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "स इंद्रः सोमं द्वेधा विभज्यान्यं भागं स्वकीये जठरेऽधत्त । ईमेनमपरं भागं देवेभ्यः प्रारिच्यत । प्रारेचयत् । एतेनार्धमिंद्राय अर्धमन्येभ्यो देवेभ्य इत्युक्तं भवति ।",
+     "gloss": "Indra, dividing the Soma in two, placed one portion in his own belly; this other portion he left over for the gods (prāricyata, that is, prārecayat). By this it is said: half to Indra, half to the other gods."
+    }
+   }
+  },
+  {
+   "d": 29,
+   "primary": {
+    "id": "veda-01-d029-p",
+    "key": "Move far from me what sins I have committed: let me not suffer, King, for guilt of others. Full many a morn remains to dawn upon us: in these, O Varuna, while we live direct us.",
+    "ref": "Rig Veda 2.28.8",
+    "at": [
+     218,
+     8
+    ],
+    "s": "Late in a hymn to Varuna, the verse follows praise of his unmoving statutes; Sāyaṇa, on 2.28.8, reads the sins as debts, his forebears’ and his own, and the undawned mornings as dawns that seem not to break for a debtor lying awake.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.28.8 (his verse 9), sa.wikisource (printed edition not named), revision 208788 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "ऋणा ऋणानि पित्रादिभिः कृतान्यस्माभिर्देयानि परासावीः परासुव पराचीनं प्रेरय … अध अधुना मत्कृतानि मया निष्पादितानि ऋणानि परासुव … भूयसीः भूयस्यो बहुतराः उषसः अव्युष्टा इत्नु सत्यं अव्युष्टा एव अपररात्रेषूत्थाय ऋणानि चिन्तयतो जाग्रतो मम व्युष्टा अप्यव्युष्टकल्पा आसन्",
+     "gloss": "Ṛṇā, debts: the debts made by fathers and others, which we must pay; parāsāvīḥ, that is, parāsuva: drive them away, send them off. … Adha, now: those made by me, the debts I have incurred: drive them away. … Bhūyasīḥ, many, dawns were truly undawned: for me, rising in the last part of the night and lying awake thinking of my debts, even the dawns that broke were as good as undawned."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d029-s",
+    "key": "Neither the right nor left do I distinguish, neither the east nor yet the west, Adityas. Simple and guided by your wisdom, Vasus! may I attain the light that brings no danger.",
+    "ref": "Rig Veda 2.27.11",
+    "at": [
+     217,
+     11
+    ],
+    "s": "In a hymn to the Adityas, after a prayer for a hundred autumns, the singer turns to his own state; Sāyaṇa, on 2.27.11, explains his confusion by night’s darkness or inner ignorance, and the light as the sun’s or that of knowledge within.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.27.11, sa.wikisource (printed edition not named), revision 369829 (2023)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे आदित्याः दक्षिणा दक्षिणोभागः न विचिकिते मया न विज्ञायते … पश्चा पश्चात्पृष्ठभागेपि न ज्ञायते नैशेन तमसा आवृतत्वात् आन्तरादज्ञानाद्वा … युष्मानीतः युष्माभिनींतः शोभनेन मार्गेण प्रापितः सन् अभयं भयरहितं ज्योतिः सौरं तेजः आन्तरं वा ज्ञानात्मकं अश्यां प्राप्नुयाम्",
+     "gloss": "O Ādityas, the right side is not known by me … nor is the back known, behind me: because I am covered by the darkness of night, or from ignorance within. … Led by you, brought along the good path, may I attain the light free from fear: the radiance of the sun, or the inner light whose nature is knowledge."
+    }
+   }
+  },
+  {
+   "d": 30,
+   "primary": {
+    "id": "veda-01-d030-p",
+    "key": "What time hath past since they were first set flowing?",
+    "ref": "Rig Veda 2.30.1",
+    "at": [
+     220,
+     1
+    ],
+    "s": "Opening a hymn chiefly to Indra, the verse tells of waters that never rest from flowing; Sāyaṇa, on 2.30.1, reads the question as rhetorical, the time of their first creation being no time at all, since the waters are eternal.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.30.1, sa.wikisource (printed edition not named), revision 213335 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "आसां प्रथमः सर्गः प्राथमिकं जन्म कियात्या । कियति काले निष्पन्नं । आकारः प्रश्ने । किंशब्द आक्षेपे । यावति काले ता अजायंत स कालः कियान् । किं परिमाणं तस्य कालस्य । न किमपि । नित्या एव हि ता इत्यर्थः ।",
+     "gloss": "Their first creation (sargaḥ), their first birth: in how long a time (kiyātyā) was it brought about? The final ā marks a question; the word kim is used to dismiss. The time in which they were born, how long is it? What is the measure of that time? None at all. For they are eternal: that is the meaning."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d030-s",
+    "key": "Let us not anger thee with worship, Rudra, ill praise, Strong God! or mingled invocation.",
+    "ref": "Rig Veda 2.33.4",
+    "at": [
+     223,
+     4
+    ],
+    "s": "Early in a hymn asking Rudra for healing, the verse precedes a plea for his balms; Sāyaṇa, on 2.33.4, takes ‘mingled invocation’ as calling him with gods not his equal, since the greatest is angered at a call shared with one beneath him.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.33.4, sa.wikisource (printed edition not named), revision 344522 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे रुद्र त्वा त्वां नमोभिरयथाक्रियमाणैर्नमस्कारैर्हविर्भिवा मा चुक्रुधाम् । मा क्रोधयाम । … तथा सहूती सहूत्या विसदृशैरन्यैर्देवैः सहाह्वानेन मा क्रोधयाम । श्रेष्ठो हि स्वस्मान्न्यूनेन सहाह्वाने क्रुद्धो भवति ।",
+     "gloss": "O Rudra, let us not anger thee with homage or offerings wrongly performed (namobhiḥ): let us not provoke thee. … So too sahūtī: let us not anger thee by calling thee together with other, dissimilar gods; for the greatest is angered when called together with one beneath himself."
+    }
+   }
+  },
+  {
+   "d": 31,
+   "primary": {
+    "id": "veda-01-d031-p",
+    "key": "What was spread out she weaves afresh, re-weaving: the skillful leaves his labour half-completed.",
+    "ref": "Rig Veda 2.38.4",
+    "at": [
+     228,
+     4
+    ],
+    "s": "In a hymn to Savitar, the verse comes just after Night is said to follow his rule; Sāyaṇa, on 2.38.4, reads the weaver as Night, who like a woman at her loom rolls up again the light that the day spread out.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.38.4, sa.wikisource (printed edition not named), revision 222990 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "वयंती वस्त्रं वयंती नारीव रात्रिर्विततमालोकं पुनः समव्यत् । संवेष्टयते । पुनः शब्दः पूर्वेद्युरप्येवमकार्षीदिति द्योतयति। धीरः प्राज्ञोऽपि सर्वो लोकः कर्तोः क्रियमाणं कर्म … मध्या मध्य उपक्रांतं कर्मापरिसमाप्येत्यर्थः । न्यधात् । निहितवान् । सवितर्युपरत इति ।",
+     "gloss": "Weaving (vayantī): like a woman weaving cloth, Night again (punaḥ) wraps up (samavyat, that is, saṃveṣṭayate) the light that was spread out (vitatam). The word ‘again’ shows that she did the same the day before. The skilled man (dhīraḥ), the whole world however wise, the work in hand … in the middle (madhyā): the work begun, left unfinished, is the sense; he has laid it down (nyadhāt), once Savitar has ceased."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d031-s",
+    "key": "One in the heaven on high hath made his dwelling, on earth and in the firmament the other.",
+    "ref": "Rig Veda 2.40.4",
+    "at": [
+     230,
+     4
+    ],
+    "s": "In a hymn to Soma and Pusan, the verse follows the prayer for their seven-wheeled car; Sāyaṇa, on 2.40.4, reads the one in heaven as Pusan and the other as Soma, on earth as the plant and in mid-air as the moon.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.40.4, sa.wikisource (printed edition not named), revision 218858 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अन्यः तयोरेकः पूषा उच्चा उच्चैरुच्छ्रिते दिवि द्युलोके सदनं स्थानं चक्रे चकार । अन्यः अपरः सोमः पृथिव्याम् ओषधिरूपेण अध्यन्तरिक्षे अन्तरिक्षे च चन्द्ररूपेण सदनं चक्रे ।",
+     "gloss": "The one (anyaḥ), one of the two, Pūṣan, made his seat, his place, on high (uccā), in the lofty heaven, the world of light. The other, Soma, made his seat on earth in the form of plants, and in the mid-air (adhy antarikṣe) in the form of the moon."
+    }
+   }
+  }
+ ]
+}

@@ -4,6 +4,18 @@ Each day of every plan in The Readings gets a key verse, copied verbatim from th
 
 A set reaches the reader only when it is **complete** and passes both gates. Until then it lives in `.scripts/plans/teachings/<plan>.json`. The build writes a git-ignored preview, which you can read at `/?nosw&preview=teachings#/hall/<plan>`.
 
+## Where it stands (paused 2026-09-27)
+
+The owner paused First Light here to work on the World Table. Nothing is running and nothing is half done.
+
+- **Live for the reader:** the Tao Te Ching 81, the Dhammapada 26, the Gita 18, the Upanishads 12, the Analects 21, the Zhuangzi 44 and the Rig Veda 126.
+- **Complete but held (`.scripts/plans/teachings/_hold.json`):** the Qur’an, 66 days. The owner reads every hard day and ten more first: `node .scripts/teachings/review.js quran all <out.html> --days 3,4,7,9,10,12,13,20,21,22,36,37,38,46,48,53,56,57,59,61 --trails all`. The hard days were read again by two reviewers before the owner (work/quran-01/hardcheck.json); three were revised for al-Tabari’s own limits. Take the line out of `_hold.json` to release it, rebuild, sync the wing.
+- **In progress:** the Tanakh, 30 of 267 (tanakh-01 landed; tanakh-02 to -05 are prepared, `prep-batch.js tanakh <n>` again before running, since todo.json may be stale). The plan’s Tanakh checkpoint is a sample after batch 5.
+- **Not begun:** the Bible, 330 days (packets cached; write `pairs.js`, the Tanakh and Bible readings of the same chapters side by side, for the owner before any Old Testament batch lands; checkpoint again at the boundary of the Testaments; Matthew Henry at most one day in ten).
+- **The seven courses:** tooled and dry-run (work/course-jewish-dry, three days, every stage passed). None run yet. `course-muslim` is held with the Qur’an and its Jihād day goes to the sensitive lane. Run one batch per course: `prep-batch.js course-<tr> 1`.
+- **For the owner, when back:** the Qur’an reading above; the baked Griffith text of Rig Veda 5.28.1 prints "the Godswith homage" (a missing space; an erratum in the fetch script, and it moves no division); the licences to settle before any paid boundary (VRI Pali non-commercial, OpenITI asbāb CC BY-NC-SA, CCEL non-profit, some Sefaria English CC-BY-NC, used as evidence only, never shipped); the source line (src) is never shown to the reader, so a critic’s call for one wording across a batch is ruled in rulings.json, not revised.
+- **Resuming a batch:** `prep-batch.js <plan> <n>` then `run-args.js <plan> <n>` (a lane whose proposer died part-way resumes in a remainder lane); copy `teach.workflow.js` to `C:\Users\zpull\.claude\workflows-run\` first and `cmp` it; a critic’s last problems go through `run-args.js <plan> <n> --revise-critic` (it maps "days 2, 7" and "d65 to d70" to their survivors); rename critic-1.json and critic.json to critic-runN-*.json before a new round so the record keeps every reading.
+
 ## The files
 
 | File | What it is |

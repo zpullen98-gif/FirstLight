@@ -1,0 +1,41 @@
+{
+ "id": "veda-01-d031-p",
+ "d": 31,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "What was spread out she weaves afresh, re-weaving: the skillful leaves his labour half-completed.",
+ "ref": "Rig Veda 2.38.4",
+ "at": [228, 4],
+ "s": "In a hymn to Savitar, the verse comes just after Night is said to follow his rule; Sāyaṇa, on 2.38.4, reads the weaver as Night, who like a woman weaving cloth wraps up again the light that lay spread out.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.38.4, sa.wikisource (printed edition not named), revision 222990 (2020)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A9%E0%A5%AE&oldid=222990",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं २.३८, revision 222990 (2020-01-22)",
+    "locator": "commentary on 2.38.4 (and on 2.38.3, mokī glossed as night)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n339/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "translation of 2.38.4",
+    "via": "packet"
+   }
+  ],
+  "words": "वयंती वस्त्रं वयंती नारीव रात्रिर्विततमालोकं पुनः समव्यत् । संवेष्टयते । पुनः शब्दः पूर्वेद्युरप्येवमकार्षीदिति द्योतयति। धीरः प्राज्ञोऽपि सर्वो लोकः कर्तोः क्रियमाणं कर्म",
+  "lang": "sa",
+  "gloss": "‘Weaving’: like a woman weaving a garment, Night again wraps up (samavyat, that is, saṃveṣṭayate) the light that was spread out. The word ‘again’ shows that she did the same the day before. ‘The skilled man’: the whole world, however wise, the work being done …",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 2.38.4, at [228,4]), the first sentence of the verse. Sāyaṇa on 2.38.4 makes the weaver Night (rātriḥ), like a woman weaving a garment, who again wraps up (saṃveṣṭayate) the spread-out light (vitatam ālokam); on 2.38.3 he glosses mokī as night following Savitar’s vrata, so the context clause matches both the app text and his reading of the verse before. Wilson’s translation agrees (‘She, (Night), enwraps the extended (world) like (a woman) weaving’). Changed: ‘the light that the day spread out’ to ‘the light that lay spread out’, because he names no agent of the spreading (only vitatam), and ‘at her loom’ to ‘weaving cloth’ (vastraṃ vayantī nārī). Revision 222990 is dated 2020-01-22 by the Wikisource API, so the src year stands. Plain sense repeats no four words of the key; faithful. entry-check ok."
+}

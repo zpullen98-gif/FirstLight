@@ -1,0 +1,47 @@
+{
+ "id": "veda-01-d019-p",
+ "d": 19,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Grant to our chariot, to our house, O Agni, a boat with moving feet and constant oarage, One that may further well our wealthy princes and all the folk, and be our certain refuge.",
+ "ref": "Rig Veda 1.140.12",
+ "at": [139, 12],
+ "s": "After following Agni’s flames through plants and trees, the hymn turns to prayers for gifts; Sāyaṇa, on 1.140.12, reads the boat as the Soma sacrifice, its oars the priests, its feet the offerings, gods and mantras, carrying sacrificers across the round of birth and death.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.140.12, sa.wikisource (printed edition not named), revision 401272 (2024)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AA%E0%A5%A6&oldid=401272",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१४०, revision 401272 (2024-03-26)",
+    "locator": "commentary on 1.140.12",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n96/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.140.12 and its note on nāvam nityāritrām padvatīm",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/in.ernet.dli.2015.104118",
+    "edition": "R. T. H. Griffith, The Hymns of the Rigveda, 2nd ed., vol. 1 (1896)",
+    "locator": "note on 1.140.12",
+    "via": "packet"
+   }
+  ],
+  "words": "“नावं संसारोत्तारिकां सोमयागात्मिकां नावम् । 'यज्ञो वै सुतर्मा नौः ' ( ऐ. ब्रा. १. १३ ) इत्यादिषु श्रुतिषु नौरूपत्वेन स्तुतत्वात् । कीदृशीं ताम् । “नित्यारित्रां नियतर्त्विग्रूपोदकाकर्षणकाष्ठसाधनोपेतां “पद्वतीम् … द्रव्यदेवतामन्त्रादिरूपपादोपेताम् । ईदृशीं यज्ञात्मिकां नावं “रासि देहि संपादय … \"जनांश्च यजमानानस्मानपि या नौः “पारयात् पारयेत् उत्तारयेत् … जननमरणादिबहुदुःखात्मकस्य पारं निरतिशयसुखास्पदं ब्रह्मलोकं प्रापयेत्",
+  "lang": "sa",
+  "gloss": "‘A boat’: the boat that carries across the round of rebirth, the boat that is the Soma sacrifice; for in scriptures such as ‘the sacrifice is a boat that crosses well’ (Aitareya Brāhmaṇa 1.13) it is praised as a boat. Of what kind? ‘With constant oars’: furnished with the wooden means of pulling through the water, namely the appointed priests; ‘with feet’ … furnished with feet that are the materials, the deities, the mantras and the rest. Such a boat, the sacrifice itself, grant, bestow … the boat that may carry across the people, the sacrificers, us too … may bring them to the far shore of what is made of the many sorrows of birth, death and the rest, to the world of Brahman, the seat of unsurpassed happiness.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.140.12, at [139,12]), one whole verse. Plain sense faithful: 1.140.2 to 1.140.9 follow Agni through trees and plants, and 1.140.10 to 1.140.13 are prayers for wealth, the boat, long life; no four-word run from the key. Sāyaṇa on 1.140.12 glosses the boat as samsārottārikā somayāgātmikā (the Soma sacrifice that carries across the round of rebirth), its oars as the priests (niyatartvigrūpa), its feet as materials, deities and mantras (dravyadevatāmantrādirūpa), carrying the sacrificers past the sorrows of birth and death (jananamaraṇādi) to the Brahman-world; every element of the sentence stands in his words. Wilson’s note and Griffith’s note (according to Sāyaṇa, the sacrifice, with priests for oars) report the same. ‘Offerings’ renders dravya (the materials offered), as Griffith also has it. Revision 401272 dated 2024-03-26 by the Wikisource API. entry-check ok; all four evidence pieces re-found in the packet by the recheck matcher."
+}

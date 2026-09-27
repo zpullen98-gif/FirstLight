@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d021-p",
+ "d": 21,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "No, here thou diest not, thou art not injured: by easy paths unto the Gods thou goest.",
+ "ref": "Rig Veda 1.162.21",
+ "at": [
+  161,
+  21
+ ],
+ "s": "Near the end of a hymn on the horse sacrifice, the horse, now killed, is addressed; Sāyaṇa, on 1.162.21, takes the killing as no death like other horses’ and no pointless harm, answering the objection that the death is seen: the horse reaches the gods.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.162.21, sa.wikisource (printed edition not named), revision 401046 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AC%E0%A5%A8&oldid=401046",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१६२, revision 401046 (2024)",
+    "locator": "commentary on 1.162.21",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n145/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.162.21",
+    "via": "packet"
+   }
+  ],
+  "words": "नैव इदानीम् इतराश्ववत् मृतो भवसि देवत्वप्राप्तेर्वक्ष्यमाणत्वात्। अत एव “न “रिष्यसि न हिंस्यसे । व्यर्थहिंसायाः अभावात् । ननु प्रत्यक्ष्यतो मृतिः अवयवनाशश्च दृश्यते कथमेवमुच्यते इति । उच्यते। … देवानेव प्राप्नोषि। अतो युक्तैषोक्तिः।",
+  "lang": "sa",
+  "gloss": "You surely do not now die as other horses die, since your reaching godhood is about to be stated; for that very reason you are not harmed, not injured, since there is no pointless injury. But surely death and the destruction of the limbs are seen before the eyes: how can this be said? It is answered: ... you reach the gods themselves. So the statement is fitting.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "The problem holds: the src alone in the batch dropped ‘Rig Veda’, gave the page title in Devanagari and omitted ‘(printed edition not named)’. Changed only the src to the batch’s form: ‘Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.162.21, sa.wikisource (printed edition not named), revision 401046 (2024)’ (111 characters). Key, sentence, commentator and reading unchanged; evidence re-found verbatim in packet.js veda 21 --verse 1.162.21 (नैव इदानीम् इतराश्ववत् मृतो भवसि … देवानेव प्राप्नोषि। अतो युक्तैषोक्तिः।). verse.js ok (Rig Veda 1.162.21, at [161,21]); entry-check ok (scratch/c4/d21.json). The critic’s d22 src fix (adding ‘(printed edition not named)’ and shortening Yāska’s part to ‘Yāska, Nirukta 7.18, Sarup (1920 to 1921)’, 154 characters) also passes entry-check in scratch/c4/d22.json, but no write path was given for veda-01-d022-p in this round, so it is left for the operator."
+}

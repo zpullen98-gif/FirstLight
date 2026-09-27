@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d016-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A8%E0%A5%A9&oldid=348392",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 16 --verse 1.123.1: the Sāyaṇa commentary on 1.123.1 holds the evidence words verbatim (naiśāt tamasaḥ … mānuṣāya kṣayāya manuṣyāṇāṃ nivāsāya cikitsantī andhakāranivāraṇarūpāṃ cikitsāṃ kurvatī tamo nivārayantīty arthaḥ), and Wilson’s note (‘Chikitsantī, healing, remedying the malady of darkness’) agrees. Healing, for the dwelling of men, by warding off the darkness of night is all in his words. ‘Purpose’ is the one soft spot: Sāyaṇa has a participle (performing a cure), not a statement of aim, but the sentence maps Griffith’s ‘Fain to bring light’ onto his gloss, and that is fair. verse.js ok (ref Rig Veda 1.123.1, at [122,1]); entry-check ok, 41 words; the plain sense draws on the verse’s first sentence (Daksina’s car, the Immortals ascended) and repeats no four words of the key. Wikisource API confirms revision 348392 is hymn 1.123, dated 2022-08-29. No school needed, no comparison, no tone problem. Attacks tried on all nine lines; none lands.",
+ "better": "Optional tighter wording, same evidence: “reads her as healing the dwellings of men, the cure being the driving away of the darkness of night”, which avoids calling a participle a purpose."
+}

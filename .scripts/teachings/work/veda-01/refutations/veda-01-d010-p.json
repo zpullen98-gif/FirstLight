@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d010-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AE%E0%A5%AA&oldid=400850",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 10 --verse 1.84.15: the evidence words stand verbatim in Sāyaṇa’s commentary on 1.84.15 (revision 400850, matching sources/veda-lock.json). He supplies ādityasya raśmayaḥ as subject, glosses nāma as tejas, apīcyam as rātrāv antarhitaṃ svakīyam, amanvata as ajānan, the moon’s gṛha as its maṇḍala, then says the sun’s rays are reflected in the clear watery lunar orb and there bear the same designation they bear in the sun; so ‘know their own light, hidden by night, as reflected’ is carried. The supplied subject comes from Nirukta 4.25 (Wilson: ‘the Scholiast, following Yāska’), but Sāyaṇa states it in his own gloss and adds the reflection himself, so attribution to him holds. Plain sense matches day.js 1.84.13 to 1.84.14 (Dadhyac’s bones, the horse’s head) and names Indra as the hymn’s god. verse.js ok (Rig Veda 1.84.15, at [83,15]); entry-check ok, 45 words, at the cap. No school, comparison or tone issue; the reading is stated as his, not as the hymn’s meaning.",
+ "better": ""
+}

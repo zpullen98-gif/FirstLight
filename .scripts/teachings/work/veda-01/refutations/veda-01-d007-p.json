@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d007-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AB%E0%A5%A8&oldid=237934",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 7 --verse 1.52.9: Sāyaṇa on 1.52.9 glosses bṛhat as bṛhatsāma, made by the praisers (stotāro yajamānāḥ) bhiyasā vṛtrabhayena, sense: afraid of Vṛtra they praised Indra with such a hymn; and marutaḥ nṛṣācaḥ as prāṇarūpeṇa nṝn sevamānāḥ, serving men in the form of breath. Every evidence fragment is verbatim in the packet; the paraphrase claims nothing beyond them (who feared is left unstated, which is not drift). Wilson note a (the Scholiast adds Sama) agrees. ‘lofty’ is Griffith’s rendering of bṛhat, one word of the key. Plain sense checked against day.js: hymn 1.52 is Indra’s fight with Vrtra (vv. 2, 4 to 6, 8, 10, 15) and v. 9 turns to the hymn and the Maruts; no four words of the key. verse.js ok (Rig Veda 1.52.9, at [51,9]); entry-check ok, 44 words; src 109 characters; Wikisource API confirms revision 237934 is sūkta 1.52 dated 2020-05-14. Yāska does not treat the hymn. No school, comparison or tone issue. All nine attacks tried; none lands.",
+ "better": ""
+}

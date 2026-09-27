@@ -1,0 +1,48 @@
+{
+ "lane": "S1",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 21,
+   "primary": {
+    "id": "veda-01-d021-p",
+    "key": "No, here thou diest not, thou art not injured: by easy paths unto the Gods thou goest.",
+    "ref": "Rig Veda 1.162.21",
+    "at": [
+     161,
+     21
+    ],
+    "s": "Near the end of a hymn on the horse sacrifice, the horse, now killed, is addressed; Sāyaṇa, on 1.162.21, takes the killing as no death like other horses’ and no pointless harm, answering the objection that the death is seen: the horse reaches the gods.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 1.162.21, sa.wikisource (ऋग्वेदः सूक्तं १.१६२), revision 401046 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "नैव इदानीम् इतराश्ववत् मृतो भवसि देवत्वप्राप्तेर्वक्ष्यमाणत्वात्। अत एव “न “रिष्यसि न हिंस्यसे । व्यर्थहिंसायाः अभावात् । ननु प्रत्यक्ष्यतो मृतिः अवयवनाशश्च दृश्यते कथमेवमुच्यते इति । उच्यते। … देवानेव प्राप्नोषि। अतो युक्तैषोक्तिः।",
+     "gloss": "You do not now die as other horses do, since your reaching godhood is stated below; for that very reason you are not harmed, not injured, since there is no pointless injury. But surely death and the destruction of the limbs are seen before the eyes: how can this be said? It is answered: ... you reach the gods themselves. So the statement is fitting."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d021-s",
+    "key": "A mortal man, when he beholds two steps of him who looks upon the light, is restless with amaze. But his third step doth no one venture to approach, no, nor the feathered birds of air who fly with wings.",
+    "ref": "Rig Veda 1.155.5",
+    "at": [
+     154,
+     5
+    ],
+    "s": "Following the praise of Visnu’s three wide strides, the hymn measures them against mortal sight; Sāyaṇa, on 1.155.5, takes the two steps men know as earth and the middle air, which rain makes known, and the third as heaven, beyond any mortal’s understanding.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 1.155.5, sa.wikisource (ऋग्वेदः सूक्तं १.१५५), revision 351260 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "प्रसिद्धत्वात् भूलोकं वृष्ट्यागमनादन्तरिक्षं चेत्युभे क्रमणे जानाति । “अस्य विष्णोः “तृतीयं क्रमणं द्युलोकाख्यं कोऽपि मर्त्यः ”नकिः नैव “आ “दधर्षति बुद्ध्या नाभिभवति ज्ञातुं न शक्नोतीत्यर्थः",
+     "gloss": "Because it is familiar, the earth; and from the coming of the rain, the middle air: so a mortal knows both strides. The third stride of this Visnu, called the heaven world, no mortal at all can master; he does not overcome it by understanding, that is, he cannot know it."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "In fear they raised the lofty self-resplendent hymn, praise giving and effectual, leading up to heaven, When Indra’s helpers fighting for the good of men, the Maruts, faithful to mankind, joyed in the light.",
+ "ref": "Rig Veda 1.52.9",
+ "at": [
+  51,
+  9
+ ],
+ "s": "Telling of Indra’s fight with Vrtra, the hymn turns to the singers’ praise and the Maruts’ joy; Sāyaṇa, on 1.52.9, reads the ‘lofty’ hymn as the Bṛhat Sāman, sung in fear of Vrtra, and the Maruts as attending on men in the form of breath.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.52.9, sa.wikisource (printed edition not named), revision 237934 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AB%E0%A5%A8&oldid=237934",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.५२, revision 237934 (2020-05-14)",
+    "locator": "commentary on 1.52.9 (whole hymn read, with the introduction)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n193/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "translation of 1.52.9 and note a (‘the Scholiast adds Sama’)",
+    "via": "packet"
+   }
+  ],
+  "words": "बृहत् बृहत्साम स्तोतारो यजमानाः “भियसा वृत्रभयेन “यत् यदा “उक्थ्यम् उक्थार्हं स्तोत्रयोग्यम् “अकृण्वत अकुर्वन् … एवंविधेन स्तोत्रेण वृत्राद्भीता इन्द्रमस्तोषतेत्यर्थः … नृषाचः प्राणरूपेण नॄन् सेवमाना भूत्वा “इन्द्रम् अपि तेनैव रूपेण “अनु “अमदन् आनुपूर्व्येण हर्षं प्रापयन्",
+  "lang": "sa",
+  "gloss": "‘Bṛhat’ is the Bṛhat Sāman: when the praisers, the sacrificers, through fear, fear of Vṛtra, made it a hymn fit for praise … the sense is that, afraid of Vṛtra, they praised Indra with such a hymn … nṛṣācaḥ: becoming servers of men in the form of breath, (the Maruts) in that same form gladdened Indra too, one after another.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds on both counts. Sāyaṇa glosses nṛṣācaḥ as prāṇarūpeṇa nṝn sevamānāḥ, ‘attending on men in the form of breath’, so ‘serving men’ could be misread as the Maruts being servants; replaced with ‘attending on men’. The context clause now says which praise (the singers’) and what of the Maruts (their joy, Griffith’s ‘joyed’), trimmed to ‘Telling of Indra’s fight with Vrtra, the hymn turns to …’ to keep 45 words. Commentator, place and reading otherwise unchanged; evidence re-read in packet.js veda 7 --verse 1.52.9, all pieces verbatim. verse.js ok (Rig Veda 1.52.9, at [51,9]); entry-check ok; no four-word run from the key."
+}

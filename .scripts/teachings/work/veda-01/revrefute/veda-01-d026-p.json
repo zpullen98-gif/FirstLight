@@ -1,0 +1,8 @@
+{
+ "id": "veda-01-d026-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A7&oldid=400202", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 26 --verse 2.1.13: the evidence words stand verbatim in Sayana's commentary on 2.1.13 (tvanmukhenaiva bhaksayanti tvajjihayaivasvadayantityarthah ... sevanta tvam eva pratiksante vina tvaya svesam havirbhaksanayogat) and carry every part of the reading (eating and tasting through Agni alone, attending and waiting on him because without him they cannot eat the oblation); nothing added. Wilson's 2.1.13 follows him. Plain sense: day.js shows 2.1 opening Book 2 with verses 3 to 11 naming Agni as Indra, Visnu, Varuna, Mitra, Rudra, Savitar, Aditi and others, and 2.1.13 speaking of the gods; no four-word run of the key. verse.js ok (2.1.13, at [191,13]); entry-check ok, no warns. No school needed (roster gives none), no comparison, tone plain.",
+ "better": ""
+}

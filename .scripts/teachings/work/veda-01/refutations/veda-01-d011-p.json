@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d011-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AE%E0%A5%AF&oldid=292662",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 11 --verse 1.89.9: the evidence words stand verbatim in Sāyaṇa on 1.89.9 (revision 292662, matching veda-lock.json). sṛṣṭikāle … śataṃ saṃvatsarā āyur iti yuṣmābhiḥ parikalpitam carries ‘the span fixed for men at creation’ (fixed by the Gods, whom the plain sense already names); pitaraḥ = asmākaṃ rakṣitāraḥ carries ‘their fathers’ guardians’, and the yad vā alternative (svaputrāṇāṃ pitaraḥ) carries ‘or else fathers themselves’; nothing beyond his words. Wilson’s note a agrees with the first sense. Plain sense rests on day.js 1.89.8 (limbs and bodies firm, the term of life appointed by the Gods) and repeats no four words of the key. verse.js ok (Rig Veda 1.89.9, at [88,9]); entry-check ok, 45 words. The one weak spot is style, not substance: ‘the hymn turns to its length’ lets ‘its’ read as the hymn’s own length rather than the life’s.",
+ "better": "Context clause could read “Having asked the Gods for firm limbs and the life they appoint, the hymn turns to that life’s length;” to remove the ambiguous ‘its’ (recheck the word cap)."
+}

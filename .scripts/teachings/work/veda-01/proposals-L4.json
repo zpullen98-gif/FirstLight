@@ -1,0 +1,253 @@
+{
+ "lane": "L4",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 19,
+   "primary": {
+    "id": "veda-01-d019-p",
+    "key": "Grant to our chariot, to our house, O Agni, a boat with moving feet and constant oarage, One that may further well our wealthy princes and all the folk, and be our certain refuge.",
+    "ref": "Rig Veda 1.140.12",
+    "at": [
+     139,
+     12
+    ],
+    "s": "After following Agni’s flames through plants and trees, the hymn turns to prayers for gifts; Sāyaṇa, on 1.140.12, reads the boat as the Soma sacrifice, its oars the priests, its feet the offerings, gods and mantras, carrying sacrificers across the round of birth and death.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.140.12, sa.wikisource (printed edition not named), revision 401272 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“नावं संसारोत्तारिकां सोमयागात्मिकां नावम् । 'यज्ञो वै सुतर्मा नौः ' ( ऐ. ब्रा. १. १३ ) इत्यादिषु श्रुतिषु नौरूपत्वेन स्तुतत्वात् । कीदृशीं ताम् । “नित्यारित्रां नियतर्त्विग्रूपोदकाकर्षणकाष्ठसाधनोपेतां “पद्वतीम् … द्रव्यदेवतामन्त्रादिरूपपादोपेताम् । ईदृशीं यज्ञात्मिकां नावं “रासि देहि संपादय … \"जनांश्च यजमानानस्मानपि या नौः “पारयात् पारयेत् उत्तारयेत् … जननमरणादिबहुदुःखात्मकस्य पारं निरतिशयसुखास्पदं ब्रह्मलोकं प्रापयेत्",
+     "gloss": "“A boat”: the boat that carries across the round of rebirth, the boat that is the Soma sacrifice; for in scriptures such as ‘the sacrifice is a boat that crosses well’ (Aitareya Brāhmaṇa 1.13) it is praised as a boat. Of what kind? “With constant oars”: furnished with the wooden means that pull through the water, which are the fixed priests; “with feet” … furnished with feet that are the materials offered, the deities, the mantras and the rest. Such a boat, the sacrifice itself, grant, bestow, bring about … the boat that may carry across the people, the sacrificers, us too … may bring them to the far shore of what is made of the many sorrows of birth, death and the rest, to the world of Brahman, the seat of unsurpassed happiness."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d019-s",
+    "key": "O ye Eleven Gods whose home is heaven, O ye Eleven who make earth your dwelling, Ye who with might, Eleven, live in waters, accept this sacrifice, O Gods, with pleasure.",
+    "ref": "Rig Veda 1.139.11",
+    "at": [
+     138,
+     11
+    ],
+    "s": "Having called on Agni, Indra, the Asvins and the Maruts, the hymn ends with all the gods; Sāyaṇa, on 1.139.11, takes the ‘waters’ as mid-air, and reads the three gods of earth, mid-air and heaven as thirty-three through the greatness of their manifestations.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.139.11, sa.wikisource (printed edition not named), revision 402092 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "अप्सु अन्तरिक्षे क्षियन्ति निवसन्तीत्यप्सुक्षितः … अन्तरिक्षवासिनो देवाः “एकादश “स्थ तत्संख्याका भवथ … यद्यपि ‘ तिस्रः एव देवताः' (निरु. ७.५) इत्युक्तत्वात् क्षित्याद्यभिमानिन्यो देवतास्तिस्र एव तथापि \"महिना महत्त्वेन स्वस्वविभूत्या त्रयस्त्रिंशत्संख्याका भवन्ति । तत्तत्स्थाना अन्यास्तद्विभूतयः इत्युक्तत्वात् ।",
+     "gloss": "They dwell, abide, in the waters, that is, in the mid-air: so they are ‘dwellers in the waters’ … the gods who dwell in the mid-air, you are eleven in number … Although, since it is said ‘there are only three deities’ (Nirukta 7.5), the deities presiding over earth and the other regions are only three, still ‘by greatness’, by the greatness of each one’s own manifestations, they come to number thirty-three, since it is said: ‘the others, belonging to those several regions, are their manifestations’."
+    }
+   }
+  },
+  {
+   "d": 20,
+   "primary": {
+    "id": "veda-01-d020-p",
+    "key": "May I attain to that his well-loved mansion where men devoted to the Gods are happy. For there springs, close akin to the Wide-Strider, the well of meath in Visnu’s highest footstep.",
+    "ref": "Rig Veda 1.154.5",
+    "at": [
+     153,
+     5
+    ],
+    "s": "After praising Visnu’s three strides across the worlds, the singer voices his own longing; Sāyaṇa, on 1.154.5, takes the mansion as the imperishable world of Brahman, free of hunger, thirst, old age, death and return, and Visnu as kin to all who do good.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.154.5, sa.wikisource (printed edition not named), revision 403472 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"पाथः । अन्तरिक्षनामैतत्, ‘पाथोऽन्तरिक्षं पथा व्याख्यातम्' (निरु. ६. ७) इति यास्केनोक्तत्वात्। अविनश्वरं ब्रह्मलोकमित्यर्थः। “अश्याम् व्याप्नुयाम् … यत्र क्षुत्तृष्णाजरामरणपुनरावृत्त्यादिभयं नास्ति संकल्पमात्रेण अमृतकुल्यादिभोगा: प्राप्यन्ते तादृशमित्यर्थः … “स “हि “बन्धुः स खलु सर्वेषां सुकृतिनां बन्धुभूतो हितकरः वा तस्य पदं प्राप्तवतां न पुनरावृत्तेः",
+     "gloss": "“Mansion” (pāthaḥ): this is a name of the mid-air, as Yāska says, ‘pāthaḥ, the mid-air, is explained by path’ (Nirukta 6.7); the meaning is the imperishable world of Brahman. “May I attain”: may I reach it … such a place, that is, where there is no fear of hunger, thirst, old age, death, return and the rest, and where by a mere wish enjoyments such as streams of nectar are obtained … “For he is kin”: he is indeed the kinsman, or the benefactor, of all who do good, since those who have reached his place do not return."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d020-s",
+    "key": "The Footless Maid precedeth footed creatures. Who marketh, Mitra-Varuna, this your doing? The Babe Unborn supporteth this world’s burthen, fulfilleth Law and overcometh falsehood.",
+    "ref": "Rig Veda 1.152.3",
+    "at": [
+     151,
+     3
+    ],
+    "s": "Calling the might of Mitra and Varuna past comprehension, the hymn sets a riddle; Sāyaṇa, on 1.152.3, reads the footless one as Dawn, moving only with the sun, and the babe as the Sun, their child, who brings light and drowns darkness.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.152.3, sa.wikisource (printed edition not named), revision 205450 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“अपात् पादरहिता उषाः । प्रतिदिनं सूर्यचन्द्रादिवत् स्वस्याः परिभ्रमणाभावात् सूर्यगमनेनैव स्वगमनात् अपात् इति च एति इति च उपचर्यते … मित्रावरुणयोः अहोरात्रदेवत्वात् अहोरात्रयोः अन्तरालस्यैव उषस्त्वात् एतत्कर्मत्वम् … “गर्भः युवयोर्गर्भस्थानीयः शिशुरादित्यः … “ऋतं सत्यं जगतः प्रकाशगमनादिरूपं “पिपर्ति पूरयति । “अनृतम् उक्तविलक्षणमन्धकारं गमनादिनिरोधं च “नि “तारीत् नितरति निमज्जयति नाशयतीत्यर्थः",
+     "gloss": "“Footless”: the Dawn, who has no feet. Because she has no daily round of her own, as the sun and moon have, and moves only by the sun’s moving, she is figuratively called footless and said to go … It is their work because Mitra and Varuna are the gods of day and night, and dawn is just the interval between day and night … “The babe”: the infant Sun, standing as your embryo … “Law” is truth, the world’s light, motion and the rest: he fills it. “Falsehood”, its opposite, is darkness and the stopping of motion: he drowns it, that is, destroys it."
+    }
+   }
+  },
+  {
+   "d": 22,
+   "primary": {
+    "id": "veda-01-d022-p",
+    "key": "They call him Indra, Mitra, Varuna, Agni, and he is heavenly nobly-winged Garutman. To what is One, sages give many a title they call it Agni, Yama, Matarisvan.",
+    "ref": "Rig Veda 1.164.46",
+    "at": [
+     163,
+     46
+    ],
+    "s": "Just after a riddle on the four divisions of speech, in a long hymn of riddles, the singer turns to the names of the gods; Sāyaṇa, on 1.164.46, reads the One as the Sun, not other than Brahman and so the self of all, and Yāska, Nirukta 7.18, as this very Agni, the great self.",
+    "by": "sayana",
+    "by2": "yaska",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.164.46, sa.wikisource, revision 402071 (2024); Yāska, Nirukta 7.18, trans. Lakshman Sarup (1920 to 1921)",
+    "basis": {
+     "source": "sayana; yaska",
+     "words": "अमुमेवादित्यम् “एकम् एव वस्तुतः सन्तं “विप्राः मेधाविनो देवतातत्वविदः “बहुधा “वदन्ति । तत्तत्कार्यकारणेन इन्द्राद्यात्मानं वदन्ति … सूर्यस्य ब्रह्मणोऽनन्यत्वेन सार्वात्म्यमुक्तं भवति … इममेवाग्निं महान्तमात्मानमेकमात्मानं बहुधा मेधाविनो वदन्ति … The wise speak of this very Agni, [and] the great self, in various ways, as Indra, Mitra, Yaruna, Agni, and the divine Garutman … He to whom the hymn is addressed and the oblation is ottered, is this very (terrestrial) Agni.",
+     "gloss": "[Sāyaṇa:] That very Sun, who is in truth one, the wise, those who know the truth about the deities, speak of in many ways: by reason of his several effects and causes they speak of him as having the nature of Indra and the rest … by the Sun’s being not other than Brahman, his being the self of all is declared … [Yāska, in his own Sanskrit as Sāyaṇa quotes it:] this very Agni, the great self, the one self, the wise speak of in many ways … [Yāska, in Sarup’s English:] The wise speak of this very Agni, the great self, in various ways, as Indra, Mitra, Varuna, Agni and the divine Garutman … He to whom the hymn is addressed and the oblation is offered is this very (terrestrial) Agni."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d022-s",
+    "key": "Two Birds with fair wings, knit with bonds of friendship, in the same sheltering tree have found a refuge. One of the twain eats the sweet Fig-tree’s fruitage; the other eating not regardeth only.",
+    "ref": "Rig Veda 1.164.20",
+    "at": [
+     163,
+     20
+    ],
+    "s": "The hymn’s riddles turn to birds in a fig tree for three verses; Sāyaṇa, on 1.164.20, reads the two as the individual and the supreme self in one body, one tasting the fruit of action, one looking on as witness, their difference made by delusion.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.164.20, sa.wikisource (printed edition not named), revision 402071 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "अत्र लौकिकपक्षिद्वयदृष्टान्तेन जीवपरमात्मानौ स्तूयेते … वृश्च्यते इति वृक्षो देहः । स च उभयोः समानः एक एव … तस्मात् वस्तुतः एक एव । भेदस्तु मोहकृतः इति सिद्धम् … तयोः अन्यः जीवात्मा पिप्पलं कर्मफलं स्वादुभूतम् अत्ति भुङ्क्ते … अन्यः परमात्मा अनश्नन् आप्तकामत्वेन अभुञ्जानः स्पृहायाः अभावात् … तादृशः परमात्मा स्वात्मनि अध्यस्तं जगत् साक्षित्वेन ईक्षते",
+     "gloss": "Here, by the example of two birds of the world, the individual self and the supreme self are praised … The tree (vṛkṣa) is the body, so called because it is cut down; and it is common to both, one only … Therefore in truth they are one; the difference is made by delusion: this is established … Of the two, the one, the individual self, eats the pippala, the fruit of action, which is sweet to it … the other, the supreme self, not eating, does not enjoy, since his desires are fulfilled and he has no longing … such a supreme self beholds, as witness, the world superimposed upon himself."
+    }
+   }
+  },
+  {
+   "d": 23,
+   "primary": {
+    "id": "veda-01-d023-p",
+    "key": "NAUGHT is to-day, to-morrow naught. Who comprehends the mystery? We must address ourselves unto another’s thought, and lost is then the hope we formed.",
+    "ref": "Rig Veda 1.170.1",
+    "at": [
+     169,
+     1
+    ],
+    "s": "A short hymn of quarrel over an offering, naming Indra, Agastya and the Maruts, opens with a complaint; Sāyaṇa, on 1.170.1, hears Indra lamenting an offering set aside for him and given to another, and giving up hope of it today or tomorrow.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.170.1, sa.wikisource (printed edition not named), revision 207936 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अगस्त्य इन्द्राय हविर्निरुप्य मरुद्भ्यः संप्रदित्सांचकार स इन्द्र एत्य परिदेवयांचक्रे' (निरु. १.५ ) इति … परिदेवनप्रकारः प्रतिपाद्यते । इन्द्र आह … अद्य यथा अस्मदर्थनिरुप्तम् अस्मभ्यं नास्ति किल श्वः कथं लप्स्यते इति भावः। \"यदद्भुतम् अन्यस्मै निरुप्य अन्यस्मै दत्तमति यदस्ति वैपरीत्यं “तत् \"कः \"वेद … अद्य श्वो वा लभ्यते इत्याशा न कार्येत्युक्तं भवति",
+     "gloss": "(Introduction, quoting Yāska:) Agastya, having set aside an oblation for Indra, wished to give it to the Maruts; Indra came and lamented … (On the verse:) The manner of the lament is set out. Indra says … The sense is: as today what was set aside for us is not ours, how will it be obtained tomorrow? “The mystery”: the reversal, that what was set aside for one is given to another, who knows that? … It is thus said that the hope that it will be obtained today or tomorrow should not be held."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d023-s",
+    "key": "WITH what bright beauty are the Maruts jointly invested, peers in age, who dwell together? From what place have they come? With what intention?",
+    "ref": "Rig Veda 1.165.1",
+    "at": [
+     164,
+     1
+    ],
+    "s": "The verse opens a dialogue in which Indra and the Maruts trade claims to the slaying of the Dragon; Sāyaṇa, on 1.165.1, hears Indra speaking and reads the whole dialogue as open to a second sense, of the vital breaths and the individual self.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.165.1, sa.wikisource (printed edition not named), revision 401917 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "इन्द्रवाक्यम् । \"सवयसः समानवयस्काः \"सनीळाः समानस्थानाः एते \"मरुतः \"कया “शुभा कैरपि दुर्ज्ञेयया शोभया … अत्र इन्द्रमरुत्संवादरूपे सर्वत्र प्राणजीवात्मपरतयापि योजनीयम् । अत्रापि इन्द्रो ब्रूते",
+     "gloss": "Indra’s words. “Peers in age”: of the same age; “who dwell together”: having the same abode; these Maruts, “with what beauty”: with a splendour hard for anyone to know … Here, in this dialogue of Indra and the Maruts, everything is to be construed also as referring to the vital breaths and the individual self. Here too it is Indra who speaks."
+    }
+   }
+  },
+  {
+   "d": 24,
+   "primary": {
+    "id": "veda-01-d024-p",
+    "key": "Here sprung to life, they both have sung together, with bodies free from stain, with signs that mark them; One of you Prince of Sacrifice, the Victor, the other counts as Heaven’s auspicious offspring.",
+    "ref": "Rig Veda 1.181.4",
+    "at": [
+     180,
+     4
+    ],
+    "s": "Between prayers for the Asvins’ car and steeds, the hymn sets the twins side by side; Sāyaṇa, on 1.181.4, reads them as the Moon, son of mid-air, whose rising makes plants grow, and the Sun, son of heaven, each upholding the world.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.181.4, sa.wikisource (printed edition not named), revision 207948 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "उभाभ्यामिहशब्दाभ्यां मध्यमोत्तमस्थाने उच्येते । तयोः संभूतौ । चन्द्रसूर्येण इति यावत् … “वां युवयोः “अन्यः एको मध्यमस्यान्तरिक्षस्य पुत्रस्थानीयः सोमः “जिष्णुः जयशीलः “सुमखस्य शोभनयज्ञस्य “सूरिः प्रेरयिता सन् “ऊहे वहति विश्वं जगद्धारयति । चन्द्रात्मनस्तस्योदये सति ह्योषधिवनस्पत्यादयो वर्धन्ते । “अन्यः अपरः उत्तमस्थानः “दिवः द्युलोकस्य “पुत्रः पुत्रस्थानीय आदित्यः “सुभगः शोभनरश्मिरूपधनः ऊहे वहति । कृत्स्नमेवं पृथग्जगन्निर्वाहकौ महानुभावौ युवां सह स्तूयेथे",
+     "gloss": "By the two words ‘here’ the middle and the highest stations are meant; born of these two, that is, as moon and sun … “Of you two, one”: Soma, standing as son of the middle region, the mid-air, “the victor”, given to conquest, “of fair sacrifice” the “prince”, its impeller, “bears”, upholds, the whole world; for when he, whose self is the moon, rises, the plants, the trees and the rest grow. “The other”, of the highest station, standing as “son of heaven”, the sun, “auspicious”, rich in fair rays, bears it. Thus you two great ones, who each sustain the whole world apart, are praised together."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d024-s",
+    "key": "For every sacrifice makes Indra stronger, yea, when he goes around angry in spirit; As pleasure at the ford invites the thirsty, as the long way brings him who gains his object.",
+    "ref": "Rig Veda 1.173.11",
+    "at": [
+     172,
+     11
+    ],
+    "s": "In a hymn where the singers court Indra as friends court a city’s lord, the verse turns to sacrifice; Sāyaṇa, on 1.173.11, hears two worshippers, one who strengthens Indra by sacrifice and reaches him swiftly, one of crooked course whose mind wanders among worldly things.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.173.11, sa.wikisource (printed edition not named), revision 311784 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“कश्चित् \"यज्ञः यज्ञवान् यज्ञानुष्ठायी \"ऋन्धन् वर्धयन् भवति । इन्द्रं यज्ञेन वर्धयतीत्यर्थः । “जुहुराणश्चित् कुटिलगतिस्तु कश्चित् \"मनसा केवलेन \"परियन् परितो गच्छन् लौकिकविषयादिकं ध्यायन् वर्तते … \"ततृषाणं पिपासायुक्तं यथा अविलम्बेन प्रीणाति … तद्वत् यज्ञेन कश्चित् पुमानिन्द्रमभिगच्छतीति । कुटिलस्य दृष्टान्तः । \"दीर्घो \"न वक्रत्वेनातिदूरः \"अध्वा मार्ग इव … तस्माद्यज्ञमार्गमजानानो वक्रो दूरे परिभ्रमति नेन्द्रं तर्पयति",
+     "gloss": "“Some one”, a sacrificer, one who performs sacrifice, is “increasing” him: that is, he makes Indra grow by sacrifice. But another, “crooked”, of winding course, “going round” with the mind alone, lives dwelling on worldly objects and the like … as [the nearby house with water at a ford] satisfies the thirsty without delay … so by sacrifice some man goes straight to Indra. The example for the crooked one: “like a long road”, very far because it winds … Therefore the crooked man, who does not know the path of sacrifice, wanders far off and does not satisfy Indra."
+    }
+   }
+  },
+  {
+   "d": 25,
+   "primary": {
+    "id": "veda-01-d025-p",
+    "key": "These of themselves support all things existing: as on a car the Day and Night roll onward.",
+    "ref": "Rig Veda 1.185.1",
+    "at": [
+     184,
+     1
+    ],
+    "s": "Opening a hymn to Heaven and Earth, the singer asks which came first; Sāyaṇa, on 1.185.1, takes these lines as the reason none can know, since any cause one names is itself upheld by them, and, turning like wheels, they have no first.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.185.1, sa.wikisource (printed edition not named), revision 402616 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "“को \"वि “वेद पौर्वापर्यं कारणं च विशेषेण विविच्य वा जानाति । न केनापि ज्ञायते इत्यर्थः । अज्ञाने कारणमाह। “यद्ध यस्मात्खलु हेतोः “नाम प्रसिद्धं “विश्वं कृत्स्नमपि जगत् अविशेषेण “त्मना आत्मनैव अन्यनैरपेक्ष्येणैव “बिभृतः धारयतः … अनेन यत्कारणं ब्रूमस्तदपि आभ्यामेव भ्रियते इति कारणाभावः प्रतिपादितः । 'उत्तरेण पौर्वापर्याभाव उच्यते । “अहनी एते द्यावापृथिव्यौ “चक्रियेव चक्रयुक्ते इव वि “वर्तेते",
+     "gloss": "“Who knows” their order, earlier and later, and their cause, distinguishing them clearly? The meaning is: it is known by no one. He gives the reason for this not knowing: “because”, for this reason, the whole world, all of it without distinction, they “bear”, uphold, “by themselves”, without depending on anything else … By this the absence of a cause is set out: whatever we might name as the cause, that too is upheld by these two alone. By what follows, the absence of earlier and later is stated: “the two days”, these two, heaven and earth, “turn about like wheeled things”."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d025-s",
+    "key": "What sin we have at any time committed against the Gods, our friend, our house’s chieftain, Thereof may this our hymn be expiation.",
+    "ref": "Rig Veda 1.185.8",
+    "at": [
+     184,
+     8
+    ],
+    "s": "In a hymn asking Heaven and Earth to guard from danger, the singer turns to past wrongs; Sāyaṇa, on 1.185.8, reads them as leaving the gods unworshipped at their rites, wronging a friend, and blaming or quarrelling with a son-in-law.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.185.8, sa.wikisource (printed edition not named), revision 402616 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे द्यावापृथिव्यौ वयं “देवान् देवान् प्रति “यत् \"कञ्चित् \"आगः अपराधं तत्तद्यागकाले तेषांतेषाम् अयागलक्षणं “सदमित् सर्वदैव “चकृम कृतवन्तो वयम् । “सखायं “वा प्रियं मित्रं वा प्रति यच्चकृम । “जास्पतिम् । जाः पुत्र्यः । तासां पतिं जामातरं “वा जायापतिं प्रति दोषारोपणकलहोत्पादनादिरूपं यत्सर्वदैव चकृम । “एषाम् उक्तरूपाणां पापानाम् अपगमं कर्तुम् “इयं “धीः युष्मत्स्तुतिरूपम् इदं कर्म “भूयाः भूयात् भवतु",
+     "gloss": "O Heaven and Earth, whatever offence we have ever committed against the gods, that is, failing to sacrifice to each of them at the time of his sacrifice; or against a friend, a dear companion, whatever we have done; or against “the lord of daughters”, jāḥ being daughters and their lord the son-in-law, the husband of the wife, whatever we have ever done in the way of laying blame, stirring up quarrels and the like: to take away these sins of the kinds described, may this prayer, this act of praising you, serve."
+    }
+   }
+  }
+ ]
+}

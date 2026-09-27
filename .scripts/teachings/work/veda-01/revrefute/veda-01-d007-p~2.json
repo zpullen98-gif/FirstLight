@@ -1,0 +1,8 @@
+{
+ "id": "veda-01-d007-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AB%E0%A5%A8&oldid=237934", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 7 --verse 1.52.9 (rev 237934 = veda-lock pin for 1.52). Sāyaṇa: बृहत् बृहत्साम ... भियसा वृत्रभयेन ... अकृण्वत; वृत्राद्भीता इन्द्रमस्तोषत; मरुतः नृषाचः प्राणरूपेण नॄन् सेवमाना भूत्वा: the lofty hymn as the Bṛhat Sāman made in fear of Vṛtra, and the Maruts attending on men in the form of breath, all in his own words; Wilson’s note (‘the Scholiast adds Sama’) confirms it is the commentator’s supply. day.js: 1.52 is the Vrtra hymn (vv. 2, 8, 10 name Vrtra), v. 7 speaks of hymns that magnify Indra, v. 9 is past narrative between the smiting (v. 8) and the Dragon’s roar (v. 10), so ‘recalls the singers’ praise and the Maruts’ joy’ is in the text’s terms (Griffith’s ‘they raised the ... hymn’ and ‘joyed’); no four-word run from the key; ‘lofty’ one quoted word. Sāyaṇa’s causative reading of anu amadan is not claimed, so no drift. verse.js ok (Rig Veda 1.52.9, at [51,9]); entry-check ok, no warns. Griffith has no note on 1.52.9; Yāska does not treat the hymn. No school, comparison or tone issue.",
+ "better": ""
+}

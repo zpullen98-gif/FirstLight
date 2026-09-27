@@ -1,0 +1,12 @@
+{
+ "id": "veda-01-d002-p",
+ "revision": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/revise/veda-01-d002-p~3.json",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/nighantuniruktao00yask",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 2 --verse 1.22.17: Sarup’s Nirukta 12.19 (the packet places the verse there by Sarup’s list of quotations) gives ‘Thrice he plants liis foot, [for threefold existence]’ with Śākapūṇi’s earth, intermediate space, heaven and Aurṇavābha’s mountain of sunrise, meridian, mountain of sunset; Sāyaṇa (rev 352131) quotes the same Sanskrit (पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः समारोहणे विष्णुपदे गयशिरसीत्यौर्णवाभः, niru. 12.18 to 19), confirming it is Yāska’s passage. Every evidence piece re-found in the packet under the recheck normalisation (split on the ellipsis). The round-2 faults are cured: Yāska alone is named, the views are given as two teachers’ views without resolution, and the mountains stay places in Sarup’s order. The solar ‘mountain of sunrise/sunset’ is Sarup’s rendering of samārohaṇa and gayaśiras, but Sarup is the roster’s designated source for Yāska and the src names his translation, so this is his text as the roster reads it, not a translator’s addition beyond it. Plain sense against day.js: 1.22 runs to 21 verses, 1.22.16 to 1.22.21 all speak of Visnu (strode, three steps, works, loftiest place), after Asvins, Savitar, the Spouses, Heaven and Earth, Earth; ‘six closing verses sing of Visnu and his strides’ holds. verse.js ok (1.22.17, at [21,17]); entry-check ok, no errors or warns. Verb ‘explains’ allowed; no comparison, school or tone issue.",
+ "better": ""
+}

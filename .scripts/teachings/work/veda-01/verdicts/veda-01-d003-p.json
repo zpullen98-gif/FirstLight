@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "WHATEVER law of thine, O God, O Varuna, as we are men, Day after day we violate.",
+ "ref": "Rig Veda 1.25.1",
+ "at": [
+  24,
+  1
+ ],
+ "s": "Pleading with Varuna not to strike in anger, the hymn opens with an admission; Sāyaṇa, on 1.25.1, takes the law as the rite, which the worshippers, careless as subjects at times are, damage day by day, and supplies a prayer that Varuna make it whole.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.25.1, sa.wikisource (printed edition not named), revision 283258 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A8%E0%A5%AB&oldid=283258",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.२५, revision 283258 (2020-11-02)",
+    "locator": "commentary on 1.25.1 (and on 1.25.2)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n117/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "translation of 1.25.1",
+    "via": "packet"
+   }
+  ],
+  "words": "हे \"वरुण \"यथा लोके \"विशः प्रजाः कदाचित् प्रमादं कुर्वन्ति तथा वयमपि \"ते तव संबन्धि \"यच्चिद्धि यदेव किंचित् \"व्रतं कर्म “द्यविद्यवि प्रतिदिनं “प्र “मिनीमसि प्रमादेन हिंसितवन्तः । तदपि व्रतं प्रमादपरिहारेण साङ्गं कुरु इति शेषः ।",
+  "lang": "sa",
+  "gloss": "O Varuna, just as in the world subjects (prajāḥ) are sometimes careless, so we too, through carelessness, have damaged day by day whatever rite (vrata, glossed karma) belongs to you. To be supplied: make that rite too complete in all its parts, by removing the carelessness.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.25.1, at [24,1]), the hymn’s first verse; verse 2 asks Varuna not to give the singers up to his slaying weapon or his anger, so the context clause is faithful. Sāyaṇa on 1.25.1 glosses vrata as karma, says that as subjects in the world are sometimes careless so we too through carelessness have damaged it daily, and supplies (iti śeṣaḥ) ‘make that rite complete in its parts by removing the carelessness’; the sentence carries exactly that. Wilson’s translation follows (‘daily disfigure thy worship by imperfections’). Revision 283258 dated 2020-11-02 by the API. entry-check ok."
+}

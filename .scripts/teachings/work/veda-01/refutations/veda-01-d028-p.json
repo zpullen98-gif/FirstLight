@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d028-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A7%E0%A5%AE&oldid=208756",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 28 --verse 2.18.1; the evidence words are verbatim in Sāyaṇa’s commentary (machine substring check true). His words carry every element: ratha is yajña (raṃhaṇād ratho yajñaḥ), yoked by us at morning (prātaḥkāle ayoji), the four yokes are the pressing-stones (yugāni grāvāṇaḥ), the three whips speech in low, middle and high forms (vāco mandra-madhyama-utkṛṣṭa-rūpāḥ), the seven reins the seven metres from gāyatrī (raśmayaś chandāṃsi). He then gives a second reading (yadvā) of the car as Indra’s chariot yoked for the morning pressing, and also alternatives for yokes (priests) and whips (three pressings), so ‘first reads’ is honest and the named glosses are his primary ones. Wilson’s note agrees. Plain sense: 2.18 opens here and 2.18.4 to 6 call Indra with two up to a hundred horses; no four key words repeated. Revision 208756 matches sources/veda-lock.json. verse.js ok (Rig Veda 2.18.1, at [208,1]); entry-check ok, no errors or warnings; 44 words. No comparison, no school needed, no hard passage. All nine attacks tried; none lands.",
+ "better": ""
+}

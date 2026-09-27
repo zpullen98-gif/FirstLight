@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "When Indra and the Angirases desired it, Sarama found provision for her offspring.",
+ "ref": "Rig Veda 1.62.3",
+ "at": [
+  61,
+  3
+ ],
+ "s": "Praising Indra, through whom the Angirases found the cattle, the hymn turns to the search; Sāyaṇa, on 1.62.3, reads it through the tale of Sarama, the gods’ hound, sent after the cows the Paṇis stole, going only once Indra promised their milk to her young.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.62.3, sa.wikisource (printed edition not named), revision 400586 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AC%E0%A5%A8&oldid=400586",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.६२, revision 400586 (2024-02-09)",
+    "locator": "commentary on 1.62.3 (the ākhyāna before the word-by-word gloss); 1.62.2 and 1.62.4 read for context",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n219/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "translation of 1.62.3 and note b (Saramā’s condition that the milk go to her young)",
+    "via": "packet"
+   }
+  ],
+  "words": "अत्रेदमाख्यानम् । सरमा नाम देवशुनी । पणिभिर्गोष्वपहृतासु तद्गवेषणाय तां सरमामिन्द्रः प्रहैषीत्। यथा लोके व्याधो वनान्तर्गतमृगान्वेषणाय श्वानं विसृजति तद्वत् । सा च सरमा एवमवोचत्। हे इन्द्र अस्मदीयाय शिशवे तद्गोसंबन्धि क्षीराद्यन्नं यदि प्रयच्छसि तर्हि गमिष्यामीति । स तथेत्यब्रवीत्",
+  "lang": "sa",
+  "gloss": "Here is the story. Saramā is the name of the gods’ bitch. When the cows had been carried off by the Paṇis, Indra sent Saramā to search for them, as in the world a hunter lets loose a dog to track the deer in the forest. And Saramā said: Indra, if you give my young one food from those cows, milk and the like, then I will go. He said: so be it.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: in Sāyaṇa’s ākhyāna on 1.62.3 the Paṇis carry off the cows first (paṇibhir goṣv apahṛtāsu), Indra sends Saramā to search, she says she will go only if her young is given the milk-food of those cows, and Indra agrees. The old word order let ‘once Indra promised’ attach to ‘stole’. Rewritten as ‘sent after the cows the Paṇis stole, going only once Indra promised their milk to her young’; the critic’s ‘and going’ made 46 words, so ‘and’ is dropped. Evidence re-read in packet.js veda 8 --verse 1.62.3, verbatim; Wilson’s note b agrees. verse.js ok; entry-check ok."
+}

@@ -1,0 +1,12 @@
+{
+ "id": "veda-01-d012-p",
+ "revision": "C:/Users/zpull/FirstLight/.scripts/teachings/work/veda-01/revise/veda-01-d012-p~3.json",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AF%E0%A5%AB&oldid=333253",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 12 --verse 1.95.3 (sa.wikisource rev 333253): the evidence is a machine-checked substring of Sāyaṇa on 1.95.3. The Sanskrit order is samudre, divi, apsu, which Griffith prints as ‘in mid-air, in the heaven, and in the waters’; Sāyaṇa takes samudre as abdhau with vaḍavānala (the submarine fire), divi as the sun (ādityātmanā), and apsu with āpaḥ iti antarikṣanāma, the lightning fire in mid-air. So ‘taking the first place as the sea and ‘the waters’ as mid-air’ maps exactly onto Griffith’s order and removes the earlier ambiguity; ‘fire beneath the ocean’ is a fair gloss of vaḍavānala (Wilson note b: ‘As submarine fire, Agni is born in the ocean’). No drift beyond his words. Plain sense against day.js: 1.95.1 to 1.95.5 speak of the Infant and his birth, Agni named at 1.95.9 and 1.95.11; ‘counts his births’ is a light context verb repeating no four key words. Two key words quoted in curly quotes (limit three). verse.js ok (1.95.3, at [94,3]); entry-check ok, no errors or warns. No school, comparison or tone issue; locator and src right.",
+ "better": ""
+}

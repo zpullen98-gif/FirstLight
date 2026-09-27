@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d022-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AC%E0%A5%AA&oldid=402071",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 22 --verse 1.164.46 (Sāyaṇa Sanskrit, Wilson, and Sarup's Nirukta 7.18). Sāyaṇa: 'amum evādityam ekam eva vastutaḥ santaṃ ... bahudhā vadanti' (the One is that very Sun) and 'sūryasya brahmaṇo 'nanyatvena sārvātmyam uktaṃ bhavati' (by the Sun's non-difference from Brahman its being the self of all is declared): the first half of the reading is his own. Yāska's Nirukta 7.18, as Sāyaṇa quotes it and as Sarup translates it, reads 'imam evāgniṃ mahāntam ātmānam ekam ātmānam' and ends that the one addressed is this very terrestrial Agni; Wilson's note names the difference (The Sun is Sāyaṇa's interpretation: Yāska says Agni), and the sentence names it without resolving it (rule 5). Attack on drift considered: Sarup inserts '[and]' between Agni and the great self, but that is his bracket; Yāska's Sanskrit is appositional and the entry's wording is Yāska's own, in order. Plain sense: 1.164.45 is the four divisions of speech, immediately before; 'riddles' fairly describes the hymn's own questions (1.164.34 onward). verse.js ok (Rig Veda 1.164.46, at [163,46]); entry-check ok under the 60-word two-commentator cap; no school required (roster gives none). Attacks tried on all nine lines; none lands.",
+ "better": ""
+}

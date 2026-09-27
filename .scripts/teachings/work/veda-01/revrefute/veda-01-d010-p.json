@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d010-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AE%E0%A5%AA&oldid=400850",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 10 --verse 1.84.15: the evidence is verbatim at the head of Sāyaṇa’s comment: in the house, i.e. the orb, of the moving (goḥ = gantuḥ) moon, the rays of the Āditya knew (amanvata = ajānan) the light (nāma = tejaḥ) of Tvaṣṭṛ, the shining sun, their own, hidden at night (rātrāv antarhitaṃ svakīyam); the sun’s rays are reflected in the clear watery lunar orb. He goes on that the solar light hidden by night enters the moon’s orb and lights all. The paraphrase (the sun’s rays recognising in the Moon’s clear watery orb their own light, hidden by night) is carried entire; ‘hidden by night’ is a fair English for rātrau antarhitam. Attribution: Sāyaṇa quotes Yāska (Nirukta 2.6 and 4.25) for the rays and their concealed ‘name’, but the watery-orb reflection is his own addition, so naming Sāyaṇa is right and no false attribution. Plain sense checked in day.js: 1.84.13 Dadhyac’s bones, 1.84.14 the horse’s head at Saryanavan, 1.84.15 the key; the hymn is to Indra. No four words of the key. verse.js ok (Rig Veda 1.84.15, at [83,15]); entry-check ok. No school, comparison or tone issue.",
+ "better": "Yāska, Nirukta 4.25, treats this verse (rays of the sun thinking of their own concealed name in the house of the moon) and could stand as a second name, but the entry as it stands is sound."
+}

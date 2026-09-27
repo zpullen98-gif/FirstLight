@@ -1,0 +1,41 @@
+{
+ "id": "veda-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Looking upon the loftier light above the darkness we have come To Surya, God among the Gods, the light that is most excellent.",
+ "ref": "Rig Veda 1.50.10",
+ "at": [49, 10],
+ "s": "In a hymn to the rising Sun, just before a prayer for healing, the worshippers tell of their coming; Sāyaṇa, on 1.50.10, takes the darkness as night or as sin, and the coming as union with the Sun, since people become what they worship.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.50.10, sa.wikisource (printed edition not named), revision 401983 (2024)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AB%E0%A5%A6&oldid=401983",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.५०, revision 401983 (2024-04-24)",
+    "locator": "commentary on 1.50.10",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n184/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.50.10 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "“वयम् अनुष्ठातारः “तमसस्परि तमस उपरि रात्रेरूर्ध्वं वर्तमानं तमसः पापात् परि उपरि वर्तमानं वा पापरहितमित्यर्थः । तथा चाम्नायते - उद्वयं तमसस्परीत्याह पाप्मा वै तमः पाप्मानमेवास्मादप हन्ति' (तै. सं. ५. १. ८. ६) इति । \"ज्योतिः तेजस्विनम् \"उत्तरम् उद्गततरमुत्कृष्टतरं वा \"देवत्रा देवेषु मध्ये \"देवं दानादिगुणयुक्तं \"सूर्यं \"पश्यन्तः स्तुतिभिर्हविर्भिश्चोपासीनाः सन्तः \"उत्तमम् उत्कृष्टतमं \"ज्योतिः सूर्यरूपम् \"अगन्म प्राप्नवाम। तथा च श्रूयते - ‘ अगन्म ज्योतिरुत्तममित्याहासौ वा आदित्यो ज्योतिरुत्तममादित्यस्यैव सायुज्यं गच्छति' (तै.सं. ५.१.८.६) इति । युक्तं चैतत्, ‘तं यथा यथोपासते तदेव भवन्ति' इति श्रुत्यन्तरात् ॥",
+  "lang": "sa",
+  "gloss": "We, the performers of the rite. Above the darkness: beyond the night, or above darkness as sin, that is, free from sin; so it is taught, ‘darkness is sin; he strikes sin away from him’ (TS 5.1.8.6). Seeing the higher light, the god among the gods, the Sun, that is, worshipping him with praises and oblations, may we reach the highest light, the light that is the Sun. So it is heard: ‘yonder Āditya is the highest light; he goes to union (sāyujya) with the Āditya’ (TS 5.1.8.6). And this is fitting, by another scripture: as they worship him, so they become.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.50.10, at [49,10]); one sentence, no dash. Sāyaṇa on 1.50.10 gives both readings of tamasas pari (beyond the night, or above darkness as sin, citing TS 5.1.8.6), glosses agánma as reaching the highest light that is the Sun, adopts the Taittirīya’s sāyujya with the Āditya and endorses it (yuktaṃ caitat) by the śruti that worshippers become what they worship; Wilson’s note reports the same. Plain sense: 1.50.11 to 13 are the healing tṛca (Sāyaṇa himself calls them rogaśānti), so ‘just before a prayer for healing’ holds; faithful. Revision 401983 dated 2024-04-24 by the sa.wikisource API. entry-check ok."
+}

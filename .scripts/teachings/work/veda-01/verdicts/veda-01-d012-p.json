@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Three several places of his birth they honour, in mid-air, in the heaven, and in the waters. Governing in the east of earthly regions, the seasons hath he stablished in their order.",
+ "ref": "Rig Veda 1.95.3",
+ "at": [
+  94,
+  3
+ ],
+ "s": "Early in a hymn to Agni as a newborn infant, the verse turns to his births; Sāyaṇa, on 1.95.3, reads them as the fire beneath the ocean, the sun in heaven and the lightning in mid-air, and the sun as marking off the seasons.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.95.3, sa.wikisource (printed edition not named), revision 333253 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AF%E0%A5%AB&oldid=333253",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.९५, revision 333253 (2022-03-02)",
+    "locator": "commentary on 1.95.3",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n299/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.95.3 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "अस्याग्नेस्त्रीणि जन्मानि संभवन्ति । \"समुद्रे अब्धौ वडवानलरूपेण “एकं जन्म । “दिवि द्युलोके आदित्यात्मना “एकम् । \"अप्सु । आपः इति अन्तरिक्षनाम । अन्तरिक्षे वैद्युताग्निरूपेणैकम् । … तत्रादित्यात्मना वर्तमानः सोऽग्निः “ऋतूनु वसन्ताद्यान् षडृतून \"प्रशासत् प्रकर्षेण विभक्ततया ज्ञापयन्",
+  "lang": "sa",
+  "gloss": "This Agni has three births: in the ocean, one birth, in the form of the submarine (mare’s) fire; in heaven, one, as the sun; in the waters: āpaḥ is a name of mid-air, so in mid-air, one, in the form of the lightning fire … There, abiding as the sun, that Agni makes known the seasons, the six seasons, spring and the rest, by marking them off distinctly.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.95.3, at [94,3]). Sāyaṇa on 1.95.3 (packet, revision 333253, dated 2022-03-02 by the Wikisource API) gives Agni’s three births: in the ocean as submarine fire (vaḍavānala), in heaven as the sun, and in the waters, which he takes as a name of mid-air, as lightning; then Agni as the sun makes known the six seasons by dividing them (prakarṣeṇa vibhaktatayā jñāpayan). The sentence carries this without drift; Wilson’s note b agrees. Plain sense: 1.95.1 to 1.95.2 present the golden Babe and Infant, Sāyaṇa names him Agni; faithful. entry-check ok."
+}

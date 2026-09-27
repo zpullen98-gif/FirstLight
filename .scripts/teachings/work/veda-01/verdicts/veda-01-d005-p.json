@@ -1,0 +1,47 @@
+{
+ "id": "veda-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Let him not love to speak ill words: but fear the One who holds all four Within his hand, until they fall.",
+ "ref": "Rig Veda 1.41.9",
+ "at": [40, 9],
+ "s": "A hymn on those the Adityas guard ends with a warning about speech; Sāyaṇa, on 1.41.9, takes the four as cowrie shells held in a game of dice, dreaded by the other player until they fall, as evil speech should be dreaded.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.41.9, sa.wikisource (printed edition not named), revision 350337 (2022)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AA%E0%A5%A7&oldid=350337",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.४१, revision 350337 (2022-09-08)",
+    "locator": "commentary on 1.41.9",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n166/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.41.9 and its note",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/nighantuniruktao00yask",
+    "edition": "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921)",
+    "locator": "Nirukta 3.16",
+    "via": "packet"
+   }
+  ],
+  "words": "\"दुरुक्ताय \"न \"स्पृहयेत् दुष्टं वाक्यं न कामयेत् किंतु दुरुक्तात् \"बिभीयात् । तत्रावशिष्टो मन्त्रभागः सर्वोऽपि दृष्टान्तः । चित् इत्युपमार्थे वर्तते । अक्षद्यूतं कुर्वतोरुभयोर्मध्ये यः पुमान् \"चतुरः चतुःसंख्याकान् कपर्दकान् \"ददमानात् ददतो हस्ते धारयतः पुरुषात् \"आ \"निधातोः कपर्दकनिपातपर्यन्तं बिभीयात् अस्य जयो भविष्यति न भविष्यति इत्यन्यो भीतिं प्राप्नुयात् । अत्र यथा भयं तथा दुरुक्ताद्भेतव्यमिति धर्मरहस्यम् ।",
+  "lang": "sa",
+  "gloss": "One should not desire evil speech (durukta) but should fear it. The rest of the verse is all a comparison; cit carries the sense of a simile. Between two playing at dice, one fears the man who holds four cowrie shells in his hand, until the shells fall: whether he will win or not, the other is seized by fear. As fear is here, so evil speech should be feared: this is a secret of dharma.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.41.9, at [40,9]); the hymn’s last verse, one sentence. Sāyaṇa on 1.41.9 takes the rest of the verse as a simile: in a dice game the other player fears the one holding four kapardakas (cowries) until they fall, and so one should fear evil speech; Wilson’s note and Yāska (Nirukta 3.16, four dice, a gambler) agree in substance, Wilson naming Sāyaṇa’s cowries. Plain sense: the hymn is on those Varuna, Mitra and Aryaman (the Adityas, 1.41.4) protect, and 1.41.9 closes it; faithful, no four words of the key repeated. Revision 350337 dated 2022-09-08 by the sa.wikisource API. entry-check ok."
+}

@@ -1,0 +1,41 @@
+{
+ "id": "veda-01-d020-p",
+ "d": 20,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "May I attain to that his well-loved mansion where men devoted to the Gods are happy. For there springs, close akin to the Wide-Strider, the well of meath in Visnu’s highest footstep.",
+ "ref": "Rig Veda 1.154.5",
+ "at": [153, 5],
+ "s": "After praising Visnu’s three strides across the worlds, the singer voices his own longing; Sāyaṇa, on 1.154.5, takes the mansion as the imperishable world of Brahman, free of hunger, thirst, old age, death and return, and Visnu as kin to all who do good.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.154.5, sa.wikisource (printed edition not named), revision 403472 (2024)",
+ "verseCheck": { "ok": true },
+ "entryCheck": { "ok": true, "errors": [] },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AB%E0%A5%AA&oldid=403472",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१५४, revision 403472 (2024-07-03)",
+    "locator": "commentary on 1.154.5",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n126/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.154.5 and its note on pāthaḥ",
+    "via": "packet"
+   }
+  ],
+  "words": "“अस्य महतो विष्णोः “प्रियं प्रियभूतं “तत् सर्वैः सेव्यत्वेन प्रसिद्धं \"पाथः । अन्तरिक्षनामैतत्, ‘पाथोऽन्तरिक्षं पथा व्याख्यातम्' (निरु. ६. ७) इति यास्केनोक्तत्वात्। अविनश्वरं ब्रह्मलोकमित्यर्थः। “अश्याम् व्याप्नुयाम् … यत्र क्षुत्तृष्णाजरामरणपुनरावृत्त्यादिभयं नास्ति संकल्पमात्रेण अमृतकुल्यादिभोगा: प्राप्यन्ते तादृशमित्यर्थः … “स “हि “बन्धुः स खलु सर्वेषां सुकृतिनां बन्धुभूतो हितकरः वा तस्य पदं प्राप्तवतां न पुनरावृत्तेः",
+  "lang": "sa",
+  "gloss": "‘Of this great Visnu’, ‘dear’, ‘that’ known as the one all resort to, the ‘pāthaḥ’: this is a name of the mid-air, as Yāska says, ‘pāthaḥ, the mid-air, is explained by path’ (Nirukta 6.7); the meaning is the imperishable world of Brahman. ‘May I attain’, may I reach … the meaning is: such a place, where there is no fear of hunger, thirst, old age, death, return and the rest, and where by mere wish enjoyments such as streams of nectar are had … ‘for he is kin’: he is indeed the kinsman, or benefactor, of all who do good, since for those who have reached his place there is no return.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.154.5, at [153,5]), both sentences of the verse. Plain sense faithful: 1.154.1 to 1.154.4 praise the three strides by which Visnu measured the regions, and 1.154.5 opens with the singer’s wish (May I attain); no four-word run from the key. Sāyaṇa on 1.154.5 glosses pāthaḥ, after Yāska, as the mid-air and then as avinaśvaraṃ brahmalokam, the imperishable Brahman-world, a place where there is no fear (bhaya) of hunger, thirst, old age, death and return, and names Visnu the bandhu of all sukṛtins, those who do good. ‘Free of hunger ... and return’ compresses ‘no fear of’ these; since he adds that those who reach the place do not return, the paraphrase does not go beyond him. Wilson follows him (the firmament, citing Yāska Nirukta 6.7). Revision 403472 dated 2024-07-03 by the Wikisource API. entry-check ok; all three evidence pieces re-found in the packet by the recheck matcher."
+}

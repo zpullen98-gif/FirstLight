@@ -1,0 +1,130 @@
+{
+ "lane": "L3",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 13,
+   "primary": {
+    "id": "veda-01-d013-p",
+    "key": "That pathway of the Sun in heaven, made to be highly glorified, Is not to be transgressed, O Gods. O mortals, ye behold it not. Mark this my woe, ye Earth and Heaven.",
+    "ref": "Rig Veda 1.105.16",
+    "at": [
+     104,
+     16
+    ],
+    "s": "In a lament that tells of Trita buried in a well, the singer turns to the Sun’s road; Sāyaṇa, on 1.105.16, reads it as a road even the gods cannot overstep, since the seasons, the sacrifices and so the gods’ life depend on the Sun.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.105.16, sa.wikisource (printed edition not named), revision 400930 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे देवाः सः अयमादित्यो युष्माभिरपि “न ”अतिक्रमे अतिक्रमितुं न शक्यः । युष्मज्जीवनस्य तदायत्तत्वात् । सति हि सूर्ये वसन्तादयः काला निष्पद्यन्ते । कालेषु च यागाः क्रियन्ते । यागेषु च सत्सु भवतां जीवनम् ।",
+     "gloss": "O gods, this Āditya (the Sun) cannot be overstepped even by you, because your life depends on it: for while the Sun is, the seasons, spring and the rest, come about; in the seasons sacrifices are performed; and while there are sacrifices, there is your life."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d013-s",
+    "key": "Now think thou of us, Maghavan, nor cast us away as doth a profligate his treasure.",
+    "ref": "Rig Veda 1.104.5",
+    "at": [
+     103,
+     5
+    ],
+    "s": "Once the Dasyu’s track is found, the singer turns from the foe to his own people; Yāska, Nirukta 5.16, takes the profligate as a lustful man who wastes his wealth on others, and the plea as a prayer not to be handed over to others.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 5.16, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921)",
+    "basis": {
+     "source": "yaska",
+     "words": "Xissa'pl means a libidinous person, i. e. devoid of virility. Pasas (virility) is derived from (the root) sap^ meaning to touch. O, do not hand us over to others, as a libidinous person his wealth.^ Just as the libidinous man wastes his wealth on others, so do not ye hand us over to others.",
+     "gloss": "Nissapī (the profligate) means a lustful person, one without virility; pasas (virility) comes from the root sap, to touch. ‘Do not hand us over to others, as a lustful man his wealth’: just as the lustful man wastes his wealth on others, so do not hand us over to others."
+    }
+   }
+  },
+  {
+   "d": 14,
+   "primary": {
+    "id": "veda-01-d014-p",
+    "key": "Gone are the men who in the days before us looked on the rising of the earlier Morning. We, we the living, now behold her brightness and they come nigh who shall hereafter see her.",
+    "ref": "Rig Veda 1.113.11",
+    "at": [
+     112,
+     11
+    ],
+    "s": "In a hymn that follows Dawn through mornings past and to come, the singer turns to the mortals who see her, age after age; Sāyaṇa, on 1.113.11, reads the verse as meaning that Dawn pervades all three times, past, present and future.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.113.11, sa.wikisource (printed edition not named), revision 401270 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "ये “मर्त्यासः मरणधर्माणो मनुष्याः “व्युच्छन्तीं विवासयन्तीं “पूर्वतराम् अतिशयेन पूर्वां विप्रकृष्टाम् “उषसम् “अपश्यन् दृष्टवन्तः “ते मनुष्याः “ईयुः गताः। तथा “अस्माभिः अपि “नु इदानीं “प्रतिचक्ष्या प्रकर्षेण द्रष्टव्या “अभूत् जाता । तथा “अपरीषु भाविनीषु रात्रिषु “ये मनुष्याः एतामुषसं “पश्यान् पश्यन्ति “ते । आ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव \"यन्ति आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तते इत्यर्थः",
+     "gloss": "The mortals, subject to death, who saw the earlier, far-off Dawn as she shone, have gone. So now she has become one to be seen clearly by us too. And the men who will see this Dawn in the nights to come, they too surely come (ā u: the u is emphatic). The meaning is that she abides pervading all three times."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d014-s",
+    "key": "The Fair, the Bright is come with her white offspring; to her the Dark One hath resigned her dwelling.",
+    "ref": "Rig Veda 1.113.2",
+    "at": [
+     112,
+     2
+    ],
+    "s": "Early in a hymn to Dawn, where Night and Morning run one endless road by turns, the verse greets the Morning’s coming; Yāska, Nirukta 2.20, takes her white offspring as the Sun, called her calf for their companionship or for drawing up the juices.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 2.20, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921)",
+    "basis": {
+     "source": "yaska",
+     "words": "Having a resplendent calf, i. e. the sun. The word ricsat is a synonym of colour ; it is derived from (the root) rue, meaning to shine. The sun is called her calf on account of companionship, or of drawing up the juices.",
+     "gloss": "Having a resplendent calf, that is, the Sun. The word ruśat is a synonym of colour, from the root ruc, to shine. The Sun is called her calf on account of companionship, or of drawing up the juices."
+    }
+   }
+  },
+  {
+   "d": 15,
+   "primary": {
+    "id": "veda-01-d015-p",
+    "key": "The soul of all that moveth not or moveth, the Sun hath filled the air and earth and heaven.",
+    "ref": "Rig Veda 1.115.1",
+    "at": [
+     114,
+     1
+    ],
+    "s": "A hymn to the Sun opens on his rising and follows his horses to nightfall; Sāyaṇa, on 1.115.1, reads the Sun first as the supreme Self moving all from within, the cause from which the moving and unmoving world is not separate.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.115.1, sa.wikisource (printed edition not named), revision 329056 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "सूर्यः अन्तर्यामितया सर्वस्य प्रेरकः परमात्मा “जगतः जङ्गमस्य “तस्थुषः स्थावरस्य “च आत्मा स्वरूपभूतः । स हि सर्वस्य स्थावरजङ्गमात्मकस्य कार्यवर्गस्य कारणम् । कारणाच्च कार्यं नातिरिच्यते ।",
+     "gloss": "The Sun, dwelling within that orb, the supreme Self who as inner controller moves all, is the self, the very form, of what moves (jagat) and of what stands (tasthus): for he is the cause of the whole class of effects, stationary and moving, and the effect is not other than the cause."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d015-s",
+    "key": "This is the Godhead, this might of Surya: he hath withdrawn what spread o’er work unfinished.",
+    "ref": "Rig Veda 1.115.4",
+    "at": [
+     114,
+     4
+    ],
+    "s": "After the Sun’s horses climb the sky’s ridge, the hymn turns to his setting; Sāyaṇa, on 1.115.4, reads that godhead as the Sun’s sovereign freedom: setting, he draws his rays back from work under way, and the labourer, seeing him go, leaves it unfinished.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.115.4, sa.wikisource (printed edition not named), revision 329056 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "सर्वप्रेरकस्य आदित्यस्य “तत् “देवत्वम् ईश्वरत्वम् । स्वातन्त्र्यमिति यावत्। “महित्वं महत्त्वं माहात्म्यं च “तत् एव । तच्छब्दश्रुतेः यच्छब्दाध्याहारः । यत् \"कर्तोः । कर्मनामैतत् । प्रारब्धापरिसमाप्तस्य कृष्यादिलक्षणस्य कर्मणः “मध्या मध्ये अपरिसमाप्ते एव तस्मिन् कर्मणि “विततं विस्तीर्णं स्वकीयं रश्मिजालम् अस्तं गच्छन् सूर्यः “सं \"जभार अस्माल्लोकात् स्वात्मन्युपसंहरति । कर्मकरश्च प्रवृत्तमपरिसमाप्तमेव विसृजति अस्तं यन्तं सूर्यं दृष्ट्वा । ईदृशं स्वातन्त्र्यं महिमा च सूर्यव्यतिरिक्तस्य कस्यास्ति । न कस्यापि । सूर्य एवेदृशं स्वातन्त्र्यं महिमानं चावगाहते।",
+     "gloss": "Of Sūrya, the Āditya who moves all: that is his godhead, his lordship, that is to say his independence; that too his greatness. Kartoḥ is a name for work: in the midst of work begun and not finished, such as ploughing, the setting Sun draws back from this world into himself his net of rays spread out over that unfinished work; and the labourer, seeing the Sun going to his setting, leaves the work he began still unfinished. Who but the Sun has such independence and greatness? No one. The Sun alone attains such independence and greatness."
+    }
+   }
+  }
+ ]
+}

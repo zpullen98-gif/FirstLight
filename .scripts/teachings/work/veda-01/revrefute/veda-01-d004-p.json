@@ -1,0 +1,8 @@
+{
+ "id": "veda-01-d004-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A9%E0%A5%A8&oldid=403053", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 4 --verse 1.32.1 (rev 403053 = veda-lock pin for 1.32). Sāyaṇa: अहिं मेघम् अहन् ... एकं वीर्यम्; अपः ततर्द ... भूमौ पातितवान् ... द्वितीयं; पर्वतानां ... वक्षणाः ... नदीः प्र अभिनत् ... प्रवाहितवान् ... तृतीयं वीर्यम्: he himself takes ahi (Griffith’s ‘Dragon’) as the cloud and numbers the three deeds, so ‘takes the Dragon as the cloud and counts three deeds: slaying the cloud, bringing the waters down to earth, and setting the mountain rivers flowing’ claims nothing beyond his words; Wilson’s allegorical note is not used. Evidence verbatim in the packet. day.js: 1.32.1 opens the hymn, Vṛitra named from 1.32.5, so the context clause is exact; ‘Vrtra’ is the spelling the batch and 1.33.13 use (the revision’s only change). verse.js ok (Rig Veda 1.32.1, at [31,1]); entry-check ok, no warns. Only the one change was made, so the earlier clearance holds. No school needed, no comparison, tone plain.",
+ "better": ""
+}

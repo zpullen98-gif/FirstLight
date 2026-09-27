@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7&oldid=410218",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 1 --verse 1.1.1: Sāyaṇa's commentary on 1.1.1 holds the evidence words verbatim (kīdṛśam agnim. yajñasya purohitam. yathā rājñaḥ purohitas tad abhīṣṭaṃ saṃpādayati, tathāgnir api yajñasyāpekṣitaṃ homaṃ saṃpādayati. yadvā ...). The likeness of the king's purohita, and Agni accomplishing the homa the sacrifice requires, are both in his words; 'first' honestly marks the yadvā alternative (the āhavanīya fire in front). 'chosen Priest' is Griffith's rendering of purohitam, two words of the key in curly quotes. Wilson's note on purohita does not contradict. verse.js ok (Rig Veda 1.1.1, at [0,1]); entry-check ok, 43 words; src 108 characters. Plain sense (the collection opens, the singer praises Agni through his offices) matches day.js and repeats no four words of the key. No school needed, no comparison, no tone issue. All nine attacks tried; none lands.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d029-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A8%E0%A5%AE&oldid=208788",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 29 --verse 2.28.9 (Sāyaṇa counts 11 verses; Griffith joins his 1 and 2, and the Sanskrit parā ṛṇā sāvīr adha matkṛtāni ... avyuṣṭā in nu bhūyasīr uṣāsaḥ matches the app’s 2.28.8). The evidence words are verbatim (substring check true). His words carry the paraphrase: the ṛṇā are debts made by fathers and others which we must pay (pitrādibhiḥ kṛtāny asmābhir deyāni) and those made by me (mayā niṣpāditāni); the many dawns were as good as undawned (vyuṣṭā apy avyuṣṭakalpā āsan) for me who rise in the last part of the night (apararātreṣūtthāya) and stay awake thinking of debts; he closes by asking for wealth enough to live on, so ‘debts’ is his monetary reading, not Griffith’s ‘sins’. Wilson’s note reports the same. Locator 2.28.8 follows the roster trap (cite the app’s verse) and src adds ‘his verse 9’. Plain sense: 2.28.7 praises statutes fixed as on a mountain; accurate, no four key words repeated. Revision 208788 matches the lock. verse.js ok (Rig Veda 2.28.8, at [218,8]); entry-check ok; 44 words. Attacks tried on all nine lines; none lands. Slight tense shift (his ‘were as undawned’ to ‘seem not to break’) is within paraphrase.",
+ "better": ""
+}

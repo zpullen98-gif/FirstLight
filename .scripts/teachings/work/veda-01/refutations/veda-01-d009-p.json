@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AD%E0%A5%A8&oldid=220672",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 9 --verse 1.72.6: Sāyaṇa on 1.72.6 reads tri sapta padā as twenty-one sacrifices (pada, that by which heaven is reached): seven pākayajñas (aupāsana, homa, vaiśvadeva), seven haviryajñas (agnyādheya, darśapūrṇamāsa), seven somayajñas (agniṣṭoma, atyagniṣṭoma), placed in Agni alone (tvayy eva nihitāni) since without Agni no sacrifice can be performed. Evidence verbatim in the packet; the paraphrase (seven each of cooked food, of oblation and of Soma, placed in Agni alone because no rite can be done without fire) adds nothing; Wilson note c agrees. Plain sense checked against day.js: 1.72.4 has the mortal band find Agni standing in the loftiest station, and v. 6 turns to the thrice-seven mystic things within him; the corrected clause is in the passage’s terms and repeats no four words of the key. verse.js ok (Rig Veda 1.72.6, at [71,6]); entry-check ok, 45 words (at the cap); src 109 characters; Wikisource API confirms revision 220672 is sūkta 1.72 dated 2019-12-30. Yāska: nothing on the hymn. No school, comparison or tone issue. All nine attacks tried; none lands.",
+ "better": ""
+}

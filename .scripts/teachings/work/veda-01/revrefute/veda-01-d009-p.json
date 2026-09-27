@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d009-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AD%E0%A5%A8&oldid=220672",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 9 --verse 1.72.6: the evidence is verbatim at the head of Sāyaṇa’s comment on 1.72.6: tri sapta = twenty-one, padāni = sacrifices (by which heaven is reached), seven pākayajñas, seven haviryajñas, seven somayajñas, placed in Agni alone (tvayy eva nihitā) since he is chief in all, for without Agni no sacrifice can be performed. The paraphrase (twenty-one sacrifices, seven each of cooked food, oblation and Soma, in Agni alone because no rite without fire) carries nothing beyond those words; Wilson note c agrees and is his, not Sāyaṇa’s, but is not relied on. Plain sense checked in day.js: 1.72.4 ‘found Agni standing in the loftiest station’, and 1.72.6 speaks of ‘mystic things contained within thee’; ‘what lies hidden in him’ is the verse’s own situation (guhyāni … nihitā), not his ritual reading restated, and repeats no four words of the key. ‘thrice-seven’ is one quoted word of the key, in curly quotes. verse.js ok (Rig Veda 1.72.6, at [71,6]); entry-check ok. Yāska does not treat the verse. No school, comparison or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d025-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AE%E0%A5%AB&oldid=402616",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 25 --verse 1.185.1; evidence words verbatim in Sāyaṇa on 1.185.1 (machine-checked). He says na kenāpi jñāyate, then ajñāne kāraṇam āha: they bear the whole world ātmanaiva anyanairapekṣyeṇa, so yat kāraṇaṃ brūmas tad api ābhyām eva bhriyate (whatever cause we name is itself upheld by these two), the kāraṇābhāva; and uttareṇa paurvāparyābhāva ucyate, glossing ahanī as ete dyāvāpṛthivyau turning cakrayukte iva. The reason none can know, any cause named upheld by them, turning like wheels, no earlier and later: all carried. ‘They’ in the reading is Heaven and Earth, which is exactly his gloss of the two ‘days’. Plain sense checked in day.js: 1.185.1 opens asking which is elder, which later, and the hymn invokes Heaven and Earth throughout; no four-word overlap. verse.js ok (Rig Veda 1.185.1, at [184,1], 17 words, starts and ends a sentence). entry-check ok, no errors or warnings. API: revid 402616 is सूक्तं १.१८५, 2024-05-25. Only soft point: ‘they have no first’ slightly compresses paurvāparyābhāva (no earlier and later between the two), but it is a fair reading of it, not drift that lands.",
+ "better": "Optional tightening: ‘and, turning like wheels, neither comes first’ renders paurvāparyābhāva more exactly than ‘they have no first’."
+}

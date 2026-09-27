@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d026-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A7&oldid=400202",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 26 --verse 2.1.13 (Sāyaṇa at sa.wikisource rev 400202, matching the lock). The evidence is verbatim and consecutive in his commentary on 13: tvanmukhenaiva bhakṣayanti tvajjihvayaivāsvādayanti (they eat only through thy mouth, taste only through thy tongue) and sevanta tvām eva pratīkṣante vinā tvayā sveṣāṃ havirbhakṣaṇāyogāt (they serve and wait on thee alone, since without thee they cannot eat their oblation). The reading ‘eating and tasting only through Agni, waiting on him since without him they cannot eat the oblation’ is exactly this, with no addition. Attacks tried: verse (verse.js ok, 2.1.13 at [191,13], two sentences, 40 words); plain (day.js: 2.1.3 to 2.1.11 name Agni as Indra, Viṣṇu, Brahmaṇaspati, Varuṇa, Mitra, Aryaman, Tvaṣṭar, Rudra, Pūṣan, Savitar, Bhaga, Aditi and more, so ‘names Agni as each god in turn’ is fair, if idiomatic; 13 does turn to the gods; no four words of the key); attribution (his Sanskrit, not Wilson’s); locator (2.1 not among the hymns with a differing count; ॥१३ matches); school, comparison, tone (none apply); form (entry-check ok, 42 words, verb ‘reads’). None lands.",
+ "better": ""
+}

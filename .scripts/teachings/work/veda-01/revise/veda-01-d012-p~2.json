@@ -1,0 +1,43 @@
+{
+ "id": "veda-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Three several places of his birth they honour, in mid-air, in the heaven, and in the waters. Governing in the east of earthly regions, the seasons hath he stablished in their order.",
+ "ref": "Rig Veda 1.95.3",
+ "at": [
+  94,
+  3
+ ],
+ "s": "Early in a hymn to Agni as a newborn infant, the verse counts his births; Sāyaṇa, on 1.95.3, reads them as the fire beneath the ocean, the sun in heaven and the lightning, taking ‘the waters’ as a name for mid-air.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.95.3, sa.wikisource (printed edition not named), revision 333253 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AF%E0%A5%AB&oldid=333253",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.९५, revision 333253 (2022-03-02)",
+    "locator": "commentary on 1.95.3",
+    "via": "packet"
+   }
+  ],
+  "words": "अस्याग्नेस्त्रीणि जन्मानि संभवन्ति । \"समुद्रे अब्धौ वडवानलरूपेण “एकं जन्म । “दिवि द्युलोके आदित्यात्मना “एकम् । \"अप्सु । आपः इति अन्तरिक्षनाम । अन्तरिक्षे वैद्युताग्निरूपेणैकम् ।",
+  "lang": "sa",
+  "gloss": "This Agni has three births: in the ocean, one birth, in the form of the submarine (mare’s) fire; in heaven, one, as the sun; in the waters: āpaḥ is a name of mid-air, so in mid-air, one, in the form of the lightning fire.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: the context clause used the batch formula ‘the verse turns to’. Re-opened packet.js veda 12 --verse 1.95.3 (revision 333253): the verse lists three births, and Sāyaṇa says asyāgnes trīṇi janmāni saṃbhavanti and goes through them one by one, so ‘counts his births’ names the verse’s own action. Only the context verb changed; the reading, commentator, place, key, src and evidence are unchanged and still carry every part of it. No four words of the key repeated; verse.js ok (1.95.3, at [94,3]); entry-check ok."
+}

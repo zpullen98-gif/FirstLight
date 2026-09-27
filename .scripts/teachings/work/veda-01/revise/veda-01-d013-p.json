@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d013-p",
+ "d": 13,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "That pathway of the Sun in heaven, made to be highly glorified, Is not to be transgressed, O Gods. O mortals, ye behold it not. Mark this my woe, ye Earth and Heaven.",
+ "ref": "Rig Veda 1.105.16",
+ "at": [
+  104,
+  16
+ ],
+ "s": "In a lament that tells of Trita buried in a well, the singer points to the Sun’s road; Sāyaṇa, on 1.105.16, reads it as a road even the gods cannot overstep, since the seasons, the sacrifices and so the gods’ life depend on the Sun.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.105.16, sa.wikisource (printed edition not named), revision 400930 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A6%E0%A5%AB&oldid=400930",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१०५, revision 400930",
+    "locator": "commentary on 1.105.16",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n322/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.105.16 and its notes",
+    "via": "packet"
+   }
+  ],
+  "words": "हे देवाः सः अयमादित्यो युष्माभिरपि “न ”अतिक्रमे अतिक्रमितुं न शक्यः । युष्मज्जीवनस्य तदायत्तत्वात् । सति हि सूर्ये वसन्तादयः काला निष्पद्यन्ते । कालेषु च यागाः क्रियन्ते । यागेषु च सत्सु भवतां जीवनम् ।",
+  "lang": "sa",
+  "gloss": "O gods, this Āditya (the Sun) cannot be overstepped even by you, because your life depends on it: for while the Sun is, the seasons, spring and the rest, come about; in the seasons sacrifices are performed; and while there are sacrifices, there is your life.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: the context clause used the batch formula ‘the singer turns to’. Re-opened packet.js veda 13 --verse 1.105.16 (revision 400930): the verse opens asau yaḥ panthā, ‘that yonder path’, and Sāyaṇa glosses asau yaḥ ... ādityaḥ divi, so the singer points to the Sun’s road in heaven; ‘points to’ is the verse’s own gesture. Only the context verb changed; reading, commentator, place, key, src and evidence unchanged and still carry every part. No four words of the key repeated; verse.js ok (1.105.16, at [104,16]); entry-check ok."
+}

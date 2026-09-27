@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d032-p",
+ "d": 32,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "They who are free from death, fain for him, purified three splendours of the mighty Agni, circling all. To man, for his enjoyment, one of these they gave: the other two have passed into the sister sphere.",
+ "ref": "Rig Veda 3.2.9",
+ "at": [
+  235,
+  9
+ ],
+ "s": "Hailing Agni as Vaisvanara, High Priest of the Gods, the hymn turns to his threefold fire; Sāyaṇa, commentary on 3.2.9, reads the three as his earthly, lightning and solar forms, the earthly one set among mortals, or else as the rite’s three fuel sticks.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, Rig Veda 3.2.9, sa.wikisource (printed edition not named), revision 315134 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A9.%E0%A5%A8&oldid=315134",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ३.२, revision 315134 (2021-08-03)",
+    "locator": "commentary on 3.2.9",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n356/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "3.2.9 and its note on tisrah samidhah",
+    "via": "packet"
+   }
+  ],
+  "words": "समिधः समिंधिकाः प्रकाशिकास्तिस्रः पार्थिववैद्युतसूर्यरूपास्तिस्रस्तनूरपुनन्। अशोधयन् । ते देवा भुजं सर्वेषां पालयित्री तासां तनूनां मध्य एकां पार्थिवीं तनुं मर्त्ये मर्त्यलोकेऽदधुः । न्यदधुः । उ इति पादपूरणः । इतरे द्वे तनू जामिं लोकमासन्नमंतरिक्षमुपेयतुः । गच्छतः । अथवा तिस्रः समिध आघारसमिधौ द्वे अनूयाजसमिच्चैकेति।",
+  "lang": "sa",
+  "gloss": "The three kindlers, the illuminators: his three bodies in the form of the earthly, the lightning and the solar fire, they purified. Of those bodies they placed one, the earthly body, among mortals, in the world of mortals. The other two bodies went to the neighbouring world, the mid-air. Or else: the three fuel sticks, the two āghāra sticks and the one anūyāja stick.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 3.2.9, at [235,9]). Sāyaṇa on 3.2.9 glosses the three samidhs as three bodies of Agni, earthly, lightning and solar (pārthiva-vaidyuta-sūrya-rūpāḥ), the earthly one placed in the world of mortals and the other two going to the mid-air, then gives the alternative: the two āghāra sticks and one anūyāja stick; Wilson’s note on the verse reports the same two readings. Plain sense uses 3.2.1 (Vaisvanara) and 3.2.8 (High Priest of Gods) as context without repeating the key verse. Revision 315134 dated 2021-08-03 by the Wikisource API, so the src year stands. entry-check ok."
+}

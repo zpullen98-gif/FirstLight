@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d017-p",
+ "d": 17,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Not interrupting heavenly ordinances, although she minisheth human generations. The last of endless morns that have departed, the first of those that come, Dawn brightly shineth.",
+ "ref": "Rig Veda 1.124.2",
+ "at": [
+  123,
+  2
+ ],
+ "s": "As the fire is kindled and Savitar sends all creatures to work, the hymn weighs Dawn’s dealings with Gods and men; Sāyaṇa, on 1.124.2, reads her as helping the Gods’ rites like the Agnihotra with her light while wearing away the life of men.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.124.2, sa.wikisource (printed edition not named), revision 368324 (2023)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A8%E0%A5%AA&oldid=368324",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१२४, revision 368324 (2023-02-26)",
+    "locator": "commentary on 1.124.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n43/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.124.2 and its note on aminatī",
+    "via": "packet"
+   }
+  ],
+  "words": "\"दैव्यानि व्रतानि देवसंबन्धीनि अग्निहोत्रादीनि कर्माणि … तानि कर्माणि \"अमिनती अहिंसन्ती' भानप्रदानेनानुकूलं कुर्वती । तथा \"मनुष्या मनुष्याणां \"युगानि युगोपलक्षितान् निमेषादिकालावयवान् “प्रमिनती प्रकर्षेण हिंसन्ती आयुः क्षपयन्तीत्यर्थः",
+  "lang": "sa",
+  "gloss": "‘The divine ordinances’ (vratas): rites belonging to the gods, the Agnihotra and the rest … those rites she does not harm (aminatī) but makes favourable by giving light; and ‘the yugas of men’: the divisions of time the yugas stand for, the blink of an eye and the rest, she destroys outright (praminatī); that is, she wears away their life.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds for the batch and this entry is in the 17 to 19 run. The context clause now says what the verse does instead of the formula: it weighs Dawn’s dealings, setting the heavenly ordinances she spares against the human generations she wears away (1.124.2 after 1.124.1’s kindled fire and Savitar sending creatures to work); no four-word run from the key. Reading, commentator, place and source unchanged; evidence re-found verbatim in packet.js veda 17 --verse 1.124.2. verse.js ok (Rig Veda 1.124.2); entry-check ok at 44 words."
+}

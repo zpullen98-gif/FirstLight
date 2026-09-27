@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d030-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A9%E0%A5%A6&oldid=213335",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 30 --verse 2.30.1 and the hymn introduction. Evidence words verbatim (substring check true). Sāyaṇa: kiṃśabda ākṣepe (kim in dismissal, fairly rendered ‘rhetorical’); the time in which they were born, what is its measure, na kim api, none at all; nityā eva hi tāḥ, they are eternal. The sentence’s ‘no time at all, since the waters are eternal’ is his chain of words and cannot be read as instant creation once ‘eternal’ follows. Wilson’s note: the drift of the question according to the commentator is the eternity of the waters. Plain sense: Sāyaṇa’s own introduction assigns the hymn to Indra save verses 6, 8 (half), 9 and 11 (śiṣṭā aindryaḥ), so ‘chiefly to Indra’ holds; the unceasing streams are the first half of 2.30.1, no four key words repeated. Revision 213335 matches the lock. verse.js ok (Rig Veda 2.30.1, at [220,1], 10 words, ends in ?, allowed by rule 8); entry-check ok; 40 words. All nine attacks tried; none lands.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "veda-01-d008-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AC%E0%A5%A8&oldid=400586", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 8 --verse 1.62.3 (revision 400586, the veda-lock pin for 1.62). The evidence stands verbatim in the ākhyāna opening his comment (atredam ākhyānam): Saramā the devaśunī, the cows carried off by the Paṇis, Indra sends her to seek them as a hunter looses a dog, she will go only if her young (śiśave) is given the milk-food of those cows (kṣīrādyannam), he agrees, then (tato gatvā) she goes. ‘gods’ hound’, ‘cows the Panis stole’, ‘going only once Indra promised their milk to her young’ follow his words and order; ‘milk’ for kṣīrādyannam is a fair narrowing and Wilson note b says the same. The only change, Paṇis to Panis, matches the app’s Griffith spelling. Plain sense in day.js: 1.62.2 ‘Through whom our sires, Angirases … found the cattle’; ‘the search’ is not Griffith’s word but 1.62.2’s ‘knowing well the places’ and 1.62.3’s finding carry it; not landed; no four-word run from the key. verse.js ok (Rig Veda 1.62.3, at [61,3], 13 words); entry-check ok, no warns. Yāska does not treat the verse. No school, comparison or tone issue.",
+ "better": ""
+}

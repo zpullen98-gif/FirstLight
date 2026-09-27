@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d003-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A8%E0%A5%AB&oldid=283258",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 3 --verse 1.25.1: Sāyaṇa's commentary holds the evidence words verbatim (he varuṇa yathā loke viśaḥ prajāḥ kadācit pramādaṃ kurvanti tathā vayam api te tava saṃbandhi yac ciddhi yad eva kiṃcit vrataṃ karma dyavidyavi pratidinaṃ pra minīmasi pramādena hiṃsitavantaḥ. tad api vrataṃ pramādaparihāreṇa sāṅgaṃ kuru iti śeṣaḥ). vrata glossed karma, the likeness of careless subjects, daily damage through carelessness, and the supplied (iti śeṣaḥ) prayer to make the rite whole (sāṅgam, complete in its parts) are all his; 'rite' for karma is fair in a gloss that restores the aṅgas. Wilson's rendering ('disfigure thy worship by imperfections') follows the same reading. day.js: 1.25.2 asks Varuna not to give the singers to death in his wrath or fierce anger, so 'pleading with Varuna not to strike in anger' is the hymn's own opening movement and the key verse is its first verse. verse.js ok (Rig Veda 1.25.1, at [24,1]); entry-check ok, 45 words (at the cap); src 109 characters. All nine attacks tried; none lands.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AF%E0%A5%AB&oldid=333253",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 12 --verse 1.95.3 (rev 333253): the evidence is verbatim in his commentary on 1.95.3 (substring match true). He gives three births: samudre as vaḍavānala (submarine fire), divi as āditya (the sun), and apsu with āpaḥ iti antarikṣanāma, the lightning fire in mid-air; the sentence carries exactly that, no drift. Plain sense checked on day.js: 1.95.1 to 1.95.2 and 1.95.4 speak of the Infant, Agni named at 1.95.9 and 1.95.11, verse 3 of 11, so the context clause holds and repeats no four key words. Key is the whole unit, verse.js ok (1.95.3, at [94,3]); entry-check ok, no warns. Residual clarity point only: the reader is not told that Griffith’s ‘mid-air’ renders the word Sāyaṇa takes as the ocean, but nothing stated is false. No school, comparison or tone issue.",
+ "better": ""
+}

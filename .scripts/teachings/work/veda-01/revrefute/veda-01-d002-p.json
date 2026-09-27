@@ -1,0 +1,8 @@
+{
+ "id": "veda-01-d002-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A8%E0%A5%A8&oldid=352131", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 2 --verse 1.22.17 and 1.22.16: Sayana's own words on 1.22.17 are verbatim as the evidence gives them (visnuh trivikramavataradhari idam pratiyamanam sarvam jagad uddisya vicakrame ... asya visnoh pamsure dhuliyukte padasthane samulham idam sarvam jagat samyag antarbhutam), and carry the reading: Visnu bearing the Trivikrama avatara, striding over this whole apparent world, the whole world contained in the dusty place of his foot. The Trivikrama reading is Sayana's own, not the Nirukta passage he quotes after it; Wilson's note independently reports it. 'the three-strider' only glosses the name. Plain sense: day.js prints 1.22 as 21 verses (Asvins, Savitar, the Spouses, Heaven and Earth, Earth) with 16 to 21 on Visnu, so 'near the close ... six verses' is exact; 'Visnu' matches Griffith's spelling in the day. verse.js ok (1.22.17, at [21,17]); entry-check ok, no warns. No comparison, no school required, tone plain.",
+ "better": ""
+}

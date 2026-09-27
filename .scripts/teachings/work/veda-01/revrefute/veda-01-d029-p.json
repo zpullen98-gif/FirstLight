@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d029-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A8%E0%A5%AE&oldid=208788",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 29 --verse 2.28.9 and --verse 2.28.8 (rev 208788): his verse 8 is the statutes verse (Griffith 2.28.7), his verse 9 is parā ṛṇā sāvīḥ, the app’s 2.28.8, since Griffith joins 2.28.1 and 2 (day.js confirms). Evidence verbatim in his 9 (substring match true): debts made by fathers and others to be paid by us, and debts made by me; dawns that broke were as though undawned for me who rise in the last part of the night and lie awake thinking of debts. The sentence carries this without drift (only a present tense for his āsan). Plain sense: app 2.28.7 is the unmoving statutes, verse 8 of 10, true. Locator right per the trap (app number in the sentence, his 9 in src). verse.js ok (2.28.8, at [218,8]); entry-check ok at 45 words, no warns. No school, comparison or tone issue.",
+ "better": ""
+}

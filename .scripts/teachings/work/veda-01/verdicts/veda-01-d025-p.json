@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d025-p",
+ "d": 25,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "These of themselves support all things existing: as on a car the Day and Night roll onward.",
+ "ref": "Rig Veda 1.185.1",
+ "at": [
+  184,
+  1
+ ],
+ "s": "Opening a hymn to Heaven and Earth, the singer asks which came first; Sāyaṇa, on 1.185.1, takes these lines as the reason none can know, since any cause one names is itself upheld by them, and, turning like wheels, they have no first.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.185.1, sa.wikisource (printed edition not named), revision 402616 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AE%E0%A5%AB&oldid=402616",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१८५, revision 402616 (2024-05-25)",
+    "locator": "commentary on 1.185.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n220/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.185.1 and its note on ahani chakriyeva",
+    "via": "packet"
+   }
+  ],
+  "words": "न केनापि ज्ञायते इत्यर्थः । अज्ञाने कारणमाह। “यद्ध यस्मात्खलु हेतोः “नाम प्रसिद्धं “विश्वं कृत्स्नमपि जगत् अविशेषेण “त्मना आत्मनैव अन्यनैरपेक्ष्येणैव “बिभृतः धारयतः । यद्वा । यद्ध नाम यत्किंचित् पदार्थजातमस्ति विश्वं तत्सर्वमात्मना बिभृतः । अनेन यत्कारणं ब्रूमस्तदपि आभ्यामेव भ्रियते इति कारणाभावः प्रतिपादितः । 'उत्तरेण पौर्वापर्याभाव उच्यते । “अहनी एते द्यावापृथिव्यौ “चक्रियेव चक्रयुक्ते इव वि “वर्तेते",
+  "lang": "sa",
+  "gloss": "The meaning is: it is known by no one. He states the reason for this not knowing: “because” they, “by themselves”, depending on nothing else, “bear”, uphold, the whole world without distinction. Or: whatever things exist, all that they bear by themselves. By this the absence of a cause is set out: whatever we name as the cause, that too is upheld by these two alone. By what follows the absence of earlier and later is stated: “the two days”, these two, heaven and earth, “turn about like wheeled things”.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.185.1, at [184,1]), the verse’s second sentence. Sāyaṇa on 1.185.1 says no one knows which of heaven and earth is earlier or how they were born, then ‘gives the reason for the not knowing’: they uphold the whole world by themselves, so whatever cause one names is itself upheld by them (kāraṇābhāva), and the next words, the two ‘days’ that he takes as heaven and earth turning like wheeled things, state the absence of earlier and later (paurvāparyābhāva). The sentence’s ‘they have no first’ is a fair gloss of that. Plain sense faithful: the verse’s first sentence asks which is elder, and verses 2 to 11 invoke Heaven and Earth; no four-word overlap with the key. Source year confirmed by the Wikisource API (2024-05-25). entry-check ok."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "I laud Agni, the chosen Priest, God, minister of sacrifice, The Hotar, lavishest of wealth.",
+ "ref": "Rig Veda 1.1.1",
+ "at": [
+  0,
+  1
+ ],
+ "s": "The collection opens with the singer praising the fire god through his offices at the rite; Sāyaṇa, on 1.1.1, explains ‘chosen Priest’ first by a likeness: Agni accomplishes the offering the sacrifice requires as a king’s household priest accomplishes what the king desires.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.1.1, sa.wikisource (printed edition not named), revision 410218 (2025)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7&oldid=410218",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१, revision 410218 (2025-09-16)",
+    "locator": "commentary on 1.1.1 (purohita)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n54/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "translation and notes on 1.1.1",
+    "via": "packet"
+   }
+  ],
+  "words": "कीदृशमग्निम्। “यज्ञस्य “पुरोहितम्। यथा राज्ञः पुरोहितस्तदभीष्टं संपादयति, तथाग्निरपि यज्ञस्यापेक्षितं होमं संपादयति । यद्वा। यज्ञस्य संबन्धिनि पूर्वभागे आहवनीयरूपेणावस्थितम्।",
+  "lang": "sa",
+  "gloss": "What kind of Agni? The purohita of the sacrifice: as a king’s purohita (household priest) accomplishes what the king desires, so Agni too accomplishes the oblation (homa) the sacrifice requires. Or else: stationed, in the form of the āhavanīya fire, in the front part belonging to the sacrifice.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.1.1, at [0,1]), the whole first verse. Read Sāyaṇa on all of 1.1.1 in the packet: he glosses yajñasya purohitam (Griffith’s ‘chosen Priest’) first by the likeness of a king’s purohita who accomplishes what the king desires, so Agni accomplishes the homa the sacrifice requires, then offers an alternative (yadvā: the āhavanīya fire placed in front); the sentence’s ‘first’ marks that alternative honestly. Wilson’s note agrees in substance. Plain sense (the opening of the collection, the singer praising the fire god by his offices at the rite) is faithful to day.js and repeats no four words of the key. Revision 410218 dated 2025-09-16 by the sa.wikisource API, so the src year stands. entry-check ok."
+}

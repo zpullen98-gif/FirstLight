@@ -1,0 +1,8 @@
+{
+ "id": "veda-01-d007-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AB%E0%A5%A8&oldid=237934", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 7 --verse 1.52.9 (and 1.52.8, 1.52.10); revision 237934 is the veda-lock pin for 1.52. All three evidence pieces stand verbatim in Sāyaṇa’s comment on 1.52.9: bṛhat = bṛhatsāma, made by the praisers bhiyasā vṛtrabhayena; vṛtrād bhītā indram astoṣata; marutaḥ nṛṣācaḥ prāṇarūpeṇa nṝn sevamānāḥ. ‘Brhat Saman, sung in fear of Vrtra’ and ‘attending on men in the form of breath’ are carried without drift; Wilson note a (‘the Scholiast adds Sama’) confirms the supply is his, not Griffith’s. Plain sense checked in day.js: 1.52.8 has Indra ‘hadst smitten Vrtra’, 1.52.10 has Heaven reeling back in terror at that Dragon’s roar, so the new clause is positional and in the text’s own terms; the verse’s Maruts are ‘fighting’, so ‘remembers the battle’ holds; no four-word run from the key. Sāyaṇa takes v. 9 as before the slaying, but the clause states only the verse’s place, not a chronology he is made to share. verse.js ok (Rig Veda 1.52.9, at [51,9]); entry-check ok, no warns. 1.52 is not a hymn with a different verse count; Yāska does not treat it. No school, comparison or tone issue. Nine attacks tried; none lands.",
+ "better": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d015-p",
+ "d": 15,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The soul of all that moveth not or moveth, the Sun hath filled the air and earth and heaven.",
+ "ref": "Rig Veda 1.115.1",
+ "at": [
+  114,
+  1
+ ],
+ "s": "A hymn to the Sun opens on his rising and follows his horses to nightfall; Sāyaṇa, on 1.115.1, reads the Sun first as the supreme Self moving all from within, the cause from which the moving and unmoving world is not separate.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.115.1, sa.wikisource (printed edition not named), revision 329056 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A7%E0%A5%AB&oldid=329056",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.११५, revision 329056",
+    "locator": "commentary on 1.115.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n357/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.115.1 and its notes",
+    "via": "packet"
+   }
+  ],
+  "words": "ईदृग्भूतमण्डलान्तर्वर्ती “सूर्यः अन्तर्यामितया सर्वस्य प्रेरकः परमात्मा “जगतः जङ्गमस्य “तस्थुषः स्थावरस्य “च आत्मा स्वरूपभूतः । स हि सर्वस्य स्थावरजङ्गमात्मकस्य कार्यवर्गस्य कारणम् । कारणाच्च कार्यं नातिरिच्यते ।",
+  "lang": "sa",
+  "gloss": "The Sun dwelling within that orb, the supreme Self who as inner controller impels all, is the self, the very form, of what moves (jagat) and what stands (tasthus): for he is the cause of the whole class of effects, stationary and moving, and the effect is not other than the cause.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "VERIFIED. Key verse verbatim (verse.js ok, ref 1.115.1, at [114,1]); it is the verse’s second sentence and begins where that sentence begins. Plain sense faithful: 1.115 opens on the Sun’s rising and closes his course with the horses loosed and Night spreading (1.115.4). Sāyaṇa on 1.115.1 (packet, revision 329056) takes the Sūrya within the orb as the supreme Self who impels all as inner controller, the self of moving and stationary, since he is the cause of all effects and the effect is not other than the cause; he then gives an alternative (the life-soul of all beings, reviving the world at sunrise), which the sentence’s ‘first’ marks. Wilson’s note b reports the same cause clause. entry-check ok."
+}

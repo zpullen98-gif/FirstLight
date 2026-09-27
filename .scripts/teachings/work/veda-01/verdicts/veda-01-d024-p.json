@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d024-p",
+ "d": 24,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Here sprung to life, they both have sung together, with bodies free from stain, with signs that mark them; One of you Prince of Sacrifice, the Victor, the other counts as Heaven’s auspicious offspring.",
+ "ref": "Rig Veda 1.181.4",
+ "at": [
+  180,
+  4
+ ],
+ "s": "Between prayers for the Asvins’ car and steeds, the hymn sets the twins side by side; Sāyaṇa, on 1.181.4, reads them as the Moon, son of mid-air, whose rising makes plants grow, and the Sun, son of heaven, each upholding the world.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.181.4, sa.wikisource (printed edition not named), revision 207948 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AE%E0%A5%A7&oldid=207948",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.१८१, revision 207948 (2019-07-27)",
+    "locator": "commentary on 1.181.4",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n211/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "1.181.4 and its notes (the Scholiast identifies the Aswins with the Sun and Moon)",
+    "via": "packet"
+   }
+  ],
+  "words": "किंच “वां युवयोः “अन्यः एको मध्यमस्यान्तरिक्षस्य पुत्रस्थानीयः सोमः “जिष्णुः जयशीलः “सुमखस्य शोभनयज्ञस्य “सूरिः प्रेरयिता सन् “ऊहे वहति विश्वं जगद्धारयति । चन्द्रात्मनस्तस्योदये सति ह्योषधिवनस्पत्यादयो वर्धन्ते । “अन्यः अपरः उत्तमस्थानः “दिवः द्युलोकस्य “पुत्रः पुत्रस्थानीय आदित्यः “सुभगः शोभनरश्मिरूपधनः ऊहे वहति । कृत्स्नमेवं पृथग्जगन्निर्वाहकौ महानुभावौ युवां सह स्तूयेथे",
+  "lang": "sa",
+  "gloss": "Moreover, “of you two, one”: Soma, standing as son of the middle region, the mid-air, “victorious”, given to conquest, the “prince” (impeller) “of fair sacrifice”, “bears”, upholds the whole world; for when he, whose self is the moon, rises, the plants, trees and the rest grow. “The other”, of the highest station, standing as “son of heaven”, the sun, “auspicious”, rich in fair rays, bears it. Thus you two great ones, each separately sustaining the whole world, are praised together.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.181.4, at [180,4]). Sāyaṇa on 1.181.4 takes the two ‘here’s as the middle and highest stations and the twins as moon and sun: one, son of the mid-air, is Soma the moon, upholding the world, at whose rising plants and trees grow; the other, son of heaven, is the sun (Āditya); both sustain the world separately and are praised together. Wilson’s translation and note agree. Plain sense faithful: verses 2 and 3 pray over the Asvins’ steeds and car, verse 5 their car-seat and bay steeds; no four-word overlap. Source year confirmed by the Wikisource API (2019-07-27). entry-check ok."
+}

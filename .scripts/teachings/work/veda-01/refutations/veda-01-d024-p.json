@@ -1,0 +1,11 @@
+{
+ "id": "veda-01-d024-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AE%E0%A5%A7&oldid=207948",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 24 --verse 1.181.4; evidence words verbatim in Sāyaṇa on 1.181.4 (machine-checked). He takes one twin as madhyamasyāntarikṣasya putrasthānīyaḥ somaḥ (standing as son of mid-air, Soma), candrātmanas tasyodaye sati oṣadhivanaspatyādayo vardhante (at the rising of him whose self is the moon, plants and trees grow), and the other as divaḥ putraḥ … ādityaḥ (son of heaven, the sun), both ūhe vahati and pṛthag jagannirvāhakau (each separately sustaining the world). Moon, son of mid-air, plants growing at his rising, Sun, son of heaven, each upholding the world: all in his words; he also names candrasūrya directly and cites Nirukta 12.1 for sun and moon, but adopts it as his own gloss, so attribution to Sāyaṇa is sound. Wilson’s note agrees (the Scholiast identifies the Aswins with Sun and Moon). Plain sense checked in day.js: 1.181.2 steeds, 1.181.3 car, 1.181.5 car-seat and bay steeds; no four-word overlap. verse.js ok (Rig Veda 1.181.4, at [180,4], 34 words). entry-check ok, no errors or warnings. API: revid 207948 is सूक्तं १.१८१, 2019-07-27. No school, comparison, tone or form fault. ‘twins’ is not the day’s word (it says Pair and Asvins) but is a plain description, not a reading; does not land.",
+ "better": ""
+}

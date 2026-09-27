@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d014-p",
+ "d": 14,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Gone are the men who in the days before us looked on the rising of the earlier Morning. We, we the living, now behold her brightness and they come nigh who shall hereafter see her.",
+ "ref": "Rig Veda 1.113.11",
+ "at": [
+  112,
+  11
+ ],
+ "s": "In a hymn that follows Dawn through mornings past and to come, the singer turns to the mortals who see her, age after age; Sāyaṇa, on 1.113.11, reads the verse as meaning that Dawn pervades all three times, past, present and future.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.113.11, sa.wikisource (printed edition not named), revision 401270 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%A7%E0%A5%A9&oldid=401270",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.११३, revision 401270",
+    "locator": "commentary on 1.113.11",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n349/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "1.113.11 and its notes",
+    "via": "packet"
+   }
+  ],
+  "words": "तथा “अस्माभिः अपि “नु इदानीं “प्रतिचक्ष्या प्रकर्षेण द्रष्टव्या “अभूत् जाता । तथा “अपरीषु भाविनीषु रात्रिषु “ये मनुष्याः एतामुषसं “पश्यान् पश्यन्ति “ते । आ उ इति निपातद्वयसमुदायः । तत्र उ इत्येतदवधारणे । एव \"यन्ति आगच्छन्त्येव । कालत्रयेऽप्येषा व्याप्य वर्तते इत्यर्थः",
+  "lang": "sa",
+  "gloss": "So now she has become one to be seen clearly by us too. And the men who will see this Dawn in the nights to come, they too surely come (ā u: the u is emphatic). The meaning is that she abides pervading all three times.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "VERIFIED. Key verse verbatim (verse.js ok, ref 1.113.11, at [112,11]). Plain sense faithful: 1.113 is a hymn to Dawn tracing past and coming mornings (1.113.8, 10, 13, 15), and the verse speaks of mortals who saw her before, who see her now and who will. Sāyaṇa on 1.113.11 (packet, revision 401270) glosses the three groups of men and ends kālatraye ’py eṣā vyāpya vartate ity arthaḥ, that she abides pervading all three times; the sentence’s past, present and future spell out kālatraya as his gloss itself divides it. entry-check ok."
+}

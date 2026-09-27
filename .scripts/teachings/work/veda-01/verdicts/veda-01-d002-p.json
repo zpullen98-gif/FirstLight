@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Through all this world strode Visnu; thrice his foot he planted, and the whole Was gathered in his footstep’s dust.",
+ "ref": "Rig Veda 1.22.17",
+ "at": [
+  21,
+  17
+ ],
+ "s": "Near the close of a hymn calling a round of gods to the rite, six verses turn to Vishnu and his strides; Sāyaṇa, on 1.22.17, reads it of Vishnu in his descent as Trivikrama, the three-strider, whose dusty footprint held the whole visible world.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on Rig Veda 1.22.17, sa.wikisource (printed edition not named), revision 352131 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A8%E0%A5%A8&oldid=352131",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.२२, revision 352131 (2022-09-26)",
+    "locator": "commentary on 1.22.17 (and on 1.22.16, trivikramāvatāra)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc01wils/page/n103/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 1 (1866)",
+    "locator": "translation of 1.22.17 and notes on 1.22.15 to 1.22.17",
+    "via": "packet"
+   }
+  ],
+  "words": "विष्णुः त्रिविक्रमावतारधारी “इदं प्रतीयमानं सर्वं जगदुद्दिश्य \"वि “चक्रमे विशेषेण क्रमणं कृतवान् । तदा “त्रेधा त्रिभिः प्रकारैः “पदं “नि “दधे स्वकीयं पादं प्रक्षिप्तवान् । “अस्य विष्णोः “पांसुरे धूलियुक्ते पादस्थाने “समूळ्हम् इदं सर्वं जगत् सम्यगन्तर्भूतम्।",
+  "lang": "sa",
+  "gloss": "Vishnu, bearing the Trivikrama descent (avatāra), strode in a special striding over this whole world that appears to us. Then he set down his foot in three ways. In the dusty place of this Vishnu’s foot this whole world was completely contained.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1.22.17, at [21,17]). Hymn 1.22 has 21 verses and 1.22.16 to 1.22.21 all speak of Vishnu, so ‘near the close ... six verses turn to Vishnu and his strides’ is faithful. Sāyaṇa on 1.22.17 names Vishnu trivikramāvatāradhārī, says he strode over this whole perceived world (idaṃ pratīyamānaṃ sarvaṃ jagat) and that in the dusty place of his foot (pāṃsure dhūliyukte pādasthāne) this whole world was fully contained; on 1.22.16 he again speaks of the three steps in the Trivikrama avatāra. Wilson’s note confirms ‘Sayana conceives the text to allude to the Trivikrama Avatara’. ‘the three-strider’ is only the gloss of the name. Revision 352131 dated 2022-09-26 by the API. entry-check ok."
+}

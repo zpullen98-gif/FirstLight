@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d026-p",
+ "d": 26,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Thee, Agni, have the Adityas taken as their mouth; the Bright Ones have made thee, O Sage, to be their tongue. They who love offerings cling to thee at solemn rites: by thee the Gods devour the duly offered food.",
+ "ref": "Rig Veda 2.1.13",
+ "at": [
+  191,
+  13
+ ],
+ "s": "In the book’s opening hymn, which names Agni as each god in turn, the verse speaks of the gods; Sāyaṇa, on 2.1.13, reads them as eating and tasting only through Agni, waiting on him since without him they cannot eat the oblation.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.1.13, Sanskrit text at sa.wikisource (printed edition not named), revision 400202 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A7&oldid=400202",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं २.१, revision 400202 (2024)",
+    "locator": "commentary on 2.1.13",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n241/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "2.1.13",
+    "via": "packet"
+   }
+  ],
+  "words": "त्वन्मुखेनैव भक्षयंति त्वज्जिहयैवास्वादयंतीत्यर्थः । तथा त्वामेव रातिषाचः । रातिर्दान दत्तं हविरादि धनं वा। तेन समवेता देवा अध्वरेषु यज्ञेषु सश्चिरे । सेवंत त्वामेव प्रतीक्षंते विना त्वया स्वेषां हविर्भक्षणायोगात्",
+  "lang": "sa",
+  "gloss": "The meaning is: they eat through thy mouth alone, they taste through thy tongue alone. So too the rātiṣācaḥ (rāti is a gift, the oblation or wealth given; the gods joined with it) attend thee at the adhvaras, the sacrifices: they serve thee and wait for thee alone, since without thee they cannot eat their own oblation.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the one clause says both ‘names’ and ‘turns’ around a doubled sense of turning (‘in turn’, ‘turns’). Changed only the context clause, as the critic proposed, to ‘the verse speaks of the gods’; the reading is unchanged. Re-opened packet.js veda 26 --verse 2.1.13: Sāyaṇa’s words are verbatim there (tvanmukhenaiva bhakṣayanti tvajjihvayaivāsvādayanti … sevanta tvām eva pratīkṣante vinā tvayā sveṣāṃ havirbhakṣaṇāyogāt) and carry every part of the reading. verse.js ok (2.1.13, at [191,13]); entry-check ok."
+}

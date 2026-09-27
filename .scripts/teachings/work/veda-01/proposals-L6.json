@@ -1,0 +1,48 @@
+{
+ "lane": "L6",
+ "plan": "veda",
+ "batch": "veda-01",
+ "days": [
+  {
+   "d": 32,
+   "primary": {
+    "id": "veda-01-d032-p",
+    "key": "They who are free from death, fain for him, purified three splendours of the mighty Agni, circling all. To man, for his enjoyment, one of these they gave: the other two have passed into the sister sphere.",
+    "ref": "Rig Veda 3.2.9",
+    "at": [
+     235,
+     9
+    ],
+    "s": "Hailing Agni as Vaisvanara, High Priest of the Gods, the hymn turns to his threefold fire; Sāyaṇa, commentary on 3.2.9, reads the three as his earthly, lightning and solar forms, the earthly one set among mortals, or else as the rite’s three fuel sticks.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, Rig Veda 3.2.9, sa.wikisource (printed edition not named), revision 315134 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "उशिजः कामयमाना अमृत्यवो मृत्युरहिता देवा यह्वस्य महतः परिज्मनः परितो गंतुः समिधः समिंधिकाः प्रकाशिकास्तिस्रः पार्थिववैद्युतसूर्यरूपास्तिस्रस्तनूरपुनन्। अशोधयन् । ते देवा भुजं सर्वेषां पालयित्री तासां तनूनां मध्य एकां पार्थिवीं तनुं मर्त्ये मर्त्यलोकेऽदधुः । न्यदधुः । उ इति पादपूरणः । इतरे द्वे तनू जामिं लोकमासन्नमंतरिक्षमुपेयतुः । गच्छतः । अथवा तिस्रः समिध आघारसमिधौ द्वे अनूयाजसमिच्चैकेति। तासां समिधामेकामनूयाजसमिधं मर्त्य इह लोके भोगहेतुमनूयाजपर्यंतमदधुः।",
+     "gloss": "The gods, desiring him, free from death, purified the three kindlers, the illuminators, of the great Agni who goes all around: his three bodies, in the form of the earthly fire, the lightning and the sun. Of those bodies the gods placed one, the earthly body, protector of all, among mortals, in the world of mortals. (U fills out the line.) The other two bodies went to the neighbouring world, the mid-air. Or else: the three fuel sticks, the two āghāra sticks and the one anūyāja stick; of these they placed one, the anūyāja stick, among mortals in this world, as a cause of enjoyment, as far as the anūyāja offerings."
+    }
+   },
+   "standby": {
+    "id": "veda-01-d032-s",
+    "key": "To him who shines afar, Vaisvanara, shall bards give precious things that he may go on certain paths: For Agni the Immortal serves the Deities, and therefore never breaks their everlasting laws.",
+    "ref": "Rig Veda 3.3.1",
+    "at": [
+     236,
+     1
+    ],
+    "s": "Opening the second hymn to Agni as Vaisvanara, the verse gives a reason for the bards’ gifts; Sāyaṇa, commentary on 3.3.1, reads Agni’s service as the giving of oblations, and the ‘everlasting laws’ as the sacrifices, which for that reason no one spoils.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, Rig Veda 3.3.1, sa.wikisource (printed edition not named), revision 314727 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "अमृतो मरणरहितोऽग्निर्देवान् दुवस्यति । हविषां प्रदानेन परिचरति । हिः प्रसिद्धौ । अथ अतः कारणात्कोऽपि सनता सनातनानि धर्माणि यज्ञान् न दूदुषत् । न दूषयति ॥",
+     "gloss": "The immortal Agni, free from death, serves the gods: he waits on them by the giving of oblations. Hi marks what is well known. Then, for this reason, no one spoils the eternal ordinances (dharmāṇi), that is, the sacrifices: na dūduṣat, does not spoil."
+    }
+   }
+  }
+ ]
+}

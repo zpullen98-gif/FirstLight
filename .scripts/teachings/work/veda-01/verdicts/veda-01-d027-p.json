@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d027-p",
+ "d": 27,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Of whom, the Terrible, they ask, Where is He? or verily they say of him, He is not. He sweeps away, like birds, the foe’s possessions. Have faith in him, for He, O men, is Indra.",
+ "ref": "Rig Veda 2.12.5",
+ "at": [
+  202,
+  5
+ ],
+ "s": "In a hymn whose refrain names Indra to the people, this verse meets those who doubt him; Sāyaṇa, on 2.12.5, reads the doubters as people who, not seeing him, think him nowhere, and the verse as bidding trust that Indra is, though not plainly seen.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 2.12.5, Sanskrit text at sa.wikisource (printed edition not named), revision 401594 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A8.%E0%A5%A7%E0%A5%A8&oldid=401594",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं २.१२, revision 401594 (2024)",
+    "locator": "commentary on 2.12.5",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc02wils/page/n268/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 2 (1854)",
+    "locator": "2.12.5",
+    "via": "packet"
+   }
+  ],
+  "words": "अपश्यंतो जना घोरं शत्रूणां घातकं यं पृच्छंति स्म कुह सेति । स इंद्रः कुत्र वर्तत इति … न क्वचिदसौ तिष्ठतीति मन्यमाना जना एनमिंद्रमाहुः एष इंद्रो नास्तीति … तस्माद् श्रदस्मा इंद्राय धत्त। स इंद्रोऽस्तीति विश्वासमत्र कुरुत । यद्यप्यसौ विशेषतोऽस्माभिर्न दृश्यते तथापि अस्तीति विश्वासं कुरुत",
+  "lang": "sa",
+  "gloss": "People who do not see him ask of the terrible one, the slayer of foes, Where is he, that is, where does Indra dwell ... Thinking he stays nowhere, people say of this Indra, this Indra is not ... Therefore put faith in this Indra: have trust here that Indra is. Even though he is not distinctly seen by us, still have trust that he is.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 2.12.5, at [202,5]). Opened the packet for the whole of 2.12: Sāyaṇa on 5 makes the askers people who do not see him (apaśyanto janāḥ), has them say Indra is not because they think he stays nowhere (na kvacid asau tiṣṭhati iti manyamānāḥ), and glosses śrad asmai dhatta as have trust that Indra is, even though he is not distinctly seen by us (yadyapy asau viśeṣato ’smābhir na dṛśyate tathāpi astīti viśvāsaṃ kuruta). The sentence carries exactly that. Wilson’s ‘he is not (in any one place)’ follows him. Plain sense faithful: the refrain ‘He, O men, is Indra’ runs through the hymn and verse 5 turns to those who deny him; no four words of the key repeated. Revision 401594 dated 2024-04-04 by the Wikisource API. entry-check ok."
+}

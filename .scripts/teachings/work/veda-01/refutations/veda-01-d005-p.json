@@ -1,0 +1,13 @@
+{
+ "id": "veda-01-d005-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%AA%E0%A5%A7&oldid=350337",
+  "found": true
+ },
+ "attacks": [
+  "drift"
+ ],
+ "reason": "Re-opened packet.js veda 5 --verse 1.41.9: the evidence words are verbatim and the reading is Sāyaṇa’s own (cowrie shells, कपर्दकान्; Yāska and Wilson’s note have dice, and Wilson says ‘Sayana says, four cowri shells’). verse.js ok (Rig Veda 1.41.9, at [40,9]); entry-check ok; 1.41.9 is the hymn’s last verse, so the plain sense stands; API confirms revision 350337 is hymn 1.41, 2022-09-08. The attack that lands is drift in the object of fear: the sentence makes the shells ‘dreaded by the other player’, but Sāyaṇa makes the man holding them the one feared (ददतो हस्ते धारयतः पुरुषात् … बिभीयात्), the other player fearing whether he will win (अस्य जयो भविष्यति न भविष्यति इत्यन्यो भीतिं प्राप्नुयात्). His comparison is fear of the holder until the fall, as one should fear evil speech (यथा भयं तथा दुरुक्ताद्भेतव्यम्). Small, but it misstates what he says is feared; the fix below keeps the same evidence and passes entry-check.",
+ "better": "A hymn on those the Adityas guard ends with a warning about speech; Sāyaṇa, on 1.41.9, takes the four as cowrie shells in a game of dice, their holder feared by the other player until they fall, as evil speech should be feared. (entry-check ok on this wording)"
+}

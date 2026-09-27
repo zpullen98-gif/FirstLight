@@ -1,0 +1,49 @@
+{
+ "id": "veda-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Through all this world strode Visnu; thrice his foot he planted, and the whole Was gathered in his footstep’s dust.",
+ "ref": "Rig Veda 1.22.17",
+ "at": [
+  21,
+  17
+ ],
+ "s": "In a hymn to many gods, six closing verses sing of Visnu and his strides; Yāska, Nirukta 12.19, explains the three steps by two teachers’ views: on earth, mid-air and heaven, or on the mountain of sunrise, the meridian and the mountain of sunset.",
+ "by": "yaska",
+ "by2": "",
+ "hedge": "",
+ "src": "Yāska, Nirukta 12.19, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/nighantuniruktao00yask",
+    "edition": "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask (OCR)",
+    "locator": "Nirukta 12.19, on Rig Veda 1.22.17",
+    "via": "packet"
+   },
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A8%E0%A5%A8&oldid=352131",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं १.२२, revision 352131 (2022-09-26)",
+    "locator": "commentary on 1.22.17, quoting Nirukta 12.18 to 12.19 (Yāska’s Sanskrit)",
+    "via": "packet"
+   }
+  ],
+  "words": "Visnu strides over this and all that exists. Thrice he plants liis foot, [for threefold existence]. 'On earth, in the intermediate space, and in heaven,' … says Sfdvapuni. ' On the mountain of sunrise, on the meridian, and on the mountain of sunset,' says Aurnavabha. … विष्णुस्त्रिधा निधत्ते पदं त्रेधाभावाय पृथिव्यामन्तरिक्षे दिवीति शाकपूणिः समारोहणे विष्णुपदे गयशिरसीत्यौर्णवाभः",
+  "lang": "en, sa",
+  "gloss": "[Yāska in Sarup’s English, OCR as printed: liis = his, Sfdvapuni = Śākapūṇi, Aurnavabha = Aurṇavābha] Visnu strides over this and all that exists. Thrice he plants his foot, for threefold existence: on earth, in the intermediate space and in heaven, says Śākapūṇi; on the mountain of sunrise, on the meridian and on the mountain of sunset, says Aurṇavābha. [Yāska’s Sanskrit, as Sāyaṇa quotes it] Visnu plants his foot thrice, for threefold existence: on earth, in mid-air, in heaven, says Śākapūṇi; on Samārohaṇa, on Viṣṇupada, on Gayaśiras, says Aurṇavābha.",
+  "licence": "public domain (Sarup 1920 to 1921); Sanskrit transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds. Re-opened packet.js veda 2 --verse 1.22.17: the Nirukta treats this verse (Sarup 12.19), and Yāska gives the three placings of the foot as two teachers’ views, earth, intermediate space and heaven (Śākapūṇi), or the mountain of sunrise, the meridian and the mountain of sunset (Aurṇavābha), which is distinct from Sāyaṇa’s own Trivikrama gloss; Sāyaṇa quotes the passage (sā iyam ṛk yāskenaivaṃ vyākhyātā), confirming the attribution, and naming Yāska alone avoids setting the two side by side (the round-2 refutation). Following that refutation, the mountains stay places in Sarup’s order (the fix’s ‘mountains of sunrise and sunset and the meridian between’ reordered them and added ‘between’), so the sentence says ‘on the mountain of sunrise, the meridian and the mountain of sunset’; the steps are attributed as two teachers’ views, not as Yāska’s own verdict. Context clause rewritten without the ‘turn to’ formula: day.js prints 1.22 as 21 verses (Asvins, Savitar, the Spouses, Heaven and Earth, Earth) with 16 to 21 on Visnu’s strides, works and loftiest place, so ‘six closing verses sing of Visnu and his strides’. by yaska, src as the fix gives it (124 characters). verse.js ok (1.22.17, at [21,17]); entry-check ok (scratch/rev3-d2.json, 44 words, no warns); every evidence piece re-found in the packet with the recheck normalisation."
+}

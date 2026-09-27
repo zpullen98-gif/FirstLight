@@ -1,0 +1,8 @@
+{
+ "id": "veda-01-d021-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%A7.%E0%A5%A7%E0%A5%AC%E0%A5%A8&oldid=401046", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 21 --verse 1.162.21 (revision 401046, the veda-lock pin for 1.162). The evidence is verbatim in his comment on 21, the ellipsis skipping only the sugebhiḥ pathibhiḥ gloss: naiva idānīm itarāśvavat mṛto bhavasi (no death like other horses), na hiṃsyase vyarthahiṃsāyāḥ abhāvāt (not injured, since no pointless injury), nanu pratyakṣyato mṛtiḥ avayavanāśaś ca dṛśyate (the objection that death is seen), devān eva prāpnoṣi, ato yuktaiṣoktiḥ (answer: you reach the gods). Every clause of the reading is in his words; the mitigation is attributed to him as rule 6 asks. The revision changes only src, now in the batch form and 111 characters. Plain sense in day.js: 1.162.18 to 20 give the hatchet and dissection, so ‘now killed’ is the text’s own, one plain clause, not softened or graphic; 21 of 22 is near the end. Key stops before the yoked-steeds half. verse.js ok (Rig Veda 1.162.21, at [161,21]); entry-check ok, no warns. 1.162 is not a hymn with a different verse count; Yāska does not treat 21. No school, comparison or tone issue.",
+ "better": ""
+}
