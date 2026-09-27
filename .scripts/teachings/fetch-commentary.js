@@ -638,7 +638,8 @@ const zhuangzi = (packetsOnly) => require('./sources/zhuangzi').build({ get, wsU
 const quran = (packetsOnly) => require('./sources/quran').build({ get, CACHE, packetsOnly });
 const bible = (packetsOnly) => require('./sources/bible').build({ get, CACHE, packetsOnly });
 const veda = (packetsOnly) => require('./sources/veda').build({ get, CACHE, packetsOnly });
-const PLANS = { tao, pali, analects, gita, upanishads, zhuangzi, quran, bible, veda };
+const tanakh = (packetsOnly) => require('./sources/tanakh').build({ get, CACHE, packetsOnly });
+const PLANS = { tao, pali, analects, gita, upanishads, zhuangzi, quran, bible, veda, tanakh };
 
 async function main() {
   const [plan, flag] = process.argv.slice(2);

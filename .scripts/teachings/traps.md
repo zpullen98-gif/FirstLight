@@ -103,6 +103,12 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - The commentary on Chronicles printed under Rashi's name is not his.
 - The JPS translation prints the divine name as LORD in capitals: a key verse keeps it; a sentence says "the LORD" or "God", and never spells the four-letter name.
 - No Christian vocabulary, ever: the gate fails the plan on it.
+- The packets label numbered books as Sefaria does ("I Samuel 3:4", "II Kings", "I Chronicles") and the Psalms "Psalm": the ref is the app’s ("1 Samuel 3:4").
+- A Torah day’s packets run to 100,000 words and more: packet.js prints an index; read the chosen verse with --verse <chapter:verse>.
+- The Hebrew is the commentator’s own words. Where the packet says Hebrew only (Ibn Ezra outside the Torah and Isaiah, Radak on the Prophets, Metzudat David, Sforno on the Song), read it and gloss it yourself.
+- When the English is split differently from the Hebrew, the packet gives the verse’s English once, marked "for the whole verse": quote the English only for the words the Hebrew comment holds.
+- "[editor: ...]" in the Hebrew is an editor’s remark, not the commentator’s.
+- A comment Sefaria files at another verse is moved to its own verse and says where the editions print it (Rashi on Deuteronomy 32:43 and Proverbs 30:31, Radak on Isaiah 37:30 and Psalm 38:15): cite the verse it is on.
 
 ## bible
 

@@ -1,0 +1,1043 @@
+{
+ "about": "Pins for .scripts/teachings/sources/tanakh.js: every file is Sefaria-Export-Archive at the commit below (git blob sha1 and size, from the GitHub tree API), except Ramban on Exodus in Hebrew, which that commit lacks: the live Sefaria-Export bucket object at its generation, checked by md5 (base64, as GCS gives it), with the archive file used if the generation is gone.",
+ "archive": "3f1013631fdfe452e953a93a2c5f921319e394ed",
+ "made": "2026-09-27",
+ "files": {
+  "json/Tanakh/Torah/Genesis/Hebrew/Tanach with Text Only.json": {
+   "blob": "9e03c8b1e437e3569b99e68531377fef998090e3",
+   "size": 201518
+  },
+  "json/Tanakh/Torah/Exodus/Hebrew/Tanach with Text Only.json": {
+   "blob": "1b8bc75c14a3ad35260bbb423e7c95121da651bc",
+   "size": 163462
+  },
+  "json/Tanakh/Torah/Leviticus/Hebrew/Tanach with Text Only.json": {
+   "blob": "1d7106505a901f19f5dfcb2ca4d379ab7556c29c",
+   "size": 115591
+  },
+  "json/Tanakh/Torah/Numbers/Hebrew/Tanach with Text Only.json": {
+   "blob": "8b7bf0156a912cfe1a2a51d611a672596dea143d",
+   "size": 164229
+  },
+  "json/Tanakh/Torah/Deuteronomy/Hebrew/Tanach with Text Only.json": {
+   "blob": "df58c1f60133fdedb3169db3cc9f6cc7f24b1afa",
+   "size": 140042
+  },
+  "json/Tanakh/Prophets/Joshua/Hebrew/Tanach with Text Only.json": {
+   "blob": "391bb3052c6f16b6dd6d2e59863dabac7685c9a3",
+   "size": 100983
+  },
+  "json/Tanakh/Prophets/Judges/Hebrew/Tanach with Text Only.json": {
+   "blob": "c30458e4d3ab54ed815b792d50659dc76a128568",
+   "size": 98293
+  },
+  "json/Tanakh/Prophets/I Samuel/Hebrew/Tanach with Text Only.json": {
+   "blob": "7411c0cef36bda8049f0a1ef3be665fdb77428d5",
+   "size": 130266
+  },
+  "json/Tanakh/Prophets/II Samuel/Hebrew/Tanach with Text Only.json": {
+   "blob": "65148904676abde44ee0da0fd392c5010a5beefc",
+   "size": 107987
+  },
+  "json/Tanakh/Prophets/I Kings/Hebrew/Tanach with Text Only.json": {
+   "blob": "676d12e0d6638afe8ea798dc1e93ff13e1e9d125",
+   "size": 128237
+  },
+  "json/Tanakh/Prophets/II Kings/Hebrew/Tanach with Text Only.json": {
+   "blob": "6458622f36c887f5405ef6f7c57b888cea1cfdb2",
+   "size": 120694
+  },
+  "json/Tanakh/Prophets/Isaiah/Hebrew/Tanach with Text Only.json": {
+   "blob": "b2d7b30e00719ed52688213e397b8ed0cccca63b",
+   "size": 172607
+  },
+  "json/Tanakh/Prophets/Jeremiah/Hebrew/Tanach with Text Only.json": {
+   "blob": "7dea7baa7c5ffa461c5e66213e58697f5e2db739",
+   "size": 215488
+  },
+  "json/Tanakh/Prophets/Ezekiel/Hebrew/Tanach with Text Only.json": {
+   "blob": "3c2b2ace8c4e875e4f784e277f363c697fb73821",
+   "size": 190152
+  },
+  "json/Tanakh/Prophets/Hosea/Hebrew/Tanach with Text Only.json": {
+   "blob": "de111769886fbf8466bf04abdc0a2e7679aa1f59",
+   "size": 25019
+  },
+  "json/Tanakh/Prophets/Joel/Hebrew/Tanach with Text Only.json": {
+   "blob": "7fd825b8bd9ab7886e3abdb5b0120b17ae95f5a8",
+   "size": 10457
+  },
+  "json/Tanakh/Prophets/Amos/Hebrew/Tanach with Text Only.json": {
+   "blob": "2df0b5bde48a90486f85b47394fb4ce30a16b685",
+   "size": 21092
+  },
+  "json/Tanakh/Prophets/Obadiah/Hebrew/Tanach with Text Only.json": {
+   "blob": "a9f910f25a8ed7ceeaae9c3a395e7587ff9d6fbb",
+   "size": 3454
+  },
+  "json/Tanakh/Prophets/Jonah/Hebrew/Tanach with Text Only.json": {
+   "blob": "dd2901e5a1e2feb1b971f5a4a922f5c622de3077",
+   "size": 7459
+  },
+  "json/Tanakh/Prophets/Micah/Hebrew/Tanach with Text Only.json": {
+   "blob": "35625e0365df49c6b2be5d988dae743a65af804d",
+   "size": 14866
+  },
+  "json/Tanakh/Prophets/Nahum/Hebrew/Tanach with Text Only.json": {
+   "blob": "5c766c64c27cf483171f47f9b06b86de475c464f",
+   "size": 6452
+  },
+  "json/Tanakh/Prophets/Habakkuk/Hebrew/Tanach with Text Only.json": {
+   "blob": "1270833ab62d090e019a9893867e768219f9f343",
+   "size": 7356
+  },
+  "json/Tanakh/Prophets/Zephaniah/Hebrew/Tanach with Text Only.json": {
+   "blob": "8ab166d66e68161cce94ef7b6994f5ab5dc01fd3",
+   "size": 8215
+  },
+  "json/Tanakh/Prophets/Haggai/Hebrew/Tanach with Text Only.json": {
+   "blob": "049bb7a7dea42dfc59e7a12696fd79c848950ed9",
+   "size": 6467
+  },
+  "json/Tanakh/Prophets/Zechariah/Hebrew/Tanach with Text Only.json": {
+   "blob": "fafcf86b70ea16121247f5b021f5622b71d3864e",
+   "size": 32096
+  },
+  "json/Tanakh/Prophets/Malachi/Hebrew/Tanach with Text Only.json": {
+   "blob": "b8630f6b2f93d47c7880b09f28d1c99cf16e733a",
+   "size": 9236
+  },
+  "json/Tanakh/Writings/Psalms/Hebrew/Tanach with Text Only.json": {
+   "blob": "e3e1bb7958ad448212bf65693d9e361f2d5c5a34",
+   "size": 219706
+  },
+  "json/Tanakh/Writings/Proverbs/Hebrew/Tanach with Text Only.json": {
+   "blob": "4612e05d094ff6a4b4d7ce16efc875a5ee91fcb4",
+   "size": 75708
+  },
+  "json/Tanakh/Writings/Job/Hebrew/Tanach with Text Only.json": {
+   "blob": "100541ecce6ac8c75ebaceb36cfe116449ef6849",
+   "size": 90250
+  },
+  "json/Tanakh/Writings/Song of Songs/Hebrew/Tanach with Text Only.json": {
+   "blob": "71632bb261db7344beede3fa470fb2d6fca0daf5",
+   "size": 14103
+  },
+  "json/Tanakh/Writings/Ruth/Hebrew/Tanach with Text Only.json": {
+   "blob": "331ba343ac1f0d2804e286467b11a6d4ef49d06e",
+   "size": 13264
+  },
+  "json/Tanakh/Writings/Lamentations/Hebrew/Tanach with Text Only.json": {
+   "blob": "a8b7463589e74dac342c95d2dca2670e7b5f30d6",
+   "size": 16856
+  },
+  "json/Tanakh/Writings/Ecclesiastes/Hebrew/Tanach with Text Only.json": {
+   "blob": "47f7d482a9bae8f0ae064b50153914fb468af0a0",
+   "size": 29753
+  },
+  "json/Tanakh/Writings/Esther/Hebrew/Tanach with Text Only.json": {
+   "blob": "eeb201c0c9899a86b373c357c5bd070883708e62",
+   "size": 30737
+  },
+  "json/Tanakh/Writings/Daniel/Hebrew/Tanach with Text Only.json": {
+   "blob": "20121fc47367e7aa7646c2c6181afe9532d4446e",
+   "size": 62072
+  },
+  "json/Tanakh/Writings/Ezra/Hebrew/Tanach with Text Only.json": {
+   "blob": "1ed3b1b9f67e0cca0669a05507da355c177a6675",
+   "size": 40742
+  },
+  "json/Tanakh/Writings/Nehemiah/Hebrew/Tanach with Text Only.json": {
+   "blob": "7ef6c1754da6d2d62641de36930d9a802ce1f3eb",
+   "size": 57562
+  },
+  "json/Tanakh/Writings/I Chronicles/Hebrew/Tanach with Text Only.json": {
+   "blob": "38b7f2c1a34897f30e98d55130245bd51f10b744",
+   "size": 115733
+  },
+  "json/Tanakh/Writings/II Chronicles/Hebrew/Tanach with Text Only.json": {
+   "blob": "195a7b08174ac273c144a86f9203eb5ed825817a",
+   "size": 137328
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Genesis/Hebrew/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "455fba329b7578ae5dfd0f4b64bb798bb80b8176",
+   "size": 695320
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Genesis/English/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "0071674a360ef8e370aa50c46d9b3577c8bc29dc",
+   "size": 698089
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Exodus/Hebrew/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "503ea588f0c53c09a4c43a32f2fa066b92829cbe",
+   "size": 709869
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Exodus/English/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "c35cc07e8647e2585c36230f5c635bea6ca6e61c",
+   "size": 784003
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Leviticus/Hebrew/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "a244b7ab7d853fc468420f0a2813c5622b10279d",
+   "size": 431835
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Leviticus/English/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "b1992e23a178035d0ec9343180b2157f575ca124",
+   "size": 582166
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Numbers/Hebrew/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann -- corrected vocalization.json": {
+   "blob": "78c5d9a8c187527f2b9862ebae4566f7d1ce447a",
+   "size": 474167
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Numbers/English/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "0b0f7c6001031c3fca7326751787889ed8afe987",
+   "size": 541995
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Deuteronomy/Hebrew/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "e956e8e312c55b3420f8d9b7f92f1f977e86d833",
+   "size": 445933
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Torah/Rashi on Deuteronomy/English/Pentateuch with Rashi's commentary by M. Rosenbaum and A.M. Silbermann, 1929-1934.json": {
+   "blob": "3e1235d7d72501570f25a8b45340893c6eb6cebd",
+   "size": 500568
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Joshua/Hebrew/The Book of Joshua, Metsudah Publications, 1997.json": {
+   "blob": "75bb9b6a7e63d285973a981698b82b41de60eea2",
+   "size": 126234
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Joshua/English/The Book of Joshua, Metsudah Publications, 1997.json": {
+   "blob": "a757e38c3438e4ad615fab7639517eaa152032ef",
+   "size": 150734
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Judges/Hebrew/On Your Way.json": {
+   "blob": "9592d67aa487c99fd447975eff2449fdaf652cd7",
+   "size": 84959
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Judges/English/The Metsudah Tanach series, Lakewood, N.J.json": {
+   "blob": "f779d8c7590132323265b47920791c686d2e9548",
+   "size": 134784
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on I Samuel/Hebrew/On Your Way.json": {
+   "blob": "8f2cdc24e8619480cb63431cdd26a8347c96dfc3",
+   "size": 126070
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on I Samuel/English/The Metsudah Tanach series, Lakewood, N.J.json": {
+   "blob": "c0d65b5c1990fd46056d1ff5ebf485b37dfcf00e",
+   "size": 213876
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on II Samuel/Hebrew/On Your Way.json": {
+   "blob": "30e8efe6c78111c75dcd360db50c37868787e117",
+   "size": 98218
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on II Samuel/English/The Metsudah Tanach series, Lakewood, N.J.json": {
+   "blob": "8a6d5c9c168d575997006a8252ea76e2cbd3769c",
+   "size": 152746
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on I Kings/Hebrew/The Metsudah Tanach series, Lakewood, N.J .json": {
+   "blob": "e3f2b9583750a7f1e5ba64a57a0e71e2673978d0",
+   "size": 204151
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on I Kings/English/The Metsudah Tanach series, Lakewood, N.J.json": {
+   "blob": "9a7df564d5efa77abeddb0600bcfb8e5fc913ad0",
+   "size": 222094
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on II Kings/Hebrew/The Metsudah Tanach series, Lakewood, N.J.json": {
+   "blob": "93c500885f0b6c3d0344c37fb9c8125d2147324d",
+   "size": 155549
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on II Kings/English/The Metsudah Tanach series, Lakewood, N.J.json": {
+   "blob": "1b60fab7c40ee2d913e9556e4ca50bc66d9aad67",
+   "size": 198372
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Isaiah/Hebrew/On Your Way.json": {
+   "blob": "4276bfa5928e24adf3380c23baef8211f9c89c8c",
+   "size": 497136
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Isaiah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "50835e53e1d54e6b5c2998aaf359311e656ab945",
+   "size": 605340
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Jeremiah/Hebrew/On Your Way.json": {
+   "blob": "d6240c77dd01de60b066f93ac0e1234327509ef3",
+   "size": 226939
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Jeremiah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "20fedc25ee38345504a671ad390e45fdc3514e77",
+   "size": 250539
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Ezekiel/Hebrew/On Your Way.json": {
+   "blob": "613f78ffeba03af0dd0363236eda703e71ee8a0c",
+   "size": 366341
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Ezekiel/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "80b21b148edfce1e7c707d2a8ceeb4b85e21cc37",
+   "size": 429603
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Hosea/Hebrew/On Your Way.json": {
+   "blob": "8339fa5f9321ffa17c3b9c37a865eab68f97965d",
+   "size": 90017
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Hosea/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "61653ee97439ccfab9bcedc14ea61355e86332db",
+   "size": 109191
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Joel/Hebrew/On Your Way.json": {
+   "blob": "0ba2eb9706b9a330e251abe3ce1575865bcc480d",
+   "size": 15482
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Joel/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "9419118d743dfe304ffb6142d8cdcc88a44b3a71",
+   "size": 19537
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Amos/Hebrew/On Your Way.json": {
+   "blob": "01759ccb1b810b8a3eb5bf287baa2f55046c7cad",
+   "size": 48267
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Amos/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "a5b38b91fbccdaaae701d9c8ec4e3396cda1f57d",
+   "size": 56869
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Obadiah/Hebrew/On Your Way.json": {
+   "blob": "063fecc51f42d52295a2a7a129ce07248a2202f8",
+   "size": 7282
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Obadiah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "cf84f950cb0f9e1a1b6af6e152f406caf6fd8ef7",
+   "size": 9074
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Jonah/Hebrew/On Your Way.json": {
+   "blob": "12807202ec8796f66e05a5e1b481b1c0e8f910e3",
+   "size": 10412
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Jonah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "b4490989dfba74ae0ae278261831410fbf6e84c4",
+   "size": 12800
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Micah/Hebrew/On Your Way.json": {
+   "blob": "7d5e7a360527a28c902aa5f3f8cac557ddfef271",
+   "size": 34737
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Micah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "bf8976b1cda411c50b907f89de6d9fb92802c6d1",
+   "size": 43000
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Nahum/Hebrew/On Your Way.json": {
+   "blob": "a7af48c37b198c59ca70d4e87a66d54193633a19",
+   "size": 20547
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Nahum/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "9bbb7568bf65ad629d71f97c34c72a6c7664472a",
+   "size": 25624
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Habakkuk/Hebrew/On Your Way.json": {
+   "blob": "e7d1d06663a3ce82396f6d0d388bc41a5ccb9f10",
+   "size": 26085
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Habakkuk/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "ab2cf24441ce370aaae45866917053af3345e720",
+   "size": 30992
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Zephaniah/Hebrew/On Your Way.json": {
+   "blob": "0a21974613329ed70e8154397881ff998782c274",
+   "size": 13409
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Zephaniah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "838aa9bf705f1b1794bfca7572c043b376646958",
+   "size": 14799
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Haggai/Hebrew/On Your Way.json": {
+   "blob": "6a5f935ce08e82e8ff12bde55d1889be405fe28c",
+   "size": 10864
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Haggai/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "d976849b15e1ec423ecb42cdf423a395ed9d0d67",
+   "size": 12590
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Zechariah/Hebrew/On Your Way.json": {
+   "blob": "3174a6f0e2523188772a63621780fe2152f50d2f",
+   "size": 70484
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Zechariah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "2903ff323d24b3648b8fabc2b8c1dfaeaebe923f",
+   "size": 79070
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Malachi/Hebrew/On Your Way.json": {
+   "blob": "6b5b94a711e4bca342fdc6c2bd40afe94cd99128",
+   "size": 19564
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Prophets/Rashi on Malachi/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "44851cb497a5603e7f9796b8975eddcc1b63d228",
+   "size": 21728
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Psalms/Hebrew/On Your Way.json": {
+   "blob": "f62cb0e1d31d6f7f3ec09ad0f05ef200e602d047",
+   "size": 481496
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Psalms/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "7a9c219bbdf3f6f60984510c6aa3d6ddf3c1751b",
+   "size": 554419
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Proverbs/Hebrew/On Your Way.json": {
+   "blob": "86fe6371f3ef17ded4ffd8c03a87ca1d260c9fb3",
+   "size": 199055
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Proverbs/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "969d6f8405df9c2c826cec11f59e4dd02030fd12",
+   "size": 229767
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Job/Hebrew/On Your Way.json": {
+   "blob": "742e533b6f8fe65334257075473f07ed4b8370c4",
+   "size": 260977
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Job/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "1fb36b96febb3f55e7d5372fd6ebf2c022db364d",
+   "size": 297574
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Daniel/Hebrew/On Your Way.json": {
+   "blob": "44c64489a12f82d0c70713e3a286494e93a91914",
+   "size": 117178
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Daniel/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "ed419d4166947309cdab5893ca133a8ee2786567",
+   "size": 132629
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Ezra/Hebrew/On Your Way.json": {
+   "blob": "2cdb2f51d607f7c784267f1139183f7bdfff311c",
+   "size": 69772
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Ezra/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "37a7182756eb3cc258eb24baf417e745519eaf70",
+   "size": 77630
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Nehemiah/Hebrew/On Your Way.json": {
+   "blob": "6f4e3cab0272dab894d0dbf15f5a9b6c1d8dd3ac",
+   "size": 70886
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Nehemiah/English/The Judaica Press complete Tanach with Rashi, translated by A. J. Rosenberg.json": {
+   "blob": "33afb1da0499a66b756e03506393de8da354a6d5",
+   "size": 74686
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Song of Songs/Hebrew/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "ed33acc9a2e163bada8c0e5f84d9e27570bd3598",
+   "size": 149519
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Song of Songs/English/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "a6beb231a13ec4f70d485eaca3b0312aaca9b7d9",
+   "size": 152160
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Ruth/Hebrew/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "a207f09522290f98df6862a9678a4f60b0a0eef8",
+   "size": 26864
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Ruth/English/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "d10857af9c3388c63dcd8de216078290884716d5",
+   "size": 35361
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Lamentations/Hebrew/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "40cc233e8a048a865139d35d4cdced0d9d698fb8",
+   "size": 67094
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Lamentations/English/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "6cec4741a0d601f1752c9aebc016def40283610d",
+   "size": 79384
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Ecclesiastes/Hebrew/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "ffd97ed9ed9fe2b5e181037c5ed95540bf246f3a",
+   "size": 196717
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Ecclesiastes/English/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "839f851ab1291684c35cc77e3316151b6fc7c2ea",
+   "size": 226103
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Esther/Hebrew/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "3ce18a38345003460f859b85760274c08bab288b",
+   "size": 40681
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashi/Writings/Rashi on Esther/English/The Metsudah Five Megillot, Lakewood, N.J., 2001.json": {
+   "blob": "29ae46112972702d90af4e6806b91faa3d1ed128",
+   "size": 52041
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Genesis/Hebrew/On Your Way.json": {
+   "blob": "5cb1d907dc829c49920383a7ef5b0099b11b0d08",
+   "size": 349574
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Genesis/English/Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004.json": {
+   "blob": "c4371b4d63d9530d3706bfc5ba4c6c3f26053724",
+   "size": 1146864
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Exodus/Hebrew/On Your Way.json": {
+   "blob": "11c5d83338a557c8cc4b2bc6a93f9780197d52db",
+   "size": 650612
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Exodus/English/Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004.json": {
+   "blob": "5b801c08981bc21f6843aa9cdd427ac0b02d56f6",
+   "size": 2053695
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Leviticus/Hebrew/On Your Way.json": {
+   "blob": "f2eca7540da2c7e44d9da00ee00fccd63054b70a",
+   "size": 227934
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Leviticus/English/Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004.json": {
+   "blob": "15f76f4692df8b9a8b638cd76db37b8af17799dc",
+   "size": 751190
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Numbers/Hebrew/On Your Way.json": {
+   "blob": "5ef2d77546c42ba9118ee2175a99cc37e0380aa9",
+   "size": 217720
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Numbers/English/Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004.json": {
+   "blob": "0a47e2ff6e28a6c65ae73602085f79e660cdd90e",
+   "size": 641179
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Deuteronomy/Hebrew/On Your Way.json": {
+   "blob": "6a8802a27ce8c8ec1160355cb6d72a2c59d8f506",
+   "size": 232340
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Torah/Ibn Ezra on Deuteronomy/English/Ibn Ezra's commentary on the Pentateuch, tran. and annot. by H. Norman Strickman and Arthur M. Silver. Menorah Pub., 1988-2004.json": {
+   "blob": "cb9393cc04dbd0d284450b6306092f08b27c53b7",
+   "size": 734232
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Isaiah/Hebrew/Ibn Ezra on Isaiah, by M. Friedlander; Society of Hebrew Literature, London 1877.json": {
+   "blob": "e4b7c1b3518ad2248f432d851194cc0c86b40676",
+   "size": 532702
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Isaiah/English/Commentary of Ibn Ezra on Isaiah - trans. by M. Friedlander, 1873.json": {
+   "blob": "0f000db1388f41b2af33decf8043857a8f30174b",
+   "size": 1090012
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Hosea/Hebrew/Ibn Ezra on Hosea -- Daat.json": {
+   "blob": "e6371501c57f6e6ed8e50a0276e02010856be0c3",
+   "size": 75261
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Joel/Hebrew/Ibn Ezra on Joel -- Daat.json": {
+   "blob": "b86de305552ae5b5a045d91609f3d92ba6fd8804",
+   "size": 21626
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Amos/Hebrew/Ibn Ezra on Amos -- Daat.json": {
+   "blob": "297bd3f2268302063e025167d33e3cba84e0a1e5",
+   "size": 50004
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Obadiah/Hebrew/Ibn Ezra on Obadiah -- Daat.json": {
+   "blob": "04c34eb5e725c2bc433427b4fccb71fcb7970dfe",
+   "size": 7342
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Jonah/Hebrew/Ibn Ezra on Jonah -- Daat.json": {
+   "blob": "75066054c57693c58e6ef4e31ab051daa6921687",
+   "size": 17866
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Micah/Hebrew/Ibn Ezra on Micah -- Daat.json": {
+   "blob": "e2d4990a413fa5c81120cecd8c6a5cc84ab49501",
+   "size": 39055
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Nahum/Hebrew/Ibn Ezra on Nahum -- Daat.json": {
+   "blob": "2525e491a109bf40547c53746df1b89292a957a1",
+   "size": 17261
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Habakkuk/Hebrew/bIbn Ezra on Habakkukb- Daat.json": {
+   "blob": "a4768bf9327455470de354bbb7d02eb336b84f40",
+   "size": 25232
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Zephaniah/Hebrew/Ibn Ezra on Zephaniah -- Daat.json": {
+   "blob": "f38f005ce2fe46f881a3d73c7438524abe4104ad",
+   "size": 15967
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Haggai/Hebrew/Ibn Ezra on Haggai -- Daat.json": {
+   "blob": "02530020194d60f6b1f032a2afe18c987f41808e",
+   "size": 15228
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Zechariah/Hebrew/Ibn Ezra on Zecharia -- Daat.json": {
+   "blob": "9a7d06658de65d25b4ee0219f1638bf76b2ecfc4",
+   "size": 72101
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Prophets/Ibn Ezra on Malachi/Hebrew/Ibn Ezra on Malachi -- Daat.json": {
+   "blob": "ad9903880a82341fa88d373f386983fc8458a267",
+   "size": 18299
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Psalms/Hebrew/Ibn Ezra on Psalms -- Daat.json": {
+   "blob": "953c9982e821ea1bf704e3d4ab4321d9a4e3f403",
+   "size": 766420
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Job/Hebrew/Ibn Ezra on Job -- Daat.json": {
+   "blob": "3c950c31c510eba479ba052f7f189eda1296e08e",
+   "size": 162502
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Daniel/Hebrew/Ibn Ezra on Daniel - Daat.json": {
+   "blob": "1f884fb6644fb05c54664b3813fd1fa8e5b1c473",
+   "size": 139479
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Ruth/Hebrew/Ibn Ezra on Ruth -- Daat.json": {
+   "blob": "ed288c732ee4b215a4dd5092537caec1cfa2375e",
+   "size": 19613
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Song of Songs/Hebrew/Ibn Ezra's commentary on the Canticles.json": {
+   "blob": "2f25e48ed9b59a1e85130e56713e2ea22119d528",
+   "size": 63218
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Lamentations/Hebrew/Ibn Ezra on Lamentations -- Wikisource.json": {
+   "blob": "e2dc5f34e1abd9d1ae95aa648d1d804c59751fd7",
+   "size": 34308
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Ecclesiastes/Hebrew/Wikisource.json": {
+   "blob": "1925b3cbddf58cfab30718fbed897cc2d35798ba",
+   "size": 168513
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ibn Ezra/Writings/Ibn Ezra on Esther/Hebrew/Kol Sason, Krotoschin, 1840.json": {
+   "blob": "03136a0195f313bbcaab62960f70ced101ce86a9",
+   "size": 45167
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Torah/Radak on Genesis/Hebrew/Presburg  A. Schmid, 1842.json": {
+   "blob": "765fd88530090932a825f93e7ae8d9ce6d0a36fe",
+   "size": 883859
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Torah/Radak on Genesis/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "7927804e84cb6bd39c28e986115540268ba5ea34",
+   "size": 1321291
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Joshua/Hebrew/Radak on Nach.json": {
+   "blob": "7ad87bc4f5b34d1d6623a787ab9f46db40692912",
+   "size": 184657
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Judges/Hebrew/Radak on Nach.json": {
+   "blob": "5de5b20ec66cb2338480e1c94b0e843b3fd1c992",
+   "size": 194124
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on I Samuel/Hebrew/Radak on Nach.json": {
+   "blob": "a6eee948c55214a489636094f8e910a87669570c",
+   "size": 388935
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on II Samuel/Hebrew/Radak on Nach.json": {
+   "blob": "b56d42efe29fac25dc0a36cbe54d69780bb8186a",
+   "size": 305654
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on I Kings/Hebrew/Radak on Nach.json": {
+   "blob": "ae6ddd7bd9e9dbbb458d3522e344541e549f4e60",
+   "size": 339215
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on II Kings/Hebrew/Radak on Nach.json": {
+   "blob": "1a0ea0c0d50cca46d6a9abbb10d681d979eacac0",
+   "size": 278591
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Isaiah/Hebrew/Radak on Nach.json": {
+   "blob": "155234a1e74120edc99d5139d0e37783d4b81a9e",
+   "size": 1055723
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Jeremiah/Hebrew/Radak on Nach.json": {
+   "blob": "5b254f7899b63bd94b94e10b80f5cabc2e9b1fc4",
+   "size": 695150
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Ezekiel/Hebrew/Radak on Nach.json": {
+   "blob": "6598d440a1b07be56e15aa0ebba488e09a9175b6",
+   "size": 767232
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Hosea/Hebrew/Radak on Nach.json": {
+   "blob": "1fcf584964ed70614bcb5e54a8f139db02ffd260",
+   "size": 205062
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Joel/Hebrew/Radak on Nach.json": {
+   "blob": "fc4b33236e44346690a4dbe6b1bc00e21b347580",
+   "size": 53335
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Amos/Hebrew/Radak on Nach.json": {
+   "blob": "5dfd0c72732075310957f077bcda18dfded217cd",
+   "size": 127541
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Obadiah/Hebrew/Radak on Nach.json": {
+   "blob": "6b6459f4c6d75d7c00fe0ed9d33ab1f10e3d9ab9",
+   "size": 18401
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Jonah/Hebrew/Radak on Nach.json": {
+   "blob": "f912c621b5d5b5a12460d95cb91385edb82aeeba",
+   "size": 29598
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Micah/Hebrew/Radak on Nach.json": {
+   "blob": "adfbf9482e551c7073d9ba8cf84938a30b55e74b",
+   "size": 88084
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Nahum/Hebrew/Radak on Nach.json": {
+   "blob": "56a6626c6c101435745307bdd96950364e916bb1",
+   "size": 38166
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Habakkuk/Hebrew/Radak on Nach.json": {
+   "blob": "c0334a4f1bfe6c42d4187600694ffbd73e5b110c",
+   "size": 57908
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Zephaniah/Hebrew/Radak on Nach.json": {
+   "blob": "24c93fa72d33ff55f97fb6394b260fbc213fabc3",
+   "size": 36383
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Haggai/Hebrew/Radak on Nach.json": {
+   "blob": "5d0c93aff87b87d349352448949dc338bca7ecc7",
+   "size": 24525
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Zechariah/Hebrew/Radak on Nach.json": {
+   "blob": "ded8bb8bc785f61a94ff9e4640a5c846c8c81476",
+   "size": 154283
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Prophets/Radak on Malachi/Hebrew/Radak on Nach.json": {
+   "blob": "c5cc7eeaf7d4f412206009e942db9ae2f836dd44",
+   "size": 43014
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Writings/Radak on Psalms/Hebrew/The Psalms with Qimchi’s Longer Commentary, Leipzig, 1883.json": {
+   "blob": "5299b0143aff77b5f5439e9fcd521a75816ccced",
+   "size": 522914
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Writings/Radak on Psalms/Hebrew/Derekh Mesilah, Furth 1843.json": {
+   "blob": "c7cdd9387e821d2a191c1c5e441414c69d2283b7",
+   "size": 773550
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Writings/Radak on Psalms/English/R. David Kimhi on the first book of Psalms, Translated by R.G. Finch, London, 1919.json": {
+   "blob": "c7008416be7bb8c1249032290888e949684b8c26",
+   "size": 246494
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Writings/Radak on I Chronicles/Hebrew/Radak on Nach.json": {
+   "blob": "29714ec4668a3bb6cc9c5c38ce423ce23b4e2639",
+   "size": 188725
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Writings/Radak on I Chronicles/English/The Commentary of Radak to Chronicles A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007.json": {
+   "blob": "48ec0c1bebb39a08177ed075d42bf32212dbe3d0",
+   "size": 239423
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Writings/Radak on II Chronicles/Hebrew/Radak on Nach.json": {
+   "blob": "0f40063c994d857a0883b23837d1d8e43baddce8",
+   "size": 112437
+  },
+  "json/Tanakh/Rishonim on Tanakh/Radak/Writings/Radak on II Chronicles/English/The Commentary of Radak to Chronicles A Translation with Introduction and Supercommentary, by Yitzhak Berger, Brown University, 2007.json": {
+   "blob": "ce578a1f82395ead632b889c48e43d33904ee54c",
+   "size": 147583
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Genesis/Hebrew/On Your Way.json": {
+   "blob": "88e14b2d72d109a7460cfcf11864d49e91f81979",
+   "size": 943859
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Genesis/English/Commentary on the Torah by Ramban Nachmanides. Translated and annotated by Charles B. Chavel. New York, Shilo Pub. House, 1971-1976.json": {
+   "blob": "61b6252ce99b663b8d8721ff6c402dc203bbcb82",
+   "size": 1708393
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Exodus/Hebrew/On Your Way.json": {
+   "gcs": true,
+   "generation": "1788233812749203",
+   "md5": "Qw6oE/kmaM4GabgUZQnKfQ==",
+   "size": 855105,
+   "exported": "2026-09-01",
+   "fallback": "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Exodus/Hebrew/On Your Way New.json"
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Exodus/Hebrew/On Your Way New.json": {
+   "blob": "cd7e800bf01cfb93e809cac8d82df01b290a4c8d",
+   "size": 855069
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Exodus/English/Commentary on the Torah by Ramban Nachmanides. Translated and annotated by Charles B. Chavel. New York, Shilo Pub. House, 1971-1976.json": {
+   "blob": "0e27c97228e3fe71c77c1b2e4bfe5c81568ec953",
+   "size": 1779980
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Leviticus/Hebrew/On Your Way New.json": {
+   "blob": "1a2c50fe9fd61cb0f462036324b6a01abadf264a",
+   "size": 628174
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Leviticus/English/Commentary on the Torah by Ramban Nachmanides. Translated and annotated by Charles B. Chavel. New York, Shilo Pub. House, 1971-1976.json": {
+   "blob": "b352a00c0aff0a9e3934f0dcf33a00679b95645a",
+   "size": 1610727
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Numbers/Hebrew/On Your Way New.json": {
+   "blob": "3203d1348caa02a6ad1d1cc372dabcfd30806b4f",
+   "size": 499859
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Numbers/English/Commentary on the Torah by Ramban Nachmanides. Translated and annotated by Charles B. Chavel. New York, Shilo Pub. House, 1971-1976.json": {
+   "blob": "ee51354958501c085e21de89445b94ba71891b58",
+   "size": 1234280
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Deuteronomy/Hebrew/On Your Way new.json": {
+   "blob": "a8879c0e67c26c60d332f1975ff7988277bd93b9",
+   "size": 585972
+  },
+  "json/Tanakh/Rishonim on Tanakh/Ramban/Torah/Ramban on Deuteronomy/English/Commentary on the Torah by Ramban Nachmanides. Translated and annotated by Charles B. Chavel. New York, Shilo Pub. House, 1971-1976.json": {
+   "blob": "c4c6422c9f7b0585c28ece92d332e5fe79ba849a",
+   "size": 1245598
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Genesis/Hebrew/daat.json": {
+   "blob": "55fdcf1afdd3e6d16150698be4d0cfca83436aff",
+   "size": 200557
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Genesis/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "9a5dc33b76d0a8736cabc4ab5252a24336a5288a",
+   "size": 290597
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Exodus/Hebrew/Rashbam on Torah -- Daat.json": {
+   "blob": "3df51bf3d51a250106ae030233f22af24530027f",
+   "size": 187795
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Exodus/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "f7c38e06899b01354053a1c57b02b5c74cf80bd5",
+   "size": 260100
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Leviticus/Hebrew/Rashbam on Leviticus - Daat.json": {
+   "blob": "eef6e3bda6c1dd3c423a5deff472915664372563",
+   "size": 70472
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Leviticus/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "d47f179adc9674c6375f6056f2455b1605b9a108",
+   "size": 105778
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Numbers/Hebrew/Rashbam on Numbers -- Daat.json": {
+   "blob": "920b62629beaf5f221d5828fe90d0579068c49c2",
+   "size": 82847
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Numbers/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "ea26e4973dc3ea0f2f31853bc390727d9aaecb4b",
+   "size": 110175
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Deuteronomy/Hebrew/Rashbam on Deuteronomy -- Daat.json": {
+   "blob": "d70425cd41abde387ff32bb6437191594888cf33",
+   "size": 95131
+  },
+  "json/Tanakh/Rishonim on Tanakh/Rashbam/Torah/Rashbam on Deuteronomy/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "055f62844427605f555686a2d8453a537a6775ce",
+   "size": 124255
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Genesis/Hebrew/On Your Way.json": {
+   "blob": "2c93d40deb06d1752483b675e6d65284796c56d7",
+   "size": 409998
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Genesis/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "8aec2fb44e9221fd1f5e884d098527c5ea88d1d6",
+   "size": 475292
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Exodus/Hebrew/On Your Way.json": {
+   "blob": "d07e58403ea0c3f8cf8ea264b7132927ff4801e4",
+   "size": 245258
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Exodus/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "a38daa0a1e9336a61f5eff3d3bde5546a0c41d1b",
+   "size": 351266
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Leviticus/Hebrew/On Your Way.json": {
+   "blob": "3b31eeed464f3ac9f9e682ae327d6537bf8b57d4",
+   "size": 137252
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Leviticus/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "9acd54d3a5cd53eea19296bb7afb9dcb4831a9d1",
+   "size": 209293
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Numbers/Hebrew/On Your Way.json": {
+   "blob": "b15c9603c637e56fa089cf1018671884829e12b5",
+   "size": 165446
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Numbers/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "7c75899bb7e83d741c686a155c3ca9c9cfa2b8e7",
+   "size": 228424
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Deuteronomy/Hebrew/On Your Way.json": {
+   "blob": "b037237acd4ee902efbd594b4ec253d213e617be",
+   "size": 191212
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Torah/Sforno on Deuteronomy/English/Eliyahu Munk, HaChut Hameshulash.json": {
+   "blob": "13543b4a19cd55222089075316a79e58618ed9f1",
+   "size": 270982
+  },
+  "json/Tanakh/Rishonim on Tanakh/Sforno/Writings/Sforno on Song of Songs/Hebrew/Chamesh Megillot, Warsaw 1875.json": {
+   "blob": "82fa96ba0703d25cb05c38b1269469d6b3a3d58f",
+   "size": 65307
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Joshua/Hebrew/On Your Way.json": {
+   "blob": "4cdf6d2be8e5c8a309f12380304120879e95f31d",
+   "size": 121638
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Judges/Hebrew/On Your Way.json": {
+   "blob": "fc5a1e06e09745e9671d516ee1ee1f6fda1de4dd",
+   "size": 159921
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on I Samuel/Hebrew/On Your Way.json": {
+   "blob": "7b5dac0bbc49e72a1705e4850b587e9a624b442e",
+   "size": 210528
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on II Samuel/Hebrew/On Your Way.json": {
+   "blob": "b1029ff5c4a2d35cdcdf290f5f82295678d42817",
+   "size": 195226
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on I Kings/Hebrew/On Your Way.json": {
+   "blob": "424d94db5af93b5b6d538efa649471ca82332642",
+   "size": 212864
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on II Kings/Hebrew/On Your Way.json": {
+   "blob": "978e4ca571e4dffd1c2aba0c324ef3f41bc250f6",
+   "size": 167908
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Isaiah/Hebrew/On Your Way.json": {
+   "blob": "6cbfb93ca24073ab7fe3e996db90c13a40aa0fc3",
+   "size": 575176
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Jeremiah/Hebrew/On Your Way.json": {
+   "blob": "bb223c468630c56ec075d0e1c7ca01936400117b",
+   "size": 487964
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Ezekiel/Hebrew/On Your Way.json": {
+   "blob": "719dfd471fcc192df7e6ff80e850534b74980e56",
+   "size": 546529
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Hosea/Hebrew/On Your Way.json": {
+   "blob": "fcacc3d3fd26c83e445870f4aca94134713192aa",
+   "size": 92531
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Joel/Hebrew/On Your Way.json": {
+   "blob": "2f402a451d899e14c76324891a36a014e64c3180",
+   "size": 27248
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Amos/Hebrew/On Your Way.json": {
+   "blob": "3e0a05f96cdf6acc96ff8bfc450d8b095c6a89dd",
+   "size": 65417
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Obadiah/Hebrew/On Your Way.json": {
+   "blob": "b667628867273ef6d45a8e5a2162d7552c937296",
+   "size": 12801
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Jonah/Hebrew/On Your Way.json": {
+   "blob": "ed625c875e20fb6c839c9dd5344661ae75f733a2",
+   "size": 20715
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Micah/Hebrew/On Your Way.json": {
+   "blob": "85d7c1d71b95eb49cd8ce099dd21f9febf36f1d9",
+   "size": 55577
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Nahum/Hebrew/On Your Way.json": {
+   "blob": "ce99b170dae4ed3a97f5698bdc70b1d987250b1d",
+   "size": 23658
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Habakkuk/Hebrew/On Your Way.json": {
+   "blob": "f011b446d2503eecb5f7451df0f2753b1d17cf74",
+   "size": 31154
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Zephaniah/Hebrew/On Your Way.json": {
+   "blob": "e53f2f24672a2f2d676e1560c35da09414e2dba7",
+   "size": 22789
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Haggai/Hebrew/On Your Way.json": {
+   "blob": "7bb3c1529a4d8cd2307d552c1cd226d2383c578f",
+   "size": 15383
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Zechariah/Hebrew/On Your Way.json": {
+   "blob": "17fee1145e0cf1cb316d7f230a7223d57ce575cd",
+   "size": 111555
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Prophets/Metzudat David on Malachi/Hebrew/On Your Way.json": {
+   "blob": "746e67a31cae4ec2075e2a563649a4afd70b374f",
+   "size": 33210
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Psalms/Hebrew/On Your Way.json": {
+   "blob": "a44f23cfc135d1181685f3b43a027a1defa35812",
+   "size": 598434
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Proverbs/Hebrew/On Your Way.json": {
+   "blob": "fc216d22815d34b2392460e0eb7dc117ac29e214",
+   "size": 271150
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Job/Hebrew/On Your Way.json": {
+   "blob": "6772961c77b116f2b60e221071b0dad17177c932",
+   "size": 384472
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Song of Songs/Hebrew/On Your Way.json": {
+   "blob": "7b9e5f7fba5d7c9b4cfa61b6de3961598f573ffa",
+   "size": 102840
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Ecclesiastes/Hebrew/On Your Way.json": {
+   "blob": "67f328a0b6fb93e81e0aad781bac5dec1c222823",
+   "size": 135360
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Daniel/Hebrew/On Your Way.json": {
+   "blob": "5e714ad81dbdf126b4fca867a9d967deb78575f4",
+   "size": 159544
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Ezra/Hebrew/On Your Way.json": {
+   "blob": "e1b7227c5da790d9852fcdc72942022c716fb097",
+   "size": 64155
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on Nehemiah/Hebrew/On Your Way.json": {
+   "blob": "0138d6265c5dc60814abc161cabbc78367717bf9",
+   "size": 103472
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on I Chronicles/Hebrew/On Your Way.json": {
+   "blob": "9fd8d1eda7e14859af265cb797e4a2a911336581",
+   "size": 178086
+  },
+  "json/Tanakh/Acharonim on Tanakh/Metzudat David/Writings/Metzudat David on II Chronicles/Hebrew/On Your Way.json": {
+   "blob": "83e23e6ee13fca1e32ca272480ebe9f0027d2571",
+   "size": 184057
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Bereshit Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "02948ff9073df54a696a7fc67f291e638239a231",
+   "size": 2431026
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Bereshit Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "4d27913f188555a456a717c2eb78105a054adfce",
+   "size": 2454075
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Shemot Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "e63a97045991a87283acc53a265fedfa3160f2b1",
+   "size": 1570958
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Shemot Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "ab2249cd16a13d8ca24067855ccc9a7e3182aa3b",
+   "size": 1277125
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Vayikra Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "b48e138322519eba7c177bdc63917a37cf4be084",
+   "size": 1175593
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Vayikra Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "b9f1ac998bdd19aca4228f796bbc8a170a2e9f99",
+   "size": 996294
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Bamidbar Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "dbeaa6ab0df20929be990763a121dd97be65e751",
+   "size": 2386013
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Bamidbar Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "3675e308e90d7cba91c50f56693335558d10302f",
+   "size": 1859059
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Devarim Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "5d6e68a1f7eba4043fa1d85ca7e635551eb5d101",
+   "size": 540660
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Devarim Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "161535ec852980e505ccf2c6b08f18dcc6de0451",
+   "size": 420683
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Shir HaShirim Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "937e2bc63d6b8dc87ad770cc1ed32a705ce1ef3f",
+   "size": 994640
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Shir HaShirim Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "9425419a308fc1634254e85e2a18d710482b22d1",
+   "size": 871859
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Ruth Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "f40bf9ed83a5fb4995b618a3a8dd1a221b92091a",
+   "size": 239482
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Ruth Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "6594f8678542c948a5f0d1008b54f4e1641f0bab",
+   "size": 222702
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Eikhah Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "bd0b419706bd26387ba04764efb4110931754e38",
+   "size": 659603
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Eikhah Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "80468de1f2d84f26792f824e8935676f87a68a33",
+   "size": 585475
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Kohelet Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "19075f952eb2948f56fc8b0f1731dcdaeb276c85",
+   "size": 836042
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Kohelet Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "ae2dccf08958aad495b38d9606189c0add40d704",
+   "size": 759085
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Esther Rabbah/Hebrew/Midrash Rabbah -- TE.json": {
+   "blob": "1b28daf911332f1efa4f52e95f2d2e7b2a1082de",
+   "size": 357234
+  },
+  "json/Midrash/Aggadah/Midrash Rabbah/Esther Rabbah/English/The Sefaria Midrash Rabbah, 2022.json": {
+   "blob": "c26f3690b31f756af63c6fb6c3688cc9dfcf2d23",
+   "size": 282714
+  }
+ }
+}

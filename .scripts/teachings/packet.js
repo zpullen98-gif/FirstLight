@@ -90,7 +90,11 @@ if (require.main === module) {
   const day = corpus.dayOf(plan, +dayArg);
   console.log(plan + ', day ' + day.d + ': ' + day.label + '\n');
   const packets = packetsFor(plan, +dayArg);
-  const text = packets.map(p => render(p, verse)).join('\n\n');
+  /* --verse on a day of several chapters prints only the chapters that hold
+     the verse (all of them when none does, so a miss is still reported) */
+  const hit = pk => !pk.missing && pk.sources.some(s => (s.segs || []).some(x => covers(x.base, verse)));
+  const shown = verse && packets.some(hit) ? packets.filter(hit) : packets;
+  const text = shown.map(p => render(p, verse)).join('\n\n');
   const words = (text.match(/\S+/g) || []).length;
   /* A day too long to read whole (the Qur'an's surah 2 alone runs to 13 MB)
      prints its index instead: every seg's label, per source, with its

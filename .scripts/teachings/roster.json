@@ -638,11 +638,12 @@
         ]
       },
       "sources": [
-        "Sefaria API v3 (https://www.sefaria.org/api/v3/texts/Rashi_on_Genesis.22.8): Torah in English by Rosenbaum and Silbermann (1929 to 1934, public domain) and Metsudah (2009, CC-BY); Prophets and Writings by the Judaica Press, trans. A. J. Rosenberg (CC-BY)"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the Torah in Hebrew with Rosenbaum and Silbermann (1929 to 1934, public domain); Joshua to 2 Kings and the Megillot with the Metsudah English (CC-BY); the rest with the Judaica Press English, A. J. Rosenberg (CC-BY)"
       ],
       "traps": [
-        "The commentary on Chronicles printed under his name is widely held not to be his: not covered.",
-        "For Ezra and Nehemiah check Sefaria's notes on the attribution.",
+        "The commentary on Chronicles printed under his name is not his: not covered (the packet holds it as an empty source that says why).",
+        "On Job his commentary stops at 40:20; what follows under his name is not his (the editor’s note says so): nothing after Job 40:20 is Rashi.",
+        "For Ezra and Nehemiah check Sefaria’s notes on the attribution.",
         "Hebrew is the primary evidence; name the English version quoted."
       ]
     },
@@ -682,10 +683,12 @@
         ]
       },
       "sources": [
-        "Sefaria API v3; the Torah English by Strickman and Silver is CC-BY-NC: evidence only, at most 40 words"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the Torah in Hebrew with Strickman and Silver’s English (CC-BY-NC: evidence only, at most 40 words); Isaiah with Friedlander (1873 to 1877, public domain); the Twelve, Psalms, Job, Daniel and the Megillot in Hebrew only (read it and gloss it yourself)"
       ],
       "traps": [
-        "The Proverbs commentary under his name is disputed: not covered."
+        "The Proverbs commentary under his name is disputed: not covered; nor Ezra or Nehemiah.",
+        "On Exodus the packet gives his long commentary: say so if the short one differs.",
+        "On the Song of Songs he gives three readings, marked (first reading), (second reading), (third reading): name which."
       ]
     },
     "radak": {
@@ -723,7 +726,7 @@
         ]
       },
       "sources": [
-        "Sefaria API v3"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: Genesis with Munk’s English (CC-BY); the Prophets in Hebrew only; Chronicles with Berger’s English (CC-BY-NC: evidence only, at most 40 words); Psalms in Hebrew, with Finch’s English (1919, public domain) on Psalms 1 to 10, 15 to 17, 19, 22 and 24 only"
       ],
       "traps": []
     },
@@ -742,7 +745,7 @@
         ]
       },
       "sources": [
-        "Sefaria API v3"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: Hebrew with Chavel’s English"
       ],
       "traps": []
     },
@@ -761,7 +764,7 @@
         ]
       },
       "sources": [
-        "Sefaria API v3"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: Hebrew with Munk’s English (CC-BY)"
       ],
       "traps": [
         "His commentary on the opening chapters of Genesis survives only in part."
@@ -770,7 +773,7 @@
     "sforno": {
       "name": "Sforno",
       "dates": "about 1475 to 1550",
-      "work": "Commentaries on the Torah and some Writings and Prophets",
+      "work": "Commentaries on the Torah and the Song of Songs",
       "lang": "Hebrew",
       "coverage": {
         "tanakh": [
@@ -779,19 +782,15 @@
           "Leviticus",
           "Numbers",
           "Deuteronomy",
-          "Psalm",
-          "Job",
-          "Song of Songs",
-          "Ecclesiastes",
-          "Jonah",
-          "Habakkuk",
-          "Zechariah"
+          "Song of Songs"
         ]
       },
       "sources": [
-        "Sefaria API v3"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the Torah with Munk’s English (CC-BY); the Song of Songs in Hebrew only"
       ],
-      "traps": []
+      "traps": [
+        "Sefaria holds nothing else of his (no Psalms, Job, Ecclesiastes, Jonah, Habakkuk or Zechariah): not covered."
+      ]
     },
     "metzudat-david": {
       "name": "Metzudat David",
@@ -825,10 +824,7 @@
           "Proverbs",
           "Job",
           "Song of Songs",
-          "Ruth",
-          "Lamentations",
           "Ecclesiastes",
-          "Esther",
           "Daniel",
           "Ezra",
           "Nehemiah",
@@ -837,9 +833,11 @@
         ]
       },
       "sources": [
-        "Sefaria API v3"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet, Hebrew only: read it and gloss it yourself"
       ],
-      "traps": []
+      "traps": [
+        "None on Ruth, Lamentations or Esther."
+      ]
     },
     "midrash": {
       "name": "the Midrash",
@@ -850,27 +848,36 @@
         "Leviticus Rabbah",
         "Numbers Rabbah",
         "Deuteronomy Rabbah",
-        "Midrash Tehillim",
+        "Song of Songs Rabbah",
         "Ruth Rabbah",
-        "Esther Rabbah",
         "Lamentations Rabbah",
         "Ecclesiastes Rabbah",
-        "Song of Songs Rabbah",
-        "the Mekhilta",
-        "Sifra",
-        "Sifre"
+        "Esther Rabbah"
       ],
       "dates": "late antiquity to the Middle Ages",
-      "work": "the classical Midrash collections, named as a work",
+      "work": "the Midrash Rabbah, named by collection and section",
       "lang": "Hebrew and Aramaic",
       "coverage": {
-        "tanakh": "all"
+        "tanakh": [
+          "Genesis",
+          "Exodus",
+          "Leviticus",
+          "Numbers",
+          "Deuteronomy",
+          "Song of Songs",
+          "Ruth",
+          "Lamentations",
+          "Ecclesiastes",
+          "Esther"
+        ]
       },
       "sources": [
-        "Sefaria API v3"
+        "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the ten Rabbot in Hebrew (Torat Emet) with The Sefaria Midrash Rabbah (2022, CC-BY), placed on a chapter by Sefaria’s own links"
       ],
       "traps": [
-        "Name the collection and its section (‘Genesis Rabbah 56’), never ‘the rabbis say’."
+        "Name the collection and its section as the packet gives it (‘Genesis Rabbah 56:4’), never ‘the rabbis say’.",
+        "Only the ten Rabbot are in the packets; Midrash Tehillim, the Mekhilta, Sifra and Sifre are not on the roster.",
+        "A paragraph printed on a run of verses is one comment on the run; a (see ...) line points to where it is printed."
       ],
       "aliases": [
         "Midrash Rabbah"
