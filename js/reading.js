@@ -401,12 +401,22 @@ function readTeachHTML(t) {
    The titles and glosses stay in FL_TRADITIONS (courseDays); the file holds
    the key line, its reference and the one sentence. */
 
+/* ?preview=teachings in the address: a course still being written, read from
+   js/texts/courses/_preview/<tr>.js, which git ignores. A listed course
+   always wins. */
+function readCoursePreview(tr) {
+  var q = '';
+  try { q = location.search || ''; } catch (e) { /* no location outside a page */ }
+  return !courseReady(tr) && courseDays(tr).length > 0 && /[?&]preview=teachings(&|$)/.test(q);
+}
 function readCourseLoad(tr) {
-  if (!courseReady(tr)) return Promise.reject(new Error('no-course'));
-  return FLTextLoad('courses', tr, FL_PLANS.courses[tr].v);
+  if (courseReady(tr)) return FLTextLoad('courses', tr, FL_PLANS.courses[tr].v);
+  if (readCoursePreview(tr)) return FLTextLoad('courses', '_preview/' + tr, 'p' + Date.now());
+  return Promise.reject(new Error('no-course'));
 }
 function readCourseFor(tr, d) {
-  var C = FL_TEXT.courses && FL_TEXT.courses[tr];
+  var all = FL_TEXT.courses || {};
+  var C = courseReady(tr) ? all[tr] : (readCoursePreview(tr) ? all['_preview/' + tr] : null);
   if (!C || !C.days) return null;
   var t = C.days[d - 1];
   return t && t.d === d ? t : null;

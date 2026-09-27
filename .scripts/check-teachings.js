@@ -84,7 +84,48 @@ Object.keys(ROSTER.people).forEach(id => {
 });
 ALL_NAMES.sort((a, b) => b.n.length - a.n.length);
 
-function planIds() { return C.PLANS.map(p => p.id); }
+function planIds() { return C.PLANS.map(p => p.id).concat(corpus.courseIds()); }
+/* A course's roster: everyone on the rosters of the works its lines may come
+   from (each line is then held to its own work's roster). */
+function rosterOf(planId) {
+  if (!corpus.isCourse(planId)) return ROSTER.plans[planId];
+  const out = { commentators: [], conduits: [], forbid: [], watch: [] };
+  corpus.courseWorks(planId).forEach(w => {
+    const P = ROSTER.plans[w];
+    Object.keys(out).forEach(k => (P[k] || []).forEach(x => { if (!out[k].includes(x)) out[k].push(x); }));
+  });
+  return out;
+}
+
+/* A course day's entry. Its label is the chamber entry's title; its key line
+   stands somewhere in the tradition's works (corpus.locateCourse); and the
+   rest is held to the brief exactly as a teaching of that work would be, on
+   the work's day that holds the line: that work's roster, coverage,
+   forbidden words and quotation rules. work and pd, when given (land-batch.js
+   writes them), must be where the line stands. */
+function checkCourseEntry(e, ctx) {
+  const errors = [], warns = [];
+  const planId = ctx.planId, at = 'day ' + e.d + ': ';
+  if (!(Number.isInteger(e.d) && e.d >= 1 && e.d <= ctx.nDays)) { errors.push(at + 'no such day (the course has ' + ctx.nDays + ')'); return { errors, warns }; }
+  const day = corpus.dayOf(planId, e.d);
+  if (e.label !== day.label) errors.push(at + 'label "' + e.label + '" is not the chamber’s entry now, "' + day.label + '" (the chamber changed)');
+  const key = String(e.key || '');
+  const loc = corpus.locateCourse(planId, e.d, key, e.ref);
+  if (!loc.exact) {
+    errors.push(at + 'the key line is not verbatim in ' + corpus.courseWorks(planId).join(', ') + ': ' + loc.problems.join('; '));
+    return { errors, warns };
+  }
+  if (e.work !== undefined && e.work !== loc.work) errors.push(at + 'work "' + e.work + '", but the line stands in ' + loc.work);
+  if (e.pd !== undefined && e.pd !== loc.pd) errors.push(at + 'pd ' + e.pd + ', but the line stands on ' + loc.work + ' day ' + loc.pd);
+  const r = corpus.rt();
+  const x = Object.assign({}, e, { d: loc.pd, label: r.planDayLabel(loc.work, loc.pd) });
+  const w = checkEntry(x, { planId: loc.work, nDays: r.planDays(loc.work) });
+  const pre = 'day ' + loc.pd + ': ', where = at + '(' + loc.work + ', day ' + loc.pd + ') ';
+  const re = m => (m.indexOf(pre) === 0 ? where + m.slice(pre.length) : at + m);
+  w.errors.forEach(m => errors.push(re(m)));
+  w.warns.forEach(m => warns.push(re(m)));
+  return { errors, warns };
+}
 function bookOf(planId, ref) {
   if (planId !== 'bible' && planId !== 'tanakh') return null;
   const m = String(ref).match(/^(.+) \d+:\d+$/);
@@ -105,6 +146,7 @@ function covers(id, planId, ref, s) {
 
 /* One entry. ctx: { planId, nDays }. Returns { errors, warns }. */
 function checkEntry(e, ctx) {
+  if (corpus.isCourse(ctx.planId)) return checkCourseEntry(e, ctx);
   const errors = [], warns = [];
   const planId = ctx.planId, P = ROSTER.plans[planId];
   const at = 'day ' + e.d + ': ';
@@ -242,9 +284,27 @@ function checkSet(set, opts) {
   if (opts.full && days.length !== nDays) errors.push(days.length + ' of ' + nDays + ' days: a set ships only complete');
   if (by['matthew-henry'] && by['matthew-henry'] > Math.floor(nDays / 10)) errors.push('Matthew Henry on ' + by['matthew-henry'] + ' days: at most one day in ten (' + Math.floor(nDays / 10) + ')');
   if (days.length >= 10) Object.keys(by).forEach(id => {
-    if (by[id] / days.length > 0.6 && (ROSTER.plans[planId].commentators.length > 1)) warns.push(ROSTER.people[id].name + ' holds ' + by[id] + ' of ' + days.length + ' days: is another commentator surviving and unused');
+    if (by[id] / days.length > 0.6 && (rosterOf(planId).commentators.length > 1)) warns.push(ROSTER.people[id].name + ' holds ' + by[id] + ' of ' + days.length + ' days: is another commentator surviving and unused');
   });
+  if (corpus.isCourse(planId)) courseSetWarns(planId, days).forEach(m => warns.push(m));
   return { errors, warns, n: days.length };
+}
+/* A course's lines, read against its works: a line that is already the key
+   verse of its work's own teaching that day gives the reader the same line
+   twice; and a course of several works drawn from one alone is noted. */
+function courseSetWarns(planId, days) {
+  const out = [], from = {};
+  days.forEach(e => {
+    const loc = corpus.locateCourse(planId, e.d, String(e.key || ''), e.ref);
+    if (!loc.exact) return;
+    from[loc.work] = (from[loc.work] || 0) + 1;
+    const own = readSet(loc.work);
+    const same = own && (own.days || []).find(t => corpus.norm(t.key || '').toLowerCase() === corpus.norm(e.key || '').toLowerCase());
+    if (same) out.push('day ' + e.d + ': the same line is the key verse of ' + loc.work + ' day ' + same.d + '; another line serves the reader better if one fits');
+  });
+  const works = corpus.courseWorks(planId);
+  if (works.length > 1 && days.length >= 10) works.forEach(w => { if (!from[w]) out.push('no line from ' + w + ' in ' + days.length + ' days: is every line from ' + Object.keys(from).join(' and ') + ' the best one'); });
+  return out;
 }
 
 function readSet(planId) {
@@ -420,6 +480,41 @@ function selftest() {
   else failures.push('the Gita colophon is not refused as a key verse: ' + JSON.stringify(rG && rG.problems));
   console.log('  ok   commentary and colophons are printed but never a key verse');
 
+  /* the tradition courses: a line from anywhere in the tradition's works,
+     held to its own work's rules on the work's day that holds it */
+  {
+    const cid = 'course-jewish';
+    const shab = corpus.dayOf(cid, 9);
+    const cgood = {
+      d: 9, label: shab.label, key: 'Remember the sabbath day, to keep it holy.', ref: 'Exodus 20:8', at: corpus.locateCourse(cid, 9, 'Remember the sabbath day, to keep it holy.').at,
+      s: 'Given at Sinai among the ten words, the command stands between the reverence due to the name and the honour due to parents; Rashi, on Exodus 20:8, reads remembering as keeping the day in mind all week, setting aside a fine thing for it.',
+      by: 'rashi', src: 'Rashi, Commentary on the Torah, Exodus 20:8, fixture text (1929)', batch: 'fixture'
+    };
+    const cset = list => ({ plan: cid, div: rt.planDef(cid).div, days: list });
+    const g0 = checkSet(cset([cgood]), {});
+    if (shab.label !== 'Shabbat' || g0.errors.length) failures.push('the good course fixture fails (' + shab.label + '): ' + g0.errors.join(' | '));
+    else held++;
+    const gitaLine = 'Thy business is with the action only, never with its fruits; so let not the fruit of action be thy motive, nor be thou to inaction attached.';
+    const ccases = [
+      ['a course label moved', e => { e.label = 'Sabbath'; }, /chamber/],
+      ['a line from another tradition', e => { e.key = gitaLine; e.ref = 'Bhagavad Gita 2.47'; }, /not verbatim in tanakh/],
+      ['a commentator off the line’s own roster', e => { e.by = 'wang-bi'; e.s = e.s.replace('Rashi, on', 'Wang Bi, on'); e.src = e.src.replace('Rashi', 'Wang Bi'); }, /not on the tanakh roster/],
+      ['a line placed in the wrong work', e => { e.work = 'bible'; }, /stands in tanakh/],
+      ['a line placed on the wrong day', e => { e.pd = 1; }, /stands on tanakh day/],
+      ['a course sentence breaking the work’s rule', e => { e.s = e.s.replace('the ten words', 'the ten words, which the Gospel fulfils'); }, /fulfils|forbidden/],
+    ];
+    ccases.forEach(([name, mut, re]) => {
+      const e = JSON.parse(JSON.stringify(cgood));
+      mut(e);
+      const r = checkSet(cset([e]), {});
+      if (r.errors.some(m => re.test(m))) held++;
+      else failures.push(name + ': expected ' + re + ', got ' + (r.errors.join(' | ') || 'no error'));
+    });
+    const moved = checkSet(Object.assign(cset([cgood]), { div: '0000000000' }), {});
+    if (moved.errors.some(m => /division/.test(m))) held++; else failures.push('a course written against another chamber passes');
+    console.log('  ok   the courses: a line from the tradition’s works only, on its own work’s roster and rules, against the chamber as it stands');
+  }
+
   console.log('\n  selftest: ' + held + ' assertions held' + (failures.length ? ', ' + failures.length + ' FAILED:\n    ' + failures.join('\n    ') : '.'));
   return failures.length ? 1 : 0;
 }
@@ -434,7 +529,7 @@ function main() {
   }
   if (!fs.existsSync(SET_DIR)) { console.log('  no teaching sets yet (.scripts/plans/teachings/ is empty)'); return; }
   let bad = 0;
-  const files = fs.readdirSync(SET_DIR).filter(f => /^[a-z]+\.json$/.test(f)).sort();
+  const files = fs.readdirSync(SET_DIR).filter(f => /^(course-)?[a-z]+\.json$/.test(f)).sort();
   if (!files.length) console.log('  no teaching sets yet');
   files.forEach(f => {
     const set = JSON.parse(fs.readFileSync(path.join(SET_DIR, f), 'utf8'));

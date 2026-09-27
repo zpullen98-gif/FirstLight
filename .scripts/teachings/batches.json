@@ -1,5 +1,5 @@
 {
-  "about": "Batch sizes per plan: batch n holds days (n-1)*size+1 to min(n*size, N). Lanes are day ranges of laneDays per proposing agent; a sensitive day goes to its own lane of two. The order is the plan's (section Order of work): Tao (the pilot is tao-01), Dhammapada, Gita and Upanishads, Analects, the courses, Qur'an, Zhuangzi, Rig Veda, Tanakh, Bible. verifyPerAgent: candidates per verifier, per plan (the Gita’s chapter packets run to 48,000 words).",
+  "about": "Batch sizes per plan: batch n holds days (n-1)*size+1 to min(n*size, N). Lanes are day ranges of laneDays per proposing agent; a sensitive day goes to its own lane of two. The order is the plan's (section Order of work): Tao (the pilot is tao-01), Dhammapada, Gita and Upanishads, Analects, the courses, Qur'an, Zhuangzi, Rig Veda, Tanakh, Bible. verifyPerAgent: candidates per verifier, per plan (the Gita’s chapter packets run to 48,000 words). The seven tradition courses (course-<tr>) share the course settings: one batch per course, three days to a proposer (a course day searches the tradition's works before it chooses), two candidates to a verifier.",
   "size": {
     "tao": 27,
     "pali": 26,
@@ -10,7 +10,8 @@
     "zhuangzi": 22,
     "veda": 32,
     "tanakh": 30,
-    "bible": 30
+    "bible": 30,
+    "course": 20
   },
   "laneDays": {
     "tao": 6,
@@ -22,12 +23,14 @@
     "zhuangzi": 6,
     "veda": 6,
     "tanakh": 5,
-    "bible": 5
+    "bible": 5,
+    "course": 3
   },
   "sensitiveLaneDays": 2,
   "verifyPerAgent": {
     "default": 3,
     "gita": 1,
-    "pali": 2
+    "pali": 2,
+    "course": 2
   }
 }

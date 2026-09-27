@@ -92,6 +92,12 @@ function main() {
   const add = entries.map(e => {
     const out = { d: e.d, label: rt.planDayLabel(plan, e.d) };
     lib.ENTRY_FIELDS.forEach(k => { if (e[k] !== undefined && e[k] !== null && e[k] !== '') out[k] = e[k]; });
+    /* a course day records where its line stands: the build ships it as the
+       line's loc, and the gate holds it to the place */
+    if (corpus.isCourse(plan)) {
+      const loc = corpus.locateCourse(plan, e.d, e.key || '', e.ref);
+      if (loc.exact) { out.work = loc.work; out.pd = loc.pd; }
+    }
     out.batch = B.name;
     out.id = e.id;
     return out;

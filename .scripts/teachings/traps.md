@@ -116,3 +116,11 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - Augustine numbers the Psalms as the Greek and Latin Bibles do: his Psalm 22 is the WEB's 23.
 - The WEB prints "Yahweh": a key verse keeps it as printed.
 - On an Old Testament day a Father's Christian reading is his reading ("Augustine, City of God 16.32, reads it as"), never the plain sense and never a claim about Jews or the Jewish reading.
+
+## courses
+
+- A word match is not a line about the entry: read the line in its passage (day.js <work> <work day>) before choosing it, and choose it for what it says there.
+- The chamber’s title and words are the app’s own gloss, printed above the line: never a key line, never quoted as scripture. Five of the chambers’ epigraphs are in other translations and are not in the app’s text at all.
+- The commentator is the line’s own work’s: a Rig Veda line takes Sāyaṇa or Yāska, never Śaṅkara; a Tanakh line never a Church Father; each work’s coverage, conduits and forbidden words hold.
+- A festival or practice the texts never name (a festival of lamps, a later feast, a day of remembrance): the line speaks to its substance, and the sentence says only what the line says in its place, never that the festival is in the text.
+- The same words can stand in two places (a Rig Veda refrain, a line two Psalms share, a verse the Qur’an repeats): verse.js lists them under also; pass --ref to choose, and read the commentary on the place chosen.

@@ -1261,5 +1261,32 @@
       "licence": "public domain",
       "use": "name the Father whose words it gathers, in the form ‘X, as given in the Catena Aurea’"
     }
+  },
+  "coursesAbout": "The seven tradition courses (#/hall/course-<tr>): the works a course day may take its key line from, in the order the tools search them. A line is read by the commentators on its own work's roster.",
+  "courses": {
+    "hindu": [
+      "veda",
+      "upanishads",
+      "gita"
+    ],
+    "jewish": [
+      "tanakh"
+    ],
+    "buddhist": [
+      "pali"
+    ],
+    "confucian": [
+      "analects"
+    ],
+    "taoist": [
+      "tao",
+      "zhuangzi"
+    ],
+    "christian": [
+      "bible"
+    ],
+    "muslim": [
+      "quran"
+    ]
   }
 }

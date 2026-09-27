@@ -32,6 +32,15 @@ const RULES = [
   '10. THE STANDARD. A confident false attribution is worse than naming a different commentator. A reading not found in a source you opened does not ship. When in doubt, choose the reading you can show in the commentator’s own words.'
 ];
 
+/* A tradition course: rules 2 and 8 speak of the key line's place in its
+   work, and of how the line is chosen for the chamber's entry; the rest bind
+   as they stand. */
+const COURSE_RULES = {
+  2: '2. PLAIN SENSE (before the semicolon), ON A COURSE DAY. A short clause of CONTEXT for the key line, because the chamber’s entry and the line are printed just above the sentence: where the line stands in its own work (which book, hymn, surah, chapter or section; who speaks, to whom; what the passage around it is doing), in that work’s own terms. It NEVER repeats the line’s own words (the gate fails four words in a row taken from it) and never paraphrases it. It does NOT say the line is about the day’s concept, practice or festival unless the text itself names it there (the Sabbath in Exodus 20, the fast in Qur’an 2:183 to 2:185): the page sets the entry above the line and makes the link. Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim. It never names the commentator.',
+  8: '8. THE KEY LINE, ON A COURSE DAY. Found with find.js anywhere in the tradition’s works the brief lists, read in its passage with day.js <work> <work day>, and placed with verse.js <course> <day> "<line>", which must print "ok": true (copy its ref and at unchanged; it also prints the work, the work’s day and the packet command for the commentary on the line). Choose the line that bears most directly on the day’s chamber entry: where a text of the tradition names the concept, the practice or the festival, or tells its story, that text first; where none does, a line whose own words speak to the entry’s substance (light and darkness for a festival of lamps), never a line that merely shares a word with it. The rest of rule 8 binds: inside ONE unit, one to three whole sentences, beginning where a sentence begins and ending in . ? or !; 4 to 60 words; no dash; only straight quotes curled and wrapped lines joined; never a note, an argument, a commentary, a chant or a colophon. No two days of a course share a line, and a line that is already the key verse of its work’s own daily teaching is avoided where another serves as well (the gate warns).'
+};
+const COURSE_VOICE = 'This is a tradition course: each day is one entry of the tradition’s chamber in the Library (its concepts, then its practices, then its festivals), and its teaching is ONE LINE from the tradition’s own works in the app with ONE SENTENCE on how a classical commentator on that line reads it. The chamber’s title and words stand just above the line on the reader’s page. The commentator is chosen from the roster of the line’s OWN work (a Rig Veda line takes Sāyaṇa or Yāska; a Gita or Upanishad line Śaṅkara, Rāmānuja or Madhva), with that work’s coverage, conduits and forbidden words, exactly as the work’s own daily teachings are written; the brief below gives each work’s voice. Across the course, draw on every work the tradition has in the app where a line of it serves the entry best.';
+
 const VOICE = {
   tao: 'The Tao Te Ching is read here in James Legge’s translation (SBE 39, 1891), one chapter a day. Its authorship is traditional: say "the chapter" or "the text", never "Laozi says". The two roster commentaries are the oldest that survive: Wang Bi (third century), who reads the text through non-being (無) as the root of all that is, and the Heshang Gong commentary (Han dynasty or later, author unknown), which reads it as counsel for governing the self and the state and for nourishing life. Aim for a real mix across the batch: roughly half the days name each, choosing on each day the one whose comment on that chapter is the more substantial and the more clearly tied to the key verse.',
   pali: 'The Dhammapada is read in Max Müller’s translation (SBE 10, 1881), a chapter a day. Its one roster commentator is the Theravada commentary (the Dhammapada-atthakatha), and the packet gives it three ways: its Pali explanation of each verse (dhp-commentary, starting Tattha: read it and gloss it yourself), its story framing the verse in Burlingame’s English (burlingame: the story is part of the commentary, so a reading from it is the commentary’s, located by Burlingame’s book and story, for example I.4, and never a hedge), and Müller’s notes (a conduit: a reading known only through them is a hedge). Prefer the lesson the commentary itself draws from the verse. The src leads with the display name, then the place: "The Theravāda commentary, Dhammapada-aṭṭhakathā I.4 (on verse 5), trans. Burlingame, Buddhist Legends (1921)" or "..., the Pali, Chaṭṭha Saṅgāyana edition (VRI)". Verse pairs are cited as Müller prints them (Dhammapada 58 to 59). The Buddha is "the Buddha" or "the Blessed One" only as the text names him.',
@@ -48,7 +57,23 @@ const VOICE = {
 function trapsFor(plan) {
   const md = fs.readFileSync(path.join(__dirname, 'traps.md'), 'utf8');
   const sec = name => { const m = md.split(/^## /m).find(s => s.split('\n')[0].trim() === name); return m ? m.split('\n').slice(1).join('\n').trim() : ''; };
+  if (corpus.isCourse(plan)) {
+    const works = {};
+    corpus.courseWorks(plan).forEach(w => { works[w] = sec(w); });
+    return { all: sec('all'), course: sec('courses'), works };
+  }
   return { all: sec('all'), plan: sec(plan) };
+}
+
+/* A course's roster: the rosters of its works, merged; each line is held to
+   its own work's (the gate reads it there). */
+function courseRoster(plan) {
+  const out = { commentators: [], conduits: [], forbid: [], watch: [] };
+  corpus.courseWorks(plan).forEach(w => {
+    const P = ROSTER.plans[w];
+    Object.keys(out).forEach(k => (P[k] || []).forEach(x => { if (!out[k].includes(x)) out[k].push(x); }));
+  });
+  return out;
 }
 
 function main() {
@@ -57,8 +82,16 @@ function main() {
   if (!plan || !n) { console.error('usage: node .scripts/teachings/prep-batch.js <plan> <n> [--days a,b,c] [--name dry]'); process.exit(1); }
   const flag = k => { const i = args.indexOf(k); return i > -1 ? args[i + 1] : null; };
   const dryDays = flag('--days'), dryName = flag('--name');
-  const P = ROSTER.plans[plan];
+  const course = corpus.isCourse(plan);
+  const works = course ? corpus.courseWorks(plan) : [plan];
+  const P = course ? courseRoster(plan) : ROSTER.plans[plan];
   if (!P) { console.error('no roster for ' + plan); process.exit(1); }
+  /* a course reads the packets of every work it may draw a line from */
+  if (course) {
+    const { CACHE } = require('./fetch-commentary');
+    const empty = works.filter(w => { const d = path.join(CACHE, w); return !fs.existsSync(d) || !fs.readdirSync(d).some(f => /\.json$/.test(f)); });
+    if (empty.length) { console.error('refused: no packets for ' + empty.join(', ') + ' (run node .scripts/teachings/fetch-commentary.js <work>)'); process.exit(1); }
+  }
 
   const rt = corpus.rt();
   const div = rt.planDef(plan).div;
@@ -88,19 +121,33 @@ function main() {
     days: days.map(d => ({ d, label: rt.planDayLabel(plan, d), id: { primary: lib.candId(plan, n, d, 'p').replace(lib.batchName(plan, n), name), standby: lib.candId(plan, n, d, 's').replace(lib.batchName(plan, n), name) } })),
     lanes,
     sensitive: lib.sensitiveDays(plan, days),
-    rules: RULES,
-    voice: VOICE[plan] || '',
+    rules: course ? RULES.map((r, i) => COURSE_RULES[i + 1] || r) : RULES,
+    voice: course ? { course: COURSE_VOICE, works: works.reduce((o, w) => { o[w] = VOICE[w] || ''; return o; }, {}) } : (VOICE[plan] || ''),
+    course: course ? {
+      tradition: corpus.courseTr(plan), works,
+      entries: days.map(d => { const e = corpus.dayOf(plan, d); return { d, sec: e.sec, title: e.label, when: e.when || '', gloss: e.gloss }; })
+    } : undefined,
     roster: {
       commentators: P.commentators.map(id => {
         const p = ROSTER.people[id];
-        return { id, name: p.name, alsoName: p.alsoName || '', school: p.school || '', dates: p.dates, work: p.work, lang: p.lang, coverage: p.coverage[plan], sources: p.sources, traps: p.traps };
+        /* on a course, which of its works he may be named on, and his coverage there */
+        const cov = course ? works.filter(w => ROSTER.plans[w].commentators.includes(id)).reduce((o, w) => { o[w] = p.coverage[w]; return o; }, {}) : p.coverage[plan];
+        return { id, name: p.name, alsoName: p.alsoName || '', school: p.school || '', dates: p.dates, work: p.work, lang: p.lang, coverage: cov, sources: p.sources, traps: p.traps };
       }),
       conduits: P.conduits.map(id => Object.assign({ id }, ROSTER.conduits[id]))
     },
     forbid: P.forbid, watch: P.watch,
     traps: trapsFor(plan),
     countsSoFar: counts,
-    tools: {
+    tools: course ? {
+      day: 'node ' + root + '/.scripts/teachings/day.js ' + plan + ' <day>   (the chamber entry and the works a line may come from)',
+      find: 'node ' + root + '/.scripts/teachings/find.js ' + plan + ' "<words>"   (every verse of the works holding all the words; "word*" for a word’s start; "/regex/")',
+      passage: 'node ' + root + '/.scripts/teachings/day.js <work> <work day>   (the passage around a line, unit by unit)',
+      verse: 'node ' + root + '/.scripts/teachings/verse.js ' + plan + ' <day> "<key line>" [--ref "<ref>"]',
+      packet: 'the packet command verse.js prints for the line: node ' + root + '/.scripts/teachings/packet.js <work> <work day> --verse <n>',
+      status: 'node ' + root + '/.scripts/teachings/status.js ' + plan + ' ' + n + (dryName ? ' --name ' + dryName : ''),
+      gate: 'node ' + root + '/.scripts/check-teachings.js --candidate ' + path.join(dir, 'batch.json').replace(/\\/g, '/')
+    } : {
       day: 'node ' + root + '/.scripts/teachings/day.js ' + plan + ' <day>',
       verse: 'node ' + root + '/.scripts/teachings/verse.js ' + plan + ' <day> "<key verse>"',
       packet: 'node ' + root + '/.scripts/teachings/packet.js ' + plan + ' <day>',
@@ -109,7 +156,7 @@ function main() {
     },
     evidence: {
       rule: 'The commentator’s own words, verbatim from a source you actually opened, 12 to 120 characters for Chinese or 12 to 120 words otherwise, in the original language where you read it so, with your English gloss. At most 40 words from any copyrighted English. A packet source is cited with via "packet" and the packet’s url; anything else you opened with via "webfetch" and its exact url. The operator re-finds these words by machine (recheck-evidence.js) before anything lands.',
-      packetSources: 'node ' + root + '/.scripts/teachings/packet.js ' + plan + ' <day>'
+      packetSources: course ? 'the packet command verse.js prints for the line (packet.js <work> <work day> --verse <n>)' : 'node ' + root + '/.scripts/teachings/packet.js ' + plan + ' <day>'
     },
     paths: {
       dir: dir.replace(/\\/g, '/'),

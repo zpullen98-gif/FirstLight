@@ -35,8 +35,16 @@ function batchName(plan, n) { return plan + '-' + nn(n); }
 function batchDir(plan, n) { return path.join(WORK, batchName(plan, n)); }
 function candId(plan, n, d, role) { return batchName(plan, n) + '-d' + String(d).padStart(3, '0') + '-' + role; }
 
+/* A batches.json setting for a plan; the seven courses share the "course" one. */
+function cfgOf(key, plan) {
+  const t = CFG[key];
+  if (!t || typeof t !== 'object') return t;
+  if (t[plan] !== undefined) return t[plan];
+  return corpus.isCourse(plan) ? t.course : undefined;
+}
+
 function batchDays(plan, n) {
-  const size = CFG.size[plan];
+  const size = cfgOf('size', plan);
   if (!size) throw new Error('no batch size for ' + plan);
   const N = corpus.rt().planDays(plan);
   const a = (n - 1) * size + 1, b = Math.min(n * size, N);
@@ -68,7 +76,7 @@ function sensitiveDays(plan, days) {
    days two to an agent in their own lanes. */
 function lanesOf(plan, days) {
   const sens = new Set(sensitiveDays(plan, days));
-  const per = CFG.laneDays[plan] || 6, sPer = CFG.sensitiveLaneDays || 2;
+  const per = cfgOf('laneDays', plan) || 6, sPer = CFG.sensitiveLaneDays || 2;
   const lanes = [];
   const ordinary = days.filter(d => !sens.has(d)), sensitive = days.filter(d => sens.has(d));
   for (let i = 0; i < ordinary.length; i += per) lanes.push({ key: 'L' + (lanes.length + 1), days: ordinary.slice(i, i + per), sensitive: false });
@@ -205,4 +213,4 @@ function entryOf(final) {
   return e;
 }
 
-module.exports = { ROOT, WORK, CFG, SENSITIVE, PASS, lastCritic, nn, batchName, batchDir, candId, batchDays, batchRef, idOf, sensitiveDays, lanesOf, readJSON, readDirJSON, proposals, passes, stateOf, roundKey, nextRound, status, entryOf, ENTRY_FIELDS };
+module.exports = { ROOT, WORK, CFG, cfgOf, SENSITIVE, PASS, lastCritic, nn, batchName, batchDir, candId, batchDays, batchRef, idOf, sensitiveDays, lanesOf, readJSON, readDirJSON, proposals, passes, stateOf, roundKey, nextRound, status, entryOf, ENTRY_FIELDS };
