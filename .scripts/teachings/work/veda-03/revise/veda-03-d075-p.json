@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d075-p",
+ "d": 75,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "What was there to be blamed in thee, O Visnu, when thou declaredst, I am Sipivista? Hide not this form from us, nor keep it secret, since thou didst wear another shape in battle.",
+ "ref": "Rig Veda 7.100.6",
+ "at": [
+  615,
+  6
+ ],
+ "s": "Near the close of a hymn to Visnu that lauds his strides and his name, the verse returns to that name; Yāska, Nirukta 5.7 to 5.8, reads the name either as disparaging, with Aupamanyava, or as a name of praise, Visnu enveloped in rays.",
+ "by": "yaska",
+ "by2": "",
+ "hedge": "",
+ "src": "Yāska, Nirukta 5.7 to 5.8, Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A7%E0%A5%A6%E0%A5%A6&oldid=214349",
+    "edition": "Nirukta 5.7 to 5.8 as quoted verbatim, and marked (निरु. ५, ७-८), in Sāyaṇa’s Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ७.१००, revision 214349",
+    "locator": "commentary on 7.100.6, the quotation of the Nirukta",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/download/nighantuniruktao00yask/nighantuniruktao00yask_djvu.txt",
+    "edition": "Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask (OCR), read in the build’s cached copy of this file",
+    "locator": "translation, end of section 5.7 and section 5.8 (Sarup’s note: vii. 100. 6), p. 78; exegetical note on 5.7, p. 241",
+    "via": "webfetch"
+   }
+  ],
+  "words": "शिपिविष्टो विष्णुरिति विष्णोर्द्वे नामनी भवतः । कुत्सितार्थीयं पूर्वं भवतीत्यौपमन्यवः । किं ते विष्णो प्रख्यातमेतद्भवत्यप्रख्यापनीयं … अपि वा प्रशंसानामैवाभिप्रेतं स्यात् । किं ते विष्णो प्रख्यातमेतद्भवति प्रख्यापनीयं यदुत प्रब्रूषे शिपिविष्टोऽस्मीति प्रतिपन्नरश्मिः । शिपयोऽत्र रश्मय उच्यन्ते तैराविष्टो भवति ।",
+  "lang": "Sanskrit",
+  "gloss": "Śipiviṣṭa and Viṣṇu are two names of Viṣṇu. ‘The former has a disparaging sense,’ say the Aupamanyavas. (So read:) O Viṣṇu, what is this of yours that is proclaimed, a thing not fit to be proclaimed … Or else it may be meant simply as a name of praise: O Viṣṇu, what is this of yours that is proclaimed, fit to be proclaimed, that you declare ‘I am Śipiviṣṭa’, one whose rays are displayed. Śipayaḥ here means rays; he is entered, enveloped, by them.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource); Sarup’s translation public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds. Sarup’s Nirukta (the build’s cached archive.org djvu text of nighantuniruktao00yask) prints, closing section 5.7, ‘Sipivista and Visnu are two synonyms of Visnu. The former has a contemptuous meaning, says Aupamanyava’, then in 5.8 the verse with his note ‘vii. 100. 6’ and Yāska’s gloss of it two ways: the contemptuous sense, then ‘Or else ... a synonym of praise ... I am enveloped with rays ... Rays are here called sipayah, i.e. he is enveloped by them’. His exegetical note (p. 241) makes the first sentence Yāska’s own and the second Aupamanyava’s, so the disparaging sense is attributed to Aupamanyava and the alternative to Yāska. The same Sanskrit stands verbatim in the packet, quoted in Sāyaṇa’s commentary and marked (निरु. ५, ७-८), so the packet’s ‘nothing on 7.100.6’ for Yāska is a miss of Sarup’s list. Chose Yāska as the single reading: Sāyaṇa takes his reading of the name from this very Nirukta passage, so the two do not genuinely differ on the name (rule 3), and a two-commentator sentence naming their real difference (Sāyaṇa’s assumed form helping Vasiṣṭha, Yāska’s saṃyataraśmiḥ, rays drawn in) would not fit clearly in 60 words. The disparaging sense is stated plainly, without its detail. Plain sense: 7.100.3 and 4 give the strides, 7.100.5 lauds the name Sipivista, 7.100.6 is the sixth of seven verses; no four-word run from the key. Verb ‘reads’ (Yāska glosses the verse both ways and does not choose). recheck (packet) FOUND for every piece; verse.js ok (7.100.6 at [615,6]); entry-check ok (43 words; by ‘yaska’, roster name Yāska)."
+}

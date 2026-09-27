@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d086-p",
+ "d": 86,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "We have drunk Soma and become immortal; we have attained the light, the Gods discovered.",
+ "ref": "Rig Veda 8.48.3",
+ "at": [
+  667,
+  3
+ ],
+ "s": "In a hymn on Soma at work within the drinker’s heart and limbs, the singers speak after the draught goes down; Sāyaṇa, commentary on 8.48.3, takes the deathlessness as hoped for from drinking one who is himself deathless, and the light as shining heaven.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.48.3, sa.wikisource ऋग्वेदः सूक्तं ८.४८, revision 202962 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AA%E0%A5%AE&oldid=202962",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.४८, revision 202962",
+    "locator": "commentary on 8.48.3",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n104/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "Rig Veda 8.48.3 (app numbering)",
+    "via": "packet"
+   }
+  ],
+  "words": "हे अमृत अमरण सोम त्वाम् \"अपाम पानं करवाम। कुर्मः। ततः \"अमृताः \"अभूम भवेम । यस्मात्त्वममृतः अतस्तव पानाद्वयमप्यमृताः स्याम । पश्चात् \"ज्योतिः द्योतमानं स्वर्गम्",
+  "lang": "Sanskrit",
+  "gloss": "O immortal, deathless Soma, we drink you (apāma glossed as making the drink); then may we become immortal (abhūma glossed bhavema). Since you are immortal, by drinking you we too would be immortal. Afterwards we went to the light, the shining heaven.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 8.48.3 at [667,3]); it is the first of the verse’s sentences and ends at its full stop. The packet warns Sāyaṇa counts 15 verses to Griffith’s 14, but the Sanskrit labelled 8.48.3 (apāma somam amṛtā abhūma aganma jyotiḥ) is this verse, so the numbers agree here. Sāyaṇa glosses abhūma with the optative bhavema and syāma and grounds it in Soma’s own deathlessness (yasmāt tvam amṛtaḥ atas tava pānād vayam apy amṛtāḥ syāma), and jyotiḥ as dyotamānaṃ svargam: the reading carries this without drift. Plain sense faithful: the hymn speaks of Soma absorbed into the heart (v4) and knitting the joints (v5). Revision year 2019 confirmed. Entry-check ok."
+}

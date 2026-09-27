@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d085-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AA%E0%A5%A8&oldid=208930",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 85 --verse 8.42.3 (revision 208930): the Sanskrit is the ship verse (sutarmāṇam adhi nāvaṃ ruhema), matching the app; Sāyaṇa glosses the ship as yajñarūpā and closes duḥkhasāgarataraṇe hetutvād yajño naur ity atra vyapadiśyate, which carries “the ship as the sacrifice, the means of crossing the sea of suffering” exactly. Wilson’s translation says only “safe-bearing vessel”, so the reading is Sāyaṇa’s, not the translator’s. Evidence words are a verbatim substring of the packet. Plain sense checked against day.js: 8.42.1 to 3 are to Varuna (8.42.1 has the Asura who propped the heavens), 8.42.4 to 6 turn to the Asvins, and 8.42.3 asks Varuna to sharpen the song, strength and insight of the one who strives. No comparison, no school needed. verse.js ok (8.42.3 at [661,3]); entry-check ok (scratch/rr2-d085-p.json).",
+ "better": ""
+}

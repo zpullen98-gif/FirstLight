@@ -1,0 +1,253 @@
+{
+ "lane": "L5",
+ "plan": "veda",
+ "batch": "veda-03",
+ "days": [
+  {
+   "d": 89,
+   "primary": {
+    "id": "veda-03-d089-p",
+    "key": "All that is bare he covers o’er, all that is sick he medicines; The blind man sees, the cripple walks.",
+    "ref": "Rig Veda 8.68.2",
+    "at": [
+     687,
+     2
+    ],
+    "s": "Early in a short hymn praising Soma’s powers, before prayers that he drive off enmity, the verse lists what he mends; Sāyaṇa, on 8.68.2, reads the covering as clothing barren things with fruit, and the healing as wrought through the sacrifice and as a medicine.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.68.2 (standard 8.79.2), sa.wikisource ऋग्वेदः सूक्तं ८.७९, revision 202004 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "यन्नग्नम् अस्ति तत् अभ्यूर्णोति आच्छादयति । यन्नग्नमिव विफलं वर्तते तदाच्छादयति फलेन । अथवा वस्त्रं जनयन्नाच्छादयति । तथा यत् तुरम् आतुरं रुग्णं विश्वं तत् भिषक्ति भिषज्यति। यज्ञद्वारा स्वर्गसाधनेनौषधरूपेण च शरीरसिद्धिसाधनश्च",
+     "gloss": "Whatever is naked, that he covers: whatever stands fruitless, as if naked, he covers with fruit; or, bringing forth cloth, he covers it. Likewise whatever is sick, all of it he heals: through the sacrifice, as the means to heaven, and in the form of a medicine, as the means to the body’s well-being."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d089-s",
+    "key": "Indra, through hope in thee alone even this sickle do I grasp. Fill my hand, Maghavan, with all that it can hold of barley cut or gathered up.",
+    "ref": "Rig Veda 8.67.10",
+    "at": [
+     686,
+     10
+    ],
+    "s": "Closing a hymn that asks Indra for cattle, gold and ornaments, the singer turns to the harvest; Sāyaṇa, on 8.67.10, reads the hope as trust that Indra makes the field rich in barley, and the plea as asking to be spared the toil of reaping.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.67.10 (standard 8.78.10), sa.wikisource ऋग्वेदः सूक्तं ८.७८, revision 193013 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "तवेत् तवैव आशसा आशंसनेन त्वमस्मदीयं क्षेत्रं यवसमृद्धं करोषीत्याशंसनेन हस्ते दात्रं चन लवनसाधनं दात्रमपि आ ददे स्वीकरोमि । किमनेन प्रयासेन । दिनस्य वा पूर्वमेव छिन्नस्य वा यवस्य",
+     "gloss": "Through hope in thee alone, the hope that thou makest our field rich in barley, I take in hand even the sickle, the tool of reaping. What need of this toil? [Fill it] with barley already cut."
+    }
+   }
+  },
+  {
+   "d": 90,
+   "primary": {
+    "id": "veda-03-d090-p",
+    "key": "About the holy Law toils Savitar the God the horn of holy Law hath he spread far and wide. The holy Law hath quelled even mighty men of war.",
+    "ref": "Rig Veda 8.75.5",
+    "at": [
+     694,
+     5
+    ],
+    "s": "In a hymn begging the Asvins to keep their friendship, the last verse turns to Savitar; Sāyaṇa, on 8.75.5, reads ‘holy Law’ as truth, by which Savitar quiets his rays at evening, and which by itself overcomes even an enemy’s great strength.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.75.5 (standard 8.86.5), sa.wikisource ऋग्वेदः सूक्तं ८.८६, revision 209020 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "ऋषिः सत्यप्रशंसां करोति । हे अश्विनौ देवः द्योतमानः सविता सर्वस्य स्वस्वकर्मणि प्रेरक एतन्नामको देवः ऋतेन सत्येन शमायते सायंकाले स्वकिरणसमूहं शमयति । … पृतन्यतः पृतनामिच्छतः संयुयुत्सोः शत्रोः महि चित् महदपि बलम् ऋतं सत्यं स्वयमेवाभिभवति । इत्थमृतं प्रशस्तमभूत् ।",
+     "gloss": "The seer makes praise of truth. O Aśvins, the god Savitar, the shining one, who impels all each to his own work, by ṛta, by truth, quiets at evening the mass of his rays … Truth itself by its own power overcomes even the great strength of a foe who seeks battle. Thus ṛta was praised."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d090-s",
+    "key": "DOWN to the stream a maiden came, and found the Soma by the way. Bearing it to her home she said, For Indra will I press thee out, for Sakra will I press thee out.",
+    "ref": "Rig Veda 8.80.1",
+    "at": [
+     699,
+     1
+    ],
+    "s": "A hymn in which a young woman offers Indra the juice, and later asks three things of him, opens here; Sāyaṇa, on 8.80.1, following the Śāṭyāyana Brāhmaṇa, takes her as Apālā, pressing the Soma with her own teeth, a sound Indra took for the stones.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.80.1 (standard 8.91.1), sa.wikisource ऋग्वेदः सूक्तं ८.९१, revision 262080 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "कन्या अपाला नाम स्त्री स्रुता स्रुतौ मार्गे सोममपि अविदत् अलभत । … हे सोम त्वा त्वाम् इन्द्राय सुनवै मम दन्तैरेवाभिषुणवै । … सोमभक्षणकाले दन्तध्वनिं ग्रावध्वनिमिति मत्वेन्द्रस्तामगमत् । एषोऽर्थः शाट्यायनब्राह्मणे स्पष्टमभिहितः",
+     "gloss": "The maiden, a woman named Apālā, found Soma on the path … O Soma, I will press thee for Indra, press thee with my own teeth … At the time of her eating the Soma, Indra, taking the sound of her teeth for the sound of the pressing-stones, came to her. This sense is stated plainly in the Śāṭyāyana Brāhmaṇa."
+    }
+   }
+  },
+  {
+   "d": 91,
+   "primary": {
+    "id": "veda-03-d091-p",
+    "key": "One and another say, There is no Indra. Who hath beheld him? Whom then shall we honour?",
+    "ref": "Rig Veda 8.89.3",
+    "at": [
+     708,
+     3
+    ],
+    "s": "Urging a truthful hymn, the singer reports a doubt that Indra himself answers next; Sāyaṇa, on 8.89.3, takes the doubter as the seer Nema of the Bhṛgu line, for whom, since no one has seen Indra, talk of him is mere words.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.89.3 (standard 8.100.3), sa.wikisource ऋग्वेदः सूक्तं ८.१००, revision 402088 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "नेम उ भार्गवो नेम एव इन्द्रः नाम त्वः कश्चित् न अस्ति इति आह । तत्र कारणं दर्शयति । क ईम् एनमिन्द्रं ददर्श अद्राक्षीत्। न कोऽप्यपश्यत् । अतः कं वयम् अभि ष्टवाम अभिष्टुमः । तस्मादिन्द्रो नाम कश्चिद्विद्यत इति वादमात्रं न तु तत्सत्यमित्यर्थः",
+     "gloss": "Nema, the Bhārgava, Nema himself, says: there is no one called Indra. He gives the reason: who has seen him? No one has seen him. So whom shall we praise? Hence the sense: that someone called Indra exists is mere talk, and not true."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d091-s",
+    "key": "When, uttering words which no one comprehended, Vak, Queen of Gods, the Gladdener, was seated, The heaven’s four regions drew forth drink and vigour: now whither hath her noblest portion vanished?",
+    "ref": "Rig Veda 8.89.10",
+    "at": [
+     708,
+     10
+    ],
+    "s": "Near the close of a hymn to Indra, two verses turn to the goddess Vak; Yāska, Nirukta 11.28, takes the highest part of her that vanishes as either what goes to the earth or what the rays of the sun carry away.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 11.28, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "all the four (juarters milked food and waters. But where did her best portion go?* It may be that which goes to the earth or that which is taken away by the rays of the sun.",
+     "gloss": "All the four quarters [OCR: “(juarters”] milked food and waters. But where did her best portion go? It may be that which goes to the earth, or that which the rays of the sun take away."
+    }
+   }
+  },
+  {
+   "d": 92,
+   "primary": {
+    "id": "veda-03-d092-p",
+    "key": "When he enkindles Agni, man should with his heart attend the song: I with the priests have kindled him.",
+    "ref": "Rig Veda 8.91.22",
+    "at": [
+     710,
+     22
+    ],
+    "s": "Closing a hymn in which a seer without cow or axe asks Agni to accept any fuel, the verse turns to the kindler; Sāyaṇa, on 8.91.22, reads the heart as faith and the song as the rite, to be attended in its season.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.91.22 (standard 8.102.22), sa.wikisource ऋग्वेदः सूक्तं ८.१०२, revision 321403 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "मर्त्यः मनुष्यः अग्निमिन्धानः काष्ठैः प्रज्वलयन् मनसा एव श्रद्दधानः धियं कर्म सचेत काले भजेत । विवस्वभिः ऋत्विग्भिश्च अग्निम् एव ईधे प्रज्वलयति",
+     "gloss": "A mortal, a man, kindling Agni, making him blaze with logs, should with the mind itself, having faith, attend to dhī, the rite, engaging in it at its time. With the vivasvats, the priests, he kindles Agni alone."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d092-s",
+    "key": "Past and gone are three mortal generations: the fourth and last into the Sun hath entered. He mid the worlds his lofty place hath taken. Into green plants is gone the Purifying.",
+    "ref": "Rig Veda 8.90.14",
+    "at": [
+     709,
+     14
+    ],
+    "s": "After verses to the Sun and the Dawn, the hymn turns to the generations; Sāyaṇa, on 8.90.14, takes the creatures now living as those that settled round Agni and so did not perish, and ‘the Purifying’ as the wind entering the quarters.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.90.14 (standard 8.101.14), sa.wikisource ऋग्वेदः सूक्तं ८.१०१, revision 338960 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "याः तिस्रः प्रजाः अत्यायमीयुः अत्यायमायन् अन्याः ता इमाः प्रजाः अर्कम् अर्चनीयमग्निम् अभितो विविश्रे अभितो निविष्टास्ततो न पराबभूवुः । भुवनेष्वन्तः मध्ये बृहत् महान् असावादित्यः । प्रजापतिरित्येके । … हरितः दिशः पवमानः वायुः आ विवेश आविष्टः । तथा चैतरेयब्राह्मणं",
+     "gloss": "The three generations that passed away; the others, these creatures now, settled round the arka, Agni who is to be worshipped, and so did not perish. Amid the worlds the great one is yonder sun; some say Prajāpati … The harits, the quarters, Pavamāna, the wind, has entered. So too the Aitareya Brāhmaṇa (the reference printed is ऐ. आ. 2.1.1)."
+    }
+   }
+  },
+  {
+   "d": 93,
+   "primary": {
+    "id": "veda-03-d093-p",
+    "key": "By means of this eternal fleece may Surya’s Daughter purify Thy Soma that is foaming forth.",
+    "ref": "Rig Veda 9.1.6",
+    "at": [
+     723,
+     6
+    ],
+    "s": "Opening the book of hymns to Soma, a short hymn follows the juice from the press through the strainer to the milk; Sāyaṇa, on 9.1.6, takes the Sun’s daughter as the goddess Faith, citing the Vājasaneyins, for whom Faith purifies Soma.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 9.1.6, sa.wikisource ऋग्वेदः सूक्तं ९.१, revision 339335 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे सोम ते तव परिस्रुतं क्षरन्तं सोमं सोमरसं सूर्यस्य दुहिता श्रद्धा देवी वारेण वालेन शश्वता शाश्वतेन तना विस्तृतेन पुनाति । तथा च वाजसनेयिन आमनन्ति-: श्रद्धा वै सूर्यस्य दुहिता श्रद्धा ह्येनं पुनाति' इति",
+     "gloss": "O Soma, thy flowing Soma juice the daughter of the Sun, the goddess Faith (śraddhā), purifies with the hair, the lasting, outspread one. And so the Vājasaneyins teach: ‘Faith indeed is the daughter of the Sun; for Faith purifies him.’"
+    }
+   },
+   "standby": {
+    "id": "veda-03-d093-s",
+    "key": "O Soma flowing on thy way, win thou and conquer high renown; And make us better than we are.",
+    "ref": "Rig Veda 9.4.1",
+    "at": [
+     726,
+     1
+    ],
+    "s": "A hymn closing every verse with the same prayer begins here; Sāyaṇa, on 9.4.1, takes ‘high renown’ as Soma hailed as great food, asked to welcome the gods to the rite and defeat the demons who would ruin it, then grant good.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 9.4.1, sa.wikisource ऋग्वेदः सूक्तं ९.४, revision 208506 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे महि श्रवः महदन्न पवमान सोम सन । अस्मद्यागे यजनीयान् देवान् भज । जेषि च । यागविध्वंसकारिणो राक्षसांश्च जय । अथ देवान् प्राप्य राक्षसांश्च जित्वानन्तरं नः अस्मान वस्यसः श्रेयसः कृधि कुरु। श्रेयोऽस्मभ्यं देहीत्यर्थः",
+     "gloss": "O mahi śravaḥ, great food, O flowing Soma, sana: attend the gods who are to be worshipped at our sacrifice. And jeṣi: conquer the demons who wreck the sacrifice. Then, having reached the gods and conquered the demons, make us vasyasaḥ, better off: the sense is, give us welfare."
+    }
+   }
+  },
+  {
+   "d": 94,
+   "primary": {
+    "id": "veda-03-d094-p",
+    "key": "The Sun with his dear eye beholds that quarter of the heavens which priests Have placed within the sacred cell.",
+    "ref": "Rig Veda 9.10.9",
+    "at": [
+     732,
+     9
+    ],
+    "s": "A hymn of rushing drops and seated priests closes here; Sāyaṇa, on 9.10.9, takes the beholder not as the sun but as Indra, and the ‘sacred cell’ as the heart, where he sees the Soma even after it is drunk.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 9.10.9, sa.wikisource ऋग्वेदः सूक्तं ९.१०, revision 360656 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "सूरः सुवीर्य इन्द्रः चक्षसा चक्षुषा दिवः दीप्तस्यात्मनः प्रिया प्रियं पदम् अध्वर्युभिः गुहा गुहायां हृदये हितं निहितं पीतं सोममपि अभि पश्यति",
+     "gloss": "Sūra: Indra of great valour, with the eye of his own shining self, beholds the dear place set by the Adhvaryus in the cave, that is, in the heart: the Soma, even when it has been drunk."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d094-s",
+    "key": "Freeing himself he flows away, leaving his body’s severed limbs, And meets his own Companion here.",
+    "ref": "Rig Veda 9.14.4",
+    "at": [
+     736,
+     4
+    ],
+    "s": "Midway through a hymn on the priests’ fingers adorning Soma and clothing him in milk, the juice reaches the strainer; Sāyaṇa, on 9.14.4, takes the severed limbs as the openings of the woollen cloth, and the companion as Indra, joined through the oblation.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 9.14.4, sa.wikisource ऋग्वेदः सूक्तं ९.१४, revision 208516 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "तनु देशापवित्रवस्त्रम् । तत्संबन्धीनि शर्याणि द्वाराणि जहत् अधः सरति । अत्र अस्मिन् यज्ञे युजा सखिभूतेनेन्द्रेण सह सं जिघ्नते संगतो भवति । वस्त्रसुषिराद्विनिर्गत्य दशापवित्रादधः सत् पात्रं विविधं गच्छन् होमद्वारेणेन्द्रेण संगतो भवतीत्यर्थः",
+     "gloss": "Tanu is the cloth of the strainer; leaving the śaryāṇi, the openings belonging to it, he flows downward. Here, in this sacrifice, he is joined with his yoke-fellow, Indra, who is his friend. The sense: coming out through the holes of the cloth, below the strainer, going variously into the vessel, he becomes united with Indra by way of the oblation."
+    }
+   }
+  }
+ ]
+}

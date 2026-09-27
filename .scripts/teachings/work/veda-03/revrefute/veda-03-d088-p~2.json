@@ -1,0 +1,14 @@
+{
+ "id": "veda-03-d088-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AD%E0%A5%A8&oldid=340872",
+  "found": true
+ },
+ "attacks": [
+  "attribution",
+  "drift"
+ ],
+ "reason": "Re-opened packet.js veda 88 --verse 8.61.7 and the whole hymn. Sāyaṇa on the verse says only saptá ṛtvijaḥ ekāṃ gharmaṃ duhanti; dvau pratiprasthātārāv adhvaryū pañca anyān upa sṛjataḥ prayojayataḥ, the five being yajamāna, brahman, hotṛ, āgnīdhra, prastotṛ: the seven priests, the two adhvaryus directing five, the sacrificer among them all stand. But the appositive “a pot of boiling milk” is not in his words at 8.61.7. It comes from note 1 in vol. 5, which the packet marks as Cowell’s hand, not Wilson’s, and where the pot is Cowell’s explanation of the term (“the gharma, or earthen vessel so called, which is used to boil milk”). In Sāyaṇa’s own comment on this hymn the pot is the mahāvīra (avata = mahāvīra, 8.61.10 to 8.61.12) and gharma names the hot-milk rite and its cows (gharmayāga, gharmadughāḥ, 8.61.12), so the sentence folds a conduit’s gloss into Sāyaṇa’s reading without the hedge the brief requires for a reading known only through Wilson’s notes. The evidence also still labels note 1 “Wilson” and splices its English into the Sanskrit, the nit the last refutation flagged and this revision says it left unchanged. Key, locator, plain sense, form, dates (340872 = 2022-07-21) otherwise pass; verse.js and entry-check ok.",
+ "better": "Drop “a pot of boiling milk” or replace it with what Sāyaṇa himself gives: “reads the seven as priests milking the one gharma of the Pravargya rite, and two of them, the adhvaryu priests, as directing five others, the sacrificer among them” (his viniyoga printed after 8.61.6 assigns “duhanti sapta” to the praise at the gharma milking, abhiṣṭave gharmadohe; 8.61.12 names the gharmayāga). Evidence: Sanskrit only, or label note 1 as Cowell’s (Wilson’s translation, vol. 5, Cowell’s hand)."
+}

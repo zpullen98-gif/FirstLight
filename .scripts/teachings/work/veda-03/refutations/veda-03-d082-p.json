@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d082-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A8%E0%A5%AB&oldid=201711",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 82 --verse 8.25.9 and the pinned revision 201711 (action=raw; API timestamp 2019-05-15): the verse ends ni cin miṣantā nicirā ni cikyatuḥ, the app’s 8.25.9. Sāyaṇa: nimiṣantau sarvam unmeṣayantau svasvakarmaṇi (making all open their eyes, each to its own work) and anulbaṇena (ulbaṇa = the unbearable blaze of fire) cakṣasā ahorātrayor vyāptena tejasā (a not unbearable light pervading day and night). ‘Waking every creature to its work’ and ‘a mild light pervading day and night’ are carried by these words; Wilson renders the same (‘causing all beings to open their eyelids’, ‘mild radiance’) and the bracketed editor’s note confirms the day and night reading as Sāyaṇa’s. The sentence claims nothing about nicikyatuḥ (which he takes as ‘were worshipped’). Plain sense checked on day.js: Mitra and Varuna, 8.25.7 looking down from the lofty sky. verse.js ok ([644,9]); entry-check ok.",
+ "better": ""
+}

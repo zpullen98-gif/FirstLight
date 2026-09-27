@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d089-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AD%E0%A5%AF&oldid=202004",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 89 --verse 8.68.2 and the pinned revision 202004 itself (action=raw): Sāyaṇa on standard 8.79.2 has yan nagnam iva viphalaṃ vartate tad ācchādayati phalena, then athavā vastraṃ janayann ācchādayati, and for bhiṣakti yajñadvārā svargasādhanena auṣadharūpeṇa ca śarīrasiddhisādhanaś ca, which carry fruit for the fruitless, cloth brought forth, and healing through the sacrifice and as medicine; the sentence omits his heaven and body purposes but claims nothing beyond his words. verse.js ok (8.68.2 at [687,2]), a whole verse from the text. Plain sense checked on day.js: the hymn addresses Soma (8.68.3 Thou, Soma), and 8.68.3 to 4 pray against hatred and enmity; no four-word run from the key. Locator right (app 8.68 = standard 8.79, stated in src). No Yāska treatment. entry-check ok at 45 words; no school, comparison or tone issue.",
+ "better": ""
+}

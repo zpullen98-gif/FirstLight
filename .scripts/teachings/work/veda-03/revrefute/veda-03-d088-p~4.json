@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d088-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AD%E0%A5%A8&oldid=340872",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 88 --verse 8.61.6, 8.61.7, 8.61.12 and the 8.61 introduction (revision 340872, dated 2022-07-21 by the API). All three evidence pieces stand verbatim: closing 8.72.6 assigns this verse to the abhiṣṭava at the gharma-milking (अभिष्टवे घर्मदाहे ‘ दुहन्ति सप्त ' इत्येषा); on 8.72.7 सप्त ऋत्विजः एकां घर्मं दुहन्ति, then द्वौ प्रतिप्रस्थातारावध्वर्यू पञ्च अन्यान् उप सृजतः प्रयोजयतः, the five being yajamāna, brahman, hotṛ, āgnīdhra, prastotṛ; on 8.72.12 घर्मयाग and cow’s and goat’s milk poured into the mahāvīra. These carry priests, the one gharma, the hot-milk rite, two adhvaryu-class priests employing five with the sacrificer among them; the earthen-vessel gloss (Cowell’s) is gone. Attacks tried and not landing: ekām (fem.) beside gharmam (masc.) could be a double accusative (milk the one cow for the gharma), but the entry’s wording is a literal rendering of his words and matches Cowell’s reading of him; the introduction gives Agni as deity (or the oblations), so ‘a hymn to Agni’ holds; ‘midway’ for verse 7 of 18 is loose but not false. Ritual reading stated as his. verse.js ok (8.61.7 at [680,7]); entry-check ok.",
+ "better": ""
+}

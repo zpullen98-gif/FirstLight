@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d084-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A9%E0%A5%AF&oldid=275528",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 84 --verse 8.39.4 (revision 275528): the Sanskrit is śaṃ ca yoś ca mayo dadhe viśvasyai devahūtyai, matching the app verse; Sāyaṇa glosses śam as śāntinimittam and yoḥ as viṣayayogajanitam, mayaḥ as sukham, and adds yaḥ kaścanāpi devo yadi hūyate agnir eva sarvaṃ karoti. Both halves of the reading are carried without drift, and Wilson’s note names the first gloss as Sāyaṇa’s. Evidence words are a verbatim substring of the packet. Plain sense checked against day.js: every one of the ten verses ends with the refrain that all the others die away, and 8.39.2 has “Away let the destroyers go”; the clause identifies no one, borrows nothing from Sāyaṇa, and states the refrain without softening. It quotes the refrain, which the printed key stops before, so it does not repeat the key. 44 words. verse.js ok (8.39.4 at [658,4]); entry-check ok (scratch/rr2-d084-p.json).",
+ "better": ""
+}

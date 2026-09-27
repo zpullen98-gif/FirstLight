@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d071-p",
+ "d": 71,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Maruts, accept this thousandfold allotment of household sacrifice and household treasure.",
+ "ref": "Rig Veda 7.56.14",
+ "at": [
+  571,
+  14
+ ],
+ "s": "Midway through a long hymn to the Maruts, the singer turns from their splendour to their share of the home rite; Sāyaṇa, on 7.56.14, reads the single portion as a thousandfold, since an oblation spreads as far as the deity desires.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 7.56.14, sa.wikisource ऋग्वेदः सूक्तं ७.५६, revision 403392 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%AB%E0%A5%AC&oldid=403392",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ७.५६, revision 403392",
+    "locator": "commentary on 7.56.14",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n134/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 7.56.14 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "हे “मरुतः यूयं सहस्रियं सहस्रसंख्याकं “दम्यं दमे गृहे भवं “गृहमेधीयं गृहमेधिगुणेभ्यो युष्मभ्यं देयम् “एतम् एतादृशं “भागं “जुषध्वं सेवध्वम्। एकं भागं सहस्रियमिति कथमाह । तथा च श्रूयते – ' यावदेका देवता कामयते यावदेका तावदाहुतिः प्रथते न हि तदस्ति यत्तावदेव स्याद्यावज्जुहोति",
+  "lang": "Sanskrit",
+  "gloss": "O Maruts, accept (juṣadhvam, serve) this portion, thousandfold (sahasriyam, numbering a thousand), belonging to the house (damyam), to be given to you who bear the householder’s qualities (gṛhamedhīyam). How does it call one portion thousandfold? For so it is heard (Taittirīya Brāhmaṇa 3.2.6.4): as far as the one deity desires, so far the one oblation spreads; for there is nothing that stays only as much as one offers.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 7.56.14 at [571,14]); the packet’s Sanskrit (sahasriyaṃ damyaṃ bhāgam etaṃ gṛhamedhīyaṃ maruto juṣadhvam) is the app’s verse. Sāyaṇa glosses sahasriyam as sahasrasaṃkhyākam, then asks how one portion can be thousandfold and answers from the Taittirīya Brāhmaṇa that the oblation spreads as far as the deity desires: the reading and its reason are his, with no drift. Wilson’s note reports the same question and answer of the scholiast. Plain sense faithful: 7.56 has 25 verses to the Maruts, and verse 14 turns from their spreading glories to the household portion; no four-word run from the key. Revision 403392 dated 2024-06-29 by the sa.wikisource API. Entry-check ok."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "veda-03-d078-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AC&oldid=314241", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 78 --verse 8.6.28 and the pinned revision 314241 itself (action=raw; API timestamp 2021-07-22, sha1 matches veda-lock): evidence verbatim in both. Sāyaṇa: girīṇām upahvare ... nadīnāṃ saṃgathe ... īdṛgvidhe deśe kriyamāṇayā dhiyā yāgakriyayā stutyā vā vipraḥ medhāvīndraḥ ajāyata prādurbhavati; ato vayam api tādṛśe deśe yajāmaḥ stumo veti bhāvaḥ. That carries the sage as Indra, manifest through the rite or praise performed at mountain slopes and river confluences, and the drawn purport that the speakers too sacrifice or praise in such places ('the singers' for vayam fits a hymn whose speakers are the praising Kanvas). Wilson's note independently reports both points as Sāyaṇa's (he supplies Indra; purport that men should sacrifice in such places), and assigns the Soma reading to Mahīdhara, so no crossed attribution. verse.js ok (8.6.28 at [625,28]). Plain sense checked on day.js: 8.6 is sustained praise of Indra's power (8.6.1, 26, 31, 35); the clause is a brief summary, not a line-by-line paraphrase, and entry-check finds no four-word repeat. Locator right; Yāska does not treat the verse. entry-check ok. Minor: 'among hills' is loose for upahvare (the slope or edge of the mountains), not drift.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d065-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AC%E0%A5%AF&oldid=200457",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 65 --verse 6.69.8: Sāyaṇa glosses the object as yad vastu prati apaspṛdhethām asuraiḥ saha, tredhā as lokavedavāgātmanā tridhā sthitam, sahasram as amitam, and vi airayethām as vyakramethām, then quotes Aitareya Brāhmaṇa 6.15 that the thousand is these worlds, these Vedas and speech; that carries worlds/Vedas/speech, unmeasured, contended for with the Asuras, strode across. \"whole\" is carried by the quoted Brāhmaṇa naming the three together as the thousand, and Wilson’s note reports the same (\"infinite, or the whole\"). He also offers an alternative (a thousand cows); leaving it out does not misstate his primary reading. Griffith’s note gives heaven, firmament and earth and points to Wilson for Sāyaṇa, so the reading is not the translator’s. day.js: 6.69 calls Indra and Visnu to the Soma and 6.69.8 is its last verse, so the context clause is right and repeats no four words of the key. verse.js ok (6.69.8 at [509,8]); entry-check ok (43 words). No school, comparison or tone issue; no Nirukta treatment.",
+ "better": ""
+}

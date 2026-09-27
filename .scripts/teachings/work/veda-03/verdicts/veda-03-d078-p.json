@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d078-p",
+ "d": 78,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "There where the mountains downward slope, there by the meeting of the streams The Sage was manifest with song.",
+ "ref": "Rig Veda 8.6.28",
+ "at": [
+  625,
+  28
+ ],
+ "s": "Amid long praise of Indra’s might, the hymn tells where a sage appears; Sāyaṇa, on 8.6.28, takes the sage as Indra, manifest through the rite or praise offered among hills and river meetings, and infers that the singers too worship in such places.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.6.28, sa.wikisource ऋग्वेदः सूक्तं ८.६, revision 314241 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AC&oldid=314241",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.६, revision 314241",
+    "locator": "commentary on 8.6.28",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n251/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 8.6.28 (app numbering)",
+    "via": "packet"
+   }
+  ],
+  "words": "गिरीणां पर्वतानाम् “उपह्वरे उपह्वर्तव्ये प्रान्ते “नदीनां सरितां “संगथे संगमने “च ईदृग्विधे देशे क्रियमाणया “धिया यागक्रियया स्तुत्या वा “विप्रः मेधावीन्द्रः “अजायत प्रादुर्भवति । अतो वयमपि तादृशे देशे यजामः स्तुमो वेति भावः ।",
+  "lang": "Sanskrit",
+  "gloss": "On the slope of the mountains and at the confluence of the rivers, in such a place, by the dhī performed there, that is the rite of sacrifice or the praise, the wise one, Indra, becomes manifest. Hence we too sacrifice or praise in such a place: that is the sense.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 8.6.28 at [625,28]). The packet’s Sanskrit (upahvare girīṇāṃ saṃgathe ca nadīnām, dhiyā vipro ajāyata) is the app’s 8.6.28. Sāyaṇa: on mountain slopes and at river confluences, by the dhī performed there, the rite of sacrifice or praise, the wise one, Indra, becomes manifest, and hence we too sacrifice or praise in such a place (iti bhāvaḥ). The sentence carries this without drift; Wilson (vol. 4, packet) follows him and his note says Sāyaṇa supplies Indra and concludes men should sacrifice where Indra is manifested. ‘Among hills’ loosely renders the slopes, a matter of place not of reading. Plain sense faithful: 8.6 is Vatsa’s long praise of Indra, and 28 names where the sage is born, before 29 and 30 turn to his gaze from above. Revision 314241 dated 2021-07-22 by the Wikisource API. Entry-check ok."
+}

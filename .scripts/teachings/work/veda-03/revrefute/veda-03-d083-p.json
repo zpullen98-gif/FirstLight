@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d083-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A8%E0%A5%AD&oldid=208927",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 83 --verse 8.27.12 (revision 208927): the Sanskrit text is the Savitar verse (dvipādaś catuṣpādo ... patayiṣṇavaḥ), so the place matches the app; the commentary says the bipeds, quadrupeds and birds settle each into his own work, and when the sun has risen some men do the Agnihotra and the like, some make praise to the gods, cattle roam everywhere to eat grass. The evidence words are a verbatim substring of the packet (machine check). Wilson’s rendering says nothing of the Agnihotra, so the reading is Sāyaṇa’s own, not the translator’s. The paraphrase drops only “and the like” and the birds, claiming nothing more. Plain sense checked against day.js: the hymn invokes Maruts, Vasus, Adityas, each God, and 8.27.19 to 22 seek their treasure at sunrise, noon and eve; 8.27.12 is where Savitar rises. No comparison, no school needed, no hard passage. verse.js ok (8.27.12 at [646,12]); entry-check ok (scratch/rr2-d083-p.json). Revision year 2019 agrees with neighbouring 2089xx revisions cited elsewhere.",
+ "better": ""
+}

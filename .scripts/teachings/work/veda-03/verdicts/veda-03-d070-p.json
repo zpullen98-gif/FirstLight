@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d070-p",
+ "d": 70,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "With offerings I propitiate the branches of this swift-moving God, the bounteous Visnu.",
+ "ref": "Rig Veda 7.40.5",
+ "at": [
+  555,
+  5
+ ],
+ "s": "In a hymn calling the gods to the rite and asking for riches, the singer turns to Visnu; Sāyaṇa, commentary on 7.40.5, takes Visnu as comprising all the gods, citing a Vedic text, and the other gods as though his branches.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.40.5, sa.wikisource ऋग्वेदः सूक्तं ७.४०, revision 224367 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%AA%E0%A5%A6&oldid=224367",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ७.४०, revision 224367",
+    "locator": "commentary on 7.40.5",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n117/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 7.40.5",
+    "via": "packet"
+   }
+  ],
+  "words": "“प्रभृथे “हविर्भिः हवीरूपैरन्नैः “एषस्य प्रापणीयस्य “मीळ्हुषः कामानां सेक्तुः “विष्णोः सर्वदेवात्मकस्य “अस्य “देवस्य । विष्णुः सर्वा देवताः' (ऐ. ब्रा. १. १) इति श्रुतेः । अन्ये देवाः “वयाः शाखा इव भवन्ति ।",
+  "lang": "Sanskrit",
+  "gloss": "At the offering, with oblations, food in the form of oblations, of this god Viṣṇu, who is to be reached, the showerer of desires, who comprises all the gods (sarvadevātmaka), according to the Vedic text ‘Viṣṇu is all the deities’ (Aitareya Brāhmaṇa 1.1, the editor’s reference): the other gods are vayāḥ, as it were branches.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 7.40.5 at [555,5]; first sentence of the verse). Sāyaṇa glosses Viṣṇu as sarvadevātmaka, cites the śruti ‘viṣṇuḥ sarvā devatāḥ’, and says the other gods are vayāḥ, śākhā iva, branches as it were; Wilson’s note confirms. CORRECTED wording only: the proposal said Sāyaṇa takes Visnu ‘as the self of all the gods’, which inverts sarvadevātmaka (‘having all the gods as his nature’, comprising them) and lends it a Vedāntic colour not in his words; now ‘as comprising all the gods’. ‘As his branches’ became ‘as though his branches’ to keep Sāyaṇa’s iva. The proposer’s basis words had an ellipsis in place of the printed ‘(ऐ. ब्रा. १. १)’; the evidence now copies the packet contiguously. ‘A Vedic text’ kept because the Aitareya reference in parentheses may be the editor’s. Plain sense faithful (7.40 calls the gods to the gathering and asks for riches; 7.40.5 turns to Visnu). Revision 224367 dated 2020-02-05 by the wiki API. Entry-check ok."
+}

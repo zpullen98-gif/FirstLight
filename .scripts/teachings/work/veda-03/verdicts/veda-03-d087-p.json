@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d087-p",
+ "d": 87,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Let not this fetter bind us fast: may he release us for success; For strong is Indra and renowned.",
+ "ref": "Rig Veda 8.56.8",
+ "at": [
+  675,
+  8
+ ],
+ "s": "In a hymn to the Adityas and Aditi, pleading for life and release, the verse turns for once to Indra; Sāyaṇa, commentary on 8.56.8, reads the fetter as a net, and his preface to the hymn names fishes caught in one among its possible seers.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.56 and 8.56.8 (standard 8.67), sa.wikisource ऋग्वेदः सूक्तं ८.६७, revision 299570 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AC%E0%A5%AD&oldid=299570",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.६७, revision 299570",
+    "locator": "commentary on 8.56.8 (standard 8.67.8), with the hymn preface",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n128/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "Rig Veda 8.56.8 (app numbering)",
+    "via": "packet"
+   }
+  ],
+  "words": "नः अस्मान् “सेतुः बन्धको जालः “मा “सिषेत् मा बध्नातु । \"नः अस्मान् “महे महते कर्मणे \"परि “वृणक्तु परिवर्जयतु जालात् । कः । “इन्द्र “इत् इन्द्र एव “श्रुतः विश्रुतः “वशी सर्वस्य वशीकर्ता । स परि वृणक्तु",
+  "lang": "Sanskrit",
+  "gloss": "Let not the setu, the binding net, bind us; let him keep us clear, away from the net, for a great work. Who? Indra alone, renowned, the controller of all: let him keep us clear.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 8.56.8 at [675,8]); app 8.56 is standard 8.67, on which Sāyaṇa comments, and the Sanskrit labelled 8.56.8 (mā naḥ setuḥ siṣed ayam) is this verse. On the verse Sāyaṇa glosses setu as bandhako jālaḥ, the binding net, and Indra as the one who frees them from it: the reading holds. The fishes caught in a net, however, are not in his commentary on 8.56.8 but in his preface to the hymn (packet 8.56 introduction: बहवो वा मत्स्या जालनद्धाः सन्तो बन्धनमोक्षायादित्यानस्तुवन् । अतस्त एवर्षयः, restating the Anukramaṇī), so the sentence’s place was corrected: it now reads the fetter as a net at 8.56.8 and names the preface as where the fishes appear (\"and his preface to the hymn names fishes caught in one among its possible seers\"), and src now cites 8.56 and 8.56.8 (standard 8.67). Plain sense unchanged and faithful: Indra is named only in v8 of a hymn to the Adityas and Aditi asking for life and release. Revision year 2021 confirmed by the wiki API. Corrected entry passes entry-check."
+}

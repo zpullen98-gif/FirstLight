@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d084-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A9%E0%A5%AF&oldid=275528",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 84 --verse 8.39.4 (revision 275528, dated 2020-09-29 by the API): the evidence stands verbatim: शं शान्तिनिमित्तं, योः विषययोगजनितं च मयः सुखं दधे करोति (happiness, caused by tranquillity and born of contact with sense objects), and यः कश्चनापि देवो यदि हूयते अग्निरेव सर्वं करोतीत्यर्थः (whatever god is invoked, Agni alone does all). These carry both halves of the reading without drift; Wilson’s note 1 names the śam/yoḥ gloss as Sāyaṇa’s, so it is his, not Griffith’s. day.js: 8.39 is to Agni (Sāyaṇa’s introduction: अग्निर्देवता), 8.39.2 has ‘Away let the destroyers go’, and all ten verses end in the refrain that the others die away, which the key verse stops before, so no four-word overlap with the key. The only change from the earlier entry is commas around the relative clause. verse.js ok (8.39.4 at [658,4]); entry-check ok.",
+ "better": ""
+}

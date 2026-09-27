@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d077-p",
+ "d": 77,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Gods seek him who presses out the Soma; they desire not sleep They punish sloth unweariedly.",
+ "ref": "Rig Veda 8.2.18",
+ "at": [
+  621,
+  18
+ ],
+ "s": "Amid the Kanvas’ call to Indra, the hymn turns to the gods and the worshipper; Sāyaṇa, on 8.2.18, reads it as the gods, wishing to guard the presser, keeping him ever awake, and takes the word rendered ‘sloth’ as the gladdening Soma they tirelessly reach.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.2.18, sa.wikisource ऋग्वेदः सूक्तं ८.२, revision 302478 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A8&oldid=302478",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.२, revision 302478",
+    "locator": "commentary on 8.2.18",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n229/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 8.2.18 (app numbering)",
+    "via": "packet"
+   }
+  ],
+  "words": "सुन्वन्तं सोमाभिषवं कुर्वन्तं यजमानं \"देवाः इन्द्रादयः सर्वे \"इच्छन्ति रक्षितुम् । “स्वप्नाय “न “स्पृहयन्ति । स्वप्नावस्थां तस्य सुन्वतो नेप्सन्ति । सर्वदा प्रबुद्धमेव कुर्वन्तीत्यर्थः । ‘ स्पृहेरीप्सितः' (पा. सू. १. ४. ३६ ) इति कर्मणि चतुर्थी। ‘स्पृह ईप्सायाम् । चुरादिरदन्तः । यत एवमतः कारणात् “अतन्द्राः अनलसा देवाः “प्रमादं प्रकर्षेण मदकरं तदीयं सोमं “यन्ति प्राप्नुवन्ति",
+  "lang": "Sanskrit",
+  "gloss": "The gods, Indra and all the rest, wish to protect the sacrificer who presses the Soma. They do not desire sleep: they do not want the state of sleep for that presser; the sense is that they always keep him awake. (A grammatical note on the dative.) Since this is so, the unwearied, unslothful gods reach pramāda, that is, his Soma, which gladdens exceedingly.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 8.2.18 at [621,18], matching the proposal). The packet’s Sanskrit verse (icchanti devāḥ sunvantaṃ na svapnāya spṛhayanti, yanti pramādam atandrāḥ) is the app’s 8.2.18. Sāyaṇa glosses: the gods wish to protect the presser, do not want sleep for him and keep him always awake, and the unwearied gods reach pramāda, which he takes as the exceedingly gladdening Soma; Griffith’s ‘sloth’ renders pramāda. Wilson (vol. 4, packet) follows him: ‘they, unslothful, obtain the inebriating Soma’. Plain sense faithful: 8.2 is to Indra, the Kanvas praise him (16, 22, 38), and 17 and 19 address Indra while 18 speaks of the gods and the presser; no four-word run from the key. Revision 302478 dated 2021-02-21 by the Wikisource API. Entry-check ok."
+}

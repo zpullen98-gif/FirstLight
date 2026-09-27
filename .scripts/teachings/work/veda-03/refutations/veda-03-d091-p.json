@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d091-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A7%E0%A5%A6%E0%A5%A6&oldid=402088",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 91 (whole hymn and --verse 8.89.3) and the pinned revision 402088 itself (action=raw): on standard 8.100.3 Sāyaṇa reads nema u as bhārgavo nema eva, gives the reason ka īṃ dadarśa: na ko ’py apaśyat, and sums indro nāma kaścid vidyata iti vādamātraṃ na tu tat satyam; his introduction (bhṛgugotrasya nemasyārṣam) and his gloss on 8.100.4 (evaṃ nemasyarṣer vacanam ākarṇya indraḥ ... ājagāma) carry both the seer and the Bhṛgu line, and that Indra answers next. Griffith’s note confirms Nema as Sāyaṇa’s name against his own One and another. verse.js ok (8.89.3 at [708,3]), whole sentences from the verse’s second half. Plain sense checked on day.js: first half urges a truthful hymn, 8.89.4 Indra says Here am I ... O singer. Locator right (app 8.89 = standard 8.100). entry-check ok; not softened, no comparison.",
+ "better": ""
+}

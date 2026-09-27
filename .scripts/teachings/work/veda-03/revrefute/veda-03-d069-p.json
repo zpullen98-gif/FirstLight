@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d069-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A9%E0%A5%A9&oldid=327730",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 69 --verse 7.33.7: Sāyaṇa’s own gloss reads the three as agnivāyusūryāḥ in pṛthivy-antarikṣa-dyu (earth, mid-air, sky) in order, and the gharmāsaḥ as the same three; he then cites the Śāṭyāyanaka (tathā ca śāṭyāyanakam) naming the three peoples vasavo rudrā ādityāḥ. The sentence puts ‘citing the Śāṭyāyanaka’ before the whole reading, so the Vasus/Rudras/Ādityas part (not in his own gloss) is attributed to the text he quotes; Wilson’s note (‘Sayana quotes Satyayana’) confirms. Evidence verbatim. day.js: 7.33 is on the Vasisthas, the Ten Kings, and Vasistha’s birth (10 to 13); ‘threefold lore’ is a light gloss of ‘all these have they discovered’, no four-word run. ‘Aryan’ avoided. Revision 327730 dated 2021-12-09 (API checked). verse.js ok (7.33.7 at [548,7]); entry-check ok.",
+ "better": ""
+}

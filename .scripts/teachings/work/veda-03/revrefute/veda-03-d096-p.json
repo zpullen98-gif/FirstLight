@@ -1,0 +1,14 @@
+{
+ "id": "veda-03-d096-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AB%E0%A5%AE&oldid=403221",
+  "found": true
+ },
+ "attacks": [
+  "attribution",
+  "drift"
+ ],
+ "reason": "Re-opened packet.js veda 96 --verse 9.58.3. Sāyaṇa’s own words are ध्वस्रः कश्चिद्राजा पुरुषन्तिः कश्चित् and a gloss in which the seer (the hymn’s Avatsāra: यथावत्सार एतयोर्धनानि प्रतिजग्राह) prays Soma that the accepted wealth be excellent. The poison, the four-verse hymn and the gain counted as taken, not accepted (गरगिराविव मेनाते ... आत्तमिवैव न प्रतिगृहीतं) are all inside his quotation of the Śāṭyāyanaka (तथा च शाट्यायनकम्), about Taranta and Purumīḷha, whom he sets beside Avatsāra as a parallel (एवं तरन्तपुरुमीळ्हौ प्रतिजगृहतुः). The revision drops “cites the Śāṭyāyanaka” and makes the whole Brāhmaṇa story the object of “takes”, so a Brāhmaṇa narrative is given as Sāyaṇa’s own reading of the verse: the earlier verdict had already found that he does not read the verse through the story but glosses it and cites the story. The critic’s fix (keep “takes the givers as kings” governing) does not require hiding the citation. The plain sense (“Near the close of a short hymn to Soma”) is accurate (verse 3 of 4). verse.js ok (9.58.3 at [780,3]); entry-check ok on the revision. The better sentence restores the citation, keeps the critic’s point (so much, swallowers of poison, taken not accepted) and passes entry-check at 44 words (scratch/rr-d096-p.json).",
+ "better": "Near a Soma hymn’s close, the singers turn to gifts received; Sāyaṇa, on 9.58.3, takes the givers as kings and cites the Śāṭyāyanaka, where two seers, feeling like swallowers of poison at so much, saw this hymn, and their wealth counted as taken, not accepted."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d096-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AB%E0%A5%AE&oldid=403221",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 96 --verse 9.58.3 (Sanskrit Wikisource rev 403221). Sāyaṇa's own gloss has ध्वस्रः कश्चिद्राजा पुरुषन्तिः कश्चित् (the givers as kings; Wilson note 3 also 'two kings'), then तथा च शाट्यायनकम् introducing the story, so the poison, the seeing of the hymn and the gain as though taken not accepted stand as the cited Brāhmaṇa's, which the sentence says (the point the last revision was refuted on is fixed). Checked each clause against the quoted words: bahu pratigṛhya garagirāv iva menāte ('feeling like swallowers of poison at so much'), etaṃ caturṛcam apaśyatām ('saw this hymn'), asātaṃ sātam abhavad āttam ivaiva na pratigṛhītam ('their wealth counted as taken, not accepted'; 'counted as' carries the iva). Evidence span matches the packet verbatim (normalised string match true). day.js: 9.58 has four verses, 3 and 4 both on gifts received, so 'Near a Soma hymn's close, the singers turn to gifts received' is accurate, names the god, repeats no verse words. Key is the best line (names the givers). Locator right: the story is in the commentary on 9.58.3. No school needed, no comparison, tone plain. verse.js ok (Rig Veda 9.58.3 at [780,3]); entry-check ok, no warns, 45 words (at the cap). Residual nits only: 'two seers' is inferred from 'saw the hymn' (Wilson: two rishis); pratyaitām (went back) omitted, which is omission not drift.",
+ "better": ""
+}

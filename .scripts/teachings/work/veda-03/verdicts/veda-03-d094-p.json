@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d094-p",
+ "d": 94,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Sun with his dear eye beholds that quarter of the heavens which priests Have placed within the sacred cell.",
+ "ref": "Rig Veda 9.10.9",
+ "at": [
+  732,
+  9
+ ],
+ "s": "A hymn of rushing drops and seated priests closes here; Sāyaṇa, on 9.10.9, takes the beholder not as the sun but as Indra, and the ‘sacred cell’ as the heart, where he sees the Soma even after it is drunk.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 9.10.9, sa.wikisource ऋग्वेदः सूक्तं ९.१०, revision 360656 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%A7%E0%A5%A6&oldid=360656",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.१०, revision 360656 (printed edition not named on the page)",
+    "locator": "commentary on 9.10.9",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n242/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "translation of 9.10.9 and note 2",
+    "via": "packet"
+   }
+  ],
+  "words": "\"सूरः सुवीर्य इन्द्रः “चक्षसा चक्षुषा “दिवः दीप्तस्यात्मनः “प्रिया प्रियं “पदम् “अध्वर्युभिः “गुहा गुहायां हृदये “हितं निहितं पीतं सोममपि “अभि “पश्यति",
+  "lang": "Sanskrit",
+  "gloss": "Sūra: Indra of great valour, with the eye of his own shining self, beholds the dear place set by the Adhvaryus in the cave, that is, in the heart: the Soma, even when it has been drunk.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 9.10.9 at [732,9]), the last of the hymn’s nine verses, after the flowing drops (vv.1 to 4) and the seven seated priests (v.7): plain sense faithful. Sāyaṇa glosses sūraḥ as suvīrya indraḥ, guhā as hṛdaye, and adds pītaṃ somam api abhi paśyati; his gloss on v.8 (pibāmi) sets up the drunk Soma. Wilson’s note 2 reads him the same way and names Benfey’s solar rendering, so ‘not as the sun but as Indra’ states the gloss’s effect, not an added idea."
+}

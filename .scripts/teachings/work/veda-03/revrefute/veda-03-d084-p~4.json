@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d084-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A9%E0%A5%AF&oldid=275528",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 84 --verse 8.39.4 (revision 275528, dated 2020-09-29 by the API): Sāyaṇa glosses śaṃ as śāntinimittam and yoḥ as viṣayayogajanitam, both as mayaḥ sukham, and closes yaḥ kaścanāpi devo yadi hūyate agnir eva sarvaṃ karoti; the evidence words are verbatim and carry both halves (delight as happiness from calm and from contact with sense objects; Agni doing all whatever god is invoked) without drift. Wilson’s note names the śānti/viṣaya gloss as Sāyaṇa’s, so it is not the translator’s. The earlier refutation’s objection (the refrain’s ‘others’ glossed as godless foes) no longer applies: the new context clause places the verse after 8.39.3 (the worshipper’s blissful messenger) and names its turn to Agni’s gifts, which day.js bears out, with no four-word run from the key. No school needed, no comparison, no hard passage. verse.js ok (8.39.4 at [658,4], ends at a sentence stop before the refrain); entry-check ok.",
+ "better": ""
+}

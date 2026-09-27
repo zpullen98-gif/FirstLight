@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d096-p",
+ "d": 96,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "We have accepted thousands from Dhvasra’s and Purusanti’s hands: Swift runs this giver of delight.",
+ "ref": "Rig Veda 9.58.3",
+ "at": [
+  780,
+  3
+ ],
+ "s": "Near a Soma hymn’s close, the singers turn to gifts received; Sāyaṇa, on 9.58.3, takes the givers as kings and cites the Śāṭyāyanaka, where two seers, feeling like swallowers of poison at so much, saw this hymn, and their wealth counted as taken, not accepted.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 9.58.3, Sanskrit Wikisource, revision 403221 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AB%E0%A5%AE&oldid=403221",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.५८, revision 403221 (2024)",
+    "locator": "commentary on 9.58.3 (and the whole hymn 9.58.1 to 4)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n287/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "Rig Veda 9.58.3 and note 3",
+    "via": "packet"
+   }
+  ],
+  "words": "ध्वस्रः कश्चिद्राजा पुरुषन्तिः कश्चित् । तयोरुभयोः । अत्र इतरेतरयोगविवक्षया द्विवचनं द्रष्टव्यम् । “सहस्राणि धनानां सहस्राणि “आ “दद्महे वयं प्रतिगृह्णीमः । तदस्माभिः प्रतिगृहीतं धनमुत्तममस्त्विति ऋषिः सोमं प्रार्थयत इति सोमस्य स्तुतिः । सिद्धमन्यत् । यथावत्सार एतयोर्धनानि प्रतिजग्राह एवं तरन्तपुरुमीळ्हौ प्रतिजगृहतुः । तथा च शाट्यायनकम्--- ‘ अथ ह वै तरन्त पुरुमीळ्हौ वैददश्वी ध्वस्रयोः पुरुषन्त्योर्बहु प्रतिगृह्य गरगिराविव मेनाते तौ ह स्माङ्गुल्या सातं प्रतिममृशाते तावकामयेतामसातं नाविवेदं सातं स्यादात्तमिवैव न प्रतिगृहीतमिति तावेतञ्चतुर्ऋचमपश्यतां तेन प्रत्यैतां ततो वै तयोरसातं सातमभवदात्तमिवैव न प्रतिगृहीतं",
+  "lang": "Sanskrit",
+  "gloss": "Dhvasra is a certain king, Puruṣanti a certain other; of those two. Thousands of riches we accept. The seer prays Soma that the wealth we accepted be excellent: so it is praise of Soma. As Avatsāra accepted these two’s riches, so did Taranta and Purumīḷha; and so the Śāṭyāyanaka: Taranta and Purumīḷha, sons of Vidadaśva, having accepted much (bahu pratigṛhya) from Dhvasra and Puruṣanti, thought themselves like swallowers of poison (garagirāv iva menāte); they touched the gain with a finger and wished that this gain be no gain to them, as though merely taken, not accepted as a gift. They saw this four-verse hymn (etaṃ caturṛcam apaśyatām) and by it went back; then their gain became no gain, as though merely taken, not accepted (āttam ivaiva na pratigṛhītam).",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds. day.js: 9.58 has four verses and the key is verse 3, so ‘Closing a hymn to Soma’ was inexact; it now reads ‘Near a Soma hymn’s close’. Re-opened packet.js veda 96 --verse 9.58.3: Sāyaṇa glosses Dhvasra as a certain king (Wilson note 3: two kings) and introduces the story with tathā ca śāṭyāyanakam, so the sentence keeps ‘cites the Śāṭyāyanaka’ and the Brāhmaṇa story stays the cited source’s, not Sāyaṇa’s own reading (the point on which the last revision was refuted). The image now carries its point from the cited words: bahu pratigṛhya garagirāv iva menāte (having accepted much, they thought themselves like swallowers of poison, hence ‘at so much’), etaṃ caturṛcam apaśyatām (saw this four-verse hymn), and tayor asātaṃ sātam abhavad āttam ivaiva na pratigṛhītam (their gain became as though taken, not accepted). Key, ref, at, by, src and evidence span unchanged; verse.js ok (Rig Veda 9.58.3 at [780,3]); entry-check ok."
+}

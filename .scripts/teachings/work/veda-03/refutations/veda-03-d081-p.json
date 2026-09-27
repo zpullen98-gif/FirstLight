@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d081-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A7%E0%A5%AF&oldid=402086",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 81 --verse 8.19.27 and the pinned revision 402086 (action=raw; API timestamp 2024-04-30): the Sanskrit pitur na putraḥ subhṛto duroṇa ā devāṃ etu pra ṇo haviḥ is the app’s 8.19.27. Sāyaṇa: pitrā putra ivāsmābhiḥ samyagbhṛto havirbhiḥ poṣitaḥ, ayam agniḥ putra ivāsmākaṃ subhṛtaḥ, duroṇe yajñagṛhe, devān abhilakṣya no haviḥ pra gamayatu: Agni cherished like a son, fed with offerings, sending the oblation to the gods in the house of sacrifice. The paraphrase holds. Minor, not landing: ‘fed with offerings’ is the second (yadvā) of his two glosses of subhṛtaḥ (the first: our good supporter), and he offers an alternative for pra etu (Agni comes, the oblation reaches the gods); the sentence picks one of his own options and adds nothing he does not say; Wilson follows the same choice. Plain sense checked on day.js: 8.19.25 to 26 imagine the mortal and Agni exchanged, 27 turns to the oblation. verse.js ok ([638,27]); entry-check ok.",
+ "better": ""
+}

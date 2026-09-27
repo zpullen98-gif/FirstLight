@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d065-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AC.%E0%A5%AC%E0%A5%AF&oldid=200457",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 65 --verse 6.69.8 (pinned revision 200457, API timestamp 2019-04-29): the evidence string is present verbatim (machine check true). Sāyaṇa glosses the object as yad vastu prati apaspṛdhethām asuraiḥ saha (contended for with the Asuras), tredhā as lokavedavāgātmanā tridhā sthitam (threefold as worlds, Vedas, speech), sahasram as amitam (unmeasured), and vi airayethām as the dual vyakramethām (the two strode across); the Aitareya Brāhmaṇa 6.15 he quotes names the thousand as these worlds, these Vedas and speech together, which carries ‘whole’. His yadvā alternative (a thousand cows) is left out, which does not misstate his first reading. Wilson’s note reports the same, so this is Sāyaṇa and not Griffith (whose triad differs). day.js: 6.69 calls Indra and Visnu to the Soma (6.69.1 to 6.69.7) and 6.69.8 closes it; no four-word run from the key. The only change from the cleared entry is ‘commentary on’ to ‘on’ in the sentence. verse.js ok (6.69.8 at [509,8]); entry-check ok.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d068-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A8%E0%A5%A9&oldid=400689",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Sāyaṇa on 7.23.2 through packet.js --verse 7.23.2 and by fetching the pinned revision 400689 raw: the evidence words stand verbatim, aṃhāṃsi glossed pāpāni and qualified yaiḥ āyuḥ kṣīyate, ‘those by which life wastes away’, with ati parṣi as atipāraya; Wilson’s ‘convey us beyond all those sins (by which life is shortened)’ confirms it is Sāyaṇa’s and not the proposer’s. Verse: verse.js ok, 7.23.2 at [538,2], the second whole sentence of the verse, 16 words, no dash; the only change is the curly apostrophe. Plain: ‘battle hymn’ is carried by Griffith’s text (honour Indra in the battle, strength in combat, slain foemen, booty in vv. 1 to 4); the clause paraphrases only the verse’s first, unprinted sentence and borrows no four-word run; it follows Griffith, not Sāyaṇa’s reading of the first half (plants growing, praise raised). Drift: ‘all the sins through which a life wastes away’ is exactly sarvāṇy eva … pāpāni, yaiḥ āyuḥ kṣīyate. Locator right; no school needed; no comparison; tone plain. entry-check.js ok, no errors or warnings.",
+ "better": ""
+}

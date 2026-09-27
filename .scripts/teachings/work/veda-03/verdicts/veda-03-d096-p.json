@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d096-p",
+ "d": 96,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "We have accepted thousands from Dhvasra’s and Purusanti’s hands: Swift runs this giver of delight.",
+ "ref": "Rig Veda 9.58.3",
+ "at": [
+  780,
+  3
+ ],
+ "s": "Its last two verses turn to the gifts the singers have received; Sāyaṇa, on 9.58.3, takes the givers as kings and cites the Śāṭyāyanaka, where two seers, uneasy at so much, saw this hymn and by it made their gain as if unaccepted.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 9.58.3, Sanskrit Wikisource, revision 403221 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%AB%E0%A5%AE&oldid=403221",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.५८, revision 403221 (2024)",
+    "locator": "commentary on 9.58.3 (and the whole hymn 9.58.1 to 4)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n287/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "Rig Veda 9.58.3 and note 3",
+    "via": "packet"
+   }
+  ],
+  "words": "ध्वस्रः कश्चिद्राजा पुरुषन्तिः कश्चित् । तयोरुभयोः । अत्र इतरेतरयोगविवक्षया द्विवचनं द्रष्टव्यम् । “सहस्राणि धनानां सहस्राणि “आ “दद्महे वयं प्रतिगृह्णीमः । तदस्माभिः प्रतिगृहीतं धनमुत्तममस्त्विति ऋषिः सोमं प्रार्थयत इति सोमस्य स्तुतिः । सिद्धमन्यत् । यथावत्सार एतयोर्धनानि प्रतिजग्राह एवं तरन्तपुरुमीळ्हौ प्रतिजगृहतुः । तथा च शाट्यायनकम्--- ‘ अथ ह वै तरन्त पुरुमीळ्हौ वैददश्वी ध्वस्रयोः पुरुषन्त्योर्बहु प्रतिगृह्य गरगिराविव मेनाते तौ ह स्माङ्गुल्या सातं प्रतिममृशाते तावकामयेतामसातं नाविवेदं सातं स्यादात्तमिवैव न प्रतिगृहीतमिति तावेतञ्चतुर्ऋचमपश्यतां तेन प्रत्यैतां ततो वै तयोरसातं सातमभवदात्तमिवैव न प्रतिगृहीतं",
+  "lang": "Sanskrit",
+  "gloss": "Dhvasra is a certain king, Puruṣanti a certain other; of those two (the dual taken as a pair). ‘Thousands’: thousands of riches; ‘we accept’. The seer prays to Soma that the wealth we accepted be excellent: so it is praise of Soma. As Avatsāra accepted these two’s riches, so Taranta and Purumīḷha accepted; and so the Śāṭyāyanaka: ‘Taranta and Purumīḷha, sons of Vidadaśva, having accepted much from Dhvasra and Puruṣanti, thought themselves like swallowers of poison; they touched the gain with a finger and wished: may this gain be no gain to us, as though merely taken, not accepted. They saw this four-verse hymn and by it went back; then their gain became no gain, as though merely taken, not accepted.’",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "day.js and verse.js confirm the key (ok true, ref 9.58.3, at [780,3]). In the packet source I opened, Sāyaṇa on 9.58.3 calls Dhvasra a king (Puruṣanti ‘a certain one’, the king understood; Wilson’s note 3 also has two kings), has the seer pray that the accepted wealth be excellent, and cites the Śāṭyāyanaka story of Taranta and Purumīḷha, who, uneasy as swallowers of poison at so much, saw this four-verse hymn and by it made their gain as if not accepted. CHANGED: (1) the plain sense, which restated the verse’s own content (‘names two givers’) and misplaced the refrain (it ends every verse), now gives context: the last two verses turn to the gifts received; (2) the reading: Sāyaṇa does not read the verse ‘through’ the story, he glosses it and cites the story as a parallel for the same acceptance, so the sentence now says he takes the givers as kings and cites the Śāṭyāyanaka. src year 2024 confirmed by the MediaWiki API (revision 403221, 2024-06-19). Evidence is a contiguous span of the packet (the proposal’s basis joined pieces with ellipses); entry-check ok."
+}

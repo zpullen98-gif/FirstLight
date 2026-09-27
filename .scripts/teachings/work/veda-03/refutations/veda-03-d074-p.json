@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d074-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%AE%E0%A5%AC&oldid=324074",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the packet (packet.js veda 74 --verse 7.86.6): sa svo dakṣaḥ puruṣasya svarūpavad balaṃ pāpapravṛttau kāraṇaṃ na bhavati kiṃ tarhi [dhrutiḥ] sthirā utpattisamaya eva nirmitā daivagatiḥ kāraṇam, and at the close ato mamāparādho daivāgata iti he varuṇa tvayā kṣantavya iti bhāvaḥ: both halves of the paraphrase (not a man’s own power but fate fixed at birth; so the offence is Varuṇa’s to forgive) stand in his words; Wilson’s note on 6 independently reports the same (the condition appointed by destiny at the time of birth). Both evidence pieces either side of the ellipsis re-found in the packet. verse.js ok (7.86.6 at [601,6]); entry-check ok. Plain sense faithful: 7.86.3 the sages say Varuna is angry, 7.86.5 asks him to set Vasistha free. The omitted element (the nearby Lord who impels the lesser man to sin) is not claimed, so no drift. No comparison, school or tone problem.",
+ "better": ""
+}

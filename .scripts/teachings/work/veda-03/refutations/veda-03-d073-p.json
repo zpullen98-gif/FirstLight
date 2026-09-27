@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d073-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%AD%E0%A5%A9&oldid=209146",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the packet (packet.js veda 73 --verse 7.73.1): asya tamasaḥ ajñānasya tatkāryasya jananamaraṇavataḥ saṃsāraduḥkhasya athavā prakṛtatvāt prayogaviṣayājñānasya pāram atāriṣma: darkness as ignorance and its effect, the birth-and-death sorrow of saṃsāra, or, the rite being the matter in hand, ignorance of its performance. The paraphrase follows both alternatives in order and adds nothing. Evidence re-found in the packet. verse.js ok (7.73.1 at [588,1]); entry-check ok. Plain sense: 7.73.2 calls the Asvins to the sacrifice (‘I call you to the sacrifices’); ‘at daybreak’ is not printed in 7.73 itself but the surrounding Asvin hymns of the day (7.72.4, 7.74.1) set it at the break of day and it is the literal sense of Griffith’s text, which the reading then departs from; judged not a landing attack. No comparison, school or tone problem.",
+ "better": ""
+}

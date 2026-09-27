@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d067-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A7%E0%A5%AE&oldid=189176",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 67 --verse 7.18.17 (pinned revision 189176, API timestamp 2019-02-06): the evidence string is present verbatim (machine check true). Sāyaṇa: ādhreṇa cit = daridreṇāpi sudāsā (through Sudās, even though poor, Indra caused one chief act of giving), and tāny etāni trīṇi karmāṇi asaṃbhāvitānīti nāśaṅkanīyāni indrasya mahimno ’dhikatvāt (these three deeds are not to be doubted as impossible, because of the superiority of Indra’s greatness), which carries the sentence without drift. Sudās is named in his own words (Wilson’s translation says only ‘a pauper’), so the reading is his, not the translator’s; Wilson’s note reports the same impossible-deeds sense. day.js: 7.18 tells Indra’s help to Sudas against his foes (7.18.5, 9, 15, 25); verse 17 of 25 is late; the key takes three whole sentences, stopping before ‘Thus to Sudas...’; battle stated in one plain clause, no four-word overlap. The only change is ‘commentary on’ to ‘on’. verse.js ok (7.18.17 at [533,17]); entry-check ok.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "veda-03-d079-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AE&oldid=208919", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 79 --verse 8.8.23 and the pinned revision 208919 itself (action=raw; API timestamp 2019-08-07, sha1 matches veda-lock): evidence verbatim in both. Sāyaṇa: trīṇi ... aśvinoḥ ... rathasya saṃbandhīni padāni cakrāṇi, guhāyāṃ vartamānāny etāvantaṃ kālam adṛśyamānāni ... āviḥ santi, and cites 'rathas tricakraḥ pari vartate' (RV 4.36.1) as nigamāntare prasiddham. That carries the three places as the three wheels of the Aśvins' chariot, hidden until now, with another hymn cited for the three wheels; Wilson's translation ('The three wheels ... which were invisible') agrees. verse.js ok (8.8.23 at [627,23]; the key is the verse's first sentence, stopping before the invitation). Plain sense checked on day.js: 8.8 summons the Asvins throughout to the Kanvas' Soma (8.8.3, 4), and 23 is its last verse, ending on their coming 'unto those who live'; no four-word repeat. Locator right; Yāska does not treat the hymn. entry-check ok; no school, comparison or tone issue.",
+ "better": ""
+}

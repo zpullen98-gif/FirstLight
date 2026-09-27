@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d092-p",
+ "d": 92,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "When he enkindles Agni, man should with his heart attend the song: I with the priests have kindled him.",
+ "ref": "Rig Veda 8.91.22",
+ "at": [
+  710,
+  22
+ ],
+ "s": "Closing a hymn in which a seer without cow or axe asks Agni to accept any fuel, the verse turns to the kindler; Sāyaṇa, on 8.91.22, reads the heart as a mind of faith and the song as the rite, attended in its season.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.91.22 (standard 8.102.22), sa.wikisource ऋग्वेदः सूक्तं ८.१०२, revision 321403 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A7%E0%A5%A6%E0%A5%A8&oldid=321403",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.१०२, revision 321403 (printed edition not named on the page)",
+    "locator": "commentary on 8.102.22 (app 8.91.22)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n221/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "translation of 8.102.22 (app 8.91.22)",
+    "via": "packet"
+   }
+  ],
+  "words": "“मर्त्यः मनुष्यः \"अग्निमिन्धानः काष्ठैः प्रज्वलयन् \"मनसा एव श्रद्दधानः \"धियं कर्म \"सचेत काले भजेत । \"विवस्वभिः ऋत्विग्भिश्च “अग्निम् एव “ईधे प्रज्वलयति",
+  "lang": "Sanskrit",
+  "gloss": "A mortal, a man, kindling Agni, making him blaze with logs, with the mind alone, having faith, should attend to dhī, the rite, engaging in it at its time. With the vivasvats, the priests, he kindles Agni alone.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 8.91.22 at [710,22]); plain sense matches vv. 19 to 21 (no cow, no axe, any fuel accepted) with the verse closing the 22-verse hymn. Sāyaṇa on standard 8.102.22 glosses manasā as manasā eva śraddadhānaḥ, dhiyam as karma, and sacheta as kāle bhajeta; Wilson (Cowell) renders ‘with a (devout) mind’. Corrected: he does not replace the heart with faith but keeps the mind and adds faith, so ‘reads the heart as faith’ became ‘reads the heart as a mind of faith’; ‘to be’ dropped to hold 44 words. Source line kept."
+}

@@ -1,0 +1,14 @@
+{
+ "lanesMissing": [],
+ "daysMissing": [],
+ "needVerdict": [],
+ "needRefute": [],
+ "needReverify": [],
+ "needRevRefute": [],
+ "needStandby": [],
+ "standbyMissing": [],
+ "blocked": [],
+ "hasBatch": true,
+ "alive": 32,
+ "dead": 0
+}

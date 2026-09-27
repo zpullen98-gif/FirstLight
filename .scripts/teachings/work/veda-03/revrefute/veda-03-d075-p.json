@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d075-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/download/nighantuniruktao00yask/nighantuniruktao00yask_djvu.txt",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the build’s cached copy of Sarup’s djvu text (.cache/teachings/src/veda-nighantuniruktao00yask_djvu.txt): p. 77 to 78 closes 5.7 with ‘Sipivista and Visnu are two synonyms of Visnu. The former has a contemptuous meaning, says Aupamanyava’, then 5.8 quotes the verse (Sarup’s note: vii. 100. 6) and glosses it first in the contemptuous sense, then ‘Or else ... a synonym of praise ... I am enveloped with rays ... Rays are here called sipayah, i.e. he is enveloped by them’; the exegetical note p. 241 makes the first sentence Yāska’s own and the second Aupamanyava’s. Also re-opened packet.js veda 75 --verse 7.100.6: Sāyaṇa quotes the same Nirukta verbatim, marked (निरु. ५, ७-८), so the evidence words are found. The sentence (either disparaging, with Aupamanyava, or a name of praise, enveloped in rays) is carried by Yāska’s words; it states the disparaging sense plainly without its detail, which is neither softened nor sensationalised. Locator 5.7 to 5.8 matches Sarup. The packet’s ‘nothing on 7.100.6’ for Yāska is a miss: the Nirukta does treat this verse, so the roster trap is met. Plain sense: 7.100.3 to 4 give the strides, 7.100.5 lauds the name, 7.100.6 is sixth of seven. verse.js ok (7.100.6 at [615,6]); entry-check ok.",
+ "better": ""
+}

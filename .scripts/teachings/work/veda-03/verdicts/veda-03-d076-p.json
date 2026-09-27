@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d076-p",
+ "d": 76,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When one of these repeats the other’s language, as he who learns the lesson of the teacher, Your every limb seems to be growing larger as ye converse with eloquence on the waters.",
+ "ref": "Rig Veda 7.103.5",
+ "at": [
+  618,
+  5
+ ],
+ "s": "Hailing the frogs whose voices greet the first rains, the hymn turns to address them directly; Sāyaṇa, on 7.103.5, reads the growing limbs as bodies made truly whole: turned to clay in the hot season, the frogs come forth entire when rain falls.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on 7.103.5, sa.wikisource ऋग्वेदः सूक्तं ७.१०३, revision 400502 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A7%E0%A5%A6%E0%A5%A9&oldid=400502",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ७.१०३, revision 400502 (2024)",
+    "locator": "commentary on 7.103.5 (and 7.103.1, 7.103.6 for context)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n213/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 7.103.5 and note",
+    "via": "packet"
+   }
+  ],
+  "words": "तत् तदा एषां युष्माकं सर्वं पर्व परुष्मच्छरीरं समृधेव समृद्धमेवाविकलावयवमेव भवति । इवशब्दोऽवधारणे । घर्मकाले मृद्भावमापन्ना मण्डूकाः पुनर्वर्षणे सत्यविकलाङ्गाः प्रादुर्भवन्तीत्यर्थः",
+  "lang": "Sanskrit",
+  "gloss": "Then ‘every limb’ of yours, your whole jointed body, becomes ‘as if prospered’, that is, prospered indeed, entire in its limbs; the word ‘iva’ here is emphatic. The sense is: frogs that had turned to clay in the hot season appear again, whole in every limb, when rain falls.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 7.103.5 at [618,5]); the packet’s Sanskrit for 7.103.5 (yad eṣām anyo anyasya vācaṃ ... sarvaṃ tad eṣāṃ samṛdheva parva) is the app’s verse. Sāyaṇa glosses samṛdheva parva as the whole jointed body becoming samṛddham eva, avikalāvayavam eva, takes iva as emphatic (avadhāraṇa), and explains that frogs reduced to a clay-like state in the hot season reappear whole-limbed when rain falls: exactly the reading given. Wilson’s note reports the same (the scholiast: frogs shrink like a lump of clay in dry weather and expand in the rains). Plain sense faithful: vv1 to 4 speak of the frogs in the third person as they greet the rains, and v5 turns to ‘your’ and ‘ye’; no four-word run from the key. Revision 400502 dated 2024-02-06 by the wiki API. Entry-check ok."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d066-p",
+ "d": 66,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "THE men from fire-sticks, with their hands’ swift movement, have, in deep thought, engendered glorious Agni, Far-seen, with pointed flame, Lord of the homestead.",
+ "ref": "Rig Veda 7.1.1",
+ "at": [
+  516,
+  1
+ ],
+ "s": "Opening a hymn that asks Agni for wealth and sons, the verse tells of his kindling; Sāyaṇa, commentary on 7.1.1, takes the “deep thought” as the fingers with which the priests, by the hand’s motion, bring forth the fire lying in the two sticks.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.1.1, sa.wikisource ऋग्वेदः सूक्तं ७.१, revision 309896 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A7&oldid=309896",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ७.१, revision 309896",
+    "locator": "commentary on 7.1.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n39/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 7.1.1 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "“नरः नेतार ऋत्विजः “प्रशस्तं प्रकर्षेण स्तुतं \"दूरेदृशं दूरे दृश्यमानं दूरे पश्यन्तं वा “गृहपतिं गृहाणां पालकम् “अथर्युम् आगम्यमतनवन्तं वा “अग्निम् “अरण्योः विद्यमानं “हस्तच्युती हस्तप्रच्युत्या हस्तगत्या \"दीधितिभिः अङ्गुलिभिः “जनयन्त। दीधितयोऽङ्गुलयो भवन्ति धीयन्ते कर्मसु ।",
+  "lang": "Sanskrit",
+  "gloss": "The men, the leaders, the officiating priests, brought to birth Agni, highly praised, seen from afar or seeing afar, guardian of homes, approachable or not spreading, present in the two kindling sticks, by the hand’s motion, the hand’s going, with their dīdhitis, fingers. Dīdhitis are fingers: they are set to works.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "day.js and verse.js confirm the key (ok true, ref 7.1.1, at [516,1]); the hymn asks Agni for wealth and sons (7.1.5, 7.1.11, 7.1.12), so the plain sense is faithful. Sāyaṇa glosses dīdhitibhiḥ as aṅgulibhiḥ, hastacyutī as hastapracyutyā hastagatyā, naraḥ as the officiating priests, and Agni as araṇyoḥ vidyamānam; Griffith’s note on 7.1.1 confirms that \"fingers\" is Sāyaṇa’s sense of the word he renders \"deep thought\". Evidence is a contiguous span of the packet."
+}

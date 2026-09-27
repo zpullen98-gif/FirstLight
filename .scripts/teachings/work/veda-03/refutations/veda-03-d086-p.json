@@ -1,0 +1,8 @@
+{
+ "id": "veda-03-d086-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AA%E0%A5%AE&oldid=202962", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 86 --verse 8.48.3 and the pinned revision 202962 (action=raw; API timestamp 2019-05-31). Despite the 15-against-14 verse count, the Sanskrit labelled 3 (apāma somam amṛtā abhūma aganma jyotir avidāma devān) is the app's 8.48.3, so the locator holds. Sāyaṇa glosses abhūma by the optative bhavema and grounds it: yasmāt tvam amṛtaḥ atas tava pānād vayam apy amṛtāḥ syāma, and jyotiḥ as dyotamānaṃ svargam; the sentence ('deathlessness as hoped for from drinking one who is himself deathless, and the light as shining heaven') says exactly that and no more. Wilson's 'may we become immortal; we have attained the light (of heaven)' agrees. verse.js ok (8.48.3 at [667,3]), the key is the verse's first whole sentence. Plain sense faithful to day.js (heart v4, joints v5 and v9). entry-check ok; no tone, school or comparison issue.",
+ "better": ""
+}

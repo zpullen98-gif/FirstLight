@@ -1,0 +1,253 @@
+{
+ "lane": "L1",
+ "plan": "veda",
+ "batch": "veda-03",
+ "days": [
+  {
+   "d": 65,
+   "primary": {
+    "id": "veda-03-d065-p",
+    "key": "Ye Twain have conquered, ne’er have you been conquered: never hath either of the Twain been vanquished. Ye, Indra-Visnu, when ye fought the battle, produced this infinite with three divisions.",
+    "ref": "Rig Veda 6.69.8",
+    "at": [
+     509,
+     8
+    ],
+    "s": "Closing a hymn that calls Indra and Visnu to the Soma, the verse turns to their battle; Sāyaṇa, commentary on 6.69.8, takes the “three divisions” as worlds, Vedas and speech, an unmeasured whole the two contended for with the Asuras and strode across.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 6.69.8, sa.wikisource ऋग्वेदः सूक्तं ६.६९, revision 200457 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “विष्णो “इन्द्रश्च त्वं च युवां “यत् यद्वस्तु प्रति “अपस्पृधेथाम् असुरैः सहास्पृधेथां “त्रेधा लोकवेदवागात्मना त्रिधा स्थितं \"सहस्रम् अमितं च “वि “तत् “ऐरयेथां व्यक्रमेथामित्यर्थः",
+     "gloss": "O Viṣṇu, you and Indra, the thing over which you contended with the Asuras, standing threefold as worlds, Vedas and speech, and sahasra, that is, unmeasured: that you went across (vi airayethām means you strode across)."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d065-s",
+    "key": "In sweet association lived the fathers who gave us life, profound and strong in trouble, Unwearied, armed with shafts and wondrous weapons, free, real heroes, conquerors of armies.",
+    "ref": "Rig Veda 6.75.9",
+    "at": [
+     515,
+     9
+    ],
+    "s": "In a hymn that hails a warrior’s mail, bow, quiver, reins, horses and car, the verse praises a company of heroes; Sāyaṇa, commentary on 6.75.9, takes these “fathers” as the chariot’s guards, bearing spears and arrows, givers of food who stand by in distress.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 6.75.9, sa.wikisource ऋग्वेदः सूक्तं ६.७५, revision 400055 (2023)",
+    "basis": {
+     "source": "sayana",
+     "words": "अत्र रथगोपस्तुतिः । \"पितरः रथस्य पालयितारः \"स्वादुषंसदः शत्रूणां स्वादुनि अन्ने संसीदन्तः शत्रूणामन्नमवसादयन्तो वा “वयोधाः अन्नस्य दातार: कृच्छ्रेश्रितः आपदि श्रयन्तः “शक्तीवन्तः शक्तिरायुधविशेषः तद्वन्तः शक्तीवन्तः । शक्तिहस्ता इति यावत् । … “इषुबलाः । बाणबलाः",
+     "gloss": "Here is the praise of the chariot’s guards. Pitaraḥ: the protectors of the chariot; svāduṣaṃsadaḥ: sitting down to the enemies’ sweet food, or laying low the enemies’ food; vayodhāḥ: givers of food; kṛcchreśritaḥ: standing by in calamity; śaktīvantaḥ: having the śakti, a kind of weapon, that is, spear in hand. … iṣubalāḥ: strong in arrows."
+    }
+   }
+  },
+  {
+   "d": 66,
+   "primary": {
+    "id": "veda-03-d066-p",
+    "key": "THE men from fire-sticks, with their hands’ swift movement, have, in deep thought, engendered glorious Agni, Far-seen, with pointed flame, Lord of the homestead.",
+    "ref": "Rig Veda 7.1.1",
+    "at": [
+     516,
+     1
+    ],
+    "s": "Opening a hymn that asks Agni for wealth and sons, the verse tells of his kindling; Sāyaṇa, commentary on 7.1.1, takes the “deep thought” as the fingers with which the priests, by the hand’s motion, bring forth the fire lying in the two sticks.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.1.1, sa.wikisource ऋग्वेदः सूक्तं ७.१, revision 309896 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“नरः नेतार ऋत्विजः “प्रशस्तं प्रकर्षेण स्तुतं \"दूरेदृशं दूरे दृश्यमानं दूरे पश्यन्तं वा “गृहपतिं गृहाणां पालकम् “अथर्युम् आगम्यमतनवन्तं वा “अग्निम् “अरण्योः विद्यमानं “हस्तच्युती हस्तप्रच्युत्या हस्तगत्या \"दीधितिभिः अङ्गुलिभिः “जनयन्त। दीधितयोऽङ्गुलयो भवन्ति धीयन्ते कर्मसु ।",
+     "gloss": "The men, that is the leaders, the officiating priests, brought to birth Agni, highly praised, seen from afar or seeing afar, protector of homes, approachable or not spreading, present in the two kindling sticks, by the hand’s motion, the hand’s movement, with their dīdhitis, that is, with their fingers. Dīdhitis are fingers, because they are set to works."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d066-s",
+    "key": "Unwelcome for adoption is the stranger, one to be thought of as another’s offspring, Though grown familiar by continual presence.",
+    "ref": "Rig Veda 7.4.8",
+    "at": [
+     519,
+     8
+    ],
+    "s": "Having told Agni that no son springs from others, the hymn turns against adoption; Yāska, Nirukta 3.3, explains that a stranger, however delightful, is not to be adopted or counted one’s own even in thought, and that the newly born alone is a son.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 3.3, archive.org nighantuniruktao00yask (Lakshman Sarup’s translation, 1920 to 1921)",
+    "basis": {
+     "source": "yaska",
+     "words": "The stranger should never be adopted, although he may be the most delightful man. The child begotten in another's - womb should not be regarded as ' this is my son ', even in thought. … he alone is (the real) son.",
+     "gloss": "A stranger is never to be adopted, even the most delightful of men; a child begotten in another’s womb is not to be regarded, even in thought, as one’s own son … (of the newly born who is to come to the house:) he alone is the son."
+    }
+   }
+  },
+  {
+   "d": 67,
+   "primary": {
+    "id": "veda-03-d067-p",
+    "key": "E’en with the weak he wrought this matchless exploit: e’en with a goat he did to death a lion. He pared the pillar’s angles with a needle.",
+    "ref": "Rig Veda 7.18.17",
+    "at": [
+     533,
+     17
+    ],
+    "s": "Late in a hymn on Indra’s aid to Sudas in battle, the verse names three marvels; Sāyaṇa, commentary on 7.18.17, takes the weak one as Sudas when poor, and holds the three deeds not to be doubted as impossible, since Indra’s greatness surpasses them.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.18.17, sa.wikisource ऋग्वेदः सूक्तं ७.१८, revision 189176 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“इन्द्रः “तत् तदा “आध्रेण “चित् दरिद्रेणापि सुदासा “एकं मुख्यं दानकर्म “चकार कारयामास … तान्येतानि त्रीणि कर्माणि असंभावितानीति नाशङ्कनीयानि इन्द्रस्य महिम्नोऽधिकत्वात् ।",
+     "gloss": "Indra then, even by means of Sudās, who was poor (āghra glossed as daridra, poor), caused one chief act of giving to be done … these three deeds are not to be suspected of being impossible, because of the surpassing greatness of Indra."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d067-s",
+    "key": "Three times a day in thee are shown the treasures sent for the mortal who presents oblation.",
+    "ref": "Rig Veda 7.11.3",
+    "at": [
+     526,
+     3
+    ],
+    "s": "In a short hymn hailing Agni as herald of the sacrifice, the verse speaks of the day’s gifts; Sāyaṇa, commentary on 7.11.3, takes the “treasures” as oblations that the priests make known in Agni at the three Soma pressings for the giver’s sake.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.11.3, sa.wikisource ऋग्वेदः सूक्तं ७.११, revision 209135 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे “अग्ने “त्वे त्वयि “अन्तः मध्ये “अक्तोः अह्नः। यद्यप्यक्तुरिति रात्रेर्नाम तथाप्यत्राज्यन्ते व्यज्यन्ते रूपादीन्यस्मिन्नित्यह्नो नाम । “त्रिः त्रिवारं त्रिषु सवनेषु “वसूनि हवींषि “दाशुषे हविषां प्रदात्रे मर्त्याय मनुष्याय । तदर्थमित्यर्थः। “प्र “चिकितुः प्रवेदयन्त्यृत्विजः ।",
+     "gloss": "O Agni, in thee, within, of the day (aktoḥ: though aktu is a name of night, here it is a name of day, because in it forms and the rest are made manifest); three times, that is, at the three pressings, the treasures, that is, the oblations, for the mortal who gives the oblations, that is, for his sake: the priests make them known."
+    }
+   }
+  },
+  {
+   "d": 68,
+   "primary": {
+    "id": "veda-03-d068-p",
+    "key": "None among men knows his own life’s duration: bear us in safety over these our troubles.",
+    "ref": "Rig Veda 7.23.2",
+    "at": [
+     538,
+     2
+    ],
+    "s": "In a battle hymn to Indra, after a cry goes up to the gods for strength, the singer turns to the span of a life; Sāyaṇa, commentary on 7.23.2, takes the “troubles” as all the sins through which a life wastes away.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.23.2, sa.wikisource ऋग्वेदः सूक्तं ७.२३, revision 400689 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "अपि च “जनेषु मध्ये केनापि \"स्वमायुः स्वजीवितं नहि “चिकिते न ज्ञायते । यैः “आयुः क्षीयते “तानीत् तानि सर्वाण्येव \"अंहांसि पापानि \"अस्मान् \"अति \"पर्षि अतिपारय ॥",
+     "gloss": "Moreover, among men, by no one is his own life, his own living, known. Those by which life wastes away: all those very aṃhāṃsi, that is, sins, carry us beyond (ati parṣi: carry across)."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d068-s",
+    "key": "SOMA unpressed ne’er gladdened liberal Indra, no juices pressed without a prayer have pleased him.",
+    "ref": "Rig Veda 7.26.1",
+    "at": [
+     541,
+     1
+    ],
+    "s": "Opening a hymn in which the singer offers Indra a new laud, the verse joins pressing and prayer; Sāyaṇa, commentary on 7.26.1, reads it as the reason that at all three pressings the Soma is offered only when praised with the Pavamāna chants.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.26.1, sa.wikisource ऋग्वेदः सूक्तं ७.२६, revision 189512 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“मघवानं धनवन्तम् “इन्द्रम् “असुतः नाभिषुतः “सोमः “न “ममाद न तर्पयति । \"सुतासः अभिषुता अपि सोमाः \"अब्रह्माणः स्तोत्रहीनाः “न ममदुः । … अत एव त्रिष्वपि सवनेषु पावमानैः स्तोत्रैः स्तुता एव सोमा हूयन्ते ।",
+     "gloss": "Soma not pressed does not gladden Indra, the bounteous, the rich; Soma juices, even pressed, if abrahman, that is, without hymns of praise, did not gladden him … For this very reason, at all three pressings, only Soma juices praised with the Pavamāna chants are offered."
+    }
+   }
+  },
+  {
+   "d": 69,
+   "primary": {
+    "id": "veda-03-d069-p",
+    "key": "Three fertilize the worlds with genial moisture: three noble Creatures cast a light before them. Three that give warmth to all attend the morning. All these have they discovered, these Vasisthas.",
+    "ref": "Rig Veda 7.33.7",
+    "at": [
+     548,
+     7
+    ],
+    "s": "In a hymn on the Vasisthas and their birth, the verse credits them with a threefold lore; Sāyaṇa, commentary on 7.33.7, citing the Śāṭyāyanaka, reads the triads as Agni, Vāyu and the Sun in earth, air and sky, and the Vasus, Rudras and Ādityas.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.33.7, sa.wikisource ऋग्वेदः सूक्तं ७.३३, revision 327730 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "तेषां रहस्यविज्ञानादियमपि वसिष्ठानामेव स्तुतिः। तथा च शाट्यायनकं-- त्रयः कृण्वन्ति भुवनेषु रेत इत्यग्निः पृथिव्यां रेतः कृणोति वायुरन्तरिक्ष आदित्यो दिवि तिस्रः प्रजा आर्या ज्योतिरग्रा इति वसवो रुद्रा आदित्यास्तासां ज्योतिर्यदसावादित्यस्त्रयो घर्मास उषसं सचन्त इत्यग्निरुषसं सचते वायुरुषसं सचत आदित्य उषसं सचते",
+     "gloss": "Because they know the secret of these, this too is a praise of the Vasiṣṭhas alone. So the Śāṭyāyanaka: ‘three make seed in the worlds’: Agni makes seed on the earth, Vāyu in the mid-air, Āditya in the sky; ‘three noble peoples led by light’: the Vasus, the Rudras, the Ādityas, and their light is yonder sun; ‘three warm ones attend the dawn’: Agni attends the dawn, Vāyu attends the dawn, Āditya attends the dawn."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d069-s",
+    "key": "They, verily, were also human beings whom thou wast wont to hear, those earlier sages. Hence I, O Indra Maghavan, invoke thee: thou art our Providence, even as a Father.",
+    "ref": "Rig Veda 7.29.4",
+    "at": [
+     544,
+     4
+    ],
+    "s": "In a short hymn calling Indra to the pressed Soma, the singer grounds his call in the past; Sāyaṇa, commentary on 7.29.4, takes those earlier sages as a boon to men, and the “Providence” as a kinsman who stands to the singers as a father.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.29.4, sa.wikisource ऋग्वेदः सूक्तं ७.२९, revision 189828 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे \"मघवन् \"येषां \"पूर्वेषाम् “ऋषीणां स्तुतीः \"अशृणोः \"ते पूर्व ऋषयः \"पुरुष्याः \"इत् पुरुषेभ्यो हिता एव \"आसन् । \"अध अतः \"अहं \"त्वा त्वां \"जोहवीमि भृशं स्तौमि । अपि च हे \"इन्द्र “त्वं \"नः अस्माकं \"पितेव जनक इव \"प्रमतिः बन्धुः \"असि ॥",
+     "gloss": "O Maghavan, those earlier seers whose praises you heard were puruṣyāḥ, that is, beneficial to men. Therefore I invoke you, praise you intensely. And, O Indra, you are to us, like a father, a begetter, our pramati, that is, our kinsman."
+    }
+   }
+  },
+  {
+   "d": 70,
+   "primary": {
+    "id": "veda-03-d070-p",
+    "key": "With offerings I propitiate the branches of this swift-moving God, the bounteous Visnu.",
+    "ref": "Rig Veda 7.40.5",
+    "at": [
+     555,
+     5
+    ],
+    "s": "In a hymn calling the gods to the rite and asking for riches, the singer turns to Visnu; Sāyaṇa, commentary on 7.40.5, takes Visnu as the self of all the gods, citing a Vedic text, and the other gods as his branches.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.40.5, sa.wikisource ऋग्वेदः सूक्तं ७.४०, revision 224367 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "“प्रभृथे “हविर्भिः हवीरूपैरन्नैः “एषस्य प्रापणीयस्य “मीळ्हुषः कामानां सेक्तुः “विष्णोः सर्वदेवात्मकस्य “अस्य “देवस्य । विष्णुः सर्वा देवताः' … इति श्रुतेः । अन्ये देवाः “वयाः शाखा इव भवन्ति ।",
+     "gloss": "At the offering, with oblations, that is, with food in the form of oblations, of this god Viṣṇu, who is to be reached, the showerer of desires, whose self is all the gods, according to the Vedic text ‘Viṣṇu is all the deities’: the other gods are vayāḥ, as it were his branches."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d070-s",
+    "key": "We will invoke strong, early-conquering Bhaga, the Son of Aditi, the great supporter: Thinking of whom, the poor, yea, even the mighty, even the King himself says, Give me Bhaga.",
+    "ref": "Rig Veda 7.41.2",
+    "at": [
+     556,
+     2
+    ],
+    "s": "In a hymn calling the gods at dawn, the verse turns to Bhaga and his suppliants; Yāska, Nirukta 12.14, explains the poor as those who long to be rich, and Bhaga as the sun, said to be blind because unseen before he rises.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 12.14, archive.org nighantuniruktao00yask (Lakshman Sarup’s translation, 1920 to 1921)",
+    "basis": {
+     "source": "yaska",
+     "words": "Thinking of whom the destitute, i. e. the poor desirous of becoming rich. … They say that Bhaga is blind: it is not visible, while it has not risen. … Bhaga (fortune) goes to man,^ i. e. the sun after rising goes to men.",
+     "gloss": "Thinking of whom the destitute, that is, the poor who wish to become rich (call on Bhaga). They say Bhaga is blind: it is not seen while it has not yet risen. It is said that Bhaga goes to man, that is, the sun, once risen, goes to men."
+    }
+   }
+  }
+ ]
+}

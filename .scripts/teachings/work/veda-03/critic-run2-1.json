@@ -1,0 +1,3 @@
+{"ok":false,"problems":[
+{"d":88,"id":"veda-03-d088-p","problem":"The only sentence in the batch that still reads ‘Sāyaṇa, commentary on 8.61.7’; the other 30 Sāyaṇa sentences (d65 to d70 and d83 to d87 included, after revision) read ‘Sāyaṇa, on m.h.v’. Unlike src, the sentence is shown to the reader, so the lone outlier is visible on the page. Everything else in the entry stands: the reading matches the Sanskrit (सप्त ऋत्विजः एकां घर्मं दुहन्ति ... द्वौ प्रतिप्रस्थातारावध्वर्यू पञ्च अन्यान् उप सृजतः प्रयोजयतः ... यजमानं ...), and the gharma as the milk-boiling vessel is how Cowell’s note in Wilson reports him.","fix":"Change ‘Sāyaṇa, commentary on 8.61.7, reads’ to ‘Sāyaṇa, on 8.61.7, reads’ and change nothing else (42 words); rerun entry-check."}
+]}

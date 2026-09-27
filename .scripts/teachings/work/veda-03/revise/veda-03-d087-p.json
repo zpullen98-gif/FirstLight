@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d087-p",
+ "d": 87,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Let not this fetter bind us fast: may he release us for success; For strong is Indra and renowned.",
+ "ref": "Rig Veda 8.56.8",
+ "at": [
+  675,
+  8
+ ],
+ "s": "In a hymn to the Adityas and Aditi, pleading for life and release, the verse turns for once to Indra; Sāyaṇa, on 8.56.8, reads the fetter as a binding net and Indra, controller of all, as keeping the speakers clear of it.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.56.8 (standard 8.67.8), sa.wikisource ऋग्वेदः सूक्तं ८.६७, revision 299570 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AC%E0%A5%AD&oldid=299570",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.६७, revision 299570",
+    "locator": "commentary on 8.56.8 (standard 8.67.8)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n128/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "Rig Veda 8.56.8 (app numbering)",
+    "via": "packet"
+   }
+  ],
+  "words": "नः अस्मान् “सेतुः बन्धको जालः “मा “सिषेत् मा बध्नातु । \"नः अस्मान् “महे महते कर्मणे \"परि “वृणक्तु परिवर्जयतु जालात् । कः । “इन्द्र “इत् इन्द्र एव “श्रुतः विश्रुतः “वशी सर्वस्य वशीकर्ता । स परि वृणक्तु",
+  "lang": "Sanskrit",
+  "gloss": "Let not the setu, the binding net, bind us; let him keep us clear, away from the net, for a great work. Who? Indra alone, renowned, the controller of all: let him keep us clear.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the sentence wrote the place as “Sāyaṇa, commentary on 8.56.8,” where the batch and veda-01/02 use “Sāyaṇa, on m.h.v,”. Changed “commentary on” to “on” and nothing else; key, ref, at, commentator, reading, src and evidence unchanged. Re-opened packet.js veda 87 --verse 8.56.8: the Sanskrit and the evidence words stand as given and still carry every part of the reading. 42 words; verse.js ok (8.56.8 at [675,8]); entry-check ok."
+}

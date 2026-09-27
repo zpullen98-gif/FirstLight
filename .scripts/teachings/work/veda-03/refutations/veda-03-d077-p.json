@@ -1,0 +1,8 @@
+{
+ "id": "veda-03-d077-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A8&oldid=302478", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 77 --verse 8.2.18 and the pinned revision 302478 itself (action=raw; API timestamp 2021-02-21, sha1 matches veda-lock): the evidence words are verbatim in both. Sāyaṇa: devāḥ indrādayaḥ sarve icchanti rakṣitum (wish to guard the presser), svapnāvasthāṃ tasya sunvato nepsanti, sarvadā prabuddham eva kurvanti (keep him ever awake), and atandrāḥ analasā devāḥ pramādaṃ prakarṣeṇa madakaraṃ tadīyaṃ somaṃ yanti prāpnuvanti: pramāda, the word Griffith renders 'sloth', taken as his exhilarating Soma which the unwearied gods reach. Every clause of the paraphrase is carried; 'gladdening' for madakara is a fair rendering of mada (Wilson has 'inebriating'), not a hard passage softened. verse.js ok (8.2.18 at [621,18], the app's own run-on 'sleep They' kept verbatim). Plain sense checked on day.js: the Kanvas praise Indra at 8.2.16, 22, 38, and 8.2.18 turns from Indra to the gods and the presser; no four-word repeat. Locator right (app and standard agree for 8.2); Yāska does not treat the verse. entry-check ok; no school, comparison or tone issue.",
+ "better": ""
+}

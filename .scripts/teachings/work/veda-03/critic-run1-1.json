@@ -1,0 +1,41 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 66,
+   "id": "veda-03-d066-p",
+   "problem": "Spread: Sāyaṇa holds 32 of 32 days (the gate warns), yet on this very key verse Yāska has a real comment. The Nirukta treats 7.1.1 at 5.10, and Sāyaṇa's commentary on the verse quotes it verbatim for the gloss the entry gives him (दीधितयोऽङ्गुलयो भवन्ति धीयन्ते कर्मसु ... अरणी प्रत्यृत एने अग्निः समरणाज्जायत इति वा, ‘निरु. ५.१०’). So the ‘fingers’ reading is first Yāska's, and Sāyaṇa takes it from him.",
+   "fix": "Open Sarup's Nirukta 5.10 (his translation p. 78, archive.org nighantuniruktao00yask) and give d66 to Yāska, keeping the same plain sense: Yāska, Nirukta 5.10, explains the word Griffith renders ‘deep thought’ as the fingers, so called because they are set to works, and the fire as born from the rubbing of the two sticks. Set by: yaska and src: ‘Yāska, Nirukta 5.10, Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask’, with evidence from Sarup. If Sarup cannot be opened, keep Sāyaṇa. The only other key verse the Nirukta treats is d75 (7.100.6, Nirukta 5.7 to 8), where the reading turns on an indecorous sense of Śipiviṣṭa, so Sāyaṇa should stay there."
+  },
+  {
+   "d": 84,
+   "id": "veda-03-d084-p",
+   "problem": "The plain sense lifts the refrain ‘all the others die away’ unquoted and leaves ‘the others’ unexplained. A reader at six in the morning cannot tell who ‘the others’ are, so the image has no point. The key verse is printed without the refrain, which makes this worse.",
+   "fix": "Name what the refrain wishes away in the hymn's own context (8.39.2: the hatreds of the godless and the destroyers), for example: ‘A hymn to Agni whose every verse ends by wishing the singer’s foes gone calls him the worshipper’s messenger; Sāyaṇa, commentary on 8.39.4, reads the delight as happiness born of calm and of sense contact, and takes Agni as doing all, whatever god is invoked.’ (45 words)"
+  },
+  {
+   "d": 96,
+   "id": "veda-03-d096-p",
+   "problem": "Two faults. (1) ‘Closing a hymn to Soma’ is inexact: 9.58 has four verses, and the key is verse 3, the first of the two that turn to the gifts (the verdict's own wording, ‘Its last two verses’, was accurate). (2) ‘made their gain as if unaccepted’ leaves the image without its point. The reader is never told that accepting so large a gift weighed on the seers (बहु प्रतिगृह्य गरगिराविव मेनाते), nor that by the hymn the wealth counted as taken but not received as a gift (आत्तमिवैव न प्रतिगृहीतम्).",
+   "fix": "Open with ‘Near the close of a short hymn to Soma, the singers turn to the gifts received’. Then give the point in Sāyaṇa's words, keeping ‘takes the givers as kings’ as the governing verb: two seers, having accepted much and feeling they had swallowed poison, saw this hymn, and by it the wealth counted as taken, not accepted as a gift. Trim to 45 words or fewer."
+  },
+  {
+   "d": 88,
+   "id": "veda-03-d088-p",
+   "problem": "The reading uses three technical terms with no gloss: ‘the one gharma’, ‘pratiprasthātṛ’ and ‘adhvaryu’. For a general reader the sentence names priests and a vessel it never explains, so the thought does not come through, even though the attribution is correct (सप्त ऋत्विजः एकां घर्मं दुहन्ति ... द्वौ प्रतिप्रस्थातारावध्वर्यू पञ्च अन्यान् प्रयोजयतः).",
+   "fix": "Shorten the plain sense (for example ‘Midway through a hymn to Agni, the verse speaks in numbers’) to make room, then gloss in place: seven priests milking the one gharma, the heated milk of the rite, and two of them, the adhvaryu priests, directing the other five, the sacrificer among them. Avoid ‘set … to work’, which would echo the key. Stay within 45 words."
+  },
+  {
+   "d": 65,
+   "id": "veda-03-d065-p",
+   "problem": "House style is inconsistent across the batch. Days 65 (“three divisions”), 66 (“deep thought”) and 68 (“troubles”) quote the key verse in double curly quotes, while days 72, 77, 90 and 94 use single curly quotes, and veda-01 and veda-02 use single quotes throughout.",
+   "fix": "Change the double quotes in d65, d66 and d68 to single curly quotes: ‘three divisions’, ‘deep thought’, ‘troubles’."
+  },
+  {
+   "d": 0,
+   "id": "",
+   "problem": "The src lines use four different forms. Days 65 to 70 have ‘Vedārthaprakāśa, commentary on m.h.v, sa.wikisource ऋग्वेदः सूक्तं …’; day 71 and days 77 to 94 drop the comma and ‘commentary’ (‘Vedārthaprakāśa on …’); days 72 to 76 have ‘Vedārthaprakāśa, on …’; and days 95 and 96 have ‘on Rig Veda 9.42.4, Sanskrit Wikisource, revision …’ without the page name the other 30 carry. The body text also varies: days 65 to 70 and 83 to 88 have ‘commentary on’ where the rest have ‘on’. veda-02 uses one form throughout.",
+   "fix": "Bring every src to one form, preferably veda-02's: ‘Sāyaṇa, Vedārthaprakāśa on Rig Veda m.h.v, sa.wikisource (printed edition not named), revision N (year)’. For app Book 8 numbers, keep the standard number in parentheses. Also use one place form in the sentences (‘on m.h.v’ or ‘commentary on m.h.v’) across the batch."
+  }
+ ]
+}

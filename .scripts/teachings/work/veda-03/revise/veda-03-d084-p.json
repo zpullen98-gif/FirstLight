@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d084-p",
+ "d": 84,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Agni bestows all vital power even as each man supplicates. He brings the Vasus strengthening gifts, and grants delight, in rest and stir, for every calling on the Gods.",
+ "ref": "Rig Veda 8.39.4",
+ "at": [
+  658,
+  4
+ ],
+ "s": "A hymn to Agni whose every verse wishes the singer’s godless foes to die away calls him the worshipper’s messenger; Sāyaṇa, on 8.39.4, reads the delight as happiness born of calm and of sense contact, and takes Agni as doing all, whatever god is invoked.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.39.4, sa.wikisource ऋग्वेदः सूक्तं ८.३९, revision 275528 (2020)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A9%E0%A5%AF&oldid=275528",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.३९, revision 275528",
+    "locator": "commentary on 8.39.4",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n69/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "Rig Veda 8.39.4 and its note",
+    "via": "packet"
+   }
+  ],
+  "words": "“ऊर्जाहुतिः अन्नेनाहूयमानोऽग्निः “वसूनां हविषां वासकानां यजमानानां “शं शान्तिनिमित्तं \"योः विषययोगजनितं “च “मयः सुखं “दधे करोति । “विश्वस्यै “देवहूत्यै सर्वस्मै देवानां ह्वानाय च भवति । यः कश्चनापि देवो यदि हूयते अग्निरेव सर्वं करोतीत्यर्थः ।",
+  "lang": "Sanskrit",
+  "gloss": "Agni, invoked with food (ūrjāhutiḥ), makes (dadhe) for the Vasus, that is the sacrificers who hold the oblations, happiness (mayaḥ), both śam, caused by tranquillity, and yoḥ, born of contact with the objects of sense. He is there for every invocation of the gods: whatever god is invoked, Agni alone does everything; that is the meaning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The critic holds: the refrain’s “the others” was unexplained, and the printed key verse stops before the refrain. day.js 8.39.2 names them: “All hatreds of the godless, all the wicked man’s malignities. Away let the destroyers go.” The context clause now says every verse wishes the singer’s godless foes to die away (the refrain’s own verb, not softened, as the earlier refuter required). “commentary on 8.39.4” shortened to “on 8.39.4” to stay at 45 words; the reading, evidence and src are unchanged. Re-opened packet.js veda 84 --verse 8.39.4: śaṃ śāntinimittam, yoḥ viṣayayogajanitam, mayaḥ sukham; yaḥ kaścanāpi devo yadi hūyate agnir eva sarvaṃ karoti. verse.js ok (8.39.4 at [658,4]); entry-check ok (45 words); recheck-evidence finds every piece (packet)."
+}

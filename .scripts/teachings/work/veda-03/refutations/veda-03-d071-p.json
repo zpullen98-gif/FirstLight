@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d071-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%AB%E0%A5%AC&oldid=403392",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 71 --verse 7.56.14 (pinned revision 403392; API timestamp 2024-06-29, so the year stands): Sāyaṇa glosses sahasriyam as sahasrasaṃkhyākam, then asks ekaṃ bhāgaṃ sahasriyam iti katham āha and answers from Taittirīya Brāhmaṇa 3.2.6.4 that the one oblation spreads as far as the one deity desires; the paraphrase (one portion thousandfold, because the oblation spreads as far as the deity desires) is his question and answer, no drift. Wilson’s note reports the same scholiast question and answer. Evidence words re-found verbatim in the packet by squash-match. verse.js ok (7.56.14 at [571,14]), the second whole sentence of the verse, from the text. Plain sense checked on day.js: 7.56 has 25 verses to the Maruts, 11 to 13 on their ornaments and splendour, 14 turns to the household portion; no four-word run from the key, no doctrine. No Yāska treatment. entry-check ok (41 words). No school, comparison or tone issue.",
+ "better": ""
+}

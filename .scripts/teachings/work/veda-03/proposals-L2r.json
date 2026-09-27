@@ -1,0 +1,212 @@
+{
+ "lane": "L2r",
+ "plan": "veda",
+ "batch": "veda-03",
+ "days": [
+  {
+   "d": 72,
+   "primary": {
+    "id": "veda-03-d072-p",
+    "key": "WHEN thou, O Sun, this day, arising sinless, shalt speak the truth to Varuna and Mitra, O Aditi, may all the Deities love us, and thou, O Aryaman, while we are singing.",
+    "ref": "Rig Veda 7.60.1",
+    "at": [
+     575,
+     1
+    ],
+    "s": "A hymn chiefly to Mitra and Varuna opens on the rising Sun, watcher of mortal deeds; Sāyaṇa, on 7.60.1, reads ‘sinless’ as the word the Sun is asked to speak of the singers, so that among the gods they may truly be free of sin.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.60.1, sa.wikisource ऋग्वेदः सूक्तं ७.६०, revision 349701 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "यत् यदि अद्य अस्मिन्ननुष्ठानकाले अस्मान् ब्रवः ब्रूयाः । किमिति । अनागाः अनागस इति । एतेऽपापा इति यदि देवेषु मध्ये ब्रूयाः तर्हि वयं हे अदिते अदीन देव देवत्रा देवेषु देवानां मध्ये मित्राय वरुणाय च सत्यम् अवितथं स्याम अनागसो भवेम",
+     "gloss": "If today, at this hour of the rite, you should say of us, what? ‘anāgāḥ’, that is, ‘they are sinless’; if among the gods you should say ‘these are without sin’, then we, O Aditi, among the gods would be truly, not falsely, sinless before Mitra and Varuṇa."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d072-s",
+    "key": "Bonds of the sinner, they bear many nooses: the wicked mortal hardly may escape them. Varuna-Mitra, may your path of Order bear us o’er trouble as a boat o’er waters.",
+    "ref": "Rig Veda 7.65.3",
+    "at": [
+     580,
+     3
+    ],
+    "s": "Between praise of their lordship and a plea for rain, a sunrise hymn to Mitra and Varuna names their snares and their path; Sāyaṇa, on 7.65.3, takes the sinner as one who offers no sacrifice, and Order as the sacrifice offered to them.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.65.3, sa.wikisource ऋग्वेदः सूक्तं ७.६५, revision 201196 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "ता तौ मित्रावरुणौ भूरिपाशौ प्रभूतबन्धनसाधनपाशोपेतौ अनृतस्य यागरहितस्य सेतू सेतुवद्बन्धकौ रिपवे मर्त्याय वैरिजनाय दुरत्येतू दुरतिक्रमौ भवतः । हे मित्रावरुणा तादृशौ मित्रावरुणौ वां युवयोः ऋतस्य यज्ञस्य युवयोरर्थायानुष्ठीयमानस्य यागस्य पथा मार्गेण दुरिता दुःखानि तरेम नावा अपो न प्रभूतान्युदकानीव",
+     "gloss": "Those two, Mitra and Varuṇa, ‘of many nooses’, holding many snares that serve to bind, are ‘bonds’, binding like a dam, ‘of anṛta’, that is, of the one without sacrifice; they are hard to pass for the hostile mortal. O Mitra and Varuṇa, such as you are, by the path of your ‘ṛta’, that is, of the sacrifice performed for your sake, may we cross troubles, as by a boat abundant waters."
+    }
+   }
+  },
+  {
+   "d": 73,
+   "primary": {
+    "id": "veda-03-d073-p",
+    "key": "WE have o’erpassed the limit of this darkness while, worshipping the Gods, we sang their praises.",
+    "ref": "Rig Veda 7.73.1",
+    "at": [
+     588,
+     1
+    ],
+    "s": "At daybreak a hymn to the Asvins calls the twin gods to the rite; Sāyaṇa, on 7.73.1, reads the darkness crossed as ignorance with its effect, the sorrow of birth and death, or, since the rite is in hand, ignorance of how it is performed.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.73.1, sa.wikisource ऋग्वेदः सूक्तं ७.७३, revision 209146 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "अस्य तमसः अज्ञानस्य तत्कार्यस्य जननमरणवतः संसारदुःखस्य अथवा प्रकृतत्वात् प्रयोगविषयाज्ञानस्य पारम् अतारिष्म तीर्णाः स्म । किं कुर्वन्तः । देवयन्तः देवकामाः स्तोमं स्तुतिं प्रति दधानाः देवेषु कुर्वाणाः",
+     "gloss": "‘Of this darkness’, that is, of ignorance and of its effect, the sorrow of worldly existence with its birth and death; or else, since it is the matter in hand, of ignorance concerning the performance of the rite: of that we have reached the far shore, we have crossed it. Doing what? Longing for the gods, offering praise among the gods."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d073-s",
+    "key": "Come with the Gods associate, come ye hither to us, Nasatyas, with your car accordant. ’Twixt you and us there is ancestral friendship and common kin: remember and regard it.",
+    "ref": "Rig Veda 7.72.2",
+    "at": [
+     587,
+     2
+    ],
+    "s": "In a short hymn calling the Asvins at dawn from every quarter, the second verse turns to kinship; Sāyaṇa, on 7.72.2, explains it as descent from one grandfather, since Vivasvat, the Asvins’ father, and Varuna, Vasistha’s, were both born of Kaśyapa and Aditi.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.72.2, sa.wikisource ऋग्वेदः सूक्तं ७.७२, revision 360655 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "उत अपि च युवयोर्मम च बन्धुः। बन्धकः पितामहः समानः एक एव । तस्य वित्तम् … विवस्वान् वरुणश्चोभावपि कश्यपादितेर्जातौ विवस्वानश्विनोर्जनको वरुणो वसिष्ठस्येतीत्येवं समानबन्धुत्वम्",
+     "gloss": "And the kinsman of you two and of me, the one who binds, the grandfather, is common, one and the same: know him … Vivasvat and Varuṇa were both born of Kaśyapa and Aditi; Vivasvat is the father of the Aśvins, Varuṇa of Vasiṣṭha: in this way the kinship is common."
+    }
+   }
+  },
+  {
+   "d": 74,
+   "primary": {
+    "id": "veda-03-d074-p",
+    "key": "Not our own will betrayed us, but seduction, thoughtlessness, Varuna wine, dice, or anger. The old is near to lead astray the younger: even sleep removeth not all evil-doing.",
+    "ref": "Rig Veda 7.86.6",
+    "at": [
+     601,
+     6
+    ],
+    "s": "Told by the sages that Varuna is angry, the singer asks to be set free; Sāyaṇa, on 7.86.6, takes the cause of sin to be not a man’s own strength but fate fixed at birth, so the offence is one Varuna should forgive.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.86.6, sa.wikisource ऋग्वेदः सूक्तं ७.८६, revision 324074 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे वरुण सः स्वोदक्षः पुरुषस्य स्वरूपवद्बलं पापपवृत्तौ कारणं न भवति किं तर्हि श्रुतिः स्थिरा उत्पत्तिसमय एव निर्मिता दैवगतिः कारणम् … अतो ममापराधो दैवागत इति हे वरुण त्वया क्षन्तव्य इति भावः",
+     "gloss": "O Varuṇa, that ‘own strength’, the power belonging to a man’s own nature, is not the cause of his turning to sin; what then? The fixed course of destiny (dhruti, here printed ‘śruti’), formed at the very time of birth, is the cause … So the sense is: my offence came by fate, and you, Varuṇa, should forgive it."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d074-s",
+    "key": "Free us from sins committed by our fathers, from those wherein we have ourselves offended. O King, loose, like a thief who feeds the cattle, as from the cord a calf, set free Vasistha.",
+    "ref": "Rig Veda 7.86.5",
+    "at": [
+     601,
+     5
+    ],
+    "s": "After asking Varuna what his chief fault was, the singer pleads for release; Sāyaṇa, on 7.86.5, reads the thief as one who has done penance for his theft and at its end feeds the cattle grass, and the bond as the sin that binds.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.86.5, sa.wikisource ऋग्वेदः सूक्तं ७.८६, revision 324074 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे राजन्राजमान वरुण पशुतृपं न तायुं स्तैन्यप्रायश्चित्तं कृत्वा अवसाने घासादिभिः पशूनां तर्पयितारं स्तेनमिव दात्रोरज्जोर्वत्सं न वत्समिव च वसिष्ठं मां बन्धकात्पापादवसृज विमुञ्च",
+     "gloss": "O King, shining Varuṇa, like ‘a thief who feeds the cattle’, that is, like a thief who, having performed the penance for theft, at its end satisfies the cattle with grass and the like, and like a calf from the rope, loose Vasiṣṭha, me, from the sin that binds, set me free."
+    }
+   }
+  },
+  {
+   "d": 75,
+   "primary": {
+    "id": "veda-03-d075-p",
+    "key": "What was there to be blamed in thee, O Visnu, when thou declaredst, I am Sipivista? Hide not this form from us, nor keep it secret, since thou didst wear another shape in battle.",
+    "ref": "Rig Veda 7.100.6",
+    "at": [
+     615,
+     6
+    ],
+    "s": "Near the close of a hymn on Visnu’s three strides, the singer turns to one of the god’s names; Sāyaṇa, on 7.100.6, takes it as Vasistha’s plea to Visnu, who had helped him in battle in an assumed form, to appear in his own.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.100.6, sa.wikisource ऋग्वेदः सूक्तं ७.१००, revision 214349 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "पुरा खलु विष्णुः स्वं रूपं परित्यज्य कृत्रिमं रूपान्तरं धारयन् संग्रामे वसिष्ठस्य साहाय्यं चकार । तं जाननृषिरनया प्रत्याचष्टे। … अतो बहुतेजस्कं यद्वैष्णवं रूपं तदस्माकं प्रदर्शयेति तात्पर्यार्थः",
+     "gloss": "Once, indeed, Viṣṇu, setting aside his own form and bearing another, assumed one, gave help to Vasiṣṭha in battle; the seer, recognising him, addresses him with this verse … So the purport is: show us that form of yours as Viṣṇu, full of radiance."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d075-s",
+    "key": "Pure in her course from mountains to the ocean, alone of streams Sarasvati hath listened. Thinking of wealth and the great world of creatures, she poured for Nahusa her milk and fatness.",
+    "ref": "Rig Veda 7.95.2",
+    "at": [
+     610,
+     2
+    ],
+    "s": "Praising Sarasvati as a river surpassing all other waters, the hymn recalls her bounty; Sāyaṇa, on 7.95.2, takes Nahusa as a king about to offer a thousand-year sacrifice, whose prayer the river alone heeded, giving him milk and ghee enough for it.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.95.2, sa.wikisource ऋग्वेदः सूक्तं ७.९५, revision 209148 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "सहस्रवत्सरेण क्रतुना यक्ष्यमाणो नाहुषो नाम राजा सरस्वतीं नदीं प्रार्थयामास । सा च तस्मै सहस्रसंवत्सरपर्याप्तं पयो घृतं च प्रददौ । अथमर्थोऽत्र प्रतिपाद्यते । नदीनाम् अन्यासां मध्ये शुचिः शुद्धा गिरिभ्यः सकाशात् आ समुद्रात् समुद्रपर्यन्तं यती गच्छन्ती एका सरस्वती नदी अचेतत् । नाहुषस्य प्रार्थनामज्ञासीत्",
+     "gloss": "A king named Nāhuṣa, about to sacrifice with a rite lasting a thousand years, besought the river Sarasvatī, and she gave him milk and ghee enough for a thousand years. This is the matter set out here: among the other rivers, Sarasvatī alone, pure, going from the mountains to the sea, understood; she knew Nāhuṣa’s request."
+    }
+   }
+  },
+  {
+   "d": 76,
+   "primary": {
+    "id": "veda-03-d076-p",
+    "key": "When one of these repeats the other’s language, as he who learns the lesson of the teacher, Your every limb seems to be growing larger as ye converse with eloquence on the waters.",
+    "ref": "Rig Veda 7.103.5",
+    "at": [
+     618,
+     5
+    ],
+    "s": "Hailing the frogs whose voices greet the first rains, the hymn turns to address them directly; Sāyaṇa, on 7.103.5, reads the growing limbs as bodies made truly whole: turned to clay in the hot season, the frogs come forth entire when rain falls.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 7.103.5, sa.wikisource ऋग्वेदः सूक्तं ७.१०३, revision 400502 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "तत् तदा एषां युष्माकं सर्वं पर्व परुष्मच्छरीरं समृधेव समृद्धमेवाविकलावयवमेव भवति । इवशब्दोऽवधारणे । घर्मकाले मृद्भावमापन्ना मण्डूकाः पुनर्वर्षणे सत्यविकलाङ्गाः प्रादुर्भवन्तीत्यर्थः",
+     "gloss": "Then ‘every limb’ of yours, your whole jointed body, becomes ‘as if prospered’, that is, prospered indeed, with its limbs entire; the word ‘iva’ here means ‘indeed’. The sense is: frogs that had turned to clay in the hot season come forth again, whole in every limb, when the rain falls."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d076-s",
+    "key": "O Caster of the Stone, I would not sell thee for a mighty price, Not for a thousand, Thunderer! nor ten thousand, nor a hundred, Lord of countless wealth!",
+    "ref": "Rig Veda 8.1.5",
+    "at": [
+     620,
+     5
+    ],
+    "s": "A long hymn bidding its singers praise Indra alone turns here to one worshipper’s devotion; Sāyaṇa, on 8.1.5, takes ‘a hundred’ as a word for many: not even for wealth beyond measure would he part with a god dearer to him than any sum.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on 8.1.5, sa.wikisource ऋग्वेदः सूक्तं ८.१, revision 311309 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे शतामघ बहुधनेन्द्र शताय । बहुनामैतत् । अपरिमिताय च धनाय न परा देयां न विक्रीणानि । उक्तसंख्याद्धनादपि त्वं मम प्रियतमोऽसीत्यर्थः",
+     "gloss": "O Indra of a hundred bounties, rich in wealth, ‘for a hundred’: this is a word for ‘many’; not even for wealth beyond measure would I give you up, I would not sell you. The sense is: you are dearer to me than wealth even of the amounts named."
+    }
+   }
+  }
+ ]
+}

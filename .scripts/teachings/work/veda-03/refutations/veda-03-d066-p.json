@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d066-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A7&oldid=309896",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 66 --verse 7.1.1: Sāyaṇa glosses naraḥ as netāra ṛtvijaḥ, agnim araṇyoḥ vidyamānam, hastacyutī as hastapracyutyā hastagatyā, and dīdhitibhiḥ as aṅgulibhiḥ, which carries priests, hand’s motion, fire in the two sticks and fingers without drift. Griffith’s own note on 7.1.1 renders the word \"deep thought\" and says \"with their fingers\" is Sāyaṇa’s sense, so mapping the quoted \"deep thought\" to his gloss is exact and the reading is not the translator’s. Minor: the evidence span ends with dīdhitayo ’ṅgulayo bhavanti dhīyante karmasu, which begins Sāyaṇa’s quotation of Nirukta 5.10, so that last clause is Yāska’s words quoted by him, not his own; the shipped sentence rests on his own gloss aṅgulibhiḥ and stands. day.js: 7.1 is the opening Agni hymn of the day and asks for wealth and sons (7.1.5, 11, 12); no four-word overlap with the key. verse.js ok (7.1.1 at [516,1]); entry-check ok (44 words).",
+ "better": "Evidence could stop at “जनयन्त। so that the quoted Nirukta 5.10 clause is not glossed as Sāyaṇa’s own words; Yāska (Nirukta 5.10) also treats this verse and gives the same fingers gloss, if a second name were ever wanted."
+}

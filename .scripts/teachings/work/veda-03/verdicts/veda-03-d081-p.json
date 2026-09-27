@@ -1,0 +1,43 @@
+{
+ "id": "veda-03-d081-p",
+ "d": 81,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Like a son cherished in his father’s house, Let our oblation rise unto the Gods.",
+ "ref": "Rig Veda 8.19.27",
+ "at": [
+  638,
+  27
+ ],
+ "s": "After the singer imagines trading places with Agni, the hymn returns to the offering; Sāyaṇa, on 8.19.27, takes the cherished son as Agni, fed with offerings like a son by his father, who carries the oblation to the gods from the house of sacrifice.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.19.27, sa.wikisource ऋग्वेदः सूक्तं ८.१९, revision 402086 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A7%E0%A5%AF&oldid=402086",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.१९, revision 402086",
+    "locator": "commentary on 8.19.27",
+    "via": "packet"
+   }
+  ],
+  "words": "“पितुर्न “पुत्रः पितुः पुत्र इवास्माकं “सुभृतः सुष्ठु भर्ता । यद्वा । पित्रा पुत्र इवास्माभिः सम्यग्भृतो हविर्भिः पोषितः । अयमग्निः पुत्र इवास्माकं सुभृतः “दुरोणे यज्ञगृहे “देवान् “आ अभिलक्ष्य “नः अस्माकं \"हविः “प्र “एतु प्र गमयतु ।",
+  "lang": "Sanskrit",
+  "gloss": "Like a son of a father, our good supporter; or else, like a son by a father, well maintained by us, nourished with oblations. This Agni, well maintained by us like a son, in the house, the house of sacrifice, towards the gods: let him send our oblation forth.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 8.19.27 at [638,27]); packet Sanskrit pitur na putraḥ subhṛto duroṇa ā devāṁ etu pra ṇo haviḥ is the app’s 8.19.27. Sāyaṇa gives subhṛtaḥ two ways and settles on Agni well maintained by the worshippers with oblations as a son by a father, duroṇe as yajñagṛhe, and pra etu as pra gamayatu (let him send forth the oblation to the gods); Wilson’s “Cherished by us as a son by a father, let him (Agni) in our dwelling convey promptly our oblation to the gods” follows him. His alternative (yadvā: let Agni come, and the oblation reach the gods) is not the one named, and the sentence claims only the first. Plain sense faithful: 8.19.25 and 26 imagine Agni mortal and the singer immortal, and 8.19.27 turns to the oblation; no four-word run. Revision 402086 dated 2024-04-30 by the wiki API. Entry-check ok."
+}

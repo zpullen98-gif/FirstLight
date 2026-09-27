@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d080-p",
+ "d": 80,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And as we human beings, O Adityas, are akin to death, Graciously lengthen ye our lives that we may live.",
+ "ref": "Rig Veda 8.18.22",
+ "at": [
+  637,
+  22
+ ],
+ "s": "Ending a hymn asking the Adityas for shelter and release from sin, the singers plead for life; Sāyaṇa, on 8.18.22, takes kinship with death as kinship with Yama, their death being near, and reads the plea as for long continuance in life.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.18.22, sa.wikisource ऋग्वेदः सूक्तं ८.१८, revision 327230 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A7%E0%A5%AE&oldid=327230",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ८.१८, revision 327230",
+    "locator": "commentary on 8.18.22",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n298/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 8.18.22",
+    "via": "packet"
+   }
+  ],
+  "words": "हे \"आदित्याः “ये “चित् ये च वयं “मनवः मनुष्याः “हि यस्मात् “मृत्युबन्धवः “स्मसि मृत्योर्यमस्य बन्धुभूताः प्रत्यासन्नमरणा भवामः अतो हेतोस्तेषां “नः अस्माकं “जीवसे जीवनाय चिरकालावस्थानाय \"आयुः जीवितं “सु “प्र “तिरेतन शोभनं प्रवर्धयत",
+  "lang": "Sanskrit",
+  "gloss": "O Adityas, since we who are men are kinsmen of Death, that is of Yama, people whose death is near, therefore for our living, for our lasting a long time, prolong our life well.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 8.18.22 at [637,22]); the packet’s Sanskrit verse is the app’s 8.18.22 (ye cid dhi mṛtyubandhava ādityā manavaḥ smasi). Sāyaṇa glosses mṛtyubandhavaḥ as mṛtyor yamasya bandhubhūtāḥ pratyāsannamaraṇāḥ (kin of Death, i.e. Yama, near to death) and jīvase as jīvanāya cirakālāvasthānāya (for long continuance): the sentence’s reading, nothing added. Wilson (“of kin to death … prolong our lives”) agrees. Plain sense faithful: the hymn asks the Adityas and Aditi for shelter (8.18.3, 12, 21) and freedom from sin (8.18.12, 16), and 8.18.22 is its last verse; no four-word run from the key. Revision 327230 dated 2021-12-04 by the wiki API. Entry-check ok."
+}

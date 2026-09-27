@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d068-p",
+ "d": 68,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "None among men knows his own life’s duration: bear us in safety over these our troubles.",
+ "ref": "Rig Veda 7.23.2",
+ "at": [
+  538,
+  2
+ ],
+ "s": "In a battle hymn to Indra, after a cry goes up to the gods for strength, the singer turns to the span of a life; Sāyaṇa, commentary on 7.23.2, takes the “troubles” as all the sins through which a life wastes away.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, commentary on 7.23.2, sa.wikisource ऋग्वेदः सूक्तं ७.२३, revision 400689 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%A8%E0%A5%A9&oldid=400689",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ७.२३, revision 400689",
+    "locator": "commentary on 7.23.2",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n81/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 7.23.2",
+    "via": "packet"
+   }
+  ],
+  "words": "अपि च “जनेषु मध्ये केनापि \"स्वमायुः स्वजीवितं नहि “चिकिते न ज्ञायते । यैः “आयुः क्षीयते “तानीत् तानि सर्वाण्येव \"अंहांसि पापानि \"अस्मान् \"अति \"पर्षि अतिपारय ॥",
+  "lang": "Sanskrit",
+  "gloss": "Moreover, among men his own life, his own living, is known by no one. Those by which life wastes away: all those very aṃhāṃsi, sins, carry us beyond them (ati parṣi, carry across).",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 7.23.2 at [538,2]; it is the second sentence of the verse, starting and ending cleanly). Sāyaṇa on 7.23.2 glosses aṃhāṃsi as pāpāni and qualifies them yaiḥ āyuḥ kṣīyate, ‘those by which life wastes away’, telling Indra to carry us across all of them: the reading carries exactly that. Wilson’s rendering (‘convey us beyond all those sins (by which life is shortened)’) confirms. Plain sense faithful: 7.23.1 bids Vasistha honour Indra in the battle, 7.23.2 opens with the cry for strength in combat; no four-word run from the key; the context clause uses only the verse’s non-key sentence. Revision 400689 dated 2024-02-16 by the wiki API. Entry-check ok."
+}

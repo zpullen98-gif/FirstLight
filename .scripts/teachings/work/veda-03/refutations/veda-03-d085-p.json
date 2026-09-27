@@ -1,0 +1,8 @@
+{
+ "id": "veda-03-d085-p",
+ "refuted": false,
+ "reopened": {"url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AA%E0%A5%A8&oldid=208930", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 85 --verse 8.42.3 and the pinned revision 208930 itself (action=raw; API timestamp 2019-08-07): Sāyaṇa glosses the ship as yajñarūpā nauḥ and closes duḥkhasāgarataraṇe hetutvād yajño naur ity atra vyapadiśyate, which carries 'the ship as the sacrifice, the means of crossing the sea of suffering' without drift. verse.js ok (8.42.3 at [661,3]), a whole verse from the text. Plain sense checked on day.js: 8.42.1 to 3 address Varuna (v1 the Asura propped the heavens), 4 to 6 turn to the Asvins; no doctrine, no repeat of the key. No Yāska treatment (packet). Locator right (app and standard numbering agree for 8.42). entry-check ok; no school, comparison or tone issue. Wilson's rendering ('safe-bearing vessel') is consistent.",
+ "better": ""
+}

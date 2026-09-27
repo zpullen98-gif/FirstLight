@@ -114,13 +114,14 @@
   "veda": {
    "batches": [
     "veda-02",
-    "veda-04"
+    "veda-04",
+    "veda-03"
    ],
-   "days": 62,
+   "days": 94,
    "of": 126,
    "by": {
-    "sayana": 61,
-    "yaska": 1
+    "sayana": 91,
+    "yaska": 3
    },
    "hedged": 0
   }

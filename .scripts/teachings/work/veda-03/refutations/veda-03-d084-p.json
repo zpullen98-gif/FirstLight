@@ -1,0 +1,14 @@
+{
+ "id": "veda-03-d084-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A9%E0%A5%AF&oldid=275528",
+  "found": true
+ },
+ "attacks": [
+  "plain",
+  "tone"
+ ],
+ "reason": "The reading stands: re-opened packet.js veda 84 --verse 8.39.4 (revision 275528, 2020-09-29): Sāyaṇa glosses śam as śāntinimittam and yoḥ as viṣayayogajanitam qualifying mayaḥ sukham, and closes yaḥ kaścanāpi devo yadi hūyate agnir eva sarvaṃ karoti; Wilson’s note names the first as Sāyaṇa’s; evidence re-found verbatim; verse.js and entry-check ok. The plain sense does not stand as written. (1) Tone: every verse of 8.39 ends on the refrain that all the others die away (Wilson, following Sāyaṇa: may all our adversaries perish); ‘wishing all the others away’ softens a wish for their death into a wish for their absence, against rule 6 (state it in one plain clause, no softening). (2) Plain: the text calls Agni ‘the worshipper’s blissful messenger’ (8.39.3) and ‘our envoy’ (8.39.9), going on his embassy between both gathering-places (8.39.1); ‘the gods’ messenger’ is not the text’s phrase and reads as sent by the gods. Also minor drift: viṣayayogajanitam is born of contact with the objects of sense, not of the objects themselves. The replacement in better passes entry-check (43 words).",
+ "better": "A hymn to Agni, every verse wishing that all the others die away, calls him the worshipper’s messenger; Sāyaṇa, on 8.39.4, reads the delight as happiness born of calm and of sense contact, and takes Agni as doing all, whatever god is called."
+}

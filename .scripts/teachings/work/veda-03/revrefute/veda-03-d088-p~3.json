@@ -1,0 +1,14 @@
+{
+ "id": "veda-03-d088-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AD%E0%A5%A8&oldid=340872",
+  "found": true
+ },
+ "attacks": [
+  "attribution",
+  "drift"
+ ],
+ "reason": "Revision ~3 has the same sentence, src and evidence as ~2. The only change is in its own reason text, so the drift the ~2 refutation found is still there. I re-opened packet.js veda 88 --verse 8.61.7 (with 8.61.1, 8.61.6, 8.61.10, 8.61.11 and 8.61.12). Sāyaṇa's words carry most of the reading: seven ṛtvijs milk the one gharma (सप्त ऋत्विजः एकां घर्मं दुहन्ति), the two adhvaryus (pratiprasthātṛ and adhvaryu) employ five others (प्रयोजयतः), and those five include the yajamāna. Agni is confirmed at 8.61.1 (आजगामायमग्निः). But the appositive “a pot of boiling milk” is not in his words. It comes from note 1 in vol. 5, which the packet marks as Cowell's hand (“the gharma, or earthen vessel so called, which is used to boil milk”). The ~3 reason itself says that note carries part of the reading. In Sāyaṇa's own comment on this hymn the pot is the mahāvīra (अवतं महावीरम्, 8.61.10 to 8.61.12). There gharma names the hot-milk rite (घर्मयागस्य, 8.61.12), the milking at which the verse is used (अभिष्टवे घर्मदोहे, printed after 8.61.6) and its cows (घर्मदुघा). So the sentence attributes a conduit's gloss to Sāyaṇa, with a src that names only the Wikisource Sanskrit and no hedge. The evidence also still labels note 1 as Wilson's, when the packet gives it as Cowell's, and it splices Cowell's English onto the Sanskrit as one quotation. The key, the plain sense (verse 7 of 18 in a hymn to Agni, no run of four words from the key), the locator and the form all pass: verse.js ok (8.61.7 at [680,7]), entry-check ok. There is no school, comparison or tone issue, and the Nirukta does not treat the verse.",
+ "better": "Midway through a hymn to Agni, the verse speaks in numbers; Sāyaṇa, on 8.61.7, reads the seven as priests milking the one gharma of the hot-milk rite, and two of them, the adhvaryu priests, as directing five others, the sacrificer among them. (entry-check ok. “Hot-milk rite” rests on his घर्मयागस्य at 8.61.12 and अभिष्टवे घर्मदोहे at 8.61.6; dropping the appositive entirely also works.) Evidence: keep the Sanskrit alone, or label note 1 as Cowell's (Wilson's translation, vol. 5, Cowell's hand) as a separate item."
+}

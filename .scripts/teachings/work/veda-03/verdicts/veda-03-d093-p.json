@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d093-p",
+ "d": 93,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "By means of this eternal fleece may Surya’s Daughter purify Thy Soma that is foaming forth.",
+ "ref": "Rig Veda 9.1.6",
+ "at": [
+  723,
+  6
+ ],
+ "s": "Opening the book of hymns to Soma, a short hymn follows the juice from the press through the strainer to the milk; Sāyaṇa, on 9.1.6, takes the Sun’s daughter as the goddess Faith, citing the Vājasaneyins, for whom Faith purifies Soma.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 9.1.6, sa.wikisource ऋग्वेदः सूक्तं ९.१, revision 339335 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AF.%E0%A5%A7&oldid=339335",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ९.१, revision 339335 (printed edition not named on the page)",
+    "locator": "commentary on 9.1.6",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n228/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "translation of 9.1.6 and note 4",
+    "via": "packet"
+   }
+  ],
+  "words": "हे सोम “ते तव “परिस्रुतं क्षरन्तं “सोमं सोमरसं “सूर्यस्य \"दुहिता श्रद्धा देवी “वारेण वालेन “शश्वता शाश्वतेन “तना विस्तृतेन “पुनाति । तथा च वाजसनेयिन आमनन्ति-: श्रद्धा वै सूर्यस्य दुहिता श्रद्धा ह्येनं पुनाति' इति",
+  "lang": "Sanskrit",
+  "gloss": "O Soma, thy flowing Soma juice the daughter of the Sun, the goddess Faith (śraddhā), purifies with the hair, the lasting, outspread one. And so the Vājasaneyins teach: ‘Faith indeed is the daughter of the Sun; for Faith purifies him.’",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 9.1.6 at [723,6]); 9.1 opens Mandala 9 and its ten verses move from pressing (v.1, v.7) through the fleece (v.6) to the milk (v.9), so the plain sense is faithful. Sāyaṇa glosses sūryasya duhitā as śraddhā devī and cites the Vājasaneyins that Faith is the Sun’s daughter and purifies Soma; Wilson’s note 4 reports the same. The reading carries nothing beyond his words; sentence, source line and entry-check all pass."
+}

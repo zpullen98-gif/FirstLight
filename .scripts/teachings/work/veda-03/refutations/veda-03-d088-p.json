@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d088-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AD%E0%A5%A8&oldid=340872",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Sāyaṇa on standard 8.72.7 (app 8.61.7) through packet.js --verse 8.61.7 and by fetching the pinned revision 340872 raw; the evidence words stand verbatim: seven ṛtvijs milk the one gharma, the two (prati­prasthātārau adhvaryū) employ (prayojayataḥ) five others, named as yajamāna, brahman, hotṛ, āgnīdhra, prastotṛ. Cowell's note in Wilson vol. 5 and Griffith's note on 7 both read the two as the adhvaryu and the pratiprasthātṛ, so the pairing is not the proposer's. Verse attack fails: verse.js ok, Rig Veda 8.61.7 at [680,7], one whole unit, no dash. Plain attack: the hymn is Agni's by the Anukramaṇī Sāyaṇa cites (or the praise of oblations), verse 6 gives the team of horses and car as 'his', and verse 7 of 18 falls in the middle third, so 'midway' is loose but not false; the plain clause takes no verse words and does not import Sāyaṇa's reading (he makes verse 6 the sun's, the clause keeps the text's 'his'). Drift: 'directing' matches prayojayataḥ and Cowell's 'direct'; 'the sacrificer among them' is his list; nothing claimed beyond his words. Locator uses the app's verse number as the trap requires, with the standard number in src. No school, comparison or tone issue. entry-check.js ok with no errors or warnings.",
+ "better": "Optional: 'Early in a hymn to Agni' or 'In a hymn to Agni, just after his horses and car are seen' would place verse 7 of 18 more exactly than 'Midway through'."
+}

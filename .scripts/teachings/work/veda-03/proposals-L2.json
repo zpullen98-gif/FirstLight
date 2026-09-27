@@ -1,0 +1,42 @@
+{
+ "lane": "L2",
+ "plan": "veda",
+ "batch": "veda-03",
+ "days": [
+  {
+   "d": 71,
+   "primary": {
+    "id": "veda-03-d071-p",
+    "key": "Maruts, accept this thousandfold allotment of household sacrifice and household treasure.",
+    "ref": "Rig Veda 7.56.14",
+    "at": [571, 14],
+    "s": "Midway through a long hymn to the Maruts, the singer turns from their splendour to their share of the home rite; Sāyaṇa, on 7.56.14, reads the single portion as a thousandfold, since an oblation spreads as far as the deity desires.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 7.56.14, sa.wikisource ऋग्वेदः सूक्तं ७.५६, revision 403392 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "एकं भागं सहस्रियमिति कथमाह । तथा च श्रूयते … यावदेका देवता कामयते यावदेका तावदाहुतिः प्रथते न हि तदस्ति यत्तावदेव स्याद्यावज्जुहोति",
+     "gloss": "How can it call one portion thousandfold? For so it is heard [Taittirīya Brāhmaṇa 3.2.6.4]: as much as the one deity desires, so far the one oblation spreads; for there is nothing that stays only as much as one offers."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d071-s",
+    "key": "Sleep mother, let the father sleep, sleep dog and master of the house. Let all the kinsmen sleep, sleep all the people who are round about.",
+    "ref": "Rig Veda 7.55.5",
+    "at": [570, 5],
+    "s": "The hymn turns from the guardian of the dwelling to a barking son of Saramā and on to a lullaby; Sāyaṇa, introduction to 7.55, following the Bṛhaddevatā, takes it as the charm by which Vasiṣṭha, entering Varuṇa’s house by night, hushed the dog and household.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, introduction to 7.55, sa.wikisource ऋग्वेदः सूक्तं ७.५५, revision 189875 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "बृहद्देवतायां यदुक्तं तदिह लिख्यते … वरुणस्य गृहान् रात्रौ वसिष्ठः स्वप्नमाचरन् । प्रविवेशाथ तं तत्र श्वा नदन्नभ्यवर्तत । क्रन्दन्तं सारमेयं स धावन्तं दष्टुमुद्यतम् ॥ यदर्जुनेति च द्वाभ्यां सान्त्वयित्वा ह्यसूषुपत् । एवं प्रस्वापयामास जनमन्यं च वारुणम्",
+     "gloss": "What is said in the Bṛhaddevatā is written here: Vasiṣṭha, seeking sleep, entered Varuṇa’s house by night; there a dog came at him, barking. That howling son of Saramā, running at him and ready to bite, he soothed with the two verses beginning ‘yad arjuna’ and put to sleep; in the same way he put the rest of Varuṇa’s household to sleep."
+    }
+   }
+  }
+ ]
+}

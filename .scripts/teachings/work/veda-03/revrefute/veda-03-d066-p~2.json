@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d066-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/download/nighantuniruktao00yask/nighantuniruktao00yask_djvu.txt",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Downloaded Sarup’s djvu text afresh: under CHAPTER V, after ‘(Here ends the ninth section,)’ the verse is quoted (‘From two sticks, men with fingers have produced fire by the motion of their hands’, footnote vii. 1. 1; SV 1. 72), and on p. 79 (header 5. 11) Yāska explains: Dīdhitayaḥ mean fingers, employed in (the performance of) actions; fire-sticks so called because fire rests in them, or because fire is produced from them by attrition; by the circular movement of their hands; then ‘(Here ends the tenth section.)’. So Nirukta 5.10, pp. 78 to 79, is right, and Sāyaṇa’s packet gloss on 7.1.1 quotes the same Sanskrit as niru. 5.10 (dīdhitayo ’ṅgulayo bhavanti dhīyante karmasu; araṇī pratyṛta ene agniḥ samaraṇāj jāyata iti vā). The sentence’s claims (fingers for the word Griffith renders ‘deep thought’, employed in actions, fire-sticks named for fire resting in them or born of rubbing) are each in those words, nothing added. day.js: 7.1 opens the day and asks for wealth and sons (7.1.5, 7.1.11, 7.1.21); no four-word overlap. The only change is double to single curly quotes. verse.js ok (7.1.1 at [516,1]); entry-check ok.",
+ "better": ""
+}

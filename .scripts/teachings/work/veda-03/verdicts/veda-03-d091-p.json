@@ -1,0 +1,55 @@
+{
+ "id": "veda-03-d091-p",
+ "d": 91,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "One and another say, There is no Indra. Who hath beheld him? Whom then shall we honour?",
+ "ref": "Rig Veda 8.89.3",
+ "at": [
+  708,
+  3
+ ],
+ "s": "Urging a truthful hymn, the singer reports a doubt that Indra himself answers next; Sāyaṇa, on 8.89.3, takes the doubter as the seer Nema of the Bhṛgu line, for whom, since no one has seen Indra, talk of him is mere words.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa on 8.89.3 (standard 8.100.3), sa.wikisource ऋग्वेदः सूक्तं ८.१००, revision 402088 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A7%E0%A5%A6%E0%A5%A6&oldid=402088",
+    "edition": "Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं 8.100, revision 402088 (printed edition not named on the page)",
+    "locator": "commentary on 8.100.3 (app 8.89.3)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc05wils/page/n214/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 5 (1888), archive.org rigvedasanhitc05wils (OCR)",
+    "locator": "translation and notes on 8.100.3 (app 8.89.3)",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/in.ernet.dli.2015.104119",
+    "edition": "R. T. H. Griffith, The Hymns of the Rigveda, 2nd ed., vol. 2 (1897), archive.org in.ernet.dli.2015.104119 (OCR)",
+    "locator": "notes on hymn 8.89",
+    "via": "packet"
+   }
+  ],
+  "words": "“नेम “उ भार्गवो नेम एव “इन्द्रः नाम “त्वः कश्चित् \"न “अस्ति इति “आह । तत्र कारणं दर्शयति । “क “ईम् एनमिन्द्रं “ददर्श अद्राक्षीत्। न कोऽप्यपश्यत् । अतः “कं वयम् \"अभि “ष्टवाम अभिष्टुमः । तस्मादिन्द्रो नाम कश्चिद्विद्यत इति वादमात्रं न तु तत्सत्यमित्यर्थः",
+  "lang": "Sanskrit",
+  "gloss": "Nema, the Bhārgava, Nema himself, says that there is no one called Indra. He shows the reason: who has seen him? No one has seen him. So whom shall we praise? Hence the sense is: that someone called Indra exists is mere talk, and not true.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Rig Veda 8.89.3 at [708,3]; standard 8.100.3), the second half of a verse whose first half urges a truthful laud; in the next verse Indra speaks (“Here am I … O singer”), as Sāyaṇa’s introduction and his note on 8.100.4 also say (Indra came near Nema on hearing him). Sāyaṇa on 8.100.3 takes nema as the name of the Bhārgava seer Nema (introduction: seer Nema of the Bhṛgu gotra), gives the reason no one has seen Indra, and sums the claim as vādamātra, mere talk. Griffith’s note confirms Nema as Sāyaṇa’s name for the speaker. Sentence carries exactly this. Revision 402088 dated 2024-04-30 by the Wikisource API."
+}

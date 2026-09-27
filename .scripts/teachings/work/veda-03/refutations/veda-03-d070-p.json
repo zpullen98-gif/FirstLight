@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d070-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%AA%E0%A5%A6&oldid=224367",
+  "found": true
+ },
+ "attacks": ["plain"],
+ "reason": "The reading holds: re-opened Sāyaṇa on 7.40.5 through packet.js --verse 7.40.5 and the pinned revision 224367 raw; viṣṇoḥ sarvadevātmakasya … ‘viṣṇuḥ sarvā devatāḥ’ iti śruteḥ, anye devāḥ vayāḥ śākhā iva bhavanti is there verbatim, and ‘comprising all the gods, citing a Vedic text, and the other gods as though his branches’ carries it without drift (iva kept, the Aitareya reference left unnamed as possibly the editor’s); Wilson’s note and Griffith’s note on 5 (quoting Wilson) confirm it is Sāyaṇa’s. verse.js ok (7.40.5 at [555,5], first whole sentence, 13 words, no dash) and entry-check.js ok. What lands is the plain sense: ‘a hymn calling the gods to the rite’ is not what the day’s text says. In Griffith 7.40.1 bids the audience of the synod gather and begin the praise of the swift gods (Griffith’s note: ‘praise of the Gods’); nowhere does the hymn summon the gods to the rite. The summons is closer to Sāyaṇa’s gloss of 7.40.1 (he addresses the gods: may happiness, or our praise, come) and so imports the commentator’s frame into the text’s plain sense. The rest of the hymn prays gods by name for riches and protection (vv. 2 to 4, 6), which the clause does state. A one-phrase fix, not a new reading.",
+ "better": "In a hymn where the assembly gathers to praise the gods and asks them for riches, the singer turns to Visnu; Sāyaṇa, commentary on 7.40.5, takes Visnu as comprising all the gods, citing a Vedic text, and the other gods as though his branches."
+}

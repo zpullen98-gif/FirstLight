@@ -1,0 +1,89 @@
+{
+ "lane": "L6",
+ "plan": "veda",
+ "batch": "veda-03",
+ "days": [
+  {
+   "d": 95,
+   "primary": {
+    "id": "veda-03-d095-p",
+    "key": "Shedding the ancient fluid he is poured into the cleansing sieve: He, thundering, hath produced the Gods.",
+    "ref": "Rig Veda 9.42.4",
+    "at": [
+     764,
+     4
+    ],
+    "s": "The hymn opens with Soma engendering the sun and the lights of heaven, and here turns to the straining of the juice; Sāyaṇa, on 9.42.4, reads his begetting the gods as figurative, since wherever Soma is pressed, there the gods invariably appear.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 9.42.4, Sanskrit Wikisource, revision 310169 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "“क्रन्दन् शब्दं कुर्वन् \"देवानजीजनत् जनयति स्वसमीपे । यत्र सोमोऽभिषूयते तत्र देवा नियतं प्रादुर्भवन्ति । अतो जनयतीत्युपचर्यते",
+     "gloss": "‘Crying out’: making a sound. ‘He generated the gods’: he generates them near himself. Where Soma is pressed, there the gods invariably become manifest; therefore ‘he generates’ is said figuratively (upacāra)."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d095-s",
+    "key": "URGED by the men, this vigorous Steed, Lord of the mind, Omniscient, Runs to the woolen straining-cloth.",
+    "ref": "Rig Veda 9.28.1",
+    "at": [
+     750,
+     1
+    ],
+    "s": "A hymn tracing Soma from the priests’ hands to the vats begins here; Sāyaṇa, on 9.28.1, takes ‘the mind’ as the hymn of praise, or as mind itself, over which Soma presides, citing the scripture in which the moon, becoming mind, entered the heart.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 9.28.1, Sanskrit Wikisource, revision 208615 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "\"मनसः स्तोत्रस्य “पतिः स्वामी । अथवा सोमस्य मनोभिमानित्वात् मनसः स्वामित्वं चन्द्रमा मनो भूत्वा हृदयं प्राविशत् ' ( ऐ. आ. २.४.२) इति श्रुतेः",
+     "gloss": "‘Of the mind’: of the hymn of praise (stotra); ‘lord’: master. Or else: because Soma is the presiding deity of mind (mano-abhimānin), he is lord of mind, from the scripture ‘the moon, having become mind, entered the heart’ (Aitareya Āraṇyaka 2.4.2)."
+    }
+   }
+  },
+  {
+   "d": 96,
+   "primary": {
+    "id": "veda-03-d096-p",
+    "key": "We have accepted thousands from Dhvasra’s and Purusanti’s hands: Swift runs this giver of delight.",
+    "ref": "Rig Veda 9.58.3",
+    "at": [
+     780,
+     3
+    ],
+    "s": "The hymn’s third verse, before its refrain, names two givers; Sāyaṇa, on 9.58.3, reads it through a Śāṭyāyanaka story of two seers who took much from these kings, felt they had swallowed poison, saw this hymn, and by it made the gain as if unaccepted.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 9.58.3, Sanskrit Wikisource, revision 403221 (2024)",
+    "basis": {
+     "source": "sayana",
+     "words": "ध्वस्रः कश्चिद्राजा पुरुषन्तिः कश्चित् … अथ ह वै तरन्त पुरुमीळ्हौ वैददश्वी ध्वस्रयोः पुरुषन्त्योर्बहु प्रतिगृह्य गरगिराविव मेनाते तौ ह स्माङ्गुल्या सातं प्रतिममृशाते तावकामयेतामसातं नाविवेदं सातं स्यादात्तमिवैव न प्रतिगृहीतमिति तावेतञ्चतुर्ऋचमपश्यतां तेन प्रत्यैतां ततो वै तयोरसातं सातमभवदात्तमिवैव न प्रतिगृहीतं … तयोरस्माभिः प्रतिगृहीतं तत्सर्वमप्रतिगृहीतमस्त्विति सोमऋषिः प्रार्थयत",
+     "gloss": "On 9.58.3: Dhvasra is a certain king, Puruṣanti a certain other. … And so the Śāṭyāyanaka: ‘Now Taranta and Purumīḷha, the sons of Vidadaśva, having accepted much from Dhvasra and Puruṣanti, thought themselves like swallowers of poison; they touched the gain with a finger; they wished: may this gain be no gain for us, as though merely taken, not accepted. They saw this four-verse hymn and went back by it; then their gain became no gain, as though merely taken, not accepted.’ … On 9.58.4: the seer prays to Soma that all that was accepted from those two be as not accepted."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d096-s",
+    "key": "That he may move, they yoke him to the three-backed triple-seated car By the Seven Rsis’ holy songs.",
+    "ref": "Rig Veda 9.62.17",
+    "at": [
+     784,
+     17
+    ],
+    "s": "Between verses speeding Soma to battle like a horse, the hymn gives him a chariot; Sāyaṇa, on 9.62.17, reads the car as the sacrifice, its three backs as the three pressings, its three seats as the three Vedas, and the seven songs as seven metres.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa, on Rig Veda 9.62.17, Sanskrit Wikisource, revision 353481 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“त्रिपृष्ठे त्रिषवणपृष्ठे “त्रिवन्धुरे त्रिवेदवन्धुरे “ऋषीणां “रथे यज्ञरथे “तं सोमं “सप्त सप्तभिः “धीतिभिः छन्दोभिः “यातवे देवान् प्रति गन्तुं “युञ्जन्ति ऋत्विजो योजयन्ति",
+     "gloss": "‘Three-backed’: whose backs are the three pressings (savana). ‘Three-seated’: whose seats are the three Vedas. ‘Of the seers’, ‘on the car’: on the chariot of the sacrifice. ‘Him’: Soma. ‘With seven songs’: with the seven metres. ‘That he may move’: to go to the gods. ‘They yoke’: the priests yoke him."
+    }
+   }
+  }
+ ]
+}

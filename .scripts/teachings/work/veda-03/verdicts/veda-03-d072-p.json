@@ -1,0 +1,49 @@
+{
+ "id": "veda-03-d072-p",
+ "d": 72,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "WHEN thou, O Sun, this day, arising sinless, shalt speak the truth to Varuna and Mitra, O Aditi, may all the Deities love us, and thou, O Aryaman, while we are singing.",
+ "ref": "Rig Veda 7.60.1",
+ "at": [
+  575,
+  1
+ ],
+ "s": "A hymn chiefly to Mitra and Varuna opens on the rising Sun, watcher of mortal deeds; Sāyaṇa, on 7.60.1, reads ‘sinless’ as the word the Sun is asked to speak of the singers, so that among the gods they may truly be free of sin.",
+ "by": "sayana",
+ "by2": "",
+ "hedge": "",
+ "src": "Sāyaṇa, Vedārthaprakāśa, on 7.60.1, sa.wikisource ऋग्वेदः सूक्तं ७.६०, revision 349701 (2022)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AD.%E0%A5%AC%E0%A5%A6&oldid=349701",
+    "edition": "Sāyaṇa, Vedārthaprakāśa, sa.wikisource ऋग्वेदः सूक्तं ७.६०, revision 349701",
+    "locator": "commentary on 7.60.1",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/rigvedasanhitc04wils/page/n144/mode/1up",
+    "edition": "H. H. Wilson, Rig-Veda-Sanhitá, vol. 4 (1866), archive.org rigvedasanhitc04wils (OCR)",
+    "locator": "Rig Veda 7.60.1",
+    "via": "packet"
+   }
+  ],
+  "words": "“यत् यदि “अद्य अस्मिन्ननुष्ठानकाले अस्मान् “ब्रवः ब्रूयाः । किमिति । “अनागाः अनागस इति । एतेऽपापा इति यदि देवेषु मध्ये ब्रूयाः तर्हि “वयं हे “अदिते अदीन देव “देवत्रा देवेषु देवानां मध्ये \"मित्राय “वरुणाय च \"सत्यम् अवितथं \"स्याम अनागसो भवेम।",
+  "lang": "Sanskrit",
+  "gloss": "If today, at this time of the rite, you (Sun), rising, should say of us, what? ‘anāgāḥ’, that is, ‘these are sinless’; if you should say among the gods that these are without sin, then we, O Aditi (glossed ‘undecaying god’), among the gods, before Mitra and Varuṇa, would truly, not falsely, be sinless.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 7.60.1 at [575,1]); the packet’s Sanskrit verse (yad adya sūrya bravo ’nāgā udyan ...) is the app’s 7.60.1. Sāyaṇa takes anāgāḥ as the word the rising Sun is to say of the worshippers (anāgasa iti, ete ’pāpā iti) and satyam as ‘truly’ with syāma (satyam avitathaṃ syāma anāgaso bhavema): exactly the reading given, with no drift. Wilson follows him (‘declare the truth ... that we are void of sin’) and Griffith’s note on 1 reports the same reading of Sāyaṇa. Plain sense faithful: Wilson’s introduction gives Mitra and Varuṇa as deities except verse 1 (Sūrya); 7.60.2 has the Sun beholding the good and evil acts of mortals; no four-word run from the key. Revision 349701 dated 2022-08-30 by the wiki API. Entry-check ok."
+}

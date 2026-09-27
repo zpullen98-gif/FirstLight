@@ -1,0 +1,14 @@
+{
+ "id": "veda-03-d084-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A9%E0%A5%AF&oldid=275528",
+  "found": true
+ },
+ "attacks": [
+  "plain",
+  "drift"
+ ],
+ "reason": "The reading stands: packet.js veda 84 --verse 8.39.4 has शं शान्तिनिमित्तं योः विषययोगजनितं च मयः सुखं and यः कश्चनापि देवो यदि हूयते अग्निरेव सर्वं करोति, which carry both halves without drift; verse.js ok (8.39.4 at [658,4]); entry-check ok. The plain sense goes beyond the text. The refrain in day.js says only “all the others” die away; nothing in the hymn calls those others godless. “The singer’s godless foes” fuses the refrain with 8.39.2 (hatreds of the godless), and the “foes” identification is Sāyaṇa’s own gloss on 8.39.1 (अन्यके शत्रवोऽपि ... अग्निना हिंस्यन्ताम्), with Wilson following him (may all our adversaries perish). So the context clause restates the commentator’s reading as the hymn’s plain sense, against rule 2. The better sentence meets the critic’s point (the others are no longer unexplained) by setting the refrain beside the hymn’s own “Away let the destroyers go” (8.39.2) without identifying them, keeps the refrain’s verb, and passes entry-check (scratch/rr-d084-p.json).",
+ "better": "A hymn to Agni that bids the destroyers go wishes in every verse that all the others die away; Sāyaṇa, on 8.39.4, reads the delight as happiness born of calm and of sense contact, and takes Agni as doing all, whatever god is invoked."
+}

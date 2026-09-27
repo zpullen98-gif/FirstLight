@@ -1,0 +1,89 @@
+{
+ "lane": "L4",
+ "plan": "veda",
+ "batch": "veda-03",
+ "days": [
+  {
+   "d": 83,
+   "primary": {
+    "id": "veda-03-d083-p",
+    "key": "Excellent Savitar hath mounted up on high for you, ye sure and careful Guides. Bipeds and quadrupeds, with several hopes and aims, and birds have settled to their tasks.",
+    "ref": "Rig Veda 8.27.12",
+    "at": [
+     646,
+     12
+    ],
+    "s": "A hymn to all the gods, seeking their gifts at dawn, noon and dusk, here greets the rising sun; Sāyaṇa, commentary on 8.27.12, reads the creatures’ tasks as some men beginning the Agnihotra, others praising the gods, and beasts roaming to graze.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.27.12, sa.wikisource ऋग्वेदः सूक्तं ८.२७, revision 208927 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "स्वस्वकार्येषु निविशन्ते । सूर्य उदिते केचन पुरुषा अग्निहोत्रादिकं कुर्वन्ति केचन देवताविषयं स्तोत्रं कुर्वते । पश्वादयस्तृणादिभक्षणार्थं सर्वत्र संचरन्ति ।",
+     "gloss": "They settle each to his own work. When the sun has risen, some men perform the Agnihotra and the other rites, some make praise addressed to the gods; cattle and the other beasts roam everywhere to eat grass and the like."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d083-s",
+    "key": "NOT one of you, ye Gods, is small, none of you is a feeble child: All of you, verily, are great.",
+    "ref": "Rig Veda 8.30.1",
+    "at": [
+     649,
+     1
+    ],
+    "s": "A four-verse hymn to the Three-and-Thirty opens in praise before asking shelter and to be kept on the fathers’ path; Sāyaṇa, commentary on 8.30.1, reads the gods as all of one age and ever young, and ‘great’ as greater than all that exists.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.30.1, sa.wikisource ऋग्वेदः सूक्तं ८.३०, revision 201714 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "युष्माकं मध्ये कुमारोऽपि नास्ति । किंतु सर्वे यूयं सवयसो नित्यतरुणा भवथ । … सर्वस्माद्विद्यमानात् पृथिव्यामपि ये महान्तस्ते सतोमहान्त इत्युच्यन्ते ।",
+     "gloss": "Among you there is not even a youth; rather all of you are of equal age, ever young … those who are great beyond all that exists, even on earth, are called satomahāntaḥ (great beyond what is)."
+    }
+   }
+  },
+  {
+   "d": 84,
+   "primary": {
+    "id": "veda-03-d084-p",
+    "key": "Agni bestows all vital power even as each man supplicates. He brings the Vasus strengthening gifts, and grants delight, in rest and stir, for every calling on the Gods.",
+    "ref": "Rig Veda 8.39.4",
+    "at": [
+     658,
+     4
+    ],
+    "s": "A hymn to Agni, each verse wishing all the others away, praises him as the gods’ messenger; Sāyaṇa, commentary on 8.39.4, reads the delight as happiness born of calm and of the senses’ objects, and takes Agni as doing all, whichever god is invoked.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.39.4, sa.wikisource ऋग्वेदः सूक्तं ८.३९, revision 275528 (2020)",
+    "basis": {
+     "source": "sayana",
+     "words": "“शं शान्तिनिमित्तं \"योः विषययोगजनितं “च “मयः सुखं “दधे करोति । “विश्वस्यै “देवहूत्यै सर्वस्मै देवानां ह्वानाय च भवति । यः कश्चनापि देवो यदि हूयते अग्निरेव सर्वं करोतीत्यर्थः ।",
+     "gloss": "He makes happiness, śam, arising from tranquillity, and yoḥ, born of contact with the objects of sense. He is there for every invocation, for the calling of all the gods: whatever god is invoked, it is Agni alone who does it all; that is the meaning."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d084-s",
+    "key": "Thou helpest one to power, and one thou hast not helped, O Indra, Lord of Strength, with all thy saving aid.",
+    "ref": "Rig Veda 8.37.6",
+    "at": [
+     656,
+     6
+    ],
+    "s": "A hymn calling Indra to the Soma poured at noon lists his lordship over the world; Sāyaṇa, commentary on 8.37.6, reads him as existing for the world’s strength and guarding all who take refuge, while no one guards him.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.37.6, sa.wikisource ऋग्वेदः सूक्तं ८.३७, revision 191734 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "“त्वं “क्षत्राय जगतो बलाय भवसि । “अवसि आश्रितान् रक्षसि । “त्वं “न “आविथ केनापि न रक्ष्यसे ।",
+     "gloss": "You are for kṣatra, the strength of the world. You protect (avasi) those who have taken refuge with you. You were not protected (na āvitha): by no one are you protected."
+    }
+   }
+  }
+ ]
+}

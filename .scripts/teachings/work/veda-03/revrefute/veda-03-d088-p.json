@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d088-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AD%E0%A5%A8&oldid=340872",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 88 --verse 8.61.7: Sāyaṇa's words saptá ṛtvijaḥ ekāṃ gharmaṃ duhanti; teṣāṃ madhye dvau pratiprasthātārāv adhvaryū pañca anyān upa sṛjataḥ prayojayataḥ, the five named as yajamāna, brahman, hotṛ, āgnīdhra, prastotṛ, and he assigns the verse to the Pravargya (gharma-milking) and the grāvastotra. That carries seven priests milking the one gharma, two adhvaryus directing (prayojayataḥ) five others, the sacrificer among them. The appositive 'a pot of boiling milk' glosses the technical term, not a new claim: the vol. 5 note reports his gharma as the earthen vessel used to boil milk in the Pravargya, and his own comment on 8.61.11 names the mahāvīra pot and its milk; a pot of milk that is boiled is a fair gloss of that. Hymn's deity: his introduction gives āgneyaṃ tu ... agnir devatā (or the oblations), so 'a hymn to Agni' stands; verse 7 of 18 is loosely 'midway'. Revision 340872 is dated 2022-07-21 (API checked). verse.js ok (8.61.7 at [680,7]); entry-check ok (44 words, no four-word run from the key). No school, comparison or tone issue; no Nirukta treatment. Evidence nit only: the gloss labels note 1 'Wilson' but the packet says vol. 5 at 8.72 is Cowell's hand.",
+ "better": "Evidence gloss should label note 1 as Cowell's (Wilson's translation, vol. 5, Cowell's hand), not Wilson's; the shipped sentence and src are unaffected."
+}

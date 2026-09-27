@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d080-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A7%E0%A5%AE&oldid=327230",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 80 --verse 8.18.22 and the pinned revision 327230 itself (action=raw; API timestamp 2021-12-04, so the year is right): the Sanskrit verse is ye cid dhi mṛtyubandhava ādityā manavaḥ smasi, the app’s 8.18.22 and the hymn’s last verse. Sāyaṇa glosses mṛtyubandhavaḥ as mṛtyor yamasya bandhubhūtāḥ pratyāsannamaraṇāḥ (kin of Death, that is Yama, near to death) and jīvase as jīvanāya cirakālāvasthānāya (for long continuance): the reading carries exactly this, nothing added. Wilson agrees. Plain sense checked on day.js: shelter (8.18.3, 12, 16, 17, 21) and release of the sinner from sin (8.18.12), ending at v22; no four-word run from the key. verse.js ok ([637,22]); entry-check ok. No Yāska treatment; no school, comparison or tone issue.",
+ "better": ""
+}

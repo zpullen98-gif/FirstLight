@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d087-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AC%E0%A5%AD&oldid=299570",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 87 --verse 8.56.8 (app 8.56 = standard 8.67, a hymn Sāyaṇa comments; not Vālakhilya): mā naḥ setuḥ siṣed ayam is this verse. He glosses setuḥ as bandhako jālaḥ (the binding net), parivṛṇaktu as parivarjayatu jālāt (let him keep us clear of the net), names the agent as Indra alone, and vaśī as sarvasya vaśīkartā (controller of all): the reading is carried word for word, only the jussive rendered as description. The Anukramaṇī preface clause of the earlier version is gone. Plain sense checked against day.js: of the hymn’s 21 verses to the Adityas (Mitra, Varuna, Aryaman) and Aditi, asking for life and release, only v8 names Indra, so “for once” holds. Revision 299570 dated 2021-01-04 by the Wikisource API. verse.js ok (8.56.8 at [675,8]); entry-check ok.",
+ "better": ""
+}

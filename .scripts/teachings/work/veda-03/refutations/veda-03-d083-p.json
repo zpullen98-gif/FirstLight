@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d083-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%A8%E0%A5%AD&oldid=208927",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 83 --verse 8.27.12 (pinned revision 208927; API timestamp 2019-08-07): Sāyaṇa takes ny aviśran as svasvakāryeṣu niviśante and spells it out: sūrya udite kecana puruṣā agnihotrādikaṃ kurvanti kecana devatāviṣayaṃ stotraṃ kurvate, paśvādayas tṛṇādibhakṣaṇārthaṃ sarvatra saṃcaranti; the paraphrase (some men performing the Agnihotra, others praising the gods, beasts roaming to graze) is his, with only ādikam (and the like) left out, which does not change the claim. Evidence words re-found verbatim in the packet. verse.js ok (8.27.12 at [646,12]). Plain sense checked on day.js: 8.27 invokes Agni, the Maruts, Adityas, all the Vasus (a Viśvedevas hymn), and 19 to 21 ask the gods’ treasure at sunrise, noon and eve; verse 12 marks the sun’s rising; no four-word run from the key. No Yāska treatment. entry-check ok (42 words). No school, comparison or tone issue.",
+ "better": ""
+}

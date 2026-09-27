@@ -1,0 +1,11 @@
+{
+ "id": "veda-03-d090-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://sa.wikisource.org/w/index.php?title=%E0%A4%8B%E0%A4%97%E0%A5%8D%E0%A4%B5%E0%A5%87%E0%A4%A6%E0%A4%83_%E0%A4%B8%E0%A5%82%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%82_%E0%A5%AE.%E0%A5%AE%E0%A5%AC&oldid=209020",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js veda 90 --verse 8.75.5 and the pinned revision 209020 itself (action=raw): Sāyaṇa opens ṛṣiḥ satyapraśaṃsāṃ karoti, glosses ṛtena as satyena with sāyaṃkāle svakiraṇasamūhaṃ śamayati, and ṛtaṃ satyaṃ svayam evābhibhavati of the great strength (mahad api balam) of a foe eager for battle, which carry the paraphrase without drift; Wilson note 4 reports the same praise of truth. verse.js ok (8.75.5 at [694,5]), stops before the refrain. Plain sense checked on day.js: the refrain of 8.75.1 to 5 begs Ye Twain not to break friendship, and 8.75.5 is the hymn’s last verse, the only one naming Savitar. Locator right (app 8.75 = standard 8.86). Two words of the key quoted. entry-check ok; no school, comparison or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,43 @@
+{
+ "id": "veda-03-d066-p",
+ "d": 66,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "THE men from fire-sticks, with their hands’ swift movement, have, in deep thought, engendered glorious Agni, Far-seen, with pointed flame, Lord of the homestead.",
+ "ref": "Rig Veda 7.1.1",
+ "at": [
+  516,
+  1
+ ],
+ "s": "Opening a hymn asking Agni for wealth and sons, the verse tells of his kindling; Yāska, Nirukta 5.10, takes the “deep thought” as the fingers, employed in actions, and the fire-sticks as named for the fire resting in them or born of their rubbing.",
+ "by": "yaska",
+ "by2": "",
+ "hedge": "",
+ "src": "Yāska, Nirukta 5.10, in Lakshman Sarup, The Nighantu and the Nirukta, translation pp. 78 to 79, archive.org nighantuniruktao00yask (1921)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/download/nighantuniruktao00yask/nighantuniruktao00yask_djvu.txt",
+    "edition": "Lakshman Sarup, The Nighantu and the Nirukta, English translation (Lahore, University of the Panjab, 1921), archive.org nighantuniruktao00yask (OCR)",
+    "locator": "Nirukta 5.10, translation pp. 78 to 79 (verse quoted p. 78, footnote vii. 1. 1; explanation p. 79)",
+    "via": "webfetch"
+   }
+  ],
+  "words": "From two sticks, men with fingers have produced fire by the motion of their hands … Dldhitayah mean fingers: they are employed in (the performance of) actions. Fire-sticks are (so called because) fire rests in them, or because fire is produced from them by attrition. By the motion of their hands, by tlie circular movement of their hands.",
+  "lang": "English (Sarup’s translation of Yāska’s Sanskrit; OCR spellings Dldhitayah = Dīdhitayaḥ, tlie = the, kept as printed in the scan text)",
+  "gloss": "Yāska quotes 7.1.1 (men with fingers produced fire from two sticks by the motion of their hands) and explains: dīdhitis are fingers, because they are employed in actions; the fire-sticks are so called because fire rests in them, or because fire is produced from them by attrition; by the hands’ motion means their circular movement.",
+  "licence": "public domain (1921)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The critic holds. Opened Sarup’s Nirukta (archive.org nighantuniruktao00yask, djvu text fetched): 5.10 quotes the verse on p. 78 (footnote vii. 1. 1; SV 1. 72) and explains it on p. 79: Dīdhitayaḥ mean fingers, employed in actions; fire-sticks are so called because fire rests in them or is produced from them by attrition. Sāyaṇa’s commentary on 7.1.1 quotes exactly this Nirukta 5.10 passage for his gloss aṅgulibhiḥ, so the fingers reading is Yāska’s first. Given to Yāska, plain sense kept (trimmed “that asks” to “asking”); the reading now adds only what Sarup’s p. 79 says. Sāyaṇa stays everywhere else, including d75. verse.js ok (7.1.1 at [516,1]); entry-check ok (44 words); recheck-evidence finds every piece (webfetch, Sarup djvu text)."
+}

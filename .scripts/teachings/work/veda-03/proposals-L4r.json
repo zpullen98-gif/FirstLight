@@ -1,0 +1,171 @@
+{
+ "lane": "L4r",
+ "plan": "veda",
+ "batch": "veda-03",
+ "days": [
+  {
+   "d": 85,
+   "primary": {
+    "id": "veda-03-d085-p",
+    "key": "Sharpen this song of him who strives his utmost, sharpen, God Varuna, his strength and insight; May we ascend the ship that bears us safely, whereby we may pass over all misfortune.",
+    "ref": "Rig Veda 8.42.3",
+    "at": [
+     661,
+     3
+    ],
+    "s": "The last of three verses to Varuna, who propped the heavens, prays for the singer before the hymn turns to the Asvins; Sāyaṇa, commentary on 8.42.3, reads the ship as the sacrifice, the means of crossing the sea of suffering.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.42.3, sa.wikisource ऋग्वेदः सूक्तं ८.४२, revision 208930 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "यया नावा यज्ञरूपया \"विश्वा सर्वाणि \"दुरिता दुरितानि “अति “तरेम तां “सुतर्माणं सुष्ठु तारयित्रीं यज्ञरूपां “नावम् \"अधि “रुहेम वयमारुहेम । दुःखसागरतरणे हेतुत्वाद्यज्ञो नौरित्यत्र व्यपदिश्यते ॥",
+     "gloss": "The ship in the form of the sacrifice, by which we may cross beyond all troubles (duritāni): may we climb aboard that ship, carrying well across, which is the sacrifice. Because it is the cause of crossing the ocean of suffering, the sacrifice is here called a ship."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d085-s",
+    "key": "If I were thou and thou wert I, O Agni, every prayer of thine Should have its due fulfilment here.",
+    "ref": "Rig Veda 8.44.23",
+    "at": [
+     663,
+     23
+    ],
+    "s": "Late in a hymn to Agni, after a plea that the god keep their friendship in mind, the verse imagines an exchange; Sāyaṇa, commentary on 8.44.23, takes it as the singer grown rich and Agni a poor praiser, when Agni’s wishes would come true.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.44.23, sa.wikisource ऋग्वेदः सूक्तं ८.४४, revision 332890 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे \"अग्ने \"यत् यदि \"अहं \"त्वं बहुधनः “स्यां भवेयं \"त्वं “वा “घ त्वं वा खलु \"अहं दरिद्रः स्तोता \"स्याः भवेः ततस्तव “आशिषः आशासनानि “इह अस्मद्विषये “सत्याः सत्यानि “स्युः भवेयुः ॥",
+     "gloss": "O Agni, if I were you, rich in wealth, or you indeed were I, a poor praiser, then your wishes (āśiṣaḥ, requests) here, in our regard, would be true."
+    }
+   }
+  },
+  {
+   "d": 86,
+   "primary": {
+    "id": "veda-03-d086-p",
+    "key": "We have drunk Soma and become immortal; we have attained the light, the Gods discovered.",
+    "ref": "Rig Veda 8.48.3",
+    "at": [
+     667,
+     3
+    ],
+    "s": "In a hymn on Soma at work within the drinker’s heart and limbs, the singers speak after the draught goes down; Sāyaṇa, commentary on 8.48.3, takes the deathlessness as hoped for from drinking one who is himself deathless, and the light as shining heaven.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.48.3, sa.wikisource ऋग्वेदः सूक्तं ८.४८, revision 202962 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "हे अमृत अमरण सोम त्वाम् \"अपाम पानं करवाम। कुर्मः। ततः \"अमृताः \"अभूम भवेम । यस्मात्त्वममृतः अतस्तव पानाद्वयमप्यमृताः स्याम । पश्चात् \"ज्योतिः द्योतमानं स्वर्गम् “अगन्म।",
+     "gloss": "O immortal, deathless Soma, we drink you (apāma: let us drink; we drink). Then may we become immortal (amṛtā abhūma, glossed bhavema, may we be). Since you are immortal, by drinking you we too would be immortal. Afterwards we reached the light (jyotiḥ), the shining heaven."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d086-s",
+    "key": "Each evil deed made manifest, and that which is concealed, O Gods, The whole thereof remove from us to Trita Aptya far away.",
+    "ref": "Rig Veda 8.47.13",
+    "at": [
+     666,
+     13
+    ],
+    "s": "The last of thirteen verses to the Adityas comes just before five that bid Dawn carry off an evil dream; Sāyaṇa, commentary on 8.47.13, takes Trita Aptya as the seer himself, praying that the misdeed not rest on him but be set far off.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.47.13, sa.wikisource ऋग्वेदः सूक्तं ८.४७, revision 208996 (2019)",
+    "basis": {
+     "source": "sayana",
+     "words": "इत्यष्टादशर्चं पञ्चमं सूक्तमाप्त्यस्य त्रितस्यार्षम् … हे देवासः देवा आदित्याः यदाविः यत् पापमाविर्भूतम् \"अस्ति । \"दुष्कृतं \"यत् च “अपीच्यम् अन्तर्हितमस्ति । … \"तद्विश्वं तदुभयम् \"आप्त्ये “त्रिते मयि मा भूत्। किंतु “अस्मत् \"आरे दूरे \"दधातन स्थापयत ॥",
+     "gloss": "The fifth hymn, of eighteen verses, is the seeing of Trita Āptya … O gods, Ādityas, whatever sin has become manifest, and whatever evil deed is hidden … let all that, both kinds, not be in me, Trita Āptya; rather set it far from us."
+    }
+   }
+  },
+  {
+   "d": 87,
+   "primary": {
+    "id": "veda-03-d087-p",
+    "key": "Let not this fetter bind us fast: may he release us for success; For strong is Indra and renowned.",
+    "ref": "Rig Veda 8.56.8",
+    "at": [
+     675,
+     8
+    ],
+    "s": "In a hymn to the Adityas and Aditi, pleading for life and release, the verse turns for once to Indra; Sāyaṇa, commentary on 8.56.8, reads the fetter as a net, having named among the hymn’s possible seers many fishes caught in one.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.56.8 (standard 8.67.8), sa.wikisource ऋग्वेदः सूक्तं ८.६७, revision 299570 (2021)",
+    "basis": {
+     "source": "sayana",
+     "words": "संमदाख्यस्य महामीनस्य पुत्रो मत्स्यो यद्वा मित्रावरुणयोः पुत्रो मान्योऽथवा बहवो वा मत्स्या जालनद्धाः सन्तो बन्धनमोक्षायादित्यानस्तुवन् । अतस्त एवर्षयः । … “नः अस्मान् “सेतुः बन्धको जालः “मा “सिषेत् मा बध्नातु । \"नः अस्मान् “महे महते कर्मणे \"परि “वृणक्तु परिवर्जयतु जालात् ।",
+     "gloss": "Matsya, son of the great fish called Sammada; or Mānya, son of Mitra and Varuṇa; or else many fishes caught in a net praised the Ādityas for release from their bond. Hence they are the seers. … Let not the setu, the binding net, bind us; let him keep us clear of the net, for a great work."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d087-s",
+    "key": "We count not then as sinners, nor as niggardly or foolish men, When with the Soma juice which we have shed we make Indra, the Mighty One, our Friend.",
+    "ref": "Rig Veda 8.50.11",
+    "at": [
+     669,
+     11
+    ],
+    "s": "In a hymn calling Indra to the pressed juice, the singers speak of themselves; Yāska, Nirukta 6.25, takes it as the seer’s claim that he and his fellows are not sinful or destitute but celibate, given to study, austerity, generosity and activity.",
+    "by": "yaska",
+    "by2": "",
+    "hedge": "",
+    "src": "Yāska, Nirukta 6.25, trans. Lakshman Sarup, The Nighantu and the Nirukta (1920 to 1921), archive.org nighantuniruktao00yask",
+    "basis": {
+     "source": "yaska",
+     "words": "We do not think ourselves to be sinful, or destitute, or devoid of lustre. We are celibate, devoted to study, austerities, generosity, and activity, said the seer.",
+     "gloss": "Yāska, in Sarup’s English, glosses the verse as the seer’s own claim: not sinful, not destitute, not without lustre, but celibate students given to study, austerity, giving and activity."
+    }
+   }
+  },
+  {
+   "d": 88,
+   "primary": {
+    "id": "veda-03-d088-p",
+    "key": "The seven milk a single cow; the two set other five to work, On the stream’s loud-resounding bank.",
+    "ref": "Rig Veda 8.61.7",
+    "at": [
+     680,
+     7
+    ],
+    "s": "In a hymn to Agni, full of cows, fountains and pressing stones, the verse speaks in numbers; Sāyaṇa, commentary on 8.61.7, reads the seven as priests milking the one hot offering, the two as adhvaryu priests directing five others, the sacrificer among them.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.61.7 (standard 8.72.7), sa.wikisource ऋग्वेदः सूक्तं ८.७२, revision 340872 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“सप्त ऋत्विजः “एकां घर्मं “दुहन्ति । तेषां मध्ये \"द्वा द्वौ प्रतिप्रस्थातारावध्वर्यू “पञ्च अन्यान् “उप \"सृजतः प्रयोजयतः । के ते पञ्च त उच्यन्ते । यजमानं ब्रह्माणं होतारमाग्नीध्रं प्रस्तोतारमिति ।",
+     "gloss": "Seven priests milk the one gharma (the heated milk offering). Among them the two, the adhvaryu priests called pratiprasthātṛ, set five others to work. Who are those five? The sacrificer, the brahman, the hotṛ, the āgnīdhra and the prastotṛ."
+    }
+   },
+   "standby": {
+    "id": "veda-03-d088-s",
+    "key": "When I and Indra mount on high up to the Bright One’s place and home, We, having drunk of meath, will reach his seat whose Friends are three times seven.",
+    "ref": "Rig Veda 8.58.7",
+    "at": [
+     677,
+     7
+    ],
+    "s": "In a hymn urging the Priyamedhas to sing to Indra, the singer looks upward after the milking; Sāyaṇa, commentary on 8.58.7, reads the ‘three times seven’ as the sun’s place, twenty-first in a Brāhmaṇa’s count of twelve months, five seasons and three worlds.",
+    "by": "sayana",
+    "by2": "",
+    "hedge": "",
+    "src": "Sāyaṇa, Vedārthaprakāśa on 8.58.7 (standard 8.69.7), sa.wikisource ऋग्वेदः सूक्तं ८.६९, revision 329726 (2022)",
+    "basis": {
+     "source": "sayana",
+     "words": "“यत् यदा “ब्रध्नस्य “विष्टपं सूर्यस्य स्थानं \"गृहमिन्द्रश्च अहं चोभौ \"उत् \"गन्वहि उद्गच्छावः … “सख्युः सर्वेषां सखिभूतस्यादित्यस्य । \"त्रिः \"सप्त इत्यनेन देवलोकानामुत्तममेकविंशं स्थानमुच्यते आदित्यस्यैकविंशत्वात् । तथा च ब्राह्मणं … द्वादश मासाः पञ्चर्तवस्त्रय इमे लोका असावादित्य एकविंशः",
+     "gloss": "When Indra and I both go up to the station (viṣṭapa) of the sun (bradhna), the house … of the Friend: the sun, friend to all. By ‘thrice seven’ is meant the highest, twenty-first place among the worlds of the gods, since the sun is the twenty-first. So the Brāhmaṇa … twelve months, five seasons, these three worlds; yonder sun is the twenty-first."
+    }
+   }
+  }
+ ]
+}
