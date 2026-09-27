@@ -1,0 +1,11 @@
+{
+ "id": "upanishads-01-d010-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js --verse 2.3 and the cached Sastri OCR (lines 2190 to 2212): Śaṅkara on Kena 2.3 says that to the knower whose firm conviction is that Brahman is unknowable, Brahman is well known, that he who holds it known by him knows it not, and that the false notion ‘I know Brahman’ arises in those who find the Ātman in the conditioned organs of sense, mind and intelligence. Both clauses of the reading are carried; the confusion clause is his gloss on the latter half of the same verse, which he says restates the first half more emphatically, so no drift and the locator 2.3 stands. Plain sense fits: 2.2 is the disciple’s answer and 2.3 is unmarked text (Śaṅkara: the Śruti speaking for itself), and it repeats no four words of the key. verse.js ok (Kena Upanishad 2.3, at 147), entry-check ok. One commentator, so no school needed; no comparison, tone plain.",
+ "better": ""
+}

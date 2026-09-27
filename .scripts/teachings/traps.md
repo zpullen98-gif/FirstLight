@@ -49,12 +49,21 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 
 - Besant was a Theosophist and her English carries it in places. Compare each key verse with Telang (SBE 8, 1882) before building on a word.
 - Name the school of Rāmānuja (Viśiṣṭādvaita) and Madhva (Dvaita) whenever either appears, and Śaṅkara's (Advaita) whenever two are named.
+- A plain sense that calls anything the last (the last question, the last charge) is checked against the whole work: 18.67 carries a charge after 18.66, and Arjuna asks again at 17.1 and 18.1 after 14.21. Give the place in the passage's own words. (Found in gita-01.)
+- Besant's capitals can suggest a reading the commentator does not make (3.42's “He”, which Rāmānuja takes as desire): the reading follows the commentator, not the capital. (Found in gita-01.)
+- Govindacharya adds bracketed glosses and footnotes to Rāmānuja; only the commentary body is Rāmānuja's. In Subba Rau's Madhva the paragraph marked V. is Madhva's comment and A. is the lead-in to the next verse: evidence comes from V. (Found in gita-01.)
+- Rāmānuja often comments on a group of verses in one segment (1.4 to 1.47; 12.3 to 12.5 under 12.5): the place named is the verse the segment is filed under, and the refuter confirms the grouping. (Found in gita-01.)
+- In a simile, a relative clause after “the sun reflected in water” attaches to the water: make the thing the commentator says moves the head noun. (Found in gita-01.)
 
 ## upanishads
 
 - Rāmānuja wrote no commentary on the Isa, Kena or Katha: name him only where the Śrī Bhāṣya treats the verse, and name the Śrī Bhāṣya.
 - Paramananda's own commentary is printed under each verse and is never a key verse or a reading.
 - Paramananda divides the Katha into parts and sections; the standard numbering follows the same parts. Check the section against Śaṅkara's.
+- Vasu prints his own Note paragraphs among Madhva's bhāṣya: only what stands under MADHVA'S COMMENTARY is Madhva's, never Vasu's notes or brackets. (Found in upanishads-01.)
+- A commentator's qualifier is part of his reading: keep “as it were”, and keep likeness distinct from identity, since Madhva denies identity without denying all sameness. (Found in upanishads-01.)
+- Śaṅkara's gloss may widen a word of the verse (all that moves becomes the universe, movable and immovable): paraphrase his gloss, not the verse's surface. (Found in upanishads-01.)
+- A sentence cut to reach the word cap can drop the step that carries the reading (“whence renunciation”): state the commentator's step in a whole clause and cut elsewhere. (Found in upanishads-01, all plans.)
 
 ## analects
 

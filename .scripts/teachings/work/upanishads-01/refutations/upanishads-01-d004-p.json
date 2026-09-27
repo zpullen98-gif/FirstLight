@@ -1,0 +1,11 @@
+{
+ "id": "upanishads-01-d004-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js --verse 1.2.20 and the cached Vasu _djvu.txt (lines 6330 to 6360): the mantra is numbered 20 in the Second Valli and Madhva’s Commentary under it glosses akratuh as firm faith in Visnu and mahimanam atmanah as superiority to the self (Jiva), with his quoted text making Visnu the one greater than the jiva, so “the Lord’s superiority” is carried by Madhva’s own commentary and not only by Vasu’s bracket or mantra rendering. The reading differs from Śaṅkara’s (desire turned from outer objects), so Madhva alone with his school fits the voice rule. Plain sense matches 1.2.18 to 1.2.19 then 1.2.20 (Yama is the speaker; “Death” is his standing name in the Katha). verse.js ok (1.2.20, at 66), entry-check ok, 42 words, src 110 characters. Slight risk only: “free from desire” echoes three verse words without curly quotes, used referentially; not a rule breach the gate flags.",
+ "better": ""
+}

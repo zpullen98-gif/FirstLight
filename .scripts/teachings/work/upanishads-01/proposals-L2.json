@@ -1,0 +1,241 @@
+{
+ "lane": "L2",
+ "plan": "upanishads",
+ "batch": "upanishads-01",
+ "days": [
+  {
+   "d": 7,
+   "primary": {
+    "id": "upanishads-01-d007-p",
+    "key": "As the sun, the eye of the whole world, is not defiled by external impurities seen by the eyes, thus the one inner Self of all living beings is not defiled by the misery of the world, being outside it.",
+    "ref": "Katha Upanishad 2.2.11",
+    "at": [
+     114
+    ],
+    "s": "Yama adds the sun to his likenesses of fire and air; Śaṅkara, on 2.2.11, reads the world’s misery as springing from a false notion that ignorance lays on the Self, as a snake on a rope, while the Self, like the rope, stays untainted.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya, on 2.2.11, trans. S. Sitarama Sastri, archive.org kathaandprasnaup029591mbp, 2nd ed. (1928)",
+    "basis": {
+     "source": "shankara",
+     "words": "the world by ignorance superposed on the dtman, suffers misery arising from desire and karma. But that is not really in the dtman … Thus the world having superposed on the dtman, the false notion of deed, agency and fruits like the notion of the serpent (on the rope), suffers the misery of birth, death, etc., clue to that. But the dtman, though the dtman of all the world, is not tainted by the misery of the world arising from the superposition of a false notion.",
+     "gloss": "The world, superimposed on the Self (ātman) by ignorance, suffers misery arising from desire and deeds; but that misery is not really in the Self. … The world, having superimposed on the Self the false notion of deed, agency and fruits, as the notion of a serpent is laid on a rope, suffers birth, death and the rest because of it. But the Self, though the Self of the whole world, is not tainted by the world’s misery, which arises from the superimposition of a false notion. (OCR: “dtman” is ātman, “clue” is due.)"
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d007-s",
+    "key": "No mortal lives by the in-coming breath (Prana) or by the out-going breath (Apana), but he lives by another on which these two depend.",
+    "ref": "Katha Upanishad 2.2.5",
+    "at": [
+     108
+    ],
+    "s": "After the question of what remains when the Self leaves the body, the passage turns to breath; Madhva (Dvaita), on 2.2.5, reads the other as Vishnu, wholly independent, in whom the chief breath takes refuge when it sustains living beings.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Kaṭha Upaniṣad Bhāṣya, on 2.2.5, trans. S. C. Vasu, The Sacred Books of the Hindus vol. 1, archive.org (1909 to 1911)",
+    "basis": {
+     "source": "madhva",
+     "words": "The Chief Prana aloue is not the Supporter of all sentient beings ; but refuged in Visnu, Prana supports all these Jivas. Thus the Highest and principal support of all sentient Beings is Visnu … He is Absolutely Independent.",
+     "gloss": "The chief breath (Prāṇa) alone is not what upholds all sentient beings; it is by taking refuge in Vishnu that the breath supports all these souls (jīvas). So the highest and principal support of all sentient beings is Vishnu, and He is absolutely independent. (OCR: “aloue” is alone.)"
+    }
+   }
+  },
+  {
+   "d": 8,
+   "primary": {
+    "id": "upanishads-01-d008-p",
+    "key": "This ancient Aswattha tree has its root above and branches below.",
+    "ref": "Katha Upanishad 2.3.1",
+    "at": [
+     119
+    ],
+    "s": "Opening the Katha’s last section, Yama pictures an ancient tree and names its source pure, Brahman, deathless; Śaṅkara, on 2.3.1, reads the tree as saṃsāra, changing every moment like a mirage, rooted above in Brahman and felled by the sword of knowing the supreme Self.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya, on 2.3.1, trans. S. Sitarama Sastri, archive.org kathaandprasnaup029591mbp, 2nd ed. (1928)",
+    "basis": {
+     "source": "shankara",
+     "words": "this tree of samsdra^ extending from the avyakta to the immoveable, has its root up, i. e. f in Brahman. … this tree consisting in manifold miseries of birth, decay, death and grief, etc., changing its nature every moment, like jugglery, waters of the mirage, a city formed by the clouds in the sky … felled by the unresisted sword of the realisation of the Paramdtman proved by the Veddnta, this tree of Samsdra",
+     "gloss": "This tree of saṃsāra, reaching from the unmanifest down to the immovable, has its root above, that is, in Brahman. … This tree, made of the many miseries of birth, decay, death and grief, changes its nature every moment, like a juggler’s trick, the waters of a mirage, a city of clouds in the sky. … It is felled by the irresistible sword of the realisation of the supreme Self (Paramātman) established by the Vedānta. (OCR: “samsdra” is saṃsāra, “Paramdtman” is Paramātman, “Veddnta” is Vedānta.)"
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d008-s",
+    "key": "With perseverance man should draw Him out from his body as one draws the inner stalk from a blade of grass.",
+    "ref": "Katha Upanishad 2.3.17",
+    "at": [
+     135
+    ],
+    "s": "Closing Yama’s teaching, the verse returns to the thumb-sized Person in every heart; Madhva (Dvaita), on 2.3.17, takes the body as the soul, called Vishnu’s body because it is under his control, and the Lord as the one to be distinguished from it.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Kaṭha Upaniṣad Bhāṣya, on 2.3.17, trans. S. C. Vasu, The Sacred Books of the Hindus vol. 1, archive.org (1909 to 1911)",
+    "basis": {
+     "source": "madhva",
+     "words": "The Jiva is the body of Visnu and therefore it is called sarira or body. … It is called His body because it is under His control … Let one realise that the Lord presides over the Jiva and is separate from it … The Unchangeable Yisim should be distinguished from the Jiva called sva ; and the difference between the Jiva and Brahman should be thus realised.",
+     "gloss": "The individual soul (jīva) is the body of Vishnu, and so it is called śarīra, body. … It is called His body because it is under His control. … Let one realise that the Lord presides over the soul and is separate from it. … The unchangeable Vishnu is to be distinguished from the soul, here called sva (‘his own’), and so the difference between the soul and Brahman is to be realised. (OCR: “Yisim” is Visnu.)"
+    }
+   }
+  },
+  {
+   "d": 9,
+   "primary": {
+    "id": "upanishads-01-d009-p",
+    "key": "It is distinct from the known and also It is beyond the unknown.",
+    "ref": "Kena Upanishad 1.3",
+    "at": [
+     139
+    ],
+    "s": "Having said that eye, speech and mind cannot reach That, the teacher cites the ancients; Śaṅkara, on 1.3, reads it as saying that only one’s own Self can be other than both known and unknown, and so that the Self is Brahman.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 1.3, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "Whatever is known is little, mortal and full of misery and, therefore, fit to be abandoned. … Thus, by saying that the Brahman is distinct from both the Known and the Unknown and thus disproving its fitness to be abandoned or to be taken, the desire of the disciple to know anything distinct from Self (Atman) is checked. For, it is clear that none other than one’s Atman can he distinct from both the Known and the Unknown ; the purport of the text is that the Atman is Brahman .",
+     "gloss": "Whatever is known is small, mortal and full of misery, and so fit to be given up. … By saying that Brahman is other than both the known and the unknown, and so is neither to be given up nor to be taken, the text checks the disciple’s wish to know anything other than the Self. For clearly nothing but one’s own Self can be other than both the known and the unknown; the purport of the text is that the Self (Ātman) is Brahman. (OCR: “can he” is can be.)"
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d009-s",
+    "key": "It is the ear of the ear, the mind of the mind, the speech of the speech, the life of the life, the eye of the eye.",
+    "ref": "Kena Upanishad 1.2",
+    "at": [
+     138
+    ],
+    "s": "Asked what directs mind, life-force, speech, eye and ear, the teacher replies; Śaṅkara, on 1.2, reads it as naming a director distinct from the senses, inferred because combined things serve another, as a house serves its user, and whose intelligence empowers each sense.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 1.2, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "The director is inferred by logical necessity from the activity manifested by the ear and others combined … As things combined necessarily exist for the use of some other thing not so combined, we argue that there is a director of the ear, etc., distinct from the ear, etc., and for whose use the *whole lot … exists in the same manner as a house exists for somebody’s use. … this capability of the ear depends npon the intelligence of the Atman , blight, eternal, intact, all-pervading.",
+     "gloss": "The director is inferred of necessity from the activity shown by the ear and the other senses acting together. … Since combined things necessarily exist for the use of something else not so combined, there is a director of the ear and the rest, distinct from them, for whose use the whole group exists, as a house exists for someone’s use. … This capacity of the ear depends on the intelligence of the Self (Ātman), bright, eternal, intact and all-pervading. (OCR: “npon” is upon, “blight” is bright.)"
+    }
+   }
+  },
+  {
+   "d": 10,
+   "primary": {
+    "id": "upanishads-01-d010-p",
+    "key": "He who thinks he knows It not, knows It. He who thinks he knows It, knows It not.",
+    "ref": "Kena Upanishad 2.3",
+    "at": [
+     147
+    ],
+    "s": "Following the disciple’s answer, the text sets knowing against not knowing; Śaṅkara, on 2.3, reads it as Brahman being well known to one sure it is unknowable, while those who think they know it confuse the Self with senses, mind and intellect.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 2.3, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "The purport is that to the knower of the Brahman whose firm conviction is, that the Brahman is unknowable, the Brahman is well known.. But he, whose conviction is that the Bradimum is known by him, certainly knows not the Brahman. … In the ease of those who find the Atman in the conditioned organs of sense, mind and intelligence, the false notion ‘I know Brahman 5 is quite possible, because they cannot discriminate between Brahman and these conditions",
+     "gloss": "The purport is that to the knower of Brahman whose firm conviction is that Brahman is unknowable, Brahman is well known; but he whose conviction is that Brahman is known by him certainly does not know Brahman. … In the case of those who find the Self (Ātman) in the conditioned organs of sense, mind and intelligence, the false notion ‘I know Brahman’ is quite possible, because they cannot tell Brahman apart from these conditions. (OCR: “Bradimum” is Brahman, “ease” is case, “5” is a closing quote.)"
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d010-s",
+    "key": "By attaining this Self, man gains strength; and by Self-knowledge immortality is attained.",
+    "ref": "Kena Upanishad 2.4",
+    "at": [
+     148
+    ],
+    "s": "After naming the knowing that brings deathlessness, the verse turns to strength; Śaṅkara, on 2.4, reads the strength as the only kind that overcomes death, gained by the Self alone, while strength from wealth, mantras, herbs or yoga, born of mortal things, cannot.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 2.4, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "The strength gained by wealth, retinue, mantras, medicinal herbs, devotion and yoga cannot overcome mortality, because that is produced by things themselves mortal. The strength gained by the knowledge of the Atman can be acquired by the Atman alone and not by any other means. Because the strength produced by the knowledge of the Atman does not require any other aid, that strength alone can overcome death.",
+     "gloss": "The strength gained by wealth, followers, mantras, medicinal herbs, devotion and yoga cannot overcome mortality, because it is produced by things that are themselves mortal. The strength gained by knowledge of the Self (Ātman) can be acquired by the Self alone and by no other means. Because the strength produced by knowledge of the Self needs no other aid, that strength alone can overcome death."
+    }
+   }
+  },
+  {
+   "d": 11,
+   "primary": {
+    "id": "upanishads-01-d011-p",
+    "key": "Then he saw in that very space a woman beautifully adorned, Uma of golden hue, daughter of Haimavat (Himalaya).",
+    "ref": "Kena Upanishad 3.12",
+    "at": [
+     161
+    ],
+    "s": "The mystery that baffled Agni and Vayu vanishes before Indra, and a figure appears; Śaṅkara, on 3.12, reads the woman as knowledge, taking Uma’s form because Indra, drawn to the Spirit, stayed pondering it where Agni and Vayu turned back.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 3.12, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "Indra stood discussing within himself what that Spirit was, and did not return like Agni and Vayu . Seeing his attachment to that Spirit, knowledge in the form of a woman and of Uma appeared before him. Indra beheld knowledge, fairest of the fair,",
+     "gloss": "Indra stood considering within himself what that Spirit was, and did not go back as Agni and Vāyu had. Seeing his attachment to that Spirit, knowledge appeared before him in the form of a woman, Umā. Indra beheld knowledge, fairest of the fair."
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d011-s",
+    "key": "The Brahman perceived this and appeared before them.",
+    "ref": "Kena Upanishad 3.2",
+    "at": [
+     151
+    ],
+    "s": "The Devas claim as their own the victory Brahman won for them; Śaṅkara, on 3.2, reads it as Brahman, out of pity, taking at will a wondrous form the senses could perceive, to bless the Devas by dispelling that false notion.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 3.2, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "out of pity for them and intending to bless them by dispelling their false notion, appeared before them for … their benefit in a form assumed at will, in virtue of its power … a form unprecedentedly glorious and astonishing and capable of being perceived by the senses.",
+     "gloss": "(Brahman, knowing the Devas’ false notion,) out of pity for them and meaning to bless them by dispelling their false notion, appeared before them for their benefit in a form assumed at will by its own power, a form unprecedentedly glorious and astonishing, and able to be perceived by the senses."
+    }
+   }
+  },
+  {
+   "d": 12,
+   "primary": {
+    "id": "upanishads-01-d012-p",
+    "key": "The Vedas are its limbs. Truth is its support.",
+    "ref": "Kena Upanishad 4.8",
+    "at": [
+     169
+    ],
+    "s": "Having declared the Upanishad taught, the teacher names tapas, dama and karma as its footing; Madhva (Dvaita), on 4.8, reads truth here as the Mīmāṃsā, the science of interpretation by which the truth is determined.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Kena Upaniṣad Bhāṣya, on 4.8, trans. S. C. Vasu, The Sacred Books of the Hindus vol. 1, archive.org (1909 to 1911)",
+    "basis": {
+     "source": "madhva",
+     "words": "The word in Mantra 8 moans the science of determining the truth, the science of interpretation or the Mimamsa. … Therefore the Mimamsa is called Satyam because it leads to the right or true determination as to Brahman.",
+     "gloss": "The word (satyam, truth) in mantra 8 means the science of determining the truth, the science of interpretation, that is, the Mīmāṃsā. … (From the Śabda-Nirṇaya, which he quotes in support:) Therefore the Mīmāṃsā is called satyam, truth, because it leads to the right and true determination about Brahman. (OCR: “moans” is means; the Sanskrit word itself is lost in the scan.)"
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d012-s",
+    "key": "We have certainly taught thee the Upanishad about Brahman.",
+    "ref": "Kena Upanishad 4.7",
+    "at": [
+     168
+    ],
+    "s": "Near the Kena’s close, the disciple asks for the Upanishad; Śaṅkara, on 4.7, reads the reply as declaring the teaching complete, needing nothing more for liberation, since before knowledge of Brahman all notions of deed, doer and fruit vanish.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 4.7, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "It is unreasonable to think that the knowledge of the Brahman, before which all notions of distinctions of deed, doer, fruit, etc., vanish, can possibly require any extraneous thing as its complement or concomitant aid … The meaning is “ what was explained is all the Upanishad, which does not require anything else for ensuring emancipation.”",
+     "gloss": "It is unreasonable to think that the knowledge of Brahman, before which all notions of the distinctions of deed, doer, fruit and the rest vanish, could need anything outside itself as its complement or accompanying aid. … The meaning is: what has been explained is the whole Upanishad, and it needs nothing else to secure liberation."
+    }
+   }
+  }
+ ]
+}

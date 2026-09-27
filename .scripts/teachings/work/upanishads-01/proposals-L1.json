@@ -1,0 +1,241 @@
+{
+ "lane": "L1",
+ "plan": "upanishads",
+ "batch": "upanishads-01",
+ "days": [
+  {
+   "d": 1,
+   "primary": {
+    "id": "upanishads-01-d001-p",
+    "key": "All this, whatsoever exists in the universe, should be covered by the Lord. Having renounced (the unreal), enjoy (the Real). Do not covet the wealth of any man.",
+    "ref": "Isa Upanishad 1",
+    "at": [
+     0
+    ],
+    "s": "The Isa opens its eighteen verses, which run from renunciation and work to a prayer at the hour of death; Śaṅkara, commentary on verse 1, reads the covering as seeing all that moves as the Self, from which renunciation follows, and ‘enjoy’ as protect.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Īśa Upaniṣad Bhāṣya, verse 1, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary, vol. 1 (1905 printing)",
+    "basis": {
+     "source": "shankara",
+     "words": "All this universe, movable and immovable, unreal in absolute truth* should be covered by his self, the Lord, Paramatnum, with the idea, “ I alone am all this as being the inner self of all. ” … One who thus contemplates on the self as the Paramatman is bound to renounce the three-fold desire of son, etc., and not perforin Karma … Kenunciation’, therefore, is the meaning of this word tyaktena . Bhnnjithah means protect.",
+     "gloss": "All this universe, moving and unmoving, unreal in absolute truth, should be covered by one’s own Self, the Lord, the Paramātman, with the thought ‘I alone am all this, being the inner Self of all’ … One who so contemplates the Self as the Paramātman must renounce the threefold desire for a son and the rest, and not perform ritual works … ‘Renunciation’ is therefore the meaning of the word tyaktena. Bhuñjīthāḥ means protect."
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d001-s",
+    "key": "All this, whatsoever exists in the universe, should be covered by the Lord. Having renounced (the unreal), enjoy (the Real). Do not covet the wealth of any man.",
+    "ref": "Isa Upanishad 1",
+    "at": [
+     0
+    ],
+    "s": "The Isa begins with the Lord and the world before turning to work and knowledge; Madhva (Dvaita), commentary on verse 1, reads the world as fit to be dwelt in by the Lord and ‘renounced’ as given by Him, to be enjoyed.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Īśa Upaniṣad Bhāṣya, verse 1, trans. S. C. Vasu, The Sacred Books of the Hindus, vol. 1 (1909 to 1911)",
+    "basis": {
+     "source": "madhva",
+     "words": "The words isa vasyam mean “worthy or capable of being dwell in by the Lord.’ ‘Jagatyam,’ ‘ in the prakriti.' * Tena * means 4 by Him, the Lord.’ ‘Tvaktena/ given. Enjoy thou what is given by him.",
+     "gloss": "The words īśā vāsyam mean ‘worthy or capable of being dwelt in by the Lord’. Jagatyām means ‘in prakṛti’. Tena means ‘by Him, the Lord’. Tyaktena means ‘given’. Enjoy what is given by Him."
+    }
+   }
+  },
+  {
+   "d": 2,
+   "primary": {
+    "id": "upanishads-01-d002-p",
+    "key": "There is this doubt regarding what becomes of a man after death. Some say he exists, others that he does not exist.",
+    "ref": "Katha Upanishad 1.1.20",
+    "at": [
+     37
+    ],
+    "s": "Granted his father’s peace and the heavenly fire, Nachiketas asks Death for the third boon; Śaṅkara (Advaita), commentary on 1.1.20, reads the doubt as whether a self distinct from body, senses, mind and intellect passes into another body, and Madhva (Dvaita), on the same verse, as whether the Lord rules the liberated souls too.",
+    "by": "shankara",
+    "by2": "madhva",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Bhāṣya 1.1.20, trans. S. Sitarama Sastri (2nd ed. 1928); Madhva, Kaṭha Bhāṣya 1.1.20, trans. S. C. Vasu (1909 to 1911)",
+    "basis": {
+     "source": "shankara; madhva",
+     "words": "This doubt regarding man when dead, some say that there is an dtman distinct from body, t senses, mind and intellect and entering into another body ; some say that there is no such dtman … The wise say that the Lord controls the embodied and unembodied, the bound as well as the liberated jivas. The ignorant say that He rules only the living and those souls which are bound, but over the liberated He exercises no control.",
+     "gloss": "[Śaṅkara:] This doubt about a man who has died: some say there is an ātman distinct from the body, senses, mind and intellect, which enters into another body; some say there is no such ātman … [Madhva:] The wise say that the Lord controls the embodied and the unembodied, the bound as well as the liberated souls. The ignorant say that He rules only the living and the souls that are bound, but has no control over the liberated."
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d002-s",
+    "key": "Nachiketas said: O Death, these are fleeting; they weaken the vigour of all the senses in man. Even the longest life is short. Keep thou thy chariots, dance and music.",
+    "ref": "Katha Upanishad 1.1.26",
+    "at": [
+     43
+    ],
+    "s": "Offered sons, cattle, long life and the maidens of heaven in place of the third boon, Nachiketas refuses; Śaṅkara, commentary on 1.1.26, hears him answer unmoved like a great lake, and takes ‘fleeting’ as pleasures that may not last until tomorrow.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya 1.1.26, trans. S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "basis": {
+     "source": "shankara",
+     "words": "Though thus tempted, Nachiketas unagitated like a large lake, said : svdbhtivah, enjoyments whose existence the next day is a matter of doubt ; the enjoyments enumerated by you are ephemeral",
+     "gloss": "Though tempted in this way, Nachiketas, unagitated like a large lake, said: śvobhāvāḥ, enjoyments whose existence tomorrow is in doubt; the enjoyments you have listed are ephemeral."
+    }
+   }
+  },
+  {
+   "d": 3,
+   "primary": {
+    "id": "upanishads-01-d003-p",
+    "key": "The good and the pleasant approach man; the wise examines both and discriminates between them; the wise prefers the good to the pleasant, but the foolish man chooses the pleasant through love of bodily pleasure.",
+    "ref": "Katha Upanishad 1.2.2",
+    "at": [
+     48
+    ],
+    "s": "Death begins his teaching, now that Nachiketas has refused every lesser gift, with two aims that bind every person; Śaṅkara, commentary on 1.2.2, reads the two as coming mingled, and the wise as parting them as a flamingo parts milk from water.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya 1.2.2, trans. S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "basis": {
+     "source": "shankara",
+     "words": "as they are not easily distinguishable by persons of poor intelligence, either in respect of the means to their attainment, or in respect of their fruits, both the sweet and the good become as it were mingled, and approach man. Therefore the intelligent man examines both the sweet and the good as a flamingo separates milk and water and having considered in his mind their relative weight, divides them both and follows the good alone, as preferable to the sweet",
+     "gloss": "Since people of poor understanding cannot easily tell them apart, either in the means of reaching them or in their fruits, the sweet and the good come to a man as if mingled. So the intelligent man examines both, as a flamingo separates milk from water, weighs them in his mind, divides them and follows the good alone, as preferable to the sweet."
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d003-s",
+    "key": "When taught by a man of inferior understanding, this Atman cannot be truly known, even though frequently thought upon. There is no way (to know It) unless it is taught by another (an illumined teacher), for it is subtler than the subtle and beyond argument.",
+    "ref": "Katha Upanishad 1.2.8",
+    "at": [
+     54
+    ],
+    "s": "Having called both teacher and hearer a wonder, Death turns to who can make the Self known; Śaṅkara (Advaita), commentary on 1.2.8, reads the teacher needed as one who has become one with Brahman, and Madhva (Dvaita), on the same verse, as one who knows he is separate from the Lord.",
+    "by": "shankara",
+    "by2": "madhva",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Bhāṣya 1.2.8, trans. S. Sitarama Sastri (2nd ed. 1928); Madhva, Kaṭha Bhāṣya 1.2.8, trans. S. C. Vasu (1909 to 1911)",
+    "basis": {
+     "source": "shankara; madhva",
+     "words": "If the atman is taught by a preceptor who is free from the notion of duality and who has become one with the Brahman, none of the various doubts exists, such as whether he is or not, etc,, because the nature of the atman absorbs all such doubtful alternatives … The word Ananya means “ he who does not realise that the Lord is separate (anya) and he is separate (anya).” If such a person teaches another, then there is no understanding of Brahman. … While if the “anya” or the person who realises that he is separate from the Lord, declares Brahman then there is understanding of Brahman",
+     "gloss": "[Śaṅkara:] If the ātman is taught by a preceptor free from the notion of duality, who has become one with Brahman, none of the various doubts remains, such as whether it exists or not, because the nature of the ātman absorbs all such alternatives … [Madhva:] Ananya means ‘one who does not realise that the Lord is separate and he himself is separate’. If such a person teaches another, there is no understanding of Brahman … But if the anya, the one who realises that he is separate from the Lord, declares Brahman, then there is understanding of Brahman."
+    }
+   }
+  },
+  {
+   "d": 4,
+   "primary": {
+    "id": "upanishads-01-d004-p",
+    "key": "The Self is subtler than the subtle, greater than the great; It dwells in the heart of each living being. He who is free from desire and free from grief, with mind and senses tranquil, beholds the glory of the Atman.",
+    "ref": "Katha Upanishad 1.2.20",
+    "at": [
+     66
+    ],
+    "s": "After calling the Self unborn and never slain, Death turns to how it is seen; Madhva (Dvaita), commentary on 1.2.20, reads the one free from desire as having firm faith in Vishnu, and the glory as the Lord’s superiority to the self.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Kaṭha Upaniṣad Bhāṣya 1.2.20, trans. S. C. Vasu, The Sacred Books of the Hindus, vol. 1 (1909 to 1911)",
+    "basis": {
+     "source": "madhva",
+     "words": "The word akratuh means “ having firm faith in Visnu.’* The latter means Visnu and kratu means “firm faith.” … do not mean “the greatness of the Self,” but “ the superiority to the self (Jiva).”",
+     "gloss": "The word akratuḥ means ‘having firm faith in Viṣṇu’: the letter a means Viṣṇu and kratu means firm faith … The words mahimānam ātmanaḥ do not mean ‘the greatness of the Self’ but ‘the superiority to the self (the jīva)’."
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d004-s",
+    "key": "This Self cannot be attained by study of the Scriptures, nor by intellectual perception, nor by frequent hearing (of It); He whom the Self chooses, by him alone is It attained. To him the Self reveals Its true nature.",
+    "ref": "Katha Upanishad 1.2.23",
+    "at": [
+     69
+    ],
+    "s": "Death, having told of the Self unborn and hidden in the heart, turns to how it is gained; Śaṅkara, commentary on 1.2.23, reads the choosing as the seeker’s: one who, free from desire, seeks the Self alone attains it by the Self.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya 1.2.23, trans. S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "basis": {
+     "source": "shankara",
+     "words": "That dtman (self) whom the neophyte seeks, by the same self, i.e. 9 by the seeker, can the dtman be known. The meaning is that, of one who seeks only the dtman f being free from desire, the dtman is attained by the dtman alone.",
+     "gloss": "The ātman whom the beginner seeks can be known by that same self, that is, by the seeker. The meaning is that for one who seeks the ātman alone, being free from desire, the ātman is attained by the ātman alone."
+    }
+   }
+  },
+  {
+   "d": 5,
+   "primary": {
+    "id": "upanishads-01-d005-p",
+    "key": "Arise! Awake! Having reached the Great Ones (illumined Teachers), gain understanding.",
+    "ref": "Katha Upanishad 1.3.14",
+    "at": [
+     85
+    ],
+    "s": "After the parable of the chariot and the ascent beyond the senses, the section turns to exhortation; Śaṅkara, commentary on 1.3.14, hears scripture calling like a compassionate mother to beings asleep in beginningless ignorance to wake and realise the Self through a teacher.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya 1.3.14, trans. S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "basis": {
+     "source": "shankara",
+     "words": "arise, Oh, living beings sleeping in beginningless ignorance, i.e., turn towards the acquisition of the knowledge of the dtman ; and awake, i.e., put an end to the sleep of ignorance, horrible in form and the seed of all misery. How ? Having approached excellent preceptors who know that, realise the dtman taught by them … Thus, the sruti, like a mother, says from compassion",
+     "gloss": "Arise, living beings asleep in beginningless ignorance, that is, turn towards gaining knowledge of the ātman; and awake, that is, end the sleep of ignorance, dreadful in form and the seed of all misery. How? Having approached excellent teachers who know it, realise the ātman they teach … So the śruti speaks, like a mother, out of compassion."
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d005-s",
+    "key": "A wise man should control speech by mind, mind by intellect, intellect by the great Atman, and that by the Peaceful One (the Paramatman or Supreme Self).",
+    "ref": "Katha Upanishad 1.3.13",
+    "at": [
+     84
+    ],
+    "s": "Following the ascent from the senses to the Purusha, the verse turns it into practice; Madhva (Dvaita), commentary on 1.3.13, reads the controlling as meditating that each presiding deity is ruled by a higher, up to Vishnu, since none can control the gods.",
+    "by": "madhva",
+    "by2": "",
+    "hedge": "",
+    "src": "Madhva, Kaṭha Upaniṣad Bhāṣya 1.3.13, trans. S. C. Vasu, The Sacred Books of the Hindus, vol. 1 (1909 to 1911)",
+    "basis": {
+     "source": "madhva",
+     "words": "Let him meditate that the Devis, Urna, &c., presiding over speech, &e., are controlled by the Devas Siva and the rest. That Siva and the rest are controlled by Brahma and Vayu, the presiding deities of Mahat. Let him meditate that these two are controlled by Rama, the Supreme Bliss ; and that She is governed by Visnu, the Supreme Self. The word niyarna (nij^achchet) means here meditating that the lower is governed by the higher: and not that the man is to control the lower by the higher. For how ean any man control the Devas who are rulers set over men ?",
+     "gloss": "Let him meditate that the goddesses Umā and the rest, presiding over speech and the other senses, are controlled by Śiva and the other gods; that Śiva and the rest are controlled by Brahmā and Vāyu, the presiding deities of Mahat; that these two are controlled by Ramā, the supreme bliss, and she by Viṣṇu, the Supreme Self. The word niyacchet here means meditating that the lower is governed by the higher, not that the man is to control the lower by the higher. For how can any man control the gods who are set as rulers over men?"
+    }
+   }
+  },
+  {
+   "d": 6,
+   "primary": {
+    "id": "upanishads-01-d006-p",
+    "key": "O Gautama (Nachiketas), as pure water poured into pure water becomes one, so also is it with the Self of an illumined Knower (he becomes one with the Supreme).",
+    "ref": "Katha Upanishad 2.1.15",
+    "at": [
+     103
+    ],
+    "s": "Closing a section that warns against seeing difference, Death ends with a second image of water; Śaṅkara (Advaita), commentary on 2.1.15, reads the knower’s self as becoming the very same, once the sense of difference is gone, and Madhva (Dvaita), on the same verse, as becoming like the Lord but never the same.",
+    "by": "shankara",
+    "by2": "madhva",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Bhāṣya 2.1.15, trans. S. Sitarama Sastri (2nd ed. 1928); Madhva, Kaṭha Bhāṣya 2.1.15, trans. S. C. Vasu (1909 to 1911)",
+    "basis": {
+     "source": "shankara; madhva",
+     "words": "But how becomes the dtman of a thinker who has acquired knowledge, whose perception of difference due to conditions has been destroyed … As water pure poured into pure becomes of the same quality, not otherwise, the dtman also of the thinker becomes the same, Oh Gautama. … Even the Atman or Yayu of tlie liberated sage becomes like into Him : but not identically the same",
+     "gloss": "[Śaṅkara:] How does the ātman of a thinker become, who has gained knowledge and whose perception of difference due to conditions has been destroyed … As pure water poured into pure water becomes of the same quality and not otherwise, so the ātman of the thinker becomes the same, O Gautama … [Madhva:] Even the ātman, or Vāyu, of the liberated sage becomes like Him, but not identically the same."
+    }
+   },
+   "standby": {
+    "id": "upanishads-01-d006-s",
+    "key": "The Self-existent created the senses out-going; for this reason man sees the external, but not the inner Atman (Self). Some wise man, however, desiring immortality, with eyes turned away (from the external) sees the Atman within.",
+    "ref": "Katha Upanishad 2.1.1",
+    "at": [
+     89
+    ],
+    "s": "Opening the second part, Death turns to why so few see the Self; Śaṅkara, commentary on 2.1.1, reads the rare seer as turning the senses back, as one turns back a river’s current, since none can face outward and inward at once.",
+    "by": "shankara",
+    "by2": "",
+    "hedge": "",
+    "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya 2.1.1, trans. S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "basis": {
+     "source": "shankara",
+     "words": "Though this is the nature of the world, some discerning man, like turning back the current of a river, sees the dtman within (pratyagdtman) … With his eyes turned with all his senses, the eye, the ear and the rest diverted from all objects. Thus prepared, he sees pratyagdtman ; for it is not possible for the same man to be intent on external objects and go to see the pratyagdtman.",
+     "gloss": "Though this is the way of the world, some discerning man, as if turning back the current of a river, sees the ātman within, the inner Self … with his eyes turned, that is, with all his senses, eye, ear and the rest, withdrawn from every object. So prepared, he sees the inner Self; for the same man cannot be intent on outward objects and also go to see the inner Self."
+    }
+   }
+  }
+ ]
+}

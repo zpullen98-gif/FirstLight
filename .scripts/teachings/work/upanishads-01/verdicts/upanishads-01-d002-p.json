@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d002-p",
+ "d": 2,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "There is this doubt regarding what becomes of a man after death. Some say he exists, others that he does not exist.",
+ "ref": "Katha Upanishad 1.1.20",
+ "at": [
+  37
+ ],
+ "s": "Granted his father’s peace and the heavenly fire, Nachiketas asks Death for the third boon; Śaṅkara (Advaita), commentary on 1.1.20, reads the doubt as whether a self distinct from body, senses, mind and intellect passes into another body, and Madhva (Dvaita), on the same verse, as whether the Lord rules the liberated souls too.",
+ "by": "shankara",
+ "by2": "madhva",
+ "hedge": "",
+ "src": "Śaṅkara, Kaṭha Bhāṣya 1.1.20, trans. S. Sitarama Sastri (2nd ed. 1928); Madhva, Kaṭha Bhāṣya 1.1.20, trans. S. C. Vasu (1909 to 1911)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/kathaandprasnaup029591mbp",
+    "edition": "S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928), archive.org (OCR)",
+    "locator": "Katha 1.1.20, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911), archive.org (OCR)",
+    "locator": "Katha 1.1.20, commentary",
+    "via": "packet"
+   }
+  ],
+  "words": "This doubt regarding man when dead, some say that there is an dtman distinct from body, t senses, mind and intellect and entering into another body ; some say that there is no such dtman … The wise say that the Lord controls the embodied and unembodied, the bound as well as the liberated jivas. … That the question is about this Controller, and not about the survival after death",
+  "lang": "English (Sitarama Sastri’s and Vasu’s translations of the Sanskrit, OCR as printed)",
+  "gloss": "[Śaṅkara:] The doubt about a man who has died: some say there is an ātman distinct from body, senses, mind and intellect that enters another body; some say there is no such ātman. [Madhva:] The wise say the Lord controls the embodied and the unembodied, the bound and the liberated souls; the question is about this Controller, not about survival after death.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Katha Upanishad 1.1.20, at [37]); it starts after ‘Nachiketas said:’ at a sentence start. Plain sense is faithful: the first boon (1.1.10 to 11, the father pacified) and the fire (1.1.13 to 19) precede the third boon. Śaṅkara on 1.1.20 (Sitarama Sastri 1928, packet) glosses the doubt as whether there is an ātman distinct from body, senses, mind and intellect entering another body. Madhva on 1.1.20 (Vasu, packet) takes the doubt as whether the Lord controls the liberated as well as the bound, and says outright that the question is about the Controller, not survival after death. The two genuinely differ; schools named; difference named, not resolved. Section numbering agrees with Śaṅkara’s. entry-check ok."
+}

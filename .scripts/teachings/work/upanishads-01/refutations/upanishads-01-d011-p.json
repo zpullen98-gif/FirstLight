@@ -1,0 +1,11 @@
+{
+ "id": "upanishads-01-d011-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js --verse 3.12 and --verse 3.11 and the cached Sastri OCR (line 2710): Śaṅkara comments on 3.11 with 3.12 in the 3.12 segment; he says Indra stood considering within himself what that Spirit was and did not return like Agni and Vāyu, and that, seeing his attachment to that Spirit, knowledge in the form of a woman, Umā, appeared before him. The reading (woman as knowledge, taking Umā’s form because Indra, drawn to the Spirit, stayed pondering where Agni and Vāyu turned back) is carried clause by clause; the woman herself is the 3.12 matter, so on 3.12 is the right place. Plain sense matches the day (Agni 3.3 to 3.6, Vāyu 3.7 to 3.10, disappearance 3.11) without repeating the key. Madhva’s Brahma-Sāra account (Umā left to instruct Indra) differs but is not named, so nothing to resolve. verse.js ok (Kena Upanishad 3.12, at 161), entry-check ok.",
+ "better": ""
+}

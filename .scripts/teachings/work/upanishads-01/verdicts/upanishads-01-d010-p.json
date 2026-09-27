@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d010-p",
+ "d": 10,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who thinks he knows It not, knows It. He who thinks he knows It, knows It not.",
+ "ref": "Kena Upanishad 2.3",
+ "at": [
+  147
+ ],
+ "s": "Following the disciple’s answer, the text sets knowing against not knowing; Śaṅkara, on 2.3, reads it as Brahman being well known to one sure it is unknowable, while those who think they know it confuse the Self with senses, mind and intellect.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 2.3, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1",
+    "edition": "S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary, vol. 1 (1905 printing; the pada-bhāṣya), archive.org (OCR)",
+    "via": "packet",
+    "locator": "Kena 2.3, commentary (whole of part 2 read, 2.1 to 2.5)"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911), archive.org (OCR)",
+    "via": "packet",
+    "locator": "Kena 2.5, commentary (Brahma-Sāra; read for comparison)"
+   }
+  ],
+  "words": "The purport is that to the knower of the Brahman whose firm conviction is, that the Brahman is unknowable, the Brahman is well known.. But he, whose conviction is that the Bradimum is known by him, certainly knows not the Brahman. … In the ease of those who find the Atman in the conditioned organs of sense, mind and intelligence, the false notion ‘I know Brahman 5 is quite possible, because they cannot discriminate between Brahman and these conditions",
+  "lang": "English (Sitarama Sastri’s translation of Śaṅkara’s Sanskrit, OCR as printed)",
+  "gloss": "The purport is that to the knower of Brahman whose firm conviction is that Brahman is unknowable, Brahman is well known; but he whose conviction is that Brahman is known by him certainly does not know Brahman. … In the case of those who find the Self (Ātman) in the conditioned organs of sense, mind and intelligence, the false notion ‘I know Brahman’ is quite possible, because they cannot tell Brahman apart from these conditions. (OCR: “Bradimum” is Brahman, “ease” is case, “5” is a closing quote.)",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Kena Upanishad 2.3, at [147]; two whole sentences at the head of the unit). Plain sense places the verse after the disciple’s answer in 2.2 and names its theme of knowing against not knowing without repeating the verse. Śaṅkara’s commentary on 2.3 in the packet (Sitarama Sastri) says that to one whose firm conviction is that Brahman is unknowable, Brahman is well known, that one who thinks it known by him does not know it, and that the false notion ‘I know Brahman’ arises in those who find the Self in the conditioned organs of sense, mind and intelligence: every clause of the reading is carried without drift. Place (2.3) matches his segment. Madhva (Brahma-Sāra on 2.5) and the Śrī Bhāṣya (cites 2.3) noted; not needed. entry-check ok, 42 words."
+}

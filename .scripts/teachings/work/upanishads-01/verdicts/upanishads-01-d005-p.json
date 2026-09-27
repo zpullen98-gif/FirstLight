@@ -1,0 +1,42 @@
+{
+ "id": "upanishads-01-d005-p",
+ "d": 5,
+ "role": "primary",
+ "key": "Arise! Awake! Having reached the Great Ones (illumined Teachers), gain understanding.",
+ "ref": "Katha Upanishad 1.3.14",
+ "at": [
+  85
+ ],
+ "s": "After the parable of the chariot and the ascent beyond the senses, the section turns to exhortation; Śaṅkara, commentary on 1.3.14, hears scripture calling like a compassionate mother to beings asleep in beginningless ignorance to wake and realise the Self through a teacher.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya 1.3.14, trans. S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "sensitivity": "none",
+ "verdict": "VERIFIED",
+ "plainSense": "faithful",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/kathaandprasnaup029591mbp",
+    "edition": "S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "locator": "Śaṅkara on Katha 1.3.14",
+    "via": "packet"
+   }
+  ],
+  "words": "arise, Oh, living beings sleeping in beginningless ignorance, i.e., turn towards the acquisition of the knowledge of the dtman ; and awake, i.e., put an end to the sleep of ignorance, horrible in form and the seed of all misery. How ? Having approached excellent preceptors who know that, realise the dtman taught by them, the innermost and in all, thus ' I am he/ This is not to be neglected. Thus, the sruti, like a mother, says from compassion",
+  "lang": "en (Sitarama Sastri’s English translation of Śaṅkara’s Sanskrit)",
+  "gloss": "Arise, living beings asleep in beginningless ignorance, turn to knowledge of the ātman; awake, end the sleep of ignorance, the seed of all misery; having approached excellent teachers who know it, realise the ātman they teach as I am he. So the śruti speaks, like a mother, out of compassion.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Katha Upanishad 1.3.14, at [85]); three whole sentences, the translator’s parenthesis kept as printed and not used for the reading. Śaṅkara’s numbering places this verse at 1.3.14 as well. His commentary carries every element: beings asleep in beginningless ignorance, arise and awake, realise the ātman taught by excellent preceptors, the śruti speaking like a mother from compassion. Plain sense (after the chariot parable of 1.3.3 to 1.3.9 and the ascending series of 1.3.10 to 1.3.13, the section turns to exhortation) is faithful. entry-check ok."
+}

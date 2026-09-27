@@ -1,0 +1,11 @@
+{
+ "id": "upanishads-01-d001-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened the packet for Isa 1 (packet.js upanishads 1 --verse 1, Sitarama Sastri, 1905 printing). All three evidence passages stand verbatim at Isa 1: ‘All this universe, movable and immovable … should be covered by his self … I alone am all this as being the inner self of all’, ‘One who thus contemplates on the self as the Paramatman is bound to renounce the three-fold desire of son, etc.’, and ‘Bhnnjithah means protect’. They carry each clause of the reading: covering as seeing the whole universe, moving and unmoving, as the Self; renunciation following from that contemplation; ‘enjoy’ (bhuñjīthāḥ) as protect. Reading is Śaṅkara’s own, not Paramananda’s (whose note merely reports the protect gloss) nor Madhva’s (who reads indwelling and enjoying what the Lord allots). Locator right (commentary on verse 1). Plain sense checked against day.js: renunciation (1), work/Karma (2), closing prayers (15 to 18) with the body burned to ashes (17); no doctrine, no commentator named. One commentator, so no school required; no comparison; tone neutral. verse.js ok (Isa Upanishad 1, at [0], 28 words); entry-check ok on scratch/revrefute-d001-p.json (45 words, at the cap). Only quibble, not a refutation: ‘as the body goes to ashes’ states as an event what verse 17 asks for as a wish; the alternative in better keeps the count and passes entry-check.",
+ "better": "Optional tightening of the plain sense to the text’s own mood: ‘The Isa’s eighteen verses run from renunciation and work to a closing prayer that the body burn to ashes; Śaṅkara, commentary on verse 1, reads the covering as seeing the universe, moving and unmoving, as the Self, from which renunciation follows, and ‘enjoy’ as protect.’ (entry-check ok, scratch/revrefute-d001-p-alt.json, 45 words)"
+}

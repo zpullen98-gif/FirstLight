@@ -1,0 +1,42 @@
+{
+ "id": "upanishads-01-d003-p",
+ "d": 3,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The good and the pleasant approach man; the wise examines both and discriminates between them; the wise prefers the good to the pleasant, but the foolish man chooses the pleasant through love of bodily pleasure.",
+ "ref": "Katha Upanishad 1.2.2",
+ "at": [
+  48
+ ],
+ "s": "Death begins his teaching, now that Nachiketas has refused every lesser gift, with two aims that bind every person; Śaṅkara, commentary on 1.2.2, reads the two as arriving as if mingled, and the wise as parting them as a flamingo parts milk from water.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya 1.2.2, trans. S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/kathaandprasnaup029591mbp",
+    "edition": "S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928), archive.org (OCR)",
+    "locator": "Katha 1.2.2, commentary (1.2.1 also read)",
+    "via": "packet"
+   }
+  ],
+  "words": "as they are not easily distinguishable by persons of poor intelligence, either in respect of the means to their attainment, or in respect of their fruits, both the sweet and the good become as it were mingled, and approach man. Therefore the intelligent man examines both the sweet and the good as a flamingo separates milk and water",
+  "lang": "English (Sitarama Sastri’s translation of the Sanskrit, OCR as printed)",
+  "gloss": "Because people of poor understanding cannot easily tell them apart, in their means or their fruits, the sweet and the good come to a man as if mingled; so the intelligent man examines both, as a flamingo separates milk from water.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "CORRECTED one phrase. Key verse verbatim (verse.js ok, ref Katha Upanishad 1.2.2, at [48]). Plain sense is faithful: Yama opens the teaching at 1.2.1 with the good and the pleasant, which bind a man, after Nachiketas has refused sons, wealth, long life and the maidens (1.1.23 to 29). Śaṅkara on 1.2.2 (Sitarama Sastri 1928, packet) says the sweet and the good become ‘as it were mingled’ because the dull cannot distinguish them, and that the intelligent man examines both ‘as a flamingo separates milk and water’. The proposal said the two come ‘mingled’, which drops his qualifier (for him they are opposed and only seem mixed); changed ‘reads the two as coming mingled’ to ‘reads the two as arriving as if mingled’. Nothing else changed. Madhva has no comment on 1.2.2 in the packet. entry-check ok."
+}

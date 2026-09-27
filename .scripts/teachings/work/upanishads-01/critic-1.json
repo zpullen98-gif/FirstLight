@@ -1,0 +1,11 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 1,
+   "id": "upanishads-01-d001-p",
+   "problem": "Prose: the plain sense says the Isa ‘opens eighteen verses’, which makes the text the subject of an opening it does not perform, and the reading ends in the clipped fragment ‘as the Self, whence renunciation, and ‘enjoy’ as protect’, which leaves a reader at six in the morning to supply the step Śaṅkara states (whoever so sees the Self is bound to renounce). Evidence and attribution are sound; only the sentence is unclear.",
+   "fix": "Recast within the cap and the verified evidence: “The Isa’s eighteen verses run from renunciation and work to a closing prayer as the body goes to ashes; Śaṅkara, commentary on verse 1, reads the covering as seeing the universe, moving and unmoving, as the Self, from which renunciation follows, and ‘enjoy’ as protect.” (45 words; entry-check ok on scratch/critic-1-fix.json; src, key, ref and at unchanged.)"
+  }
+ ]
+}

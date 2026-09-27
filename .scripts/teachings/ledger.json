@@ -40,6 +40,18 @@
     "dhp-commentary": 26
    },
    "hedged": 0
+  },
+  "upanishads": {
+   "batches": [
+    "upanishads-01"
+   ],
+   "days": 12,
+   "of": 12,
+   "by": {
+    "shankara": 10,
+    "madhva": 2
+   },
+   "hedged": 0
   }
  }
 }

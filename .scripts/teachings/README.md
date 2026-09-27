@@ -17,7 +17,7 @@ A set reaches the reader only when it is **complete** and passes both gates. Unt
 | `day.js`, `verse.js`, `packet.js`, `entry-check.js`, `status.js` | The agents' tools. |
 | `fetch-commentary.js` | Fetches the commentaries once into `.scripts/.cache/teachings/`, then writes one packet per chapter. |
 | `prep-batch.js`, `run-args.js`, `teach.workflow.js` | Prepare and run one batch. |
-| `recheck-evidence.js` | Finds every survivor's evidence again, by machine. |
+| `recheck-evidence.js` | Finds every survivor's evidence again, by machine. A packet is OCR and is matched as it stands; only a fetched HTML page loses its tags. `--selftest` holds that, on fixtures and on Madhva at Gita 18.66. |
 | `land-batch.js` | The only way a batch reaches the set. It refuses rewording, unfound evidence, an unruled critic, and a set that fails the gate. |
 | `sample.js` | Entries with their full trails, for the owner's reading. |
 | `ledger.json` | What has landed, per plan. |

@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d008-p",
+ "d": 8,
+ "role": "primary",
+ "key": "This ancient Aswattha tree has its root above and branches below.",
+ "ref": "Katha Upanishad 2.3.1",
+ "at": [
+  119
+ ],
+ "s": "Opening the Katha’s last section, Yama pictures an ancient tree and names its source pure, Brahman, deathless; Śaṅkara, on 2.3.1, reads the tree as saṃsāra, changing every moment like a mirage, rooted above in Brahman and felled by the sword of knowing the supreme Self.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya, on 2.3.1, trans. S. Sitarama Sastri, archive.org kathaandprasnaup029591mbp, 2nd ed. (1928)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "sensitivity": "none",
+ "verdict": "VERIFIED",
+ "plainSense": "faithful",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/kathaandprasnaup029591mbp",
+    "edition": "S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "via": "packet",
+    "locator": "Śaṅkara on Katha 2.3.1 to 2.3.18, read whole; reading at 2.3.1"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911)",
+    "via": "packet",
+    "locator": "Madhva on Katha 2.3.1 and the section, read for contrast"
+   }
+  ],
+  "words": "this tree of samsdra^ extending from the avyakta to the immoveable, has its root up, i. e. f in Brahman. … this tree consisting in manifold miseries of birth, decay, death and grief, etc., changing its nature every moment, like jugglery, waters of the mirage, a city formed by the clouds in the sky … felled by the unresisted sword of the realisation of the Paramdtman proved by the Veddnta, this tree of Samsdra",
+  "lang": "en (S. Sitarama Sastri’s English translation of the Sanskrit, OCR as printed)",
+  "gloss": "This tree of saṃsāra, reaching from the unmanifest down to the immovable, has its root above, that is, in Brahman. … This tree, made of the many miseries of birth, decay, death and grief, changes its nature every moment, like a juggler’s trick, the waters of a mirage, a city of clouds in the sky. … It is felled by the irresistible sword of the realisation of the supreme Self (Paramātman) established by the Vedānta. (OCR: “samsdra” is saṃsāra, “Paramdtman” is Paramātman, “Veddnta” is Vedānta.)",
+  "licence": "public domain",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Katha Upanishad 2.3.1, at [119]); the first sentence of the unit, no dash. Read Śaṅkara on the whole of 2.3: on 2.3.1 he opens the sixth valli to ascertain Brahman through its effect, the tree of saṃsāra, rooted above in Brahman, changing its nature every moment like jugglery and the waters of the mirage, felled by the sword of the realisation of the Paramātman. Every element of the reading is in his words. Plain sense faithful: 2.3 is the Katha’s last section, and the rest of 2.3.1 calls That pure, Brahman, the Immortal; taking That as the tree’s source is the plain grammatical sense and adds no doctrine. entry-check ok; no change."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "upanishads-01-d002-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened both packets for Katha 1.1.20 and the cached Vasu OCR itself. Śaṅkara (Sitarama Sastri 1928, https://archive.org/details/kathaandprasnaup029591mbp): ‘some say that there is an dtman distinct from body, senses, mind and intellect and entering into another body; some say that there is no such dtman’, which carries the first reading exactly. Madhva: the attribution risk was that Vasu’s notes are interleaved with the bhāṣya; the raw OCR (p. 68) shows Vasu’s two ‘Note’ paragraphs first and then the heading ‘MADHVA’S COMMENTARY’, under which stand ‘The wise say that the Lord controls … the bound as well as the liberated jivas. The ignorant say that He rules only the living and those souls which are bound’ and ‘That the question is about this Controller, and not about the survival after death’. So the reading is Madhva’s as Vasu prints it, not Vasu’s note, and ‘whether the Lord rules the liberated souls too’ is carried without drift. Plain sense checked against day.js (1.1.10 to 11 father pacified, 1.1.13 to 19 the heavenly fire, 1.1.19 ‘Ask the third boon’). Numbering agrees with Śaṅkara’s. Both schools named; difference named, not resolved; no ranking. verse.js ok (1.1.20, at [37]); entry-check ok.",
+ "better": ""
+}

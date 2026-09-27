@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d001-p",
+ "d": 1,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "All this, whatsoever exists in the universe, should be covered by the Lord. Having renounced (the unreal), enjoy (the Real). Do not covet the wealth of any man.",
+ "ref": "Isa Upanishad 1",
+ "at": [
+  0
+ ],
+ "s": "The Isa’s eighteen verses run from renunciation and work to a closing prayer as the body goes to ashes; Śaṅkara, commentary on verse 1, reads the covering as seeing the universe, moving and unmoving, as the Self, from which renunciation follows, and ‘enjoy’ as protect.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Īśa Upaniṣad Bhāṣya, verse 1, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary, vol. 1 (1905 printing)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1",
+    "edition": "S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary, vol. 1 (1905 printing), archive.org (OCR)",
+    "locator": "Isa 1, commentary",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911), archive.org (OCR)",
+    "locator": "Isa 1, commentary (read for comparison)",
+    "via": "packet"
+   }
+  ],
+  "words": "All this universe, movable and immovable, unreal in absolute truth* should be covered by his self, the Lord, Paramatnum, with the idea, “ I alone am all this as being the inner self of all. ” … One who thus contemplates on the self as the Paramatman is bound to renounce the three-fold desire of son, etc., and not perforin Karma … Bhnnjithah means protect.",
+  "lang": "English (Sitarama Sastri’s translation of the Sanskrit, OCR as printed)",
+  "gloss": "The whole universe, moving and unmoving, is to be covered by one’s own Self, the Lord, with the thought ‘I alone am all this, as the inner Self of all’; whoever so contemplates the Self must renounce the threefold desire for son and the rest; bhuñjīthāḥ means protect.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Reopened the packet (Isa 1, Sitarama Sastri, 1905 printing). The problem holds: ‘The Isa opens eighteen verses’ makes the text perform an opening, and ‘whence renunciation’ is a clipped fragment that leaves out the step Śaṅkara states, that one who so contemplates the Self ‘is bound to renounce’. Adopted the critic’s recast: the plain sense now describes the eighteen verses in the day’s own terms (renunciation, work, the closing prayer as the body is burned to ashes at 17), and the reading says renunciation follows from seeing the universe, movable and immovable, as the Self, with bhuñjīthāḥ as protect. Every part is carried by his words: ‘All this universe, movable and immovable … should be covered by his self’, ‘bound to renounce’, ‘Bhnnjithah means protect’. Commentator, reading, key, ref, at and src unchanged; verse.js ok (Isa Upanishad 1, at [0]); entry-check ok on scratch/revise-d001-p.json (45 words)."
+}

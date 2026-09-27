@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d007-p",
+ "d": 7,
+ "role": "primary",
+ "key": "As the sun, the eye of the whole world, is not defiled by external impurities seen by the eyes, thus the one inner Self of all living beings is not defiled by the misery of the world, being outside it.",
+ "ref": "Katha Upanishad 2.2.11",
+ "at": [
+  114
+ ],
+ "s": "Yama adds the sun to his likenesses of fire and air; Śaṅkara, on 2.2.11, reads the world’s misery as springing from a false notion that ignorance lays on the Self, as a snake on a rope, while the Self, like the rope, stays untainted.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Kaṭha Upaniṣad Bhāṣya, on 2.2.11, trans. S. Sitarama Sastri, archive.org kathaandprasnaup029591mbp, 2nd ed. (1928)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "sensitivity": "none",
+ "verdict": "VERIFIED",
+ "plainSense": "faithful",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/kathaandprasnaup029591mbp",
+    "edition": "S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "via": "packet",
+    "locator": "Śaṅkara on Katha 2.2.1 to 2.2.15, read whole; reading at 2.2.11"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911)",
+    "via": "packet",
+    "locator": "Madhva on Katha 2.2 (2.2.1, 2.2.2, 2.2.5, 2.2.11, 2.2.14), read for contrast"
+   }
+  ],
+  "words": "the world by ignorance superposed on the dtman, suffers misery arising from desire and karma. But that is not really in the dtman … Thus the world having superposed on the dtman, the false notion of deed, agency and fruits like the notion of the serpent (on the rope), suffers the misery of birth, death, etc., clue to that. But the dtman, though the dtman of all the world, is not tainted by the misery of the world arising from the superposition of a false notion.",
+  "lang": "en (S. Sitarama Sastri’s English translation of the Sanskrit, OCR as printed)",
+  "gloss": "The world, superimposed on the Self (ātman) by ignorance, suffers misery arising from desire and deeds; but that misery is not really in the Self. … The world, having superimposed on the Self the false notion of deed, agency and fruits, as the notion of a serpent is laid on a rope, suffers birth, death and the rest because of it. But the Self, though the Self of the whole world, is not tainted by the world’s misery, which arises from the superimposition of a false notion. (OCR: “dtman” is ātman, “clue” is due.)",
+  "licence": "public domain",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Katha Upanishad 2.2.11, at [114]). Read Śaṅkara on the whole of 2.2 in the packet: on 2.2.11 he says the world, by ignorance superposed on the ātman, suffers misery, which is not really in the ātman, as the serpent superposed on the rope is no blemish in the rope; the ātman is untainted, being external to the superposed false notion. The sentence’s reading (misery springing from a false notion laid on the Self by ignorance, snake and rope, Self untainted) is carried by those words without drift. Plain sense faithful: 2.2.9 and 2.2.10 give fire and air, 2.2.11 adds the sun; the speaker is Death (Yama) throughout. entry-check ok; no change."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "upanishads-01-d012-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js --verse 4.8 and the cached Vasu OCR (line 3282 with 60 lines before): after the Brahma-Sāra passage, in Madhva’s own gloss and not in Vasu’s parenthetical notes, “The word in Mantra 8 means the science of determining the truth, the science of interpretation or the Mimamsa”, backed by his Śabda-Nirṇaya citation (the Mīmāṃsā is called satyam because it leads to the true determination as to Brahman); Vasu’s Mantra 8 is this verse (Mantra 9 follows as 4.9). The reading carries without drift (his Vidyā-Nirṇaya citation also counts Tarka-śāstra under satyam, but his own gloss names the Mīmāṃsā, which is what the sentence says). Madhva named with school (Dvaita) where his reading differs from Śaṅkara’s (truth as freedom from deceit), per the plan voice; no ranking. Plain sense stays in the text (4.7 the teacher says the Upanishad is taught; 4.8 names tapas, dama, karma) and repeats nothing of the key. verse.js ok (Kena Upanishad 4.8, at 169), entry-check ok.",
+ "better": ""
+}

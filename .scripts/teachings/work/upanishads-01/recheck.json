@@ -1,0 +1,98 @@
+{
+ "upanishads-01-d001-p": {
+  "d": 1,
+  "who": "shankara",
+  "afterRefutation": true,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1"
+ },
+ "upanishads-01-d002-p": {
+  "d": 2,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/kathaandprasnaup029591mbp"
+ },
+ "upanishads-01-d003-p": {
+  "d": 3,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/kathaandprasnaup029591mbp"
+ },
+ "upanishads-01-d004-p": {
+  "d": 4,
+  "who": "madhva",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002"
+ },
+ "upanishads-01-d005-p": {
+  "d": 5,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/kathaandprasnaup029591mbp"
+ },
+ "upanishads-01-d006-p": {
+  "d": 6,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/kathaandprasnaup029591mbp"
+ },
+ "upanishads-01-d007-p": {
+  "d": 7,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/kathaandprasnaup029591mbp"
+ },
+ "upanishads-01-d008-p": {
+  "d": 8,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/kathaandprasnaup029591mbp"
+ },
+ "upanishads-01-d009-p": {
+  "d": 9,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1"
+ },
+ "upanishads-01-d010-p": {
+  "d": 10,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1"
+ },
+ "upanishads-01-d011-p": {
+  "d": 11,
+  "who": "shankara",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1"
+ },
+ "upanishads-01-d012-p": {
+  "d": 12,
+  "who": "madhva",
+  "afterRefutation": false,
+  "status": "FOUND",
+  "via": "packet",
+  "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002"
+ }
+}

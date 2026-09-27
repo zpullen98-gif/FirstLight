@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d006-p",
+ "d": 6,
+ "role": "primary",
+ "key": "O Gautama (Nachiketas), as pure water poured into pure water becomes one, so also is it with the Self of an illumined Knower (he becomes one with the Supreme).",
+ "ref": "Katha Upanishad 2.1.15",
+ "at": [
+  103
+ ],
+ "s": "Closing a section that warns against seeing difference, Death ends with a second image of water; Śaṅkara (Advaita), commentary on 2.1.15, reads the knower’s self as becoming the very same, once the sense of difference is gone, and Madhva (Dvaita), on the same verse, as becoming like the Lord but not identical with Him.",
+ "by": "shankara",
+ "by2": "madhva",
+ "hedge": "",
+ "src": "Śaṅkara, Kaṭha Bhāṣya 2.1.15, trans. S. Sitarama Sastri (2nd ed. 1928); Madhva, Kaṭha Bhāṣya 2.1.15, trans. S. C. Vasu (1909 to 1911)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "sensitivity": "none",
+ "verdict": "CORRECTED",
+ "plainSense": "faithful",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/kathaandprasnaup029591mbp",
+    "edition": "S. Sitarama Sastri, The Katha and Prasna Upanishads and Sri Sankara’s Commentary, 2nd ed. (1928)",
+    "locator": "Śaṅkara on Katha 2.1.15",
+    "via": "packet"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911)",
+    "locator": "Madhva on Katha 2.1.15",
+    "via": "packet"
+   }
+  ],
+  "words": "whose perception of difference due to conditions has been destroyed, and who knows the dtman pure, dense with knowledge unalloyed, and one without a second, is explained. As water pure poured into pure becomes of the same quality, not otherwise, the dtman also of the thinker becomes the same, Oh Gautama. … Even the Atman or Yayu of tlie liberated sage becomes like into Him : but not identically the same",
+  "lang": "en (Sitarama Sastri’s and Vasu’s English translations of the Sanskrit)",
+  "gloss": "Śaṅkara: the ātman of the thinker whose perception of difference due to conditions is destroyed, who knows the ātman as one without a second, becomes the same, as pure water poured into pure water becomes of the same quality and not otherwise. Madhva: even the self of the liberated sage becomes like Him, but not identically the same.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Katha Upanishad 2.1.15, at [103]). Both readings are in the commentators’ own words on 2.1.15: Śaṅkara, becoming the same once perception of difference is destroyed; Madhva, becoming like Him but not identically the same, and the two genuinely differ, named without resolving. One change to the sentence: Madhva’s “as becoming like the Lord but never the same” is now “but not identical with Him”, because his words deny identity (“not identically the same”) while affirming likeness, and “never the same” overstates that. Plain sense, sources and schools unchanged. entry-check ok on the corrected entry."
+}

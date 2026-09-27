@@ -1,0 +1,42 @@
+{
+ "id": "upanishads-01-d004-p",
+ "d": 4,
+ "role": "primary",
+ "key": "The Self is subtler than the subtle, greater than the great; It dwells in the heart of each living being. He who is free from desire and free from grief, with mind and senses tranquil, beholds the glory of the Atman.",
+ "ref": "Katha Upanishad 1.2.20",
+ "at": [
+  66
+ ],
+ "s": "After calling the Self unborn and never slain, Death turns to how it is seen; Madhva (Dvaita), commentary on 1.2.20, reads the one free from desire as having firm faith in Vishnu, and the glory as the Lord’s superiority to the self.",
+ "by": "madhva",
+ "by2": "",
+ "hedge": "",
+ "src": "Madhva, Kaṭha Upaniṣad Bhāṣya 1.2.20, trans. S. C. Vasu, The Sacred Books of the Hindus, vol. 1 (1909 to 1911)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "sensitivity": "none",
+ "verdict": "VERIFIED",
+ "plainSense": "faithful",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911)",
+    "locator": "Madhva on Katha 1.2.20",
+    "via": "packet"
+   }
+  ],
+  "words": "The word akratuh means “ having firm faith in Visnu.’* The latter means Visnu and kratu means “firm faith.” He who has firm faith in ^ (or Visnu) is akratu. The words inahiniaiiam atuiauah do not mean “the greatness of the Self,” but “ the superiority to the self (Jiva).”",
+  "lang": "en (Vasu’s English translation of Madhva’s Sanskrit)",
+  "gloss": "Madhva glosses akratuḥ as one with firm faith in Viṣṇu (a = Viṣṇu, kratu = firm faith), and says mahimānam ātmanaḥ means not the greatness of the Self but (the Lord’s) superiority to the self, the jīva.",
+  "licence": "public domain",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Katha Upanishad 1.2.20, at [66]). Madhva’s own words on 1.2.20 in Vasu carry both halves of the reading: akratu as firm faith in Visnu, and the glory as the Lord’s superiority to the jiva; the square-bracketed gloss is Vasu’s and is not relied on, nor is Vasu’s mantra rendering (grace of the Creator). His reading differs from Śaṅkara’s (desire turned from external objects; the glory of the ātman realised as I am he), so naming Madhva alone with his school is within the voice rule. Plain sense (Death, i.e. Yama, turning from the unborn, unslain Self of 1.2.18 to 1.2.19 to how it is seen) is faithful and repeats no four words of the verse. entry-check ok."
+}

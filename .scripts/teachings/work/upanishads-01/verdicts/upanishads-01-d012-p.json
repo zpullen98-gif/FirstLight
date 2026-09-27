@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d012-p",
+ "d": 12,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Vedas are its limbs. Truth is its support.",
+ "ref": "Kena Upanishad 4.8",
+ "at": [
+  169
+ ],
+ "s": "Having declared the Upanishad taught, the teacher names tapas, dama and karma as its footing; Madhva (Dvaita), on 4.8, reads truth here as the Mīmāṃsā, the science of interpretation by which the truth is determined.",
+ "by": "madhva",
+ "by2": "",
+ "hedge": "",
+ "src": "Madhva, Kena Upaniṣad Bhāṣya, on 4.8, trans. S. C. Vasu, The Sacred Books of the Hindus vol. 1, archive.org (1909 to 1911)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911), archive.org (OCR)",
+    "via": "packet",
+    "locator": "Kena 4.8, commentary (whole of part 4 read, 4.3 to 4.8)"
+   },
+   {
+    "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1",
+    "edition": "S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary, vol. 1 (1905 printing; the pada-bhāṣya), archive.org (OCR)",
+    "via": "packet",
+    "locator": "Kena 4.8, commentary (read for comparison: Truth as freedom from deceit)"
+   }
+  ],
+  "words": "The word in Mantra 8 moans the science of determining the truth, the science of interpretation or the Mimamsa. … Therefore the Mimamsa is called Satyam because it leads to the right or true determination as to Brahman.",
+  "lang": "English (Vasu’s translation of Madhva’s Sanskrit, OCR as printed)",
+  "gloss": "The word (satyam, truth) in mantra 8 means the science of determining the truth, the science of interpretation, that is, the Mīmāṃsā. … (From the Śabda-Nirṇaya, which he quotes in support:) Therefore the Mīmāṃsā is called satyam, truth, because it leads to the right and true determination about Brahman. (OCR: “moans” is means; the Sanskrit word itself is lost in the scan.)",
+  "licence": "public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "medium",
+ "reason": "Key verse verbatim (verse.js ok, ref Kena Upanishad 4.8, at [169]; the last two whole sentences of the unit, no dash). Plain sense places it after 4.7 (the Upanishad declared taught) and names tapas, dama and karma from the verse’s first sentence, which is not the key, so nothing of the key is repeated. Madhva is named, with his school, because his reading differs from Śaṅkara’s: Śaṅkara on 4.8 takes Truth as freedom from deceit in speech, mind and deed, while Madhva’s gloss on 4.8 (Vasu) says the word in mantra 8 means the science of determining the truth, the science of interpretation or the Mīmāṃsā, and supports it from the Śabda-Nirṇaya (the Mīmāṃsā is called satyam because it leads to the true determination about Brahman); his Brahma-Sāra quotation under 4.8 likewise names the Mīmāṃsā among the sources of the science. The reading carries this without drift. Confidence medium only because the OCR lost the Sanskrit headword (satyam), which the Śabda-Nirṇaya quotation confirms; the gloss stands outside Vasu’s parenthesised notes, so it is Madhva’s. entry-check ok, 35 words."
+}

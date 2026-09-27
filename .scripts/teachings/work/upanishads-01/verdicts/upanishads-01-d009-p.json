@@ -1,0 +1,48 @@
+{
+ "id": "upanishads-01-d009-p",
+ "d": 9,
+ "role": "primary",
+ "key": "It is distinct from the known and also It is beyond the unknown.",
+ "ref": "Kena Upanishad 1.3",
+ "at": [
+  139
+ ],
+ "s": "Having said that eye, speech and mind cannot reach That, the teacher cites the ancients; Śaṅkara, on 1.3, reads it as saying that only one’s own Self can be other than both known and unknown, and so that the Self is Brahman.",
+ "by": "shankara",
+ "by2": "",
+ "hedge": "",
+ "src": "Śaṅkara, Kena Upaniṣad Bhāṣya (pada), on 1.3, trans. S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary vol. 1, archive.org (1905 printing)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "sensitivity": "none",
+ "verdict": "VERIFIED",
+ "plainSense": "faithful",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://archive.org/details/UpanishadsAndSriSankarasCommentaryVol.1",
+    "edition": "S. Sitarama Sastri, The Upanishads and Sri Sankara’s Commentary, vol. 1 (1905 printing; the pada-bhāṣya)",
+    "via": "packet",
+    "locator": "Śaṅkara’s introduction and commentary on Kena 1.1 to 1.8, read whole; reading at 1.3"
+   },
+   {
+    "url": "https://archive.org/details/sacredbooksofthehindusvol01upanishadsisatomandukyawithmadhwabhashya_202002",
+    "edition": "S. C. Vasu, The Sacred Books of the Hindus vol. 1 (1909 to 1911)",
+    "via": "packet",
+    "locator": "Madhva on Kena 1.8, read for contrast"
+   }
+  ],
+  "words": "Whatever is known is little, mortal and full of misery and, therefore, fit to be abandoned. … Thus, by saying that the Brahman is distinct from both the Known and the Unknown and thus disproving its fitness to be abandoned or to be taken, the desire of the disciple to know anything distinct from Self (Atman) is checked. For, it is clear that none other than one’s Atman can he distinct from both the Known and the Unknown ; the purport of the text is that the Atman is Brahman .",
+  "lang": "en (S. Sitarama Sastri’s English translation of the Sanskrit, OCR as printed)",
+  "gloss": "Whatever is known is small, mortal and full of misery, and so fit to be given up. … By saying that Brahman is other than both the known and the unknown, and so is neither to be given up nor to be taken, the text checks the disciple’s wish to know anything other than the Self. For clearly nothing but one’s own Self can be other than both the known and the unknown; the purport of the text is that the Self (Ātman) is Brahman. (OCR: “can he” is can be.)",
+  "licence": "public domain",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Kena Upanishad 1.3, at [139]); the third sentence of the unit. Read Śaṅkara on the whole of Kena 1: on 1.3 he says that none other than one’s own Ātman can be distinct from both the Known and the Unknown, and that the purport of the text is that the Ātman is Brahman. The reading carries exactly that, without drift. Plain sense faithful: 1.3 first says eye, speech and mind do not go there, then the verse, then attributes the teaching to the ancient teachers. entry-check ok; no change."
+}
