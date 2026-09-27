@@ -4,13 +4,14 @@
   "tao": {
    "batches": [
     "tao-01",
-    "tao-03"
+    "tao-03",
+    "tao-02"
    ],
-   "days": 54,
+   "days": 81,
    "of": 81,
    "by": {
-    "wang-bi": 27,
-    "heshang-gong": 27
+    "wang-bi": 40,
+    "heshang-gong": 41
    },
    "hedged": 0,
    "relanded": [

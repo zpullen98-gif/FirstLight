@@ -28,9 +28,20 @@ if (ri > -1) {
     .map(d => ({ id: st.days[d].survivor.id, d }));
   todo.lanesMissing = [];
 }
+/* --revise-critic: the critic's last reading still names problems after a
+   run; each named entry goes through one more revision round (a revision and
+   its refuter), then the editor and the critic read again */
+if (a.includes('--revise-critic')) {
+  const c = lib.readJSON(path.join(B.dir, 'critic.json')) || lib.readJSON(path.join(B.dir, 'critic-1.json'));
+  const byId = {};
+  ((c && c.problems) || []).filter(p => p && p.id).forEach(p => { (byId[p.id] = byId[p.id] || { id: p.id, d: p.d, problems: [] }).problems.push({ problem: p.problem, fix: p.fix }); });
+  revise = revise.concat(Object.values(byId));
+  todo.lanesMissing = [];
+}
 if (!brief) { console.error('no brief.json: run prep-batch.js first'); process.exit(1); }
 console.log(JSON.stringify({
   plan, n, name: B.name, dryName: dryName || '', root: lib.ROOT.replace(/\\/g, '/'), dir: B.dir.replace(/\\/g, '/'),
   lanes: brief.lanes, days: brief.days, todo, rounds, revise,
-  reviseProblems: ri > -1 ? [{ problem: a[ri + 1], fix: a[ri + 2] }] : []
+  reviseProblems: ri > -1 ? [{ problem: a[ri + 1], fix: a[ri + 2] }] : [],
+  reviseWhy: a.includes('--revise-critic') && ri < 0 ? 'critic' : 'owner'
 }));

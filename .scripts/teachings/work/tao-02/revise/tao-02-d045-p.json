@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d045-p",
+ "d": 45,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Purity and stillness give the correct law to all under heaven.",
+ "ref": "Tao Te Ching 45",
+ "at": [
+  44
+ ],
+ "s": "Ending a chapter where great things seem their opposites, the verse makes stillness the rule; Wang Bi, on chapter 45, reads stillness as keeping whole the truth of things and agitation as violating their nature, so only purity and stillness reach the chapter’s great things.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 45, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 45, comment on 躁勝寒，靜勝熱。清靜為天下正",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也。",
+  "lang": "Classical Chinese",
+  "gloss": "Stillness keeps whole the truth of things; agitation violates the nature of things. So only through purity and stillness are all the great things above attained.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Both problems hold. Plain sense now says what the verse does (it makes stillness the rule, from 清靜為天下正, with no four-word run from Legge’s line), and the reading ends on “the chapter’s great things”, anchored in the plain sense’s “great things seem their opposites”, instead of “named above”. Re-opened packet.js tao 45: Wang Bi on 躁勝寒，靜勝熱。清靜為天下正 writes 靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也, and 如上諸大 are the chapter’s great completion, fullness, straightness, skill and eloquence. The critic’s wording measured 46, so “draws a rule from stillness” became “makes stillness the rule”. verse.js ok (Tao Te Ching 45, at [44]); entry-check ok, 45 words."
+}

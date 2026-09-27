@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d031-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 31 (Heshang Gong, revision 2019760, the page named for chapters 1 to 37; Wang Bi has no comment on this chapter, so the choice is forced). Its base text 殺人之眾，以哀悲泣之；戰勝，以喪禮處之 is the line of the key verse. The comment on the first half, 傷己德薄，不能以道化人，而害無辜之民, carries grief that thin virtue could not transform people by the Tao and so harmed the innocent; the revision now carries the innocent, which the prior entry dropped. The comment on the second half, 將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥, carries the white mourning and the limit of striking only of necessity (rule 6). Both evidence strings found verbatim in the packet (including its 不得以). verse.js ok (Tao Te Ching 31, at [30], exact); entry-check ok, no warnings. Plain sense places the verse at the chapter’s end without Legge’s “(rightly)” and without repeating the verse. Remaining quibbles, none of which misstates the commentary: “fitting” loosely renders 明 (makes plain); the comment frames the rite as ancient practice (古者) and adds grief for later generations’ endless wars, both omitted; “the dead of war” is plain but slightly depersonalises the killing, which the key verse printed above states directly.",
+ "better": ""
+}

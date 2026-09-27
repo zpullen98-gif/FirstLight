@@ -1,0 +1,8 @@
+{
+ "id": "tao-02-d040-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 40 and the raw wikitext of revision 2354026: under 四十章, Wang Bi on 反者道之動 writes 高以下為基，貴以賤為本，有以無為用，此其反也。動皆知其所無，則物通矣, the evidence verbatim, and his base line is the first line of the key verse. The high founded on the low (高以下為基), the noble on the humble (貴以賤為本), non-being the use of being (有以無為用), named as its 反 (此其反也): every clause is his, and “reversal” is the standard English for his 反 here. The reading leaves his comment on 弱者道之用 unused but claims nothing about it, so no drift. Plain sense: the key verse opens the chapter, the second unit is on all things springing from It as existing and non-existent, and the clause describes the verse (how the Tao moves and works) without a four-word run from it and without Legge’s parentheses. verse.js ok (Tao Te Ching 40, at [39]); entry-check ok. No school, comparison or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d037-p",
+ "d": 37,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Simplicity without a name Is free from all external aim. With no desire, at rest and still, All things go right as of their will.",
+ "ref": "Tao Te Ching 37",
+ "at": [
+  36
+ ],
+ "s": "Closing a chapter on princes and kings who might keep the Tao, the verse concludes; the Heshang Gong commentary, on chapter 37, reads it as rulers steadying the people by the Tao and its virtue till they too stop desiring and the world settles itself.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 37, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 37, comments on 無名之樸，夫亦將無欲，不欲以靜 and 天下將自定"
+   }
+  ],
+  "words": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。…能如是者，天下將自正定也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 無名之樸，夫亦將無欲，不欲以靜:) it says that when princes and kings steady and soothe (the people) with the Tao and its virtue, the people too will not desire, so they should guide and transform them by clarity and stillness. (On 天下將自定:) where this can be done, the world will of itself be set right and settled.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 37, at [36]); it is Legge's rhymed rendering of 無名之樸，夫亦將無欲，不欲以靜，天下將自定, the lines the Heshang Gong commentary glosses. Read the commentary on the whole chapter (title 為政): the comments on exactly these lines carry every part of the reading: rulers steadying the people by the Tao and its virtue (鎮撫以道德, with 無名之樸 glossed as 道德 on the line before), the people too ceasing to desire (民亦將不欲), and the world settling of itself (天下將自正定). Source is revision 2019760 (chapters 1 to 37), as packet.js names. Plain sense places the verse at the chapter's close without repeating it; 'the verse concludes' is thin but true. Entry-check ok."
+}

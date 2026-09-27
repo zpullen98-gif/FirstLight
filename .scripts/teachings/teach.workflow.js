@@ -45,7 +45,7 @@ const CAND = {
     basis: {
       type: 'object',
       properties: {
-        source: { type: 'string', description: 'the packet source id (wang-bi, heshang-gong, legge-sbe39) or the url opened' },
+        source: { type: 'string', description: 'the packet source id, as packet.js prints it (for the Tao: wang-bi, heshang-gong, legge-sbe39), or the url opened' },
         words: { type: 'string', description: 'the commentator\u2019s own words that carry the reading, verbatim' },
         gloss: { type: 'string', description: 'your English for those words' },
       },
@@ -162,12 +162,12 @@ const VERIFY = (ids, again) => `${COMMON}
 YOUR JOB: rule on each of these candidates independently: ${ids.join(', ')}.
 Find each in ${DIR}/proposals-*.json (the id names its day and role). For each:
 1. Run day.js and verse.js yourself: the key must be verbatim (ok: true) and ref and at must match.
-2. OPEN THE SOURCE YOURSELF: packet.js for a packet source (Wang Bi, the Heshang Gong commentary, Legge's notes), or the url for anything else. Find the commentator's own words at the place the sentence names. Do not trust the proposer's basis: read the commentary on the whole chapter.
+2. OPEN THE SOURCE YOURSELF: packet.js for a packet source (every source packet.js prints for the day), or the url for anything else. Find the commentator's own words at the place the sentence names. Do not trust the proposer's basis: read the commentary on the whole chapter.
 3. Judge the plain sense against day.js (faithful, overreach, misread) and the reading against the words you found: do they carry it, without drift, without the proposer's or translator's ideas added?
 4. The verdict:
    VERIFIED   the commentator says this, at this place, and the entry obeys every rule;
    CORRECTED  the reading is his but the place, the wording of the sentence, the key verse choice within the day, or the source line needed correcting: you give the corrected entry in full (it must pass entry-check.js), and say in reason what you changed;
-   HEDGE      the reading is found only through a conduit on this plan's list (for example Legge's notes reporting Wang Bi): the entry carries hedge: <conduit id> and src in the "as given in" form;
+   HEDGE      the reading is found only through a conduit on this plan's list (for example Legge's notes reporting Wang Bi, or Müller's notes reporting the Dhammapada commentary): the entry carries hedge: <conduit id> and src in the "as given in" form;
    REJECT     not found in his words at a source you opened, misattributed, beyond what the words say, a key verse that fails, or a sentence that breaks the rules beyond correcting.
 5. Evidence: the commentator's own words, VERBATIM from what you opened (for a packet source, copy the characters exactly as packet.js prints them), 12 to 120 characters of Chinese or 12 to 120 words otherwise, never more than 40 words of any copyrighted English; your gloss; opened lists each source with via "packet" and the packet's url, or via "webfetch" and the exact url. The operator re-finds these words by machine; words not found kill the entry.
 6. Write the final entry to a scratch file and run entry-check.js; record the result in entryCheck. A VERIFIED, CORRECTED or HEDGE verdict needs entryCheck.ok true.
@@ -330,8 +330,8 @@ let revised = []
 const OWNER = (A.revise || []).map(x => Object.assign({}, x, { problems: x.problems || A.reviseProblems || [] }))
 if (OWNER.length) {
   phase('Revise')
-  log(`revising ${OWNER.length} entr${OWNER.length === 1 ? 'y' : 'ies'} to the owner's amended rules`)
-  revised = revised.concat(await reviseRound(OWNER, 'owner'))
+  log(`revising ${OWNER.length} entr${OWNER.length === 1 ? 'y' : 'ies'} first (${A.reviseWhy || 'owner'})`)
+  revised = revised.concat(await reviseRound(OWNER, A.reviseWhy || 'owner'))
   log(`owner's amendment: ${revised.filter(x => x.kept).length} of ${OWNER.length} revisions cleared by their refuters`)
 }
 

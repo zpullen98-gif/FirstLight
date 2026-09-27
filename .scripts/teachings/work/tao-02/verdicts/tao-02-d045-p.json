@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d045-p",
+ "d": 45,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Purity and stillness give the correct law to all under heaven.",
+ "ref": "Tao Te Ching 45",
+ "at": [
+  44
+ ],
+ "s": "Ending a chapter where great things seem their opposites, the verse concludes; Wang Bi, on chapter 45, reads stillness as keeping whole the truth of things and agitation as violating their nature, so that only purity and stillness reach the great things named above.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 45, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 45, comment on 躁勝寒，靜勝熱。清靜為天下正",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也。",
+  "lang": "Classical Chinese",
+  "gloss": "Stillness keeps whole the truth of things; agitation violates the nature of things. So only through purity and stillness are all the great things above attained.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 45, at [44]); it is the last sentence of unit 2 and Wang Bi’s base line 清靜為天下正 is the line of the key verse. His comment on that line says stillness keeps whole the truth of things, agitation violates their nature, and only purity and stillness attain the great things above (the great completion, fullness, straightness, skill and eloquence of the chapter’s opening); the reading paraphrases exactly this. Wang Bi reads the preceding line differently from Legge (躁罷然後勝寒, agitation ceasing), but the reading does not touch it. Plain sense faithful: the chapter sets great things beside their seeming opposites and ends on this line. Entry-check ok."
+}

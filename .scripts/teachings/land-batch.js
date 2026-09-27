@@ -83,7 +83,7 @@ function main() {
     problems.push('day ' + e.d + ': evidence ' + (r ? r.status : 'not rechecked') + (r && r.detail ? ' (' + r.detail + ')' : '') + ', and no accepting ruling in rulings.json');
   });
   /* the critic's last reading: critic.json after a round of revisions, else critic-1.json */
-  const critic = lib.readJSON(path.join(B.dir, 'critic.json')) || lib.readJSON(path.join(B.dir, 'critic-1.json'));
+  const critic = lib.lastCritic(B.dir);
   if (!critic) problems.push('no critic.json or critic-1.json');
   else if (!critic.ok && !rulings.critic) problems.push('the critic found ' + (critic.problems || []).length + ' problem(s): rule on them in rulings.json ("critic")');
   if (problems.length) refuse(problems.join('\n  '));

@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d049-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: in the Huating Zhang edition Wang Bi’s long comment sits on 百姓皆注其耳目,聖人皆孩之, the last line of the key verse, and there restates 歙歙 and 渾心 (mind with no master, intent favouring nothing), then 無所察焉，百姓何避，無所求焉，百姓何應，無避無應，則莫不用其情矣; the evidence is a verbatim substring and carries examining nothing, seeking nothing, nothing to evade or answer, all acting from their true feelings. The compression of 渾心 and the following 無所察/無所求 into one reading of the sage’s indifference stays within the same sentence run of his comment and fits his wider argument against scrutinising the people with one’s own acuity. Base lines 聖人在天下歙歙，為天下渾其心 match Legge’s unit. Plain sense is context only, repeats no four words of the key. verse.js ok (ref Tao Te Ching 49, at [48]); entry-check ok, 44 words. No attack landed.",
+ "better": ""
+}

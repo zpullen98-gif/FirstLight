@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d042-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and the raw revision 1552800 (the page packet.js names for chapter 42, under ==道化==): on 一生二 the commentary gives 一生陰與陽也 and on 二生三 陰陽生和、清、濁三氣，分為天地人也, verbatim as the evidence; the next comment (天地人共生萬物也) confirms heaven, earth and man as what the Three become before producing all things. The reading (Two as yin and yang; Three as the harmonious, clear and turbid breaths that become heaven, earth and man) is exactly those comments with no drift; the commentary is named, not a person. Base-text line matches Legge’s. Plain sense (opens on a sequence of births, before the kings’ humble titles) is faithful to the chapter, no four-word run from the verse. verse.js ok (ref Tao Te Ching 42, at [41]); entry-check ok. No attack landed.",
+ "better": ""
+}

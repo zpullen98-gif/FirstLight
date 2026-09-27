@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d031-p",
+ "d": 31,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.",
+ "ref": "Tao Te Ching 31",
+ "at": [
+  30
+ ],
+ "s": "The chapter ends on those slain in war; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that one’s virtue could not transform people by the Tao, and the victor’s mourning in white as fitting one who strikes only when he must.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 31, comments on 殺人之眾，以哀悲泣之 and 戰勝，以喪禮處之",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "傷己德薄，不能以道化人，而害無辜之民。…古者戰勝，將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥，心不樂之，比於喪也",
+  "lang": "Classical Chinese",
+  "gloss": "He grieves that his own virtue is thin, that he could not transform people by the Tao, and so harmed innocent people. … In ancient times, when a battle was won, the general took the chief mourner’s place, wore plain white and wept, making plain that the superior man honours virtue and holds arms cheap, punishes the ill-omened only when he cannot avoid it, takes no joy in it, and likens it to mourning.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 31, at [30]). Wang Bi has no commentary on chapter 31, so the Heshang Gong commentary is the right choice. Its comment on 殺人之眾，以哀悲泣之 is grief that his virtue was too thin to transform people by the Tao; its comment on 戰勝，以喪禮處之 has the victor mourn in plain white, making plain that the superior man strikes only when he cannot avoid it and takes no joy in it. The sentence carries both, including the limit (rule 6). Plain sense faithful and plain, does not lean on Legge’s “(rightly)”. Entry-check ok."
+}

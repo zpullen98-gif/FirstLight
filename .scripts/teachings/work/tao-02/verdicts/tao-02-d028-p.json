@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d028-p",
+ "d": 28,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Who knows his manhood’s strength, Yet still his female feebleness maintains; As to one channel flow the many drains, All come to him, yea, all beneath the sky.",
+ "ref": "Tao Te Ching 28",
+ "at": [
+  27
+ ],
+ "s": "The verse opens three stanzas that each end in a return to simplicity; the Heshang Gong commentary, on chapter 28, reads it as one who, knowing his eminence, keeps lowly and gentle, so the world comes to him like water into a deep ravine.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 28, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true,
+  "opened": [
+   {
+    "locator": "chapter 28 (反朴), comment on 知其雄，守其雌，為天下谿",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "via": "packet"
+   }
+  ],
+  "words": "雄以喻尊，雌以喻卑。人雖自知其尊顯，當復守之以卑微，去雄之強梁，就雌之柔和，如是則天下歸之，如水流入深谿也。",
+  "gloss": "The male is a figure for the honoured, the female for the lowly. Though a person knows himself honoured and eminent, he should still keep to the humble and small, leaving the male’s hard force for the female’s soft gentleness; then all under heaven come to him, as water flows into a deep ravine."
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 28, at [27]); Legge’s first stanza renders 知其雄，守其雌，為天下谿, the very line the Heshang Gong commentary glosses. Its words carry every part of the reading: eminence known, the lowly and gentle kept, the world coming as water into a deep ravine. Wang Bi’s comment (the one who knows he is first puts himself last) is thinner on the ravine image. Plain sense matches the three verse stanzas, each closing on a return (simple child, man’s first state, simple infant man). Entry-check ok."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d051-p",
+ "d": 51,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Thus it is that the Tao produces (all things), nourishes them, brings them to their full growth, nurses them, completes them, matures them, maintains them, and overspreads them.",
+ "ref": "Tao Te Ching 51",
+ "at": [
+  50
+ ],
+ "s": "Restating the chapter’s opening, the verse lists eight works; the Heshang Gong commentary, on chapter 51, reads the Tao as not only giving life but rearing things and keeping their nature and life whole, as a ruler should in governing state and self.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 51, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 51 (養德), comment on 故道生之，德畜之，長之育之，成之孰之，養之覆之",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "道之於萬物，非但生而已，乃復長養、成孰、覆育，全其性命。人君治國治身，亦當如是也。",
+  "lang": "Classical Chinese",
+  "gloss": "The Tao, towards the ten thousand things, does not merely give them life: it goes on to raise and nourish them, complete and ripen them, cover and rear them, keeping their nature and life whole. A ruler, governing the state and governing himself, should be like this too.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 51, at [50]); it is the whole of unit 3. The Heshang Gong base line 故道生之，德畜之，長之育之，成之孰之，養之覆之 has the same eight verbs as Legge’s list, and its comment on that line says the Tao does not merely give life but raises, ripens and rears things, keeping their nature and life whole, and that a ruler governing state and self should be so too; the reading carries exactly this. Revision 1552800 is the right page for chapter 51. Plain sense faithful: the verse, introduced by ‘Thus’, restates the opening’s production and nourishing and lists eight works. Entry-check ok."
+}

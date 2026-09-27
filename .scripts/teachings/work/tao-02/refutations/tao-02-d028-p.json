@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d028-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: the Heshang Gong commentary on 知其雄，守其雌，為天下谿 (the line Legge’s first stanza renders) contains the evidence verbatim (machine-checked), and 尊顯 / 守之以卑微 / 就雌之柔和 / 天下歸之，如水流入深谿 carry eminence known, lowly and gentle kept, the world coming like water into a deep ravine, with no drift. Plain sense tested against Legge: the three stanzas close on the simple child again, a return to man’s first state, and the simple infant man, so ‘each end in a return to simplicity’ holds in the text’s own terms (it echoes the 反朴 title but also states what the chapter does); no parenthesis leaned on. verse.js ok (ref Tao Te Ching 28, at [27]); entry-check ok. No attack landed.",
+ "better": ""
+}

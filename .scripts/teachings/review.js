@@ -25,7 +25,7 @@ const B = lib.batchRef(plan, n, name);
 const bj = lib.readJSON(path.join(B.dir, 'batch.json'));
 if (!bj) { console.error('no batch.json yet'); process.exit(1); }
 const recheck = lib.readJSON(path.join(B.dir, 'recheck.json')) || {};
-const critic = lib.readJSON(path.join(B.dir, 'critic.json')) || lib.readJSON(path.join(B.dir, 'critic-1.json'));
+const critic = lib.lastCritic(B.dir);
 const esc = s => String(s === undefined || s === null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 const who = id => (ROSTER.people[id] ? ROSTER.people[id].name : id);
 const cap = s => s.charAt(0).toUpperCase() + s.slice(1);

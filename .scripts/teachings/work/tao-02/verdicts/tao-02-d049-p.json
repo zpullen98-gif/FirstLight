@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d049-p",
+ "d": 49,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The sage has in the world an appearance of indecision, and keeps his mind in a state of indifference to all. The people all keep their eyes and ears directed to him, and he deals with them all as his children.",
+ "ref": "Tao Te Ching 49",
+ "at": [
+  48
+ ],
+ "s": "Closing a chapter on the sage and the people, the verse turns to his bearing; Wang Bi, on chapter 49, reads that indifference as examining nothing and seeking nothing, so the people, with nothing to evade or answer, all act from their true feelings.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 49, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 49, comment on 百姓皆注其耳目，聖人皆孩之 (restating 歙歙 and 渾其心)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "是以聖人之於天下歙歙焉，心無所主也，為天下渾心焉，意無所適莫也。無所察焉，百姓何避，無所求焉，百姓何應， 無避無應，則莫不用其情矣。",
+  "lang": "Classical Chinese",
+  "gloss": "So the sage, towards the world, is reserved: his mind has nothing it makes master. He blends his mind for the world: his intent favours and disfavours nothing. He examines nothing, so what should the people evade? He seeks nothing, so what should the people answer? With nothing to evade and nothing to answer, none fails to act from their true feelings.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 49, at [48]); it is the whole of unit 3. Wang Bi’s base lines 聖人在天下歙歙，為天下渾其心，百姓皆注其耳目，聖人皆孩之 are the lines of the key verse. His long comment on the chapter’s last line restates 歙歙 and 渾心 and glosses them as a mind with no master and an intent favouring nothing, then says he examines nothing and seeks nothing, so the people have nothing to evade or answer and all act from their true feelings; the reading compresses this without drift. Plain sense faithful: the chapter sets the sage beside the people and ends on his bearing. Entry-check ok."
+}

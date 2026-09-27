@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d052-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: Wang Bi comments on 既得其母，以知其子，既知其子，復守其母，沒身不殆, the same line as the key verse, with 母，本也，子，末也。得本以知末，不舍本以逐末也, which carries root/branches, grasp the root to know the branches, never forsake it to chase them, with no drift. Plain sense reflects unit 1 without leaning on Legge’s (The Tao). verse.js ok (ref Tao Te Ching 52, at [51]); entry-check ok. No attack landed.",
+ "better": ""
+}

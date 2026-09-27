@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d037-p",
+ "d": 37,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Simplicity without a name Is free from all external aim. With no desire, at rest and still, All things go right as of their will.",
+ "ref": "Tao Te Ching 37",
+ "at": [
+  36
+ ],
+ "s": "Closing a chapter on kings keeping the Tao, the verse meets desire with simplicity; the Heshang Gong commentary, on chapter 37, reads it as rulers steadying the people by the Tao and its virtue till they too stop desiring and the world settles itself.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 37, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 37, comments on 無名之樸，夫亦將無欲，不欲以靜 and 天下將自定"
+   }
+  ],
+  "words": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。…能如是者，天下將自正定也。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 無名之樸，夫亦將無欲，不欲以靜:) it says that when princes and kings steady and soothe (the people) with the Tao and its virtue, the people too will not desire, so they should guide and transform them by clarity and stillness. (On 天下將自定:) where this can be done, the world will of itself be set right and settled.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: “the verse concludes” said only that the closing verse closes. Re-opened packet.js tao 37: the unit before the key verse has the speaker express desire by the nameless simplicity, and the key verse answers with simplicity and no desire, so the new clause (the verse meets desire with simplicity) is the passage in its own terms, with no four-word run from the verse. Kept “princes and kings who might keep” as “kings keeping the Tao” to fit the cap (the critic’s wording measured 46). The Heshang Gong reading and evidence are unchanged and still verbatim under 為政 in revision 2019760: 言侯王鎮撫以道德，民亦將不欲 and 天下將自正定. verse.js ok (Tao Te Ching 37, at [36]); entry-check ok, 44 words."
+}

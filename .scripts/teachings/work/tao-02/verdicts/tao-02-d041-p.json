@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d041-p",
+ "d": 41,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The Tao is hidden, and has no name; but it is the Tao which is skilful at imparting (to all things what they need) and making them complete.",
+ "ref": "Tao Te Ching 41",
+ "at": [
+  40
+ ],
+ "s": "Closing a chapter of sayings on the Tao’s seeming opposites, the verse turns to the Tao itself; Wang Bi, on chapter 41, reads each excellence in the sayings as its work, hidden and nameless because things are completed by it yet its form goes unseen.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 41, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 41, comment on 道隱無名。夫唯道，善貸且成",
+    "via": "packet"
+   }
+  ],
+  "words": "凡此諸善，皆是道之所成也。在象則為大象，而大象無形。在音則為大音，而大音希聲。物以之成而不見其成形，故隱而無名也。",
+  "lang": "Classical Chinese",
+  "gloss": "All these excellences are what the Tao brings to completion. In images it is the great image, and the great image has no form; in sounds it is the great sound, and the great sound is faint. Things are completed by it, yet its form of completing is not seen; so it is hidden and has no name.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 41, at [40]). Wang Bi comments on exactly this line, and the reading is his: the excellences of the sayings are the Tao’s work (凡此諸善，皆是道之所成也), hidden and nameless because things are completed by it while its form is not seen. One wording fix: the proposal said things are completed by it without seeing its form, which makes the things the ones who fail to see; 不見其成形 says the form of its completing is not seen, so the clause now reads yet its form goes unseen. Evidence given as one contiguous span instead of the proposer’s elided basis. Entry-check ok."
+}

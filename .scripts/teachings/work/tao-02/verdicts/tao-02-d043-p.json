@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d043-p",
+ "d": 43,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice.",
+ "ref": "Tao Te Ching 43",
+ "at": [
+  42
+ ],
+ "s": "Opening a chapter on the advantage of non-action, the verse sets soft against hard; the Heshang Gong commentary, on chapter 43, takes the softest as water and the hardest as metal and stone, and what has no existence as the Tao, without form or substance.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 43, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 43 (徧用), comments on 天下之至柔，馳騁天下之至堅 and on 無有入無間",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "至柔者，水也。至堅者，金石也。…無有謂道也。道無形質，故能出入無間",
+  "lang": "Classical Chinese",
+  "gloss": "The softest is water. The hardest is metal and stone. … ‘What has no existence’ means the Tao. The Tao has neither form nor substance, and so it can go in and out where there is no gap.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 43, at [42]); it is the first sentence of unit 1 and the Heshang Gong base text splits it into the two lines 天下之至柔，馳騁天下之至堅 and 無有入無間, both the lines of the key verse. The comment on the first gives water and metal and stone; the comment on the second gives 無有 as the Tao, without form or substance. The reading adds nothing beyond these words and does not lean on Legge’s parenthesis. Legge’s notes independently report the same identification (Ho-shang Kung says what has no existence is the Tao). Plain sense faithful: the chapter opens on soft and hard and closes on the advantage of non-action. Entry-check ok."
+}

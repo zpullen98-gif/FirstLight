@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d042-p",
+ "d": 42,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The Tao produced One; One produced Two; Two produced Three; Three produced All things.",
+ "ref": "Tao Te Ching 42",
+ "at": [
+  41
+ ],
+ "s": "Before turning to kings and their humble titles, the chapter opens on a sequence of births; the Heshang Gong commentary, on chapter 42, takes the Two as yin and yang, and the Three as harmonious, clear and turbid breaths that become heaven, earth and man.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 42, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "locator": "chapter 42 (道化), comments on 一生二 and 二生三",
+    "via": "packet"
+   }
+  ],
+  "words": "陰陽生和、清、濁三氣，分為天地人也。",
+  "lang": "Classical Chinese",
+  "gloss": "Yin and yang produce three breaths, the harmonious, the clear and the turbid, which divide to become heaven, earth and man.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 42, at [41]). Packet.js names revision 1552800 for chapter 42, as cited. The Heshang Gong commentary on 一生二 gives 一生陰與陽也 (the One produces yin and yang: the Two) and on 二生三 gives the quoted words (yin and yang produce the harmonious, clear and turbid breaths, which divide into heaven, earth and man: the Three). The line commented on matches Legge’s chapter. Plain sense faithful, no four-word run from the verse. Entry-check ok."
+}

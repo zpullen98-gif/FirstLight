@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d054-p",
+ "d": 54,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "In this way the effect will be seen in the person, by the observation of different cases; in the family; in the neighbourhood; in the state; and in the kingdom.",
+ "ref": "Tao Te Ching 54",
+ "at": [
+  53
+ ],
+ "s": "Having traced the Tao from self to kingdom, the chapter turns to observation; the Heshang Gong commentary, on chapter 54, reads it as setting those who cultivate the Tao, from person to ruler, beside those who do not, to see which perish and which survive.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 54, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 54, comment on 故以身觀身 (and on 以天下觀天下, 吾何以知天下之然哉，以此)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800",
+    "via": "packet"
+   }
+  ],
+  "words": "以修道之身，觀不修道之身，孰亡孰存也。",
+  "lang": "Classical Chinese",
+  "gloss": "Take the person who cultivates the Tao and observe the person who does not: which perishes and which survives.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse (unit 3, 故以身觀身 ... 以天下觀天下) verbatim, verse.js ok. The commentary glosses each of the five observations as setting the one who cultivates the Tao beside the one who does not, ending at the ruler (以修道之主，觀不修道之主), and on the next line says those who cultivate the Tao flourish and those who turn from it perish; the person-level comment names which perishes and which survives. Reading carried without drift. Legge's notes independently report this same comment. Entry-check ok."
+}

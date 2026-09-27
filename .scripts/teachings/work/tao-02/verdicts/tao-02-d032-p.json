@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d032-p",
+ "d": 32,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Though in its primordial simplicity it may be small, the whole world dares not deal with (one embodying) it as a minister.",
+ "ref": "Tao Te Ching 32",
+ "at": [
+  31
+ ],
+ "s": "Having called the Tao nameless, the chapter turns to its simplicity; Wang Bi, on chapter 32, reads simplicity as leaning to no side and close to nothing, so that none can employ it as the clever, the brave and the strong are employed.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 32, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 32, comment on 道常無名，樸雖小，天下莫能臣也。侯王若能守之，萬物將自賓",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "夫智者可以能臣也，勇者可以武使也，巧者可以事役也，力者可以重任也，樸之為物，憒然不偏，近於無有，故曰「莫能臣也」。",
+  "lang": "Classical Chinese",
+  "gloss": "The clever can be made ministers for their ability, the brave employed in arms, the skilful set to tasks, the strong given heavy loads; but the uncarved block, as a thing, is undifferentiated and leans to no side, close to having nothing; so the text says none can make it a minister.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 32, at [31]). Wang Bi’s base text 樸雖小，天下莫能臣也 is the line of the key verse; his comment contrasts the clever, brave, skilful and strong, who can be employed, with the uncarved block, undifferentiated, leaning to no side and close to nothing, which none can make a minister. The reading (leaning to no side, close to nothing, not employed as the clever, the brave and the strong are) is his, without drift. Plain sense faithful to the chapter’s order (nameless, then simplicity) and does not lean on Legge’s “(one embodying)”. Entry-check ok."
+}

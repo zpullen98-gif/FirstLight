@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d038-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and by fetching revision 2354026 raw (timestamp 2024-01-10): under ==三十八章== Wang Bi's single comment on the whole chapter contains 上德之人，唯道是用。不德其德，無執無用，故能有德而無不為，不求而得，不為而成， 故雖有德而無德名也。下德求而得之，為而成之，則立善以治物，故德名有焉。求而得之必有失焉, verbatim as the evidence has it, the stray space included. His base text 上德不德，是以有德；下德不失德，是以無德 is the line of Legge's first paragraph, the key verse. Each clause of the reading is his: the highest using only the Tao, gaining without seeking, virtue without the name of virtue; the lower seeking and gaining, and what is gained by seeking sure to be lost. Plain sense (the chapter opening its account of decline from the Tao) is in the chapter's own terms (par. 5: when the Tao was lost, its attributes appeared), leans on no parenthesis and repeats no four words of the verse. verse.js ok (ref Tao Te Ching 38, at [37]); entry-check ok. No attack landed.",
+ "better": ""
+}

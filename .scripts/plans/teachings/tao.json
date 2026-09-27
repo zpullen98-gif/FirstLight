@@ -381,6 +381,384 @@
    "id": "tao-01-d027-p"
   },
   {
+   "d": 28,
+   "label": "Tao Te Ching 28",
+   "key": "Who knows his manhood’s strength, Yet still his female feebleness maintains; As to one channel flow the many drains, All come to him, yea, all beneath the sky.",
+   "ref": "Tao Te Ching 28",
+   "at": [
+    27
+   ],
+   "s": "The verse opens three stanzas that each end in a return to simplicity; the Heshang Gong commentary, on chapter 28, reads it as one who, knowing his eminence, keeps lowly and gentle, so the world comes to him like water into a deep ravine.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 28, zh.wikisource (a normalised text), revision 2019760 (2021)",
+   "batch": "tao-02",
+   "id": "tao-02-d028-p"
+  },
+  {
+   "d": 29,
+   "label": "Tao Te Ching 29",
+   "key": "Hence the sage puts away excessive effort, extravagance, and easy indulgence.",
+   "ref": "Tao Te Ching 29",
+   "at": [
+    28
+   ],
+   "s": "The chapter draws its lesson from how things turn about; the Heshang Gong commentary, on chapter 29, reads the three as craving for music and beauty, fine dress and food, and palaces and terraces, whose putting away, with non-action, lets the world transform itself.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 29, zh.wikisource (a normalised text), revision 2019760 (2021)",
+   "batch": "tao-02",
+   "id": "tao-02-d029-p"
+  },
+  {
+   "d": 30,
+   "label": "Tao Te Ching 30",
+   "key": "He strikes it as a matter of necessity; he strikes it, but not from a wish for mastery.",
+   "ref": "Tao Te Ching 30",
+   "at": [
+    29
+   ],
+   "s": "The chapter warns against mastery by arms and speaks of one decisive blow; Wang Bi, on chapter 30, reads it as troops used only to relieve distress when the times allow no choice, and only to put down violence and disorder, never for strength.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 30, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d030-p"
+  },
+  {
+   "d": 31,
+   "label": "Tao Te Ching 31",
+   "key": "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.",
+   "ref": "Tao Te Ching 31",
+   "at": [
+    30
+   ],
+   "s": "The chapter ends on the dead of war; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that thin virtue, unable to transform by the Tao, harmed the innocent, and the victor’s white mourning as fitting one who strikes only of necessity.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+   "batch": "tao-02",
+   "id": "tao-02-d031-p"
+  },
+  {
+   "d": 32,
+   "label": "Tao Te Ching 32",
+   "key": "Though in its primordial simplicity it may be small, the whole world dares not deal with (one embodying) it as a minister.",
+   "ref": "Tao Te Ching 32",
+   "at": [
+    31
+   ],
+   "s": "Having called the Tao nameless, the chapter turns to its simplicity; Wang Bi, on chapter 32, reads simplicity as leaning to no side and close to nothing, so that none can employ it as the clever, the brave and the strong are employed.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 32, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d032-p"
+  },
+  {
+   "d": 33,
+   "label": "Tao Te Ching 33",
+   "key": "He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty.",
+   "ref": "Tao Te Ching 33",
+   "at": [
+    32
+   ],
+   "s": "The verse opens a chapter of paired sayings that ends on longevity; Wang Bi, on chapter 33, reads knowing and overcoming others as mere cleverness and force, falling short of turning both upon oneself, whose strength nothing can diminish.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 33, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d033-p"
+  },
+  {
+   "d": 34,
+   "label": "Tao Te Ching 34",
+   "key": "Hence the sage is able (in the same way) to accomplish his great achievements. It is through his not making himself great that he can accomplish them.",
+   "ref": "Tao Te Ching 34",
+   "at": [
+    33
+   ],
+   "s": "Ending a chapter on the Tao, which claims no credit or lordship, the text turns to the sage; the Heshang Gong commentary, on chapter 34, reads him as hiding virtue and name, as the Tao does, and teaching by his own example, without words.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 34, zh.wikisource (a normalised text), revision 2019760 (2021)",
+   "batch": "tao-02",
+   "id": "tao-02-d034-p"
+  },
+  {
+   "d": 35,
+   "label": "Tao Te Ching 35",
+   "key": "To him who holds in his hands the Great Image (of the invisible Tao), the whole world repairs. Men resort to him, and receive no hurt, but (find) rest, peace, and the feeling of ease.",
+   "ref": "Tao Te Ching 35",
+   "at": [
+    34
+   ],
+   "s": "The chapter, on the Tao’s unending use, opens with the Great Image; Wang Bi, on chapter 35, reads it as the mother of heaven’s images, neither cold nor warm, embracing all things and harming none, so that the world goes to a ruler holding it.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 35, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d035-p"
+  },
+  {
+   "d": 36,
+   "label": "Tao Te Ching 36",
+   "key": "Fishes should not be taken from the deep; instruments for the profit of a state should not be shown to the people.",
+   "ref": "Tao Te Ching 36",
+   "at": [
+    35
+   ],
+   "s": "After the soft overcomes the hard, the chapter ends with two warnings; Wang Bi, on chapter 36, reads the instruments as ordering things by their nature, not by punishment, and showing them as ruling by punishment, which fails like a fish out of the deep.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 36, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d036-p"
+  },
+  {
+   "d": 37,
+   "label": "Tao Te Ching 37",
+   "key": "Simplicity without a name Is free from all external aim. With no desire, at rest and still, All things go right as of their will.",
+   "ref": "Tao Te Ching 37",
+   "at": [
+    36
+   ],
+   "s": "Closing a chapter on kings keeping the Tao, the verse meets desire with simplicity; the Heshang Gong commentary, on chapter 37, reads it as rulers steadying the people by the Tao and its virtue till they too stop desiring and the world settles itself.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 37, zh.wikisource (a normalised text), revision 2019760 (2021)",
+   "batch": "tao-02",
+   "id": "tao-02-d037-p"
+  },
+  {
+   "d": 38,
+   "label": "Tao Te Ching 38",
+   "key": "(Those who) possessed in highest degree the attributes (of the Tao) did not (seek) to show them, and therefore they possessed them (in fullest measure). (Those who) possessed in a lower degree those attributes (sought how) not to lose them, and therefore they did not possess them (in fullest measure).",
+   "ref": "Tao Te Ching 38",
+   "at": [
+    37
+   ],
+   "s": "The chapter begins its account of decline from the Tao; Wang Bi, on chapter 38, reads the highest as using only the Tao, gaining without seeking and having virtue without its name, and the lower as seeking, its gains sure to be lost.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 38, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d038-p"
+  },
+  {
+   "d": 39,
+   "label": "Tao Te Ching 39",
+   "key": "Thus it is that dignity finds its (firm) root in its (previous) meanness, and what is lofty finds its stability in the lowness (from which it rises).",
+   "ref": "Tao Te Ching 39",
+   "at": [
+    38
+   ],
+   "s": "After its warnings of ruin, the chapter states a rule; the Heshang Gong commentary, on chapter 39, reads it as telling whoever seeks honour to take the lowly as root, as a wall rises from a low base and topples if that base is weak.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 39, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d039-p"
+  },
+  {
+   "d": 40,
+   "label": "Tao Te Ching 40",
+   "key": "The movement of the Tao By contraries proceeds; And weakness marks the course Of Tao’s mighty deeds.",
+   "ref": "Tao Te Ching 40",
+   "at": [
+    39
+   ],
+   "s": "Opening a chapter on where all things come from, the verse tells how the Tao moves and works; Wang Bi, on chapter 40, reads the movement as reversal, the high founded on the low, the noble on the humble, and non-being the use of being.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 40, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d040-p"
+  },
+  {
+   "d": 41,
+   "label": "Tao Te Ching 41",
+   "key": "The Tao is hidden, and has no name; but it is the Tao which is skilful at imparting (to all things what they need) and making them complete.",
+   "ref": "Tao Te Ching 41",
+   "at": [
+    40
+   ],
+   "s": "Closing a chapter of sayings on the Tao’s seeming opposites, the verse turns to the Tao itself; Wang Bi, on chapter 41, reads each excellence in the sayings as its work, hidden and nameless because things are completed by it yet its form goes unseen.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 41, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d041-p"
+  },
+  {
+   "d": 42,
+   "label": "Tao Te Ching 42",
+   "key": "The Tao produced One; One produced Two; Two produced Three; Three produced All things.",
+   "ref": "Tao Te Ching 42",
+   "at": [
+    41
+   ],
+   "s": "Before turning to kings and their humble titles, the chapter opens on a sequence of births; the Heshang Gong commentary, on chapter 42, takes the Two as yin and yang, and the Three as harmonious, clear and turbid breaths that become heaven, earth and man.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 42, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d042-p"
+  },
+  {
+   "d": 43,
+   "label": "Tao Te Ching 43",
+   "key": "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice.",
+   "ref": "Tao Te Ching 43",
+   "at": [
+    42
+   ],
+   "s": "Opening a chapter on the advantage of non-action, the verse sets soft against hard; the Heshang Gong commentary, on chapter 43, takes the softest as water and the hardest as metal and stone, and what has no existence as the Tao, without form or substance.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 43, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d043-p"
+  },
+  {
+   "d": 44,
+   "label": "Tao Te Ching 44",
+   "key": "Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he.",
+   "ref": "Tao Te Ching 44",
+   "at": [
+    43
+   ],
+   "s": "A chapter weighing fame and wealth against life closes with counsel; the Heshang Gong commentary, on chapter 44, takes contentment as renouncing profit and desire, and lasting long as won by governing the self without wearying the spirit and the state without disturbing the people.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 44, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d044-p"
+  },
+  {
+   "d": 45,
+   "label": "Tao Te Ching 45",
+   "key": "Purity and stillness give the correct law to all under heaven.",
+   "ref": "Tao Te Ching 45",
+   "at": [
+    44
+   ],
+   "s": "Ending a chapter where great things seem their opposites, the verse makes stillness the rule; Wang Bi, on chapter 45, reads stillness as keeping whole the truth of things and agitation as violating their nature, so only purity and stillness reach the chapter’s great things.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 45, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d045-p"
+  },
+  {
+   "d": 46,
+   "label": "Tao Te Ching 46",
+   "key": "When the Tao prevails in the world, they send back their swift horses to (draw) the dung-carts. When the Tao is disregarded in the world, the war-horses breed in the border lands.",
+   "ref": "Tao Te Ching 46",
+   "at": [
+    45
+   ],
+   "s": "Opening a chapter in praise of contentment, the verse sets peace beside war; Wang Bi, on chapter 46, reads the peaceful world as content and knowing when to stop, each tending what is within, and the warring one as insatiable greed seeking outside.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 46, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d046-p"
+  },
+  {
+   "d": 47,
+   "label": "Tao Te Ching 47",
+   "key": "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven.",
+   "ref": "Tao Te Ching 47",
+   "at": [
+    46
+   ],
+   "s": "In a chapter on knowing without travelling, the verse keeps the knower indoors; the Heshang Gong commentary, on chapter 47, reads it as the sage knowing others’ persons and homes through his own, and Heaven’s way through man’s, the two ways being the same.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 47, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d047-p"
+  },
+  {
+   "d": 48,
+   "label": "Tao Te Ching 48",
+   "key": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing).",
+   "ref": "Tao Te Ching 48",
+   "at": [
+    47
+   ],
+   "s": "Opening a chapter on non-action, the verse contrasts two daily courses; the Heshang Gong commentary, on chapter 48, reads learning as the study of government, instruction, rites and music, in which desire and adornment grow daily, and the Tao as their daily wearing away.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 48, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d048-p"
+  },
+  {
+   "d": 49,
+   "label": "Tao Te Ching 49",
+   "key": "The sage has in the world an appearance of indecision, and keeps his mind in a state of indifference to all. The people all keep their eyes and ears directed to him, and he deals with them all as his children.",
+   "ref": "Tao Te Ching 49",
+   "at": [
+    48
+   ],
+   "s": "Closing a chapter on the sage and the people, the verse turns to his bearing; Wang Bi, on chapter 49, reads that indifference as examining nothing and seeking nothing, so the people, with nothing to evade or answer, all act from their true feelings.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 49, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d049-p"
+  },
+  {
+   "d": 50,
+   "label": "Tao Te Ching 50",
+   "key": "The rhinoceros finds no place in him into which to thrust its horn, nor the tiger a place in which to fix its claws, nor the weapon a place to admit its point. And for what reason? Because there is in him no place of death.",
+   "ref": "Tao Te Ching 50",
+   "at": [
+    49
+   ],
+   "s": "Closing a chapter on life and death, the verse ends with the one who guards life well; Wang Bi, on chapter 50, reads him as one who does not burden himself with desire or leave his root by seeking, and so cannot be harmed.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 50, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d050-p"
+  },
+  {
+   "d": 51,
+   "label": "Tao Te Ching 51",
+   "key": "Thus it is that the Tao produces (all things), nourishes them, brings them to their full growth, nurses them, completes them, matures them, maintains them, and overspreads them.",
+   "ref": "Tao Te Ching 51",
+   "at": [
+    50
+   ],
+   "s": "Restating the chapter’s opening, the verse lists eight works; the Heshang Gong commentary, on chapter 51, reads the Tao as not only giving life but rearing things and keeping their nature and life whole, as a ruler should in governing state and self.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 51, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d051-p"
+  },
+  {
+   "d": 52,
+   "label": "Tao Te Ching 52",
+   "key": "When the mother is found, we know what her children should be. When one knows that he is his mother’s child, and proceeds to guard (the qualities of) the mother that belong to him, to the end of his life he will be free from all peril.",
+   "ref": "Tao Te Ching 52",
+   "at": [
+    51
+   ],
+   "s": "After naming the source of all under the sky their mother, the chapter turns to her children; Wang Bi, on chapter 52, reads the mother as root and the children as branches: the root grasped to know the branches, never forsaken to chase them.",
+   "by": "wang-bi",
+   "src": "Wang Bi, Laozi zhu, chapter 52, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+   "batch": "tao-02",
+   "id": "tao-02-d052-p"
+  },
+  {
+   "d": 53,
+   "label": "Tao Te Ching 53",
+   "key": "If I were suddenly to become known, and (put into a position to) conduct (a government) according to the Great Tao, what I should be most afraid of would be a boastful display.",
+   "ref": "Tao Te Ching 53",
+   "at": [
+    52
+   ],
+   "s": "Before decrying a court kept fine over empty granaries, the speaker imagines acting by the Great Tao; the Heshang Gong commentary, on chapter 53, takes the fear as dread of any deliberate measure, lest the Tao’s intent be lost: rewarding goodness may breed false goodness.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 53, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d053-p"
+  },
+  {
+   "d": 54,
+   "label": "Tao Te Ching 54",
+   "key": "In this way the effect will be seen in the person, by the observation of different cases; in the family; in the neighbourhood; in the state; and in the kingdom.",
+   "ref": "Tao Te Ching 54",
+   "at": [
+    53
+   ],
+   "s": "Having traced the Tao from self to kingdom, the chapter turns to observation; the Heshang Gong commentary, on chapter 54, reads it as setting those who cultivate the Tao, from person to ruler, beside those who do not, to see which perish and which survive.",
+   "by": "heshang-gong",
+   "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 54, zh.wikisource (a normalised text), revision 1552800 (2019)",
+   "batch": "tao-02",
+   "id": "tao-02-d054-p"
+  },
+  {
    "d": 55,
    "label": "Tao Te Ching 55",
    "key": "He who has in himself abundantly the attributes (of the Tao) is like an infant. Poisonous insects will not sting him; fierce beasts will not seize him; birds of prey will not strike him.",

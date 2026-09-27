@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d053-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: the Heshang Gong comment on 唯施是畏 reads 獨畏有所施為，恐失道意。欲賞善，恐偽善生, which carries dread of any enacted measure lest the Tao’s intent be lost, with rewarding goodness breeding false goodness. Same base line as Legge’s final clause (施, which Legge renders as display); the sentence attributes the enacting reading to the commentary, not the translator. Plain sense avoids Legge’s parentheses (acting, not governing) and names no author. verse.js ok (at [52]); entry-check ok.",
+ "better": ""
+}

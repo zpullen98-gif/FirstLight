@@ -28,6 +28,10 @@ Read by every agent through its batch's brief (prep-batch.js copies the plan's s
 - A plain sense written as a participle with no main clause ("Closing a chapter on water,") attaches itself to whatever follows the semicolon, the commentator. Give the context clause its own subject and verb, or make the verse its subject. (Found in the tao-01 restyle.)
 - The packet may group a chapter's closing lines under one Wang Bi comment: find which sentence of the block glosses which line before building on it (chapter 77: 唯其道也 closes the gloss on 唯有道者). Where he comments once on a run of lines, a closing 故曰 quoting a line fixes where the comment belongs (chapter 63). (Found in tao-03.)
 - A limit on a hard passage may be spread across two comments: chapter 74's first says the ruler's effort fails (勞而無功), the second, on the next line, that he harms himself (還自傷). A reading that stops at the first has not carried the limit. (Found in tao-03, by the critic after two passes missed it.)
+- Where a comment gives the ground of a line (故, therefore), the reading says the line follows from it, never that the commentator “takes” the line “as” it: “takes A as B” states a gloss, and a ground stated as a gloss is an identity he did not make. (Found in tao-02.)
+- A plain sense that only says the verse opens, closes or concludes the chapter gives no context. Say what the verse does in its passage. (Found in tao-02.)
+- A reading that points to “the things named above” sends the reader to lines not printed beside the key verse: name them, or anchor them in the plain sense. (Found in tao-02.)
+- On a hard passage carry the object of the commentator's grief as well as his limit: chapter 31's Heshang Gong comment grieves that thin virtue harmed the innocent (而害無辜之民); a reading that keeps the grief and drops the innocent comes out softer than the commentary. (Found in tao-02, by the critic's second reading.)
 
 ## pali
 

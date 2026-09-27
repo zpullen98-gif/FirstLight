@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d031-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js (Heshang Gong, revision 2019760, the page packet.js names for chapter 31; Wang Bi has no comment here). Its base text 殺人之眾，以哀悲泣之；戰勝，以喪禮處之 is the line of the key verse. The comment on the first half, 傷己德薄，不能以道化人，而害無辜之民, carries grief that his virtue was too thin to transform people by the Tao; the comment on the second, 將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥, carries the victor mourning in plain white as marking one who strikes only when it cannot be avoided, so the limit of rule 6 is carried. Both evidence strings found verbatim. Plain sense places the verse at the chapter’s end without leaning on Legge’s (rightly), no softening. verse.js ok (Tao Te Ching 31, at [30]); entry-check ok. Only quibbles: “fitting” loosely renders 明 (makes plain), and the harm to the innocent is left out; neither misstates him. No attack landed.",
+ "better": ""
+}

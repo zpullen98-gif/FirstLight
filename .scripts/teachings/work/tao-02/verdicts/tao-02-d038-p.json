@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d038-p",
+ "d": 38,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "(Those who) possessed in highest degree the attributes (of the Tao) did not (seek) to show them, and therefore they possessed them (in fullest measure). (Those who) possessed in a lower degree those attributes (sought how) not to lose them, and therefore they did not possess them (in fullest measure).",
+ "ref": "Tao Te Ching 38",
+ "at": [
+  37
+ ],
+ "s": "The chapter begins its account of decline from the Tao; Wang Bi, on chapter 38, reads the highest as using only the Tao, gaining without seeking and having virtue without its name, and the lower as seeking, its gains sure to be lost.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 38, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet",
+    "locator": "chapter 38, the single comment on the whole chapter, on 上德不德 ... 下德為之而有以為"
+   }
+  ],
+  "words": "上德之人，唯道是用。不德其德，無執無用，故能有德而無不為，不求而得，不為而成， 故雖有德而無德名也。下德求而得之，為而成之，則立善以治物，故德名有焉。求而得之必有失焉",
+  "lang": "Classical Chinese",
+  "gloss": "The person of highest virtue uses only the Tao. He does not treat his virtue as virtue, holds nothing and uses nothing, so he can have virtue and leave nothing undone; he gains without seeking and completes without doing, and so, though he has virtue, he has no name for virtue. Lower virtue seeks and gains, does and completes, setting up goodness to order things, so the name of virtue is there. What is gained by seeking is sure to be lost.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 38, at [37]), Legge's rendering of 上德不德，是以有德；下德不失德，是以無德. Wang Bi comments on chapter 38 in one long passage after the whole chapter; I read it all. The passage on 上德 and 下德 carries each part of the reading: the highest uses only the Tao (唯道是用), gains without seeking (不求而得), has virtue without the name of virtue (雖有德而無德名); the lower seeks and gains (下德求而得之), and what is gained by seeking is sure to be lost (求而得之必有失焉). Nothing of Legge's parentheses or of Wang Bi's wider metaphysics of non-being is added. The plain sense ('its account of decline from the Tao') rests on the chapter's own par. 5 (when the Tao was lost, its attributes appeared ...). Entry-check ok."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d040-p",
+ "d": 40,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The movement of the Tao By contraries proceeds; And weakness marks the course Of Tao’s mighty deeds.",
+ "ref": "Tao Te Ching 40",
+ "at": [
+  39
+ ],
+ "s": "Opening a chapter on where all things come from, the verse tells how the Tao moves and works; Wang Bi, on chapter 40, reads the movement as reversal, the high founded on the low, the noble on the humble, and non-being the use of being.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 40, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "locator": "chapter 40, comment on 反者道之動",
+    "via": "packet"
+   }
+  ],
+  "words": "高以下為基，貴以賤為本，有以無為用，此其反也。",
+  "lang": "Classical Chinese",
+  "gloss": "The high takes the low as its foundation, the noble takes the humble as its root, being takes non-being as its use: this is its reversal.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: “being working through non-being” reads as a progressive verb. Recast as “non-being the use of being”, which is 有以無為用 (being takes non-being as its use), and “the noble rooted in” shortened to “the noble on” to parallel “the high founded on”; opening shortened to “Opening a chapter on where all things come from” as the critic proposed. Re-opened packet.js tao 40: Wang Bi on 反者道之動 writes 高以下為基，貴以賤為本，有以無為用，此其反也, the evidence verbatim; every clause is his. verse.js ok (Tao Te Ching 40, at [39]); entry-check ok, 45 words."
+}

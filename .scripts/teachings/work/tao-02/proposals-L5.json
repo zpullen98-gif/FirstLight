@@ -1,0 +1,112 @@
+{
+ "lane": "L5",
+ "plan": "tao",
+ "batch": "tao-02",
+ "days": [
+  {
+   "d": 52,
+   "primary": {
+    "id": "tao-02-d052-p",
+    "key": "When the mother is found, we know what her children should be. When one knows that he is his mother’s child, and proceeds to guard (the qualities of) the mother that belong to him, to the end of his life he will be free from all peril.",
+    "ref": "Tao Te Ching 52",
+    "at": [51],
+    "s": "After naming the source of all under the sky their mother, the chapter turns to her children; Wang Bi, on chapter 52, reads the mother as root and the children as branches: the root grasped to know the branches, never forsaken to chase them.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 52, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "母，本也，子，末也。得本以知末，不舍本以逐末也。",
+     "gloss": "The mother is the root; the children are the branches. One grasps the root in order to know the branches, and does not forsake the root to chase after the branches."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d052-s",
+    "key": "Let him keep his mouth closed, and shut up the portals (of his nostrils), and all his life he will be exempt from laborious exertion. Let him keep his mouth open, and (spend his breath) in the promotion of his affairs, and all his life there will be no safety for him.",
+    "ref": "Tao Te Ching 52",
+    "at": [51],
+    "s": "Having promised safety to the child who guards the mother, the chapter weighs shutting against opening; the Heshang Gong commentary, on chapter 52, takes the shutting as eyes kept from reckless looking and a mouth from reckless speech, and the opening as feeding the passions.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 52, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "兌，目也。目不妄視也。…門，口也。使口不妄言。…開目視情欲也。…濟，益也。益情欲之事。",
+     "gloss": "The opening (兌) is the eyes: the eyes do not look recklessly. … The gate (門) is the mouth: let the mouth not speak recklessly. … Opening the eyes to look on the passions. … 濟 means to increase: increasing the affairs of the passions."
+    }
+   }
+  },
+  {
+   "d": 53,
+   "primary": {
+    "id": "tao-02-d053-p",
+    "key": "If I were suddenly to become known, and (put into a position to) conduct (a government) according to the Great Tao, what I should be most afraid of would be a boastful display.",
+    "ref": "Tao Te Ching 53",
+    "at": [52],
+    "s": "Before turning on a court kept fine over empty granaries, the chapter’s speaker imagines acting by the Great Tao; the Heshang Gong commentary, on chapter 53, takes the fear as dread of deliberate measures that lose the Tao’s intent: rewarding goodness may breed false goodness.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 53, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "唯，獨也。獨畏有所施為，恐失道意。欲賞善，恐偽善生；欲信忠，恐詐忠起。",
+     "gloss": "唯 means ‘only’. What is feared is only that something be enacted, lest the intent of the Tao be lost. Wishing to reward goodness, one fears that false goodness will arise; wishing to trust loyalty, one fears that feigned loyalty will spring up."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d053-s",
+    "key": "The great Tao (or way) is very level and easy; but people love the by-ways.",
+    "ref": "Tao Te Ching 53",
+    "at": [52],
+    "s": "Between a dread of display and a court kept fine over empty granaries, the chapter turns to the road; Wang Bi, on chapter 53, reads it as people forsaking even a broad, level way for crooked paths, the more so if deliberate action blocks it.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 53, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "言大道蕩然正平，而民猶尚舍之而不由，好從邪徑，況復施為以塞大道之中乎。",
+     "gloss": "It says that the great Way is broad, upright and level, and yet the people still forsake it and do not take it, liking to follow crooked paths; how much more so when, besides, deliberate action is taken to block the middle of the great Way."
+    }
+   }
+  },
+  {
+   "d": 54,
+   "primary": {
+    "id": "tao-02-d054-p",
+    "key": "In this way the effect will be seen in the person, by the observation of different cases; in the family; in the neighbourhood; in the state; and in the kingdom.",
+    "ref": "Tao Te Ching 54",
+    "at": [53],
+    "s": "Having traced the Tao from self to kingdom, the chapter turns to observation; the Heshang Gong commentary, on chapter 54, reads it as setting those who cultivate the Tao, from person to ruler, beside those who do not, to see which perish and which survive.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 54, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "以修道之身，觀不修道之身，孰亡孰存也。…以修道之主，觀不修道之主也。…吾何知天下修道者昌，背道者亡。以此五事觀而知之也。",
+     "gloss": "Take the person who cultivates the Tao and observe the person who does not: which perishes and which survives? … Take the ruler who cultivates the Tao and observe the ruler who does not. … How do I know that under the sky those who cultivate the Tao flourish and those who turn their backs on it perish? By observing these five matters one knows it."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d054-s",
+    "key": "What (Tao’s) skilful planter plants Can never be uptorn; What his skilful arms enfold, From him can ne’er be borne. Sons shall bring in lengthening line, Sacrifices to his shrine.",
+    "ref": "Tao Te Ching 54",
+    "at": [53],
+    "s": "Opening a chapter that carries the Tao from self to kingdom, the verse names what endures; Wang Bi, on chapter 54, reads it as the root made firm before the branches are tended, and descendants handing on this Tao so the sacrifices never cease.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 54, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "固其根而後營其末，故不拔也。…子孫傳此道以祭祀則不輟也。",
+     "gloss": "It makes its root firm and only then tends its branches; therefore it is not uprooted. … Sons and grandsons hand on this Tao, and by it the sacrifices are not interrupted."
+    }
+   }
+  }
+ ]
+}

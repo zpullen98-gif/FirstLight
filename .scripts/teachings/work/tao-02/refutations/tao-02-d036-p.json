@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d036-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js (Wang Bi, revision 2354026, chapter 36). His comment on 柔弱勝剛強。魚不可脫於淵，國之利器不可以示人 (base text identical to Legge's lines) reads 利器，利國之器也。唯因物之性，不假刑以理物…示人者，任刑也。刑以利國則失矣。魚脫於淵，則必見失矣。利國器而立刑以示人，亦必失也. So the instrument as ordering things by following their nature without punishment, showing it as relying on punishment, and that failing as a fish that leaves the deep is lost: all carried by his words. Punishment enters only as Wang Bi's reading, attributed to him (rule 6 satisfied; Legge's notes reject that reading, but the sentence does not adjudicate). Plain sense (after the soft overcomes the hard, the chapter ends with two prohibitions) matches unit 1 and the verse's place without quoting it. verse.js ok (Tao Te Ching 36, at [35]); entry-check ok. No attack landed.",
+ "better": ""
+}

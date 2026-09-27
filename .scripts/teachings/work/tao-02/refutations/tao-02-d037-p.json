@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d037-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and by fetching revision 2019760 raw (timestamp 2021-03-10, so the year is right): under ==為政== (chapter 37) the comment on 無名之樸，夫亦將無欲，不欲以靜 is 言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也 and on 天下將自定 is 能如是者，天下將自正定也, both verbatim as the evidence has them; the line before glosses 無名之樸 as 道德, which carries 'by the Tao and its virtue'. The key verse is Legge's rhymed rendering of exactly these two lines, so the comment is on the key verse itself and the base text matches. Every clause of the reading is in his words (rulers 鎮撫 the people, the people too 不欲, the world 自正定); the omission of 清靜 is not drift. Plain sense places the verse at the chapter's close without repeating it and without Legge's parentheses; thin but true. verse.js ok (ref Tao Te Ching 37, at [36]); entry-check ok. No attack landed.",
+ "better": ""
+}

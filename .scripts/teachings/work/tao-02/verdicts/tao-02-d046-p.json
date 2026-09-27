@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d046-p",
+ "d": 46,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When the Tao prevails in the world, they send back their swift horses to (draw) the dung-carts. When the Tao is disregarded in the world, the war-horses breed in the border lands.",
+ "ref": "Tao Te Ching 46",
+ "at": [
+  45
+ ],
+ "s": "Opening a chapter in praise of contentment, the verse sets peace beside war; Wang Bi, on chapter 46, reads the peaceful world as content and knowing when to stop, each tending what is within, and the warring one as insatiable greed seeking outside.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 46, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 46, comments on 天下有道，卻走馬以糞 and 天下無道，戎馬生於郊",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "天下有道，知足知止，無求於外，各修其內而已，故卻走馬以治田糞也。…貪欲無厭，不修其內，各求於外，故戎馬生於郊也。",
+  "lang": "Classical Chinese",
+  "gloss": "When the world has the Tao, people know what is enough and when to stop, seek nothing outside, and each simply cultivates what is within; so the running horses are sent back to work the fields with dung. … Greedy desire is never sated; they do not cultivate what is within but each seeks outside; so war-horses are born in the border lands.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 46, at [45]); Wang Bi’s base lines 天下有道，卻走馬以糞 and 天下無道，戎馬生於郊 are the lines Legge renders. His two comments carry every part of the reading: knowing enough and when to stop, each cultivating what is within, against greed never sated that seeks outside. Plain sense matches the chapter, which opens on the two horses and closes on the sufficiency of contentment. Entry-check ok."
+}

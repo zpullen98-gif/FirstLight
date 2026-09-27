@@ -1,0 +1,217 @@
+{
+ "lane": "L1",
+ "plan": "tao",
+ "batch": "tao-02",
+ "days": [
+  {
+   "d": 28,
+   "primary": {
+    "id": "tao-02-d028-p",
+    "key": "Who knows his manhood’s strength, Yet still his female feebleness maintains; As to one channel flow the many drains, All come to him, yea, all beneath the sky.",
+    "ref": "Tao Te Ching 28",
+    "at": [27],
+    "s": "The verse opens three stanzas that each end in a return to simplicity; the Heshang Gong commentary, on chapter 28, reads it as one who, knowing his eminence, keeps lowly and gentle, so the world comes to him like water into a deep ravine.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 28, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "雄以喻尊，雌以喻卑。人雖自知其尊顯，當復守之以卑微，去雄之強梁，就雌之柔和，如是則天下歸之，如水流入深谿也。",
+     "gloss": "The male is a figure for the honoured, the female for the lowly. Though a person knows himself honoured and eminent, he should still keep to the humble and small, leaving the male’s hard force and taking up the female’s soft gentleness; then all under heaven come to him, as water flows into a deep ravine."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d028-s",
+    "key": "The unwrought material, when divided and distributed, forms vessels. The sage, when employed, becomes the Head of all the Officers (of government); and in his greatest regulations he employs no violent measures.",
+    "ref": "Tao Te Ching 28",
+    "at": [27],
+    "s": "The chapter’s last lines turn to rule; Wang Bi, on chapter 28, reads it as the sage setting up heads for the many kinds that arise when the genuine scatters, and his great rule as cutting nothing, taking the world’s heart as its own.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 28, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "樸，真也。真散則百行出，殊類生，若器也。聖人因其分散，故為之立官長。…大制者，以天下之心為心，故無割也。",
+     "gloss": "The unwrought is the genuine. When the genuine scatters, the hundred kinds of conduct come forth and different kinds are born, like vessels. Because of this dispersal the sage sets up officers and heads for them. … The great regulation takes the heart of all under heaven as its heart; therefore it does no cutting."
+    }
+   }
+  },
+  {
+   "d": 29,
+   "primary": {
+    "id": "tao-02-d029-p",
+    "key": "Hence the sage puts away excessive effort, extravagance, and easy indulgence.",
+    "ref": "Tao Te Ching 29",
+    "at": [28],
+    "s": "The chapter draws its lesson from how things turn about; the Heshang Gong commentary, on chapter 29, reads the three as craving for music and beauty, finery in dress and food, and palaces and terraces, and their putting away as letting the world transform itself.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 29, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "甚謂貪淫聲色。奢謂服飾飲食。泰謂宮室臺榭。去此三者，處中和，行無為，則天下自化。",
+     "gloss": "Excess means greedy, wanton indulgence in music and beauty. Extravagance means clothing and ornament, food and drink. Indulgence means palaces, halls, terraces and pavilions. Put away these three, dwell in the centre and in harmony, practise non-action, and the world transforms of itself."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d029-s",
+    "key": "He who would so win it destroys it; he who would hold it in his grasp loses it.",
+    "ref": "Tao Te Ching 29",
+    "at": [28],
+    "s": "Calling the kingdom a spirit-like thing, the chapter warns against taking it by doing; Wang Bi, on chapter 29, reads it as true of all things, which are so of themselves and may be followed but not acted upon, passed through but not seized.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 29, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "萬物以自然為性，故可因而不可為也。可通而不可執也。物有常性，而造為之，故必敗也。物有往來而執之，故必失矣。",
+     "gloss": "All things take being so of themselves as their nature; so they may be followed but not acted upon, passed through but not seized. Things have constant natures, and to fabricate and act upon them is sure to ruin them; things have their comings and goings, and to seize them is sure to lose them."
+    }
+   }
+  },
+  {
+   "d": 30,
+   "primary": {
+    "id": "tao-02-d030-p",
+    "key": "He strikes it as a matter of necessity; he strikes it, but not from a wish for mastery.",
+    "ref": "Tao Te Ching 30",
+    "at": [29],
+    "s": "The chapter warns against mastery by arms and speaks of one decisive blow; Wang Bi, on chapter 30, reads it as troops used only to relieve distress when the times allow no choice, and only to put down violence and disorder, never for strength.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 30, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "果猶濟也。言善用師者，趣以濟難而已矣，不以兵力取强於天下也。…言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
+     "gloss": "Guo is like ji, bringing through. It means that one skilled in using troops aims only at bringing through distress, and does not use military force to take mastery over the world. … It means that although using troops aims at success in relieving distress, it is because the times leave no choice; where they must be used again, it should only be to remove violence and disorder, not going on to use the success to make oneself strong."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d030-s",
+    "key": "He who would assist a lord of men in harmony with the Tao will not assert his mastery in the kingdom by force of arms.",
+    "ref": "Tao Te Ching 30",
+    "at": [29],
+    "s": "The chapter opens its case against war; the Heshang Gong commentary, on chapter 30, reads it as the ruler who aids himself with the Tao, using no weapons or armour but following heaven and relying on virtue, so that enemies submit of themselves.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 30, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "謂人主能以道自輔佐也。…以道自佐之主，不以兵革，順天任德，敵人自服。",
+     "gloss": "It means the ruler of men who can assist himself with the Tao. … The ruler who aids himself with the Tao does not use weapons and armour; he follows heaven and relies on virtue, and enemies submit of themselves."
+    }
+   }
+  },
+  {
+   "d": 31,
+   "primary": {
+    "id": "tao-02-d031-p",
+    "key": "He who has killed multitudes of men should weep for them with the bitterest grief; and the victor in battle has his place (rightly) according to those rites.",
+    "ref": "Tao Te Ching 31",
+    "at": [30],
+    "s": "The chapter ends on those slain in war; the Heshang Gong commentary, on chapter 31, reads the weeping as grief that one’s virtue could not transform people by the Tao, and the victor’s mourning in white as fitting one who strikes only when he must.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "傷己德薄，不能以道化人，而害無辜之民。…古者戰勝，將軍居喪主禮之位，素服而哭之，明君子貴德而賤兵，不得以而誅不祥，心不樂之，比於喪也",
+     "gloss": "He grieves that his own virtue is thin, that he could not transform people by the Tao and so harmed innocent people. … In ancient times, when a battle was won, the general took the place of the chief mourner, wore plain white and wept for the dead, to make plain that the superior man honours virtue and holds arms cheap, punishes the ill-omened only when he cannot avoid it, takes no joy in it at heart, and likens it to mourning."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d031-s",
+    "key": "Now arms, however beautiful, are instruments of evil omen, hateful, it may be said, to all creatures.",
+    "ref": "Tao Te Ching 31",
+    "at": [30],
+    "s": "The chapter opens on arms and ends on mourning; the Heshang Gong commentary, on chapter 31, reads their beauty as adornment, which arms ought not to have, since they startle the vital spirit, muddy the harmonious breath and do harm when they move.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 31, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "佳，飾也。祥，善也。兵者，驚精神，濁和氣，不善人之器也，不當修飾之。…兵動則有所害，故萬物無有不惡之者。",
+     "gloss": "Jia means adorned; xiang means good. Arms startle the vital spirit and muddy the harmonious breath; they are the tools of men who are not good, and ought not to be adorned. … When arms move there is harm, so there is nothing among all things that does not hate them."
+    }
+   }
+  },
+  {
+   "d": 32,
+   "primary": {
+    "id": "tao-02-d032-p",
+    "key": "Though in its primordial simplicity it may be small, the whole world dares not deal with (one embodying) it as a minister.",
+    "ref": "Tao Te Ching 32",
+    "at": [31],
+    "s": "Having called the Tao nameless, the chapter turns to its simplicity; Wang Bi, on chapter 32, reads simplicity as leaning to no side and close to nothing, so that none can employ it as the clever, the brave and the strong are employed.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 32, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "夫智者可以能臣也，勇者可以武使也，巧者可以事役也，力者可以重任也，樸之為物，憒然不偏，近於無有，故曰「莫能臣也」。",
+     "gloss": "The clever can be made ministers for their ability, the brave employed for their prowess in arms, the skilful set to tasks, the strong given heavy loads; but the uncarved block, as a thing, is undifferentiated and leans to no side, close to having nothing; therefore the text says none can make it a minister."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d032-s",
+    "key": "Heaven and Earth (under its guidance) unite together and send down the sweet dew, which, without the directions of men, reaches equally everywhere as of its own accord.",
+    "ref": "Tao Te Ching 32",
+    "at": [31],
+    "s": "The chapter turns from princes to heaven and earth; the Heshang Gong commentary, on chapter 32, reads the dew as heaven’s good omen when princes and kings act in accord with it, so that all things settle evenly with no one commanding them.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 32, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "侯王動作能與天相應和，天即降下甘露善瑞也。…天降甘露善瑞，則萬物莫有教令之者，皆自均調若一也。",
+     "gloss": "When princes and kings in their actions can answer and accord with heaven, heaven sends down the sweet dew as a good omen. … When heaven sends down the sweet dew as a good omen, no one gives commands to all things, and all are evenly attuned of themselves, as one."
+    }
+   }
+  },
+  {
+   "d": 33,
+   "primary": {
+    "id": "tao-02-d033-p",
+    "key": "He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty.",
+    "ref": "Tao Te Ching 33",
+    "at": [32],
+    "s": "The verse opens a chapter of paired sayings that ends on longevity; Wang Bi, on chapter 33, reads knowing and overcoming others as mere cleverness and force, falling short of turning both upon oneself, whose strength nothing can diminish.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 33, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "知人者，智而已矣，未若自知者超智之上也。…勝人者，有力而已矣，未若自勝者無物以損其力，用其智於人，未若用其智於己也。用其力於人，未若用其力於己也。",
+     "gloss": "One who knows others is clever, and no more; that does not match knowing oneself, which rises above cleverness. … One who overcomes others has force, and no more; that does not match overcoming oneself, whose strength nothing can diminish. To use one’s cleverness on others does not match using it on oneself; to use one’s force on others does not match using it on oneself."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d033-s",
+    "key": "He who does not fail in the requirements of his position, continues long; he who dies and yet does not perish, has longevity.",
+    "ref": "Tao Te Ching 33",
+    "at": [32],
+    "s": "The chapter’s paired sayings end on lasting and death; the Heshang Gong commentary, on chapter 33, reads the position as the vital essence received from heaven, kept by restraint and nurture, and longevity as the lot of one whose eyes, ears and mouth never stray.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 33, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "人能自節養，不失其所受天之精氣，則可以久。…目不妄視，耳不妄聽，口不妄言，則無怨惡於天下，故長壽。",
+     "gloss": "One who can regulate and nourish himself, not losing the vital essence he received from heaven, can last long. … When the eyes do not look recklessly, the ears do not listen recklessly and the mouth does not speak recklessly, there is no resentment or hatred against him in all the world, and so he lives long."
+    }
+   }
+  }
+ ]
+}

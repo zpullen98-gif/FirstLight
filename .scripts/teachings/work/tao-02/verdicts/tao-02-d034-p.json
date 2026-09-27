@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d034-p",
+ "d": 34,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Hence the sage is able (in the same way) to accomplish his great achievements. It is through his not making himself great that he can accomplish them.",
+ "ref": "Tao Te Ching 34",
+ "at": [
+  33
+ ],
+ "s": "Ending a chapter on the Tao, which claims no credit or lordship, the text turns to the sage; the Heshang Gong commentary, on chapter 34, reads him as hiding virtue and name, as the Tao does, and teaching by his own example, without words.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 34, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 34 (title 任成), comments on 常無欲，可名於小, 是以聖人終不為大 and 故能成其大",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "via": "packet"
+   }
+  ],
+  "words": "道匿德藏名，怕然無為，似若微小也。…聖人法道匿德藏名，不為滿大。…聖人以身師導，不言而化，萬事修治，故能成其大。",
+  "lang": "Classical Chinese",
+  "gloss": "The Tao hides its virtue and conceals its name, tranquil and not acting, so that it seems small. … The sage models himself on the Tao, hides his virtue and conceals his name, and does not make himself full and great. … The sage leads and teaches by his own person, transforms without words, and every affair is set in order; so he can accomplish his greatness.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 34, at [33]); it is unit 2, Legge’s rendering of 是以聖人終不為大，故能成其大, on which the Heshang Gong commentary comments line by line. Its words give the sage modelling himself on the Tao by hiding virtue and name (the same phrase used of the Tao on 常無欲，可名於小), not making himself great, and leading by his own person, transforming without words. The sentence carries that without drift. Plain sense faithful: units 0 and 1 describe the Tao not claiming the name of its work nor assuming lordship, and unit 2 turns to the sage. Entry-check ok."
+}

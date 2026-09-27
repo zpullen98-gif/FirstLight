@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d039-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and by fetching revision 1552800 raw (timestamp 2019-03-23; chapters 38 to 81, the page packet.js names for day 39): under ==法本== (chapter 39) the comment on 故貴以賤為本 is 言必欲尊貴，當以薄賤為本，若禹稷躬稼，舜陶河濱，周公下白屋也 and on 高以下為基 is 言必欲尊貴，當以下為本基，猶築牆造功，因卑成高，下不堅固，後必傾危, both verbatim. These are the two clauses of the key verse, so the comment is on the verse itself. The reading (whoever seeks honour must take the lowly as root, as a wall rises from the low and, its base not firm, will lean and fall) is his; 'topples' for 傾危 is a fair rendering, not an intensification worth refuting. 'rises from a low base' echoes Legge's parenthesis but is carried by 因卑成高, the commentary's own words. Plain sense (after the warnings of ruin, the chapter states a rule) is the chapter's own sequence (par. 4 then par. 5). verse.js ok (ref Tao Te Ching 39, at [38]); entry-check ok. No attack landed.",
+ "better": ""
+}

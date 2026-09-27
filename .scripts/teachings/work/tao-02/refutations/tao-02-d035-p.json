@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d035-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js (Wang Bi, revision 2354026, chapter 35). On 執大象，天下往, the lines Legge renders in the key verse, his base text is identical and his comment reads 大象，天象之母也，不寒不溫不涼，故能包統萬物，無所犯傷，主若執之，則天下往也; the comment on 往而不害 adds 萬物得往而不害妨. Mother of heaven's images, neither cold nor warm, embracing all things and harming none, the world going to the ruler who holds it: every clause is in his words, and nothing leans on Legge's parenthesis (of the invisible Tao). Plain sense (the chapter on the Tao's inexhaustible use, opening with the Great Image) matches unit 1 and the verse's place. verse.js ok (Tao Te Ching 35, at [34]); entry-check ok. No attack landed.",
+ "better": ""
+}

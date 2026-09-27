@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d048-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js (chapter 48, title 忘知): on 為學日益 the commentary says 學謂政教禮樂之學也。日益者，情欲文飾日以益多, and on 為道日損 it says 日損者，情欲文飾日以消損; the base lines are the key verse's lines and the paraphrase (learning as the study of government, instruction, rites and music, desire and adornment growing daily, and on the course of the Tao their daily wearing away) is carried by those words. The one soft spot: 'the Tao as their daily wearing away' elides the commentary's own gloss of the Tao as 自然之道, but read against the plain sense's 'two daily courses' it names the course, not a definition, so it is compression rather than a false claim. Plain sense (a chapter on non-action, two daily courses) matches the chapter and does not lean on Legge's (his knowledge) or (his doing). verse.js ok (Tao Te Ching 48, at [47]); entry-check ok; 44 words. No attack landed.",
+ "better": "If a word can be spared, 'the way of the Tao as their daily wearing away' or naming 自然之道 (the Way of what is so of itself) would remove the ellipsis."
+}

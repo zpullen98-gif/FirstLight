@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d054-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: the Heshang Gong commentary glosses each of 以身觀身 through 以天下觀天下 as setting the one who cultivates the Tao beside the one who does not, the last as 以修道之主，觀不修道之主 (hence from person to ruler), with 孰亡孰存 on the first and 修道者昌，背道者亡 on the next line; the paraphrase is carried whole. Legge’s notes independently report the same comment. Plain sense matches unit 2. verse.js ok (at [53]); entry-check ok.",
+ "better": ""
+}

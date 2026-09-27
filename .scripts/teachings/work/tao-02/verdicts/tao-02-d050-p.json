@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d050-p",
+ "d": 50,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The rhinoceros finds no place in him into which to thrust its horn, nor the tiger a place in which to fix its claws, nor the weapon a place to admit its point. And for what reason? Because there is in him no place of death.",
+ "ref": "Tao Te Ching 50",
+ "at": [
+  49
+ ],
+ "s": "Closing a chapter on life and death, the verse ends with the one who guards life well; Wang Bi, on chapter 50, reads him as one who does not burden himself with desire or leave his root by seeking, and so cannot be harmed.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 50, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 50, comment on 蓋聞善攝生者…以其無死地",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "斯誠不以欲累其身者也，何死地之有乎。…故物茍不以 求離其本，不以欲渝其真，雖入軍而不害，陸行而不可犯也",
+  "lang": "Classical Chinese",
+  "gloss": "This is truly one who does not burden his person with desires; what place of death could he have? … So if a thing does not leave its root through seeking, nor spoil its genuineness through desire, then though it enters an army it is not harmed, and though it travels by land it cannot be assailed.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 50, at [49]); three whole sentences inside unit 4, no dash. Wang Bi’s base text for these lines (兕無所投其角…以其無死地) matches the key verse, and his single comment covers the chapter. He says the one whom weapons and beasts cannot touch is one who does not burden his person with desires, and concludes that a thing which does not leave its root through seeking nor spoil its genuineness through desire is not harmed in an army nor assailed on land; the reading paraphrases these two statements and adds nothing. Plain sense faithful: the chapter’s last paragraph turns from the three classes to the one skilful in managing life. Evidence given as two verbatim spans joined by an ellipsis, both re-found in the packet. Entry-check ok."
+}

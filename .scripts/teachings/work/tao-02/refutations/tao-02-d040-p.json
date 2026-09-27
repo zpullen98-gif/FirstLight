@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d040-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and by fetching revision 2354026 raw: under ==四十章==, on 反者道之動, Wang Bi writes 高以下為基，貴以賤為本，有以無為用，此其反也, the evidence verbatim, and closes 故曰「反者道之動」也, so the reading is his comment on the key verse’s own first line and names it 反, reversal. His words carry every clause (high on low, noble on humble, being using non-being); nothing added. Base text matches Legge’s line. Plain sense (a brief chapter, its second half on where all things come from) is the chapter’s own content, no four-word run from the verse, no Legge parenthesis leaned on. verse.js ok (ref Tao Te Ching 40, at [39]); entry-check ok. The reading does not touch the weakness line, which is a choice, not a fault. No attack landed.",
+ "better": ""
+}

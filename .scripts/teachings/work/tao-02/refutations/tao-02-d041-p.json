@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d041-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js and the raw revision 2354026: the comment on 道隱無名。夫唯道，善貸且成 (chapter 41, last line, same as Legge’s key verse) begins 凡此諸善，皆是道之所成也 … 物以之成而不見其成形，故隱而無名也, verbatim as the evidence. It carries the paraphrase: the sayings’ excellences are what the Tao completes, and it is hidden and nameless because things are completed by it while the form of its completing is not seen (also 大象無形 in the same comment). ‘its form goes unseen’ compresses 不見其成形 but does not claim more. The adjectives ‘hidden and nameless’ sit after ‘its work’ and could be read as describing the work rather than the Tao; ‘completed by it’ and ‘its form’ keep the Tao as the subject, so this is a wording point, not drift. Plain sense is chapter context, no Legge parenthesis used. verse.js ok (ref Tao Te Ching 41, at [40]); entry-check ok. No attack landed.",
+ "better": "Optional wording to remove the ambiguity (re-run entry-check if used): Wang Bi, on chapter 41, reads each excellence in the sayings as the Tao’s work, the Tao hidden and nameless because things are completed by it yet its form goes unseen."
+}

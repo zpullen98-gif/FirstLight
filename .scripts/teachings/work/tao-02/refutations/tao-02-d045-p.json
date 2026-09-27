@@ -1,0 +1,8 @@
+{
+ "id": "tao-02-d045-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 45: Wang Bi's comment on 躁勝寒，靜勝熱。清靜為天下正 ends 靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也, verbatim as the evidence gives it; his base line 清靜為天下正 is Legge's key verse. The reading (stillness keeps whole the truth of things, agitation violates their nature, only purity and stillness attain the great things above) carries his words without drift, and the pointing-back phrase is anchored because the plain sense names the chapter's great things that seem their opposites (Legge: great achievements deemed poor, fulness a void, art stupid, eloquence stammering). Wang Bi's differing reading of the cold line is not touched. verse.js ok (ref Tao Te Ching 45, at [44]); entry-check ok; 44 words, one semicolon, verb reads, no dash, no comparison.",
+ "better": "Optional only: the plain sense could name the line just before (action and stillness overcoming cold and heat) instead of the thin 'the verse concludes', which would also let a reader tie Wang Bi's 'agitation' to Legge's 'constant action'."
+}

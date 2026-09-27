@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d044-p",
+ "d": 44,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he.",
+ "ref": "Tao Te Ching 44",
+ "at": [
+  43
+ ],
+ "s": "A chapter weighing fame and wealth against life closes with counsel; the Heshang Gong commentary, on chapter 44, takes contentment as renouncing profit and desire, and lasting long as won by governing the self without wearying the spirit and the state without disturbing the people.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 44, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 44 (立戒), comments on 知足不辱 and on 可以長久",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "知足之人絕利去欲，不辱於身。…治身者，神不勞；治國者，民不擾，故可長久。",
+  "lang": "Classical Chinese",
+  "gloss": "One who knows contentment cuts off profit and puts away desire, and suffers no disgrace in his person. … For one who governs the self, the spirit is not wearied; for one who governs the state, the people are not disturbed; therefore he can last long.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 44, at [43]); it is unit 3, whose lines are 知足不辱，知止不殆，可以長久 in the Heshang Gong text. Attribution and place stand: the comment on 知足不辱 gives contentment as cutting off profit and putting away desire, and the comment on 可以長久 gives lasting long as following (故) from an unwearied spirit in governing the self and undisturbed people in governing the state. Changed only the wording of the reading: the proposal said the commentary ‘takes lasting long as a spirit unwearied’, an identity the words do not make; they give the unwearied spirit and undisturbed people as the ground of lasting long, so the sentence now reads ‘lasting long as won by governing the self without wearying the spirit and the state without disturbing the people’. Plain sense faithful. Entry-check ok at 45 words."
+}

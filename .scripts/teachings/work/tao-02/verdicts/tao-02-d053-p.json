@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d053-p",
+ "d": 53,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "If I were suddenly to become known, and (put into a position to) conduct (a government) according to the Great Tao, what I should be most afraid of would be a boastful display.",
+ "ref": "Tao Te Ching 53",
+ "at": [
+  52
+ ],
+ "s": "Before decrying a court kept fine over empty granaries, the speaker imagines acting by the Great Tao; the Heshang Gong commentary, on chapter 53, takes the fear as dread of any deliberate measure, lest the Tao’s intent be lost: rewarding goodness may breed false goodness.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 53, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 53, comment on 唯施是畏",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800",
+    "via": "packet"
+   }
+  ],
+  "words": "獨畏有所施為，恐失道意。欲賞善，恐偽善生；欲信忠，恐詐忠起。",
+  "lang": "Classical Chinese",
+  "gloss": "What is feared is only that anything be enacted, lest the intent of the Tao be lost. Wishing to reward goodness, one fears false goodness will arise; wishing to trust loyalty, one fears feigned loyalty will spring up.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Reading is the Heshang Gong commentary's own, on 唯施是畏, the line Legge renders as the key verse's final clause (Legge takes 施 as display; the commentary takes it as 施為, enacting). Changed the reading from \"dread of deliberate measures that lose the Tao's intent\" (which can be read as only some measures) to \"dread of any deliberate measure, lest the Tao's intent be lost\", matching 獨畏有所施為，恐失道意; to stay within 45 words, \"turning on\" became \"decrying\" and \"the chapter's speaker\" became \"the speaker\". Key, ref, at, src unchanged; verse.js and entry-check ok."
+}

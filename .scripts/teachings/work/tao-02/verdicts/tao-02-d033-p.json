@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d033-p",
+ "d": 33,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who knows other men is discerning; he who knows himself is intelligent. He who overcomes others is strong; he who overcomes himself is mighty.",
+ "ref": "Tao Te Ching 33",
+ "at": [
+  32
+ ],
+ "s": "The verse opens a chapter of paired sayings that ends on longevity; Wang Bi, on chapter 33, reads knowing and overcoming others as mere cleverness and force, falling short of turning both upon oneself, whose strength nothing can diminish.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 33, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 33, comments on 知人者智，自知者明 and 勝人者有力，自勝者強",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "知人者，智而已矣，未若自知者超智之上也。…勝人者，有力而已矣，未若自勝者無物以損其力，用其智於人，未若用其智於己也。用其力於人，未若用其力於己也。",
+  "lang": "Classical Chinese",
+  "gloss": "Knowing others is cleverness and no more; it does not match knowing oneself, which rises above cleverness. … Overcoming others is force and no more; it does not match overcoming oneself, whose strength nothing can diminish. To use cleverness on others does not match using it on oneself; to use force on others does not match using it on oneself.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 33, at [32]); it is the first four sayings of unit 0, the lines 知人者智，自知者明。勝人者有力，自勝者強 on which Wang Bi comments. His words give knowing and overcoming others as cleverness and force and no more, falling short of turning cleverness and force upon oneself, with nothing able to diminish the self-overcomer’s strength. The sentence carries that without drift. Plain sense faithful (paired sayings, ending on longevity in unit 1). Entry-check ok."
+}

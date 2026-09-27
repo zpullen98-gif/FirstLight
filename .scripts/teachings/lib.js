@@ -186,6 +186,16 @@ function status(plan, n, name) {
   return out;
 }
 
+/* The critic's last reading of a batch: of critic.json (a second reading,
+   after revisions) and critic-1.json (a first), whichever was written last,
+   since a later run's first reading can be newer than an earlier second. */
+function lastCritic(dir) {
+  const files = ['critic.json', 'critic-1.json'].map(f => path.join(dir, f)).filter(f => fs.existsSync(f));
+  if (!files.length) return null;
+  files.sort((a, b) => fs.statSync(b).mtimeMs - fs.statSync(a).mtimeMs);
+  return readJSON(files[0]);
+}
+
 /* The entry a survivor would land as: only these fields, exactly as the
    verdict (or re-verdict) that kept it alive gives them. */
 const ENTRY_FIELDS = ['key', 'ref', 'at', 's', 'by', 'by2', 'hedge', 'src'];
@@ -195,4 +205,4 @@ function entryOf(final) {
   return e;
 }
 
-module.exports = { ROOT, WORK, CFG, SENSITIVE, PASS, nn, batchName, batchDir, candId, batchDays, batchRef, idOf, sensitiveDays, lanesOf, readJSON, readDirJSON, proposals, passes, stateOf, roundKey, nextRound, status, entryOf, ENTRY_FIELDS };
+module.exports = { ROOT, WORK, CFG, SENSITIVE, PASS, lastCritic, nn, batchName, batchDir, candId, batchDays, batchRef, idOf, sensitiveDays, lanesOf, readJSON, readDirJSON, proposals, passes, stateOf, roundKey, nextRound, status, entryOf, ENTRY_FIELDS };

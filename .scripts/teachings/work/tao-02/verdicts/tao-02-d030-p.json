@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d030-p",
+ "d": 30,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He strikes it as a matter of necessity; he strikes it, but not from a wish for mastery.",
+ "ref": "Tao Te Ching 30",
+ "at": [
+  29
+ ],
+ "s": "The chapter warns against mastery by arms and speaks of one decisive blow; Wang Bi, on chapter 30, reads it as troops used only to relieve distress when the times allow no choice, and only to put down violence and disorder, never for strength.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 30, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true,
+  "opened": [
+   {
+    "locator": "chapter 30, comment on 果而不得已，果而勿強",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "言用兵雖趣功果濟難，然時故不得已，當復用者，但當以除暴亂，不遂用果以為强也。",
+  "gloss": "It means that although using troops aims at success in relieving distress, it is because the times leave no choice; where they must be used again, it should only be to remove violence and disorder, not going on to use the success to make oneself strong."
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 30, at [29]); it renders 果而不得已，果而勿強, and Wang Bi’s comment on that very line carries the reading: troops only to relieve distress because the times leave no choice, only to remove violence and disorder, never to turn the success into strength (his earlier gloss 果猶濟也 confirms 果 as relieving). Hard passage: plain sense states the chapter’s subject plainly (mastery by arms, one decisive blow) and the reading carries Wang Bi’s limit. Evidence trimmed to the single contiguous comment on the key line so the machine recheck finds it. Entry-check ok."
+}

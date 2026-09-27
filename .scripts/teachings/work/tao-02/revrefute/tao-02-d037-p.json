@@ -1,0 +1,8 @@
+{
+ "id": "tao-02-d037-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2019760", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 37 and the raw wikitext of revision 2019760 (timestamp 2021-03-10, so the year holds): under 為政, on 無名之樸，夫亦將無欲，不欲以靜 the commentary reads 言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也 and on 天下將自定 it reads 能如是者，天下將自正定也, verbatim as the evidence has them; its base lines are the lines Legge versifies in the key verse. Rulers steadying the people by 道德 (which the commentary itself equates with the nameless simplicity, 無明之樸，道德也), the people too not desiring, and the world settling of itself are all in its words; nothing claimed beyond them. Plain sense: the key verse is the last text unit (the next unit is the PART II header), the chapter is about princes and kings who might keep the Tao, and the unit before sets desire against the nameless simplicity, so the clause is context in the passage’s own terms, not a repeat of the verse and not leaning on Legge’s parenthesis. verse.js ok (Tao Te Ching 37, at [36]); entry-check ok. No school, comparison or tone issue.",
+ "better": ""
+}

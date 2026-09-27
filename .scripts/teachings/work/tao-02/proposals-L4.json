@@ -1,0 +1,217 @@
+{
+ "lane": "L4",
+ "plan": "tao",
+ "batch": "tao-02",
+ "days": [
+  {
+   "d": 46,
+   "primary": {
+    "id": "tao-02-d046-p",
+    "key": "When the Tao prevails in the world, they send back their swift horses to (draw) the dung-carts. When the Tao is disregarded in the world, the war-horses breed in the border lands.",
+    "ref": "Tao Te Ching 46",
+    "at": [45],
+    "s": "Opening a chapter in praise of contentment, the verse sets peace beside war; Wang Bi, on chapter 46, reads the peaceful world as content and knowing when to stop, each tending what is within, and the warring one as insatiable greed seeking outside.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 46, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "天下有道，知足知止，無求於外，各修其內而已，故卻走馬以治田糞也。…貪欲無厭，不修其內，各求於外，故戎馬生於郊也。",
+     "gloss": "When the world has the Tao, people know what is enough and know when to stop; they seek nothing outside, and each simply cultivates what is within; so the running horses are sent back to work and manure the fields. … Greedy desire is never sated; they do not cultivate what is within, and each seeks outside; so war-horses are born in the border lands."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d046-s",
+    "key": "There is no guilt greater than to sanction ambition; no calamity greater than to be discontented with one’s lot; no fault greater than the wish to be getting. Therefore the sufficiency of contentment is an enduring and unchanging sufficiency.",
+    "ref": "Tao Te Ching 46",
+    "at": [45],
+    "s": "Following the horses of peace and war, the verse closes the chapter; the Heshang Gong commentary, on chapter 46, reads the fault of getting as greed for others’ goods, contentment’s sufficiency as keeping the true root, and its constancy as a mind without desire.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 46, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "欲得人物，利且貪也。…守真根也。…無欲心也。",
+     "gloss": "(On ‘no fault greater than wanting to get’:) wanting to get other people’s things is being profit-seeking and greedy. … (On ‘the sufficiency of knowing sufficiency’:) it is keeping to the true root. … (On ‘constant sufficiency’:) it is a mind without desire."
+    }
+   }
+  },
+  {
+   "d": 47,
+   "primary": {
+    "id": "tao-02-d047-p",
+    "key": "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven.",
+    "ref": "Tao Te Ching 47",
+    "at": [46],
+    "s": "In a chapter on knowing without travelling, the verse keeps the knower indoors; the Heshang Gong commentary, on chapter 47, reads it as the sage knowing others’ persons and homes through his own, and Heaven’s way through man’s, the two ways being the same.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 47, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人不出戶以知天下者，以己身知人身，以己家知人家，所以見天下也。…天道與人道同，天人相通，精氣相貫。",
+     "gloss": "That the sage knows the world without going out of his door is because he knows other persons through his own person and other households through his own household; that is how he sees the world. … The Way of Heaven is the same as the way of man; Heaven and man communicate, and their vital essence passes through each other."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d047-s",
+    "key": "The farther that one goes out (from himself), the less he knows.",
+    "ref": "Tao Te Ching 47",
+    "at": [46],
+    "s": "After the knower who stays indoors, the verse turns to the traveller; Wang Bi, on chapter 47, reads going out as seeking among the many a Tao beyond sight, hearing and touch, when one who knows it need not leave his door.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 47, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "無在於一，而求之於眾也，道視之不可見，聽之不可聞，搏之不可得，如其知之，不須出戶，若其不知，出愈遠愈迷也。",
+     "gloss": "It lies in the One, yet it is sought among the many. The Tao, looked at, cannot be seen; listened to, cannot be heard; grasped at, cannot be caught. If one knows it, there is no need to go out of the door; if one does not know it, the farther one goes out, the more lost one becomes."
+    }
+   }
+  },
+  {
+   "d": 48,
+   "primary": {
+    "id": "tao-02-d048-p",
+    "key": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing).",
+    "ref": "Tao Te Ching 48",
+    "at": [47],
+    "s": "Opening a chapter on non-action, the verse contrasts two daily courses; the Heshang Gong commentary, on chapter 48, reads learning as the study of government, instruction, rites and music, in which desire and adornment grow daily, and the Tao as their daily wearing away.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 48, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "學謂政教禮樂之學也。日益者，情欲文飾日以益多。…道謂之自然之道也。日損者，情欲文飾日以消損。",
+     "gloss": "Learning means the learning of government and instruction, rites and music. ‘Daily increase’ means that passions, desires and adornment grow more day by day. … The Tao means the Tao of what is so of itself. ‘Daily decrease’ means that passions, desires and adornment wane day by day."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d048-s",
+    "key": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing).",
+    "ref": "Tao Te Ching 48",
+    "at": [47],
+    "s": "Opening a chapter on non-action, the verse sets learning beside the Tao; Wang Bi, on chapter 48, reads learning as striving to advance what one can do and add to what one practises, and the Tao as striving to return to empty non-being.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 48, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "務欲進其所能，益其所習。…務欲反虛無也。",
+     "gloss": "(On learning, daily increase:) it strives to advance what one is able to do and to add to what one practises. … (On the Tao, daily decrease:) it strives to return to empty non-being."
+    }
+   }
+  },
+  {
+   "d": 49,
+   "primary": {
+    "id": "tao-02-d049-p",
+    "key": "The sage has in the world an appearance of indecision, and keeps his mind in a state of indifference to all. The people all keep their eyes and ears directed to him, and he deals with them all as his children.",
+    "ref": "Tao Te Ching 49",
+    "at": [48],
+    "s": "Closing a chapter on the sage and the people, the verse turns to his bearing; Wang Bi, on chapter 49, reads that indifference as examining nothing and seeking nothing, so the people, with nothing to evade or answer, all act from their true feelings.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 49, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "是以聖人之於天下歙歙焉，心無所主也，為天下渾心焉，意無所適莫也。無所察焉，百姓何避，無所求焉，百姓何應， 無避無應，則莫不用其情矣。",
+     "gloss": "Therefore the sage, towards the world, is reserved: his mind has nothing it makes its master. He blurs his mind for the world: his intent has nothing it favours or disfavours. He examines nothing, so what should the people evade? He seeks nothing, so what should the people answer? With nothing to evade and nothing to answer, none fails to act from their true feelings."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d049-s",
+    "key": "The sage has no invariable mind of his own; he makes the mind of the people his mind.",
+    "ref": "Tao Te Ching 49",
+    "at": [48],
+    "s": "Opening a chapter on the sage’s way with the people, the verse speaks of his mind; the Heshang Gong commentary, on chapter 49, reads him as loath to change, going along as if without a mind, and following what suits the people’s hearts.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 49, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "聖人重改更，貴因循，若自無心。…百姓心之所便，聖人因而從之。",
+     "gloss": "The sage is loath to alter and change and values going along with things, as if he himself had no mind. … Whatever the people’s hearts find fitting, the sage goes along with and follows."
+    }
+   }
+  },
+  {
+   "d": 50,
+   "primary": {
+    "id": "tao-02-d050-p",
+    "key": "The rhinoceros finds no place in him into which to thrust its horn, nor the tiger a place in which to fix its claws, nor the weapon a place to admit its point. And for what reason? Because there is in him no place of death.",
+    "ref": "Tao Te Ching 50",
+    "at": [49],
+    "s": "Closing a chapter on life and death, the verse ends with the one who guards life well; Wang Bi, on chapter 50, reads him as one who does not burden himself with desire or leave his root by seeking, and so cannot be harmed.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 50, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "斯誠不以欲累其身者也，何死地之有乎。…故物茍不以 求離其本，不以欲渝其真，雖入軍而不害，陸行而不可犯也",
+     "gloss": "This is truly one who does not burden his person with desires; what place of death could there be for him? … So if a thing does not leave its root through seeking, nor alter its genuineness through desire, then though it enters an army it is not harmed, and though it travels by land it cannot be assailed."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d050-s",
+    "key": "There are also three in every ten whose aim is to live, but whose movements tend to the land (or place) of death. And for what reason? Because of their excessive endeavours to perpetuate life.",
+    "ref": "Tao Te Ching 50",
+    "at": [49],
+    "s": "After the ministers of life and of death, the chapter turns to a third group; the Heshang Gong commentary, on chapter 50, reads their excess as seeking the things of life overmuch, going against the Tao, offending Heaven and acting recklessly.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 50, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "所以動之死地者，以其求生活之事太厚，違道忤天，妄行失紀。",
+     "gloss": "The reason they move to the place of death is that their seeking after the things of living is too heavy: they go against the Tao and defy Heaven, act recklessly and lose all order."
+    }
+   }
+  },
+  {
+   "d": 51,
+   "primary": {
+    "id": "tao-02-d051-p",
+    "key": "Thus it is that the Tao produces (all things), nourishes them, brings them to their full growth, nurses them, completes them, matures them, maintains them, and overspreads them.",
+    "ref": "Tao Te Ching 51",
+    "at": [50],
+    "s": "Restating the chapter’s opening, the verse lists eight works; the Heshang Gong commentary, on chapter 51, reads the Tao as not only giving life but rearing things and keeping their nature and life whole, as a ruler should in governing state and self.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 51, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "道之於萬物，非但生而已，乃復長養、成孰、覆育，全其性命。人君治國治身，亦當如是也。",
+     "gloss": "The Tao, towards the ten thousand things, does not merely give them life: it goes on to raise and nourish them, bring them to ripeness, cover and rear them, keeping their nature and life whole. A ruler governing the state and governing himself should be like this too."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d051-s",
+    "key": "All things are produced by the Tao, and nourished by its outflowing operation. They receive their forms according to the nature of each, and are completed according to the circumstances of their condition.",
+    "ref": "Tao Te Ching 51",
+    "at": [50],
+    "s": "Opening the chapter, the verse names four stages through which all things pass; Wang Bi, on chapter 51, reads them as birth, rearing, form and completion, each with its source, all of which, traced to the end, lead back to the Tao.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 51, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "物生而後畜，畜而後形，形而後成，何由而生？道也；何得而畜？德也；何由而形？物也；何使而成，勢也。…凡物之所以生，功之所以成，皆有所由，有所由焉，則莫不由乎道也。故推而極之，亦至道也。",
+     "gloss": "Things are born, then reared; reared, then given form; given form, then completed. Through what are they born? The Tao. Through what are they reared? Virtue. Through what do they take form? Things. What makes them complete? Circumstance. … Whatever makes things live and whatever brings their achievement to completion has that from which it comes; and having that from which it comes, nothing fails to come from the Tao. So, pursued to its limit, it too reaches the Tao."
+    }
+   }
+  }
+ ]
+}

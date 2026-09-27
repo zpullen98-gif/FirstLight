@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d029-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: the Heshang Gong base line 是以聖人去甚，去奢，去泰 matches Legge’s key verse, and the comment on it holds the evidence verbatim (machine-checked): 甚 as 貪淫聲色, 奢 as 服飾飲食, 泰 as 宮室臺榭, and 去此三者，處中和，行無為，則天下自化. The paraphrase omits 處中和 but adds nothing; ‘fine dress’ and ‘music and beauty’ are fair for 服飾 and 聲色 and not a hard passage. The reading is the commentary’s, not Legge’s ‘excessive effort’, and ‘reads the three as’ attributes it. Plain sense faithful: unit 2 on things turning about leads into ‘Hence’. verse.js ok (ref Tao Te Ching 29, at [28]); entry-check ok. No attack landed.",
+ "better": ""
+}

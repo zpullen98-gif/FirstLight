@@ -1,0 +1,217 @@
+{
+ "lane": "L3",
+ "plan": "tao",
+ "batch": "tao-02",
+ "days": [
+  {
+   "d": 40,
+   "primary": {
+    "id": "tao-02-d040-p",
+    "key": "The movement of the Tao By contraries proceeds; And weakness marks the course Of Tao’s mighty deeds.",
+    "ref": "Tao Te Ching 40",
+    "at": [39],
+    "s": "Opening a brief chapter on where all things come from, the verse tells how the Tao moves and works; Wang Bi, on chapter 40, reads the movement as reversal, the high founded on the low, the noble rooted in the humble, being working through non-being.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 40, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "高以下為基，貴以賤為本，有以無為用，此其反也。",
+     "gloss": "The high takes the low as its foundation, the noble takes the humble as its root, being takes non-being as its use: this is its reversal."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d040-s",
+    "key": "All things under heaven sprang from It as existing (and named); that existence sprang from It as non-existent (and not named).",
+    "ref": "Tao Te Ching 40",
+    "at": [39],
+    "s": "Closing a brief chapter on the Tao’s contrary movement, the verse traces things to their source; the Heshang Gong commentary, on chapter 40, takes the existing as heaven and earth, which have form and place, and the non-existent as the formless Tao.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 40, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "天下萬物皆從天地生，天地有形位，故言生於有也。…皆從道生。道無形，故言生於無也。",
+     "gloss": "All things under heaven are born from heaven and earth; heaven and earth have form and place, so the text says ‘born from being’. … All are born from the Tao. The Tao has no form, so the text says ‘born from non-being’."
+    }
+   }
+  },
+  {
+   "d": 41,
+   "primary": {
+    "id": "tao-02-d041-p",
+    "key": "The Tao is hidden, and has no name; but it is the Tao which is skilful at imparting (to all things what they need) and making them complete.",
+    "ref": "Tao Te Ching 41",
+    "at": [40],
+    "s": "Closing a chapter of sayings on the Tao’s seeming opposites, the verse turns to the Tao itself; Wang Bi, on chapter 41, reads each excellence in the sayings as its work, hidden and nameless because things are completed by it without seeing its form.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 41, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "凡此諸善，皆是道之所成也。…物以之成而不見其成形，故隱而無名也。",
+     "gloss": "All these excellences are what the Tao brings to completion. … Things are completed by it, yet the form of its completing is not seen; so it is hidden and has no name."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d041-s",
+    "key": "Scholars of the lowest class, when they have heard about it, laugh greatly at it. If it were not (thus) laughed at, it would not be fit to be the Tao.",
+    "ref": "Tao Te Ching 41",
+    "at": [40],
+    "s": "Of the three classes of scholar in the chapter’s opening, the verse turns to the lowest; the Heshang Gong commentary, on chapter 41, takes them as greedy, fierce and full of desire, men who see timidity in the Tao’s softness and crudeness in its plainness.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 41, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "下士貪狠多欲，見道柔弱，謂之恐懼。見道質樸，謂之鄙陋。故大笑之。",
+     "gloss": "Scholars of the lowest class are greedy, fierce and full of desires. Seeing the Tao soft and weak, they call it timidity; seeing the Tao plain and simple, they call it crude and mean. So they laugh loudly at it."
+    }
+   }
+  },
+  {
+   "d": 42,
+   "primary": {
+    "id": "tao-02-d042-p",
+    "key": "The Tao produced One; One produced Two; Two produced Three; Three produced All things.",
+    "ref": "Tao Te Ching 42",
+    "at": [41],
+    "s": "Before turning to kings and their humble titles, the chapter opens on a sequence of births; the Heshang Gong commentary, on chapter 42, takes the Two as yin and yang, and the Three as harmonious, clear and turbid breaths that become heaven, earth and man.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 42, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "一生陰與陽也。…陰陽生和、清、濁三氣，分為天地人也。",
+     "gloss": "The One produces yin and yang. … Yin and yang produce three breaths, the harmonious, the clear and the turbid, which divide to become heaven, earth and man."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d042-s",
+    "key": "The Tao produced One; One produced Two; Two produced Three; Three produced All things.",
+    "ref": "Tao Te Ching 42",
+    "at": [41],
+    "s": "At the chapter’s opening, the verse traces a sequence of births; Wang Bi, on chapter 42, reads the One as reached through non-being, the Two as the One together with the word that names it, and the Three as following from these.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 42, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "何由致一，由於無也。由無乃一，一可謂無，已謂之一，豈得無言乎。有言有一，非二如何？有一有二，遂生乎三",
+     "gloss": "By what is the One reached? By non-being. From non-being comes the One, and the One may be called non-being; but once it is called ‘one’, how can there be no word? With the word and the One, what is that if not two? With one and two, three follows."
+    }
+   }
+  },
+  {
+   "d": 43,
+   "primary": {
+    "id": "tao-02-d043-p",
+    "key": "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice.",
+    "ref": "Tao Te Ching 43",
+    "at": [42],
+    "s": "Opening a chapter on the advantage of non-action, the verse sets soft against hard; the Heshang Gong commentary, on chapter 43, takes the softest as water and the hardest as metal and stone, and what has no existence as the Tao, without form or substance.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 43, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "至柔者，水也。至堅者，金石也。…無有謂道也。道無形質，故能出入無間",
+     "gloss": "The softest is water. The hardest is metal and stone. … ‘What has no existence’ means the Tao. The Tao has neither form nor substance, and so it can go in and out where there is no gap."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d043-s",
+    "key": "The softest thing in the world dashes against and overcomes the hardest; that which has no (substantial) existence enters where there is no crevice. I know hereby what advantage belongs to doing nothing (with a purpose).",
+    "ref": "Tao Te Ching 43",
+    "at": [42],
+    "s": "Before noting how few attain the wordless teaching, the chapter reasons from soft and hard; Wang Bi, on chapter 43, reads empty non-being, soft and weak, as passing through everything and, at its softest, unbreakable, and infers from this the benefit of non-action.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 43, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "虛無柔弱，無所不通，無有不可窮，至柔不可折，以此推之，故知無為之有益也。",
+     "gloss": "Empty non-being, soft and weak, passes through everything; what has no existence cannot be exhausted; the softest cannot be broken. Reasoning from this, one knows the benefit of non-action."
+    }
+   }
+  },
+  {
+   "d": 44,
+   "primary": {
+    "id": "tao-02-d044-p",
+    "key": "Who is content Needs fear no shame. Who knows to stop Incurs no blame. From danger free Long live shall he.",
+    "ref": "Tao Te Ching 44",
+    "at": [43],
+    "s": "A chapter weighing fame and wealth against life closes with counsel; the Heshang Gong commentary, on chapter 44, takes contentment as renouncing profit and desire, and lasting long as a spirit unwearied in governing the self and a people undisturbed in governing the state.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 44, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "知足之人絕利去欲，不辱於身。…治身者，神不勞；治國者，民不擾，故可長久。",
+     "gloss": "One who knows contentment cuts off profit and puts away desire, and suffers no disgrace in his person. … For one who governs the self, the spirit is not wearied; for one who governs the state, the people are not disturbed; so he can last long."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d044-s",
+    "key": "Or fame or life, Which do you hold more dear? Or life or wealth, To which would you adhere?",
+    "ref": "Tao Te Ching 44",
+    "at": [43],
+    "s": "Opening a chapter that ends on contentment and knowing when to stop, the verse poses two choices; Wang Bi, on chapter 44, reads the choice as one in which prizing fame estranges a man from his own person and insatiable craving for goods diminishes it.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 44, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "尚名好高，其身必疏。…貪貨無厭，其身必少。",
+     "gloss": "One who esteems fame and loves eminence will surely grow distant from his own person. … One who covets goods without satiety will surely have less of his own person."
+    }
+   }
+  },
+  {
+   "d": 45,
+   "primary": {
+    "id": "tao-02-d045-p",
+    "key": "Purity and stillness give the correct law to all under heaven.",
+    "ref": "Tao Te Ching 45",
+    "at": [44],
+    "s": "Ending a chapter where great things seem their opposites, the verse concludes; Wang Bi, on chapter 45, reads stillness as keeping whole the truth of things and agitation as violating their nature, so that only purity and stillness reach the great things named above.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 45, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也。",
+     "gloss": "Stillness keeps whole the truth of things; agitation violates the nature of things. So only by purity and stillness are all the great things above attained."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d045-s",
+    "key": "Who thinks his great achievements poor Shall find his vigour long endure.",
+    "ref": "Tao Te Ching 45",
+    "at": [44],
+    "s": "Opening a chapter of seeming opposites, the verse begins with achievement; the Heshang Gong commentary, on chapter 45, takes it of a ruler great in the Tao and its virtue who, effacing his name and hiding his renown as if flawed, is never spent.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 45, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "謂道德大成之君也。若缺者，滅名藏譽，如毀缺不備也。…其用心如是，則無弊盡時也。",
+     "gloss": "It speaks of the ruler of great completion in the Tao and its virtue. ‘Seems lacking’: he effaces his name and hides his renown, as though damaged, lacking and incomplete. … If he sets his mind so, there is no time when he wears out."
+    }
+   }
+  }
+ ]
+}

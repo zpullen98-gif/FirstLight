@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d039-p",
+ "d": 39,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Thus it is that dignity finds its (firm) root in its (previous) meanness, and what is lofty finds its stability in the lowness (from which it rises).",
+ "ref": "Tao Te Ching 39",
+ "at": [
+  38
+ ],
+ "s": "After its warnings of ruin, the chapter states a rule; the Heshang Gong commentary, on chapter 39, reads it as telling whoever seeks honour to take the lowly as root, as a wall rises from a low base and topples if that base is weak.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 39, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet",
+    "locator": "chapter 39, comments on 故貴以賤為本 and 高以下為基"
+   }
+  ],
+  "words": "言必欲尊貴，當以薄賤為本，若禹稷躬稼，舜陶河濱，周公下白屋也。…言必欲尊貴，當以下為本基，猶築牆造功，因卑成高，下不堅固，後必傾危。",
+  "lang": "Classical Chinese",
+  "gloss": "(On 故貴以賤為本:) it says that whoever would be honoured and noble must take the humble and lowly as the root, as Yu and Ji ploughed with their own hands, Shun made pottery by the river, and the Duke of Zhou went down to the thatched houses. (On 高以下為基:) whoever would be honoured must take the low as base and foundation, as in building a wall the high is made from the low; if the base is not firm, it will in time lean and fall.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 39, at [38]): the first sentence of Legge's last section, his rendering of 故貴以賤為本，高以下為基. Read the Heshang Gong commentary on the whole chapter (title 法本) in revision 1552800 (chapters 38 to 81), as packet.js names. Its comments on exactly these two lines carry the reading: whoever seeks honour takes the lowly as root (必欲尊貴，當以薄賤為本), and the wall that rises from the low and, its base not firm, will lean and fall (猶築牆造功，因卑成高，下不堅固，後必傾危). 'Topples' renders 傾危 without drift. The plain sense ('after its warnings of ruin') matches the preceding section (heaven would rend, earth would break, princes would decay) and does not lean on Legge's parentheses. Entry-check ok."
+}

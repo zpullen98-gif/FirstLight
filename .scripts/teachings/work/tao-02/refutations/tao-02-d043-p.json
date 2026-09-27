@@ -1,0 +1,8 @@
+{
+ "id": "tao-02-d043-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=1552800", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js tao 43: the Heshang Gong comments on 天下之至柔，馳騁天下之至堅 (至柔者，水也。至堅者，金石也) and on 無有入無間 (無有謂道也。道無形質，故能出入無間) are verbatim as the evidence gives them, on the two lines that make up the key verse; Legge's notes independently report that Ho-shang Kung takes what has no existence as the Tao. The reading adds nothing beyond water, metal and stone, and the formless Tao, and does not lean on Legge's parenthesis. Plain sense (opening a chapter on the advantage of non-action, soft against hard) matches day.js with no four-word run from the key. verse.js ok (ref Tao Te Ching 43, at [42]); entry-check ok; 45 words, one semicolon, roster name, verb takes, no dash, no comparison, not a hard passage.",
+ "better": ""
+}

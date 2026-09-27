@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d030-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: Wang Bi’s base line 果而不得已，果而勿強 is the line of Legge’s key verse, and his comment on it holds the evidence verbatim (machine-checked): relieving distress, 時故不得已, 但當以除暴亂, 不遂用果以為强. The one word not in that comment, ‘only’ before relieving distress, is Wang Bi’s own on the earlier line (趣以濟難而已矣) in the same chapter, so the sentence does not claim more than his words at chapter 30. Hard passage: plain sense states mastery by arms and the decisive blow plainly, and the reading carries his limit (no choice, only against violence and disorder, never for strength). verse.js ok (ref Tao Te Ching 30, at [29]); entry-check ok. No attack landed.",
+ "better": "Optional tightening only: the evidence could add 果猶濟也。言善用師者，趣以濟難而已矣 from the comment on 善有果而已 to carry ‘only’ explicitly."
+}

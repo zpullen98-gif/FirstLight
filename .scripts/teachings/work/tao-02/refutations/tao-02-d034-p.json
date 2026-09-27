@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d034-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js (the Heshang Gong commentary, revision 2019760, chapter 34, title 任成). On 是以聖人終不為大 it reads 聖人法道匿德藏名，不為滿大, and on 故能成其大 it reads 聖人以身師導，不言而化，萬事修治, while on 常無欲，可名於小 it says of the Tao 道匿德藏名. So hiding virtue and name, as the Tao does (法道), and teaching by his own person without words are his words, not Legge's parenthesis. Its base line 是以聖人終不為大 matches Legge's 'Hence the sage', better than Wang Bi's 以其終不自為大. Plain sense (the Tao claiming no name for its work, no lordship; the turn to the sage) is faithful to units 0 and 1 and does not repeat the verse. verse.js ok (Tao Te Ching 34, at [33]); entry-check ok. No attack landed.",
+ "better": ""
+}

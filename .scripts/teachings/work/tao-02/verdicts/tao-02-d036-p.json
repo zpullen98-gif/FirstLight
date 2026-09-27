@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d036-p",
+ "d": 36,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Fishes should not be taken from the deep; instruments for the profit of a state should not be shown to the people.",
+ "ref": "Tao Te Ching 36",
+ "at": [
+  35
+ ],
+ "s": "After the soft overcomes the hard, the chapter ends with two warnings; Wang Bi, on chapter 36, reads the instruments as ordering things by their nature, not by punishment, and showing them as ruling by punishment, which fails like a fish out of the deep.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 36, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 36, comment on 柔弱勝剛強。魚不可脫於淵，國之利器不可以示人",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "利器，利國之器也。唯因物之性，不假刑以理物，器不可覩，而物各得其所，則國之利器也。示人者，任刑也。刑以利國則失矣。魚脫於淵，則必見失矣。利國器而立刑以示人，亦必失也。",
+  "lang": "Classical Chinese",
+  "gloss": "The sharp instruments are the instruments that profit the state. Only by following the nature of things, not relying on punishment to order them, is the instrument unseen while each thing finds its place: that is the state’s sharp instrument. To show it to people is to rely on punishment; to profit the state by punishment is to lose it. A fish that leaves the deep is sure to be lost; to set up punishment as the state’s instrument and show it to people is sure to fail as well.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 36, at [35]); it is unit 2, Legge’s rendering of 魚不可脫於淵，國之利器不可以示人, identical in Wang Bi’s base text. His comment on those lines gives the state’s instrument as following the nature of things without resort to punishment, showing it to people as relying on punishment, and that failing as surely as a fish leaving the deep. The sentence carries that without drift (Legge’s notes reject the punishment reading, but the sentence attributes it to Wang Bi, whose words it is). Plain sense faithful: unit 1 has the soft overcoming the hard, and the verse gives two prohibitions ending the chapter. Entry-check ok."
+}

@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d048-p",
+ "d": 48,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He who devotes himself to learning (seeks) from day to day to increase (his knowledge); he who devotes himself to the Tao (seeks) from day to day to diminish (his doing).",
+ "ref": "Tao Te Ching 48",
+ "at": [
+  47
+ ],
+ "s": "Opening a chapter on non-action, the verse contrasts two daily courses; the Heshang Gong commentary, on chapter 48, reads learning as the study of government, instruction, rites and music, in which desire and adornment grow daily, and the Tao as their daily wearing away.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 48, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 48 (忘知), comments on 為學日益 and 為道日損",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "學謂政教禮樂之學也。日益者，情欲文飾日以益多。…道謂之自然之道也。日損者，情欲文飾日以消損。",
+  "lang": "Classical Chinese",
+  "gloss": "Learning means the learning of government and instruction, rites and music. ‘Daily increase’ means that passions, desires and adornment grow more day by day. … The Tao means the Way of what is so of itself. ‘Daily decrease’ means that passions, desires and adornment wane day by day.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 48, at [47]); the Heshang Gong base lines 為學日益 and 為道日損 are the two halves of the key verse. Its comments carry the reading exactly: learning as the learning of government, instruction, rites and music, in which passions and adornment grow daily, and the Tao as their daily waning. The reading replaces Legge’s parenthetical ‘(his knowledge)’ and ‘(his doing)’ with the commentary’s own object (情欲文飾), so it is the commentary’s, not the translator’s. Plain sense (a chapter moving to non-action, two daily courses set against each other) is faithful. Entry-check ok."
+}

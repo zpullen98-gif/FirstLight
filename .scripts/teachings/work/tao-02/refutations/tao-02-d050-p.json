@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d050-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: Wang Bi comments on chapter 50 as one block covering 蓋聞善攝生者…以其無死地, the lines of the key verse. Both evidence pieces are verbatim (recheck splits on the ellipsis): 斯誠不以欲累其身者也，何死地之有乎 is said directly of the one whom horn, claw and blade cannot touch, and 故物茍不以求離其本，不以欲渝其真，雖入軍而不害，陸行而不可犯也 is his conclusion after the eel and hawk example; together they carry not burdening himself with desire, not leaving his root by seeking, and so unharmed. Plain sense (chapter on life and death, ending with the one skilled at nurturing life) is faithful to units 1 and 4 and leans on no parenthesis. verse.js ok (ref Tao Te Ching 50, at [49]); entry-check ok, 44 words. No attack landed.",
+ "better": ""
+}

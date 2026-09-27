@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d035-p",
+ "d": 35,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "To him who holds in his hands the Great Image (of the invisible Tao), the whole world repairs. Men resort to him, and receive no hurt, but (find) rest, peace, and the feeling of ease.",
+ "ref": "Tao Te Ching 35",
+ "at": [
+  34
+ ],
+ "s": "The chapter, on the Tao’s unending use, opens with the Great Image; Wang Bi, on chapter 35, reads it as the mother of heaven’s images, neither cold nor warm, embracing all things and harming none, so that the world goes to a ruler holding it.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 35, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 35, comments on 執大象，天下往 and 往而不害，安平太",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "大象，天象之母也，不寒不溫不涼，故能包統萬物，無所犯傷，主若執之，則天下往也。…無形無識，不偏不彰，故萬物得往而不害妨也。",
+  "lang": "Classical Chinese",
+  "gloss": "The Great Image is the mother of the images of heaven; neither cold nor warm nor cool, it can embrace and hold together all things and does them no hurt or harm; if the ruler holds it, the world goes to him. … Without form and without mark, neither partial nor conspicuous, so all things may go to it and suffer no harm.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 35, at [34]); it is unit 0, Legge’s rendering of 執大象，天下往。往而不害，安平太, the lines Wang Bi comments on in his base text. His words name the Great Image the mother of heaven’s images, neither cold nor warm, embracing all things without harming any, and the world going to the ruler who holds it. The sentence carries that without drift and does not lean on Legge’s parenthesis. Plain sense faithful: the chapter ends on the inexhaustible use of the Tao, and the verse opens it. Entry-check ok."
+}

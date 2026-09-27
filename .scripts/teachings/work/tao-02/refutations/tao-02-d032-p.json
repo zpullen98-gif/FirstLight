@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d032-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js (Wang Bi, revision 2354026). His base text 樸雖小，天下莫能臣也 is the line of the key verse. His comment contrasts 智者可以能臣 / 勇者可以武使 / 巧者可以事役 / 力者可以重任 with 樸之為物，憒然不偏，近於無有，故曰「莫能臣也」: leaning to no side, close to nothing, so none can make it a minister. The sentence carries this without drift (it drops the skilful from the list, harmless) and speaks of simplicity itself, not Legge’s (one embodying). Plain sense follows the chapter’s order (nameless, then simplicity) without repeating the verse. verse.js ok (Tao Te Ching 32, at [31]); entry-check ok. The Heshang Gong comment on the same line (微妙無形，天下不敢有臣使道者) is thinner, so Wang Bi is the right choice. No attack landed.",
+ "better": ""
+}

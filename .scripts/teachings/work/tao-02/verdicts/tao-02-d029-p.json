@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d029-p",
+ "d": 29,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Hence the sage puts away excessive effort, extravagance, and easy indulgence.",
+ "ref": "Tao Te Ching 29",
+ "at": [
+  28
+ ],
+ "s": "The chapter draws its lesson from how things turn about; the Heshang Gong commentary, on chapter 29, reads the three as craving for music and beauty, fine dress and food, and palaces and terraces, whose putting away, with non-action, lets the world transform itself.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 29, zh.wikisource (a normalised text), revision 2019760 (2021)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "lang": "Classical Chinese",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true,
+  "opened": [
+   {
+    "locator": "chapter 29 (無為), comment on 是以聖人去甚，去奢，去泰",
+    "edition": "zh.wikisource 老子河上公章句, revision 2019760 (a normalised text)",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2019760",
+    "via": "packet"
+   }
+  ],
+  "words": "甚謂貪淫聲色。奢謂服飾飲食。泰謂宮室臺榭。去此三者，處中和，行無為，則天下自化。",
+  "gloss": "Excess means greedy, wanton craving for music and beauty. Extravagance means dress and ornament, food and drink. Indulgence means palaces, halls, terraces and pavilions. Put away these three, dwell in the centre and harmony, practise non-action, and the world transforms of itself."
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 29, at [28]); the comment is on 是以聖人去甚，去奢，去泰, the key line itself, and its glosses of the three are exactly as proposed. Two wording corrections to the reading: the commentary makes the world transform itself when the three are put away AND non-action is practised (處中和，行無為), so the proposal’s ‘their putting away as letting the world transform itself’ became ‘whose putting away, with non-action, lets the world transform itself’; and ‘finery in dress and food’ became ‘fine dress and food’ for 服飾飲食. Key, ref, at, src unchanged. Plain sense faithful to unit 2 (things turn about) leading into ‘Hence’. Entry-check ok on the corrected entry."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tao-02-d045-p",
+ "refuted": false,
+ "reopened": {"url": "https://zh.wikisource.org/w/index.php?oldid=2354026", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tao 45 and the raw wikitext of revision 2354026 (timestamp 2024-01-10): under 四十五章, Wang Bi on 躁勝寒，靜勝熱。清靜為天下正 writes 躁罷然後勝寒，靜無為以勝熱，以此推之，則清靜為天下正也。靜則全物之真，躁則犯物之性，故惟清靜，乃得如上諸大也; the evidence is verbatim and his base line is the line of the key verse. Stillness keeping whole the truth of things (全物之真), agitation violating their nature (犯物之性), and only purity and stillness attaining the great things above (乃得如上諸大) carry the whole paraphrase; the chapter’s great things are his 如上諸大, the five great things of the chapter. Plain sense matches Legge’s chapter (great achievements thought poor, fulness deemed a void, straight deemed crooked, art seeming stupid) and says what the closing line does without a four-word run from it. verse.js ok (Tao Te Ching 45, at [44]); entry-check ok. Minor note only: “agitation” renders the 躁 that Legge prints as constant action in the sentence before the key verse, which is Wang Bi’s own term, not drift.",
+ "better": ""
+}

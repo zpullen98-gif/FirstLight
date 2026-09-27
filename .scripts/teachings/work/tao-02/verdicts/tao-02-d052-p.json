@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d052-p",
+ "d": 52,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When the mother is found, we know what her children should be. When one knows that he is his mother’s child, and proceeds to guard (the qualities of) the mother that belong to him, to the end of his life he will be free from all peril.",
+ "ref": "Tao Te Ching 52",
+ "at": [
+  51
+ ],
+ "s": "After naming the source of all under the sky their mother, the chapter turns to her children; Wang Bi, on chapter 52, reads the mother as root and the children as branches: the root grasped to know the branches, never forsaken to chase them.",
+ "by": "wang-bi",
+ "by2": "",
+ "hedge": "",
+ "src": "Wang Bi, Laozi zhu, chapter 52, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 52, comment on 既得其母，以知其子，既知其子，復守其母，沒身不殆",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=2354026",
+    "edition": "zh.wikisource 道德經 (王弼本), the 華亭張氏 edition, revision 2354026",
+    "via": "packet"
+   }
+  ],
+  "words": "母，本也，子，末也。得本以知末，不舍本以逐末也。",
+  "lang": "Classical Chinese",
+  "gloss": "The mother is the root; the children are the branches. Grasp the root in order to know the branches; do not forsake the root to chase the branches.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Wang Bi comments on 既得其母，以知其子，既知其子，復守其母, the very line of the key verse; his words give mother as root, children as branches, the root grasped to know the branches and never forsaken to chase them. Plain sense faithful to unit 1 without leaning on Legge's parenthesis. Entry-check ok."
+}

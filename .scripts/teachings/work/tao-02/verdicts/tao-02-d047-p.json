@@ -1,0 +1,42 @@
+{
+ "id": "tao-02-d047-p",
+ "d": 47,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Without going outside his door, one understands (all that takes place) under the sky; without looking out from his window, one sees the Tao of Heaven.",
+ "ref": "Tao Te Ching 47",
+ "at": [
+  46
+ ],
+ "s": "In a chapter on knowing without travelling, the verse keeps the knower indoors; the Heshang Gong commentary, on chapter 47, reads it as the sage knowing others’ persons and homes through his own, and Heaven’s way through man’s, the two ways being the same.",
+ "by": "heshang-gong",
+ "by2": "",
+ "hedge": "",
+ "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 47, zh.wikisource (a normalised text), revision 1552800 (2019)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "locator": "chapter 47 (鑑遠), comments on 不出戶知天下 and 不窺牖見天道",
+    "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+    "edition": "zh.wikisource 老子河上公章句, revision 1552800 (a normalised text)",
+    "via": "packet"
+   }
+  ],
+  "words": "聖人不出戶以知天下者，以己身知人身，以己家知人家，所以見天下也。…天道與人道同，天人相通，精氣相貫。",
+  "lang": "Classical Chinese",
+  "gloss": "That the sage knows the world without going out of his door is because he knows other persons through his own person and other households through his own; that is how he sees the world. … The Way of Heaven is the same as the way of man; Heaven and man communicate, and their vital essence runs through both.",
+  "licence": "public domain text; transcription CC BY-SA 4.0 (Wikisource)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Tao Te Ching 47, at [46]); the Heshang Gong base lines 不出戶知天下 and 不窺牖見天道 (窺 for Wang Bi’s 闚) are the two clauses of the key verse. Its comments carry the reading: others’ persons and homes known through one’s own, and Heaven’s way seen without looking out because it is the same as man’s (天道與人道同). Plain sense (knowing without travelling, the knower kept indoors) matches the chapter and does not lean on Legge’s parentheses. Entry-check ok."
+}

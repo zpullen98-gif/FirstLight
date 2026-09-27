@@ -1,0 +1,217 @@
+{
+ "lane": "L2",
+ "plan": "tao",
+ "batch": "tao-02",
+ "days": [
+  {
+   "d": 34,
+   "primary": {
+    "id": "tao-02-d034-p",
+    "key": "Hence the sage is able (in the same way) to accomplish his great achievements. It is through his not making himself great that he can accomplish them.",
+    "ref": "Tao Te Ching 34",
+    "at": [33],
+    "s": "Ending a chapter on the Tao, which claims no credit or lordship, the text turns to the sage; the Heshang Gong commentary, on chapter 34, reads him as hiding virtue and name, as the Tao does, and teaching by his own example, without words.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 34, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "道匿德藏名，怕然無為，似若微小也。…聖人法道匿德藏名，不為滿大。…聖人以身師導，不言而化，萬事修治，故能成其大。",
+     "gloss": "(On 常無欲，可名於小:) the Tao hides its virtue and conceals its name, tranquil and not acting, so that it seems small. … (On 是以聖人終不為大:) the sage takes the Tao as his model, hides his virtue and conceals his name, and does not make himself full and great. … (On 故能成其大:) the sage leads and teaches by his own person, transforms without words, and every affair is set in order; so he can accomplish his greatness."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d034-s",
+    "key": "All-pervading is the Great Tao! It may be found on the left hand and on the right.",
+    "ref": "Tao Te Ching 34",
+    "at": [33],
+    "s": "Opening a chapter on the Tao’s unclaimed work for all things, the text first names its breadth; Wang Bi, on chapter 34, reads it as the Tao flooding out to every place, turned to use left and right, above and below, and reaching everywhere.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 34, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "言道氾濫，無所不適，可左右上下周旋而用，則無所不至也。",
+     "gloss": "(On 大道氾兮，其可左右:) it says that the Tao overflows like a flood and there is nowhere it does not go; it may be turned about and used left and right, above and below, and so there is nowhere it does not reach."
+    }
+   }
+  },
+  {
+   "d": 35,
+   "primary": {
+    "id": "tao-02-d035-p",
+    "key": "To him who holds in his hands the Great Image (of the invisible Tao), the whole world repairs. Men resort to him, and receive no hurt, but (find) rest, peace, and the feeling of ease.",
+    "ref": "Tao Te Ching 35",
+    "at": [34],
+    "s": "The chapter, on the Tao’s unending use, opens with the Great Image; Wang Bi, on chapter 35, reads it as the mother of heaven’s images, neither cold nor warm, embracing all things and harming none, so that the world goes to a ruler holding it.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 35, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "大象，天象之母也，不寒不溫不涼，故能包統萬物，無所犯傷，主若執之，則天下往也。…無形無識，不偏不彰，故萬物得往而不害妨也。",
+     "gloss": "(On 執大象，天下往:) the Great Image is the mother of the images of heaven; neither cold nor warm nor cool, it can embrace and hold together all things and does them no hurt; if the ruler holds it, the world goes to him. … (On 往而不害，安平太:) without form and without mark, neither partial nor conspicuous, so all things may go to it and suffer no harm."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d035-s",
+    "key": "But though the Tao as it comes from the mouth, seems insipid and has no flavour, though it seems not worth being looked at or listened to, the use of it is inexhaustible.",
+    "ref": "Tao Te Ching 35",
+    "at": [34],
+    "s": "After music and dainties that halt a guest, the chapter turns to the Tao; the Heshang Gong commentary, on chapter 35, takes it as lacking the five flavours, colours and notes, and its unfailing use as bringing a state peace and the self long life.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 35, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "道出入於口，淡淡非如五味有酸鹹苦甘辛也。…道無形，非若五色有青黃赤白黑可得見也。…道非若五音有宮商角徵羽可得聽聞也。…謂用道治國，則國安民昌。治身則壽命延長，無有既盡之時也。",
+     "gloss": "(On 道之出口，淡乎其無味:) the Tao goes in and out of the mouth bland, not like the five flavours, sour, salty, bitter, sweet and pungent. … (On 視之不足見:) the Tao has no form, not like the five colours, blue, yellow, red, white and black, that can be seen. … (On 聽之不足聞:) the Tao is not like the five notes, gong, shang, jue, zhi and yu, that can be heard. … (On 用之不足既:) that is, use the Tao to govern the state and the state is at peace and the people prosper; use it to govern the self and the span of life is lengthened, with no time when it runs out."
+    }
+   }
+  },
+  {
+   "d": 36,
+   "primary": {
+    "id": "tao-02-d036-p",
+    "key": "Fishes should not be taken from the deep; instruments for the profit of a state should not be shown to the people.",
+    "ref": "Tao Te Ching 36",
+    "at": [35],
+    "s": "After the soft overcomes the hard, the chapter ends with two warnings; Wang Bi, on chapter 36, reads the instruments as ordering things by their nature, not by punishment, and showing them as ruling by punishment, which fails like a fish out of the deep.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 36, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "利器，利國之器也。唯因物之性，不假刑以理物，器不可覩，而物各得其所，則國之利器也。示人者，任刑也。刑以利國則失矣。魚脫於淵，則必見失矣。利國器而立刑以示人，亦必失也。",
+     "gloss": "(On 魚不可脫於淵，國之利器不可以示人:) the sharp instruments are the instruments that profit the state. Only by following the nature of things, not relying on punishment to order them, is the instrument unseen while each thing finds its place: that is the state’s sharp instrument. To show it to people is to rely on punishment; to profit the state by punishment is to lose it. A fish that leaves the deep is sure to be lost; to make punishment the state’s instrument and show it to people is sure to fail as well."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d036-s",
+    "key": "Fishes should not be taken from the deep; instruments for the profit of a state should not be shown to the people.",
+    "ref": "Tao Te Ching 36",
+    "at": [35],
+    "s": "After the soft’s victory over the hard, two warnings close the chapter; the Heshang Gong commentary, on chapter 36, reads the instruments as the arts of power, kept from the ministers who run affairs, and the Tao of ruling the self, kept from the unfit.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 36, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "利器者，謂權道也。治國權者，不可以示執事之臣也。治身道者，不可以示非其人也。",
+     "gloss": "(On 國之利器，不可以示人:) the sharp instruments are the way of power. The powers of ruling the state must not be shown to the ministers who manage affairs; the Tao of governing the self must not be shown to one who is not the right person."
+    }
+   }
+  },
+  {
+   "d": 37,
+   "primary": {
+    "id": "tao-02-d037-p",
+    "key": "Simplicity without a name Is free from all external aim. With no desire, at rest and still, All things go right as of their will.",
+    "ref": "Tao Te Ching 37",
+    "at": [36],
+    "s": "Closing a chapter on princes and kings who might keep the Tao, the verse concludes; the Heshang Gong commentary, on chapter 37, reads it as rulers steadying the people by the Tao and its virtue till they too stop desiring and the world settles itself.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 37, zh.wikisource (a normalised text), revision 2019760 (2021)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "言侯王鎮撫以道德，民亦將不欲，故當以清靜導化之也。…能如是者，天下將自正定也。",
+     "gloss": "(On 無名之樸，夫亦將無欲，不欲以靜:) it says that when princes and kings steady and soothe the people with the Tao and its virtue, the people too will not desire, and so they should guide and transform them by clarity and stillness. … (On 天下將自定:) where this can be done, the world will of itself be set right and settled."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d037-s",
+    "key": "The Tao in its regular course does nothing (for the sake of doing it), and so there is nothing which it does not do.",
+    "ref": "Tao Te Ching 37",
+    "at": [36],
+    "s": "Before turning to princes and kings who might keep it, the chapter describes the Tao; Wang Bi, on chapter 37, reads its doing nothing as following what is so of itself, and its leaving nothing undone as all things being ordered and completed through it.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 37, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "順自然也。…萬物無不由為以治以成之也。",
+     "gloss": "(On 道常無為:) it follows what is so of itself. … (On 而無不為:) there is nothing among the ten thousand things that does not come through it to be ordered and completed."
+    }
+   }
+  },
+  {
+   "d": 38,
+   "primary": {
+    "id": "tao-02-d038-p",
+    "key": "(Those who) possessed in highest degree the attributes (of the Tao) did not (seek) to show them, and therefore they possessed them (in fullest measure). (Those who) possessed in a lower degree those attributes (sought how) not to lose them, and therefore they did not possess them (in fullest measure).",
+    "ref": "Tao Te Ching 38",
+    "at": [37],
+    "s": "The chapter begins its account of decline from the Tao; Wang Bi, on chapter 38, reads the highest as using only the Tao, gaining without seeking and having virtue without its name, and the lower as seeking, its gains sure to be lost.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 38, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "上德之人，唯道是用。不德其德，無執無用，故能有德而無不為，不求而得，不為而成…故雖有德而無德名也。下德求而得之，為而成之，則立善以治物，故德名有焉。求而得之必有失焉",
+     "gloss": "The person of highest virtue uses only the Tao. He does not treat his virtue as virtue, holds nothing and uses nothing, and so can have virtue and leave nothing undone; he gains without seeking and completes without doing … and so, though he has virtue, he has no name for virtue. Lower virtue seeks and gains, does and completes, and sets up goodness to order things, so the name of virtue is there. What is gained by seeking is sure to be lost."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d038-s",
+    "key": "Thus it is that the Great man abides by what is solid, and eschews what is flimsy; dwells with the fruit and not with the flower. It is thus that he puts away the one and makes choice of the other.",
+    "ref": "Tao Te Ching 38",
+    "at": [37],
+    "s": "The chapter ends its account of decline from the Tao; the Heshang Gong commentary, on chapter 38, reads the Great man as a ruler who has gained the Tao, keeping himself in plain simplicity, loyalty and good faith, and not prizing flowery words.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 38, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "大丈夫謂得道之君也。處其厚者，謂處身於敦樸。…處忠信也。…不尚華言也。…去彼華薄，取此厚實。",
+     "gloss": "(On 是以大丈夫處其厚:) the Great man means a ruler who has gained the Tao; dwelling in the solid means keeping himself in honest simplicity. … (On 處其實:) he dwells in loyalty and good faith. … (On 不居其華:) he does not prize flowery words. … (On 故去彼取此:) he puts away that flowery thinness and takes this solid substance."
+    }
+   }
+  },
+  {
+   "d": 39,
+   "primary": {
+    "id": "tao-02-d039-p",
+    "key": "Thus it is that dignity finds its (firm) root in its (previous) meanness, and what is lofty finds its stability in the lowness (from which it rises).",
+    "ref": "Tao Te Ching 39",
+    "at": [38],
+    "s": "After its warnings of ruin, the chapter states a rule; the Heshang Gong commentary, on chapter 39, reads it as telling whoever seeks honour to take the lowly as root, as a wall rises from a low base and topples if that base is weak.",
+    "by": "heshang-gong",
+    "by2": "",
+    "hedge": "",
+    "src": "The Heshang Gong commentary, Laozi Daodejing Heshang Gong zhangju, chapter 39, zh.wikisource (a normalised text), revision 1552800 (2019)",
+    "basis": {
+     "source": "heshang-gong",
+     "words": "言必欲尊貴，當以薄賤為本，若禹稷躬稼，舜陶河濱，周公下白屋也。…言必欲尊貴，當以下為本基，猶築牆造功，因卑成高，下不堅固，後必傾危。",
+     "gloss": "(On 故貴以賤為本:) it says that one who would be honoured and noble must take the humble and lowly as the root, as Yu and Ji ploughed with their own hands, Shun made pottery on the riverbank, and the Duke of Zhou went down to the thatched houses. … (On 高以下為基:) it says that one who would be honoured must take the low as foundation, as in building a wall: the high is made from the low, and if the base is not firm it will in time lean and fall."
+    }
+   },
+   "standby": {
+    "id": "tao-02-d039-s",
+    "key": "If heaven were not thus pure, it soon would rend; If earth were not thus sure, ’twould break and bend; Without these powers, the spirits soon would fail; If not so filled, the drought would parch each vale; Without that life, creatures would pass away; Princes and kings, without that moral sway, However grand and high, would all decay.",
+    "ref": "Tao Te Ching 39",
+    "at": [38],
+    "s": "Having named the One’s gifts, the chapter warns of their loss; Wang Bi, on chapter 39, reads heaven as pure by the One, not by purity itself, so that holding the One keeps it pure, while relying on purity risks its splitting.",
+    "by": "wang-bi",
+    "by2": "",
+    "hedge": "",
+    "src": "Wang Bi, Laozi zhu, chapter 39, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)",
+    "basis": {
+     "source": "wang-bi",
+     "words": "用一以致清耳，非用清以清也。守一則清不失，用清則恐裂也。故為功之母，不可舍也。",
+     "gloss": "(On 天無以清將恐裂:) it is by using the One that purity is brought about, not by using purity to be pure. Hold to the One and purity is not lost; use purity and there is the danger of splitting. So the mother of the work may not be abandoned."
+    }
+   }
+  }
+ ]
+}

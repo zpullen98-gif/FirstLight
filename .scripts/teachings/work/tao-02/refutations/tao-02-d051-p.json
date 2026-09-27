@@ -1,0 +1,11 @@
+{
+ "id": "tao-02-d051-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://zh.wikisource.org/w/index.php?oldid=1552800",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js: the Heshang Gong commentary (chapter title 養德), on the correct page for chapters 38 to 81, comments on 故道生之，德畜之，長之育之，成之孰之，養之覆之, whose 成之孰之，養之覆之 matches Legge’s completes, matures, maintains, overspreads (Wang Bi’s base reads 亭之毒之, so the Heshang Gong line is the closer match). The comment 道之於萬物，非但生而已，乃復長養、成孰、覆育，全其性命。人君治國治身，亦當如是也 is verbatim and carries not only giving life but rearing, keeping nature and life whole, and the ruler in state and self, with no drift. Plain sense: the key does list eight verbs and restates the opening of unit 1; no four words repeated. verse.js ok (ref Tao Te Ching 51, at [50]); entry-check ok, 43 words. No attack landed.",
+ "better": ""
+}
