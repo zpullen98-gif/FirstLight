@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d131-p",
+ "d": 131,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "My heart crieth out for Moab; her fugitives reach unto Zoar, a heifer of three years old; for by the ascent of Luhith With weeping they go up; for in the way of Horonaim they raise up a cry of destruction.",
+ "ref": "Isaiah 15:5",
+ "at": [
+  348,
+  5
+ ],
+ "s": "In the burden of Moab, its cities laid waste in a night, its people wail on every height; Rashi, on 15:5, reads it as the prophet’s own grief, a prophet of Israel lamenting the calamity of another nation, and Radak, on 15:5, as the prophet voicing what each Moabite will say.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 15:5, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 15 (whole chapter read; comment on 15:5, lemma לבי למואב יזעק)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 15:5 (for Moab; nothing on whose voice)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 15 (whole chapter read; comment on 15:5, lemma לבי למואב)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 15:5 (the prophet speaks in the people’s tongue, as Radak)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 15:5, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "לבי למואב יזעק. נביאי ישראל אינם כנביאי אומות העולם בלעם היה מבקש לעקור את ישראל על לא דבר ונביאי ישראל מתאוננים על פורענות הבאה על האומות … לבי למואב. מדבר הנביא על לשון העם שיאמר כל אחד מהם כך ואמר זעקה ללב על דרך משל מרוב המייתו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 15:5, ‘My heart crieth out for Moab’:] The prophets of Israel are not like the prophets of the nations of the world: Balaam sought to uproot Israel for nothing, while the prophets of Israel lament over the calamity that comes upon the nations … [Radak, on 15:5, ‘My heart for Moab’:] The prophet speaks in the tongue of the people, that each one of them will say so; he ascribed crying out to the heart figuratively, from the greatness of his moaning.",
+  "licence": "Hebrew: public domain (Rashi, On Your Way); Radak on Nach, no licence stated by Sefaria, the text centuries old",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 15:5, at [348,5]); one unit, 41 words, no dash. Plain sense faithful to 15:1 to 15:4 (Ar and Kir laid waste in the night; weeping on the high places, Nebo and Medeba, housetops and broad places); no four-word repeat of the key. Rashi on 15:5 (lemma לבי למואב יזעק) sets the prophets of Israel, who lament the calamity coming on the nations, against the prophets of the nations (Balaam); the sentence keeps only the Israel half and makes no comparison. Radak on 15:5 (lemma לבי למואב) says the prophet speaks in the tongue of the people, each Moabite saying so; Metzudat David on the same lemma agrees with Radak. The two readings genuinely differ (the prophet’s heart against the people’s words voiced by him) and the sentence names both without resolving. Rashi and Radak on the whole of chapter 15 read; nothing contrary. Entry passes entry-check."
+}

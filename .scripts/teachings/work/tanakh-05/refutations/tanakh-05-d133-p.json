@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d133-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 133 --verse 26:9. Rashi on 26:9, lemma נפשי אויתיך: בגלותי שדומה ללילה, the night as the exile which resembles night; Metzudat David on 26:9, same lemma: בלילה היא עת שמחשבת האדם פנויה ממחשבות הטורדות. Both at the place named, both carry the paraphrase, and they genuinely differ (figurative exile against literal night hour). Plain sense checked in day.js: 26:1 the song sung in the land of Judah, We have a strong city; 26:8 we have waited in the way of Thy judgments; 26:9 turns to my soul; no four-word repeat. Quote ‘in the night’ is three words. verse.js ok (Isaiah 26:9, at [359,9]); entry-check.js ok. No school needed, no comparison, tone plain. Attacks tried on every line: verse, plain, attribution, locator, drift, school, comparison, tone, form; none landed.",
+ "better": ""
+}

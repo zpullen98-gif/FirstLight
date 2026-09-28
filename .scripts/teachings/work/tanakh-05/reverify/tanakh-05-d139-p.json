@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d139-p",
+ "d": 139,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Behold, I have refined thee, but not as silver; I have tried thee in the furnace of affliction.",
+ "ref": "Isaiah 48:10",
+ "at": [
+  381,
+  10
+ ],
+ "s": "Midway through a rebuke of obstinate Jacob, spared for the sake of God’s name; Radak, on 48:10, reads it as a refining short of the refiner’s, who removes all the dross, since then few would have remained, the wicked afflicted but not wholly cut off.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on Isaiah, on Isaiah 48:10, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way) with Rosenberg’s English (Judaica Press), Sefaria export commit 3f10136",
+    "locator": "Isaiah 48 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877) with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 48 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 48 (whole chapter read; comment on 48:10, lemmas הנה צרפתיך and ולא בכסף)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 48 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 48:10, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "ולא בכסף. ולא כצורף כסף כי צורף הכסף יסיר כל הסיגים מן הכסף ויכלה אותם ממנו עד שלא ישאר בו אלא כסף צרוף ואני לא עשיתי כן כי מעטים היו הנשארים אם עשיתי כן אבל הרשעים שבכם שהם הסיגים עניתים בחלאים או בשבי או בשכול בנים או בפרי בהמה או בפרי האדמה כמו שכתוב בקללות לא להכריתם מכל וכל",
+  "lang": "Hebrew",
+  "gloss": "But not as silver: not like a refiner of silver, for the refiner removes all the dross from the silver and consumes it until nothing but refined silver is left; I did not do so, for few would have remained had I done so; but the wicked among you, who are the dross, I afflicted with sicknesses, captivity, bereavement of children, or in the fruit of cattle or of the ground, as written in the curses, not to cut them off altogether.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement, refutation upheld and corrected. Re-ran day.js (48:4 obstinate, 48:8 treacherous, 48:9 anger deferred for My name’s sake, that I cut thee not off) and verse.js (ok, Isaiah 48:10, at [381,10]). Re-opened packet.js tanakh 139 --verse 48.10, all sources: Radak on the lemma ולא בכסף says God did not refine as the silver refiner does, removing all the dross, for few would have remained, but afflicted the wicked (the dross) with sickness, captivity and bereavement, not to cut them off מכל וכל, altogether. The earlier sentence said the wicked were ‘not cut off’, dropping his limit ‘altogether’, which is more than he says. Changed: ‘the wicked being afflicted but not cut off’ to ‘the wicked afflicted but not wholly cut off’, and ‘silversmith’s’ to ‘refiner’s’ to match צורף כסף. Key, ref, at, src and evidence unchanged; Rashi and Metzudat David (crucible of poverty or servitude against Gehinnom fire) and Ibn Ezra (exile; the dross as the wicked) differ, so Radak’s reading is his own. Entry-check ok."
+}

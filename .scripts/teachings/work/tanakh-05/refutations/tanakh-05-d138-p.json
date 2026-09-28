@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d138-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 138 --verse 45.7: Ibn Ezra's lemma ובורא חשך reads מגזרת בריאה כטעם גזירה, כי החשך איננו כלום רק העדר האור (create as decree; darkness only absence of light), and the lemma ובורא רע holds the evidence words verbatim (evil as war, the reverse of peace, or bodily sickness; mentioned here because He will strengthen Cyrus הפך the king of Babylon). Every clause of the paraphrase is his. 'Weakens' renders הפך as Friedlander, editor of this Hebrew, renders it; the present tense for his future is compression, not drift. day.js confirms 45:1 to 7 is the address to Cyrus, 45:5 to 6 'beside Me there is no God', and 45:8 turns to the heavens; no four-word repeat of the key. verse.js ok (Isaiah 45:7, at [378,7]); entry-check ok, 44 words, src 119 chars. Ibn Ezra covers Isaiah; no school needed; no comparison; tone plain. Rashi, Radak and Metzudat David read darkness and evil for Babylon; the decree and absence-of-light points are Ibn Ezra's own (Radak cites decree too, but the attribution to Ibn Ezra stands in his own words).",
+ "better": ""
+}

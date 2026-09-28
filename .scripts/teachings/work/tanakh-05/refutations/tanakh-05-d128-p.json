@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d128-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 128 --verse 5.12. Radak on 5:12, lemma ואת פעל ה׳ לא יביטו ומעשה ידיו לא ראו (his first reading): פנויים ממלאכה כי הם עשירים ... לא יתעסקו ... בדברי תורה ובדברי חכמים שהם פעל ה׳, carrying Torah and the words of the wise neglected by the idle rich for drink and music. Ibn Ezra on 5:12, lemma ואת פועל יי לא יביטו: ולפי דעתי ... על הרעות שהביא השם על ישראל, כי גלו עשרות השבטים, carrying the calamities of the ten tribes’ exile; a genuine difference, named not resolved. Evidence segments found verbatim by machine. Plain sense checked in day.js: woes at 5:8 and 5:11, so 5:11 (rising early for strong drink, tarrying into the night) is the second woe. verse.js ok (Isaiah 5:12, at [338,12]); entry-check.js ok. Radak’s further readings (the tablets, astronomy, the morning and evening prayers) are not claimed. Every attack tried; none landed.",
+ "better": ""
+}

@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-05-d122-p",
+ "d": 122,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of His covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither hath He cast them from His presence until now.",
+ "ref": "2 Kings 13:23",
+ "at": [
+  321,
+  23
+ ],
+ "s": "Between Elisha’s death and Hazael’s, the chapter pauses on why Israel, oppressed by Aram through all of Jehoahaz’s reign, is spared; Metzudat David, on 13:23, reads ‘until now’ as for ever, since each reader of the verse, in his own day, says ‘until now’.",
+ "by": "metzudat-david",
+ "by2": "",
+ "hedge": "",
+ "src": "Metzudat David, commentary on 2 Kings 13:23, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23): Metzudat David on II Kings, Hebrew “On Your Way”",
+    "locator": "II Kings 13:23, lemma עד עתה",
+    "via": "packet"
+   }
+  ],
+  "words": "עד עתה. רצה לומר: עד עולם, כי כל הקורא במקרא הזה, כל אחד בזמנו, אומר עד עתה",
+  "lang": "Hebrew",
+  "gloss": "“Until now”: that is to say, for ever; for everyone who reads this verse, each in his own time, says “until now”.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 2 Kings 13:23, at [321,23]). Packet reopened at 13:23: only Metzudat David comments (Rashi, Radak and the Midrash have nothing on the verse), and his lemma עד עתה says exactly that ‘until now’ means for ever because each reader in his own day says ‘until now’; no drift. Context clause checked against day.js: Elisha dies at 13:20, Hazael oppresses Israel all the days of Jehoahaz at 13:22, Hazael dies at 13:24; it does not repeat the verse. entry-check ok."
+}

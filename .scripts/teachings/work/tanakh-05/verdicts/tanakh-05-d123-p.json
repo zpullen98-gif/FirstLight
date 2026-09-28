@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-05-d123-p",
+ "d": 123,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And the LORD smote the king, so that he was a leper unto the day of his death, and dwelt in a house set apart. And Jotham the king’s son was over the household, judging the people of the land.",
+ "ref": "2 Kings 15:5",
+ "at": [
+  323,
+  5
+ ],
+ "s": "Opening a chapter of conspiracies in Israel, Judah’s Azariah does right yet is stricken; Metzudat David, on 15:5, reads the ‘house set apart’ as release from the toil of governing, kingship counting, as the sages say, as servitude, and Rashi, on 15:5, as a house he made himself among the graves.",
+ "by": "metzudat-david",
+ "by2": "rashi",
+ "hedge": "",
+ "src": "Metzudat David and Rashi on 2 Kings 15:5, Hebrew (On Your Way; the Metsudah Tanach series) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23): Metzudat David on II Kings, Hebrew “On Your Way”",
+    "locator": "II Kings 15:5, lemma בבית החפשית",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23): Rashi on II Kings, Hebrew “The Metsudah Tanach series, Lakewood, N.J”",
+    "locator": "II Kings 15:5, lemma בְּבֵית הַחָפְשִׁית",
+    "via": "packet"
+   }
+  ],
+  "words": "בבית החפשית. רצה לומר: עזב הנהגת המלכות, והיה חפשי מזה העמל, וכמו שאמרו רבותינו ז״ל שהמלכות יחשב לעבדות, לפי רוב העמל … בְּבֵית הַחָפְשִׁית. עָשָׂה לוֹ בַּיִת בְּבֵית הַקְּבָרוֹת, כְּמָה דְּאַתְּ אֲמַר בַּמֵּתִים חָפְשִׁי",
+  "lang": "Hebrew",
+  "gloss": "Metzudat David: “In the house of freedom”: that is, he left the governing of the kingdom and was free of that toil, as our rabbis said that kingship is reckoned servitude, for the greatness of its toil. Rashi: “In the house of freedom”: he made himself a house in the cemetery, as it is said, “free among the dead”.",
+  "licence": "Metzudat David Hebrew: public domain; Rashi Hebrew: CC-BY",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 2 Kings 15:5, at [323,5]); Metzudat David’s reading is found verbatim at 15:5 (lemma בבית החפשית) and the proposal carried it without drift. Corrected because Rashi, the plan’s default, reads the same phrase differently at the same lemma (a house he built in the cemetery, citing ‘free among the dead’), and Radak gives both readings; the brief’s voice says where two of them differ, name both (rule 5). The sentence now names both without resolving them (51 words, under the two-voice cap of 60), by2 rashi, and the src names both editions. Context clause kept: 15:3 he did right, 15:5 stricken, conspiracies at 15:10, 15:25 and 15:30. entry-check ok."
+}

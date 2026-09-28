@@ -1,0 +1,33 @@
+{
+ "id": "tanakh-05-d143-p",
+ "d": 143,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Go, and cry in the ears of Jerusalem, saying: Thus saith the LORD: I remember for thee the affection of thy youth, the love of thine espousals; how thou wentest after Me in the wilderness, in a land that was not sown.",
+ "ref": "Jeremiah 2:2",
+ "at": [401, 2],
+ "s": "After his call and two visions, Jeremiah is sent to speak to Jerusalem; Rashi, on Jeremiah 2:2, reads it as God longing to have mercy were they to return, remembering how they followed Moses and Aaron into the desert without provisions, trusting Him.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on Jeremiah, on Jeremiah 2:2, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "edition": "Rashi on Jeremiah, Hebrew (On Your Way), with A. J. Rosenberg’s Judaica Press English, Sefaria export commit 3f10136", "locator": "Jeremiah 2:2, lemma זכרתי לך (2:3 read for context)", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136", "locator": "Jeremiah 2:2", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136", "locator": "Jeremiah 2:2", "via": "packet"},
+   {"url": "https://www.sefaria.org/texts/Midrash", "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)", "locator": "Jeremiah 2:2, nothing linked", "via": "packet"}
+  ],
+  "words": "אם הייתם שבים אלי תאוותי לרחם עליכם כי זכרת חסד נעוריך … ומה הוא חסד נעוריך לכתך אחר שלוחי משה ואהרן מארץ נושבת יצאתם למדבר ואין צדה לדרך כי האמנתם בי",
+  "lang": "Hebrew",
+  "gloss": "Were you to return to Me, I would long to have mercy on you, for I remember the kindness of your youth … and what is the kindness of your youth? Your going after My messengers, Moses and Aaron: from an inhabited land you went out into the desert with no provision for the way, because you trusted in Me.",
+  "licence": "Hebrew: public domain (Rashi, On Your Way)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Jeremiah 2:2, at [401,2]). Plain sense faithful: Jeremiah 1 holds the call and two visions (the almond rod at 1:11, the seething pot at 1:13), and 2:1 to 2 sends him to cry in Jerusalem’s ears; no four-word run from the verse. Rashi at 2:2 (lemma זכרתי לך) says in his own words that were they to return He would long to have mercy, and that the kindness of their youth was following Moses and Aaron from an inhabited land into the desert without provisions because they trusted Him; the sentence carries this without drift. entry-check ok."
+}

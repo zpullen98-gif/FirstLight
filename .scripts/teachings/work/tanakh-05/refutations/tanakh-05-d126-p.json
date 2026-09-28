@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d126-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 126 --verse 22:8. Rashi, lemma סֵפֶר הַתּוֹרָה מָצָאתִי: טְמֹן תַּחַת הַנִּדְבָּךְ, שֶׁהִטְמִינוּ שָׂם כְּשֶׁשָּׂרַף אָחָז אֶת הַתּוֹרָה, verbatim. Radak on the same verse (lemma ספר התורה מצאתי בבית ה׳) reports that account, calls it far-fetched (ורחוק הוא זה), and gives his own: Manasseh reigned fifty-five years and made Israel forget the Torah, and Hilkiah found a scroll מונח במקומו מצד הארון; all verbatim, so the two readings genuinely differ and are named without resolution (rule 5). Radak later raises a Seder Olam difficulty against his own answer and leaves it very far-fetched, but the sentence only states his proposal, which is his; not drift. Metzudat David follows the hidden-scroll account; Midrash empty. day.js: 22:3 to 22:7 Josiah sends Shaphan to Hilkiah about the money for the repair of the house; context faithful, no four-word run from the key. verse.js ok (2 Kings 22:8, at [330,8], 35 words); entry-check ok, no errors or warnings; src names both editions. Tried school, comparison, tone, locator: nothing lands.",
+ "better": ""
+}

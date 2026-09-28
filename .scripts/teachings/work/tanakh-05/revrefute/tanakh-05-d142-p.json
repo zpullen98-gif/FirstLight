@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d142-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 142 --verse 63.9 (Rashi and Ibn Ezra, Friedlander Hebrew, both at 63:9). Rashi, lemma לא צר: לא היצר להם כפי מעלליהם שהיו ראויין ללקות כי מלאך פניו הוא מיכאל שר הפנים ... הושיעם תמיד, carrying the reading exactly. Ibn Ezra, lemma לא צר: האמת שהוא בוי\"ו ... דרך משל ... כאלו גם הוא היה בצרה על כן מהר להושיעם, carrying 'distressed, as it were, and so hastening to save'. The two genuinely differ (not afflicted, afflicted) and are named without resolution. day.js: 63:7 opens a first-person recital of the LORD's mercies and goodness toward the house of Israel, 63:9 recalls how He bore and carried them; the revised clause ('the prophet recalls His care for them') has a subject and verb and repeats no four words of the key. Naming the unnamed first-person speaker 'the prophet' is a speaker label, not an authorship claim. verse.js ok (Isaiah 63:9, at [396,9]; day.js has a stray ' .' after the verse, which the key rightly omits); entry-check ok, 57 words within the 60 cap for two, no warns.",
+ "better": ""
+}

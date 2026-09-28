@@ -101,18 +101,19 @@
     "tanakh-01",
     "tanakh-02",
     "tanakh-03",
-    "tanakh-04"
+    "tanakh-04",
+    "tanakh-05"
    ],
-   "days": 120,
+   "days": 150,
    "of": 267,
    "by": {
-    "rashi": 73,
+    "rashi": 90,
     "ramban": 10,
     "midrash": 5,
     "sforno": 3,
-    "ibn-ezra": 1,
-    "radak": 21,
-    "metzudat-david": 7
+    "ibn-ezra": 3,
+    "radak": 29,
+    "metzudat-david": 10
    },
    "hedged": 0
   },

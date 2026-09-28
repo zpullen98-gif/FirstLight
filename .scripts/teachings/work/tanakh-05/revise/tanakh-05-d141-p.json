@@ -1,0 +1,41 @@
+{
+ "id": "tanakh-05-d141-p",
+ "d": 141,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Peace, peace, to him that is far off and to him that is near, Saith the LORD that createth the fruit of the lips; And I will heal him.",
+ "ref": "Isaiah 57:19",
+ "at": [390, 19],
+ "s": "Having struck the covetous and seen his ways, the LORD promises comfort; Radak, on 57:19, hears peace in every mouth after the war of Gog and Magog, with war named no more, and the far and near as those far from Jerusalem and near it.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on Isaiah, on Isaiah 57:19, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 57:19, lemma בורא (packet.js tanakh 141 --verse 57.19)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 57:19, lemma לרחוק ולקרוב (checked against day 135, Isaiah 33:13)",
+    "via": "packet"
+   }
+  ],
+  "words": "ואהיה מחדש דבר שפתים שיאמר בפי הכל שלום שלום ולא יזכר שם מלחמה בעולם, וזה יהיה אחר מלחמה גוג ומגוג ופי' לרחוק ולקרוב לרחוק מירושלם ולקרוב לה",
+  "lang": "Hebrew",
+  "gloss": "And I will be renewing speech of the lips, so that peace, peace is said in every mouth and the name of war is not remembered in the world any more; and this will be after the war of Gog and Magog; and he explains ‘to the far and to the near’ as to the one far from Jerusalem and to the one near to it.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old); no English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: day 135 (Isaiah 33:13) already gives Rashi’s far and near as the faithful from youth and the newly penitent, and Rashi on 57:19 repeats that pairing, while Radak on 57:19 has a distinct reading of his own in the packet. Commentator changed to Radak, on his lemma בורא: new speech of peace in every mouth, war’s name no longer remembered, after the war of Gog and Magog, and the far and near as far from and near to Jerusalem; each part is in the joined evidence words, one contiguous passage. His reason (the war fought at Jerusalem) is left out, not contradicted. Context clause kept, shortened to fit 45 words (57:17 smote him, 57:18 seen his ways, comforts). Key verse unchanged, verse.js ok (Isaiah 57:19, at [390,19]); entry-check ok. src and by updated to Radak."
+}

@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d138-p",
+ "d": 138,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "I form the light, and create darkness; I make peace, and create evil; I am the LORD, that doeth all these things.",
+ "ref": "Isaiah 45:7",
+ "at": [
+  378,
+  7
+ ],
+ "s": "Closing the LORD’s address to Cyrus, which insists there is no God beside Him; Ibn Ezra, on 45:7, takes ‘create’ as decree, darkness being only absence of light, and the evil as war or sickness, named because God strengthens Cyrus and weakens Babylon’s king.",
+ "by": "ibn-ezra",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Ezra, Commentary on Isaiah, on Isaiah 45:7, Hebrew (Friedlander, London 1877), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way) with Rosenberg’s English (Judaica Press), Sefaria export commit 3f10136",
+    "locator": "Isaiah 45 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877) with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 45 (whole chapter read; comment on 45:7, lemmas יוצר וגו׳, ובורא חשך, ובורא רע)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 45 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 45 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 45:7, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "ובורא רע. כמוהו, והנה רע מלחמה הפך שלום או חולי בגוף בן אדם שהוא נלחם עם התולדת, והזכיר זה בפרשה הזאת שהוא יחזק כורש הפך מלך בבל",
+  "lang": "Hebrew",
+  "gloss": "And creates evil: the same (create in the sense of decree, as in his comment on the lemma just before, where darkness is nothing but the absence of light); evil here is war, the opposite of peace, or sickness in a man’s body, which fights against his constitution; and he mentions this in this passage because He will strengthen Cyrus, the reverse of the king of Babylon (Friedlander: strengthen Cyrus and weaken the king of Babylon).",
+  "licence": "Hebrew: public domain (Friedlander, London 1877); English: public domain (Friedlander, 1873)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 45:7, at [378,7]). Plain sense faithful: 45:1 to 7 is the address to Cyrus, with 45:5 to 6 insisting there is none beside Him, and 45:8 turns to the heavens; no four-word repeat. Ibn Ezra on 45:7 (Friedlander Hebrew, packet) says ברא here means decree, darkness is nothing but the absence of light, and evil is war (opposite of peace) or bodily sickness, mentioned here because God will strengthen Cyrus, הפך the king of Babylon. CORRECTED: the proposal’s last clause said Cyrus is strengthened “against” Babylon’s king, a drift from הפך (the reverse); changed to “God strengthens Cyrus and weakens Babylon’s king”, as Friedlander renders it, and “nothing but absence” shortened to “only absence” to keep the sentence at 43 words (the first correction ran to 49). Key, ref, at, by and src unchanged. Rashi, Radak and Metzudat David also read the verse as for Israel and against Babylon, but the decree and absence-of-light points are Ibn Ezra’s own. Entry-check ok."
+}

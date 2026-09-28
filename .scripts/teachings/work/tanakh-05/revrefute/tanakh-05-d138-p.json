@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d138-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 138 --verse 45.7. Ibn Ezra, lemma ובורא חשך: מגזרת בריאה כטעם גזירה, כי החשך איננו כלום רק העדר האור (create as decree; darkness nothing but absence of light); lemma ובורא רע: כמוהו, רע מלחמה הפך שלום או חולי בגוף ... והזכיר זה בפרשה הזאת שהוא יחזק כורש הפך מלך בבל. Evidence words verbatim; every clause of the reading is his. 'Weakens' renders הפך as Friedlander (editor of this Hebrew) does; present tense for his future is compression. day.js: 45:1 opens the address to Cyrus, 45:5 to 6 deny any God beside Him, 45:8 turns to the heavens, so 45:7 closes it; the revised clause now has a subject and verb, no four-word run from the key. 'The verse pairs opposites' is an observable feature of the verse (Ibn Ezra and Radak also say so), not a reading restated. verse.js ok (Isaiah 45:7, at [378,7]); entry-check ok, no warns. No school needed, no comparison, tone plain.",
+ "better": ""
+}

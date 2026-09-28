@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d132-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 132 --verse 22.4. Rashi on 22:4, lemma שעו מני: חדלו ממני כך הקב\"ה אומר למלאכי השרת, so says the Holy One to the ministering angels; Radak on 22:4, lemma על כן אמרתי: דברי הנביא אמר כנגד המנחמים, and on שעו מני: הרפו ממני אל תנחמוני (Ibn Ezra and Metzudat David side with Radak). Both at the place named, both carry the paraphrase without drift, and they genuinely differ on who speaks; the disagreement is named, not resolved. Plain sense checked in day.js: 22:1 the burden concerning the Valley of Vision, 22:3 all thy rulers are fled together, bound, all that are found of thee bound together; it leaves the speaker open, which suits the dispute; no four-word repeat. ‘look away’ is two words of the key in curly quotes. verse.js ok (Isaiah 22:4, at [355,4]); entry-check.js ok on a scratch copy (46 words). Evidence Hebrew matches the packet verbatim. Attacks tried on every line (verse, plain, attribution, locator, drift, school, comparison, tone, form); none landed.",
+ "better": ""
+}

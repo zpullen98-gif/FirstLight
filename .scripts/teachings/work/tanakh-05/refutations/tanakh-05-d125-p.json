@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d125-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Kings/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 125 --verse 20:3. Radak, lemma התהלכתי לפניך: זה עבודת הלב ואחר כך זכר המעשה, verbatim as the evidence gives it; the lemma is exactly the quoted ‘walked before Thee’, and the order (the heart first, afterwards the deed, glossed by his next lemma והטוב בעיניך עשיתי) carries the paraphrase; ‘only then’ renders ואחר כך with slight emphasis and ‘deeds’ renders the collective המעשה, neither is drift. Rashi and Metzudat David have nothing on 20:3, Midrash empty, so Radak is the only reader. day.js: 20:1 Hezekiah sick unto death, Isaiah says he shall die; 20:2 he turns his face to the wall and prays; the context clause is faithful and repeats no four words of the key. verse.js ok (2 Kings 20:3, at [328,3], 34 words, no dash); entry-check ok, no errors or warnings. Tried: school, comparison, tone, form, src edition naming: nothing lands.",
+ "better": ""
+}

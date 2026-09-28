@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d135-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 135 --verse 33:13. Rashi on 33:13: רחוקים, המאמינים בי ועושים רצוני מנעוריהם; קרובים, בעלי תשובה שנתקרבו אלי מחדש. Radak on 33:13, lemma שמעו רחוקים אשר עשיתי: the near who were in the Assyrian camp ידעו גבורת האל שגבר עליהם והכם. Both at the place named and carrying the paraphrase; ‘made to know’ is a fair rendering of Radak’s they will know; the two genuinely differ (penitents and the faithful against the Assyrian camp). Plain sense checked in day.js: 33:10 Now will I arise, 33:12 the peoples burned as lime, 33:14 the sinners in Zion afraid; no four-word repeat. verse.js ok (Isaiah 33:13, at [366,13]); entry-check.js ok. Attacks tried: verse, plain, attribution, locator, drift, school, comparison, tone, form; none landed.",
+ "better": ""
+}

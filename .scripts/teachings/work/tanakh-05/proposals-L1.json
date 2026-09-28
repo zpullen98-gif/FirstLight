@@ -1,0 +1,212 @@
+{
+ "lane": "L1",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 122,
+   "primary": {
+    "id": "tanakh-05-d122-p",
+    "key": "But the LORD was gracious unto them, and had compassion on them, and had respect unto them, because of His covenant with Abraham, Isaac, and Jacob, and would not destroy them, neither hath He cast them from His presence until now.",
+    "ref": "2 Kings 13:23",
+    "at": [
+     321,
+     23
+    ],
+    "s": "Between Elisha’s death and Hazael’s, the chapter pauses on why Israel, oppressed by Aram through all of Jehoahaz’s reign, is spared; Metzudat David, on 13:23, reads ‘until now’ as for ever, since each reader of the verse, in his own day, says ‘until now’.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 2 Kings 13:23, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "עד עתה. רצה לומר: עד עולם, כי כל הקורא במקרא הזה, כל אחד בזמנו, אומר עד עתה",
+     "gloss": "Until now: that is to say, for ever; for everyone who reads this verse, each in his own time, says ‘until now’."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d122-s",
+    "key": "For the LORD saw the affliction of Israel, that it was very bitter; for there was none shut up nor left at large, neither was there any helper for Israel.",
+    "ref": "2 Kings 14:26",
+    "at": [
+     322,
+     26
+    ],
+    "s": "Telling how Jeroboam son of Joash, who kept to the sins of Jeroboam son of Nebat, won back Israel’s border, the chapter gives the cause; Radak, on 14:26, reads it as mercy, not a reward for any repentance, God having seen their affliction.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Kings 14:26, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כי ראה ה'. לא בשביל תשובה שעשו אלא שריחם עליהם כי ראה עניים",
+     "gloss": "For the LORD saw: not on account of any repentance they had made, but because He had mercy on them, for He saw their affliction."
+    }
+   }
+  },
+  {
+   "d": 123,
+   "primary": {
+    "id": "tanakh-05-d123-p",
+    "key": "And the LORD smote the king, so that he was a leper unto the day of his death, and dwelt in a house set apart. And Jotham the king’s son was over the household, judging the people of the land.",
+    "ref": "2 Kings 15:5",
+    "at": [
+     323,
+     5
+    ],
+    "s": "Opening a chapter of conspiracies in Israel, Judah’s Azariah does right yet is stricken; Metzudat David, on 15:5, reads the ‘house set apart’ as release, for he left off governing and was free of its toil, kingship counting, as the sages say, as servitude.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 2 Kings 15:5, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "בבית החפשית. רצה לומר: עזב הנהגת המלכות, והיה חפשי מזה העמל, וכמו שאמרו רבותינו ז״ל שהמלכות יחשב לעבדות, לפי רוב העמל",
+     "gloss": "In the house of freedom: that is to say, he left off the governing of the kingdom and was free of that toil; as our rabbis of blessed memory said, kingship is reckoned as servitude, for the greatness of its toil."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d123-s",
+    "key": "This was the word of the LORD which He spoke unto Jehu, saying: ‘Thy sons to the fourth generation shall sit upon the throne of Israel.’ And so it came to pass.",
+    "ref": "2 Kings 15:12",
+    "at": [
+     323,
+     12
+    ],
+    "s": "After Shallum slays Zechariah before the people, the chapter recalls a word to Jehu; Radak, on 15:12, reads his six months as granted only to keep that word, that the people might know the prophet spoke truth, the line’s sins having earned an earlier end.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Kings 15:12, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "וכיון שמלך רב או מעט כבר נתקיים דבר ה' והוסבה המלוכה לאחרים כי הם היו רשעים כלם ואילו היו טובים ארכה מלכותם עוד וכבר היתה מלכותם ראויה להפסק קודם זה מפני עונותם ולא מלך זכריה אותם ששה חדשים אלא לקיים דבר ה' בעבור שידעו העם כי אמת דבר הנביא ליהוא בשם ה' כשאמר לו בני רבעים ישבו לך על כסא ישראל",
+     "gloss": "And once he had reigned, long or short, the word of the LORD had already been established and the kingship passed to others, for they were all wicked, and had they been good their kingship would have lasted longer; and their kingship was already fit to be cut off before this because of their sins; and Zechariah reigned those six months only to establish the word of the LORD, so that the people would know that the prophet’s word to Jehu in the name of the LORD was true, when he said to him: thy sons of the fourth generation shall sit for thee on the throne of Israel."
+    }
+   }
+  },
+  {
+   "d": 124,
+   "primary": {
+    "id": "tanakh-05-d124-p",
+    "key": "And he did that which was evil in the sight of the LORD, yet not as the kings of Israel that were before him.",
+    "ref": "2 Kings 17:2",
+    "at": [
+     325,
+     2
+    ],
+    "s": "Opening Israel’s last reign, the chapter gives its verdict on Hoshea; Rashi, on 17:2, reads the difference as his removing the guards posted since Jeroboam’s days against pilgrimage, so when Israel still would not go up, with no king to blame, their exile was sealed.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 2 Kings 17:2, Hebrew (the Metsudah Tanach series, Lakewood N.J.) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "רַק לֹא כְּמַלְכֵי יִשְׂרָאֵל. שֶׁבִּטֵּל פַּרְדֵיסָאוֹת שֶׁיָּשְׁבוּ מִימֵי יָרָבְעָם עַל הַדְּרָכִים, לִשְׁמֹר שֶׁלֹּא יַעֲלוּ יִשְׂרָאֵל לָרֶגֶל … וּלְפִי שֶׁבִּטְּלוּ פַּרְדֵּיסָאוֹת וְהֵם נִמְנְעוּ מִלַּעֲלוֹת לָרֶגֶל, לְפִיכָךְ נֶחְתַּם גְּזַר דִּינָם לִגְלוֹת בְּיָמָיו, שֶׁעַד עַכְשָׁיו תָּלוּ הַקַּלְקָלָה בְּמַלְכֵיהֶם, וְעַתָּה לֹא הָיָה בְּמִי לִתְלוֹת",
+     "gloss": "But not as the kings of Israel: for he abolished the guard posts that had been set on the roads since the days of Jeroboam, to watch that Israel should not go up for the festival … and because the guard posts were abolished and they still held back from going up for the festival, therefore the sentence that they go into exile in his days was sealed; for until now they had hung the corruption on their kings, and now there was no one on whom to hang it."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d124-s",
+    "key": "He removed the high places, and broke the pillars, and cut down the Asherah; and he broke in pieces the brazen serpent that Moses had made; for unto those days the children of Israel did offer to it; and it was called Nehushtan.",
+    "ref": "2 Kings 18:4",
+    "at": [
+     326,
+     4
+    ],
+    "s": "Opening Hezekiah’s reign, the chapter lists what he destroys; Radak, on 18:4, reads the serpent as kept since Moses to recall the miracle, and Hezekiah as choosing to destroy it, and let the miracle be forgotten, rather than leave it for Israel to stray after.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Kings 18:4, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "והיה מונח מימות משה זה הנחש לזכרון הנס כמו צנצנת המן … וחזקיהו ראה לבער אותו כשביער הע\"ג כי בימי אביו היו עובדים לו כמו לע\"ג אע\"פ שהטובים היו זוכרים בו הנס אמר טוב לבער אותו וישכח הנס מלהניחו ויטעו בני ישראל היום או מחר אחריו",
+     "gloss": "And this serpent had been laid up since the days of Moses as a memorial of the miracle, like the jar of manna … and Hezekiah saw fit to destroy it when he destroyed the idols, for in his father’s days they served it as an idol; though the good remembered the miracle by it, he said: it is good to destroy it, and let the miracle be forgotten, rather than leave it and have the children of Israel go astray after it, today or tomorrow."
+    }
+   }
+  },
+  {
+   "d": 125,
+   "primary": {
+    "id": "tanakh-05-d125-p",
+    "key": "‘Remember now, O LORD, I beseech Thee, how I have walked before Thee in truth and with a whole heart, and have done that which is good in Thy sight.’ And Hezekiah wept sore.",
+    "ref": "2 Kings 20:3",
+    "at": [
+     328,
+     3
+    ],
+    "s": "Told by Isaiah that he will die, the sick Hezekiah turns to the wall and prays; Radak, on 20:3, reads ‘walked before Thee’ as the service of the heart, which he names first, and only then the deeds he has done.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Kings 20:3, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "התהלכתי לפניך. זה עבודת הלב ואחר כך זכר המעשה … והטוב בעיניך עשיתי. כמו שהעיד עליו הכתוב ויעש הישר בעיני ה' ככל אשר עשה דוד אביו",
+     "gloss": "I have walked before Thee: this is the service of the heart, and afterwards he recalled the deed … and have done that which is good in Thy sight: as Scripture testified of him, and he did that which was right in the eyes of the LORD, according to all that David his father had done."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d125-s",
+    "key": "For out of Jerusalem shall go forth a remnant, and out of mount Zion they that shall escape; the zeal of the LORD of hosts shall perform this.",
+    "ref": "2 Kings 19:31",
+    "at": [
+     327,
+     31
+    ],
+    "s": "Near the close of Isaiah’s answer to Hezekiah’s prayer against Sennacherib, the prophecy promises survivors; Rashi, on 19:31, reads the LORD’s zeal as zeal for His honour and Name, not for any merit of theirs, since Ahaz, Hezekiah’s father, did much wickedness.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 2 Kings 19:31, Hebrew (the Metsudah Tanach series, Lakewood N.J.) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "קִנְאַת ה' צְבָאוֹת. שֶׁיְּקַנֵּא לִכְבוֹדוֹ וְלִשְׁמוֹ, וְלֹא שֶׁיֵּשׁ זְכוּת בְּיֶדְכֶם, כִּי הַרְבֵּה הִרְשִׁיעַ אָחָז אָבִיךָ",
+     "gloss": "The zeal of the LORD of hosts: that He will be zealous for His honour and for His Name, and not that there is merit in your hands, for Ahaz your father did much wickedness."
+    }
+   }
+  },
+  {
+   "d": 126,
+   "primary": {
+    "id": "tanakh-05-d126-p",
+    "key": "And Hilkiah the high priest said unto Shaphan the scribe: ‘I have found the book of the Law in the house of the LORD.’ And Hilkiah delivered the book to Shaphan, and he read it.",
+    "ref": "2 Kings 22:8",
+    "at": [
+     330,
+     8
+    ],
+    "s": "Sent by Josiah about the money for the Temple’s repair, Shaphan hears the high priest’s news; Rashi, on 22:8, reads the find as a scroll hidden under a course of stones when Ahaz burned the Torah, and Radak, on 22:8, as the scroll lying in its place beside the ark, the Torah forgotten in Manasseh’s long reign.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, the Metsudah Tanach series, Lakewood N.J.) and Radak (Hebrew, Radak on Nach), on 2 Kings 22:8, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "סֵפֶר הַתּוֹרָה מָצָאתִי. טְמֹן תַּחַת הַנִּדְבָּךְ, שֶׁהִטְמִינוּ שָׂם כְּשֶׁשָּׂרַף אָחָז אֶת הַתּוֹרָה … אלא מנשה מלך זמן רב שהרי מלך נ\"ה שנה ועשה הרע בעיני ה' כתועבות הגוים ובנה מזבחות לע\"ג בבית ה' והוא השכיח התורה מישראל … והיה חלקיהו מחפש בבית ה' ובבית קדש הקדשים ובדביר מצא ס\"ת שהיה מונח במקומו מצד הארון",
+     "gloss": "[Rashi on 22:8:] I have found the book of the Law: hidden under the course of stones, where they had hidden it when Ahaz burned the Torah. … [Radak on 22:8:] rather, Manasseh reigned a long time, for he reigned fifty-five years, and did evil in the eyes of the LORD after the abominations of the nations, and built altars to idols in the house of the LORD, and it was he who made Israel forget the Torah … and Hilkiah, searching in the house of the LORD, in the Holy of Holies and in the inner sanctuary, found a scroll of the Torah that was lying in its place beside the ark."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d126-s",
+    "key": "And like unto him was there no king before him, that turned to the LORD with all his heart, and with all his soul, and with all his might, according to all the law of Moses; neither after him arose there any like him.",
+    "ref": "2 Kings 23:25",
+    "at": [
+     331,
+     25
+    ],
+    "s": "After Josiah’s purge and his Passover, the chapter gives its verdict on him; Metzudat David, on 23:25, reads the praise as for repentance, in which none was like Josiah, as the like praise of Hezekiah was for his trust in the LORD.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 2 Kings 23:25, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "וכמהו לא היה לפניו. ומה שנאמר בחזקיה (לעיל יח ה): ואחריו לא קם כמוהו, הוא בדבר הבטחון בה׳ וכמו שנאמר שם, אבל בדבר התשובה לא היה כיאשיהו",
+     "gloss": "And like unto him was there none before him: and what is said of Hezekiah (above, 18:5), and after him there arose none like him, concerns trust in the LORD, as is said there; but in the matter of repentance there was none like Josiah."
+    }
+   }
+  }
+ ]
+}

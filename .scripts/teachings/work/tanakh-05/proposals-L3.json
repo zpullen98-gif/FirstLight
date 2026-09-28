@@ -1,0 +1,212 @@
+{
+ "lane": "L3",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 133,
+   "primary": {
+    "id": "tanakh-05-d133-p",
+    "key": "With my soul have I desired Thee in the night; Yea, with my spirit within me have I sought Thee earnestly; For when Thy judgments are in the earth, The inhabitants of the world learn righteousness.",
+    "ref": "Isaiah 26:9",
+    "at": [
+     359,
+     9
+    ],
+    "s": "In Judah’s song of the strong city, the words turn from the people’s waiting in the way of God’s judgements to a single voice; Rashi, on 26:9, reads ‘in the night’ as the exile, which is like night, and Metzudat David, on 26:9, as the hour when the mind is free of troubling thoughts.",
+    "by": "rashi",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Metzudat David (Hebrew, On Your Way), on Isaiah 26:9, Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; metzudat-david",
+     "words": "נפשי אויתיך. בגלותי שדומה ללילה לעשות את אלה … נפשי אויתיך. נפשי תתאוה לך בלילה היא עת שמחשבת האדם פנויה ממחשבות הטורדות",
+     "gloss": "[Rashi, on 26:9, ‘With my soul have I desired Thee’:] in my exile, which is like night, to do these things … [Metzudat David, on 26:9, the same words:] my soul longs for You in the night, which is the time when a person’s thought is free of troubling thoughts."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d133-s",
+    "key": "The earth also is defiled under the inhabitants thereof; Because they have transgressed the laws, violated the statute, Broken the everlasting covenant.",
+    "ref": "Isaiah 24:5",
+    "at": [
+     357,
+     5
+    ],
+    "s": "In a prophecy of the whole earth laid waste, the chapter gives the cause; Ibn Ezra, on 24:5, takes the laws as those of reason, shared by all people, and the statute and covenant as God’s laws in the order of nature.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, commentary on Isaiah 24:5, Hebrew (Friedlander’s edition, London 1877) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "תורות, שקול הדעת שכל בני אדם משתוי' בו … חק. הם חוקי השם כפי התולדת, וזה הוא טעם 'ברית עולם'",
+     "gloss": "‘Laws’: the weighing of reason, in which all human beings are alike … ‘Statute’: these are God’s statutes according to the order of nature, and this is the meaning of ‘everlasting covenant’."
+    }
+   }
+  },
+  {
+   "d": 134,
+   "primary": {
+    "id": "tanakh-05-d134-p",
+    "key": "For it is precept by precept, precept by precept, Line by line, line by line; Here a little, there a little.",
+    "ref": "Isaiah 28:10",
+    "at": [
+     361,
+     10
+    ],
+    "s": "With priest and prophet reeling from wine, the chapter asks whom one shall teach; Rashi, on 28:10, reads it as the people setting an idolatrous precept against each one the prophet brings, and holding theirs weightier, and Ibn Ezra, on 28:10, as speech fit for a small child, taught as writing is taught.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Ibn Ezra (Hebrew, Friedlander’s edition, London 1877), on Isaiah 28:10, Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "נביא מצוה להם מאת הקב\"ה והם יש להם צו של עכו\"ם כנגד צו זה וחוזר הנביא ומוכיחם והם תמיד אומרים יש לנו צו לצו שלנו חשוב משלך … ראויים הם לדבר עמם כאשר ידבר האב אל בנו הקטן, שלא ידע עוד … קו לקו. למוד הכתיבה",
+     "gloss": "[Rashi, on 28:10, ‘precept by precept’:] The prophet commands them from the Holy One, blessed be He, and they have a precept of idolatry set against this precept; the prophet admonishes them again, and they always say, ‘We have a precept for the precept; ours is weightier than yours’ … [Ibn Ezra, on 28:10:] they are fit to be spoken to as a father speaks to his small son, who does not yet know … ‘Line by line’: the teaching of writing."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d134-s",
+    "key": "And thine ears shall hear a word behind thee, saying: ‘This is the way, walk ye in it, When ye turn to the right hand, and when ye turn to the left.’",
+    "ref": "Isaiah 30:21",
+    "at": [
+     363,
+     21
+    ],
+    "s": "The promise to Zion goes on from seeing the Teacher to hearing; Radak, on 30:21, reads it as Hezekiah’s generation, eager to keep the Torah and heeding its teachers even when called from behind, and all the more face to face.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Isaiah 30:21, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "אפילו יקרא אותך המורה מאחריך, ויאמר לך זה הדרך לכו בה תשמענה אזניך ותקשבנה כל שכן כשיורה אותך פנים בפנים, ר\"ל שיהיו דורו של חזקיהו בימים ההם חפצים לשמור התורה והמצות ושומעים לקול מוריהם אפילו יקראו אותם מאחריהם",
+     "gloss": "Even if the teacher calls you from behind you and says to you, ‘This is the way, walk in it’, your ears will hear and attend, all the more when he teaches you face to face; that is, Hezekiah’s generation in those days will desire to keep the Torah and the commandments and will listen to the voice of their teachers even when they call them from behind."
+    }
+   }
+  },
+  {
+   "d": 135,
+   "primary": {
+    "id": "tanakh-05-d135-p",
+    "key": "Hear, ye that are far off, what I have done; And, ye that are near, acknowledge My might.",
+    "ref": "Isaiah 33:13",
+    "at": [
+     366,
+     13
+    ],
+    "s": "Between God’s rising against the peoples and the fear of Zion’s sinners, the chapter turns to its hearers; Rashi, on 33:13, reads the near as penitents newly drawn close, the far as those faithful from their youth, and Radak, on 33:13, takes the near as those in the Assyrian camp, made to know the might that struck them.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 33:13, Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "רחוקים. המאמינים בי ועושים רצוני מנעוריהם … קרובים. בעלי תשובה שנתקרבו אלי מחדש … במחנה מלך אשור הרחוקים ישמעו והקרובים שהיו במחנה אשור ידעו גבורת האל שגבר עליהם והכם",
+     "gloss": "[Rashi, on 33:13, ‘far off’:] those who believe in Me and do My will from their youth … [‘near’:] penitents who have drawn near to Me anew … [Radak, on 33:13:] in the camp of the king of Assyria: those far off will hear, and those near, who were in the Assyrian camp, will know the might of God, who prevailed over them and struck them."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d135-s",
+    "key": "Strengthen ye the weak hands, And make firm the tottering knees.",
+    "ref": "Isaiah 35:3",
+    "at": [
+     368,
+     3
+    ],
+    "s": "Between the desert in bloom and the word to the fearful of heart, the chapter gives a command; Metzudat David, on 35:3, reads it as God’s charge to the prophets to announce the redemption to whoever has weak hands and despairs of it.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Isaiah 35:3, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "חזקו. הוא מאמר ה׳ אל הנביאים חזקו ידים הרפות ר״ל בשרו הגאולה למי שידיו רפות ומתייאש מן הגאולה",
+     "gloss": "‘Strengthen’: this is the word of the LORD to the prophets, ‘strengthen the weak hands’; that is to say, announce the redemption to one whose hands are weak and who despairs of the redemption."
+    }
+   }
+  },
+  {
+   "d": 136,
+   "primary": {
+    "id": "tanakh-05-d136-p",
+    "key": "The living, the living, he shall praise Thee, As I do this day; The father to the children shall make known Thy truth.",
+    "ref": "Isaiah 38:19",
+    "at": [
+     371,
+     19
+    ],
+    "s": "Hezekiah’s writing on his recovery sets the living against the nether-world; Radak, on 38:19, reads it as reason to lengthen life, since God, whom thanks do not profit, made humankind and wills that they live, know His kindness and give thanks.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Isaiah 38:19, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "אם כן הוא טוב שתאריך לאדם, ואם חלה שתרפאהו מחליו ויודה לך הטובה שעשית לו ויודיע לבניו אחריו … ואע\"פ שההודאה וההודעה לא תועיל לו ולא תסכן, כמו שאמר אם צדקת מה יסכן לו, אף על פי כן אחר שהוא רצה וברא בני אדם אם כן הוא רוצה בקיומם ובלכתם בדרך טובה ושיהיה בהם דעת להבין בחסדי הבורא ולהודות לפניו עליהם",
+     "gloss": "If so, it is good that You lengthen a person’s life, and if he falls ill that You heal him of his illness, so that he thanks You for the good You did him and makes it known to his children after him … and though the thanksgiving and the making known neither profit Him nor benefit Him, as it says, ‘If thou be righteous, what profit is it to Him’, nevertheless, since He willed and created human beings, He wills their continued existence and their walking in the good way, and that there be in them knowledge to understand the Creator’s kindnesses and to give thanks before Him for them."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d136-s",
+    "key": "I said: I shall not see the LORD, even the LORD in the land of the living; I shall behold man no more with the inhabitants of the world.",
+    "ref": "Isaiah 38:11",
+    "at": [
+     371,
+     11
+    ],
+    "s": "In the writing on his recovery, Hezekiah recalls his words when death seemed near; Ibn Ezra, on 38:11, reads the seeing of God as knowing His works, since no eye can grasp Him, and the beholding of man as the delight of seeing companions.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, commentary on Isaiah 38:11, Hebrew (Friedlander’s edition, London 1877) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "השם איננו מקרה עד שתשלט העין בו רק הוא נר' במעשיו, והטעם שלא יראה מעשי השם בעולם הזה … והנה הזכיר בתחלה תענוג האדם בעולם הזה … ואח' כך שיתענג במראה העין להיות עם חביריו וזהו לא אביט אדם עוד",
+     "gloss": "God is not an accident, that the eye should have power over Him; He is seen only in His works, and the meaning is that he will not see the works of God in this world … so he first mentioned man’s delight in this world [that he knew the works of God] … and after that, that he delights in what the eye sees, being with his companions, and this is ‘I shall behold man no more’."
+    }
+   }
+  },
+  {
+   "d": 137,
+   "primary": {
+    "id": "tanakh-05-d137-p",
+    "key": "But they that wait for the LORD shall renew their strength; They shall mount up with wings as eagles; They shall run, and not be weary; They shall walk, and not faint.",
+    "ref": "Isaiah 40:31",
+    "at": [
+     373,
+     31
+    ],
+    "s": "The chapter that sets the unwearied Creator against youths who faint and fall closes on this verse; Ibn Ezra, on 40:31, reads the renewal as fresh strength sent by God before the first is spent.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, commentary on Isaiah 40:31, Hebrew (Friedlander’s edition, London 1877) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "וקוי יי יחליפו. קודם תום הכח הראשון, יבא כח אחר מהשם להם, וכמוהו אם יכרת ועוד יחליף",
+     "gloss": "‘They that wait for the LORD shall renew’: before the first strength is spent, another strength comes to them from God; compare ‘if it be cut down, it will sprout again’ (Job 14:7)."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d137-s",
+    "key": "Fear not, thou worm Jacob, And ye men of Israel; I help thee, saith the LORD, And thy Redeemer, the Holy One of Israel.",
+    "ref": "Isaiah 41:14",
+    "at": [
+     374,
+     14
+    ],
+    "s": "After the idol-makers fasten their images with nails, God turns again to reassure Israel; Metzudat David, on 41:14, reads the worm as Jacob’s feeble congregation, whose only strength is in its mouth, that is prayer, as a worm saws through cedars with its mouth.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Isaiah 41:14, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "תולעת יעקב. עדת יעקב החלושה כתולעת ואין כחה אלא בפה היא התפלה כתולעת הזו שבפיה מנסרת בארזים",
+     "gloss": "‘Worm Jacob’: the congregation of Jacob, weak as a worm, whose strength is only in the mouth, that is, prayer, like this worm which saws through cedars with its mouth."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d123-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 123 --verse 15.5. Metzudat David, lemma בבית החפשית: רצה לומר: עזב הנהגת המלכות, והיה חפשי מזה העמל, וכמו שאמרו רבותינו ז״ל שהמלכות יחשב לעבדות, carrying 'release from the toil of governing, kingship counting, as the sages say, as servitude' with no drift; the sages credit is kept. Rashi (Metsudah Tanach Hebrew), lemma בְּבֵית הַחָפְשִׁית: עָשָׂה לוֹ בַּיִת בְּבֵית הַקְּבָרוֹת, כְּמָה דְּאַתְּ אֲמַר בַּמֵּתִים חָפְשִׁי, carrying 'a house among the graves, the dead being called free'. The two genuinely differ and are named without resolution (Radak gives both as rabbinic, which confirms they are distinct readings). Evidence words re-found verbatim at both places. day.js: 15:1 to 15:3 Azariah of Judah begins and does right, 15:4 the high places remain, 15:5 he is smitten; conspiracies at 15:10, 15:25, 15:30, so 'a chapter of conspiracies in Israel' holds. 'yet is stricken' is a mild juxtaposition the text itself makes (right, then smitten), not a reason the text withholds; noted, not landed. verse.js ok (2 Kings 15:5, at [323,5]); entry-check ok, no warns. Src names each edition.",
+ "better": ""
+}

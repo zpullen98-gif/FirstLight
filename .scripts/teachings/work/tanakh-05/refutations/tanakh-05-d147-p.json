@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d147-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 147 --verse 12.1. Rashi on 12:1, lemma צדיק אתה ה’ כי אריב אליך: כשאתווכח עמך ידעתי כי תצדק בדבריך אך חפץ אני לדבר משפטים אותך להודיעני דרכך, verbatim as in the evidence, and it carries the paraphrase (knows God will be right, argues so that God will make His way known to him) without drift. Radak and Metzudat David say much the same; no difference needing a second name. Plain sense checked in day.js: 12:1 opens the chapter, 12:6 his brethren and father’s house deal treacherously with him. verse.js ok (Jeremiah 12:1, at [411,1]); entry-check.js ok. Every attack tried; none landed.",
+ "better": ""
+}

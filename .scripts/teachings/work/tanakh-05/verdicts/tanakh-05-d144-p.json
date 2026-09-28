@@ -1,0 +1,33 @@
+{
+ "id": "tanakh-05-d144-p",
+ "d": 144,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For thus saith the LORD to the men of Judah and to Jerusalem: Break up for you a fallow ground, And sow not among thorns.",
+ "ref": "Jeremiah 4:3",
+ "at": [403, 3],
+ "s": "After the plea to Israel to return, the LORD turns to Judah and Jerusalem in a farmer’s image; Rashi, on 4:3, reads it as learning from farmers who plough in summer to kill the roots, and mending deeds before evil comes, lest prayer be rejected.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on Jeremiah, on Jeremiah 4:3, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "edition": "Rashi on Jeremiah, Hebrew (On Your Way) with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136", "locator": "Jeremiah 4:3, lemma כי כה אמר ה' וגו'; chapter 4 read", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136", "locator": "Jeremiah 4:3 (heart made ready to receive the word; compatible, not named)", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136", "locator": "Jeremiah 4:3 (remove the idols first, then prayer is accepted; compatible, not named)", "via": "packet"},
+   {"url": "https://www.sefaria.org/texts/Midrash", "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)", "locator": "Jeremiah 4:3, nothing linked", "via": "packet"}
+  ],
+  "words": "כי כה אמר ה' וגו'. נירו לכם ניר הוו למידין מעובדי אדמה שנרים אותה בימי הקיץ להמית שרשי העשבים שלא תהא מעלה קוצים בעת הזרע בחורף אף אתם הטיבו מעשיכם בטרם תבא עליכם הרעה שלא תהא תפלתכם נמאסת כשתצעקו",
+  "lang": "Hebrew",
+  "gloss": "For thus said the LORD, etc. Break up for you a fallow ground: learn from the tillers of the soil, who plough it in summer to kill the roots of the weeds, so that it brings up no thorns at sowing time in winter; you too, mend your deeds before the evil comes upon you, so that your prayer is not rejected when you cry out.",
+  "licence": "Rashi Hebrew (On Your Way): public domain. Own gloss; the Judaica Press English (CC-BY) not quoted.",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Jeremiah 4:3 at [403,3] match. Rashi on 4:3 says, in these words, learn from farmers who plough in summer to kill the roots of the weeds, and mend your deeds before the evil comes so your prayer is not rejected; the sentence carries exactly that. Plain sense matches 4:1 to 4:3 (return urged on Israel, then the word to Judah and Jerusalem) with no four-word overlap. Radak and Metzudat David are compatible and not needed. entry-check ok, no warns."
+}

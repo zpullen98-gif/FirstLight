@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d128-p",
+ "d": 128,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And the harp and the psaltery, the tabret and the pipe, And wine, are in their feasts; But they regard not the work of the LORD, Neither have they considered the operation of His hands.",
+ "ref": "Isaiah 5:12",
+ "at": [
+  338,
+  12
+ ],
+ "s": "The chapter’s second woe falls on those who drink from early morning into the night; Radak, on 5:12, reads the LORD’s work as Torah and the words of the wise, which the idle rich neglect for music and wine, and Ibn Ezra, on 5:12, as the calamities God brought on Israel when the ten tribes went into exile.",
+ "by": "radak",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Radak (Hebrew, Radak on Nach) and Ibn Ezra (Hebrew, Friedlander, London 1877), on Isaiah 5:12, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 5:12 (Targum: the Torah of the LORD; read, not used)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 5:12, lemma ואת פועל יי לא יביטו",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 5:12, lemma ואת פעל ה' לא יביטו ומעשה ידיו לא ראו (first of his readings)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 5:12 (not used)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 5:12, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "הנה הם פנויים ממלאכה כי הם עשירים, והנה כל עסקם במשתה ובשמיעת הנגונים ולא יתעסקו בכל עתות הפנאי בדברי תורה ובדברי חכמים שהם פעל ה' … ולפי דעתי כי במקום הזה לא ידבר כי אם על הרעות שהביא השם על ישראל, כי גלו עשרות השבטים",
+  "lang": "Hebrew",
+  "gloss": "[Radak, on 5:12, ‘But they regard not the work of the LORD’:] See, they are free of labour, for they are rich, and all their occupation is in drinking and in hearing music, and in all their hours of leisure they do not busy themselves with the words of Torah and the words of the wise, which are the work of the LORD … [Ibn Ezra, on 5:12:] And in my opinion, in this place it speaks only of the evils that God brought upon Israel, for the ten tribes went into exile.",
+  "licence": "Hebrew: Radak, no licence stated by Sefaria for this digitisation (text centuries old); Ibn Ezra, public domain (Friedlander 1877)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 5:12, at [338,12]); one unit, 35 words, no dash. Plain sense faithful: 5:8 is the first woe (house to house), 5:11 the second (rising early for strong drink, tarrying into the night), and 5:12 continues it; no four-word repeat of the key. Radak on 5:12 (first reading of the lemma) takes the work of the LORD as words of Torah and of the wise, neglected by the rich who are free of labour and busy only with drinking and music; he adds alternative readings (the tablets, astronomy, morning and evening prayer), but the sentence gives his first, which his words carry. Ibn Ezra on 5:12 reports the many who read it of drunkenness, then his own opinion: the evils God brought on Israel when the ten tribes went into exile. The two genuinely differ and are named without resolving. Entry passes entry-check."
+}

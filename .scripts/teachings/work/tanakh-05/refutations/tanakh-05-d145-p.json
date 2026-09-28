@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d145-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 145 --verse 6.16. Radak on 6:16, lemma כה אמר ה’ עמדו על דרכים, has the evidence words verbatim: ועתה בחנו בשכלכם איזה הוא הדרך הטוב, then ask בעבור נתיבות עולם, the generations that passed (הדורות שעברו), closing ומשני פנים אלה תוכלו להכיר איזה הדרך הטוב ... או מדרך השכל או מדרך הקבלה: two ways, reason and tradition, as the sentence says; about past generations (בעבור) not asking them, as corrected. Plain sense checked in day.js: 6:14 the cry of Peace, peace when there is no peace, 6:17 the watchmen and the horn; the clause is context, not a line-by-line paraphrase. Rashi on 6:16 only glosses מרגוע; Metzudat David and the Midrash have nothing. verse.js ok (Jeremiah 6:16, at [405,16], stops before But they said); entry-check.js ok. Every attack tried; none landed.",
+ "better": ""
+}

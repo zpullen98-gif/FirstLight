@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d146-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 146 --verse 9.23. Radak on 9:23, lemma השכל וידוע אותי: והשכל האל הוא שישכיל כי הוא אחד קדמון ואינו גוף והוא בורא הכל ... וידיעת האל היא ללכת בדרכיו לעשות חסד משפט וצדקה: understanding is grasping He is one and Creator of all, knowing is walking in His ways of kindness, justice and righteousness; the sentence selects (omits eternal, incorporeal, providence) but claims nothing beyond. The reading is Radak’s own, not the Abraham bar Hiyya or Rambam readings he reports later in the comment on באלה חפצתי. Numbering: JPS and the Hebrew agree, 9:23 is כי אם בזאת. Plain sense checked in day.js: 9:22 forbids the wise, mighty and rich to glory. Rashi on 9:23 only glosses השכל. verse.js ok (Jeremiah 9:23, at [408,23]); entry-check.js ok. Every attack tried; none landed.",
+ "better": ""
+}

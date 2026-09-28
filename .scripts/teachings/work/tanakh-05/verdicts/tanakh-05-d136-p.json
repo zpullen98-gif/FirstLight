@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d136-p",
+ "d": 136,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "The living, the living, he shall praise Thee, As I do this day; The father to the children shall make known Thy truth.",
+ "ref": "Isaiah 38:19",
+ "at": [
+  371,
+  19
+ ],
+ "s": "Hezekiah’s writing on his recovery sets the living against the nether-world; Radak, on 38:19, reads it as reason to lengthen life, since God, whom thanks do not profit, made humankind and wills that they live, know His kindness and give thanks.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on Isaiah 38:19, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way) with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 38 (comments on 38:19 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877) with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 38 (comments on 38:19 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 38 (Radak on 38:9 to 38:22 read; comment on 38:19, lemma חי חי)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 38 (comments on 38:19 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 38:19, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "אם כן הוא טוב שתאריך לאדם, ואם חלה שתרפאהו מחליו ויודה לך הטובה שעשית לו ויודיע לבניו אחריו, וכן אמרו רז\"ל כי לא היו בנים לחזקיהו אלא עד אחר חליו, ואע\"פ שההודאה וההודעה לא תועיל לו ולא תסכן, כמו שאמר אם צדקת מה יסכן לו, אף על פי כן אחר שהוא רצה וברא בני אדם אם כן הוא רוצה בקיומם ובלכתם בדרך טובה ושיהיה בהם דעת להבין בחסדי הבורא ולהודות לפניו עליהם",
+  "lang": "Hebrew",
+  "gloss": "If so, it is good that You lengthen a person’s life, and if he falls ill that You heal him, so that he thanks You for the good You did him and makes it known to his children after him; and so the Sages said that Hezekiah had no sons until after his illness. And though the thanksgiving and the making known neither profit Him nor avail Him, as it says, ‘If thou be righteous, what does it avail Him’, nevertheless, since He willed and created human beings, He wills their continued existence and their walking in the good way, and that they have knowledge to understand the Creator’s kindnesses and to give thanks before Him for them.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (text centuries old); no English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 38:19, at [371,19]). Plain sense faithful: 38:9 heads the passage ‘The writing of Hezekiah’ on his recovery, and 38:18 (the nether-world cannot praise) stands against 38:19 (the living praise); no four-word run from the key. Radak’s comment on 38:19 (lemma חי חי) says in his own words that it is good for God to lengthen a man’s life and heal him, that thanks do not profit God, yet since He willed and created human beings He wills their continued existence and that they understand His kindnesses and give thanks; the reading carries exactly this. His comment on 38:18 runs the same way (good that You let men live, for they thank You in life). Rashi, Ibn Ezra and Metzudat David on 38:19 give other, non-contrary glosses. Evidence is one contiguous span (the proposer’s basis had an ellipsis, replaced here by the full run). Entry passes entry-check."
+}

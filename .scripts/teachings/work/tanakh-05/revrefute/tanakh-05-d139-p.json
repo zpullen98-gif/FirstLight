@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d139-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 139 --verse 48.10. Radak, lemma ולא בכסף, holds the evidence verbatim: not like the silver refiner who removes all the dross until only refined silver remains, for few would have remained, but the wicked (the dross) afflicted with sickness, captivity and bereavement, לא להכריתם מכל וכל. The revision keeps the earlier refutation's fix ('not wholly cut off'). Dropping 'all' from 'removes all the dross' weakens but does not break the logic, since 'short of' and 'wholly' still carry that the refining stopped before total removal; a same-length restoration is offered in better (entry-check ok, scratch/revrefute-d139-better.json). day.js: 48:1 addresses the house of Jacob, 48:4 obstinate, 48:9 anger deferred for My name's sake so as not to cut off; the revised clause has a subject and verb and no four-word run from the key. Rashi, Ibn Ezra and Metzudat David read differently (poverty or servitude against Gehinnom fire; exile), so the reading is Radak's own. verse.js ok (Isaiah 48:10, at [381,10]); entry-check ok, 45 words, no warns.",
+ "better": "Midway through rebuking obstinate Jacob, spared for His name’s sake, the LORD recalls his trials; Radak, on 48:10, reads it as a refining short of the refiner’s, who removes all dross, since then few would have remained, the wicked afflicted but not wholly cut off."
+}

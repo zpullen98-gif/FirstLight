@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d141-p",
+ "d": 141,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Peace, peace, to him that is far off and to him that is near, Saith the LORD that createth the fruit of the lips; And I will heal him.",
+ "ref": "Isaiah 57:19",
+ "at": [
+  390,
+  19
+ ],
+ "s": "Having struck the covetous in anger and seen his ways, the LORD promises comfort; Rashi, on 57:19, hears the far and the near as one long accustomed to the Torah from youth and one newly turned from his evil way, and holds them equal.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on Isaiah, on Isaiah 57:19, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way) with Rosenberg’s English (Judaica Press), Sefaria export commit 3f10136",
+    "locator": "Isaiah 57 (whole chapter read; comment on 57:19, lemma לרחוק ולקרוב)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877) with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 57 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 57 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 57 (whole chapter read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 57:19, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "לרחוק ולקרוב. שניהם שוין מי שנתיישן והורגל בתורתי ועבודתי מנעוריו ומי שנתקרב עתה מקרוב לשוב מדרכו הרעה אמר ה' ורפאתיו מחליו ומחטאיו",
+  "lang": "Hebrew",
+  "gloss": "To the far and to the near: both are equal, the one who has grown old in and been accustomed to My Torah and My service from his youth, and the one who has drawn near now, recently, to turn from his evil way; said the LORD, and I will heal him of his sickness and of his sins.",
+  "licence": "Hebrew: public domain (On Your Way); Rosenberg’s English (Judaica Press, CC-BY) consulted, not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 57:19, at [390,19]). Plain sense faithful: 57:17 the LORD was wroth for the iniquity of his covetousness and smote him, 57:18 He has seen his ways and will heal, lead and requite him with comforts; no four-word repeat. Rashi on 57:19 (Hebrew, packet) says the far and the near are both equal, the one long accustomed to God’s Torah and service from youth and the one who has just now drawn near to turn from his evil way; the reading follows his order (far, then near) and his claim of equality without drift. Radak notes that the rabbis dispute which is which; the sentence attributes only Rashi’s pairing. Entry-check ok."
+}

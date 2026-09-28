@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d135-p",
+ "d": 135,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Hear, ye that are far off, what I have done; And, ye that are near, acknowledge My might.",
+ "ref": "Isaiah 33:13",
+ "at": [
+  366,
+  13
+ ],
+ "s": "Between God’s rising against the peoples and the fear of Zion’s sinners, the chapter turns to its hearers; Rashi, on 33:13, reads the near as penitents newly drawn close, the far as those faithful from their youth, and Radak, on 33:13, takes the near as those in the Assyrian camp, made to know the might that struck them.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 33:13, Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 33 (whole chapter read; comments on 33:13, lemmas רחוקים and קרובים)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 33:13 (the near are Israel, from the next verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 33:13 (comment on 33:13, lemma שמעו רחוקים אשר עשיתי)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 33:13 (the far hear, the near in the Assyrian camp)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 33:13, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "רחוקים. המאמינים בי ועושים רצוני מנעוריהם … קרובים. בעלי תשובה שנתקרבו אלי מחדש … שמעו רחוקים אשר עשיתי. במחנה מלך אשור הרחוקים ישמעו והקרובים שהיו במחנה אשור ידעו גבורת האל שגבר עליהם והכם",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 33:13, ‘far off’:] those who believe in Me and do My will from their youth … [‘near’:] penitents who have drawn near to Me anew … [Radak, on 33:13, ‘Hear, ye that are far off, what I have done’:] in the camp of the king of Assyria; those far off will hear, and those near, who were in the Assyrian camp, will know the might of God, who prevailed over them and struck them.",
+  "licence": "Hebrew: Rashi public domain (On Your Way); Radak, no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 33:13, at [366,13]); one unit, no dash. Plain sense faithful: 33:10 “Now will I arise, saith the LORD”, 33:12 the peoples burned as lime, 33:14 the sinners in Zion are afraid; the verse addresses the far and the near; no four-word repeat of the key. Rashi on 33:13: the far are those who believe in God and do His will from their youth, the near are penitents newly drawn close; Radak on 33:13: what God did in the camp of the king of Assyria, the far will hear, and the near, who were in that camp, will know the might of God that prevailed over them and struck them (Metzudat David agrees with Radak). The two genuinely differ and are named without resolving. The proposer’s gloss mis-parsed Radak’s opening phrase slightly; the sentence itself is faithful, and the gloss here is corrected. Entry passes entry-check."
+}

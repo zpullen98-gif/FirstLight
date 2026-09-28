@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d136-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 136 --verse 38.19: Radak's comment on the lemma חי חי holds the evidence words verbatim (אם כן הוא טוב שתאריך לאדם ... ואע\"פ שההודאה וההודעה לא תועיל לו ולא תסכן ... הוא רוצה בקיומם ... להבין בחסדי הבורא ולהודות לפניו), which carry every clause of the paraphrase (lengthen life; thanks do not profit Him; He created humans and wills their existence, their knowing His kindness and giving thanks); only 'walking in the good way' is omitted, which is compression not drift. verse.js ok (Isaiah 38:19, at [371,19]); day.js confirms 38:9 is 'The writing of Hezekiah ... recovered' and 38:18 sets the nether-world against 38:19's living, so the context clause is faithful and repeats no four words of the key. entry-check ok, 41 words, src 100 chars. Radak covers Isaiah; no school needed; no comparison; tone plain.",
+ "better": ""
+}

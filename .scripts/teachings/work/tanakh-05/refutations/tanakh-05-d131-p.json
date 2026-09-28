@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d131-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 131 --verse 15.5. Rashi on 15:5, lemma לבי למואב יזעק: נביאי ישראל ... מתאוננים על פורענות הבאה על האומות, the prophets of Israel lament the calamity that befalls the nations, so the heart that cries is the prophet’s own; Radak on 15:5, lemma לבי למואב: מדבר הנביא על לשון העם שיאמר כל אחד מהם כך, the prophet speaks in the people’s tongue, what each of them will say (Metzudat David agrees with Radak; Ibn Ezra only glosses for Moab). Both at the place named, both carry the paraphrase, and they genuinely differ on whose grief it is; the Balaam contrast in Rashi is left out, so no comparison enters. Plain sense checked in day.js: 15:1 the burden of Moab, Ar and Kir laid waste in the night; 15:2 to 15:3 weeping on the high places, Nebo, Medeba, housetops; no four-word repeat of the key. verse.js ok (Isaiah 15:5, at [348,5]); entry-check.js ok on a scratch copy (51 words, two commentators, cap 60). Evidence Hebrew matches the packet verbatim. Attacks tried on every line (verse, plain, attribution, locator, drift, school, comparison, tone, form); none landed. Nit only: ‘on every height’ slightly generalises the high places and housetops of 15:2 to 15:3, not a failure.",
+ "better": ""
+}

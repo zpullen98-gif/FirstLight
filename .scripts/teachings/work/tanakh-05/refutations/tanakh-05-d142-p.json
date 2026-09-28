@@ -1,0 +1,9 @@
+{
+ "id": "tanakh-05-d142-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json", "found": true},
+ "reopenedAlso": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 142 --verse 63.9. Rashi at 63:9 (lemmas בכל צרתם, לא צר): He did not distress them according to their deeds, which deserved suffering, for the angel of His presence, Michael, prince of the Presence, always saved them as the Omnipresent's agent; the sentence carries exactly this, and no longer claims he follows the written text (that is Radak's note). Ibn Ezra at 63:9 (לא צר): with vav, like 'His soul was grieved' (Judges 10:16), a figure, as though He too were in distress, so He hastened to save; 'as it were' renders דרך משל ... כאלו. The two genuinely differ (not afflicted / afflicted) and are named without resolution. Evidence words are verbatim in the packet. Plain sense matches 63:7 to 8 in day.js (the LORD's mercies, great goodness toward the house of Israel, 'children that will not deal falsely') and quotes no four-word run. verse.js ok (Isaiah 63:9, at [396,9], 37 words); entry-check ok, no warns. Minor only: the context clause is a participial fragment with no named speaker (the prophet), which the gate and rule 2 allow.",
+ "better": ""
+}

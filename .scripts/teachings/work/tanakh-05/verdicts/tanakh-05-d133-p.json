@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d133-p",
+ "d": 133,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "With my soul have I desired Thee in the night; Yea, with my spirit within me have I sought Thee earnestly; For when Thy judgments are in the earth, The inhabitants of the world learn righteousness.",
+ "ref": "Isaiah 26:9",
+ "at": [
+  359,
+  9
+ ],
+ "s": "In Judah’s song of the strong city, the words turn from the people’s waiting in the way of God’s judgements to a single voice; Rashi, on 26:9, reads ‘in the night’ as the exile, which is like night, and Metzudat David, on 26:9, as the hour when the mind is free of troubling thoughts.",
+ "by": "rashi",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Metzudat David (Hebrew, On Your Way), on Isaiah 26:9, Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 26 (whole chapter read; comment on 26:9, lemma נפשי אויתיך)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 26:9 (the thought of my soul; nothing on the night)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 26:9 (with all my strength and will; judgements are good)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 26:9 (comment on 26:9, lemma נפשי אויתיך)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 26:9, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "נפשי אויתיך. בגלותי שדומה ללילה לעשות את אלה … נפשי אויתיך. נפשי תתאוה לך בלילה היא עת שמחשבת האדם פנויה ממחשבות הטורדות",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 26:9, ‘With my soul have I desired Thee’:] in my exile, which resembles night, to do these things … [Metzudat David, on 26:9, the same lemma:] my soul longs for You in the night, which is the time when a person’s thought is free of troubling thoughts.",
+  "licence": "Hebrew: public domain (Rashi and Metzudat David, Sefaria’s On Your Way text)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 26:9, at [359,9]); one unit, no dash. Plain sense faithful: 26:1 opens the song sung in the land of Judah (“We have a strong city”), 26:8 is the people’s “we have waited for Thee” in the way of God’s judgements, and 26:9 turns to “my soul”, a single voice (Radak on 26:9 remarks on the same shift from plural to singular); no four-word repeat of the key. Rashi on 26:9 (lemma נפשי אויתיך) glosses the night as my exile, which resembles night; Metzudat David on the same lemma takes the night as the time when the mind is free of troubling thoughts. The two genuinely differ and the sentence names both without resolving. Whole chapter 26 of Rashi read for context (the song is of Jerusalem and the redemption from exile, consistent). Entry passes entry-check."
+}

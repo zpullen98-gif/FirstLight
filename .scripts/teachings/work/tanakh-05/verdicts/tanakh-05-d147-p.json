@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-05-d147-p",
+ "d": 147,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Right wouldest Thou be, O LORD, were I to contend with Thee, yet will I reason with Thee: Wherefore doth the way of the wicked prosper? Wherefore are all they secure that deal very treacherously?",
+ "ref": "Jeremiah 12:1",
+ "at": [
+  411,
+  1
+ ],
+ "s": "Opening a chapter in which even his own kin betray him, the prophet puts a question to the LORD; Rashi, on 12:1, reads him as knowing God will be right, yet arguing so that God will make His way known to him.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on Jeremiah, on Jeremiah 12:1, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Jeremiah, Hebrew (On Your Way) with Rosenberg’s English (Judaica Press, CC-BY), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 12:1",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 12:1",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 12:1",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)",
+    "locator": "Jeremiah 12:1, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "צדיק אתה ה' כי אריב אליך. כשאתווכח עמך ידעתי כי תצדק בדבריך אך חפץ אני לדבר משפטים אותך להודיעני דרכך",
+  "lang": "Hebrew",
+  "gloss": "[On ‘Right wouldest Thou be, O LORD, were I to contend with Thee’:] when I argue with You, I know that You will be right in Your words; but I wish to reason the case with You, so that You make Your way known to me.",
+  "licence": "Hebrew: public domain (Sefaria’s On Your Way text); Rosenberg’s English (CC-BY) not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Jeremiah 12:1, at [411,1]). Plain sense faithful: the chapter opens on the prophet’s question to the LORD, and 12:6 tells him his brethren and his father’s house have dealt treacherously with him; no four-word repeat of the key. Rashi on 12:1 says that when he argues he knows God will be right, yet he wishes to reason with Him so that God will make His way known to him: the reading is his, without drift. Radak and Metzudat David read the opening the same way. Entry passes entry-check unchanged."
+}

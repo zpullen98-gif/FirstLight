@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d137-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 137 --verse 40.31: Ibn Ezra on the lemma וקוי יי יחליפו reads קודם תום הכח הראשון, יבא כח אחר מהשם להם, exactly the evidence, and it carries the paraphrase (fresh strength from God before the first is spent) without addition; his second comment (Israel strengthened and returned, Babylon weakened) is a separate reading not claimed. verse.js ok (Isaiah 40:31, at [373,31]); day.js confirms 40:28 (the Creator fainteth not, neither is weary), 40:30 (youths faint, young men fall) and that 40:31 is the chapter's last verse before 41:1, so the context clause is faithful. entry-check ok, 35 words, src 124 chars. Ibn Ezra covers Isaiah; no comparison; tone plain.",
+ "better": ""
+}

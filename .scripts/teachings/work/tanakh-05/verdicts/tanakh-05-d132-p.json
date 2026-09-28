@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d132-p",
+ "d": 132,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore said I: ‘Look away from me, I will weep bitterly; Strain not to comfort me, for the destruction of the daughter of my people.’",
+ "ref": "Isaiah 22:4",
+ "at": [
+  355,
+  4
+ ],
+ "s": "In the burden of the Valley of Vision, the city’s rulers have fled and its people are taken bound; Rashi, on 22:4, reads ‘look away’ as God’s words to the ministering angels, and Radak, on 22:4, as the prophet’s words to those who would comfort him.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 22:4, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 22 (whole chapter read; comment on 22:4, lemma שעו מני)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 22:4 (these are the prophet’s words; let me be)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 22 (whole chapter read; comment on 22:4, lemmas על כן אמרתי and שעו מני)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 22:4 (leave me and do not comfort me; nothing on who speaks)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 22:4, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "שעו מני. חדלו ממני כך הקב\"ה אומר למלאכי השרת … על כן אמרתי. דברי הנביא אמר כנגד המנחמים … שעו מני. כלומר הרפו ממני אל תנחמוני כי אמרר נפשי בבכי שאבכה",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 22:4, ‘Look away from me’:] Leave off from me: so says the Holy One, blessed be He, to the ministering angels … [Radak, on 22:4, ‘Therefore said I’:] The words of the prophet; he spoke to the comforters … ‘Look away from me’: that is to say, let me be, do not comfort me, for I will make my soul bitter with the weeping that I weep.",
+  "licence": "Hebrew: public domain (Rashi, On Your Way); Radak on Nach, no licence stated by Sefaria, the text centuries old",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 22:4, at [355,4]); one unit, 25 words, no dash; curly quotes as printed. Plain sense faithful to 22:1 to 22:3 (the burden of the Valley of Vision; all thy rulers are fled together, all that are found are bound); no four-word repeat of the key. Rashi on 22:4 (lemma שעו מני) says the Holy One says this to the ministering angels; Radak on 22:4 (lemma על כן אמרתי) calls it the prophet’s words spoken to the comforters, and on שעו מני, do not comfort me. Ibn Ezra on 22:4 also calls them the prophet’s words. The two readings genuinely differ (God’s words against the prophet’s) and the sentence names both without resolving. Rashi and Radak on chapter 22 read in context; nothing contrary. Entry passes entry-check."
+}

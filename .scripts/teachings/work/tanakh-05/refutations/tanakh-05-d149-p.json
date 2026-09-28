@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d149-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js tanakh 149 --verse 20.9: Rashi on 20:9 has both lemmas verbatim (ואמרתי לא אזכרנו. ואם אמר לי לבי שלא לילך בשליחותו עוד; והיה בלבי. הנבואה כאש בוערת ועל כרחי אני צריך לילך), carrying 'the fire as the prophecy' and 'against my will I must go' on his mission; the mission element is Rashi's own, not shared with Radak or Metzudat David, so the attribution is distinctive. Plain sense checked in day.js: stocks 20:2, released on the morrow 20:3, laughing-stock 20:7 and the word of the LORD a reproach and derision 20:8; no four-word run from the key. verse.js ok (Jeremiah 20:9, at 419,9); entry-check ok, no errors or warnings. Evidence ellipsis is split by recheck-evidence.js. Tone, school and comparison attacks do not land.",
+ "better": ""
+}

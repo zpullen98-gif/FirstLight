@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-05-d146-p",
+ "d": 146,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "But let him that glorieth glory in this, that he understandeth, and knoweth Me, That I am the LORD who exercise mercy, justice, and righteousness, in the earth; for in these things I delight, Saith the LORD.",
+ "ref": "Jeremiah 9:23",
+ "at": [
+  408,
+  23
+ ],
+ "s": "Forbidding the wise, the mighty and the rich to boast, the LORD names the one ground for glory; Radak, on 9:23, reads understanding Him as grasping He is one and made all, and knowing Him as walking in His ways of mercy, justice and righteousness.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on Jeremiah, on Jeremiah 9:23, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "overreach",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Jeremiah, Hebrew (On Your Way) with Rosenberg’s English (Judaica Press, CC-BY), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 9:23",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 9:23",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 9:23",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)",
+    "locator": "Jeremiah 9:23, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "והשכל האל הוא שישכיל כי הוא אחד קדמון ואינו גוף והוא בורא הכל ומשגיח על הכל ומנהיג כל העולם בחכמתו עליונים ותחתונים וידיעת האל היא ללכת בדרכיו לעשות חסד משפט וצדקה כי כן עושה אותם הוא",
+  "lang": "Hebrew",
+  "gloss": "And understanding God is that one understand that He is one, eternal and without body, Creator of all, watching over all and governing the whole world, upper and lower, in His wisdom; and knowing God is to walk in His ways, doing kindness, justice and righteousness, for so He Himself does them.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old); no copyrighted English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Jeremiah 9:23, at [408,23]). Radak on 9:23 (lemma השכל וידוע אותי) distinguishes understanding God (that He is one, eternal, incorporeal, Creator and ruler of all) from knowing God (walking in His ways, doing kindness, justice and righteousness as He does): the reading is carried without drift. Changed the context clause: the proposal said the LORD warns that wisdom, might and riches “will not save”, which is Radak’s and Metzudat David’s gloss on 9:22, not the text, which only forbids the wise, the mighty and the rich to glory in them; now “Forbidding the wise, the mighty and the rich to boast, the LORD names the one ground for glory”. Rashi on 9:23 only glosses the grammar of השכל. Corrected entry passes entry-check."
+}

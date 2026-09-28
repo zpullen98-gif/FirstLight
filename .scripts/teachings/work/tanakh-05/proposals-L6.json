@@ -1,0 +1,77 @@
+{
+ "lane": "L6",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 149,
+   "primary": {
+    "id": "tanakh-05-d149-p",
+    "key": "And if I say: ‘I will not make mention of Him, Nor speak any more in His name’, Then there is in my heart as it were a burning fire Shut up in my bones, And I weary myself to hold it in, But cannot.",
+    "ref": "Jeremiah 20:9",
+    "at": [419, 9],
+    "s": "After his night in Pashhur’s stocks, Jeremiah complains that the LORD’s word has made him a laughing-stock; Rashi, on 20:9, reads the fire as the prophecy itself, which compels him against his will to keep going on God’s mission.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on Jeremiah 20:9, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ואמרתי לא אזכרנו. ואם אמר לי לבי שלא לילך בשליחותו עוד … והיה בלבי. הנבואה כאש בוערת ועל כרחי אני צריך לילך",
+     "gloss": "[On ‘if I say, I will not make mention of Him’:] and if my heart said to me not to go on His mission any more … [on ‘then there is in my heart’:] the prophecy, like a burning fire, and against my will I must go."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d149-s",
+    "key": "O house of David, thus saith the LORD: Execute justice in the morning, And deliver the spoiled out of the hand of the oppressor, Lest My fury go forth like fire, And burn that none can quench it, Because of the evil of your doings.",
+    "ref": "Jeremiah 21:12",
+    "at": [420, 12],
+    "s": "Having told Zedekiah’s envoys that the city will fall to Babylon, the prophet turns to the royal house; Radak, on 21:12, reads ‘in the morning’ as bidding David’s house to judge all who come crying out before turning to food, drink or their own needs.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Jeremiah 21:12, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "דינו לבקר משפט. לבקר קודם שתתעסקו באכילה ושתיה ובדבר מצרכיכם תשבו במקום הדין לדון כל מי שיבא לצעוק",
+     "gloss": "Execute justice in the morning: in the morning, before you busy yourselves with eating and drinking and with the matter of your needs, sit in the place of judgement to judge everyone who comes to cry out."
+    }
+   }
+  },
+  {
+   "d": 150,
+   "primary": {
+    "id": "tanakh-05-d150-p",
+    "key": "He judged the cause of the poor and needy; Then it was well. Is not this to know Me? saith the LORD.",
+    "ref": "Jeremiah 22:16",
+    "at": [421, 16],
+    "s": "Rebuking a king who builds by unpaid labour, the prophet holds up his father, who did justice; Metzudat David, on 22:16, takes such judging as knowing God because by it he cleaves to God’s own deeds, pitying the poor as God does.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Jeremiah 22:16, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "דן. היה דן דין עני ואביון ובעבור זה היה טוב לו כי הלא זהו הדעת אותי כי בזה מדבק במעשי לרחם על העניים כמוני",
+     "gloss": "He judged: he used to judge the cause of the poor and needy, and because of this it was well with him; for is not this the knowing of Me, since by this he cleaves to My deeds, to have compassion on the poor as I do."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d150-s",
+    "key": "Is not My word like as fire? Saith the LORD; And like a hammer that breaketh the rock in pieces?",
+    "ref": "Jeremiah 23:29",
+    "at": [422, 29],
+    "s": "Against prophets who pass off their dreams as His word, the LORD asks what straw has to do with wheat; Rashi, on 23:29, reads the fire as the force with which prophecy comes upon a prophet, and Radak, on 23:29, as a word that burns whatever it meets, so nothing can stand to annul it.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Jeremiah 23:29, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "הלא כה דברי כאש. לא היה להם לטעות ולדמות חלומות לומר שהם נבואה כי דבר נבואה כשבאה בפי הנביא בגבורה היא באה בו כאש בוערת … הלא כה דברי. דברי החולמים הם בטלים כמו שתראו כי הם אומרים שלום שלום ואין שלום אבל דברי הוא כאש שתצא ותשרף את אשר תמצא וכן הוא כפטיש יפוצץ סלע לא יעמוד דבר לפני דברי לבטלו כי את אשר דברתי אעשה",
+     "gloss": "[Rashi:] Is not My word so like fire: they should not have erred in likening dreams, saying that they are prophecy, for the word of prophecy, when it comes into the prophet’s mouth, comes into him with force like a burning fire … [Radak:] Is not My word so: the dreamers’ words are void, as you see, for they say peace, peace, and there is no peace; but My word is like fire that goes forth and burns whatever it finds, and likewise it is like a hammer that shatters rock: nothing stands before My word to annul it, for what I have spoken I will do."
+    }
+   }
+  }
+ ]
+}

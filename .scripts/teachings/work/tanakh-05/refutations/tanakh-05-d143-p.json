@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d143-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 143 --verse 2.2. Rashi at Jeremiah 2:2 (lemma זכרתי לך): were you to return to Me I would long (תאוותי) to have mercy on you, for I remember the kindness of your youth; that kindness is following My messengers Moses and Aaron from an inhabited land into the desert without provision, because you trusted in Me. The sentence carries this without adding anything (it omits only the wedding-canopy gloss). Evidence words verbatim in the packet. Plain sense checked in day.js: Jeremiah 1 holds the call (1:4 to 10) and two visions (almond rod 1:11, seething pot 1:13), and 2:1 to 2 sends him to cry in Jerusalem's ears; no four-word run from the key verse. verse.js ok (Jeremiah 2:2, at [401,2], 42 words); entry-check ok, no warns. No school, comparison or tone issue.",
+ "better": ""
+}

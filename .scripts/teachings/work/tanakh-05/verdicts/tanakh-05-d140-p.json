@@ -1,0 +1,34 @@
+{
+ "id": "tanakh-05-d140-p",
+ "d": 140,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Behold, My servant shall prosper, He shall be exalted and lifted up, and shall be very high.",
+ "ref": "Isaiah 52:13",
+ "at": [385, 13],
+ "s": "Before onlookers tell of a servant despised, crushed and cut off from the living, the LORD speaks of him; Rashi, on 52:13 and 53:3, reads the servant as Jacob, all Israel spoken of as one man, whose righteous will prosper at the end of days.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on Isaiah 52:13 and 53:3, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json", "edition": "Rashi on Isaiah, Hebrew (On Your Way), with Rosenberg’s Judaica Press English, Sefaria export commit 3f10136", "locator": "Isaiah 52 and 53 (whole of 52:11 to 53:12 read); comments on 52:13 (lemma הנה ישכיל עבדי) and 53:3 (lemma נבזה וחדל אישים)", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json", "edition": "Ibn Ezra on Isaiah, Hebrew and English, Friedlander (1873 to 1877), Sefaria export commit 3f10136", "locator": "Isaiah 52:13 and 53:3", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136", "locator": "Isaiah 52:13 and 53:3", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136", "locator": "Isaiah 52:13 and 53:3", "via": "packet"},
+   {"url": "https://www.sefaria.org/texts/Midrash", "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)", "locator": "Isaiah 52:13, nothing linked", "via": "packet"}
+  ],
+  "words": "הנה באחרית הימים יצליח עבדי יעקב צדיקים שבו … כן דרך הנביא הזה מזכיר כל ישראל כאיש אחד אל תירא עבדי יעקב ואף כאן הנה ישכיל עבדי בבית יעקב אמר",
+  "lang": "Hebrew",
+  "gloss": "[On 52:13, ‘Behold, My servant shall prosper’:] Behold, at the end of days My servant Jacob, the righteous among him, shall prosper. … [On 53:3, ‘despised and forsaken of men’:] Such is the way of this prophet: he mentions all Israel as one man, ‘Fear not, My servant Jacob’; and here too, ‘Behold, My servant shall prosper’, he said it of the house of Jacob.",
+  "licence": "Hebrew: public domain (Sefaria’s On Your Way text); Rosenberg’s English (CC-BY) not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 52:13, at [385,13], matching the proposal). Plain sense faithful to day.js: 52:13 is in God’s voice (‘My servant’), and 53:1 to 9 is a quoted speech of onlookers describing one despised (53:3), crushed (53:5) and cut off out of the land of the living (53:8); no four-word repeat of the key. Rashi’s own Hebrew at 52:13 names the servant as Jacob, the righteous among him, prospering at the end of days, and at 53:3 says the prophet speaks of all Israel as one man and that 52:13 was said of the house of Jacob; his comments across 52:14 to 53:12 keep that reading throughout (the nations speaking of Israel). The sentence carries exactly that, nothing added. No forbidden or watch terms; Isaiah 53 is on the sensitive list for its contested interpretation rather than a rule 6 category (the key verse itself is not a hard passage), and the sentence stays within the Jewish commentator’s reading with no comparison to any other tradition. Entry passes entry-check (ok, no errors or warnings)."
+}

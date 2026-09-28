@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d130-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 130 --verse 10.20. Rashi on 10:20, lemma להשען על מכהו: לסמוך על מלכי מצרי׳ שהם היו תחלת המציקים להם, the kings of Egypt, first oppressors. Radak on 10:20, lemma והיה ביום ההוא: כמו שהיה אחז נשען על מלך אשור ... כי צריך לו שיעבדנו ויתן לו מס ... לא יבקש מהאדם דבר אלא שישען בו באמת, carrying Assyria’s king, Ahaz leaning on him, tribute exacted by a man, and God asking only reliance in truth; a genuine difference on the smiter, named not resolved. Evidence segments found verbatim by machine. Plain sense checked in day.js: 10:12 the Lord performs His whole work on Zion, then punishes the king of Assyria; 10:16 to 10:19 his forest thinned; 10:20 turns to the remnant. verse.js ok (Isaiah 10:20, at [343,20]); entry-check.js ok. Every attack tried; none landed.",
+ "better": ""
+}

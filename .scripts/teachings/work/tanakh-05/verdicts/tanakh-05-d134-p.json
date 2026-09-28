@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d134-p",
+ "d": 134,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For it is precept by precept, precept by precept, Line by line, line by line; Here a little, there a little.",
+ "ref": "Isaiah 28:10",
+ "at": [
+  361,
+  10
+ ],
+ "s": "With priest and prophet reeling from wine, the chapter asks whom one shall teach; Rashi, on 28:10, reads it as the people setting an idolatrous precept against each one the prophet brings, and holding theirs weightier, and Ibn Ezra, on 28:10, as speech fit for a small child, taught as writing is taught.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Ibn Ezra (Hebrew, Friedlander’s edition, London 1877), on Isaiah 28:10, Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 28 (whole chapter read; comment on 28:10, lemmas כי צו לצו צו לצו, קו לקו, זעיר שם; 28:9 and 28:13 read for context)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 28:10 (comments on 28:10, lemmas כי צו לצו and קו לקו)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 28:10 (the builder’s line and teaching children little by little)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 28:10 (fence upon fence to the commandments)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 28:10, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "כי צו לצו צו לצו. נביא מצוה להם מאת הקב\"ה והם יש להם צו של עכו\"ם כנגד צו זה וחוזר הנביא ומוכיחם והם תמיד אומרים יש לנו צו לצו שלנו חשוב משלך … כי צו לצו. ראויים הם לדבר עמם כאשר ידבר האב אל בנו הקטן, שלא ידע עוד … קו לקו. למוד הכתיבה",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 28:10, ‘precept by precept’:] The prophet commands them from the Holy One, blessed be He, and they have a precept of idolatry set against this precept; the prophet admonishes them again, and they always say, ‘We have a precept for the precept; ours is weightier than yours’ … [Ibn Ezra, on 28:10:] they are fit to be spoken to as a father speaks to his small son, who does not yet know … ‘Line by line’: the teaching of writing.",
+  "licence": "Hebrew: public domain (Rashi, On Your Way; Ibn Ezra, Friedlander 1877)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 28:10, at [361,10]); one unit, no dash. Plain sense faithful: 28:7 priest and prophet reel through wine and strong drink, 28:9 asks whom one shall teach knowledge; the context clause does not repeat four words of the key. Rashi on 28:10 (lemma כי צו לצו צו לצו): the prophet brings a command from God and they set an idolatrous precept against it, always saying theirs is weightier; the sentence’s “against each one” renders Rashi’s “against this precept” with his “always”, without drift. Ibn Ezra on 28:10: they must be spoken to as a father speaks to a small son who does not yet know, and “line by line” is the teaching of writing; the sentence carries exactly that. The two genuinely differ (counter-precepts of the people versus the manner fit for children) and are named without resolving. Entry passes entry-check."
+}

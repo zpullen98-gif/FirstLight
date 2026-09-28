@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d129-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 129 --verse 6.10 and --verse 6.9, and day.js 129 for Isaiah 6. Rashi on 6:10, lemma השמן: לבם הולך הלוך והשמן (a continuing process, not an act done to them), and lemma פן יראה בעיניו: נתנו לבם שלא ישמעו דברי נביאים שהם יראים שמא יוטבו בעיניהם דבריו ויבינו בלבם וישובו אלי והיא רפואתם, verbatim as the evidence gives it; his 6:9 (you do not set your heart to understand) agrees. The reading (their own doing, refusing to hear the prophets for fear they might understand, repent and be cured) is carried by those words without addition; ‘repent’ renders וישובו fairly. Strongest attack: on this hard verse Radak on 6:9 gives as first view that God withholds the ways of repentance as judgement (Pharaoh), and Ibn Ezra on 6:9 prefers that repentance is not accepted once punishment is decreed; but both sit on 6:9, Radak’s second view on 6:9 and Metzudat David on 6:10 run the same way as Rashi, and the sentence names Rashi alone and resolves nothing, so no rule 5 breach. Plain sense: 6:1 to 8 throne vision and sending, 6:9 to 10 the charge, 6:11 until the land is utterly waste; the hardening is stated plainly, not softened, no four-word repeat. verse.js ok (Isaiah 6:10, at [339,10], no dash; closing ’ is the translation’s own). entry-check re-run on a fresh scratch copy (scratch/refute2-tanakh-05-d129-p.json): ok, no errors or warnings; 42 words; src 97 chars, edition named. No forbidden or watch term, no comparison, no tone issue.",
+ "better": ""
+}

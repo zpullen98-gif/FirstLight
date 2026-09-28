@@ -1,0 +1,182 @@
+{
+ "lane": "L2",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 127,
+   "primary": {
+    "id": "tanakh-05-d127-p",
+    "key": "Come now, and let us reason together, Saith the LORD; Though your sins be as scarlet, They shall be as white as snow; Though they be red like crimson, They shall be as wool.",
+    "ref": "Isaiah 1:18",
+    "at": [334, 18],
+    "s": "After the LORD refuses Judah’s offerings and bids it cease from evil and plead for the widow, an appeal follows; Rashi, on 1:18, reads it as God and Israel weighing together who wronged whom, hope of repentance still held out, and Ibn Ezra, on 1:18, as the prophet bidding Israel join him in accepting God’s rebuke.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Ibn Ezra (Hebrew, Friedlander, London 1877), on Isaiah 1:18, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "לכו נא ונוכחה. יחד אני ואתם ונדע מי סרח על מי ואם אתם סרחתם עלי עודני נותן לכם תקוה לשוב … יש אומר כי ונוכחה דברי השם … והנכון בעיני שהוא דברי הנביא לישראל, כאומרו השם אמר לי שנקבל תוכחת",
+     "gloss": "[Rashi, on 1:18, ‘Come now, and let us reason’:] Together, I and you, and we shall know who has offended against whom; and if you have offended against Me, I still give you hope to return … [Ibn Ezra, on 1:18, ‘let us reason’:] Some say that ‘let us reason’ is the words of God … and what is right in my eyes is that it is the prophet’s words to Israel, as though he said: God told me that we should accept rebuke."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d127-s",
+    "key": "And for his allowance, there was a continual allowance given him of the king, every day a portion, all the days of his life.",
+    "ref": "2 Kings 25:30",
+    "at": [333, 30],
+    "s": "As Kings ends, Evil-merodach of Babylon frees Jehoiachin from prison and honours him; Radak, on 25:30, takes ‘his life’ as Jehoiachin’s, not Evil-merodach’s, since the tranquillity God gives the righteous is not withdrawn but goes with them to the Garden of Eden.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Kings 25:30, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כל ימי חייו. ימי חייו של יהויכין ובדברי רז\"ל רב ולוי חד אמר ימי חיו של אויל מרודך וחד אמר ימי חייו של יהויכין ומסתברא כמאן דאמר ימי חייו של יהויכין שכשהקדוש ברוך הוא נותן שלוה לצדיקים אינו נוטלה מהם אלא הולכת עמהם לגן עדן",
+     "gloss": "‘All the days of his life’: the days of Jehoiachin’s life. In the words of our sages, Rav and Levi: one said the days of Evil-merodach’s life, and one said the days of Jehoiachin’s life; and it is reasonable to hold with the one who said the days of Jehoiachin’s life, for when the Holy One, blessed be He, gives tranquillity to the righteous, He does not take it from them, but it goes with them to the Garden of Eden."
+    }
+   }
+  },
+  {
+   "d": 128,
+   "primary": {
+    "id": "tanakh-05-d128-p",
+    "key": "And the harp and the psaltery, the tabret and the pipe, And wine, are in their feasts; But they regard not the work of the LORD, Neither have they considered the operation of His hands.",
+    "ref": "Isaiah 5:12",
+    "at": [338, 12],
+    "s": "The chapter’s second woe falls on those who drink from early morning into the night; Radak, on 5:12, reads the LORD’s work as Torah and the words of the wise, which the idle rich neglect for music and wine, and Ibn Ezra, on 5:12, as the calamities God brought on Israel when the ten tribes went into exile.",
+    "by": "radak",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Radak (Hebrew, Radak on Nach) and Ibn Ezra (Hebrew, Friedlander, London 1877), on Isaiah 5:12, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak; ibn-ezra",
+     "words": "ואת פעל ה' לא יביטו ומעשה ידיו לא ראו. הנה הם פנויים ממלאכה כי הם עשירים, והנה כל עסקם במשתה ובשמיעת הנגונים ולא יתעסקו בכל עתות הפנאי בדברי תורה ובדברי חכמים שהם פעל ה' … ולפי דעתי כי במקום הזה לא ידבר כי אם על הרעות שהביא השם על ישראל, כי גלו עשרות השבטים",
+     "gloss": "[Radak, on 5:12, ‘But they regard not the work of the LORD, neither have they considered the operation of His hands’:] See, they are free of labour, for they are rich, and all their occupation is in drinking and in hearing music, and in all their hours of leisure they do not busy themselves with the words of Torah and the words of the wise, which are the work of the LORD … [Ibn Ezra, on 5:12:] And in my opinion, in this place it speaks only of the evils that God brought upon Israel, when the ten tribes went into exile."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d128-s",
+    "key": "Cease ye from man, in whose nostrils is a breath; For how little is he to be accounted!",
+    "ref": "Isaiah 2:22",
+    "at": [335, 22],
+    "s": "Closing a chapter of pride brought low and idols flung to moles and bats, a last charge follows; Rashi, on 2:22, reads it as ignoring those who lead astray to worship the handiwork of man, whose life is a passing breath, and Ibn Ezra, on 2:22, as not relying on man to save, since man cannot annul God’s decree.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Ibn Ezra (Hebrew, Friedlander, London 1877), on Isaiah 2:22, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "חדלו לכם מן האדם. שלא לשמוע, לאותן המתעים אתכם מאחרי ולהשתחוות למעשה ידיו … אשר נשמה באפו. אשר כל חייתו וכחו תלויה בנשמת אפו שהוא רוח פורח שהיום ישנה בו ומחר תצא ממנו … אחר שהשם גזרו עליכם, וזהו מפני פחד יי', אין כח באדם לבטל גזירתיו, על כן חדלו לכם מן האדם שלא יושיעו אתכם כי הבל המה",
+     "gloss": "[Rashi, on 2:22, ‘Cease ye from man’:] So as not to listen to those who lead you astray from following Me, and to bow down to the work of his hands … ‘in whose nostrils is a breath’: whose whole life and strength hang on the breath of his nostrils, which is a fleeting wind, in him today and gone out of him tomorrow … [Ibn Ezra, on 2:22:] Since God has decreed against you, and this is ‘from before the terror of the LORD’, man has no power to annul His decrees; therefore cease from man, for they will not save you, for they are vanity."
+    }
+   }
+  },
+  {
+   "d": 130,
+   "primary": {
+    "id": "tanakh-05-d130-p",
+    "key": "And it shall come to pass in that day, That the remnant of Israel, And they that are escaped of the house of Jacob, Shall no more again stay upon him that smote them; But shall stay upon the LORD, the Holy One of Israel, in truth.",
+    "ref": "Isaiah 10:20",
+    "at": [343, 20],
+    "s": "Foretelling Assyria’s fall once God has finished His work on Zion, the prophet turns to those who survive; Rashi, on 10:20, takes the smiter as Egypt’s kings, their first oppressors, and Radak, on 10:20, as Assyria’s king, on whom Ahaz leaned, since a man leaned on exacts tribute while God asks only trust in truth.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 10:20, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "להשען על מכהו. לסמוך על מלכי מצרי' שהם היו תחלת המציקים להם … להשען על מכהו כמו שהיה אחז נשען על מלך אשור והיה מכהו במה שהיה מכביד עליו או מכהו במלחמה כי אחר כן נלחם בו ועתה הכירו כי אין להשען באדם כי צריך לו שיעבדנו ויתן לו מס וכאשר לא יתן או הוא לא ירצה בו יכהו וילחם בו, אבל ראוי להשען על ה' צבאות כי לא יבקש מהאדם דבר אלא שישען בו באמת",
+     "gloss": "[Rashi, on 10:20, ‘stay upon him that smote them’:] To rely on the kings of Egypt, who were the first to oppress them … [Radak, on 10:20:] ‘Stay upon him that smote them’, as Ahaz leaned on the king of Assyria, and he smote him by pressing heavily on him, or smote him in war, for afterwards he fought him; and now they recognised that one must not lean on a man, for he needs him to serve him and pay him tribute, and when he does not pay, or when he no longer wants him, he smites him and makes war on him; but it is fitting to lean on the LORD of hosts, for He asks nothing of a man but that he lean on Him in truth."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d130-s",
+    "key": "Therefore with joy shall ye draw water Out of the wells of salvation.",
+    "ref": "Isaiah 12:3",
+    "at": [345, 3],
+    "s": "The song for that day thanks God whose anger has turned to comfort; Metzudat David, on 12:3, reads it as one drawing gladly from a flowing spring, unafraid it will fail, since salvation will not cease, for the LORD’s hand is not short.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Isaiah 12:3, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "ושאבתם מים בששון. ר״ל כמו השואב מים מן המעין הנובע הנה שואב הוא בששון כי לא ידאג פן יכלה המים כן תשאבו בששון את הישועה ממעיני הישועה כי לא תופסק התשועה כי יד ה׳ לא תקצר",
+     "gloss": "‘And you shall draw water with joy’: that is to say, as one who draws water from a flowing spring draws it with joy, for he does not worry lest the water run out, so you will draw salvation with joy from the wells of salvation, for the salvation will not cease, for the hand of the LORD will not be short."
+    }
+   }
+  },
+  {
+   "d": 131,
+   "primary": {
+    "id": "tanakh-05-d131-p",
+    "key": "My heart crieth out for Moab; her fugitives reach unto Zoar, a heifer of three years old; for by the ascent of Luhith With weeping they go up; for in the way of Horonaim they raise up a cry of destruction.",
+    "ref": "Isaiah 15:5",
+    "at": [348, 5],
+    "s": "In the burden of Moab, its cities laid waste in a night, its people wail on every height; Rashi, on 15:5, reads it as the prophet’s own grief, a prophet of Israel lamenting the calamity of another nation, and Radak, on 15:5, as the prophet voicing what each Moabite will say.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 15:5, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "לבי למואב יזעק. נביאי ישראל אינם כנביאי אומות העולם בלעם היה מבקש לעקור את ישראל על לא דבר ונביאי ישראל מתאוננים על פורענות הבאה על האומות … לבי למואב. מדבר הנביא על לשון העם שיאמר כל אחד מהם כך ואמר זעקה ללב על דרך משל מרוב המייתו",
+     "gloss": "[Rashi, on 15:5, ‘My heart crieth out for Moab’:] The prophets of Israel are not like the prophets of the nations of the world: Balaam sought to uproot Israel for nothing, while the prophets of Israel lament over the calamity that comes upon the nations … [Radak, on 15:5, ‘My heart for Moab’:] The prophet speaks in the tongue of the people, that each one of them will say so; and he ascribed crying out to the heart figuratively, from the greatness of his moaning."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d131-s",
+    "key": "And a throne is established through mercy, And there sitteth thereon in truth, in the tent of David, One that judgeth, and seeketh justice, and is ready in righteousness.",
+    "ref": "Isaiah 16:5",
+    "at": [349, 5],
+    "s": "After the plea that Moab hide the outcasts from the spoiler, the oracle turns to David’s house; Radak, on 16:5, reads the judge as Hezekiah, seeking out the cause of the poor and oppressed even when they did not cry to him.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Isaiah 16:5, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "והוכן בחסד כסא. של חזקיהו יהיה נכון בחסד שיעשה … ומהיר צדק. פירוש שופט שהיה שופט משפט צדק בביתו לכל הבא לפניו וגם היה דורש וחוקר על אשר לא יבא לפניו והיה דורש משפט העניים והעשוקים אף על פי שלא יזעקו אליו",
+     "gloss": "‘And a throne is established through mercy’: that of Hezekiah will be established through the mercy he will do … ‘and is ready in righteousness’: that is, a judge who judged righteous judgement in his house for everyone who came before him, and who also sought and searched out those who did not come before him, and sought the justice of the poor and the oppressed even though they did not cry out to him."
+    }
+   }
+  },
+  {
+   "d": 132,
+   "primary": {
+    "id": "tanakh-05-d132-p",
+    "key": "Therefore said I: ‘Look away from me, I will weep bitterly; Strain not to comfort me, for the destruction of the daughter of my people.’",
+    "ref": "Isaiah 22:4",
+    "at": [355, 4],
+    "s": "In the burden of the Valley of Vision, the city’s rulers have fled and its people are taken bound; Rashi, on 22:4, reads ‘look away’ as God’s words to the ministering angels, and Radak, on 22:4, as the prophet’s words to those who would comfort him.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 22:4, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "שעו מני. חדלו ממני כך הקב\"ה אומר למלאכי השרת … על כן אמרתי. דברי הנביא אמר כנגד המנחמים … שעו מני. כלומר הרפו ממני אל תנחמוני כי אמרר נפשי בבכי שאבכה",
+     "gloss": "[Rashi, on 22:4, ‘Look away from me’:] Leave off from me: so says the Holy One, blessed be He, to the ministering angels … [Radak, on 22:4, ‘Therefore said I’:] The words of the prophet; he spoke to those who comfort … ‘Look away from me’: that is to say, let me be, do not comfort me, for I will make my soul bitter with the weeping that I weep."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d132-s",
+    "key": "And the LORD will smite Egypt, smiting and healing; and they shall return unto the LORD, and He will be entreated of them, and will heal them.",
+    "ref": "Isaiah 19:22",
+    "at": [352, 22],
+    "s": "In the burden of Egypt, an altar to the LORD is foretold in its midst; Metzudat David, on 19:22, reads the healing as following the blow at once, God punishing little by little for their good, not waiting until their measure is full.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Isaiah 19:22, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "ונגף. כאשר יחטאו לו ינגוף אותם אבל לא תתמיד כי מיד אחר הנגיפה ירפאם ר״ל לא יאריך להם עד שתתמלא סאתם וינגפו מבלי תקומה כי לטובתם יפרע מהם מעט מעט",
+     "gloss": "‘And He will smite’: when they sin against Him He will smite them, but it will not continue, for immediately after the smiting He will heal them; that is to say, He will not bear long with them until their measure is full and they are smitten beyond rising, for it is for their good that He exacts from them little by little."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d124-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 124 --verse 17.2: Rashi, lemma רק לא כמלכי ישראל, says he abolished the guard posts set since Jeroboam on the roads to keep Israel from the pilgrimage, and because they were abolished and Israel still held back from going up, their sentence of exile in his days was sealed, since until now they hung the corruption on their kings and now there was none to hang it on; every clause of the reading is in his words, the omitted golden-calf reason is not contradicted; both evidence halves found in the packet by machine. Radak and Metzudat David (citing Gittin 88a) give the same guards, so no differing reading is hidden. day.js: 17:1 Hoshea begins, 17:6 Samaria taken and Israel carried to Assyria, so the context clause holds and repeats no four words of the verse; the exile is stated plainly. verse.js ok (2 Kings 17:2, at [325,2]); entry-check.js ok (45 words, at the cap; src 128 characters). Nothing landed.",
+ "better": ""
+}

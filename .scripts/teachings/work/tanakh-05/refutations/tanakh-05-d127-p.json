@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d127-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 127 --verse 1.18. Rashi on 1:18, lemma לכו נא ונוכחה: יחד אני ואתם ונדע מי סרח על מי ... עודני נותן לכם תקוה לשוב, carries God and Israel weighing together who wronged whom with hope to return still held out. Ibn Ezra on 1:18, lemma לכו [ונוכחה]: reports some take it as God’s words, then והנכון בעיני שהוא דברי הנביא לישראל ... שנקבל תוכחת, the first person plural (and his כי גם הנביא) supporting ‘join him’; the two genuinely differ on the speaker and the sentence does not resolve it. All three evidence segments found verbatim in the packet by machine. Plain sense checked in day.js: 1:11 to 1:15 refuse offerings, 1:16 to 1:17 cease to do evil, plead for the widow, 1:1 Judah and Jerusalem. verse.js ok (Isaiah 1:18, at [334,18]); entry-check.js ok. No school, comparison or tone issue. Every attack tried; none landed.",
+ "better": ""
+}

@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d137-p",
+ "d": 137,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But they that wait for the LORD shall renew their strength; They shall mount up with wings as eagles; They shall run, and not be weary; They shall walk, and not faint.",
+ "ref": "Isaiah 40:31",
+ "at": [
+  373,
+  31
+ ],
+ "s": "The chapter that sets the unwearied Creator against youths who faint and fall closes on this verse; Ibn Ezra, on 40:31, reads the renewal as fresh strength sent by God before the first is spent.",
+ "by": "ibn-ezra",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Ezra, commentary on Isaiah 40:31, Hebrew (Friedlander’s edition, London 1877) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way) with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 40 (comments on 40:28 to 40:31 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877) with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 40 (Ibn Ezra on 40:28 to 40:31 read; comment on 40:31, lemma וקוי יי יחליפו)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 40 (comments on 40:28 to 40:31 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 40 (comments on 40:28 to 40:31 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 40:28 to 40:31, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "וקוי יי יחליפו. קודם תום הכח הראשון, יבא כח אחר מהשם להם, וכמוהו אם יכרת ועוד יחליף",
+  "lang": "Hebrew",
+  "gloss": "‘They that wait for the LORD shall renew’: before the first strength is spent, another strength comes to them from God; compare ‘if it be cut down, it will sprout again’ (Job 14:7).",
+  "licence": "Hebrew: public domain (Friedlander, London 1877); English: public domain (Friedlander, 1873), not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 40:31, at [373,31]). Plain sense faithful: 40:28 sets the Creator who ‘fainteth not, neither is weary’ against 40:30’s youths who faint and fall, and 40:31 is the chapter’s last verse; no four-word run from the key. Ibn Ezra on 40:31 (lemma וקוי יי יחליפו) says before the first strength is spent another comes to them from God, which is the reading exactly. He adds a second sense on the whole verse (Israel strengthened and brought back to Jerusalem, Babylon weakened), which does not contradict it; Radak and Metzudat David run close (new strength at every time). Entry passes entry-check."
+}

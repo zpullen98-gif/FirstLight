@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-05-d124-p",
+ "d": 124,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he did that which was evil in the sight of the LORD, yet not as the kings of Israel that were before him.",
+ "ref": "2 Kings 17:2",
+ "at": [
+  325,
+  2
+ ],
+ "s": "Opening Israel’s last reign, the chapter gives its verdict on Hoshea; Rashi, on 17:2, reads the difference as his removing the guards posted since Jeroboam’s days against pilgrimage, so when Israel still would not go up, with no king to blame, their exile was sealed.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on 2 Kings 17:2, Hebrew (the Metsudah Tanach series, Lakewood N.J.) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23): Rashi on II Kings, Hebrew “The Metsudah Tanach series, Lakewood, N.J”",
+    "locator": "II Kings 17:2, lemma רַק לֹא כְּמַלְכֵי יִשְׂרָאֵל",
+    "via": "packet"
+   }
+  ],
+  "words": "שֶׁבִּטֵּל פַּרְדֵיסָאוֹת שֶׁיָּשְׁבוּ מִימֵי יָרָבְעָם עַל הַדְּרָכִים, לִשְׁמֹר שֶׁלֹּא יַעֲלוּ יִשְׂרָאֵל לָרֶגֶל … וּלְפִי שֶׁבִּטְּלוּ פַּרְדֵּיסָאוֹת וְהֵם נִמְנְעוּ מִלַּעֲלוֹת לָרֶגֶל, לְפִיכָךְ נֶחְתַּם גְּזַר דִּינָם לִגְלוֹת בְּיָמָיו, שֶׁעַד עַכְשָׁיו תָּלוּ הַקַּלְקָלָה בְּמַלְכֵיהֶם, וְעַתָּה לֹא הָיָה בְּמִי לִתְלוֹת",
+  "lang": "Hebrew",
+  "gloss": "For he abolished the guard posts set on the roads since the days of Jeroboam to keep Israel from going up for the festival … and because the guard posts were abolished and they still held back from going up, their sentence of exile in his days was sealed; until now they had hung the corruption on their kings, and now there was no one to hang it on.",
+  "licence": "Hebrew: CC-BY",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 2 Kings 17:2, at [325,2]). Rashi at 17:2 (lemma רק לא כמלכי ישראל) carries every clause of the reading: the guards posted since Jeroboam against pilgrimage, Israel still not going up, no king left to blame, exile sealed in his days; the omitted detail on the calves is not contradicted. Radak and Metzudat David (citing Gittin 88a) agree on the guards, so no disagreement is suppressed. Context clause checked against day.js: Hoshea begins at 17:1 and Samaria falls and Israel is carried to Assyria at 17:6; the exile is stated plainly. entry-check ok (45 words, at the cap)."
+}

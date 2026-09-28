@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d127-p",
+ "d": 127,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Come now, and let us reason together, Saith the LORD; Though your sins be as scarlet, They shall be as white as snow; Though they be red like crimson, They shall be as wool.",
+ "ref": "Isaiah 1:18",
+ "at": [
+  334,
+  18
+ ],
+ "s": "After the LORD refuses Judah’s offerings and bids it cease from evil and plead for the widow, an appeal follows; Rashi, on 1:18, reads it as God and Israel weighing together who wronged whom, hope of repentance still held out, and Ibn Ezra, on 1:18, as the prophet bidding Israel join him in accepting God’s rebuke.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Ibn Ezra (Hebrew, Friedlander, London 1877), on Isaiah 1:18, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 1:18, lemma לכו נא ונוכחה (with the rest of his comments on 1:18 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 1:18, lemma לכו [ונוכחה]",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 1:18 (God speaks: the pleading of litigants; not used)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 1:18 (who has offended whom; not used)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 1:18, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "לכו נא ונוכחה. יחד אני ואתם ונדע מי סרח על מי ואם אתם סרחתם עלי עודני נותן לכם תקוה לשוב … יש אומר כי ונוכחה דברי השם … והנכון בעיני שהוא דברי הנביא לישראל, כאומרו השם אמר לי שנקבל תוכחת",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 1:18, ‘Come now, and let us reason’:] Together, I and you, and we shall know who has offended against whom; and if you have offended against Me, I still give you hope to return … [Ibn Ezra, on 1:18, ‘let us reason’:] Some say that ‘let us reason’ is the words of God … and what is right in my eyes is that it is the prophet’s words to Israel, as though he said: God told me that we should accept rebuke.",
+  "licence": "Hebrew: public domain (Rashi, On Your Way; Ibn Ezra, Friedlander 1877)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 1:18, at [334,18]); one unit, 34 words, no dash. Plain sense faithful to day.js: 1:11 to 1:15 refuse the sacrifices, new moons and prayers, 1:16 to 1:17 bid them cease to do evil and plead for the widow, and 1:18 follows as the appeal; no four-word repeat of the key. Rashi on 1:18 (lemma לכו נא ונוכחה) reads it as I and you together, to know who offended whom, with hope to return still given: the sentence carries it. Ibn Ezra on 1:18 reports that some take ונוכחה as God’s words and holds his own view that it is the prophet’s words to Israel, that we accept rebuke (Friedlander’s English: we, you Israel and I): the sentence carries it. The two genuinely differ on who speaks and the sentence names both without resolving. Radak and Metzudat David also read; Midrash empty. Entry passes entry-check; src names each edition."
+}

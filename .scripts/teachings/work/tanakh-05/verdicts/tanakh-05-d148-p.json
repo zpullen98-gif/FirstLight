@@ -1,0 +1,33 @@
+{
+ "id": "tanakh-05-d148-p",
+ "d": 148,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Thus saith the LORD: Cursed is the man that trusteth in man, And maketh flesh his arm, And whose heart departeth from the LORD.",
+ "ref": "Jeremiah 17:5",
+ "at": [416, 5],
+ "s": "Setting a desert shrub against a watered tree, the chapter pronounces a curse; Radak, on 17:5, reads the curse as resting on the heart that turns away, for relying on a man is no evil if one holds he helps only by God’s aid.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on Jeremiah, on Jeremiah 17:5, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136", "locator": "Jeremiah 17:5, lemma ומן ה' יסור לבו (also read 17:6 to 7)", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "edition": "Rashi on Jeremiah, Hebrew (On Your Way) with Rosenberg’s Judaica Press English, Sefaria export commit 3f10136", "locator": "Jeremiah 17:5", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136", "locator": "Jeremiah 17:5", "via": "packet"},
+   {"url": "https://www.sefaria.org/texts/Midrash", "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)", "locator": "Jeremiah 17:5, nothing linked", "via": "packet"}
+  ],
+  "words": "ומן ה' יסור לבו. כי אם לא יסור לבו מה' אינו רע אם יבטח באדם שיעזרהו ותהיה כונתו כי בעזרת האל יוכל האדם לעזור לא זולתו",
+  "lang": "Hebrew",
+  "gloss": "[On ‘and whose heart departeth from the LORD’:] for if his heart does not turn from the LORD, it is no evil if he trusts in a man to help him, provided his intention is that a man can help only with God’s help and not otherwise.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old); no English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Jeremiah 17:5, at [416,5]). Plain sense faithful: 17:6 likens the one cursed to a tamarisk in the desert and 17:8 the one blessed to a tree planted by the waters, framing the curse of 17:5; no four-word repeat of the key. Radak’s comment on the lemma ‘and whose heart departeth from the LORD’ makes the turning of the heart the ground of the curse and says trusting a man for help is no evil when one holds that a man helps only by God’s aid; the reading says that and no more. Rashi (sabbatical-year trust) and Metzudat David differ in emphasis but do not contradict. Entry passes entry-check."
+}

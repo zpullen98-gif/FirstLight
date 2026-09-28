@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d142-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 142 --verse 63.9. Rashi, lemma לא צר (aleph): לא היצר להם כפי מעלליהם שהיו ראויין ללקות כי מלאך פניו הוא מיכאל שר הפנים ... הושיעם תמיד בשליחותו של מקום: his gloss is a negation, so 'reading the written not' states only what his lemma and gloss show (Radak at the same verse confirms כתוב באל\"ף וקרי בוי\"ו), and 'not afflicting them as their deeds deserved, since Michael, prince of the Presence, always saved them' is carried word for word. Ibn Ezra (Friedlander Hebrew), lemma לא צר: האמת שהוא בוי\"ו ... דרך משל ... כאלו גם הוא היה בצרה על כן מהר להושיעם, carrying 'distressed, as it were, and so hastening to save'. The two differ and are named without resolution. Evidence words re-found verbatim. day.js: 63:7 opens a first-person recital of the LORD's mercies and goodness to the house of Israel; the context clause is faithful and repeats no four words of the key. verse.js ok (Isaiah 63:9, at [396,9]; the stray ' .' in day.js is rightly omitted); entry-check ok, no warns, 60 words at the two-voice cap.",
+ "better": ""
+}

@@ -1,0 +1,212 @@
+{
+ "lane": "L4",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 138,
+   "primary": {
+    "id": "tanakh-05-d138-p",
+    "key": "I form the light, and create darkness; I make peace, and create evil; I am the LORD, that doeth all these things.",
+    "ref": "Isaiah 45:7",
+    "at": [
+     378,
+     7
+    ],
+    "s": "Closing the LORD’s address to Cyrus, which insists there is no God beside Him; Ibn Ezra, on 45:7, takes ‘create’ as decree, darkness being nothing but absence of light, and the evil as war or sickness, named because Cyrus is strengthened against Babylon’s king.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, Commentary on Isaiah, on Isaiah 45:7, Hebrew (Friedlander, London 1877), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "ובורא חשך. מגזרת בריאה כטעם גזירה, כי החשך איננו כלום רק העדר האור … ובורא רע. כמוהו, והנה רע מלחמה הפך שלום או חולי בגוף בן אדם שהוא נלחם עם התולדת, והזכיר זה בפרשה הזאת שהוא יחזק כורש הפך מלך בבל",
+     "gloss": "And creates darkness: from the word for creating, in the sense of decree, for darkness is nothing but the absence of light … And creates evil: the same; evil here is war, the opposite of peace, or sickness in a man’s body, which fights against his constitution; and he mentions this in this passage because He will strengthen Cyrus, against the king of Babylon."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d138-s",
+    "key": "One shall say: ‘I am the LORD’S’; And another shall call himself by the name of Jacob; And another shall subscribe with his hand unto the LORD, And surname himself by the name of Israel.",
+    "ref": "Isaiah 44:5",
+    "at": [
+     377,
+     5
+    ],
+    "s": "After spirit is promised to Jacob’s offspring like water on dry ground, the verse tells who will claim the name; Rashi, on 44:5, hears four kinds of people in its four clauses: the wholly righteous, young children of the wicked, the penitent, and proselytes.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on Isaiah, on Isaiah 44:5, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "זה יאמר לה' אני. אלו צדיקים גמורים … וזה יקרא בשם יעקב. אלו קטנים בני רשעים … זה יכתוב ידו לה'. אלו בעלי תשובה … ובשם ישראל יכנה. אלו הגרים מעכו\"ם כך שנויה באבות דרבי נתן",
+     "gloss": "This one shall say, I am the LORD’s: these are the wholly righteous … and this one shall call himself by the name of Jacob: these are the little children of the wicked … this one shall write with his hand, To the LORD: these are the penitent … and surname himself by the name of Israel: these are the proselytes from the idolaters; so it is taught in Avot de Rabbi Natan."
+    }
+   }
+  },
+  {
+   "d": 139,
+   "primary": {
+    "id": "tanakh-05-d139-p",
+    "key": "Behold, I have refined thee, but not as silver; I have tried thee in the furnace of affliction.",
+    "ref": "Isaiah 48:10",
+    "at": [
+     381,
+     10
+    ],
+    "s": "Midway through a rebuke of obstinate Jacob, spared for the sake of God’s name; Radak, on 48:10, reads it as a refining short of the silversmith’s, who removes all the dross, since then few would have remained, the wicked being afflicted but not cut off.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Isaiah, on Isaiah 48:10, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ולא בכסף. ולא כצורף כסף כי צורף הכסף יסיר כל הסיגים מן הכסף ויכלה אותם ממנו עד שלא ישאר בו אלא כסף צרוף ואני לא עשיתי כן כי מעטים היו הנשארים אם עשיתי כן אבל הרשעים שבכם שהם הסיגים עניתים בחלאים או בשבי או בשכול בנים או בפרי בהמה או בפרי האדמה כמו שכתוב בקללות לא להכריתם מכל וכל",
+     "gloss": "But not as silver: not like one who refines silver, for the refiner removes all the dross from the silver and consumes it until nothing but refined silver is left; and I did not do so, for few would have remained had I done so; but the wicked among you, who are the dross, I afflicted with sicknesses, or captivity, or bereavement of children, or in the fruit of the cattle or of the ground, as is written in the curses, not to cut them off altogether."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d139-s",
+    "key": "Can a woman forget her sucking child, That she should not have compassion on the son of her womb? Yea, these may forget, Yet will not I forget thee.",
+    "ref": "Isaiah 49:15",
+    "at": [
+     382,
+     15
+    ],
+    "s": "Answering Zion’s complaint that she is forsaken and forgotten, the LORD speaks of a mother; Ibn Ezra, on 49:15, reads the image through the pity God set in every female’s nature, greatest for the strengthless suckling, and grants that cruel mothers forget.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, Commentary on Isaiah, on Isaiah 49:15, Hebrew (Friedlander, London 1877), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "התשכח. בעבור שהשם שם בתולדת כל הנקבות לרחם על ילדיהן אמר כן … גם אלה תשכחנה. גם יש נשים אכזריות שתשכחנה בניהן … ואנכי לא אשכחך. וטעם עולה כי על הקטן תרחם יותר כי אין בו כח",
+     "gloss": "Can she forget: he said this because God set it in the nature of all females to have pity on their young … Yea, these may forget: there are indeed cruel women who forget their children … Yet will not I forget thee: and the reason for ‘sucking child’ is that she pities the little one more, for it has no strength."
+    }
+   }
+  },
+  {
+   "d": 141,
+   "primary": {
+    "id": "tanakh-05-d141-p",
+    "key": "Peace, peace, to him that is far off and to him that is near, Saith the LORD that createth the fruit of the lips; And I will heal him.",
+    "ref": "Isaiah 57:19",
+    "at": [
+     390,
+     19
+    ],
+    "s": "Having struck the covetous in anger and seen his ways, the LORD promises comfort; Rashi, on 57:19, hears the far and the near as one long accustomed to the Torah from youth and one newly turned from his evil way, and holds them equal.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on Isaiah, on Isaiah 57:19, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לרחוק ולקרוב. שניהם שוין מי שנתיישן והורגל בתורתי ועבודתי מנעוריו ומי שנתקרב עתה מקרוב לשוב מדרכו הרעה אמר ה' ורפאתיו מחליו ומחטאיו",
+     "gloss": "To the far and to the near: both are equal, the one who has grown old in, and been accustomed to, My Torah and My service from his youth, and the one who has drawn near just now to turn from his evil way; said the LORD, and I will heal him of his sickness and of his sins."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d141-s",
+    "key": "The righteous perisheth, And no man layeth it to heart, And godly men are taken away, None considering That the righteous is taken away from the evil to come.",
+    "ref": "Isaiah 57:1",
+    "at": [
+     390,
+     1
+    ],
+    "s": "After the revelling shepherds who say tomorrow shall be as today, the chapter turns to the passing of the righteous; Radak, on 57:1, reads ‘perisheth’ as a loss to his generation, not to himself, whose soul lives a life sweeter than the body’s.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Isaiah, on Isaiah 57:1, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ובאמרו אבד לא ר\"ל שהצדיק אבד במותו כי לעצמו לא אבד, אבל נשמתו בחיים ערבים טובים מחיי הגוף אלא אבד מדורו כי להם היא האבידה",
+     "gloss": "And in saying ‘perished’ he does not mean that the righteous man perished in his death, for to himself he is not lost, but his soul is in a pleasant life, better than the life of the body; rather, he is lost to his generation, for the loss is theirs."
+    }
+   }
+  },
+  {
+   "d": 142,
+   "primary": {
+    "id": "tanakh-05-d142-p",
+    "key": "In all their affliction He was afflicted, and the angel of His presence saved them; in His love and in His pity He redeemed them; And He bore them, and carried them all the days of old.",
+    "ref": "Isaiah 63:9",
+    "at": [
+     396,
+     9
+    ],
+    "s": "Recounting the LORD’s mercies to the house of Israel, His children who would not lie; Rashi, on 63:9, following the written text, reads it as His not afflicting them as their deeds deserved, since Michael, prince of the Presence, always saved them, and Ibn Ezra, on 63:9, as His being distressed, as it were, and so hastening to save.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi and Ibn Ezra, Commentaries on Isaiah, on Isaiah 63:9, Hebrew in Sefaria’s export 3f10136 (2026): Rashi, On Your Way; Ibn Ezra, Friedlander (1877)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "לא צר. לא היצר להם כפי מעלליהם שהיו ראויין ללקות כי מלאך פניו הוא מיכאל שר הפנים ממשמשי' לפניו הושיעם תמיד בשליחותו של מקום … לא צר. האמת שהוא בוי\"ו, כטעם ותקצר נפשו (שופטים י' ט\"ו), דרך משל להבין … כאלו גם הוא הוה … בצרה על כן מהר להושיעם",
+     "gloss": "[Rashi:] Not afflicted: He did not bring distress on them according to their deeds, for which they deserved to be smitten, for the angel of His presence, that is Michael, prince of the Presence, one of those who minister before Him, always saved them as the agent of the Omnipresent. … [Ibn Ezra:] Afflicted: the truth is that it is with a vav (to Him), in the sense of ‘and His soul was grieved’ (Judges 10:16), a figure of speech to make it understood … as though He too were … in distress; therefore He hastened to save them."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d142-s",
+    "key": "But now, O LORD, Thou art our Father; we are the clay, and Thou our potter, and we all are the work of Thy hand.",
+    "ref": "Isaiah 64:7",
+    "at": [
+     397,
+     7
+    ],
+    "s": "After confessing even their righteous deeds to be like a soiled garment, the people appeal to God; Radak, on 64:7, hears two grounds of plea: a father does not cast off a son who has sinned, and a potter remakes a spoiled vessel into another.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Isaiah, on Isaiah 64:7, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ועתה ה'. אע\"פ שחטאנו לפניך אנחנו בניך ואתה אבינו והאב לא יזנח הבן ואע\"פ שחטא לו, והנה אנחנו החומר ואתה יוצרינו והיוצר ישנה החומר מכלי לכלי כאשר ישר בעיני היוצר … ואם חטאנו וקצפת עלינו והנה אנחנו כלי נשחת שוב ועשנו כלי אחר",
+     "gloss": "But now, O LORD: though we have sinned before You, we are Your children and You are our father, and a father does not cast off his son even though he has sinned against him; and we are the clay and You our potter, and the potter changes the clay from vessel to vessel as seems right in his eyes … and if we have sinned and You are angry with us, and we are a spoiled vessel, make us again into another vessel."
+    }
+   }
+  },
+  {
+   "d": 143,
+   "primary": {
+    "id": "tanakh-05-d143-p",
+    "key": "Go, and cry in the ears of Jerusalem, saying: Thus saith the LORD: I remember for thee the affection of thy youth, the love of thine espousals; how thou wentest after Me in the wilderness, in a land that was not sown.",
+    "ref": "Jeremiah 2:2",
+    "at": [
+     401,
+     2
+    ],
+    "s": "After his call and two visions, Jeremiah is sent to speak to Jerusalem; Rashi, on Jeremiah 2:2, reads it as God longing to have mercy were they to return, remembering how they followed Moses and Aaron into the desert without provisions, trusting Him.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on Jeremiah, on Jeremiah 2:2, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "זכרתי לך. אם הייתם שבים אלי תאוותי לרחם עליכם כי זכרת חסד נעוריך … ומה הוא חסד נעוריך לכתך אחר שלוחי משה ואהרן מארץ נושבת יצאתם למדבר ואין צדה לדרך כי האמנתם בי",
+     "gloss": "I remember for thee: were you to return to Me, I would long to have mercy on you, for I remember the kindness of your youth … and what is the kindness of your youth? Your going after My messengers, Moses and Aaron: from an inhabited land you went out into the desert with no provision for the way, because you trusted in Me."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d143-s",
+    "key": "For My people have committed two evils: They have forsaken Me, the fountain of living waters, and hewed them out cisterns, broken cisterns, That can hold no water.",
+    "ref": "Jeremiah 2:13",
+    "at": [
+     401,
+     13
+    ],
+    "s": "Having bid the heavens be appalled, the LORD states His charge; Metzudat David, on Jeremiah 2:13, reads the broken cisterns as the constellations served, which draw their flow from God yet cannot always hold it, making a trade for the worse a double evil.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, Commentary on Jeremiah, on Jeremiah 2:13, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "שתים רעות. ר״ל רעה כפולה ותחשב לשתים … לחצוב. למען לחצוב לעצמם בארות רבות נשברות כותליהם אשר לא יחזיקו את המים אשר נתנו בהם ר״ל עובדים למזלות השמים המקבלים ההשפעה מאת המקום ואף אין בידם להחזיק את ההשפעה ההיא בכל עת וכאומר הנה המחליף דבר בדבר השוה לו הנה לרע יחשב אף כי המחליף דבר בדבר הגרוע ממנו",
+     "gloss": "Two evils: that is, a double evil, counted as two … To hew: to hew for themselves many cisterns with broken walls, which do not hold the water put into them; that is, they serve the constellations of the heavens, which receive the flow from the Omnipresent, and it is not even in their power to hold that flow at all times; as if to say, one who exchanges a thing for its equal is counted as doing evil, how much more one who exchanges a thing for what is worse."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-05-d139-p",
+ "d": 139,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Behold, I have refined thee, but not as silver; I have tried thee in the furnace of affliction.",
+ "ref": "Isaiah 48:10",
+ "at": [
+  381,
+  10
+ ],
+ "s": "Midway through rebuking obstinate Jacob, the LORD recalls Israel’s trials; Radak, on 48:10, reads it as a refining short of the refiner’s, who removes all the dross, for had He done so few would have remained, the wicked afflicted but not wholly cut off.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on Isaiah, on Isaiah 48:10, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 48:10 (packet.js tanakh 139 --verse 48:10 re-opened; lemma ולא בכסף)",
+    "via": "packet"
+   }
+  ],
+  "words": "ולא בכסף. ולא כצורף כסף כי צורף הכסף יסיר כל הסיגים מן הכסף ויכלה אותם ממנו עד שלא ישאר בו אלא כסף צרוף ואני לא עשיתי כן כי מעטים היו הנשארים אם עשיתי כן אבל הרשעים שבכם שהם הסיגים עניתים בחלאים או בשבי או בשכול בנים או בפרי בהמה או בפרי האדמה כמו שכתוב בקללות לא להכריתם מכל וכל",
+  "lang": "Hebrew",
+  "gloss": "But not as silver: not like a refiner of silver, for the refiner removes all the dross from the silver and consumes it until nothing but refined silver is left; I did not do so, for few would have remained had I done so; but the wicked among you, who are the dross, I afflicted with sicknesses, captivity, bereavement of children, or in the fruit of cattle or of the ground, as written in the curses, not to cut them off altogether.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "CORRECTED for both clarity faults, which hold: ‘since then few would have remained’ read first as time, and ‘his trials’ after ‘His name’s sake’ could be taken for the LORD’s own. The name aside is dropped, Israel is named (48:1 addresses the house of Jacob called by the name of Israel; 48:4 obstinate), and the condition is explicit (‘for had He done so few would have remained’, Radak’s כי מעטים היו הנשארים אם עשיתי כן), with ‘all the dross’ restored (כל הסיגים). Re-opened packet.js tanakh 139 --verse 48:10: Radak says not like the silver refiner who removes all the dross, for few would have remained had I done so, but the wicked, the dross, I afflicted, not to cut them off מכל וכל. Reading, commentator, key, ref, at and src unchanged. 44 words by whitespace, within the cap; verse.js ok; entry-check ok (scratch/139-rev2.json)."
+}

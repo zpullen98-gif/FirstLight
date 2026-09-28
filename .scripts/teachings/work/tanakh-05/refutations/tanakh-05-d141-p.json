@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d141-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 141 --verse 57.19: Rashi's lemma לרחוק ולקרוב holds the evidence words verbatim: שניהם שוין, the one grown old and accustomed to My Torah and My service from youth, and the one who drew near just now to turn from his evil way. The sentence keeps his order (far, then near) and his equality, and adds nothing; dropping 'and My service' is compression. Radak notes the rabbis dispute which is far and which near, but the sentence gives only Rashi's pairing in Rashi's order, so no disagreement is resolved. day.js confirms 57:17 (wroth for the iniquity of his covetousness, smote him) and 57:18 (seen his ways, requite with comforts) precede the verse; no four-word repeat. verse.js ok (Isaiah 57:19, at [390,19]); entry-check ok, 44 words, src 104 chars. Rashi covers Isaiah; no school; no comparison; tone plain.",
+ "better": ""
+}

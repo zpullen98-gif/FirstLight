@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d142-p",
+ "d": 142,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "In all their affliction He was afflicted, and the angel of His presence saved them; in His love and in His pity He redeemed them; And He bore them, and carried them all the days of old.",
+ "ref": "Isaiah 63:9",
+ "at": [
+  396,
+  9
+ ],
+ "s": "Recounting the LORD’s mercies to the house of Israel, the prophet recalls His care for them; Rashi, on 63:9, reading the written ‘not’, takes it as His not afflicting them as their deeds deserved, since Michael, prince of the Presence, always saved them, and Ibn Ezra, on 63:9, as His being distressed, as it were, and so hastening to save.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi and Ibn Ezra, Commentaries on Isaiah, on Isaiah 63:9, Hebrew in Sefaria’s export 3f10136 (2026): Rashi, On Your Way; Ibn Ezra, Friedlander (1877)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with A. J. Rosenberg’s Judaica Press English, Sefaria export commit 3f10136",
+    "locator": "Isaiah 63:9, lemmas בכל צרתם and לא צר (63:8 read for context)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s 1873 English, Sefaria export commit 3f10136",
+    "locator": "Isaiah 63:9, lemmas לא צר, ומלאך פניו הושיעם, וינטלם",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 63:9 (notes the written text has aleph, the read text vav)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 63:9",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 63:9, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "לא צר. לא היצר להם כפי מעלליהם שהיו ראויין ללקות כי מלאך פניו הוא מיכאל שר הפנים ממשמשי' לפניו הושיעם תמיד בשליחותו של מקום … האמת שהוא בוי\"ו, כטעם ותקצר נפשו (שופטים י' ט\"ו), דרך משל להבין … בצרה על כן מהר להושיעם",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on the lemma as written, לא with aleph:] “Not afflicted”: He did not bring distress on them according to their deeds, for which they deserved to suffer, for the angel of His presence, Michael, prince of the Presence, of those who minister before Him, always saved them as the agent of the Omnipresent. … [Ibn Ezra, on the same lemma:] The truth is that it is with a vav (to Him), in the sense of ‘and His soul was grieved’ (Judges 10:16), a figure of speech to make it understood … [as though He too were] in distress; therefore He hastened to save them.",
+  "licence": "Hebrew: public domain (Rashi, On Your Way; Ibn Ezra, Friedlander 1877)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "CORRECTED: the problem holds. JPS prints the read text (‘He was afflicted’, vav), while Rashi’s lemma in the packet is the written text, לא צר with aleph, and he glosses it as a negation, לא היצר להם כפי מעלליהם (re-opened packet.js tanakh 142 --verse 63.9). Without saying so, the Rashi clause reads as a contradiction of the printed verse. ‘Reading the written ‘not’’ states only what his own words show: his lemma is the written word and he takes it as ‘not’. It does not claim he announces a preference for the ketiv (the reason the round-one verifier removed ‘following the written text’). Ibn Ezra’s own words on the same lemma, האמת שהוא בוי\"ו, confirm the written form is the other spelling, and Radak notes כתוב באל\"ף וקרי בוי\"ו. The evidence now opens with Rashi’s lemma. Readings otherwise unchanged; key, ref, at, by, by2, src unchanged. verse.js ok (Isaiah 63:9, [396,9]); entry-check ok, no warns (60 words, at the two-voice cap)."
+}

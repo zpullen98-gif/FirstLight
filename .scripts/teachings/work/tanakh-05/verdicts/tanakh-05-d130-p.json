@@ -1,0 +1,67 @@
+{
+ "id": "tanakh-05-d130-p",
+ "d": 130,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And it shall come to pass in that day, That the remnant of Israel, And they that are escaped of the house of Jacob, Shall no more again stay upon him that smote them; But shall stay upon the LORD, the Holy One of Israel, in truth.",
+ "ref": "Isaiah 10:20",
+ "at": [
+  343,
+  20
+ ],
+ "s": "Foretelling Assyria’s fall once God has finished His work on Zion, the prophet turns to those who survive; Rashi, on 10:20, takes the smiter as Egypt’s kings, their first oppressors, and Radak, on 10:20, as Assyria’s king, on whom Ahaz leaned, since a man leaned on exacts tribute while God asks only trust in truth.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Isaiah 10:20, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Isaiah, Hebrew (On Your Way), with the Judaica Press English (A. J. Rosenberg), Sefaria export commit 3f10136",
+    "locator": "Isaiah 10:20, lemma להשען על מכהו (with his comments on 10:21 and 10:24 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json",
+    "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, London 1877), with Friedlander’s English (1873), Sefaria export commit 3f10136",
+    "locator": "Isaiah 10:20 (the smiter is Assyria; not used)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Isaiah 10:20, lemma והיה ביום ההוא",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Isaiah 10:20 (Egypt, as Rashi; not used)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)",
+    "locator": "Isaiah 10:20, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "להשען על מכהו. לסמוך על מלכי מצרי' שהם היו תחלת המציקים להם … כמו שהיה אחז נשען על מלך אשור והיה מכהו במה שהיה מכביד עליו או מכהו במלחמה כי אחר כן נלחם בו ועתה הכירו כי אין להשען באדם כי צריך לו שיעבדנו ויתן לו מס וכאשר לא יתן או הוא לא ירצה בו יכהו וילחם בו, אבל ראוי להשען על ה' צבאות כי לא יבקש מהאדם דבר אלא שישען בו באמת",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 10:20, ‘stay upon him that smote them’:] To rely on the kings of Egypt, who were the first to oppress them … [Radak, on 10:20:] as Ahaz leaned on the king of Assyria, and he smote him by pressing heavily on him, or smote him in war, for afterwards he fought him; and now they recognised that one must not lean on a man, for he needs him to serve him and pay him tribute, and when he does not pay, or he no longer wants him, he smites him and makes war on him; but it is fitting to lean on the LORD of hosts, for He asks nothing of a man but that he lean on Him in truth.",
+  "licence": "Hebrew: Rashi, public domain (On Your Way); Radak, no licence stated by Sefaria for this digitisation (text centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 10:20, at [343,20]); one unit, 47 words, no dash. Plain sense faithful: 10:12 has the Lord perform His whole work upon mount Zion and then punish the king of Assyria, 10:16 to 10:19 foretell Assyria’s wasting, and 10:20 turns to the remnant and the escaped; no four-word repeat of the key. Rashi on 10:20 (lemma להשען על מכהו) takes the smiter as the kings of Egypt, the first to oppress them (Metzudat David agrees); Radak on 10:20 takes it as the king of Assyria on whom Ahaz leaned, a man who demands service and tribute, while the LORD asks only to be leaned on in truth. The two genuinely differ and are named without resolving. Entry passes entry-check."
+}

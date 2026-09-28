@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d141-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 141 --verse 57.19: Radak's comment on the lemma בורא at Isaiah 57:19 reads verbatim as the evidence (every mouth saying peace, peace; the name of war not remembered in the world; after the war of Gog and Magog; ופי' far from Jerusalem and near it), and it carries every clause of the paraphrase; his reason (the war at Jerusalem) is omitted, not contradicted, and his later note on ורפאתיו about the Sages' dispute is not claimed. Verse: verse.js ok, Isaiah 57:19 at [390,19], a whole verse from the text. Plain sense checked against day.js 57:17 to 18 (wroth for covetousness, smote him; seen his ways, will heal, lead and requite with comforts): faithful, no four-word overlap with the key. Locator right (Radak on 57:19). No school needed, no comparison, no tone issue. Form: 45 words, one semicolon, roster name Radak, verb hears, entry-check ok with no warnings.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d122-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 122 --verse 13.23: Metzudat David, lemma עד עתה, says רצה לומר: עד עולם, כי כל הקורא במקרא הזה, כל אחד בזמנו, אומר עד עתה; the reading (until now as for ever, each reader in his own day saying until now) is his, whole and without drift; evidence found verbatim in the packet by machine. Rashi, Radak and the Midrash have nothing on 13:23, so no differing voice is hidden. day.js: Elisha dies 13:20, Hazael oppresses Israel all the days of Jehoahaz 13:22, Hazael dies 13:24, so the context clause is exact and repeats no four words of the verse. verse.js ok (2 Kings 13:23, at [321,23]); entry-check.js ok (44 words, src 108 characters). Attacks tried on verse, plain, attribution, locator, drift, school, comparison, tone and form: none landed.",
+ "better": ""
+}

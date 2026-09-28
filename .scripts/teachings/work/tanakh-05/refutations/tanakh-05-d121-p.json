@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d121-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 121 --verse 10.29 and --verse 10.30. Rashi on 10:29, lemma רַק חֲטָאֵי יָרָבְעָם וְגוֹ׳: מִדְּאָגָה שֶׁלֹּא תָשׁוּב הַמַּמְלָכָה לְבֵית דָּוִד, כְּמוֹ שֶׁנִּתְיָרֵא יָרָבְעָם, verbatim as the evidence gives it; the reading (fear that the kingdom would return to David’s house, as Jeroboam had feared) says that and no more; locator 10:29 right. Rivals checked: Radak on 10:29 is lexical and Metzudat David only identifies the sins as the calves; Radak on 10:30 (calves made in the LORD’s name, yet a great sin) is on another verse and not contrary, so a single reader is permitted. Plain sense checked against day.js: 10:7, 10:11, 10:14, 10:17 and 10:25 the killings, 10:28 Baal destroyed, 10:29 the calves kept; the killing is stated in one plain clause without softening or detail (rule 6), no four-word repeat. verse.js re-run ok (2 Kings 10:29, at [318,29], 34 words, no dash). entry-check re-run on a fresh scratch copy (scratch/refute2-tanakh-05-d121-p.json): ok, no errors or warnings; 43 words; src 124 chars. Also tried school, comparison, tone, forbidden and watch terms: nothing landed. Nit only: the src shortens the edition title by dropping ‘N.J.’, not a misattribution.",
+ "better": ""
+}

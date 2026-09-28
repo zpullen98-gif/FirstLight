@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-05-d145-p",
+ "d": 145,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Thus saith the LORD: Stand ye in the ways and see, And ask for the old paths, Where is the good way, and walk therein, And ye shall find rest for your souls.",
+ "ref": "Jeremiah 6:16",
+ "at": [
+  405,
+  16
+ ],
+ "s": "Between the false cry of peace and the watchmen’s horn, the LORD bids the people seek the right road; Radak, on 6:16, reads it as two ways to know the good road, weighing it by reason and asking about past generations, by tradition.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on Jeremiah, on Jeremiah 6:16, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Jeremiah, Hebrew (On Your Way) with Rosenberg’s English (Judaica Press, CC-BY), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 6:16",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 6:16",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 6:16",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)",
+    "locator": "Jeremiah 6:16, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "ועתה בחנו בשכלכם איזה הוא הדרך הטוב גם שאלו בעבור נתיבות עולם כמו שאמר משה רבינו עליו השלום שאל אביך ויגדך כן אמר להם שאלו נתיבות עולם כלומר שאלו בעבור הדרכים אשר מעולם כלומר הדורות שעברו ותמצאו כי מי שאחז דרך האמת בא לו הטוב ומי שאחז דרך שמורים אתכם נביאי השקר בא לו הרע לפי שאחז בדרך השקר ומשני פנים אלה תוכלו להכיר איזה הדרך הטוב ולכו בה או מדרך השכל או מדרך הקבלה",
+  "lang": "Hebrew",
+  "gloss": "And now test with your reason which is the good way; also ask concerning the paths of old, as Moses our teacher said, ask your father and he will tell you; so he told them, ask for the everlasting paths, that is, ask concerning the ways of old, meaning the generations that have passed, and you will find that whoever held to the way of truth, good came to him, and whoever held to the way the false prophets teach you, evil came to him, because he held to the way of falsehood; and from these two aspects you can know which is the good way and walk in it, either by way of reason or by way of tradition.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old); no copyrighted English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Jeremiah 6:16, at [405,16]; it stops before “But they said”). Radak on 6:16 does give two ways to know the good road, testing it by reason (בחנו בשכלכם) and asking concerning the paths of old, the generations that passed, and closes “either by way of reason or by way of tradition”: the reading is his. Changed: (1) “asking past generations” to “asking about past generations”, since Radak says to ask concerning (בעבור) the generations that passed and what befell them, not to ask them; (2) the context clause dropped “the false prophets’ cry of peace” for “the false cry of peace”, since 6:13 to 14 give the cry to prophet and priest alike, and the sentence had to stay within 45 words. Rashi on 6:16 only glosses מרגוע; Metzudat David and the Midrash have nothing on the verse. Corrected entry passes entry-check."
+}

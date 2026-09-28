@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d123-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 123 --verse 15.5 (both the Metzudat David and the Rashi urls). Metzudat David, lemma בבית החפשית: עזב הנהגת המלכות, והיה חפשי מזה העמל, וכמו שאמרו רבותינו ז״ל שהמלכות יחשב לעבדות; carries release from the toil of governing and kingship counted servitude as the sages say. Rashi, lemma בבית החפשית: עשה לו בית בבית הקברות, כמה דאת אמר במתים חפשי; carries a house he made himself among the graves. Both evidence halves found in the packet by machine (after Unicode normalisation of the pointing). The two genuinely differ and the sentence names both without resolving; Radak gives both readings as sayings of the sages, which the sentence does not contradict (Rashi adopts his reading without citing in this Hebrew; the Metsudah English adds a Yerushalmi note, so calling it Rashi’s reading is not a false attribution). day.js: 15:1 to 15:3 Azariah begins and does right, 15:5 smitten; conspiracies in Israel at 15:10, 15:15, 15:25, 15:30, so the context clause holds; it omits 15:4 (high places) but asserts nothing the text does not. verse.js ok (2 Kings 15:5, at [323,5]); entry-check.js ok (51 words, within the two-voice cap of 60; src 133 characters, both editions named). Nothing landed.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d134-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 134 --verse 28:10. Rashi on 28:10, lemma כי צו לצו צו לצו: the prophet brings a command from God, they have a precept of idolatry set against it, and they always say theirs is weightier (שלנו חשוב משלך); Ibn Ezra on 28:10: ראויים הם לדבר עמם כאשר ידבר האב אל בנו הקטן, and on קו לקו: למוד הכתיבה. Both found at the place named; ‘against each one’ is a fair rendering of Rashi’s against this precept with his always; ‘speech fit for a small child’ renders Ibn Ezra’s they are fit to be spoken to as a father to his small son. The two genuinely differ (defiant counter-precepts against childlike teaching), named and not resolved. Plain sense checked in day.js: 28:7 priest and prophet reel through wine, 28:9 whom shall one teach knowledge; no four-word repeat. verse.js ok (Isaiah 28:10, at [361,10]); entry-check.js ok. Attacks tried: verse, plain, attribution, locator, drift, school, comparison, tone, form; none landed.",
+ "better": ""
+}

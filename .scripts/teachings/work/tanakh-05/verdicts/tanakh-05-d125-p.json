@@ -1,0 +1,33 @@
+{
+ "id": "tanakh-05-d125-p",
+ "d": 125,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘Remember now, O LORD, I beseech Thee, how I have walked before Thee in truth and with a whole heart, and have done that which is good in Thy sight.’ And Hezekiah wept sore.",
+ "ref": "2 Kings 20:3",
+ "at": [328, 3],
+ "s": "Told by Isaiah that he will die, the sick Hezekiah turns to the wall and prays; Radak, on 20:3, reads ‘walked before Thee’ as the service of the heart, which he names first, and only then the deeds he has done.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on 2 Kings 20:3, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Kings/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on II Kings, Hebrew (Radak on Nach), Sefaria export commit 3f10136", "locator": "2 Kings 20:3, lemmas התהלכתי לפניך and והטוב בעיניך עשיתי; chapter 20 read", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json", "edition": "Rashi on II Kings, Hebrew and English (the Metsudah Tanach series), Sefaria export commit 3f10136", "locator": "2 Kings 20, nothing on 20:3", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on II Kings, Hebrew (On Your Way), Sefaria export commit 3f10136", "locator": "2 Kings 20:3, nothing in this source", "via": "packet"},
+   {"url": "https://www.sefaria.org/texts/Midrash", "edition": "the Midrash Rabbah (no volume on 2 Kings; empty source)", "locator": "2 Kings 20:3, nothing linked", "via": "packet"}
+  ],
+  "words": "התהלכתי לפניך. זה עבודת הלב ואחר כך זכר המעשה: … והטוב בעיניך עשיתי. כמו שהעיד עליו הכתוב ויעש הישר בעיני ה' ככל אשר עשה דוד אביו",
+  "lang": "Hebrew",
+  "gloss": "I have walked before Thee: this is the service of the heart, and afterwards he mentioned the deed. … And have done that which is good in Thy sight: as Scripture testified of him, and he did what was right in the eyes of the LORD, as all that David his father had done.",
+  "licence": "Radak Hebrew (Radak on Nach): no licence stated by Sefaria; the text is centuries old. Own gloss.",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 2 Kings 20:3 at [328,3] match. Radak on 20:3, lemma התהלכתי לפניך, says it is the service of the heart and that afterwards he mentioned the deed; his next lemma, on the good done, cites Scripture’s testimony to the deeds. The sentence gives heart first and deeds after, no more. Plain sense matches 20:1 to 20:2 (Isaiah’s word of death, the king turns to the wall and prays) with no four-word overlap. Rashi and Metzudat David say nothing on 20:3; Midrash empty. entry-check ok, no warns."
+}

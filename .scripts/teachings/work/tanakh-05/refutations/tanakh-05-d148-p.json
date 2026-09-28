@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d148-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 148 --verse 17.5: Radak on the lemma ומן ה' יסור לבו reads verbatim as the evidence gives it (if his heart does not turn from the LORD it is no evil to trust a man to help him, provided he intends that a man helps only with God's help). The reading, curse resting on the turned heart and reliance on man no evil when one holds he helps only by God's aid, stays within those words. Locator 17:5 correct. Plain sense checked against day.js: 17:6 tamarisk in the desert and 17:8 tree planted by the waters frame the verse, no four-word repeat, no doctrine. verse.js ok (Jeremiah 17:5, at [416,5]); entry-check ok, 44 words, one semicolon. No school required, no comparison, tone plain. Rashi (sabbatical-year trust) and Metzudat David differ only in emphasis, so naming one is sound.",
+ "better": ""
+}

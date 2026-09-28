@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d144-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 144 --verse 4:3. Rashi, lemma כי כה אמר ה׳ וגו׳: נירו לכם ניר הוו למידין מעובדי אדמה שנרים אותה בימי הקיץ להמית שרשי העשבים ... אף אתם הטיבו מעשיכם בטרם תבא עליכם הרעה שלא תהא תפלתכם נמאסת כשתצעקו, verbatim; every element of the paraphrase (learn from farmers, plough in summer, kill the roots, mend deeds before the evil comes, lest prayer be rejected) is in these words, locator 4:3 right. Radak (heart made ready) and Metzudat David (idols removed first) differ in emphasis but naming one reader is allowed. day.js: 3:22 to 4:2 the call to Israel to return, 4:3 addressed to the men of Judah and to Jerusalem; context faithful, no four-word run from the key. verse.js ok (Jeremiah 4:3, at [403,3], 25 words, no dash); entry-check ok, no errors or warnings. Tried school, comparison, tone, form: nothing lands.",
+ "better": ""
+}
