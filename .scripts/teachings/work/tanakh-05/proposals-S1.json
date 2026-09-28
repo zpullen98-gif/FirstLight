@@ -1,0 +1,77 @@
+{
+ "lane": "S1",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 121,
+   "primary": {
+    "id": "tanakh-05-d121-p",
+    "key": "Howbeit from the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin, Jehu departed not from after them, the golden calves that were in Beth-el, and that were in Dan.",
+    "ref": "2 Kings 10:29",
+    "at": [318, 29],
+    "s": "After Jehu has Ahab’s house and Baal’s worshippers put to death, the chapter turns to the worship he left standing; Rashi, on 10:29, reads his holding to the calves as fear that the kingdom would return to David’s house, as Jeroboam had feared.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 2 Kings 10:29, Hebrew (The Metsudah Tanach series, Lakewood) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "רַק חֲטָאֵי יָרָבְעָם וְגוֹ'. מִדְּאָגָה שֶׁלֹּא תָשׁוּב הַמַּמְלָכָה לְבֵית דָּוִד, כְּמוֹ שֶׁנִּתְיָרֵא יָרָבְעָם.",
+     "gloss": "[Rashi, on 2 Kings 10:29, ‘However, the sins of Jeroboam, etc.’:] Out of worry lest the kingdom return to the house of David, as Jeroboam had feared."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d121-s",
+    "key": "And the LORD said unto Jehu: ‘Because thou hast done well in executing that which is right in Mine eyes, and hast done unto the house of Ahab according to all that was in My heart, thy sons of the fourth generation shall sit on the throne of Israel.’",
+    "ref": "2 Kings 10:30",
+    "at": [318, 30],
+    "s": "Jehu having put Ahab’s house and Baal’s worshippers to death, God speaks to him; Radak, on 10:30, reads the four generations, citing the sages, as reward for ending Ahab’s four, adding that Jehu left the calves standing, made for the LORD yet a great sin.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Kings 10:30, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "בני רבעים. כמו בנים רבעים יהואחז יהואש ירבעם זכריהו ואמרו בזכות שהשחית בית אחאב שמלכו ארבעה דורות עמרי אחאב אחזיהו יהורם מלכו מבניו ארבעה דורות ויהוא בער הבעל ולא בער העגלים כי אותם נעשו לשם ה' ואעפ\"י כן היה חטא גדול",
+     "gloss": "[Radak, on 2 Kings 10:30, ‘sons of the fourth generation’:] As ‘sons of four’: Jehoahaz, Jehoash, Jeroboam, Zechariah. And they said: in the merit of his destroying the house of Ahab, which reigned four generations, Omri, Ahab, Ahaziah, Jehoram, four generations of his sons reigned. And Jehu burned out the Baal but did not burn out the calves, for those were made in the name of the LORD; and even so it was a great sin."
+    }
+   }
+  },
+  {
+   "d": 129,
+   "primary": {
+    "id": "tanakh-05-d129-p",
+    "key": "Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they, seeing with their eyes, and hearing with their ears, and understanding with their heart, return, and be healed.’",
+    "ref": "Isaiah 6:10",
+    "at": [339, 10],
+    "s": "Sent in the throne vision, the prophet is charged to harden the people until their land lies waste; Rashi, on 6:10, reads the hardening as their own doing, refusing to hear the prophets for fear they might understand, repent and be cured.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on Isaiah 6:10, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לבם הולך הלוך והשמן … פן יראה בעיניו. נתנו לבם שלא ישמעו דברי נביאים שהם יראים שמא יוטבו בעיניהם דבריו ויבינו בלבם וישובו אלי והיא רפואתם",
+     "gloss": "[Rashi, on Isaiah 6:10, ‘Make the heart of this people fat’:] Their heart goes on growing ever fatter … [‘lest they, seeing with their eyes’:] They have set their hearts not to hear the words of the prophets, for they fear lest His words find favour in their eyes, and they understand in their heart and return to Me, and that is their cure."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d129-s",
+    "key": "And I heard the voice of the Lord, saying: Whom shall I send, And who will go for us? Then I said: ‘Here am I; send me.’",
+    "ref": "Isaiah 6:8",
+    "at": [339, 8],
+    "s": "Between the coal purging the prophet’s lips and the charge to harden the people until the land lies waste, he answers; Ibn Ezra, on 6:8, reads the answer as the start of his prophesying, spoken once purified lips fitted him to be sent.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, commentary on Isaiah 6:8, Hebrew (Friedlander, London 1877) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "וטעם הנני שלחני אחרי שטהרו שפתי אני ראוי להיות שליח ולא הייתי כן בימים הראשונים, על כן אמרתי מזאת הפרשה תחלת נבואת ישעיה",
+     "gloss": "[Ibn Ezra, on Isaiah 6:8, ‘Here am I; send me’:] The sense: now that my lips have been purified I am fit to be a messenger, and I was not so in the earlier days; therefore I have said that from this section begins Isaiah’s prophecy."
+    }
+   }
+  }
+ ]
+}

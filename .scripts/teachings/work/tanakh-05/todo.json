@@ -1,0 +1,48 @@
+{
+ "lanesMissing": [
+  "L2",
+  "L3",
+  "L4"
+ ],
+ "daysMissing": [
+  127,
+  128,
+  130,
+  131,
+  132,
+  133,
+  134,
+  135,
+  136,
+  137,
+  138,
+  139,
+  141,
+  142,
+  143
+ ],
+ "needVerdict": [
+  "tanakh-05-d122-p",
+  "tanakh-05-d123-p",
+  "tanakh-05-d124-p",
+  "tanakh-05-d125-p",
+  "tanakh-05-d126-p",
+  "tanakh-05-d144-p",
+  "tanakh-05-d145-p",
+  "tanakh-05-d146-p",
+  "tanakh-05-d147-p",
+  "tanakh-05-d148-p"
+ ],
+ "needRefute": [
+  "tanakh-05-d121-p",
+  "tanakh-05-d129-p"
+ ],
+ "needReverify": [],
+ "needRevRefute": [],
+ "needStandby": [],
+ "standbyMissing": [],
+ "blocked": [],
+ "hasBatch": false,
+ "alive": 3,
+ "dead": 0
+}

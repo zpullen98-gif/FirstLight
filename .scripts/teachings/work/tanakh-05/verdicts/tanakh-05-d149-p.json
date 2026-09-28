@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-05-d149-p",
+ "d": 149,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And if I say: ‘I will not make mention of Him, Nor speak any more in His name’, Then there is in my heart as it were a burning fire Shut up in my bones, And I weary myself to hold it in, But cannot.",
+ "ref": "Jeremiah 20:9",
+ "at": [
+  419,
+  9
+ ],
+ "s": "After his night in Pashhur’s stocks, Jeremiah complains that the LORD’s word has made him a laughing-stock; Rashi, on 20:9, reads the fire as the prophecy itself, which compels him against his will to keep going on God’s mission.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on Jeremiah 20:9, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 20 (whole chapter read; comments on 20:9, lemmas ואמרתי לא אזכרנו and והיה בלבי)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 20:9",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 20:9",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)",
+    "locator": "Jeremiah 20:9, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "ואמרתי לא אזכרנו. ואם אמר לי לבי שלא לילך בשליחותו עוד … והיה בלבי. הנבואה כאש בוערת ועל כרחי אני צריך לילך",
+  "lang": "Hebrew",
+  "gloss": "[On ‘and if I say, I will not make mention of Him’:] and if my heart said to me not to go on His mission any more … [on ‘then there is in my heart’:] the prophecy, like a burning fire, and against my will I must go.",
+  "licence": "Hebrew: public domain (Sefaria’s On Your Way text); English of Rosenberg not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Jeremiah 20:9, at [419,9]). Plain sense faithful: 20:3 has Pashhur bring him out of the stocks on the morrow, 20:7 to 8 the complaint of being a laughing-stock and the word of the LORD made a reproach; no four-word repeat of the key. Rashi on 20:9 glosses the first lemma as his heart telling him not to go on His mission any more and the second as the prophecy like a burning fire, so that against his will he must go (consistent with his 20:7 gloss, going against his will). The reading (the fire is the prophecy, compelling him against his will to keep going on the mission) is carried by those words without drift. Entry passes entry-check."
+}

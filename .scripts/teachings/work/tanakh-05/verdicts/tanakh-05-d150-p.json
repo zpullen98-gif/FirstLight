@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-05-d150-p",
+ "d": 150,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "He judged the cause of the poor and needy; Then it was well. Is not this to know Me? saith the LORD.",
+ "ref": "Jeremiah 22:16",
+ "at": [
+  421,
+  16
+ ],
+ "s": "Rebuking a king who builds by unpaid labour, the prophet holds up his father, who did justice; Metzudat David, on 22:16, takes such judging as knowing God because by it he cleaves to God’s own deeds, pitying the poor as God does.",
+ "by": "metzudat-david",
+ "by2": "",
+ "hedge": "",
+ "src": "Metzudat David, commentary on Jeremiah 22:16, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 22 (whole chapter read; comment on 22:16, lemma דן)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Jeremiah/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Jeremiah, Hebrew (On Your Way), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 22 (nothing on 22:16)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Jeremiah/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Jeremiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136",
+    "locator": "Jeremiah 22:16 (refers to his comment on 9:23 and to Targum Jonathan)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (no volume on Jeremiah; empty source)",
+    "locator": "Jeremiah 22:16, nothing linked",
+    "via": "packet"
+   }
+  ],
+  "words": "דן. היה דן דין עני ואביון ובעבור זה היה טוב לו כי הלא זהו הדעת אותי כי בזה מדבק במעשי לרחם על העניים כמוני",
+  "lang": "Hebrew",
+  "gloss": "He judged: he used to judge the cause of the poor and needy, and because of this it was well with him; for is not this the knowing of Me, since by this he cleaves to My deeds, to have compassion on the poor as I do.",
+  "licence": "Hebrew: public domain (Sefaria’s On Your Way text)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Jeremiah 22:16, at [421,16]). Plain sense faithful: 22:13 to 14 the woe on him who builds his house using his neighbour’s service without wages (Jehoiakim, named at 22:18, as Rashi, Radak and Metzudat David on 22:13 all say), 22:15 the father who did justice and righteousness; no four-word repeat of the key. Metzudat David on 22:16 says judging the poor is knowing God because by it he cleaves to God’s deeds, having compassion on the poor as God does; the reading paraphrases exactly that. Rashi has nothing on 22:16 and Radak only cross-refers, so Metzudat David is the right choice. Entry passes entry-check."
+}

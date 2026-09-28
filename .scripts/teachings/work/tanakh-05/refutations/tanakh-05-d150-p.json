@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-05-d150-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Jeremiah/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened via packet.js tanakh 150 --verse 22.16: Metzudat David on 22:16 (lemma דן) reads verbatim as the evidence gives it, and כי בזה מדבק במעשי לרחם על העניים כמוני carries 'cleaves to God's own deeds, pitying the poor as God does', with הלא זהו הדעת אותי carrying 'knowing God'. Rashi has nothing on 22:16 and Radak only cross-refers to 9:23 and the Targum, so Metzudat David is the right choice. Plain sense checked in day.js: 22:13 building without wages, 22:15 the father who did justice and righteousness; no four-word run from the key. verse.js ok (Jeremiah 22:16, at 421,16); entry-check ok. No drift, tone, school or comparison issue.",
+ "better": ""
+}

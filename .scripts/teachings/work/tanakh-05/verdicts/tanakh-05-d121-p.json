@@ -1,0 +1,33 @@
+{
+ "id": "tanakh-05-d121-p",
+ "d": 121,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Howbeit from the sins of Jeroboam the son of Nebat, wherewith he made Israel to sin, Jehu departed not from after them, the golden calves that were in Beth-el, and that were in Dan.",
+ "ref": "2 Kings 10:29",
+ "at": [318, 29],
+ "s": "After Jehu has Ahab’s house and Baal’s worshippers put to death, the chapter turns to the worship he left standing; Rashi, on 10:29, reads his holding to the calves as fear that the kingdom would return to David’s house, as Jeroboam had feared.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on 2 Kings 10:29, Hebrew (The Metsudah Tanach series, Lakewood) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json", "edition": "Rashi on II Kings, Hebrew and English (The Metsudah Tanach series, Lakewood, N.J.), Sefaria export commit 3f10136", "locator": "2 Kings 10 and 11 (whole chapters read; comment on 10:29, lemma רק חטאי ירבעם)", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Kings/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on II Kings, Hebrew (Radak on Nach), Sefaria export commit 3f10136", "locator": "2 Kings 10:29 to 30", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on II Kings, Hebrew (On Your Way), Sefaria export commit 3f10136", "locator": "2 Kings 10:29 to 30", "via": "packet"},
+   {"url": "https://www.sefaria.org/texts/Midrash", "edition": "the Midrash Rabbah (no volume on 2 Kings; empty source)", "locator": "2 Kings 10:29, nothing linked", "via": "packet"}
+  ],
+  "words": "רַק חֲטָאֵי יָרָבְעָם וְגוֹ'. מִדְּאָגָה שֶׁלֹּא תָשׁוּב הַמַּמְלָכָה לְבֵית דָּוִד, כְּמוֹ שֶׁנִּתְיָרֵא יָרָבְעָם.",
+  "lang": "Hebrew",
+  "gloss": "[On ‘however, the sins of Jeroboam, etc.’:] out of worry lest the kingdom return to the house of David, as Jeroboam had feared.",
+  "licence": "Hebrew: CC-BY (The Metsudah Tanach series, Lakewood, N.J.); English not quoted",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, 2 Kings 10:29, at [318,29]). Plain sense faithful: 10:7 to 17 Jehu has Ahab’s house slain and 10:18 to 28 the worshippers of Baal, then 10:29 turns to the calves he kept; the killing is stated in one plain clause, no four-word repeat of the key. Rashi’s only comment on 10:29 gives Jehu’s motive as worry lest the kingdom return to the house of David, as Jeroboam had feared; the reading says exactly that and no more. Radak (10:30) and Metzudat David (10:29) add nothing contrary. Entry passes entry-check."
+}

@@ -1,0 +1,34 @@
+{
+ "id": "tanakh-05-d129-p",
+ "d": 129,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they, seeing with their eyes, and hearing with their ears, and understanding with their heart, return, and be healed.’",
+ "ref": "Isaiah 6:10",
+ "at": [339, 10],
+ "s": "Sent in the throne vision, the prophet is charged to harden the people until their land lies waste; Rashi, on 6:10, reads the hardening as their own doing, refusing to hear the prophets for fear they might understand, repent and be cured.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on Isaiah 6:10, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json", "edition": "Rashi on Isaiah, Hebrew (On Your Way), with Rosenberg’s English (Judaica Press, CC-BY), Sefaria export commit 3f10136", "locator": "Isaiah 6 (whole chapter read; comments on 6:10, lemmas השמן לב העם הזה, ועיניו השע, פן יראה בעיניו)", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Prophets/Ibn%20Ezra%20on%20Isaiah/Hebrew/Ibn%20Ezra%20on%20Isaiah%2C%20by%20M.%20Friedlander%3B%20Society%20of%20Hebrew%20Literature%2C%20London%201877.json", "edition": "Ibn Ezra on Isaiah, Hebrew (Friedlander, 1877) with Friedlander’s English (1873)", "locator": "Isaiah 6:9 to 10", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Isaiah/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on Isaiah, Hebrew (Radak on Nach), Sefaria export commit 3f10136", "locator": "Isaiah 6:9 to 10", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Isaiah/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on Isaiah, Hebrew (On Your Way), Sefaria export commit 3f10136", "locator": "Isaiah 6:9 to 10", "via": "packet"},
+   {"url": "https://www.sefaria.org/texts/Midrash", "edition": "the Midrash Rabbah (no volume on Isaiah; empty source)", "locator": "Isaiah 6:10, nothing linked", "via": "packet"}
+  ],
+  "words": "פן יראה בעיניו. נתנו לבם שלא ישמעו דברי נביאים שהם יראים שמא יוטבו בעיניהם דבריו ויבינו בלבם וישובו אלי והיא רפואתם",
+  "lang": "Hebrew",
+  "gloss": "[On ‘lest they see with their eyes’:] they set their hearts not to hear the words of the prophets, for they fear lest His words please them and they understand in their heart and return to Me, and that is their cure.",
+  "licence": "Hebrew: public domain (Sefaria’s On Your Way text); Rosenberg’s English not quoted",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, Isaiah 6:10, at [339,10]). Plain sense faithful: 6:1 to 8 the throne vision and the prophet sent, 6:9 to 10 the charge, 6:11 the land utterly waste; no four-word repeat of the key. Rashi on 6:10 reads השמן as a continuing process (their heart grows ever fatter, their ears ever heavier), and on ‘lest they see’ says they set their hearts not to hear the prophets, fearing His words would please them and they would understand, return to Me, and be cured; his 6:11 gloss (until when will they make their heart heavy) agrees. The reading (their own doing; refusing the prophets for fear of understanding, returning and cure) is carried by these words; ‘repent’ renders וישובו fairly. Ibn Ezra takes the forms as imperatives the prophet declares, a difference the entry need not name. Entry passes entry-check."
+}

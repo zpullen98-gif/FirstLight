@@ -1,0 +1,42 @@
+{
+ "lane": "S2",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 140,
+   "primary": {
+    "id": "tanakh-05-d140-p",
+    "key": "Behold, My servant shall prosper, He shall be exalted and lifted up, and shall be very high.",
+    "ref": "Isaiah 52:13",
+    "at": [385, 13],
+    "s": "Before onlookers tell of a servant despised, crushed and cut off from the living, the LORD speaks of him; Rashi, on 52:13 and 53:3, reads the servant as Jacob, all Israel spoken of as one man, whose righteous will prosper at the end of days.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on Isaiah 52:13 and 53:3, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "הנה באחרית הימים יצליח עבדי יעקב צדיקים שבו … כן דרך הנביא הזה מזכיר כל ישראל כאיש אחד אל תירא עבדי יעקב ואף כאן הנה ישכיל עבדי בבית יעקב אמר",
+     "gloss": "[Rashi, on 52:13, ‘Behold, My servant shall prosper’:] Behold, at the end of days My servant Jacob, the righteous among him, shall prosper. … [Rashi, on 53:3, ‘despised and forsaken of men’:] Such is the way of this prophet: he mentions all Israel as one man, ‘Fear not, My servant Jacob’; and here too, ‘Behold, My servant shall prosper’, he said of the house of Jacob."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d140-s",
+    "key": "Surely our diseases he did bear, and our pains he carried; Whereas we did esteem him stricken, Smitten of God, and afflicted.",
+    "ref": "Isaiah 53:4",
+    "at": [386, 4],
+    "s": "Speakers who despised a servant, wounded, crushed and cut off from the living, reconsider him midway through their account; Radak, on 53:4, hears the nations at Israel’s deliverance voicing what they suppose, not that Israel truly bore their iniquity, for no nation bears another’s guilt.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Isaiah, on Isaiah 53:4, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "הנה כתב יחזקאל הנביא בן לא ישא בעון האב ואב לא ישא בעון הבן כל שכן איש אחד באיש אחר וכל שכן אומה באומה אחרת … וזה שיאמרו האומות אכן חלינו הוא נשא והדומים לזה הוא דברי עצמם לא שישראל סבלו עון האומות אלא הם יחשבו זה בדעתם כאשר יראו בעת הישועה",
+     "gloss": "[Radak, on 53:4, ‘Surely our diseases’:] Behold, Ezekiel the prophet wrote, ‘The son shall not bear the iniquity of the father, nor the father bear the iniquity of the son’; all the more so one man for another, and all the more so one nation for another nation. … And this, that the nations will say ‘Surely he bore our sicknesses’, and the like, is their own words: not that Israel bore the iniquity of the nations, but they will think this in their minds when they see, at the time of salvation, …"
+    }
+   }
+  }
+ ]
+}

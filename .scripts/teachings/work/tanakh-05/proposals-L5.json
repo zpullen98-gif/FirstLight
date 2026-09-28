@@ -1,0 +1,212 @@
+{
+ "lane": "L5",
+ "plan": "tanakh",
+ "batch": "tanakh-05",
+ "days": [
+  {
+   "d": 144,
+   "primary": {
+    "id": "tanakh-05-d144-p",
+    "key": "For thus saith the LORD to the men of Judah and to Jerusalem: Break up for you a fallow ground, And sow not among thorns.",
+    "ref": "Jeremiah 4:3",
+    "at": [
+     403,
+     3
+    ],
+    "s": "After the plea to Israel to return, the LORD turns to Judah and Jerusalem in a farmer’s image; Rashi, on 4:3, reads it as learning from farmers who plough in summer to kill the roots, and mending deeds before evil comes, lest prayer be rejected.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on Jeremiah, on Jeremiah 4:3, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "נירו לכם ניר הוו למידין מעובדי אדמה שנרים אותה בימי הקיץ להמית שרשי העשבים שלא תהא מעלה קוצים בעת הזרע בחורף אף אתם הטיבו מעשיכם בטרם תבא עליכם הרעה שלא תהא תפלתכם נמאסת כשתצעקו",
+     "gloss": "Break up for you a fallow ground: learn from the tillers of the soil, who plough it in the days of summer to kill the roots of the weeds, so that it brings up no thorns at the time of sowing in winter; you too, mend your deeds before the evil comes upon you, so that your prayer is not rejected when you cry out."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d144-s",
+    "key": "Fear ye not Me? saith the LORD; Will ye not tremble at My presence? Who have placed the sand for the bound of the sea, An everlasting ordinance, which it cannot pass; And though the waves thereof toss themselves, yet can they not prevail; Though they roar, yet can they not pass over it.",
+    "ref": "Jeremiah 5:22",
+    "at": [
+     404,
+     22
+    ],
+    "s": "In a charge to a foolish people with eyes that do not see, the LORD points to the sea; Radak, on 5:22, reads the sand’s bound as a lasting witness, seen and heard, which none can deny as they might deny wonders done only once.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Jeremiah, on Jeremiah 5:22, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כי כל האותות והמופתים יוכלו להכחיש בהם אם ירצו כי לא היו אלא פעם אחת בזמן אחד ואותם שלא היו בזמן ההוא יוכלו להכחיש בהם אם יהיו כופרים בתורה אבל זה העד היות החול גבול לים הוא חק עולם לא סר ולא יסור כל ימי היות עולם ובזה לא יוכלו להכחיש שהרי רואים בעיניהם ושומעים באזניהם",
+     "gloss": "For all the signs and wonders they can deny if they wish, since they happened only once, at one time, and those who were not there at that time can deny them if they reject the Torah; but this witness, the sand set as a bound for the sea, is a perpetual ordinance that has not ceased and will not cease all the days the world exists, and this they cannot deny, for they see it with their eyes and hear it with their ears."
+    }
+   }
+  },
+  {
+   "d": 145,
+   "primary": {
+    "id": "tanakh-05-d145-p",
+    "key": "Thus saith the LORD: Stand ye in the ways and see, And ask for the old paths, Where is the good way, and walk therein, And ye shall find rest for your souls.",
+    "ref": "Jeremiah 6:16",
+    "at": [
+     405,
+     16
+    ],
+    "s": "Between the false prophets’ cry of peace and the watchmen’s horn, the LORD bids the people seek the right road; Radak, on 6:16, reads it as two ways to know the good road, weighing it by reason and asking past generations, by tradition.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Jeremiah, on Jeremiah 6:16, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "עמדו בדעתיכם על הדרך הטוב ועל הדרך הרע וראו בבינתכם … שאלו נתיבות עולם כלומר שאלו בעבור הדרכים אשר מעולם כלומר הדורות שעברו ותמצאו כי מי שאחז דרך האמת בא לו הטוב ומי שאחז דרך שמורים אתכם נביאי השקר בא לו הרע לפי שאחז בדרך השקר ומשני פנים אלה תוכלו להכיר איזה הדרך הטוב ולכו בה או מדרך השכל או מדרך הקבלה",
+     "gloss": "Stand in your minds upon the good way and upon the bad way, and see with your understanding … ask for the everlasting paths, that is, ask about the ways of old, meaning the generations that have passed, and you will find that whoever held to the way of truth, good came to him, and whoever held to the way the false prophets teach you, evil came to him, because he held to the way of falsehood; and from these two aspects you can know which is the good way, and walk in it, either by way of reason or by way of tradition."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d145-s",
+    "key": "Is there no balm in Gilead? Is there no physician there? Why then is not the health of the daughter of my people recovered?",
+    "ref": "Jeremiah 8:22",
+    "at": [
+     407,
+     22
+    ],
+    "s": "After a cry from a far land that the harvest is past, the speaker mourns his people’s hurt; Rashi, on 8:22, reads Gilead’s balm as the righteous, asking whether the people had none to learn from and so mend their ways.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on Jeremiah, on Jeremiah 8:22, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "הצרי אין בגלעד. שהצרי בא משם כמו שנאמר עלי גלעד וקחי צרי (לקמן מה) כלומר וכי לא היו להם אנשים צדיקים ממי ללמוד ויטיבו דרכיהם",
+     "gloss": "Is there no balm in Gilead: for balm comes from there, as it is said, ‘Go up into Gilead, and take balm’ (below, chapter 46); that is to say, had they no righteous men from whom to learn, so that they would mend their ways?"
+    }
+   }
+  },
+  {
+   "d": 146,
+   "primary": {
+    "id": "tanakh-05-d146-p",
+    "key": "But let him that glorieth glory in this, that he understandeth, and knoweth Me, That I am the LORD who exercise mercy, justice, and righteousness, in the earth; for in these things I delight, Saith the LORD.",
+    "ref": "Jeremiah 9:23",
+    "at": [
+     408,
+     23
+    ],
+    "s": "After warning that wisdom, might and riches will not save, the LORD names the one ground for glory; Radak, on 9:23, reads understanding Him as grasping He is one and made all, and knowing Him as walking in His ways of mercy, justice and righteousness.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Jeremiah, on Jeremiah 9:23, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "והשכל האל הוא שישכיל כי הוא אחד קדמון ואינו גוף והוא בורא הכל ומשגיח על הכל ומנהיג כל העולם בחכמתו עליונים ותחתונים וידיעת האל היא ללכת בדרכיו לעשות חסד משפט וצדקה כי כן עושה אותם הוא",
+     "gloss": "And understanding God is that one understand that He is one, eternal and without body, Creator of all, watching over all and governing the whole world, upper and lower, in His wisdom; and knowing God is to walk in His ways, doing kindness, justice and righteousness, for so He Himself does them."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d146-s",
+    "key": "But the LORD God is the true God, He is the living God, and the everlasting King; At His wrath the earth trembleth, And the nations are not able to abide His indignation.",
+    "ref": "Jeremiah 10:10",
+    "at": [
+     409,
+     10
+    ],
+    "s": "Set against idols of wood overlaid with gold that must be carried, the chapter turns to the LORD; Rashi, on 10:10, reads ‘the true God’ as able to make His word come true, being living and King, while a mortal who promises may die.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on Jeremiah, on Jeremiah 10:10, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וה' אלהים אמת. למה כי הוא אלהים חיים ומלך עולם לכך יכול לאמת דבריו אבל בשר ודם אומר לעשות ומת או תשש כחו או יורד מנכסיו ואין בידו לקיים",
+     "gloss": "But the LORD God is true: why? Because He is a living God and King of the world, therefore He can make His words come true; but flesh and blood says he will do a thing and dies, or his strength fails, or he loses his wealth, and it is not in his power to fulfil it."
+    }
+   }
+  },
+  {
+   "d": 147,
+   "primary": {
+    "id": "tanakh-05-d147-p",
+    "key": "Right wouldest Thou be, O LORD, were I to contend with Thee, yet will I reason with Thee: Wherefore doth the way of the wicked prosper? Wherefore are all they secure that deal very treacherously?",
+    "ref": "Jeremiah 12:1",
+    "at": [
+     411,
+     1
+    ],
+    "s": "Opening a chapter in which even his own kin betray him, the prophet puts a question to the LORD; Rashi, on 12:1, reads him as knowing God will be right, yet arguing so that God will make His way known to him.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on Jeremiah, on Jeremiah 12:1, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "כשאתווכח עמך ידעתי כי תצדק בדבריך אך חפץ אני לדבר משפטים אותך להודיעני דרכך",
+     "gloss": "When I argue with You, I know that You will be right in Your words; but I wish to reason the case with You, so that You make Your way known to me."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d147-s",
+    "key": "Though our iniquities testify against us, O LORD, work Thou for Thy name’s sake; For our backslidings are many, We have sinned against Thee.",
+    "ref": "Jeremiah 14:7",
+    "at": [
+     413,
+     7
+    ],
+    "s": "In a chapter of drought, with empty pits and cracked ground, a plea rises for the people; Radak, on 14:7, reads the prophet as counting himself within Israel though without sin, and the rain withheld from their land alone as the testimony against them.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Jeremiah, on Jeremiah 14:7, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "אמר הנביא בראותו בנבואה הרעה שיהיה אומר לאל וכולל עצמו בכלל ישראל ואף על פי שהוא לא היה בו עון אמר אם עונינו ענו בנו ה' עשה למען שמך וכן אמר משה רבינו וסלחת לעונינו ולחטאתינו ונחלתנו, אמר אם עונינו ענו בנו העידו בנו כי בהיות מניעת הגשם בארצנו ולא בארצות הגוים הם העידו בנו כי עליהם אנו לוקים",
+     "gloss": "The prophet, seeing in prophecy the evil to come, speaks to God and includes himself within Israel; though there was no iniquity in him he said, ‘Though our iniquities testify against us, O LORD, work for Thy name’s sake’, as Moses our teacher said, ‘and pardon our iniquity and our sin, and take us for Thine inheritance’. He said our iniquities testify against us: for when the rain is withheld in our land and not in the lands of the nations, they testify against us that it is for them that we are smitten."
+    }
+   }
+  },
+  {
+   "d": 148,
+   "primary": {
+    "id": "tanakh-05-d148-p",
+    "key": "Thus saith the LORD: Cursed is the man that trusteth in man, And maketh flesh his arm, And whose heart departeth from the LORD.",
+    "ref": "Jeremiah 17:5",
+    "at": [
+     416,
+     5
+    ],
+    "s": "Setting a desert shrub against a watered tree, the chapter pronounces a curse; Radak, on 17:5, reads the curse as resting on the heart that turns away, for relying on a man is no evil if one holds he helps only by God’s aid.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Jeremiah, on Jeremiah 17:5, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ומן ה' יסור לבו. כי אם לא יסור לבו מה' אינו רע אם יבטח באדם שיעזרהו ותהיה כונתו כי בעזרת האל יוכל האדם לעזור לא זולתו",
+     "gloss": "And whose heart departeth from the LORD: for if his heart does not turn from the LORD, it is no evil if he trusts in a man to help him, and his intention is that with God’s help a man can help, and not otherwise."
+    }
+   },
+   "standby": {
+    "id": "tanakh-05-d148-s",
+    "key": "Therefore thus saith the LORD: If thou return, and I bring thee back, Thou shalt stand before Me; And if thou bring forth the precious out of the vile, Thou shalt be as My mouth; Let them return unto thee, But thou shalt not return unto them.",
+    "ref": "Jeremiah 15:19",
+    "at": [
+     414,
+     19
+    ],
+    "s": "Answering the prophet’s fear that God will fail him like a dry brook, the LORD speaks; Rashi, on 15:19, reads the precious drawn from the vile as a wicked man turned to good, and ‘as My mouth’ as able to annul what God decrees.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on Jeremiah, on Jeremiah 15:19, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ואם תוציא יקר מזולל. אם תוציא אדם הגון מאדם רשע שתחזירנו למוטב … כפי תהיה. שאני גוזר גזירה ואתה מבטלה",
+     "gloss": "And if thou bring forth the precious out of the vile: if you bring forth a worthy man out of a wicked man, that is, bring him back to good … Thou shalt be as My mouth: for I decree a decree and you annul it."
+    }
+   }
+  }
+ ]
+}

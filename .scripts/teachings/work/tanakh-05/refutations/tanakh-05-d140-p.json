@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-05-d140-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Isaiah/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened via packet.js tanakh 140 --verse 52:13 and --verse 53:3. Rashi on 52:13 (lemma הנה ישכיל עבדי) reads הנה באחרית הימים יצליח עבדי יעקב צדיקים שבו verbatim: the servant is Jacob, the righteous among him, prospering at the end of days. Rashi on 53:3 (lemma נבזה וחדל אישים) reads כן דרך הנביא הזה מזכיר כל ישראל כאיש אחד ... ואף כאן הנה ישכיל עבדי בבית יעקב אמר verbatim: the prophet speaks of all Israel as one man, and 52:13 was said of the house of Jacob. The reading (servant as Jacob, all Israel as one man, whose righteous prosper at the end of days) is carried entirely by these two comments with no addition; Ibn Ezra and Radak also take the servant as Israel in exile, so no misattribution risk, and Rashi is the voice default. Locator 52:13 and 53:3 correct. Plain sense checked against day.js: 52:13 is in the divine first person (‘My servant’, again at 53:11), 53:1 to 9 is a quoted speech of the ‘we’ describing one despised (53:3), crushed (53:5, 53:10) and cut off out of the land of the living (53:8); no four-word run from the key; not softened or sensationalised. verse.js ok (Isaiah 52:13, at [385,13], unit 12, 17 words, no dash); the key is the verse Rashi comments on. No forbidden or watch term, no comparison, no school needed. entry-check ok with no errors or warnings; 45 words, at the cap.",
+ "better": ""
+}
