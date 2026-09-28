@@ -107,6 +107,12 @@ function manifest(work, data) {
 
 const pad = n => String(n).padStart(2, '0');
 const clean = s => String(s).replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+/* Sefaria's JPS English drops the space after a plural possessive:
+   "fathers’houses", "goats’hair", "Moses’face", 252 sites across the Tanakh
+   (found 27 Sep 2026 when a teaching's key verse carried one). Put it back,
+   except before a possessive s: "ass’s" is right as it stands. The repair
+   adds words, and the plan divisions were checked unmoved when it landed. */
+const jpsSpace = s => s.replace(/s’(?!s\b)(?=[a-z])/g, 's’ ');
 
 /* ═══════════════════════ THE BIBLE — World English Bible ═══════════════════════ */
 async function bible() {
@@ -159,7 +165,7 @@ async function tanakh() {
     const j = await get(url, { json: true, cacheKey: 'tanakh-' + pad(i + 1) + '.json' });
     const v = j.versions && j.versions[0];
     if (!v || !Array.isArray(v.text)) throw new Error('no JPS text for ' + book);
-    const ch = v.text.map(c => (Array.isArray(c) ? c : [c]).map(clean).filter(Boolean));
+    const ch = v.text.map(c => (Array.isArray(c) ? c : [c]).map(clean).map(jpsSpace).filter(Boolean));
     chapters += ch.length;
     ch.forEach(c => { verses += c.length; });
     const r = emit('tanakh', pad(i + 1), { book, section: part, ch });
