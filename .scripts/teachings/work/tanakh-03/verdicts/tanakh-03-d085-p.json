@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d085-p",
+ "d": 85,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And the LORD came, and stood, and called as at other times: ‘Samuel, Samuel.’ Then Samuel said: ‘Speak; for Thy servant heareth.’",
+ "ref": "1 Samuel 3:10",
+ "at": [
+  234,
+  10
+ ],
+ "s": "Called a fourth time in the night, the boy answers as Eli taught him, but without the name of the LORD; Rashi, on 3:10, takes the omission as caution, lest the voice be another’s, and Radak, on 3:10, as awe, still fearing to speak the Name in a prophetic vision.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on 1 Samuel 3:10, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 3:10, on ויאמר שמואל דבר",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Samuel 3:10, on דבר כי שומע עבדך",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 3:10",
+    "via": "packet"
+   }
+  ],
+  "words": "ויאמר שמואל דבר. ולא הזכיר שם מקום כמו שציוהו עלי, אמר שמא קול אחר הוא … דבר כי שומע עבדך. ולא אמר ה' כמו שאמר לו עלי כי היה ירא עדיין מהזכיר השם במראה הנבואה",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 3:10, ‘And Samuel said: Speak’:] He did not mention the name of the Omnipresent as Eli had commanded him; he said, perhaps it is another voice … [Radak on 3:10, ‘Speak; for Thy servant heareth’:] He did not say ‘LORD’ as Eli had told him, for he was still afraid to mention the Name in the vision of prophecy.",
+  "licence": "Hebrew: public domain (Rashi); Radak: no licence stated by Sefaria, the text centuries old",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Samuel 3:10 and at [234,10] match. Plain sense faithful: the LORD calls at 3:4, 3:6, 3:8 and now a fourth time at 3:10; Eli had told him to answer ‘Speak, LORD’ (3:9) and the boy says only ‘Speak’; no four-word run from the key verse. Read the chapter 3 packet (Rashi, Radak, Metzudat David; no Midrash Rabbah on 1 Samuel). Rashi on ויאמר שמואל דבר: he did not mention the Name as Eli commanded, saying perhaps it is another voice. Radak on דבר כי שומע עבדך: he did not say the Name because he was still afraid to mention it in the prophetic vision (Radak then cites a derash that he feared a demon’s voice and calls it far-fetched; the sentence does not report or resolve that). The two readings genuinely differ and are named without resolution; ‘awe’ renders ירא within its range. Both evidence pieces machine-found in the packet. entry-check ok."
+}

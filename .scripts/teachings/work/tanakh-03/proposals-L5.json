@@ -1,0 +1,89 @@
+{
+ "lane": "L5",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 88,
+   "primary": {
+    "id": "tanakh-03-d088-p",
+    "key": "And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelt in safety.",
+    "ref": "1 Samuel 12:11",
+    "at": [
+     243,
+     11
+    ],
+    "s": "Reproving Israel for asking a king, Samuel recounts God’s past deliverances; Rashi, on 12:11, reads the list as setting three lesser judges beside Moses, Aaron and Samuel, teaching that a lesser leader in his generation is as a great one in his.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 1 Samuel 12:11, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ואת יפתח. הרי שלשה קלי עולם, עם שלשה חמורי עולם, משה ואהרן ושמואל, לומר לך, הקל בדורו, כחמור בדורו, כל בית דין המתמנה על הדור, צריך לילך אחריו כאלו הוא אביר שבאבירים",
+     "gloss": "And Jephthah: here are three light ones of the world set with three weighty ones of the world, Moses, Aaron and Samuel, to teach that the light one in his generation is as the weighty one in his generation; every court appointed over the generation must be followed as though it were the mightiest of the mighty."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d088-s",
+    "key": "Moreover as for me, far be it from me that I should sin against the LORD in ceasing to pray for you; but I will instruct you in the good and the right way.",
+    "ref": "1 Samuel 12:23",
+    "at": [
+     243,
+     23
+    ],
+    "s": "After the harvest thunder frightens the people into confessing, Samuel answers their plea for prayer; Metzudat David, on 12:23, reads it as Samuel forgiving the slight to himself, as God will pardon their sin, since to withhold forgiveness and prayer would be cruel.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 1 Samuel 12:23, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "גם אנכי. רצה לומר: כמו שהמקום יכפר העון הזה, כן גם אנכי אמחול על עלבוני, כי חלילה לי מחטוא לה׳ להיות אכזרי מלמחול ולחדול מלהתפלל בעדכם, כי באמת אתפלל כאשר אמרתם, אף אלמד אתכם בדרך הטובה",
+     "gloss": "As for me: that is, just as the Omnipresent will atone for this sin, so I too will forgive the insult done to me, for far be it from me to sin against the LORD by being cruel, refusing to forgive and ceasing to pray for you; for truly I will pray, as you asked, and will also teach you the good way."
+    }
+   }
+  },
+  {
+   "d": 89,
+   "primary": {
+    "id": "tanakh-03-d089-p",
+    "key": "And Samuel said to Saul: ‘Thou hast done foolishly; thou hast not kept the commandment of the LORD thy God, which He commanded thee; for now would the LORD have established thy kingdom upon Israel for ever.",
+    "ref": "1 Samuel 13:13",
+    "at": [
+     244,
+     13
+    ],
+    "s": "Finding that Saul has offered the burnt-offering without him, Samuel rebukes the king; Radak, on 13:13, reads the folly as lost trust in God: doubting the prophet would come in time, Saul thought neither he nor Israel could be saved by waiting longer.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 1 Samuel 13:13, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "נסכלת. כי כבר ראית מה שאמרתי לך ולישראל הכל מתקיים ועתה כי לא האמנת שאבא בזמני כפרת בי ובנבואתי ולא שמרת את מצות ה' אלהיך אשר צוך על ידי שאני אמרתי לך ולישראל בשמו ולא תמרו את פי ה' והנה אתה מרית את פיו כי מה שאני אומר פיו ודברו הוא ואני אמרתי לך שתוחל לי להעלות העולות וכאשר לא עשית כן ופחדת כדבריך הנה מרית את פי ה' וסלקת בטחונו מלבך כי חשבת שלא תושע אתה וישראל אם תוחיל עוד",
+     "gloss": "Thou hast done foolishly: for you had already seen that all I told you and Israel comes to pass, and now, because you did not believe that I would come at my time, you denied me and my prophecy and did not keep the commandment of the LORD your God which He commanded you through me; for I told you and Israel in His name, ‘and ye shall not rebel against the word of the LORD’, and here you have rebelled against His word, for what I say is His word and speech; I told you to wait for me to offer the burnt-offerings, and when you did not, and were afraid, as you say, you rebelled against the word of the LORD and removed trust in Him from your heart, for you thought that you and Israel would not be saved if you waited longer."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d089-s",
+    "key": "But now thy kingdom shall not continue; the LORD hath sought him a man after His own heart, and the LORD hath appointed him to be prince over His people, because thou hast not kept that which the LORD commanded thee.’",
+    "ref": "1 Samuel 13:14",
+    "at": [
+     244,
+     14
+    ],
+    "s": "Closing his rebuke of Saul, who offered at Gilgal without him, Samuel pronounces sentence; Rashi, on 13:14, reads it by the Torah’s law of the king, whose days are prolonged only if he turns not from the commandment, which covers even a prophet’s.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 1 Samuel 13:14, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ועתה ממלכתך לא תקום. שכן אמר משה בתורה (דברים יז כ): לבלתי סור מן המצוה ימין ושמאל למען יאריך ימים וגו', הא אם סר, לא יאריך ימים, ואם תאמר לא על מצות נביא נאמר, אלא על מצות התורה, הרי כבר נאמר (שם שם): לשמור את כל דברי התורה הזאת, ואחר כך: לבלתי רום לבבו ולבלתי סור מן המצוה, אפילו ממצות נביא",
+     "gloss": "But now thy kingdom shall not continue: for so Moses said in the Torah (Deuteronomy 17:20), ‘that he turn not aside from the commandment, to the right hand or to the left, to the end that he may prolong his days’; hence if he turns aside, he will not prolong his days. And if you say this was said not of a prophet’s commandment but of the Torah’s, it has already said ‘to keep all the words of this law’, and after that ‘that his heart be not lifted up … and that he turn not aside from the commandment’: even from a prophet’s commandment."
+    }
+   }
+  }
+ ]
+}

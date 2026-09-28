@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d086-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 86 --verse 4.22: Radak on 1 Samuel 4:22, lemma ותאמר, prints the evidence verbatim: she said it another time (פעם אחרת אמרה); first the glory was exiled for the captured ark and for her father-in-law and husband (בעבור הארון שנשבה ובעבור שמת חמיה ואישה); now for the ark alone (בעבור הארון לבדו), for it is the chief of the glory (כי הוא עיקר הכבוד). Every clause of the reading is carried; that the first saying ‘counted’ husband and father-in-law is Radak’s reading of 4:21 (JPS prints those words outside her quotation) and the sentence rightly keeps it inside his reading. Metzudat David on 4:22 says the same (עיקר גלות הכבוד בעבור כי נלקח הארון), Rashi has nothing on 4:22: no disagreement to name. Plain sense checked against day.js 4:19 to 4:22: news that the ark was taken and her father-in-law and husband dead, sudden labour, ‘about the time of her death’, the naming in 4:21, the second saying in 4:22; no four-word run from the key. verse.js ok (1 Samuel 4:22, at [235,22]); entry-check.js ok on scratch/R-d086-p.json. No comparison, no school needed, no forbidden term, tone plain.",
+ "better": ""
+}

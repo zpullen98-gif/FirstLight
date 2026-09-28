@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d076-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi on Joshua 24:22 via packet.js --verse 24:22: the evidence stands verbatim on the lemma עדים אתם בכם, which is in the key. His words carry both halves: Joshua foresaw they would contest (לערער) in Ezekiel’s day saying נהיה כגוים, so he pressed hard on them now (הכביד עליהם), and they accepted it in Joshua’s day when they had already entered the land. ‘Plea’ renders לערער in its legal sense (to lodge a claim) and is not softening. Radak and Metzudat David read the verse only as self-witness, so Rashi is the fuller comment. Plain sense checked in day.js: Shechem (24:1, 24:25), Joshua’s warning (24:19 to 20), the people’s resolve (24:21); none of the key’s words repeated. verse.js ok (Joshua 24:22, at [210,22]; key stops before the dash); entry-check.js ok, 44 words, one semicolon, verb ‘reads’. No comparison, no dash, nothing hard softened.",
+ "better": ""
+}

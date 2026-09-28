@@ -1,0 +1,73 @@
+{
+ "id": "tanakh-03-d061-p",
+ "d": 61,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+ "ref": "Deuteronomy 14:1",
+ "at": [
+  166,
+  1
+ ],
+ "s": "Moses opens a chapter of laws that moves from mourning customs to clean food and the tithe; Rashi, on 14:1, reads it as children of God keeping themselves comely, not gashed or made bald, and Ibn Ezra, on 14:1, as children trusting a loving Father whose every deed is for good, though beyond their understanding.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Deuteronomy 14:1, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 14:1, on לא תתגדדו (and on בין עיניכם)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew (On Your Way), with Strickman and Silver’s English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 14:1, on וטעם בנים",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new), with Chavel’s English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 14:1 (quotes both Rashi and Ibn Ezra as distinct readings)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Deuteronomy/Hebrew/Rashbam%20on%20Deuteronomy%20--%20Daat.json",
+    "edition": "Rashbam on Deuteronomy, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Deuteronomy 14:1",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 14:1",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Devarim Rabbah, Hebrew (Torat Emet), Sefaria export 3f10136",
+    "locator": "Deuteronomy 14:1 (nothing linked to the chapter)",
+    "via": "packet"
+   }
+  ],
+  "words": "לְפִי שֶׁאַתֶּם בָּנָיו שֶׁל מָקוֹם וְאַתֶּם רְאוּיִין לִהְיוֹת נָאִים וְלֹא גְּדוּדִים וּמְקֹרָחִים … אחר שתדעו שאתם בנים לשם והוא אוהב אתכם יותר מהאב לבן אל תתגודדו על כל מה שיעשה כי כל אשר יעשה לטוב הוא ואם לא תבינוהו כאשר לא יבינו הבנים הקטנים מעשה אביהם רק יסמכו עליו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 14:1, ‘ye shall not cut yourselves’:] because you are children of the Omnipresent, and it is fitting for you to be comely, not gashed and made bald … [Ibn Ezra on 14:1, ‘and the sense of children’:] once you know that you are children to God, and He loves you more than a father loves his son, do not gash yourselves over anything He does, for all that He does is for good; and if you do not understand it, as little children do not understand their father’s deeds but simply rely on him.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Deuteronomy 14:1 and at [166,1] match. Plain sense faithful: 14:1 to 2 forbid mourning cuts and baldness, 14:3 to 21 give clean and unclean foods, 14:22 to 29 the tithe; Moses speaks throughout; no four-word run from the key. Read every packet source on 14:1 (Rashi, Ibn Ezra, Ramban, Rashbam, Sforno; Deuteronomy Rabbah has nothing linked) and Rashi across chapter 14. Rashi’s own words carry children of the Omnipresent, fit to be comely, not gashed or made bald. Ibn Ezra’s own words carry children loved more than a father loves a son, all He does being for good, relied on like a father whose deeds small children do not understand; ‘a loving Father’ compresses his comparison without adding to it. The two genuinely differ (Ramban quotes both as separate readings), named without resolving (rule 5). entry-check ok on scratch/V-d061-p.json."
+}

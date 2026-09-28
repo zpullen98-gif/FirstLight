@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d074-p",
+ "d": 74,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he shall dwell in that city, until he stand before the congregation for judgment, until the death of the high priest that shall be in those days; then may the manslayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.’",
+ "ref": "Joshua 20:6",
+ "at": [
+  206,
+  6
+ ],
+ "s": "The LORD bids Joshua set apart cities where one who kills unawares may flee the avenger; Radak, on 20:6, explains with the sages why the slayer stays until the high priest dies, since one who shortens life should not stand before him who lengthens it.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on Joshua, on Joshua 20:6, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua 20:6, on עד עמדו לפני העדה למשפט עד מות הכהן הגדול",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew with the Metsudah English (1997), Sefaria export 3f10136",
+    "locator": "Joshua chapter 20",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua chapter 20",
+    "via": "packet"
+   }
+  ],
+  "words": "וטעם עד מות הכהן הגדול פירשוהו רז\"ל רבי מאיר אומר רוצח מקצר ימיו של אדם וכהן גדול מאריך ואינו דין שיהא המקצר לפני המאריך",
+  "lang": "Hebrew",
+  "gloss": "And the reason for ‘until the death of the high priest’ our rabbis of blessed memory explained: Rabbi Meir says, a slayer shortens a man’s days and the high priest lengthens them, and it is not right that the one who shortens should be before the one who lengthens.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "law",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Joshua 20:6 and at [206,6] match. Plain sense faithful: chapter 20 opens with the LORD telling Joshua to have Israel assign cities of refuge for one who kills unawares, a refuge from the avenger of blood (20:1 to 5); no four-word run from the key verse. Read the whole chapter 20 packet (Rashi, Radak, Metzudat David; no Midrash Rabbah on Joshua). Radak on 20:6 explains the court procedure and then gives the reason for ‘until the death of the high priest’ as the sages explained it, quoting Rabbi Meir: the slayer shortens life, the high priest lengthens it, and the shortener should not be before the lengthener (he adds a second reason in Rabbi’s name, which the sentence leaves aside without misrepresenting). ‘explains with the sages’ keeps the attribution honest: Radak reports the rabbinic reason. Evidence copied verbatim from packet output. entry-check ok."
+}

@@ -1,0 +1,212 @@
+{
+ "lane": "L2",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 67,
+   "primary": {
+    "id": "tanakh-03-d067-p",
+    "key": "For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days upon the land, whither ye go over the Jordan to possess it.",
+    "ref": "Deuteronomy 32:47",
+    "at": [
+     184,
+     47
+    ],
+    "s": "Moses, having finished the song, charges Israel to set their hearts on the law and teach it to their children; Rashi, on 32:47, reads it as saying that toil in the Torah is never for nothing, since much reward hangs on it.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Deuteronomy 32:47, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לֹא לְחִנָּם אַתֶּם יְגֵעִים בָּהּ, כִּי הַרְבֵּה שָׂכָר תָּלוּי בָּהּ, כי הוא חייכם",
+     "gloss": "Not for nothing do you labour in it, for much reward hangs on it: ‘for it is your life’."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d067-s",
+    "key": "And of Zebulun he said: Rejoice, Zebulun, in thy going out, And, Issachar, in thy tents.",
+    "ref": "Deuteronomy 33:18",
+    "at": [
+     185,
+     18
+    ],
+    "s": "Blessing the tribes one by one before his death, Moses joins two tribes in a single blessing; Rashi, on 33:18, reads Zebulun’s going out as trade by ship whose profit feeds Issachar at his Torah study, and Ibn Ezra, on 33:18, as going out to war.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi and Ibn Ezra, on Deuteronomy 33:18, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Ibn Ezra’s On Your Way; Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "זְבוּלֻן וְיִשָּׂשכָר עָשׂוּ שֻׁתָּפוּת, זְבוּלֻן לְחוֹף יַמִּים יִשְׁכֹּן וְיוֹצֵא לִפְרַקְמַטְיָא בִּסְפִינוֹת וּמִשְׂתַּכֵּר וְנוֹתֵן לְתוֹךְ פִּיו שֶׁל יִשָּׂשכָר, וְהֵם יוֹשְׁבִים וְעוֹסְקִים בַּתּוֹרָה … שמח זבולון בצאתך. למלחמה וכן זבולן עם חרף נפשו למות",
+     "gloss": "[Rashi, on 33:18:] Zebulun and Issachar made a partnership: Zebulun dwells at the shore of the seas and goes out to trade in ships, makes profit and puts it into Issachar’s mouth, and they sit and occupy themselves with the Torah … [Ibn Ezra, on 33:18:] ‘Rejoice, Zebulun, in thy going out’: to war; and so, ‘Zebulun is a people that jeoparded their lives unto the death’."
+    }
+   }
+  },
+  {
+   "d": 68,
+   "primary": {
+    "id": "tanakh-03-d068-p",
+    "key": "This book of the law shall not depart out of thy mouth, but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein; for then thou shalt make thy ways prosperous, and then thou shalt have good success.",
+    "ref": "Joshua 1:8",
+    "at": [
+     187,
+     8
+    ],
+    "s": "Taking command after the death of Moses, Joshua is charged by the LORD to be strong and keep all the law; Radak, on 1:8, reads it as binding him and every man until he knows the Torah, after which he may study the sciences.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Joshua, on Joshua 1:8, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "נחלקו רבותינו ז\"ל בזה הפסוק י\"א שהוא מצוה לכל ימי האדם ואפילו ידע כל התורה כלה ויש אומרים שהוא ברכה והנראה כי היתה מצוה ליהושע וכן לכל אדם עד שידע התורה ואחר כך ילמוד החכמות",
+     "gloss": "Our rabbis of blessed memory differed over this verse: some say it is a commandment for all a man’s days, even if he knows the whole Torah, and some say it is a blessing; and it appears that it was a commandment to Joshua, and likewise to every man, until he knows the Torah, and afterwards he shall study the sciences."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d068-s",
+    "key": "And the men said unto her: ‘Our life for yours, if ye tell not this our business; and it shall be, when the LORD giveth us the land, that we will deal kindly and truly with thee.’",
+    "ref": "Joshua 2:14",
+    "at": [
+     188,
+     14
+    ],
+    "s": "Rahab, having hidden the two spies from the king of Jericho, asks them to swear kindness to her father’s house; Metzudat David, on 2:14, reads their promise as a kindness of truth, done with no hope of reward, where hers had looked for repayment.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Joshua, on Joshua 2:14, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "חסד ואמת. היות את עשית עמנו חסד אבל צפית לתשלום גמול, אבל אנו נעשה עמך חסד של אמת מבלי תקות תשלום גמול",
+     "gloss": "‘Kindly and truly’: since you did us a kindness but looked forward to repayment, we will do you a kindness of truth, without hope of repayment."
+    }
+   }
+  },
+  {
+   "d": 73,
+   "primary": {
+    "id": "tanakh-03-d073-p",
+    "key": "Forty years old was I when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land; and I brought him back word as it was in my heart.",
+    "ref": "Joshua 14:7",
+    "at": [
+     200,
+     7
+    ],
+    "s": "Asking Joshua for the inheritance Moses swore to him, Caleb recalls his mission as a spy forty-five years before; Radak, on 14:7, reads him as agreeing in words with the other spies so that they would not kill him, then giving Moses a true report.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Joshua, on Joshua 14:7, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "נראה כי כאשר היה עמהם עד שבאו אל המחנה היה מסכים עמהם בדברים כדי שלא יהרגוהו וכאשר בא אל המחנה השיב דבר אמת כאשר עם לבבו וזהו שאמר כאשר עם לבבי ולא כאשר עם פי",
+     "gloss": "It appears that while he was with them, until they came to the camp, he agreed with them in words, so that they would not kill him; and when he came to the camp he brought back a true word, as it was with his heart; and that is why he said ‘as it was in my heart’, and not as it was in my mouth."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d073-s",
+    "key": "As yet I am as strong this day as I was in the day that Moses sent me; as my strength was then, even so is my strength now, for war, and to go out and to come in.",
+    "ref": "Joshua 14:11",
+    "at": [
+     200,
+     11
+    ],
+    "s": "At eighty-five, Caleb asks Joshua for the hill-country where the Anakim dwell; Metzudat David, on 14:11, reads him as forestalling a reply that he is too old, and his strength as serving both to fight and to teach the people the tactics of war.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Joshua, on Joshua 14:11, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "לפי שבא לשאול את חברון, חשש פן ישיב יהושע לאמר הלא זקנת ותש כחך, ואיך תכבוש את חברון, לזה אמר עודני חזק כמאז … כמו הכח שהיה בי אז, כזה הכח בי היום, הן להלחם בעצמי, הן לצאת ולבוא לפני העם להורותם תכסיסי המלחמה",
+     "gloss": "[On ‘As yet I am strong this day’:] Because he came to ask for Hebron, he feared lest Joshua answer: have you not grown old and your strength failed, and how will you conquer Hebron; therefore he said, I am still strong as then … [on ‘as my strength was then’:] Like the strength that was in me then, such is the strength in me today, both to fight myself and to go out and come in before the people to teach them the tactics of war."
+    }
+   }
+  },
+  {
+   "d": 74,
+   "primary": {
+    "id": "tanakh-03-d074-p",
+    "key": "And he shall dwell in that city, until he stand before the congregation for judgment, until the death of the high priest that shall be in those days; then may the manslayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.’",
+    "ref": "Joshua 20:6",
+    "at": [
+     206,
+     6
+    ],
+    "s": "The LORD bids Joshua set apart cities where one who kills unawares may flee the avenger; Radak, on 20:6, explains with the sages why the slayer stays until the high priest dies, since one who shortens life should not stand before him who lengthens it.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Joshua, on Joshua 20:6, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "וטעם עד מות הכהן הגדול פירשוהו רז\"ל רבי מאיר אומר רוצח מקצר ימיו של אדם וכהן גדול מאריך ואינו דין שיהא המקצר לפני המאריך",
+     "gloss": "And the reason for ‘until the death of the high priest’ our rabbis of blessed memory explained: Rabbi Meir says, a slayer shortens a man’s days and the high priest lengthens them, and it is not right that the one who shortens should be before the one who lengthens."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d074-s",
+    "key": "And Joshua said unto the children of Israel: ‘How long are ye slack to go in to possess the land, which the LORD, the God of your fathers, hath given you?",
+    "ref": "Joshua 18:3",
+    "at": [
+     204,
+     3
+    ],
+    "s": "With the tent of meeting set up at Shiloh and seven tribes still without land, Joshua rebukes the people; Metzudat David, on 18:3, reads their delay as fear that tribes holding their portions would not fight for one another, though the LORD fights for them.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Joshua, on Joshua 18:3, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "כי תחשבו אם כל אחד יכיר חלקו פן יפרדו איש מאחיו ולא ילחם האחד בעבור חלק האחר, ולזה אמר עד מתי יהיה לכם רפיון ידים, הלא ה׳ הוא הנותן לכם את הארץ, ואם כן אף בשלא יעזור האחד לחבירו, תוכלו להם, כי ה׳ ילחם לכם",
+     "gloss": "For you think that if each one knows his portion, they may part from one another and one will not fight for the other’s portion; therefore he said, how long will your hands be slack: is it not the LORD who gives you the land, and so, even if one does not help his fellow, you can prevail over them, for the LORD will fight for you."
+    }
+   }
+  },
+  {
+   "d": 75,
+   "primary": {
+    "id": "tanakh-03-d075-p",
+    "key": "‘This day we know that the LORD is in the midst of us, because ye have not committed this treachery against the LORD; now have ye delivered the children of Israel out of the hand of the LORD.’",
+    "ref": "Joshua 22:31",
+    "at": [
+     208,
+     31
+    ],
+    "s": "Hearing that the altar by the Jordan is a witness, not for sacrifice, Phinehas answers its builders; Metzudat David, on 22:31, reads the LORD’s presence in His moving Israel to speak face to face before any bloodshed, and the altar as saving Israel from punishment.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on Joshua, on Joshua 22:31, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "בתת בלבבנו להזהר מבוא בדמים ולדבר תחלה פנים אל פנים, כי רואים אנו אשר לא מעלתם המעל הזה אשר חשבנו, ואדרבה אז בבנין המזבח הצלתם את בני ישראל מיד מכת ה׳, כי מעתה לא יחטאו להשבית את בניכם מליראה את ה׳ ולא יענשו",
+     "gloss": "[‘This day we know’ that the LORD is among us] in His putting it in our hearts to beware of coming to bloodshed and to speak first face to face, for we see that you did not commit this trespass that we thought; on the contrary, by building the altar you saved the children of Israel from the LORD’s stroke, for from now on they will not sin by making your children cease from fearing the LORD, and will not be punished."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d075-s",
+    "key": "And when the children of Israel heard of it, the whole congregation of the children of Israel gathered themselves together at Shiloh, to go up against them to war.",
+    "ref": "Joshua 22:12",
+    "at": [
+     208,
+     12
+    ],
+    "s": "When the tribes on their way home across the Jordan build a great altar beside it, the other tribes move to fight; Radak, on 22:12, reads the muster as their taking it for a separate altar of sacrifice, forbidden since the coming to Shiloh.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on Joshua, on Joshua 22:12, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ולפי שחשבו כי להעלות עליו עולה וזבח עשו אותו ולהיות להם מזבח לבדם מבלי שיבואו למזבח ה' לשילה או באשר יהיה שם ומשבאו לשילה נאסרו הבמות … לפיכך חשבוהו להם לעון ולמרד בה'",
+     "gloss": "And because they thought that they had made it to offer burnt-offering and sacrifice on it, and to have an altar of their own without coming to the LORD’s altar at Shiloh or wherever it would be; and once they came to Shiloh the high places were forbidden … therefore they reckoned it against them as iniquity and rebellion against the LORD."
+    }
+   }
+  }
+ ]
+}

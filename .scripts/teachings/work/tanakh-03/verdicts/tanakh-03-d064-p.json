@@ -1,0 +1,73 @@
+{
+ "id": "tanakh-03-d064-p",
+ "d": 64,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And thou shalt speak and say before the LORD thy God: ‘A wandering Aramean was my father, and he went down into Egypt, and sojourned there, few in number; and he became there a nation, great, mighty, and populous.",
+ "ref": "Deuteronomy 26:5",
+ "at": [
+  178,
+  5
+ ],
+ "s": "The farmer bringing first fruits to the priest recites his people’s story; Rashi, on 26:5, reads the Aramean as Laban, who sought to uproot all in pursuing Jacob, his intent counted as the deed, and Ibn Ezra, on 26:5, as Jacob himself, poor and without means while in Aram.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Deuteronomy 26:5, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 26:5, on ארמי אבד אבי",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew (On Your Way), with Strickman and Silver’s English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 26:5, on אובד אבי",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new), with Chavel’s English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 26:5 (nothing)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Deuteronomy/Hebrew/Rashbam%20on%20Deuteronomy%20--%20Daat.json",
+    "edition": "Rashbam on Deuteronomy, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Deuteronomy 26:5 (reads the Aramean as Abraham)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 26:5 (reads him as Jacob without a home)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Devarim Rabbah, Hebrew (Torat Emet), Sefaria export 3f10136",
+    "locator": "Deuteronomy 26:5 (nothing linked to the chapter)",
+    "via": "packet"
+   }
+  ],
+  "words": "לָבָן בִּקֵּשׁ לַעֲקֹר אֶת הַכֹּל כְּשֶׁרָדַף אַחַר יַעֲקֹב, וּבִשְׁבִיל שֶׁחָשַׁב לַעֲשׂוֹת חָשַׁב לוֹ הַמָּקוֹם כְּאִלּוּ עָשָׂה … והקרוב שארמי הוא יעקב כאלו אמר הכ' כאשר היה אבי בארם היה אובד והטעם עני בלא ממון",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 26:5, ‘an Aramean destroyed my father’, recalling the kindnesses of the Omnipresent:] Laban sought to uproot everything when he pursued Jacob, and because he intended to do it, the Omnipresent accounted it to him as though he had done it … [Ibn Ezra on 26:5, ‘oved avi’, after arguing that oved is intransitive:] and the likeliest is that the Aramean is Jacob, as if Scripture said: when my father was in Aram he was oved, and the sense is poor, without money.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Deuteronomy 26:5 and at [178,5] match (the straight opening quote of the recital made curly, as rule 8 allows). Plain sense faithful: 26:1 to 11 is the first-fruits rite, the basket set before the priest and a recital of the descent to Egypt, bondage and deliverance; no four-word run from the key. Read every packet source on 26:5 (Rashi, Ibn Ezra, Rashbam, Sforno; Ramban and Deuteronomy Rabbah nothing). Rashi’s own words carry Laban seeking to uproot all when he pursued Jacob, his intent counted as the deed; Ibn Ezra’s own words carry the Aramean as Jacob, poor and without money while in Aram. A genuine difference (Ibn Ezra argues against the Laban reading), named without resolving (rule 5). The JPS rendering follows the wandering sense; the sentence attributes each reading to its commentator only. entry-check ok on scratch/V-d064-p.json."
+}

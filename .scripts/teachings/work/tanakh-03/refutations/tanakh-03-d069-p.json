@@ -1,0 +1,12 @@
+{
+ "id": "tanakh-03-d069-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "also_reopened": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 69 --verse 6.17. Rashi on 6:17: וְהָיְתָה הָעִיר חֵרֶם הֶקְדֵּשׁ, כִּי הַיּוֹם שַׁבַּת קֹדֶשׁ, וְרָאוּי לִהְיוֹת קֹדֶשׁ שָׁלָל הַנִּשְׁלָל בּוֹ, carrying ‘consecrated, spoil taken on the holy Sabbath being fit to be holy’. Radak on 6:17: היא שלא תבנה עוד וכל אשר בה שלא יהנה אדם מכל אשר בה ונראה כי הקב\"ה אמר לו כן, carrying ‘never to be rebuilt, nothing in it for anyone’s use, which he judges God commanded’ (ונראה = it appears to him). Attacked drift: Radak glosses ‘it’ and ‘all that is therein’ rather than the word חרם itself, but these are the verse’s own objects of the devotion, so the paraphrase does not exceed him; he then reports the Rabbis’ contrary view (Joshua decided it himself, on the Sabbath reasoning), and the sentence attributes only his own judgement to him. The two differ genuinely and neither is resolved. Plain sense checked against day.js: Joshua speaks to the people 6:16 to 19, wall falls 6:20, all in the city destroyed with the edge of the sword 6:21; plain, not softened, no four-word run from the key. verse.js ok (Joshua 6:17, at [192,17]); entry-check ok, 59 words under the 60 cap; src 131 characters, both editions named.",
+ "better": ""
+}

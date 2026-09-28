@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d087-p",
+ "d": 87,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And they said unto him: ‘Behold, thou art old, and thy sons walk not in thy ways; now make us a king to judge us like all the nations.’",
+ "ref": "1 Samuel 8:5",
+ "at": [
+  239,
+  5
+ ],
+ "s": "With Samuel old and his sons taking bribes, the elders come to Ramah; Radak, on 8:5, takes the wrong not as wanting a king, itself commanded, but as asking in complaint, with little trust in God, who fights for those who keep His way.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 8:5, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Samuel 8:5, on שימה לנו מלך לשפטנו ככל הגוים",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way) with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 8:5, on שימה לנו מלך לשפטנו ככל הגוים",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 8:5, on שימה לנו מלך לשפטנו ככל הגוים",
+    "via": "packet"
+   }
+  ],
+  "words": "אם כן למה היה הדבר רע בעיני ה' לפי שבתרעומת שאלו אותו ולא לשם מצוה כי אילו אמרו תנה לנו מלך שישפטנו ביושר ובאמונה לא היה הדבר רע בעיני שמואל שהרי הכתוב מעיד כי בניו לא היו שופטים ישרים או אילו אמרו נבא לפניך ותשפטנו אתה כל ימי חייך אחר שאין אתה יכול לחזר על המקומות היו אומרים טוב או אם אמרו נמנה בעצתך מלך עלינו אחר שאתה זקנת והמלך ישפטנו ויוכיחנו ויהיה מוראו עלינו לשמור דרך ה' זו השאלה היתה טובה אבל כשאמרו שימה לנו מלך זה היה רע ומיעוט בטחון בהשם ועוד שאמרו ככל הגוים והם לא היו צריכים ככל הגוים אם היו שומרים דרך ה' כי הוא לוחם את מלחמותם",
+  "lang": "Hebrew",
+  "gloss": "If so [the king being one of the three commandments given on entering the land], why was the thing evil in the eyes of the LORD? Because they asked it in complaint and not for the sake of the commandment. Had they asked for a king to judge them in uprightness, or for Samuel to judge them all his life, or for a king chosen by his counsel to keep them in the way of the LORD, it would have been good; but saying make us a king was evil and little trust in God, and like all the nations: they had no need to be like the nations if they kept the way of the LORD, for He fights their battles.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (text centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Samuel 8:5 and at [239,5] match. Plain sense faithful: 8:1 to 8:4 give Samuel old, his sons judging, taking bribes (8:3), and the elders gathering to Samuel at Ramah; no four-word run from the verse. Read the packet on 8:5 (Rashi nothing; Metzudat David brief glosses) and Radak and Metzudat David on 8:6, 8:7 and 8:20. Radak on 8:5 opens with the rabbis’ teaching that appointing a king is one of three commandments on entering the land, then explains the evil as asking in complaint, not for the commandment, and as little trust in God, who fights their battles if they keep His way; he adopts this reading in his own commentary and then records the sages’ dispute, which the sentence does not contradict. The reading stays within his words. The proposer’s basis joined two passages with an ellipsis; the evidence here is one contiguous verbatim span of 113 words starting at אם כן, re-findable by machine. entry-check ok."
+}

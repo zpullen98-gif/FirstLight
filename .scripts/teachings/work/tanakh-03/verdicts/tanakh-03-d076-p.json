@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d076-p",
+ "d": 76,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Joshua said unto the people: ‘Ye are witnesses against yourselves that ye have chosen you the LORD, to serve Him.",
+ "ref": "Joshua 24:22",
+ "at": [
+  210,
+  22
+ ],
+ "s": "At Shechem, as the people meet Joshua’s warning with resolve, he seals their choice; Rashi, on 24:22, reads him as pressing them because he foresaw their plea in Ezekiel’s day to be like the nations, and bound them once they already held the land.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on Joshua 24:22, Hebrew (Metsudah Publications, 1997), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew with the Metsudah English (Metsudah Publications, 1997), Sefaria export 3f10136",
+    "locator": "Joshua 24:22, on עֵדִים אַתֶּם בָּכֶם (whole of chapter 24 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua chapter 24, incl. 24:22",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua chapter 24, incl. 24:19 to 24:24",
+    "via": "packet"
+   }
+  ],
+  "words": "רָאָה יְהוֹשֻׁעַ שֶׁעֲתִידִין לְעַרְעֵר בִּימֵי יְחֶזְקֵאל וְלוֹמַר (יחזקאל כ לב): נִהְיֶה כַגּוֹיִם, לְפִיכָךְ הִכְבִּיד עֲלֵיהֶם עַכְשָׁיו, וּלְכָךְ הוּשַׁב לָהֶם בִּימֵי יְחֶזְקֵאל (שם פסוקים לב לג): וְהָעֹלָה עַל רוּחֲכֶם הָיֹה לֹא תִהְיֶה וְגוֹמֵר, חַי אֲנִי אִם לֹא בְיַד חֲזָקָה וְגוֹמֵר, כְּבָר קִבַּלְתֶּם עֲלֵיכֶם בִּימֵי יְהוֹשֻׁעַ, וְלֹא תֹּאמְרוּ מַה שֶּׁקִּבַּלְנוּ עָלֵינוּ בִּימֵי משֶׁה כְּדֵי לִיכָּנֵס לָאָרֶץ עָשִׂינוּ, הֲרֵי בִּימֵי יְהוֹשֻׁעַ כְּבָר נִכְנַסְתֶּם וְקִבַּלְתֶּם",
+  "lang": "Hebrew",
+  "gloss": "Joshua saw that in time to come they would contest it in the days of Ezekiel and say, ‘We will be as the nations’; therefore he pressed hard upon them now, and so it was answered them in Ezekiel’s days, ‘That which cometh into your mind shall not be at all … as I live, surely with a mighty hand’: you already took it upon yourselves in Joshua’s days, and you shall not say, ‘What we took upon ourselves in Moses’ days we did in order to enter the land’, for in Joshua’s days you had already entered, and you accepted it.",
+  "licence": "Hebrew: CC-BY (Metsudah Publications, 1997)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Joshua 24:22 and at [210,22] match; the key stops before the dash that opens the people’s reply, and ends in a full stop. Plain sense faithful: at Shechem (24:1) Joshua warns that they cannot serve the LORD (24:19 to 20), the people insist (24:21), and he binds them as witnesses (24:22); no four-word run from the key. Read the whole chapter 24 packet for Rashi, Radak and Metzudat David. Rashi on 24:22 (עֵדִים אַתֶּם בָּכֶם) says Joshua foresaw that they would contest it in Ezekiel’s days, saying ‘we will be as the nations’ (Ezekiel 20:32), so he pressed hard on them now; they cannot say their acceptance under Moses was only to enter the land, since under Joshua they had already entered and accepted. The sentence’s ‘pressing them’ (הִכְבִּיד עֲלֵיהֶם), the foresight of Ezekiel’s day, and ‘bound them once they already held the land’ all stand in his words; ‘plea’ is a light rendering of לְעַרְעֵר and ‘say’ but does not add a doctrine. Radak and Metzudat David on 24:22 give only the plain sense (you are witnesses against yourselves), so Rashi is the fuller reading. Evidence copied verbatim from packet output. entry-check ok."
+}

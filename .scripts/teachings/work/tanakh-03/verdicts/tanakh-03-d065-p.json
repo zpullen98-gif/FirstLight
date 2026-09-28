@@ -1,0 +1,73 @@
+{
+ "id": "tanakh-03-d065-p",
+ "d": 65,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And all these blessings shall come upon thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God.",
+ "ref": "Deuteronomy 28:2",
+ "at": [
+  180,
+  2
+ ],
+ "s": "Moses sets the blessings for hearkening before the curses that fill the chapter; Sforno, on 28:2, reads them as blessings that overtake Israel without striving, when Torah is its fixed pursuit and its labour only occasional.",
+ "by": "sforno",
+ "by2": "",
+ "hedge": "",
+ "src": "Sforno, Commentary on the Torah, on Deuteronomy 28:2, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew with the English of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 28:2 (nothing on the verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 28:2, on ובאו and והשיגוך",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new) with Chavel's English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 28:2 (nothing on the verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Deuteronomy/Hebrew/Rashbam%20on%20Deuteronomy%20--%20Daat.json",
+    "edition": "Rashbam on Deuteronomy, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Deuteronomy 28:2 (nothing on the verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Deuteronomy, Hebrew (On Your Way) with Munk's English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 28:2, on כי תשמע בקול ה' אלהיך (second comment on the verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Devarim Rabbah, Hebrew (Torat Emet), Sefaria export 3f10136",
+    "locator": "Deuteronomy 28:2 (nothing placed on the verse)",
+    "via": "packet"
+   }
+  ],
+  "words": "כי תשמע בקול ה' אלהיך. וזה כשתהיה תורתך קבע ומלאכתך עראי ולפי' ישיגוך הברכות בלתי השתדלות",
+  "lang": "Hebrew",
+  "gloss": "‘If thou shalt hearken unto the voice of the LORD thy God’: and this is when your Torah is fixed and your work occasional, and therefore the blessings will overtake you without striving.",
+  "licence": "Hebrew: public domain; English (Munk): CC-BY",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (exact), ref Deuteronomy 28:2 and at [180,2] match. Plain sense faithful: the blessings (28:1 to 14) conditional on hearkening stand before the curses of 28:15 to 68, which fill most of the chapter; no four-word run from the key. Opened every packet source on 28:2: Sforno comments twice, first that the blessings overtake you even though you do not strive to attain them (אע\"פ שלא תשתדל אתה להשיגם), then on ‘if thou shalt hearken’ that this is when Torah is fixed and work occasional, so the blessings overtake without striving; he goes on to tie the blessings to the First Temple and the start of the Second, which the sentence does not use. Ibn Ezra says similarly that they come by themselves and you will not tire (no disagreement to name); Rashi, Ramban, Rashbam and Deuteronomy Rabbah have nothing on the verse. The paraphrase stays inside Sforno’s words. entry-check ok."
+}

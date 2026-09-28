@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d077-p",
+ "d": 77,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And she said: ‘I will surely go with thee; notwithstanding the journey that thou takest shall not be for thy honour; for the LORD will give Sisera over into the hand of a woman.’",
+ "ref": "Judges 4:9",
+ "at": [
+  214,
+  9
+ ],
+ "s": "When Barak will march against Sisera only if Deborah comes too, she agrees with a warning; Radak, on 4:9, reads the woman as Deborah herself, the victory then told under her name and not his, and Metzudat David, on 4:9, as Jael, so that all would know the deliverance came from the LORD.",
+ "by": "radak",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Radak and Metzudat David, on Judges 4:9, Hebrew (Radak: Sefaria’s “Radak on Nach”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Judges 4:9, on כי ביד אשה (whole of chapter 4 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Judges 4:9, on אפס וגו׳ (whole of chapter 4 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way) with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Judges chapter 4 (no comment on 4:9)",
+    "via": "packet"
+   }
+  ],
+  "words": "י\"מ יעל שנמכר סיסרא בידה ועל פי הנבואה אמרה זה ואיננו נכון לענין הפסוק שאמר אפס כי לא תהיה תפארתך אלא פירושו כך אם אלך לא תהיה תפארתך כי על ידי תהיה התשועה ויאמרו כי ביד דבורה ימכור ה' את סיסרא ולא תהיה התשועה הזאת נקראת על שמך … ולזה אמרה, הלא סיסרא יומת על ידי אשה, והיא יעל אשת חבר הקיני, כאשר יאמר בענין. אם כן, ידעו הכל שמיד ה׳ היתה זאת, כי לא בכח תגבר אשה",
+  "lang": "Hebrew",
+  "gloss": "[Radak, on 4:9, ‘into the hand of a woman’:] Some explain it as Jael, into whose hand Sisera was delivered, and say she spoke this by prophecy; but that does not fit the verse, which says ‘notwithstanding … shall not be for thy honour’. Rather its meaning is this: if I go, the glory will not be yours, for the deliverance will come through me, and they will say that into Deborah’s hand the LORD sold Sisera, and this deliverance will not be called by your name. … [Metzudat David, on 4:9:] And so she said: surely Sisera will be put to death by a woman, and that is Jael the wife of Heber the Kenite, as the account will tell. If so, all will know that this was from the LORD’s hand, for not by strength does a woman prevail.",
+  "licence": "Hebrew: Radak, no licence stated by Sefaria (the text is centuries old); Metzudat David, public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Judges 4:9 and at [214,9] match; the key is the first sentence of 4:9, ending at ‘woman.’’. Plain sense faithful: Barak will go only if Deborah goes (4:8) and she agrees with a warning (4:9); no four-word run from the key. Read the whole chapter 4 packet. Radak on 4:9 names and rejects the reading that the woman is Jael, and takes it as Deborah: the deliverance will be told as by Deborah’s hand and not called by Barak’s name. Metzudat David on 4:9 takes the woman as Jael, the wife of Heber the Kenite, so that all would know it was from the LORD’s hand, since a woman does not prevail by strength; hence no glory is left to Barak as captain. The two genuinely differ and the sentence names both without resolving (rule 5); each paraphrase stays within his words. Rashi has no comment on 4:9. Evidence copied verbatim from packet output, the two comments joined by an ellipsis. entry-check ok (53 words, within 60 for two commentators)."
+}

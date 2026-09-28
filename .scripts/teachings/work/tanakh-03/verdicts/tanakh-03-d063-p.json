@@ -1,0 +1,73 @@
+{
+ "id": "tanakh-03-d063-p",
+ "d": 63,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "When thou buildest a new house, then thou shalt make a parapet for thy roof, that thou bring not blood upon thy house, if any man fall from thence.",
+ "ref": "Deuteronomy 22:8",
+ "at": [
+  174,
+  8
+ ],
+ "s": "Between the mother bird and the vineyard comes a law for builders; Rashi, on 22:8, reads the faller as one who deserved to fall, whose death must still not come through the builder, for merit comes through the worthy and guilt through the guilty.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Deuteronomy 22:8, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 22:8, on כי יפל הנפל (also on כי תבנה בית חדש and מעקה)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew (On Your Way), with Strickman and Silver’s English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 22:8",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new), with Chavel’s English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 22:8",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Deuteronomy/Hebrew/Rashbam%20on%20Deuteronomy%20--%20Daat.json",
+    "edition": "Rashbam on Deuteronomy, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Deuteronomy 22:8",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 22:8",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Devarim Rabbah, Hebrew (Torat Emet), Sefaria export 3f10136",
+    "locator": "Deuteronomy 22:8 (6:3 and 6:4, printed under 22:6)",
+    "via": "packet"
+   }
+  ],
+  "words": "רָאוּי זֶה לִפֹּל, וְאַעַ\"פִּ כֵן לֹא תִתְגַּלְגֵּל מִיתָתוֹ עַל יָדְךָ, שֶׁמְּגַלְגְּלִין זְכוּת עַל יְדֵי זַכַּאי וְחוֹבָה עַל יְדֵי חַיָּב",
+  "lang": "Hebrew",
+  "gloss": "(Rashi on 22:8, ‘if any man fall from thence’) This one was fit to fall, and even so his death should not come about through you; for merit is brought about through the meritorious, and guilt through the guilty.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Deuteronomy 22:8 and at [174,8] match. Plain sense faithful: 22:6 to 7 is the law of the mother bird, 22:9 the vineyard sown with two kinds, and the parapet law stands between them; no four-word run from the key. Read every packet source on 22:8 (Rashi, Ibn Ezra, Ramban, Rashbam, Sforno; Deuteronomy Rabbah 6:3 to 6:4 printed under 22:6). Rashi’s own words on כי יפל הנפל carry each clause of the reading: the faller deserved to fall, his death must still not come through the builder, merit through the meritorious and guilt through the guilty. Nothing added beyond him. entry-check ok on scratch/V-d063-p.json."
+}

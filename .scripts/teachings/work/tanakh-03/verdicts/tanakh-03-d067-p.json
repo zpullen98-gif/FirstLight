@@ -1,0 +1,73 @@
+{
+ "id": "tanakh-03-d067-p",
+ "d": 67,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days upon the land, whither ye go over the Jordan to possess it.",
+ "ref": "Deuteronomy 32:47",
+ "at": [
+  184,
+  47
+ ],
+ "s": "Moses, having finished the song, charges Israel to set their hearts on the law and teach it to their children; Rashi, on 32:47, reads it as saying that toil in the Torah is never for nothing, since much reward hangs on it.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Deuteronomy 32:47, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew with the English of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 32:47, on כי לא דבר רק הוא מכם",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 32:47",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new), Sefaria export 3f10136",
+    "locator": "Deuteronomy 32:47 (nothing on the verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Deuteronomy/Hebrew/Rashbam%20on%20Deuteronomy%20--%20Daat.json",
+    "edition": "Rashbam on Deuteronomy, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Deuteronomy 32:47 (nothing on the verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 32:46 to 47",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Devarim Rabbah, Hebrew (Torat Emet), Sefaria export 3f10136",
+    "locator": "Deuteronomy 32:47 (nothing placed on the verse)",
+    "via": "packet"
+   }
+  ],
+  "words": "כי לא דבר רק הוא מכם. לֹא לְחִנָּם אַתֶּם יְגֵעִים בָּהּ, כִּי הַרְבֵּה שָׂכָר תָּלוּי בָּהּ, כי הוא חייכם",
+  "lang": "Hebrew",
+  "gloss": "‘For it is not a vain thing for you’: not for nothing do you labour in it, for much reward hangs on it, ‘for it is your life’.",
+  "licence": "Hebrew: public domain; English (Rosenbaum and Silbermann): public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (exact), ref Deuteronomy 32:47 and at [184,47] match. Plain sense faithful: after the song (32:44) Moses, having ended his words (32:45), tells Israel to set their heart to the words he testifies and to charge their children with all the words of this law (32:46); no four-word run from the key. Opened every packet source on 32:46 and 32:47: Rashi on the lemma ‘כי לא דבר רק הוא מכם’ says not for nothing do you toil in it, since much reward hangs on it, for it is your life; his second explanation (no empty word in the Torah) is not used. Ibn Ezra reads ‘your life’ as long days in the land rather than exile; Ramban, Rashbam and Deuteronomy Rabbah have nothing on the verse; Sforno comments on 32:46 only. The sentence’s paraphrase stays inside Rashi’s first explanation. entry-check ok."
+}

@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d089-p",
+ "d": 89,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Samuel said to Saul: ‘Thou hast done foolishly; thou hast not kept the commandment of the LORD thy God, which He commanded thee; for now would the LORD have established thy kingdom upon Israel for ever.",
+ "ref": "1 Samuel 13:13",
+ "at": [
+  244,
+  13
+ ],
+ "s": "Finding that Saul has offered the burnt-offering without him, Samuel rebukes the king; Radak, on 13:13, reads the folly as lost trust in God: doubting the prophet would come in time, Saul thought neither he nor Israel could be saved by waiting longer.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on 1 Samuel 13:13, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Samuel 13:13, on נסכלת",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 13:13",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 13:13",
+    "via": "packet"
+   }
+  ],
+  "words": "ועתה כי לא האמנת שאבא בזמני כפרת בי ובנבואתי ולא שמרת את מצות ה' אלהיך אשר צוך על ידי שאני אמרתי לך ולישראל בשמו ולא תמרו את פי ה' והנה אתה מרית את פיו כי מה שאני אומר פיו ודברו הוא ואני אמרתי לך שתוחל לי להעלות העולות וכאשר לא עשית כן ופחדת כדבריך הנה מרית את פי ה' וסלקת בטחונו מלבך כי חשבת שלא תושע אתה וישראל אם תוחיל עוד",
+  "lang": "Hebrew",
+  "gloss": "And now, because you did not believe that I would come at my time, you denied me and my prophecy and did not keep the commandment of the LORD your God which He commanded you through me; I told you to wait for me to offer the burnt-offerings, and when you did not, and were afraid, as you say, you rebelled against the word of the LORD and removed trust in Him from your heart, for you thought that you and Israel would not be saved if you waited longer.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Samuel 13:13 and at [244,13] match. Plain sense faithful: Saul offers the burnt-offering (13:9), Samuel arrives as he finishes (13:10), hears his excuse (13:11 to 12) and rebukes him (13:13 to 14); no four-word run from the verse. Read the chapter 13 packet at 13:8 to 13:14 (Rashi, Radak, Metzudat David; no Midrash Rabbah on 1 Samuel). Radak on נסכלת says that because Saul did not believe Samuel would come at his time he denied the prophet, rebelled against the word of the LORD, and removed trust in Him from his heart, thinking he and Israel would not be saved if he waited longer. The sentence (folly as lost trust; doubting the prophet would come in time; neither he nor Israel saved by waiting) is carried by these words without drift. Evidence is one contiguous span, machine-matched against packet.js output. entry-check ok."
+}

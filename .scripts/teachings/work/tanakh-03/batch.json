@@ -1,0 +1,436 @@
+{
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "div": "2469cf544a",
+ "days": [
+  {
+   "d": 61,
+   "label": "Deuteronomy 14 to 16",
+   "id": "tanakh-03-d061-p",
+   "key": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+   "ref": "Deuteronomy 14:1",
+   "at": [
+    166,
+    1
+   ],
+   "s": "Moses opens a chapter of laws that moves from mourning customs to clean food and the tithe; Rashi, on 14:1, reads it as children of God keeping themselves comely, not gashed or made bald, and Ibn Ezra, on 14:1, as children trusting a loving Father whose every deed is for good, though beyond their understanding.",
+   "by": "rashi",
+   "by2": "ibn-ezra",
+   "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Deuteronomy 14:1, Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 62,
+   "label": "Deuteronomy 17 to 20",
+   "id": "tanakh-03-d062-p",
+   "key": "When thou drawest nigh unto a city to fight against it, then proclaim peace unto it.",
+   "ref": "Deuteronomy 20:10",
+   "at": [
+    172,
+    10
+   ],
+   "s": "Opening the siege laws, which order a resisting far city’s males killed and the land’s nations destroyed, the verse sets the first step; Rashi, on 20:10, reads it as speaking of discretionary war, and Ramban, on the same verse, as requiring the call to peace even with the seven nations, the section distinguishing the wars only at its end.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, on Deuteronomy 20:10, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way new”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 63,
+   "label": "Deuteronomy 21 to 23",
+   "id": "tanakh-03-d063-p",
+   "key": "When thou buildest a new house, then thou shalt make a parapet for thy roof, that thou bring not blood upon thy house, if any man fall from thence.",
+   "ref": "Deuteronomy 22:8",
+   "at": [
+    174,
+    8
+   ],
+   "s": "Between the mother bird and the vineyard comes a law for builders; Rashi, on 22:8, reads the faller as one who deserved to fall, whose death must still not come through the builder, for merit comes through the worthy and guilt through the guilty.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Deuteronomy 22:8, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 64,
+   "label": "Deuteronomy 24 to 27",
+   "id": "tanakh-03-d064-p",
+   "key": "And thou shalt speak and say before the LORD thy God: ‘A wandering Aramean was my father, and he went down into Egypt, and sojourned there, few in number; and he became there a nation, great, mighty, and populous.",
+   "ref": "Deuteronomy 26:5",
+   "at": [
+    178,
+    5
+   ],
+   "s": "The farmer bringing first fruits to the priest recites his people’s story; Rashi, on 26:5, reads the Aramean as Laban, who sought to uproot all in pursuing Jacob, his intent counted as the deed, and Ibn Ezra, on 26:5, as Jacob himself, poor and without means while in Aram.",
+   "by": "rashi",
+   "by2": "ibn-ezra",
+   "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Deuteronomy 26:5, Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 65,
+   "label": "Deuteronomy 28",
+   "id": "tanakh-03-d065-p",
+   "key": "And all these blessings shall come upon thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God.",
+   "ref": "Deuteronomy 28:2",
+   "at": [
+    180,
+    2
+   ],
+   "s": "Moses sets the blessings for hearkening before the curses that fill the chapter; Sforno, on 28:2, reads them as blessings that overtake Israel without striving, when Torah is its fixed pursuit and its labour only occasional.",
+   "by": "sforno",
+   "src": "Sforno, Commentary on the Torah, on Deuteronomy 28:2, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 66,
+   "label": "Deuteronomy 29 to 31",
+   "id": "tanakh-03-d066-p",
+   "key": "For this commandment which I command thee this day, it is not too hard for thee, neither is it far off.",
+   "ref": "Deuteronomy 30:11",
+   "at": [
+    182,
+    11
+   ],
+   "s": "Having foretold exile and return, Moses speaks of the commandment; Ramban, on 30:11, reads it not as the whole Torah but as the commandment of repentance, within reach even among the nations, at any time and place, by confession and a returning heart.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Deuteronomy 30:11, Hebrew (On Your Way new), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 67,
+   "label": "Deuteronomy 32 to 33",
+   "id": "tanakh-03-d067-p",
+   "key": "For it is no vain thing for you; because it is your life, and through this thing ye shall prolong your days upon the land, whither ye go over the Jordan to possess it.",
+   "ref": "Deuteronomy 32:47",
+   "at": [
+    184,
+    47
+   ],
+   "s": "Moses, having finished the song, charges Israel to set their hearts on the law and teach it to their children; Rashi, on 32:47, reads it as saying that toil in the Torah is never for nothing, since much reward hangs on it.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Deuteronomy 32:47, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 68,
+   "label": "Deuteronomy 34 to Joshua 3",
+   "id": "tanakh-03-d068-p",
+   "key": "This book of the law shall not depart out of thy mouth, but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein; for then thou shalt make thy ways prosperous, and then thou shalt have good success.",
+   "ref": "Joshua 1:8",
+   "at": [
+    187,
+    8
+   ],
+   "s": "Taking command after the death of Moses, Joshua is charged by the LORD to be strong and keep all the law; Radak, on 1:8, reads it as binding him and every man until he knows the Torah, after which he may study the sciences.",
+   "by": "radak",
+   "src": "Radak, commentary on Joshua, on Joshua 1:8, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 69,
+   "label": "Joshua 4 to 6",
+   "id": "tanakh-03-d069-p",
+   "key": "And the city shall be devoted, even it and all that is therein, to the LORD; only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent.",
+   "ref": "Joshua 6:17",
+   "at": [
+    192,
+    17
+   ],
+   "s": "Before the wall falls and all in Jericho are put to the sword, Joshua charges the people; Rashi, on 6:17, reads ‘devoted’ as consecrated, spoil taken on the holy Sabbath being fit to be holy, and Radak, on the same verse, as a city never to be rebuilt, nothing in it for anyone’s use, which he judges God commanded.",
+   "by": "rashi",
+   "by2": "radak",
+   "src": "Rashi and Radak, on Joshua 6:17, Hebrew (Rashi: Metsudah Publications, 1997; Radak: “Radak on Nach”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 70,
+   "label": "Joshua 7 to 8",
+   "id": "tanakh-03-d070-p",
+   "key": "And Joshua said unto Achan: ‘My son, give, I pray thee, glory to the LORD, the God of Israel, and make confession unto Him; and tell me now what thou hast done; hide nothing from me.’",
+   "ref": "Joshua 7:19",
+   "at": [
+    193,
+    19
+   ],
+   "s": "Joshua addresses Achan, taken as thief of the devoted thing, before he and all he has are stoned and burned; Radak, on 7:19, reads it as asking confession, so his death might atone for him and Israel acknowledge the lot that took him as true.",
+   "by": "radak",
+   "src": "Radak, Commentary on Joshua, on Joshua 7:19, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 71,
+   "label": "Joshua 9 to 10",
+   "id": "tanakh-03-d071-p",
+   "key": "Then spoke Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel; and he said in the sight of Israel: ‘Sun, stand thou still upon Gibeon; And thou, Moon, in the valley of Aijalon.’",
+   "ref": "Joshua 10:12",
+   "at": [
+    196,
+    12
+   ],
+   "s": "Joshua speaks as Israel routs five kings, later killed with all in the cities taken; Rashi, on 10:12, hears ‘stand thou still’ as silence, the sun, singing as it moves, hushed and so halted while Joshua sang instead, and by the plain sense as waiting.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on Joshua, on Joshua 10:12, Hebrew (Metsudah Publications, 1997), Sefaria export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 72,
+   "label": "Joshua 11 to 13",
+   "id": "tanakh-03-d072-p",
+   "key": "Joshua made war a long time with all those kings.",
+   "ref": "Joshua 11:18",
+   "at": [
+    197,
+    18
+   ],
+   "s": "With the northern kings routed and everyone in their cities killed, the chapter sums up the war; Rashi, on 11:18, reads it as told to Joshua’s discredit: since he was to apportion the land, he meant to delay its conquest and lengthen his days.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on Joshua 11:18, Hebrew (The Book of Joshua, Metsudah Publications, 1997), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 73,
+   "label": "Joshua 14 to 17",
+   "id": "tanakh-03-d073-p",
+   "key": "Forty years old was I when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land; and I brought him back word as it was in my heart.",
+   "ref": "Joshua 14:7",
+   "at": [
+    200,
+    7
+   ],
+   "s": "Asking Joshua for the inheritance Moses swore to him, Caleb recalls his mission as a spy forty-five years before; Radak, on 14:7, reads him as agreeing in words with the other spies so that they would not kill him, then giving Moses a true report.",
+   "by": "radak",
+   "src": "Radak, commentary on Joshua, on Joshua 14:7, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 74,
+   "label": "Joshua 18 to 20",
+   "id": "tanakh-03-d074-p",
+   "key": "And he shall dwell in that city, until he stand before the congregation for judgment, until the death of the high priest that shall be in those days; then may the manslayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.’",
+   "ref": "Joshua 20:6",
+   "at": [
+    206,
+    6
+   ],
+   "s": "The LORD bids Joshua set apart cities where one who kills unawares may flee the avenger; Radak, on 20:6, explains with the sages why the slayer stays until the high priest dies, since one who shortens life should not stand before him who lengthens it.",
+   "by": "radak",
+   "src": "Radak, commentary on Joshua, on Joshua 20:6, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 75,
+   "label": "Joshua 21 to 22",
+   "id": "tanakh-03-d075-p",
+   "key": "‘This day we know that the LORD is in the midst of us, because ye have not committed this treachery against the LORD; now have ye delivered the children of Israel out of the hand of the LORD.’",
+   "ref": "Joshua 22:31",
+   "at": [
+    208,
+    31
+   ],
+   "s": "Hearing that the altar by the Jordan is a witness, not for sacrifice, Phinehas answers its builders; Metzudat David, on 22:31, reads the LORD’s presence in His moving Israel to speak face to face before any bloodshed, and the altar as saving Israel from punishment.",
+   "by": "metzudat-david",
+   "src": "Metzudat David, commentary on Joshua, on Joshua 22:31, Hebrew (On Your Way), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 76,
+   "label": "Joshua 23 to Judges 1",
+   "id": "tanakh-03-d076-p",
+   "key": "And Joshua said unto the people: ‘Ye are witnesses against yourselves that ye have chosen you the LORD, to serve Him.",
+   "ref": "Joshua 24:22",
+   "at": [
+    210,
+    22
+   ],
+   "s": "At Shechem, as the people meet Joshua’s warning with resolve, he seals their choice; Rashi, on 24:22, reads him as pressing them because he foresaw their plea in Ezekiel’s day to be like the nations, and bound them once they already held the land.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on Joshua 24:22, Hebrew (Metsudah Publications, 1997), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 77,
+   "label": "Judges 2 to 4",
+   "id": "tanakh-03-d077-p",
+   "key": "And she said: ‘I will surely go with thee; notwithstanding the journey that thou takest shall not be for thy honour; for the LORD will give Sisera over into the hand of a woman.’",
+   "ref": "Judges 4:9",
+   "at": [
+    214,
+    9
+   ],
+   "s": "When Barak will march against Sisera only if Deborah comes too, she agrees with a warning; Radak, on 4:9, reads the woman as Deborah herself, the victory then told under her name and not his, and Metzudat David, on 4:9, as Jael, so that all would know the deliverance came from the LORD.",
+   "by": "radak",
+   "by2": "metzudat-david",
+   "src": "Radak and Metzudat David, on Judges 4:9, Hebrew (Radak: Sefaria’s “Radak on Nach”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 78,
+   "label": "Judges 5 to 6",
+   "id": "tanakh-03-d078-p",
+   "key": "And the LORD turned towards him, and said: ‘Go in this thy might, and save Israel from the hand of Midian; have not I sent thee?’",
+   "ref": "Judges 6:14",
+   "at": [
+    216,
+    14
+   ],
+   "s": "When Gideon, threshing in hiding, asks where the wonders of the Exodus have gone, he is given his charge; Rashi, on 6:14, with Rabbi Tanchuma, reads ‘this thy might’ as the merit of his having pleaded in Israel’s defence.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on Judges 6:14, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 79,
+   "label": "Judges 7 to 8",
+   "id": "tanakh-03-d079-p",
+   "key": "So he brought down the people unto the water; and the LORD said unto Gideon: ‘Everyone that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.’",
+   "ref": "Judges 7:5",
+   "at": [
+    217,
+    5
+   ],
+   "s": "After the fearful turn home, the LORD tests the ten thousand left with Gideon; Rashi, on 7:5, reads those who kneel to drink as sent away from Gideon’s band, being practised in kneeling before idols.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on Judges 7:5, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 80,
+   "label": "Judges 9 to 10",
+   "id": "tanakh-03-d080-p",
+   "key": "And they put away the strange gods from among them, and served the LORD; and His soul was grieved for the misery of Israel.",
+   "ref": "Judges 10:16",
+   "at": [
+    220,
+    16
+   ],
+   "s": "Told to seek help from the gods they have chosen, Israel pleads once more; Rashi, on 10:16, reads the grief as God, as it were, having no room to bear the pain of their misery, and Metzudat David, on 10:16, as His will to add to their misery cut short on their return, as He relented of the evil.",
+   "by": "rashi",
+   "by2": "metzudat-david",
+   "src": "Rashi and Metzudat David, on Judges 10:16, Hebrew (Sefaria’s “On Your Way” for both), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 81,
+   "label": "Judges 11 to 13",
+   "id": "tanakh-03-d081-p",
+   "key": "And it came to pass at the end of two months, that she returned unto her father, who did with her according to his vow which he had vowed; and she had not known man.",
+   "ref": "Judges 11:39",
+   "at": [
+    221,
+    39
+   ],
+   "s": "Jephthah’s only daughter, who came out to meet him after his vow of a burnt-offering, comes home from the mountains; Rashi, on 11:39, takes her as perished because neither Jephthah nor Phinehas, who could release the vow, would stoop to go to the other, and Radak, on 11:39, as set apart in a house, away from people.",
+   "by": "rashi",
+   "by2": "radak",
+   "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Judges 11:39, Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 82,
+   "label": "Judges 14 to 16",
+   "id": "tanakh-03-d082-p",
+   "key": "And Samson called unto the LORD, and said: ‘O Lord GOD, remember me, I pray Thee, and strengthen me, I pray Thee, only this once, O God, that I may be this once avenged of the Philistines for my two eyes.’",
+   "ref": "Judges 16:28",
+   "at": [
+    226,
+    28
+   ],
+   "s": "Blind and brought out to make sport at Dagon’s feast, Samson stands between the pillars and prays; Rashi, on 16:28, hears ‘remember me’ as asking God to remember his twenty years judging Israel without once bidding any of them carry a staff for him.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on Judges, on Judges 16:28, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 83,
+   "label": "Judges 17 to 19",
+   "id": "tanakh-03-d083-p",
+   "key": "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the farther side of the hill-country of Ephraim, who took to him a concubine out of Beth-lehem in Judah.",
+   "ref": "Judges 19:1",
+   "at": [
+    229,
+    1
+   ],
+   "s": "The chapter in which the Levite gives his concubine up to the men of Gibeah, who abuse her all night, opens here; Metzudat David, on 19:1, reads ‘no king’ as explaining what follows: a king would have punished the sinners, sparing Israel civil war.",
+   "by": "metzudat-david",
+   "src": "Metzudat David, on Judges 19:1, Hebrew (Sefaria’s On Your Way text), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 84,
+   "label": "Judges 20 to 21",
+   "id": "tanakh-03-d084-p",
+   "key": "And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites on that day twenty and two thousand men.",
+   "ref": "Judges 20:21",
+   "at": [
+    230,
+    21
+   ],
+   "s": "Warring on Benjamin over the concubine raped and murdered at Gibeah, Israel loses the first battle; Radak, on Judges 20:21, reads the defeat, after the sages, as punishment for leaving Micah’s idol unchallenged while rising against this outrage, zealous for human honour but not God’s.",
+   "by": "radak",
+   "src": "Radak, Commentary on Judges, on Judges 20:21, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 85,
+   "label": "1 Samuel 1 to 3",
+   "id": "tanakh-03-d085-p",
+   "key": "And the LORD came, and stood, and called as at other times: ‘Samuel, Samuel.’ Then Samuel said: ‘Speak; for Thy servant heareth.’",
+   "ref": "1 Samuel 3:10",
+   "at": [
+    234,
+    10
+   ],
+   "s": "Called a fourth time in the night, the boy answers as Eli taught him, but without the name of the LORD; Rashi, on 3:10, takes the omission as caution, lest the voice be another’s, and Radak, on 3:10, as awe, still fearing to speak the Name in a prophetic vision.",
+   "by": "rashi",
+   "by2": "radak",
+   "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on 1 Samuel 3:10, Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 86,
+   "label": "1 Samuel 4 to 6",
+   "id": "tanakh-03-d086-p",
+   "key": "And she said: ‘The glory is departed from Israel; for the ark of God is taken.’",
+   "ref": "1 Samuel 4:22",
+   "at": [
+    235,
+    22
+   ],
+   "s": "Dying in childbirth at the news from the battle, Phinehas’ wife speaks a second time; Radak, on 4:22, reads the repetition as naming the ark alone, the chief of the glory, where the first saying also counted her husband and his father.",
+   "by": "radak",
+   "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 4:22, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 87,
+   "label": "1 Samuel 7 to 9",
+   "id": "tanakh-03-d087-p",
+   "key": "And they said unto him: ‘Behold, thou art old, and thy sons walk not in thy ways; now make us a king to judge us like all the nations.’",
+   "ref": "1 Samuel 8:5",
+   "at": [
+    239,
+    5
+   ],
+   "s": "With Samuel old and his sons taking bribes, the elders come to Ramah; Radak, on 8:5, takes the wrong not as wanting a king, itself commanded, but as asking in complaint, with little trust in God, who fights for those who keep His way.",
+   "by": "radak",
+   "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 8:5, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 88,
+   "label": "1 Samuel 10 to 12",
+   "id": "tanakh-03-d088-p",
+   "key": "And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelt in safety.",
+   "ref": "1 Samuel 12:11",
+   "at": [
+    243,
+    11
+   ],
+   "s": "Reproving Israel for asking a king, Samuel recounts God’s past deliverances; Rashi, on 12:11, reads the list as setting three lesser judges beside Moses, Aaron and Samuel, teaching that a lesser leader in his generation is as a great one in his.",
+   "by": "rashi",
+   "src": "Rashi, commentary on 1 Samuel 12:11, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 89,
+   "label": "1 Samuel 13 to 14",
+   "id": "tanakh-03-d089-p",
+   "key": "And Samuel said to Saul: ‘Thou hast done foolishly; thou hast not kept the commandment of the LORD thy God, which He commanded thee; for now would the LORD have established thy kingdom upon Israel for ever.",
+   "ref": "1 Samuel 13:13",
+   "at": [
+    244,
+    13
+   ],
+   "s": "Finding that Saul has offered the burnt-offering without him, Samuel rebukes the king; Radak, on 13:13, reads the folly as lost trust in God: doubting the prophet would come in time, Saul thought neither he nor Israel could be saved by waiting longer.",
+   "by": "radak",
+   "src": "Radak, commentary on 1 Samuel 13:13, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 90,
+   "label": "1 Samuel 15 to 16",
+   "id": "tanakh-03-d090-p",
+   "key": "For rebellion is as the sin of witchcraft, And stubbornness is as idolatry and teraphim.",
+   "ref": "1 Samuel 15:23",
+   "at": [
+    246,
+    23
+   ],
+   "s": "Samuel rebukes Saul, sent to destroy Amalek to the last infant and beast, for sparing its king and best flocks; Radak, on 15:23, reads rebellion as like divination, each withdrawing trust from God, the rebel acting as if He could neither help nor harm.",
+   "by": "radak",
+   "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 15:23, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)"
+  }
+ ],
+ "holes": []
+}

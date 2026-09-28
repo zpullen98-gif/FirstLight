@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d081-p",
+ "d": 81,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And it came to pass at the end of two months, that she returned unto her father, who did with her according to his vow which he had vowed; and she had not known man.",
+ "ref": "Judges 11:39",
+ "at": [
+  221,
+  39
+ ],
+ "s": "Jephthah’s only daughter, who came out to meet him after his vow of a burnt-offering, comes home from the mountains; Rashi, on 11:39, takes her as perished because neither Jephthah nor Phinehas, who could release the vow, would stoop to go to the other, and Radak, on 11:39, as set apart in a house, away from people.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Judges 11:39, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Judges 11:39, on ותהי חק",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Judges 11:39, on ויעש לה את נדרו אשר נדר (also read 11:31 and 11:40)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Judges 11:39",
+    "via": "packet"
+   }
+  ],
+  "words": "ותהי חק. גזרו שלא יעשה אדם עוד כן, שאלו הלך אצל פנחס, או הוא בא אצלו, היה מתיר לו נדרו, עמדו בגדולתן, ומבין שניהם אבדה … ויעש לה את נדרו אשר נדר. שעשה לה בית והכניסה שם והיתה שם פרושה מבני אדם ומדרכי העולם",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 11:39, ‘and it was a custom’:] They decreed that no one should do so again, for had he gone to Phinehas, or had Phinehas come to him, he would have released his vow; they stood on their greatness, and between the two of them she perished … [Radak on 11:39, ‘and he did with her his vow which he had vowed’:] that he made her a house and brought her into it, and there she was set apart from people and from the ways of the world.",
+  "licence": "Hebrew: public domain (Rashi); Radak: no licence stated by Sefaria, the text centuries old",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Second judgement. verse.js ok, Judges 11:39 at [221,39]. Re-read packet.js tanakh 81 --verse 11.39 and 11.40: the Rashi words (on ותהי חק) and the Radak words (on ויעש לה את נדרו) are verbatim and contiguous in the packet. The refuter is right on tone (rules 5 and 6): the whole disagreement is whether the vow cost her life (Rashi: ומבין שניהם אבדה, decreed never to be repeated, both men punished; Metsudah English ‘her ruin’) or her seclusion (Radak: a house, פרושה מבני אדם). ‘Lost’ blurs that toward Radak; ‘perished’ renders the same Hebrew word and keeps the two readings distinct without resolving them. Corrected: ‘lost’ to ‘perished’ in the sentence and ‘she was lost’ to ‘she perished’ in the gloss; also dropped ‘first’ (the text says only that she came out to meet him, 11:34, under the vow of 11:31), giving ‘who came out to meet him’. Key, ref, at, src and evidence otherwise unchanged. entry-check ok on scratch/RV2-d081-p.json."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d087-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 87 --verse 8.5: Radak on 1 Samuel 8:5, lemma שימה לנו מלך לשפטנו ככל הגוים, prints the evidence verbatim. He opens from the sages’ three commandments on entering the land, the first to appoint a king, and asks why then it was evil (אם כן למה היה הדבר רע בעיני ה׳); his answer is his own: they asked in complaint, not for the commandment (שבתרעומת שאלו אותו ולא לשם מצוה), ‘make us a king’ was evil and little trust in God (מיעוט בטחון בהשם), and they had no need to be like the nations if they kept the way of the LORD, for He fights their battles (כי הוא לוחם את מלחמותם), continued with ‘they removed their trust from Me’ (וסלקו בטחונם ממני). ‘Itself commanded’ is the sages’ premise that Radak adopts to frame his question, so it stands inside his reading; the link of trust to God fighting for those who keep His way is his own chain. He closes by listing the sages’ dispute without choosing, which the sentence does not misreport. Plain sense checked against day.js 8:1 to 8:5 (Samuel old, sons taking bribes, the elders gather to Samuel at Ramah); no four-word run from the key. verse.js ok (1 Samuel 8:5, at [239,5]); entry-check.js ok on scratch/R-d087-p.json. No comparison beyond the verse’s own ‘nations’, no school needed, no forbidden term.",
+ "better": ""
+}

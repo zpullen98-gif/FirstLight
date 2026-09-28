@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d072-p",
+ "d": 72,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Joshua made war a long time with all those kings.",
+ "ref": "Joshua 11:18",
+ "at": [
+  197,
+  18
+ ],
+ "s": "With the northern kings routed and everyone in their cities killed, the chapter sums up the war; Rashi, on 11:18, reads it as told to Joshua’s discredit: since he was to apportion the land, he meant to delay its conquest and lengthen his days.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on Joshua 11:18, Hebrew (The Book of Joshua, Metsudah Publications, 1997), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew (The Book of Joshua, Metsudah Publications, 1997), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Joshua 11:18, on ימים רבים עשה יהושע",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua 11:18",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua 11 (nothing on 11:18)",
+    "via": "packet"
+   }
+  ],
+  "words": "יָמִים רַבִּים עָשָׂה יְהוֹשֻׁעַ בִּגְנוּתוֹ סִפֵּר הַכָּתוּב, שֶׁהָיָה מִתְכַּוֵּון לִדְחוֹת אֶת כִּבּוּשׁ הָאָרֶץ כְּדֵי לְהַאֲרִיךְ יָמָיו, לְפִי שֶׁנֶּאֱמַר (לעיל א י): וְאַתָּה תַּנְחִלֶנָּה אוֹתָם, בְּמִדְרַשׁ תַּנְחוּמָא.",
+  "lang": "Hebrew",
+  "gloss": "Many days did Joshua make: Scripture tells this to his discredit, that he intended to put off the conquest of the land in order to lengthen his days, because it was said (above, 1:10): ‘and you shall apportion it to them’; in the Midrash Tanchuma.",
+  "licence": "Hebrew: CC-BY (Metsudah Publications, 1997)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Joshua 11:18 and at [197,18] match; one verse, 10 words, no dash. Read the whole chapter 11 packet (Rashi, Radak, Metzudat David; no Midrash Rabbah on Joshua). Rashi on 11:18 says in his own words that Scripture tells it to Joshua’s discredit, that he meant to delay the conquest to lengthen his days, because it was said he would apportion the land; he names the Midrash Tanchuma as his source, which the sentence need not name since the reading is his gloss. Radak on 11:18 gives the plain sense (many days of war with the remaining kings) and then brings the same derash as a derash (Joshua punished, ten years taken); not needed, no conflict. Plain sense faithful: 11:8 to 17 tell the rout at Merom, the killing of all in the cities (11:11, 11:14) and the taking of the kings; 11:18 summarises; the killing is stated in one plain clause per rule 6, no four-word run from the verse. Evidence copied verbatim from packet output. entry-check ok."
+}

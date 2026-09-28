@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d089-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 89 --verse 13.13: Radak on 1 Samuel 13:13, lemma נסכלת, has 'לא האמנת שאבא בזמני' (did not believe I would come at my time) and 'וסלקת בטחונו מלבך כי חשבת שלא תושע אתה וישראל אם תוחיל עוד' (removed trust in Him from your heart, thinking you and Israel would not be saved if you waited longer), which carries every clause of the paraphrase. 'Lost trust in God' compresses a comment that also frames the act as denying the prophet and rebelling against God's word, but the trust clause is Radak's own culminating statement, so it is selection, not drift. Locator right. Plain sense checked against day.js 13:8 to 13:14: Saul offered the burnt-offering (13:9), Samuel arrives and rebukes him (13:10 to 14). verse.js ok (ref 1 Samuel 13:13, at [244,13]); entry-check.js ok on scratch/R-d089-p.json. No comparison, tone neutral.",
+ "better": ""
+}

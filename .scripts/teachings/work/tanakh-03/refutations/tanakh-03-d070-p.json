@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d070-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 70 --verse 7.19: Radak on בני שים נא כבוד לה' gives two purposes of the confession, his death as atonement through confessing (שתהא מיתתו כפרתו בהודאת עונו) and that Israel acknowledge the lot and say it is true (שיודו בני ישראל בגורל); the evidence words are verbatim in the packet. The paraphrase carries both and adds nothing; it omits only Radak's alternative 'or the ark's catching him', a narrowing not a claim beyond. Plain sense checked against day.js: Achan taken by lot (7:16 to 18), took and hid of the devoted thing (7:1, 7:11, 7:21), stoned and burned with all that he had (7:24 to 25), stated plainly in the text's own terms (7:15 'he and all that he hath'). Key verse is the verse Radak comments on; verse.js ok (Joshua 7:19, at [193,19]); entry-check ok, no errors or warnings. No school needed, no comparison, no evaluative verb.",
+ "better": ""
+}

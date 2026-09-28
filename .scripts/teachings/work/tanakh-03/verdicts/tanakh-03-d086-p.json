@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d086-p",
+ "d": 86,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And she said: ‘The glory is departed from Israel; for the ark of God is taken.’",
+ "ref": "1 Samuel 4:22",
+ "at": [
+  235,
+  22
+ ],
+ "s": "Dying in childbirth at the news from the battle, Phinehas’ wife speaks a second time; Radak, on 4:22, reads the repetition as naming the ark alone, the chief of the glory, where the first saying also counted her husband and his father.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 4:22, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Samuel 4:22, on ותאמר",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way) with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 4:22, on ותאמר",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 4:22, on ותאמר",
+    "via": "packet"
+   }
+  ],
+  "words": "פעם אחרת אמרה כי בתחלה אמרה גלה כבוד בעבור הארון שנשבה ובעבור שמת חמיה ואישה ועתה שבה ואמרה בעבור הארון לבדו גלה כבוד כי הוא עיקר הכבוד",
+  "lang": "Hebrew",
+  "gloss": "She said it another time: at first she said the glory was exiled because of the ark that was captured and because her father-in-law and her husband had died; now she said again that the glory was exiled because of the ark alone, for it is the chief of the glory.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (text centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Samuel 4:22 and at [235,22] match. Plain sense faithful: 4:19 to 4:21 give the tidings of the battle, her labour and her naming of Ichabod with the first saying; 4:20 has her at the point of death; 4:22 is her second saying; no four-word run from the verse. Opened the packet on 4:21 and 4:22 (Rashi has nothing on 4:22, only glosses on 4:21; Metzudat David on 4:22 says the same in brief; no Midrash Rabbah on 1 Samuel). Radak on 4:22 contrasts the first saying (ark plus father-in-law and husband) with the second (the ark alone, the chief of the glory): the sentence stays within his words. Evidence copied verbatim from packet output. entry-check ok."
+}

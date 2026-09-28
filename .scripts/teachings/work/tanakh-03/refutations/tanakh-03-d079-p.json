@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d079-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Rashi on Judges 7:5 via packet.js tanakh 79 --verse 7.5: the evidence words stand verbatim in his comment on the lemma כל אשר ילוק בלשונו וגו' וכל אשר יכרע על ברכיו לשתות, and the Metsudah English agrees that the reason (practised in kneeling before idols) belongs to the kneelers. Drift: 'sent away from Gideon’s band' compresses 'set him apart outside your company, for they shall not go with you'; the verse itself only says to set them apart, but 7:7 has the rest go home, so the paraphrase does not exceed Rashi. Radak has nothing on 7:5; Metzudat David explains the mechanics of lapping, not the reason, so Rashi is the right choice. Plain sense: 7:3 has the fearful return (22,000) and ten thousand remain, and 7:4 has the LORD say He will try them at the water; accurate, no words of the key verse repeated. verse.js ok (Judges 7:5, at [217,5], 45 words); entry-check.js ok, no errors or warnings. No comparison, no dash, no school needed, tone plain.",
+ "better": ""
+}

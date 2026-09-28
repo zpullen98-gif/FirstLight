@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d063-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 63 --verse 22:8. Rashi on כי יפל הנפל: ראוי זה ליפול, ואע\"פ כן לא תתגלגל מיתתו על ידך, שמגלגלין זכות על ידי זכאי וחובה על ידי חייב (Sifrei), verbatim; the paraphrase (deserved to fall, death not through the builder, merit through the worthy and guilt through the guilty) stays inside his words. Rashi adopts the Sifrei in his own comment, so the attribution to Rashi stands. Other commentators on the verse (Ibn Ezra grammatical, Sforno on causation, Ramban on the mixed-seed law) do not make this reading. Plain sense checked with day.js: 22:6 to 7 the mother bird, 22:8 the parapet, 22:9 the vineyard; no key words repeated. verse.js ok (Deuteronomy 22:8, at [174,8]); entry-check ok on scratch/R-d063-p.json. No school, comparison or tone issue.",
+ "better": ""
+}

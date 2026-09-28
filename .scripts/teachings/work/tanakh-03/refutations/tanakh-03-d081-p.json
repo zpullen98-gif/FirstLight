@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d081-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": ["tone"],
+ "reason": "Re-opened with packet.js tanakh 81 --verse 11.39 (and 11.35, 11.40). The evidence is there verbatim: Rashi on ותהי חק (11:39) says Phinehas would have released the vow had either gone to the other, they stood on their greatness (עמדו בגדולתן), and between the two of them she perished (ומבין שניהם אבדה), then punishes both; Radak on ויעש לה את נדרו (11:39) says he made her a house where she was set apart (פרושה) from people and the ways of the world. verse.js ok (Judges 11:39, at [221,39]); entry-check.js ok on scratch/R-d081-p.json. The attack that lands is tone on a hard passage (rule 6) and the naming of the disagreement (rule 5): the whole difference between Rashi and Radak here is whether the vow cost her her life (Rashi: אבדה, decreed never to be repeated, and at 11:40 the daughters go to lament, לקונן) or her seclusion (Radak). Rendering אבדה as ‘lost’ leaves that difference soft enough to read as ‘lost to her father’, which is close to Radak’s own reading and blurs the very disagreement the sentence names; the Metsudah English itself says ‘her ruin’. ‘Perished’ is the same Hebrew word, still Rashi’s own, and passes the gate. Minor, not decisive: ‘first out to meet him’ adds ‘first’, which the text implies through the vow (11:31, 11:34) but does not say.",
+ "better": "Jephthah’s only daughter, first out to meet him after his vow of a burnt-offering, comes home from the mountains; Rashi, on 11:39, takes her as perished because neither Jephthah nor Phinehas, who could release the vow, would stoop to go to the other, and Radak, on 11:39, as set apart in a house, away from people. (entry-check ok on scratch/R-d081-p-better.json; evidence unchanged, gloss ‘she perished’ for אבדה)"
+}

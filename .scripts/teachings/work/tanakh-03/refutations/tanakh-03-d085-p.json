@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d085-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 85 --verse 3.10 (Rashi and Radak on I Samuel 3:10). Rashi, lemma ויאמר שמואל דבר: he did not mention the name of the Omnipresent as Eli commanded him, he said perhaps it is another voice (שמא קול אחר הוא): carries ‘caution, lest the voice be another’s’. Radak, lemma דבר כי שומע עבדך: he did not say the Name as Eli told him, for he was still afraid to mention the Name in the vision of prophecy (כי היה ירא עדיין מהזכיר השם במראה הנבואה): carries ‘awe, still fearing to speak the Name in a prophetic vision’ (ירא admits fear or awe). Radak goes on to call the derash that he feared a demon’s voice far-fetched (וזה רחוק), so the two genuinely differ, and the sentence names the difference without resolving it. Plain sense checked against day.js 3:3 to 3:10: called at 3:4, 3:6, 3:8 and 3:10 (fourth), while laid down to sleep; Eli’s instruction at 3:9 includes ‘LORD’, the answer at 3:10 omits it: a textual fact, not the commentators’ reading. No four-word run from the key. verse.js ok (1 Samuel 3:10, at [234,10]); entry-check.js ok on scratch/R-d085-p.json. Source line names both editions.",
+ "better": ""
+}

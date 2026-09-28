@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d065-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 65 --verse 28:2. Sforno comments twice on 28:2: first that the blessings overtake you though you do not strive for them (אע\"פ שלא תשתדל אתה להשיגם), then on כי תשמע בקול ה' אלהיך that this is when Torah is fixed and work occasional, so the blessings overtake without striving (the evidence words, verbatim). The paraphrase (overtake without striving, Torah fixed, labour occasional) stays inside his words; his further tie to the First and Second Temple is left out, not contradicted. Ibn Ezra says they come by themselves but does not add the Torah condition, so the attribution to Sforno is sound; Rashi, Ramban, Rashbam and Deuteronomy Rabbah have nothing on the verse. Plain sense: blessings 28:1 to 14 precede curses 28:15 to 68, faithful. verse.js ok (Deuteronomy 28:2, at [180,2] matches the verdict); entry-check ok on a scratch copy (scratch/R-d065-p.json). No school needed, no comparison, tone neutral.",
+ "better": ""
+}

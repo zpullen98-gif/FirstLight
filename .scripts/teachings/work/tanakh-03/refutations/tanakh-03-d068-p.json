@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d068-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 68 --verse 1:8 and the cached raw export (.cache/teachings/src/tanakh-radak-on-joshua-hebrew-1011992e1f.json, chapter 1 segment on לא ימוש): Radak records that the rabbis differed (a lifelong commandment even for one who knows the whole Torah, or a blessing) and gives his own view, והנראה כי היתה מצוה ליהושע וכן לכל אדם עד שידע התורה ואחר כך ילמוד החכמות. The trailing 'ופירוש' is a fragment running into the next lemma, not a qualification. The paraphrase (binding Joshua and every man until he knows the Torah, then the sciences) is his own 'it appears' view, not the rabbis' positions; 'may study' is slightly weaker than ילמוד but does not overclaim. Rashi and Metzudat David on 1:8 give lexical glosses only and do not differ. Plain sense checked against day.js Joshua 1:1 to 9: after Moses' death the LORD charges Joshua to be strong and do according to all the law; no four-word run from the key. verse.js ok (Joshua 1:8, at [187,8]); entry-check.js ok on scratch/refute-tanakh-03-d068-p.json. No comparison, no school needed.",
+ "better": ""
+}

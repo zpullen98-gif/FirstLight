@@ -1,0 +1,212 @@
+{
+ "lane": "L3",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 76,
+   "primary": {
+    "id": "tanakh-03-d076-p",
+    "key": "And Joshua said unto the people: ‘Ye are witnesses against yourselves that ye have chosen you the LORD, to serve Him.",
+    "ref": "Joshua 24:22",
+    "at": [
+     210,
+     22
+    ],
+    "s": "At Shechem, as the people meet Joshua’s warning with resolve, he seals their choice; Rashi, on 24:22, reads him as pressing them because he foresaw their plea in Ezekiel’s day to be like the nations, and bound them once they already held the land.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on Joshua 24:22, Hebrew (Metsudah Publications, 1997), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "רָאָה יְהוֹשֻׁעַ שֶׁעֲתִידִין לְעַרְעֵר בִּימֵי יְחֶזְקֵאל וְלוֹמַר (יחזקאל כ לב): נִהְיֶה כַגּוֹיִם, לְפִיכָךְ הִכְבִּיד עֲלֵיהֶם עַכְשָׁיו, וּלְכָךְ הוּשַׁב לָהֶם בִּימֵי יְחֶזְקֵאל (שם פסוקים לב לג): וְהָעֹלָה עַל רוּחֲכֶם הָיֹה לֹא תִהְיֶה וְגוֹמֵר, חַי אֲנִי אִם לֹא בְיַד חֲזָקָה וְגוֹמֵר, כְּבָר קִבַּלְתֶּם עֲלֵיכֶם בִּימֵי יְהוֹשֻׁעַ, וְלֹא תֹּאמְרוּ מַה שֶּׁקִּבַּלְנוּ עָלֵינוּ בִּימֵי משֶׁה כְּדֵי לִיכָּנֵס לָאָרֶץ עָשִׂינוּ, הֲרֵי בִּימֵי יְהוֹשֻׁעַ כְּבָר נִכְנַסְתֶּם וְקִבַּלְתֶּם",
+     "gloss": "Joshua saw that in time to come they would contest it in the days of Ezekiel and say, ‘We will be as the nations’; therefore he pressed hard upon them now, and so it was answered to them in Ezekiel’s days, ‘That which cometh into your mind shall not be at all … as I live, surely with a mighty hand’: you already took it upon yourselves in Joshua’s days, and you shall not say, ‘What we took upon ourselves in Moses’ days we did in order to enter the land’, for in Joshua’s days you had already entered, and you accepted it."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d076-s",
+    "key": "And Joshua said unto the people: ‘Ye cannot serve the LORD; for He is a holy God; He is a jealous God; He will not forgive your transgression nor your sins.",
+    "ref": "Joshua 24:19",
+    "at": [
+     210,
+     19
+    ],
+    "s": "At Shechem, when the people pledge their service to God, Joshua answers with a warning; Metzudat David, on 24:19, reads it as a test, spoken so that they think the choice theirs and lay bare their hearts, to be bound by the covenant.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, on Joshua 24:19, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "כוונת יהושע היתה שיגלו מצפוני לבם באר היטב, ולקשרם במוסרי הברית, אומר דבריו להטעותם, שיחשבו כאילו הברירה בידם לבחור מי שירצו הם, ולדעת מה ישיבו",
+     "gloss": "Joshua’s intention was that they should lay bare the hidden thoughts of their heart clearly, and bind them in the bonds of the covenant; he says his words to mislead them, so that they would think the choice was in their hand to choose whom they themselves wished, and to know what they would answer."
+    }
+   }
+  },
+  {
+   "d": 77,
+   "primary": {
+    "id": "tanakh-03-d077-p",
+    "key": "And she said: ‘I will surely go with thee; notwithstanding the journey that thou takest shall not be for thy honour; for the LORD will give Sisera over into the hand of a woman.’",
+    "ref": "Judges 4:9",
+    "at": [
+     214,
+     9
+    ],
+    "s": "When Barak will march against Sisera only if Deborah comes too, she agrees with a warning; Radak, on 4:9, reads the woman as Deborah herself, the victory then told under her name and not his, and Metzudat David, on 4:9, as Jael, so that all would know the deliverance came from the LORD.",
+    "by": "radak",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Radak and Metzudat David, on Judges 4:9, Hebrew (Radak: Sefaria’s “Radak on Nach”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak; metzudat-david",
+     "words": "י\"מ יעל שנמכר סיסרא בידה ועל פי הנבואה אמרה זה ואיננו נכון לענין הפסוק שאמר אפס כי לא תהיה תפארתך אלא פירושו כך אם אלך לא תהיה תפארתך כי על ידי תהיה התשועה ויאמרו כי ביד דבורה ימכור ה' את סיסרא ולא תהיה התשועה הזאת נקראת על שמך … ולזה אמרה, הלא סיסרא יומת על ידי אשה, והיא יעל אשת חבר הקיני, כאשר יאמר בענין. אם כן, ידעו הכל שמיד ה׳ היתה זאת, כי לא בכח תגבר אשה",
+     "gloss": "[Radak, on 4:9:] Some explain it as Jael, into whose hand Sisera was delivered, and say that she said this by prophecy; but that does not fit the verse, which says ‘notwithstanding … shall not be for thy honour’. Rather, its meaning is this: if I go, the glory will not be yours, for the deliverance will come through me, and they will say that into Deborah’s hand the LORD sold Sisera, and this deliverance will not be called by your name. … [Metzudat David, on 4:9:] And so she said: surely Sisera will be put to death by a woman, and that is Jael the wife of Heber the Kenite, as the account will tell. If so, all will know that this was from the LORD’s hand, for not by strength does a woman prevail."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d077-s",
+    "key": "And the spirit of the LORD came upon him, and he judged Israel; and he went out to war, and the LORD delivered Cushan-rishathaim king of Aram into his hand; and his hand prevailed against Cushan-rishathaim.",
+    "ref": "Judges 3:10",
+    "at": [
+     213,
+     10
+    ],
+    "s": "When Israel cries out after eight years’ servitude, Othniel is raised; Rashi, on 3:10, citing Rabbi Tanchuma, explains the spirit upon him by Othniel’s teaching that God must save Israel, innocent or guilty, having seen their suffering in Egypt though He foresaw the calf.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on Judges 3:10, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "דרש רבי תנחומא (מדרש תנחומא שמות כ) נסתכל בהם, שאמר הקדוש ברוך הוא למשה במצרים (שמות ג ז) ראה ראיתי את עני עמי, מה הן שתי ראיות הללו, אמר לו: רואה אני שעתידין לטעות בעגל, ואף על פי כן 'ראיתי את עני עמי'. זו דרש עתניאל, אמר: בין זכים בין חייבים, עליו להושיעם",
+     "gloss": "Rabbi Tanchuma expounded: he looked into what the Holy One, blessed be He, said to Moses in Egypt, ‘I have surely seen the affliction of My people’. What are these two seeings? He said to him: I see that they will go astray with the calf, and even so, ‘I have seen the affliction of My people’. This Othniel expounded, saying: whether innocent or guilty, it is upon Him to save them."
+    }
+   }
+  },
+  {
+   "d": 78,
+   "primary": {
+    "id": "tanakh-03-d078-p",
+    "key": "And the LORD turned towards him, and said: ‘Go in this thy might, and save Israel from the hand of Midian; have not I sent thee?’",
+    "ref": "Judges 6:14",
+    "at": [
+     216,
+     14
+    ],
+    "s": "When Gideon, threshing in hiding, asks where the wonders of the Exodus have gone, he is given his charge; Rashi, on 6:14, with Rabbi Tanchuma, reads ‘this thy might’ as the merit of his having pleaded in Israel’s defence.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on Judges 6:14, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "פסח היה, אמר לו: אמש הקרני אבא את ההלל, ושמעתיו שהיה אומר (תהלים קיד א): בצאת ישראל ממצרים, 'ועתה נטשנו', אם צדיקים היו אבותינו, יעשה לנו בזכותם, ואם רשעים היו, כשם שעשה להם נפלאותיו חנם כן יעשה לנו, ואיה כל נפלאותיו … בכח הזכות הזה שלמדת סניגוריא על בני, כך דרש רבי תנחומא (מדרש תנחומא שופטים ד)",
+     "gloss": "[On 6:13, ‘which our fathers told us of’:] It was Passover. He said to him: last night my father read me the Hallel, and I heard him saying, ‘When Israel came forth out of Egypt’, ‘and now He has cast us off’. If our fathers were righteous, let Him act for us in their merit; and if they were wicked, just as He did His wonders for them freely, so let Him do for us; and where are all His wonders? … [On 6:14, ‘in this thy might’:] In the might of this merit, that you pleaded in defence of My children; so Rabbi Tanchuma expounded (Midrash Tanchuma, Shoftim 4)."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d078-s",
+    "key": "So perish all Thine enemies, O LORD; But they that love Him be as the sun when he goeth forth in his might.",
+    "ref": "Judges 5:31",
+    "at": [
+     215,
+     31
+    ],
+    "s": "Closing the song, as Sisera’s mother waits in vain, the last lines turn to God’s enemies and friends; Radak, on 5:31, reads the likeness as the morning sun brightening until midday, so that those who love God grow ever stronger.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on the Prophets, on Judges 5:31, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כצאת השמש בבוקר שהולך ואור עד שהוא בגבורתו והוא חצי היום כן יהיו אוהבי השם יתברך הולכים וחזקים",
+     "gloss": "‘As the sun when he goeth forth in his might’: as the sun goes forth in the morning, growing ever brighter until it is in its might, which is midday, so those who love the Blessed Name will go on growing stronger."
+    }
+   }
+  },
+  {
+   "d": 79,
+   "primary": {
+    "id": "tanakh-03-d079-p",
+    "key": "So he brought down the people unto the water; and the LORD said unto Gideon: ‘Everyone that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.’",
+    "ref": "Judges 7:5",
+    "at": [
+     217,
+     5
+    ],
+    "s": "After the fearful turn home, the LORD tests the ten thousand left with Gideon; Rashi, on 7:5, reads those who kneel to drink as sent away from Gideon’s band, being practised in kneeling before idols.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on Judges 7:5, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "תציג אותו לבד חוץ מסיעתך, כי הם לא ילכו עמך, שכך הם למודים לכרוע לפני עבודת גלולים",
+     "gloss": "Set him apart by himself, outside your company, for they shall not go with you, since they are practised in kneeling before the worship of idols."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d079-s",
+    "key": "And Gideon made an ephod thereof, and put it in his city, even in Ophrah; and all Israel went astray after it there; and it became a snare unto Gideon, and to his house.",
+    "ref": "Judges 8:27",
+    "at": [
+     218,
+     27
+    ],
+    "s": "After refusing to rule, Gideon asks for the golden ear-rings of the spoil; Radak, on 8:27, reads the ephod as made for good, a memorial of the great deliverance, which Israel made a god only after his death.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on the Prophets, on Judges 8:27, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "עשה אותו כמין חגורה או מלבוש זהב והציג אותו בעירו שיהיה לזכרון התשועה הגדולה והוא עשה אותו לטובה ואחרי מותו זנו בני ישראל אחריו ועשו אותו אלוה",
+     "gloss": "He made it like a girdle or a garment of gold and set it up in his city, to be a memorial of the great deliverance; he made it for good, and after his death the children of Israel went astray after it and made it a god."
+    }
+   }
+  },
+  {
+   "d": 80,
+   "primary": {
+    "id": "tanakh-03-d080-p",
+    "key": "And they put away the strange gods from among them, and served the LORD; and His soul was grieved for the misery of Israel.",
+    "ref": "Judges 10:16",
+    "at": [
+     220,
+     16
+    ],
+    "s": "Told to seek help from the gods they have chosen, Israel pleads once more; Rashi, on 10:16, reads the grief as God, as it were, having no room to bear the pain of their misery, and Metzudat David, on 10:16, as His will to add to their misery cut short on their return, as He relented of the evil.",
+    "by": "rashi",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Rashi and Metzudat David, on Judges 10:16, Hebrew (Sefaria’s “On Your Way” for both), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; metzudat-david",
+     "words": "כביכול לא היה רחבת מקום לסבול ולכנס שם צרה שהיה לו בעמל ישראל … רצה לומר, קצרה רצונו של מקום בדבר עמל ישראל, כי מתחלה היה רצון המקום להרבות עמלם בעבור חטאם הרב, ועתה בשובם לה׳, קצרה רצונו מלהרבות עמל, רצה לומר, נחם ה׳ על הרעה",
+     "gloss": "[Rashi, on 10:16:] As it were, there was no breadth of room to bear and take in the distress He had at the misery of Israel. … [Metzudat David, on 10:16:] That is, the will of the Omnipresent grew short concerning the misery of Israel: for at first it was the Omnipresent’s will to multiply their misery because of their great sin, and now, in their return to the LORD, His will grew short of multiplying misery; that is, the LORD relented of the evil."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d080-s",
+    "key": "And Abimelech was prince over Israel three years.",
+    "ref": "Judges 9:22",
+    "at": [
+     219,
+     22
+    ],
+    "s": "After Jotham’s fable of the bramble king, Abimelech’s years are told; Radak, on 9:22, reads the verb, one of rule and not of judging, as marking a self-appointed ruler of part of Israel who neither walked well nor turned Israel to good.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on the Prophets, on Judges 9:22, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "והוא ענין שררה ולפי שמלך מעצמו ולא מלך על כל ישראל לפיכך אמר וישר ולא אמר וישפוט כי לא הלך בדרך טובה ולא החזיר את ישראל למוטב",
+     "gloss": "And it is a word of rule; and because he reigned of himself, and did not reign over all Israel, therefore it says ‘was prince’ and does not say ‘judged’, for he did not walk in a good way and did not bring Israel back to good."
+    }
+   }
+  }
+ ]
+}

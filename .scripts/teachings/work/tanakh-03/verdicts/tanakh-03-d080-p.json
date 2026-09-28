@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d080-p",
+ "d": 80,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And they put away the strange gods from among them, and served the LORD; and His soul was grieved for the misery of Israel.",
+ "ref": "Judges 10:16",
+ "at": [
+  220,
+  16
+ ],
+ "s": "Told to seek help from the gods they have chosen, Israel pleads once more; Rashi, on 10:16, reads the grief as God, as it were, having no room to bear the pain of their misery, and Metzudat David, on 10:16, as His will to add to their misery cut short on their return, as He relented of the evil.",
+ "by": "rashi",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Rashi and Metzudat David, on Judges 10:16, Hebrew (Sefaria’s “On Your Way” for both), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Judges 10:16, lemma ותקצר נפשו בעמל",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Judges 10:16, lemma ותקצר נפשו",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Judges 10:16, lemma ותקצר נפשו בעמל ישראל",
+    "via": "packet"
+   }
+  ],
+  "words": "כביכול לא היה רחבת מקום לסבול ולכנס שם צרה שהיה לו בעמל ישראל … רצה לומר, קצרה רצונו של מקום בדבר עמל ישראל, כי מתחלה היה רצון המקום להרבות עמלם בעבור חטאם הרב, ועתה בשובם לה׳, קצרה רצונו מלהרבות עמל, רצה לומר, נחם ה׳ על הרעה",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 10:16] As it were, there was no breadth of room to bear and take in the distress He had at the misery of Israel. … [Metzudat David on 10:16] That is, the will of the Omnipresent grew short concerning the misery of Israel: at first it was His will to multiply their misery for their great sin, and now, in their return to the LORD, His will grew short of multiplying misery; that is, the LORD relented of the evil.",
+  "licence": "Hebrew: public domain (Sefaria export); the Metsudah English (CC-BY) not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Judges 10:16 and at [220,16] match. Plain sense faithful: the LORD tells Israel to cry to the gods they have chosen (10:14), Israel confesses and pleads again (10:15), then the key verse; no four-word run from the verse. Read Rashi, Radak and Metzudat David on 10:16 and the chapter around it (no Midrash Rabbah on Judges). Rashi: as it were, no room to bear the distress He had at Israel’s misery (grief). Metzudat David: His will to multiply their misery for sin was cut short on their return, the LORD relented of the evil. These genuinely differ (felt grief against a changed will to punish), and the sentence names both without resolving (rule 5). 57 words, within the 60 allowed for two. Radak on the verse also reports this second reading from Maimonides before giving his own; the sentence does not touch it. Evidence is two verbatim spans joined by an ellipsis, which recheck-evidence.js splits. entry-check ok."
+}

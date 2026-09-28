@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d073-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 73 --verse 14:7 and the cached raw export (chapter 14, verse 7): Radak on כאשר עם לבבי reads verbatim that while Caleb was with them until they reached the camp he agreed with them in words so that they would not kill him (היה מסכים עמהם בדברים כדי שלא יהרגוהו), and at the camp brought back a true word as it was with his heart. That carries the whole paraphrase; 'giving Moses a true report' follows the verse's own 'brought him back word' and Radak's השיב דבר אמת. The fear of being killed is Radak's own detail (Rashi and Metzudat David say only that he feared them), which justifies naming Radak over the default; they do not disagree in substance, so no second name is owed. His derash alternative is not used. Plain sense checked against day.js Joshua 14:6 to 12: Caleb asks Joshua for the land Moses swore to him, forty then, eighty-five now, forty-five years from the word to Moses. verse.js ok (Joshua 14:7, at [200,7]); entry-check.js ok on scratch/refute-tanakh-03-d073-p.json. No comparison, tone plain.",
+ "better": ""
+}

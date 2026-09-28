@@ -1,0 +1,212 @@
+{
+ "lane": "L4",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 81,
+   "primary": {
+    "id": "tanakh-03-d081-p",
+    "key": "And it came to pass at the end of two months, that she returned unto her father, who did with her according to his vow which he had vowed; and she had not known man.",
+    "ref": "Judges 11:39",
+    "at": [
+     221,
+     39
+    ],
+    "s": "Jephthah’s only daughter, first out to meet him after his vow of a burnt-offering, comes home from the mountains; Rashi, on 11:39, takes her as lost because neither Jephthah nor Phinehas, who could release the vow, would stoop to go to the other, and Radak, on 11:39, as set apart in a house, away from people.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Judges 11:39, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "גזרו שלא יעשה אדם עוד כן, שאלו הלך אצל פנחס, או הוא בא אצלו, היה מתיר לו נדרו, עמדו בגדולתן, ומבין שניהם אבדה … שעשה לה בית והכניסה שם והיתה שם פרושה מבני אדם ומדרכי העולם",
+     "gloss": "[Rashi on 11:39, ‘and it was a custom’:] They decreed that no one should ever do so again, for had he gone to Phinehas, or had Phinehas come to him, he would have released him from his vow; they stood on their dignity, and between the two of them she was lost … [Radak on 11:39, ‘and he did with her his vow which he had vowed’:] That he made her a house and brought her into it, and there she was set apart from people and from the ways of the world."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d081-s",
+    "key": "For, lo, thou shalt conceive, and bear a son; and no razor shall come upon his head; for the child shall be a Nazirite unto God from the womb; and he shall begin to save Israel out of the hand of the Philistines.",
+    "ref": "Judges 13:5",
+    "at": [
+     223,
+     5
+    ],
+    "s": "Appearing to Manoah’s barren wife under Philistine rule, the angel foretells her son; Metzudat David, on 13:5, reads ‘begin to save’ as a deliverance begun and never finished, for Samson struck the Philistines often but each time drew back from defeating them.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, Commentary on Judges, on Judges 13:5, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "תשועתו תהיה התחלה ובלא גמר וכן היה, כי עם שפעמים הרבה הכה בפלשתים, מכל מקום מיד השיב ימינו אחור ולא נלחם עוד בכדי לנצחם",
+     "gloss": "[Metzudat David on 13:5, ‘and he shall begin to save’:] That is, his salvation will be a beginning without completion, and so it was: for though he struck the Philistines many times, nevertheless he at once drew his right hand back and fought no more so as to defeat them."
+    }
+   }
+  },
+  {
+   "d": 82,
+   "primary": {
+    "id": "tanakh-03-d082-p",
+    "key": "And Samson called unto the LORD, and said: ‘O Lord GOD, remember me, I pray Thee, and strengthen me, I pray Thee, only this once, O God, that I may be this once avenged of the Philistines for my two eyes.’",
+    "ref": "Judges 16:28",
+    "at": [
+     226,
+     28
+    ],
+    "s": "Blind and brought out to make sport at Dagon’s feast, Samson stands between the pillars and prays; Rashi, on 16:28, hears ‘remember me’ as asking God to remember his twenty years judging Israel without once bidding any of them carry a staff for him.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on Judges, on Judges 16:28, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "זכרני נא. זכור עשרים שנה ששפטתי את ישראל, ולא אמרתי לאחד מהם העבר לי מקל זה ממקום למקום",
+     "gloss": "[Rashi on 16:28, ‘remember me, I pray Thee’:] Remember the twenty years that I judged Israel, and I did not say to a single one of them: carry this staff for me from place to place."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d082-s",
+    "key": "And she said: ‘The Philistines are upon thee, Samson.’ And he awoke out of his sleep, and said: ‘I will go out as at other times, and shake myself.’ But he knew not that the LORD was departed from him.",
+    "ref": "Judges 16:20",
+    "at": [
+     226,
+     20
+    ],
+    "s": "Shaven asleep on Delilah’s knees, Samson wakes to her cry; Radak, on 16:20, takes his not knowing as sleep’s forgetting of what he had told her, or as knowing his strength gone while trusting God would keep him from the Philistines this time.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Judges, on Judges 16:20, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ואם כן היאך אמר והוא לא ידע אלא ששכח בשנתו מה שאמר לה וחשב שהיה זאת הפעם כפעמים האחרות … או פי' והוא לא ידע ידע שסר ממנו כחו אבל לא ידע כי ה' סר מעליו כי חשב שאף על פי שסר ממנו כחו שיעזרהו האל בפעם הזאת שלא יפול ביד פלשתים",
+     "gloss": "[Radak on 16:20, ‘and he knew not’, having asked how, when he had told her all his heart:] If so, how does it say ‘and he knew not’? Only that he forgot in his sleep what he had told her, and thought this time was like the other times … Or the meaning of ‘and he knew not’: he knew that his strength had left him, but did not know that the LORD had departed from him, for he thought that although his strength had left him, God would help him this time so that he would not fall into the hand of the Philistines."
+    }
+   }
+  },
+  {
+   "d": 85,
+   "primary": {
+    "id": "tanakh-03-d085-p",
+    "key": "And the LORD came, and stood, and called as at other times: ‘Samuel, Samuel.’ Then Samuel said: ‘Speak; for Thy servant heareth.’",
+    "ref": "1 Samuel 3:10",
+    "at": [
+     234,
+     10
+    ],
+    "s": "Called a fourth time in the night, the boy answers as Eli taught him, but without the name of the LORD; Rashi, on 3:10, takes the omission as caution, lest the voice be another’s, and Radak, on 3:10, as awe, still fearing to speak the Name in a prophetic vision.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on 1 Samuel 3:10, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "ויאמר שמואל דבר. ולא הזכיר שם מקום כמו שציוהו עלי, אמר שמא קול אחר הוא … דבר כי שומע עבדך. ולא אמר ה' כמו שאמר לו עלי כי היה ירא עדיין מהזכיר השם במראה הנבואה",
+     "gloss": "[Rashi on 3:10, ‘and Samuel said: Speak’:] He did not mention the name of the Omnipresent as Eli had commanded him; he said: perhaps it is another voice … [Radak on 3:10, ‘Speak; for Thy servant heareth’:] He did not say ‘LORD’ as Eli had told him, for he was still afraid to mention the Name in the vision of prophecy."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d085-s",
+    "key": "And Samuel told him all the words, and hid nothing from him. And he said: ‘It is the LORD; let Him do what seemeth Him good.’",
+    "ref": "1 Samuel 3:18",
+    "at": [
+     234,
+     18
+    ],
+    "s": "Hearing the judgement on his house from the boy he taught, Eli answers; Metzudat David, on 3:18, hears it as owning that all is the LORD’s, to do with as He sees fit, since none can ask Him what He does.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, Commentary on 1 Samuel, on 1 Samuel 3:18, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "ה׳ הוא. רצה לומר: הלא הוא ה׳ והכל שלו, ויעשה הטוב בעיניו, כי מי יוכל לומר לו מה תעשה",
+     "gloss": "[Metzudat David on 3:18, ‘It is the LORD’:] That is to say: is He not the LORD, and all is His, and He will do what is good in His eyes, for who can say to Him: what doest Thou?"
+    }
+   }
+  },
+  {
+   "d": 86,
+   "primary": {
+    "id": "tanakh-03-d086-p",
+    "key": "And she said: ‘The glory is departed from Israel; for the ark of God is taken.’",
+    "ref": "1 Samuel 4:22",
+    "at": [
+     235,
+     22
+    ],
+    "s": "Dying in childbirth at the news from the battle, Phinehas’ wife speaks a second time; Radak, on 4:22, reads the repetition as naming the ark alone, the chief of the glory, where the first saying also counted her husband and his father.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 4:22, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "פעם אחרת אמרה כי בתחלה אמרה גלה כבוד בעבור הארון שנשבה ובעבור שמת חמיה ואישה ועתה שבה ואמרה בעבור הארון לבדו גלה כבוד כי הוא עיקר הכבוד",
+     "gloss": "[Radak on 4:22, ‘and she said’:] She said it another time, for at first she said the glory was exiled because of the ark that was captured and because her father-in-law and her husband had died; and now she said again that the glory was exiled because of the ark alone, for it is the chief of the glory."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d086-s",
+    "key": "And they of Beth-shemesh were reaping their wheat harvest in the valley; and they lifted up their eyes, and saw the ark, and rejoiced to see it.",
+    "ref": "1 Samuel 6:13",
+    "at": [
+     237,
+     13
+    ],
+    "s": "As the returning ark reaches their fields, the men of Beth-shemesh look on it, and many are struck down for gazing; Rashi, on 6:13, reads their joy as turning to levity, while they watched it come on its own without awe or honour.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on 1 Samuel, on 1 Samuel 6:13, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וישמחו לראות. היו מסתכלין היאך הוא בא לבדו, ומשמחתם נהגו בו קלות ראש, שלא היו מסתכלין בו באימה ודרך כבוד",
+     "gloss": "[Rashi on 6:13, ‘and rejoiced to see’:] They were gazing at how it came by itself, and out of their joy they treated it with levity, for they did not gaze at it with awe and in the way of honour."
+    }
+   }
+  },
+  {
+   "d": 87,
+   "primary": {
+    "id": "tanakh-03-d087-p",
+    "key": "And they said unto him: ‘Behold, thou art old, and thy sons walk not in thy ways; now make us a king to judge us like all the nations.’",
+    "ref": "1 Samuel 8:5",
+    "at": [
+     239,
+     5
+    ],
+    "s": "With Samuel old and his sons taking bribes, the elders come to Ramah; Radak, on 8:5, takes the wrong not as wanting a king, itself commanded, but as asking in complaint, with little trust in God, who fights for those who keep His way.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 8:5, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ג' מצות נצטוו ישראל בכניסתן לארץ למנות עליהם מלך ולמחות זרע עמלק ולבנות בית הבחירה אם כן למה היה הדבר רע בעיני ה' לפי שבתרעומת שאלו אותו ולא לשם מצוה … אבל כשאמרו שימה לנו מלך זה היה רע ומיעוט בטחון בהשם ועוד שאמרו ככל הגוים והם לא היו צריכים ככל הגוים אם היו שומרים דרך ה' כי הוא לוחם את מלחמותם",
+     "gloss": "[Radak on 8:5, ‘make us a king to judge us like all the nations’, citing the rabbis:] Israel were commanded three commandments on entering the land: to appoint a king over them, to blot out the seed of Amalek, and to build the chosen house. If so, why was the thing evil in the eyes of the LORD? Because they asked for it in complaint and not for the sake of the commandment … but when they said ‘make us a king’, that was evil and a lack of trust in God; and further, they said ‘like all the nations’, and they had no need to be like all the nations if they kept the way of the LORD, for He fights their battles."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d087-s",
+    "key": "And the LORD said unto Samuel: ‘Hearken unto the voice of the people in all that they say unto thee; for they have not rejected thee, but they have rejected Me, that I should not be king over them.",
+    "ref": "1 Samuel 8:7",
+    "at": [
+     239,
+     7
+    ],
+    "s": "As the elders ask for a king, Samuel prays, and the LORD replies; Metzudat David, on 8:7, reads it as meeting Samuel’s doubt about serving those who spurned him, since they did nothing without him, and as naming what they did spurn, the Torah’s judgements.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, Commentary on 1 Samuel, on 1 Samuel 8:7, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "כי לא אותך מאסו. רצה לומר: ופן תאמר איך אזדקק עוד להם אם מאסו בי, כי הנה לא אותך מאסו, כי הלא לא עשו דבר בלתך, אבל בי מאסו, ולא חפצו במשפטי התורה",
+     "gloss": "[Metzudat David on 8:7, ‘for they have not rejected thee’:] That is: lest you say, how shall I attend to them any longer if they have rejected me, it is not you they have rejected, for they did nothing without you; but they have rejected Me, and did not want the judgements of the Torah."
+    }
+   }
+  }
+ ]
+}

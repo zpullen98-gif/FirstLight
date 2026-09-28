@@ -1,0 +1,73 @@
+{
+ "id": "tanakh-03-d062-p",
+ "d": 62,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "When thou drawest nigh unto a city to fight against it, then proclaim peace unto it.",
+ "ref": "Deuteronomy 20:10",
+ "at": [
+  172,
+  10
+ ],
+ "s": "Opening the siege laws, which order a resisting far city’s males killed and the land’s nations destroyed, the verse sets the first step; Rashi, on 20:10, reads it as speaking of discretionary war, and Ramban, on the same verse, as requiring the call to peace even with the seven nations, the section distinguishing the wars only at its end.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi and Ramban, on Deuteronomy 20:10, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way new”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 20:10, on כי תקרב אל עיר (also read 20:11, 20:15, 20:17, 20:18)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new), with Chavel’s English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 20:10, on כי תקרב אל עיר להלחם עליה",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 20:10",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Deuteronomy/Hebrew/Rashbam%20on%20Deuteronomy%20--%20Daat.json",
+    "edition": "Rashbam on Deuteronomy, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Deuteronomy 20:10 (nothing) and 20:16",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 20:10 (nothing)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Devarim Rabbah, Hebrew (Torat Emet), Sefaria export 3f10136",
+    "locator": "Deuteronomy Rabbah 5:12 to 5:15",
+    "via": "packet"
+   }
+  ],
+  "words": "בְּמִלְחֶמֶת הָרְשׁוּת הַכָּתוּב מְדַבֵּר, כְּמוֹ שֶׁמְּפֹרָשׁ בָּעִנְיָן … והכונה לרבותינו בכתוב הזה אינה אלא לומר שהפרשה בסופה תחלק בין שתי המלחמות אבל קריאת השלום אפילו במלחמת מצוה היא שחייבים לקרא לשלום אפילו לשבעה עממים",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 20:10:] Scripture speaks of a discretionary war, as is made explicit in the section. … [Ramban, on 20:10, after quoting Rashi:] The intent of our Rabbis in this verse is only to say that the section, at its end, distinguishes between the two wars; but the call to peace applies even in a commanded war, for we are obliged to call for peace even to the seven nations.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Deuteronomy 20:10 and at [172,10] match. Plain sense faithful: 20:10 opens the laws on approaching a city; 20:13 to 14 order a refusing far city’s males smitten, 20:16 to 17 the land’s nations destroyed; stated plainly (rule 6), no four-word run from the key. Read every packet source on 20:10 (Rashi, Ibn Ezra, Ramban; Rashbam and Sforno nothing; Deuteronomy Rabbah 5:12 to 5:15) and Rashi, Ramban and Rashbam on 20:11 to 18. Rashi’s words carry ‘discretionary war’ exactly (במלחמת הרשות). Ramban’s words carry the call to peace even to the seven nations in a commanded war, and that the section distinguishes the wars at its end. CORRECTED: the proposal ended ‘the two wars differing only after refusal’, but Ramban goes on (ונראה שיש הפרש עוד בשאלת השלום) to name a further difference in the peace terms themselves (the seven nations must also renounce idolatry), so ‘only’ went beyond him; replaced by ‘the section distinguishing the wars only at its end’, his own שהפרשה בסופה תחלק בין שתי המלחמות. To stay within 60 words, Rashi’s ‘a war of choice’ became ‘discretionary war’ (his מלחמת הרשות). Source line: Ramban’s edition named “On Your Way new” as the packet gives it. Disagreement named, not resolved (rule 5). entry-check ok on scratch/V-d062-p.json."
+}

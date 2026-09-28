@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d079-p",
+ "d": 79,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "So he brought down the people unto the water; and the LORD said unto Gideon: ‘Everyone that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink.’",
+ "ref": "Judges 7:5",
+ "at": [
+  217,
+  5
+ ],
+ "s": "After the fearful turn home, the LORD tests the ten thousand left with Gideon; Rashi, on 7:5, reads those who kneel to drink as sent away from Gideon’s band, being practised in kneeling before idols.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on Judges 7:5, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Judges 7:5, lemma כל אשר ילוק בלשונו וגו׳ וכל אשר יכרע על ברכיו לשתות",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Judges 7:4 to 7:7 (nothing on 7:5)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136 (2026-03-23)",
+    "locator": "Judges 7:5",
+    "via": "packet"
+   }
+  ],
+  "words": "תציג אותו לבד חוץ מסיעתך, כי הם לא ילכו עמך, שכך הם למודים לכרוע לפני עבודת גלולים",
+  "lang": "Hebrew",
+  "gloss": "Set him apart by himself, outside your company, for they shall not go with you, since they are practised in kneeling before the worship of idols.",
+  "licence": "Hebrew: public domain (Sefaria export); the Metsudah English (CC-BY) not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Judges 7:5 and at [217,5] match. Plain sense faithful: 22,000 fearful men return home (7:3), the LORD says the ten thousand left are still too many and will be tried at the water (7:4), and the key verse is that trial; no four-word run from the verse. Read the chapter 7 packet (Rashi, Radak, Metzudat David; no Midrash Rabbah on Judges). Rashi on 7:5, on the lemma covering both the lappers and the kneelers, says to set him apart outside Gideon’s company, for they will not go with him, being practised in kneeling before idols. The sentence (kneelers sent away from his band, practised in kneeling before idols) is carried without drift; Radak on 7:7 and Metzudat David on 7:7 give the same idolatry reason, which confirms it is not the translator’s gloss. Evidence is one contiguous span copied from packet.js. entry-check ok."
+}

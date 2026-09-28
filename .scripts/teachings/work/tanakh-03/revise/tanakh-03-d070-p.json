@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-03-d070-p",
+ "d": 70,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And Joshua said unto Achan: ‘My son, give, I pray thee, glory to the LORD, the God of Israel, and make confession unto Him; and tell me now what thou hast done; hide nothing from me.’",
+ "ref": "Joshua 7:19",
+ "at": [
+  193,
+  19
+ ],
+ "s": "Joshua addresses Achan, taken as thief of the devoted thing, before he and all he has are stoned and burned; Radak, on 7:19, reads it as asking confession, so his death might atone for him and Israel acknowledge the lot that took him as true.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on Joshua, on Joshua 7:19, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua 7:19",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew with the Metsudah English (1997), Sefaria export 3f10136",
+    "locator": "Joshua 7:19",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua 7:19",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (packet reports no volume on Joshua)",
+    "locator": "Joshua 7",
+    "via": "packet"
+   }
+  ],
+  "words": "בקש ממנו שיתודה על עונו לשני דברים האחד לכפרת עונו שתהא מיתתו כפרתו בהודאת עונו ומכאן למדנו שכל המומתין מתודין ולמדו כי כופר עונו מדכתיב יעכרך ה' ביום הזה ביום הזה נעכר ולא לעולם הבא והשני כדי שיודו בני ישראל בגורל או בקליטת הארון ויאמרו כי אמת הוא",
+  "lang": "Hebrew",
+  "gloss": "He asked him to confess his sin for two things: the first, for the atonement of his sin, that his death be his atonement through confessing his sin, and from this we learn that all who are put to death confess; and they learned that his sin was atoned from “the LORD shall trouble thee this day”: this day he is troubled and not in the world to come; the second, so that the children of Israel would acknowledge the lot, or the ark’s catching him, and say that it is true.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Problem holds: the context never named how Achan was singled out, so the reading’s ‘the lot’ had no antecedent, and the purpose clause was stiff. The day’s JPS text says only ‘taken’ (7:14 to 18) and never ‘lot’, so the lot is named in the reading, where Radak names it (שיודו בני ישראל בגורל), as ‘the lot that took him’, and the context keeps the passage’s own word ‘taken’. Purpose clause smoothed within Radak’s two purposes: his death his atonement through confession (שתהא מיתתו כפרתו בהודאת עונו), and Israel acknowledging the lot as true (ויאמרו כי אמת הוא). Re-opened packet.js tanakh 70 --verse 7.19; evidence unchanged and verbatim. verse.js ok (Joshua 7:19, [193,19]); entry-check ok, 45 words. Commentator and reading kept."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d080-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 80 --verse 10.16: Rashi on the lemma ותקצר נפשו בעמל reads כביכול לא היה רחבת מקום לסבול ולכנס שם צרה שהיה לו בעמל ישראל, verbatim as in the evidence, and the sentence keeps his 'as it were'; Metzudat David (https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json) on the lemma ותקצר נפשו reads the will of the Omnipresent grown short of multiplying their misery on their return, glossed as נחם ה׳ על הרעה, verbatim as in the evidence. The two genuinely differ (felt distress against a will that stops adding misery) and the sentence names both without resolving. Metzudat David’s reading is the one Radak on the same verse reports from Maimonides; the sentence claims it only as Metzudat David’s reading in his own words, which it is, so no false attribution. Plain sense: 10:13 to 15, the LORD tells Israel to cry to the gods they have chosen and Israel says again it has sinned and asks deliverance (after 10:10); accurate. verse.js ok (Judges 10:16, at [220,16], 24 words); entry-check.js ok, no errors or warnings. No comparison, no dash, tone plain.",
+ "better": ""
+}

@@ -1,0 +1,12 @@
+{
+ "id": "tanakh-03-d062-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+  "found": true
+ },
+  "also_reopened": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 62 --verse 20.10. Rashi on 20:10 has verbatim בְּמִלְחֶמֶת הָרְשׁוּת הַכָּתוּב מְדַבֵּר (Sifre), carrying ‘speaking of discretionary war’. Ramban on 20:10 quotes Rashi, then: והכונה לרבותינו בכתוב הזה אינה אלא לומר שהפרשה בסופה תחלק בין שתי המלחמות אבל קריאת השלום אפילו במלחמת מצוה ... אפילו לשבעה עממים, carrying both halves of his paraphrase. Attacked ‘only at its end’: his further difference in peace terms (renouncing idolatry) he says Scripture does not state in this section (ולא הזכיר הכתוב זה בפרשה הזאת) and the Sifre hint he draws is from 20:18, itself at the end, so the phrase holds. Disagreement is genuine and named without resolving. Plain sense checked against day.js 20:10 to 18: far city’s males smitten (20:13), these peoples’ cities destroyed (20:16 to 17); stated plainly, no softening, no four-word run from the key. verse.js ok (Deuteronomy 20:10, at [172,10]); entry-check ok, 59 words under the 60 cap for two commentators; src 152 characters, both editions named. No comparison, no school needed.",
+ "better": ""
+}

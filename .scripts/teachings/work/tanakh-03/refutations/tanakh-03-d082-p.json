@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d082-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 82 --verse 16.28: Rashi on Judges 16:28, lemma זכרני נא, prints the evidence verbatim: remember the twenty years that I judged Israel (זכור עשרים שנה ששפטתי את ישראל) and did not say to one of them, carry this staff for me from place to place (ולא אמרתי לאחד מהם העבר לי מקל זה ממקום למקום). Every clause of the reading is carried: ‘remember me’ heard as asking God to remember the twenty years, without once bidding any of them carry a staff for him. Locator right (the lemma is in 16:28). Radak and Metzudat David at 16:28 comment on נקם אחת and האלהים, not on ‘remember me’: no disagreement to name. Plain sense checked against day.js 16:21 to 16:28: eyes put out (16:21), the sacrifice and rejoicing to Dagon (16:23), called to make sport and set between the pillars (16:25), the prayer; no four-word run from the key. verse.js ok (Judges 16:28, at [226,28]); entry-check.js ok on scratch/R-d082-p.json. No school needed, no comparison, tone plain, two words of the key quoted.",
+ "better": ""
+}

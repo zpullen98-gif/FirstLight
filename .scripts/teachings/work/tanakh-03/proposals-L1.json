@@ -1,0 +1,182 @@
+{
+ "lane": "L1",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 61,
+   "primary": {
+    "id": "tanakh-03-d061-p",
+    "key": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+    "ref": "Deuteronomy 14:1",
+    "at": [166, 1],
+    "s": "Moses opens a chapter of laws that moves from mourning customs to clean food and the tithe; Rashi, on 14:1, reads it as children of God keeping themselves comely, not gashed or made bald, and Ibn Ezra, on 14:1, as children trusting a loving Father whose every deed is for good, though beyond their understanding.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Deuteronomy 14:1, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "לְפִי שֶׁאַתֶּם בָּנָיו שֶׁל מָקוֹם וְאַתֶּם רְאוּיִין לִהְיוֹת נָאִים וְלֹא גְּדוּדִים וּמְקֹרָחִים … אחר שתדעו שאתם בנים לשם והוא אוהב אתכם יותר מהאב לבן אל תתגודדו על כל מה שיעשה כי כל אשר יעשה לטוב הוא ואם לא תבינוהו כאשר לא יבינו הבנים הקטנים מעשה אביהם רק יסמכו עליו",
+     "gloss": "[Rashi on 14:1, ‘ye shall not cut yourselves’:] because you are children of the Omnipresent, and it is fitting for you to be comely, not gashed and made bald … [Ibn Ezra on 14:1, ‘and the sense of children’:] once you know that you are children to God, and He loves you more than a father loves his son, do not gash yourselves over anything He does, for all that He does is for good; and if you do not understand it, then as little children do not understand their father’s deeds but simply rely on him, [so do you]."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d061-s",
+    "key": "For the poor shall never cease out of the land; therefore I command thee, saying: ‘Thou shalt surely open thy hand unto thy poor and needy brother, in thy land.’",
+    "ref": "Deuteronomy 15:11",
+    "at": [167, 11],
+    "s": "Moses, having promised that obedience leaves none needy, turns to the poor; Ramban, on 15:11, reads it not as foretelling that Israel will fail the Torah but as allowing that some generation will fall short, so the command covers any poor man found.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Deuteronomy 15:11, Hebrew (On Your Way new), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "ואינו נכון לדעתי כי התורה תרמוז במה שעתיד להיות אבל לא יתנבא עליהם בפירוש שלא יקיימו התורה … אבל ידעתי כי לא יהיו כל הדורות כל ימי עולם כלם שומרים כל המצוה עד שלא נצטרך כלל לצוות על האביון כי אולי בקצת הימים ימצא אביון ואני מצוך עליו אם ימצא",
+     "gloss": "(Ramban on 15:11, ‘for the poor shall never cease out of the land’, after giving the commentators’ view that it foretells Israel will not keep the commandment) But it is not correct in my opinion, for the Torah may hint at what is to be, but it would not prophesy of them explicitly that they will not keep the Torah … [Moses says:] but I know that not all the generations for all time will all keep the whole commandment, so that we would never need to command concerning the poor; for perhaps at some times a poor man will be found, and I command you concerning him if he is found."
+    }
+   }
+  },
+  {
+   "d": 63,
+   "primary": {
+    "id": "tanakh-03-d063-p",
+    "key": "When thou buildest a new house, then thou shalt make a parapet for thy roof, that thou bring not blood upon thy house, if any man fall from thence.",
+    "ref": "Deuteronomy 22:8",
+    "at": [174, 8],
+    "s": "Between the mother bird and the vineyard comes a law for builders; Rashi, on 22:8, reads the faller as one who deserved to fall, whose death must still not come through the builder, for merit comes through the worthy and guilt through the guilty.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Deuteronomy 22:8, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "רָאוּי זֶה לִפֹּל, וְאַעַ\"פִּ כֵן לֹא תִתְגַּלְגֵּל מִיתָתוֹ עַל יָדְךָ, שֶׁמְּגַלְגְּלִין זְכוּת עַל יְדֵי זַכַּאי וְחוֹבָה עַל יְדֵי חַיָּב",
+     "gloss": "(Rashi on 22:8, ‘if any man fall from thence’) This one was fit to fall, and even so his death should not come about through you; for merit is brought about through the meritorious, and guilt through the guilty."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d063-s",
+    "key": "And they shall speak and say: ‘Our hands have not shed this blood, neither have our eyes seen it.",
+    "ref": "Deuteronomy 21:7",
+    "at": [173, 7],
+    "s": "Over a man found slain, his killer unknown, the nearest city’s elders wash their hands above a heifer; Rashi, on 21:7, reads their denial as meaning they never saw him and sent him away without food or escort, and Ibn Ezra, on 21:7, takes the rite as falling on that city perhaps for some like sin of its own.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Deuteronomy 21:7, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "וְכִי עָלְתָה עַל לֵב שֶׁזִּקְנֵי בֵית דִּין שׁוֹפְכֵי דָמִים הֵם? אֶלָּא לֹא רְאִינוּהוּ וּפְטַרְנוּהוּ בְּלֹא מְזוֹנוֹת וּבְלֹא לְוָיָה … ויתכן שהשם צוה לעשות כן העיר הקרובה כי לולי שעשו עבירה כדומה לה לא נזדמן להם שיהרג אדם קרוב מהם ומחשבות השם עמקו וגבהו לאין קץ אצלנו",
+     "gloss": "[Rashi on 21:7, ‘our hands have not shed’:] Would it enter anyone’s mind that the elders of the court are shedders of blood? Rather: we did not see him and send him away without food and without escort … [Ibn Ezra on 21:7, ‘neither have our eyes seen’:] And it may be that God commanded the nearest city to do this because, had they not committed a transgression like it, it would not have befallen them that a man be killed near them; and the thoughts of God are deep and high beyond any end for us."
+    }
+   }
+  },
+  {
+   "d": 64,
+   "primary": {
+    "id": "tanakh-03-d064-p",
+    "key": "And thou shalt speak and say before the LORD thy God: ‘A wandering Aramean was my father, and he went down into Egypt, and sojourned there, few in number; and he became there a nation, great, mighty, and populous.",
+    "ref": "Deuteronomy 26:5",
+    "at": [178, 5],
+    "s": "The farmer bringing first fruits to the priest recites his people’s story; Rashi, on 26:5, reads the Aramean as Laban, who sought to uproot all in pursuing Jacob, his intent counted as the deed, and Ibn Ezra, on 26:5, as Jacob himself, poor and without means while in Aram.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Deuteronomy 26:5, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "לָבָן בִּקֵּשׁ לַעֲקֹר אֶת הַכֹּל כְּשֶׁרָדַף אַחַר יַעֲקֹב, וּבִשְׁבִיל שֶׁחָשַׁב לַעֲשׂוֹת חָשַׁב לוֹ הַמָּקוֹם כְּאִלּוּ עָשָׂה … והקרוב שארמי הוא יעקב כאלו אמר הכ' כאשר היה אבי בארם היה אובד והטעם עני בלא ממון",
+     "gloss": "[Rashi on 26:5, ‘an Aramean destroyed my father’, recalling God’s kindnesses:] Laban sought to uproot everything when he pursued Jacob, and because he intended to do it, the Omnipresent accounted it to him as though he had done it … [Ibn Ezra on 26:5, ‘oved avi’, after arguing that oved is intransitive:] and the likeliest reading is that the Aramean is Jacob, as if Scripture said: when my father was in Aram he was ‘oved’, meaning poor, without money."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d064-s",
+    "key": "In the same day thou shalt give him his hire, neither shall the sun go down upon it; for he is poor, and setteth his heart upon it: lest he cry against thee unto the LORD and it be sin in thee.",
+    "ref": "Deuteronomy 24:15",
+    "at": [176, 15],
+    "s": "Among laws shielding the poor, the day labourer’s wage follows the pledge; Ramban, on 24:15, explains by the plain sense that he leaves before sunset and must be paid at once, to buy his family’s food for the night, lest he starve.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Deuteronomy 24:15, Hebrew (On Your Way new), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "וטעם ביומו תתן שכרו ולא תבוא עליו השמש על דרך הפשט … והמנהג לשכור הפועל ביום אחד ולערב הוא יוצא טרם בא השמש ויצוה הכתוב לפרעו ביומו בהשלים מלאכתו מיד ושלא תבוא עליו השמש כדי שיקנה בשכרו לו ולאשתו ולבניו מה שיאכלו בלילה כי עני הוא כרובי הנשכרים … וישאר שכרו אתך עד בקר וימות הוא ברעב בלילה",
+     "gloss": "(Ramban on 24:15) The sense of ‘in the same day thou shalt give him his hire, neither shall the sun go down upon it’, by way of the plain sense … the custom is to hire the labourer for a single day, and in the evening he leaves before the sun sets; and Scripture commands to pay him on his day, as soon as he finishes his work, before the sun sets on him, so that with his wage he may buy what he, his wife and his children will eat that night, for he is poor, like most hired men … [otherwise] his wage stays with you until morning, and he dies of hunger in the night."
+    }
+   }
+  },
+  {
+   "d": 65,
+   "primary": {
+    "id": "tanakh-03-d065-p",
+    "key": "And all these blessings shall come upon thee, and overtake thee, if thou shalt hearken unto the voice of the LORD thy God.",
+    "ref": "Deuteronomy 28:2",
+    "at": [180, 2],
+    "s": "Moses sets the blessings for hearkening before the curses that fill the chapter; Sforno, on 28:2, reads them as blessings that overtake Israel without striving, when Torah is its fixed pursuit and its labour only occasional.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Deuteronomy 28:2, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "אע\"פ שלא תשתדל אתה להשיגם … וזה כשתהיה תורתך קבע ומלאכתך עראי ולפי' ישיגוך הברכות בלתי השתדלות",
+     "gloss": "[Sforno on 28:2, ‘and all these blessings shall come upon thee and overtake thee’:] even though you yourself do not strive to attain them … [on ‘if thou shalt hearken unto the voice of the LORD thy God’:] and this is when your Torah is fixed and your work occasional; and therefore the blessings will overtake you without striving."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d065-s",
+    "key": "Blessed shalt thou be in the city, and blessed shalt thou be in the field.",
+    "ref": "Deuteronomy 28:3",
+    "at": [180, 3],
+    "s": "The first blessings pair the places of daily life; the Midrash, Deuteronomy Rabbah 7:5, in one view, reads the city’s blessing as reward for commandments done there, such as the Sabbath lamp, and the field’s for gleanings, forgotten sheaves and corners left.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Deuteronomy Rabbah 7:5, the Torat Emet Hebrew text, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "בָּרוּךְ אַתָּה בָּעִיר (דברים כח, ג), אָמַר רַבִּי יִצְחָק בָּעִיר, בִּשְׂכַר הַמִּצְווֹת שֶׁאַתָּה עוֹשֶׂה בָּעִיר, חַלָּה, וְצִיצִית, וְסֻכָּה, וְנֵר שַׁבָּת. (דברים, כח, ג): וּבָרוּךְ אַתָּה בַּשָֹּׂדֶה, בִּשְׂכַר מִצְווֹת שֶׁאַתָּה עוֹשֶׂה בַּשָֹּׂדֶה, לֶקֶט, שִׁכְחָה, וּפֵאָה",
+     "gloss": "(Deuteronomy Rabbah 7:5, printed on 28:3) ‘Blessed shalt thou be in the city’: Rabbi Yitzhak said, in the city, as reward for the commandments you do in the city: hallah, fringes, the sukkah and the Sabbath lamp. ‘And blessed shalt thou be in the field’: as reward for the commandments you do in the field: gleanings, the forgotten sheaf and the corner of the field. [The Rabbis then give a second view: blessed in the city through being blessed from the field.]"
+    }
+   }
+  },
+  {
+   "d": 66,
+   "primary": {
+    "id": "tanakh-03-d066-p",
+    "key": "For this commandment which I command thee this day, it is not too hard for thee, neither is it far off.",
+    "ref": "Deuteronomy 30:11",
+    "at": [182, 11],
+    "s": "Having foretold exile and return, Moses speaks of the commandment; Ramban, on 30:11, reads it not as the whole Torah but as the commandment of repentance, within reach even among the nations, at any time and place, by confession and a returning heart.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Deuteronomy 30:11, Hebrew (On Your Way new), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "והנכון כי על כל התורה יאמר (דברים ח׳:א׳) \"כל המצוה אשר אנכי מצוך היום\" אבל המצוה הזאת על התשובה הנזכרת … כי אם יהיה נדחך בקצה השמים ואתה ביד העמים תוכל לשוב אל ה' ולעשות ככל אשר אנכי מצוך היום כי אין הדבר נפלא ורחוק ממך אבל קרוב אליך מאד לעשותו בכל עת ובכל מקום וזה טעם בפיך ובלבבך לעשותו שיתודו את עונם ואת עון אבותם בפיהם וישובו בלבם אל ה'",
+     "gloss": "(Ramban on 30:11) But the correct view is that of the whole Torah he says ‘all the commandment which I command thee this day’, whereas ‘this commandment’ refers to the repentance just mentioned … if your outcasts be at the edge of heaven and you are in the hands of the nations, you can return to God and do all that I command you this day, for the thing is not wondrous or far from you but very near you, to do at any time and in any place; and this is the sense of ‘in thy mouth, and in thy heart, that thou mayest do it’: that they confess their iniquity and their fathers’ iniquity with their mouths, and return in their hearts to God."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d066-s",
+    "key": "The secret things belong unto the LORD our God; but the things that are revealed belong unto us and to our children for ever, that we may do all the words of this law.",
+    "ref": "Deuteronomy 29:28",
+    "at": [181, 28],
+    "s": "Moses closes his warning of a land laid waste for forsaking the covenant; Rashi, on 29:28, reads the hidden things as one man’s secret thoughts, left to God to punish, while open sins are the community’s to root out, and Ramban, on 29:28, as sins hidden from their own doers, for which no guilt is borne.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ramban (Hebrew, On Your Way new), on Deuteronomy 29:28, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "אַתָּה מַעֲנִישׁ אֶת הָרַבִּים עַל הִרְהוּרֵי הַיָּחִיד … אֵין אֲנִי מַעֲנִישׁ אֶתְכֶם עַל הַנִּסְתָּרוֹת, שֶׁהֵן לַה' אֱלֹהֵינוּ, וְהוּא יִפָּרַע מֵאוֹתוֹ יָחִיד, אֲבָל \"הַנִּגְלוֹת לָנוּ וּלְבָנֵינוּ\" לְבָעֵר הָרָע מִקִּרְבֵּנוּ … ודעתי בדרך הפשט כי הנסתרות הם החטאים הנסתרים מן העושים אותם … יאמר הנסתרות לשם לבדו הם אין לנו בהן עון אשר חטא אבל הנגלות שהם הזדונות לנו ולבנינו עד עולם",
+     "gloss": "[Rashi on 29:28, ‘the secret things belong unto the LORD our God’, first stating the objection he answers:] You punish the many for the thoughts of the individual … I do not punish you for the hidden things, which are the LORD our God’s, and He will exact payment from that individual; but ‘the revealed things are ours and our children’s’, to root out the evil from our midst … [Ramban on 29:28, same words:] And my view, by way of the plain sense, is that the hidden things are the sins hidden from those who commit them … it says: the hidden things are God’s alone, we bear no guilt of sin in them; but the revealed things, which are the wilful sins, are ours and our children’s for ever."
+    }
+   }
+  }
+ ]
+}

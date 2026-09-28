@@ -1,0 +1,89 @@
+{
+ "lane": "S1",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 62,
+   "primary": {
+    "id": "tanakh-03-d062-p",
+    "key": "When thou drawest nigh unto a city to fight against it, then proclaim peace unto it.",
+    "ref": "Deuteronomy 20:10",
+    "at": [
+     172,
+     10
+    ],
+    "s": "Opening the siege laws, which order a resisting far city’s males killed and the land’s nations destroyed, the verse sets the first step; Rashi, on 20:10, reads it as speaking of a war of choice, and Ramban, on the same verse, as requiring the call to peace even with the seven nations, the two wars differing only after refusal.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, on Deuteronomy 20:10, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way New”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "בְּמִלְחֶמֶת הָרְשׁוּת הַכָּתוּב מְדַבֵּר, כְּמוֹ שֶׁמְּפֹרָשׁ בָּעִנְיָן … והכונה לרבותינו בכתוב הזה אינה אלא לומר שהפרשה בסופה תחלק בין שתי המלחמות אבל קריאת השלום אפילו במלחמת מצוה היא שחייבים לקרא לשלום אפילו לשבעה עממים … אבל הפרש שביניהם כאשר לא תשלים ועשתה מלחמה",
+     "gloss": "[Rashi, on 20:10, ‘when thou drawest nigh unto a city’:] Scripture speaks of a discretionary war, as is made explicit in the section [‘thus shalt thou do unto all the cities which are very far off’] … [Ramban, on 20:10, after quoting Rashi:] The intent of our Rabbis in this verse is only to say that the section, at its end, distinguishes between the two wars; but the call to peace applies even in a commanded war, for we are obliged to call for peace even to the seven nations … rather, the difference between them is when the city does not make peace but makes war."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d062-s",
+    "key": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by wielding an axe against them; for thou mayest eat of them, but thou shalt not cut them down; for is the tree of the field man, that it should be besieged of thee?",
+    "ref": "Deuteronomy 20:19",
+    "at": [
+     172,
+     19
+    ],
+    "s": "After laws ordering a resisting far city’s males and the land’s nations killed, the text turns to a long siege; Rashi, on 20:19, reads the last clause as asking whether a tree is a man, who could withdraw into the city to suffer its hunger, and Ibn Ezra, on the same verse, as saying man’s life is the tree.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi and Ibn Ezra, on Deuteronomy 20:19, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ibn Ezra: “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "הֲרֵי כִּי מְשַׁמֵּשׁ בִּלְשׁוֹן דִּלְמָא, שֶׁמָּא הָאָדָם עֵץ הַשָּׂדֶה לְהִכָּנֵס בְּתוֹךְ הַמָּצוֹר מִפָּנֶיךָ לְהִתְיַסֵּר בְּיִסּוּרֵי רָעָב וְצָמָא כְּאַנְשֵׁי הָעִיר? לָמָּה תַּשְׁחִיתֶנּוּ? … ולפי דעתי שאין לנו צורך לכל זה וזה פירושו כי ממנו תאכל ואותו לא תכרות כי האדם עץ השדה והטעם כי חיי בן אדם הוא עץ השדה",
+     "gloss": "[Rashi, on 20:19, ‘for is the tree of the field man’:] Here ki serves in the sense of ‘perhaps’: is the tree of the field perhaps a man, to withdraw within the siege from before you and be afflicted with the sufferings of hunger and thirst like the people of the city? Why should you destroy it? … [Ibn Ezra, on 20:19, same words:] In my view we have no need of all this, and this is its meaning: for of it thou mayest eat, and it thou shalt not cut down, for man is the tree of the field; and the sense is that the life of man is the tree of the field."
+    }
+   }
+  },
+  {
+   "d": 69,
+   "primary": {
+    "id": "tanakh-03-d069-p",
+    "key": "And the city shall be devoted, even it and all that is therein, to the LORD; only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent.",
+    "ref": "Joshua 6:17",
+    "at": [
+     192,
+     17
+    ],
+    "s": "Before the wall falls and all in Jericho are put to the sword, Joshua charges the people; Rashi, on 6:17, reads ‘devoted’ as consecrated, spoil taken on the holy Sabbath being fit to be holy, and Radak, on the same verse, as a city never to be rebuilt, nothing in it for anyone’s use, which he judges God commanded.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi and Radak, on Joshua 6:17, Hebrew (Rashi: Metsudah Publications, 1997; Radak: “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "וְהָיְתָה הָעִיר חֵרֶם הֶקְדֵּשׁ, כִּי הַיּוֹם שַׁבַּת קֹדֶשׁ, וְרָאוּי לִהְיוֹת קֹדֶשׁ שָׁלָל הַנִּשְׁלָל בּוֹ … והיתה העיר חרם היא וכל אשר בה. היא שלא תבנה עוד וכל אשר בה שלא יהנה אדם מכל אשר בה ונראה כי הקב\"ה אמר לו כן כי יהושע לא אמר דבר כזה מלבו",
+     "gloss": "[Rashi, on 6:17, ‘and the city shall be devoted’:] Consecrated property, for the day was the holy Sabbath, and it is fitting that the spoil taken on it be holy. … [Radak, on 6:17, ‘and the city shall be devoted, it and all that is therein’:] ‘It’: that it shall not be built again; ‘and all that is therein’: that no one shall have benefit from anything in it; and it appears that the Holy One, blessed be He, told him so, for Joshua would not have said such a thing from his own heart."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d069-s",
+    "key": "And he said: ‘Nay, but I am captain of the host of the LORD; I am now come.’",
+    "ref": "Joshua 5:14",
+    "at": [
+     191,
+     14
+    ],
+    "s": "Near Jericho, soon to fall with all its people put to the sword, Joshua challenges an armed man; Rashi, on 5:14, reads his coming now as help to take a city beyond human strength, Moses having refused him, and Radak, on the same verse, as a sudden appearance, beyond flesh and blood, to convince Joshua he was an angel.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi and Radak, on Joshua 5:14, Hebrew (Rashi: Metsudah Publications, 1997; Radak: “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "עַתָּה בָאתִי לְעֶזְרָתְךָ, שֶׁאֵין אָדָם יָכוֹל לְהִלָּחֵם עָלֶיהָ וּלְתוֹפְשָׂהּ לְהַפִּיל הַחוֹמָה, אֲבָל בִּימֵי משֶׁה רַבָּךְ בָּאתִי וְלֹא חָפֵץ בִּי … עתה באתי. בעת שראיתני מה שאין כן בבשר ודם וזה להחזיק בלבו כי מלאך הוא",
+     "gloss": "[Rashi, on 5:14, ‘I am now come’:] Now I have come to your help, for no man can fight against it and take it, to bring down the wall; but in the days of Moses your master I came, and he did not want me. … [Radak, on 5:14, same words:] Now I have come: at the moment you saw me, which is not so with flesh and blood; and this was to establish in his heart that he is an angel."
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d069-p",
+ "d": 69,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And the city shall be devoted, even it and all that is therein, to the LORD; only Rahab the harlot shall live, she and all that are with her in the house, because she hid the messengers that we sent.",
+ "ref": "Joshua 6:17",
+ "at": [
+  192,
+  17
+ ],
+ "s": "Before the wall falls and all in Jericho are put to the sword, Joshua charges the people; Rashi, on 6:17, reads ‘devoted’ as consecrated, spoil taken on the holy Sabbath being fit to be holy, and Radak, on the same verse, as a city never to be rebuilt, nothing in it for anyone’s use, which he judges God commanded.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi and Radak, on Joshua 6:17, Hebrew (Rashi: Metsudah Publications, 1997; Radak: “Radak on Nach”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew (Metsudah Publications, 1997), Sefaria export 3f10136",
+    "locator": "Joshua 6:17, on והיתה העיר חרם (also 6:15, the seventh day was the Sabbath)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua 6:17, on והיתה העיר חרם היא וכל אשר בה (also 6:11, 6:26)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua 6:17",
+    "via": "packet"
+   }
+  ],
+  "words": "וְהָיְתָה הָעִיר חֵרֶם הֶקְדֵּשׁ, כִּי הַיּוֹם שַׁבַּת קֹדֶשׁ, וְרָאוּי לִהְיוֹת קֹדֶשׁ שָׁלָל הַנִּשְׁלָל בּוֹ … היא שלא תבנה עוד וכל אשר בה שלא יהנה אדם מכל אשר בה ונראה כי הקב\"ה אמר לו כן כי יהושע לא אמר דבר כזה מלבו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 6:17:] And the city shall be devoted: consecrated, for the day was the holy Sabbath, and it is fitting that the spoil taken on it be holy. … [Radak, on 6:17:] It: that it shall not be built again; and all that is therein: that no one shall have benefit from anything in it; and it appears that the Holy One, blessed be He, told him so, for Joshua would not have said such a thing from his own heart.",
+  "licence": "Hebrew: CC-BY (Rashi, Metsudah edition); Radak: no licence stated by Sefaria, the text centuries old",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Joshua 6:17 and at [192,17] match. Plain sense faithful: Joshua speaks to the people in 6:16 to 19, before the wall falls (6:20) and all in the city are put to the edge of the sword (6:21); stated plainly (rule 6), no four-word run from the key. Read the whole chapter 6 packet (Rashi, Radak, Metzudat David; no Midrash Rabbah on Joshua). Rashi on 6:17 glosses חרם as הקדש because the day was the holy Sabbath and spoil taken on it should be holy, consistent with his 6:15 (the seventh day was the Sabbath). Radak on 6:17 reads היא as never to be rebuilt and כל אשר בה as no one to benefit, and judges (ונראה) that God told Joshua so; he then reports the Rabbis’ contrary view that Joshua decided it himself, which the sentence does not deny, attributing only Radak’s own judgement to him. The two genuinely differ and neither is resolved (rule 5). Evidence copied from packet output. entry-check ok."
+}

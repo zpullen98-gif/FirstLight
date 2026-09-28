@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d071-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 71 --verse 10.12: Rashi on אז ידבר says Joshua said a song in place of the sun (אמר שירה תחת השמש), having told it dom, silent from song (דום מלומר שירה), and while silent it stands and does not move, since at every moment of its going it sings; then the plain sense, dom a word for waiting (ופשוטו של מקרא: דום לשון המתנה). Evidence words verbatim in the packet. Each clause of the paraphrase (silence, singing while moving, hushed so halted, Joshua singing instead, plain sense waiting) is in his words; no drift. Plain sense against day.js: the five Amorite kings' hosts routed at Gibeon (10:5 to 11), the kings put to death (10:26), the cities taken with all their souls (10:28 to 39); plain, not softened. The compressed ‘killed with all in the cities taken’ is loose (the kings die at Makkedah, not in the cities) but not false. ‘stand thou still’ is three words of the key verse in curly quotes. verse.js ok (Joshua 10:12, [196,12]); entry-check ok, no errors or warnings.",
+ "better": ""
+}

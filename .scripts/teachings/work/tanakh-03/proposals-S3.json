@@ -1,0 +1,89 @@
+{
+ "lane": "S3",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 72,
+   "primary": {
+    "id": "tanakh-03-d072-p",
+    "key": "Joshua made war a long time with all those kings.",
+    "ref": "Joshua 11:18",
+    "at": [
+     197,
+     18
+    ],
+    "s": "With the northern kings routed and everyone in their cities killed, the chapter sums up the war; Rashi, on 11:18, reads it as told to Joshua’s discredit: since he was to apportion the land, he meant to delay its conquest and lengthen his days.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on Joshua 11:18, Hebrew (The Book of Joshua, Metsudah Publications, 1997), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "בִּגְנוּתוֹ סִפֵּר הַכָּתוּב, שֶׁהָיָה מִתְכַּוֵּון לִדְחוֹת אֶת כִּבּוּשׁ הָאָרֶץ כְּדֵי לְהַאֲרִיךְ יָמָיו, לְפִי שֶׁנֶּאֱמַר (לעיל א י): וְאַתָּה תַּנְחִלֶנָּה אוֹתָם",
+     "gloss": "[Rashi on 11:18, ‘many days did Joshua make’:] Scripture tells this to his discredit, that he intended to put off the conquest of the land in order to lengthen his days, because it was said (above, 1:10): ‘and you shall apportion it to them’."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d072-s",
+    "key": "And Joshua did unto them as the LORD bade him; he houghed their horses, and burnt their chariots with fire.",
+    "ref": "Joshua 11:9",
+    "at": [
+     197,
+     9
+    ],
+    "s": "At Merom, where Israel slays the northern hosts to the last man, the verse turns to their horses and chariots; Radak, on 11:9, reads the command as keeping Israel from trusting in horses, which were lamed, not killed, since needless destruction of creatures is forbidden.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Joshua, on Joshua 11:9, Hebrew (Sefaria’s Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "לפיכך לא רצה האל יתברך שיבוזו ישראל להם הסוסים והמרכבות כדי שלא יבטחו בהם גם הם ויחשבו בלבם כי עם הסוסים יעשו המלחמות לפיכך צוה יהושע לעקר הסוסים ולשרוף המרכבות ולא צוה להמית הסוסים … ולא אמר להרגם דרך השחתה כי אסור להשחית הנבראים אם לא לצורך או לאסור בהנאה",
+     "gloss": "[Radak on 11:9, ‘he houghed their horses’:] Therefore God, blessed be He, did not want Israel to take the horses and chariots as spoil, so that they too would not trust in them and think in their hearts that with horses they make war; therefore He commanded Joshua to hamstring the horses and burn the chariots, and did not command him to kill the horses … and He did not say to kill them by way of destruction, for it is forbidden to destroy created things except for need or where benefit from them is forbidden."
+    }
+   }
+  },
+  {
+   "d": 83,
+   "primary": {
+    "id": "tanakh-03-d083-p",
+    "key": "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the farther side of the hill-country of Ephraim, who took to him a concubine out of Beth-lehem in Judah.",
+    "ref": "Judges 19:1",
+    "at": [
+     229,
+     1
+    ],
+    "s": "The story begun here ends with the Levite thrusting his concubine out to men of Gibeah, who abuse her to death; Metzudat David, on 19:1, reads ‘no king’ as explaining what follows: a king would have punished the sinners, sparing Israel civil war.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, on Judges 19:1, Hebrew (Sefaria’s On Your Way text), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "ומלך אין בישראל. כי אם היה מלך לא היה מה שהיה, כי המלך היה מעניש את החוטאים, ולא היו, אם כן, ישראל נלחמים זה בזה כאשר יסופר",
+     "gloss": "[Metzudat David on 19:1, ‘and there was no king in Israel’:] For had there been a king, what happened would not have happened, for the king would punish the sinners, and then Israel would not have fought one another, as will be told."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d083-s",
+    "key": "In those days there was no king in Israel; and in those days the tribe of the Danites sought them an inheritance to dwell in; for unto that day there had nothing been allotted unto them among the tribes of Israel for an inheritance.",
+    "ref": "Judges 18:1",
+    "at": [
+     228,
+     1
+    ],
+    "s": "Before the Danites take Micah’s image and put the quiet people of Laish to the sword, the chapter sets its time; Rashi, on 18:1, takes the tribe’s want of land as placing it at the very start of the judges, and Radak, on 18:1, ‘those days’ as the years between Samson and Eli, when Israel had no judge.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Judges 18:1, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "ירושה כפי הראוי להם בארץ מכובשת, כמו שנאמר ביהושע (יט מז): ויצא גבול בני דן מהם, ואף מכאן יש ללמוד שהיה מעשה זה בתחלת השופטים מיד … גם זה הפסוק מוכיח כי לא היה זה בימי עתניאל בן קנז כי שופט היה לישראל וכל ימי השופט לא היו עושים איש הישר בעיניו … ואלו הענינים היו בין שמשון לעלי שהיה שופט ישראל והיה הזמן ביניהם כמו שהיה שלא היה להם שופט בישראל",
+     "gloss": "[Rashi on 18:1, ‘for there had not fallen to them’:] An inheritance fitting for them in the conquered land, as it is said in Joshua: ‘and the border of the children of Dan went out from them’; and from here too one may learn that this episode was right at the beginning of the judges … [Radak on 18:1, ‘in those days’:] This verse too proves that this was not in the days of Othniel son of Kenaz, for he was a judge to Israel, and in all the days of a judge they did not each do what was right in his own eyes … and these matters were between Samson and Eli, who was judge of Israel, and the time between them was such that they had no judge in Israel."
+    }
+   }
+  }
+ ]
+}

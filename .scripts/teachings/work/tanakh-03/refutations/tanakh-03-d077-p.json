@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d077-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened both comments on Judges 4:9 via packet.js --verse 4:9. Radak (on כי ביד אשה) rejects the Jael reading and says the deliverance will come through Deborah, people will say into Deborah’s hand the LORD sold Sisera, and it will not be called by Barak’s name: carries ‘Deborah herself, told under her name and not his’. Metzudat David (on אפס וגו׳) says Sisera will die by a woman, והיא יעל, and so all will know it was from the LORD’s hand, for a woman does not prevail by strength: carries ‘as Jael, so that all would know the deliverance came from the LORD’ (his אם כן is consequence; ‘so that’ reads as result, not a stated divine purpose, so no material drift). A genuine difference, named and not resolved, in the two-commentator form within 60 words (53). Rashi has nothing on 4:9. Plain sense matches 4:8 (Barak goes only if Deborah goes). verse.js ok (Judges 4:9, at [214,9]); entry-check.js ok. Per-commentator editions named in src.",
+ "better": "Optionally ‘as Jael, so all would know the deliverance came from the LORD’ to keep Metzudat David’s consequence (אם כן) rather than purpose."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d061-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 61 --verse 14:1. Rashi on לא תתגדדו: לפי שאתם בניו של מקום ואתם ראויין להיות נאים ולא גדודים ומקורחים, verbatim, carrying ‘comely, not gashed or made bald’. Ibn Ezra on וטעם בנים (same packet, Ibn Ezra On Your Way url): אחר שתדעו שאתם בנים לשם והוא אוהב אתכם יותר מהאב לבן ... כי כל אשר יעשה לטוב הוא ואם לא תבינוהו ... רק יסמכו עליו, verbatim, carrying trust in a loving father whose every deed is for good though not understood. The two genuinely differ (Ramban on 14:1 quotes both as distinct readings), named without resolution. Plain sense checked against day.js: 14:1 to 2 mourning, 14:3 to 21 clean food, 14:22 to 29 tithe; Moses is the speaker of the Deuteronomy discourse. verse.js ok (Deuteronomy 14:1, at [166,1]); entry-check ok on scratch/R-d061-p.json. Only quibble, not a refutation: capital ‘Father’ turns Ibn Ezra’s analogy (more than a father loves a son) into a title, still within his sense.",
+ "better": ""
+}

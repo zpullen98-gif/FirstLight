@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d068-p",
+ "d": 68,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "This book of the law shall not depart out of thy mouth, but thou shalt meditate therein day and night, that thou mayest observe to do according to all that is written therein; for then thou shalt make thy ways prosperous, and then thou shalt have good success.",
+ "ref": "Joshua 1:8",
+ "at": [
+  187,
+  8
+ ],
+ "s": "Taking command after the death of Moses, Joshua is charged by the LORD to be strong and keep all the law; Radak, on 1:8, reads it as binding him and every man until he knows the Torah, after which he may study the sciences.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on Joshua, on Joshua 1:8, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua 1:8, on לא ימוש",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew and English (Metsudah Publications, 1997), Sefaria export 3f10136",
+    "locator": "Joshua 1:8",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua 1:8",
+    "via": "packet"
+   }
+  ],
+  "words": "נחלקו רבותינו ז\"ל בזה הפסוק י\"א שהוא מצוה לכל ימי האדם ואפילו ידע כל התורה כלה ויש אומרים שהוא ברכה והנראה כי היתה מצוה ליהושע וכן לכל אדם עד שידע התורה ואחר כך ילמוד החכמות",
+  "lang": "Hebrew",
+  "gloss": "Our rabbis of blessed memory differed over this verse: some say it is a commandment for all a man’s days, even if he knows the whole Torah, and some say it is a blessing; and it appears that it was a commandment to Joshua, and likewise to every man, until he knows the Torah, and afterwards he shall study the sciences (literally ‘the wisdoms’).",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (exact), ref Joshua 1:8 and at [187,8] match. Plain sense faithful: after Moses’ death (1:1 to 2) the LORD charges Joshua to be strong and do according to all the law (1:6 to 7, 1:9); no four-word run from the key. Opened every packet source on 1:8 (Rashi, Radak, Metzudat David; no Midrash Rabbah on Joshua). Radak on ‘לא ימוש’ reports that the rabbis differed (a lifelong commandment, or a blessing) and gives his own view with ‘והנראה’: a commandment to Joshua and to every man until he knows the Torah, and afterwards he shall study the wisdoms. The sentence gives only his own view, attributed to him; ‘the sciences’ glosses החכמות. entry-check ok."
+}

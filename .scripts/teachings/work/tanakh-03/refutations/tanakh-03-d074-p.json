@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d074-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Radak on Joshua 20:6 via packet.js --verse 20.6: the evidence words stand verbatim in his comment on the lemma עד עמדו לפני העדה למשפט עד מות הכהן הגדול. Attribution: Radak cites the reason from the sages (פירשוהו רז\"ל, Rabbi Meir), and the sentence says so ('explains with the sages'), so no borrowed reading is passed off as his own. Drift: he also gives Rebbi's second reason (the slayer defiles the land and drives off the Shekhinah, the high priest purifies); the sentence gives only Rabbi Meir's and does not call it the only one, so it compresses without misstating. Plain sense: 20:1 to 3 have the LORD tell Joshua to have Israel assign cities of refuge for one who kills through error, away from the avenger; 'bids Joshua set apart' is loose (the command is relayed to Israel, and in 20:7 'they' set them apart) but not false. verse.js ok (Joshua 20:6, at [206,6], 51 words); entry-check.js ok, 45 words, one semicolon, verb 'explains', src 98 characters. No comparison, no dash, no softening of the law.",
+ "better": ""
+}

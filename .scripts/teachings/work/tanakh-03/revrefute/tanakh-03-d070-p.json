@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d070-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 70 --verse 7.19: Radak on בני שים נא כבוד לה' asks confession for two ends, his death his atonement through confessing (שתהא מיתתו כפרתו בהודאת עונו) and Israel acknowledging the lot and saying it is true (שיודו בני ישראל בגורל ... ויאמרו כי אמת הוא); evidence words verbatim in the packet. The paraphrase carries both and claims nothing beyond; it drops only Radak's alternative, the ark's catching him, a narrowing not an addition. Plain sense against day.js: taken (7:16 to 18), stolen of the devoted thing (7:1, 7:11, 7:21), stoned and burned with all he had (7:15, 7:24 to 25): stated plainly, no softening, no detail. Rashi on the verse reads differently (Achan defaming the lot), but naming Radak alone is sound since his comment is fuller and the sentence attributes only his. verse.js ok (Joshua 7:19, [193,19]); entry-check ok, no errors or warnings. No school, comparison or evaluative verb.",
+ "better": ""
+}

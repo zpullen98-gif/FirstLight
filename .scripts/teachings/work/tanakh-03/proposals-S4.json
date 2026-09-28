@@ -1,0 +1,77 @@
+{
+ "lane": "S4",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 84,
+   "primary": {
+    "id": "tanakh-03-d084-p",
+    "key": "And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites on that day twenty and two thousand men.",
+    "ref": "Judges 20:21",
+    "at": [230, 21],
+    "s": "Warring on Benjamin over the rape and death of a concubine at Gibeah, the tribes lose the first battle; Radak, on Judges 20:21, reads the defeat as punishment for leaving Micah’s idol unchallenged while rising against this outrage, zealous for human honour but not God’s.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Judges, on Judges 20:21, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "אמרו כי העונש הזה היה לישראל בעון פסל מיכה שהיה בימים ההם כמו שפירשתי והנה קנאו לדבר פלגש בגבעה ולא קנאו לפסל מיכה והיה להם לקנא ולעלות עליו למלחמה ולבער הפסל מישראל כמו שבערו זאת הרעה ולפיכך נענשו במלחמה הזאת אמר להם הקב\"ה בכבודי לא מחיתם בכבוד בשר ודם מחיתם",
+     "gloss": "Radak on “and they destroyed in Israel” (Judges 20:21): It was said that this punishment came on Israel for the sin of Micah’s idol, which was in those days, as I explained; for they were zealous over the matter of the concubine in Gibeah and were not zealous over Micah’s idol, and they ought to have been zealous and gone up to war against it and purged the idol from Israel as they purged this evil; and therefore they were punished in this war. The Holy One, blessed be He, said to them: for My honour ye did not protest; for the honour of flesh and blood ye protested. (Hebrew, Radak on Nach, Sefaria export 3f10136: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json)"
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d084-s",
+    "key": "In those days there was no king in Israel; every man did that which was right in his own eyes.",
+    "ref": "Judges 21:25",
+    "at": [231, 25],
+    "s": "The book closes after a war that nearly destroys Benjamin, slaughter at Jabesh-gilead and the seizing of Shiloh’s daughters; Metzudat David, on 21:25, reads the line as saying that even so none took Benjamin’s land, left in pity to its few survivors, and Radak, on 21:25, as marking that no ruler yet turned them to good until Samuel.",
+    "by": "metzudat-david",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Metzudat David and Radak, on Judges 21:25, Hebrew in Sefaria’s export 3f10136 (2026): Metzudat David, On Your Way; Radak, Radak on Nach",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "רצה לומר עם כי לא היה בימים ההם מלך בישראל וכל אחד עשה הישר בעיניו, מכל מקום לא שלחו יד בנחלת בנימן, כי בעבור אשר נשארו מעט מהרבה מאוד חמלו עליהם והניחו להנשארים את כל הנחלה",
+     "gloss": "Metzudat David on “in those days there was no king” (Judges 21:25): That is to say, although in those days there was no king in Israel and each did what was right in his own eyes, nevertheless they did not lay a hand on the inheritance of Benjamin, for because few remained of very many they had pity on them and left the whole inheritance to those who remained. [The second half, Radak on the same verse, Radak on Nach, same export: הטעם להזכיר זה כי עדיין לא היה מלך בישראל ולא שופט ולא נוגש משיב אותם לטובה עד שבא שמואל הנביא = the reason for mentioning this: there was not yet a king in Israel, nor judge, nor officer turning them back to good, until Samuel the prophet came.] (Metzudat David: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json)"
+    }
+   }
+  },
+  {
+   "d": 90,
+   "primary": {
+    "id": "tanakh-03-d090-p",
+    "key": "For rebellion is as the sin of witchcraft, And stubbornness is as idolatry and teraphim.",
+    "ref": "1 Samuel 15:23",
+    "at": [246, 23],
+    "s": "Samuel rebukes Saul, sent to destroy Amalek to the last infant and beast, for sparing its king and best flocks; Radak, on 15:23, reads rebellion as like divination, each withdrawing trust from God, the rebel acting as if He could neither help nor harm.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 15:23, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כלומר כמו שחטא קסם הוא חטאה גדולה כי הוא מסיר בטחונו מהקב\"ה ונותן בטחונו בקסם כן הוא חטאת גדולה חטאת מרי והוא מי שמורה פי האל ואינו עושה מה שצוהו כי אחרי שעבר על מצותו הרי הוא כופר בו ומסיר בטחונו ממנו ואומר כי אין בידו להטיב ולהרע",
+     "gloss": "Radak on “for rebellion is as the sin of witchcraft” (1 Samuel 15:23): That is, as the sin of divination is a great sin, for the diviner removes his trust from the Holy One, blessed be He, and puts his trust in divination, so the sin of rebellion is a great sin: the rebel is one who defies the word of God and does not do what He commanded him, for once he has transgressed His command he denies Him and removes his trust from Him, and says that it is not in His power to do good or to do harm. (Hebrew, Radak on Nach, Sefaria export 3f10136: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json)"
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d090-s",
+    "key": "But the LORD said unto Samuel: ‘Look not on his countenance, or on the height of his stature; because I have rejected him; for it is not as man seeth: for man looketh on the outward appearance, but the LORD looketh on the heart.’",
+    "ref": "1 Samuel 16:7",
+    "at": [247, 7],
+    "s": "Sent to anoint Saul’s successor after Saul spared Amalek’s king when ordered to kill every man, woman, infant and beast, Samuel favours Jesse’s eldest; Rashi, on 16:7, reads the answer as telling Samuel, who called himself the seer, that here he does not see.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on 1 Samuel, on 1 Samuel 16:7, Hebrew (On Your Way), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "כי לא אשר יראה האדם. אף על פי שקראת לעצמך רואה, שאמרת לשאול (לעיל ט יט): אנכי הרואה, כאן אני מודיעך שאינך רואה",
+     "gloss": "Rashi on “for it is not as man seeth” (1 Samuel 16:7): Even though thou didst call thyself a seer, when thou saidst to Saul (above, 9:19) ‘I am the seer’, here I let thee know that thou dost not see. (Hebrew, On Your Way, Sefaria export 3f10136: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json)"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "id": "tanakh-03-d066-p",
+ "d": 66,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For this commandment which I command thee this day, it is not too hard for thee, neither is it far off.",
+ "ref": "Deuteronomy 30:11",
+ "at": [
+  182,
+  11
+ ],
+ "s": "Having foretold exile and return, Moses speaks of the commandment; Ramban, on 30:11, reads it not as the whole Torah but as the commandment of repentance, within reach even among the nations, at any time and place, by confession and a returning heart.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Deuteronomy 30:11, Hebrew (On Your Way new), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew with the English of Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 30:11, on לא נפלאת הוא ממך (not concealed)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Deuteronomy 30:11, on נפלאת (concealed, or wearying)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new) with Chavel's English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 30:11, on the verse (כי המצוה הזאת)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Deuteronomy/Hebrew/Rashbam%20on%20Deuteronomy%20--%20Daat.json",
+    "edition": "Rashbam on Deuteronomy, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Deuteronomy 30:11 (nothing on the verse)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Deuteronomy, Hebrew (On Your Way) with Munk's English, Sefaria export 3f10136",
+    "locator": "Deuteronomy 30:11, on כי המצוה הזאת, לא נפלאת היא ממך, לא רחוקה היא (repentance in exile, agreeing with Ramban)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Devarim%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Devarim Rabbah, Hebrew (Torat Emet), Sefaria export 3f10136",
+    "locator": "Deuteronomy 30:11, Deuteronomy Rabbah 8:1 to 8:7 (homilies on prayer and Torah; not used)",
+    "via": "packet"
+   }
+  ],
+  "words": "והנכון כי על כל התורה יאמר (דברים ח׳:א׳) \"כל המצוה אשר אנכי מצוך היום\" אבל המצוה הזאת על התשובה הנזכרת כי והשבות אל לבבך (דברים ל׳:א׳) ושבת עד ה' אלהיך (דברים ל׳:ב׳) מצוה שיצוה אותנו לעשות כן ונאמרה בלשון הבינוני לרמוז בהבטחה כי עתיד הדבר להיות כן והטעם לאמר כי אם יהיה נדחך בקצה השמים ואתה ביד העמים תוכל לשוב אל ה' ולעשות ככל אשר אנכי מצוך היום כי אין הדבר נפלא ורחוק ממך אבל קרוב אליך מאד לעשותו בכל עת ובכל מקום וזה טעם בפיך ובלבבך לעשותו שיתודו את עונם ואת עון אבותם בפיהם וישובו בלבם אל ה'",
+  "lang": "Hebrew",
+  "gloss": "But the correct view is that of the whole Torah he says ‘all the commandment which I command thee this day’, whereas ‘this commandment’ refers to the repentance mentioned, ‘and thou shalt bethink thyself’ and ‘return unto the LORD thy God’, a command to do so, phrased as a promise that it will come to pass; the sense is that if your outcasts are at the ends of heaven and you are in the hands of the nations, you can return to God and do all I command you this day, for the thing is not wondrous or far from you but very near, to do at any time and in any place; and this is ‘in thy mouth, and in thy heart’: that they confess their iniquity and their fathers’ with their mouths and return in their hearts to God.",
+  "licence": "Hebrew: public domain; English (Chavel): CC-BY",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (exact), ref Deuteronomy 30:11 and at [182,11] match. Plain sense faithful: 29:21 to 27 foretells the land’s ruin and Israel cast into another land, 30:1 to 10 the return and ingathering, and 30:11 then turns to ‘this commandment’; no four-word run from the key. Opened every packet source on 30:11: Ramban first records the view that ‘this commandment’ is the whole Torah, then calls correct (והנכון) the reading that it is the repentance of 30:1 to 2, which a Jew can do even at the ends of heaven and in the hands of the nations, at any time and place, by confessing with the mouth and returning in the heart. The sentence gives his preferred reading and its terms without drift (‘among the nations’ stands for ביד העמים). Sforno agrees that it is the commandment of repentance in exile; Rashi and Ibn Ezra gloss נפלאת only; Rashbam has no comment on the chapter; Deuteronomy Rabbah 8 is homiletic and not used. entry-check ok."
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d088-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 88 --verse 12.11: Rashi on 1 Samuel 12:11, lemma ואת יפתח, reads verbatim 'הרי שלשה קלי עולם, עם שלשה חמורי עולם, משה ואהרן ושמואל, לומר לך, הקל בדורו, כחמור בדורו', which carries the whole paraphrase (three lesser judges, Jerubbaal, Bedan, Jephthah, set beside Moses, Aaron and Samuel; the lesser in his generation as the great in his). Locator right (comment is on 12:11 itself). Plain sense checked against day.js: Samuel rebukes the people for asking a king (12:12, 12:17, 12:19) and recounts deliverances (12:6 to 11); no four-word run from the key. verse.js ok (ref 1 Samuel 12:11, at [243,11]); entry-check.js ok on scratch/R-d088-p.json. No comparison, no school needed, tone neutral. Omitting Rashi's court-following clause narrows, it does not overclaim.",
+ "better": ""
+}

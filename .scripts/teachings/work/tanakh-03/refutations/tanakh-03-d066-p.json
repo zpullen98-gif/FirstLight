@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d066-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 66 --verse 30:11. Ramban opens with the view that ‘this commandment’ is the whole Torah (וטעם כי המצוה הזאת על כל התורה כולה), then says the correct view (והנכון) is that the whole Torah is ‘all the commandment’ (8:1) while ‘this commandment’ is the repentance of 30:1 to 2, possible even at the ends of heaven and in the hands of the nations, at any time and in any place, by confessing with the mouth and returning in the heart. The evidence words are verbatim in the packet, and each clause of the paraphrase (not the whole Torah, repentance, among the nations, any time and place, confession and a returning heart) is carried by them. Sforno agrees, so no disagreement needs naming. Plain sense checked against day.js: 29:21 to 27 exile, 30:1 to 10 return, then 30:11; faithful. verse.js ok (Deuteronomy 30:11, at [182,11] matches); entry-check ok on scratch/R-d066-p.json. No school, comparison or tone issue.",
+ "better": ""
+}

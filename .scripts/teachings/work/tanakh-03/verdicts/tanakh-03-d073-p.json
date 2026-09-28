@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d073-p",
+ "d": 73,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Forty years old was I when Moses the servant of the LORD sent me from Kadesh-barnea to spy out the land; and I brought him back word as it was in my heart.",
+ "ref": "Joshua 14:7",
+ "at": [
+  200,
+  7
+ ],
+ "s": "Asking Joshua for the inheritance Moses swore to him, Caleb recalls his mission as a spy forty-five years before; Radak, on 14:7, reads him as agreeing in words with the other spies so that they would not kill him, then giving Moses a true report.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on Joshua, on Joshua 14:7, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua 14:7, on כאשר עם לבבי",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew and English (Metsudah Publications, 1997), Sefaria export 3f10136",
+    "locator": "Joshua 14:7",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua 14:7",
+    "via": "packet"
+   }
+  ],
+  "words": "נראה כי כאשר היה עמהם עד שבאו אל המחנה היה מסכים עמהם בדברים כדי שלא יהרגוהו וכאשר בא אל המחנה השיב דבר אמת כאשר עם לבבו וזהו שאמר כאשר עם לבבי ולא כאשר עם פי",
+  "lang": "Hebrew",
+  "gloss": "It appears that while he was with them, until they came to the camp, he agreed with them in words so that they would not kill him; and when he came to the camp he brought back a true word, as it was with his heart; that is why he said ‘as it was with my heart’ and not as it was with my mouth.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (exact), ref Joshua 14:7 and at [200,7] match. Plain sense faithful: Caleb, with the children of Judah at Gilgal, asks Joshua for the land Moses swore to him (14:6, 14:9, 14:12) and counts forty-five years since that word (14:10); no four-word run from the key. Opened every packet source on 14:6 to 14:10 (Rashi, Radak, Metzudat David; no Midrash Rabbah on Joshua). Radak on ‘כאשר עם לבבי’ says Caleb agreed with the spies in words so they would not kill him and, on reaching the camp, brought back a true word; ‘to Moses’ is the verse’s own ‘brought him back word’. Rashi and Metzudat David give the same outline with fear as the motive; the specific motive, fear of being killed, is Radak’s. entry-check ok."
+}

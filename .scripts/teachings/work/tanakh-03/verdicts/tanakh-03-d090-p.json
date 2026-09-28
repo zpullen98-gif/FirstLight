@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d090-p",
+ "d": 90,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For rebellion is as the sin of witchcraft, And stubbornness is as idolatry and teraphim.",
+ "ref": "1 Samuel 15:23",
+ "at": [
+  246,
+  23
+ ],
+ "s": "Samuel rebukes Saul, sent to destroy Amalek to the last infant and beast, for sparing its king and best flocks; Radak, on 15:23, reads rebellion as like divination, each withdrawing trust from God, the rebel acting as if He could neither help nor harm.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Samuel, on 1 Samuel 15:23, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Samuel 15:23, on כי חטאת קסם מרי",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 15:23",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 15:23",
+    "via": "packet"
+   }
+  ],
+  "words": "כלומר כמו שחטא קסם הוא חטאה גדולה כי הוא מסיר בטחונו מהקב\"ה ונותן בטחונו בקסם כן הוא חטאת גדולה חטאת מרי והוא מי שמורה פי האל ואינו עושה מה שצוהו כי אחרי שעבר על מצותו הרי הוא כופר בו ומסיר בטחונו ממנו ואומר כי אין בידו להטיב ולהרע",
+  "lang": "Hebrew",
+  "gloss": "That is, as the sin of divination is a great sin, for the diviner removes his trust from the Holy One and puts it in divination, so rebellion is a great sin: the rebel defies God’s word and does not do what He commanded, and having transgressed His command he denies Him, removes his trust from Him, and says it is not in His power to do good or harm.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok; ref 1 Samuel 15:23 and at [246,23] match; the key is the verse’s first two lines, ending at a full stop before the second sentence. Plain sense faithful to day.js: Saul was sent to destroy Amalek, man, woman, infant and beast (15:3, 15:18), spared Agag and the best of the flocks (15:9), and Samuel rebukes him (15:19 to 23); hard passage stated plainly; no four-word run from the verse. Opened the 15:23 packet (Rashi, Radak, Metzudat David; the Midrash Rabbah has no volume on 1 Samuel) and checked Radak’s adjacent verses. Radak’s own words carry each clause: rebellion likened to divination (קסם), both removing trust from God, the rebel saying it is not in His power to do good or harm; “acting as if” is a fair rendering of “says”, with “therefore he does not fear to transgress” following. Metzudat David gives the same trust reading more briefly, so Radak is the fuller choice. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d078-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi on Judges 6:14 and 6:13 via packet.js --verse. On בכחך זה: בכח הזכות הזה שלמדת סניגוריא על בני, כך דרש רבי תנחומא: exactly the merit of pleading in defence of His children, with Rashi naming Tanchuma as the source, so ‘with Rabbi Tanchuma’ is his own attribution. The 6:13 comment (Passover, the Hallel, where are His wonders) is the defence meant and matches the context clause. Metzudat David says the same, so no difference to name. Plain sense checked: 6:11 wheat beaten in the winepress to hide it from Midian, 6:13 Gideon asks where the wondrous works of the Egypt deliverance are, 6:14 the charge; ‘threshing in hiding’ is fair to the winepress. No key words repeated. verse.js ok (Judges 6:14, at [216,14]); entry-check.js ok, 39 words, one semicolon, verb ‘reads’, British ‘defence’.",
+ "better": ""
+}

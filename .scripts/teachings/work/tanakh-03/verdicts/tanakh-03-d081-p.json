@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d081-p",
+ "d": 81,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And it came to pass at the end of two months, that she returned unto her father, who did with her according to his vow which he had vowed; and she had not known man.",
+ "ref": "Judges 11:39",
+ "at": [
+  221,
+  39
+ ],
+ "s": "Jephthah’s only daughter, first out to meet him after his vow of a burnt-offering, comes home from the mountains; Rashi, on 11:39, takes her as lost because neither Jephthah nor Phinehas, who could release the vow, would stoop to go to the other, and Radak, on 11:39, as set apart in a house, away from people.",
+ "by": "rashi",
+ "by2": "radak",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on Judges 11:39, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Judges 11:39, on ותהי חק",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Judges 11:39, on ויעש לה את נדרו אשר נדר (also read 11:31 and 11:40)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Judges 11:39",
+    "via": "packet"
+   }
+  ],
+  "words": "ותהי חק. גזרו שלא יעשה אדם עוד כן, שאלו הלך אצל פנחס, או הוא בא אצלו, היה מתיר לו נדרו, עמדו בגדולתן, ומבין שניהם אבדה … ויעש לה את נדרו אשר נדר. שעשה לה בית והכניסה שם והיתה שם פרושה מבני אדם ומדרכי העולם",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 11:39, ‘and it was a custom’:] They decreed that no one should do so again, for had he gone to Phinehas, or had Phinehas come to him, he would have released his vow; they stood on their greatness, and between the two of them she was lost … [Radak on 11:39, ‘and he did with her his vow which he had vowed’:] that he made her a house and brought her into it, and there she was set apart from people and from the ways of the world.",
+  "licence": "Hebrew: public domain (Rashi); Radak: no licence stated by Sefaria, the text centuries old",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Judges 11:39 and at [221,39] match. Plain sense faithful: the daughter is his only child who meets him (11:34) after his vow to offer a burnt-offering (11:31) and returns after two months on the mountains (11:37 to 38); no four-word run from the key verse. Read the chapter 11 packet (Rashi, Radak, Metzudat David; no Midrash Rabbah on Judges). Rashi on ותהי חק (within 11:39 in JPS) says Phinehas could have released the vow had either gone to the other, but they stood on their greatness and between them she was lost: the sentence stays within it. Radak on ויעש לה את נדרו at 11:39 says he made her a house where she was set apart from people and the ways of the world (he gives the same view at 11:31 in his father’s name and reports the rabbinic Phinehas story at 11:40 as a mistaken vow); the sentence names the two readings without resolving them. Both evidence pieces machine-found in the packet. entry-check ok. Sensitivity flagged as violence (a vow of a burnt-offering fulfilled on a daughter), though the lane is non-sensitive; the plain clause states the vow plainly."
+}

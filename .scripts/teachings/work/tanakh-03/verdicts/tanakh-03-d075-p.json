@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d075-p",
+ "d": 75,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘This day we know that the LORD is in the midst of us, because ye have not committed this treachery against the LORD; now have ye delivered the children of Israel out of the hand of the LORD.’",
+ "ref": "Joshua 22:31",
+ "at": [
+  208,
+  31
+ ],
+ "s": "Hearing that the altar by the Jordan is a witness, not for sacrifice, Phinehas answers its builders; Metzudat David, on 22:31, reads the LORD’s presence in His moving Israel to speak face to face before any bloodshed, and the altar as saving Israel from punishment.",
+ "by": "metzudat-david",
+ "by2": "",
+ "hedge": "",
+ "src": "Metzudat David, commentary on Joshua, on Joshua 22:31, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua 22:31, on היום ידענו וכו׳",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew with the Metsudah English (1997), Sefaria export 3f10136",
+    "locator": "Joshua chapter 22",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua chapter 22",
+    "via": "packet"
+   }
+  ],
+  "words": "בתת בלבבנו להזהר מבוא בדמים ולדבר תחלה פנים אל פנים, כי רואים אנו אשר לא מעלתם המעל הזה אשר חשבנו, ואדרבה אז בבנין המזבח הצלתם את בני ישראל מיד מכת ה׳",
+  "lang": "Hebrew",
+  "gloss": "[This day we know that the LORD is among us] in His putting it in our hearts to beware of coming to bloodshed and to speak first face to face, for we see that you did not commit this trespass that we thought; on the contrary, by building the altar you saved the children of Israel from the LORD’s stroke.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Joshua 22:31 and at [208,31] match; the key begins at Phinehas’s quoted words, a sentence start. Plain sense faithful: the eastern tribes explain the altar as a witness, not for burnt-offering or sacrifice (22:26 to 29), and Phinehas answers them (22:30 to 31); no four-word run from the key verse. Read the whole chapter 22 packet: Rashi and Radak have nothing on 22:31; Metzudat David on 22:31 finds the LORD’s presence in His putting it in their hearts to guard against bloodshed and speak face to face first, and says the altar saved Israel from the LORD’s stroke, since Israel will not now sin by making the eastern tribes’ children cease from fearing the LORD and be punished. His note on 22:33 (God put it in their hearts to send before fighting) agrees. The paraphrase stays within those words. Evidence copied verbatim from packet output. entry-check ok."
+}

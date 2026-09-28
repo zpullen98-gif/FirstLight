@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d072-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 72 --verse 11.18: Rashi on Joshua 11:18, lemma ימים רבים עשה יהושע, reads verbatim that Scripture tells it to his discredit (בגנותו ספר הכתוב), that he meant to delay the conquest to lengthen his days, because it was said he would apportion the land to them (Tanchuma named as his source). That carries the whole paraphrase; the causal clause 'since he was to apportion the land' is Rashi's own ground (לפי שנאמר ... תנחילנה אותם), not an addition. Locator right. Radak on 11:18 gives a plain reading first and brings the same derash as derash; no conflict that must be named. Plain sense checked against day.js: 11:1 to 5 northern coalition, 11:8 rout, 11:11, 11:12, 11:14 all in the cities smitten, 11:16 to 23 summary; stated in one plain clause, no four-word run from the key. verse.js ok (Joshua 11:18, at [197,18]); entry-check.js ok on scratch/refute-tanakh-03-d072-p.json (44 words). No comparison, no school needed, tone plain.",
+ "better": ""
+}

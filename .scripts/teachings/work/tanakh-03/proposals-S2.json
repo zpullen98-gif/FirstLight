@@ -1,0 +1,89 @@
+{
+ "lane": "S2",
+ "plan": "tanakh",
+ "batch": "tanakh-03",
+ "days": [
+  {
+   "d": 70,
+   "primary": {
+    "id": "tanakh-03-d070-p",
+    "key": "And Joshua said unto Achan: ‘My son, give, I pray thee, glory to the LORD, the God of Israel, and make confession unto Him; and tell me now what thou hast done; hide nothing from me.’",
+    "ref": "Joshua 7:19",
+    "at": [
+     193,
+     19
+    ],
+    "s": "Joshua addresses Achan, singled out as the thief of the devoted thing, before he and all he has are stoned and burned; Radak, on Joshua 7:19, reads the plea as asking confession so that his death atone for his sin and Israel acknowledge the lot.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Joshua, on Joshua 7:19, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "בקש ממנו שיתודה על עונו לשני דברים האחד לכפרת עונו שתהא מיתתו כפרתו בהודאת עונו ומכאן למדנו שכל המומתין מתודין … והשני כדי שיודו בני ישראל בגורל או בקליטת הארון ויאמרו כי אמת הוא",
+     "gloss": "Radak on “My son, give, I pray thee, glory to the LORD”: he asked him to confess his sin for two things: the first, for the atonement of his sin, that his death be his atonement through the confession of his sin, and from here we learn that all who are put to death confess … and the second, so that the children of Israel would acknowledge the lot, or the ark’s holding him fast, and say that it is true."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d070-s",
+    "key": "And Achan answered Joshua, and said: ‘Of a truth I have sinned against the LORD, the God of Israel, and thus and thus have I done.",
+    "ref": "Joshua 7:20",
+    "at": [
+     193,
+     20
+    ],
+    "s": "Singled out after Israel’s rout at Ai, Achan speaks before he and all he has are stoned and burned; Rashi, on Joshua 7:20, reads the confession as made on seeing Judah gather for war, choosing to die alone rather than see thousands of Israel killed.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on Joshua, on Joshua 7:20, Hebrew (Metsudah Publications, 1997), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וַיַּעַן עָכָן רָאָה בְּנֵי יְהוּדָה נֶאֱסָפִים לְמִלְחָמָה, אָמַר: מוּטָב שֶׁאָמוּת אֲנִי לְבַדִּי וְאַל יֵהָרְגוּ כַּמָּה אֲלָפִים מִיִּשְׂרָאֵל.",
+     "gloss": "Rashi on “And Achan answered”: he saw the men of Judah gathering for war, and said: better that I alone should die, and let not several thousands of Israel be killed."
+    }
+   }
+  },
+  {
+   "d": 71,
+   "primary": {
+    "id": "tanakh-03-d071-p",
+    "key": "Then spoke Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel; and he said in the sight of Israel: ‘Sun, stand thou still upon Gibeon; And thou, Moon, in the valley of Aijalon.’",
+    "ref": "Joshua 10:12",
+    "at": [
+     196,
+     12
+    ],
+    "s": "Joshua speaks as Israel routs five kings, later killed, as are all souls in the cities taken; Rashi, on Joshua 10:12, reads it as silencing the sun’s song, and so its motion, Joshua singing instead, and by the plain sense as bidding it wait.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on Joshua, on Joshua 10:12, Hebrew (Metsudah Publications, 1997), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "אָז יְדַבֵּר אָמַר שִׁירָה תַּחַת הַשֶּׁמֶשׁ, לְפִי שֶׁאָמַר לַשֶּׁמֶשׁ דּוֹם, דּוֹם מִלּוֹמַר שִׁירָה, וְכָל זְמַן שֶׁהוּא דּוֹמֵם, עוֹמֵד וְאֵינוֹ מְהַלֵּךְ, שֶׁבְּכָל עֵת הִילּוּכוֹ הוּא אוֹמֵר שִׁירָה. וּפְשׁוּטוֹ שֶׁל מִקְרָא: דּוֹם לְשׁוֹן הַמְתָּנָה",
+     "gloss": "Rashi on “Then spoke”: he said a song in place of the sun, since he had said to the sun dom, be silent from saying song; and all the while it is silent it stands and does not go on, for at every moment of its going it says song. And the plain sense of the verse: dom is a word for waiting."
+    }
+   },
+   "standby": {
+    "id": "tanakh-03-d071-s",
+    "key": "And there was no day like that before it or after it, that the LORD hearkened unto the voice of a man; for the LORD fought for Israel.",
+    "ref": "Joshua 10:14",
+    "at": [
+     196,
+     14
+    ],
+    "s": "Between the sun standing still and the killing of five kings and whole cities, the text comments; Radak, on Joshua 10:14, reads it as the only time nature changed at a man’s prayer other than as a sign, such as the sun’s return for Hezekiah.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on Joshua, on Joshua 10:14, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ואף על פי שהיה שוב השמש אחורנית לחזקיהו האות ההוא היה לאות ולמופת ונתנו השם בעבור שיאמין חזקיהו שיחיה מחליו והוא כאחד מן המופתים שנעשו על ידי משה אבל דרך תפלה שיתפלל אדם על שנוי הטבע ונעתר הבורא לאותה תפלה אם לא יהיה לתת בו אות ומופת לא היה ולא יהיה",
+     "gloss": "Radak on “And there was no day like that”: and although the sun turned backward for Hezekiah, that sign was for a sign and a wonder, and God gave it so that Hezekiah would believe he would live through his illness, and it is like one of the wonders done by Moses; but by way of prayer, that a man should pray for a change of nature and the Creator grant that prayer, where it is not to give a sign and wonder by it, there has not been and will not be."
+    }
+   }
+  }
+ ]
+}

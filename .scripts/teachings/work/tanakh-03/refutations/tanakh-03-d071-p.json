@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d071-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 71 --verse 10.12: Rashi on אז ידבר says Joshua said a song in place of the sun (אמר שירה תחת השמש), having told it dom, be silent from song, and while silent it stands and does not move since it sings at every moment of its going; then the plain sense, dom as waiting (ופשוטו של מקרא: דום לשון המתנה). Evidence words verbatim in the packet. The sentence's three parts (song silenced so motion stops, Joshua singing instead, plain sense as wait) are each in his words, no drift. Plain sense checked against day.js: the five Amorite kings routed at Gibeon (10:5 to 11), killed and hanged (10:26), every city taken with all its souls (10:28 to 39); stated plainly, not softened or dwelt on. 'Israel routs' is fair given 10:10 and 10:19 to 20 (Israel chases and smites) though the text also credits the LORD. verse.js ok (Joshua 10:12, at [196,12]); entry-check ok, 44 words, no errors or warnings.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d067-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 67 --verse 32:47: Rashi on Deuteronomy 32:47, lemma כי לא דבר רק הוא מכם, reads verbatim לא לחנם אתם יגעים בה, כי הרבה שכר תלוי בה, כי הוא חייכם (not for nothing do you toil in it, for much reward hangs on it); that carries the paraphrase, the only stretch being 'never' for Rashi's 'not', which generalises his second person but claims nothing he does not say. His second explanation (no empty word in the Torah) is a davar acher and not needed. Ibn Ezra's comment (length of days, the land not exile) does not contradict Rashi, so no second name is owed; Ramban, Rashbam, Sforno and Devarim Rabbah have nothing on the verse. Plain sense checked against day.js 32:44 to 46: Moses ends the song and says set your heart on all the words and charge your children to observe all the words of this law; 'teach it to their children' is a light paraphrase of 'charge your children therewith', not a distortion. verse.js ok (Deuteronomy 32:47, at [184,47]); entry-check.js ok on scratch/refute-tanakh-03-d067-p.json. No school needed, no comparison, tone plain.",
+ "better": ""
+}

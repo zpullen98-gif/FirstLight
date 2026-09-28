@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d084-p",
+ "d": 84,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And the children of Benjamin came forth out of Gibeah, and destroyed down to the ground of the Israelites on that day twenty and two thousand men.",
+ "ref": "Judges 20:21",
+ "at": [
+  230,
+  21
+ ],
+ "s": "Warring on Benjamin over the concubine raped and murdered at Gibeah, Israel loses the first battle; Radak, on Judges 20:21, reads the defeat, after the sages, as punishment for leaving Micah’s idol unchallenged while rising against this outrage, zealous for human honour but not God’s.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on Judges, on Judges 20:21, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Judges 20:21, on וישחיתו בישראל (whole of chapter 20 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Judges 20:21, on וישחיתו",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Judges 20:21, on ארצה",
+    "via": "packet"
+   }
+  ],
+  "words": "אמרו כי העונש הזה היה לישראל בעון פסל מיכה שהיה בימים ההם כמו שפירשתי והנה קנאו לדבר פלגש בגבעה ולא קנאו לפסל מיכה והיה להם לקנא ולעלות עליו למלחמה ולבער הפסל מישראל כמו שבערו זאת הרעה ולפיכך נענשו במלחמה הזאת אמר להם הקב\"ה בכבודי לא מחיתם בכבוד בשר ודם מחיתם",
+  "lang": "Hebrew",
+  "gloss": "They said that this punishment came on Israel for the sin of Micah’s idol, which was in those days, as I explained; for they were zealous over the concubine at Gibeah and not over Micah’s idol, though they should have gone to war against it and purged it from Israel as they purged this evil; therefore they were punished in this war. The Holy One said to them: for My honour ye did not protest, for the honour of flesh and blood ye protested.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok; ref Judges 20:21 and at [230,21] match. Plain sense faithful to day.js: in chapter 20 the tribes go to war on Benjamin over the Levite’s concubine, forced and dead at Gibeah (20:4 to 5, murdered in 20:4), and lose the first day’s battle (20:21); hard passage stated in one plain clause; no four-word run from the verse. Read the whole chapter 20 Radak in the packet, and Rashi, Metzudat David and the Midrash note on 20:21. Radak on 20:21 carries the reading, but he opens it with אמרו (they said), reporting the sages’ reading and endorsing it (כמו שפירשתי), and the closing line on God’s honour and human honour is the sages’ saying; Rashi and Metzudat David (citing Sanhedrin 101b) give the same cause, so the attribution needed marking. CHANGED: added “after the sages” to the reading; to stay at 45 words the plain sense now reads “over the concubine raped and murdered at Gibeah, Israel loses the first battle” (was “over the rape and death of a concubine at Gibeah, the tribes lose the first battle”). Key, ref, at, by and src unchanged. Radak also offers at 20:28 a second, procedural cause (the first inquiries were unclear); not in the sentence and not in conflict. entry-check ok on the corrected entry."
+}

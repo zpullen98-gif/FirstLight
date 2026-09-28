@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d084-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 84 --verse 20.21: Radak on Judges 20:21, lemma וישחיתו בישראל, prints the evidence verbatim, opening אמרו (they said), so “after the sages” is right and needed; his words carry every clause: punishment for Micah’s idol (בעון פסל מיכה), zeal over Gibeah but not over the idol (קנאו לדבר פלגש בגבעה ולא קנאו לפסל מיכה), purging this evil (כמו שבערו זאת הרעה), and God’s honour against flesh and blood (בכבודי לא מחיתם בכבוד בשר ודם מחיתם). Rashi and Metzudat David (Sanhedrin 101b) give the same cause, so no disagreement to name. Plain sense checked against day.js: 20:4 “the woman that was murdered”, 20:5 “my concubine they forced, and she is dead”, 20:21 the first defeat; one plain clause, not graphic, not softened; no four-word run from the key. verse.js ok (Judges 20:21, at [230,21]); entry-check.js ok on scratch/R-d084-p.json (45 words, at the cap). No comparison, no school needed, no forbidden term.",
+ "better": ""
+}

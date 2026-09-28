@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d064-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 64 --verse 26:5. Rashi on ארמי אבד אבי: לבן בקש לעקר את הכל כשרדף אחר יעקב, ובשביל שחשב לעשות חשב לו המקום כאלו עשה, verbatim (his further limit, that intent counts as deed for the nations, is omitted, not contradicted). Ibn Ezra on אובד אבי (On Your Way url): והקרוב שארמי הוא יעקב ... כאשר היה אבי בארם היה אובד והטעם עני בלא ממון, verbatim, carrying Jacob poor and without means in Aram. The two genuinely differ (Ibn Ezra argues explicitly against the Laban reading); the sentence names both without resolving. Plain sense checked with day.js: 26:1 to 4 the first fruits in a basket brought to the priest, 26:5 to 10 the recital. verse.js ok (Deuteronomy 26:5, at [178,5]; the unclosed opening quote is the translation’s own, the recital running to 26:10); entry-check ok on scratch/R-d064-p.json.",
+ "better": ""
+}

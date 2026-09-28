@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d083-p",
+ "d": 83,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And it came to pass in those days, when there was no king in Israel, that there was a certain Levite sojourning on the farther side of the hill-country of Ephraim, who took to him a concubine out of Beth-lehem in Judah.",
+ "ref": "Judges 19:1",
+ "at": [
+  229,
+  1
+ ],
+ "s": "The chapter in which the Levite gives his concubine up to the men of Gibeah, who abuse her all night, opens here; Metzudat David, on 19:1, reads ‘no king’ as explaining what follows: a king would have punished the sinners, sparing Israel civil war.",
+ "by": "metzudat-david",
+ "by2": "",
+ "hedge": "",
+ "src": "Metzudat David, on Judges 19:1, Hebrew (Sefaria’s On Your Way text), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "overreach",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Judges 19:1, on ומלך אין בישראל",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Judges 19 (nothing on 19:1; 19:28 כי מתה)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Judges 19 (nothing on 19:1; 19:25 on the man seizing his concubine)",
+    "via": "packet"
+   }
+  ],
+  "words": "ומלך אין בישראל. כי אם היה מלך לא היה מה שהיה, כי המלך היה מעניש את החוטאים, ולא היו, אם כן, ישראל נלחמים זה בזה כאשר יסופר",
+  "lang": "Hebrew",
+  "gloss": "And there was no king in Israel: for had there been a king, what happened would not have happened, for the king would have punished the sinners, and so Israel would not have fought one another, as will be told.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "sexual",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Judges 19:1 and at [229,1] match; 42 words, one verse, no dash. Read the whole chapter 19 packet and 17:6 and 18:1 (Rashi, Radak, Metzudat David; no Midrash Rabbah on Judges). Metzudat David on 19:1 says in his own words that had there been a king this would not have happened, since the king would punish the sinners and Israel would not have fought one another, as will be told: the reading is his, at this place, and the second half is kept unchanged. CORRECTED the plain sense only: the proposal said the story ‘ends with’ the concubine abused ‘to death’, but chapter 19 ends with 19:29 to 30 (the dividing of her body and the outcry), and the day’s text does not itself state her death (19:28 ‘none answered’; Rashi reads ‘for she was dead’, Metzudat David that he did not yet sense she had died; her death is stated only in 20:5, outside the day). New plain sense: ‘The chapter in which the Levite gives his concubine up to the men of Gibeah, who abuse her all night, opens here’, in the text’s own terms (19:25; Radak on 19:25 also takes the man as the Levite), one plain clause, no graphic detail, no four-word run from the verse. 43 words. Evidence copied verbatim from packet output. entry-check ok."
+}

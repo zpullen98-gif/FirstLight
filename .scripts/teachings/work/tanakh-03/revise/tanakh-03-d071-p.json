@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-03-d071-p",
+ "d": 71,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Then spoke Joshua to the LORD in the day when the LORD delivered up the Amorites before the children of Israel; and he said in the sight of Israel: ‘Sun, stand thou still upon Gibeon; And thou, Moon, in the valley of Aijalon.’",
+ "ref": "Joshua 10:12",
+ "at": [
+  196,
+  12
+ ],
+ "s": "Joshua speaks as Israel routs five kings, later killed with all in the cities taken; Rashi, on 10:12, hears ‘stand thou still’ as silence, the sun, singing as it moves, hushed and so halted while Joshua sang instead, and by the plain sense as waiting.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on Joshua, on Joshua 10:12, Hebrew (Metsudah Publications, 1997), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Joshua/Hebrew/The%20Book%20of%20Joshua%2C%20Metsudah%20Publications%2C%201997.json",
+    "edition": "Rashi on Joshua, Hebrew with the Metsudah English (1997), Sefaria export 3f10136",
+    "locator": "Joshua 10:12",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Joshua/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Joshua, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Joshua 10:12",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Joshua, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Joshua 10:12",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "the Midrash Rabbah (packet reports no volume on Joshua)",
+    "locator": "Joshua 10",
+    "via": "packet"
+   }
+  ],
+  "words": "אָז יְדַבֵּר אָמַר שִׁירָה תַּחַת הַשֶּׁמֶשׁ, לְפִי שֶׁאָמַר לַשֶּׁמֶשׁ דּוֹם, דּוֹם מִלּוֹמַר שִׁירָה, וְכָל זְמַן שֶׁהוּא דּוֹמֵם, עוֹמֵד וְאֵינוֹ מְהַלֵּךְ, שֶׁבְּכָל עֵת הִילּוּכוֹ הוּא אוֹמֵר שִׁירָה. וּפְשׁוּטוֹ שֶׁל מִקְרָא: דּוֹם לְשׁוֹן הַמְתָּנָה",
+  "lang": "Hebrew",
+  "gloss": "On “Then spoke”: he said a song in place of the sun, because he said to the sun “dom”: be silent from saying song; and all the while it is silent it stands and does not move, for at every moment of its going it says song. And the plain sense of the verse: “dom” is a word for waiting.",
+  "licence": "Hebrew: CC-BY (Metsudah Publications, 1997, via Sefaria)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Problem holds: Rashi’s reading turns on dom as silence from song (דום מלומר שירה), which the sentence never said, and the appositions were knotted; the context clause was awkward. Rewritten to give the hinge: he hears ‘stand thou still’ as silence, the sun singing at every moment of its going (שבכל עת הילוכו הוא אומר שירה) so that while hushed it stands and does not move (כל זמן שהוא דומם עומד ואינו מהלך), Joshua singing in its place (אמר שירה תחת השמש), and by the plain sense as waiting (ופשוטו של מקרא דום לשון המתנה). No commentator words quoted; only three words of the key verse quoted. Context kept plain on the killing (10:26, 10:28 to 39) without the awkward ‘as are’. Re-opened packet.js tanakh 71 --verse 10.12; evidence unchanged and verbatim. verse.js ok (Joshua 10:12, [196,12]); entry-check ok, 45 words, one semicolon. Commentator and reading kept."
+}

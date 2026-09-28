@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-03-d090-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened with packet.js tanakh 90 --verse 15.23: Radak on 1 Samuel 15:23, lemma כי חטאת קסם מרי, holds the evidence verbatim after his grammatical note (missing kaf of comparison) and his citation of Targum Yonatan; the trust reading follows כלומר and is his own elaboration, not the Targum’s: the diviner removes his trust from God (מסיר בטחונו מהקב\"ה), the rebel likewise (מסיר בטחונו ממנו) and says it is not in His power to do good or harm (אין בידו להטיב ולהרע), therefore does not fear to transgress, which carries “acting as if He could neither help nor harm” without drift. Metzudat David gives the same trust reading more briefly; Rashi takes the penalty line, no conflict to name. Plain sense checked against day.js: 15:3 man, woman, infant, suckling and beasts, 15:18 “until they be consumed”, 15:9 Agag and the best of the flocks spared, 15:19 to 23 Samuel’s rebuke; stated plainly, neither softened nor graphic; no four-word run from the key. verse.js ok (1 Samuel 15:23, at [246,23]; key ends at the full stop before the second sentence); entry-check.js ok on scratch/R-d090-p.json (44 words). No comparison, no school needed, no forbidden term.",
+ "better": ""
+}

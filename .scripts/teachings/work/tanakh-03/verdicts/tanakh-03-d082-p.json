@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d082-p",
+ "d": 82,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Samson called unto the LORD, and said: ‘O Lord GOD, remember me, I pray Thee, and strengthen me, I pray Thee, only this once, O God, that I may be this once avenged of the Philistines for my two eyes.’",
+ "ref": "Judges 16:28",
+ "at": [
+  226,
+  28
+ ],
+ "s": "Blind and brought out to make sport at Dagon’s feast, Samson stands between the pillars and prays; Rashi, on 16:28, hears ‘remember me’ as asking God to remember his twenty years judging Israel without once bidding any of them carry a staff for him.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on Judges, on Judges 16:28, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Judges 16:28, on זכרני נא",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Judges 16:28",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Judges 16:28",
+    "via": "packet"
+   }
+  ],
+  "words": "זכרני נא. זכור עשרים שנה ששפטתי את ישראל, ולא אמרתי לאחד מהם העבר לי מקל זה ממקום למקום",
+  "lang": "Hebrew",
+  "gloss": "‘Remember me, I pray Thee’: remember the twenty years that I judged Israel, and I did not say to a single one of them, carry this staff for me from place to place.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Judges 16:28 and at [226,28] match. Plain sense faithful: blinded (16:21), called out of the prison-house to make sport at the Philistines’ sacrifice and rejoicing for Dagon (16:23 to 25), set between the pillars (16:25 to 26), he prays; no four-word run from the key verse, and only two words (‘remember me’) quoted. Read all commentary on Judges 16 in the packet (Rashi, Radak, Metzudat David; no Midrash Rabbah on Judges). Rashi on זכרני נא says exactly this: remember the twenty years I judged Israel without asking any of them to carry a staff for me; the paraphrase does not go beyond it. His second comment on the verse (one eye’s reward now, the other kept for the world to come) is not used and not contradicted. Evidence machine-found in the packet. entry-check ok. Sensitivity: the prayer is for vengeance and leads to the killing in 16:30."
+}

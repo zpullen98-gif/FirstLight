@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-03-d075-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Joshua/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Metzudat David on Joshua 22:31 via packet.js --verse 22.31. The evidence stands verbatim in his comment on היום ידענו וכו׳: God's presence is known in His putting it in their hearts to keep from bloodshed and speak face to face first; and building the altar saved the children of Israel from the LORD's stroke, because now they will not sin by making the eastern tribes' children cease to fear the LORD and will not be punished (לא יענשו). So both parts of the reading are his, at the place named. Rashi and Radak have nothing on 22:31, so he is the right commentator for this verse. Plain sense matches 22:26 to 31 (the altar is a witness, not for burnt-offering or sacrifice; Phinehas, pleased, answers Reuben, Gad and Manasseh) and repeats none of the key's words. verse.js ok (Joshua 22:31, at [208,31], 38 words, starts at the quoted speech); entry-check.js ok, 45 words, one semicolon, verb 'reads', src 106 characters. No comparison, no dash, and the threatened war is neither softened nor dramatised.",
+ "better": ""
+}

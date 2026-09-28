@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-03-d078-p",
+ "d": 78,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And the LORD turned towards him, and said: ‘Go in this thy might, and save Israel from the hand of Midian; have not I sent thee?’",
+ "ref": "Judges 6:14",
+ "at": [
+  216,
+  14
+ ],
+ "s": "When Gideon, threshing in hiding, asks where the wonders of the Exodus have gone, he is given his charge; Rashi, on 6:14, with Rabbi Tanchuma, reads ‘this thy might’ as the merit of his having pleaded in Israel’s defence.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on Judges 6:14, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on Judges, Hebrew (On Your Way) with the Metsudah English, Sefaria export 3f10136",
+    "locator": "Judges 6:13, on אשר ספרו לנו אבותינו, and 6:14, on בכחך זה (whole of chapter 6 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20Judges/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on Judges, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "Judges 6:11 and 6:14",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20Judges/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on Judges, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Judges 6:14, on בכחך זה",
+    "via": "packet"
+   }
+  ],
+  "words": "פסח היה, אמר לו: אמש הקרני אבא את ההלל, ושמעתיו שהיה אומר (תהלים קיד א): בצאת ישראל ממצרים, 'ועתה נטשנו', אם צדיקים היו אבותינו, יעשה לנו בזכותם, ואם רשעים היו, כשם שעשה להם נפלאותיו חנם כן יעשה לנו, ואיה כל נפלאותיו … בכח הזכות הזה שלמדת סניגוריא על בני, כך דרש רבי תנחומא (מדרש תנחומא שופטים ד)",
+  "lang": "Hebrew",
+  "gloss": "[On 6:13, ‘which our fathers told us of’:] It was Passover. He said to him: last night my father read me the Hallel, and I heard him saying, ‘When Israel came forth out of Egypt’, ‘and now He has cast us off’. If our fathers were righteous, let Him act for us in their merit; and if they were wicked, just as He did His wonders for them freely, so let Him do for us; and where are all His wonders? … [On 6:14, ‘in this thy might’:] In the might of this merit, that you pleaded in defence of My children; so Rabbi Tanchuma expounded (Midrash Tanchuma, Shoftim 4).",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref Judges 6:14 and at [216,14] match; the key is the whole of 6:14 and ends in ‘?’’. Plain sense faithful: Gideon beats out wheat in the winepress to hide it from Midian (6:11) and asks where the wondrous works of the going out of Egypt are (6:13); 6:14 gives him his charge; no four-word run from the key. Read the whole chapter 6 packet. Rashi on 6:14 (בכחך זה) reads it as the might of the merit of his having pleaded in defence of God’s children, and names it as Rabbi Tanchuma’s exposition; his 6:13 comment gives the plea itself. The sentence names Rabbi Tanchuma only as Rashi’s own stated source, and quotes three words of the key in curly quotes. Metzudat David on 6:14 says the same, and Radak on 6:11 reports the same midrash while on 6:14 he reads the might as strength God clothed him with; Rashi is the default and his words carry the sentence. Evidence copied verbatim from packet output. entry-check ok."
+}

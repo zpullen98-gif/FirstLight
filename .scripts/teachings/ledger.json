@@ -99,16 +99,19 @@
   "tanakh": {
    "batches": [
     "tanakh-01",
-    "tanakh-02"
+    "tanakh-02",
+    "tanakh-03"
    ],
-   "days": 60,
+   "days": 90,
    "of": 267,
    "by": {
-    "rashi": 43,
-    "ramban": 9,
+    "rashi": 59,
+    "ramban": 10,
     "midrash": 5,
-    "sforno": 2,
-    "ibn-ezra": 1
+    "sforno": 3,
+    "ibn-ezra": 1,
+    "radak": 10,
+    "metzudat-david": 2
    },
    "hedged": 0
   },
