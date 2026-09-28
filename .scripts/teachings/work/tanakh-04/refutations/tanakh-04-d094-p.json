@@ -1,0 +1,9 @@
+{
+ "id": "tanakh-04-d094-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "reopened2": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 94 --verse 25.29. Radak at 25:29 (lemma והיתה נפש אדני): שלא יוכלו להמיתך מי שרודפין אותך ותהיה בחיים את השם כלומר שתלך בדרכיו כל ימיך, which carries 'kept alive against his pursuers, walking in God's ways all his days' without drift; he then reports Targum Jonathan and the Sages taking it of the world to come (ולדעת יונתן ... וכן בדברי רז\"ל) without adopting it, so his own reading is the this-worldly one and the attribution holds. Metzudat David at 25:29 (lemma והיתה נפש אדוני): צרורה בצרור החיים הנצחיים הרוחניים, אחר הפרדה מן הגוף, which carries 'the soul's eternal, spiritual life once it parts from the body'. The two genuinely differ and are named without resolution. Plain sense checked against day.js 25:21 to 31: Abigail pleads against bloodguilt over Nabal (25:26, 31) and foretells a sure house and princedom (25:28, 30); no four-word run from the key. Quote ‘bundle of life’ is three words. verse.js ok (1 Samuel 25:29, at [256,29]); entry-check ok on scratch/R-d094-p.json, no errors or warnings. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

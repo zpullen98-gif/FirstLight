@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d108-p",
+ "d": 108,
+ "role": "primary",
+ "key": "And Solomon was building his own house thirteen years, and he finished all his house.",
+ "ref": "1 Kings 7:1",
+ "at": [
+  293,
+  1
+ ],
+ "s": "After the seven years spent on the Temple, the chapter turns to Solomon’s own palace; Rashi, on 7:1, reads the longer span as told in his praise, quick as he was in the work of the Most High and slow in his own.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on 1 Kings 7:1, Hebrew (the Metsudah Tanach, Lakewood N.J.), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "sensitivity": "none",
+ "confidence": "high",
+ "verdict": "VERIFIED",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series, Lakewood N.J.), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Kings 7:1, on וְאֶת בֵּיתוֹ בָּנָה שְׁלֹמֹה שְׁלשׁ עֶשְׂרֵה שָׁנָה",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 7:1, on שלש עשרה שנה (chronology only: thirteen years after the Temple, and a second view)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 7:1 (same point as Rashi: slow on his own house, quick on the Temple)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 7:1",
+    "via": "packet"
+   }
+  ],
+  "words": "וְאֶת בֵּיתוֹ בָּנָה שְׁלֹמֹה שְׁלשׁ עֶשְׂרֵה שָׁנָה. שֶׁבִּמְלֶאכֶת גָּבוֹהַּ נִזְדָּרֵז, וּבְשֶׁלּוֹ נִתְעַצֵּל, וּבְשִׁבְחוֹ סִפֵּר הַכָּתוּב",
+  "lang": "Hebrew",
+  "gloss": "And his house Solomon built thirteen years: for in the work of the Most High he made haste, and in his own he was slow, and the text tells it in his praise.",
+  "licence": "Hebrew: CC-BY (the Metsudah Tanach, Lakewood N.J.)",
+  "supports": true
+ },
+ "reason": "verse.js ok, ref 1 Kings 7:1 and at [293,1] match. Plain sense faithful: 6:38 closes seven years on the Temple and 7:1 opens the account of Solomon’s own house; no four-word run from the key. Read Rashi across chapter 7 and every packet source on 7:1. Rashi’s own words say he hurried in the work of the Most High, was slow in his own, and that the text tells it in his praise; the sentence paraphrases exactly that (the longer span is the thirteen against the seven years named in the clause). Metzudat David makes the same point; Radak’s note is chronological only, so no disagreement to name. Source line names Rashi, the place and the Hebrew edition read. entry-check ok on scratch/V-d108-p.json."
+}

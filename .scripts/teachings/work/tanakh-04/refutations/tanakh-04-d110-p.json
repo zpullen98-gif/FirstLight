@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d110-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 110 --verse 10.1: Metzudat David on לשם ה׳ says she heard his wisdom was not of human nature but from the LORD (איננה מטבע האנושי, כי אם מה׳), and on לנסותו בחידות that she asked hidden things hard to know so that, if he answered, she would know for certain (תדע נאמנה) the wisdom was from the LORD; both halves of the paraphrase are in his words, no drift. Radak on 10:1 differs in emphasis (wisdom for the sake of the LORD, unlike magicians) but is not named, so nothing is misattributed. Plain sense checked against day.js: 9:26 to 28 Solomon’s navy fetches Ophir gold, 10:2 she comes to Jerusalem; no four-word run from the key. verse.js ok (1 Kings 10:1, at [296,1]); entry-check ok on scratch/RF-d110-p.json, identical to the shipping entry. No comparison, school or tone issue.",
+ "better": ""
+}

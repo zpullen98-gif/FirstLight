@@ -1,0 +1,32 @@
+{
+ "id": "tanakh-04-d111-p",
+ "d": 111,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Whereupon the king took counsel, and made two calves of gold; and he said unto them: ‘Ye have gone up long enough to Jerusalem; behold thy gods, O Israel, which brought thee up out of the land of Egypt.’",
+ "ref": "1 Kings 12:28",
+ "at": [298, 28],
+ "s": "Fearing that Temple pilgrims will return to Rehoboam, Jeroboam acts; Radak, on 12:28, reads his words as coaxing: God willed the split, he tells them, so wanted neither David’s house nor Jerusalem, and the calves, like Aaron’s, are for the Presence to rest on.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Kings, on 1 Kings 12:28, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {"ok": true},
+ "entryCheck": {"ok": true, "errors": []},
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json", "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136", "locator": "1 Kings 12:28, on ויועץ המלך (and 12:30, on לחטאת)", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json", "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136", "locator": "1 Kings 12:28 and 12:30", "via": "packet"},
+   {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json", "edition": "Rashi on I Kings, Metsudah Tanach, Sefaria export 3f10136", "locator": "nothing on 12:28", "via": "packet"}
+  ],
+  "words": "ולמה עגלים פתה אותם בדברים אמר להם הלא ידעתם כי המלכות נחלקה ברצון האל כמו שאמר לי אחיה השלוני הנביא אם כן האל לא רצה במלכות בית דוד ולא רצה ג\"כ בירושלם שהוא מלכות בית דוד אם כן נעשה מקום אחר שתבואו ותזבחו שם ולמה עגל אמר להם הלא אהרן עשה לישראל עגל להשרות השכינה בו במקום משה שלא היה להם גם אתם עתה שאין לכם מקום השכינה שהוא ירושלם נעשה עגל במקומו להשרות שכינה בו",
+  "lang": "Hebrew",
+  "gloss": "And why calves? He coaxed them with words. He said to them: Do you not know that the kingdom was divided by the will of God, as Ahijah the Shilonite the prophet told me? If so, God did not want the kingdom of the house of David, nor Jerusalem, which is the kingdom of the house of David; so let us make another place where you will come and sacrifice. And why a calf? He said to them: Did not Aaron make Israel a calf to make the Presence rest on it in place of Moses? You too, now that you have no place of the Presence, which is Jerusalem, let us make a calf in its place to make the Presence rest on it.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The refuter is right on attribution drift: the earlier sentence put Jeroboam's pitch (God refused Jerusalem, the calves were for the Presence) in narrative past after Radak's name, so it read as Radak's own view, and its 'with no idolatry meant' gave his exculpation without the limit he sets at 12:30 (at first Jeroboam said it was for God, afterwards it became a sin). The reading itself is Radak's at 12:28, so the entry is put right, not rejected. Changed only the sentence: every claim now sits inside Jeroboam's speech ('he tells them'), the exculpation is dropped, and the refuter's 'God split the kingdom' and 'will bear the Presence' are tightened to Radak's own terms (נחלקה ברצון האל: God willed the split; להשרות שכינה: for the Presence to rest on). Key, ref, at and src unchanged; verse.js ok; entry-check ok on scratch/RV-d111-p.json (44 words). Plain sense matches 12:26 to 27. Metzudat David at 12:28 agrees, so no second commentator to name."
+}

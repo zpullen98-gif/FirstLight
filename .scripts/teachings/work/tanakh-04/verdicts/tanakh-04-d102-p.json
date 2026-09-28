@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-04-d102-p",
+ "d": 102,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And the king commanded Joab and Abishai and Ittai, saying: ‘Deal gently for my sake with the young man, even with Absalom.’",
+ "ref": "2 Samuel 18:5",
+ "at": [
+  280,
+  5
+ ],
+ "s": "Before the battle in which Joab kills Absalom, David charges his captains; Radak, on 18:5, reads it as a plea not to kill his son or strike him in anger, for though wronged by him, he is a father and has compassion.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 2 Samuel, on 2 Samuel 18:5, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Radak on II Samuel, Hebrew “Radak on Nach”",
+    "locator": "II Samuel 18:5, לאט לי לנער לאבשלום",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on II Samuel, Hebrew “On Your Way”, Metsudah English",
+    "locator": "II Samuel 18:5, לאט לי לנער",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Metzudat David on II Samuel, Hebrew “On Your Way”",
+    "locator": "II Samuel 18:5, לאט לי וגו׳",
+    "via": "packet"
+   }
+  ],
+  "words": "אם תפגעו בו במלחמה לאט לו בעבורי ואל תהרגוהו שלא אראה ברעתו כי אע\"פ שהרע לי אני אב לרחם ופי' לאט בנחת כלומר לא תבואו בכעס וברוגז להכותו כמו שהיה ראוי שמרו לו בעבורי",
+  "lang": "Hebrew",
+  "gloss": "[Radak, on 18:5, ‘Deal gently for my sake with the young man, even with Absalom’:] If you meet him in battle, deal gently with him for my sake and do not kill him, so that I may not look upon his harm; for though he did me evil, I am a father, to have compassion. And ‘gently’ means calmly, that is, do not come upon him in anger and rage to strike him, as would have been fitting; guard him for my sake.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref 2 Samuel 18:5 and at [280,5] match). Read Radak on the whole of chapter 18 in the packet, with Rashi and Metzudat David on 18:5. Radak on 18:5 says: do not kill him, lest I see his harm; though he wronged me I am a father, to have compassion; and gently means do not come on him in anger and rage to strike him. The sentence’s reading (not to kill him or strike him in anger, for though wronged he is a father and has compassion) is carried by those words without drift. Plain sense fits 18:1 to 15 (Joab thrusts three darts through Absalom’s heart at 18:14). The killing is stated plainly. entry-check ok."
+}

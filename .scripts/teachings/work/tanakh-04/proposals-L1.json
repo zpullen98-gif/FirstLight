@@ -1,0 +1,212 @@
+{
+ "lane": "L1",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 91,
+   "primary": {
+    "id": "tanakh-04-d091-p",
+    "key": "And David said: ‘The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, He will deliver me out of the hand of this Philistine.’",
+    "ref": "1 Samuel 17:37",
+    "at": [
+     248,
+     37
+    ],
+    "s": "Answering Saul’s doubt that a youth can face a man of war, David tells of guarding the flock; Rashi, on 17:37, reads it as David knowing that rescue came not for nothing but as a sign of its like to come for Israel’s salvation.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 1 Samuel 17:37, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ה' אשר הצילני מיד הארי. יודע אני שלא לחנם נזדמן לי הדבר ההוא, אלא שלעתיד אני בא לידי כיוצא בה לתשועת ישראל, ואסמוך עליה ואצא וזה אחד משני צדיקים שנתן להם רמז, וחשו להשכיל לדבר, דוד ומרדכי",
+     "gloss": "The LORD that delivered me from the paw of the lion: I know that this thing did not befall me for nothing, but because in time to come I shall meet its like for the salvation of Israel; so I will rely on it and go out. And he was one of the two righteous men to whom a hint was given and who were quick to grasp it, David and Mordecai."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d091-s",
+    "key": "And David took the head of the philistine, and brought it to Jerusalem; but he put his armour in his tent.",
+    "ref": "1 Samuel 17:54",
+    "at": [
+     248,
+     54
+    ],
+    "s": "As Israel plunders the Philistine camp, David disposes of the champion’s spoils; Radak, on 17:54, reads ‘his tent’ as his home at Beth-lehem, for all but the sword, which lay in the tent of meeting at Nob as a memorial of the great miracle.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 1 Samuel 17:54, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כלי הפלשתי שם באהלו כלומר הביאם דוד לביתו בית לחם כי ימצא אהל במקום בית כמו איש לאהליו לאהליך ישראל וברוב יאמר למשכן היריעות אהל ובמחנה הזה לא היה לדוד אהל כי לא בא שם אלא בשליחות אביו א\"כ באהלו ר\"ל בביתו ועל שאר הכלים אמר לא על החרב כי שם החרב באהל מועד בנוב כמו שכתוב למעלה לוטה בשמלה והיתה שם לזכרון הנס הגדול הזה",
+     "gloss": "The Philistine’s arms he put in his tent, that is, David brought them to his home, Beth-lehem, for ‘tent’ can stand for ‘house’, as in ‘every man to his tents, O Israel’, though mostly a curtained dwelling is called a tent; and in this camp David had no tent, for he had come there only on his father’s errand; so ‘in his tent’ means in his house. And it says this of the other arms, not of the sword, for the sword was put in the tent of meeting at Nob, as is written, ‘wrapped in a cloth’, and it was there as a memorial of this great miracle."
+    }
+   }
+  },
+  {
+   "d": 92,
+   "primary": {
+    "id": "tanakh-04-d092-p",
+    "key": "So Jonathan made a covenant with the house of David: ‘The LORD even require it at the hand of David’s enemies.’",
+    "ref": "1 Samuel 20:16",
+    "at": [
+     251,
+     16
+    ],
+    "s": "Planning David’s escape, Jonathan pleads that his house never lose David’s kindness; Rashi, on 20:16, reads ‘David’s enemies’ as a euphemism for David, called to account when he split the field of Jonathan’s son, and Metzudat David, on 20:16, as God exacting it of David’s foes, and of Jonathan himself should he withhold kindness from David’s house.",
+    "by": "rashi",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Metzudat David (Hebrew, On Your Way), on 1 Samuel 20:16, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; metzudat-david",
+     "words": "כנה הכתוב, ופירושו: בקש הקב\"ה את העון מיד דוד, כשעבר על הברית ואמר למפיבושת (שמואל-ב יט ל): אתה וציבא תחלקו את השדה, יצתה בת קול ואמרה: רחבעם וירבעם יחלקו את המלכות … זה מדברי יונתן שאמר ה׳ יבקש מאויבי דוד לשלם גמול, ואף ממני, אם אהיה לו לאויב למנוע החסד מביתו",
+     "gloss": "[Rashi on 20:16, ‘at the hand of David’s enemies’:] Scripture used a euphemism, and its meaning is: the Holy One, blessed be He, required the sin at the hand of David, when he broke the covenant and said to Mephibosheth (2 Samuel 19:30), ‘Thou and Ziba divide the field’; a heavenly voice went forth and said, ‘Rehoboam and Jeroboam will divide the kingdom’ … [Metzudat David on 20:16, ‘and require’:] these are Jonathan’s words, who said: the LORD will require recompense of David’s enemies, and even of me, if I become an enemy to him by withholding kindness from his house."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d092-s",
+    "key": "And Jonathan caused David to swear again, for the love that he had to him; for he loved him as he loved his own soul.",
+    "ref": "1 Samuel 20:17",
+    "at": [
+     251,
+     17
+    ],
+    "s": "Between the covenant with David’s house and the sign of the arrows, Jonathan speaks again; Metzudat David, on 20:17, reads the oath as asked not from doubt that David would keep faith but from love, Jonathan delighting to speak of David’s coming reign.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 1 Samuel 20:17, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "באהבתו אותו. רצה לומר: לא הוסיף להשביעו, בעבור כי חשש פן לא יקיים דוד את הברית שמאז, אולם מה שהוסיף להשביעו, הוא על כי אהב אותו כנפשו, והיה מתענג בהזכיר כי מלוך ימלוך ויהיה לאל ידו לעשות חסד",
+     "gloss": "For the love that he had to him: that is, he did not make him swear again because he feared David would not keep the covenant made before; rather, what he added in making him swear was because he loved him as his own soul, and he delighted in recalling that David would surely reign and have it in his power to show kindness."
+    }
+   }
+  },
+  {
+   "d": 93,
+   "primary": {
+    "id": "tanakh-04-d093-p",
+    "key": "But the servants of the king would not put forth their hand to fall upon the priests of the LORD.",
+    "ref": "1 Samuel 22:17",
+    "at": [
+     253,
+     17
+    ],
+    "s": "Told by Doeg of the help given at Nob, Saul orders his guard to kill the priests; Rashi, on 22:17, reads the refusal as the guards expounding Scripture to hold that a command to sin need not be obeyed, even a king’s.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 1 Samuel 22:17, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ולא אבו. דרשו אכין ורקין (יהושע א יח): כל איש אשר ימרה את פיך וגו', יכול אפילו לדבר עבירה תלמוד לומר 'רק'",
+     "gloss": "Would not: they expounded the limiting words of Scripture (Joshua 1:18): ‘Whosoever he be that shall rebel against thy commandment [shall be put to death]’; one might think this holds even for a command to transgress, so Scripture says ‘only’."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d093-s",
+    "key": "And Jonathan Saul’s son arose, and went to David into the wood, and strengthened his hand in God.",
+    "ref": "1 Samuel 23:16",
+    "at": [
+     254,
+     16
+    ],
+    "s": "With Saul seeking him daily, David lies hidden in the wilderness of Ziph; Radak, on 23:16, reads the strengthening as Jonathan bidding David not fear, on the word God gave through the prophet that he would reign, so Saul’s hand would not find him.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 1 Samuel 23:16, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "באלהים. חזק ידו שלא יירא בדבר אלהים שהבטיחו על ידי הנביא כי ימלוך וזהו שאמר כי לא תמצאך יד שאול אבי וכן תירגם יונתן ותקיף ית ידיה במימרא דה'",
+     "gloss": "In God: he strengthened his hand so that he should not fear, by the word of God, who had promised him through the prophet that he would reign; and that is what he said, ‘for the hand of Saul my father shall not find thee’; and so the Targum of Jonathan renders it, ‘and strengthened his hand in the Word of the LORD’."
+    }
+   }
+  },
+  {
+   "d": 94,
+   "primary": {
+    "id": "tanakh-04-d094-p",
+    "key": "And though man be risen up to pursue thee, and to seek thy soul, yet the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, as from the hollow of a sling.",
+    "ref": "1 Samuel 25:29",
+    "at": [
+     256,
+     29
+    ],
+    "s": "Pleading with David not to avenge Nabal’s insult by bloodshed, Abigail foretells his kingdom; Radak, on 25:29, reads ‘bundle of life’ as David kept alive against his pursuers, walking in God’s ways all his days, and Metzudat David, on 25:29, as the soul’s eternal, spiritual life once it parts from the body.",
+    "by": "radak",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Radak (Hebrew, Radak on Nach) and Metzudat David (Hebrew, On Your Way), on 1 Samuel 25:29, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak; metzudat-david",
+     "words": "והיתה נפש אדני. שלא יוכלו להמיתך מי שרודפין אותך ותהיה בחיים את השם כלומר שתלך בדרכיו כל ימיך … ובעבור זה תהיה נפש אדוני צרורה בצרור החיים הנצחיים הרוחניים, אחר הפרדה מן הגוף",
+     "gloss": "[Radak on 25:29, ‘yet the soul of my lord shall be’:] that those who pursue you will not be able to kill you, and you will be in life with the LORD, that is, you will walk in His ways all your days … [Metzudat David on 25:29, ‘yet the soul of my lord’:] and for this the soul of my lord will be bound in the bundle of the eternal, spiritual life, after its separation from the body."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d094-s",
+    "key": "And it came to pass afterward, that David’s heart smote him, because he had cut off Saul’s skirt.",
+    "ref": "1 Samuel 24:6",
+    "at": [
+     255,
+     6
+    ],
+    "s": "Urged in the En-gedi cave to kill Saul, David cuts away only a corner of his robe; Radak, on 24:6, reads it as worry that God might count the cutting a sin, since a king must be revered even while he pursues.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 1 Samuel 24:6, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ויך לב דוד אותו. חשש בלבו שמא יחשוב ה' לו עון בכרתו כנף מעיל המלך כי אף על פי שהוא היה רודפו אעפ\"י כן יש לו לירוא ממנו",
+     "gloss": "David’s heart smote him: he was anxious in his heart lest the LORD reckon it to him as iniquity that he had cut off the corner of the king’s robe; for although Saul was pursuing him, even so he ought to stand in awe of him."
+    }
+   }
+  },
+  {
+   "d": 95,
+   "primary": {
+    "id": "tanakh-04-d095-p",
+    "key": "Moreover the LORD will deliver Israel also with thee into the hand of the Philistines; and to-morrow shalt thou and thy sons be with me; the LORD will deliver the host of Israel also into the hand of the Philistines.’",
+    "ref": "1 Samuel 28:19",
+    "at": [
+     259,
+     19
+    ],
+    "s": "Called up at En-dor, Samuel answers Saul’s plea; Radak, on 28:19, reads ‘with me’ as dead like Samuel, and holds that Saul, though told he would die, could not flee and leave his people, but had to go down to battle, to die or live.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 1 Samuel 28:19, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "אתה ובניך עמי. שתהיו מתים כמו שאני מת … ולפי הפשט אע\"פ ששמואל אמר לו שימות לא יתכן שהיה בורח ויניח עמו במלחמה ועל כל פנים היה לו לירד במלחמה אם למות אם לחיים",
+     "gloss": "Thou and thy sons with me: that you will be dead as I am dead … and by the plain sense, although Samuel told him that he would die, it could not be that he should flee and leave his people in the battle; in any case he had to go down into the battle, whether to die or to live."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d095-s",
+    "key": "If it be the LORD that hath stirred thee up against me, let Him accept an offering; but if it be the children of men, cursed be they before the LORD; for they have driven me out this day that I should not cleave unto the inheritance of the LORD, saying: Go, serve other gods.",
+    "ref": "1 Samuel 26:19",
+    "at": [
+     257,
+     19
+    ],
+    "s": "Having spared Saul a second time, David pleads with him; Metzudat David, on 26:19, reads it as two cases: a punishment from God, to be met with an offering, or men inciting Saul by their own free choice.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 1 Samuel 26:19, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "אם ה׳ וגו׳. אם הדבר מה׳ ומצד העונש, אקריב מנחה לה׳, ויהי רצון שיקבל לריח ניחוח, וירף ממני … ואם בני האדם. הם הסיתו אותך עלי, כי הבחירה חפשית באדם באין מעצור",
+     "gloss": "If the LORD: if the matter is from the LORD, by way of punishment, I will bring an offering to the LORD, and may it be His will to accept it as a sweet savour and let me be … But if the children of men: it is they who incited you against me, for choice is free in man, without restraint."
+    }
+   }
+  }
+ ]
+}

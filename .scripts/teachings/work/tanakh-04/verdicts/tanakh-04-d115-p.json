@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d115-p",
+ "d": 115,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And, behold, there came a voice unto him, and said: ‘What doest thou here, Elijah?’",
+ "ref": "1 Kings 19:13",
+ "at": [
+  305,
+  13
+ ],
+ "s": "At Horeb the LORD is not in wind, earthquake or fire, and a still small voice follows; Metzudat David, on 19:13, reads the Glory’s coming in that voice as God’s delight in kindness, not wrath, and the repeated question as whether Elijah still seeks vengeance.",
+ "by": "metzudat-david",
+ "by2": "",
+ "hedge": "",
+ "src": "Metzudat David, Commentary on 1 Kings, on 1 Kings 19:13, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 19:13, on מה לך פה (19:11 to 13 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series, Lakewood N.J.), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Kings 19:11 to 13 (Targum on the angel camps; only the wrapping of the face on 19:13)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 19:11 and 19:13 (the Glory passed with the still small voice; the vision as reward for Carmel)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 19:13",
+    "via": "packet"
+   }
+  ],
+  "words": "מה לך פה. על כי הראהו הכבוד, ולא עבר ברוח וברעש ובאש, כי אם בקול דממה דקה, כי חפץ חסד הוא, ולא יעיר כל חמתו לבוא ברוח וברעש ובאש, ולזה שאל לו שוב, מה לך פה רצה לומר: העודך באת הנה, לבקש נקמה",
+  "lang": "Hebrew",
+  "gloss": "What doest thou here: because He showed him the Glory, and it did not pass in the wind, the earthquake and the fire, but only in the still small voice, for He delights in kindness and does not rouse all His wrath to come in wind, earthquake and fire; and so He asked him again, What doest thou here, that is to say: have you still come here to seek vengeance?",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Kings 19:13 and at [305,13] match; reading is Metzudat David’s own at 19:13 (מה לך פה). Changed the sentence only. (1) Plain sense: the proposal said the LORD passes in a still small voice, but 19:11 to 12 say only that He was not in wind, earthquake or fire and that after the fire came a still small voice; that the Glory was in the voice is the commentators’ inference (Radak, Metzudat David), so the context clause now keeps to the text. (2) Reading: the proposal read the quiet voice as God; Metzudat David says the Glory passed in the still small voice because God delights in kindness and does not rouse His wrath, so the reading now attaches kindness over wrath to the Glory’s coming in that voice. Repeated question and vengeance kept (שאל לו שוב, העודך באת הנה לבקש נקמה). Rashi on 19:13 gives only the Targum on wrapping the face; Radak reads the vision as reward for Carmel, a different point not in conflict. entry-check ok (45 words) on scratch/V-d115-p.json."
+}

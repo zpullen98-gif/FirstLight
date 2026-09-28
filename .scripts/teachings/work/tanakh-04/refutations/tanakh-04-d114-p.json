@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d114-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 114 --verse 18.37. Rashi on the lemma וְאַתָּה הֲסִבֹּתָ אֶת לִבָּם: נָתַתָּ לָהֶם מָקוֹם לָסוּר מֵאַחֲרֶיךָ, וּבְיָדְךָ הָיָה לְהָכִין לְבָבָם אֵלֶיךָ, which carries 'leaving them room to stray, though He could have set their hearts toward Him' without drift (the Midrash Aggadah that follows is not used). Metzudat David (On Your Way, url .../Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json) on ואתה הסבות וכו׳: עבר במקום עתיד ... בהנס הזה תסבב אליך את לבם, אשר היה עד הנה אחורנית, which carries 'a past for a future: by the sign He will turn them back' ('sign' for הנס is acceptable; 'turn them back' is the return to God that his words give). The two genuinely differ (past permission versus future turning) and are named without resolving. Radak on the same lemma rejects a reading like Rashi's, but Radak is not named, so no comparison is made. Plain sense checked against day.js: 18:36 to 37 Elijah prays at the evening offering, 18:38 the fire falls, 18:40 he slays the prophets of Baal at the brook Kishon; no four-word run from the key; the killing stated plainly (rule 6). verse.js ok, ref 1 Kings 18:37, at [304,37]. entry-check ok on scratch/RF-d114-p.json; 58 words (under 60 for two commentators), src 148 characters naming each edition.",
+ "better": ""
+}

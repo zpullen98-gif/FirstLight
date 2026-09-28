@@ -1,0 +1,212 @@
+{
+ "lane": "L2",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 96,
+   "primary": {
+    "id": "tanakh-04-d096-p",
+    "key": "And it was so from that day forward, that he made it a statute and an ordinance for Israel unto this day.",
+    "ref": "1 Samuel 30:25",
+    "at": [
+     261,
+     25
+    ],
+    "s": "After the rout of the Amalekite raiders, David rules that the men who guarded the baggage share the spoil with those who fought; Rashi, on 30:25, reads the Hebrew wording as reaching back in time, since Abraham had already set this rule.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 1 Samuel, on 1 Samuel 30:25, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לא נאמר והלאה, אלא ומעלה, כבר הנהיג אברהם בחוק זה (בראשית יד כד): 'בלעדי רק אשר אכלו הנערים' וגו', הם היושבים על הכלים, 'וחלק האנשים', ההולכים במלחמה",
+     "gloss": "It does not say ‘onward’ but ‘and upward’: Abraham had already set this statute (Genesis 14:24), ‘save only that which the young men have eaten’, those are they who sat by the baggage, ‘and the portion of the men’, those who went to war."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d096-s",
+    "key": "And David was greatly distressed; for the people spoke of stoning him, because the soul of all the people was grieved, every man for his sons and for his daughters; but David strengthened himself in the LORD his God.",
+    "ref": "1 Samuel 30:6",
+    "at": [
+     261,
+     6
+    ],
+    "s": "Returning to find Ziklag burned and the families carried off, David faces men bitter enough to stone him; Radak, on 30:6, reads that strengthening as setting his hope in God and mastering himself in the calamity, so that he resolves to pursue.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 1 Samuel, on 1 Samuel 30:6, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ויתחזק דוד בה' אלהיו. וישם תוחלתו בו והתאפק על הרעה ואמר לרדוף אחריהם ואמר לאביתר הגישה האפוד",
+     "gloss": "‘But David strengthened himself in the LORD his God’: he set his hope in Him and mastered himself in the calamity, and said he would pursue them, and said to Abiathar, ‘Bring hither the ephod’."
+    }
+   }
+  },
+  {
+   "d": 97,
+   "primary": {
+    "id": "tanakh-04-d097-p",
+    "key": "And I am this day weak, and just anointed king; and these men the sons of Zeruiah are too hard for me; the LORD reward the evildoer according to his wickedness.",
+    "ref": "2 Samuel 3:39",
+    "at": [
+     265,
+     39
+    ],
+    "s": "Mourning Abner, whom Joab killed for a brother’s blood, David speaks to his servants; Metzudat David, on 3:39, reads it as a king entitled to punish where the law, lacking witnesses, cannot, yet too weak against Joab, and so leaving the judgement to Heaven.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 2 Samuel, on 2 Samuel 3:39, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "ואם תתמהו מה זה לא לקחתי נקם, הנה אנכי אף היום שנמשחתי למלך על כל ישראל ומלכותי בכל משלה, עם כל זה אני רך הלבב מול בני צרויה, כי המה קשים ממני ולא אוכל להתגרות עמהם, ולפי שמן הדין אין ליואב משפט מות, שלא היו שם עדים והתראה, אולם ניתן רשות למלך לענוש לצורך השעה ביכלתו המוחלט, ולזה שמט ידו ממנו, כי לא היה יכול להם, ומסר דינו לשמים",
+     "gloss": "And if you wonder why I took no revenge: even today, anointed king over all Israel with my rule over all, I am soft of heart before the sons of Zeruiah, for they are harder than I and I cannot contend with them; and since by the law Joab has no sentence of death, for there were no witnesses and warning there, though the king is given leave to punish for the need of the hour by his absolute power, he therefore withdrew his hand from him, for he could not prevail against them, and handed his judgement over to Heaven."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d097-s",
+    "key": "And the three sons of Zeruiah were there, Joab, and Abishai, and Asahel; and Asahel was as light of foot as one of the roes that are in the field.",
+    "ref": "2 Samuel 2:18",
+    "at": [
+     264,
+     18
+    ],
+    "s": "As Abner flees the battle at Gibeon, the chapter introduces his pursuers; Radak, on 2:18, reads the note on Asahel’s speed as why he chased Abner when others did not, trusting his swiftness and not grasping that the race is not to the swift.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Samuel, on 2 Samuel 2:18, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ועשהאל קל ברגליו. ספר זה כי בטח בקלותו לרדוף אחרי אבנר מה שלא עשו כן האחרים ולא הבין כי לא לקלים המרוץ",
+     "gloss": "‘And Asahel was light of foot’: it tells this because he trusted in his lightness to pursue Abner, which the others did not do, and he did not understand that the race is not to the swift."
+    }
+   }
+  },
+  {
+   "d": 98,
+   "primary": {
+    "id": "tanakh-04-d098-p",
+    "key": "And I will be yet more vile than thus, and will be base in mine own sight; and with the handmaids whom thou hast spoken of, with them will I get me honour.",
+    "ref": "2 Samuel 6:22",
+    "at": [
+     268,
+     22
+    ],
+    "s": "Answering Michal, who scorns his dancing before the ark, David replies; Radak, on 6:22, reads it as lowering himself before God, no disgrace but honour, since making light of himself for God’s honour makes him honoured in the eyes of all.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Samuel, on 2 Samuel 6:22, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "והייתי שפל בעיני. לפניו לכל דבר ואין זה קלון אלא כבוד … עמם אכבדה. בעיניהן אני נכבד במה שעשיתי כי אם אקל עצמי לכבוד האל אהיה נכבד בעיני הכל לא כמו בעיניך",
+     "gloss": "‘And will be base in mine own sight’: before Him in every matter, and this is no disgrace but honour … ‘With them will I get me honour’: in their eyes I am honoured by what I did, for if I make light of myself for the honour of God, I shall be honoured in the eyes of all, not as in yours."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d098-s",
+    "key": "For Thy word’s sake, and according to Thine own heart, hast Thou wrought all this greatness, to make Thy servant know it.",
+    "ref": "2 Samuel 7:21",
+    "at": [
+     269,
+     21
+    ],
+    "s": "Sitting before the LORD after Nathan brings the promise of a lasting house, David prays; Rashi, on 7:21, reads the word as God’s word to Samuel to make him king, and the heart as God’s own will, not any worth of David’s.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 2 Samuel, on 2 Samuel 7:21, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "בעבור דברך. להקים מה שאמרת לשמואל, להמליכני … וכלבך. רצונך הוא, ולא שאני כדאי",
+     "gloss": "‘For Thy word’s sake’: to fulfil what You said to Samuel, to make me king … ‘And according to Thine own heart’: it is Your will, and not that I am worthy."
+    }
+   }
+  },
+  {
+   "d": 101,
+   "primary": {
+    "id": "tanakh-04-d101-p",
+    "key": "For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person; but let him devise means, that he that is banished be not an outcast from him.",
+    "ref": "2 Samuel 14:14",
+    "at": [
+     276,
+     14
+    ],
+    "s": "Sent by Joab, the woman of Tekoa turns her tale toward Absalom; Radak, on 14:14, reads it as a plea to lessen bloodshed, since all must die, and the devising as God’s laws, which spare a killer where there are no witnesses and warning.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Samuel, on 2 Samuel 14:14, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כלנו נמות ואין על האדם להרבות שפיכות דם אלא למעטו כמו שיוכל ואם יהרוג אדם חבירו לא צוה המקום להרגו אם לא הרגו במזיד בעדים ובהתראה כדי למעט שפיכות הדם ואם הרגו שוגג צוה שיגלה עד זמן ידוע ולא יהרגו אותו אפילו הרגו מזיד אם אין שם עדים והתראה וז\"ש וחשב מחשבות לבלתי ידח ממנו נדח אלהים חשב מחשבות ושם משפטים לבלתי ידח ההורג",
+     "gloss": "We all shall die, and a man ought not to multiply bloodshed but to lessen it as far as he can; and if a man kills his fellow, God did not command that he be killed unless he killed wilfully, with witnesses and warning, so as to lessen bloodshed; and if he killed in error, He commanded that he go into exile for a set time and not be killed, and he is not killed even if he killed wilfully when there are no witnesses and warning; and this is ‘let him devise means, that he that is banished be not an outcast from him’: God devised means and set laws so that the killer be not banished."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d101-s",
+    "key": "And it came to pass, that when David was come to the top of the ascent, where God was wont to be worshipped, behold, Hushai the Archite came to meet him with his coat rent, and earth upon his head.",
+    "ref": "2 Samuel 15:32",
+    "at": [
+     277,
+     32
+    ],
+    "s": "Fleeing Absalom, David climbs the Mount of Olives in tears; Rashi, on 15:32, reads the worship as David’s custom whenever he came to Jerusalem, for the ark’s tent could be seen from there, and Radak, on 15:32, as a parting bow toward the place of the sanctuary, like one taking leave of a friend on going into exile.",
+    "by": "rashi",
+    "by2": "radak",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Radak (Hebrew, Radak on Nach), on 2 Samuel 15:32, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; radak",
+     "words": "אשר היה רגיל להשתחות שם כשהיה בא לירושלים, היה רואה משם את האהל שהארון בתוכו, והיה משתחוה … שהיה רצונו שישתחוה שם כמו שאמר עולה במעלה הזיתים ועשה כן לפי שהיה נפרד ממקום המקדש ולא היה יודע אם ישוב עוד כאדם הלוקח רשות מאוהבו בגלותו",
+     "gloss": "[Rashi, on 15:32:] where he was accustomed to bow when he came to Jerusalem: he would see from there the tent in which the ark was, and would bow … [Radak, on 15:32:] for it was his wish to bow there, as it says, going up by the ascent of the Olives; and he did so because he was parting from the place of the sanctuary and did not know whether he would return, as a man who takes leave of his friend in his exile."
+    }
+   }
+  },
+  {
+   "d": 103,
+   "primary": {
+    "id": "tanakh-04-d103-p",
+    "key": "Then she spoke, saying: ‘They were wont to speak in old time, saying: They shall surely ask counsel at Abel; and so they ended the matter.",
+    "ref": "2 Samuel 20:18",
+    "at": [
+     282,
+     18
+    ],
+    "s": "From besieged Abel, where the rebel Sheba has fled, a wise woman calls to Joab; Rashi, on 20:18, reads her words as telling Joab he should first have offered peace, since had his men asked it, the town would at once have agreed.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, commentary on 2 Samuel, on 2 Samuel 20:18, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "היה לך לדבר לשלום בראשונה, אם שלום יענוך ויפתחו לך, לא היה לך להלחם עליהם … אם שאלו בני חילך בשלום העיר הזאת, ששמה אבל … מיד היו בני העיר משלימים עמכם",
+     "gloss": "You ought to have spoken for peace first: if they answered you with peace and opened to you, you ought not to have fought against them … if your troops had asked for peace of this city whose name is Abel … at once the people of the city would have made peace with you."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d103-s",
+    "key": "I am this day fourscore years old; can I discern between good and bad?",
+    "ref": "2 Samuel 19:36",
+    "at": [
+     281,
+     36
+    ],
+    "s": "Barzillai, the aged Gileadite who fed David at Mahanaim, declines the king’s offer to keep him in Jerusalem; Rashi, on 19:36, reads the discerning as between good food and bad, and Metzudat David, on 19:36, as the judgement needed to sit among the king’s counsellors, which his great age denies him.",
+    "by": "rashi",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Rashi (Hebrew, On Your Way) and Metzudat David (Hebrew, On Your Way), on 2 Samuel 19:36, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; metzudat-david",
+     "words": "האדע בין טוב לרע. בין מאכל טוב למאכל רע … ועוד מה תועלת שבתי עמו, אם לחלוק לי כבוד להיות מאנשי עצתו, וכי אדע בין טוב לרע לגודל זקנתי, ואם להאכילני מעדנים, וכי אטעם טעם מאכל ומשקה",
+     "gloss": "[Rashi, on 19:36:] ‘Can I discern between good and bad’: between good food and bad food … [Metzudat David, on 19:36:] And moreover, what use is my staying with him: if to do me honour by being among his counsellors, can I know between good and bad in my great age; and if to feed me delicacies, can I taste the taste of food and drink."
+    }
+   }
+  }
+ ]
+}

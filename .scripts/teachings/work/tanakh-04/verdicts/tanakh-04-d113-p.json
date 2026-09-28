@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d113-p",
+ "d": 113,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But the high places were not taken away; nevertheless the heart of Asa was whole with the LORD all his days.",
+ "ref": "1 Kings 15:14",
+ "at": [
+  301,
+  14
+ ],
+ "s": "Amid Asa’s purge of idols, his mother’s image among them, the chapter notes what stayed; Rashi, on 15:14, takes the high places as private altars to Heaven, allowed after Shiloh fell but forbidden once the Temple stood, on pain of being cut off.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on 1 Kings, on 1 Kings 15:14, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series, Lakewood N.J.), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Kings 15:14, on וְהַבָּמוֹת לֹא סָרוּ (whole of chapter 15 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "nothing on 15:14",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 15:14, on והבמות (agrees: forbidden once the House was built, so counted a sin)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 15:14",
+    "via": "packet"
+   }
+  ],
+  "words": "בָּמוֹת הַיָּחִיד, שֶׁהֻרְגְּלוּ לִקָּרֵב עֲלֵיהֶן לַשָּׁמַיִם מִשֶּׁחָרְבָה שִׁילֹה עַד שֶׁנִּבְנָה הַבַּיִת שֶׁהָיוּ הַבָּמוֹת מֻתָּרוֹת, לֹא סָרוּ עַתָּה, וְאַף עַל פִּי שֶׁנֶּאֶסְרוּ מִשֶּׁנִּבְנָה הַבַּיִת, וְהָיוּ עֲנוּשִׁים עָלֶיהָ כָּרֵת",
+  "lang": "Hebrew",
+  "gloss": "The private high places, on which they had grown used to offering to Heaven from when Shiloh was destroyed until the House was built, when the high places were permitted, were not removed now, even though they had been forbidden since the House was built, and they were liable for it to karet (being cut off).",
+  "licence": "Hebrew: CC-BY (the Metsudah Tanach, Lakewood N.J.)",
+  "supports": true
+ },
+ "sensitivity": "law",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Kings 15:14 and at [301,14] match. Plain sense faithful: 15:11 to 13 have Asa remove the idols and depose Maacah, cutting down and burning her image, then 15:14 notes the high places stayed; no four-word run from the key. Read Rashi across all of chapter 15 and every packet source on 15:14: Rashi’s own Hebrew carries every element of the reading (private altars, to Heaven, permitted from the fall of Shiloh until the House, forbidden after, karet); Metzudat David agrees and Radak is silent, so no disagreement to name. The Metsudah English renders karet as premature death; the sentence follows the Hebrew’s cut off. Source line names Rashi, place and the Hebrew edition. entry-check ok on scratch/V-d113-p.json."
+}

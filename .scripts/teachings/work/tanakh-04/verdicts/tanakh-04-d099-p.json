@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-04-d099-p",
+ "d": 99,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he wrote in the letter, saying: ‘Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die.’",
+ "ref": "2 Samuel 11:15",
+ "at": [
+  273,
+  15
+ ],
+ "s": "David, having lain with Uriah’s wife, who has conceived, has Uriah killed; Rashi, on 11:15, reads the death as meant to divorce her retroactively under each soldier’s conditional writ, so David had not lain with a married woman, and Metzudat David, on 11:15, as meant to let David marry her, the child seeming conceived in marriage.",
+ "by": "rashi",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Rashi and Metzudat David, on 2 Samuel 11:15, Hebrew (Rashi: Sefaria’s “On Your Way”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on II Samuel, Hebrew “On Your Way”",
+    "locator": "II Samuel 11:15, ונכה ומת",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Metzudat David on II Samuel, Hebrew “On Your Way”",
+    "locator": "II Samuel 11:15, ושבתם מאחריו",
+    "via": "packet"
+   }
+  ],
+  "words": "ונכה ומת. כדי שתהא מגורשת למפרע, ונמצא שלא בא על אשת איש, שכל היוצא למלחמה, כותב גט לאשתו על תנאי, אם ימות במלחמה … ושבתם מאחריו. לבל יעזרוהו, ויהיה נכה מבני עמון וימות, וכוונתו היתה לישאנה אחרי זה, למען יחשבו שהרתה אחר הנשואין",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 11:15, ‘that he may be smitten, and die’:] So that she would be divorced retroactively, and it would turn out that he had not come upon a married woman, for everyone who goes out to war writes his wife a bill of divorce on condition, if he should die in the war. … [Metzudat David, on 11:15, ‘and retire ye from him’:] So that they would not help him, and he would be struck by the Ammonites and die; and his intention was to marry her after this, so that people would think she had conceived after the marriage.",
+  "licence": "Hebrew: public domain (Rashi and Metzudat David)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Packet read on the whole of chapter 11: Rashi on 11:15 says the death was so that she would be divorced retroactively by the conditional get every soldier wrote, so that David had not come upon a married woman; Metzudat David on 11:15 says David meant to marry her afterwards so that people would think she conceived after the marriage. Both readings sit at the place named and differ in purpose; the sentence names both without resolving. Plain sense states the adultery, the conception and the killing plainly, as the chapter gives them. entry-check ok."
+}

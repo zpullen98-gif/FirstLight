@@ -1,0 +1,89 @@
+{
+ "lane": "S3",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 114,
+   "primary": {
+    "id": "tanakh-04-d114-p",
+    "key": "Hear me, O LORD, hear me, that this people may know that Thou, LORD, art God, for Thou didst turn their heart backward.",
+    "ref": "1 Kings 18:37",
+    "at": [
+     304,
+     37
+    ],
+    "s": "On Carmel, before the fire falls and he slays Baal’s prophets at the Kishon, Elijah prays; Rashi, on 18:37, reads ‘turn their heart’ as God leaving them room to stray, though He could have set their hearts toward Him, and Metzudat David, on 18:37, as a past for a future: by the sign He will turn them back.",
+    "by": "rashi",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Rashi (Hebrew, The Metsudah Tanach series, Lakewood, N.J.) and Metzudat David (Hebrew, On Your Way), on 1 Kings 18:37, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; metzudat-david",
+     "words": "נָתַתָּ לָהֶם מָקוֹם לָסוּר מֵאַחֲרֶיךָ, וּבְיָדְךָ הָיָה לְהָכִין לְבָבָם אֵלֶיךָ … עבר במקום עתיד, ורצה לומר: בהנס הזה תסבב אליך את לבם, אשר היה עד הנה אחורנית, להפנות ממך",
+     "gloss": "[Rashi on 18:37, ‘and Thou didst turn their heart’:] You gave them room to turn away from following You, and it was in Your hand to set their heart toward You. … [Metzudat David on 18:37, ‘and Thou didst turn’:] A past tense in place of a future; that is to say: by this miracle You will turn their heart to You, which until now was backward, turned away from You."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d114-s",
+    "key": "And Elijah came near unto all the people, and said: ‘How long halt ye between two opinions? if the LORD be God, follow Him; but if Baal, follow him.’ And the people answered him not a word.",
+    "ref": "1 Kings 18:21",
+    "at": [
+     304,
+     21
+    ],
+    "s": "Before the contest that ends with Baal’s prophets slain at the Kishon, Elijah faces the people; Radak, on 18:21, reads them as lame in both legs, unsure which to stand on, the drought Elijah called drawing their hearts to God while Baal’s prophets misled them.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 18:21, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כמו הפיסח שהוא פיסח בשתי רגליו כי מי שפיסח רגלו אחת נוטה על הרגל אחת ומי שהוא פוסח שתי רגליו איננו יודע באיזה רגל יעמוד כן אתם פוסחים על שתי הסעיפים והם המחשבות … נאמר כי כאשר ראו כי נעצרו הגשמים בדבר אליהו שהיה נביא ה' נטה לבבם אחרי ה' אלא שנביאי הבעל היו מתעים אותם ואומרים להם שלא יניחו עבודת הבעל כי היא תיטיב להם ומפני זה היו פוסחים על שתי הסעיפים",
+     "gloss": "[Radak on 18:21, ‘halt’:] Like the lame man who is lame in both his legs: for one lame in one leg leans on the other leg, but one who is lame in both legs does not know on which leg to stand; so you halt between the two branches, which are the thoughts … We say that when they saw that the rains were withheld at the word of Elijah, who was a prophet of the LORD, their heart inclined after the LORD, except that the prophets of Baal were leading them astray and telling them not to leave the worship of Baal, for it would do them good; and because of this they halted between the two opinions."
+    }
+   }
+  },
+  {
+   "d": 117,
+   "primary": {
+    "id": "tanakh-04-d117-p",
+    "key": "And he looked behind him and saw them, and cursed them in the name of the LORD. And there came forth two she-bears out of the wood, and tore forty and two children of them.",
+    "ref": "2 Kings 2:24",
+    "at": [
+     310,
+     24
+    ],
+    "s": "Mocked by boys near Beth-el, Elisha curses them and bears maul forty-two; Radak, on 2:24, explains that the sages, finding the deaths hard, gave reasons, as that he saw no good in them or their offspring, and said he was punished with sickness for it.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 2 Kings, on 2 Kings 2:24, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ונחלקו רז\"ל בזה כי קשה אליהם היאך גרם מיתה עליהם על דבר זה מהם אמרו על שם שבזוהו נתן עיניו בהם ונענשו … ומהם אמרו שלא ראה בהם לחלוחית מצוה ולא עתידה להיות לא בהם ולא בזרעם לפיכך אררם לסלקם מן העולם ואמר כי נענש על דבר זה שגרם מיתה לאלה הנערים ואמרו שלשה חלאים חלה אלישע אחד על שגרה דובים בתינוקות",
+     "gloss": "[Radak on 2:24, ‘and he saw them and cursed them’:] Our sages differed on this, for it was hard for them how he brought death upon them over such a thing; some of them said that because they despised him he set his eyes on them and they were punished … and some of them said that he saw in them no trace of a commandment kept, nor would there be, neither in them nor in their seed, therefore he cursed them, to remove them from the world; and it was said that he was punished for this, that he caused the death of these youths, and they said Elisha suffered three illnesses, one for setting bears on children."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d117-s",
+    "key": "Then he took his eldest son that should have reigned in his stead, and offered him for a burnt-offering upon the wall. And there came great wrath upon Israel; and they departed from him, and returned to their own land.",
+    "ref": "2 Kings 3:27",
+    "at": [
+     311,
+     27
+    ],
+    "s": "Unable to break out of his last city, Moab’s king burns a firstborn on the wall; Rashi, on 3:27, with the Pesikta, takes the son as his own, offered to an idol on hearing of Abraham, and Metzudat David, on 3:27, as Edom’s heir, the wrath being Edom’s king’s at Israel for not saving him.",
+    "by": "rashi",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Rashi (Hebrew, The Metsudah Tanach series, Lakewood, N.J.) and Metzudat David (Hebrew, On Your Way), on 2 Kings 3:27, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; metzudat-david",
+     "words": "שֶׁשָּׁאַל אֶת עֲבָדָיו מַה טִּיבָהּ שֶל אֻמָּה זוֹ שֶׁנַּעֲשָׂה לָהֶם נִסִּים כָּאֵלֶּה, אָמְרוּ לוֹ: אֲבִיהֶם אַבְרָהָם בֵּן יָחִיד הָיָה לוֹ … אָמַר לָהֶם: אַף אֲנִי בֵּן בְּכוֹר יֵשׁ לִי, אֵלֵךְ וְאַקְרִיבֶנּוּ לַעֲבוֹדָה זָרָה … כי בא למקום בנו, ולקחו עמו ושרפו כליל כעולה, על החומה מול אביו מלך אדום … מלך אדום קצף על ישראל, כי בעבורה באה לו הרעה ההיא, ולא ראו להצילו",
+     "gloss": "[Rashi on 3:27, ‘and he took his firstborn son’, from the Pesikta of the Shekalim portion:] He asked his servants what the character of this nation was, that such miracles were done for them; they told him: their father Abraham had an only son … He said to them: I too have a firstborn son; I will go and offer him to idolatry. … [Metzudat David on 3:27, ‘and he took his son’:] For he came to the place of his son and took him with him and burned him whole as a burnt-offering, on the wall, before his father the king of Edom … [on ‘and there was wrath’:] The king of Edom was angry at Israel, for on their account that evil came upon him, and they did not see to save him."
+    }
+   }
+  }
+ ]
+}

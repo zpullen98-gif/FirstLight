@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d116-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi via packet.js tanakh 116 --verse 22.7: on the lemma הַאֵין פֹּה נָבִיא לַה' עוֹד he writes, in Jehoshaphat's voice (מְקֻבְּלַנִי), that no two prophets prophesy in the same phrasing while these all say one phrasing; the evidence words match verbatim and carry the whole paraphrase (tradition, same words, these all alike) without adding the inference that they are false. Radak and Metzudat David give the same point from the Sages, so no disagreement to name. Plain sense checked against day.js: 22:3 to 6 have the king of Israel propose Ramoth-gilead to Jehoshaphat and about four hundred prophets answer that the LORD will deliver it into the king's hand; they do march (22:29); no four-word run from the key. Key is 22:7, the verse Rashi comments on; verse.js ok, ref 1 Kings 22:7, at [308,7]. entry-check ok on scratch/R-d116-p.json (41 words, rashi, reads, no dash). No school needed, no comparison, tone neutral.",
+ "better": ""
+}

@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-04-d093-p",
+ "d": 93,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But the servants of the king would not put forth their hand to fall upon the priests of the LORD.",
+ "ref": "1 Samuel 22:17",
+ "at": [
+  253,
+  17
+ ],
+ "s": "Told by Doeg of the help given at Nob, Saul orders his guard to kill the priests; Rashi, on 22:17, reads the refusal as the guards expounding Scripture to hold that a command to sin need not be obeyed, even a king’s.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on 1 Samuel 22:17, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on I Samuel, Hebrew “On Your Way”",
+    "locator": "I Samuel 22:17, ולא אבו",
+    "via": "packet"
+   }
+  ],
+  "words": "ולא אבו. דרשו אכין ורקין (יהושע א יח): כל איש אשר ימרה את פיך וגו', יכול אפילו לדבר עבירה תלמוד לומר 'רק'",
+  "lang": "Hebrew",
+  "gloss": "Would not: they expounded the limiting words of Scripture (Joshua 1:18): ‘Whosoever he be that shall rebel against thy commandment [shall be put to death]’; one might think this holds even for a command to transgress, so Scripture says ‘only’.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim, the second sentence of 22:17 (verse.js ok, ref 1 Samuel 22:17 and at [253,17] match). Packet read on 22:17 and around it (Rashi, Radak, Metzudat David). Rashi on ‘would not’ says they expounded the limiting words of Joshua 1:18: the death penalty for rebelling against the ruler’s command might seem to hold even for a command to transgress, so Scripture says ‘only’ to exclude it; Radak repeats the same derash. The reading ‘a command to sin need not be obeyed, even a king’s’ stays within that. Plain sense states Doeg’s report and Saul’s order to kill the priests in one plain clause. entry-check ok."
+}

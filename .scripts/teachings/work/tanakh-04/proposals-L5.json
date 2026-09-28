@@ -1,0 +1,89 @@
+{
+ "lane": "L5",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 116,
+   "primary": {
+    "id": "tanakh-04-d116-p",
+    "key": "But Jehoshaphat said: ‘Is there not here besides a prophet of the LORD, that we might inquire of him?’",
+    "ref": "1 Kings 22:7",
+    "at": [
+     308,
+     7
+    ],
+    "s": "Before the kings of Israel and Judah march on Ramoth-gilead, some four hundred prophets promise the king victory; Rashi, on 22:7, reads Jehoshaphat as holding a tradition that no two prophets prophesy in the same words, yet these all spoke alike.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 1 Kings 22:7, Hebrew (Sefaria’s “The Metsudah Tanach series”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "הַאֵין פֹּה נָבִיא לַה' עוֹד. מְקֻבְּלַנִי אֵין שְׁנֵי נְבִיאִים מִתְנַבְּאִים בְּלָשׁוֹן אֶחָד, וְאֵלֶּה כֻּלָּם לָשׁוֹן אֶחָד אוֹמְרִים.",
+     "gloss": "Is there not here another prophet of the LORD: I have received a tradition that no two prophets prophesy in one phrasing, and these all speak one phrasing."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d116-s",
+    "key": "And Naboth said to Ahab: ‘The LORD forbid it me, that I should give the inheritance of my fathers unto thee.’",
+    "ref": "1 Kings 21:3",
+    "at": [
+     307,
+     3
+    ],
+    "s": "Offered another vineyard or silver for his own beside the palace, Naboth answers the king; Metzudat David, on 21:3, reads the refusal as made for the LORD’s commandment, the Torah having said that the land shall not be sold in perpetuity.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 1 Kings 21:3, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "חלילה לי מה׳. חולין הוא לי, בעבור מצות ה׳, שאמרה התורה (ויקרא כה כג): והארץ לא תמכר לצמיתות:",
+     "gloss": "Far be it from me, by the LORD: it is a profane thing to me, because of the LORD’s commandment, for the Torah said (Leviticus 25:23): and the land shall not be sold in perpetuity."
+    }
+   }
+  },
+  {
+   "d": 118,
+   "primary": {
+    "id": "tanakh-04-d118-p",
+    "key": "Then he said to Gehazi: ‘Gird up thy loins, and take my staff in thy hand, and go thy way; if thou meet any man, salute him not; and if any salute thee, answer him not; and lay my staff upon the face of the child.’",
+    "ref": "2 Kings 4:29",
+    "at": [
+     312,
+     29
+    ],
+    "s": "Begged by the Shunammite, her son dead, Elisha sends his servant ahead; Rashi, on 4:29, reads the ban on greetings as keeping Gehazi from telling all comers he goes to revive the dead, since boasting does a miracle no honour, yet Gehazi told them.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 2 Kings 4:29, Hebrew (Sefaria’s “The Metsudah Tanach series”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לֹא תְבָרְכֶנּוּ. לֹא תִּשְׁאַל לְשָׁלוֹם, וְכָל זֶה שֶׁלֹּא יַרְבֶּה דְבָרִים וְיִשְׁאָלֵהוּ לְהֵיכָן אַתָּה הוֹלֵךְ, וְהוּא אוֹמֵר לְהַחֲיוֹת אֶת הַמֵּת, וְאֵין זֶה כְּבוֹד הַנֵּס לְהִתְהַלֵּל בּוֹ מִי שֶׁבָּא עַל יָדוֹ. וְהוּא לֹא עָשָׂה כֵּן, אֶלָּא לְכָל הַשּׁוֹאֲלוֹ הוּא אוֹמֵר רַבִּי שְׁלָחַנִי לְהַחֲיוֹת אֶת הַמֵּת.",
+     "gloss": "Salute him not: do not greet him; all this so that he not multiply words, and be asked where he is going, and answer, to revive the dead; for it is no honour to the miracle that the one through whom it comes should glory in it. But he did not do so; rather to everyone who asked him he said, my master sent me to revive the dead."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d118-s",
+    "key": "And he went up, and lay upon the child, and put his mouth upon his mouth, and his eyes upon his eyes, and his hands upon his hands; and he stretched himself upon him; and the flesh of the child waxed warm.",
+    "ref": "2 Kings 4:34",
+    "at": [
+     312,
+     34
+    ],
+    "s": "Alone with the dead boy behind a shut door, Elisha first prays; Radak, on 4:34, reads mouth on mouth as aiming the prayer at the boy, and perhaps as warming him with natural heat, since most miracles come with a little of the world’s way.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, commentary on 2 Kings 4:34, Hebrew (Sefaria’s “Radak on Nach”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "וישם פיו על פיו. כמו שפירשנו באליהו שאמר ויתמודד על הנער והכל לכוין לשון התפלה על מי שמתפלל עליו כמו שאמר ביצחק לנוכח אשתו ואפשר גם כן להנשים על הנער לחממו בחום הטבעי היוצא מפיו ומעיניו כי רוב הנסים נעשים עם מעט תחבולה מדרך העולם:",
+     "gloss": "And put his mouth upon his mouth: as we explained of Elijah, who stretched himself upon the child, all of it to direct the words of prayer toward the one prayed for, as is said of Isaac, “opposite his wife”; and it is possible too that he breathed upon the boy to warm him with the natural heat that goes out from his mouth and eyes, for most miracles are done with a little contrivance of the way of the world."
+    }
+   }
+  }
+ ]
+}

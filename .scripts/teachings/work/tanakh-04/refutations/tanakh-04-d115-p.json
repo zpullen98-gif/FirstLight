@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d115-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Metzudat David via packet.js tanakh 115 --verse 19:13 (and 19:9 to 19:14): on the lemma מה לך פה he writes that God showed Elijah the Glory not in wind, earthquake and fire but only in the still small voice, for He delights in kindness (חפץ חסד) and does not rouse all His wrath, and so asked him again whether he still came to seek vengeance (העודך באת הנה, לבקש נקמה); the evidence words match verbatim and carry the paraphrase: Glory in the voice, kindness over wrath, repeated question (שאל לו שוב), vengeance. His notes on 19:10 and 19:14 (seeking vengeance for God's honour) confirm the thread. Rashi on 19:13 gives only the Targum on the wrapping; Radak reads the vision as reward for Carmel, a different point, not a conflict. Plain sense checked against day.js: 19:11 to 12 say the LORD was not in wind, earthquake or fire and that a still small voice came after; the clause does not claim the LORD was in the voice; no four-word run from the key; 19:9 carries the same question, so 'repeated' stands. verse.js ok, ref 1 Kings 19:13, at [305,13]. entry-check ok on scratch/R-d115-p.json. The only nuance: he says God does not rouse ALL His wrath (echoing Psalm 78:38), which 'not wrath' compresses; as a contrast with the wrathful signs it is within paraphrase, not a new claim.",
+ "better": "Tighter if the owner wants it: '...as God's delight in kindness, not rousing all His wrath, and the repeated question...' (Metzudat David's ולא יעיר כל חמתו)."
+}

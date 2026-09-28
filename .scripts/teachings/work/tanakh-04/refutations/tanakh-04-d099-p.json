@@ -1,0 +1,9 @@
+{
+ "id": "tanakh-04-d099-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json", "found": true},
+ "reopened2": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 99 --verse 11:15. Rashi at 11:15 (lemma ונכה ומת): כדי שתהא מגורשת למפרע, ונמצא שלא בא על אשת איש, with the conditional get of every soldier going to war: carries 'meant to divorce her retroactively under each soldier's conditional writ, so David had not lain with a married woman' without drift (Rashi cites Shabbat 56a, but the comment is his own, in his words, at the place). Metzudat David at 11:15 (lemma ושבתם מאחריו): וכוונתו היתה לישאנה אחרי זה, למען יחשבו שהרתה אחר הנשואין: carries 'meant to let David marry her, the child seeming conceived in marriage'. The two genuinely differ (retroactive divorce, so no adultery with a married woman, against concealment through marriage) and are named without resolution. Plain sense matches 11:4 to 5 and 11:15 to 17 and states the killing plainly; no four-word run from the key. verse.js ok (2 Samuel 11:15, at [273,15]); entry-check ok, no errors or warnings. No school needed, no comparison, no softening beyond attributed readings.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d113-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi via packet.js tanakh 113 --verse 15:14: on the lemma וְהַבָּמוֹת לֹא סָרוּ he writes that these are private altars (בָּמוֹת הַיָּחִיד) on which they offered to Heaven, permitted from Shiloh's destruction until the House was built, not removed now though forbidden since the House, and punishable by karet; the evidence words match verbatim and carry every element of the paraphrase (private, to Heaven, allowed after Shiloh, forbidden once the Temple stood, cut off) with nothing added. Metzudat David on 15:14 agrees (forbidden once the House was built, so reckoned a sin); Radak and the Midrash have nothing on the verse, so no disagreement to name. Plain sense checked against day.js: 15:12 to 13 have Asa remove the idols and depose Maacah, cutting down and burning her image, before 15:14; no four-word run from the key. Key is the verse Rashi comments on; verse.js ok, ref 1 Kings 15:14, at [301,14]. entry-check ok on scratch/R-d113-p.json. Law stated plainly by the commentator, no softening; no school needed; no comparison.",
+ "better": ""
+}

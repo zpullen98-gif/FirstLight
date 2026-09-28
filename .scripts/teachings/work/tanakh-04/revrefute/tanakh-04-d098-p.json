@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d098-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 98 --verse 6.22. Radak under והייתי שפל בעיני: לפניו לכל דבר ואין זה קלון אלא כבוד; under עמם אכבדה: בעיניהן אני נכבד במה שעשיתי כי אם אקל עצמי לכבוד האל אהיה נכבד בעיני הכל לא כמו בעיניך. Lowering himself before God, no disgrace but honour, making light of himself for God's honour so honoured in the eyes of all: every clause is in his words at the place named, nothing added. Rashi and Metzudat David say the same more briefly, so no disagreement to name. Plain: day.js 6:16 (as the ark of the LORD comes into the city Michal sees David leaping and dancing before the LORD and despises him), 6:20 her scornful words, 6:21 'And David said unto Michal'; the clause holds, no four-word run from the key. 'Before the ark' for 'before the LORD, as the ark came in' is a fair context gloss, the ark being in the verse. verse.js ok (2 Samuel 6:22, at [268,22]); entry-check ok on scratch/RR-d098-p.json.",
+ "better": ""
+}

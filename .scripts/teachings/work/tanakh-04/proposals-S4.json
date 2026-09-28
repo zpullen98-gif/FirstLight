@@ -1,0 +1,77 @@
+{
+ "lane": "S4",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 119,
+   "primary": {
+    "id": "tanakh-04-d119-p",
+    "key": "And he answered: ‘Thou shalt not smite them; hast thou taken captive with thy sword and with thy bow those whom thou wouldest smite? set bread and water before them, that they may eat and drink, and go to their master.’",
+    "ref": "2 Kings 6:22",
+    "at": [314, 22],
+    "s": "When the king of Israel asks whether to kill the Aramean troops Elisha has led blinded into Samaria, the prophet answers; Metzudat David, on 6:22, reads it as denying the king any claim on men he never captured, whom a miracle had brought.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, on 2 Kings 6:22, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "האשר שבית. האם הם אשר שבית אתה, לשתכה בהם, הלא בנס הובאו, ומה לך להם",
+     "gloss": "Metzudat David on “hast thou taken captive” (2 Kings 6:22): Are they those whom thou hast taken captive, that thou shouldest smite them? Surely they were brought here by a miracle, and what hast thou to do with them? (Hebrew, On Your Way, Sefaria export 3f10136: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json)"
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d119-s",
+    "key": "And while he yet talked with them, behold, the messenger came down unto him; and [the king] said: ‘Behold, this evil is of the LORD; why should I wait for the LORD any longer?’",
+    "ref": "2 Kings 6:33",
+    "at": [314, 33],
+    "s": "When the siege famine drives two women of Samaria to eat a child, the king swears to take Elisha’s head; Rashi, on 6:33, reads the evil the king names as one of the curses spoken through Moses, that under siege they would eat their children.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, on 2 Kings 6:33, Hebrew (The Metsudah Tanach series, Lakewood, N.J.), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "הִנֵּה זֹאת הָרָעָה מֵאֵת ה'. זֹאת אַחַת מִן הַקְּלָלוֹת שֶׁקִּלֵּל עַל יְדֵי משֶׁה: וְאָכַלְתָּ פְּרִי בִטְנְךָ בְּמָצוֹר וּבְמָצוֹק וְגוֹ'",
+     "gloss": "Rashi on “Behold, this evil is of the LORD” (2 Kings 6:33): This is one of the curses that He cursed through Moses: ‘and thou shalt eat the fruit of thine own body, in the siege and in the straitness’ and so on (Deuteronomy 28:53). [His comment on the same verse just before it names the speaker: וַיֹּאמֶר. הַמֶּלֶךְ = ‘And he said’: the king.] (Hebrew, The Metsudah Tanach series, Lakewood, N.J., Sefaria export 3f10136: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json)"
+    }
+   }
+  },
+  {
+   "d": 120,
+   "primary": {
+    "id": "tanakh-04-d120-p",
+    "key": "And he settled his countenance stedfastly upon him, until he was ashamed; and the man of God wept.",
+    "ref": "2 Kings 8:11",
+    "at": [316, 11],
+    "s": "Hazael, envoy of Aram’s sick king, stands before Elisha, who foresees him killing Israel’s young men, children and pregnant women; Rashi, on 8:11, reads the prophet’s set face as grief held in so as not to weep before Hazael, until long restraint gave way.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, on 2 Kings 8:11, Hebrew (The Metsudah Tanach series, Lakewood, N.J.), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וַיַּעֲמֵד אֶת פָּנָיו. פָּנִים שֶל צַעַר שֶׁלּוֹ שֶׁהָיָה מְבַקֵּשׁ לִבְכּוֹת, הֶעֱמִיד, שֶׁלֹּא יִבְכֶּה בִּפְנֵי חֲזָאֵל, וַיָּשֶׂם לִבּוֹ לַעֲמֹד וּלְהִתְאַפֵּק.",
+     "gloss": "Rashi on “And he settled his countenance” (2 Kings 8:11): His face of grief, for he wanted to weep, he held still, so that he would not weep before Hazael; and he set his heart to stand firm and restrain himself. [His next comment, on עד בש in the same verse: עַד בּשׁ. כְּמוֹ בּוֹשֵׁשׁ, וְלֹא יָכֹל לְהִתְאַפֵּק וַיֵּבְךְּ = ‘until ...’: like ‘delayed’, and he could not restrain himself, and wept.] (Hebrew, The Metsudah Tanach series, Lakewood, N.J., Sefaria export 3f10136: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json)"
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d120-s",
+    "key": "And when he was come in, he did eat and drink; and he said: ‘Look now after this cursed woman, and bury her; for she is a king’s daughter.’",
+    "ref": "2 Kings 9:34",
+    "at": [317, 34],
+    "s": "Having killed both kings, Jehu has Jezebel thrown from a window and trampled; Radak, on 9:34, reads the order as decency owed to anyone of rank among her people, resting on her birth, not on the husband whose death and lost kingdom she had caused.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, on 2 Kings 9:34, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כי בת מלך היא. ואף על פי שהיתה ממלכי אומות העולם צריך לנהוג כבוד בכל נכבד באומתו מדרך המוסר ולא תלה בכבוד בעלה לפי שהיא גרמה מיתתו ואבדון מלכותו",
+     "gloss": "Radak on “for she is a king’s daughter” (2 Kings 9:34): Even though she was of the kings of the other nations, one must show honour to everyone who is honoured in his own nation, as a matter of right conduct; and he did not rest it on the honour of her husband, because she had caused his death and the loss of his kingdom. (Hebrew, Radak on Nach, Sefaria export 3f10136: https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Kings/Hebrew/Radak%20on%20Nach.json)"
+    }
+   }
+  }
+ ]
+}

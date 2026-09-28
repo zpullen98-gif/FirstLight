@@ -1,0 +1,12 @@
+{
+ "id": "tanakh-04-d109-p",
+ "revision": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-04/revise/tanakh-04-d109-p~2.json",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 109 --verse 8.27: Radak on 1 Kings 8:27 (lemma כי האמנם) holds the evidence words verbatim. Every clause is carried: no place contains Him (אין לך מקום שיכילך), the building of the house for God only by way of figure (מה שבניתי הבית לך אינו אלא על דרך משל), and the interceding angel as Solomon's request (בקש שלמה מהאל שיהיה המקום הזה הנבחר מסייע המתפלל בתפלתו כאילו הבית הזה היה מלאך מליץ), attributed as a request, not in Radak's voice. The paraphrase leaves out his aside that God hears a whole-hearted cry in every place, which is an omission, not drift. Locator right: Sefaria files it at 8:27. verse.js: ok, 1 Kings 8:27, at [294,27], an ordinary verse unit, not apparatus, and the verse Radak comments on. Plain sense: day.js shows Solomon's prayer running from 8:22, with the house dedicated at 8:63. 'Temple' is not JPS's word here, but it is the plan's accepted usage in shipped entries. No four-word run from the key. No comparison, no school needed, hard-passage rules do not apply. entry-check.js on the revision: ok, no errors, no warnings, 45 words at the cap.",
+ "better": ""
+}

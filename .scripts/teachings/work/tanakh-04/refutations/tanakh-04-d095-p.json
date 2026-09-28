@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d095-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 95 --verse 28.19. Radak at 28:19 (lemma אתה ובניך עמי): שתהיו מתים כמו שאני מת carries 'with me' as dead like Samuel; and ולפי הפשט אע\"פ ששמואל אמר לו שימות לא יתכן שהיה בורח ויניח עמו במלחמה ועל כל פנים היה לו לירד במלחמה אם למות אם לחיים carries the second half ('though told he would die, could not flee and leave his people, but had to go down to battle, to die or live') without drift; the midrashic material he reports (במחיצתי, Nob atoned) is rightly left out and not attributed to him as his own. Rashi (במחיצתי) and Metzudat David (בקבר כמוני) give only short glosses, so Radak is the fullest comment. Plain sense checked against day.js 28:7 to 19: at En-dor the woman brings up Samuel, Saul pleads that God answers him no more (28:15), Samuel's reply ends on this verse; no four-word run from the key; the foretold defeat and death stand in the key unsoftened. verse.js ok (1 Samuel 28:19, at [259,19]); entry-check ok on scratch/R-d095-p.json, no errors or warnings (45 words, at the cap). Only a minor form note: the second verb 'holds' is outside the rule 1 list, though the verb directly after the commentator is 'reads' and the gate passes.",
+ "better": "Optional form tidy: '... reads ‘with me’ as dead like Samuel, and takes it that Saul, though told he would die, could not flee ...' keeps the second verb inside the rule 1 list."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d091-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 91 --verse 17.37: Rashi on 17:37 (lemma ה' אשר הצילני מיד הארי) says in David's voice that the thing did not befall him for nothing (שלא לחנם נזדמן לי הדבר ההוא) but because he would meet its like for the salvation of Israel (כיוצא בה לתשועת ישראל), and calls it a hint (רמז) given to David and Mordecai, which carries sign. Plain sense matches 17:33 to 36 (Saul: a youth against a man of war; David tells of keeping the sheep) without repeating the key. verse.js ok (1 Samuel 17:37, at [248,37]); entry-check ok, 44 words. No tone, school or comparison problem.",
+ "better": ""
+}

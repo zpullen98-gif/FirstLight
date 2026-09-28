@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-04-d100-p",
+ "d": 100,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And David said unto Nathan: ‘I have sinned against the LORD.’ And Nathan said unto David: ‘The LORD also hath put away thy sin; thou shalt not die.",
+ "ref": "2 Samuel 12:13",
+ "at": [
+  274,
+  13
+ ],
+ "s": "Charged by Nathan with killing Uriah and taking his wife, David confesses and is answered; Radak, on 12:13, reads ‘not die’ as sparing him the death of the wicked in Gehinnom, though he is punished in this world, and Metzudat David, on 12:13, as sparing the life owed for Uriah’s, part of the sin being atoned.",
+ "by": "radak",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Radak and Metzudat David, on 2 Samuel 12:13, Hebrew (Radak: “Radak on Nach”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Radak on II Samuel, Hebrew “Radak on Nach”",
+    "locator": "II Samuel 12:13, לא תמות",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Metzudat David on II Samuel, Hebrew “On Your Way”",
+    "locator": "II Samuel 12:13, גם ה׳",
+    "via": "packet"
+   }
+  ],
+  "words": "ואף על פי שאתה חייב מיתה האל קבל התודותיך ותשובותיך ולא תמות אתה כלומר לא תמות מות רשעים שתרד נפשך בגיהנם כמשפט החוטאין אבל תענש בעולם הזה בעון הזה … כי גמול הראוי הוא להיות נפש תחת נפש, אבל רק על מקצת העון שלם ישלם, וגם העביר מחטאתך וכפר מקצתה להיות לך נפשך לשלל ולא תמות",
+  "lang": "Hebrew",
+  "gloss": "[Radak, on 12:13, ‘thou shalt not die’:] Though you are liable to death, God has accepted your confession and your repentance, and you shall not die; that is, you shall not die the death of the wicked, your soul going down to Gehinnom as is the sentence of sinners, but you shall be punished in this world for this sin. … [Metzudat David, on 12:13, ‘the LORD also’:] For the fitting recompense would be a life for a life; but only for part of the sin shall he pay, and He has also removed of your sin and atoned part of it, so that your life is left to you and you shall not die.",
+  "licence": "Hebrew: Radak, no licence stated by Sefaria (text centuries old); Metzudat David, public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Rashi has nothing on 12:13, so Radak is a fair choice. Radak on 12:13 (לא תמות) takes not dying as not dying the death of the wicked whose soul goes down to Gehinnom, with punishment in this world; Metzudat David on 12:13 (גם ה׳) says the fitting recompense was a life for a life, but only part of the sin is paid and part atoned, so his life is spared. The two genuinely differ (death in Gehinnom against the life owed for Uriah) and the sentence names both without resolving. Plain sense accurate to 12:1 to 13. entry-check ok."
+}

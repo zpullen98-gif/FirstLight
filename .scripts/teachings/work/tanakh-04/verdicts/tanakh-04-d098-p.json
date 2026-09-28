@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d098-p",
+ "d": 98,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And I will be yet more vile than thus, and will be base in mine own sight; and with the handmaids whom thou hast spoken of, with them will I get me honour.",
+ "ref": "2 Samuel 6:22",
+ "at": [
+  268,
+  22
+ ],
+ "s": "Answering Michal, who scorns his dancing before the ark, David replies; Radak, on 6:22, reads it as lowering himself before God, no disgrace but honour, since making light of himself for God’s honour makes him honoured in the eyes of all.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on 2 Samuel, on 2 Samuel 6:22, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on II Samuel, Hebrew (On Your Way) with the Metsudah English, Sefaria export 3f10136",
+    "locator": "2 Samuel 6:22, on ונקלותי עוד and עמם אכבדה (same line, briefer)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on II Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "2 Samuel 6:22, on והייתי שפל בעיני and עמם אכבדה (and 6:21)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on II Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "2 Samuel 6:22 (honoured, since done for the honour of the ark)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on this book",
+    "locator": "nothing on 2 Samuel",
+    "via": "packet"
+   }
+  ],
+  "words": "והייתי שפל בעיני. לפניו לכל דבר ואין זה קלון אלא כבוד … עמם אכבדה. בעיניהן אני נכבד במה שעשיתי כי אם אקל עצמי לכבוד האל אהיה נכבד בעיני הכל לא כמו בעיניך",
+  "lang": "Hebrew",
+  "gloss": "‘And will be base in mine own sight’: before Him in every matter, and this is no disgrace but honour … ‘With them will I get me honour’: in their eyes I am honoured by what I did, for if I make light of myself for the honour of God, I shall be honoured in the eyes of all, not as in yours.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 2 Samuel 6:22 and at [268,22] match. Plain sense faithful: 6:16 Michal despises David leaping and dancing before the LORD as the ark comes in, 6:20 she mocks him, 6:21 to 6:22 are his answer; no four-word run from the key. Read Rashi, Radak and Metzudat David on chapter 6. Radak’s own words on 6:22: base before Him in every matter, no disgrace but honour; and if he makes light of himself for the honour of God he will be honoured in the eyes of all, not as in hers. The sentence paraphrases exactly that. Rashi and Metzudat David agree in substance, so no disagreement to name. The evidence joins Radak’s two comments on the verse with an ellipsis; each piece is verbatim in the packet. entry-check ok on scratch/V-d098-p.json."
+}

@@ -1,0 +1,11 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 109,
+   "id": "tanakh-04-d109-p",
+   "problem": "The batch still carries the unrevised sentence, because the revision was refuted (status.js: revision refuted), so both faults remain. First, the dangling participle critic-1 found: in ‘since no place contains God, built so that prayer there be heard more readily’, ‘built’ attaches to ‘God’. Second, the drift the refuter found on re-opening Radak on כי האמנם: he says that Solomon’s building the house FOR God is only by way of figure (מה שבניתי הבית לך אינו אלא על דרך משל), not that the house itself is a figure, and the interceding-angel clause is framed as Solomon’s request (בקש שלמה מהאל שיהיה המקום הזה הנבחר מסייע המתפלל ... כאילו הבית הזה היה מלאך מליץ), not as the house’s purpose stated in Radak’s own voice.",
+   "fix": "Replace the reading with the refuter’s sentence, which passes entry-check (scratch/RR-d109-p.json, 45 words) and keeps key, ref, at, by and src unchanged: ‘Dedicating the Temple, Solomon turns in his prayer to what the house can be; Radak, on 8:27, reads a house built for God as a figure, since no place contains Him, and Solomon as asking that the chosen place aid prayer like an interceding angel.’"
+  }
+ ]
+}

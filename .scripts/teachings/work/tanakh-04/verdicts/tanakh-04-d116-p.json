@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d116-p",
+ "d": 116,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But Jehoshaphat said: ‘Is there not here besides a prophet of the LORD, that we might inquire of him?’",
+ "ref": "1 Kings 22:7",
+ "at": [
+  308,
+  7
+ ],
+ "s": "Before the kings of Israel and Judah march on Ramoth-gilead, some four hundred prophets promise the king victory; Rashi, on 22:7, reads Jehoshaphat as holding a tradition that no two prophets prophesy in the same words, yet these all spoke alike.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on 1 Kings 22:7, Hebrew (Sefaria’s “The Metsudah Tanach series”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series, Lakewood N.J.), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Kings 22:7, on הַאֵין פֹּה נָבִיא לַה' עוֹד",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 22:7 (gives the same rabbinic tradition, citing the Sages)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 22:6 to 7",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 22:7",
+    "via": "packet"
+   }
+  ],
+  "words": "הַאֵין פֹּה נָבִיא לַה' עוֹד. מְקֻבְּלַנִי אֵין שְׁנֵי נְבִיאִים מִתְנַבְּאִים בְּלָשׁוֹן אֶחָד, וְאֵלֶּה כֻּלָּם לָשׁוֹן אֶחָד אוֹמְרִים.",
+  "lang": "Hebrew",
+  "gloss": "Is there not here another prophet of the LORD: I have received a tradition that no two prophets prophesy in one and the same phrasing, and these all say one and the same phrasing.",
+  "licence": "Hebrew: CC-BY (the Metsudah Tanach, Lakewood N.J.)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Kings 22:7 and at [308,7] match. Plain sense faithful: 22:3 to 6 have the king of Israel propose Ramoth-gilead to Jehoshaphat and about four hundred prophets answer Go up, the LORD will deliver it; no four-word run from the key. Read Rashi across the whole of chapter 22 and every packet source on 22:7 (Radak, Metzudat David; the Midrash has no volume on Kings). Rashi’s own words, spoken in Jehoshaphat’s voice (מקובלני), carry exactly the tradition that no two prophets prophesy in the same phrasing while these all speak alike; Radak and Metzudat David give the same point from the Sages, so no disagreement to name. Source line names Rashi, place and the Hebrew edition read. entry-check ok on scratch/V-d116-p.json."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d107-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 107 --verse 5:17: Radak on מפני המלחמה writes לא רצה לגלות לו הטעם כי האל מנעו כי לא היה כבוד אביו ואמר לו זה הטעם הנרא׳, which carries every clause of the paraphrase (the wars as the apparent reason, God having prevented David, withheld from Hiram because it would not be to his father’s honour). Rashi reads the war as the ground (rest before building, Deuteronomy 12:10) and Radak himself says the same at 5:18, so this is not a disagreement rule 5 requires naming. Context clause matches 5:16 to 20 (Solomon sends to Hiram, cites the promise to David, asks for cedars). verse.js ok (1 Kings 5:17, at [291,17]); entry-check ok.",
+ "better": ""
+}

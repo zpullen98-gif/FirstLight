@@ -1,0 +1,212 @@
+{
+ "lane": "L3",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 105,
+   "primary": {
+    "id": "tanakh-04-d105-p",
+    "key": "And David said unto Gad: ‘I am in a great strait; let us fall now into the hand of the LORD; for His mercies are great; and let me not fall into the hand of man.’",
+    "ref": "2 Samuel 24:14",
+    "at": [
+     286,
+     14
+    ],
+    "s": "Offered famine, flight or pestilence for his census, David answers the prophet; Rashi, on 24:14, reads the LORD’s hand as pestilence, since famine too rests with rich men who hoard grain, and gives Rabbi Alexandri’s teaching that David chose a plague all suffer alike.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 2 Samuel 24:14, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "הדבר, ולא החרב והרעב, שגם הוא מסור לעשירים אוצרי פירות אמר רבי אלכסנדרי: אמר דוד, אם אני בורר לי החרב עכשיו, ישראל אומרים הוא בוטח בגבוריו, שהוא לא ימות והאחרים ימותו, ואם אני בורר הרעב, יאמרו בוטח הוא בעושרו, אברר לי דבר שהכל שוין בו",
+     "gloss": "Pestilence, and not the sword or the famine, for that too is given over to the rich who store up produce. Rabbi Alexandri said: David said, if I choose the sword now, Israel will say he trusts in his warriors, that he will not die and the others will die; and if I choose famine, they will say he trusts in his wealth; I will choose for myself a thing in which all are equal."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d105-s",
+    "key": "And his father had not grieved him all his life in saying: ‘Why hast thou done so?’ and he was also a very goodly man; and he was born after Absalom.",
+    "ref": "1 Kings 1:6",
+    "at": [
+     287,
+     6
+    ],
+    "s": "With David old and failing, Adonijah gathers chariots and claims the throne, and the chapter turns to his upbringing; Metzudat David, on 1:6, reads the unrebuked son, handsome and now eldest, as coming to think all his deeds proper and himself fit to reign.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, on 1 Kings 1:6, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "מעודו, עם כי עשה דבר מה שלא כהוגן, לא היה אביו מעציבו לומר למה עשית כזאת ובעבור זה חשב שכל מעשיו הגונים, וראוי הוא למלוכה … גם בעבור היופי חשב שהגון הוא למלכות … ואם כן היה עתה גדול האחים",
+     "gloss": "That is: all his days, though he did something improper, his father did not grieve him by saying ‘why have you done this?’, and because of this he thought all his deeds proper and himself fit for the kingship … also because of his beauty he thought himself fit for kingship … and so he was now the eldest of the brothers."
+    }
+   }
+  },
+  {
+   "d": 106,
+   "primary": {
+    "id": "tanakh-04-d106-p",
+    "key": "And all Israel heard of the judgment which the king had judged; and they feared the king; for they saw that the wisdom of God was in him, to do justice.",
+    "ref": "1 Kings 3:28",
+    "at": [
+     289,
+     28
+    ],
+    "s": "Closing the story of the two women and the sword, the verse turns to Israel; Radak, on 3:28, reads their fear as dread of doing wrong even in secret, since by his great wisdom he would bring judgement to light, as in this case.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 3:28, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "לפיכך יראו מפניו לעשות דבר רע ואפילו בסתר כי ראו כי ברוב חכמתו יוציא לאור משפט כמו שנעשה בזה המשפט",
+     "gloss": "Therefore they were afraid of him to do any evil thing, even in secret, for they saw that by his great wisdom he would bring judgement to light, as was done in this judgement."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d106-s",
+    "key": "And if thou wilt walk in My ways, to keep My statutes and My commandments, as thy father David did walk, then I will lengthen thy days.’",
+    "ref": "1 Kings 3:14",
+    "at": [
+     289,
+     14
+    ],
+    "s": "In the Gibeon dream, God grants wisdom, then riches and honour unasked, and ends on a condition; Rashi, on 3:14, reads the riches and honour as his whether deserving or guilty, but long days as bound to the Torah’s condition for kings.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 1 Kings 3:14, Hebrew (the Metsudah Tanach, Lakewood N.J.), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "הָעשֶׁר וְהַכָּבוֹד שֶׁלֹּא הִתְנֵיתִי בְּתוֹרָתִי לָתֵת לַמֶּלֶךְ, אֶתֵּן לְךָ, בֵּין זַכַּאי בֵּין חַיָּב, אֲבָל אֹרֶךְ הַיָּמִים וּמַלְכוּת הַדּוֹרוֹת, כְּבָר הִתְנֵיתִי בְּתוֹרָתִי: לְבִלְתִּי סוּר מִן הַמִּצְוָה לְמַעַן יַאֲרִיךְ יָמִים עַל מַמְלַכְתּוֹ וְגוֹ', וְעַל אוֹתוֹ תְּנַאי לֹא אֶשְׁנֶה",
+     "gloss": "The wealth and the honour, which I did not make conditional in My Torah to give to the king, I will give you, whether deserving or guilty; but length of days and the kingdom for the generations I have already made conditional in My Torah, ‘that he turn not aside from the commandment, to the end that he may prolong his days in his kingdom’, and that condition I will not change."
+    }
+   }
+  },
+  {
+   "d": 107,
+   "primary": {
+    "id": "tanakh-04-d107-p",
+    "key": "‘Thou knowest how that David my father could not build a house for the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of my feet.",
+    "ref": "1 Kings 5:17",
+    "at": [
+     291,
+     17
+    ],
+    "s": "Sending to Hiram of Tyre for cedars, Solomon explains why the Temple falls to him; Radak, on 5:17, reads the wars as the apparent reason, Solomon keeping from Hiram that God had withheld the task from David, which would not honour his father.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 5:17, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "לא רצה לגלות לו הטעם כי האל מנעו כי לא היה כבוד אביו ואמר לו זה הטעם הנרא",
+     "gloss": "He did not wish to reveal to him the reason, that God had prevented him, for it was not to his father’s honour, and he told him this apparent reason."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d107-s",
+    "key": "For the house, when it was in building, was built of stone made ready at the quarry; and there was neither hammer nor axe nor any tool of iron heard in the house, while it was in building.",
+    "ref": "1 Kings 6:7",
+    "at": [
+     292,
+     7
+    ],
+    "s": "Between the measures of the chambers against the Temple walls, the text pauses on the building work; Metzudat David, on 6:7, reads it as Solomon’s wish that nothing unfinished come to the site, so every stone was cut whole to measure on the mountain.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, on 1 Kings 6:7, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "כי לא חפץ להביא במקום הבנין דבר בלתי נשלם, ולזה נחצב כל אבן בהר בשלימותה ובמדה הנרצה, ולא נעשה בהם עוד מלאכה במקום הבנין, ולא היה אם כן נשמע שם קול מקבות וגרזן, כי לא נעשה שם דבר, כי אם הנחה לבדה",
+     "gloss": "For he did not wish to bring to the place of building anything unfinished, and so every stone was hewn on the mountain whole and to the desired measure, and no further work was done on them at the place of building, and so no sound of hammer or axe was heard there, for nothing was done there but the laying alone."
+    }
+   }
+  },
+  {
+   "d": 108,
+   "primary": {
+    "id": "tanakh-04-d108-p",
+    "key": "And Solomon was building his own house thirteen years, and he finished all his house.",
+    "ref": "1 Kings 7:1",
+    "at": [
+     293,
+     1
+    ],
+    "s": "After the seven years spent on the Temple, the chapter turns to Solomon’s own palace; Rashi, on 7:1, reads the longer span as told in his praise, quick as he was in the work of the Most High and slow in his own.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 1 Kings 7:1, Hebrew (the Metsudah Tanach, Lakewood N.J.), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וְאֶת בֵּיתוֹ בָּנָה שְׁלֹמֹה שְׁלשׁ עֶשְׂרֵה שָׁנָה. שֶׁבִּמְלֶאכֶת גָּבוֹהַּ נִזְדָּרֵז, וּבְשֶׁלּוֹ נִתְעַצֵּל, וּבְשִׁבְחוֹ סִפֵּר הַכָּתוּב",
+     "gloss": "And his own house Solomon built thirteen years: for in the work of the Most High he was quick, and in his own he was slow, and the text tells it in his praise."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d108-s",
+    "key": "And he set up the pillars at the porch of the temple; and he set up the right pillar, and called the name thereof Jachin; and he set up the left pillar, and called the name thereof Boaz.",
+    "ref": "1 Kings 7:21",
+    "at": [
+     293,
+     21
+    ],
+    "s": "Among the brass works Hiram casts for the Temple, the two pillars are named; Radak, on 7:21, reads the names as a good sign at the entrance, Jachin that the house be established for ever, Boaz that God give it strength and endurance.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 7:21, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "מה שקרא שם לעמודים לסימן טוב לפי שהיו בכניסת הבית קרא להם שמות לסימן טוב לאחד יכין לשון הכנה שיכון הבית לעולם כמו שאמר כירח יכון עולם ובועז לשון עוז והיא מלה מורכבת בו עז כלומר שיתן האל בו עוז וקיום כמו שנאמר ה' עוז לעמו",
+     "gloss": "That he called the pillars by name was for a good sign: because they stood at the entrance of the house he gave them names for a good sign, the one Jachin, a word of establishing, that the house be established for ever, as it says ‘it shall be established for ever as the moon’; and Boaz, a word of strength, a compound word, bo az, ‘in it is strength’, that is, that God give it strength and endurance, as it is said ‘the LORD will give strength unto His people’."
+    }
+   }
+  },
+  {
+   "d": 109,
+   "primary": {
+    "id": "tanakh-04-d109-p",
+    "key": "But will God in very truth dwell on the earth? behold, heaven and the heaven of heavens cannot contain Thee; how much less this house that I have builded!",
+    "ref": "1 Kings 8:27",
+    "at": [
+     294,
+     27
+    ],
+    "s": "Dedicating the Temple, Solomon turns in his prayer to what the house can be; Radak, on 8:27, reads the house as a figure, since no place contains God, built so that prayer there be heard more readily, the chosen place aiding like an interceding angel.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 8:27, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "כלומר באמת היא שישב אלהים עם האדם בארץ זה לא יתכן להאמין כי אתה תתברך ותתעלה על הכל אין לך מקום שיכילך כי אתה מקום העולם ואין העולם מקומך אם כן מה שבניתי הבית לך אינו אלא על דרך משל שיהיה רצונך וכבודך נמצא בבית הזה לשמוע אל התפלה אשר יתפללו במקום הזה ואע\"פ שבכל המקומות היא רצונו אל הצועק אליו בלב שלם לשמוע אל תפלתו בקש שלמה מהאל שיהיה המקום הזה הנבחר מסייע המתפלל בתפלתו כאילו הבית הזה היה מלאך מליץ ותשמע תפלת כל המתפלל בבית הזה בקרוב יותר משיתפלל במקום אחר",
+     "gloss": "That is: is it true that God should dwell with man on the earth? That cannot be believed, for You, blessed and exalted above all, have no place that contains You, for You are the place of the world and the world is not Your place; so my building the house for You is only by way of figure, that Your will and glory be present in this house to hear the prayer that is prayed in this place; and though His will in every place is toward one who cries to Him with a whole heart, to hear his prayer, Solomon asked of God that this chosen place help the one who prays in his prayer, as though this house were an interceding angel, and the prayer of all who pray in this house be heard more nearly than if he prayed in another place."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d109-s",
+    "key": "Then spoke Solomon: The LORD hath said that He would dwell in the thick darkness.",
+    "ref": "1 Kings 8:12",
+    "at": [
+     294,
+     12
+    ],
+    "s": "As the cloud of the LORD’s glory fills the new house, Solomon speaks; Rashi, on 8:12, reads the cloud as his sign that the Presence now rests in the house he built, as God promised to appear in the cloud upon the ark cover.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 1 Kings 8:12, Hebrew (the Metsudah Tanach, Lakewood N.J.), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "כְּשֶׁרָאָה הֶעָנָן, אָמַר: עַתָּה רוֹאֶה אֲנִי שֶׁהַשְּׁכִינָה שׁוֹרָה בַּבַּיִת שֶׁבָּנִיתִי, שֶׁהֲרֵי כָּךְ הִבְטִיחַ לָבֹא וְלִשְׁכֹּן בּוֹ מִתּוֹךְ עָנָן וַעֲרָפֶל, וְהֵיכָן אָמַר: כִּי בֶּעָנָן אֵרָאֶה עַל הַכַּפֹּרֶת, כָּךְ שְׁנוּיָה בַּסִּפְרִי",
+     "gloss": "When he saw the cloud, he said: now I see that the Presence rests in the house that I built, for thus He promised to come and dwell in it out of cloud and thick darkness; and where did He say it? ‘For I appear in the cloud upon the ark-cover’; thus it is taught in the Sifre."
+    }
+   }
+  }
+ ]
+}

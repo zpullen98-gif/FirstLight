@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d092-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 92 --verse 20.16: Rashi on מיד אויבי דוד says Scripture used a euphemism (כנה הכתוב) and God required the sin of David when he broke the covenant by telling Mephibosheth to divide the field with Ziba; Metzudat David on ובקש takes it as Jonathan's words that the LORD will exact recompense from David's enemies and even from himself should he become an enemy by withholding kindness from David's house (ואף ממני ... למנוע החסד מביתו). The two genuinely differ (euphemism for David against literal enemies including Jonathan) and the sentence names both without resolving. Jonathan's son for Mephibosheth is identification, not added reading. Plain sense matches 20:13 to 15. verse.js ok (1 Samuel 20:16, at [251,16]); entry-check ok, 57 words under the two-name cap of 60; src names the edition for each commentator.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d117-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Kings/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 117 --verse 2.24. Radak on the lemma ויראם ויקללם: ונחלקו רז\"ל בזה כי קשה אליהם היאך גרם מיתה עליהם על דבר זה ... ומהם אמרו שלא ראה בהם לחלוחית מצוה ולא עתידה להיות לא בהם ולא בזרעם ... ואמר כי נענש ... ואמרו שלשה חלאים חלה אלישע אחד על שגרה דובים בתינוקות. The evidence words are there verbatim and carry every clause of the reading: the sages troubled by the deaths, several reasons given, one that he saw no trace of a commandment in them or their seed, and that he was punished with illness. The sentence attributes these views to the sages as Radak reports them, not to Radak himself, which is what his comment is, so the attribution is honest; the verifier's correction from Rashi's and Metzudat David's לחלוחית טובה to Radak's לחלוחית מצוה is right. Radak is fuller than Rashi (the default) here because he carries the limit the sages set (Elisha punished), as rule 6 asks. Attacks tried: plain sense restates the verse's event ('curses them and bears maul forty-two'), but rule 6 requires the hard event in one plain clause, it is framed with 2:23 context (mocked by children out of Beth-el), and no four-word run from the key; 'maul' for 'tore' is not graphic; no school needed; no comparison. verse.js ok, ref 2 Kings 2:24, at [310,24]. entry-check ok on scratch/RF-d117-p.json; 45 words (at the cap), src 100 characters.",
+ "better": "Rashi on 2:24 (lemma וַיִּרְאֵם) gives in his own voice that Elisha saw no sap of good in them or their descendants, a shorter reading directly his, if a later pass prefers the default commentator over Radak's report of the sages."
+}

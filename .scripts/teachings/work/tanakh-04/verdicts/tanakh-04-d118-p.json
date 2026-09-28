@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d118-p",
+ "d": 118,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Then he said to Gehazi: ‘Gird up thy loins, and take my staff in thy hand, and go thy way; if thou meet any man, salute him not; and if any salute thee, answer him not; and lay my staff upon the face of the child.’",
+ "ref": "2 Kings 4:29",
+ "at": [
+  312,
+  29
+ ],
+ "s": "Begged by the Shunammite, her son dead, Elisha sends his servant ahead; Rashi, on 4:29, reads the ban on greetings as keeping Gehazi from telling all comers he goes to revive the dead, since boasting does a miracle no honour, yet Gehazi told them.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on 2 Kings 4:29, Hebrew (Sefaria’s “The Metsudah Tanach series”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+    "edition": "Rashi on II Kings, Hebrew (The Metsudah Tanach series, Lakewood N.J.), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "2 Kings 4:29, on לֹא תְבָרְכֶנּוּ",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on II Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "2 Kings 4:29 (haste and undivided purpose; a derash that Gehazi told passers-by the staff revives the dead)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on II Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "2 Kings 4:29 (so as not to tarry on the way)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 2 Kings",
+    "locator": "nothing on 4:29",
+    "via": "packet"
+   }
+  ],
+  "words": "לֹא תְבָרְכֶנּוּ. לֹא תִּשְׁאַל לְשָׁלוֹם, וְכָל זֶה שֶׁלֹּא יַרְבֶּה דְבָרִים וְיִשְׁאָלֵהוּ לְהֵיכָן אַתָּה הוֹלֵךְ, וְהוּא אוֹמֵר לְהַחֲיוֹת אֶת הַמֵּת, וְאֵין זֶה כְּבוֹד הַנֵּס לְהִתְהַלֵּל בּוֹ מִי שֶׁבָּא עַל יָדוֹ. וְהוּא לֹא עָשָׂה כֵּן, אֶלָּא לְכָל הַשּׁוֹאֲלוֹ הוּא אוֹמֵר רַבִּי שְׁלָחַנִי לְהַחֲיוֹת אֶת הַמֵּת.",
+  "lang": "Hebrew",
+  "gloss": "Salute him not: do not ask after his welfare; all this so that he not multiply words and be asked where he is going, and answer, to revive the dead; for it is no honour to the miracle that the one through whom it comes should boast of it. But he did not do so; rather to all who asked him he said, my master sent me to revive the dead.",
+  "licence": "Hebrew: CC-BY (the Metsudah Tanach, Lakewood N.J.)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 2 Kings 4:29 and at [312,29] match. Plain sense faithful: 4:25 to 28 the Shunammite, her son dead (4:20), reaches Elisha on Carmel, catches his feet and reproaches him; in 4:29 he sends Gehazi ahead with his staff; no four-word run from the key. Read Rashi across chapter 4 and every packet source on 4:29 (Radak, Metzudat David; no Midrash Rabbah on Kings). Rashi’s own words carry each clause: the ban on greeting keeps Gehazi from being asked where he goes and answering to revive the dead, it is no honour to the miracle for its agent to boast of it, and Gehazi told every asker. Radak’s derash is close and Metzudat David gives haste only; they add to rather than dispute Rashi, so one commentator suffices. entry-check ok on scratch/V-d118-p.json."
+}

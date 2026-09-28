@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d094-p",
+ "d": 94,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And though man be risen up to pursue thee, and to seek thy soul, yet the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, as from the hollow of a sling.",
+ "ref": "1 Samuel 25:29",
+ "at": [
+  256,
+  29
+ ],
+ "s": "Pleading with David not to avenge Nabal’s insult by bloodshed, Abigail foretells his kingdom; Radak, on 25:29, reads ‘bundle of life’ as David kept alive against his pursuers, walking in God’s ways all his days, and Metzudat David, on 25:29, as the soul’s eternal, spiritual life once it parts from the body.",
+ "by": "radak",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Radak (Hebrew, Radak on Nach) and Metzudat David (Hebrew, On Your Way), on 1 Samuel 25:29, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 25:29, on כף הקלע (the sling’s hollow only)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Samuel 25:29, on והיתה נפש אדני",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 25:29, on והיתה נפש אדוני",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Samuel",
+    "locator": "nothing on 25:29",
+    "via": "packet"
+   }
+  ],
+  "words": "והיתה נפש אדני. שלא יוכלו להמיתך מי שרודפין אותך ותהיה בחיים את השם כלומר שתלך בדרכיו כל ימיך … ובעבור זה תהיה נפש אדוני צרורה בצרור החיים הנצחיים הרוחניים, אחר הפרדה מן הגוף",
+  "lang": "Hebrew",
+  "gloss": "[Radak on 25:29, ‘yet the soul of my lord shall be’:] that those who pursue you will not be able to kill you, and you will be in life with the LORD, that is, you will walk in His ways all your days … [Metzudat David on 25:29, ‘yet the soul of my lord’:] and for this the soul of my lord will be bound in the bundle of the eternal, spiritual life, after its separation from the body.",
+  "licence": "Radak Hebrew: no licence stated by Sefaria (a centuries-old text); Metzudat David Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Samuel 25:29 and at [256,29] match. Plain sense faithful: Abigail pleads with David (25:24 to 31) to keep from bloodguilt over Nabal, and foretells a sure house (25:28) and his appointment as prince over Israel (25:30); no four-word run from the key. Read every packet source on 25:29 and Radak, Rashi and Metzudat David across 25:21 to 34. Radak’s own explanation is this-worldly: his pursuers cannot kill him and he will be in life with God, walking in His ways all his days (he then reports Targum Jonathan and the Sages taking it of the world to come, without adopting it as his own). Metzudat David takes it of the eternal, spiritual life after the soul parts from the body. The two genuinely differ and the sentence names both without resolving. Rashi glosses only the sling. Two-commentator form, 52 words (limit 60), src names each edition. entry-check ok on scratch/V-d094-p.json."
+}

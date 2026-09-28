@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d110-p",
+ "d": 110,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And when the queen of Sheba heard of the fame of Solomon because of the name of the LORD, she came to prove him with hard questions.",
+ "ref": "1 Kings 10:1",
+ "at": [
+  296,
+  1
+ ],
+ "s": "After Solomon’s ships bring Ophir’s gold, a queen travels from Sheba to Jerusalem; Metzudat David, on 10:1, reads the fame as that of a wisdom given by the LORD, not by human nature, and her riddles as a test to make certain of it.",
+ "by": "metzudat-david",
+ "by2": "",
+ "hedge": "",
+ "src": "Metzudat David, Commentary on 1 Kings, on 1 Kings 10:1, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 10:1, on לשם ה׳ and on לנסותו בחידות (and chapter 10 whole)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 10:1, on שמעת and ותבא לנסותו בחידות (and chapters 9 to 10)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew and English (The Metsudah Tanach series, Lakewood N.J.), Sefaria export 3f10136",
+    "locator": "chapters 9 to 10; nothing on 10:1",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 10:1",
+    "via": "packet"
+   }
+  ],
+  "words": "לשם ה׳. רוצה לומר: שמעה אשר חכמתו איננה מטבע האנושי, כי אם מה׳ היתה לו … לנסותו בחידות. לשאלו דברים סתומים קשה הידיעה, ואם יגידם, תדע נאמנה שמאת ה׳ היתה לו החכמה",
+  "lang": "Hebrew",
+  "gloss": "[On ‘because of the name of the LORD’:] That is to say, she heard that his wisdom was not of human nature, but was his from the LORD … [on ‘to prove him with hard questions’:] To ask him hidden things, hard to know; and if he told them, she would know for certain that the wisdom was his from the LORD.",
+  "licence": "Hebrew: public domain (Metzudat David, On Your Way, per the packet)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Kings 10:1 and at [296,1] match. Plain sense faithful: chapter 9 closes with Solomon’s and Hiram’s ships fetching Ophir gold (9:26 to 28), then the queen comes to Jerusalem (10:2); no four-word run from the key. Read every packet source on chapters 9 and 10. Metzudat David’s own words at 10:1 carry both halves of the reading: the fame is of a wisdom not of human nature but from the LORD, and the hard questions are hidden things asked so that, if answered, she would know for certain the wisdom was from the LORD. Radak on 10:1 takes ‘for the name of the LORD’ somewhat differently (Solomon’s wisdom was for the LORD’s sake, unlike that of magicians), but the entry names one commentator only and attributes nothing of Radak’s. Rashi has nothing on 10:1; no Rabbah on Kings. entry-check ok on scratch/X-d110-p.json."
+}

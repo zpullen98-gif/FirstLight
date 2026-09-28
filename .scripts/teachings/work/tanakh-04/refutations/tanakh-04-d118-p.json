@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d118-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi via packet.js tanakh 118 --verse 4.29: on לֹא תְבָרְכֶנּוּ he says do not ask after welfare, all so that Gehazi not multiply words and be asked where he goes and answer to revive the dead, since it is no honour to the miracle that the one through whom it comes boast of it, but Gehazi did not obey and told all who asked that his master sent him to revive the dead; every clause of the paraphrase (ban on greetings, telling all comers, boasting no honour to the miracle, yet he told them) is in those words verbatim. Radak gives the same derash plus haste; Metzudat David gives haste only; complementary, not a disagreement that must be named. Plain sense checked against day.js: the child died (4:20), she seizes Elisha's feet and reproaches him (4:27 to 28), he sends Gehazi, who goes on before them (4:31); 'Begged' is a mild gloss on the feet-clasping supplication and not a doctrinal or evaluative claim, so it stands. Key is 4:29, Rashi's own verse; verse.js ok, ref 2 Kings 4:29, at [312,29]. entry-check ok on scratch/R-d118-p.json (44 words, honour British, no dash). No comparison; death of a child stated plainly without drama.",
+ "better": ""
+}

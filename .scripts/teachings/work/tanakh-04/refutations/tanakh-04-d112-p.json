@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d112-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 112 --verse 14.13: Rashi on דָּבָר טוֹב says the child abandoned his watch, which his father had set him to keep so that no one would go up for the festival, and abandoned it and went up (שֶׁבִּטֵּל מִשְׁמַרְתּוֹ ... וְעָלָה); the paraphrase carries exactly that, no drift. The reading is Rashi’s as printed in his commentary; Radak and Metzudat David report the same from the Sages and do not differ, so nothing needs naming. Plain sense checked against day.js 14:1 to 12: Abijah sick, the wife disguised, Ahijah whose eyes were set by age (fairly ‘blind’), the sweeping away of Jeroboam’s house and the child’s death; no four-word run from the key. verse.js ok (1 Kings 14:13, at [300,13]); entry-check ok on scratch/RF-d112-p.json, identical to the shipping entry. No comparison, school or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d117-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Kings/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 117 --verse 2.24. Radak under ויראם ויקללם: ונחלקו רז\"ל בזה כי קשה אליהם היאך גרם מיתה עליהם (the sages troubled by the deaths), then four views, among them ומהם אמרו שלא ראה בהם לחלוחית מצוה ולא עתידה להיות לא בהם ולא בזרעם (no trace of a commandment in them or their seed), then ואמר כי נענש ... ואמרו שלשה חלאים חלה אלישע אחד על שגרה דובים בתינוקות (Elisha punished with illness). Every clause of the reading is there verbatim at the place named; 'as that' marks the one view as an example, and the sentence frames the reasons as the sages' as Radak reports them, which is what his comment is. Plain: day.js 2:23, he goes up to Beth-el and little children out of the city mock him; the context clause says that and no more, with no four-word run from the key; the hard event stays in the key verse printed above and the deaths are named in the reading, so nothing is softened. Locator right (2:24, first lemma). No school needed, no comparison, allowed verb. verse.js ok (2 Kings 2:24, at [310,24]); entry-check ok on scratch/RR-d117-p.json.",
+ "better": "Rashi on 2:24 (וַיִּרְאֵם) gives in his own voice that Elisha saw no sap of good in them or their descendants, if a later pass prefers the default commentator to Radak's report of the sages."
+}

@@ -100,18 +100,19 @@
    "batches": [
     "tanakh-01",
     "tanakh-02",
-    "tanakh-03"
+    "tanakh-03",
+    "tanakh-04"
    ],
-   "days": 90,
+   "days": 120,
    "of": 267,
    "by": {
-    "rashi": 59,
+    "rashi": 73,
     "ramban": 10,
     "midrash": 5,
     "sforno": 3,
     "ibn-ezra": 1,
-    "radak": 10,
-    "metzudat-david": 2
+    "radak": 21,
+    "metzudat-david": 7
    },
    "hedged": 0
   },

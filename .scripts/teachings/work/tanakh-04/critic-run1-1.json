@@ -1,0 +1,23 @@
+{
+ "ok": false,
+ "problems": [
+  {
+   "d": 96,
+   "id": "tanakh-04-d096-p",
+   "problem": "The reading is sound (Rashi on מהיום ההוא ומעלה: the text says ‘and upward’, not ‘and onward’, because Abraham had already set this rule, Genesis 14:24), but the sentence says only that Rashi ‘reads the Hebrew wording as reaching back in time’ without saying which wording. The reader has the English key verse, which says ‘forward’, so the point of Rashi’s comment is lost.",
+   "fix": "Name the word Rashi comments on, and trim the plain sense to stay under 45 words: ‘After the rout of the Amalekite raiders, David rules that the men left behind at the brook share the spoil; Rashi, on 30:25, reads ‘forward’, in Hebrew ‘and upward’, as reaching back in time, since Abraham had already set this rule.’ (40 words.) Run entry-check again."
+  },
+  {
+   "d": 107,
+   "id": "tanakh-04-d107-p",
+   "problem": "In the reading, ‘which would not honour his father’ attaches grammatically to ‘God had withheld the task from David’, so it reads as if God’s withholding the task was the dishonour. Radak (on מפני המלחמה) says Solomon did not want to reveal the reason, because revealing it would not be to his father’s honour: לא רצה לגלות לו הטעם כי האל מנעו כי לא היה כבוד אביו.",
+   "fix": "‘..., Solomon keeping from Hiram that God had withheld the task from David, since telling it would not honour his father.’ (44 words.) Run entry-check again."
+  },
+  {
+   "d": 109,
+   "id": "tanakh-04-d109-p",
+   "problem": "A dangling participle: in ‘since no place contains God, built so that prayer there be heard more readily’, ‘built’ attaches to ‘God’. A reader at six in the morning will stumble on it. The reading itself is Radak’s (on כי האמנם: על דרך משל ... לשמוע אל התפלה ... כאילו הבית הזה היה מלאך מליץ).",
+   "fix": "Give ‘built’ its own subject within the cap, for example: ‘Dedicating the Temple, Solomon turns in his prayer to what the house can be; Radak, on 8:27, reads the house as a figure, since no place contains God, and its purpose as prayer heard there more readily, the chosen place aiding like an interceding angel.’ (42 words.) Run entry-check again."
+  }
+ ]
+}

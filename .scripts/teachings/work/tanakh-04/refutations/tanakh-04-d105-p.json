@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d105-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 105 --verse 24.14: Rashi on the lemma naflah na beyad reads verbatim as the evidence (the pestilence, not sword or famine, since famine too is handed to the rich who store produce; Rabbi Alexandri: David chose a thing in which all are equal). The paraphrase carries no more; 'hoard grain' is a fair gloss of otsrei perot. Plain sense matches 24:12 to 13 (Gad brings the three choices after the census). Radak gives the same reading and midrash and Metzudat David the pestilence too, so no disagreement to name. verse.js ok (2 Samuel 24:14, at [286,14]); entry-check ok on scratch/R-d105-p.json; 44 words, one semicolon, roster name, verb 'reads', British spelling, no dash. Hard passage (plague) stated without softening or detail.",
+ "better": ""
+}

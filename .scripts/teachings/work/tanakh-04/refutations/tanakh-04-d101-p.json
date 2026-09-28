@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d101-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Radak on II Samuel 14:14 via packet.js --verse 14.14: under the lemma ולא ישא אלהים נפש he writes כי כלנו נמות ואין על האדם להרבות שפיכות דם אלא למעטו, that God commanded death only for a wilful killing with witnesses and warning, exile for the unwitting killer, and no execution without witnesses and warning, and וז\"ש וחשב מחשבות ... אלהים חשב מחשבות ושם משפטים לבלתי ידח ההורג. Every clause of the reading (plea to lessen bloodshed, since all must die; the devising as God's laws sparing a killer without witnesses and warning) is in his words at the place named. verse.js ok (2 Samuel 14:14, at [276,14]); entry-check ok. Plain sense fits 14:1 to 14:13 (Joab sends the woman of Tekoa; her tale turns to the king's banished one, Absalom of 14:1). Hard passage (killing, law) stated without softening. Attacks tried and not landed: drift (Radak adds a second reading, ויש לפרש וחשב מחשבות על המלך, that the king should devise means; the sentence gives his first, the one he introduces with וז\"ש, which is his own, so no false attribution, though the sentence does not mention the alternative).",
+ "better": "Optional: Radak himself offers a second reading of ‘devise means’ as the king's task (ויש לפרש וחשב מחשבות על המלך); not needed to stand, but a reviser could say ‘first’ or leave it as is."
+}

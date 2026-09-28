@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-04-d103-p",
+ "d": 103,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Then she spoke, saying: ‘They were wont to speak in old time, saying: They shall surely ask counsel at Abel; and so they ended the matter.",
+ "ref": "2 Samuel 20:18",
+ "at": [
+  282,
+  18
+ ],
+ "s": "From besieged Abel, where the rebel Sheba has fled, a wise woman calls to Joab; Rashi, on 20:18, reads her words as telling Joab he should first have offered peace, since had his men asked it, the town would at once have agreed.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on 2 Samuel, on 2 Samuel 20:18, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on II Samuel, Hebrew “On Your Way”, Metsudah English",
+    "locator": "II Samuel 20:18, דבר ידברו בראשונה לאמר; שאול ישאלו באבל; וכן התמו",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Radak on II Samuel, Hebrew “Radak on Nach”",
+    "locator": "II Samuel 20:19, דבר ידברו בראשונה (Radak files his note on this lemma at 20:19)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Metzudat David on II Samuel, Hebrew “On Your Way”",
+    "locator": "II Samuel 20:18, דבר וגו׳",
+    "via": "packet"
+   }
+  ],
+  "words": "היה לך לדבר לשלום בראשונה, אם שלום יענוך ויפתחו לך, לא היה לך להלחם עליהם … אם שאלו בני חילך בשלום העיר הזאת, ששמה אבל … מיד היו בני העיר משלימים עמכם",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 20:18:] You ought to have spoken for peace first: if they answered you with peace and opened to you, you ought not to have fought against them … if your troops had asked this city, whose name is Abel, for peace … at once the people of the city would have made peace with you.",
+  "licence": "Hebrew: public domain (Sefaria); gloss is the verifier’s own",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref 2 Samuel 20:18 and at [282,18] match; 26 words, one unit). Read Rashi, Radak and Metzudat David on 20:18 and 20:19 and Rashi across chapter 20 in the packet (no Midrash Rabbah on 2 Samuel). Rashi’s three lemmas on 20:18 say Joab should have spoken for peace first and not fought a town that answered peace, that had his troops asked Abel for peace, the townspeople would at once have made peace. The sentence’s reading carries those words without drift; Metzudat David (citing Deuteronomy 20:10) agrees, Radak (at 20:19) takes it as an old saying that a town is asked first whether it will make peace; no conflict to name. Plain sense fits 20:14 to 17 (Sheba, who raised his hand against the king, is besieged in Abel; a wise woman cries to Joab from the city). The siege is stated plainly. entry-check ok."
+}

@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d114-p",
+ "d": 114,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Hear me, O LORD, hear me, that this people may know that Thou, LORD, art God, for Thou didst turn their heart backward.",
+ "ref": "1 Kings 18:37",
+ "at": [
+  304,
+  37
+ ],
+ "s": "On Carmel, before the fire falls and he slays Baal’s prophets at the Kishon, Elijah prays; Rashi, on 18:37, reads ‘turn their heart’ as God leaving them room to stray, though He could have set their hearts toward Him, and Metzudat David, on 18:37, as a past for a future: by the sign He will turn them back.",
+ "by": "rashi",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Rashi (Hebrew, The Metsudah Tanach series, Lakewood, N.J.) and Metzudat David (Hebrew, On Your Way), on 1 Kings 18:37, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series, Lakewood N.J.), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Kings 18:37, on וְאַתָּה הֲסִבֹּתָ אֶת לִבָּם",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 18:37, on ואתה הסבות וכו׳",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 18:37 (read; not cited)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 18:37",
+    "via": "packet"
+   }
+  ],
+  "words": "נָתַתָּ לָהֶם מָקוֹם לָסוּר מֵאַחֲרֶיךָ, וּבְיָדְךָ הָיָה לְהָכִין לְבָבָם אֵלֶיךָ … עבר במקום עתיד, ורצה לומר: בהנס הזה תסבב אליך את לבם, אשר היה עד הנה אחורנית, להפנות ממך",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 18:37, on ‘and Thou didst turn their heart’:] You gave them room to turn away from following You, and it was in Your hand to set their heart toward You. … [Metzudat David on 18:37:] A past in place of a future, meaning: by this miracle You will turn their heart to You, which until now was backward, turned away from You.",
+  "licence": "Rashi Hebrew: CC-BY (the Metsudah Tanach, Lakewood N.J.); Metzudat David Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Kings 18:37 and at [304,37] match. Plain sense faithful: 18:30 to 36 Elijah rebuilds the altar on Carmel and prays; 18:38 the fire falls; 18:40 the prophets of Baal are slain at the brook Kishon; no four-word run from the key. Opened every packet source on 18:37. Rashi’s own Hebrew (not only the Metsudah English) says God gave them room to turn away though it was in His hand to set their heart toward Him; Metzudat David reads הסבות as a past standing for a future: by this miracle You will turn their heart back to You. The two genuinely differ (a past permission versus a future turning), named without resolving. ‘by the sign’ renders הנס acceptably. Source line names the Hebrew edition read for each commentator. entry-check ok on scratch/V-d114-p.json."
+}

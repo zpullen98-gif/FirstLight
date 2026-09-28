@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d096-p",
+ "d": 96,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And it was so from that day forward, that he made it a statute and an ordinance for Israel unto this day.",
+ "ref": "1 Samuel 30:25",
+ "at": [
+  261,
+  25
+ ],
+ "s": "After the rout of the Amalekite raiders, David rules that the men who guarded the baggage share the spoil with those who fought; Rashi, on 30:25, reads the Hebrew wording as reaching back in time, since Abraham had already set this rule.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on 1 Samuel, on 1 Samuel 30:25, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way) with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 30:25, on מהיום ההוא ומעלה (citing Genesis 14:24 and Genesis Rabbah 43:9)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "nothing on 30:25; chapter 30 read",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 30:25 (David made it a statute for Israel for good, until the exile): a forward reading, not contrary to Rashi",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on this book",
+    "locator": "nothing on 1 Samuel",
+    "via": "packet"
+   }
+  ],
+  "words": "לא נאמר והלאה, אלא ומעלה, כבר הנהיג אברהם בחוק זה (בראשית יד כד): 'בלעדי רק אשר אכלו הנערים' וגו', הם היושבים על הכלים, 'וחלק האנשים', ההולכים במלחמה",
+  "lang": "Hebrew",
+  "gloss": "It does not say ‘onward’ but ‘and upward’ [that is, before]: Abraham had already set this statute (Genesis 14:24), ‘save only that which the young men have eaten’, those who sat by the baggage, ‘and the portion of the men’, those who went to war.",
+  "licence": "Hebrew: public domain (On Your Way)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Samuel 30:25 and at [261,25] match. Plain sense faithful: 30:1 to 30:24 tell the Amalekite raid, its rout and David’s ruling that those who tarried by the baggage share alike; no four-word run from the key. Read Rashi, Radak and Metzudat David across chapter 30. Rashi’s own words on מהיום ההוא ומעלה say the text says ‘and upward’, not ‘onward’, because Abraham had already instituted this statute; the sentence’s ‘reaching back in time’ is exactly that, and it says ‘the Hebrew wording’ since the JPS key prints ‘forward’. Metzudat David reads the verse as David fixing it for all time, a complement rather than a contrary reading, so one commentator suffices. Source line names Rashi, the place and the Hebrew edition. entry-check ok on scratch/V-d096-p.json."
+}

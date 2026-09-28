@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d106-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 106 --verse 3.28: Radak on the lemma laasot mishpat reads verbatim as the evidence (they feared to do evil even in secret, seeing that by his great wisdom he would bring judgement to light, as in this case); the paraphrase follows it clause for clause without addition. Rashi has nothing on 3:28; Metzudat David (he understands the hidden things of the heart) agrees, so no disagreement to name. Plain sense matches 3:16 to 28 (the two women, the sword, then all Israel hears). verse.js ok (1 Kings 3:28, at [289,28]); entry-check ok on scratch/R-d106-p.json; 44 words, one semicolon, roster name, verb 'reads', 'judgement' British, no dash.",
+ "better": ""
+}

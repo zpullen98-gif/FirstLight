@@ -1,0 +1,433 @@
+{
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "div": "2469cf544a",
+ "days": [
+  {
+   "d": 91,
+   "label": "1 Samuel 17 to 18",
+   "id": "tanakh-04-d091-p",
+   "key": "And David said: ‘The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, He will deliver me out of the hand of this Philistine.’",
+   "ref": "1 Samuel 17:37",
+   "at": [
+    248,
+    37
+   ],
+   "s": "Answering Saul’s doubt that a youth can face a man of war, David tells of guarding the flock; Rashi, on 17:37, reads it as David knowing that rescue came not for nothing but as a sign of its like to come for Israel’s salvation.",
+   "by": "rashi",
+   "src": "Rashi, commentary on 1 Samuel 17:37, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 92,
+   "label": "1 Samuel 19 to 20",
+   "id": "tanakh-04-d092-p",
+   "key": "So Jonathan made a covenant with the house of David: ‘The LORD even require it at the hand of David’s enemies.’",
+   "ref": "1 Samuel 20:16",
+   "at": [
+    251,
+    16
+   ],
+   "s": "Planning David’s escape, Jonathan pleads that his house never lose David’s kindness; Rashi, on 20:16, reads ‘David’s enemies’ as a euphemism for David, called to account when he split the field of Jonathan’s son, and Metzudat David, on 20:16, as God exacting it of David’s foes, and of Jonathan himself should he withhold kindness from David’s house.",
+   "by": "rashi",
+   "by2": "metzudat-david",
+   "src": "Rashi (Hebrew, On Your Way) and Metzudat David (Hebrew, On Your Way), on 1 Samuel 20:16, Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 93,
+   "label": "1 Samuel 21 to 23",
+   "id": "tanakh-04-d093-p",
+   "key": "But the servants of the king would not put forth their hand to fall upon the priests of the LORD.",
+   "ref": "1 Samuel 22:17",
+   "at": [
+    253,
+    17
+   ],
+   "s": "Told by Doeg of the help given at Nob, Saul orders his guard to kill the priests; Rashi, on 22:17, reads the refusal as the guards expounding Scripture to hold that a command to sin need not be obeyed, even a king’s.",
+   "by": "rashi",
+   "src": "Rashi, commentary on 1 Samuel 22:17, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 94,
+   "label": "1 Samuel 24 to 25",
+   "id": "tanakh-04-d094-p",
+   "key": "And though man be risen up to pursue thee, and to seek thy soul, yet the soul of my lord shall be bound in the bundle of life with the LORD thy God; and the souls of thine enemies, them shall he sling out, as from the hollow of a sling.",
+   "ref": "1 Samuel 25:29",
+   "at": [
+    256,
+    29
+   ],
+   "s": "Pleading with David not to avenge Nabal’s insult by bloodshed, Abigail foretells his kingdom; Radak, on 25:29, reads ‘bundle of life’ as David kept alive against his pursuers, walking in God’s ways all his days, and Metzudat David, on 25:29, as the soul’s eternal, spiritual life once it parts from the body.",
+   "by": "radak",
+   "by2": "metzudat-david",
+   "src": "Radak (Hebrew, Radak on Nach) and Metzudat David (Hebrew, On Your Way), on 1 Samuel 25:29, Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 95,
+   "label": "1 Samuel 26 to 28",
+   "id": "tanakh-04-d095-p",
+   "key": "Moreover the LORD will deliver Israel also with thee into the hand of the Philistines; and to-morrow shalt thou and thy sons be with me; the LORD will deliver the host of Israel also into the hand of the Philistines.’",
+   "ref": "1 Samuel 28:19",
+   "at": [
+    259,
+    19
+   ],
+   "s": "Called up at En-dor, Samuel answers Saul’s plea; Radak, on 28:19, reads ‘with me’ as dead like Samuel, and holds that Saul, though told he would die, could not flee and leave his people, but had to go down to battle, to die or live.",
+   "by": "radak",
+   "src": "Radak, commentary on 1 Samuel 28:19, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 96,
+   "label": "1 Samuel 29 to 2 Samuel 1",
+   "id": "tanakh-04-d096-p",
+   "key": "And it was so from that day forward, that he made it a statute and an ordinance for Israel unto this day.",
+   "ref": "1 Samuel 30:25",
+   "at": [
+    261,
+    25
+   ],
+   "s": "After the rout of the Amalekite raiders, David rules that the men left behind at the brook share the spoil; Rashi, on 30:25, reads ‘forward’, in Hebrew ‘and upward’, as reaching back in time, since Abraham had already set this rule.",
+   "by": "rashi",
+   "src": "Rashi, commentary on 1 Samuel, on 1 Samuel 30:25, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 97,
+   "label": "2 Samuel 2 to 4",
+   "id": "tanakh-04-d097-p",
+   "key": "And I am this day weak, and just anointed king; and these men the sons of Zeruiah are too hard for me; the LORD reward the evildoer according to his wickedness.",
+   "ref": "2 Samuel 3:39",
+   "at": [
+    265,
+    39
+   ],
+   "s": "Mourning Abner, whom Joab killed for a brother’s blood, David speaks to his servants; Metzudat David, on 3:39, reads it as a king entitled to punish where the law, lacking witnesses, cannot, yet too weak against Joab, and so leaving the judgement to Heaven.",
+   "by": "metzudat-david",
+   "src": "Metzudat David, commentary on 2 Samuel, on 2 Samuel 3:39, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 98,
+   "label": "2 Samuel 5 to 7",
+   "id": "tanakh-04-d098-p",
+   "key": "And I will be yet more vile than thus, and will be base in mine own sight; and with the handmaids whom thou hast spoken of, with them will I get me honour.",
+   "ref": "2 Samuel 6:22",
+   "at": [
+    268,
+    22
+   ],
+   "s": "Rebuked by Michal, who scorns his dancing before the ark, David answers her; Radak, on 6:22, reads it as lowering himself before God, no disgrace but honour, since making light of himself for God’s honour makes him honoured in the eyes of all.",
+   "by": "radak",
+   "src": "Radak, commentary on 2 Samuel, on 2 Samuel 6:22, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 99,
+   "label": "2 Samuel 8 to 11",
+   "id": "tanakh-04-d099-p",
+   "key": "And he wrote in the letter, saying: ‘Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die.’",
+   "ref": "2 Samuel 11:15",
+   "at": [
+    273,
+    15
+   ],
+   "s": "David, having lain with Uriah’s wife, who has conceived, has Uriah killed; Rashi, on 11:15, reads the death as meant to divorce her retroactively under each soldier’s conditional writ, so David had not lain with a married woman, and Metzudat David, on 11:15, as meant to let David marry her, the child seeming conceived in marriage.",
+   "by": "rashi",
+   "by2": "metzudat-david",
+   "src": "Rashi and Metzudat David, on 2 Samuel 11:15, Hebrew (Rashi: Sefaria’s “On Your Way”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 100,
+   "label": "2 Samuel 12 to 13",
+   "id": "tanakh-04-d100-p",
+   "key": "And David said unto Nathan: ‘I have sinned against the LORD.’ And Nathan said unto David: ‘The LORD also hath put away thy sin; thou shalt not die.",
+   "ref": "2 Samuel 12:13",
+   "at": [
+    274,
+    13
+   ],
+   "s": "Charged by Nathan with killing Uriah and taking his wife, David confesses and is answered; Radak, on 12:13, reads ‘not die’ as sparing him the death of the wicked in Gehinnom, though he is punished in this world, and Metzudat David, on 12:13, as sparing the life owed for Uriah’s, part of the sin being atoned.",
+   "by": "radak",
+   "by2": "metzudat-david",
+   "src": "Radak and Metzudat David, on 2 Samuel 12:13, Hebrew (Radak: “Radak on Nach”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 101,
+   "label": "2 Samuel 14 to 15",
+   "id": "tanakh-04-d101-p",
+   "key": "For we must needs die, and are as water spilt on the ground, which cannot be gathered up again; neither doth God respect any person; but let him devise means, that he that is banished be not an outcast from him.",
+   "ref": "2 Samuel 14:14",
+   "at": [
+    276,
+    14
+   ],
+   "s": "Sent by Joab, the woman of Tekoa turns her tale toward Absalom; Radak, on 14:14, reads it as a plea to lessen bloodshed, since all must die, and the devising as God’s laws, which spare a killer where there are no witnesses and warning.",
+   "by": "radak",
+   "src": "Radak, commentary on 2 Samuel, on 2 Samuel 14:14, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 102,
+   "label": "2 Samuel 16 to 18",
+   "id": "tanakh-04-d102-p",
+   "key": "And the king commanded Joab and Abishai and Ittai, saying: ‘Deal gently for my sake with the young man, even with Absalom.’",
+   "ref": "2 Samuel 18:5",
+   "at": [
+    280,
+    5
+   ],
+   "s": "Before the battle in which Joab kills Absalom, David charges his captains; Radak, on 18:5, reads it as a plea not to kill his son or strike him in anger, for though wronged by him, he is a father and has compassion.",
+   "by": "radak",
+   "src": "Radak, Commentary on 2 Samuel, on 2 Samuel 18:5, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 103,
+   "label": "2 Samuel 19 to 20",
+   "id": "tanakh-04-d103-p",
+   "key": "Then she spoke, saying: ‘They were wont to speak in old time, saying: They shall surely ask counsel at Abel; and so they ended the matter.",
+   "ref": "2 Samuel 20:18",
+   "at": [
+    282,
+    18
+   ],
+   "s": "From besieged Abel, where the rebel Sheba has fled, a wise woman calls to Joab; Rashi, on 20:18, reads her words as telling Joab he should first have offered peace, since had his men asked it, the town would at once have agreed.",
+   "by": "rashi",
+   "src": "Rashi, commentary on 2 Samuel, on 2 Samuel 20:18, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 104,
+   "label": "2 Samuel 21 to 23",
+   "id": "tanakh-04-d104-p",
+   "key": "And there was a famine in the days of David three years, year after year; and David sought the face of the LORD. And the LORD said: ‘It is for Saul, and for his bloody house, because he put to death the Gibeonites.’",
+   "ref": "2 Samuel 21:1",
+   "at": [
+    283,
+    1
+   ],
+   "s": "A famine opens a chapter in which seven of Saul’s sons and grandsons are hanged at the Gibeonites’ demand; Metzudat David, on 21:1, reads the ‘bloody house’ as blood Saul shed unprotested by Israel, killing along with Nob’s priests the Gibeonites who served there.",
+   "by": "metzudat-david",
+   "src": "Metzudat David, on 2 Samuel 21:1, Hebrew (On Your Way), Sefaria export, commit 3f10136 (2026)"
+  },
+  {
+   "d": 105,
+   "label": "2 Samuel 24 to 1 Kings 1",
+   "id": "tanakh-04-d105-p",
+   "key": "And David said unto Gad: ‘I am in a great strait; let us fall now into the hand of the LORD; for His mercies are great; and let me not fall into the hand of man.’",
+   "ref": "2 Samuel 24:14",
+   "at": [
+    286,
+    14
+   ],
+   "s": "Offered famine, flight or pestilence for his census, David answers the prophet; Rashi, on 24:14, reads the LORD’s hand as pestilence, since famine too rests with rich men who hoard grain, and gives Rabbi Alexandri’s teaching that David chose a plague all suffer alike.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on 2 Samuel 24:14, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 106,
+   "label": "1 Kings 2 to 3",
+   "id": "tanakh-04-d106-p",
+   "key": "And all Israel heard of the judgment which the king had judged; and they feared the king; for they saw that the wisdom of God was in him, to do justice.",
+   "ref": "1 Kings 3:28",
+   "at": [
+    289,
+    28
+   ],
+   "s": "Closing the story of the two women and the sword, the verse turns to Israel; Radak, on 3:28, reads their fear as dread of doing wrong even in secret, since by his great wisdom he would bring judgement to light, as in this case.",
+   "by": "radak",
+   "src": "Radak, Commentary on 1 Kings, on 1 Kings 3:28, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 107,
+   "label": "1 Kings 4 to 6",
+   "id": "tanakh-04-d107-p",
+   "key": "‘Thou knowest how that David my father could not build a house for the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of my feet.",
+   "ref": "1 Kings 5:17",
+   "at": [
+    291,
+    17
+   ],
+   "s": "Sending to Hiram of Tyre for cedars, Solomon explains why the Temple falls to him; Radak, on 5:17, reads the wars as the apparent reason, Solomon keeping from Hiram that God had withheld the task from David, since telling it would not honour his father.",
+   "by": "radak",
+   "src": "Radak, Commentary on 1 Kings, on 1 Kings 5:17, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 108,
+   "label": "1 Kings 7",
+   "id": "tanakh-04-d108-p",
+   "key": "And Solomon was building his own house thirteen years, and he finished all his house.",
+   "ref": "1 Kings 7:1",
+   "at": [
+    293,
+    1
+   ],
+   "s": "After the seven years spent on the Temple, the chapter turns to Solomon’s own palace; Rashi, on 7:1, reads the longer span as told in his praise, quick as he was in the work of the Most High and slow in his own.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on 1 Kings 7:1, Hebrew (the Metsudah Tanach, Lakewood N.J.), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 109,
+   "label": "1 Kings 8",
+   "id": "tanakh-04-d109-p",
+   "key": "But will God in very truth dwell on the earth? behold, heaven and the heaven of heavens cannot contain Thee; how much less this house that I have builded!",
+   "ref": "1 Kings 8:27",
+   "at": [
+    294,
+    27
+   ],
+   "s": "Dedicating the Temple, Solomon turns in his prayer to what the house can be; Radak, on 8:27, reads a house built for God as a figure, since no place contains Him, and Solomon as asking that the chosen place aid prayer like an interceding angel.",
+   "by": "radak",
+   "src": "Radak, Commentary on 1 Kings, on 1 Kings 8:27, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 110,
+   "label": "1 Kings 9 to 10",
+   "id": "tanakh-04-d110-p",
+   "key": "And when the queen of Sheba heard of the fame of Solomon because of the name of the LORD, she came to prove him with hard questions.",
+   "ref": "1 Kings 10:1",
+   "at": [
+    296,
+    1
+   ],
+   "s": "After Solomon’s ships bring Ophir’s gold, a queen travels from Sheba to Jerusalem; Metzudat David, on 10:1, reads the fame as that of a wisdom given by the LORD, not by human nature, and her riddles as a test to make certain of it.",
+   "by": "metzudat-david",
+   "src": "Metzudat David, Commentary on 1 Kings, on 1 Kings 10:1, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 111,
+   "label": "1 Kings 11 to 12",
+   "id": "tanakh-04-d111-p",
+   "key": "Whereupon the king took counsel, and made two calves of gold; and he said unto them: ‘Ye have gone up long enough to Jerusalem; behold thy gods, O Israel, which brought thee up out of the land of Egypt.’",
+   "ref": "1 Kings 12:28",
+   "at": [
+    298,
+    28
+   ],
+   "s": "Fearing that Temple pilgrims will return to Rehoboam, Jeroboam acts; Radak, on 12:28, reads his words as coaxing: God willed the split, he tells them, so wanted neither David’s house nor Jerusalem, and the calves, like Aaron’s, are for the Presence to rest on.",
+   "by": "radak",
+   "src": "Radak, Commentary on 1 Kings, on 1 Kings 12:28, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 112,
+   "label": "1 Kings 13 to 14",
+   "id": "tanakh-04-d112-p",
+   "key": "And all Israel shall make lamentation for him, and bury him; for he only of Jeroboam shall come to the grave; because in him there is found some good thing toward the LORD, the God of Israel, in the house of Jeroboam.",
+   "ref": "1 Kings 14:13",
+   "at": [
+    300,
+    13
+   ],
+   "s": "The blind prophet Ahijah foretells to Jeroboam’s disguised wife the fall of his house and her sick son’s death; Rashi, on 14:13, reads the good thing as the boy deserting the watch his father set to stop festival pilgrims, and going up himself.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on 1 Kings, on 1 Kings 14:13, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 113,
+   "label": "1 Kings 15 to 16",
+   "id": "tanakh-04-d113-p",
+   "key": "But the high places were not taken away; nevertheless the heart of Asa was whole with the LORD all his days.",
+   "ref": "1 Kings 15:14",
+   "at": [
+    301,
+    14
+   ],
+   "s": "Amid Asa’s purge of idols, his mother’s image among them, the chapter notes what stayed; Rashi, on 15:14, takes the high places as private altars to Heaven, allowed after Shiloh fell but forbidden once the Temple stood, on pain of being cut off.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on 1 Kings, on 1 Kings 15:14, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 114,
+   "label": "1 Kings 17 to 18",
+   "id": "tanakh-04-d114-p",
+   "key": "Hear me, O LORD, hear me, that this people may know that Thou, LORD, art God, for Thou didst turn their heart backward.",
+   "ref": "1 Kings 18:37",
+   "at": [
+    304,
+    37
+   ],
+   "s": "On Carmel, before the fire falls and he slays Baal’s prophets at the Kishon, Elijah prays; Rashi, on 18:37, reads ‘turn their heart’ as God leaving them room to stray, though He could have set their hearts toward Him, and Metzudat David, on 18:37, as a past for a future: by the sign He will turn them back.",
+   "by": "rashi",
+   "by2": "metzudat-david",
+   "src": "Rashi (Hebrew, The Metsudah Tanach series, Lakewood, N.J.) and Metzudat David (Hebrew, On Your Way), on 1 Kings 18:37, Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 115,
+   "label": "1 Kings 19 to 20",
+   "id": "tanakh-04-d115-p",
+   "key": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And, behold, there came a voice unto him, and said: ‘What doest thou here, Elijah?’",
+   "ref": "1 Kings 19:13",
+   "at": [
+    305,
+    13
+   ],
+   "s": "At Horeb the LORD is not in wind, earthquake or fire, and a still small voice follows; Metzudat David, on 19:13, reads the Glory’s coming in that voice as God’s delight in kindness, not wrath, and the repeated question as whether Elijah still seeks vengeance.",
+   "by": "metzudat-david",
+   "src": "Metzudat David, Commentary on 1 Kings, on 1 Kings 19:13, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)"
+  },
+  {
+   "d": 116,
+   "label": "1 Kings 21 to 22",
+   "id": "tanakh-04-d116-p",
+   "key": "But Jehoshaphat said: ‘Is there not here besides a prophet of the LORD, that we might inquire of him?’",
+   "ref": "1 Kings 22:7",
+   "at": [
+    308,
+    7
+   ],
+   "s": "Before the kings of Israel and Judah march on Ramoth-gilead, some four hundred prophets promise the king victory; Rashi, on 22:7, reads Jehoshaphat as holding a tradition that no two prophets prophesy in the same words, yet these all spoke alike.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on 1 Kings 22:7, Hebrew (Sefaria’s “The Metsudah Tanach series”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 117,
+   "label": "2 Kings 1 to 3",
+   "id": "tanakh-04-d117-p",
+   "key": "And he looked behind him and saw them, and cursed them in the name of the LORD. And there came forth two she-bears out of the wood, and tore forty and two children of them.",
+   "ref": "2 Kings 2:24",
+   "at": [
+    310,
+    24
+   ],
+   "s": "On the way to Beth-el, children from the city mock Elisha; Radak, on 2:24, explains that the sages, troubled by the deaths, gave reasons, as that he saw no trace of a commandment in them or their seed, and said he was punished with illness.",
+   "by": "radak",
+   "src": "Radak, Commentary on 2 Kings, on 2 Kings 2:24, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 118,
+   "label": "2 Kings 4 to 5",
+   "id": "tanakh-04-d118-p",
+   "key": "Then he said to Gehazi: ‘Gird up thy loins, and take my staff in thy hand, and go thy way; if thou meet any man, salute him not; and if any salute thee, answer him not; and lay my staff upon the face of the child.’",
+   "ref": "2 Kings 4:29",
+   "at": [
+    312,
+    29
+   ],
+   "s": "Begged by the Shunammite, her son dead, Elisha sends his servant ahead; Rashi, on 4:29, reads the ban on greetings as keeping Gehazi from telling all comers he goes to revive the dead, since boasting does a miracle no honour, yet Gehazi told them.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Prophets, on 2 Kings 4:29, Hebrew (Sefaria’s “The Metsudah Tanach series”), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 119,
+   "label": "2 Kings 6 to 7",
+   "id": "tanakh-04-d119-p",
+   "key": "And he answered: ‘Thou shalt not smite them; hast thou taken captive with thy sword and with thy bow those whom thou wouldest smite? set bread and water before them, that they may eat and drink, and go to their master.’",
+   "ref": "2 Kings 6:22",
+   "at": [
+    314,
+    22
+   ],
+   "s": "When the king of Israel asks whether to kill the Aramean troops Elisha has led blinded into Samaria, the prophet answers; Metzudat David, on 6:22, reads it as denying the king any claim on men he never captured, whom a miracle had brought.",
+   "by": "metzudat-david",
+   "src": "Metzudat David, on 2 Kings 6:22, Hebrew (On Your Way), Sefaria export 3f10136 (2026)"
+  },
+  {
+   "d": 120,
+   "label": "2 Kings 8 to 9",
+   "id": "tanakh-04-d120-p",
+   "key": "And he settled his countenance stedfastly upon him, until he was ashamed; and the man of God wept.",
+   "ref": "2 Kings 8:11",
+   "at": [
+    316,
+    11
+   ],
+   "s": "Hazael, envoy of Aram’s sick king, stands before Elisha, who foresees him killing Israel’s young men, children and pregnant women; Rashi, on 8:11, reads the prophet’s set face as grief held in so as not to weep before Hazael, until long restraint gave way.",
+   "by": "rashi",
+   "src": "Rashi, on 2 Kings 8:11, Hebrew (The Metsudah Tanach series, Lakewood, N.J.), Sefaria export 3f10136 (2026)"
+  }
+ ],
+ "holes": []
+}

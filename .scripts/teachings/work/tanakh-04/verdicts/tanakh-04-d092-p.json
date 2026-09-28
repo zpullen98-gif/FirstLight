@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-04-d092-p",
+ "d": 92,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "So Jonathan made a covenant with the house of David: ‘The LORD even require it at the hand of David’s enemies.’",
+ "ref": "1 Samuel 20:16",
+ "at": [
+  251,
+  16
+ ],
+ "s": "Planning David’s escape, Jonathan pleads that his house never lose David’s kindness; Rashi, on 20:16, reads ‘David’s enemies’ as a euphemism for David, called to account when he split the field of Jonathan’s son, and Metzudat David, on 20:16, as God exacting it of David’s foes, and of Jonathan himself should he withhold kindness from David’s house.",
+ "by": "rashi",
+ "by2": "metzudat-david",
+ "hedge": "",
+ "src": "Rashi (Hebrew, On Your Way) and Metzudat David (Hebrew, On Your Way), on 1 Samuel 20:16, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on I Samuel, Hebrew “On Your Way”",
+    "locator": "I Samuel 20:16, מיד אויבי דוד",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Metzudat David on I Samuel, Hebrew “On Your Way”",
+    "locator": "I Samuel 20:16, ובקש",
+    "via": "packet"
+   }
+  ],
+  "words": "כנה הכתוב, ופירושו: בקש הקב\"ה את העון מיד דוד, כשעבר על הברית ואמר למפיבושת (שמואל-ב יט ל): אתה וציבא תחלקו את השדה, יצתה בת קול ואמרה: רחבעם וירבעם יחלקו את המלכות … זה מדברי יונתן שאמר ה׳ יבקש מאויבי דוד לשלם גמול, ואף ממני, אם אהיה לו לאויב למנוע החסד מביתו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 20:16, ‘at the hand of David’s enemies’:] Scripture used a euphemism, and its meaning is: the Holy One, blessed be He, required the sin at the hand of David, when he broke the covenant and said to Mephibosheth (2 Samuel 19:30), ‘Thou and Ziba divide the field’; a heavenly voice went forth and said, ‘Rehoboam and Jeroboam will divide the kingdom’ … [Metzudat David on 20:16, ‘and require’:] these are Jonathan’s words, who said: the LORD will require recompense of David’s enemies, and even of me, if I become an enemy to him by withholding kindness from his house.",
+  "licence": "Hebrew: public domain (Rashi and Metzudat David)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1 Samuel 20:16 and at [251,16] match). Packet read on 20:14 to 17 for Rashi, Radak and Metzudat David. Rashi on 20:16 calls ‘David’s enemies’ a euphemism (כנה הכתוב) for David, from whom God exacted the sin when he broke the covenant by telling Mephibosheth (Jonathan’s son) and Ziba to divide the field. Metzudat David on 20:16 takes the words at face value as Jonathan’s: God will exact it of David’s enemies and even of Jonathan himself if he withholds kindness from David’s house. A genuine difference, named without resolving. Plain sense faithful to 20:14 to 15. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d096-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 96 --verse 30:25: Rashi on מהיום ההוא ומעלה reads לא נאמר והלאה, אלא ומעלה, כבר הנהיג אברהם בחוק זה, glossing Genesis 14:24 as those who sat by the baggage, so the contrast of ‘onward’ with ‘and upward’ pointing back to Abraham is his, at the place named; he transmits it from Genesis Rabbah 43:9 but adopts it, so the attribution to Rashi holds. The context clause matches 30:9 to 10 and 30:21 to 24 (two hundred left at the brook Besor, David rules they share alike) without repeating the key. verse.js ok (1 Samuel 30:25, at [261,25]); entry-check ok. No hard passage, no comparison, no school needed.",
+ "better": ""
+}

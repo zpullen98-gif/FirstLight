@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d097-p",
+ "d": 97,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And I am this day weak, and just anointed king; and these men the sons of Zeruiah are too hard for me; the LORD reward the evildoer according to his wickedness.",
+ "ref": "2 Samuel 3:39",
+ "at": [
+  265,
+  39
+ ],
+ "s": "Mourning Abner, whom Joab killed for a brother’s blood, David speaks to his servants; Metzudat David, on 3:39, reads it as a king entitled to punish where the law, lacking witnesses, cannot, yet too weak against Joab, and so leaving the judgement to Heaven.",
+ "by": "metzudat-david",
+ "by2": "",
+ "hedge": "",
+ "src": "Metzudat David, commentary on 2 Samuel, on 2 Samuel 3:39, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on II Samuel, Hebrew (On Your Way) with the Metsudah English, Sefaria export 3f10136",
+    "locator": "2 Samuel 3:39, on ואנכי היום רך (the Targum only)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on II Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "2 Samuel 3:39, on רך ומשוח מלך (new in kingship; Zeruiah named as their mother)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on II Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "2 Samuel 3:39, on ואנכי היום",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on this book",
+    "locator": "nothing on 2 Samuel",
+    "via": "packet"
+   }
+  ],
+  "words": "ולפי שמן הדין אין ליואב משפט מות, שלא היו שם עדים והתראה, אולם ניתן רשות למלך לענוש לצורך השעה ביכלתו המוחלט, ולזה שמט ידו ממנו, כי לא היה יכול להם, ומסר דינו לשמים",
+  "lang": "Hebrew",
+  "gloss": "And since by the law Joab has no sentence of death, for there were no witnesses and warning there, though the king is given leave to punish for the need of the hour by his absolute power, he withdrew his hand from him, for he could not prevail against them, and handed his judgement over to Heaven.",
+  "licence": "Hebrew: public domain (On Your Way)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 2 Samuel 3:39 and at [265,39] match. Plain sense faithful: 3:27 has Joab kill Abner for the blood of Asahel his brother, 3:31 to 3:37 the mourning, 3:38 ‘the king said unto his servants’; the killing is stated in one plain clause (rule 6); no four-word run from the key. Read all three commentators across chapter 3. Metzudat David’s own words on ואנכי היום: he is soft of heart before the sons of Zeruiah, who are harder than he; by the law Joab has no death sentence, lacking witnesses and warning, but the king has leave to punish for the need of the hour; he withdrew his hand since he could not prevail, and handed the judgement to Heaven. The sentence carries exactly that. Rashi gives only the Targum; Radak glosses ‘weak’ as new in kingship, not a contrary reading. entry-check ok on scratch/V-d097-p.json."
+}

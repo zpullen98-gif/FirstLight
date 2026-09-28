@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d107-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 107 --verse 5.17: Radak on the lemma mipnei hamilhamah reads verbatim as the evidence (he did not wish to reveal that God had prevented him, as it was not his father's honour, and gave the apparent reason); the paraphrase carries exactly this. Attacked on the missing second name: Rashi on 5:17 says David was not permitted because of the war (rest before the place, Deuteronomy 12:10 to 11), but re-opening 5.18 shows Radak himself gives that same rest-then-build rule, so the two are compatible rather than genuinely differing and one name stands. Plain sense matches 5:16 to 20 (Solomon's message to Hiram, cedars of Lebanon, the house); 'Temple' is the passage's own word in chapter 6. verse.js ok (1 Kings 5:17, at [291,17]); entry-check ok on scratch/R-d107-p.json; 43 words, one semicolon, roster name, verb 'reads', 'honour' British, no dash.",
+ "better": ""
+}

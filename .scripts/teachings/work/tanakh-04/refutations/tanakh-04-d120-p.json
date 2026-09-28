@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d120-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 120 --verse 8.11: Rashi on II Kings 8:11 has two lemmas on the verse, ויעמד את פניו (his face of grief, wanting to weep, he held still so as not to weep before Hazael, setting his heart to restrain himself) and עד בש (like בושש, delay; he could no longer restrain himself and wept). Together they carry grief held in so as not to weep before Hazael, until long restraint gave way, without drift; the locator on 8:11 covers both. Radak and Metzudat David have him turn his face aside instead, which the entry does not claim. Plain sense checked against day.js 8:7 to 8:12: Hazael sent by the sick Ben-hadad, stood before Elisha, Elisha knows the evil he will do (young men slain, little ones dashed, women with child ripped); the entry states it in one plain clause without graphic detail or softening. verse.js ok (2 Kings 8:11, at [316,11], 18 words); entry-check.js ok with no errors or warnings.",
+ "better": ""
+}

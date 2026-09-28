@@ -1,0 +1,55 @@
+{
+ "id": "tanakh-04-d104-p",
+ "d": 104,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And there was a famine in the days of David three years, year after year; and David sought the face of the LORD. And the LORD said: ‘It is for Saul, and for his bloody house, because he put to death the Gibeonites.’",
+ "ref": "2 Samuel 21:1",
+ "at": [
+  283,
+  1
+ ],
+ "s": "A famine opens the chapter in which seven sons of Saul are hanged at the Gibeonites’ demand; Radak, on 21:1, citing the sages, reads the three years as David searching Israel for sin, until in the third he said it rested on him alone.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 2 Samuel, on 2 Samuel 21:1, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Radak on II Samuel, Hebrew “Radak on Nach”",
+    "locator": "II Samuel 21:1, ויבקש דוד את פני ה׳",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on II Samuel, Hebrew “On Your Way”, Metsudah English",
+    "locator": "II Samuel 21:1, אל שאול; ואל בית הדמים; על אשר המית את הגבעונים",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Metzudat David on II Samuel, Hebrew “On Your Way”",
+    "locator": "II Samuel 21:1, ויבקש דוד וגו׳; אל שאול; ואל בית הדמים",
+    "via": "packet"
+   }
+  ],
+  "words": "ומה שפירשו רבותינו ז\"ל בענין זה זהו שנה ראשונה אמר להם דוד לישראל שמא עובדי עבודת גילולים יש בכם דכתיב ועבדתם אלהים אחרים והשתחויתם וגו' ועצר את השמים בדקו ולא מצאו שניי' אמר להם שמא עוברי עבירה יש בכם דכתיב וימנעו רביבים ומלקוש לא היה ומצח אשה זונה היה לך בדקו ולא מצאו שלישית היה רעב אמר אין הדבר תלוי אלא בי מיד ויבקש דוד את פני ה'",
+  "lang": "Hebrew",
+  "gloss": "[Radak, on 21:1, ‘and David sought the face of the LORD’, after giving Saadia Gaon’s answer to why he waited until the third year:] And what our Rabbis of blessed memory explained in this matter is this: in the first year David said to Israel, perhaps there are idolaters among you, as it is written, ‘and ye serve other gods ... and He shut up the heaven’; they searched and did not find. In the second he said to them, perhaps there are transgressors among you, as it is written, ‘the showers have been withheld ... yet thou hadst a harlot’s forehead’; they searched and did not find. In the third there was famine; he said, the matter hangs on none but me; at once ‘David sought the face of the LORD’.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref 2 Samuel 21:1 and at [283,1] match). Radak’s comment on 21:1 (ויבקש דוד את פני ה׳) sets out Saadia Gaon’s answers first and then introduces the year-by-year search as what our Rabbis explained, without choosing between them; the words support the reading exactly (idolaters, then transgressors, then in the third year: the matter hangs on none but me). Changed only “with the sages” to “citing the sages”, since “with” implies Radak sides with the sages against Saadia, which his words do not say; the reading is the sages’ as Radak reports it. Plain sense matches 21:1 to 9 and states the hanging in one plain clause. entry-check ok on the corrected entry."
+}

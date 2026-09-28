@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d119-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Kings/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 119 --verse 6.22: Metzudat David on II Kings 6:22 (lemma האשר שבית) reads האם הם אשר שבית אתה, לשתכה בהם, הלא בנס הובאו, ומה לך להם, which carries both halves of the paraphrase (not men he captured; brought by a miracle; what has he to do with them = no claim) without drift. The miracle element is his alone (Radak has only the question of right, Rashi the custom of not killing captives), so the attribution is specific to him. Plain sense checked against day.js 6:18 to 6:21: blinded, led to Samaria, the king of Israel asks whether to smite; the killing question is stated plainly, not softened or dramatised. No school needed, no comparison. verse.js ok (2 Kings 6:22, at [314,22], 41 words, no dash); entry-check.js ok with no errors or warnings.",
+ "better": ""
+}

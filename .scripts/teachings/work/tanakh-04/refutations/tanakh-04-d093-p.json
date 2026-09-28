@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-04-d093-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 93 --verse 22.17: Rashi on ולא אבו says they expounded the limiting words of Joshua 1:18 (דרשו אכין ורקין), that one who rebels against the ruler's command might be liable even for a command to transgress, so Scripture says only (רק), i.e. a command to sin is excluded; applied by the guards to the king's order in this verse, which is what even a king's states. The key is the second sentence of 22:17, the exact lemma Rashi glosses. Plain sense states the order to kill in one plain clause (rule 6), faithful to 22:9 to 17. verse.js ok (1 Samuel 22:17, at [253,17]); entry-check ok, 42 words. Radak on the verse carries the same derash, so no conflict to name.",
+ "better": ""
+}

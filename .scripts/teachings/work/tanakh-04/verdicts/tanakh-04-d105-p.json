@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d105-p",
+ "d": 105,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And David said unto Gad: ‘I am in a great strait; let us fall now into the hand of the LORD; for His mercies are great; and let me not fall into the hand of man.’",
+ "ref": "2 Samuel 24:14",
+ "at": [
+  286,
+  14
+ ],
+ "s": "Offered famine, flight or pestilence for his census, David answers the prophet; Rashi, on 24:14, reads the LORD’s hand as pestilence, since famine too rests with rich men who hoard grain, and gives Rabbi Alexandri’s teaching that David chose a plague all suffer alike.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Prophets, on 2 Samuel 24:14, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on II Samuel, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "2 Samuel 24:14, on the lemma naflah na beyad (whole of chapter 24 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on II Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "2 Samuel 24:14 (also the pestilence, with the same midrash)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on II Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "2 Samuel 24:14 (the pestilence, for His mercies are many)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 2 Samuel",
+    "locator": "nothing on 24:14",
+    "via": "packet"
+   }
+  ],
+  "words": "הדבר, ולא החרב והרעב, שגם הוא מסור לעשירים אוצרי פירות אמר רבי אלכסנדרי: אמר דוד, אם אני בורר לי החרב עכשיו, ישראל אומרים הוא בוטח בגבוריו, שהוא לא ימות והאחרים ימותו, ואם אני בורר הרעב, יאמרו בוטח הוא בעושרו, אברר לי דבר שהכל שוין בו",
+  "lang": "Hebrew",
+  "gloss": "Pestilence, and not the sword or the famine, for that too is given over to the rich who store up produce. Rabbi Alexandri said: David said, if I choose the sword now, Israel will say he trusts in his warriors, that he will not die and the others will die; and if I choose famine, they will say he trusts in his wealth; I will choose for myself a thing in which all are equal.",
+  "licence": "Hebrew: public domain (Rashi on II Samuel, On Your Way); the Metsudah English (CC-BY) read but not quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 2 Samuel 24:14 and at [286,14] match. Plain sense faithful: 24:12 to 13 have Gad bring the three choices (seven years of famine, three months of flight, three days of pestilence) after the census; no four-word run from the key. Read Rashi across chapter 24 and every packet source on 24:14. Rashi’s own words identify the hand of the LORD as the pestilence, famine being also in the hands of rich men who store produce, and give Rabbi Alexandri’s midrash that David chose the thing in which all are equal; the sentence carries exactly this. Radak gives the same reading and the same midrash, Metzudat David the pestilence too: no disagreement to name. Source line names Rashi, place and the Hebrew edition. entry-check ok on scratch/V-L3pri-d105-p.json."
+}

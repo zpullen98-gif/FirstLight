@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d095-p",
+ "d": 95,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Moreover the LORD will deliver Israel also with thee into the hand of the Philistines; and to-morrow shalt thou and thy sons be with me; the LORD will deliver the host of Israel also into the hand of the Philistines.’",
+ "ref": "1 Samuel 28:19",
+ "at": [
+  259,
+  19
+ ],
+ "s": "Called up at En-dor, Samuel answers Saul’s plea; Radak, on 28:19, reads ‘with me’ as dead like Samuel, and holds that Saul, though told he would die, could not flee and leave his people, but had to go down to battle, to die or live.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, commentary on 1 Samuel 28:19, Hebrew (Radak on Nach) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Rashi on I Samuel, Hebrew (On Your Way), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Samuel 28:19, on אתה ובניך עמי (במחיצתי only)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Samuel/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Samuel, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Samuel 28:19, on אתה ובניך עמי",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Samuel, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Samuel 28:19, on עמי and מחנה ישראל",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Samuel",
+    "locator": "nothing on 28:19",
+    "via": "packet"
+   }
+  ],
+  "words": "אתה ובניך עמי. שתהיו מתים כמו שאני מת … ולפי הפשט אע\"פ ששמואל אמר לו שימות לא יתכן שהיה בורח ויניח עמו במלחמה ועל כל פנים היה לו לירד במלחמה אם למות אם לחיים",
+  "lang": "Hebrew",
+  "gloss": "Thou and thy sons with me: that you will be dead as I am dead … and by the plain sense, although Samuel told him that he would die, it could not be that he should flee and leave his people in the battle; in any case he had to go down into the battle, whether to die or to live.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (a centuries-old text)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Samuel 28:19 and at [259,19] match. Plain sense faithful: at En-dor the woman brings up Samuel, Saul pleads that God no longer answers him (28:15), and Samuel’s reply (28:16 to 19) ends on this verse; no four-word run from the key. Read every packet source on 28:19. Radak’s own words carry both halves of the reading: ‘with me’ means dead as Samuel is dead, and by the plain sense Saul, though told he would die, could not flee and leave his people but had to go down to the battle, to die or to live. The midrashic reading he reports (with me in my compartment, Nob atoned) is left out, and the sentence adds nothing beyond his words. Rashi and Metzudat David give the short gloss only (in my abode; in the grave like me). 45 words; src names the Hebrew edition read. entry-check ok on scratch/V-d095-p.json."
+}

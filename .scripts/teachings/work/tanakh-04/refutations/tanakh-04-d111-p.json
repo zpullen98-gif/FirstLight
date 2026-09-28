@@ -1,0 +1,15 @@
+{
+ "id": "tanakh-04-d111-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [
+  "attribution",
+  "drift",
+  "tone"
+ ],
+ "reason": "Radak’s words at 12:28 are found (ויועץ המלך ... פתה אותם בדברים אמר להם ... כי לא היתה כוונתו לעבודת גילולים), and verse.js and entry-check pass, but the sentence lands two attacks. Attribution/drift: after ‘with no idolatry meant:’ the colon clause (‘God had split the kingdom and so refused Jerusalem, and these calves, like Aaron’s, were for the Presence to rest on’) is written in the narrative past as though it explained Radak’s own view; in Radak every one of those claims is Jeroboam’s pitch (אמר להם ... הלא ידעתם ... הלא אהרן עשה), and Radak himself never says God refused Jerusalem. A six-in-the-morning reader will take the doctrinal claim ‘God refused Jerusalem’ as Radak’s. Tone/limit (rule 6 spirit): ‘with no idolatry meant’ gives Radak’s exculpation without the limit he sets two verses on; at 12:30 (לחטאת) he qualifies it as what Jeroboam said at first (לא אמר ירבעם כי לשם עבודת גילולים) and adds that it then became a sin, the people taking it as a god and going after other gods. The better wording keeps every claim inside Jeroboam’s speech; it passes entry-check (scratch/RF-d111-alt.json, 43 words).",
+ "better": "Fearing that pilgrims to the Temple will return to Rehoboam, Jeroboam acts; Radak, on 12:28, reads his words as coaxing: God split the kingdom, he tells them, so wanted neither David’s house nor Jerusalem, and the calves, like Aaron’s, will bear the Presence."
+}

@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-04-d120-p",
+ "d": 120,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he settled his countenance stedfastly upon him, until he was ashamed; and the man of God wept.",
+ "ref": "2 Kings 8:11",
+ "at": [
+  316,
+  11
+ ],
+ "s": "Hazael, envoy of Aram’s sick king, stands before Elisha, who foresees him killing Israel’s young men, children and pregnant women; Rashi, on 8:11, reads the prophet’s set face as grief held in so as not to weep before Hazael, until long restraint gave way.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, on 2 Kings 8:11, Hebrew (The Metsudah Tanach series, Lakewood, N.J.), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J.json",
+    "edition": "Rashi on II Kings, Hebrew “The Metsudah Tanach series, Lakewood, N.J”, Sefaria-Export-Archive commit 3f10136 (2026-03-23)",
+    "locator": "II Kings 8:11, lemmas ויעמד את פניו and עד בש",
+    "via": "packet"
+   }
+  ],
+  "words": "וַיַּעֲמֵד אֶת פָּנָיו. פָּנִים שֶל צַעַר שֶׁלּוֹ שֶׁהָיָה מְבַקֵּשׁ לִבְכּוֹת, הֶעֱמִיד, שֶׁלֹּא יִבְכֶּה בִּפְנֵי חֲזָאֵל, וַיָּשֶׂם לִבּוֹ לַעֲמֹד וּלְהִתְאַפֵּק.",
+  "lang": "he",
+  "gloss": "“And he settled his countenance”: his face of grief, for he wanted to weep, he held still, so that he would not weep before Hazael, and he set his heart to stand firm and restrain himself. (His next comment on the verse, עד בש, reads it as like בושש, delay: he could not restrain himself longer, and wept.)",
+  "licence": "Hebrew: CC-BY",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 2 Kings 8:11, at [316,11]). Rashi on 8:11 reads the set face as his grief held in so as not to weep before Hazael, and his next comment on the same verse (עד בש, like בושש, delay) has him unable to restrain himself any longer, so he wept: the reading (grief held in until long restraint gave way) is Rashi’s at this place. Radak and Metzudat David instead have him turn his face aside; the entry does not claim otherwise. Plain sense matches 8:8 to 8:12 (Hazael sent by the sick Ben-hadad; Elisha foresees the slaughter of young men, little ones and women with child), stated plainly without graphic detail. 44 words; entry-check ok."
+}

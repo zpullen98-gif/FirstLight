@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d108-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 108 --verse 7.1: Rashi's words at 1 Kings 7:1 read verbatim as the evidence (hurried in the work of the Most High, slow in his own, the text tells it in his praise), and the paraphrase carries no more. verse.js ok (1 Kings 7:1, at [293,1], first unit of the day, 15 words, no dash); entry-check ok on scratch/V-d108-p.json, which matches the shipping entry field for field; 43 words, one semicolon, roster name, verb 'reads', British spelling. The seven years in the context clause come from 6:38 on the day before, which rule 2 allows as what comes before; 'the longer span' is the implied contrast Rashi draws (Metzudat David states it outright), not an addition. Radak on 7:1 is chronology only, so no disagreement to name; no school needed, no comparison, no hard passage.",
+ "better": ""
+}

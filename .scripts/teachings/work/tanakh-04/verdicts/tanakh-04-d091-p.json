@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-04-d091-p",
+ "d": 91,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And David said: ‘The LORD that delivered me out of the paw of the lion, and out of the paw of the bear, He will deliver me out of the hand of this Philistine.’",
+ "ref": "1 Samuel 17:37",
+ "at": [
+  248,
+  37
+ ],
+ "s": "Answering Saul’s doubt that a youth can face a man of war, David tells of guarding the flock; Rashi, on 17:37, reads it as David knowing that rescue came not for nothing but as a sign of its like to come for Israel’s salvation.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, commentary on 1 Samuel 17:37, Hebrew (On Your Way) in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json",
+    "edition": "Sefaria-Export-Archive commit 3f10136 (2026-03-23), Rashi on I Samuel, Hebrew “On Your Way”",
+    "locator": "I Samuel 17:37, ה' אשר הצילני מיד הארי",
+    "via": "packet"
+   }
+  ],
+  "words": "ה' אשר הצילני מיד הארי. יודע אני שלא לחנם נזדמן לי הדבר ההוא, אלא שלעתיד אני בא לידי כיוצא בה לתשועת ישראל, ואסמוך עליה ואצא וזה אחד משני צדיקים שנתן להם רמז, וחשו להשכיל לדבר, דוד ומרדכי",
+  "lang": "Hebrew",
+  "gloss": "The LORD that delivered me from the paw of the lion: I know that this thing did not befall me for nothing, but because in time to come I shall meet its like for the salvation of Israel; so I will rely on it and go out. And he was one of the two righteous men to whom a hint was given and who were quick to grasp it, David and Mordecai.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref 1 Samuel 17:37 and at [248,37] match). Packet read on chapter 17 (Rashi, Radak, Metzudat David; the Midrash has nothing). Rashi on 17:37 says David knew the rescue from the lion did not befall him for nothing but because he would later meet its like for the salvation of Israel, and would rely on it; he calls it a hint (רמז) given to David and Mordecai, which carries the word sign. Plain sense faithful to 17:33 to 36 (Saul calls him a youth against a man of war; David tells of keeping the sheep). entry-check ok."
+}

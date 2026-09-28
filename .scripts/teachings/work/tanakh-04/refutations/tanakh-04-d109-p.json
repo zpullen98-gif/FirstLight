@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d109-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 109 --verse 8.27: Radak on 8:27 (on כי האמנם) says no place contains God, the house is built only by way of figure (על דרך משל) that His will and glory be there to hear prayer, and that Solomon asked the chosen place to aid the one who prays as though it were an interceding angel, prayer there heard more nearly (בקרוב יותר) than elsewhere; each clause of the paraphrase is in his words, with 'more readily' a fair gloss of בקרוב יותר. Rashi here gives word glosses only, so Radak is the right choice; Metzudat David only restates the wonder. verse.js ok (1 Kings 8:27, at [294,27], 29 words, no dash); entry-check ok on scratch/V-d109-p.json, identical to the shipping entry; 45 words (at the cap), one semicolon, roster name, verb 'reads'. Context clause places the verse in Solomon's dedication prayer without repeating it; no comparison, no school needed.",
+ "better": ""
+}

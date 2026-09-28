@@ -1,0 +1,182 @@
+{
+ "lane": "L4",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 110,
+   "primary": {
+    "id": "tanakh-04-d110-p",
+    "key": "And when the queen of Sheba heard of the fame of Solomon because of the name of the LORD, she came to prove him with hard questions.",
+    "ref": "1 Kings 10:1",
+    "at": [296, 1],
+    "s": "After Solomon’s ships bring Ophir’s gold, a queen travels from Sheba to Jerusalem; Metzudat David, on 10:1, reads the fame as that of a wisdom given by the LORD, not by human nature, and her riddles as a test to make certain of it.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, Commentary on 1 Kings, on 1 Kings 10:1, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "לשם ה׳. רוצה לומר: שמעה אשר חכמתו איננה מטבע האנושי, כי אם מה׳ היתה לו … לנסותו בחידות. לשאלו דברים סתומים קשה הידיעה, ואם יגידם, תדע נאמנה שמאת ה׳ היתה לו החכמה",
+     "gloss": "[Metzudat David on 10:1, ‘because of the name of the LORD’:] That is to say, she heard that his wisdom was not of human nature, but was his from the LORD … [on ‘to prove him with hard questions’:] To ask him hidden things, hard to know; and if he told them, she would know for certain that the wisdom was his from the LORD."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d110-s",
+    "key": "And king Solomon gave to the queen of Sheba all her desire, whatsoever she asked, beside that which Solomon gave her of his royal bounty. So she turned, and went to her own land, she and her servants.",
+    "ref": "1 Kings 10:13",
+    "at": [296, 13],
+    "s": "Her questions answered and her gold and spices given, the visitor from Sheba is sent home with gifts; Rashi, on 10:13, reads the first giving as the teaching of wisdom alone, and the bounty beside it as delicacies found in his land, not hers.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on 1 Kings, on 1 Kings 10:13, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "נָתַן לְמַלְכַּת שְׁבָא. נְתִינָה זוֹ אֵינָהּ אֶלָּא לִמּוּד חָכְמָה … מִלְּבַד אֲשֶׁר נָתַן לָהּ. מַתָּנוֹת וּמִגְדָּנוֹת הַמְּצוּיִין כָּאן וְאֵינָם מְצוּיִין בִּמְקוֹמָהּ",
+     "gloss": "[Rashi on 10:13, ‘gave to the queen of Sheba’:] This giving was nothing but the teaching of wisdom … [on ‘beside that which he gave her’:] Gifts and delicacies that are found here and are not found in her own place."
+    }
+   }
+  },
+  {
+   "d": 111,
+   "primary": {
+    "id": "tanakh-04-d111-p",
+    "key": "Whereupon the king took counsel, and made two calves of gold; and he said unto them: ‘Ye have gone up long enough to Jerusalem; behold thy gods, O Israel, which brought thee up out of the land of Egypt.’",
+    "ref": "1 Kings 12:28",
+    "at": [298, 28],
+    "s": "Fearing that pilgrims to the Temple will return to Rehoboam, Jeroboam acts; Radak, on 12:28, reads his words as coaxing, with no idolatry meant: God had split the kingdom and so refused Jerusalem, and these calves, like Aaron’s, were for the Presence to rest on.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 12:28, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ולמה עגלים פתה אותם בדברים אמר להם הלא ידעתם כי המלכות נחלקה ברצון האל כמו שאמר לי אחיה השלוני הנביא אם כן האל לא רצה במלכות בית דוד ולא רצה ג\"כ בירושלם … ולמה עגל אמר להם הלא אהרן עשה לישראל עגל להשרות השכינה בו במקום משה … כי לא היתה כוונתו לעבודת גילולים",
+     "gloss": "[Radak on 12:28, ‘whereupon the king took counsel’:] And why calves? He coaxed them with words. He said to them: Do you not know that the kingdom was divided by the will of God, as Ahijah the Shilonite, the prophet, told me? If so, God did not want the kingdom of the house of David, and did not want Jerusalem either … And why a calf? He said to them: Did not Aaron make Israel a calf, to make the Divine Presence rest on it in place of Moses? … For his intention was not idol worship."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d111-s",
+    "key": "If this people go up to offer sacrifices in the house of the LORD at Jerusalem, then will the heart of this people turn back unto their lord, even unto Rehoboam king of Judah; and they will kill me, and return to Rehoboam king of Judah.’",
+    "ref": "1 Kings 12:27",
+    "at": [298, 27],
+    "s": "Newly king of the ten tribes, Jeroboam reasons with himself; Rashi, on 12:27, hears a fear of the Temple court, where only kings of David’s house may sit: Rehoboam seated and reading the king’s portion at the Assembly, Jeroboam standing among the people, despised.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on 1 Kings, on 1 Kings 12:27, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "אִם יַעֲלֶה הָעָם הַזֶּה וְגוֹ'. אֵין יְשִׁיבָה בָּעֲזָרָה אֶלָּא לְמַלְכֵי בֵּית דָּוִד בִּלְבַד, וְיִהְיֶה הוּא יוֹשֵׁב וַאֲנִי עוֹמֵד, וּבְמוֹצָאֵי שְׁבִיעִית בִּזְמַן הַקְהֵל, יִקְרָא אֶת פָּרָשַׁת הַמֶּלֶךְ, שֶׁהוּא רֹאשׁ בִּמְדִינָתוֹ, וַאֲנִי כִּשְׁאָר הָעָם, נִמְצֵאתִי בָּזוּי",
+     "gloss": "[Rashi on 12:27, ‘if this people go up’:] There is no sitting in the Temple court except for the kings of the house of David alone, and he will be sitting and I standing; and at the close of the seventh year, at the time of the Assembly, he will read the king’s portion, being the head in his land, and I like the rest of the people: I shall be found despised."
+    }
+   }
+  },
+  {
+   "d": 112,
+   "primary": {
+    "id": "tanakh-04-d112-p",
+    "key": "And all Israel shall make lamentation for him, and bury him; for he only of Jeroboam shall come to the grave; because in him there is found some good thing toward the LORD, the God of Israel, in the house of Jeroboam.",
+    "ref": "1 Kings 14:13",
+    "at": [300, 13],
+    "s": "The blind prophet Ahijah foretells to Jeroboam’s disguised wife the fall of his house and her sick son’s death; Rashi, on 14:13, reads the good thing as the boy deserting the watch his father set to stop festival pilgrims, and going up himself.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on 1 Kings, on 1 Kings 14:13, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "דָּבָר טוֹב. שֶׁבִּטֵּל מִשְׁמַרְתּוֹ, שֶׁהוֹשִׁיבוֹ אָבִיו שׁוֹמֵר שֶׁלֹּא יַעֲלֶה אִישׁ לָרֶגֶל, וּבִטֵּל מִשְׁמַרְתּוֹ וְעָלָה",
+     "gloss": "[Rashi on 14:13, ‘some good thing’:] That he abandoned his watch: his father had set him as a guard so that no one would go up for the pilgrim festival, and he abandoned his watch and went up."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d112-s",
+    "key": "And he went and found his carcass cast in the way, and the ass and the lion standing by the carcass; the lion had not eaten the carcass, nor torn the ass.",
+    "ref": "1 Kings 13:28",
+    "at": [299, 28],
+    "s": "Lured by an old prophet’s lie to eat in Beth-el against God’s word, the man of God is killed; Radak, on 13:28, reads the lion that kills but spares the body as a righteous man’s punishment and reward given together in this world.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 13:28, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "לא אכל את הנבלה על דרך וסגר פום אריותא אבל הרגו לעונש שמרה פי השם והנה הראה לנו בזה גמול הצדיק וענשו כאח' בעולם הזה",
+     "gloss": "[Radak on 13:28, ‘the lion had not eaten the carcass, nor torn the ass’:] It did not eat the carcass, after the manner of ‘and He shut the lions’ mouths’, but it killed him as punishment for his rebelling against the word of the LORD; and so He showed us by this the reward of the righteous man and his punishment together, in this world."
+    }
+   }
+  },
+  {
+   "d": 113,
+   "primary": {
+    "id": "tanakh-04-d113-p",
+    "key": "But the high places were not taken away; nevertheless the heart of Asa was whole with the LORD all his days.",
+    "ref": "1 Kings 15:14",
+    "at": [301, 14],
+    "s": "Amid Asa’s purge of idols, his mother’s image among them, the chapter notes what stayed; Rashi, on 15:14, takes the high places as private altars to Heaven, allowed after Shiloh fell but forbidden once the Temple stood, on pain of being cut off.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on 1 Kings, on 1 Kings 15:14, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וְהַבָּמוֹת לֹא סָרוּ. בָּמוֹת הַיָּחִיד, שֶׁהֻרְגְּלוּ לִקָּרֵב עֲלֵיהֶן לַשָּׁמַיִם מִשֶּׁחָרְבָה שִׁילֹה עַד שֶׁנִּבְנָה הַבַּיִת שֶׁהָיוּ הַבָּמוֹת מֻתָּרוֹת, לֹא סָרוּ עַתָּה, וְאַף עַל פִּי שֶׁנֶּאֶסְרוּ מִשֶּׁנִּבְנָה הַבַּיִת, וְהָיוּ עֲנוּשִׁים עָלֶיהָ כָּרֵת",
+     "gloss": "[Rashi on 15:14, ‘but the high places were not taken away’:] The private high places, on which they had grown used to offering to Heaven from when Shiloh was destroyed until the House was built, when the high places were permitted, were not removed now, even though they had been forbidden since the House was built, and they were punishable for it by being cut off."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d113-s",
+    "key": "But in the time of his old age he was diseased in his feet.",
+    "ref": "1 Kings 15:23",
+    "at": [301, 23],
+    "s": "Closing Asa’s reign, after he levies all Judah to carry off Ramah’s stones, the chapter adds a last note; Radak, on 15:23, after the sages, reads it as punishment for that levy, in which, exempting none, he pressed Torah scholars into forced labour.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 1 Kings, on 1 Kings 15:23, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ובדברי רז\"ל אין נקי שעשה אנגריא לתלמידי חכמים ומפני זה נענש וחלה את רגליו מפני שהעביד בעבודה זו תלמידי חכמים",
+     "gloss": "[Radak on 15:23, ‘he was diseased in his feet’:] And in the words of our sages, of blessed memory: ‘none was exempted’, that he made forced labour of Torah scholars; and for this he was punished and diseased in his feet, because he set Torah scholars to work at this labour."
+    }
+   }
+  },
+  {
+   "d": 115,
+   "primary": {
+    "id": "tanakh-04-d115-p",
+    "key": "And it was so, when Elijah heard it, that he wrapped his face in his mantle, and went out, and stood in the entrance of the cave. And, behold, there came a voice unto him, and said: ‘What doest thou here, Elijah?’",
+    "ref": "1 Kings 19:13",
+    "at": [305, 13],
+    "s": "At Horeb the LORD passes, not in wind, earthquake or fire but in a still small voice; Metzudat David, on 19:13, reads the quiet voice as God, who delights in kindness, withholding His wrath, and the repeated question as whether Elijah still comes for vengeance.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, Commentary on 1 Kings, on 1 Kings 19:13, Hebrew (On Your Way), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "מה לך פה. על כי הראהו הכבוד, ולא עבר ברוח וברעש ובאש, כי אם בקול דממה דקה, כי חפץ חסד הוא, ולא יעיר כל חמתו לבוא ברוח וברעש ובאש, ולזה שאל לו שוב, מה לך פה רצה לומר: העודך באת הנה, לבקש נקמה",
+     "gloss": "[Metzudat David on 19:13, ‘What doest thou here’:] Because He showed him the Glory, and it did not pass in the wind, the earthquake and the fire, but in the still small voice, for He delights in kindness and does not rouse all His wrath to come in wind, earthquake and fire; and so He asked him again, ‘What doest thou here’, that is to say: Have you still come here to seek vengeance?"
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d115-s",
+    "key": "Then he numbered the young men of the princes of the provinces, and they were two hundred and thirty-two; and after them he numbered all the people, even all the children of Israel, being seven thousand.",
+    "ref": "1 Kings 20:15",
+    "at": [306, 15],
+    "s": "Besieged in Samaria by Ben-hadad and thirty-two kings, Ahab hears a prophet promise victory and musters his men; Rashi, on 20:15, takes the seven thousand as those the LORD told Elijah He would leave in Israel, whose knees had never bowed to Baal.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on 1 Kings, on 1 Kings 20:15, Hebrew (the Metsudah Tanach series, Lakewood N.J.), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "שִׁבְעַת אֲלָפִים. אוֹמֵר אֲנִי, הֵם שֶׁאָמַר עֲלֵיהֶם: כָּל הַבִּרְכַּיִם אֲשֶׁר לֹא כָרְעוּ לַבַּעַל שִׁבְעַת אֲלָפִים",
+     "gloss": "[Rashi on 20:15, ‘seven thousand’:] I say that they are those of whom it was said, ‘all the knees which have not bowed unto Baal’, seven thousand."
+    }
+   }
+  }
+ ]
+}

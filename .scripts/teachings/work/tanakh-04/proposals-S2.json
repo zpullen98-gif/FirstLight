@@ -1,0 +1,89 @@
+{
+ "lane": "S2",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 102,
+   "primary": {
+    "id": "tanakh-04-d102-p",
+    "key": "And the king commanded Joab and Abishai and Ittai, saying: ‘Deal gently for my sake with the young man, even with Absalom.’",
+    "ref": "2 Samuel 18:5",
+    "at": [
+     280,
+     5
+    ],
+    "s": "Before the battle in which Joab kills Absalom, David charges his captains; Radak, on 18:5, reads it as a plea not to kill his son or strike him in anger, for though wronged by him, he is a father and has compassion.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 2 Samuel, on 2 Samuel 18:5, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "אם תפגעו בו במלחמה לאט לו בעבורי ואל תהרגוהו שלא אראה ברעתו כי אע\"פ שהרע לי אני אב לרחם ופי' לאט בנחת כלומר לא תבואו בכעס וברוגז להכותו כמו שהיה ראוי שמרו לו בעבורי",
+     "gloss": "Radak on “Deal gently for my sake with the young man, even with Absalom”: if you meet him in battle, deal gently with him for my sake and do not kill him, so that I may not look upon his harm, for although he did me evil, I am a father, to have compassion; and “gently” means calmly, that is, do not come upon him in anger and in rage to strike him, as would have been fitting; guard him for my sake."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d102-s",
+    "key": "And David said to Abishai, and to all his servants: ‘Behold, my son, who came forth of my body, seeketh my life; how much more this Benjamite now? let him alone, and let him curse; for the LORD hath bidden him.",
+    "ref": "2 Samuel 16:11",
+    "at": [
+     278,
+     11
+    ],
+    "s": "Cursed and stoned by Shimei as he flees from Absalom, David forbids Abishai to kill him; Metzudat David, on 16:11, reads it as David seeing the LORD’s hand at work, since a son by nature pities his father, yet his own seeks his life.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 2 Samuel, on 2 Samuel 16:11, Hebrew (On Your Way), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "רצה לומר: הלא בדרך הטבע שהבן חס על אביו, והנכם רואים שהוא מבקש נפשי, ומזה נראה שיד ה׳ עשתה זאת",
+     "gloss": "Metzudat David on “Behold, my son”: that is to say, is it not the way of nature that a son has pity on his father, and you see that he seeks my life; and from this it appears that the hand of the LORD has done this."
+    }
+   }
+  },
+  {
+   "d": 104,
+   "primary": {
+    "id": "tanakh-04-d104-p",
+    "key": "And there was a famine in the days of David three years, year after year; and David sought the face of the LORD. And the LORD said: ‘It is for Saul, and for his bloody house, because he put to death the Gibeonites.’",
+    "ref": "2 Samuel 21:1",
+    "at": [
+     283,
+     1
+    ],
+    "s": "A famine opens the chapter in which seven sons of Saul are hanged at the Gibeonites’ demand; Radak, on 21:1, with the sages, reads the three years as David searching Israel for sin, until in the third he said it rested on him alone.",
+    "by": "radak",
+    "by2": "",
+    "hedge": "",
+    "src": "Radak, Commentary on 2 Samuel, on 2 Samuel 21:1, Hebrew (Radak on Nach), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "radak",
+     "words": "ומה שפירשו רבותינו ז\"ל בענין זה זהו שנה ראשונה אמר להם דוד לישראל שמא עובדי עבודת גילולים יש בכם דכתיב ועבדתם אלהים אחרים והשתחויתם וגו' ועצר את השמים בדקו ולא מצאו שניי' אמר להם שמא עוברי עבירה יש בכם דכתיב וימנעו רביבים ומלקוש לא היה ומצח אשה זונה היה לך בדקו ולא מצאו שלישית היה רעב אמר אין הדבר תלוי אלא בי מיד ויבקש דוד את פני ה'",
+     "gloss": "Radak on “and David sought the face of the LORD” (after asking why he did not seek until the third year, and giving Rabbi Saadia Gaon’s answer): and what our Rabbis of blessed memory explained in this matter is this: the first year David said to Israel, perhaps there are idolaters among you, as it is written, “and ye serve other gods ... and He shut up the heaven”; they searched and did not find. The second, he said to them, perhaps there are transgressors among you, as it is written, “the showers have been withheld ... yet thou hadst a harlot’s forehead”; they searched and did not find. The third, there was famine; he said, the matter hangs on none but me; at once “David sought the face of the LORD”."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d104-s",
+    "key": "And the three mighty men broke through the host of the Philistines, and drew water out of the well of Beth-lehem, that was by the gate, and took it, and brought it to David; but he would not drink thereof, but poured it out unto the LORD.",
+    "ref": "2 Samuel 23:16",
+    "at": [
+     285,
+     16
+    ],
+    "s": "Amid a roll of David’s warriors and the Philistines they slew, three hear him long for water from Beth-lehem; Metzudat David, on 23:16, reads them as going of their own accord to please David, as if splitting the camp to make themselves a road.",
+    "by": "metzudat-david",
+    "by2": "",
+    "hedge": "",
+    "src": "Metzudat David, commentary on 2 Samuel, on 2 Samuel 23:16, Hebrew (On Your Way), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "metzudat-david",
+     "words": "כאשר שמעו שהתאוה לה, הלכו מעצמם לעשות נחת רוח לדוד, ועברו דרך המחנה, וכאלו בקעוה לעשות בה דרך לעצמם",
+     "gloss": "Metzudat David on “And they broke through”: when they heard that he longed for it, they went of themselves to give David pleasure, and passed through the camp, as though they split it open to make in it a road for themselves."
+    }
+   }
+  }
+ ]
+}

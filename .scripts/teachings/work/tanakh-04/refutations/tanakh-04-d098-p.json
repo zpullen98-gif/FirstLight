@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d098-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Radak on II Samuel 6:22 via packet.js --verse 6:22 (and 6:20, 6:21 for context): under והייתי שפל בעיני he writes לפניו לכל דבר ואין זה קלון אלא כבוד, and under עמם אכבדה, בעיניהן אני נכבד במה שעשיתי כי אם אקל עצמי לכבוד האל אהיה נכבד בעיני הכל לא כמו בעיניך. Every clause of the reading (lowering himself before God; no disgrace but honour; making light of himself for God’s honour makes him honoured in the eyes of all) is in his words at the place named, with no addition. verse.js ok (2 Samuel 6:22, at [268,22]); entry-check ok (41 words). Plain sense checked: 6:16 Michal despises David seeing him leaping and dancing before the LORD as the ark comes in, 6:20 her scorn, 6:21 to 6:22 his answer; no four-word run from the key. Attacks tried and not landed: attribution (Rashi and Metzudat David say the same more briefly, so no disagreement to name); drift (Radak’s closing ‘not as in yours’ is omitted, which claims less); plain (‘before the ark’ where the text says ‘before the LORD’ as the ark came in: the ark is in the text at 6:16, so it stands); verse; locator; school; comparison; tone; form.",
+ "better": ""
+}

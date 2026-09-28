@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d107-p",
+ "d": 107,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘Thou knowest how that David my father could not build a house for the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of my feet.",
+ "ref": "1 Kings 5:17",
+ "at": [
+  291,
+  17
+ ],
+ "s": "Sending to Hiram of Tyre for cedars, Solomon explains why the Temple falls to him; Radak, on 5:17, reads the wars as the apparent reason, Solomon keeping from Hiram that God had withheld the task from David, which would not honour his father.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Kings, on 1 Kings 5:17, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 5:17, on the lemma mipnei hamilhamah (with 5:18 on rest before the command)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series), with the Metsudah English, Sefaria export 3f10136",
+    "locator": "1 Kings 5:17 (not permitted because of the war, Deuteronomy 12:10 to 11)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 5:17 (his father was troubled by war all his days)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 5:17",
+    "via": "packet"
+   }
+  ],
+  "words": "לא רצה לגלות לו הטעם כי האל מנעו כי לא היה כבוד אביו ואמר לו זה הטעם הנרא",
+  "lang": "Hebrew",
+  "gloss": "He did not wish to reveal to him the reason, that God had prevented him, for it was not his father’s honour, and he told him this, the apparent reason.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation of a medieval text; no English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Kings 5:17 and at [291,17] match. Plain sense faithful: 5:16 to 20 are Solomon’s message to Hiram asking for cedars of Lebanon for the house for the LORD’s name; no four-word run from the key. Radak’s own words on 5:17 (lemma mipnei hamilhamah): Solomon did not wish to reveal that God had prevented David, as it was not to his father’s honour, and gave this apparent reason; the sentence carries this. Considered naming Rashi (not permitted because of the war, citing the rest-before-the-place rule of Deuteronomy 12:10 to 11), but Radak himself gives that same rule on 5:18, so the two do not genuinely differ and the single commentator stands. A two-name draft was gated (scratch/V-d107-p.json) and set aside for that reason. entry-check ok on scratch/V-L3pri-d107-p.json."
+}

@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d106-p",
+ "d": 106,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And all Israel heard of the judgment which the king had judged; and they feared the king; for they saw that the wisdom of God was in him, to do justice.",
+ "ref": "1 Kings 3:28",
+ "at": [
+  289,
+  28
+ ],
+ "s": "Closing the story of the two women and the sword, the verse turns to Israel; Radak, on 3:28, reads their fear as dread of doing wrong even in secret, since by his great wisdom he would bring judgement to light, as in this case.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Kings, on 1 Kings 3:28, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 3:28, on the lemma laasot mishpat (whole of chapter 3 read)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series), Sefaria export 3f10136",
+    "locator": "nothing on 3:28",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 3:28 (he understands the hidden things of the heart; agrees)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 3:28",
+    "via": "packet"
+   }
+  ],
+  "words": "לפיכך יראו מפניו לעשות דבר רע ואפילו בסתר כי ראו כי ברוב חכמתו יוציא לאור משפט כמו שנעשה בזה המשפט",
+  "lang": "Hebrew",
+  "gloss": "Therefore they were afraid before him to do any evil thing, even in secret, for they saw that by the abundance of his wisdom he would bring judgement to light, as was done in this judgement.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation of a medieval text; no English quoted",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok, ref 1 Kings 3:28 and at [289,28] match. Plain sense faithful: 3:16 to 27 tell the two women and the sword, and 3:28 turns to all Israel hearing the judgement; no four-word run from the key. Read every packet source on chapter 3: Rashi has nothing on 3:28; Radak’s own words on 3:28 (lemma laasot mishpat) say they feared to do evil even in secret, seeing that by his great wisdom he would bring judgement to light as in this case, which the sentence carries without addition. Metzudat David (he understands the hidden things of the heart) agrees: no disagreement to name. entry-check ok on scratch/V-L3pri-d106-p.json."
+}

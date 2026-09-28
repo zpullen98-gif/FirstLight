@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d103-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20II%20Samuel/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened Rashi on II Samuel 20:18 via packet.js --verse 20.18: דבר ידברו בראשונה לאמר. היה לך לדבר לשלום בראשונה, אם שלום יענוך ויפתחו לך, לא היה לך להלחם עליהם; שאול ישאלו באבל. אם שאלו בני חילך בשלום העיר הזאת; וכן התמו. מיד היו בני העיר משלימים עמכם. The reading (Joab should first have offered peace; had his men asked it, the town would at once have agreed) is carried by his three lemmas at the place named, singular לך addressed to Joab. verse.js ok (2 Samuel 20:18, at [282,18]); entry-check ok. Plain sense fits 20:14 to 20:17 (Sheba, who lifted his hand against the king, is besieged in Abel; a wise woman cries out to Joab). Attacks tried and not landed: comparison (none); school (not needed); disagreement (Radak at 20:19 and Metzudat David at 20:18 read the words to the same effect, peace offered first, so nothing to name); the JPS rendering as an old saying is the translation's, and the reading is correctly given as Rashi's, not the translator's.",
+ "better": ""
+}

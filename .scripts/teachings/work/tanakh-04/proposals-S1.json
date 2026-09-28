@@ -1,0 +1,89 @@
+{
+ "lane": "S1",
+ "plan": "tanakh",
+ "batch": "tanakh-04",
+ "days": [
+  {
+   "d": 99,
+   "primary": {
+    "id": "tanakh-04-d099-p",
+    "key": "And he wrote in the letter, saying: ‘Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die.’",
+    "ref": "2 Samuel 11:15",
+    "at": [
+     273,
+     15
+    ],
+    "s": "David, having lain with Uriah’s wife, who has conceived, has Uriah killed; Rashi, on 11:15, reads the death as meant to divorce her retroactively under each soldier’s conditional writ, so David had not lain with a married woman, and Metzudat David, on 11:15, as meant to let David marry her, the child seeming conceived in marriage.",
+    "by": "rashi",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Rashi and Metzudat David, on 2 Samuel 11:15, Hebrew (Rashi: Sefaria’s “On Your Way”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; metzudat-david",
+     "words": "ונכה ומת. כדי שתהא מגורשת למפרע, ונמצא שלא בא על אשת איש, שכל היוצא למלחמה, כותב גט לאשתו על תנאי, אם ימות במלחמה … ושבתם מאחריו. לבל יעזרוהו, ויהיה נכה מבני עמון וימות, וכוונתו היתה לישאנה אחרי זה, למען יחשבו שהרתה אחר הנשואין",
+     "gloss": "[Rashi, on 11:15, ‘that he may be smitten, and die’:] So that she would be divorced retroactively, and it would turn out that he had not come upon a married woman, for everyone who goes out to war writes his wife a bill of divorce on condition, if he should die in the war. … [Metzudat David, on 11:15, ‘and retire ye from him’:] So that they would not help him, and he would be struck by the Ammonites and die; and his intention was to marry her after this, so that people would think she had conceived after the marriage."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d099-s",
+    "key": "And David reigned over all Israel; and David executed justice and righteousness unto all his people.",
+    "ref": "2 Samuel 8:15",
+    "at": [
+     270,
+     15
+    ],
+    "s": "After conquests in which David puts two lines of Moabites to death, the chapter turns to his rule; Rashi, on 8:15, reads it with Joab’s command: David’s justice made Joab prosper, Joab’s policing upheld it, and Joab’s wars left David’s heart free to judge.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 2 Samuel 8:15, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "דוד גרם ליואב להיות מצליח על הצבא, לפי שעשה משפט וצדקה, ויואב גרם לדוד לעשות משפט וצדקה, לפי שהוא דן, ויואב שוטר ורודה על ידו, ועוד, מתוך שיואב עסק במלחמות, לא היה דוד טרוד בהן, ולבו פתוח לשפוט צדק",
+     "gloss": "[Rashi, on 8:15, ‘David executed justice … and Joab … was over the host’:] David caused Joab to succeed over the host, because he did justice and righteousness; and Joab caused David to do justice and righteousness, because David judged and Joab policed and enforced by his hand. And further: since Joab busied himself with the wars, David was not taken up with them, and his heart was open to judge righteously."
+    }
+   }
+  },
+  {
+   "d": 100,
+   "primary": {
+    "id": "tanakh-04-d100-p",
+    "key": "And David said unto Nathan: ‘I have sinned against the LORD.’ And Nathan said unto David: ‘The LORD also hath put away thy sin; thou shalt not die.",
+    "ref": "2 Samuel 12:13",
+    "at": [
+     274,
+     13
+    ],
+    "s": "Charged by Nathan with killing Uriah and taking his wife, David confesses and is answered; Radak, on 12:13, reads ‘not die’ as sparing him the death of the wicked in Gehinnom, though he is punished in this world, and Metzudat David, on 12:13, as sparing the life owed for Uriah’s, part of the sin being atoned.",
+    "by": "radak",
+    "by2": "metzudat-david",
+    "hedge": "",
+    "src": "Radak and Metzudat David, on 2 Samuel 12:13, Hebrew (Radak: “Radak on Nach”; Metzudat David: “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "radak; metzudat-david",
+     "words": "ואף על פי שאתה חייב מיתה האל קבל התודותיך ותשובותיך ולא תמות אתה כלומר לא תמות מות רשעים שתרד נפשך בגיהנם כמשפט החוטאין אבל תענש בעולם הזה בעון הזה … כי גמול הראוי הוא להיות נפש תחת נפש, אבל רק על מקצת העון שלם ישלם, וגם העביר מחטאתך וכפר מקצתה להיות לך נפשך לשלל ולא תמות",
+     "gloss": "[Radak, on 12:13, ‘thou shalt not die’:] Though you are liable to death, God has accepted your confession and your repentance, and you shall not die; that is, you shall not die the death of the wicked, your soul going down to Gehinnom as is the sentence of sinners, but you shall be punished in this world for this sin. … [Metzudat David, on 12:13, ‘the LORD also’:] For the fitting recompense would be a life for a life; but only for part of the sin shall he pay, and He has also removed of your sin and atoned part of it, so that your life is left to you and you shall not die."
+    }
+   },
+   "standby": {
+    "id": "tanakh-04-d100-s",
+    "key": "And there came a traveller unto the rich man, and he spared to take of his own flock and of his own herd, to dress for the wayfaring man that was come unto him, but took the poor man’s lamb, and dressed it for the man that was come to him.’",
+    "ref": "2 Samuel 12:4",
+    "at": [
+     274,
+     4
+    ],
+    "s": "Nathan, sent after David takes Uriah’s wife and has him killed, ends his parable of two men; Rashi, on 12:4, reads the three names for the visitor as the evil inclination, first a passer-by, then a lodger, at last master of the house.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Prophets, on 2 Samuel 12:4, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ויבא הלך. דימה את יצר הרע תחלה להלך, שעובר לדרכו, ואחר כך לאורח, שנעשה אכסנאי, ואחר כך לאיש, שהוא בעל הבית",
+     "gloss": "[Rashi, on 12:4, ‘and there came a traveller’:] He likened the evil inclination first to a traveller (helekh), who passes on his way; after that to a wayfarer (oreach), who becomes a lodger; and after that to a man (ish), who is the master of the house."
+    }
+   }
+  }
+ ]
+}

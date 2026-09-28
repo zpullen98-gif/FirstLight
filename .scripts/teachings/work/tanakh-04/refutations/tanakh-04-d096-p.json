@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d096-p",
+ "refuted": true,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Samuel/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": ["plain"],
+ "reason": "Re-opened Rashi on I Samuel 30:25 via packet.js --verse 30:25: under מהיום ההוא ומעלה he writes לא נאמר והלאה, אלא ומעלה, כבר הנהיג אברהם בחוק זה, citing Genesis 14:24 and closing בבראשית רבה (מג ט). The reading (the wording reaches back, Abraham had already set the rule) is in his words at the place named; he takes it from Genesis Rabbah 43:9 and says so, which is not a false attribution since he adopts it, though the sentence does not mention the source. verse.js ok (1 Samuel 30:25, at [261,25]); entry-check ok (42 words). The attack that lands is on the plain sense: ‘the men who guarded the baggage’ says more than the day’s text. 30:10 and 30:21 have the two hundred left behind because they were too faint to follow, abiding at the brook Besor, and 30:24 has only him ‘that tarrieth by the baggage’; guarding is an interpretation (it is Metzudat David’s reason on 30:24 and Rashi’s gloss via Genesis Rabbah, היושבים על הכלים), not the text. Rule 2: the plain sense says what the text says and no more. Other attacks tried and not landed: verse (best line for the reading), locator, drift, school, comparison, tone, form.",
+ "better": "After the rout of the Amalekite raiders, David rules that the two hundred men left behind at the brook share the spoil with those who fought; Rashi, on 30:25, reads the Hebrew wording as reaching back in time, since Abraham had already set this rule. (entry-check ok on scratch/R-d096-p-better.json)"
+}

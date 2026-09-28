@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d109-p",
+ "d": 109,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "But will God in very truth dwell on the earth? behold, heaven and the heaven of heavens cannot contain Thee; how much less this house that I have builded!",
+ "ref": "1 Kings 8:27",
+ "at": [
+  294,
+  27
+ ],
+ "s": "Dedicating the Temple, Solomon turns in his prayer to what the house can be; Radak, on 8:27, reads the house as a figure, since no place contains God, and its purpose as prayer heard there more readily, the chosen place aiding like an interceding angel.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Kings, on 1 Kings 8:27, Hebrew (Radak on Nach), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 8:27, on כי האמנם",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew (The Metsudah Tanach series, Lakewood N.J.), Sefaria export 3f10136",
+    "locator": "1 Kings 8:27 (word glosses only: an expression of wonder; cannot contain You)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 8:27 (the question as wonder; if heaven cannot contain Him, how is it the house of the LORD)",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 8:27",
+    "via": "packet"
+   }
+  ],
+  "words": "כלומר באמת היא שישב אלהים עם האדם בארץ זה לא יתכן להאמין כי אתה תתברך ותתעלה על הכל אין לך מקום שיכילך כי אתה מקום העולם ואין העולם מקומך אם כן מה שבניתי הבית לך אינו אלא על דרך משל שיהיה רצונך וכבודך נמצא בבית הזה לשמוע אל התפלה אשר יתפללו במקום הזה ואע\"פ שבכל המקומות היא רצונו אל הצועק אליו בלב שלם לשמוע אל תפלתו בקש שלמה מהאל שיהיה המקום הזה הנבחר מסייע המתפלל בתפלתו כאילו הבית הזה היה מלאך מליץ ותשמע תפלת כל המתפלל בבית הזה בקרוב יותר משיתפלל במקום אחר",
+  "lang": "Hebrew",
+  "gloss": "That is: is it true that God dwells with man on earth? That cannot be believed, for You are exalted above all, no place contains You, You are the place of the world and the world is not Your place; so my building the house for You is only by way of figure, that Your will and glory be found in this house to hear the prayer prayed in this place; and though His will in every place is toward whoever cries to Him with a whole heart, Solomon asked God that this chosen place help the one who prays, as though the house were an interceding angel, and that prayer here be heard more nearly than in another place.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Opened packet.js tanakh 109 --verse 8.27: Radak on כי האמנם says no place contains God (אין לך מקום שיכילך), the house is only by way of figure (על דרך משל) that His will and glory be there to hear prayer, and Solomon asked that the chosen place aid the one who prays as though the house were an interceding angel, prayer there heard more nearly (בקרוב יותר) than elsewhere. The problem holds: ‘built so that ...’ dangled after ‘God’. Corrected as the critic proposed, giving the purpose its own noun: ‘and its purpose as prayer heard there more readily’. Commentator, reading, place, key, ref, at and src unchanged. verse.js ok (1 Kings 8:27, at [294,27]); entry-check ok on scratch/RS-d109-p.json (45 words, at the cap)."
+}

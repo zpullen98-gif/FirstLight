@@ -1,0 +1,61 @@
+{
+ "id": "tanakh-04-d111-p",
+ "d": 111,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Whereupon the king took counsel, and made two calves of gold; and he said unto them: ‘Ye have gone up long enough to Jerusalem; behold thy gods, O Israel, which brought thee up out of the land of Egypt.’",
+ "ref": "1 Kings 12:28",
+ "at": [
+  298,
+  28
+ ],
+ "s": "Fearing that pilgrims to the Temple will return to Rehoboam, Jeroboam acts; Radak, on 12:28, reads his words as coaxing, with no idolatry meant: God had split the kingdom and so refused Jerusalem, and these calves, like Aaron’s, were for the Presence to rest on.",
+ "by": "radak",
+ "by2": "",
+ "hedge": "",
+ "src": "Radak, Commentary on 1 Kings, on 1 Kings 12:28, Hebrew (Radak on Nach), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+    "edition": "Radak on I Kings, Hebrew (Radak on Nach), Sefaria export 3f10136",
+    "locator": "1 Kings 12:28, on ויועץ המלך (and 12:29 to 30; chapters 11 and 12 read whole)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Acharonim%20on%20Tanakh/Metzudat%20David/Prophets/Metzudat%20David%20on%20I%20Kings/Hebrew/On%20Your%20Way.json",
+    "edition": "Metzudat David on I Kings, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "1 Kings 12:28, on ויועץ המלך, רב לכם, הנה אלהיך ישראל",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Prophets/Rashi%20on%20I%20Kings/Hebrew/The%20Metsudah%20Tanach%20series%2C%20Lakewood%2C%20N.J%20.json",
+    "edition": "Rashi on I Kings, Hebrew and English (The Metsudah Tanach series, Lakewood N.J.), Sefaria export 3f10136",
+    "locator": "chapters 11 to 12; nothing on 12:28",
+    "via": "packet"
+   },
+   {
+    "url": "https://www.sefaria.org/texts/Midrash",
+    "edition": "Midrash Rabbah: no volume on 1 Kings",
+    "locator": "nothing on 12:28",
+    "via": "packet"
+   }
+  ],
+  "words": "ולמה עגלים פתה אותם בדברים אמר להם הלא ידעתם כי המלכות נחלקה ברצון האל כמו שאמר לי אחיה השלוני הנביא אם כן האל לא רצה במלכות בית דוד ולא רצה ג\"כ בירושלם שהוא מלכות בית דוד אם כן נעשה מקום אחר שתבואו ותזבחו שם ולמה עגל אמר להם הלא אהרן עשה לישראל עגל להשרות השכינה בו במקום משה שלא היה להם גם אתם עתה שאין לכם מקום השכינה שהוא ירושלם נעשה עגל במקומו להשרות שכינה בו לפיכך אמר אלה אלהיך ישראל אשר העלוך מארץ מצרים כמו שאמר בעגל המדבר כי לא היתה כוונתו לעבודת גילולים",
+  "lang": "Hebrew",
+  "gloss": "And why calves? He coaxed them with words. He said to them: Do you not know that the kingdom was divided by the will of God, as Ahijah the Shilonite the prophet told me? If so, God did not want the kingdom of the house of David, nor Jerusalem either, which is the kingdom of the house of David; so let us make another place where you will come and sacrifice. And why a calf? He said to them: Did not Aaron make Israel a calf to make the Divine Presence rest on it in place of Moses, whom they did not have? You too, now that you have no place of the Presence, which is Jerusalem, let us make a calf in its place to make the Presence rest on it. Therefore he said ‘These are your gods, Israel, who brought you up from the land of Egypt’, as was said of the calf of the wilderness, for his intention was not idol worship.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "verse.js ok (with the curly quotes too), ref 1 Kings 12:28 and at [298,28] match. Plain sense faithful: 12:26 to 27 give Jeroboam’s fear that going up to the house of the LORD in Jerusalem will turn the people back to Rehoboam; no four-word run from the key. Read Radak on the whole of chapter 12: at 12:28 he says Jeroboam coaxed them with words, that the kingdom was split by God’s will and so God wanted neither David’s house nor Jerusalem, that like Aaron’s calf these were to make the Presence rest on them, and that his intention was not idol worship; his note at 12:30 confirms the intention is Jeroboam’s (at first he did not say he made them for idolatry but for God, and afterwards it became a sin). The colon in the sentence presents what follows as the content of the coaxing, as Radak does. Metzudat David at 12:28 agrees (he enticed them that the Presence would rest on the golden calves), so there is no disagreement to name. The evidence is one contiguous stretch of the 12:28 comment, in place of the proposer’s excerpt with ellipses; the entry itself is unchanged. entry-check ok on scratch/X-d111-p.json."
+}

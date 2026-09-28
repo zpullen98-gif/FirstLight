@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-04-d102-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20II%20Samuel/Hebrew/Radak%20on%20Nach.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 102 --verse 18.5. Radak on 18:5 (lemma לאט לי לנער לאבשלום): אם תפגעו בו במלחמה לאט לו בעבורי ואל תהרגוהו ... כי אע\"פ שהרע לי אני אב לרחם ... לא תבואו בכעס וברוגז להכותו, verbatim as the evidence gives it. It carries every clause of the reading: not to kill him, not to strike him in anger, though wronged he is a father, to have compassion. 'his son' is the verse's own context (18:12, 'the king's son'). The words are Radak's own, not a citation. Plain sense checked against day.js 18:1 to 15: David charges Joab, Abishai and Ittai before the battle in the forest of Ephraim; Joab thrusts three darts through Absalom's heart (18:14) and his armour-bearers finish him (18:15), so 'Joab kills Absalom' is a fair single clause and states the killing plainly. No verse words repeated four in a row. Locator right. No school needed, no comparison, tone plain. verse.js ok (2 Samuel 18:5, at [280,5]); entry-check ok; 42 words. The only omission is Radak's aside that striking him would have been deserved (כמו שהיה ראוי), which 'though wronged by him' partly covers; not drift.",
+ "better": ""
+}

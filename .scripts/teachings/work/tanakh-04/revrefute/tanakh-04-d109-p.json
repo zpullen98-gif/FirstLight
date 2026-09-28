@@ -1,0 +1,13 @@
+{
+ "id": "tanakh-04-d109-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Radak/Prophets/Radak%20on%20I%20Kings/Hebrew/Radak%20on%20Nach.json",
+  "found": true
+ },
+ "attacks": [
+  "drift"
+ ],
+ "reason": "Re-opened packet.js tanakh 109 --verse 8:27: Radak writes מה שבניתי הבית לך אינו אלא על דרך משל, that the building of the house FOR God (as His dwelling) is by way of figure, not that the house itself is a figure; the sentence’s ‘reads the house as a figure’ claims more than his words. And the helping-angel clause is framed by Radak as Solomon’s request (בקש שלמה מהאל שיהיה המקום הזה הנבחר מסייע המתפלל ... כאילו הבית הזה היה מלאך מליץ), coming after his limit that God hears whoever cries with a whole heart in every place; the sentence states it as the house’s purpose in Radak’s own voice. Words found, place right, verse.js and entry-check pass, but the paraphrase drifts on its first and last clauses.",
+ "better": "Dedicating the Temple, Solomon turns in his prayer to what the house can be; Radak, on 8:27, reads a house built for God as a figure, since no place contains Him, and Solomon as asking that the chosen place aid prayer like an interceding angel. (entry-check ok on scratch/RR-d109-p.json)"
+}
