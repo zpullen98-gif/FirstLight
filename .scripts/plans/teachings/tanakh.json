@@ -458,6 +458,467 @@
    "src": "Rashi and Ibn Ezra (long commentary), on Exodus 38:8, Hebrew in Sefaria’s export 3f10136 (2026), Rashi’s of Rosenbaum and Silbermann (1929 to 1934)",
    "batch": "tanakh-01",
    "id": "tanakh-01-d030-p"
+  },
+  {
+   "d": 31,
+   "label": "Exodus 40 to Leviticus 3",
+   "key": "And when any one bringeth a meal-offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon.",
+   "ref": "Leviticus 2:1",
+   "at": [
+    91,
+    1
+   ],
+   "s": "After the burnt-offerings, the law turns to the offering of flour; Rashi, on 2:1, reads nefesh, soul, rendered ‘any one’, as the poor man who usually brings it, counted by God as though he offered his soul, and Ibn Ezra, on 2:1, as naming the soul because the meal-offering is a freewill gift and the soul too is called willing.",
+   "by": "rashi",
+   "by2": "ibn-ezra",
+   "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Leviticus 2:1, Sefaria export commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d031-p"
+  },
+  {
+   "d": 32,
+   "label": "Leviticus 4 to 5",
+   "key": "if the anointed priest shall sin so as to bring guilt on the people, then let him offer for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin-offering.",
+   "ref": "Leviticus 4:3",
+   "at": [
+    93,
+    3
+   ],
+   "s": "The law of the sin-offering for errors opens with the anointed priest; Rashi, on 4:3, reads his sin as the people’s guilt because they depend on him to atone and pray for them, and Sforno, on 4:3, as an error that befalls him only through the people’s own guilt, not from his heart.",
+   "by": "rashi",
+   "by2": "sforno",
+   "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Sforno (Hebrew, On Your Way), on Leviticus 4:3, Sefaria export commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d032-p"
+  },
+  {
+   "d": 33,
+   "label": "Leviticus 6 to 8",
+   "key": "If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers spread with oil, and cakes mingled with oil, of fine flour soaked.",
+   "ref": "Leviticus 7:12",
+   "at": [
+    96,
+    12
+   ],
+   "s": "Setting out the peace-offerings, the law turns to the offering of thanks; the Midrash, Leviticus Rabbah 9:7, reads it as lasting when all else ends: in the time to come every offering will cease but the thank-offering, and every prayer but thanksgiving.",
+   "by": "midrash",
+   "src": "The Midrash, Leviticus Rabbah 9:7, the Torat Emet Hebrew text, Sefaria export commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d033-p"
+  },
+  {
+   "d": 34,
+   "label": "Leviticus 9 to 11",
+   "key": "Then Moses said unto Aaron: ‘This is it that the LORD spoke, saying: Through them that are nigh unto Me I will be sanctified, and before all the people I will be glorified.’ And Aaron held his peace.",
+   "ref": "Leviticus 10:3",
+   "at": [
+    99,
+    3
+   ],
+   "s": "When fire from the LORD consumes Nadab and Abihu after their strange fire, Moses speaks to their father; Rashi, on 10:3, hears it as Moses saying he had expected the sanctuary to be hallowed through himself or Aaron and now finds the sons greater than both, and Rashbam, on 10:3, as a charge not to mourn or leave the service.",
+   "by": "rashi",
+   "by2": "rashbam",
+   "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Rashbam (Hebrew, Daat edition), on Leviticus 10:3, Sefaria export commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d034-p"
+  },
+  {
+   "d": 35,
+   "label": "Leviticus 12 to 13",
+   "key": "All the days wherein the plague is in him he shall be unclean; he is unclean; he shall dwell alone; without the camp shall his dwelling be.",
+   "ref": "Leviticus 13:46",
+   "at": [
+    102,
+    46
+   ],
+   "s": "The law of the skin plague turns to the one declared unclean; Rashi, on 13:46, with the rabbis, explains why he alone of the unclean dwells apart: having parted husband from wife and friend from friend by slander, he too is parted.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Leviticus 13:46, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d035-p"
+  },
+  {
+   "d": 36,
+   "label": "Leviticus 14 to 15",
+   "key": "And the priest shall command that they empty the house, before the priest go in to see the plague, that all that is in the house be not made unclean; and afterward the priest shall go in to see the house.",
+   "ref": "Leviticus 14:36",
+   "at": [
+    103,
+    36
+   ],
+   "s": "After the owner reports what looks like a plague, the priest acts before inspecting the house; Rashi, on 14:36, reads the order as the Torah sparing only earthen vessels, which no immersion cleanses, since other vessels can be immersed and food eaten while unclean.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Leviticus 14:36, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d036-p"
+  },
+  {
+   "d": 37,
+   "label": "Leviticus 16 to 18",
+   "key": "For on this day shall atonement be made for you, to cleanse you; from all your sins shall ye be clean before the LORD.",
+   "ref": "Leviticus 16:30",
+   "at": [
+    105,
+    30
+   ],
+   "s": "After the high priest’s rites, the chapter fixes a yearly day of rest and affliction; Sforno, on 16:30, reads the priest’s atonement as only lessening sin and readying it for pardon, while purity and full pardon come before the LORD alone, through confession and repentance.",
+   "by": "sforno",
+   "src": "Sforno, Commentary on the Torah, on Leviticus 16:30, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d037-p"
+  },
+  {
+   "d": 38,
+   "label": "Leviticus 19 to 21",
+   "key": "Speak unto all the congregation of the children of Israel, and say unto them: Ye shall be holy; for I the LORD your God am holy.",
+   "ref": "Leviticus 19:2",
+   "at": [
+    108,
+    2
+   ],
+   "s": "Heading a chapter of laws on worship, justice and neighbourly love, the LORD addresses the whole congregation through Moses; Rashi, on 19:2, reads the call to holiness as keeping apart from forbidden unions and from sin, and Ramban, on 19:2, as restraint even in what the Torah permits, lest one become a scoundrel within its licence.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, on Leviticus 19:2, Hebrew in Sefaria’s export 3f10136 (2026): Rashi, Rosenbaum and Silbermann (1929 to 1934); Ramban, On Your Way New",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d038-p"
+  },
+  {
+   "d": 39,
+   "label": "Leviticus 22 to 23",
+   "key": "And ye shall take you on the first day the fruit of goodly trees, branches of palm-trees, and boughs of thick trees, and willows of the brook, and ye shall rejoice before the LORD your God seven days.",
+   "ref": "Leviticus 23:40",
+   "at": [
+    112,
+    40
+   ],
+   "s": "Closing the calendar of feasts, the law of tabernacles follows the harvest; the Midrash, Leviticus Rabbah 30:12, reads the four kinds as Israel’s people, with both Torah and good deeds, with one, or with neither, bound in one bundle to atone for one another.",
+   "by": "midrash",
+   "src": "The Midrash, Leviticus Rabbah 30:12, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d039-p"
+  },
+  {
+   "d": 40,
+   "label": "Leviticus 24 to 25",
+   "key": "And if thy brother be waxen poor, and his means fail with thee; then thou shalt uphold him: as a stranger and a settler shall he live with thee.",
+   "ref": "Leviticus 25:35",
+   "at": [
+    114,
+    35
+   ],
+   "s": "After the laws of redeeming sold land, the chapter turns to an Israelite whose means fail; Rashi, on 25:35, reads the command as help before he falls, as one man can steady a load still on a donkey, while five cannot raise it once fallen.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Leviticus 25:35, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d040-p"
+  },
+  {
+   "d": 41,
+   "label": "Leviticus 26 to 27",
+   "key": "And I will give peace in the land, and ye shall lie down, and none shall make you afraid; and I will cause evil beasts to cease out of the land, neither shall the sword go through your land.",
+   "ref": "Leviticus 26:6",
+   "at": [
+    115,
+    6
+   ],
+   "s": "Among the blessings for keeping the statutes comes safety in the land; Ramban, on 26:6, takes the ‘evil beasts’ as ceasing to harm, since while the commandments are kept the land will be as the world before Adam’s sin, when no beast killed a man.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Leviticus 26:6, Hebrew (Sefaria’s “On Your Way New”), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d041-p"
+  },
+  {
+   "d": 42,
+   "label": "Numbers 1 to 2",
+   "key": "‘The children of Israel shall pitch by their fathers’ houses; every man with his own standard, according to the ensigns; a good way off shall they pitch round about the tent of meeting.",
+   "ref": "Numbers 2:2",
+   "at": [
+    118,
+    2
+   ],
+   "s": "After the census, the LORD sets each tribe’s place, three to a standard on each side of the Tabernacle; Rashi, on 2:2, reads ‘the ensigns’ as cloths coloured like each tribe’s breastplate stone, and Ibn Ezra, on 2:2, as figures, by the ancients’ account a man, lion, ox and eagle, like the cherubim Ezekiel saw.",
+   "by": "rashi",
+   "by2": "ibn-ezra",
+   "src": "Rashi and Ibn Ezra, on Numbers 2:2, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ibn Ezra: “On Your Way”), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d042-p"
+  },
+  {
+   "d": 43,
+   "label": "Numbers 3 to 4",
+   "key": "Now these are the generations of Aaron and Moses in the day that the LORD spoke with Moses in mount Sinai.",
+   "ref": "Numbers 3:1",
+   "at": [
+    119,
+    1
+   ],
+   "s": "Turning from the census to Levi, the verses that follow name only Aaron’s sons; Rashi, on 3:1, reads them as Moses’ offspring too, since whoever teaches another’s son Torah is as if he begot him, and Ramban, on 3:1, by the plain sense, as Aaron’s priests, Moses’ line being the Amramites named below, keeping that teaching as a hint.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, on Numbers 3:1, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way New”), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d043-p"
+  },
+  {
+   "d": 44,
+   "label": "Numbers 5 to 6",
+   "key": "The LORD lift up His countenance upon thee, and give thee peace.",
+   "ref": "Numbers 6:26",
+   "at": [
+    122,
+    26
+   ],
+   "s": "The LORD gives Moses the blessing Aaron and his sons are to speak over Israel, and the verse is its closing line; Rashi, on 6:26, reads the lifted countenance as God suppressing His anger, and Rashbam, on 6:26, as God not hiding His face but turning to His beloved to be gracious.",
+   "by": "rashi",
+   "by2": "rashbam",
+   "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Rashbam (Hebrew, Daat), on Numbers 6:26, Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d044-p"
+  },
+  {
+   "d": 45,
+   "label": "Numbers 7 to 8",
+   "key": "‘Speak unto Aaron, and say unto him: When thou lightest the lamps, the seven lamps shall give light in front of the candlestick.’",
+   "ref": "Numbers 8:2",
+   "at": [
+    124,
+    2
+   ],
+   "s": "After the princes’ dedication gifts, the LORD gives Moses a charge for Aaron; Rashi, on 8:2, reads it as God consoling Aaron, grieved at having no part in that dedication, with the task of the lamps, and Ramban, on 8:2, takes that midrash as alluding to the Hanukkah lights of Aaron’s Hasmonean descendants, kept even after the Temple’s destruction.",
+   "by": "rashi",
+   "by2": "ramban",
+   "src": "Rashi and Ramban, on Numbers 8:2, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way New”), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d045-p"
+  },
+  {
+   "d": 46,
+   "label": "Numbers 9 to 11",
+   "key": "And those men said unto him: ‘We are unclean by the dead body of a man; wherefore are we to be kept back, so as not to bring the offering of the LORD in its appointed season among the children of Israel?’",
+   "ref": "Numbers 9:7",
+   "at": [
+    125,
+    7
+   ],
+   "s": "Unclean from a corpse at Passover, some men come before Moses and Aaron; Rashi, on 9:7, reads the law their plea wins as one fit to come through Moses like all the Torah, but said through them, since merit is brought about by the meritorious.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Numbers 9:7, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d046-p"
+  },
+  {
+   "d": 47,
+   "label": "Numbers 12 to 14",
+   "key": "And Moses cried unto the LORD, saying: ‘Heal her now, O God, I beseech Thee.’",
+   "ref": "Numbers 12:13",
+   "at": [
+    128,
+    13
+   ],
+   "s": "After Miriam is found leprous and Aaron pleads for her, Moses turns to God; Rashi, on Numbers 12:13, reads the prayer’s brevity as care lest Israel say that he stands praying at length while his sister is in distress.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Numbers 12:13, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d047-p"
+  },
+  {
+   "d": 48,
+   "label": "Numbers 15 to 16",
+   "key": "And they fell upon their faces, and said: ‘O God, the God of the spirits of all flesh, shall one man sin, and wilt Thou be wroth with all the congregation?’",
+   "ref": "Numbers 16:22",
+   "at": [
+    132,
+    22
+   ],
+   "s": "When God bids Moses and Aaron stand apart that He may consume the assembly, they plead; Rashi, on Numbers 16:22, hears in the divine title One who knows every thought, and so who sinned, where an earthly king, not knowing the offender, punishes all.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Numbers 16:22, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d048-p"
+  },
+  {
+   "d": 49,
+   "label": "Numbers 17 to 18",
+   "key": "And he stood between the dead and the living; and the plague was stayed.",
+   "ref": "Numbers 17:13",
+   "at": [
+    133,
+    13
+   ],
+   "s": "After the people blame Moses and Aaron for Korah’s dead, a plague begins and Aaron runs in with incense; Rashi, on Numbers 17:13, reads the incense as God’s answer to those who called it deadly poison: it stays plague, and sin is what kills.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Numbers 17:13, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d049-p"
+  },
+  {
+   "d": 50,
+   "label": "Numbers 19 to 21",
+   "key": "And when all the congregation saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel.",
+   "ref": "Numbers 20:29",
+   "at": [
+    136,
+    29
+   ],
+   "s": "On mount Hor Aaron’s garments pass to Eleazar and Aaron dies there; Rashi, on Numbers 20:29, reads the mourners as men and women alike, for Aaron pursued peace and brought love between quarrellers and between husband and wife.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Numbers 20:29, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d050-p"
+  },
+  {
+   "d": 51,
+   "label": "Numbers 22 to 24",
+   "key": "How goodly are thy tents, O Jacob, Thy dwellings, O Israel!",
+   "ref": "Numbers 24:5",
+   "at": [
+    140,
+    5
+   ],
+   "s": "Brought to a third height to curse, Balaam sees Israel camped tribe by tribe and the spirit of God comes upon him; Rashi, on 24:5, reads the praise as drawn from tent doors set so that none faced another, and Sforno, on 24:5, as praise of the houses of study and of prayer, whose good reaches the whole nation.",
+   "by": "rashi",
+   "by2": "sforno",
+   "src": "Rashi and Sforno, on Numbers 24:5, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Sforno’s On Your Way text; Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d051-p"
+  },
+  {
+   "d": 52,
+   "label": "Numbers 25 to 27",
+   "key": "But among these there was not a man of them that were numbered by Moses and Aaron the priest, who numbered the children of Israel in the wilderness of Sinai.",
+   "ref": "Numbers 26:64",
+   "at": [
+    142,
+    64
+   ],
+   "s": "Closing the census on the plains of Moab, the chapter sets it against the count at Sinai; Rashi, on 26:64, reads ‘not a man’ as the spies’ decree passing over the women, who held the land dear, and so the daughters of Zelophehad come next.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Numbers 26:64, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d052-p"
+  },
+  {
+   "d": 53,
+   "label": "Numbers 28 to 30",
+   "key": "Command the children of Israel, and say unto them: My food which is presented unto Me for offerings made by fire, of a sweet savour unto Me, shall ye observe to offer unto Me in its due season.",
+   "ref": "Numbers 28:2",
+   "at": [
+    144,
+    2
+   ],
+   "s": "Opening a calendar of offerings for day, sabbath, new moon and feast, the LORD charges Moses; the Midrash, Numbers Rabbah 21:16, reads ‘My food’ as spoken by One who needs no offerings, the whole world being His and every beast offered His creation.",
+   "by": "midrash",
+   "src": "The Midrash, Numbers Rabbah 21:16, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d053-p"
+  },
+  {
+   "d": 54,
+   "label": "Numbers 31 to 32",
+   "key": "‘Avenge the children of Israel of the Midianites; afterward shalt thou be gathered unto thy people.’",
+   "ref": "Numbers 31:2",
+   "at": [
+    147,
+    2
+   ],
+   "s": "God’s command opens a chapter where Israel kills Midian’s men and Moses orders every captive killed but the virgin girls; Rashi, on Numbers 31:2, reads the command as aimed at Midian, not Moab, which joined the scheme from fear, while Midian meddled in another’s quarrel.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Numbers 31:2, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export, commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d054-p"
+  },
+  {
+   "d": 55,
+   "label": "Numbers 33 to 35",
+   "key": "These are the stages of the children of Israel, by which they went forth out of the land of Egypt by their hosts under the hand of Moses and Aaron.",
+   "ref": "Numbers 33:1",
+   "at": [
+    149,
+    1
+   ],
+   "s": "With Israel on the plains of Moab, the text names every stage from Egypt to the Jordan; Rashi, on 33:1, reads the list as God’s kindness, only twenty moves in thirty-eight years under the decree, and Sforno, on 33:1, as Israel’s merit in following Him through an unsown land, which made them worthy to enter Canaan.",
+   "by": "rashi",
+   "by2": "sforno",
+   "src": "Rashi and Sforno, on Numbers 33:1, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Sforno’s On Your Way text; Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d055-p"
+  },
+  {
+   "d": 56,
+   "label": "Numbers 36 to Deuteronomy 2",
+   "key": "THESE ARE the words which Moses spoke unto all Israel beyond the Jordan; in the wilderness, in the Arabah, over against Suph, between Paran and Tophel, and Laban, and Hazeroth, and Di-zahab.",
+   "ref": "Deuteronomy 1:1",
+   "at": [
+    153,
+    1
+   ],
+   "s": "With Numbers closed on the plains of Moab, Deuteronomy opens on Moses’ address to the people in the fortieth year; Rashi, on 1:1, reads the names as rebukes recalling where Israel provoked God, only hinted at for Israel’s honour, and Ibn Ezra, on 1:1, as places, absent from the earlier list of stages or named otherwise.",
+   "by": "rashi",
+   "by2": "ibn-ezra",
+   "src": "Rashi and Ibn Ezra, on Deuteronomy 1:1, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Ibn Ezra’s On Your Way text; Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d056-p"
+  },
+  {
+   "d": 57,
+   "label": "Deuteronomy 3 to 4",
+   "key": "But the LORD was wroth with me for your sakes, and hearkened not unto me; and the LORD said unto me: ‘Let it suffice thee; speak no more unto Me of this matter.",
+   "ref": "Deuteronomy 3:26",
+   "at": [
+    155,
+    26
+   ],
+   "s": "Moses recalls pleading to cross the Jordan into the good land; Rashi, on 3:26, reads ‘Let it suffice’ as ending the plea lest people call the master harsh and the disciple importunate, or as telling him much more is stored up for him.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Deuteronomy 3:26, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d057-p"
+  },
+  {
+   "d": 58,
+   "label": "Deuteronomy 5 to 7",
+   "key": "And thou shalt love the LORD thy God with all thy heart, and with all thy soul, and with all thy might.",
+   "ref": "Deuteronomy 6:5",
+   "at": [
+    158,
+    5
+   ],
+   "s": "Moses follows the declaration that the LORD is one with this command, a chapter before ordering the land’s seven nations destroyed; Rashi, on Deuteronomy 6:5, reads it as love with both the heart’s inclinations, even at the cost of life, and with all one’s wealth.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Deuteronomy 6:5, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export, commit 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d058-p"
+  },
+  {
+   "d": 59,
+   "label": "Deuteronomy 8 to 10",
+   "key": "And thou shalt eat and be satisfied, and bless the LORD thy God for the good land which He hath given thee.",
+   "ref": "Deuteronomy 8:10",
+   "at": [
+    160,
+    10
+   ],
+   "s": "Promising a land of wheat, vines and olives, Moses turns to eating there; Ramban, on 8:10, reads it with the rabbis as a commandment to bless God whenever one eats one’s fill, for food and for the land, and so binding in every place.",
+   "by": "ramban",
+   "src": "Ramban, Commentary on the Torah, on Deuteronomy 8:10, Hebrew (On Your Way new), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d059-p"
+  },
+  {
+   "d": 60,
+   "label": "Deuteronomy 11 to 13",
+   "key": "Therefore shall ye lay up these My words in your heart and in your soul; and ye shall bind them for a sign upon your hand, and they shall be for frontlets between your eyes.",
+   "ref": "Deuteronomy 11:18",
+   "at": [
+    163,
+    18
+   ],
+   "s": "After warning that serving other gods ends in perishing from the land, Moses repeats his charge; Rashi, on 11:18, reads it as bidding Israel stay marked by the commandments in exile too, with tefillin and mezuzot, lest these be new on their return.",
+   "by": "rashi",
+   "src": "Rashi, Commentary on the Torah, on Deuteronomy 11:18, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+   "batch": "tanakh-02",
+   "id": "tanakh-02-d060-p"
   }
  ]
 }

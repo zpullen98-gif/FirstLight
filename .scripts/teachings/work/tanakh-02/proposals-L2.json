@@ -1,0 +1,212 @@
+{
+ "lane": "L2",
+ "plan": "tanakh",
+ "batch": "tanakh-02",
+ "days": [
+  {
+   "d": 36,
+   "primary": {
+    "id": "tanakh-02-d036-p",
+    "key": "And the priest shall command that they empty the house, before the priest go in to see the plague, that all that is in the house be not made unclean; and afterward the priest shall go in to see the house.",
+    "ref": "Leviticus 14:36",
+    "at": [
+     103,
+     36
+    ],
+    "s": "After the owner reports what looks like a plague, the priest acts before inspecting the house; Rashi, on 14:36, reads the order as the Torah sparing only earthen vessels, which no immersion cleanses, since other vessels can be immersed and food eaten while unclean.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Leviticus 14:36, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וְעַל מָה חָסָה תוֹרָה? אִם עַל כְּלֵי שֶׁטֶף, יַטְבִּילֵם וְיִטְהֲרוּ, וְאִם עַל אֳכָלִין וּמַשְׁקִין, יֹאכְלֵם בִּימֵי טֻמְאָתוֹ, הָא לֹא חָסָה תוֹרָה אֶלָּא עַל כְּלֵי חֶרֶס, שֶׁאֵין לָהֶם טָהֳרָה בַּמִּקְוֶה",
+     "gloss": "And for what did the Torah have concern? If for rinsable vessels, he can immerse them and they become clean; if for food and drink, he can eat them in the days of his uncleanness; so the Torah had concern only for earthen vessels, which have no cleansing in a ritual bath."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d036-s",
+    "key": "But he shall let go the living bird out of the city into the open field; so shall he make atonement for the house; and it shall be clean.",
+    "ref": "Leviticus 14:53",
+    "at": [
+     103,
+     53
+    ],
+    "s": "Once the plague in a house has healed, the priest cleanses it with two birds, cedar, scarlet and hyssop; Ramban, on 14:53, reads the atonement as the freed bird bearing all the owner’s sins away beyond the city, like the goat sent away.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Leviticus 14:53, Hebrew (On Your Way New), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "הנה הכפרה הזאת בצפור המשתלחת שתשא הצפור את כל עונותיו אל מחוץ לעיר אל פני השדה כענין הכפרה בשעיר המשתלח",
+     "gloss": "This atonement is by the bird that is sent away, which carries all his sins out of the city to the open field, like the atonement by the goat that is sent away."
+    }
+   }
+  },
+  {
+   "d": 37,
+   "primary": {
+    "id": "tanakh-02-d037-p",
+    "key": "For on this day shall atonement be made for you, to cleanse you; from all your sins shall ye be clean before the LORD.",
+    "ref": "Leviticus 16:30",
+    "at": [
+     105,
+     30
+    ],
+    "s": "After the high priest’s rites, the chapter fixes a yearly day of rest and affliction; Sforno, on 16:30, reads the priest’s atonement as only lessening sin and readying it for pardon, while purity and full pardon come before the LORD alone, through confession and repentance.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Leviticus 16:30, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "כי אמנם הכהן בעבודתו יכפר בלבד וענין הכפור הוא הקטנת החטא והכנתו לקבל סליחה … אבל השגת הטהרה והסליחה הגמורה תהיה לפני ה' בלבד וזה בוידוי ותשובה, שהוא לבדו ידע אמתתם",
+     "gloss": "For the priest by his service only atones, and atonement means the lessening of the sin and its preparation to receive forgiveness … but the attaining of purity and complete forgiveness will be before the LORD alone, and this by confession and repentance, whose truth He alone knows."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d037-s",
+    "key": "Mine ordinances shall ye do, and My statutes shall ye keep, to walk therein: I am the LORD your God.",
+    "ref": "Leviticus 18:4",
+    "at": [
+     107,
+     4
+    ],
+    "s": "Opening the laws of forbidden unions, God warns Israel off the doings of Egypt and Canaan; Rashi, on 18:4, reads the ordinances as laws justice itself would demand, and the statutes as the King’s decrees, questioned by the evil inclination yet not to be evaded.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Leviticus 18:4, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "אֵלּוּ דְּבָרִים הָאֲמוּרִים בַּתּוֹרָה בְּמִשְׁפָּט, שֶׁאִלּוּ לֹא נֶאֶמְרוּ הָיוּ כְדַאי לְאָמְרָן … דְּבָרִים שֶׁהֵן גְּזֵרַת הַמֶּלֶךְ, שֶׁיֵּצֶר הָרַע מֵשִׁיב עֲלֵיהֶם לָמָּה לָנוּ לְשָׁמְרָן … לְכָךְ נֶאֱמַר אני ה', גָּזַרְתִּי עֲלֵיכֶם, אֵי אַתָּה רַשַּׁאי לִפָּטֵר",
+     "gloss": "These are matters stated in the Torah as justice, which, had they not been stated, it would have been fitting to state … matters that are the decree of the King, against which the evil inclination objects, why should we keep them … therefore it says I am the LORD: I have decreed it upon you, you are not permitted to exempt yourself."
+    }
+   }
+  },
+  {
+   "d": 38,
+   "primary": {
+    "id": "tanakh-02-d038-p",
+    "key": "Speak unto all the congregation of the children of Israel, and say unto them: Ye shall be holy; for I the LORD your God am holy.",
+    "ref": "Leviticus 19:2",
+    "at": [
+     108,
+     2
+    ],
+    "s": "Heading a chapter of laws on worship, justice and neighbourly love, the LORD addresses the whole congregation through Moses; Rashi, on 19:2, reads the call to holiness as keeping apart from forbidden unions and from sin, and Ramban, on 19:2, as restraint even in what the Torah permits, lest one become a scoundrel within its licence.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, on Leviticus 19:2, Hebrew in Sefaria’s export 3f10136 (2026): Rashi, Rosenbaum and Silbermann (1929 to 1934); Ramban, On Your Way New",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "הֱווּ פְרוּשִׁים מִן הָעֲרָיוֹת וּמִן הָעֲבֵרָה, שֶׁכָּל מָקוֹם שֶׁאַתָּה מוֹצֵא גֶדֶר עֶרְוָה אַתָּה מוֹצֵא קְדֻשָּׁה … ולפי דעתי אין הפרישות הזו לפרוש מן העריות כדברי הרב אבל הפרישות היא המוזכרת בכל מקום בתלמוד שבעליה נקראים פרושים … והנה יהיה נבל ברשות התורה … וצוה בדבר כללי שנהיה פרושים מן המותרות",
+     "gloss": "[Rashi, on 19:2:] Be separate from forbidden unions and from transgression, for wherever you find a fence against unchastity you find holiness. … [Ramban, on 19:2:] In my opinion this separateness is not restraint from forbidden unions, as the Rabbi says, but the separateness spoken of throughout the Talmud, whose practitioners are called Perushim … and so he would be a scoundrel with the Torah’s permission … and He commanded a general matter, that we be separate from excess."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d038-s",
+    "key": "Thou shalt not take vengeance, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.",
+    "ref": "Leviticus 19:18",
+    "at": [
+     108,
+     18
+    ],
+    "s": "After laws on wages, judgement, talebearing and rebuke, the chapter turns to vengeance and love; Ramban, on 19:18, reads the love as an overstatement, since no heart can love another as itself, and takes it as wanting every good for the neighbour, without jealousy.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Leviticus 19:18, Hebrew (On Your Way New), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "וטעם ואהבת לרעך כמוך הפלגה כי לא יקבל לב האדם שיאהוב את חבירו כאהבתו את נפשו … אלא מצות התורה שיאהב חבירו בכל ענין כאשר יאהב את נפשו בכל הטוב … ויצוה הכתוב שלא תהיה פחיתות הקנאה הזאת בלבו אבל יאהב ברבות הטובה לחבירו כאשר אדם עושה לנפשו ולא יתן שיעורין באהבה",
+     "gloss": "The sense of ‘love thy neighbour as thyself’ is overstatement, for the human heart will not accept loving one’s fellow as one loves oneself … rather the Torah’s command is that he love his fellow in every matter as he loves every good for himself … and Scripture commands that this meanness of jealousy not be in his heart, but that he love the increase of good for his fellow as a man does for himself, and set no measure to love."
+    }
+   }
+  },
+  {
+   "d": 39,
+   "primary": {
+    "id": "tanakh-02-d039-p",
+    "key": "And ye shall take you on the first day the fruit of goodly trees, branches of palm-trees, and boughs of thick trees, and willows of the brook, and ye shall rejoice before the LORD your God seven days.",
+    "ref": "Leviticus 23:40",
+    "at": [
+     112,
+     40
+    ],
+    "s": "Closing the calendar of feasts, the law of tabernacles follows the harvest; the Midrash, Leviticus Rabbah 30:12, reads the four kinds as Israel’s people, with both Torah and good deeds, with one, or with neither, bound in one bundle to atone for one another.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Leviticus Rabbah 30:12, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "פְּרִי עֵץ הָדָר, אֵלּוּ יִשְׂרָאֵל, מָה אֶתְרוֹג זֶה יֵשׁ בּוֹ טַעַם וְיֵשׁ בּוֹ רֵיחַ, כָּךְ יִשְׂרָאֵל יֵשׁ בָּהֶם בְּנֵי אָדָם שֶׁיֵּשׁ בָּהֶם תּוֹרָה וְיֵשׁ בָּהֶם מַעֲשִׂים טוֹבִים … וְעַרְבֵי נָחַל, אֵלּוּ יִשְׂרָאֵל, מָה עֲרָבָה זוֹ אֵין בָּהּ טַעַם וְאֵין בָּהּ רֵיחַ, כָּךְ הֵם יִשְׂרָאֵל יֵשׁ בָּהֶם בְּנֵי אָדָם שֶׁאֵין בָּהֶם לֹא תּוֹרָה וְלֹא מַעֲשִׂים טוֹבִים … אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא יֻקְשְׁרוּ כֻלָּם אֲגֻדָּה אַחַת וְהֵן מְכַפְּרִין אֵלּוּ עַל אֵלּוּ",
+     "gloss": "The fruit of a goodly tree: this is Israel; as the citron has taste and has fragrance, so Israel has people who have Torah and have good deeds … Willows of the brook: this is Israel; as the willow has no taste and no fragrance, so Israel has people who have neither Torah nor good deeds … The Holy One, blessed be He, said: let them all be bound in one bundle, and they will atone for one another."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d039-s",
+    "key": "And when ye reap the harvest of your land, thou shalt not wholly reap the corner of thy field, neither shalt thou gather the gleaning of thy harvest; thou shalt leave them for the poor, and for the stranger: I am the LORD your God.",
+    "ref": "Leviticus 23:22",
+    "at": [
+     112,
+     22
+    ],
+    "s": "Before the seventh month’s feasts, the chapter repeats an earlier harvest law; Rashi, on 23:22, reads its place amid the festivals as teaching that whoever duly leaves the poor their share is counted as having built the Temple and offered sacrifices in it.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Leviticus 23:22, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "מָה רָאָה הַכָּתוּב לִתְּנָהּ בְאֶמְצַע הָרְגָלִים … פֶּסַח וַעֲצֶרֶת מִכָּאן וְרֹאשׁ הַשָּׁנָה וְיוֹם הַכִּפּוּרִים וְחַג מִכָּאן … לְלַמֶּדְךָ שֶׁכָּל הַנּוֹתֵן לֶקֶט שִׁכְחָה וּפֵאָה לֶעָנִי כָּרָאוּי, מַעֲלִין עָלָיו כְּאִלּוּ בָּנָה בֵּית הַמִּקְדָּשׁ וְהִקְרִיב קָרְבְּנוֹתָיו בְּתוֹכוֹ",
+     "gloss": "What did Scripture see to place it in the midst of the festivals, Passover and Atzeret on one side and Rosh Hashanah, the Day of Atonement and the Festival on the other? To teach that whoever gives gleanings, the forgotten sheaf and the corner to the poor as is fitting is accounted as though he had built the Temple and offered his sacrifices in it."
+    }
+   }
+  },
+  {
+   "d": 40,
+   "primary": {
+    "id": "tanakh-02-d040-p",
+    "key": "And if thy brother be waxen poor, and his means fail with thee; then thou shalt uphold him: as a stranger and a settler shall he live with thee.",
+    "ref": "Leviticus 25:35",
+    "at": [
+     114,
+     35
+    ],
+    "s": "After the laws of redeeming sold land, the chapter turns to an Israelite whose means fail; Rashi, on 25:35, reads the command as help before he falls, as one man can steady a load still on a donkey, while five cannot raise it once fallen.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Leviticus 25:35, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "אַל תַּנִּיחֵהוּ שֶׁיֵּרֵד וְיִפֹּל וְיִהְיֶה קָשֶׁה לַהֲקִימוֹ, אֶלָּא חַזְּקֵהוּ מִשְּׁעַת מוֹטַת הַיָּד; לְמָה זֶה דוֹמֶה? לְמַשּׂאוֹי שֶׁעַל הַחֲמוֹר, עוֹדֵהוּ עַל הַחֲמוֹר אֶחָד תּוֹפֵס בּוֹ וּמַעֲמִידוֹ, נָפַל לָאָרֶץ, חֲמִשָּׁה אֵין מַעֲמִידִין אוֹתוֹ",
+     "gloss": "Do not let him go down and fall, so that it becomes hard to raise him up, but strengthen him from the moment his hand falters. To what is this like? To a load on a donkey: while it is still on the donkey, one person takes hold of it and keeps it up; once it has fallen to the ground, five cannot set it up."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d040-s",
+    "key": "And the land shall not be sold in perpetuity; for the land is Mine; for ye are strangers and settlers with Me.",
+    "ref": "Leviticus 25:23",
+    "at": [
+     114,
+     23
+    ],
+    "s": "In the jubilee law returning sold fields to their owners, God gives the ground of the law; Ibn Ezra, on 25:23, reads it as a weighty reason, like the prayer of Moses that calls God an abiding dwelling while generations come and go.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, Commentary on the Torah, on Leviticus 25:23, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "כי לי הארץ. זה טעם נכבד וכן אמר משה בתפלתו ה׳ מעון אתה היית לנו אתה כמו מעון עומד ודור הולך ודור בא",
+     "gloss": "For the land is Mine: this is a weighty reason; and so Moses said in his prayer, LORD, Thou hast been our dwelling-place: You are like a dwelling that stands, and a generation goes and a generation comes."
+    }
+   }
+  }
+ ]
+}

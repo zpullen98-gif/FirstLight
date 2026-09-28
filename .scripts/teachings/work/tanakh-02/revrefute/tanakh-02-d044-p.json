@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-02-d044-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Numbers/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 44 --verse 6:7: Ibn Ezra on 6:7 (lemma לאביו ולאמו) holds the evidence words verbatim. Attribution: the nezer derivation is reported (ויש אומרים) and judged by him not far-fetched (ואיננו רחוק); the sentence keeps it as 'the view' he takes as not far-fetched, not as his own etymology, which matters because on 6:2 (also re-opened) his own derivation is from וינזרו, separation. The true-king remark is his own (ודע), and 'the world’s desires' is his תאות העולם; 'crowned' is his נזר ועטרת מלכות בראשו. No drift. Plain sense checked with day.js: 6:3 to 6:5 wine and razor, 6:6 to 6:7 the dead; no four-word run from the key. Verse: the comment is on 6:7 and its proof text is 6:7’s second half, so the key is the right line. verse.js ok (Numbers 6:7, at [122,7]); entry-check ok, no errors or warns. Form note, not landing: a second verb, ‘calls’, follows the permitted ‘takes’; it is not a forbidden verb and it reports his own ‘the king in truth is’. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

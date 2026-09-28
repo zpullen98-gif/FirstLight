@@ -1,0 +1,112 @@
+{
+ "lane": "L6",
+ "plan": "tanakh",
+ "batch": "tanakh-02",
+ "days": [
+  {
+   "d": 57,
+   "primary": {
+    "id": "tanakh-02-d057-p",
+    "key": "But the LORD was wroth with me for your sakes, and hearkened not unto me; and the LORD said unto me: ‘Let it suffice thee; speak no more unto Me of this matter.",
+    "ref": "Deuteronomy 3:26",
+    "at": [155, 26],
+    "s": "Moses recalls pleading to cross the Jordan into the good land; Rashi, on 3:26, reads ‘Let it suffice’ as ending the plea lest people call the master harsh and the disciple importunate, or as telling him much more is stored up for him.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Deuteronomy 3:26, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "רב לך. שֶׁלֹּא יֹאמְרוּ הָרַב כַּמָּה קָשֶׁה וְהַתַּלְמִיד כַּמָּה סַרְבָן וּמַפְצִיר … רב לך, הַרְבֵּה מִזֶּה שָׁמוּר לְךָ, רַב טוּב הַצָּפוּן לְךָ",
+     "gloss": "[Rashi, on 3:26, ‘Let it suffice thee’:] So that they should not say: how harsh is the master, and how obstinate and importunate the disciple … [his other explanation:] ‘Rav lekha’, much more than this is kept for you; abundant good is stored up for you."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d057-s",
+    "key": "But from thence ye will seek the LORD thy God; and thou shalt find Him, if thou search after Him with all thy heart and with all thy soul.",
+    "ref": "Deuteronomy 4:29",
+    "at": [156, 29],
+    "s": "Moses warns that idolatry will bring scattering among the peoples, then speaks of what follows; Sforno, on 4:29, reads the finding as holding even where there is no Temple and no holy vessels, since many troubles will make the seeking wholehearted.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Deuteronomy 4:29, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "ומצאת. אע\"פ שאין שם מקדש ולא כלי קדש … כי תדרשנו בכל לבבך ובכל נפשך. והטעם שתמצאנו הוא כי אמנם תדרשנו בכל לבבך מרב הצרות",
+     "gloss": "[Sforno, on 4:29, ‘and thou shalt find’:] even though there is no Temple there, nor holy vessels … [on ‘if thou search after Him with all thy heart and with all thy soul’:] and the reason you will find Him is that you will indeed seek Him with all your heart, out of the many troubles."
+    }
+   }
+  },
+  {
+   "d": 59,
+   "primary": {
+    "id": "tanakh-02-d059-p",
+    "key": "And thou shalt eat and be satisfied, and bless the LORD thy God for the good land which He hath given thee.",
+    "ref": "Deuteronomy 8:10",
+    "at": [160, 10],
+    "s": "Promising a land of wheat, vines and olives, Moses turns to eating there; Ramban, on 8:10, reads it with the rabbis as a commandment to bless God whenever one eats one’s fill, for food and for the land, and so binding in every place.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Deuteronomy 8:10, Hebrew (On Your Way new), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "ורבותינו (ברכות מח) קבלו שזו מצות עשה וטעמו ותברך את ה' אלהיך … יצוה שתברכהו בכל עת שתשבע על השובע ועל הארץ שנתן לך שינחילנה לך לעולמים ותשבע מטובה והנה חיוב המצוה הזאת בכל מקום",
+     "gloss": "[Ramban, on 8:10:] And our rabbis (Berakhot 48) received by tradition that this is a positive commandment, its sense being ‘and you shall bless the LORD your God’ … He commands that you bless Him every time you are satisfied, for the satiety and for the land He gave you, that He give it you as an inheritance for ever and you be satisfied with its goodness; so the duty of this commandment holds in every place."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d059-s",
+    "key": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years.",
+    "ref": "Deuteronomy 8:4",
+    "at": [160, 4],
+    "s": "Recalling the forty years in which God fed Israel with manna, Moses turns to their clothing and their feet; Rashi, on 8:4, reads it as the clouds of glory cleaning their clothes, the children’s clothes growing with them, and Ibn Ezra, on 8:4, as perhaps due to the manna, which may by nature cause no sweat.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi and Ibn Ezra, Commentaries on the Torah, on Deuteronomy 8:4, Hebrew (Rosenbaum and Silbermann, 1929 to 1934; On Your Way), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "עַנְנֵי כָבוֹד הָיוּ שָׁפִים בִּכְסוּתָם וּמְגַהֲצִים אוֹתָם כְּמִין כֵּלִים מְגֹהָצִים, וְאַף קְטַנֵּיהֶם כְּמוֹ שֶׁהָיוּ גְדֵלִים הָיָה גָּדֵל לְבוּשָׁן עִמָּהֶם … יש אומרי' דרך אות ואחרים אומרים כי הוציאו מלבושים רבים ממצרים ויתכן שאין בתולדת המן להוליד זיעה",
+     "gloss": "[Rashi, on 8:4, ‘thy raiment waxed not old’:] The clouds of glory used to rub their clothing clean and press it like pressed garments; and their little ones too, as they grew, their clothing grew with them … [Ibn Ezra, on 8:4, ‘thy raiment’:] Some say it was by way of a sign, and others say they brought many garments out of Egypt; and it is possible that it is not in the nature of the manna to produce sweat."
+    }
+   }
+  },
+  {
+   "d": 60,
+   "primary": {
+    "id": "tanakh-02-d060-p",
+    "key": "Therefore shall ye lay up these My words in your heart and in your soul; and ye shall bind them for a sign upon your hand, and they shall be for frontlets between your eyes.",
+    "ref": "Deuteronomy 11:18",
+    "at": [163, 18],
+    "s": "After warning that serving other gods ends in perishing from the land, Moses repeats his charge; Rashi, on 11:18, reads it as bidding Israel stay marked by the commandments in exile too, with tefillin and mezuzot, lest these be new on their return.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Deuteronomy 11:18, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ושמתם את דברי. אַף לְאַחַר שֶׁתִּגְלוּ הֱיוּ מְצֻיָּנִים בַּמִּצְווֹת, הַנִּיחוּ תְּפִלִּין, עֲשׂוּ מְזוּזוֹת, כְּדֵי שֶׁלֹּא יִהְיוּ לָכֶם חֲדָשִׁים כְּשֶׁתַּחְזְרוּ",
+     "gloss": "[Rashi, on 11:18, ‘and ye shall lay up these My words’:] Even after you are exiled, be marked out by the commandments: put on tefillin, make mezuzot, so that they will not be new to you when you return."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d060-s",
+    "key": "Therefore thou shalt love the LORD thy God, and keep His charge, and His statutes, and His ordinances, and His commandments, alway.",
+    "ref": "Deuteronomy 11:1",
+    "at": [163, 1],
+    "s": "Drawing the lesson of all God has done for Israel, Moses opens a new chapter; Ramban, on 11:1, takes ‘keep His charge’ as guarding against sin in fear of Him, or as guarding what God guards, strangers, the poor, orphans and widows.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Deuteronomy 11:1, Hebrew (On Your Way new), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "ושמרת משמרתו ליראה אותו שתשמור מחטוא לפניו כי אחר שיצוה באהבה יצוה ביראה ויצוה בחוקים ובמשפטים ובמצות או ושמרת משמרתו שתשמור מה שהשם שומר שהוא שומר את הגרים וחונן דלים ואביונים ועושה משפט יתום ואלמנה",
+     "gloss": "[Ramban, on 11:1, ‘and keep His charge’:] To fear Him, that you guard yourself from sinning before Him, for after commanding love He commands fear, and commands the statutes, the ordinances and the commandments; or ‘and keep His charge’ means that you guard what God guards, for He guards the strangers, is gracious to the poor and needy, and does justice for the orphan and the widow."
+    }
+   }
+  }
+ ]
+}

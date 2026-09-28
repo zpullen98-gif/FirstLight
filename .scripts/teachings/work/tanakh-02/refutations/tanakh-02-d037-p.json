@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d037-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Leviticus/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 37 --verse 16:30: Sforno on כי ביום הזה יכפר says the priest by his service only effects kapparah, which is lessening the sin and readying it for pardon (explaining why rest and affliction are also needed), and on לפני ה׳ תטהרו that purity and complete pardon come before the LORD alone, by confession and repentance, whose truth He alone knows. The paraphrase is carried in full by his Hebrew, no drift. Plain sense checked in day.js: 16:1 to 28 the rites of Aaron’s entry, 16:29 to 34 a statute for ever, tenth day of the seventh month, affliction and no work, sabbath of solemn rest, once in the year; ‘high priest’ is a fair gloss for the anointed priest of 16:32. verse.js ok (Leviticus 16:30, at [105,30]); entry-check ok.",
+ "better": ""
+}

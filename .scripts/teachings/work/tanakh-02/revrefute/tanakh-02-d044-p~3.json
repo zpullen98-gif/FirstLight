@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d044-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Numbers/Hebrew/Rashbam%20on%20Numbers%20--%20Daat.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 44 --verse 6:26 myself. Rashi (Rosenbaum and Silbermann Hebrew) on ישא ה' פניו אליך prints יִכְבֹּשׁ כַּעֲסוֹ verbatim, his own gloss (the English only adds the Numbers Rabbah 11:7 source); ‘suppressing His anger’ carries it. Rashbam (Daat Hebrew) on the same words prints שלא יסתיר פניו מכם ... אבל הוא ישא פנים שלו את אהובו שיפנה אליו לחננו verbatim; ‘not hiding His face but turning to His beloved to be gracious’ carries it without drift. The two genuinely differ (anger restrained against a face turned in favour to the beloved) and are named without resolution; both are on 6:26, the locator is right. Plain sense checked against day.js: 6:22 the LORD speaks to Moses, 6:23 Aaron and his sons are to bless the children of Israel, 6:24 to 26 the blessing, 6:26 its last line; the clause is now a full main clause (the ~2 form fault is repaired), repeats no four-word run of the key, and names no commentator. verse.js ok, exact, Numbers 6:26, at [122,26], matching the entry. entry-check ok (scratch/refute-rev3-d044-p.json), no errors, no warns. No school is needed (roster schools empty), no comparison, no other tradition, no tone issue, British spelling, no dash. Every attack tried; none lands.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d041-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Leviticus/Hebrew/On%20Your%20Way%20New.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Ramban on 26:6 (lemma והשבתי חיה רעה מן הארץ) via packet.js tanakh 41 --verse 26:6; the evidence words are there verbatim. Ramban sets out Rabbi Yehudah (beasts removed) and Rabbi Shimon (beasts made harmless, from Sifra), calls the second והוא הנכון, and adds in his own words that the land of Israel, while the commandments are kept, will be as the world was before the first man’s sin, when no beast or creeping thing killed a man. So the reading is his by adoption and his elaboration; the sentence carries exactly that and no more. Plain sense matches 26:3 to 13 (blessings for walking in the statutes) and repeats no four words of the key. verse.js ok (Leviticus 26:6, at [115,6]); entry-check ok. No school, comparison or tone issue. The absolute clause ‘the land ... being as the world was’ is heavy but grammatical.",
+ "better": ""
+}

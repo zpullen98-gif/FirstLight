@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d039-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Vayikra%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 39 --verse 23:40: Leviticus Rabbah 30:12 is printed on 23:40 and reads citron, palm, myrtle and willow each as Israel (Torah and good deeds; Torah without deeds; deeds without Torah; neither), then God says let them all be bound in one bundle and they atone for one another; evidence words found verbatim. The paraphrase (both, one, or neither, bound to atone for one another) carries no more than that. Plain sense matches 23:33 to 44 (tabernacles is the last feast of the chapter's calendar, kept when the fruits of the land are gathered in, 23:39), with no four-word run from the key. verse.js ok (Leviticus 23:40, at [112,40]); entry-check ok. No school, comparison or tone issue.",
+ "better": ""
+}

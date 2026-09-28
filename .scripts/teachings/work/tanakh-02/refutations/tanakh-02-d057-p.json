@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d057-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 57 --verse 3:26: Rashi on רב לך gives exactly the two readings named (lest they say the Master is harsh and the disciple obstinate and importunate, Sotah 13; another explanation, much more than this is stored up for you, Sifrei); evidence words found verbatim in the packet. Plain sense matches 3:23 to 25 (Moses besought to go over and see the good land beyond the Jordan). ‘Ending the plea’ rests on the lemma itself (speak no more). verse.js ok (Deuteronomy 3:26, at [155,26]); entry-check ok, 43 words. No school, comparison or tone issue.",
+ "better": ""
+}

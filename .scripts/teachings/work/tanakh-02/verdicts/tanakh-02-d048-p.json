@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d048-p",
+ "d": 48,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And they fell upon their faces, and said: ‘O God, the God of the spirits of all flesh, shall one man sin, and wilt Thou be wroth with all the congregation?’",
+ "ref": "Numbers 16:22",
+ "at": [
+  132,
+  22
+ ],
+ "s": "When God bids Moses and Aaron stand apart that He may consume the assembly, they plead; Rashi, on Numbers 16:22, hears in the divine title One who knows every thought, and so who sinned, where an earthly king, not knowing the offender, punishes all.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Numbers 16:22, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 16:22, on אל אלהי הרוחת",
+    "via": "packet"
+   }
+  ],
+  "words": "יוֹדֵעַ מַחֲשָׁבוֹת; אֵין מִדָּתְךָ כְּמִדַּת בָּשָׂר וָדָם, מֶלֶךְ בָּשָׂר וָדָם שֶׁסָּרְחָה עָלָיו מִקְצָת מְדִינָה, אֵינוֹ יוֹדֵעַ מִי הַחוֹטֵא, לְפִיכָךְ כְּשֶׁהוּא כוֹעֵס נִפְרָע מִכֻּלָּם, אֲבָל אַתָּה, לְפָנֶיךָ גְלוּיוֹת כָּל הַמַּחֲשָׁבוֹת וְיוֹדֵעַ אַתָּה מִי הַחוֹטֵא",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 16:22, ‘O God, the God of the spirits’:] Who knows thoughts; Your way is not the way of flesh and blood: a king of flesh and blood against whom part of a province has offended does not know who the sinner is, so when he is angry he punishes them all; but You, before You all thoughts lie open and You know who the sinner is.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Numbers 16:22 and at [132,22] match). Plain sense faithful to 16:21, God telling Moses and Aaron to separate themselves that He may consume the congregation. Rashi on 16:22, ‘El Elohei haruchot’, glosses the title as ‘who knows thoughts’ and sets it against an earthly king who, not knowing the sinner, punishes all, while before God all thoughts are open and He knows who sinned (from Tanchuma). The sentence carries this without drift. Numbers Rabbah 18:11 and Rashbam say much the same; Ibn Ezra reads ‘El’ as power to destroy, a different emphasis the sentence does not touch. entry-check ok."
+}

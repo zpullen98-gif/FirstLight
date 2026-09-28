@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d038-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Leviticus/Hebrew/On%20Your%20Way%20New.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 38 --verse 19:2. Rashi on קדשים תהיו: הֱווּ פְרוּשִׁים מִן הָעֲרָיוֹת וּמִן הָעֲבֵרָה, carried exactly by ‘keeping apart from forbidden unions and from sin’. Ramban on קדושים תהיו explicitly departs from Rashi (אין הפרישות הזו לפרוש מן העריות כדברי הרב), warns that one could become נבל ברשות התורה, and reads the command as פרושים מן המותרות, restraint in what is permitted; the sentence carries this without drift and names the difference without resolving it (rule 5). Both locators right (19:2). Plain sense checked in day.js: 19:1 the LORD speaks to Moses, chapter covers idols and offerings (19:4 to 8), justice (19:15), love of neighbour (19:18). verse.js ok (Leviticus 19:2, at [108,2]); entry-check ok within the two-commentator cap; source line names each edition.",
+ "better": ""
+}

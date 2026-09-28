@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d034-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 34 --verse 10:3 (Rashi and Rashbam at the urls cited). Rashi on the lemma הוא אשר דבר וגו' has verbatim: אָמַר לוֹ מֹשֶׁה לְאַהֲרֹן ... יוֹדֵעַ הָיִיתִי שֶׁיִּתְקַדֵּשׁ הַבַּיִת בִּמְיֻדָּעָיו שֶׁל מָקוֹם, וְהָיִיתִי סָבוּר אוֹ בִי אוֹ בְךָ, עַכְשָׁיו רוֹאֶה אֲנִי שֶׁהֵם גְּדוֹלִים מִמֶּנִּי וּמִמְּךָ (Sifra); it carries 'expected the sanctuary to be hallowed through himself or Aaron and now sees the sons as greater' (the knowledge that it would be hallowed through God's intimates is folded, not contradicted; 'the sons' is the contextual referent of הם). No 'consolation' is claimed for Rashi. Rashbam on ויאמר משה אל אהרן has verbatim אל תתאבל ואל תבכה ואל תחדל מן העבודה, carrying 'a charge not to mourn or leave the service'; on אף כאן וידום he himself calls the Moses-consoling aggadah not the plain sense, so the two genuinely differ and the sentence names both without ranking (rule 5). Plain sense checked with day.js: 10:1 strange fire, 10:2 fire from before the LORD devours them and they die, 10:3 Moses speaks to Aaron; the deaths are stated plainly, not softened or dramatised. verse.js ok (Leviticus 10:3, at [99,3]); entry-check ok, no warns; 58 words within the two-commentator cap; verbs 'hears' with the elided second verb in the rule 1 form; no school needed; no comparison. Minor: the elided parallel ('and Rashbam ... as a charge') leaves the object implicit, readable and within the rule 1 template.",
+ "better": ""
+}

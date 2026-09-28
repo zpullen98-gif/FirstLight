@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d054-p",
+ "d": 54,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "‘Avenge the children of Israel of the Midianites; afterward shalt thou be gathered unto thy people.’",
+ "ref": "Numbers 31:2",
+ "at": [
+  147,
+  2
+ ],
+ "s": "God’s command opens a chapter where Israel kills Midian’s men and Moses orders every captive killed but the virgin girls; Rashi, on Numbers 31:2, reads the command as aimed at Midian, not Moab, which joined the scheme from fear, while Midian meddled in another’s quarrel.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Numbers 31:2, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (corrected vocalization), Sefaria export 3f10136",
+    "locator": "Numbers 31:2, on מאת המדינים",
+    "via": "packet"
+   }
+  ],
+  "words": "מאת המדינים. וְלֹא מֵאֵת הַמּוֹאָבִים, שֶׁהַמּוֹאָבִים נִכְנְסוּ לַדָּבָר מֵחֲמַת יִרְאָה, שֶׁהָיוּ יְרֵאִים מֵהֶם שֶׁיִּהְיוּ שׁוֹלְלִים אוֹתָם, שֶׁלֹּא נֶאֱמַר אֶלָּא \"וְאַל תִּתְגָּר בָּם מִלְחָמָה\" (דברים ב'), אֲבָל מִדְיָנִים נִתְעַבְּרוּ עַל רִיב לֹא לָהֶם",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 31:2, ‘of the Midianites’:] And not of the Moabites, for the Moabites entered into the matter out of fear, being afraid that [Israel] would plunder them, since of them it was said only “do not contend with them in battle” (Deuteronomy 2); but the Midianites grew heated over a quarrel that was not theirs.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Numbers 31:2 and at [147,2] match). Plain sense faithful to Numbers 31 as day.js prints it: the chapter opens on God’s command (31:1 to 2), the army slays every male (31:7), and Moses orders the male children and the women who have known man killed and the girls who have not kept alive (31:15 to 18); stated in one plain clause, no softening or graphic detail. Rashi on 31:2 (מאת המדינים) says exactly what the reading carries: of the Midianites and not of the Moabites, who entered the matter from fear of being plundered, while Midian grew heated over a quarrel not its own; his second explanation (Ruth and Naamah) is left aside without distortion. His comments on the rest of the chapter (31:3 to 8) do not alter this. The reading carries the limit Rashi sets on the command (Midian, not Moab). entry-check ok."
+}

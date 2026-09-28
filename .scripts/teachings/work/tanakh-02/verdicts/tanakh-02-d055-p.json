@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d055-p",
+ "d": 55,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "These are the stages of the children of Israel, by which they went forth out of the land of Egypt by their hosts under the hand of Moses and Aaron.",
+ "ref": "Numbers 33:1",
+ "at": [
+  149,
+  1
+ ],
+ "s": "With Israel on the plains of Moab, the text names every stage from Egypt to the Jordan; Rashi, on 33:1, reads the list as God’s kindness, only twenty moves in thirty-eight years under the decree, and Sforno, on 33:1, as Israel’s merit in following Him through an unsown land, which made them worthy to enter Canaan.",
+ "by": "rashi",
+ "by2": "sforno",
+ "hedge": "",
+ "src": "Rashi and Sforno, on Numbers 33:1, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Sforno’s On Your Way text; Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Numbers 33:1, on אלה מסעי",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Numbers/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Numbers, Hebrew, On Your Way, Sefaria export 3f10136",
+    "locator": "Numbers 33:1, on אלה מסעי",
+    "via": "packet"
+   }
+  ],
+  "words": "לָמָּה נִכְתְּבוּ הַמַּסָּעוֹת הַלָּלוּ? לְהוֹדִיעַ חֲסָדָיו שֶׁל מָקוֹם … נִמְצָא שֶׁכָּל שְׁמוֹנֶה וּשְׁלֹשִׁים שָׁנָה לֹא נָסְעוּ אֶלָּא עֶשְׂרִים מַסָּעוֹת … רצה האל יתברך שיכתבו מסעי ישראל להודיע זכותם בלכתם אחריו במדבר בארץ לא זרועה באופן שהיו ראוים להכנס לארץ",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 33:1:] Why were these journeys written? To make known the kindnesses of the Omnipresent … it follows that in all thirty-eight years they made only twenty journeys … [Sforno on 33:1:] God, blessed be He, wished the journeys of Israel written to make known their merit in going after Him in the wilderness, in a land not sown, so that they were worthy to enter the land.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Numbers 33:1 and at [149,1] match). Plain sense faithful: chapter 33 lists the stages from Rameses to the plains of Moab by the Jordan (33:48 to 49), with no four-word run from the verse. Rashi on 33:1 asks why the journeys were written and answers: to make known the kindnesses of the Omnipresent, forty-two stages less fourteen before the decree and eight after Aaron’s death, so only twenty in thirty-eight years. Sforno on 33:1 gives the reason as Israel’s merit in following Him in an unsown land, so that they were worthy to enter the land. The two differ (God’s kindness against Israel’s merit), so naming both is warranted. Ramban on 33:1 follows Rashi; Ibn Ezra and Rashbam only date or describe the list; nothing contradicts. entry-check ok."
+}

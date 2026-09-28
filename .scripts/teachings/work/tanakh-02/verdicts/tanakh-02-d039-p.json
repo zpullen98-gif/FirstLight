@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d039-p",
+ "d": 39,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And ye shall take you on the first day the fruit of goodly trees, branches of palm-trees, and boughs of thick trees, and willows of the brook, and ye shall rejoice before the LORD your God seven days.",
+ "ref": "Leviticus 23:40",
+ "at": [
+  112,
+  40
+ ],
+ "s": "Closing the calendar of feasts, the law of tabernacles follows the harvest; the Midrash, Leviticus Rabbah 30:12, reads the four kinds as Israel’s people, with both Torah and good deeds, with one, or with neither, bound in one bundle to atone for one another.",
+ "by": "midrash",
+ "by2": "",
+ "hedge": "",
+ "src": "The Midrash, Leviticus Rabbah 30:12, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "sensitivity": "none",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Vayikra%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Leviticus Rabbah (Vayikra Rabbah), Hebrew, Midrash Rabbah (Torat Emet), with The Sefaria Midrash Rabbah (2022, CC-BY), Sefaria export 3f10136",
+    "locator": "Leviticus Rabbah 30:12, on Leviticus 23:40",
+    "via": "packet"
+   }
+  ],
+  "words": "פְּרִי עֵץ הָדָר, אֵלּוּ יִשְׂרָאֵל, מָה אֶתְרוֹג זֶה יֵשׁ בּוֹ טַעַם וְיֵשׁ בּוֹ רֵיחַ, כָּךְ יִשְׂרָאֵל יֵשׁ בָּהֶם בְּנֵי אָדָם שֶׁיֵּשׁ בָּהֶם תּוֹרָה וְיֵשׁ בָּהֶם מַעֲשִׂים טוֹבִים … וְעַרְבֵי נָחַל, אֵלּוּ יִשְׂרָאֵל, מָה עֲרָבָה זוֹ אֵין בָּהּ טַעַם וְאֵין בָּהּ רֵיחַ, כָּךְ הֵם יִשְׂרָאֵל יֵשׁ בָּהֶם בְּנֵי אָדָם שֶׁאֵין בָּהֶם לֹא תּוֹרָה וְלֹא מַעֲשִׂים טוֹבִים … אָמַר הַקָּדוֹשׁ בָּרוּךְ הוּא יֻקְשְׁרוּ כֻלָּם אֲגֻדָּה אַחַת וְהֵן מְכַפְּרִין אֵלּוּ עַל אֵלּוּ",
+  "lang": "Hebrew",
+  "gloss": "The fruit of a goodly tree: this is Israel; as the citron has taste and has fragrance, so Israel has people who have Torah and have good deeds … Willows of the brook: this is Israel; as the willow has no taste and no fragrance, so Israel has people who have neither Torah nor good deeds … The Holy One, blessed be He, said: let them all be bound in one bundle, and they will atone for one another.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (text centuries old); English consulted: CC-BY",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Leviticus 23:40, at [112,40] match). Plain sense faithful: 23:39 to 43 close the chapter’s calendar with the feast kept when the fruits of the land are gathered in. Leviticus Rabbah 30:12, printed on 23:40 in the packet, reads citron, palm, myrtle and willow each as Israel: people with Torah and good deeds, with Torah only, with good deeds only, with neither; God says let them all be bound in one bundle and they will atone for one another. The sentence carries exactly that, without drift; read the whole run of 30:1 to 30:16 on the verse (30:9 to 30:11 give other allegories, God, the patriarchs, the Sanhedrin), and 30:12 is correctly named. entry-check ok, 44 words."
+}

@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d056-p",
+ "d": 56,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "THESE ARE the words which Moses spoke unto all Israel beyond the Jordan; in the wilderness, in the Arabah, over against Suph, between Paran and Tophel, and Laban, and Hazeroth, and Di-zahab.",
+ "ref": "Deuteronomy 1:1",
+ "at": [
+  153,
+  1
+ ],
+ "s": "With Numbers closed on the plains of Moab, Deuteronomy opens on Moses’ address to the people in the fortieth year; Rashi, on 1:1, reads the names as rebukes recalling where Israel provoked God, only hinted at for Israel’s honour, and Ibn Ezra, on 1:1, as places, absent from the earlier list of stages or named otherwise.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi and Ibn Ezra, on Deuteronomy 1:1, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Ibn Ezra’s On Your Way text; Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 1:1, on אלה הדברים (and on תפל ולבן)",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Deuteronomy, Hebrew, On Your Way, Sefaria export 3f10136",
+    "locator": "Deuteronomy 1:1, on בין פארן ובין תופל ולבן וחצרות ודי זהב",
+    "via": "packet"
+   }
+  ],
+  "words": "לְפִי שֶׁהֵן דִּבְרֵי תוֹכָחוֹת וּמָנָה כָאן כָּל הַמְּקוֹמוֹת שֶׁהִכְעִיסוּ לִפְנֵי הַמָּקוֹם בָּהֶן, לְפִיכָךְ סָתַם אֶת הַדְּבָרִים וְהִזְכִּירָם בְּרֶמֶז מִפְּנֵי כְבוֹדָן שֶׁל יִשְׂרָאֵל … מקומות לא נזכרו בפ' אלה מסעי או נזכרו בשמות אחרים כי הנה שניר יש לו ג' שמות ורבים כן",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 1:1, ‘These are the words’:] Because they are words of rebuke, and he listed here all the places where they provoked the Omnipresent, he left the matters unstated and mentioned them by allusion, out of regard for Israel’s honour … [Ibn Ezra on 1:1, ‘between Paran and Tophel, and Laban, and Hazeroth, and Di-zahab’:] Places not mentioned in the section ‘These are the stages’, or mentioned under other names, for Senir has three names, and many are so.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Deuteronomy 1:1 and at [153,1] match). Both readings are found in the commentators’ own words at 1:1: Rashi takes the place names as allusive rebukes, withheld out of regard for Israel (and on Tophel and Laban cites R. Yohanan that no such places exist); Ibn Ezra takes Paran to Di-zahab as places absent from Numbers 33 or known by other names. Two changes: the context clause called the book Moses’ “last words”, which the day’s text does not say, so it now reads “Moses’ address to the people in the fortieth year” (Deuteronomy 1:3); and “as real places” became “as places”, since Ibn Ezra says only מקומות and “real” was the proposer’s emphasis. entry-check ok on the corrected entry."
+}

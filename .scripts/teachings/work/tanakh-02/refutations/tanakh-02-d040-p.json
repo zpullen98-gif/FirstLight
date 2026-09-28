@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d040-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 40 --verse 25:35: Rashi on והחזקת בו says do not let him go down and fall, uphold him from the moment his hand falters, like a load on a donkey that one holds up while it is on the beast but five cannot set up once it has fallen; evidence words found verbatim. The paraphrase carries exactly that. Plain sense matches the day: 25:25 to 34 give redemption of sold fields and houses, 25:35 turns to the brother whose means fail (the chapter names the brethren as the children of Israel, 25:46), so 'an Israelite' stands; no four-word run from the key. verse.js ok (Leviticus 25:35, at [114,35]); entry-check ok. Rashi's second comment on the verse (the stranger and settler included) does not conflict with the reading named. No school, comparison or tone issue.",
+ "better": ""
+}

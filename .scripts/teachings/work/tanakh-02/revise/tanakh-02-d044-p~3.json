@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d044-p",
+ "d": 44,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "The LORD lift up His countenance upon thee, and give thee peace.",
+ "ref": "Numbers 6:26",
+ "at": [
+  122,
+  26
+ ],
+ "s": "The LORD gives Moses the blessing Aaron and his sons are to speak over Israel, and the verse is its closing line; Rashi, on 6:26, reads the lifted countenance as God suppressing His anger, and Rashbam, on 6:26, as God not hiding His face but turning to His beloved to be gracious.",
+ "by": "rashi",
+ "by2": "rashbam",
+ "hedge": "",
+ "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Rashbam (Hebrew, Daat), on Numbers 6:26, Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (corrected vocalization), Sefaria export 3f10136",
+    "locator": "Numbers 6:26, on ישא ה' פניו אליך",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Numbers/Hebrew/Rashbam%20on%20Numbers%20--%20Daat.json",
+    "edition": "Rashbam on Numbers, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Numbers 6:26, on ישא ה' פניו אליך",
+    "via": "packet"
+   }
+  ],
+  "words": "ישא ה' פניו אליך. יִכְבֹּשׁ כַּעֲסוֹ … ישא ה' פניו אליך - כדכתיב: ופניתי אליכם, שלא יסתיר פניו מכם. ומה שכתוב: אשר לא ישא פני איש, הקב\"ה לא ישא פני איש לנקותו מכל פשעיו, אבל הוא ישא פנים שלו את אהובו שיפנה אליו לחננו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 6:26, ‘the LORD lift up His countenance upon thee’:] May He suppress His anger. … [Rashbam, on 6:26, same words:] As it is written, ‘and I will turn unto you’ (Leviticus 26:9): that He will not hide His face from you. And as for what is written, ‘who regardeth not persons’, the Holy One, blessed be He, does not lift the face of a man to clear him of all his transgressions, but He lifts His own face to His beloved, to turn to him to be gracious to him.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: the day holds the Priestly Blessing (6:22 to 27), and the 6:7 reading turns on nezer, crown, which the English consecration never shows, with half of it an etymology Ibn Ezra only reports (ויש אומרים). Revise ~2 was refuted on form alone (a participial context with no main clause); this lands it with the refuter’s repaired clause, checked against day.js: 6:22 the LORD speaks to Moses, 6:23 Aaron and his sons are to bless Israel, 6:24 to 26 the blessing, 6:26 its last line. Re-opened packet.js tanakh 44 --verse 6:26 myself: Rashi, Rosenbaum and Silbermann Hebrew, reads verbatim ישא ה' פניו אליך. יִכְבֹּשׁ כַּעֲסוֹ (the English cites Numbers Rabbah 11:7, but Rashi prints it as his gloss); Rashbam, Daat Hebrew, reads verbatim ... שלא יסתיר פניו מכם ... אבל הוא ישא פנים שלו את אהובו שיפנה אליו לחננו. The two differ (anger restrained against favour turned to the beloved) and are named without resolution. verse.js ok, exact, Numbers 6:26, at [122,26]; entry-check ok on scratch/rev3-d044-p.json; 52 words, under the two-commentator cap of 60. Standby d044-s is on 6:27, no clash."
+}

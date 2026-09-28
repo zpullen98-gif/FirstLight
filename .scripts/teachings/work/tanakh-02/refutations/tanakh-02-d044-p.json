@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-02-d044-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Numbers/Hebrew/On%20Your%20Way.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 44 --verse 6:7: Ibn Ezra on 6:7 (lemma לאביו ולאמו) reads verbatim 'ויש אומרים כי מלת נזיר מגזרת נזר והעד כי נזר אלהיו על ראשו ואיננו רחוק ודע כי כל בני אדם עבדי תאות העולם והמלך באמת ... כל מי שהוא חפשי מן התאות'. The sentence keeps the derivation as others' ('those who derive'), judged not far-fetched, which matches ויש אומרים ... ואיננו רחוק and respects his own derivation from וינזרו on 6:2; the true-king remark is his own (ודע). Plain sense checked with day.js: 6:3 to 6:5 wine and razor, 6:6 to 6:7 the dead; no four-word run from the key. verse.js ok (Numbers 6:7, at [122,7]); entry-check ok. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

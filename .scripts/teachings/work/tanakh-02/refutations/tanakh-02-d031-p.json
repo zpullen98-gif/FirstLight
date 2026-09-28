@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d031-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 31 --verse 2.1. Rashi on the lemma ונפש כי תקריב: nefesh is said of no freewill offering but the meal-offering; who usually volunteers one? the poor man; God counts it as though he offered his soul (he cites Menachot 104b but prints and adopts it). Ibn Ezra (On Your Way) on the same lemma: nefesh means a person, named because the meal-offering is a freewill gift and the soul too is called willing (Psalm 51:14). Both paraphrases carried by the Hebrew without drift; ‘reads nefesh as the poor man’ compresses Rashi’s why-this-word argument but stays within it. The two differ in the reason for the word and are named without resolution. Locator 2:1 right for both. Plain sense checked in day.js: Leviticus 1 ends the burnt-offerings (1:17), 2:1 opens the meal-offering of fine flour; no four-word run from the key. verse.js ok (Leviticus 2:1, at [91,1]); entry-check ok. Two editions named in src. No school, comparison or tone issue.",
+ "better": ""
+}

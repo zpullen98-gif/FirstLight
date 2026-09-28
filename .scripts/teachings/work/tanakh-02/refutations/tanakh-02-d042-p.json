@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d042-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Numbers/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 42 --verse 2:2: Rashi on באתת (dyed cloth on each standard, each colour like its stone in the breastplate; he adds a second reading from Jacob’s bier, not used) and Ibn Ezra on באתת (signs on every standard; ‘our ancients said’ man on Reuben’s, lion on Judah’s, ox on Ephraim’s, eagle on Dan’s, like the cherubim Ezekiel saw) are both there verbatim as the evidence gives them (Rashi url also re-opened in the packet). The sentence keeps the figures as ‘the ancients’ account’, which is how Ibn Ezra reports them, and Ramban on 2:2 quotes the two as distinct views, so the difference is real and is named without resolution. Plain sense matches chapter 2 (the LORD to Moses and Aaron, four camps of three round the tent of meeting). verse.js ok (Numbers 2:2, at [118,2]); entry-check ok. Note for the operator, not a ground: the key, verbatim as day.js prints it, opens a quotation that closes only at 2:31 and carries the source’s missing space in “fathers’houses”; rule 8 forbids mending either, and the plain sense says ‘Tabernacle’ where chapter 2 says ‘tent of meeting’.",
+ "better": ""
+}

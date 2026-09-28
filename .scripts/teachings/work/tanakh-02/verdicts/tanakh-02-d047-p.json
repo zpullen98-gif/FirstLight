@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d047-p",
+ "d": 47,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And Moses cried unto the LORD, saying: ‘Heal her now, O God, I beseech Thee.’",
+ "ref": "Numbers 12:13",
+ "at": [
+  128,
+  13
+ ],
+ "s": "After Miriam is found leprous and Aaron pleads for her, Moses turns to God; Rashi, on Numbers 12:13, reads the prayer’s brevity as care lest Israel say that he stands praying at length while his sister is in distress.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Numbers 12:13, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 12:13, on רפא נא לה",
+    "via": "packet"
+   }
+  ],
+  "words": "מִפְּנֵי מָה לֹא הֶאֱרִיךְ מֹשֶׁה בִּתְפִלָּה? שֶׁלֹּא יִהְיוּ יִשְׂרָאֵל אוֹמְרִים, אֲחוֹתוֹ עוֹמֶדֶת בְּצָרָה וְהוּא עוֹמֵד וּמַרְבֶּה בִתְפִלָּה",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 12:13, ‘heal her, I pray Thee’:] Why did Moses not pray at length? So that Israel should not say: his sister stands in distress, and he stands and prolongs his prayer.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Numbers 12:13 and at [128,13] match). Plain sense faithful to 12:10 to 12, Miriam found leprous and Aaron pleading with Moses. Rashi on 12:13, third lemma ‘refa na lah’, asks why Moses did not pray at length and answers: lest Israel say his sister is in distress while he stands prolonging prayer (Sifrei); he adds a second explanation in brackets, which the sentence does not claim. His other comments on the verse (the courtesy of supplication; ‘lemor’ as asking for an answer) are separate lemmas. The reading is his, at this place, without drift. entry-check ok."
+}

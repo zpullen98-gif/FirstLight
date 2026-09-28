@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d046-p",
+ "d": 46,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And those men said unto him: ‘We are unclean by the dead body of a man; wherefore are we to be kept back, so as not to bring the offering of the LORD in its appointed season among the children of Israel?’",
+ "ref": "Numbers 9:7",
+ "at": [
+  125,
+  7
+ ],
+ "s": "Unclean from a corpse at Passover, some men come before Moses and Aaron; Rashi, on Numbers 9:7, reads their plea as bringing through them a law that, like all the Torah, was fit to come through Moses, since merit is brought about by the meritorious.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Numbers 9:7, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 9:7, on למה נגרע",
+    "via": "packet"
+   }
+  ],
+  "words": "וּרְאוּיָה הָיְתָה פָרָשָׁה זוֹ לֵאָמֵר עַ\"יְ מֹשֶׁה כִּשְׁאָר כָּל הַתּוֹרָה כֻּלָּה, אֶלָּא שֶׁזָּכוּ אֵלּוּ שֶׁתֵּאָמֵר עַל יְדֵיהֶן, שֶׁמְּגַלְגְּלִין זְכוּת עַ\"יְ זַכַּאי",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 9:7, ‘wherefore are we kept back’:] This section was fit to be spoken through Moses, like all the rest of the Torah, but these men merited that it be spoken through them, for merit is brought about through one who is meritorious.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Numbers 9:7 and at [125,7] match). Plain sense faithful to 9:6, where men unclean from a corpse come before Moses and Aaron on the day of the passover. Rashi on 9:7, ‘lamah nigara’, ends his comment saying the section was fit to be said through Moses like all the Torah, but these men merited it be said through them, since merit is brought about through the meritorious (Sifrei). The sentence carries exactly this, without drift. Ibn Ezra (grammar only) and Sforno (impurity from a commandment) checked; none contradicts. Evidence recopied from the packet’s own characters (the proposer’s Hebrew differed in combining-mark order). entry-check ok."
+}

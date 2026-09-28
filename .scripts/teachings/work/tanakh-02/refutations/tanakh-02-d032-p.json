@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d032-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Leviticus/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 32 --verse 4.3. Rashi on אם הכהן המשיח יחטא לאשמת העם gives first the halakhic midrash, then ‘ופשוטו לפי אגדה’: when the High Priest sins it is the people’s guilt, for they depend on him to atone and pray for them, and he is corrupted; the entry takes the second, which is his own printed reading. Sforno on the same lemma: an unwitting sin befalls him only (זולתי) from the snares of the people, not from his heart at all but for the people’s guilt. Both carried without drift; they genuinely differ in the direction of cause (his sin brings the people’s guilt against the people’s guilt brings his sin), named without resolution. Sforno’s English (Munk) adds faulty prayer; the sentence does not use it. Locator 4:3 right. Plain sense checked in day.js: 4:2 states the general law of sin through error, 4:3 is its first case, the anointed priest; three-word overlap only, under the gate. Weak point noted, not landing: 4:3 opens lowercase after 4:2’s colon, but verse.js (corpus.js treats a colon as a sentence boundary) passes starts and ok (Leviticus 4:3, at [93,3]); entry-check ok. No school, comparison or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d041-p",
+ "d": 41,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And I will give peace in the land, and ye shall lie down, and none shall make you afraid; and I will cause evil beasts to cease out of the land, neither shall the sword go through your land.",
+ "ref": "Leviticus 26:6",
+ "at": [
+  115,
+  6
+ ],
+ "s": "Among the blessings for keeping the statutes comes safety in the land; Ramban, on 26:6, takes the ‘evil beasts’ as ceasing to harm, since while the commandments are kept the land will be as the world before Adam’s sin, when no beast killed a man.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Leviticus 26:6, Hebrew (Sefaria’s “On Your Way New”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Leviticus/Hebrew/On%20Your%20Way%20New.json",
+    "edition": "Ramban on Leviticus, Hebrew, On Your Way New, Sefaria export 3f10136",
+    "locator": "Leviticus 26:6, on והשבתי חיה רעה מן הארץ",
+    "via": "packet"
+   }
+  ],
+  "words": "ועל דעת רבי שמעון שאמר משביתן שלא יזיקו (שם) יאמר והשבתי רעת החיות מן הארץ והוא הנכון כי תהיה ארץ ישראל בעת קיום המצות כאשר היה העולם מתחילתו קודם חטאו של אדם הראשון אין חיה ורמש ממית אדם",
+  "lang": "Hebrew",
+  "gloss": "And according to Rabbi Shimon, who said that He makes them cease from doing harm, it means: I will make the evil of the beasts cease out of the land; and this is the correct view, for the land of Israel, at the time the commandments are kept, will be as the world was at its beginning, before the sin of the first man, when no beast or creeping thing killed a man.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: the absolute clause left ‘the land’ stranded between commas. Re-opened Ramban on 26:6 (packet.js tanakh 41 --verse 26:6, lemma והשבתי חיה רעה מן הארץ): he adopts Rabbi Shimon (משביתן שלא יזיקו), calls it והוא הנכון, and grounds it in the land of Israel, while the commandments are kept, being as the world before the first man’s sin, when no beast killed a man. Rewritten with ‘since’ so the ground is plainly the reason for the beasts ceasing to harm; ‘was’ dropped to meet the 45-word gate count. Commentator, place, reading and evidence unchanged. verse.js ok (Leviticus 26:6, [115,6]); entry-check ok."
+}

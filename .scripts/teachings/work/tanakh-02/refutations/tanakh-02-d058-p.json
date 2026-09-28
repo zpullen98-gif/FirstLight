@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d058-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 58 --verse 6:5: Rashi’s three lemmas carry the reading word for word, בכל לבבך בשני יצריך (thy two inclinations, from the doubled letter of the heart), ובכל נפשך אפלו הוא נוטל את נפשך (even if He takes thy life), ובכל מאדך בכל ממונך (with all thy wealth). His alternatives (an undivided heart; whatever measure is meted out) and his opening gloss (love over fear) are left aside and the sentence does not claim exclusivity. Plain sense checked against day.js: 6:4 is the declaration that the LORD is one, 6:5 follows in Moses’ address, and 7:1 to 2 order the seven nations utterly destroyed; Deuteronomy 7 is in sensitive.json, so naming the day’s hard matter in one plain clause is what rule 6 asks and it is neither softened nor sensational. No four-word run from the key verse. verse.js ok (Deuteronomy 6:5, at [158,5]); entry-check ok on a scratch copy (45 words, at the cap). No school, no comparison.",
+ "better": ""
+}

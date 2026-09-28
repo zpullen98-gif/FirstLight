@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d060-p",
+ "d": 60,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Therefore shall ye lay up these My words in your heart and in your soul; and ye shall bind them for a sign upon your hand, and they shall be for frontlets between your eyes.",
+ "ref": "Deuteronomy 11:18",
+ "at": [
+  163,
+  18
+ ],
+ "s": "After warning that serving other gods ends in perishing from the land, Moses repeats his charge; Rashi, on 11:18, reads it as bidding Israel stay marked by the commandments in exile too, with tefillin and mezuzot, lest these be new on their return.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Deuteronomy 11:18, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 11:18, on ושמתם את דברי",
+    "via": "packet"
+   }
+  ],
+  "words": "ושמתם את דברי. אַף לְאַחַר שֶׁתִּגְלוּ הֱיוּ מְצֻיָּנִים בַּמִּצְווֹת, הַנִּיחוּ תְּפִלִּין, עֲשׂוּ מְזוּזוֹת, כְּדֵי שֶׁלֹּא יִהְיוּ לָכֶם חֲדָשִׁים כְּשֶׁתַּחְזְרוּ, וְכֵן הוּא אוֹמֵר (ירמיהו ל\"א) הַצִּיבִי לָךְ צִיֻּנִים (ספרי)",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 11:18, ‘and ye shall lay up these My words’:] Even after you are exiled, be marked out by the commandments: put on tefillin, make mezuzot, so that they will not be new to you when you return.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Plain sense faithful: 11:16 to 17 warn that serving other gods brings drought and perishing from the good land, and 11:18 repeats the charge of 6:6 to 8. Rashi on 11:18 (from the Sifrei) says exactly this: even after exile be marked by the commandments, tefillin and mezuzot, so they are not new on return. Ramban on the same verse quotes Rashi’s words as Rashi’s, confirming the attribution. entry-check ok."
+}

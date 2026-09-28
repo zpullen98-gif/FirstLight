@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d053-p",
+ "d": 53,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "Command the children of Israel, and say unto them: My food which is presented unto Me for offerings made by fire, of a sweet savour unto Me, shall ye observe to offer unto Me in its due season.",
+ "ref": "Numbers 28:2",
+ "at": [
+  144,
+  2
+ ],
+ "s": "After Moses asks God for a shepherd over the congregation, the text turns to the appointed offerings; the Midrash, Numbers Rabbah 21:16, reads ‘My food’ as spoken by One who needs no offerings, the whole world being His and every beast offered His creation.",
+ "by": "midrash",
+ "by2": "",
+ "hedge": "",
+ "src": "The Midrash, Numbers Rabbah 21:16, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Bamidbar%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Bamidbar Rabbah, Hebrew, Midrash Rabbah (Torat Emet), Sefaria export 3f10136",
+    "locator": "Numbers Rabbah 21:16, on Numbers 28:2",
+    "via": "packet"
+   }
+  ],
+  "words": "אֶת קָרְבָּנִי לַחְמִי לְאִשַּׁי (במדבר כח, ב), אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמשֶׁה, אֱמֹר לָהֶם לְיִשְׂרָאֵל לֹא שֶׁאֲנִי צָרִיךְ לְקָרְבָּנוֹת, כָּל הָעוֹלָם כֻּלּוֹ שֶׁלִּי הוּא, הַבְּהֵמָה שֶׁאַתֶּם מַקְרִיבִים אֲנִי בָּרָאתִי אוֹתָהּ, וְכֵן הוּא אוֹמֵר (תהלים נ, יב): אִם אֶרְעַב לֹא אֹמַר לָךְ, אֵין לְפָנַי אֲכִילָה וּשְׁתִיָּה",
+  "lang": "Hebrew",
+  "gloss": "‘My offering, My food, for My fire-offerings’ (Numbers 28:2): the Holy One, blessed be He, said to Moses: Say to Israel, it is not that I need offerings; the whole world is Mine; the beast that you offer, I created it. And so it says (Psalms 50:12), ‘If I were hungry, I would not tell thee’: there is no eating and drinking before Me.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Numbers 28:2 and at [144,2] match). Plain sense faithful: 27:15 to 17 (the close of the day before) has Moses ask God to set a man over the congregation so it be not as sheep without a shepherd, and chapter 28 opens the laws of the offerings at their seasons; Rashi and Numbers Rabbah 21:2 on 28:2 make the same link. Numbers Rabbah 21:16 on ‘My offering, My food, for My fires’ says in its own words that God does not need offerings, the whole world is His and He created the beast offered, with Psalms 50:12. The sentence carries exactly this; the later rabbis’ sayings in 21:16 (Rabbi Simon, Rabbi Yitzhak, Resh Lakish) are not drawn on. entry-check ok."
+}

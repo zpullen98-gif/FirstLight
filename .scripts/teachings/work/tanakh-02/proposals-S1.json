@@ -1,0 +1,77 @@
+{
+ "lane": "S1",
+ "plan": "tanakh",
+ "batch": "tanakh-02",
+ "days": [
+  {
+   "d": 54,
+   "primary": {
+    "id": "tanakh-02-d054-p",
+    "key": "‘Avenge the children of Israel of the Midianites; afterward shalt thou be gathered unto thy people.’",
+    "ref": "Numbers 31:2",
+    "at": [147, 2],
+    "s": "God’s command opens a chapter where Israel kills Midian’s men and Moses orders every captive killed but the virgin girls; Rashi, on Numbers 31:2, reads the command as aimed at Midian, not Moab, which joined the scheme from fear, while Midian meddled in another’s quarrel.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 31:2, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "מאת המדינים. וְלֹא מֵאֵת הַמּוֹאָבִים, שֶׁהַמּוֹאָבִים נִכְנְסוּ לַדָּבָר מֵחֲמַת יִרְאָה, שֶׁהָיוּ יְרֵאִים מֵהֶם שֶׁיִּהְיוּ שׁוֹלְלִים אוֹתָם … אֲבָל מִדְיָנִים נִתְעַבְּרוּ עַל רִיב לֹא לָהֶם",
+     "gloss": "Rashi on “of the Midianites”: and not of the Moabites, for the Moabites entered into the affair out of fear, being afraid that [Israel] would plunder them … but the Midianites meddled in a quarrel that was not theirs."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d054-s",
+    "key": "Build you cities for your little ones, and folds for your sheep; and do that which hath proceeded out of your mouth.’",
+    "ref": "Numbers 32:24",
+    "at": [148, 24],
+    "s": "Moses lets Reuben and Gad settle east of the Jordan if their armed men cross to fight for the land; the Midrash, Numbers Rabbah 22:9, reads his putting ‘little ones’ first as a rebuke to tribes who named their flocks first, prizing property above lives.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Numbers Rabbah 22:9, Hebrew (Torat Emet text), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "וְלֵב כְּסִיל לִשְׂמֹאלוֹ, אֵלּוּ בְּנֵי רְאוּבֵן וּבְנֵי גָד, שֶׁעָשׂוּ אֶת הָעִקָּר טָפֵל וְאֶת הַטָּפֵל עִקָּר, שֶׁחִבְּבוּ אֶת מָמוֹנָם יוֹתֵר מִן הַנְּפָשׁוֹת … אָמַר לָהֶם משֶׁה, אֵינָהּ כְּלוּם, אֶלָּא עֲשׂוּ אֶת הָעִקָּר עִקָּר, תְּחִלָּה … בְּנוּ לָכֶם עָרִים לְטַפְּכֶם, וְאַחַר כָּךְ … וּגְדֵרֹת לְצֹנַאֲכֶם",
+     "gloss": "Numbers Rabbah 22:9, on “the heart of a fool is at his left”: these are the children of Reuben and the children of Gad, who made the chief thing secondary and the secondary thing chief, for they held their property dearer than lives [having said “sheepfolds for our cattle here, and cities for our little ones”] … Moses said to them: That is nothing; rather make the chief thing chief: first … build you cities for your little ones, and afterwards … folds for your sheep."
+    }
+   }
+  },
+  {
+   "d": 58,
+   "primary": {
+    "id": "tanakh-02-d058-p",
+    "key": "And thou shalt love the LORD thy God with all thy heart, and with all thy soul, and with all thy might.",
+    "ref": "Deuteronomy 6:5",
+    "at": [158, 5],
+    "s": "Moses follows the declaration that the LORD is one with this command, a chapter before ordering the land’s seven nations destroyed; Rashi, on Deuteronomy 6:5, reads it as love with both the heart’s inclinations, even at the cost of life, and with all one’s wealth.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Deuteronomy 6:5, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "בכל לבבך. בִּשְׁנֵי יְצָרֶיךָ … ובכל נפשך. אֲפִלּוּ הוּא נוֹטֵל אֶת נַפְשְׁךָ … ובכל מאדך. בְּכָל מָמוֹנְךָ, יֵשׁ לְךָ אָדָם שֶׁמָּמוֹנוֹ חָבִיב עָלָיו מִגּוּפוֹ",
+     "gloss": "Rashi on “with all thy heart”: with thy two inclinations … on “and with all thy soul”: even if He takes thy soul [thy life] … on “and with all thy might”: with all thy wealth, for there is a person whose wealth is dearer to him than his body."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d058-s",
+    "key": "Thou shalt therefore keep the commandment, and the statutes, and the ordinances, which I command thee this day, to do them.",
+    "ref": "Deuteronomy 7:11",
+    "at": [159, 11],
+    "s": "Within a chapter ordering the land’s seven nations destroyed without mercy, Moses draws his lesson from God’s faithfulness to those who love Him; Sforno, on Deuteronomy 7:11, reads it as a charge to act now, untroubled if no reward comes in this world.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Deuteronomy 7:11, Hebrew (On Your Way), Sefaria export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "היום לעשותם. ולא תטריד מחשבתך אם לא תקבל שכר מהם בעולם הזה … וזה שאתם תשמרו היום לעשותם מאהבה שלא על מנת לקבל פרס",
+     "gloss": "Sforno on “this day, to do them”: and do not trouble thy mind if thou dost not receive a reward for them in this world. … [and on 7:12, taking up the same words:] and this, that ye keep them “this day, to do them” out of love, not in order to receive a reward."
+    }
+   }
+  }
+ ]
+}

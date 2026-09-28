@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d045-p",
+ "d": 45,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "‘Speak unto Aaron, and say unto him: When thou lightest the lamps, the seven lamps shall give light in front of the candlestick.’",
+ "ref": "Numbers 8:2",
+ "at": [
+  124,
+  2
+ ],
+ "s": "After the princes’ dedication gifts, the LORD gives Moses a charge for Aaron; Rashi, on 8:2, reads it as God consoling Aaron, grieved at having no part in that dedication, with the task of the lamps, and Ramban, on 8:2, takes that midrash as alluding to the Hanukkah lights of Aaron’s Hasmonean descendants, kept even after the Temple’s destruction.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi and Ramban, on Numbers 8:2, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way New”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 8:2, first comment on בהעלתך",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Numbers/Hebrew/On%20Your%20Way%20New.json",
+    "edition": "Ramban on Numbers, Hebrew “On Your Way New”, Sefaria export 3f10136",
+    "locator": "Numbers 8:2, on בהעלתך",
+    "via": "packet"
+   }
+  ],
+  "words": "לְפִי שֶׁכְּשָׁרָאָה אַהֲרֹן חֲנֻכַּת הַנְּשִׂיאִים חָלְשָׁה אָז דַּעְתּוֹ, שֶׁלֹּא הָיָה עִמָּהֶם בַּחֲנֻכָּה לֹא הוּא וְלֹא שִׁבְטוֹ, אָמַר לוֹ הַקָּבָּ\"ה חַיֶּיךָ שֶׁלְּךָ גְדוֹלָה מִשֶּׁלָּהֶם, שֶׁאַתָּה מַדְלִיק וּמֵטִיב אֶת הַנֵּרוֹת … אבל ענין ההגדה הזו, לדרוש רמז מן הפרשה על חנוכה של נרות שהיתה בבית שני על ידי אהרן ובניו, רצוני לומר חשמונאי כהן גדול ובניו … לא רמזו אלא לנרות חנכת חשמונאי, שהיא נוהגת אף לאחר החורבן בגלותנו",
+  "lang": "Hebrew",
+  "gloss": "[Rashi:] Because when Aaron saw the dedication of the princes he was disheartened that neither he nor his tribe was with them in the dedication; the Holy One, blessed be He, said to him: By your life, yours is greater than theirs, for you kindle and dress the lamps. [Ramban:] But the point of this aggadah is to draw an allusion from the passage to the dedication of lights in the Second Temple through Aaron and his sons, that is, the Hasmonean high priest and his sons ... they (the sages of the midrash) alluded only to the lights of the Hasmonean dedication, which is kept even after the destruction, in our exile.",
+  "licence": "Hebrew: public domain (Rashi); Ramban Hebrew: no licence stated by Sefaria for this digitisation, text centuries old",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement: the refuter is right that the Hanukkah allusion is Ramban explaining the aggadah Rashi quotes (אבל ענין ההגדה הזו, לדרוש רמז מן הפרשה), not his own reading of the charge; his own plain order-of-sections view (completing the laws of the lamps) is separate. Re-ran verse.js (ok, Numbers 8:2, at [124,2]) and read every packet source on 8:2 (Rashi, Ibn Ezra, Ramban, Rashbam, Sforno, Numbers Rabbah index). Rashi half stands on his first comment. CORRECTED the Ramban clause from \"as alluding to\" to \"takes that midrash as alluding to\" the Hanukkah lights, so it is his reading of the midrash, which his words carry (and \"kept even after the Temple’s destruction\" = שהיא נוהגת אף לאחר החורבן); dropped \"greater\" to hold 59 words. Plain sense faithful (7:84 to 7:88 princes’ dedication, 8:1 the LORD to Moses). Evidence re-found by squashed match against the packet, all three pieces. entry-check ok."
+}

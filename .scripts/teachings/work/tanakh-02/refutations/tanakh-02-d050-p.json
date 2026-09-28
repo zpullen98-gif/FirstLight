@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-02-d050-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 50 --verse 20:29: Rashi on כל בית ישראל says the men and the women, because Aaron pursued peace and put love between parties to a quarrel and between a man and his wife (citing Avot deRabbi Natan 12); evidence words found verbatim. The paraphrase (mourners as men and women alike, for Aaron pursued peace and brought love between quarrellers and between husband and wife) goes no further. Plain sense matches 20:25 to 28 (Moses strips Aaron on mount Hor, the garments go on Eleazar, Aaron dies on the top of the mount). verse.js ok (Numbers 20:29, at [136,29]); entry-check ok. Rashi's other comment on the verse (the bier shown by the angels) is a separate reading, not contradicted. No school, comparison or tone issue.",
+ "better": ""
+}

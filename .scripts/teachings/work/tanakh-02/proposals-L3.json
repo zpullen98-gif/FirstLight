@@ -1,0 +1,182 @@
+{
+ "lane": "L3",
+ "plan": "tanakh",
+ "batch": "tanakh-02",
+ "days": [
+  {
+   "d": 41,
+   "primary": {
+    "id": "tanakh-02-d041-p",
+    "key": "And I will give peace in the land, and ye shall lie down, and none shall make you afraid; and I will cause evil beasts to cease out of the land, neither shall the sword go through your land.",
+    "ref": "Leviticus 26:6",
+    "at": [115, 6],
+    "s": "Among the blessings for keeping the statutes comes safety in the land; Ramban, on 26:6, takes the ‘evil beasts’ as ceasing to harm, the land, while the commandments are kept, being as the world was before Adam’s sin, when no beast killed a man.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Leviticus 26:6, Hebrew (Sefaria’s “On Your Way New”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "ועל דעת רבי שמעון שאמר משביתן שלא יזיקו (שם) יאמר והשבתי רעת החיות מן הארץ והוא הנכון כי תהיה ארץ ישראל בעת קיום המצות כאשר היה העולם מתחילתו קודם חטאו של אדם הראשון אין חיה ורמש ממית אדם",
+     "gloss": "And according to Rabbi Shimon, who said that He makes them cease from doing harm, it means: I will make the evil of the beasts cease out of the land; and this is the correct view, for the land of Israel, at the time the commandments are kept, will be as the world was at its beginning, before the sin of the first man, when no beast or creeping thing killed a man."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d041-s",
+    "key": "And they shall stumble one upon another, as it were before the sword, when none pursueth; and ye shall have no power to stand before your enemies.",
+    "ref": "Leviticus 26:37",
+    "at": [115, 37],
+    "s": "Among the curses for breaking the covenant, survivors in their enemies’ lands flee at a driven leaf; Rashi, on 26:37, reads the stumbling as panic in flight and, homiletically, as each falling through another’s sin, all Israel being sureties for one another.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Leviticus 26:37, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וכשלו איש באחיו. כְּשֶׁיָּרוּצוּ לָנוּס יִכָּשְׁלוּ זֶה בָזֶה, כִּי יִבָּהֲלוּ לָרוּץ … וּמִדְרָשׁוֹ וְכָשְׁלוּ אִישׁ בְּאָחִיו, זֶה נִכְשָׁל בַּעֲוֹנוֹ שֶׁל זֶה, שֶׁכָּל יִשְׂרָאֵל עֲרֵבִין זֶה לָזֶה",
+     "gloss": "‘And they shall stumble one upon another’: when they run to flee they will stumble over one another, for they will be in a panic to run. … And its midrashic sense: ‘they shall stumble one upon another’, one stumbles through the iniquity of the other, for all Israel are sureties for one another."
+    }
+   }
+  },
+  {
+   "d": 42,
+   "primary": {
+    "id": "tanakh-02-d042-p",
+    "key": "‘The children of Israel shall pitch by their fathers’houses; every man with his own standard, according to the ensigns; a good way off shall they pitch round about the tent of meeting.",
+    "ref": "Numbers 2:2",
+    "at": [118, 2],
+    "s": "After the census, the LORD sets each tribe’s place, three to a standard on each side of the Tabernacle; Rashi, on 2:2, reads ‘the ensigns’ as cloths coloured like each tribe’s breastplate stone, and Ibn Ezra, on 2:2, as figures, by the ancients’ account a man, lion, ox and eagle, like the cherubim Ezekiel saw.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi and Ibn Ezra, on Numbers 2:2, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ibn Ezra: “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "כָּל דֶּגֶל יִהְיֶה לוֹ אוֹת מַפָּה צְבוּעָה תְלוּיָה בוֹ, צִבְעוֹ שֶׁל זֶה לֹא כְצִבְעוֹ שֶׁל זֶה, צֶבַע כָּל אֶחָד כְּגוֹן אַבְנוֹ הַקְּבוּעָה בַחֹשֶׁן … סימנים היו בכל דגל ודגל וקדמונינו אמרו שהיה בדגל ראובן צורת אדם מכח דרש דודאים ובדגל יהודה צורת אריה כי בו המשילו יעקב ובדגל אפרים צורת שור מטעם בכור שור ובדגל דן צורת נשר עד שידמו לכרובים שראה יחזקאל הנביא",
+     "gloss": "[Rashi, on 2:2, ‘with the signs’:] Each standard shall have a sign, a dyed cloth hanging on it, the colour of one unlike the colour of another, the colour of each like its stone set in the breastplate. … [Ibn Ezra, on 2:2:] There were signs on every standard, and our ancients said that on Reuben’s standard was the form of a man, from the homily on the mandrakes; on Judah’s the form of a lion, for Jacob likened him to one; on Ephraim’s the form of an ox, from ‘his firstling bullock’; and on Dan’s the form of an eagle; so that they resembled the cherubim that Ezekiel the prophet saw."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d042-s",
+    "key": "Then the tent of meeting, with the camp of the Levites, shall set forward in the midst of the camps; as they encamp, so shall they set forward, every man in his place, by their standards.",
+    "ref": "Numbers 2:17",
+    "at": [118, 17],
+    "s": "Placing two standards before the sanctuary on the march and two after it, the chapter fixes the order; Sforno, on 2:17, reads it as the sanctuary fully raised once half the standards arrived, and so kept amid all the camps even on the march.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Numbers 2:17, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "כאשר יחנו. שכשיגיע מחצית כל הדגלים יהיה המשכן מוקם לגמרי באמצע כולם כי תכף אחר דגל ראובן נסעו הקהתים נושאי המקדש שהוא עיקר המועד כאמרו ונועדתי לך שם ודברתי אתך מעל הכפרת … כאשר יחנו. ובכן היה אז כולו באמצע כל המחנות גם בעת המסע",
+     "gloss": "‘As they encamp’: for when half of all the standards arrived, the Tabernacle would be fully set up in the midst of them all, since straight after Reuben’s standard the Kohathites journeyed, bearing the sanctuary, which is the heart of the meeting, as it says, ‘and there I will meet with thee, and I will speak with thee from above the ark-cover’. … ‘As they encamp’: and so it was then wholly in the midst of all the camps, even while journeying."
+    }
+   }
+  },
+  {
+   "d": 43,
+   "primary": {
+    "id": "tanakh-02-d043-p",
+    "key": "Now these are the generations of Aaron and Moses in the day that the LORD spoke with Moses in mount Sinai.",
+    "ref": "Numbers 3:1",
+    "at": [119, 1],
+    "s": "Turning from the tribes’ census to Levi, the verses that follow name only Aaron’s sons; Rashi, on 3:1, reads them as Moses’ offspring too, since whoever teaches another’s son Torah is as if he begot him, and Ramban, on 3:1, by the plain sense, as Aaron’s alone, with Moses’ own sons counted among the Amramites.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, on Numbers 3:1, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way New”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "וְאֵינוֹ מַזְכִּיר אֶלָּא בְנֵי אַהֲרֹן וְנִקְרְאוּ תוֹלְדוֹת מֹשֶׁה, לְפִי שֶׁלִּמְּדָן תּוֹרָה, מְלַמֵּד שֶׁכָּל הַמְלַמֵּד אֶת בֶּן חֲבֵרוֹ תּוֹרָה מַעֲלֶה עָלָיו הַכָּתוּב כְּאִלּוּ יְלָדוֹ … ועל דרך הפשט כי טעם תולדות אהרן ומשה לומר שהיו בני אהרן כהנים משוחים נבדלים מן השבט להיותם קדש קדשים ותולדות משה משפחת העמרמי אשר יזכיר למטה … כי אין בעמרמי זולתי בני משה נמנים בלוים",
+     "gloss": "[Rashi, on 3:1:] Yet it mentions only the sons of Aaron, and they are called the generations of Moses because he taught them Torah: this teaches that whoever teaches his fellow’s son Torah, Scripture accounts it to him as if he had begotten him. … [Ramban, on 3:1, after quoting Rashi:] By the plain sense, ‘the generations of Aaron and Moses’ means that the sons of Aaron were anointed priests, set apart from the tribe to be most holy, and the generations of Moses are the family of the Amramites which it mentions below … for among the Amramites none but Moses’ sons are counted with the Levites."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d043-s",
+    "key": "And Moses numbered them according to the word of the LORD, as he was commanded.",
+    "ref": "Numbers 3:16",
+    "at": [119, 16],
+    "s": "Told to count the Levite males from a month old, Moses carries out the census; Rashi, on 3:16, reads ‘the word’ as a heavenly voice from each tent telling Moses, who had asked how he could enter their tents, how many infants were inside.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 3:16, Hebrew of Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "אָמַר מֹשֶׁה לִפְנֵי הַקָּבָּ\"ה, הֵיאַךְ אֲנִי נִכְנָס לְתוֹךְ אָהֳלֵיהֶם לָדַעַת מִנְיַן יוֹנְקֵיהֶם? אָמַר לוֹ הַקָּבָּ\"ה, עֲשֵׂה אַתָּה שֶׁלְּךְ וַאֲנִי אֶעֱשֶׂה שֶׁלִּי, הָלַךְ מֹשֶׁה וְעָמַד עַל פֶּתַח הָאֹהֶל וְהַשְּׁכִינָה מַקְדֶּמֶת לְפָנָיו, וּבַת קוֹל יוֹצְאָה מִן הָאֹהֶל וְאוֹמֶרֶת כָּךְ וָכָךְ תִּינוֹקוֹת יֵשׁ בְּאֹהֶל זֶה, לְכָךְ נֶאֱמַר עַל פִּי ה'",
+     "gloss": "Moses said before the Holy One, blessed be He: How am I to go into their tents to learn the number of their nurslings? The Holy One, blessed be He, said to him: You do yours and I will do Mine. Moses went and stood at the entrance of the tent, the Divine Presence going before him, and a heavenly voice came out of the tent and said: So many infants are in this tent. Therefore it says, ‘according to the word of the LORD’."
+    }
+   }
+  },
+  {
+   "d": 44,
+   "primary": {
+    "id": "tanakh-02-d044-p",
+    "key": "He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die; because his consecration unto God is upon his head.",
+    "ref": "Numbers 6:7",
+    "at": [122, 7],
+    "s": "After wine and the razor, the Nazirite law turns to the dead; Ibn Ezra, on 6:7, takes the Nazirite’s name as plausibly from the crown on his head, and the true king as whoever is free of the desires that enslave humankind.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, Commentary on the Torah, on Numbers 6:7, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "ויש אומרים כי מלת נזיר מגזרת נזר והעד כי נזר אלהיו על ראשו ואיננו רחוק ודע כי כל בני אדם עבדי תאות העולם והמלך באמת שיש לו נזר ועטרת מלכות בראשו כל מי שהוא חפשי מן התאות",
+     "gloss": "Some say that the word nazir (Nazirite) is derived from nezer (crown), the evidence being ‘his nezer unto God is upon his head’, and this is not far-fetched. Know that all human beings are slaves to the desires of the world, and the king in truth, who has a crown and a royal diadem on his head, is whoever is free of the desires."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d044-s",
+    "key": "So shall they put My name upon the children of Israel, and I will bless them.’",
+    "ref": "Numbers 6:27",
+    "at": [122, 27],
+    "s": "Closing the threefold blessing the priests are to speak over Israel, the LORD adds a word of His own; Rashi, on 6:27, reads ‘bless them’ as God blessing Israel in assent to the priests, or, in a second reading, as God blessing the priests.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 6:27, Hebrew of Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ושמו את שמי. יְבָרְכוּם בַּשֵּׁם הַמְפֹרָשׁ … ואני אברכם. לְיִשְׂרָאֵל, וְאַסְכִּים עִם הַכֹּהֲנִים; דָּ\"אַ, וַאֲנִי אֲבָרְכֵם — לַכֹּהֲנִים",
+     "gloss": "‘And they shall put My name’: they shall bless them with the Name as it is written. … ‘And I will bless them’: Israel, and I will assent to the priests; another explanation: ‘and I will bless them’, the priests."
+    }
+   }
+  },
+  {
+   "d": 45,
+   "primary": {
+    "id": "tanakh-02-d045-p",
+    "key": "‘Speak unto Aaron, and say unto him: When thou lightest the lamps, the seven lamps shall give light in front of the candlestick.’",
+    "ref": "Numbers 8:2",
+    "at": [124, 2],
+    "s": "After the princes’ dedication gifts, the LORD gives Moses a charge for Aaron; Rashi, on 8:2, reads it as God consoling Aaron, grieved at having no part in that dedication, with the greater task of the lamps, and Ramban, on 8:2, as alluding to the Hanukkah lights of Aaron’s Hasmonean descendants, kept even after the Temple’s destruction.",
+    "by": "rashi",
+    "by2": "ramban",
+    "hedge": "",
+    "src": "Rashi and Ramban, on Numbers 8:2, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way New”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ramban",
+     "words": "לְפִי שֶׁכְּשָׁרָאָה אַהֲרֹן חֲנֻכַּת הַנְּשִׂיאִים חָלְשָׁה אָז דַּעְתּוֹ, שֶׁלֹּא הָיָה עִמָּהֶם בַּחֲנֻכָּה לֹא הוּא וְלֹא שִׁבְטוֹ, אָמַר לוֹ הַקָּבָּ\"ה חַיֶּיךָ שֶׁלְּךָ גְדוֹלָה מִשֶּׁלָּהֶם, שֶׁאַתָּה מַדְלִיק וּמֵטִיב אֶת הַנֵּרוֹת … ולא נתברר לי, למה ניחמו בהדלקת הנרות … אבל ענין ההגדה הזו, לדרוש רמז מן הפרשה על חנוכה של נרות שהיתה בבית שני על ידי אהרן ובניו, רצוני לומר חשמונאי כהן גדול ובניו … לא רמזו אלא לנרות חנכת חשמונאי, שהיא נוהגת אף לאחר החורבן בגלותנו",
+     "gloss": "[Rashi, on 8:2:] Because when Aaron saw the dedication of the princes he was disheartened that he had not been with them in the dedication, neither he nor his tribe; the Holy One, blessed be He, said to him: By your life, yours is greater than theirs, for you kindle and dress the lamps. … [Ramban, on 8:2, after quoting Rashi:] It is not clear to me why He consoled him with the kindling of the lamps … But the point of this aggadah is to draw from the passage an allusion to the dedication of lights in the Second Temple through Aaron and his sons, that is, the Hasmonean high priest and his sons … they alluded only to the lights of the Hasmonean dedication, which is kept even after the destruction, in our exile."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d045-s",
+    "key": "And they brought their offering before the LORD, six covered wagons, and twelve oxen: a wagon for every two of the princes, and for each one an ox; and they presented them before the tabernacle.",
+    "ref": "Numbers 7:3",
+    "at": [123, 3],
+    "s": "As the Tabernacle is anointed, the princes of the tribes bring their first gifts; Sforno, on 7:3, reads the one wagon shared by each pair as a sign of brotherhood, by which they would be worthy of the Divine Presence dwelling among them.",
+    "by": "sforno",
+    "by2": "",
+    "hedge": "",
+    "src": "Sforno, Commentary on the Torah, on Numbers 7:3, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "sforno",
+     "words": "עגלה על שני הנשיאים. לאות אחוה ביניהם אשר בה יהיו ראויים שתשרה שכינה ביניהם כאמרו ויהי בישורון מלך בהתאסף ראשי עם יחד על הפך חלק לבם עתה יאשמו",
+     "gloss": "‘A wagon for every two of the princes’: as a sign of brotherhood between them, by which they would be worthy that the Divine Presence dwell among them, as it says, ‘And there was a king in Jeshurun, when the heads of the people were gathered, all together’; the reverse of ‘their heart is divided; now shall they bear their guilt’."
+    }
+   }
+  }
+ ]
+}

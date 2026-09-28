@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d058-p",
+ "d": 58,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And thou shalt love the LORD thy God with all thy heart, and with all thy soul, and with all thy might.",
+ "ref": "Deuteronomy 6:5",
+ "at": [
+  158,
+  5
+ ],
+ "s": "Moses follows the declaration that the LORD is one with this command, a chapter before ordering the land’s seven nations destroyed; Rashi, on Deuteronomy 6:5, reads it as love with both the heart’s inclinations, even at the cost of life, and with all one’s wealth.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Deuteronomy 6:5, Hebrew (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 6:5, on בכל לבבך, ובכל נפשך, ובכל מאדך",
+    "via": "packet"
+   }
+  ],
+  "words": "בכל לבבך. בִּשְׁנֵי יְצָרֶיךָ … ובכל נפשך. אֲפִלּוּ הוּא נוֹטֵל אֶת נַפְשְׁךָ … ובכל מאדך. בְּכָל מָמוֹנְךָ, יֵשׁ לְךָ אָדָם שֶׁמָּמוֹנוֹ חָבִיב עָלָיו מִגּוּפוֹ",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 6:5] ‘With all thy heart’: with thy two inclinations. ‘And with all thy soul’: even if He takes thy soul [thy life]. ‘And with all thy might’: with all thy wealth; there are people whose wealth is dearer to them than their body.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Deuteronomy 6:5 and at [158,5] match). Plain sense faithful: 6:5 follows the Shema of 6:4 in Moses’ address, and Deuteronomy 7:1 to 2, in the same day, orders the seven nations of the land utterly destroyed; the hard matter of the day is stated in one plain clause. Rashi’s three glosses on 6:5 carry the reading word for word: בשני יצריך (with thy two inclinations, on the doubled heart), אפלו הוא נוטל את נפשך (even if He takes thy life), בכל ממונך (with all thy wealth). He also gives second explanations (a heart not divided; whatever measure is meted out) and an opening gloss on love over fear; the reading names only his first explanations and does not claim them exclusive. entry-check ok."
+}

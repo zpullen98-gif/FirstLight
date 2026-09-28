@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-02-d049-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 49 --verse 17:13: Rashi on ויעמד בין המתים gives a first explanation (Aaron holds back the angel) and a second (ד\"א): Israel murmured that the incense was a deadly poison (Nadab and Abihu, the 250 burnt), and the Holy One said they would see it holds back plague and sin is what kills; evidence words found verbatim there. The sentence carries exactly the second explanation and does not claim it is his only one; Rashi takes it from the Mekhilta as his own davar acher, the plan's normal practice. Plain sense matches 17:6 to 12 (the congregation charges Moses and Aaron with killing the people of the LORD, the plague begins, Aaron runs into the assembly and puts on incense); no four-word run from the key verse. verse.js ok (Numbers 17:13, at [133,13]); entry-check ok. No school, comparison or tone issue.",
+ "better": ""
+}

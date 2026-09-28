@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d054-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 54 --verse 31:2: Rashi on מאת המדינים reads as the evidence quotes it (and not of the Moabites, who entered the matter out of fear of being plundered, since of them only ‘do not contend with them in battle’ was said; but the Midianites grew heated over a quarrel not theirs, the idiom of Proverbs 26:17, so ‘meddled’ fits). His second explanation (Ruth and Naamah) is not claimed. Plain sense checked against day.js: 31:1 to 2 open the chapter on God’s command, 31:7 every male slain, 31:9 the women and little ones taken captive, 31:17 to 18 Moses orders the male little ones and the women who have known man killed and the girls kept alive, so ‘every captive killed but the virgin girls’ is exact and neither softened nor graphic. ‘Joined the scheme’ is close to ‘entered into the matter’; the day names the counsel of Balaam at Peor (31:16). Moab is named by Rashi, not brought in from another tradition. verse.js ok (Numbers 31:2, at [147,2]); entry-check ok on a scratch copy (45 words, at the cap). No school needed, no comparison.",
+ "better": ""
+}

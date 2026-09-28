@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d043-p",
+ "d": 43,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Now these are the generations of Aaron and Moses in the day that the LORD spoke with Moses in mount Sinai.",
+ "ref": "Numbers 3:1",
+ "at": [
+  119,
+  1
+ ],
+ "s": "Turning from the census to Levi, the verses that follow name only Aaron’s sons; Rashi, on 3:1, reads them as Moses’ offspring too, since whoever teaches another’s son Torah is as if he begot him, and Ramban, on 3:1, by the plain sense, as Aaron’s priests, Moses’ line being the Amramites named below, keeping that teaching as a hint.",
+ "by": "rashi",
+ "by2": "ramban",
+ "hedge": "",
+ "src": "Rashi and Ramban, on Numbers 3:1, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ramban: “On Your Way New”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 3:1, on ואלה תולדת אהרן ומשה",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Numbers/Hebrew/On%20Your%20Way%20New.json",
+    "edition": "Ramban on Numbers, Hebrew, On Your Way New, Sefaria export 3f10136",
+    "locator": "Numbers 3:1, on ואלה תולדות אהרן ומשה, the whole comment to its close",
+    "via": "packet"
+   }
+  ],
+  "words": "וְאֵינוֹ מַזְכִּיר אֶלָּא בְנֵי אַהֲרֹן וְנִקְרְאוּ תוֹלְדוֹת מֹשֶׁה, לְפִי שֶׁלִּמְּדָן תּוֹרָה, מְלַמֵּד שֶׁכָּל הַמְלַמֵּד אֶת בֶּן חֲבֵרוֹ תּוֹרָה מַעֲלֶה עָלָיו הַכָּתוּב כְּאִלּוּ יְלָדוֹ … ועל דרך הפשט כי טעם תולדות אהרן ומשה לומר שהיו בני אהרן כהנים משוחים נבדלים מן השבט להיותם קדש קדשים ותולדות משה משפחת העמרמי אשר יזכיר למטה … והדרש סמכוהו מפני שלא פירש ואלה שמות בני משה כאשר עשה בבני אהרן לרמוז כי בני אהרן גם הם תולדות למשה מפני שלמדם תורה כי התורה תפרש ותרמוז",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 3:1:] It mentions only the sons of Aaron, and they are called the generations of Moses because he taught them Torah: this teaches that whoever teaches his fellow’s son Torah, Scripture accounts it to him as if he had begotten him. … [Ramban, on 3:1:] By the plain sense, ‘the generations of Aaron and Moses’ means that Aaron’s sons were anointed priests set apart from the tribe as most holy, and the generations of Moses are the Amramite family it mentions below … and the midrash they based on its not setting out the names of Moses’ sons as it did Aaron’s, to hint that Aaron’s sons too are Moses’ generations because he taught them Torah, for the Torah both explains and hints.",
+  "licence": "Rashi Hebrew: public domain; Ramban Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Second judgement with the refutation in hand. Re-ran day.js and verse.js (ok, Numbers 3:1, at [119,1]) and re-read packet.js tanakh 43 --verse 3:1, every source. Rashi’s half stands on his words. The refuter is right about Ramban: by the plain sense he takes the generations of Aaron as the anointed priestly sons and the generations of Moses as the Amramite family below (3:27), but he closes the same comment by keeping the midrash as the Torah’s hint that Aaron’s sons are also Moses’ generations because he taught them. The earlier ‘as Aaron’s alone’ went beyond him and staged a sharper opposition than he draws. CORRECTED: ‘alone’ removed; Ramban now reads the named sons, by the plain sense, as Aaron’s priests, Moses’ line being the Amramites named below, keeping that teaching as a hint; the context clause trimmed (‘the census’) to hold 59 words under the 60 cap. Evidence extended to Ramban’s closing words. Ibn Ezra, Rashbam, Sforno and Numbers Rabbah 2:20 to 21 read; none conflicts. entry-check ok."
+}

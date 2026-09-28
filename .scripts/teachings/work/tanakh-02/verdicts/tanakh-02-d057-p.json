@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d057-p",
+ "d": 57,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But the LORD was wroth with me for your sakes, and hearkened not unto me; and the LORD said unto me: ‘Let it suffice thee; speak no more unto Me of this matter.",
+ "ref": "Deuteronomy 3:26",
+ "at": [
+  155,
+  26
+ ],
+ "s": "Moses recalls pleading to cross the Jordan into the good land; Rashi, on 3:26, reads ‘Let it suffice’ as ending the plea lest people call the master harsh and the disciple importunate, or as telling him much more is stored up for him.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Deuteronomy 3:26, Rosenbaum and Silbermann’s Hebrew text (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Deuteronomy, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Deuteronomy 3:26, on רב לך",
+    "via": "packet"
+   }
+  ],
+  "words": "רב לך. שֶׁלֹּא יֹאמְרוּ הָרַב כַּמָּה קָשֶׁה וְהַתַּלְמִיד כַּמָּה סַרְבָן וּמַפְצִיר (סוטה י\"ג); דָּ\"אַ — רב לך, הַרְבֵּה מִזֶּה שָׁמוּר לְךָ, רַב טוּב הַצָּפוּן לְךָ (ספרי)",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 3:26, ‘Let it suffice thee’:] So that they should not say: how harsh is the Master and how obstinate and importunate the disciple (Sotah 13). Another explanation: ‘rav lekha’, much more than this is kept for you, abundant good is stored up for you (Sifrei).",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Plain sense faithful to 3:23 to 25, where Moses recalls asking to cross over. Rashi on 3:26, ‘rav lekha’, gives exactly the two explanations the sentence names: lest people say the Master is harsh and the disciple importunate (Sotah 13), and, another explanation, that much good is stored up for him (Sifrei). No drift; only three words of the key verse quoted. entry-check ok."
+}

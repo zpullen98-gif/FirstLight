@@ -1,0 +1,13 @@
+{
+ "id": "tanakh-02-d044-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Numbers/Hebrew/Rashbam%20on%20Numbers%20--%20Daat.json",
+  "found": true
+ },
+ "attacks": [
+  "form"
+ ],
+ "reason": "The reading stands: re-opened packet.js tanakh 44 --verse 6.26; Rashi on ישא ה׳ פניו אליך: יכבש כעסו, verbatim; Rashbam on the same words: שלא יסתיר פניו מכם ... ישא פנים שלו את אהובו שיפנה אליו לחננו, verbatim, and the paraphrase carries it without drift; the two genuinely differ. verse.js ok (Numbers 6:26, at [122,26]); entry-check ok. What lands is FORM: the half before the semicolon, ‘Closing the blessing Aaron and his sons are to speak over Israel’, is a participial phrase with no main clause, so the one sentence is grammatically a fragment joined by a semicolon. Rule 2 asks for a clause of context, and its model (‘Closing a chapter on the sage’s humility, the verse ...’) and every other ‘Closing ...’ entry in the batches carry a subject and verb after the phrase. It also never says who gives the blessing or that 6:26 is its last line, which the plain sense is there to do (day.js: 6:22 to 23 the LORD tells Moses, 6:24 to 26 the blessing, 6:27 its purpose). The gate does not test syntax, so it passes; the reader at six in the morning meets a broken sentence. Fix is one clause; the reading need not change.",
+ "better": "The LORD gives Moses the blessing Aaron and his sons are to speak over Israel, and the verse is its closing line; Rashi, on 6:26, reads the lifted countenance as God suppressing His anger, and Rashbam, on 6:26, as God not hiding His face but turning to His beloved to be gracious. (entry-check ok on scratch/refute-d044-better.json; no four-word run from the key.)"
+}

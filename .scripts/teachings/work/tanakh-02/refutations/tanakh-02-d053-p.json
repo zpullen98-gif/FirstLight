@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d053-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Bamidbar%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 53 --verse 28:2. Numbers Rabbah 21:16 opens on את קרבני לחמי לאשי with the anonymous voice: say to Israel it is not that I need offerings, the whole world is Mine, the beast you offer I created, with Psalms 50:12; words verbatim in the packet at the section named, and the paraphrase (One who needs no offerings, the world His, every beast offered His creation) stays inside them; the later statements of R. Simon, R. Yehuda b. Simon, R. Yitzhak and Resh Lakish are not drawn on. Named as the roster’s ‘the Midrash’ with collection and section. Plain sense: 28:1 to 2 opens the day, and Moses’s request for a shepherd (27:15 to 17) is the immediately preceding narrative (rule 2 allows what comes before); chapters 28 to 29 are the appointed offerings. verse.js ok (Numbers 28:2, at [144,2]); entry-check ok (scratch/refute-d053-p.json). No comparison or tone issue.",
+ "better": ""
+}

@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d031-p",
+ "d": 31,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And when any one bringeth a meal-offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon.",
+ "ref": "Leviticus 2:1",
+ "at": [
+  91,
+  1
+ ],
+ "s": "After the burnt-offerings, the law turns to the offering of flour; Rashi, on 2:1, reads nefesh, soul, rendered ‘any one’, as the poor man who usually brings it, counted by God as though he offered his soul, and Ibn Ezra, on 2:1, as the soul named because this is a freewill gift and the soul is called willing.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Ibn Ezra (Hebrew, On Your Way), on Leviticus 2:1, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Leviticus, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Leviticus 2:1, on ונפש כי תקריב",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Leviticus/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Leviticus, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Leviticus 2:1, on ונפש כי תקריב",
+    "via": "packet"
+   }
+  ],
+  "words": "לֹא נֶאֱמַר נֶפֶשׁ בְּכָל קָרְבְּנוֹת נְדָבָה אֶלָּא בַּמִּנְחָה, מִי דַּרְכּוֹ לְהִתְנַדֵּב מִנְחָה? עָנִי. אָמַר הַקָּבָּ\"ה, מַעֲלֶה אֲנִי עָלָיו כְּאִלּוּ הִקְרִיב נַפְשׁוֹ … נפש אדם והזכיר הנפש שהמנחה נדבה גם הנפש תקרא נדיבה ורוח נדיבה תסמכני",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 2:1, ‘and when a soul offers’:] Nefesh is not said of any freewill offering except the meal-offering. Who usually volunteers a meal-offering? The poor man. The Holy One, blessed be He, said: I account it to him as though he offered his soul … [Ibn Ezra on 2:1, same words:] Nefesh means a person; and it names the soul because the meal-offering is a freewill offering, and the soul too is called willing: ‘and let a willing spirit uphold me’.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Leviticus 2:1 and at [91,1] match). Plain sense faithful: Leviticus 1 closes the burnt-offerings (bird offering, 1:14 to 17) and 2:1 opens the meal-offering of fine flour. Opened the whole 2:1 packet (Rashi, Ibn Ezra, Ramban on the pouring and bringing, Rashbam on the word minchah, Sforno silent on the chapter, Leviticus Rabbah 3:2 to 3:5). Rashi on the lemma ונפש כי תקריב says nefesh is used only of the meal-offering because the poor man brings it, and God counts it as though he offered his soul; Ibn Ezra on the same lemma says nefesh means a person, named here because the meal-offering is a freewill gift and the soul is called willing (Psalm 51:14). The two genuinely differ (the poor man’s self-offering against the willing soul), both named without resolution. Evidence pieces machine-matched against the packet output. entry-check ok."
+}

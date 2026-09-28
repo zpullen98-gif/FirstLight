@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d034-p",
+ "d": 34,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Then Moses said unto Aaron: ‘This is it that the LORD spoke, saying: Through them that are nigh unto Me I will be sanctified, and before all the people I will be glorified.’ And Aaron held his peace.",
+ "ref": "Leviticus 10:3",
+ "at": [
+  99,
+  3
+ ],
+ "s": "When fire from the LORD consumes Nadab and Abihu after their strange fire, Moses speaks to their father; Rashi, on 10:3, hears it as Moses saying he had expected the sanctuary to be hallowed through himself or Aaron and now finds the sons greater than both, and Rashbam, on 10:3, as a charge not to mourn or leave the service.",
+ "by": "rashi",
+ "by2": "rashbam",
+ "hedge": "",
+ "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Rashbam (Hebrew, Daat edition), on Leviticus 10:3, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Leviticus, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Leviticus 10:3, on הוא אשר דבר וגו'",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Leviticus/Hebrew/Rashbam%20on%20Leviticus%20-%20Daat.json",
+    "edition": "Rashbam on Leviticus, Hebrew (Daat), Sefaria export 3f10136",
+    "locator": "Leviticus 10:3, on ויאמר משה אל אהרן",
+    "via": "packet"
+   }
+  ],
+  "words": "אָמַר לוֹ מֹשֶׁה לְאַהֲרֹן, אַהֲרֹן אָחִי, יוֹדֵעַ הָיִיתִי שֶׁיִּתְקַדֵּשׁ הַבַּיִת בִּמְיֻדָּעָיו שֶׁל מָקוֹם, וְהָיִיתִי סָבוּר אוֹ בִי אוֹ בְךָ, עַכְשָׁיו רוֹאֶה אֲנִי שֶׁהֵם גְּדוֹלִים מִמֶּנִּי וּמִמְּךָ … אל תתאבל ואל תבכה ואל תחדל מן העבודה, כי הדבר הזה אשר אני אומר לך: הוא אשר דבר ה' בקרובי אקדש",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 10:3, ‘this is it that the LORD spoke’:] Moses said to Aaron: Aaron my brother, I knew that the House would be hallowed through those intimate with the Omnipresent, and I thought it would be either through me or through you; now I see that they are greater than I and than you … [Rashbam on 10:3, ‘then Moses said unto Aaron’:] Do not mourn, do not weep, and do not cease from the service, for this thing that I tell you is what the LORD spoke: through them that are nigh unto Me I will be sanctified.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "violence",
+ "confidence": "high",
+ "reason": "Problem holds: with ‘hears Moses telling Aaron …’ the elided ‘and Rashbam … as a charge’ had no ‘as’ to attach to, and ‘greater’ lacked its comparison. Re-opened packet.js tanakh 34 --verse 10:3: Rashi on הוא אשר דבר (from Sifra/Leviticus Rabbah) has Moses say he knew the House would be hallowed through those intimate with God, thought it would be through him or Aaron, and now sees they are גדולים ממני וממך; Rashbam on ויאמר משה אל אהרן gives אל תתאבל ואל תבכה ואל תחדל מן העבודה. Took the critic’s fix but restored the rule 1 form, ‘hears it as Moses saying …, and Rashbam, on 10:3, as a charge …’, so the elided verb and ‘as’ both carry over; ‘now finds the sons greater than both’ keeps the gate at 60 words. Both commentators, places and evidence unchanged. verse.js ok (Leviticus 10:3, [99,3]); entry-check ok."
+}

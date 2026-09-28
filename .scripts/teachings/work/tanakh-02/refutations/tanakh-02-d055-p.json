@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d055-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Numbers/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 55 --verse 33:1 (Rashi and Sforno, both at the urls cited). Rashi on 33:1 (Rosenbaum and Silbermann Hebrew) asks why the journeys were written and answers להודיע חסדיו של מקום: though He decreed that they wander, of forty-two stages fourteen fell in the first year before the decree and eight after Aaron’s death, so in thirty-eight years only twenty journeys; this carries “God’s kindness, only twenty moves in thirty-eight years under the decree”. Rashi credits the reckoning to R. Moses the Preacher but adopts it as his own answer, and Ramban cites it as Rashi’s, so the attribution holds. Sforno on 33:1 (On Your Way Hebrew): להודיע זכותם בלכתם אחריו במדבר בארץ לא זרועה באופן שהיו ראוים להכנס לארץ, which carries merit, following Him through an unsown land, and so worthiness to enter. The two genuinely differ (God’s kindness against Israel’s merit) and the sentence names both without resolving. Plain sense checked in day.js: chapter 33 lists the stages from Rameses to the plains of Moab by the Jordan (33:48 to 50); no four-word run from the key. verse.js ok (Numbers 33:1, at [149,1]); entry-check ok (56 words, cap 60; src 151 chars). No comparison, tone or school issue.",
+ "better": "Minor only: Sforno says לארץ, “the land”; “Canaan” is a fair identification (33:51 names the land of Canaan) but “the land” would sit closer to his words."
+}

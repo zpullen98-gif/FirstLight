@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-02-d041-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Leviticus/Hebrew/On%20Your%20Way%20New.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 41 --verse 26.6: Ramban's comment on והשבתי חיה רעה מן הארץ holds the evidence words verbatim. He sets R. Yehudah (beasts removed) against R. Shimon (beasts made harmless), calls the second הנכון, and grounds it in the Land, while the commandments are kept, being as the world before Adam's sin when no beast killed a man. The sentence gives the reading he endorses, attributed to him, without drift. The context clause (blessings for walking in the statutes, 26:3) matches day.js. verse.js ok (Leviticus 26:6, at [115,6]); entry-check ok, no warnings.",
+ "better": ""
+}

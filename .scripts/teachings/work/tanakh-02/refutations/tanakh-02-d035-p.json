@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d035-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 35 --verse 13:46. Rashi on the lemma בדד ישב has verbatim: שֶׁלֹּא יִהְיוּ טְמֵאִים יוֹשְׁבִין עִמּוֹ; וְאָמְרוּ רַבּוֹתֵינוּ מַה נִּשְׁתַּנָּה מִשְּׁאָר טְמֵאִים לֵישֵׁב בָּדָד? הוֹאִיל וְהוּא הִבְדִּיל בְּלָשׁוֹן הָרָע בֵּין אִישׁ לְאִשְׁתּוֹ וּבֵין אִישׁ לְרֵעֵהוּ, אַף הוּא יִבָּדֵל (Arakhin 16b). The sentence carries it without drift: 'with the rabbis' matches וְאָמְרוּ רַבּוֹתֵינוּ, 'why he alone of the unclean dwells apart' matches מה נשתנה משאר טמאים לישב בדד, 'slander' is the public-domain English's own 'slanderous statements' for לשון הרע, 'husband from wife and friend from friend' matches בין איש לאשתו ובין איש לרעהו, 'he too is parted' matches אף הוא יבדל. Locator right (13:46, the comment on בדד ישב; the other comments on 13:46 are Ibn Ezra's lexical notes and Leviticus Rabbah 16:3, not used). Plain sense checked with day.js: 13:42 to 13:44 the priest pronounces the leper unclean, 13:45 to 13:46 turn to the leper in whom the plague is; the context clause is accurate. Tone: the exclusion is not softened; the context clause does not itself restate it, but the key verse printed above states it plainly and the reading attributes the moral cause to Rashi with the rabbis. verse.js ok (Leviticus 13:46, at [102,46]); entry-check ok, no warns; one semicolon; verb 'explains'; no school or comparison.",
+ "better": "Optional tightening only: the context clause could use the passage's own word, e.g. 'After the priest pronounces the leper unclean, the law turns to how he must live', so that rule 6's plain clause on the exclusion stands before the semicolon; not a refutation."
+}

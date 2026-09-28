@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d049-p",
+ "d": 49,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And he stood between the dead and the living; and the plague was stayed.",
+ "ref": "Numbers 17:13",
+ "at": [
+  133,
+  13
+ ],
+ "s": "After the people blame Moses and Aaron for Korah’s dead, a plague begins and Aaron runs in with incense; Rashi, on Numbers 17:13, reads the incense as God’s answer to those who called it deadly poison: it stays plague, and sin is what kills.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Numbers 17:13, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 17:13, on ויעמד בין המתים, second explanation (ד\"א)",
+    "via": "packet"
+   }
+  ],
+  "words": "דָּ\"אַ, לָמָּה בַקְּטֹרֶת? לְפִי שֶׁהָיוּ יִשְׂרָאֵל מְלִיזִים וּמְרַנְּנִים אַחַר הַקְּטֹרֶת לוֹמַר סַם הַמָּוֶת הוּא — עַל יָדוֹ מֵתוּ נָדָב וַאֲבִיהוּא, עַל יָדוֹ נִשְׂרְפוּ חֲמִשִּׁים וּמָאתַיִם אִישׁ — אָמַר הַקָּבָּ\"ה, תִּרְאוּ שֶׁעוֹצֵר מַגֵּפָה הוּא וְהַחֵטְא הוּא הַמֵּמִית",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 17:13, second explanation:] Another explanation: why with the incense? Because Israel were disparaging and murmuring against the incense, saying it is a deadly poison: through it Nadab and Abihu died, through it the two hundred and fifty men were burnt. The Holy One, blessed be He, said: you will see that it holds back plague, and it is sin that kills.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Numbers 17:13 and at [133,13] match). Plain sense faithful to 17:6 to 12: the congregation charges Moses and Aaron with killing the people, the plague begins, Aaron runs into the assembly with incense; no four-word run from the key verse. Rashi on 17:13, in his second explanation (davar acher, citing the Mekhilta), says Israel murmured that the incense was a deadly poison (Nadab and Abihu, the 250 men) and God said they would see it holds back plague and sin is what kills: the sentence carries exactly this. His first explanation (Aaron holding back the angel) is a different reading, not contradicted. Rashbam and Sforno on the verse do not touch the incense. entry-check ok."
+}

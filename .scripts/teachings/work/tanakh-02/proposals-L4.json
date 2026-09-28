@@ -1,0 +1,212 @@
+{
+ "lane": "L4",
+ "plan": "tanakh",
+ "batch": "tanakh-02",
+ "days": [
+  {
+   "d": 46,
+   "primary": {
+    "id": "tanakh-02-d046-p",
+    "key": "And those men said unto him: ‘We are unclean by the dead body of a man; wherefore are we to be kept back, so as not to bring the offering of the LORD in its appointed season among the children of Israel?’",
+    "ref": "Numbers 9:7",
+    "at": [
+     125,
+     7
+    ],
+    "s": "Unclean from a corpse at Passover, some men come before Moses and Aaron; Rashi, on Numbers 9:7, reads their plea as bringing through them a law that, like all the Torah, was fit to come through Moses, since merit is brought about by the meritorious.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 9:7, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "וּרְאוּיָה הָיְתָה פָרָשָׁה זוֹ לֵאָמֵר עַ\"יְ מֹשֶׁה כִּשְׁאָר כָּל הַתּוֹרָה כֻּלָּה, אֶלָּא שֶׁזָּכוּ אֵלּוּ שֶׁתֵּאָמֵר עַל יְדֵיהֶן, שֶׁמְּגַלְגְּלִין זְכוּת עַ\"יְ זַכַּאי",
+     "gloss": "[Rashi on 9:7, ‘wherefore are we to be kept back’:] This section was fit to be spoken through Moses, like all the rest of the Torah, only these men merited that it be spoken through them, for merit is brought about through one who is meritorious."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d046-s",
+    "key": "I am not able to bear all this people myself alone, because it is too heavy for me.",
+    "ref": "Numbers 11:14",
+    "at": [
+     127,
+     14
+    ],
+    "s": "As the people weep for flesh, Moses protests to God over his charge; Ramban, on Numbers 11:14, reads it not as seeking help to find meat, but as his hope that many leaders would calm the people’s anger by speaking to their hearts.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Numbers 11:14, Hebrew (Sefaria’s “On Your Way New” text), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "וטעם לא אוכל אנכי לבדי לא שיעזרוהו הזקנים לתת להם בשר כי מאין להם … אבל חשב משה כי בהיות להם מנהיגים רבים ישככו חמתם וידברו על לבם בעת תלונתם",
+     "gloss": "The meaning of ‘I am not able to bear alone’ is not that the elders would help him give them flesh, for where would they get it from … but Moses thought that if they had many leaders, these would calm their wrath and speak to their hearts at the time of their complaining."
+    }
+   }
+  },
+  {
+   "d": 47,
+   "primary": {
+    "id": "tanakh-02-d047-p",
+    "key": "And Moses cried unto the LORD, saying: ‘Heal her now, O God, I beseech Thee.’",
+    "ref": "Numbers 12:13",
+    "at": [
+     128,
+     13
+    ],
+    "s": "After Miriam is found leprous and Aaron pleads for her, Moses turns to God; Rashi, on Numbers 12:13, reads the prayer’s brevity as care lest Israel say that he stands praying at length while his sister is in distress.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 12:13, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "מִפְּנֵי מָה לֹא הֶאֱרִיךְ מֹשֶׁה בִּתְפִלָּה? שֶׁלֹּא יִהְיוּ יִשְׂרָאֵל אוֹמְרִים, אֲחוֹתוֹ עוֹמֶדֶת בְּצָרָה וְהוּא עוֹמֵד וּמַרְבֶּה בִתְפִלָּה",
+     "gloss": "[Rashi on 12:13, ‘heal her, I pray Thee’:] Why did Moses not pray at length? So that Israel should not say: his sister stands in distress, and he stands and multiplies prayer."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d047-s",
+    "key": "And Caleb stilled the people toward Moses, and said: ‘We should go up at once, and possess it; for we are well able to overcome it.’",
+    "ref": "Numbers 13:30",
+    "at": [
+     129,
+     30
+    ],
+    "s": "As the spies report a fierce people and fortified cities, Caleb answers; the Midrash, Numbers Rabbah 16:19, reads the hush as won because he had seemed to side with the spies, so a crowd shouting at Moses fell silent, expecting an evil report.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Numbers Rabbah 16:19, the Torat Emet Hebrew text, Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "שֶׁבַּתְּחִלָּה אָמַר לָהֶם אֲנִי עִמָּכֶם בָּעֵצָה, וּבְלִבּוֹ הָיָה לוֹמַר אֱמֶת … כְּשֶׁבָּאוּ הַמְרַגְּלִים אָמְרוּ נֶאֱמָן עָלֵינוּ כָּלֵב, מִיָּד עָמַד עַל הַסַּפְסָל וְשִׁתֵּק אֶת כָּל יִשְׂרָאֵל שֶׁהָיוּ מְצַוְּחִין עַל משֶׁה, שֶׁנֶּאֱמַר: וַיַּהַס כָּלֵב, וְהֵם הָיוּ סְבוּרִין שֶׁהָיָה אוֹמֵר לָשׁוֹן הָרָע, לְפִיכָךְ שָׁתְקוּ",
+     "gloss": "[Numbers Rabbah 16:19, on 13:30 to 13:31:] For at first he said to them, I am with you in the counsel, but in his heart he meant to speak the truth … When the spies came, they said, Caleb is trustworthy for us; at once he stood on the bench and silenced all Israel, who were shouting at Moses, as it is said, ‘And Caleb stilled’; and they supposed that he was going to speak an evil report, and so they fell silent."
+    }
+   }
+  },
+  {
+   "d": 48,
+   "primary": {
+    "id": "tanakh-02-d048-p",
+    "key": "And they fell upon their faces, and said: ‘O God, the God of the spirits of all flesh, shall one man sin, and wilt Thou be wroth with all the congregation?’",
+    "ref": "Numbers 16:22",
+    "at": [
+     132,
+     22
+    ],
+    "s": "When God bids Moses and Aaron stand apart that He may consume the assembly, they plead; Rashi, on Numbers 16:22, hears in the divine title One who knows every thought, and so who sinned, where an earthly king, not knowing the offender, punishes all.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 16:22, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "יוֹדֵעַ מַחֲשָׁבוֹת; אֵין מִדָּתְךָ כְּמִדַּת בָּשָׂר וָדָם, מֶלֶךְ בָּשָׂר וָדָם שֶׁסָּרְחָה עָלָיו מִקְצָת מְדִינָה, אֵינוֹ יוֹדֵעַ מִי הַחוֹטֵא, לְפִיכָךְ כְּשֶׁהוּא כוֹעֵס נִפְרָע מִכֻּלָּם, אֲבָל אַתָּה, לְפָנֶיךָ גְלוּיוֹת כָּל הַמַּחֲשָׁבוֹת וְיוֹדֵעַ אַתָּה מִי הַחוֹטֵא",
+     "gloss": "[Rashi on 16:22, ‘O God, the God of the spirits’:] Who knows thoughts. Your way is not the way of flesh and blood: a king of flesh and blood against whom part of a province has offended does not know who the sinner is, and therefore when he is angry he punishes them all; but You, before You all thoughts lie open, and You know who the sinner is."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d048-s",
+    "key": "And Moses was very wroth, and said unto the LORD: ‘Respect not thou their offering; I have not taken one ass from them, neither have I hurt one of them.’",
+    "ref": "Numbers 16:15",
+    "at": [
+     132,
+     15
+    ],
+    "s": "Refused by Dathan and Abiram, who charge him with making himself a prince over them, Moses turns to God; Ramban, on Numbers 16:15, reads it as asking what lordship he holds, who never took even one ass for his needs, as kings and princes do.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Numbers 16:15, Hebrew (Sefaria’s “On Your Way New” text), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "וטעם לא חמור אחד מהם נשאתי אמר מה שררה אני משתרר עליהם כי מעולם לא לקחתי מהם אפילו חמור אחד לעשות צרכי כדרך המלכים או השרים כי זה משפט המלוכה",
+     "gloss": "The sense of ‘I have not taken one ass from them’: he said, what lordship am I exercising over them, for I have never taken from them even one ass to do my needs, in the way of kings or princes, for this is the law of the kingdom."
+    }
+   }
+  },
+  {
+   "d": 49,
+   "primary": {
+    "id": "tanakh-02-d049-p",
+    "key": "And he stood between the dead and the living; and the plague was stayed.",
+    "ref": "Numbers 17:13",
+    "at": [
+     133,
+     13
+    ],
+    "s": "After the people blame Moses and Aaron for Korah’s dead, a plague begins and Aaron runs in with incense; Rashi, on Numbers 17:13, reads the incense as God’s answer to those who called it deadly poison: it stays plague, and sin is what kills.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 17:13, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "לָמָּה בַקְּטֹרֶת? לְפִי שֶׁהָיוּ יִשְׂרָאֵל מְלִיזִים וּמְרַנְּנִים אַחַר הַקְּטֹרֶת לוֹמַר סַם הַמָּוֶת הוּא, עַל יָדוֹ מֵתוּ נָדָב וַאֲבִיהוּא, עַל יָדוֹ נִשְׂרְפוּ חֲמִשִּׁים וּמָאתַיִם אִישׁ, אָמַר הַקָּבָּ\"ה, תִּרְאוּ שֶׁעוֹצֵר מַגֵּפָה הוּא וְהַחֵטְא הוּא הַמֵּמִית",
+     "gloss": "[Rashi on 17:13, ‘and he stood between the dead’, his second explanation:] Why with the incense? Because Israel were disparaging and murmuring against the incense, saying it is a deadly poison: through it Nadab and Abihu died, through it two hundred and fifty men were burnt. The Holy One, blessed be He, said: you will see that it holds back a plague, and it is sin that kills."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d049-s",
+    "key": "But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying: ‘Ye have killed the people of the LORD.’",
+    "ref": "Numbers 17:6",
+    "at": [
+     133,
+     6
+    ],
+    "s": "The day after Korah’s company perish, the people turn on Moses and Aaron; Ramban, on Numbers 17:6, reads the charge as that of a people who accepted Aaron’s priesthood but wanted the firstborn of all the tribes, not the Levites, to serve the Tabernacle.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Numbers 17:6, Hebrew (Sefaria’s “On Your Way New” text), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "והנכון בעיני שהיו העם מאמינים עתה בכהונת אהרן שכבר יצאה אש מלפני ה' ותאכל את קרבנותיו אבל היו חפצים שיהיו הבכורות משרתי המשכן במקום הלוים ולא ירצו בחלופין שעשו בהם כי היו חפצים שיהיה לכל השבטים חלק בעבודת בית ה'",
+     "gloss": "[Ramban on 17:6, after citing Onkelos and Ibn Ezra:] What seems right to me is that the people now believed in Aaron’s priesthood, since fire had already come forth from before the LORD and consumed his offerings, but they wished the firstborn to be the ministers of the Tabernacle in place of the Levites, and did not want the exchange that had been made with them, for they wished all the tribes to have a share in the service of the house of the LORD."
+    }
+   }
+  },
+  {
+   "d": 50,
+   "primary": {
+    "id": "tanakh-02-d050-p",
+    "key": "And when all the congregation saw that Aaron was dead, they wept for Aaron thirty days, even all the house of Israel.",
+    "ref": "Numbers 20:29",
+    "at": [
+     136,
+     29
+    ],
+    "s": "On mount Hor Aaron’s garments pass to Eleazar and Aaron dies there; Rashi, on Numbers 20:29, reads the mourners as men and women alike, for Aaron pursued peace and brought love between quarrellers and between husband and wife.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 20:29, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "כל בית ישראל. הָאֲנָשִׁים וְהַנָּשִׁים, לְפִי שֶׁהָיָה אַהֲרֹן רוֹדֵף שָׁלוֹם וּמַטִּיל אַהֲבָה בֵּין בַּעֲלֵי מְרִיבָה וּבֵין אִישׁ לְאִשְׁתּוֹ",
+     "gloss": "[Rashi on 20:29:] ‘All the house of Israel’: the men and the women, because Aaron pursued peace and put love between those in a quarrel and between a man and his wife."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d050-s",
+    "key": "And the LORD said unto Moses: ‘Make thee a fiery serpent, and set it upon a pole; and it shall come to pass, that every one that is bitten, when he seeth it, shall live.’",
+    "ref": "Numbers 21:8",
+    "at": [
+     137,
+     8
+    ],
+    "s": "When serpents bite the people and Moses prays for them, God answers; Ibn Ezra, on Numbers 21:8, reads the image not as drawing down powers from on high but as made at God’s command, for a reason beyond human knowing.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, Commentary on the Torah, on Numbers 21:8, Hebrew (Sefaria’s “On Your Way” text), Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "על נס שיהיה גבוה ויראו אותו הכל ורבים השתבשו ואמרו כי זאת הצורה לקבל כח עליונים וחליל' חלילה כי הדבר נעשה בצווי השם ואין לנו לחפש למה צורת נחש … והאמת כי נשגבה ממנו דעת עליון",
+     "gloss": "[Ibn Ezra on 21:8, ‘upon a pole’:] That it be high and all may see it. Many went astray and said that this form was to receive the power of the higher beings; far be it, far be it, for the thing was done at God’s command, and it is not for us to search out why the form of a serpent … and the truth is that the knowledge of the Most High is too lofty for us."
+    }
+   }
+  }
+ ]
+}

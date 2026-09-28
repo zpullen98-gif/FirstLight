@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d033-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Vayikra%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 33 --verse 7.12: Leviticus Rabbah 9:7 is placed by Sefaria’s links on Leviticus 7:12 alone, and reads in the Torat Emet Hebrew: in the time to come all offerings cease but the thank-offering does not, all prayers cease but thanksgiving does not (with Jeremiah 33:11 and Psalm 56:13 as proofs). The paraphrase carries exactly that; ‘all else’ is glossed at once as every offering and every prayer, so no drift. The saying is Rabbi Menahem of Galya’s, transmitted in the collection, and the roster names the Midrash by collection and section, which the entry does. Locator right. Plain sense checked in day.js: 7:11 opens the law of the peace-offerings, 7:12 its thanksgiving case; no four-word run from the key. verse.js ok (Leviticus 7:12, at [96,12]); entry-check ok. Rashi’s 7:12 comment (thanks for deliverance at sea, in the desert, from prison, from illness) would also serve, but the Midrash reading is attested at the place named. No school, comparison or tone issue.",
+ "better": ""
+}

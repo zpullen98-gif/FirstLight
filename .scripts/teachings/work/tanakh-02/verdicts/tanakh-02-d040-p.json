@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d040-p",
+ "d": 40,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And if thy brother be waxen poor, and his means fail with thee; then thou shalt uphold him: as a stranger and a settler shall he live with thee.",
+ "ref": "Leviticus 25:35",
+ "at": [
+  114,
+  35
+ ],
+ "s": "After the laws of redeeming sold land, the chapter turns to an Israelite whose means fail; Rashi, on 25:35, reads the command as help before he falls, as one man can steady a load still on a donkey, while five cannot raise it once fallen.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Leviticus 25:35, Hebrew text (Rosenbaum and Silbermann, 1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "sensitivity": "none",
+ "confidence": "high",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Leviticus, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Leviticus 25:35, on והחזקת בו",
+    "via": "packet"
+   }
+  ],
+  "words": "אַל תַּנִּיחֵהוּ שֶׁיֵּרֵד וְיִפֹּל וְיִהְיֶה קָשֶׁה לַהֲקִימוֹ, אֶלָּא חַזְּקֵהוּ מִשְּׁעַת מוֹטַת הַיָּד; לְמָה זֶה דוֹמֶה? לְמַשּׂאוֹי שֶׁעַל הַחֲמוֹר, עוֹדֵהוּ עַל הַחֲמוֹר אֶחָד תּוֹפֵס בּוֹ וּמַעֲמִידוֹ, נָפַל לָאָרֶץ, חֲמִשָּׁה אֵין מַעֲמִידִין אוֹתוֹ",
+  "lang": "Hebrew",
+  "gloss": "Do not let him go down and fall, so that it becomes hard to raise him up, but strengthen him from the moment his hand falters. To what is this like? To a load on a donkey: while it is still on the donkey, one person takes hold of it and keeps it up; once it has fallen to the ground, five cannot set it up.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "reason": "Key verse verbatim (verse.js ok, ref Leviticus 25:35, at [114,35] match). Plain sense faithful: 25:25 to 34 give the redemption of sold fields and houses, and 25:35 turns to the brother whose means fail (the chapter itself calls the brethren the children of Israel). Rashi on 25:35, והחזקת בו, says do not let him go down and fall, uphold him from the moment his hand falters, like a load on a donkey that one holds up while it is still on the beast but five cannot raise once fallen. The sentence carries that without drift; the other comments on the verse (Ibn Ezra, Ramban, Sforno, Leviticus Rabbah 34) were read and do not conflict. entry-check ok, 45 words."
+}

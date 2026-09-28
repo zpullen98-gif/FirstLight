@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d042-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Numbers/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 42 --verse 2.2. Rashi on באתת: מפה צבועה ... צבע כל אחד כגון אבנו הקבועה בחשן, the dyed cloth coloured like each tribe’s breastplate stone, verbatim (his first explanation; the Tanchuma second one is left aside, which is not drift). Ibn Ezra on באתת: סימנים היו בכל דגל ... וקדמונינו אמרו ... צורת אדם ... אריה ... שור ... נשר עד שידמו לכרובים שראה יחזקאל, verbatim. Attribution attack weighed: the figures are the ancients’ tradition, but Ibn Ezra cites it as וקדמונינו אמרו (adopting, not the distancing ויש אומרים) and the sentence discloses it (‘by the ancients’ account’), so no drift; Ramban on 2:2 reads Ibn Ezra the same way, as the figures reading against Rashi’s cloths. The two genuinely differ and are named without resolution. Plain sense checked with day.js: 1 is the census, 2:1 the LORD speaks to Moses and Aaron, 2:3 to 2:31 three tribes to a standard on east, south, west and north, the Levites and tent of meeting in the midst (2:17); no four-word run from the key. verse.js ok, exact, Numbers 2:2, at [118,2], 33 words; the leading quotation mark is the translation’s own. entry-check ok, no errors or warns; 55 words, within the two-commentator cap; roster names, verb ‘reads’, British ‘coloured’, no dash, src names both editions. No school needed, no comparison, tone neutral.",
+ "better": ""
+}

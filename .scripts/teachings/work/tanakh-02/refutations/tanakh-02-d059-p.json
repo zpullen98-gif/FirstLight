@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d059-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 59 --verse 8:10: Ramban reports the rabbis (Berakhot 48) received it as a positive commandment, reads על הארץ as ‘and for the land’, commands blessing בכל עת שתשבע על השובע ועל הארץ, and closes והנה חיוב המצוה הזאת בכל מקום; the sentence frames the commandment as ‘with the rabbis’, so attribution is honest, and the rest is his own. ‘And so’ for והנה is a fair rendering (Chavel draws the same link). Plain sense matches 8:7 to 9 (wheat, vines, olives; eating bread there). Evidence verbatim in the packet. verse.js ok (Deuteronomy 8:10, at [160,10]); entry-check ok, 44 words.",
+ "better": ""
+}

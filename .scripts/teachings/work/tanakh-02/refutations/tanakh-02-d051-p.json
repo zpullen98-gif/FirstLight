@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d051-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 51 --verse 24:5. Rashi’s first comment on מה טבו אהליך (their entrances not set facing one another) and Sforno’s two comments (tents = houses of study; dwellings = synagogues and sanctuaries receiving prayer; ‘how goodly’ because they do good not only to those engaged in them but to the whole nation) are verbatim in the packet at 24:5 and carry the paraphrase without drift; the Sforno url (On Your Way) was re-opened in the same packet. Rashi’s second explanation (Shiloh and the Temple) is left unnamed, which is not a misattribution. The two readings genuinely differ and are named without resolution. Plain sense checked against day.js: Balak takes Balaam to a third place, the top of Peor (23:27 to 28, after 22:41 and 23:14), and 24:2 has him see Israel dwelling tribe by tribe with the spirit of God upon him; no four-word run from the key. verse.js ok (Numbers 24:5, at [140,5]); entry-check ok on a scratch copy (scratch/refute-d051-p.json). No school, comparison or tone issue.",
+ "better": ""
+}

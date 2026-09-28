@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d052-p",
+ "d": 52,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "But among these there was not a man of them that were numbered by Moses and Aaron the priest, who numbered the children of Israel in the wilderness of Sinai.",
+ "ref": "Numbers 26:64",
+ "at": [
+  142,
+  64
+ ],
+ "s": "Closing the census on the plains of Moab, the chapter sets it against the count at Sinai; Rashi, on 26:64, reads ‘not a man’ as the spies’ decree passing over the women, who held the land dear, and so the daughters of Zelophehad come next.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Numbers 26:64, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 26:64, on ובאלה לא היה איש",
+    "via": "packet"
+   }
+  ],
+  "words": "ובאלה לא היה איש וגו'. אֲבָל עַל הַנָּשִׁים לֹא נִגְזְרָה גְזֵרַת הַמְרַגְּלִים, לְפִי שֶׁהֵן הָיוּ מְחַבְּבוֹת אֶת הָאָרֶץ, הָאֲנָשִׁים אוֹמְרִים נִתְּנָה רֹאשׁ וְנָשׁוּבָה מִצְרַיְמָה, וְהַנָּשִׁים אוֹמְרוֹת \"תְּנָה לָּנוּ אֲחֻזָּה\", לְכָךְ נִסְמְכָה פָרָשַׁת בְּנוֹת צְלָפְחָד לְכָאן",
+  "lang": "Hebrew",
+  "gloss": "But among these there was not a man: but upon the women the decree of the spies was not decreed, because they held the land dear. The men said ‘Let us make a captain and return to Egypt’, and the women said ‘Give unto us a possession’; therefore the section of the daughters of Zelophehad is set next to this.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Numbers 26:64 and at [142,64] match). Plain sense faithful: 26:63 closes the count by Moses and Eleazar in the plains of Moab, and 26:64 sets it against the count in the wilderness of Sinai. Rashi on 26:64 says, in his own words, that the decree of the spies was not laid on the women, who held the land dear, and that this is why the daughters of Zelophehad follow; the sentence says exactly that and no more. Ibn Ezra and Ramban on the verse speak of the count and of Joshua and Caleb; they do not contradict. entry-check ok."
+}

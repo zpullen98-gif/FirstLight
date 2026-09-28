@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d052-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 52 --verse 26:64. Rashi on ובאלה לא היה איש: the spies’ decree was not decreed on the women, because they held the land dear (the men said let us appoint a head and return to Egypt, the women said give us a possession), therefore the section of the daughters of Zelophehad is set here; words verbatim in the packet, paraphrase carries no more than this. Ramban and Ibn Ezra on the verse differ (Ramban on Joshua and Caleb being over sixty) but the entry names only Rashi, so nothing is conflated. Plain sense checked against day.js 26:63 to 65: the census on the plains of Moab closes, set against the Sinai count; ‘sets it against the count at Sinai’ is close to the key’s gist but no four-word run and not a line-by-line paraphrase (a context clause naming 26:63 alone would be slightly cleaner). 27:1 confirms the daughters of Zelophehad follow. verse.js ok (Numbers 26:64, at [142,64]); entry-check ok (scratch/refute-d052-p.json).",
+ "better": ""
+}

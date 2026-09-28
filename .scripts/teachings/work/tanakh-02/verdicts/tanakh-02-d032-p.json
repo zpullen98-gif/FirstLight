@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d032-p",
+ "d": 32,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "if the anointed priest shall sin so as to bring guilt on the people, then let him offer for his sin, which he hath sinned, a young bullock without blemish unto the LORD for a sin-offering.",
+ "ref": "Leviticus 4:3",
+ "at": [
+  93,
+  3
+ ],
+ "s": "The law of the sin-offering for errors opens with the anointed priest; Rashi, on 4:3, reads his sin as the people’s guilt because they depend on him to atone and pray for them, and Sforno, on 4:3, as an error that befalls him only through the people’s own guilt, not from his heart.",
+ "by": "rashi",
+ "by2": "sforno",
+ "hedge": "",
+ "src": "Rashi (Rosenbaum and Silbermann Hebrew, 1929 to 1934) and Sforno (Hebrew, On Your Way), on Leviticus 4:3, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Leviticus, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Leviticus 4:3, on אם הכהן המשיח יחטא לאשמת העם",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Leviticus/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Leviticus, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Leviticus 4:3, on אם הכהן המשיח יחטא לאשמת העם",
+    "via": "packet"
+   }
+  ],
+  "words": "וּפְשׁוּטוֹ לְפִי אַגָּדָה: כְּשֶׁכֹּהֵן גָּדוֹל חוֹטֵא, אַשְׁמַת הָעָם הוּא זֶה, שֶׁהֵן תְּלוּיִין בּוֹ לְכַפֵּר עֲלֵיהֶם וּלְהִתְפַּלֵּל בַּעֲדָם, וְנַעֲשֶׂה מְקֻלְקָל … כלומר שלא תקרה לו שגגת חטאת זולתי ממוקשי עם … כי לא מלבו היה החטא כלל, אבל קרה לו לאשמת העם",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 4:3, ‘if the anointed priest sin to the guilt of the people’, after the halakhic reading:] And its plain sense, following the aggadah: when the High Priest sins, this is the guilt of the people, for they depend on him to atone for them and to pray on their behalf, and he has become corrupted … [Sforno on 4:3, same words:] That is, an unwitting sin will not befall him except from the snares of the people … for the sin was not from his heart at all, but befell him for the guilt of the people.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Leviticus 4:3 and at [93,3] match; verse.js accepts the start after 4:2’s colon). Plain sense faithful: after 4:2 (sin through error) the chapter’s first case is the anointed priest. Opened the whole 4:3 packet (Rashi, Ibn Ezra, Ramban silent, Rashbam, Sforno, Leviticus Rabbah 5:1 to 5:6). Rashi on the lemma gives first the halakhic midrash, then ‘its plain sense according to the aggadah’: the High Priest’s sin is the people’s guilt because they depend on him to atone and pray for them; the sentence gives that second reading, which is his own words. Sforno on the same lemma: an error befalls him only from the snares of the people, not from his heart, but for the people’s guilt. The two run in opposite directions (his sin leaves the people guilty against the people’s guilt causing his sin), named without resolution. Evidence pieces machine-matched against the packet. entry-check ok."
+}

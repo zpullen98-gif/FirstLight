@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d056-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Deuteronomy/Hebrew/On%20Your%20Way.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 56 --verse 1:1 (Rashi and Ibn Ezra, both at the urls cited). Rashi on אלה הדברים: לפי שהן דברי תוכחות ומנה כאן כל המקומות שהכעיסו ... לפיכך סתם את הדברים והזכירם ברמז מפני כבודן של ישראל, which carries “rebukes recalling where Israel provoked God, only hinted at for Israel’s honour”; his following lemmas read each name as a sin, and on Tophel and Laban he cites R. Yohanan that no such places exist. Ibn Ezra on בין פארן ... ודי זהב: מקומות לא נזכרו בפרשת אלה מסעי או נזכרו בשמות אחרים, which carries “places, absent from the earlier list of stages or named otherwise” exactly; the difference from Rashi (Tophel and Laban as places, not allusions) is genuine and named without resolution. Ibn Ezra’s first comment on 1:1 also takes wilderness, Arabah and Suph as where Moses spoke, so reading the names as places is not overreach. Plain sense checked in day.js: Numbers 36:13 closes in the plains of Moab; Deuteronomy 1:3 sets Moses’ speaking in the fortieth year; the verifier had already removed the “last words” and “real places” drift. verse.js ok (Deuteronomy 1:1, at [153,1]); entry-check ok (56 words, cap 60; src 158 chars, under 160). No comparison, tone or school issue.",
+ "better": "Rashbam on 1:1 (לפי פשוטו: כל הנזכרים בפסוק זה מקומות הן; and on ולבן וחצרות ודי זהב: הכל מקומות לפי פשוטו) states the places-not-rebukes contrast with Rashi more explicitly than Ibn Ezra, if a cleaner foil is ever wanted; the Ibn Ezra entry as it stands is accurate."
+}

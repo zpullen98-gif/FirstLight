@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d044-p",
+ "d": 44,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "He shall not make himself unclean for his father, or for his mother, for his brother, or for his sister, when they die; because his consecration unto God is upon his head.",
+ "ref": "Numbers 6:7",
+ "at": [
+  122,
+  7
+ ],
+ "s": "After wine and the razor, the Nazirite law turns to the dead; Ibn Ezra, on 6:7, takes as not far-fetched those who derive the Nazirite’s name from the crown on his head, the true king being whoever is free of the desires that enslave humankind.",
+ "by": "ibn-ezra",
+ "by2": "",
+ "hedge": "",
+ "src": "Ibn Ezra, Commentary on the Torah, on Numbers 6:7, Hebrew (Sefaria’s “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Numbers/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Numbers, Hebrew “On Your Way”, Sefaria export 3f10136",
+    "locator": "Numbers 6:7, on לאביו ולאמו (also read: his comments on 6:2 and 6:6)",
+    "via": "packet"
+   }
+  ],
+  "words": "ויש אומרים כי מלת נזיר מגזרת נזר והעד כי נזר אלהיו על ראשו ואיננו רחוק ודע כי כל בני אדם עבדי תאות העולם והמלך באמת שיש לו נזר ועטרת מלכות בראשו כל מי שהוא חפשי מן התאות",
+  "lang": "Hebrew",
+  "gloss": "Some say that the word nazir comes from nezer (crown), the proof being ‘the nezer of his God is upon his head’, and this is not far-fetched. Know that all human beings are slaves to the desires of the world, and the king in truth, who has a crown and a royal diadem on his head, is whoever is free of the desires.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Numbers 6:7 and at [122,7] match). Plain sense faithful: 6:3 to 6:5 give wine and the razor, 6:6 to 6:7 turn to the dead. The reading is in Ibn Ezra’s own words on 6:7, but the crown derivation is one he reports from others (“ויש אומרים”) and judges “ואיננו רחוק”, while on 6:2 he himself derives nazir from וינזרו (separation). The proposal’s “takes the Nazirite’s name as plausibly from the crown” made the derivation his own; the sentence now says he takes as not far-fetched those who derive it so, and keeps the true-king remark, which is his own (“ודע”). Key, ref, at and src unchanged. entry-check ok."
+}

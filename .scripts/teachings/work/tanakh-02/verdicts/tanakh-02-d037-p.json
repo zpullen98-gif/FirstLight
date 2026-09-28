@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d037-p",
+ "d": 37,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "For on this day shall atonement be made for you, to cleanse you; from all your sins shall ye be clean before the LORD.",
+ "ref": "Leviticus 16:30",
+ "at": [
+  105,
+  30
+ ],
+ "s": "After the high priest’s rites, the chapter fixes a yearly day of rest and affliction; Sforno, on 16:30, reads the priest’s atonement as only lessening sin and readying it for pardon, while purity and full pardon come before the LORD alone, through confession and repentance.",
+ "by": "sforno",
+ "by2": "",
+ "hedge": "",
+ "src": "Sforno, Commentary on the Torah, on Leviticus 16:30, Hebrew (On Your Way), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Leviticus/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Leviticus, Hebrew (On Your Way), Sefaria export 3f10136",
+    "locator": "Leviticus 16:30, on כי ביום הזה יכפר and on לפני ה׳ תטהרו",
+    "via": "packet"
+   }
+  ],
+  "words": "כי אמנם הכהן בעבודתו יכפר בלבד וענין הכפור הוא הקטנת החטא והכנתו לקבל סליחה … אבל השגת הטהרה והסליחה הגמורה תהיה לפני ה' בלבד וזה בוידוי ותשובה, שהוא לבדו ידע אמתתם",
+  "lang": "Hebrew",
+  "gloss": "[Sforno on 16:30, ‘For on this day shall atonement be made’:] For indeed the priest by his service only atones, and atonement means lessening the sin and readying it to receive pardon. [On ‘before the LORD shall ye be clean’:] But attaining purity and complete pardon will be before the LORD alone, and this by confession and repentance, whose truth He alone knows.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Leviticus 16:30 and at [105,30] match). Plain sense faithful: 16:29 to 31 set the tenth of the seventh month as a statute of affliction and a sabbath of solemn rest, after the high priest’s rites of the chapter. Opened the whole 16:30 packet (Rashi, Ramban, Rashbam silent; Ibn Ezra on the priest atoning and on sin as a general term; Leviticus Rabbah 20:12 cites the verse only as proof that the day atones). Sforno’s two comments on 16:30, both in his own Hebrew, carry the reading exactly: the priest’s service only lessens sin and readies it for pardon; purity and full pardon are before the LORD alone, by confession and repentance. Munk’s English drifts (it speaks of downgrading and of an undertaking not to sin again) but the sentence follows the Hebrew. Evidence is the two lemmas joined by an ellipsis; both pieces machine-matched. entry-check ok."
+}

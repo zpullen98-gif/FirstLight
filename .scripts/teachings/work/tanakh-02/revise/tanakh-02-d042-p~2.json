@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d042-p",
+ "d": 42,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "‘The children of Israel shall pitch by their fathers’ houses; every man with his own standard, according to the ensigns; a good way off shall they pitch round about the tent of meeting.",
+ "ref": "Numbers 2:2",
+ "at": [
+  118,
+  2
+ ],
+ "s": "After the census, the LORD sets each tribe’s place, three to a standard on each side of the Tabernacle; Rashi, on 2:2, reads ‘the ensigns’ as cloths coloured like each tribe’s breastplate stone, and Ibn Ezra, on 2:2, as figures, by the ancients’ account a man, lion, ox and eagle, like the cherubim Ezekiel saw.",
+ "by": "rashi",
+ "by2": "ibn-ezra",
+ "hedge": "",
+ "src": "Rashi and Ibn Ezra, on Numbers 2:2, Hebrew (Rashi: Rosenbaum and Silbermann, 1929 to 1934; Ibn Ezra: “On Your Way”), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (corrected vocalization), Sefaria export 3f10136",
+    "locator": "Numbers 2:2, on באתת",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ibn%20Ezra/Torah/Ibn%20Ezra%20on%20Numbers/Hebrew/On%20Your%20Way.json",
+    "edition": "Ibn Ezra on Numbers, Hebrew, On Your Way, Sefaria export 3f10136",
+    "locator": "Numbers 2:2, on באתת",
+    "via": "packet"
+   }
+  ],
+  "words": "כָּל דֶּגֶל יִהְיֶה לוֹ אוֹת מַפָּה צְבוּעָה תְלוּיָה בוֹ, צִבְעוֹ שֶׁל זֶה לֹא כְצִבְעוֹ שֶׁל זֶה, צֶבַע כָּל אֶחָד כְּגוֹן אַבְנוֹ הַקְּבוּעָה בַחֹשֶׁן … סימנים היו בכל דגל ודגל וקדמונינו אמרו שהיה בדגל ראובן צורת אדם מכח דרש דודאים ובדגל יהודה צורת אריה כי בו המשילו יעקב ובדגל אפרים צורת שור מטעם בכור שור ובדגל דן צורת נשר עד שידמו לכרובים שראה יחזקאל הנביא",
+  "lang": "Hebrew",
+  "gloss": "[Rashi, on 2:2, ‘with the signs’:] Each standard shall have a sign, a dyed cloth hanging on it, the colour of one unlike the colour of another, the colour of each like its stone set in the breastplate. … [Ibn Ezra, on 2:2:] There were signs on every standard, and our ancients said that on Reuben’s standard was the form of a man, from the homily on the mandrakes; on Judah’s the form of a lion, for Jacob likened him to one; on Ephraim’s the form of an ox, from ‘his firstling bullock’; and on Dan’s the form of an eagle; so that they resembled the cherubim that Ezekiel the prophet saw.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds and is now curable: the app’s JPS text has been repaired, and day.js tanakh 42 prints Numbers 2:2 as “by their fathers’ houses” with the space (as at 1:2, 2:32 and 2:34). verse.js on the key with the space: ok, exact, Numbers 2:2, at [118,2]; the old key without the space now fails (“the wording then differs from the page”), so the entry could not land unchanged. The only change is that space in the key; the opening quotation mark is the translation’s own and stays under rule 8. The reading is unquestioned and re-opened today (packet.js tanakh 42 --verse 2:2): Rashi on באתת (dyed cloth, each colour like its stone in the breastplate) and Ibn Ezra on באתת (the ancients’ man, lion, ox and eagle, like the cherubim Ezekiel saw), both matched in the packet. Sentence, commentators, src and evidence unchanged. entry-check ok. Day 42 is no longer a hole; the standby d042-s is not needed."
+}

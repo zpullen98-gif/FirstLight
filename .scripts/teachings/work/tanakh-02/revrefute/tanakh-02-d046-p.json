@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d046-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi on 9:7 (lemma למה נגרע) via packet.js tanakh 46 --verse 9:7: the evidence words close the comment verbatim; the section was fit to be said through Moses like all the rest of the Torah (ראויה היתה פרשה זו לאמר ע\"י משה כשאר כל התורה), but (אלא) these men merited that it be said through them, since merit is brought about through the meritorious. The revision fixes the old attachment: the since-clause now follows said through them, as the Hebrew has it. The law their plea wins is a fair rendering of שזכו אלו in the lemma’s setting (they plead, the section on the second Passover follows through them); no claim beyond the words. Plain sense matches 9:6 (men unclean by a dead body at the passover come before Moses and Aaron), no four words of the key. Key is the lemma’s own verse. verse.js ok (Numbers 9:7, at [125,7]); entry-check ok, no errors or warns. No school, comparison or tone issue.",
+ "better": ""
+}

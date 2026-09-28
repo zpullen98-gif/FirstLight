@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d036-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 36 --verse 14:36: Rashi on the lemma ולא יטמא כל אשר בבית says in his own Hebrew that the Torah’s concern (חסה) is only for earthen vessels, which have no cleansing in a mikveh, since rinsable vessels are immersed and food and drink are eaten in his days of uncleanness; the sentence carries exactly that and no more. Locator right (14:36). Plain sense checked against day.js: 14:35 the owner reports something like a plague, 14:36 the priest orders the house emptied before going in to see it; no key-verse phrase repeated. verse.js ok (Leviticus 14:36, at [103,36]); entry-check ok. Rashi marks the source (Sifra), but the comment is printed as his and he adopts it, so naming Rashi is not a false attribution. No school, comparison or tone issue.",
+ "better": ""
+}

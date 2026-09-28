@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-02-d053-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Bamidbar%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 53 --verse 28.2: Numbers Rabbah 21:16 opens on את קרבני לחמי לאשי with the evidence words verbatim (not that I need offerings, the whole world is Mine, the beast you offer I created, no eating and drinking before Me). The paraphrase carries only that, named by collection and section as the roster requires. Context clause matches day.js (continual offering, sabbath, new moons, the feasts of chapters 28 to 29; 28:1 the LORD speaks to Moses); 'feast' is generic and slightly loose given the fast of 29:7, but not wrong enough to refute. verse.js ok (Numbers 28:2, at [144,2]); entry-check ok.",
+ "better": ""
+}

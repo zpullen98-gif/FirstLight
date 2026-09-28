@@ -1,0 +1,212 @@
+{
+ "lane": "L5",
+ "plan": "tanakh",
+ "batch": "tanakh-02",
+ "days": [
+  {
+   "d": 51,
+   "primary": {
+    "id": "tanakh-02-d051-p",
+    "key": "How goodly are thy tents, O Jacob, Thy dwellings, O Israel!",
+    "ref": "Numbers 24:5",
+    "at": [
+     140,
+     5
+    ],
+    "s": "Brought to a third height to curse, Balaam sees Israel camped tribe by tribe and the spirit of God comes upon him; Rashi, on 24:5, reads the praise as drawn from tent doors set so that none faced another, and Sforno, on 24:5, as praise of the houses of study and of prayer, whose good reaches the whole nation.",
+    "by": "rashi",
+    "by2": "sforno",
+    "hedge": "",
+    "src": "Rashi and Sforno, on Numbers 24:5, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Sforno’s On Your Way text; Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; sforno",
+     "words": "מה טבו אהליך. עַל שֶׁרָאָה פִתְחֵיהֶם שֶׁאֵינָן מְכֻוָּנִין זֶה מוּל זֶה … מה טובו אהליך יעקב. בתי מדרשות … משכנותיך. בתי כנסיות ומקדשי אל המיוחדים לשכן שמו שם ולקבל תפלת המתפללים. ואמר מה טובו כי לא בלבד הם מטיבים לעוסקים בם אבל מטיבים לכל האומה",
+     "gloss": "[Rashi on 24:5:] How goodly are thy tents: because he saw that their entrances were not set facing one another … [Sforno on 24:5:] How goodly are thy tents, O Jacob: houses of study … thy dwellings: synagogues and sanctuaries of God, set apart for His name to dwell there and to receive the prayer of those who pray. He said ‘how goodly’ because they do good not only to those who engage in them but to the whole nation."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d051-s",
+    "key": "And God came unto Balaam at night, and said unto him: ‘If the men are come to call thee, rise up, go with them; but only the word which I speak unto thee, that shalt thou do.’",
+    "ref": "Numbers 22:20",
+    "at": [
+     138,
+     20
+    ],
+    "s": "After God forbids the journey, Balak sends a grander embassy and God comes to Balaam again by night; the Midrash, Numbers Rabbah 20:12, reads the permission as teaching that a person is led along the way he wishes to go, Balaam having pressed to go.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Numbers Rabbah 20:12, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "אִם לִקְרֹא לְךָ בָּאוּ הָאֲנָשִׁים קוּם לֵךְ אִתָּם. מִכָּן אַתּ לָמֵד שֶׁבַּדֶּרֶךְ שֶׁאָדָם רוֹצֶה לֵילֵךְ בָּהּ מוֹלִיכִין אוֹתוֹ, שֶׁמִּתְּחִלָּה נֶאֱמַר לוֹ (במדבר כב, יב): לֹא תֵלֵךְ, כֵּיוָן שֶׁהֵעֵז פָּנָיו לַהֲלֹךְ הָלַךְ",
+     "gloss": "‘If the men are come to call thee, rise up, go with them’: from here you learn that on the way a person wishes to go, he is led; for at first it was said to him (Numbers 22:12) ‘Thou shalt not go’, but once he set his face boldly to go, he went."
+    }
+   }
+  },
+  {
+   "d": 52,
+   "primary": {
+    "id": "tanakh-02-d052-p",
+    "key": "But among these there was not a man of them that were numbered by Moses and Aaron the priest, who numbered the children of Israel in the wilderness of Sinai.",
+    "ref": "Numbers 26:64",
+    "at": [
+     142,
+     64
+    ],
+    "s": "Closing the census on the plains of Moab, the chapter sets it against the count at Sinai; Rashi, on 26:64, reads ‘not a man’ as the spies’ decree passing over the women, who held the land dear, and so the daughters of Zelophehad come next.",
+    "by": "rashi",
+    "by2": "",
+    "hedge": "",
+    "src": "Rashi, Commentary on the Torah, on Numbers 26:64, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+    "basis": {
+     "source": "rashi",
+     "words": "ובאלה לא היה איש וגו'. אֲבָל עַל הַנָּשִׁים לֹא נִגְזְרָה גְזֵרַת הַמְרַגְּלִים, לְפִי שֶׁהֵן הָיוּ מְחַבְּבוֹת אֶת הָאָרֶץ, הָאֲנָשִׁים אוֹמְרִים נִתְּנָה רֹאשׁ וְנָשׁוּבָה מִצְרַיְמָה, וְהַנָּשִׁים אוֹמְרוֹת \"תְּנָה לָּנוּ אֲחֻזָּה\", לְכָךְ נִסְמְכָה פָרָשַׁת בְּנוֹת צְלָפְחָד לְכָאן",
+     "gloss": "But among these there was not a man: but upon the women the decree of the spies was not decreed, because they held the land dear. The men said ‘Let us make a captain and return to Egypt’, and the women said ‘Give unto us a possession’; therefore the section of the daughters of Zelophehad is set next to this."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d052-s",
+    "key": "And thou shalt put of thy honour upon him, that all the congregation of the children of Israel may hearken.",
+    "ref": "Numbers 27:20",
+    "at": [
+     143,
+     20
+    ],
+    "s": "Facing death, Moses asks God for a shepherd and is bidden to lay his hand on Joshua; Rashi, on 27:20, reads the honour as some, not all, of Moses’ radiance, his face as the sun and Joshua’s as the moon, and Sforno, on 27:20, as royal authority given in Moses’ lifetime, so the people grow used to honouring Joshua.",
+    "by": "rashi",
+    "by2": "sforno",
+    "hedge": "",
+    "src": "Rashi and Sforno, on Numbers 27:20, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Sforno’s On Your Way text; Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; sforno",
+     "words": "ונתתה מהודך עליו. זֶה קֵרוּן עוֹר פָּנִים … מהודך. וְלֹא כָּל הוֹדְךָ, וּמָצִינוּ לְמֵדִין פְּנֵי מֹשֶׁה כַּחַמָּה פְּנֵי יְהוֹשֻׁעַ כַּלְּבָנָה … ונתתה מהודך עליו. הוד מלכות תן לו איזה שררה בחייך שיתחילו לנהוג בו כבוד",
+     "gloss": "[Rashi on 27:20:] And thou shalt put of thy honour upon him: this is the shining of the skin of the face … of thy honour: and not all thy honour; so we learn that the face of Moses was as the sun, the face of Joshua as the moon … [Sforno on 27:20:] And thou shalt put of thy honour upon him: the majesty of kingship; give him some authority in your lifetime, so that they begin to treat him with honour."
+    }
+   }
+  },
+  {
+   "d": 53,
+   "primary": {
+    "id": "tanakh-02-d053-p",
+    "key": "Command the children of Israel, and say unto them: My food which is presented unto Me for offerings made by fire, of a sweet savour unto Me, shall ye observe to offer unto Me in its due season.",
+    "ref": "Numbers 28:2",
+    "at": [
+     144,
+     2
+    ],
+    "s": "After Moses asks God for a shepherd over the congregation, the text turns to the appointed offerings; the Midrash, Numbers Rabbah 21:16, reads ‘My food’ as spoken by One who needs no offerings, the whole world being His and every beast offered His creation.",
+    "by": "midrash",
+    "by2": "",
+    "hedge": "",
+    "src": "The Midrash, Numbers Rabbah 21:16, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "midrash",
+     "words": "אֶת קָרְבָּנִי לַחְמִי לְאִשַּׁי (במדבר כח, ב), אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמשֶׁה, אֱמֹר לָהֶם לְיִשְׂרָאֵל לֹא שֶׁאֲנִי צָרִיךְ לְקָרְבָּנוֹת, כָּל הָעוֹלָם כֻּלּוֹ שֶׁלִּי הוּא, הַבְּהֵמָה שֶׁאַתֶּם מַקְרִיבִים אֲנִי בָּרָאתִי אוֹתָהּ, וְכֵן הוּא אוֹמֵר (תהלים נ, יב): אִם אֶרְעַב לֹא אֹמַר לָךְ, אֵין לְפָנַי אֲכִילָה וּשְׁתִיָּה",
+     "gloss": "‘My offering, My food, for My fire-offerings’ (Numbers 28:2): the Holy One, blessed be He, said to Moses: Say to Israel, it is not that I need offerings; the whole world is Mine; the beast that you offer, I created it. And so it says (Psalms 50:12), ‘If I were hungry, I would not tell thee’: there is no eating and drinking before Me."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d053-s",
+    "key": "When a man voweth a vow unto the LORD, or sweareth an oath to bind his soul with a bond, he shall not break his word; he shall do according to all that proceedeth out of his mouth.",
+    "ref": "Numbers 30:3",
+    "at": [
+     146,
+     3
+    ],
+    "s": "Moses gives the heads of the tribes the law of vows, first for a man, then for a woman under a father or husband; Rashi, on 30:3, reads ‘break his word’ as making his word a common thing, and Rashbam, on 30:3, as delaying the vow past the pilgrim festivals, the verb meaning to wait.",
+    "by": "rashi",
+    "by2": "rashbam",
+    "hedge": "",
+    "src": "Rashi and Rashbam, on Numbers 30:3, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Rashbam’s Daat text; Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; rashbam",
+     "words": "לא יחל דברו. כְּמוֹ לֹא יְחַלֵּל דְּבָרוֹ — לֹא יַעֲשֶׂה דְּבָרוֹ חֻלִּין … לאסור אסר - לא יחל דברו - מוסב על הנדר. כלומר, לא יאחר את נדרו עד לאחר הרגלים כמו שציום הקב\"ה שכך פירש: לא יחל כמו: ויחל עד בוש. ויחל עוד שבעת ימים. יחל ישראל אל ה' - ימתין ויחכה לו",
+     "gloss": "[Rashi on 30:3:] He shall not break his word: as ‘he shall not profane his word’; he shall not make his word a common, unhallowed thing … [Rashbam on 30:3:] ‘He shall not break his word’ refers to the vow; that is, he shall not delay his vow until after the pilgrim festivals, as the Holy One commanded them, for so it is to be explained: yaḥel as in ‘and they tarried till they were ashamed’, ‘and he stayed yet other seven days’, ‘let Israel hope in the LORD’: he shall wait and tarry for it."
+    }
+   }
+  },
+  {
+   "d": 55,
+   "primary": {
+    "id": "tanakh-02-d055-p",
+    "key": "These are the stages of the children of Israel, by which they went forth out of the land of Egypt by their hosts under the hand of Moses and Aaron.",
+    "ref": "Numbers 33:1",
+    "at": [
+     149,
+     1
+    ],
+    "s": "With Israel on the plains of Moab, the text names every stage from Egypt to the Jordan; Rashi, on 33:1, reads the list as God’s kindness, only twenty moves in thirty-eight years under the decree, and Sforno, on 33:1, as Israel’s merit in following Him through an unsown land, which made them worthy to enter Canaan.",
+    "by": "rashi",
+    "by2": "sforno",
+    "hedge": "",
+    "src": "Rashi and Sforno, on Numbers 33:1, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Sforno’s On Your Way text; Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; sforno",
+     "words": "לָמָּה נִכְתְּבוּ הַמַּסָּעוֹת הַלָּלוּ? לְהוֹדִיעַ חֲסָדָיו שֶׁל מָקוֹם, שֶׁאַעַ\"פִּ שֶׁגָּזַר עֲלֵיהֶם לְטַלְטְלַם וְלַהֲנִיעָם בַּמִּדְבָּר, לֹא תֹאמַר שֶׁהָיוּ נָעִים וּמְטֻלְטָלִים מִמַּסָּע לְמַסָּע כָּל אַרְבָּעִים שָׁנָה וְלֹא הָיְתָה לָהֶם מְנוּחָה … נִמְצָא שֶׁכָּל שְׁמוֹנֶה וּשְׁלֹשִׁים שָׁנָה לֹא נָסְעוּ אֶלָּא עֶשְׂרִים מַסָּעוֹת … אלה מסעי. רצה האל יתברך שיכתבו מסעי ישראל להודיע זכותם בלכתם אחריו במדבר בארץ לא זרועה באופן שהיו ראוים להכנס לארץ",
+     "gloss": "[Rashi on 33:1:] Why were these journeys written? To make known the kindnesses of the Omnipresent: although He decreed that they be moved about and made to wander in the wilderness, do not say that they were wandering and moved from stage to stage all forty years with no rest … so it turns out that in all thirty-eight years they made only twenty journeys … [Sforno on 33:1:] These are the stages: God, blessed be He, wished the journeys of Israel to be written to make known their merit in going after Him in the wilderness, in a land not sown, so that they were worthy to enter the land."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d055-s",
+    "key": "And thou shalt not defile the land which ye inhabit, in the midst of which I dwell; for I the LORD dwell in the midst of the children of Israel.",
+    "ref": "Numbers 35:34",
+    "at": [
+     151,
+     34
+    ],
+    "s": "Closing the laws of the cities of refuge, God warns that blood shed in the land pollutes it; Ibn Ezra, on 35:34, reads God’s dwelling there as for the honour of Israel, not of the land, which is why the verse ends by naming Israel.",
+    "by": "ibn-ezra",
+    "by2": "",
+    "hedge": "",
+    "src": "Ibn Ezra, Commentary on the Torah, on Numbers 35:34, the Hebrew (On Your Way text) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ibn-ezra",
+     "words": "ולא תטמא. החנופה את הארץ או הוא ציווי בעבור כי אני שוכן בתוכם ולא לכבוד הארץ רק לכבוד בני ישראל על כן אמר שוכן בתוך בני ישראל",
+     "gloss": "And thou shalt not defile: the pollution [shall not defile] the land; or it is a command, because I dwell in their midst, and not for the honour of the land but only for the honour of the children of Israel; therefore it says ‘dwell in the midst of the children of Israel’."
+    }
+   }
+  },
+  {
+   "d": 56,
+   "primary": {
+    "id": "tanakh-02-d056-p",
+    "key": "THESE ARE the words which Moses spoke unto all Israel beyond the Jordan; in the wilderness, in the Arabah, over against Suph, between Paran and Tophel, and Laban, and Hazeroth, and Di-zahab.",
+    "ref": "Deuteronomy 1:1",
+    "at": [
+     153,
+     1
+    ],
+    "s": "With Numbers closed on the plains of Moab, Deuteronomy opens on Moses’ last words to the people; Rashi, on 1:1, reads the names as rebukes recalling where Israel provoked God, only hinted at for Israel’s honour, and Ibn Ezra, on 1:1, as real places, absent from the earlier list of stages or named otherwise.",
+    "by": "rashi",
+    "by2": "ibn-ezra",
+    "hedge": "",
+    "src": "Rashi and Ibn Ezra, on Deuteronomy 1:1, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Ibn Ezra’s On Your Way text; Sefaria export 3f10136 (2026)",
+    "basis": {
+     "source": "rashi; ibn-ezra",
+     "words": "אלה הדברים. לְפִי שֶׁהֵן דִּבְרֵי תוֹכָחוֹת וּמָנָה כָאן כָּל הַמְּקוֹמוֹת שֶׁהִכְעִיסוּ לִפְנֵי הַמָּקוֹם בָּהֶן, לְפִיכָךְ סָתַם אֶת הַדְּבָרִים וְהִזְכִּירָם בְּרֶמֶז מִפְּנֵי כְבוֹדָן שֶׁל יִשְׂרָאֵל … בין פארן ובין תופל ולבן וחצרות ודי זהב. מקומות לא נזכרו בפ' אלה מסעי או נזכרו בשמות אחרים כי הנה שניר יש לו ג' שמות ורבים כן",
+     "gloss": "[Rashi on Deuteronomy 1:1:] These are the words: because they are words of rebuke, and he enumerated here all the places in which they provoked the Omnipresent, therefore he left the matters unspoken and mentioned them by allusion, out of regard for the honour of Israel … [Ibn Ezra on Deuteronomy 1:1:] Between Paran and Tophel, and Laban, and Hazeroth, and Di-zahab: places not mentioned in the section ‘These are the stages’, or mentioned under other names, for Senir has three names, and many are so."
+    }
+   },
+   "standby": {
+    "id": "tanakh-02-d056-s",
+    "key": "Ye shall not respect persons in judgment; ye shall hear the small and the great alike; ye shall not be afraid of the face of any man; for the judgment is God’s; and the cause that is too hard for you ye shall bring unto me, and I will hear it.",
+    "ref": "Deuteronomy 1:17",
+    "at": [
+     153,
+     17
+    ],
+    "s": "Moses recalls the judges he appointed to share his burden and his charge to them; Ramban, on 1:17, reads justice as God’s own work among His creatures, given to judges in His stead, so a judge who fears and does wrong betrays His mission.",
+    "by": "ramban",
+    "by2": "",
+    "hedge": "",
+    "src": "Ramban, Commentary on the Torah, on Deuteronomy 1:17, the Hebrew (On Your Way New text) in Sefaria’s export, commit 3f10136 (2026)",
+    "basis": {
+     "source": "ramban",
+     "words": "וטעם כי המשפט לאלהים הוא כטעם כי לא לאדם תשפטו כי לה' ועמכם בדבר משפט (דהי\"ב יט ו) לומר כי לאלהים לעשות משפט בין יצוריו כי על כן בראם להיות ביניהם יושר וצדק ולהציל גזול מיד עושקו ונתן אתכם במקומו ואם תגורו ותעשו חמס הנה חטאתם לה' כי מעלתם בשליחותו",
+     "gloss": "The meaning of ‘for the judgment is God’s’ is as in ‘for ye judge not for man, but for the LORD, and He is with you in giving judgment’ (2 Chronicles 19:6): that it is God’s to do justice among His creatures, for He created them so that there be uprightness and righteousness among them, and to rescue the robbed from the hand of his oppressor, and He set you in His place; and if you fear and do violence, you have sinned against the LORD, for you have betrayed His mission."
+    }
+   }
+  }
+ ]
+}

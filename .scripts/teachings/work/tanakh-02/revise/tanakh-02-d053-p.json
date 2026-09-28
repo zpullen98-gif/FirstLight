@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d053-p",
+ "d": 53,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "Command the children of Israel, and say unto them: My food which is presented unto Me for offerings made by fire, of a sweet savour unto Me, shall ye observe to offer unto Me in its due season.",
+ "ref": "Numbers 28:2",
+ "at": [
+  144,
+  2
+ ],
+ "s": "Opening a calendar of offerings for day, sabbath, new moon and feast, the LORD charges Moses; the Midrash, Numbers Rabbah 21:16, reads ‘My food’ as spoken by One who needs no offerings, the whole world being His and every beast offered His creation.",
+ "by": "midrash",
+ "by2": "",
+ "hedge": "",
+ "src": "The Midrash, Numbers Rabbah 21:16, the Torat Emet Hebrew text in Sefaria’s export, commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Bamidbar%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Bamidbar Rabbah, Hebrew, Midrash Rabbah (Torat Emet), Sefaria export 3f10136",
+    "locator": "Numbers Rabbah 21:16, on Numbers 28:2",
+    "via": "packet"
+   }
+  ],
+  "words": "אֶת קָרְבָּנִי לַחְמִי לְאִשַּׁי (במדבר כח, ב), אָמַר לוֹ הַקָּדוֹשׁ בָּרוּךְ הוּא לְמשֶׁה, אֱמֹר לָהֶם לְיִשְׂרָאֵל לֹא שֶׁאֲנִי צָרִיךְ לְקָרְבָּנוֹת, כָּל הָעוֹלָם כֻּלּוֹ שֶׁלִּי הוּא, הַבְּהֵמָה שֶׁאַתֶּם מַקְרִיבִים אֲנִי בָּרָאתִי אוֹתָהּ, וְכֵן הוּא אוֹמֵר (תהלים נ, יב): אִם אֶרְעַב לֹא אֹמַר לָךְ, אֵין לְפָנַי אֲכִילָה וּשְׁתִיָּה",
+  "lang": "Hebrew",
+  "gloss": "‘My offering, My food, for My fire-offerings’ (Numbers 28:2): the Holy One, blessed be He, said to Moses: Say to Israel, it is not that I need offerings; the whole world is Mine; the beast that you offer, I created it. And so it says (Psalms 50:12), ‘If I were hungry, I would not tell thee’: there is no eating and drinking before Me.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Problem holds: day 53 is Numbers 28 to 30 (day.js), so Moses’s request for a shepherd (27:15 to 17) lies in day 52 and the link to 28:2 is Rashi’s and Numbers Rabbah 21:2’s, not the text’s. New context clause taken from the day itself: 28:1 the LORD speaks to Moses, and chapters 28 to 29 set the offerings for each day (28:3), sabbath (28:9), new moon (28:11) and the feasts (28:16 onward, 29:1 onward); it repeats no four words of the key. Reading unchanged and re-found in packet.js tanakh 53 --verse 28:2: Numbers Rabbah 21:16, לא שאני צריך לקרבנות כל העולם כולו שלי הוא הבהמה שאתם מקריבים אני בראתי אותה. verse.js ok (Numbers 28:2, [144,2]); entry-check ok, 43 words."
+}

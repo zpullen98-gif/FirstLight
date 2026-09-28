@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d046-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi on 9:7 (lemma למה נגרע) via packet.js tanakh 46 --verse 9:7; the evidence words are there verbatim and close the comment: the section was fit to be said through Moses like all the Torah, but these men merited that it be said through them, since merit is brought about through the meritorious (Rashi draws it from Sifrei, which is still his printed comment). The sentence carries that without adding to it; saying the plea brings the law is the lemma’s own setting. The plain sense matches 9:6 (men unclean by a dead body at the passover come before Moses and Aaron) and repeats no four words of the key. verse.js ok (Numbers 9:7, at [125,7]); entry-check ok, 45 words, at the cap. No school, comparison or tone issue.",
+ "better": ""
+}

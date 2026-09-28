@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d059-p",
+ "d": 59,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "And thou shalt eat and be satisfied, and bless the LORD thy God for the good land which He hath given thee.",
+ "ref": "Deuteronomy 8:10",
+ "at": [
+  160,
+  10
+ ],
+ "s": "Promising a land of wheat, vines and olives, Moses turns to eating there; Ramban, on 8:10, reads it with the rabbis as a commandment to bless God whenever one eats one’s fill, for food and for the land, and so binding in every place.",
+ "by": "ramban",
+ "by2": "",
+ "hedge": "",
+ "src": "Ramban, Commentary on the Torah, on Deuteronomy 8:10, Hebrew (On Your Way new), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Deuteronomy/Hebrew/On%20Your%20Way%20new.json",
+    "edition": "Ramban on Deuteronomy, Hebrew (On Your Way new), Sefaria export 3f10136",
+    "locator": "Deuteronomy 8:10",
+    "via": "packet"
+   }
+  ],
+  "words": "ורבותינו (ברכות מח) קבלו שזו מצות עשה וטעמו ותברך את ה' אלהיך וכן ועשית מעקה לגגך (דברים כ״ב:ח׳) וכן ועשית פסח לה' אלהיך (דברים ט״ז:א׳) ולקחת מראשית כל פרי האדמה (דברים כ״ו:ב׳) ורבים כן וטעם על הארץ הטובה כמו ועל הארץ הטובה יצוה שתברכהו בכל עת שתשבע על השובע ועל הארץ שנתן לך שינחילנה לך לעולמים ותשבע מטובה והנה חיוב המצוה הזאת בכל מקום",
+  "lang": "Hebrew",
+  "gloss": "[Ramban on 8:10:] Our rabbis (Berakhot 48) received that this is a positive commandment, its sense being ‘and you shall bless the LORD your God’, like the parapet, the Passover and the first fruits, and many such. ‘For the good land’ means ‘and for the good land’: He commands that you bless Him whenever you are satisfied, for the satiety and for the land He gave you as an everlasting inheritance; so the duty of this commandment holds in every place.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref and at match). Plain sense faithful: 8:7 to 9 describe the land of wheat, vines and olives and bread without scarceness, and 8:10 speaks of eating there. Ramban on 8:10 cites the rabbis (Berakhot 48) that this is a positive commandment, reads ‘for the good land’ as a second object, a blessing whenever one is satisfied, for the satiety and for the land, and concludes (והנה) that the duty holds in every place. The sentence carries this without Chavel’s bracketed additions. entry-check ok."
+}

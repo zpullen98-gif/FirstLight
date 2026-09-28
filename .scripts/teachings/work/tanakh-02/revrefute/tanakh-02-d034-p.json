@@ -1,0 +1,8 @@
+{
+ "id": "tanakh-02-d034-p",
+ "refuted": false,
+ "reopened": {"url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashbam/Torah/Rashbam%20on%20Leviticus/Hebrew/Rashbam%20on%20Leviticus%20-%20Daat.json", "found": true},
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 34 --verse 10.3 (Rashi R&S Hebrew and Rashbam Daat Hebrew). Rashi on הוא אשר דבר וגו' has the words verbatim: Moses thought the House would be hallowed through himself or Aaron and now sees the sons greater than both (Rashi's own comment, citing Sifra/Leviticus Rabbah, so his reading, which Ramban also calls לשון רש\"י). Rashbam on ויאמר משה אל אהרן has 'do not mourn, do not weep, do not cease from the service' verbatim, and he explicitly rejects that aggadah as not the plain sense, so the two genuinely differ and the sentence names both without resolving. Context (strange fire, fire from the LORD consumes Nadab and Abihu, 10:1 to 2) matches day.js and is stated plainly. Evidence pieces split on the ellipsis, each contiguous in its own source. verse.js ok (Leviticus 10:3, at [99,3]); entry-check ok.",
+ "better": ""
+}

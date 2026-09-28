@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d035-p",
+ "d": 35,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "All the days wherein the plague is in him he shall be unclean; he is unclean; he shall dwell alone; without the camp shall his dwelling be.",
+ "ref": "Leviticus 13:46",
+ "at": [
+  102,
+  46
+ ],
+ "s": "The law of the skin plague turns to the one declared unclean; Rashi, on 13:46, with the rabbis, explains why he alone of the unclean dwells apart: having parted husband from wife and friend from friend by slander, he too is parted.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Leviticus 13:46, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Leviticus/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+    "edition": "Rashi on Leviticus, Hebrew, Rosenbaum and Silbermann (1929 to 1934), Sefaria export 3f10136",
+    "locator": "Leviticus 13:46, on בדד ישב",
+    "via": "packet"
+   }
+  ],
+  "words": "בדד ישב. שֶׁלֹּא יִהְיוּ טְמֵאִים יוֹשְׁבִין עִמּוֹ; וְאָמְרוּ רַבּוֹתֵינוּ מַה נִּשְׁתַּנָּה מִשְּׁאָר טְמֵאִים לֵישֵׁב בָּדָד? הוֹאִיל וְהוּא הִבְדִּיל בְּלָשׁוֹן הָרָע בֵּין אִישׁ לְאִשְׁתּוֹ וּבֵין אִישׁ לְרֵעֵהוּ, אַף הוּא יִבָּדֵל",
+  "lang": "Hebrew",
+  "gloss": "(Rashi on 13:46, ‘he shall dwell alone’) That other unclean persons shall not dwell with him. And our rabbis said: how does he differ from other unclean persons, that he must dwell alone? Since he, by evil speech, made a separation between a man and his wife and between a man and his fellow, he too shall be separated.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "exclusion",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Leviticus 13:46 and at [102,46] match). Plain sense faithful: after the inspections, 13:45 to 13:46 turn to the leper pronounced unclean (rent clothes, cry of unclean, dwelling apart outside the camp); the exclusion itself is stated plainly by the key verse and the context clause does not soften it. Opened the whole 13:46 packet (Rashi; Ibn Ezra, a lexical note only; Ramban, Rashbam and Sforno silent; Leviticus Rabbah 16:3 and the pointer to 18:5). Rashi on 13:46, lemma בדד ישב, says other unclean persons may not dwell with him and reports our rabbis (Arakhin 16b): why he alone of the unclean dwells apart is that he parted man from wife and man from fellow by evil speech, so he too is parted. The sentence gives this, attributing it to Rashi with the rabbis, without drift. Evidence machine-matched against the packet. entry-check ok."
+}

@@ -1,0 +1,686 @@
+{
+ "plan": "tanakh",
+ "batch": "tanakh-02",
+ "dry": false,
+ "div": "2469cf544a",
+ "root": "C:/Users/zpull/FirstLight",
+ "days": [
+  {
+   "d": 31,
+   "label": "Exodus 40 to Leviticus 3",
+   "id": {
+    "primary": "tanakh-02-d031-p",
+    "standby": "tanakh-02-d031-s"
+   }
+  },
+  {
+   "d": 32,
+   "label": "Leviticus 4 to 5",
+   "id": {
+    "primary": "tanakh-02-d032-p",
+    "standby": "tanakh-02-d032-s"
+   }
+  },
+  {
+   "d": 33,
+   "label": "Leviticus 6 to 8",
+   "id": {
+    "primary": "tanakh-02-d033-p",
+    "standby": "tanakh-02-d033-s"
+   }
+  },
+  {
+   "d": 34,
+   "label": "Leviticus 9 to 11",
+   "id": {
+    "primary": "tanakh-02-d034-p",
+    "standby": "tanakh-02-d034-s"
+   }
+  },
+  {
+   "d": 35,
+   "label": "Leviticus 12 to 13",
+   "id": {
+    "primary": "tanakh-02-d035-p",
+    "standby": "tanakh-02-d035-s"
+   }
+  },
+  {
+   "d": 36,
+   "label": "Leviticus 14 to 15",
+   "id": {
+    "primary": "tanakh-02-d036-p",
+    "standby": "tanakh-02-d036-s"
+   }
+  },
+  {
+   "d": 37,
+   "label": "Leviticus 16 to 18",
+   "id": {
+    "primary": "tanakh-02-d037-p",
+    "standby": "tanakh-02-d037-s"
+   }
+  },
+  {
+   "d": 38,
+   "label": "Leviticus 19 to 21",
+   "id": {
+    "primary": "tanakh-02-d038-p",
+    "standby": "tanakh-02-d038-s"
+   }
+  },
+  {
+   "d": 39,
+   "label": "Leviticus 22 to 23",
+   "id": {
+    "primary": "tanakh-02-d039-p",
+    "standby": "tanakh-02-d039-s"
+   }
+  },
+  {
+   "d": 40,
+   "label": "Leviticus 24 to 25",
+   "id": {
+    "primary": "tanakh-02-d040-p",
+    "standby": "tanakh-02-d040-s"
+   }
+  },
+  {
+   "d": 41,
+   "label": "Leviticus 26 to 27",
+   "id": {
+    "primary": "tanakh-02-d041-p",
+    "standby": "tanakh-02-d041-s"
+   }
+  },
+  {
+   "d": 42,
+   "label": "Numbers 1 to 2",
+   "id": {
+    "primary": "tanakh-02-d042-p",
+    "standby": "tanakh-02-d042-s"
+   }
+  },
+  {
+   "d": 43,
+   "label": "Numbers 3 to 4",
+   "id": {
+    "primary": "tanakh-02-d043-p",
+    "standby": "tanakh-02-d043-s"
+   }
+  },
+  {
+   "d": 44,
+   "label": "Numbers 5 to 6",
+   "id": {
+    "primary": "tanakh-02-d044-p",
+    "standby": "tanakh-02-d044-s"
+   }
+  },
+  {
+   "d": 45,
+   "label": "Numbers 7 to 8",
+   "id": {
+    "primary": "tanakh-02-d045-p",
+    "standby": "tanakh-02-d045-s"
+   }
+  },
+  {
+   "d": 46,
+   "label": "Numbers 9 to 11",
+   "id": {
+    "primary": "tanakh-02-d046-p",
+    "standby": "tanakh-02-d046-s"
+   }
+  },
+  {
+   "d": 47,
+   "label": "Numbers 12 to 14",
+   "id": {
+    "primary": "tanakh-02-d047-p",
+    "standby": "tanakh-02-d047-s"
+   }
+  },
+  {
+   "d": 48,
+   "label": "Numbers 15 to 16",
+   "id": {
+    "primary": "tanakh-02-d048-p",
+    "standby": "tanakh-02-d048-s"
+   }
+  },
+  {
+   "d": 49,
+   "label": "Numbers 17 to 18",
+   "id": {
+    "primary": "tanakh-02-d049-p",
+    "standby": "tanakh-02-d049-s"
+   }
+  },
+  {
+   "d": 50,
+   "label": "Numbers 19 to 21",
+   "id": {
+    "primary": "tanakh-02-d050-p",
+    "standby": "tanakh-02-d050-s"
+   }
+  },
+  {
+   "d": 51,
+   "label": "Numbers 22 to 24",
+   "id": {
+    "primary": "tanakh-02-d051-p",
+    "standby": "tanakh-02-d051-s"
+   }
+  },
+  {
+   "d": 52,
+   "label": "Numbers 25 to 27",
+   "id": {
+    "primary": "tanakh-02-d052-p",
+    "standby": "tanakh-02-d052-s"
+   }
+  },
+  {
+   "d": 53,
+   "label": "Numbers 28 to 30",
+   "id": {
+    "primary": "tanakh-02-d053-p",
+    "standby": "tanakh-02-d053-s"
+   }
+  },
+  {
+   "d": 54,
+   "label": "Numbers 31 to 32",
+   "id": {
+    "primary": "tanakh-02-d054-p",
+    "standby": "tanakh-02-d054-s"
+   }
+  },
+  {
+   "d": 55,
+   "label": "Numbers 33 to 35",
+   "id": {
+    "primary": "tanakh-02-d055-p",
+    "standby": "tanakh-02-d055-s"
+   }
+  },
+  {
+   "d": 56,
+   "label": "Numbers 36 to Deuteronomy 2",
+   "id": {
+    "primary": "tanakh-02-d056-p",
+    "standby": "tanakh-02-d056-s"
+   }
+  },
+  {
+   "d": 57,
+   "label": "Deuteronomy 3 to 4",
+   "id": {
+    "primary": "tanakh-02-d057-p",
+    "standby": "tanakh-02-d057-s"
+   }
+  },
+  {
+   "d": 58,
+   "label": "Deuteronomy 5 to 7",
+   "id": {
+    "primary": "tanakh-02-d058-p",
+    "standby": "tanakh-02-d058-s"
+   }
+  },
+  {
+   "d": 59,
+   "label": "Deuteronomy 8 to 10",
+   "id": {
+    "primary": "tanakh-02-d059-p",
+    "standby": "tanakh-02-d059-s"
+   }
+  },
+  {
+   "d": 60,
+   "label": "Deuteronomy 11 to 13",
+   "id": {
+    "primary": "tanakh-02-d060-p",
+    "standby": "tanakh-02-d060-s"
+   }
+  }
+ ],
+ "lanes": [
+  {
+   "key": "L1",
+   "days": [
+    31,
+    32,
+    33,
+    34,
+    35
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L2",
+   "days": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L3",
+   "days": [
+    41,
+    42,
+    43,
+    44,
+    45
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L4",
+   "days": [
+    46,
+    47,
+    48,
+    49,
+    50
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L5",
+   "days": [
+    51,
+    52,
+    53,
+    55,
+    56
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "L6",
+   "days": [
+    57,
+    59,
+    60
+   ],
+   "sensitive": false
+  },
+  {
+   "key": "S1",
+   "days": [
+    54,
+    58
+   ],
+   "sensitive": true
+  }
+ ],
+ "sensitive": [
+  54,
+  58
+ ],
+ "rules": [
+  "1. FORM. One sentence: <plain sense>; <Commentator>, <place>, reads it as <reading>. Exactly one semicolon and one full stop, at the end. Aim for 35 to 45 words; at most 45, or 60 when two commentators are named (then: ...; A (school), place, reads it as X, and B (school), place, as Y.). The owner set this length: a reader meets it at six in the morning. The verb after the commentator is one of: reads, takes, hears, explains, understands. Never: shows, proves, reveals, the true meaning, actually.",
+  "2. PLAIN SENSE (before the semicolon). A short clause of CONTEXT, because the key verse is printed just above the sentence: where the verse stands in the day’s passage and what the passage around it is doing (who speaks, to whom, what the chapter is about, what comes before or after), in the passage’s own terms. It NEVER repeats the key verse’s own words (the gate fails four words in a row taken from the verse) and never paraphrases it line by line. Forms that work: \"Closing a chapter on the sage’s humility, the verse ...\"; \"In a chapter of contrasts between the multitude and the speaker, ...\"; \"Krishna, answering Arjuna’s doubt about action, ...\". Present tense. No doctrine, no application, no evaluation, no dating, no authorship claim (\"the chapter\", \"the text\", \"the Master says\"; never \"Laozi wrote\" or \"Muhammad writes\"). It never names the commentator.",
+  "3. THE READING (after the semicolon). One commentator from this plan’s roster (two only where they genuinely differ, and then name the difference without resolving it), opening the second half with his display name exactly as the roster gives it, then the place in the commentary (chapter, verse, book and section, page), then a paraphrase that the evidence supports and does not go beyond. No quotation from the commentator in the sentence. At most three words of the key verse may be quoted, in curly quotes.",
+  "4. NEVER ANOTHER TRADITION. No comparison, no ranking, no \"unlike\", \"fulfils\", \"anticipates\", \"all faiths\", \"superior\". Name other groups only as the day’s text itself names them.",
+  "5. DISAGREEMENT IS NAMED, NOT RESOLVED. No \"rightly\", \"better\", \"more accurately\", \"correctly\", \"mistaken\".",
+  "6. HARD PASSAGES (war, killing, punishment, exclusion, law, sexuality). The plain sense states it in one plain clause: no softening, no pleading for context, no graphic detail, no polemic. The reading gives the commentator’s reading, including any limit he sets, attributed to him.",
+  "7. HOUSE STYLE. British spelling (honour, colour, realise, judgement). Curly quotes and apostrophes only. No em dash, no en dash, no double hyphen, anywhere. No question or exclamation mark in the sentence. No you, your, we, our, us. No honorifics (Saint, St., Sri, pbuh and its signs, the Venerable, Lord Krishna). Names exactly as the roster spells them. The divine name as the key verse’s translation prints it when quoting; otherwise \"God\" or \"the LORD\" as the translation has it; never spell out the four-letter Hebrew name.",
+  "8. THE KEY VERSE. Copied from `day.js`, verbatim, inside ONE unit (one verse, one ayah, one of Legge’s numbered sections, one paragraph); one to three whole sentences, beginning where a sentence begins and ending in . ? or !; 4 to 60 words; no dash of any kind (choose another verse, or stop before it); only these changes: straight quotes to curly, wrapped lines joined. Everything else stays exactly as printed, parentheses and capitals included. Never from a note, an argument, a commentary, a chant or a colophon (`day.js` marks them NOT CITABLE). Run `verse.js` on every key: it must print \"ok\": true, and its ref and at are copied into the proposal unchanged.",
+  "9. THE SOURCE LINE (src). The commentator’s display name first, then the work and the place, then the edition actually read and its year: for example \"Wang Bi, Laozi zhu, chapter 8, zh.wikisource (the Huating Zhang edition), revision 2354026 (2024)\". When the reading is found only through a conduit (Legge’s notes and the like), the form is \"<name>, as given in <conduit>, <place>\" and the entry carries hedge: <conduit id>. At most 160 characters. No dash.",
+  "10. THE STANDARD. A confident false attribution is worse than naming a different commentator. A reading not found in a source you opened does not ship. When in doubt, choose the reading you can show in the commentator’s own words."
+ ],
+ "voice": "The Tanakh is read in the Jewish Publication Society translation (1917). The reading is from the Jewish commentators alone; the plan carries no Christian vocabulary of any kind. The context clause says where the verse stands (who speaks, to whom, at what point in the story, the law or the psalm). Rashi is the default; Ibn Ezra, Radak, Ramban, Rashbam, Sforno or Metzudat David where his comment on the chosen verse is fuller or differs, and the Midrash Rabbah named by collection and section. Where two of them differ, name both (rule 5). The Hebrew is the commentator’s own words: read it, and name the English version only when you quote it. Packets are per chapter and a Torah day is too long to read whole: packet.js <day> --verse <chapter:verse> for one verse.",
+ "roster": {
+  "commentators": [
+   {
+    "id": "rashi",
+    "name": "Rashi",
+    "alsoName": "",
+    "school": "",
+    "dates": "1040 to 1105",
+    "work": "Commentary on the Torah, Prophets and Writings",
+    "lang": "Hebrew",
+    "coverage": [
+     "Genesis",
+     "Exodus",
+     "Leviticus",
+     "Numbers",
+     "Deuteronomy",
+     "Joshua",
+     "Judges",
+     "1 Samuel",
+     "2 Samuel",
+     "1 Kings",
+     "2 Kings",
+     "Isaiah",
+     "Jeremiah",
+     "Ezekiel",
+     "Hosea",
+     "Joel",
+     "Amos",
+     "Obadiah",
+     "Jonah",
+     "Micah",
+     "Nahum",
+     "Habakkuk",
+     "Zephaniah",
+     "Haggai",
+     "Zechariah",
+     "Malachi",
+     "Psalm",
+     "Proverbs",
+     "Job",
+     "Song of Songs",
+     "Ruth",
+     "Lamentations",
+     "Ecclesiastes",
+     "Esther",
+     "Daniel",
+     "Ezra",
+     "Nehemiah"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the Torah in Hebrew with Rosenbaum and Silbermann (1929 to 1934, public domain); Joshua to 2 Kings and the Megillot with the Metsudah English (CC-BY); the rest with the Judaica Press English, A. J. Rosenberg (CC-BY)"
+    ],
+    "traps": [
+     "The commentary on Chronicles printed under his name is not his: not covered (the packet holds it as an empty source that says why).",
+     "On Job his commentary stops at 40:20; what follows under his name is not his (the editor’s note says so): nothing after Job 40:20 is Rashi.",
+     "For Ezra and Nehemiah check Sefaria’s notes on the attribution.",
+     "Hebrew is the primary evidence; name the English version quoted."
+    ]
+   },
+   {
+    "id": "ibn-ezra",
+    "name": "Ibn Ezra",
+    "alsoName": "",
+    "school": "",
+    "dates": "1089 to 1167",
+    "work": "Commentaries on the Torah and the Prophets and Writings",
+    "lang": "Hebrew",
+    "coverage": [
+     "Genesis",
+     "Exodus",
+     "Leviticus",
+     "Numbers",
+     "Deuteronomy",
+     "Isaiah",
+     "Hosea",
+     "Joel",
+     "Amos",
+     "Obadiah",
+     "Jonah",
+     "Micah",
+     "Nahum",
+     "Habakkuk",
+     "Zephaniah",
+     "Haggai",
+     "Zechariah",
+     "Malachi",
+     "Psalm",
+     "Job",
+     "Song of Songs",
+     "Ruth",
+     "Lamentations",
+     "Ecclesiastes",
+     "Esther",
+     "Daniel"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the Torah in Hebrew with Strickman and Silver’s English (CC-BY-NC: evidence only, at most 40 words); Isaiah with Friedlander (1873 to 1877, public domain); the Twelve, Psalms, Job, Daniel and the Megillot in Hebrew only (read it and gloss it yourself)"
+    ],
+    "traps": [
+     "The Proverbs commentary under his name is disputed: not covered; nor Ezra or Nehemiah.",
+     "On Exodus the packet gives his long commentary: say so if the short one differs.",
+     "On the Song of Songs he gives three readings, marked (first reading), (second reading), (third reading): name which."
+    ]
+   },
+   {
+    "id": "radak",
+    "name": "Radak",
+    "alsoName": "",
+    "school": "",
+    "dates": "David Kimhi, 1160 to 1235",
+    "work": "Commentaries on Genesis, the Prophets, Psalms and Chronicles",
+    "lang": "Hebrew",
+    "coverage": [
+     "Genesis",
+     "Joshua",
+     "Judges",
+     "1 Samuel",
+     "2 Samuel",
+     "1 Kings",
+     "2 Kings",
+     "Isaiah",
+     "Jeremiah",
+     "Ezekiel",
+     "Hosea",
+     "Joel",
+     "Amos",
+     "Obadiah",
+     "Jonah",
+     "Micah",
+     "Nahum",
+     "Habakkuk",
+     "Zephaniah",
+     "Haggai",
+     "Zechariah",
+     "Malachi",
+     "Psalm",
+     "1 Chronicles",
+     "2 Chronicles"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: Genesis with Munk’s English (CC-BY); the Prophets in Hebrew only; Chronicles with Berger’s English (CC-BY-NC: evidence only, at most 40 words); Psalms in Hebrew, with Finch’s English (1919, public domain) on Psalms 1 to 10, 15 to 17, 19, 22 and 24 only"
+    ],
+    "traps": []
+   },
+   {
+    "id": "ramban",
+    "name": "Ramban",
+    "alsoName": "",
+    "school": "",
+    "dates": "Nahmanides, 1194 to 1270",
+    "work": "Commentary on the Torah",
+    "lang": "Hebrew",
+    "coverage": [
+     "Genesis",
+     "Exodus",
+     "Leviticus",
+     "Numbers",
+     "Deuteronomy"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: Hebrew with Chavel’s English"
+    ],
+    "traps": []
+   },
+   {
+    "id": "rashbam",
+    "name": "Rashbam",
+    "alsoName": "",
+    "school": "",
+    "dates": "about 1085 to 1158",
+    "work": "Commentary on the Torah",
+    "lang": "Hebrew",
+    "coverage": [
+     "Genesis",
+     "Exodus",
+     "Leviticus",
+     "Numbers",
+     "Deuteronomy"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: Hebrew with Munk’s English (CC-BY)"
+    ],
+    "traps": [
+     "His commentary on the opening chapters of Genesis survives only in part."
+    ]
+   },
+   {
+    "id": "sforno",
+    "name": "Sforno",
+    "alsoName": "",
+    "school": "",
+    "dates": "about 1475 to 1550",
+    "work": "Commentaries on the Torah and the Song of Songs",
+    "lang": "Hebrew",
+    "coverage": [
+     "Genesis",
+     "Exodus",
+     "Leviticus",
+     "Numbers",
+     "Deuteronomy",
+     "Song of Songs"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the Torah with Munk’s English (CC-BY); the Song of Songs in Hebrew only"
+    ],
+    "traps": [
+     "Sefaria holds nothing else of his (no Psalms, Job, Ecclesiastes, Jonah, Habakkuk or Zechariah): not covered."
+    ]
+   },
+   {
+    "id": "metzudat-david",
+    "name": "Metzudat David",
+    "alsoName": "",
+    "school": "",
+    "dates": "David Altschuler, eighteenth century",
+    "work": "Commentary on the Prophets and Writings",
+    "lang": "Hebrew",
+    "coverage": [
+     "Joshua",
+     "Judges",
+     "1 Samuel",
+     "2 Samuel",
+     "1 Kings",
+     "2 Kings",
+     "Isaiah",
+     "Jeremiah",
+     "Ezekiel",
+     "Hosea",
+     "Joel",
+     "Amos",
+     "Obadiah",
+     "Jonah",
+     "Micah",
+     "Nahum",
+     "Habakkuk",
+     "Zephaniah",
+     "Haggai",
+     "Zechariah",
+     "Malachi",
+     "Psalm",
+     "Proverbs",
+     "Job",
+     "Song of Songs",
+     "Ecclesiastes",
+     "Daniel",
+     "Ezra",
+     "Nehemiah",
+     "1 Chronicles",
+     "2 Chronicles"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet, Hebrew only: read it and gloss it yourself"
+    ],
+    "traps": [
+     "None on Ruth, Lamentations or Esther."
+    ]
+   },
+   {
+    "id": "midrash",
+    "name": "the Midrash",
+    "alsoName": "The Midrash",
+    "school": "",
+    "dates": "late antiquity to the Middle Ages",
+    "work": "the Midrash Rabbah, named by collection and section",
+    "lang": "Hebrew and Aramaic",
+    "coverage": [
+     "Genesis",
+     "Exodus",
+     "Leviticus",
+     "Numbers",
+     "Deuteronomy",
+     "Song of Songs",
+     "Ruth",
+     "Lamentations",
+     "Ecclesiastes",
+     "Esther"
+    ],
+    "sources": [
+     "Sefaria’s export, pinned (sources/tanakh-lock.json), in the packet: the ten Rabbot in Hebrew (Torat Emet) with The Sefaria Midrash Rabbah (2022, CC-BY), placed on a chapter by Sefaria’s own links"
+    ],
+    "traps": [
+     "Name the collection and its section as the packet gives it (‘Genesis Rabbah 56:4’), never ‘the rabbis say’.",
+     "Only the ten Rabbot are in the packets; Midrash Tehillim, the Mekhilta, Sifra and Sifre are not on the roster.",
+     "A paragraph printed on a run of verses is one comment on the run; a (see ...) line points to where it is printed."
+    ]
+   }
+  ],
+  "conduits": []
+ },
+ "forbid": [
+  "Christ",
+  "Christian",
+  "church",
+  "Church",
+  "Old Testament",
+  "New Testament",
+  "Jesus",
+  "gospel",
+  "Gospel",
+  "Trinity",
+  "fulfil",
+  "fulfils",
+  "fulfilled",
+  "foreshadow",
+  "foreshadows",
+  "prefigure",
+  "prefigures",
+  "Messianic prophecy"
+ ],
+ "watch": [
+  "Messiah",
+  "Gentile",
+  "Gentiles"
+ ],
+ "traps": {
+  "all": "- A reading not found in a source you opened does not ship. A confident false attribution is worse than naming a different commentator.\n- The commentator's own words go into the evidence verbatim, in the language they were written in, with your English gloss. A paraphrase of what you remember is not evidence.\n- The plain sense says what the day's text says, in its own terms. It is not the commentator's reading restated, and it is not doctrine.\n- A key verse is copied from `day.js`, never typed from memory: a remembered translation is almost never the app's translation, and five of the chambers' epigraphs prove it.\n- The key verse's translation may carry its translator's interpretation (Legge's parentheses, Besant's Theosophy, Pickthall's additions). The reading attributed to the commentator must be his, not the translator's.",
+  "plan": "- The commentary on Chronicles printed under Rashi's name is not his.\n- The JPS translation prints the divine name as LORD in capitals: a key verse keeps it; a sentence says \"the LORD\" or \"God\", and never spells the four-letter name.\n- No Christian vocabulary, ever: the gate fails the plan on it.\n- The packets label numbered books as Sefaria does (\"I Samuel 3:4\", \"II Kings\", \"I Chronicles\") and the Psalms \"Psalm\": the ref is the app’s (\"1 Samuel 3:4\").\n- A Torah day’s packets run to 100,000 words and more: packet.js prints an index; read the chosen verse with --verse <chapter:verse>.\n- The Hebrew is the commentator’s own words. Where the packet says Hebrew only (Ibn Ezra outside the Torah and Isaiah, Radak on the Prophets, Metzudat David, Sforno on the Song), read it and gloss it yourself.\n- When the English is split differently from the Hebrew, the packet gives the verse’s English once, marked \"for the whole verse\": quote the English only for the words the Hebrew comment holds.\n- \"[editor: ...]\" in the Hebrew is an editor’s remark, not the commentator’s.\n- A comment Sefaria files at another verse is moved to its own verse and says where the editions print it (Rashi on Deuteronomy 32:43 and Proverbs 30:31, Radak on Isaiah 37:30 and Psalm 38:15): cite the verse it is on.\n- The source line names the edition read for EACH commentator (\"Hebrew (On Your Way)\", \"Rosenbaum and Silbermann, 1929 to 1934\"), not only the export commit; two commentators, two editions. (Found in course-jewish-dry.)\n- When the context clause ends on one promise or command and the reading says \"the promise\", the reading attaches to the nearest; name the lemma’s own promise in the reading. (Found in course-jewish-dry, Genesis 17:7.)"
+ },
+ "countsSoFar": {
+  "rashi": 19,
+  "ramban": 7,
+  "midrash": 2,
+  "sforno": 1,
+  "ibn-ezra": 1
+ },
+ "tools": {
+  "day": "node C:/Users/zpull/FirstLight/.scripts/teachings/day.js tanakh <day>",
+  "verse": "node C:/Users/zpull/FirstLight/.scripts/teachings/verse.js tanakh <day> \"<key verse>\"",
+  "packet": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js tanakh <day>",
+  "status": "node C:/Users/zpull/FirstLight/.scripts/teachings/status.js tanakh 2",
+  "gate": "node C:/Users/zpull/FirstLight/.scripts/check-teachings.js --candidate C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/batch.json"
+ },
+ "evidence": {
+  "rule": "The commentator’s own words, verbatim from a source you actually opened, 12 to 120 characters for Chinese or 12 to 120 words otherwise, in the original language where you read it so, with your English gloss. At most 40 words from any copyrighted English. A packet source is cited with via \"packet\" and the packet’s url; anything else you opened with via \"webfetch\" and its exact url. The operator re-finds these words by machine (recheck-evidence.js) before anything lands.",
+  "packetSources": "node C:/Users/zpull/FirstLight/.scripts/teachings/packet.js tanakh <day>"
+ },
+ "paths": {
+  "dir": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02",
+  "proposals": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/proposals-<lane>.json",
+  "verdicts": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/verdicts/<id>.json",
+  "refutations": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/refutations/<id>.json",
+  "reverify": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/reverify/<id>.json",
+  "batch": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/batch.json",
+  "sources": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/SOURCES-tanakh-02.md",
+  "critic": "C:/Users/zpull/FirstLight/.scripts/teachings/work/tanakh-02/critic.json"
+ }
+}

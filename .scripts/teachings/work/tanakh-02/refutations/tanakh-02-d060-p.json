@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d060-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Deuteronomy/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%2C%201929-1934.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened packet.js tanakh 60 --verse 11:18: Rashi on ושמתם את דברי says even after exile be marked by the commandments, put on tefillin, make mezuzot, so they are not new when you return (Sifrei); the paraphrase carries it without addition. Plain sense matches 11:16 to 17 (serve other gods, perish quickly from off the good land) and 11:18 to 20 restating the charge. Ramban on the verse quotes Rashi and adds that these are personal duties binding everywhere; that is a halakhic gloss on the Midrash, not a rival reading of the verse, so rule 5 does not require naming him. Evidence verbatim. verse.js ok (Deuteronomy 11:18, at [163,18]); entry-check ok, 43 words.",
+ "better": ""
+}

@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d046-p",
+ "d": 46,
+ "role": "primary",
+ "verdict": "CORRECTED",
+ "key": "And those men said unto him: ‘We are unclean by the dead body of a man; wherefore are we to be kept back, so as not to bring the offering of the LORD in its appointed season among the children of Israel?’",
+ "ref": "Numbers 9:7",
+ "at": [
+  125,
+  7
+ ],
+ "s": "Unclean from a corpse at Passover, some men come before Moses and Aaron; Rashi, on 9:7, reads the law their plea wins as one fit to come through Moses like all the Torah, but said through them, since merit is brought about by the meritorious.",
+ "by": "rashi",
+ "by2": "",
+ "hedge": "",
+ "src": "Rashi, Commentary on the Torah, on Numbers 9:7, Hebrew of the Rosenbaum and Silbermann edition (1929 to 1934), Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 9:7, on למה נגרע",
+    "via": "packet"
+   }
+  ],
+  "words": "וּרְאוּיָה הָיְתָה פָרָשָׁה זוֹ לֵאָמֵר עַ\"יְ מֹשֶׁה כִּשְׁאָר כָּל הַתּוֹרָה כֻּלָּה, אֶלָּא שֶׁזָּכוּ אֵלּוּ שֶׁתֵּאָמֵר עַל יְדֵיהֶן, שֶׁמְּגַלְגְּלִין זְכוּת עַ\"יְ זַכַּאי",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 9:7, ‘wherefore are we kept back’:] This section was fit to be spoken through Moses, like all the rest of the Torah, but these men merited that it be spoken through them, for merit is brought about through one who is meritorious.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "The problem holds: in the old wording the since-clause hung on fit to come through Moses, as if Moses’ merit were the reason. Reopened Rashi on 9:7 (lemma למה נגרע) via packet.js tanakh 46 --verse 9:7: the section was fit to be said through Moses like all the Torah (וּרְאוּיָה הָיְתָה ... עַ\"יְ מֹשֶׁה כִּשְׁאָר כָּל הַתּוֹרָה), but (אֶלָּא) these men merited that it be said through them (שֶׁתֵּאָמֵר עַל יְדֵיהֶן), because merit is brought about through the worthy (שֶׁמְּגַלְגְּלִין זְכוּת עַ\"יְ זַכַּאי). The corrected sentence takes the critic’s fix with one change toward the Hebrew: but said through them (for אֶלָּא ... שֶׁתֵּאָמֵר עַל יְדֵיהֶן) instead of given through them, so the since-clause now attaches to them. Same commentator, same evidence, key, ref, at and src unchanged; 45 words. verse.js ok (Numbers 9:7, [125,7]); entry-check ok."
+}

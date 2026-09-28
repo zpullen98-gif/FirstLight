@@ -1,0 +1,43 @@
+{
+ "id": "tanakh-02-d033-p",
+ "d": 33,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "If he offer it for a thanksgiving, then he shall offer with the sacrifice of thanksgiving unleavened cakes mingled with oil, and unleavened wafers spread with oil, and cakes mingled with oil, of fine flour soaked.",
+ "ref": "Leviticus 7:12",
+ "at": [
+  96,
+  12
+ ],
+ "s": "Setting out the peace-offerings, the law turns to the offering of thanks; the Midrash, Leviticus Rabbah 9:7, reads it as lasting when all else ends: in the time to come every offering will cease but the thank-offering, and every prayer but thanksgiving.",
+ "by": "midrash",
+ "by2": "",
+ "hedge": "",
+ "src": "The Midrash, Leviticus Rabbah 9:7, the Torat Emet Hebrew text, Sefaria export commit 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Midrash/Aggadah/Midrash%20Rabbah/Vayikra%20Rabbah/Hebrew/Midrash%20Rabbah%20--%20TE.json",
+    "edition": "Vayikra Rabbah, Hebrew (Midrash Rabbah, Torat Emet), Sefaria export 3f10136",
+    "locator": "Leviticus Rabbah 9:7, placed by the packet on Leviticus 7:12",
+    "via": "packet"
+   }
+  ],
+  "words": "רַבִּי פִּנְחָס וְרַבִּי לֵוִי וְרַבִּי יוֹחָנָן בְּשֵׁם רַבִּי מְנַחֵם דְּגַלְיָא, לֶעָתִיד לָבוֹא כָּל הַקָּרְבָּנוֹת בְּטֵלִין וְקָרְבַּן תּוֹדָה אֵינוֹ בָּטֵל, כָּל הַתְּפִלּוֹת בְּטֵלוֹת, הַהוֹדָאָה אֵינָהּ בְּטֵלָה",
+  "lang": "Hebrew",
+  "gloss": "(Leviticus Rabbah 9:7, placed on Leviticus 7:12) Rabbi Pinḥas, Rabbi Levi and Rabbi Yoḥanan in the name of Rabbi Menaḥem of Galya: in the time to come all the offerings will cease, but the thank-offering will not cease; all the prayers will cease, but thanksgiving will not cease.",
+  "licence": "Hebrew: no licence stated by Sefaria for this digitisation (the text itself is centuries old)",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok; ref Leviticus 7:12 and at [96,12] match). Plain sense faithful: 7:11 opens the law of the peace-offerings and 7:12 gives the first kind, the offering for thanksgiving. Opened the whole 7:12 packet (Rashi on the occasions of thanksgiving and the four kinds of bread, Ibn Ezra, Ramban, Rashbam, Sforno silent, Leviticus Rabbah 9:1 and 9:4 to 9:7). Leviticus Rabbah 9:7, placed by Sefaria’s links on 7:12, says in the time to come all offerings cease but the thank-offering, all prayers cease but thanksgiving, which is exactly the sentence’s reading; collection and section named as the packet gives them. Evidence machine-matched against the packet. entry-check ok."
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d048-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi on 16:22 (lemma אל אלהי הרוחת) via packet.js tanakh 48 --verse 16:22; the words are there verbatim: He who knows thoughts, unlike a king of flesh and blood who, not knowing who sinned, punishes all when angry, while before God all thoughts lie open and He knows the sinner (Tanchuma, and Numbers Rabbah 18:11 has the same parable). The earthly king is Rashi’s own parable, not a comparison with another tradition. The plain sense matches 16:20 to 16:21 (God bids Moses and Aaron separate themselves so He may consume the congregation) and states the threat plainly. verse.js ok (Numbers 16:22, at [132,22]); entry-check ok, 44 words.",
+ "better": ""
+}

@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d043-p",
+ "refuted": true,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Ramban/Torah/Ramban%20on%20Numbers/Hebrew/On%20Your%20Way%20New.json",
+  "found": true
+ },
+ "attacks": ["drift", "attribution"],
+ "reason": "Re-opened packet.js tanakh 43 --verse 3:1. Rashi’s words are there and carry his half. Ramban’s quoted words are there too, but the sentence makes him read the named sons as ‘Aaron’s alone’, and ‘alone’ is not in him: by the plain sense he takes ‘the generations of Moses’ as the Amramite family named below (3:27), where only Moses’ sons are counted, and then closes the same comment by accepting the midrash as the verse’s hint (והדרש סמכוהו ... לרמוז כי בני אהרן גם הם תולדות למשה מפני שלמדם תורה כי התורה תפרש ותרמוז). So the sentence stages a flat opposition, Moses’ offspring too against Aaron’s alone, that Ramban himself declines: he keeps Rashi’s reading as a hint beside his plain sense. That is drift beyond his words, and it frames the disagreement more sharply than he does. verse.js ok (Numbers 3:1, at [119,1]) and entry-check ok; the fault is in the reading, not the form.",
+ "better": "Keep Rashi’s half; give Ramban without ‘alone’, e.g. ‘and Ramban, on 3:1, by the plain sense, as the Amramite family named below, where only Moses’ sons are counted, keeping the midrash as a hint’ (check the 60-word cap and rerun entry-check). Or name Rashi alone."
+}

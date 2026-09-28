@@ -1,0 +1,49 @@
+{
+ "id": "tanakh-02-d051-p",
+ "d": 51,
+ "role": "primary",
+ "verdict": "VERIFIED",
+ "key": "How goodly are thy tents, O Jacob, Thy dwellings, O Israel!",
+ "ref": "Numbers 24:5",
+ "at": [
+  140,
+  5
+ ],
+ "s": "Brought to a third height to curse, Balaam sees Israel camped tribe by tribe and the spirit of God comes upon him; Rashi, on 24:5, reads the praise as drawn from tent doors set so that none faced another, and Sforno, on 24:5, as praise of the houses of study and of prayer, whose good reaches the whole nation.",
+ "by": "rashi",
+ "by2": "sforno",
+ "hedge": "",
+ "src": "Rashi and Sforno, on Numbers 24:5, Hebrew: Rashi’s of Rosenbaum and Silbermann (1929 to 1934), Sforno’s On Your Way text; Sefaria export 3f10136 (2026)",
+ "verseCheck": {
+  "ok": true
+ },
+ "entryCheck": {
+  "ok": true,
+  "errors": []
+ },
+ "plainSense": "faithful",
+ "evidence": {
+  "opened": [
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+    "edition": "Rashi on Numbers, Hebrew, Rosenbaum and Silbermann (1929 to 1934), corrected vocalization, Sefaria export 3f10136",
+    "locator": "Numbers 24:5, on מה טבו אהליך",
+    "via": "packet"
+   },
+   {
+    "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Sforno/Torah/Sforno%20on%20Numbers/Hebrew/On%20Your%20Way.json",
+    "edition": "Sforno on Numbers, Hebrew, On Your Way, Sefaria export 3f10136",
+    "locator": "Numbers 24:5, on מה טובו אהליך יעקב and on משכנותיך",
+    "via": "packet"
+   }
+  ],
+  "words": "מה טבו אהליך. עַל שֶׁרָאָה פִתְחֵיהֶם שֶׁאֵינָן מְכֻוָּנִין זֶה מוּל זֶה … מה טובו אהליך יעקב. בתי מדרשות … משכנותיך. בתי כנסיות ומקדשי אל המיוחדים לשכן שמו שם ולקבל תפלת המתפללים. ואמר מה טובו כי לא בלבד הם מטיבים לעוסקים בם אבל מטיבים לכל האומה",
+  "lang": "Hebrew",
+  "gloss": "[Rashi on 24:5:] How goodly are thy tents: because he saw that their entrances were not set facing one another. [Sforno on 24:5:] How goodly are thy tents, O Jacob: houses of study. Thy dwellings: synagogues and sanctuaries of God, set apart for His name to dwell there and to receive the prayer of those who pray. He said ‘how goodly’ because they do good not only to those who engage in them but to the whole nation.",
+  "licence": "Hebrew: public domain",
+  "supports": true
+ },
+ "sensitivity": "none",
+ "confidence": "high",
+ "reason": "Key verse verbatim (verse.js ok, ref Numbers 24:5 and at [140,5] match). Plain sense faithful to 23:27 to 24:2: Balak takes Balaam to a third place, the top of Peor, and Balaam sees Israel dwelling tribe by tribe as the spirit of God comes upon him. Rashi’s first comment on 24:5 gives the tent doors not aligned facing one another; Sforno on the same verse takes the tents as houses of study and the dwellings as synagogues and sanctuaries receiving prayer, good not only to those in them but to the whole nation. The two genuinely differ and the sentence names both without resolving. Read the whole of the packet on 24:5 (Rashi, Ibn Ezra, Sforno, Numbers Rabbah 12:14); nothing contradicts. entry-check ok."
+}

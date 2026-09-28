@@ -1,0 +1,11 @@
+{
+ "id": "tanakh-02-d047-p",
+ "refuted": false,
+ "reopened": {
+  "url": "https://github.com/Sefaria/Sefaria-Export-Archive/blob/3f1013631fdfe452e953a93a2c5f921319e394ed/json/Tanakh/Rishonim%20on%20Tanakh/Rashi/Torah/Rashi%20on%20Numbers/Hebrew/Pentateuch%20with%20Rashi's%20commentary%20by%20M.%20Rosenbaum%20and%20A.M.%20Silbermann%20--%20corrected%20vocalization.json",
+  "found": true
+ },
+ "attacks": [],
+ "reason": "Re-opened Rashi on 12:13 (lemma רפא נא לה) via packet.js tanakh 47 --verse 12:13; the words are there verbatim: why did Moses not pray at length, so that Israel should not say his sister stands in distress while he stands and prolongs his prayer (Sifrei). The paraphrase follows his first explanation exactly; the second (davar acher) is not claimed. The plain sense matches 12:10 to 12:12 (Miriam leprous, Aaron pleads to Moses for her) and states the affliction plainly. verse.js ok (Numbers 12:13, at [128,13]); entry-check ok, 39 words.",
+ "better": ""
+}
