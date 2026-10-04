@@ -37,8 +37,7 @@ function counter(t, id = 'Z5DX8MYcl00') {
   ['[data-set-count]', '[data-set-unit]', '[data-set-status]', '[data-op="add"]', '[data-op="undo"]', '[data-op="reset"]'].forEach(q => {
     parts[q] = { textContent: '', disabled: false, focus() { t.ctx.document.activeElement = this; } };
   });
-  const player = { state: 'playing' };
-  return { host, parts, player, click(op) {
+  return { host, parts, click(op) {
     const button = parts['[data-op="' + op + '"]'];
     button.closest = () => host; button.getAttribute = n => n === 'data-op' ? op : null;
     t.ctx.document.activeElement = button; t.ctx.FL_ACTS.workoutSet(button);
@@ -48,7 +47,7 @@ const t = make(), c = counter(t);
 const untouched = JSON.stringify({ sessions: t.ctx.FL.sessions, moves: t.ctx.FL.moves, journal: t.ctx.FL.journal, practice: t.ctx.FL.practice });
 c.click('add'); c.click('add');
 equal(t.ctx.todaySetRecord('2026-10-04', 'Z5DX8MYcl00').count, 2, 'Add a set counts only the selected workout');
-equal(c.player.state, 'playing', 'Counter has no dependency on the player');
+equal(c.parts['[data-set-count]'].textContent, 2, 'The visible count updates without a whole-page render');
 equal(JSON.parse(t.saved.get('firstlight-v1')).workoutSets['2026-10-04'].Z5DX8MYcl00.count, 2, 'Each tap is saved immediately');
 c.click('undo');
 equal(t.ctx.todaySetRecord('2026-10-04', 'Z5DX8MYcl00').count, 1, 'Undo reverses the last tap');
@@ -83,7 +82,7 @@ const bad = counter(t, 'not-a-video'); bad.click('add');
 equal(t.ctx.FL.workoutSets['2026-10-05']['not-a-video'], undefined, 'Unknown videos cannot make records');
 t.ctx.flMergeWorkoutSets({ '2026-10-06': { Z5DX8MYcl00: { count: -1, updated: 100 } }, bad: {} });
 equal(t.ctx.FL.workoutSets['2026-10-06'], undefined, 'Malformed backup counts are ignored');
-const reloaded = make(); reloaded.saved.set('firstlight-v1', resetBackup.replace(/^[\s\S]*$/, JSON.stringify(JSON.parse(resetBackup).record))); reloaded.ctx.flBoot();
+const reloaded = make(); reloaded.saved.set('firstlight-v1', JSON.stringify(JSON.parse(resetBackup).record)); reloaded.ctx.flBoot();
 equal(reloaded.ctx.todaySetRecord('2026-10-04', 'eAi7EAE6-cU').count, 2, 'A full boot restores counters');
 t.ctx.vidCard = v => '<article data-kind="' + v.kind + '">' + v.id + '</article>';
 for (let day = 1; day <= 366; day++) {
