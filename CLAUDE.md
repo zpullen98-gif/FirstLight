@@ -276,9 +276,35 @@ renderNav, and makes the Today masthead compact during the guided morning. It do
 not alter records, privacy choices, content, practice timers or completion rules.
 Keep the existing safe-area insets, keyboard focus and reduced-motion treatment.
 
-For the suite, commit source changes then use OutsideOfTime's resync-light script.
-Hand-merge index.html and sw.js, preserving the wing's integration; order there is
-app.js, house.js, oot-light.js. New CSS, font and artwork need precache entries too.
-The release uses firstlight-v87 in source and oot-light-v83 in the wing. Permanent
-texts-v3 caches remain unchanged. The live public destination remains /light/;
+For the suite, the public site now lives in `C:/Users/zpull/OutsideOfTime/_publish`.
+The old workshop's resync and publish scripts are retired: do not run them.
+Commit source changes first, then merge only that reviewed source delta into the
+public `light/` copy. It has deliberate differences: profile-scoped records,
+dash-free prose, shared scripts, the suite manifest, and its own worker prefixes.
+Use a three-way merge against the source commit the delta starts from, never a
+directory copy. Stop on a conflict and review it before writing anything.
+Hand-merge index.html and sw.js, preserving the wing's integration; order there
+remains app.js, house.js, oot-light.js. Bump changed URL stamps and the wing's
+oot-light cache. New assets need precache entries. Run source check-syntax and
+check-flow plus the public site's tools/check-all.mjs before publication.
+Permanent texts-v3 caches remain unchanged. The live public destination is /light/;
 standalone FirstLight GitHub Pages was not enabled for this design change.
+
+## Shared service and Today, 4 October 2026
+
+The common service controller exposes `html[data-service="day"|"night"]` and
+`window.OOT.service`, dispatching `oot:servicechange` when it changes. sunApply
+maps that choice into the existing four-phase palette without repainting the
+view or changing FL.prefs.theme. When the controller is present, Settings offers
+Day service and Night service; the saved solar preference remains the fallback
+when the controller is absent. Location still informs the solar summary.
+
+Today always offers one yoga film and one workout, including the guided Move
+step. The owner-requested counter beneath the workout is independent of sessions,
+moves and completion records. `FL.workoutSets[flToday()][videoId]` is additive,
+stores `{count,updated}`, and uses the same shift boundary as the rest of the app.
+A tap saves immediately and updates only the counter, preserving the player.
+Undo reverses the last counter action in this session; a reset retains a zero
+record so an older backup cannot revive it. Import joins days/videos and chooses
+the newest edit for one count. `.scripts/check-flow.js` exercises the live source;
+pass a deployable root as its first argument to check the public copy as well.
