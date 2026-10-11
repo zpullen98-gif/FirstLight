@@ -7,7 +7,7 @@
    index.html. A file in one and not the other is the single most common way this
    app breaks offline while looking fine online. */
 
-const CACHE = 'firstlight-v99';
+const CACHE = 'firstlight-v100';
 
 /* Scripture lives in its own cache, deliberately NOT versioned with the shell.
    The library is ~12 MB; tying it to CACHE would throw it away and re-download it
@@ -26,6 +26,7 @@ const ASSETS = [
   './css/house-library.css',
   './css/house-practice.css',
   './css/house-anthology.css',
+  './css/house-poets.css',
   './assets/first-light-dawn-v1.webp',
   './fonts/cinzel-latin.woff2',
   './js/house.js',
@@ -39,8 +40,10 @@ const ASSETS = [
   './js/data-anthology.js',
   './js/data-dawn-cast.js',
   './js/data-dawn-writers.js',
+  './js/data-poets.js',
   './js/ui-dawn-cast.js',
   './js/ui-dawn-writers.js',
+  './js/ui-poets.js',
   './js/anthology.js',
   './js/ui-anthology.js',
   './js/data-move.js',

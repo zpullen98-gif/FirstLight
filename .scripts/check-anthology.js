@@ -68,9 +68,10 @@ ok(JSON.stringify(ctx.FL) === record, 'Cast browsing leaves personal records unc
    their actual access instead of promising an entire book behind an excerpt. */
 const writers = ctx.DAWN_WRITERS;
 ok(writers.length === 12 && new Set(writers.map(p => p.id)).size === 12, 'Twelve requested writers have distinct shelves');
-ok(quotes.filter(q => q.collection === 'stage').length === 120, 'The Lantern Stage contains 120 selections');
+ok(quotes.filter(q => q.collection === 'stage').length === 320, 'The Lantern Stage contains 320 selections');
 for (const p of writers) {
-  ok(p.quoteIds.length === 10 && new Set(p.quoteIds).size === 10, p.name + ' has ten distinct selections');
+  const expected = p.studyId ? 110 : 10;
+  ok(p.quoteIds.length === expected && new Set(p.quoteIds).size === expected, p.name + ' has the expected distinct selections');
   ok(p.quoteIds.every(id => ids.has(id) && ctx.dawnById(id).author === p.name), p.name + ' references the actual writer');
   ok(p.works.length >= 2 && p.works.every(w => w.title && w.edition && w.note && /^https:\/\//.test(w.url)), p.name + ' has labelled reading editions');
   ok(p.works.every(w => ['Free full text', 'Authorised excerpt', 'Library borrowing'].includes(w.access)), p.name + ' describes access explicitly');
@@ -80,7 +81,7 @@ for (const p of writers) {
     const q = ctx.dawnById(id), card = ctx.dawnCard(q);
     ok(q.daily === false && q.verified && q.sources.length > 0, id + ' remains sourced and library-only');
     ok(card.includes('writer-' + p.id), id + ' returns to the author shelf');
-    if (q.speaker !== q.author) ok(card.includes('Written by ' + ctx.esc(p.name)), id + ' distinguishes character and author');
+    if (q.speaker !== q.author) ok(card.includes(ctx.esc(q.authorCredit || 'Written by ' + p.name)), id + ' distinguishes character and author');
   }
 }
 for (const [query,id] of [['Moliere','moliere'],['Eripides','euripides'],['Anton Chekhoy','anton-chekhov'],['Twelfth Night','william-shakespeare'],['The Wild Duck','henrik-ibsen'],['The Lady with the Dog','anton-chekhov'],['Murphy','samuel-beckett'],['The House of Fame','geoffrey-chaucer']]) {

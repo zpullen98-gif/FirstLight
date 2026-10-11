@@ -404,3 +404,33 @@ are retained in `.scripts/anthology-dramatists-audit.json`.
 Today still has three quotations. Previous anthology records, the original cast,
 Year/Lift data and personal records are unchanged. Run the same five First Light
 gates and public suite checks, plus desktop, phone, palette and offline route checks.
+
+## The Poets’ Study, 11 October 2026
+
+Mind now includes a dedicated study room at `#/poets`, with separate Shakespeare
+and Chaucer tabs. `js/data-poets.js` indexes 100 new selections per writer from
+the anthology. The source shelf now contains 1,133 selections, the complete library
+2,387. Both Lantern Stage author indexes contain 110 selections; their earlier ten
+still render on the old profile, with a prominent link to the additional hundred.
+Existing source records, legacy arrays, cast references and Today remain unchanged.
+
+`js/ui-poets.js` renders the entrance, an author's passages, works/free editions,
+suggested reading path and individual work routes. `css/house-poets.css` inherits
+the house palettes and typography. Work, theme and text filters are session-only;
+pagination starts with twelve cards. Subroute changes reset scroll and focus like
+anthology subroutes. Every selection remains searchable in the main anthology.
+
+There are 33 Shakespeare works and 23 Chaucer works or sections. Quotations retain
+their source wording and edition-specific locations. Chaucer's original Middle
+English has a separately labelled, original plain-English reading aid. Prompts and
+reading paths are editorial guidance, never completion records. Collaborative
+Shakespeare plays carry visible `authorCredit` qualifications and source context;
+the indexed `author` field remains the writer's shelf identity. Search includes
+both fields, the gloss, study prompt and themes.
+
+The research and independent reviews are in `.scripts/anthology-poets-audit.json`.
+The public-domain editions are linked at work or scene anchors, with their actual
+edition identified. External full texts need a connection; passages and study notes
+are cached with the shell. No permanent scripture text cache changes are involved.
+Run `.scripts/check-poets.js` alongside all five existing First Light checks and
+the public suite gate, plus phone/desktop, palette, focus, search and offline checks.
