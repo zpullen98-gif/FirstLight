@@ -23,7 +23,7 @@ ok(ctx.dawnLibrary().length === 0, 'The shelf is lazy when data scripts have not
 const originals = vm.runInContext('({Q, Q_MAKERS, Q_CLASSICS, UPLIFT, DAWN_QUOTES})', ctx);
 const beforeData = JSON.stringify(originals), beforeRecord = JSON.stringify(ctx.FL);
 const library = ctx.dawnLibrary();
-ok(library.length === 2043, 'All 789 source-led and 1,254 original entries are available');
+ok(library.length === originals.DAWN_QUOTES.length + 1254, 'All source-led and 1,254 original entries are available');
 ok(new Set(library.map(q => q.id)).size === library.length, 'No quotation IDs collide');
 ok(library.every(q => ctx.DAWN_COLLECTIONS.some(c => c[0] === q.collection)), 'Every entry has a named filter');
 ok(library.filter(q => q.legacy && q.faithSource).length === 1 && ctx.dawnById('year-philosophers-11-20').faithSource === true,
@@ -77,7 +77,7 @@ const noMatch = ctx.FL_VIEWS.anthology.render();
 ok(noMatch.includes('No quotations match') && noMatch.includes('value="&lt;script>'), 'Unmatched search is escaped and recoverable');
 ctx.dawnQuery = '';
 ctx.FL_TRACKS.push({ id: 'unfinished', label: 'Unfinished', q: () => ({ 1: [[1, 'Do not publish this preview', 'Fixture', 'Test']] }), months: () => originals.MONTHS });
-ok(ctx.dawnLibrary().length === 2043, 'Incomplete Year tracks stay out of the Anthology');
+ok(ctx.dawnLibrary().length === library.length, 'Incomplete Year tracks stay out of the Anthology');
 ctx.FL_TRACKS.pop();
 ok(JSON.stringify(originals) === beforeData, 'Browse adapters do not change or duplicate the stored datasets');
 ok(JSON.stringify(ctx.FL) === beforeRecord, 'Browsing all shelves does not change track, vault or by-heart records');

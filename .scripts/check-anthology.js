@@ -43,9 +43,9 @@ ok(guests.length === 71 && cast.length === 72, 'PDF has 71 guests and one origin
 ok(ctx.DAWN_CAST_GROUPS.length === 6, 'Six gatherings preserve the PDF roster');
 ok(new Set(cast.map(p => p.id)).size === cast.length, 'Cast IDs are unique');
 for (const p of guests) {
-  ok(p.quoteIds.length === 10 && new Set(p.quoteIds).size === 10, p.name + ' has ten distinct selections');
+  ok(p.quoteIds.length >= 10 && new Set(p.quoteIds).size === p.quoteIds.length, p.name + ' retains at least ten distinct selections');
   ok(p.quoteIds.every(id => ids.has(id)), p.name + ' has no broken references');
-  ok((ctx.dawnCastProfile(p.id).match(/data-quote-id=/g) || []).length === 10, p.name + ' renders ten cards');
+  ok((ctx.dawnCastProfile(p.id).match(/data-quote-id=/g) || []).length === p.quoteIds.length, p.name + ' renders every selection');
 }
 ok(ctx.dawnPerson('lizzy').quoteIds.length === 0, 'Lizzy awaits original text');
 ok(ctx.dawnCastProfile('lizzy').includes('awaits your original writing'), 'Lizzy has an honest pending state');

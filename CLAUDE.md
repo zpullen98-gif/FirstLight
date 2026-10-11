@@ -312,7 +312,7 @@ pass a deployable root as its first argument to check the public copy as well.
 ## Dawn Anthology cast, 11 October 2026
 
 The owner’s Table Out Of Time Cast adds six gatherings with 71 guests and Lizzy,
-the original host. Each guest has ten citable selections, including existing
+the original host. Each guest began with ten citable selections, including existing
 anthology entries. Lizzy awaits the owner’s original text. `js/data-dawn-cast.js`
 indexes quote IDs from `js/data-anthology.js`; `js/ui-dawn-cast.js` supplies the
 cast index and individual shelves within `#/anthology`. Character aliases are
@@ -336,7 +336,7 @@ restoration below. Cast browsing changes no personal records.
 
 Run `.scripts/check-anthology.js` as well as syntax and flow checks before release.
 It verifies the full roster, references, evidence shape, aliases, safe rendering,
-source labels, aliases, safe rendering and library-only exclusions.
+source labels and library-only exclusions.
 
 ## Today’s three and the complete anthology, 11 October 2026
 
@@ -347,7 +347,7 @@ films, set counters and a running pacer survive. The shifted day resets that see
 normalized text prevents either lift from repeating the dated voice or the other.
 The guided walk keeps its dated voice first and the two lifts with The practice.
 
-The Dawn Anthology is now the common quotation shelf: the 789 sourced selections,
+The Dawn Anthology became the common quotation shelf with 789 sourced selections,
 all three completed 366-entry Year tracks and the 156 original Lift entries.
 Lazy adapters in anthology.js read the existing arrays without copying or changing
 them. Original entries keep their citation qualifications and are explicitly
@@ -362,3 +362,22 @@ Run check-today-quotes.js and check-anthology-library.js alongside check-syntax.
 check-flow.js and check-anthology.js before release. The new checks cover all
 three tracks, distinct lift pairs, day rollover, exact legacy citations, original
 collection filtering, links and state-preserving updates.
+
+## Historical leaders expansion, 11 October 2026
+
+The twelve leaders in Ghosts at the Golden Table now have twelve selections each.
+Twenty-four new passages bring the source-checked shelf to 813 and the complete
+library to 2,067 entries. The first page offers one new passage from every leader;
+each leader's profile begins with that person's two additions. Cast cards report
+the actual selection count, allowing the shelves to grow beyond the initial ten.
+
+Speeches and correspondence retain their dates, excerpt boundaries and historical
+setting. The two new de Gaulle translations expose French wording and translation
+notes; Washington's early-access letter transcription is labelled. The Jefferson
+patents letter and de Gaulle Oxford speech are cited through institutional extracts,
+with that scope made explicit. Research, source budgets, exclusions and independent
+review are recorded in `.scripts/anthology-leaders-expansion-audit.json`.
+
+Earlier source records, original Year/Lift data and personal records are unchanged.
+These additions are library-only; Today remains the dated voice plus two lifts.
+Run the same five First Light gates and the public suite checks before publication.

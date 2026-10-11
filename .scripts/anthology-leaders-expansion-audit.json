@@ -1,0 +1,879 @@
+{
+  "verified": "2026-10-11",
+  "scope": "24 new source-checked historical selections, two each for the twelve existing historical leaders.",
+  "sourceBase": "7bc4e80789e373e1645dfe742d9edbf1ba08fd28",
+  "counts": {
+    "previousSourceSelections": 789,
+    "addedSourceSelections": 24,
+    "sourceSelections": 813,
+    "originalYearAndLiftEntries": 1254,
+    "completeLibraryEntries": 2067,
+    "leadersExpanded": 12,
+    "leaderSelectionsEach": 12,
+    "castSelections": 734
+  },
+  "policy": [
+    "The new collection stays in The Dawn Anthology. Today retains one dated Year voice and two original Lift/Classics lines.",
+    "All previous 789 source records retain their exact values and order after the new collection. The original Year and Lift data files are unchanged.",
+    "Each source panel preserves the original document, date or known year, excerpt boundary, institutional evidence and historical setting.",
+    "New English translations expose their French originals and translation choices. Early-access transcriptions are explicitly identified.",
+    "No duplicate new text against all 2,043 existing source and original records. Existing dated repeats remain unchanged.",
+    "The existing dawn library artwork, typography, service palettes and cards are reused. New entries open the main shelf and their corresponding leader profiles."
+  ],
+  "entries": [
+    {
+      "id": "history-washington-truth-light",
+      "personId": "george-washington"
+    },
+    {
+      "id": "history-jefferson-sharing-ideas",
+      "personId": "thomas-jefferson"
+    },
+    {
+      "id": "history-lincoln-resolution-study",
+      "personId": "abraham-lincoln"
+    },
+    {
+      "id": "history-theodore-canyon-preservation",
+      "personId": "theodore-roosevelt"
+    },
+    {
+      "id": "history-fdr-imagination-and-facts",
+      "personId": "franklin-d-roosevelt"
+    },
+    {
+      "id": "history-eisenhower-honest-eyes",
+      "personId": "dwight-d-eisenhower"
+    },
+    {
+      "id": "history-kennedy-discomfort-of-thought",
+      "personId": "john-f-kennedy"
+    },
+    {
+      "id": "history-elizabeth-pull-of-home",
+      "personId": "queen-elizabeth-ii"
+    },
+    {
+      "id": "history-churchill-human-societies",
+      "personId": "winston-churchill"
+    },
+    {
+      "id": "history-mandela-valued-treasure",
+      "personId": "nelson-mandela"
+    },
+    {
+      "id": "history-degaulle-dignity-guaranteed",
+      "personId": "charles-de-gaulle"
+    },
+    {
+      "id": "history-cromwell-humble-seeker",
+      "personId": "oliver-cromwell"
+    },
+    {
+      "id": "history-washington-friendship-growth",
+      "personId": "george-washington"
+    },
+    {
+      "id": "history-jefferson-friendship-differences",
+      "personId": "thomas-jefferson"
+    },
+    {
+      "id": "history-lincoln-liberty-meaning",
+      "personId": "abraham-lincoln"
+    },
+    {
+      "id": "history-theodore-guard-future",
+      "personId": "theodore-roosevelt"
+    },
+    {
+      "id": "history-fdr-courage-of-the-young",
+      "personId": "franklin-d-roosevelt"
+    },
+    {
+      "id": "history-eisenhower-climate-of-freedom",
+      "personId": "dwight-d-eisenhower"
+    },
+    {
+      "id": "history-kennedy-opportunities-for-peace",
+      "personId": "john-f-kennedy"
+    },
+    {
+      "id": "history-elizabeth-rebuild-trust",
+      "personId": "queen-elizabeth-ii"
+    },
+    {
+      "id": "history-churchill-hope-and-patience",
+      "personId": "winston-churchill"
+    },
+    {
+      "id": "history-mandela-room-to-grow",
+      "personId": "nelson-mandela"
+    },
+    {
+      "id": "history-degaulle-gentle-sympathy",
+      "personId": "charles-de-gaulle"
+    },
+    {
+      "id": "history-cromwell-soul-prospers",
+      "personId": "oliver-cromwell"
+    }
+  ],
+  "research": [
+    {
+      "collection": "early-america",
+      "verified": "2026-10-11",
+      "scope": "Two new quotations each for George Washington, Thomas Jefferson, Abraham Lincoln and Theodore Roosevelt; eight distinct dated primary documents. Only research output files written; existing application data untouched.",
+      "comparison": {
+        "method": "Executed each JS collection in a VM, including const-defined Q, Q_MAKERS, Q_CLASSICS and UPLIFT. Extracted all quotation texts. Compared NFKD lowercase alphanumeric forms for equality and containment in both directions. Reviewed existing entries for all four speakers and searched their metadata and URLs for every proposed document identity.",
+        "checkedFiles": [
+          {
+            "file": "C:/Users/zpull/FirstLight/js/data-anthology.js",
+            "entries": 789
+          },
+          {
+            "file": "C:/Users/zpull/FirstLight/js/data-year.js",
+            "entries": 366
+          },
+          {
+            "file": "C:/Users/zpull/FirstLight/js/data-year-makers.js",
+            "entries": 366
+          },
+          {
+            "file": "C:/Users/zpull/FirstLight/js/data-year-classics.js",
+            "entries": 366
+          },
+          {
+            "file": "C:/Users/zpull/FirstLight/js/data-uplift.js",
+            "entries": 156
+          }
+        ],
+        "totalEntries": 2043,
+        "duplicates": [],
+        "sourceReuseFound": false
+      },
+      "entries": [
+        {
+          "id": "history-washington-truth-light",
+          "sourceURL": "https://tile.loc.gov/storage-services/service/mss/mgw/mgw2/019/019.pdf",
+          "documentIdentity": "George Washington to Charles Mynn Thruston, 10 August 1794",
+          "evidence": "The complete letter begins on PDF page 141 and ends on page 142. Its final clause in the long paragraph about rebellion against federal laws contains the selected wording. The following paragraph discusses General Morgan and a wish for peace. The heading identifies recipient, place and date.",
+          "comparison": "Lowercase opening and source punctuation retained. Selection is a continuous closing clause, not an isolated complete sentence.",
+          "caveat": "Read as Washington’s defence of his government during the Whiskey Rebellion, not as a neutral account of opponents. The PDF contains many independently dated letters; the budget is tied to this letter, with no other new quotation drawn from this PDF.",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 13,
+            "combinedQuotationWords": 13,
+            "limit": 25
+          }
+        },
+        {
+          "id": "history-washington-friendship-growth",
+          "sourceURL": "https://rotunda.upress.virginia.edu/founders/default.xqy?keys=FOEA-print-01-02-02-4429&printable=yes",
+          "documentIdentity": "George Washington to Bushrod Washington, 15 January 1783",
+          "evidence": "Complete letter inspected in the University of Virginia Press edition. The friendship paragraph is followed by advice about charitable giving; preceding paragraphs address legal study and companions. Heading and signature identify Washington, recipient and date.",
+          "comparison": "Eight consecutive words retained exactly, including lowercase opening. The sentence continues by saying friendship must withstand adversity.",
+          "caveat": "The host explicitly calls this an early-access raw transcription, not an authoritative final edited version, and cautions that the URL is not permanent. That limitation is disclosed in the entry. A sourced Mount Vernon excerpt independently agrees with the wording but was not substituted for the complete primary letter.",
+          "corroboratingSource": "https://www.mountvernon.org/library/digitalhistory/past-projects/quotes/article/be-courteous-to-all-but-intimate-with-few-and-let-those-few-be-well-tried-before-you-give-them-your-confidencetrue-friendship-is-a-plant-of-slow-growth-and-must-undergo-withstand-the-shocks-of-adversity-before-it-is-entitled-to-the-appellation",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 8,
+            "combinedQuotationWords": 8,
+            "limit": 25
+          }
+        },
+        {
+          "id": "history-jefferson-sharing-ideas",
+          "sourceURL": "https://press-pubs.uchicago.edu/founders/documents/v1ch16s25.html",
+          "documentIdentity": "Thomas Jefferson to Isaac McPherson, 13 August 1813",
+          "evidence": "Entire primary extract in The Founders’ Constitution inspected. Document 25 under Property identifies author, recipient and date; its fifth displayed paragraph contains the chosen clause followed by the candlelight analogy. The source identifies The Writings of Thomas Jefferson, volume 13, pages 333–334, edited by Lipscomb and Bergh.",
+          "comparison": "Thirteen consecutive words from the start of the sentence; final semicolon omitted at the excerpt boundary. No wording modernized.",
+          "caveat": "This institutional page presents a substantial letter extract rather than the entire long letter. It includes the full selected sentence and surrounding patent argument. Founders Online could not be fetched, so that uninspected page is not cited as verification.",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 13,
+            "combinedQuotationWords": 13,
+            "limit": 25
+          }
+        },
+        {
+          "id": "history-jefferson-friendship-differences",
+          "sourceURL": "https://tile.loc.gov/storage-services/service/mss/mtj/mtj1/022/022_0228_0229.pdf",
+          "documentIdentity": "Thomas Jefferson to William Hamilton of Woodlands, 22 April 1800",
+          "evidence": "Both pages of the Library of Congress textual transcript inspected. Page 1 supplies title, Philadelphia date and the apparent social slight. The selected complete sentence appears near the beginning of page 2; the letter continues with partisan estrangement and botanical seed requests.",
+          "comparison": "All twenty words and punctuation agree with the Ford-edition transcript; line wraps removed.",
+          "caveat": "A published documentary transcription, not a claimed direct reading of the handwriting. Jefferson’s statement about his own conduct is self-report.",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 20,
+            "combinedQuotationWords": 20,
+            "limit": 25
+          }
+        },
+        {
+          "id": "history-lincoln-resolution-study",
+          "sourceURL": "https://papersofabrahamlincoln.org/documents/D200867",
+          "documentIdentity": "Abraham Lincoln to Isham Reavis, Jr., 5 November 1855",
+          "evidence": "Full letter and documentary notes inspected in D200867. The letter’s closing standalone paragraph is the selection. The record identifies Lincoln as writer and signer, dates the letter 1855-11-05 and describes the holding as a copy of an autograph signed letter at the Abraham Lincoln Presidential Library and Museum.",
+          "comparison": "All eighteen words and the comma after succeed retained. The terminal dash used in the documentary transcript is omitted and disclosed in the locator.",
+          "caveat": "The original request from Reavis has not been located, according to the edition; the surviving reply clearly concerns legal study and declining an apprenticeship.",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 18,
+            "combinedQuotationWords": 18,
+            "limit": 25
+          }
+        },
+        {
+          "id": "history-lincoln-liberty-meaning",
+          "sourceURL": "https://www.presidency.ucsb.edu/documents/address-sanitary-fair-baltimore-lecture-liberty",
+          "documentIdentity": "Abraham Lincoln, Baltimore Sanitary Fair address, 18 April 1864",
+          "evidence": "Full American Presidency Project address inspected. The selected sentence is the second in the paragraph introducing definitions of liberty; the next sentence contrasts control over one’s own work with control over other people’s work.",
+          "comparison": "Complete nineteen-word sentence; exact wording and semicolon retained.",
+          "caveat": "The page appends a note signed D.W. after the speech; no wording from that editorial note is attributed to Lincoln. Context explicitly preserves the anti-slavery argument.",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 19,
+            "combinedQuotationWords": 19,
+            "limit": 25
+          }
+        },
+        {
+          "id": "history-theodore-canyon-preservation",
+          "sourceURL": "https://www.presidency.ucsb.edu/documents/remarks-grand-canyon-arizona",
+          "documentIdentity": "Theodore Roosevelt, Grand Canyon remarks, 6 May 1903",
+          "evidence": "Complete American Presidency Project transcript inspected. The selected consecutive sentences appear in the paragraph opposing a cottage or hotel on the canyon rim, followed by an appeal to preserve it for descendants and visitors. Heading supplies date and location.",
+          "comparison": "Two complete consecutive sentences, ten words, follow the cited APP version exactly.",
+          "caveat": "Theodore Roosevelt Center record o311160 has a version adding a short intensifier in the second sentence. Entry consistently uses the inspected APP edition without mixing variants. The speech also promotes irrigation and contains paternalistic language about Native Americans.",
+          "corroboratingSource": "https://www.theodorerooseveltcenter.org/digital-library/o311160/",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 10,
+            "combinedQuotationWords": 10,
+            "limit": 25
+          }
+        },
+        {
+          "id": "history-theodore-guard-future",
+          "sourceURL": "https://voicesofdemocracy.umd.edu/theodore-roosevelt-conservation-as-a-national-duty-speech-text/",
+          "documentIdentity": "Theodore Roosevelt, Conservation as a National Duty, 13 May 1908",
+          "evidence": "University of Maryland edition inspected through its full numbered text, including paragraph 40 and surrounding conservation argument. Its textual-authentication page identifies the copy text as the Government Printing Office Proceedings of the May 13–15, 1908 governors’ conference, collated against Library of Congress and Harvard copies.",
+          "comparison": "Complete first sentence of paragraph 40, exactly twenty-five words; Nation capitalization retained.",
+          "caveat": "Paragraph numbers belong to this electronic edition. Nearby quotations from judicial opinions are not Roosevelt’s original words and were excluded. The selected paragraph is Roosevelt’s own speech text.",
+          "authenticationSource": "https://voicesofdemocracy.umd.edu/theodore-roosevelt-conservation-as-a-national-duty-textual-authentication/",
+          "comparisonChecked": true,
+          "sourceWordTotals": {
+            "previousQuotationWords": 0,
+            "newQuotationWords": 25,
+            "combinedQuotationWords": 25,
+            "limit": 25
+          }
+        }
+      ],
+      "exclusions": [
+        {
+          "candidate": "Washington agriculture superlative",
+          "reason": "Rejected as spurious; Mount Vernon identifies it as unsupported. A later lithograph carrying the sentence is not proof of Washington’s authorship.",
+          "source": "https://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/spurious-quotations"
+        },
+        {
+          "candidate": "Lincoln to Fanny McCullough, 23 December 1862",
+          "reason": "Already represented in data-year-classics.js with the passage promising renewed happiness; no additional excerpt added."
+        },
+        {
+          "candidate": "Familiar existing inaugural, farewell, Sorbonne and New Nationalism excerpts",
+          "reason": "Existing anthology entries reviewed and preserved; new selections use other documents."
+        }
+      ],
+      "accessLimitations": [
+        "Founders Online direct page fetch failed; no inaccessible page was treated as inspected proof.",
+        "Web screenshot tool could not render the accessible Library of Congress transcript PDFs; textual PDF pages were inspected instead.",
+        "Washington-to-Bushrod source is explicitly an early-access transcription, disclosed in entry and audit."
+      ],
+      "budgetRule": "A separately dated letter or speech is the underlying source document. Alternate URLs and versions are not counted as new documents. Audit descriptions paraphrase context without adding new quotation extracts."
+    },
+    {
+      "collection": "modern-statecraft",
+      "verified": "2026-10-11",
+      "status": "verified",
+      "entryCount": 8,
+      "scope": "Two new quotations each for Franklin D. Roosevelt, Dwight D. Eisenhower, John F. Kennedy, and Winston Churchill.",
+      "recordCountsChecked": {
+        "data-anthology.js": 789,
+        "data-year.js": 366,
+        "data-year-makers.js": 366,
+        "data-year-classics.js": 366,
+        "data-uplift.js": 156
+      },
+      "totalRecordsChecked": 2043,
+      "duplicateNormalization": "Unicode NFKD, lowercase, replace runs outside Unicode letters/numbers with one space, trim.",
+      "wordCountRule": "Unicode letter/number tokens; apostrophes internal to a word retained; dashes split words.",
+      "allEightCompleteSentences": true,
+      "allDailyFalse": true,
+      "newCanonicalDocuments": 6,
+      "perEntry": [
+        {
+          "id": "history-fdr-imagination-and-facts",
+          "speaker": "Franklin D. Roosevelt",
+          "sourceDocument": "fdr-1932-05-22-oglethorpe",
+          "sourceDate": "1932-05-22",
+          "url": "https://www.presidency.ucsb.edu/documents/address-oglethorpe-university-atlanta-georgia",
+          "exactLocator": "22 May 1932; final paragraph, first sentence; complete sentence",
+          "wordCount": 14,
+          "literalEvidence": "We need enthusiasm, imagination and the ability to face facts, even unpleasant ones, bravely.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": true,
+            "retrievalHttpStatus": 200,
+            "method": "Browser reading plus independent literal substring match after HTML tags/entities/whitespace decoding"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        },
+        {
+          "id": "history-fdr-courage-of-the-young",
+          "speaker": "Franklin D. Roosevelt",
+          "sourceDocument": "fdr-1932-05-22-oglethorpe",
+          "sourceDate": "1932-05-22",
+          "url": "https://www.presidency.ucsb.edu/documents/address-oglethorpe-university-atlanta-georgia",
+          "exactLocator": "22 May 1932; final paragraph, third sentence; complete sentence",
+          "wordCount": 7,
+          "literalEvidence": "We need the courage of the young.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": true,
+            "retrievalHttpStatus": 200,
+            "method": "Browser reading plus independent literal substring match after HTML tags/entities/whitespace decoding"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        },
+        {
+          "id": "history-eisenhower-honest-eyes",
+          "speaker": "Dwight D. Eisenhower",
+          "sourceDocument": "eisenhower-1953-06-14-dartmouth",
+          "sourceDate": "1953-06-14",
+          "url": "https://www.presidency.ucsb.edu/documents/remarks-the-dartmouth-college-commencement-exercises-hanover-new-hampshire",
+          "exactLocator": "14 June 1953; Hanover, New Hampshire; courage section, paragraph on honest self-examination, first sentence; complete sentence",
+          "wordCount": 16,
+          "literalEvidence": "You must have courage to look at all about you with honest eyes--above all, yourself.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": true,
+            "retrievalHttpStatus": 200,
+            "method": "Browser reading plus independent literal substring match after HTML tags/entities/whitespace decoding"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        },
+        {
+          "id": "history-eisenhower-climate-of-freedom",
+          "speaker": "Dwight D. Eisenhower",
+          "sourceDocument": "eisenhower-1957-01-21-second-inaugural",
+          "sourceDate": "1957-01-21",
+          "url": "https://www.presidency.ucsb.edu/documents/second-inaugural-address",
+          "exactLocator": "21 January 1957; paragraph explaining the pursuit of peace, first sentence; White House release text; complete sentence",
+          "wordCount": 11,
+          "literalEvidence": "We seek peace, knowing that peace is the climate of freedom.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": true,
+            "retrievalHttpStatus": 200,
+            "method": "Browser reading plus independent literal substring match after HTML tags/entities/whitespace decoding"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        },
+        {
+          "id": "history-kennedy-discomfort-of-thought",
+          "speaker": "John F. Kennedy",
+          "sourceDocument": "kennedy-1962-06-11-yale",
+          "sourceDate": "1962-06-11",
+          "url": "https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/yale-university-19620611",
+          "exactLocator": "11 June 1962; paragraph on myth as an enemy of truth, final sentence; complete sentence",
+          "wordCount": 11,
+          "literalEvidence": "We enjoy the comfort of opinion without the discomfort of thought.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": false,
+            "retrievalHttpStatus": 403,
+            "method": "Exact literal sentence in full JFK Library transcript returned by web browser tool; automated fetch blocked"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        },
+        {
+          "id": "history-kennedy-opportunities-for-peace",
+          "speaker": "John F. Kennedy",
+          "sourceDocument": "kennedy-1963-10-19-maine",
+          "sourceDate": "1963-10-19",
+          "url": "https://www.presidency.ucsb.edu/documents/address-the-university-maine",
+          "exactLocator": "19 October 1963; Orono; paragraph assessing progress after the Cuban missile crisis, third sentence; complete sentence",
+          "wordCount": 11,
+          "literalEvidence": "We have achieved new opportunities which we cannot afford to waste.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": true,
+            "retrievalHttpStatus": 200,
+            "method": "Browser reading plus independent literal substring match after HTML tags/entities/whitespace decoding"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        },
+        {
+          "id": "history-churchill-human-societies",
+          "speaker": "Winston Churchill",
+          "sourceDocument": "churchill-1949-03-31-mit",
+          "sourceDate": "1949-03-31",
+          "url": "https://infinite.mit.edu/video/sir-winston-churchill-mit-%E2%80%93-1949-mid-century-convocation-speech/",
+          "exactLocator": "31 March 1949; Boston Garden; humanities and human nature passage, first sentence of the paragraph comparing societies with plants; complete sentence",
+          "wordCount": 16,
+          "literalEvidence": "Human beings and human societies are not structures that are built, or machines that are forged.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": true,
+            "retrievalHttpStatus": 200,
+            "method": "Browser reading plus independent literal substring match after HTML tags/entities/whitespace decoding"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        },
+        {
+          "id": "history-churchill-hope-and-patience",
+          "speaker": "Winston Churchill",
+          "sourceDocument": "churchill-1949-03-31-mit",
+          "sourceDate": "1949-03-31",
+          "url": "https://infinite.mit.edu/video/sir-winston-churchill-mit-%E2%80%93-1949-mid-century-convocation-speech/",
+          "exactLocator": "31 March 1949; Boston Garden; closing discussion of time and relations with Russia, paragraph-opening sentence; complete sentence",
+          "wordCount": 7,
+          "literalEvidence": "We need not abandon hope or patience.",
+          "literalEvidenceCheck": {
+            "fullOriginalRead": true,
+            "exactMatchInBrowserTranscript": true,
+            "exactMatchInRetrievedHtml": true,
+            "retrievalHttpStatus": 200,
+            "method": "Browser reading plus independent literal substring match after HTML tags/entities/whitespace decoding"
+          },
+          "normalizedDuplicates": [],
+          "excerptBoundaries": "One complete sentence; no interior omissions, combinations, or rewritten wording."
+        }
+      ],
+      "sourceWordTotals": [
+        {
+          "key": "fdr-1932-05-22-oglethorpe",
+          "date": "1932-05-22",
+          "index": [
+            0,
+            1
+          ],
+          "primaryType": "University archive of the full original speech as published in the Public Papers and Addresses of Franklin D. Roosevelt",
+          "browserLines": "APP transcript lines 15–58; selected sentences at line 58",
+          "notes": "Both selections are complete sentences from the closing paragraph; no omitted interior words.",
+          "work": "Address at Oglethorpe University in Atlanta, Georgia",
+          "speaker": "Franklin D. Roosevelt",
+          "urls": [
+            "https://www.presidency.ucsb.edu/documents/address-oglethorpe-university-atlanta-georgia"
+          ],
+          "entryIds": [
+            "history-fdr-imagination-and-facts",
+            "history-fdr-courage-of-the-young"
+          ],
+          "existingEntryIds": [],
+          "existingVerbatimWords": 0,
+          "addedVerbatimWords": 21,
+          "combinedVerbatimWords": 21,
+          "limit": 25,
+          "passes": true,
+          "canonicalReview": "Existing records for this speaker were also reviewed by work title and original date to catch differently titled editions or mirrors; none used this document."
+        },
+        {
+          "key": "eisenhower-1953-06-14-dartmouth",
+          "date": "1953-06-14",
+          "index": [
+            2
+          ],
+          "primaryType": "University archive of original presidential remarks",
+          "browserLines": "APP transcript lines 15–48; selected sentence at line 34",
+          "notes": "Double hyphen retained exactly as printed by APP. Dartmouth visit began 13 June, but speech was 14 June.",
+          "work": "Remarks at the Dartmouth College Commencement Exercises",
+          "speaker": "Dwight D. Eisenhower",
+          "urls": [
+            "https://www.presidency.ucsb.edu/documents/remarks-the-dartmouth-college-commencement-exercises-hanover-new-hampshire"
+          ],
+          "entryIds": [
+            "history-eisenhower-honest-eyes"
+          ],
+          "existingEntryIds": [],
+          "existingVerbatimWords": 0,
+          "addedVerbatimWords": 16,
+          "combinedVerbatimWords": 16,
+          "limit": 25,
+          "passes": true,
+          "canonicalReview": "Existing records for this speaker were also reviewed by work title and original date to catch differently titled editions or mirrors; none used this document."
+        },
+        {
+          "key": "eisenhower-1957-01-21-second-inaugural",
+          "date": "1957-01-21",
+          "index": [
+            3
+          ],
+          "primaryType": "University archive reproducing the White House release",
+          "browserLines": "APP transcript lines 15–76; selected sentence at line 48; source-edition note at lines 77–80",
+          "notes": "Public speech delivered 21 January; the initial oath was taken privately on 20 January. This quotation follows the White House release, explicitly identified by APP, rather than claiming identical wording in all delivered/printed variants.",
+          "work": "Second Inaugural Address",
+          "speaker": "Dwight D. Eisenhower",
+          "urls": [
+            "https://www.presidency.ucsb.edu/documents/second-inaugural-address"
+          ],
+          "entryIds": [
+            "history-eisenhower-climate-of-freedom"
+          ],
+          "existingEntryIds": [],
+          "existingVerbatimWords": 0,
+          "addedVerbatimWords": 11,
+          "combinedVerbatimWords": 11,
+          "limit": 25,
+          "passes": true,
+          "canonicalReview": "Existing records for this speaker were also reviewed by work title and original date to catch differently titled editions or mirrors; none used this document."
+        },
+        {
+          "key": "kennedy-1962-06-11-yale",
+          "date": "1962-06-11",
+          "index": [
+            4
+          ],
+          "primaryType": "National Archives presidential library transcript of original address",
+          "browserLines": "JFK Library transcript lines 18–91; selected sentence at line 30",
+          "notes": "The often-added opening Too often belongs to an earlier sentence, not to this one. The exact complete sentence is used. Direct Node fetch received HTTP 403; the web browser tool successfully returned the full official transcript and literal sentence.",
+          "work": "Commencement Address at Yale University",
+          "speaker": "John F. Kennedy",
+          "urls": [
+            "https://www.jfklibrary.org/archives/other-resources/john-f-kennedy-speeches/yale-university-19620611"
+          ],
+          "entryIds": [
+            "history-kennedy-discomfort-of-thought"
+          ],
+          "existingEntryIds": [],
+          "existingVerbatimWords": 0,
+          "addedVerbatimWords": 11,
+          "combinedVerbatimWords": 11,
+          "limit": 25,
+          "passes": true,
+          "canonicalReview": "Existing records for this speaker were also reviewed by work title and original date to catch differently titled editions or mirrors; none used this document."
+        },
+        {
+          "key": "kennedy-1963-10-19-maine",
+          "date": "1963-10-19",
+          "index": [
+            5
+          ],
+          "primaryType": "University archive of original presidential address",
+          "browserLines": "APP transcript lines 15–49; selected sentence at line 31",
+          "notes": "Opportunities means limited diplomatic progress following the Cuban missile crisis, as retained in the entry context.",
+          "work": "Address at the University of Maine",
+          "speaker": "John F. Kennedy",
+          "urls": [
+            "https://www.presidency.ucsb.edu/documents/address-the-university-maine"
+          ],
+          "entryIds": [
+            "history-kennedy-opportunities-for-peace"
+          ],
+          "existingEntryIds": [],
+          "existingVerbatimWords": 0,
+          "addedVerbatimWords": 11,
+          "combinedVerbatimWords": 11,
+          "limit": 25,
+          "passes": true,
+          "canonicalReview": "Existing records for this speaker were also reviewed by work title and original date to catch differently titled editions or mirrors; none used this document."
+        },
+        {
+          "key": "churchill-1949-03-31-mit",
+          "date": "1949-03-31",
+          "index": [
+            6,
+            7
+          ],
+          "primaryType": "MIT institutional recording/transcript, corroborated by the MIT News Office official text reproduced by the International Churchill Society",
+          "browserLines": "MIT full speech transcript lines 41–183; selected sentences at lines 131 and 170; ICS full official text lines 101–205; equivalent sentences at lines 180 and 200",
+          "notes": "MIT and ICS are two witnesses to one canonical document, not separate word budgets. For the first quotation, MIT transcript includes a comma after built; ICS official text omits that comma. Words agree. Other parts of the MIT transcript have transcription errors; both selected sentences were checked against the official-text mirror.",
+          "work": "MIT Mid-Century Convocation address",
+          "speaker": "Winston Churchill",
+          "urls": [
+            "https://infinite.mit.edu/video/sir-winston-churchill-mit-%E2%80%93-1949-mid-century-convocation-speech/",
+            "https://winstonchurchill.org/resources/speeches/1946-1963-elder-statesman/mit-mid-century-convocation/"
+          ],
+          "entryIds": [
+            "history-churchill-human-societies",
+            "history-churchill-hope-and-patience"
+          ],
+          "existingEntryIds": [],
+          "existingVerbatimWords": 0,
+          "addedVerbatimWords": 23,
+          "combinedVerbatimWords": 23,
+          "limit": 25,
+          "passes": true,
+          "canonicalReview": "Existing records for this speaker were also reviewed by work title and original date to catch differently titled editions or mirrors; none used this document."
+        }
+      ],
+      "exclusionsAndCaveats": [
+        "No generic quotation site supplied authority. Search-result fragments were used only for discovery; chosen passages were read in full original documents.",
+        "Previously cited speeches were avoided, including FDR inaugural/Four Freedoms/Commonwealth Club/1944 speeches; Eisenhower first inaugural/farewell/Atoms for Peace/Chance for Peace/D-Day order; Kennedy Rice/inaugural/American University/civil-rights/Amherst speeches; and the existing Churchill wartime/Harrow/Fulton addresses.",
+        "Kennedy Yale sentence is used without the frequently attached opening Too often, which does not occur at the start of that sentence in the library transcript.",
+        "Churchill MIT views are presented with their Cold War and Western-alliance setting; no claim that his wider political record exemplifies universal hospitality is made.",
+        "FDR selections concern Depression-era economic reform and the responsibilities of graduates, not generic positive-thinking advice.",
+        "The legacy Roosevelt undelivered 1945 address quotation was found and excluded from new-document selection.",
+        "All output mutations are limited to modern-statecraft.json and modern-statecraft-audit.json; no application files were changed."
+      ],
+      "checks": {
+        "uniqueNewIds": true,
+        "noExistingIdDuplicates": true,
+        "noNormalizedTextDuplicates": true,
+        "noInternalNormalizedTextDuplicates": true,
+        "sourceBudgetsPass": true
+      }
+    },
+    {
+      "collection": "international",
+      "title": "Dawn Anthology: international historical-leader expansion audit",
+      "verified": "2026-10-11",
+      "scope": {
+        "requested": 8,
+        "delivered": 8,
+        "perPerson": {
+          "queen-elizabeth-ii": 2,
+          "nelson-mandela": 2,
+          "charles-de-gaulle": 2,
+          "oliver-cromwell": 2
+        },
+        "appFilesModified": false
+      },
+      "corpusChecks": {
+        "method": "Evaluated each JavaScript constant in a fresh Node vm context. Read DAWN_QUOTES objects; flattened the twelve monthly arrays for Q, Q_MAKERS and Q_CLASSICS; read UPLIFT tuple text at index 0.",
+        "counts": {
+          "data-anthology.js": 789,
+          "data-year.js": 366,
+          "data-year-makers.js": 366,
+          "data-year-classics.js": 366,
+          "data-uplift.js": 156
+        },
+        "totalExistingRecords": 2043,
+        "normalization": "Unicode NFKD, lowercase, remove Unicode punctuation/symbols/combining marks, collapse whitespace.",
+        "duplicateTexts": [],
+        "duplicateIds": [],
+        "duplicateFrenchOriginals": [],
+        "exactPriorSourceUrlMatches": [],
+        "semanticDocumentCheck": "Reviewed existing records for all four figures, including their works and source URLs. None quotes any of the eight newly selected documents. Existing Mandela autobiography and the attributed UPLIFT quotation are different documents."
+      },
+      "copyrightAccounting": {
+        "method": "Count whitespace-separated words in displayed English and French originalText. For conservative review the new English rendering and its French original are added together. Repeated evidence text in this audit is the same excerpt, not an additional passage. No new document is already quoted in the checked corpus. Mirrors and republished copies are treated as the same underlying document.",
+        "maximumPerUnderlyingDocument": 25,
+        "sourceGrouping": "The Mayer anthology PDF is conservatively one source group even though it contains many individual letters; only its 11 August 1933 letter is quoted. The Foundation Annual Report is also treated as one source group and only Mandela's own opening message is quoted."
+      },
+      "editionNote": {
+        "cromwell": "The institutional index states that its transcriptions derive from Carlyle's second edition of 1846, initially transcribed by Cambridgeshire Software House in 1999. These are edited document transcriptions, not autograph facsimiles.",
+        "source": "https://www.olivercromwell.org/wordpress/letters-and-speeches/"
+      },
+      "records": [
+        {
+          "id": "history-elizabeth-pull-of-home",
+          "personId": "queen-elizabeth-ii",
+          "work": "Christmas Broadcast 2017",
+          "sourceUrls": [
+            "https://www.royal.uk/christmas-broadcast-2017"
+          ],
+          "verifiedExcerpt": "There is a timeless simplicity to the pull of home.",
+          "displayedEnglishWords": 10,
+          "originalFrenchWords": 0,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 10,
+          "combinedDocumentWords": 10,
+          "within25Words": true,
+          "primaryDocument": "Royal Household's complete transcript of Elizabeth II's 2017 Christmas broadcast.",
+          "verification": "Exact complete sentence verified in the paragraph about warmth, shared stories and returning home; no omitted words.",
+          "dateAndLocation": "Speech date is 25 December 2017, corroborated by the Royal Family's dated broadcast video. The transcript webpage was published 9 January 2018; that website publication date is not treated as the speech date. No recording location asserted.",
+          "dateCorroboration": "https://www.youtube.com/watch?v=IjTBcqpl2kc",
+          "surroundingPassageSummary": "The sentence is followed by reflections on communal identities, the Manchester bombing, Grenfell Tower, hurricanes, emergency responders and the wider meaning of home.",
+          "exclusions": "Did not reuse the earlier 1957 broadcast quotation which the 2017 speech itself repeats."
+        },
+        {
+          "id": "history-elizabeth-rebuild-trust",
+          "personId": "queen-elizabeth-ii",
+          "work": "Christmas Broadcast 2019",
+          "sourceUrls": [
+            "https://www.royal.uk/queen%E2%80%99s-christmas-broadcast-2019"
+          ],
+          "verifiedExcerpt": "It takes patience and time to rebuild trust, and progress often comes through small steps.",
+          "displayedEnglishWords": 15,
+          "originalFrenchWords": 0,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 15,
+          "combinedDocumentWords": 15,
+          "within25Words": true,
+          "primaryDocument": "Royal Household's complete transcript of Elizabeth II's 2019 Christmas broadcast.",
+          "verification": "Exact complete sentence verified at the start of the paragraph on reconciliation, immediately after its opening sentence.",
+          "dateAndLocation": "Speech date is 25 December 2019, corroborated by the Royal Family's broadcast video. The transcript webpage's 23 December 2019 publication label is distinguished from the Christmas broadcast date. No recording location asserted.",
+          "dateCorroboration": "https://www.youtube.com/watch?v=HD5oZDKqJWs",
+          "surroundingPassageSummary": "The preceding paragraph describes friendly commemorations by former enemies at the seventy-fifth anniversary of D-Day; the rest of the paragraph discusses peace, unity and moving forward together.",
+          "exclusions": "Did not capitalize or extract the often-circulated closing small-steps clause as though it were a freestanding full sentence."
+        },
+        {
+          "id": "history-mandela-valued-treasure",
+          "personId": "nelson-mandela",
+          "work": "Launch of the National Campaign for Learning and Teaching",
+          "sourceUrls": [
+            "https://sahistory.org.za/archive/address-president-nelson-mandela-launch-national-campaign-learning-and-teaching-soweto-20"
+          ],
+          "verifiedExcerpt": "But our most valued treasure is our people, especially the youth.",
+          "displayedEnglishWords": 11,
+          "originalFrenchWords": 0,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 11,
+          "combinedDocumentWords": 11,
+          "within25Words": true,
+          "primaryDocument": "Office of the President speech, reproduced as archive R-0086966 by South African History Online.",
+          "verification": "Exact complete sentence in the first substantive paragraph after the salutations. Archive title identifies Mandela, event, Soweto and 20 February 1997; transcript ends with the issuing Office of the President.",
+          "dateAndLocation": "Soweto, 20 February 1997; both explicitly stated in the archive title.",
+          "surroundingPassageSummary": "The paragraph contrasts mineral and other natural wealth with people. The speech gives specific responsibilities to government, educators, students and parents for improving education.",
+          "exclusions": "Avoided Mandela's frequently repeated impossible-until-done attribution, already present in UPLIFT and not supported by a primary source here."
+        },
+        {
+          "id": "history-mandela-room-to-grow",
+          "personId": "nelson-mandela",
+          "work": "Message from Mr Nelson Mandela, Nelson Mandela Foundation Annual Report 2005",
+          "sourceUrls": [
+            "https://www.nelsonmandela.org/uploads/files/Annual_Report_2005.pdf"
+          ],
+          "verifiedExcerpt": "every person is valued for who they are and is able to have the opportunity to grow and to have genuine choices.",
+          "displayedEnglishWords": 22,
+          "originalFrenchWords": 0,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 22,
+          "combinedDocumentWords": 22,
+          "within25Words": true,
+          "primaryDocument": "Nelson Mandela's own opening message in the Nelson Mandela Foundation Annual Report 2005.",
+          "verification": "Continuous final clause of his statement of continuing commitments; exact words verified in printed page 1 / PDF page 3, under his own named message. Initial lower case preserves its status as a clause rather than an independent original sentence.",
+          "dateAndLocation": "Publication year 2005 only. The message has no precise day or writing location in the report; none was invented.",
+          "surroundingPassageSummary": "Mandela explains retirement from many public commitments and confidence in his foundations. His commitment rejects poverty, oppression and bigotry and supports individual worth and opportunity.",
+          "exclusions": "Did not use Foundation staff prose elsewhere in the report as Mandela's own words. Rejected using the report's quotation of the Make Poverty History speech as the main evidence when this direct authored message offered firmer primary provenance."
+        },
+        {
+          "id": "history-degaulle-dignity-guaranteed",
+          "personId": "charles-de-gaulle",
+          "work": "Address at Oxford",
+          "sourceUrls": [
+            "https://francelibre.net/le-discours-doxford-du-general-de-gaulle-25-novembre-1941/"
+          ],
+          "verifiedExcerpt": "la liberté, la sécurité, la dignité de chacun y soient exaltées et garanties",
+          "displayedEnglishWords": 10,
+          "originalFrenchWords": 13,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 23,
+          "combinedDocumentWords": 23,
+          "within25Words": true,
+          "primaryDocument": "French Oxford speech excerpt reproduced by Fondation de la France Libre, with its contextual essay and reference to Discours et messages, tome 1 (Plon, 1970).",
+          "verification": "Continuous 13-word French clause verified in the concluding paragraph of the reproduced excerpt. The institution identifies the date and Oxford Union setting. The excerpt is embedded in an argument that a postwar social order must protect individual freedom, security and dignity.",
+          "dateAndLocation": "Oxford Union, 25 November 1941, stated in the Foundation's contextual introduction. No unverified precise printed page within the cited multi-page edition span was supplied.",
+          "surroundingPassageSummary": "De Gaulle warns that victory by arms alone will not prevent a return of totalitarian threats if the postwar order subordinates the individual. The quoted clause is a positive requirement for the proposed order.",
+          "translationMethod": "New English translation, not attributed as original English. 'De chacun' is made possessive as 'everyone’s'; 'exaltées' is rendered 'honoured'; 'y' is retained as 'there' and its referent explained in context. The French subjunctive belongs to the larger construction describing an order to be built.",
+          "exclusions": "Did not present the passage as a general claim about mental power over physical reality. Avoided the 1962 German-delivered youth speech because the found French page labels its text as a translation and its subheading mislocates the occasion."
+        },
+        {
+          "id": "history-degaulle-gentle-sympathy",
+          "personId": "charles-de-gaulle",
+          "work": "Letter to Colonel Émile Mayer",
+          "sourceUrls": [
+            "https://www.charles-de-gaulle.org/wp-content/uploads/2017/09/Acceder-aux-lettres.pdf"
+          ],
+          "verifiedExcerpt": "Puissent-ils au moins servir d'adoucissements.",
+          "displayedEnglishWords": 7,
+          "originalFrenchWords": 5,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 12,
+          "combinedDocumentWords": 12,
+          "within25Words": true,
+          "primaryDocument": "Fondation Charles de Gaulle's eight-page transcription of letters to Colonel Émile Mayer, 1925–1938; the relevant individual letter is dated 11 August 1933.",
+          "verification": "Exact full French sentence verified in the first paragraph under AOUT 1933, Paris, le 11 août 1933, PDF page 5. The following paragraph explicitly refers to the death of Madame Émile Mayer.",
+          "dateAndLocation": "Paris, 11 August 1933, from the letter heading. PDF page 5 is the viewer page, not a claimed printed edition page.",
+          "surroundingPassageSummary": "De Gaulle offers sympathy after Mayer's bereavement, acknowledges its inability to console adequately, and hopes it may ease the grief. He also offers a visit while asking Mayer to decline it if inconvenient.",
+          "translationMethod": "New English translation. 'Ils' refers to expressions of sympathy in the preceding sentence; 'servir d’adoucissements' is rendered 'bring some relief'. The pronoun is retained and explained in context, without adding invented words inside the quotation.",
+          "exclusions": "No claim that this is a historic published English translation or an autograph facsimile. Other letters collected in the same PDF are not quoted."
+        },
+        {
+          "id": "history-cromwell-humble-seeker",
+          "personId": "oliver-cromwell",
+          "work": "Letter to Bridget Ireton",
+          "sourceUrls": [
+            "https://www.olivercromwell.org/Letters_and_Speeches/Letters/Letter_38.pdf"
+          ],
+          "verifiedExcerpt": "And thus to be a seeker is to be of the best sect next to a finder;",
+          "displayedEnglishWords": 17,
+          "originalFrenchWords": 0,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 17,
+          "combinedDocumentWords": 17,
+          "within25Words": true,
+          "primaryDocument": "Cromwell's letter to Bridget Ireton, reproduced by the Cromwell Association and Cromwell Museum from Carlyle's second edition (1846).",
+          "verification": "Exact 17-word opening clause checked in Letter 38 PDF page 1, after discussion of Bridget's sister's spiritual searching. The source semicolon is retained; the omitted continuation links seeking with humility and faith.",
+          "dateAndLocation": "London, 25 October 1646, from the letter heading; recipient Bridget Ireton from the address.",
+          "surroundingPassageSummary": "A father discusses his daughter's sister, her distress over vanity and spiritual search, then urges Bridget's devotion and asks reciprocal prayers.",
+          "exclusions": "Cromwell's authored correspondence is used, not a play or fictionalized speech. This is Christian religious language and is not reframed as a secular manifesto."
+        },
+        {
+          "id": "history-cromwell-soul-prospers",
+          "personId": "oliver-cromwell",
+          "work": "Letter to Elizabeth Cromwell",
+          "sourceUrls": [
+            "https://www.olivercromwell.org/Letters_and_Speeches/Letters/Letter_158.pdf"
+          ],
+          "verifiedExcerpt": "It joys me to hear thy soul prospereth: the Lord increase His favours to thee more and more.",
+          "displayedEnglishWords": 18,
+          "originalFrenchWords": 0,
+          "existingDocumentWords": 0,
+          "newDocumentWords": 18,
+          "combinedDocumentWords": 18,
+          "within25Words": true,
+          "primaryDocument": "Cromwell's letter to his wife Elizabeth, reproduced by the Cromwell Association and Cromwell Museum from Carlyle's second edition (1846).",
+          "verification": "Exact full 18-word sentence checked in Letter 158 PDF page 1. Archaic verbs and the edition's capitalization are retained.",
+          "dateAndLocation": "Edinburgh, 3 May 1651, from the letter heading; recipient Elizabeth Cromwell at the Cockpit from the address.",
+          "surroundingPassageSummary": "Cromwell explains that he wants to write although he has little news, gives thanks for his wife's spiritual prosperity and example, and sends affection to the family.",
+          "exclusions": "Attributed to Cromwell as writer, not to the fictional Cromwell in later literature. No modern paraphrase is substituted for the historical wording."
+        }
+      ]
+    }
+  ],
+  "integration": {
+    "previousRecordsUnchanged": true,
+    "legacyFilesUnchanged": true,
+    "duplicateCheck": "Unicode NFKD, lowercase, punctuation and spacing normalized; no new duplicate IDs or text.",
+    "sourceReview": "Institutional editions of original speeches and correspondence; research and independent review recorded below."
+  },
+  "independentReview": {
+    "date": "2026-10-11",
+    "entriesReviewed": 24,
+    "result": "No wording, attribution, date, context, translation, duplicate or source-budget defects found.",
+    "methods": [
+      "Reopened institutional transcripts and letter editions; compared selected sentences or clauses, source identity, date and historical setting.",
+      "Compared all new text with the 2,043 existing source and original records, including document identity and differently titled editions.",
+      "Cross-reviewed the three research collections with a separate researcher; root additionally inspected FDR Oglethorpe, Kennedy Yale, Churchill MIT, Lincoln Reavis and Jefferson McPherson passages."
+    ],
+    "editionNotes": [
+      "The institutional Jefferson McPherson and de Gaulle Oxford sources reproduce original extracts, not the whole documents; source labels retain that distinction.",
+      "The Washington friendship letter is a university early-access transcription, explicitly disclosed on the card.",
+      "Churchill MIT punctuation varies by transcript; wording agrees with the official text mirror."
+    ],
+    "reviewedDocumentWordCeiling": 25
+  }
+}
