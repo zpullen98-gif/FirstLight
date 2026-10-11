@@ -2,6 +2,29 @@
 
 Paste-ready context for a fresh session.
 
+## Dawn Anthology, 11 October 2026
+
+Mind now includes The Dawn Anthology (`#/anthology`): 59 checked excerpts from
+Star Trek and its literary sources, Star Wars, Middle-earth, Game of Thrones,
+The Witcher and 15 historical leaders. Each new card links its supporting source
+and distinguishes dialogue, original literature, editions and historical context.
+The familiar Gandalf time passage uses explicitly labelled scholarly corroboration.
+The research scope and exclusions are in `.scripts/anthology-audit.json`.
+
+Today has ten quotes: the existing dated Year reading plus nine unique anthology
+selections, stable for `flToday()` and respecting the reader's shift boundary.
+The older UPLIFT bank is no longer selected by Today; TEACHINGS still uses its file.
+The existing 1,098 Year entries keep their earlier citation audit and were not
+re-audited in this change. Two dark literary excerpts remain library-only.
+
+New files: `js/data-anthology.js`, `js/anthology.js`, `js/ui-anthology.js`,
+`css/house-anthology.css`. No storage schema changes. The global search includes
+the new shelf, and each card has a stable `#/anthology/<id>` link. Source panels
+and the anthology work offline; external evidence links require a connection.
+Run `.scripts/check-anthology.js` alongside check-syntax and check-flow.
+The suite destination is the active `_release-merge/light/` checkout; use the
+reviewed source delta, preserving the profile integration and suite worker.
+
 ## What it is
 
 An offline-first PWA for a daily contemplative practice, at `C:\Users\zpull\FirstLight`.

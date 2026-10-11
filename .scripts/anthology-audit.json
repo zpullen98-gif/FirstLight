@@ -1,0 +1,153 @@
+{
+  "reviewed": "2026-10-11",
+  "count": 59,
+  "scope": "New anthology entries only. The three pre-existing Year tracks retain their existing citations and were not re-audited by this change.",
+  "daily": "The current Year reading plus nine distinct anthology entries. Ahab revenge and Hamlet mortality excerpts are available in the library only.",
+  "sources": {
+    "trek": {
+      "verifiedOn": "2026-10-11",
+      "scope": "Sixteen publication candidates: seven Star Trek dialogue excerpts and nine original literary passages. Only included entries are verified; this is not a blanket certification of all 43 PDF entries.",
+      "method": [
+        "Read the user's extracted 18-page PDF as leads, not authority.",
+        "Matched literary words to the Folger play text or Project Gutenberg original novel.",
+        "Used official StarTrek.com quotation/features and Folger's own analysis for screen relationships. Did not cite quote aggregators, fandom wikis or unauthorised subtitles as proof.",
+        "Short excerpts preserve words; straight apostrophes and spaces replace typographical apostrophes and line breaks. The app should label excerpts and retain the original work/locator.",
+        "The speaker field identifies the original literary author and dramatic speaker, not just the Star Trek character who later borrows the words.",
+        "Shakespeare dates are deliberately absent except Hamlet's broadly dated c.1600; exact composition years should not be invented.",
+        "Official quote sites can contain inaccuracies themselves: the Star Trek arts essay misidentifies one Macbeth quotation as Hamlet. Only the independently checked Hamlet passage is used from that discussion."
+      ],
+      "substantiveCorrections": [
+        {
+          "pdfEntry": 12,
+          "issue": "The PDF attributes There Is a Tide... to Deep Space Nine and the Dominion War.",
+          "correction": "The official Discovery home-video episode list identifies it as Discovery episode 312. Folger also documents Picard quoting Julius Caesar's tide speech in the Picard finale. These are distinct screen connections.",
+          "sources": [
+            "https://www.startrek.com/news/star-trek-discovery-season-three-arrives-on-blu-ray-on-july-20",
+            "https://www.folger.edu/blogs/shakespeare-and-beyond/shakespeare-star-trek-today/"
+          ]
+        },
+        {
+          "pdfEntry": 2,
+          "issue": "The familiar Trek phrasing and the Folger original are not identical.",
+          "correction": "The original-text card uses Folger's wording with 'a man'. Its connection describes Picard's version as a spoken adaptation, not an exact copy of that edition.",
+          "sources": [
+            "https://www.folger.edu/explore/shakespeares-works/hamlet/read/2/2/",
+            "https://www.startrek.com/news/shakespeare-star-trek-connection"
+          ]
+        },
+        {
+          "pdfEntry": 8,
+          "issue": "The famous 'name' wording varies by textual edition.",
+          "correction": "Folger's Romeo and Juliet reads 'By any other word'. Preserve that reading and explicitly name the edition.",
+          "sources": [
+            "https://www.folger.edu/explore/shakespeares-works/romeo-and-juliet/read/2/2/"
+          ]
+        },
+        {
+          "pdfEntry": 22,
+          "issue": "The PDF records only a general thematic parallel for All the world's a stage.",
+          "correction": "Official Star Trek documentation confirms Q adapts 'world' into 'galaxy' in Hide and Q. Folger also identifies a Prodigy episode using the original phrase as its title.",
+          "sources": [
+            "https://www.startrek.com/news/shakespeare-star-trek-connection",
+            "https://www.folger.edu/blogs/shakespeare-and-beyond/shakespeare-star-trek-today/"
+          ]
+        },
+        {
+          "pdfEntry": 1,
+          "issue": "The meaning of 'undiscovered country' changes between Hamlet and Star Trek VI.",
+          "correction": "The card preserves death/the afterlife in the original and identifies the film's future meaning separately.",
+          "sources": [
+            "https://www.folger.edu/explore/shakespeares-works/hamlet/read/3/1/",
+            "https://www.folger.edu/blogs/shakespeare-and-beyond/shakespeare-star-trek-today/"
+          ]
+        }
+      ],
+      "excludedOrPending": [
+        "The uploaded guide's philosophical parallels (Frankenstein, Santayana, Genesis, Plato, Huxley, Orwell, Asimov, Philip K. Dick, Sagan, Homer) must not become dialogue attributed to Trek characters. They were not imported as Trek quotations.",
+        "Measure for Measure / Beyond: the original hope line was verified at Folger; only third-party subtitles and clips surfaced for the specific film wording during this pass. Not included until an authorised screen source is available.",
+        "Hamlet / heaven and earth: original verified, precise claimed Enterprise and Discovery appearances not independently established in the selected primary material. Not included in this batch.",
+        "He was a man: official StarTrek.com discusses the phrase in Data's Shakespeare book in The Measure of a Man. That does not prove or disprove the PDF's additional Most Toys claim; leave it pending.",
+        "To thine own self be true: an official source confirms Thine Own Self as a Hamlet-derived episode title; the PDF's claimed Hide and Q spoken occurrence was not independently established. Do not publish that occurrence without checking.",
+        "Melville card verifies the original passage and the broad film connection. Its wording does not assert that the retrieved official article independently reproduces the exact Khan line.",
+        "Consider keeping the Ahab revenge excerpt and Hamlet's death passage in the browsable anthology rather than the daily uplifting rotation. Their context is essential; neither is positive conduct advice."
+      ],
+      "quotationBudgets": [
+        {
+          "source": "https://www.startrek.com/news/captain-kirks-wisest-quotes",
+          "includedWords": 18
+        },
+        {
+          "source": "https://www.startrek.com/news/jean-luc-picard-starfleets-hopepunk-captain",
+          "includedWords": 15
+        },
+        {
+          "source": "https://www.startrek.com/news/iconic-trek-motivation",
+          "includedWords": 20
+        },
+        {
+          "source": "https://www.startrek.com/news/guest-blog-leonard-nimoy-on-the-vulcan-salute",
+          "includedWords": 4
+        }
+      ],
+      "note": "Do not expand the modern quotations or reuse the same retrieved pages for additional quoted lines without rechecking cumulative excerpt length."
+    },
+    "fiction": {
+      "checked": "2026-10-11",
+      "count": 18,
+      "coverage": {
+        "star-wars": 7,
+        "middle-earth": 4,
+        "thrones": 4,
+        "witcher": 3
+      },
+      "method": "Inspect exact wording on Lucasfilm, Netflix, author-estate, publisher, or publisher-authored material. Prefer short complete sentences. Treat book and screen versions separately. Never infer a speaker from the actor pictured.",
+      "limitations": [
+        "The three Tolkien fictional lines are supported by a Houghton Mifflin teacher guide, hosted by the school-library distributor Bound to Stay Bound. This is publisher-authored evidence rather than a fan quotation page. The fourth Tolkien item is an author's real letter and must be labeled as such.",
+        "Tyrion's mind line is supplied with the familiar original novel locator, but the inspected official page is the authorized 2013 quotation collection. For the crowns and lies entries, the verified work field deliberately names that collection; verificationNote records likely underlying novels without presenting an uninspected official chapter as verified.",
+        "The Eddard publisher excerpt was inspected earlier in this session but later web opens returned intermittent errors. Its exact sentence also appears in the original novel text; a final publication check may prefer the stable three-entry Tyrion collection if the app requires every source to open reliably.",
+        "The Witcher entries are television-adaptation wording. No claim is made that these match a particular English translation of Sapkowski's Polish novels.",
+        "Canonical wording was prioritized over filling a numerical quota. The Tolkien lines are useful but less famous than widely shared Gandalf motivational quotations."
+      ],
+      "deferred": [
+        {
+          "subject": "Gandalf on the time given to us",
+          "reason": "A credible Tolkien scholarly society quotes it with the novel context, but no exact-text publisher or Estate source was located in this pass. Do not silently label a fan transcription as primary verified.",
+          "researchLead": "https://www.tolkiengesellschaft.de/49252/space-and-time-in-tolkiens-work-tolkien-seminar-2022/"
+        },
+        {
+          "subject": "Pippin on shortcuts",
+          "reason": "An academic Proverbium article gives the original chapter locator and text, but this is secondary scholarly quotation, not an inspected official novel edition.",
+          "researchLead": "https://hrcak.srce.hr/file/403061"
+        },
+        {
+          "subject": "Witcher destiny requires something more",
+          "reason": "Netflix's Season 1 recap wording/attribution risks confusion between Geralt and Yennefer and between finale voice-over and the earlier scene. Excluded rather than assign a definitive speaker or episode from that recap alone."
+        },
+        {
+          "subject": "Ned's bravery reply",
+          "reason": "The publisher's abbreviated Bran excerpt did not reproduce the desired exchange. Excluded instead of relying on ubiquitous quotation sites."
+        }
+      ],
+      "copyrightAudit": {
+        "rule": "At most 25 quoted words across all entries drawn from a single copyrighted source; fragments within a PDF count together regardless of page.",
+        "largestSources": [
+          {
+            "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780345539120",
+            "quotedWords": 24
+          },
+          {
+            "url": "https://media.btsb.com/TitleLessonPlans/208.pdf",
+            "quotedWords": 23
+          }
+        ]
+      }
+    },
+    "history": "Historical quotation research completed 2026-10-11\n\n23 candidate entries, 15 leaders. Entries include past heads of government,\ncivil-rights and social-movement leaders, and Marcus Aurelius as an ancient\nleader. This is a carefully bounded initial collection, not a complete global\nhistory or an endorsement of every action or belief of any quoted person.\n\nMethod\n- Checked exact wording against institutional reproductions of speeches,\n  manuscripts, interviews or an original physical item.\n- No quotation aggregator is used as evidence in a published candidate.\n- Excerpts preserve the words and original casing, including mid-sentence\n  fragments. Paragraph breaks are collapsed only where two adjacent sentences\n  are selected. Do not silently modernise translations or alter quote text to\n  satisfy a British-spelling checker. Editorial context uses British prose.\n- All source pages contribute no more than 25 quoted words in total across\n  the proposed collection. Mandela's shared inauguration page contributes\n  exactly 25 words. Book 10 and Book 12 of Meditations are different source\n  pages. Context summaries stay well below the source summary word limits.\n\nImportant distinctions\n- George Washington's Farewell Address is a published letter, not a spoken\n  farewell. Manuscript is dated 17 September; publication was 19 September\n  1796. The latter is the candidate locator. Mount Vernon explicitly confirms\n  both dates in its primary-source page and digital encyclopedia.\n- FDR's American Presidency Project page is a transcript as delivered, which\n  its editors distinguish from the prepared text in the Public Papers.\n- King's selected line is from the 10 December 1964 acceptance speech, not the\n  separate Nobel lecture. The official Nobel transcript was fully returned by\n  indexed search; direct opens of Nobel pages were intermittently 403.\n- Maathai's candidate is from her 8 October 2004 telephone interview. The\n  official interview transcript was fully returned in indexed primary search;\n  direct opens were 403. It includes an explicit transcription-difficulty\n  notice, retained in the candidate's context. Her familiar Nobel-lecture\n  excerpts were not included because the lecture itself could not be read\n  directly and a Green Belt Movement curated page mixed several quotations\n  without clear individual work-level provenance.\n- Gandhi's text is a reproduced English translation of two Hindustani\n  speeches, from My Non-violence (1960), pages 183-205. The web page does not\n  identify the translator. Do not claim that the chosen English words were\n  spoken by Gandhi in English.\n- Marcus Aurelius is quoted in George Long's translation, with book and section\n  retained. Approximate ancient date is deliberately not falsely precise.\n- The two Douglass quotations occur on PDF page 11 (zero-based index 10) in\n  the National Park Service's abridged primary-source teaching compilation.\n  That source dates the original speech 3 August 1857 in Canandaigua.\n- Eleanor Roosevelt's excerpt ends at a clause boundary in a longer sentence.\n  Both the original booklet's sponsoring institution and the UN give this\n  wording. The Carnegie page's 1970 web timestamp is not the speech date;\n  the content explicitly gives 27 March 1958.\n- Sojourner Truth's entry comes from her own 1864 printed portrait inscription.\n  It avoids passing off a later reconstruction of her famous 1851 speech as\n  a verbatim record.\n\nOmissions / not included as verified\n- Gandhi: 'Be the change...' No original source checked for that exact slogan.\n- Mandela: 'It always seems impossible until it's done.' No original source\n  established in this review. Chose his actual inauguration instead.\n- Mandela: 'Education is the most powerful weapon...' The Foundation confirms\n  wording but a dated original speech record was not established in the\n  reviewed results; no invented speech date was added.\n- Churchill: 'Success is not final, failure is not fatal...' Not included;\n  no authenticated original speech or writing was established.\n- John Adams: 'Facts are stubborn things.' Founders Online's identified trial\n  record could not be read through the research tool; an unrelated third-party\n  mirror was not substituted as original evidence.\n- Abigail Adams: the learning/chance line has a multipart-letter date issue\n  (20 March letter, 8 May continuation), and the primary document could not be\n  read in this review. Omitted rather than copying a quote site's explanation.\n- Emmeline Pankhurst: law-breakers/law-makers line was assigned to conflicting\n  occasions by search results. No primary text was reached, so omitted.\n- Dag Hammarskjold's heaven/hell line was not included: the actual original\n  begins 'It has been said', showing that its popular treatment as his own\n  coined aphorism loses an attribution distinction.\n\nPrimary research URLs additional to candidate data\nhttps://www.mountvernon.org/library/digitalhistory/digital-encyclopedia/article/george-washington-s-farewell-address\nhttps://www.mkgandhi.org/about-us.php\nhttps://digitallibrary.un.org/record/1291161/?ln=en\n\nVerification evidence for sources with intermittent access failures\n- Mandela: the government primary URL in the candidate data returned the\n  entire inauguration transcript in the initial search response, including\n  both selected lines consecutively near the end. A subsequent direct open\n  also returned the transcript (124 extracted lines). Later retries failed.\n  The quotations were checked against that full text, not a short search\n  snippet or a second-hand quotation page.\n- King: the Nobel Foundation primary page returned its complete acceptance\n  speech through search, including its final paragraphs, date and copyright\n  notice. The retrieved URL had ?mibextid=Zxz2cZ appended; the candidate uses\n  the canonical URL without this tracking parameter. The clean direct open\n  then returned 403. Exact selected wording was visible in the full transcript.\n- Maathai: the Nobel Foundation primary page returned the full questions and\n  answers of the 8 October 2004 interview, named interviewer Marika Griehsel,\n  and the transcription notice. The retrieved URL had ?rand=285 appended;\n  the candidate uses the canonical URL. The page also discusses a different\n  2009 interview; the selected line is from the explicitly dated 2004 section.\n  Clean direct opens then returned 403. Exact wording was checked in the full\n  2004 transcript, not inferred from an isolated search snippet.\n\nRecommend library editorial note: Historical quotations reflect their original\ntime and purpose. Read the context and source alongside the selected words.\n"
+  },
+  "editorialChanges": [
+    "JFK excerpt shortened to its final clause, retaining original wording.",
+    "Tyrion excerpts identify the authorised 2013 collection as the verified edition; uninspected original novel chapters are not asserted.",
+    "Verse line breaks restored for readability. Typographic apostrophes and quotation marks may differ from the linked transcription.",
+    "Gandalf time excerpt added after the lead reviewer inspected the German Tolkien Society seminar page. Its secondary scholarly evidence is explicitly labelled in the card. The original novel, chapter and adaptation distinction are retained; no publisher-hosted original was claimed."
+  ]
+}
