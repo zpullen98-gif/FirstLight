@@ -331,9 +331,34 @@ The requested cast includes religious figures within this explicitly chosen
 anthology shelf. Their transmitted words are labelled `tradition` and remain
 library-only, as do accounts and other passages needing their full setting.
 This exception does not change the default Today path or the Soul privacy rules.
-Today still has the chosen Year reading plus nine distinct anthology selections,
-now drawn from nine collections. Cast browsing changes no personal records.
+The original ten-selection Today layout was superseded by the three-quote
+restoration below. Cast browsing changes no personal records.
 
 Run `.scripts/check-anthology.js` as well as syntax and flow checks before release.
 It verifies the full roster, references, evidence shape, aliases, safe rendering,
-three years of daily rotation, shift boundaries and library-only exclusions.
+source labels, aliases, safe rendering and library-only exclusions.
+
+## Today’s three and the complete anthology, 11 October 2026
+
+The owner restored Today to one dated Year voice plus two lines under A lift for
+the day. The original Lift and Classics pools supply the pair, retaining existing
+citations and provenance notes. Another changes the session’s pair in place so
+films, set counters and a running pacer survive. The shifted day resets that seed;
+normalized text prevents either lift from repeating the dated voice or the other.
+The guided walk keeps its dated voice first and the two lifts with The practice.
+
+The Dawn Anthology is now the common quotation shelf: the 789 sourced selections,
+all three completed 366-entry Year tracks and the 156 original Lift entries.
+Lazy adapters in anthology.js read the existing arrays without copying or changing
+them. Original entries keep their citation qualifications and are explicitly
+distinguished from the newer source-checked additions. Their dates are reading
+slots, so identical wording in separate dated records or editions is preserved.
+The Year and Vault remain working utilities; anthology browsing never switches
+a track or rewrites kept/by-heart keys. Global quote search opens anthology
+permalinks, while the scripture preference and private journal filters still hold.
+Keep existing Lift slots in their current order so lift-NNN links remain stable.
+
+Run check-today-quotes.js and check-anthology-library.js alongside check-syntax.js,
+check-flow.js and check-anthology.js before release. The new checks cover all
+three tracks, distinct lift pairs, day rollover, exact legacy citations, original
+collection filtering, links and state-preserving updates.
