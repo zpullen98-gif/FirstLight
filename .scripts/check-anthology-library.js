@@ -19,7 +19,7 @@ function load(file) { vm.runInContext(fs.readFileSync(path.join(root, file), 'ut
 load('js/anthology.js');
 ok(ctx.dawnLibrary().length === 0, 'The shelf is lazy when data scripts have not loaded');
 ['js/data-year.js', 'js/data-year-makers.js', 'js/data-year-classics.js', 'js/data-uplift.js',
- 'js/tracks.js', 'js/data-anthology.js', 'js/data-dawn-cast.js', 'js/ui-dawn-cast.js', 'js/ui-anthology.js'].forEach(load);
+ 'js/tracks.js', 'js/data-anthology.js', 'js/data-dawn-cast.js', 'js/data-dawn-writers.js', 'js/ui-dawn-cast.js', 'js/ui-dawn-writers.js', 'js/ui-anthology.js'].forEach(load);
 const originals = vm.runInContext('({Q, Q_MAKERS, Q_CLASSICS, UPLIFT, DAWN_QUOTES})', ctx);
 const beforeData = JSON.stringify(originals), beforeRecord = JSON.stringify(ctx.FL);
 const library = ctx.dawnLibrary();

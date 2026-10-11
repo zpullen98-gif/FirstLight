@@ -381,3 +381,26 @@ review are recorded in `.scripts/anthology-leaders-expansion-audit.json`.
 Earlier source records, original Year/Lift data and personal records are unchanged.
 These additions are library-only; Today remains the dated voice plus two lifts.
 Run the same five First Light gates and the public suite checks before publication.
+
+## The Lantern Stage, 11 October 2026
+
+Twelve requested writers now have ten additional selections each, bringing the
+source-checked shelf to 933 and the complete library to 2,187 entries. These author
+profiles live separately from the original PDF cast in `js/data-dawn-writers.js`.
+`js/ui-dawn-writers.js` supplies `#/anthology/writers` and `#/anthology/writer-ID`.
+The first anthology page offers one new line from each author in the requested order.
+The Poets & playwrights filter finds all 120, and author names, aliases and work
+titles are searchable. The UI credits the speaking character separately from the
+writer. Original spelling in quotations and named translations is retained.
+
+The reading shelves contain 24 free complete-text links, twelve authorised excerpts
+and one library catalogue link. Keep these access labels explicit, especially for
+modern plays. External texts require a connection and are not cached in the app.
+Primary editions, publisher previews, theatre education materials and published
+interviews support the selections; generic quotation websites are not evidence.
+Research, source budgets, independent review and the resulting context corrections
+are retained in `.scripts/anthology-dramatists-audit.json`.
+
+Today still has three quotations. Previous anthology records, the original cast,
+Year/Lift data and personal records are unchanged. Run the same five First Light
+gates and public suite checks, plus desktop, phone, palette and offline route checks.
