@@ -308,3 +308,32 @@ Undo reverses the last counter action in this session; a reset retains a zero
 record so an older backup cannot revive it. Import joins days/videos and chooses
 the newest edit for one count. `.scripts/check-flow.js` exercises the live source;
 pass a deployable root as its first argument to check the public copy as well.
+
+## Dawn Anthology cast, 11 October 2026
+
+The owner’s Table Out Of Time Cast adds six gatherings with 71 guests and Lizzy,
+the original host. Each guest has ten citable selections, including existing
+anthology entries. Lizzy awaits the owner’s original text. `js/data-dawn-cast.js`
+indexes quote IDs from `js/data-anthology.js`; `js/ui-dawn-cast.js` supplies the
+cast index and individual shelves within `#/anthology`. Character aliases are
+searchable, and the index follows the PDF’s group order and episode numbers.
+
+The owner explicitly authorised attributed accounts and later portrayals where
+personal words are scarce. Preserve the distinction between actual speaker and
+the character a passage concerns. `kind` is words, account, portrayal or tradition.
+Source panels retain original work, location, edition, context and evidence links.
+New translations expose `originalText`, `originalLanguage` and `translation`.
+Never silently turn a screenplay draft into released dialogue or an account into
+the subject’s own speech. Evidence and exclusions live in
+`.scripts/anthology-cast-audit.json`; earlier audits remain intact.
+
+The requested cast includes religious figures within this explicitly chosen
+anthology shelf. Their transmitted words are labelled `tradition` and remain
+library-only, as do accounts and other passages needing their full setting.
+This exception does not change the default Today path or the Soul privacy rules.
+Today still has the chosen Year reading plus nine distinct anthology selections,
+now drawn from nine collections. Cast browsing changes no personal records.
+
+Run `.scripts/check-anthology.js` as well as syntax and flow checks before release.
+It verifies the full roster, references, evidence shape, aliases, safe rendering,
+three years of daily rotation, shift boundaries and library-only exclusions.

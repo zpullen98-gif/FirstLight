@@ -1,5 +1,5 @@
 /* Data provenance shape, daily diversity, clock boundaries and safe rendering.
-   Evidence itself is recorded in anthology-audit.json, not inferred by a test.
+   Evidence is recorded in the anthology audit files, not inferred by a test.
    Run: node .scripts/check-anthology.js [deployable First Light root] */
 const fs = require('node:fs');
 const path = require('node:path');
@@ -14,7 +14,7 @@ const ctx = vm.createContext({ console, Date, Math, JSON, Number, String, Object
   esc: s => String(s == null ? '' : s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/"/g, '&quot;')
 });
 function load(file) { vm.runInContext(fs.readFileSync(path.join(root, file), 'utf8'), ctx, { filename: file }); }
-['js/store.js', 'js/data-anthology.js', 'js/anthology.js', 'js/ui-anthology.js', 'js/data-year.js', 'js/data-year-makers.js', 'js/data-year-classics.js'].forEach(load);
+['js/store.js', 'js/data-anthology.js', 'js/data-dawn-cast.js', 'js/anthology.js', 'js/ui-dawn-cast.js', 'js/ui-anthology.js', 'js/data-year.js', 'js/data-year-makers.js', 'js/data-year-classics.js'].forEach(load);
 const quotes = vm.runInContext('DAWN_QUOTES', ctx), ids = new Set(), texts = new Set();
 for (const q of quotes) {
   ok(/^[a-z0-9-]+$/.test(q.id) && !ids.has(q.id), 'Stable, unique safe quote ID: ' + q.id); ids.add(q.id);
@@ -35,7 +35,7 @@ for (const year of [2027, 2028, 2029]) {
       ok(daily.length === 9, key + ' plus Year makes ten');
       ok(new Set(daily.map(q => ctx.dawnNorm(q.text))).size === 9, key + ' contains no repeated lines');
       ok(daily.every(q => ctx.dawnNorm(q.text) !== ctx.dawnNorm(dated) && q.daily !== false), key + ' excludes dated reading and library-only lines');
-      ok(new Set(daily.map(q => q.collection)).size === 6, key + ' represents every collection');
+      ok(new Set(daily.map(q => q.collection)).size === ctx.DAWN_COLLECTIONS.length, key + ' represents every collection');
       ok(JSON.stringify(daily) === JSON.stringify(ctx.dawnDaily(key, dated)), key + ' is stable across reloads');
       daily.forEach(q => covered.add(q.id));
     }
@@ -58,7 +58,51 @@ ok(ctx.FL_VIEWS.anthology.render(quotes[0].id).includes('<details open>'), 'Deep
 ok(JSON.stringify(ctx.FL) === record, 'Browsing never changes personal records');
 const index = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
 const sw = fs.readFileSync(path.join(root, 'sw.js'), 'utf8');
-for (const file of ['js/data-anthology.js', 'js/anthology.js', 'js/ui-anthology.js', 'css/house-anthology.css']) {
+for (const file of ['js/data-anthology.js', 'js/data-dawn-cast.js', 'js/anthology.js', 'js/ui-dawn-cast.js', 'js/ui-anthology.js', 'css/house-anthology.css']) {
   ok(index.includes(file) && sw.includes(file), file + ' is loaded and precached');
 }
+const cast = ctx.DAWN_CAST, guests = cast.filter(p => p.group !== 'host');
+ok(guests.length === 71 && cast.length === 72, 'PDF has 71 guests and one original host');
+ok(ctx.DAWN_CAST_GROUPS.length === 6, 'Six gatherings preserve the PDF roster');
+ok(new Set(cast.map(p => p.id)).size === cast.length, 'Cast IDs are unique');
+for (const p of guests) {
+  ok(p.quoteIds.length === 10 && new Set(p.quoteIds).size === 10, p.name + ' has ten distinct selections');
+  ok(p.quoteIds.every(id => ids.has(id)), p.name + ' has no broken references');
+  ok((ctx.dawnCastProfile(p.id).match(/data-quote-id=/g) || []).length === 10, p.name + ' renders ten cards');
+}
+ok(ctx.dawnPerson('lizzy').quoteIds.length === 0, 'Lizzy awaits original text');
+ok(ctx.dawnCastProfile('lizzy').includes('awaits your original writing'), 'Lizzy has an honest pending state');
+ok(ctx.dawnCastProfile('unknown-person').includes('Browse the cast'), 'Unknown cast routes recover');
+for (const q of quotes.filter(q => q.kind === 'account' || q.kind === 'tradition')) ok(q.daily === false, 'Context-sensitive source stays out of Today: ' + q.id);
+ctx.dawnCastQuery = 'Tony Stark'; ctx.dawnCastGroup = 'all';
+ok(ctx.dawnCastMatches().length === 1 && ctx.dawnCastMatches()[0].id === 'iron-man', 'Character aliases can be found');
+ctx.dawnCastQuery = 'Jan Zizka';
+ok(ctx.dawnCastMatches().length === 1, 'Accent-insensitive character search');
+ctx.dawnCastQuery = '';
+ctx.dawnCastGroup = 'explorers';
+ok(ctx.dawnCastMatches().length === 11, 'Gathering filter follows the PDF');
+ctx.dawnCastGroup = 'all';
+const translated = quotes.find(q => q.originalText);
+ok(translated && ctx.dawnCard(translated).includes('Source wording'), 'Original text accompanies new translations');
+const hostile = {...quotes[0], originalText:'<img src=x onerror=alert(1)>', translation:'<script>bad</script>'};
+ok(!ctx.dawnCard(hostile).includes('<img src=x') && !ctx.dawnCard(hostile).includes('<script>bad'), 'Additional source fields are escaped');
+ok(JSON.stringify(ctx.FL) === record, 'Cast browsing leaves personal records unchanged');
+/* Integration regression: an enlarged anthology must respect both personal
+   search priority and the reader's choice to keep faith readings off search. */
+Object.assign(ctx,{trackQ:()=>({}),trackMonths:()=>[],LIFE:[],LIFE_ALT:{},PRACTICES:[],REFLECTIONS:[],BODY_TEACH:[],EIGHT_LIMBS:[],SIGNS:[],A_PLANETS:[],A_HOUSES:[],jAll:()=>[{ref:'journal:fixture',text:'human journal reflection',d:'2026-10-11'},{ref:'clear:fixture',text:'human private note',d:'2026-10-11'}],jLabel:()=> 'My words',jPrettyDate:d=>d,jHref:()=> '#/journal'});
+load('js/search.js');
+const anthology = ctx.DAWN_QUOTES;
+ctx.DAWN_QUOTES = Array.from({length:300},(_,i)=>({...quotes[0],id:'test-'+i,text:'human thought '+i}));
+const crowded = ctx.flSearch('human');
+ok(crowded.results[0].group === 'Your journal', 'Journal survives more than 240 anthology matches');
+ok(crowded.results.length === 60 && crowded.total === 301, 'Result cap preserves full match counts');
+ok(crowded.counts['Your journal'] === 1, 'Clear Mornings stays private during crowded search');
+ctx.DAWN_QUOTES = anthology;
+ctx.FL.prefs.canonLines = 'off';
+ok(!ctx.flSearch('Jesus of Nazareth').results.some(r=>r.group === 'The Dawn Anthology'), 'Faith tradition respects global search preference');
+ctx.FL_TEXT={test:{one:{book:'Fixture',ch:[['faith-test-sentinel']]}}};ctx.FL_LIBRARY={test:{title:'Fixture'}};
+ok(ctx.flSearch('faith-test-sentinel').results.length === 0, 'Loaded scripture respects the same preference');
+ctx.FL.prefs.canonLines = 'on';
+ok(ctx.flSearch('Jesus of Nazareth').results.some(r=>r.group === 'The Dawn Anthology'), 'Opting in makes tradition passages searchable');
+ok(ctx.flSearch('faith-test-sentinel').results.some(r=>r.group === 'Scripture'), 'Opting in makes loaded scripture searchable');
 console.log('Dawn Anthology: ' + quotes.length + ' quotes, ' + checks + ' checks passed.');
