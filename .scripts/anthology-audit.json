@@ -1,8 +1,8 @@
 {
   "reviewed": "2026-10-11",
-  "count": 59,
+  "count": 109,
   "scope": "New anthology entries only. The three pre-existing Year tracks retain their existing citations and were not re-audited by this change.",
-  "daily": "The current Year reading plus nine distinct anthology entries. Ahab revenge and Hamlet mortality excerpts are available in the library only.",
+  "daily": "The current Year reading plus nine distinct anthology entries. Four passages stay in the library only: Ahab revenge, Hamlet mortality, Frodo seeking rest, and Littlefinger on power.",
   "sources": {
     "trek": {
       "verifiedOn": "2026-10-11",
@@ -149,5 +149,7 @@
     "Tyrion excerpts identify the authorised 2013 collection as the verified edition; uninspected original novel chapters are not asserted.",
     "Verse line breaks restored for readability. Typographic apostrophes and quotation marks may differ from the linked transcription.",
     "Gandalf time excerpt added after the lead reviewer inspected the German Tolkien Society seminar page. Its secondary scholarly evidence is explicitly labelled in the card. The original novel, chapter and adaptation distinction are retained; no publisher-hosted original was claimed."
-  ]
+  ],
+  "initialCount": 59,
+  "expansionAudit": "anthology-expansion-audit.json"
 }

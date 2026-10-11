@@ -1,0 +1,840 @@
+{
+  "reviewed": "2026-10-11",
+  "baseCommit": "babdff70e124f3599c1ad4197c16eccce5c485fe",
+  "previousCount": 59,
+  "addedCount": 50,
+  "count": 109,
+  "collections": {
+    "trek": {
+      "added": 7,
+      "total": 23
+    },
+    "star-wars": {
+      "added": 9,
+      "total": 16
+    },
+    "middle-earth": {
+      "added": 6,
+      "total": 11
+    },
+    "thrones": {
+      "added": 5,
+      "total": 10
+    },
+    "witcher": {
+      "added": 5,
+      "total": 8
+    },
+    "history": {
+      "added": 18,
+      "total": 41
+    }
+  },
+  "scope": "Expansion entries only. Existing 59 anthology records retained verbatim; the 1,098 dated Year entries were not re-audited.",
+  "method": "Original texts, official franchise quotations and institutional archives checked for words, speaker, edition and setting. Supplementary evidence is labelled in each record. Trailer quotations are not assigned unverified episode locations. Research records are evidence; automated checks validate data and behaviour, not historical truth.",
+  "presentation": "The established dawn and night palette, typography and cards remain. Each collection presents its new entries first. All old IDs and sources remain available.",
+  "daily": "Today retains the dated Year reading plus nine unique excerpts spanning all six collections, stable within the chosen shift day. Existing library-only entries stay excluded.",
+  "research": {
+    "trek-wars": {
+      "checked": "2026-10-11",
+      "scope": "Seven new Star Trek and nine new Star Wars quotations. No app files changed by this researcher.",
+      "method": "Exact wording, speaker, source work and scene checked against official franchise material, supplemented only where explicitly identified. These are brief quotations with new editorial context. No full episodes or films were streamed.",
+      "existingChecked": "C:/Users/zpull/FirstLight/js/data-anthology.js; no duplicate id or text among 59 existing entries. New public source URLs do not reuse any of the existing anthology quote URLs.",
+      "wordBudgetPolicy": "At most 25 quoted words per retrieved copyrighted source across the retained collection; duplicated source URLs normalised. Secondary links that only support location are conservatively counted with the full quote in this table.",
+      "quoteBudgets": [
+        {
+          "url": "https://www.startrek.com/get-to-know",
+          "ids": [
+            "trek-picard-no-mistakes"
+          ],
+          "words": 10
+        },
+        {
+          "url": "https://www.paramountplus.com/shows/video/YYYTh95Ljq1MRl4Fld_0ccOLgpr_zWXa/",
+          "ids": [
+            "trek-picard-no-mistakes"
+          ],
+          "words": 10
+        },
+        {
+          "url": "https://www.startrek.com/news/a-game-worth-playing-deep-space-nine-and-baseball",
+          "ids": [
+            "trek-sisko-unknown-game"
+          ],
+          "words": 16
+        },
+        {
+          "url": "https://www.startrek.com/news/fan-favorite-deep-space-nine-quotes",
+          "ids": [
+            "trek-kira-actions",
+            "trek-odo-justice"
+          ],
+          "words": 19
+        },
+        {
+          "url": "https://www.paramountplus.com/shows/video/YiAGx6aGi3WvTa_81piuycRYBVctv__K/",
+          "ids": [
+            "trek-kira-actions"
+          ],
+          "words": 15
+        },
+        {
+          "url": "https://www.startrek.com/videos/captain-janeway-loves-her-coffee",
+          "ids": [
+            "trek-janeway-coffee-nebula"
+          ],
+          "words": 5
+        },
+        {
+          "url": "https://www.chakoteya.net/Voyager/105.htm",
+          "ids": [
+            "trek-janeway-coffee-nebula"
+          ],
+          "words": 5
+        },
+        {
+          "url": "https://www.startrek.com/news/captain-pike-shows-leadership-new-world",
+          "ids": [
+            "trek-pike-unknown"
+          ],
+          "words": 13
+        },
+        {
+          "url": "https://www.startrek.com/news/what-you-leave-behind-16-years-later",
+          "ids": [
+            "trek-sisko-best-crew"
+          ],
+          "words": 8
+        },
+        {
+          "url": "https://www.starwars.com/news/25-great-star-wars-a-new-hope-quotes",
+          "ids": [
+            "sw-leia-save-skins"
+          ],
+          "words": 6
+        },
+        {
+          "url": "https://www.starwars.com/news/15-star-wars-quotes-to-use-in-everyday-life",
+          "ids": [
+            "sw-obiwan-experience-luck"
+          ],
+          "words": 10
+        },
+        {
+          "url": "https://www.starwars.com/databank/han-solo",
+          "ids": [
+            "sw-han-odds"
+          ],
+          "words": 5
+        },
+        {
+          "url": "https://www.starwars.com/video/never-tell-me-the-odds",
+          "ids": [
+            "sw-han-odds"
+          ],
+          "words": 5
+        },
+        {
+          "url": "https://www.starwars.com/news/how-andor-changes-how-we-view-rogue-one",
+          "ids": [
+            "sw-jyn-rebellions-hope"
+          ],
+          "words": 5
+        },
+        {
+          "url": "https://www.starwars.com/series/ahsoka/part-three-time-to-fly-episode-guide",
+          "ids": [
+            "sw-ahsoka-balance",
+            "sw-sabine-best"
+          ],
+          "words": 21
+        },
+        {
+          "url": "https://www.starwars.com/news/6-things-you-can-learn-from-hera-syndulla",
+          "ids": [
+            "sw-hera-have-hope"
+          ],
+          "words": 3
+        },
+        {
+          "url": "https://www.starwars.com/series/star-wars-rebels/vision-of-hope-episode-guide",
+          "ids": [
+            "sw-hera-have-hope"
+          ],
+          "words": 3
+        },
+        {
+          "url": "https://www.starwars.com/databank/rose-tico",
+          "ids": [
+            "sw-rose-saving-love"
+          ],
+          "words": 14
+        },
+        {
+          "url": "https://www.starwars.com/databank/luke-skywalker",
+          "ids": [
+            "sw-luke-jedi-father"
+          ],
+          "words": 9
+        }
+      ],
+      "entries": [
+        {
+          "id": "trek-picard-no-mistakes",
+          "evidence": "The official Get To Know character section prints the selected complete first sentence under Jean-Luc Picard. Paramount identifies Peak Performance as TNG S2E21 and dates it to 1989. The indexed production-script page 37A reproduces Picard's reassurance to Data in that episode.",
+          "urls": [
+            "https://www.startrek.com/get-to-know",
+            "https://www.paramountplus.com/shows/video/YYYTh95Ljq1MRl4Fld_0ccOLgpr_zWXa/",
+            "https://thescriptsavant.com/tv/Star_Trek_The_Next_Generation_2x21_-_Peak_Performance.pdf"
+          ],
+          "notes": "The following sentence differs across official promotional transcription and circulating episode transcripts in its use of an article before weakness. It is deliberately not included. Production draft consulted through its indexed passage; no claim to have streamed the full episode.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "trek-sisko-unknown-game",
+          "evidence": "Article lines 78-82 introduce Sisko's explanation to the wormhole beings, reproduce the quoted sentence in full, and identify Emissary. The official premiere retrospective confirms 1993.",
+          "urls": [
+            "https://www.startrek.com/news/a-game-worth-playing-deep-space-nine-and-baseball",
+            "https://www.startrek.com/news/ds9-debuted-24-years-ago-today"
+          ],
+          "notes": "An uninterrupted complete sentence; not the article writer's paraphrased reprise near its conclusion.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "trek-kira-actions",
+          "evidence": "Official staff compilation lines 85-89 prints Kira's speech under By Inferno's Light and identifies her conversation with Ziyal in its image caption. Paramount episode record confirms 1997.",
+          "urls": [
+            "https://www.startrek.com/news/fan-favorite-deep-space-nine-quotes",
+            "https://www.paramountplus.com/shows/video/YiAGx6aGi3WvTa_81piuycRYBVctv__K/"
+          ],
+          "notes": "Final complete sentence of a longer speech, explicitly labelled as an excerpt.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "trek-odo-justice",
+          "evidence": "Official compilation lines 93-96 attributes the final sentence to Odo under A Man Alone, with the Commander's-office debate in the caption.",
+          "urls": [
+            "https://www.startrek.com/news/fan-favorite-deep-space-nine-quotes"
+          ],
+          "notes": "Episode numbering differs when the series pilot is counted as one or two parts; published locator uses the episode title, not an unstable number.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "trek-janeway-coffee-nebula",
+          "evidence": "Official video landing page lines 30-36 prints the full selected quotation and identifies Captain Janeway. Supplementary episode dialogue transcript locates it on the bridge in The Cloud after the discussion of an energy source.",
+          "urls": [
+            "https://www.startrek.com/videos/captain-janeway-loves-her-coffee",
+            "https://www.chakoteya.net/Voyager/105.htm"
+          ],
+          "notes": "The quotation itself is verified against official material. Scene locator is corroborated by a clearly labelled fan transcript; the linked official video was not streamed. Locator omits episode number because single/double pilot numbering varies.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "trek-pike-unknown",
+          "evidence": "Official leadership article quotes Pike and explicitly names Memento Mori in the same paragraph. Paramount's official season listing dates the episode to May 2022.",
+          "urls": [
+            "https://www.startrek.com/news/captain-pike-shows-leadership-new-world",
+            "https://www.paramountplus.com/shows/video/vD_dS02AvEtutf2mdwdiOU0WZIpkhMPA/"
+          ],
+          "notes": "Initial lowercase is retained from the official article's embedded quotation; locator marks an excerpt. Context is editorial interpretation of the depicted leadership.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "trek-sisko-best-crew",
+          "evidence": "Official finale retrospective lines 41-43 reproduces Sisko's toast, identifies Vic's lounge and dates the finale to 2 June 1999.",
+          "urls": [
+            "https://www.startrek.com/news/what-you-leave-behind-16-years-later"
+          ],
+          "notes": "Only the complete opening sentence is reproduced.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-leia-save-skins",
+          "evidence": "Lucasfilm's A New Hope quotations article item 19 attributes the selected sentence to Leia and continues with the garbage-chute command. Its companion 40 memorable moments article explains Leia taking control of the rescue.",
+          "urls": [
+            "https://www.starwars.com/news/25-great-star-wars-a-new-hope-quotes",
+            "https://www.starwars.com/news/40-memorable-moments-in-star-wars-a-new-hope"
+          ],
+          "notes": "Only the opening complete sentence is included, not the whole command.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-obiwan-experience-luck",
+          "evidence": "Lucasfilm's everyday quotations article item 5 prints exact words, names Obi-Wan, and its image caption identifies him aboard the Falcon in A New Hope.",
+          "urls": [
+            "https://www.starwars.com/news/15-star-wars-quotes-to-use-in-everyday-life"
+          ],
+          "notes": "Punctuation follows the chosen source without the comma inserted by some other versions. Context separates the fictional Force from a factual claim about chance.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-han-odds",
+          "evidence": "Han's official Databank quote panel prints the selected words with exclamation point and labels The Empire Strikes Back. The official original-clip page corroborates the film and scene; the Empire at 40 article item 16 confirms the same words.",
+          "urls": [
+            "https://www.starwars.com/databank/han-solo",
+            "https://www.starwars.com/video/never-tell-me-the-odds",
+            "https://www.starwars.com/news/40-quotes-star-wars-the-empire-strikes-back"
+          ],
+          "notes": "Video landing page and textual quote panel inspected, not the full movie or playback. An entertainment quotation about nerve is not presented as practical advice to ignore risk.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-jyn-rebellions-hope",
+          "evidence": "Lucasfilm's Andor/Rogue One comparison section 6 states the quotation, identifies Jyn's Rebel council appeal, and explains her repetition of Cassian and the later prequel's Thela connection.",
+          "urls": [
+            "https://www.starwars.com/news/how-andor-changes-how-we-view-rogue-one"
+          ],
+          "notes": "Attribution is Jyn for this particular film scene, not a claim that she originated the in-world wording or that Andor was released first.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-ahsoka-balance",
+          "evidence": "Official Time to Fly episode-guide Quotes section prints this sentence verbatim under Ahsoka Tano. Its official highlights page describes the resumed training of Sabine.",
+          "urls": [
+            "https://www.starwars.com/series/ahsoka/part-three-time-to-fly-episode-guide",
+            "https://www.starwars.com/news/ahsoka-part-3-time-to-fly-highlights"
+          ],
+          "notes": "Dynamic open response omitted some quote cards; their complete official text was retrieved by the web search result for the same canonical episode-guide URL. This was not copied from a fan quotation site.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-sabine-best",
+          "evidence": "The same official episode guide names Sabine Wren beside her exact quoted commitment.",
+          "urls": [
+            "https://www.starwars.com/series/ahsoka/part-three-time-to-fly-episode-guide"
+          ],
+          "notes": "Combined with the Ahsoka sentence, the source contributes 21 quoted words.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-hera-have-hope",
+          "evidence": "Official April 2015 Hera feature identifies the conclusion of Vision of Hope and prints the selected first sentence. The episode guide confirms the title and the betrayal plot.",
+          "urls": [
+            "https://www.starwars.com/news/6-things-you-can-learn-from-hera-syndulla",
+            "https://www.starwars.com/series/star-wars-rebels/vision-of-hope-episode-guide",
+            "https://www.starwars.com/news/star-wars-echoes-leia-organa-and-hera-syndulla"
+          ],
+          "notes": "Official pages disagree about can versus will in the following sentence. Only the three-word sentence they agree on is retained. Article open timed out once, but full official text was recovered in targeted search.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-rose-saving-love",
+          "evidence": "Official Rose Databank Quotes section prints all three selected short sentences and labels The Last Jedi. The same page describes Rose stopping Finn on Crait and speaking in the wreckage.",
+          "urls": [
+            "https://www.starwars.com/databank/rose-tico"
+          ],
+          "notes": "Preserves the official wording gonna and its sentence boundaries. Dynamic open returned biography without quote gallery, but the complete official quote panel was retrieved in web search for the same URL.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        },
+        {
+          "id": "sw-luke-jedi-father",
+          "evidence": "Official Luke biography lines 168-170 describes his refusal to kill Vader and prints the selected quotation directly.",
+          "urls": [
+            "https://www.starwars.com/databank/luke-skywalker"
+          ],
+          "notes": "Uses I am, not the contraction often remembered. Scene and quotation are supported together in Lucasfilm's own biography.",
+          "exactWordingChecked": true,
+          "speakerChecked": true,
+          "originalWorkChecked": true,
+          "uncertainLocator": false
+        }
+      ],
+      "omitted": [
+        {
+          "candidate": "Picard's second sentence about weakness and life",
+          "reason": "Article discrepancy between official promotion and other transcriptions; the verified complete first sentence is sufficient."
+        },
+        {
+          "candidate": "Hera's continuation after her opening hope sentence",
+          "reason": "Official accounts use conflicting can/will wording; publishing a composite would be misleading."
+        },
+        {
+          "candidate": "Janeway's line about all fear vanishing",
+          "reason": "Verified as a holographic projection in The Thaw, but less suitable for a daily wellbeing surface because its literal statement is easily mistaken for a promise about real anxiety."
+        },
+        {
+          "candidate": "An additional long Sisko farewell passage",
+          "reason": "Unnecessary length and quote-budget use; the compact opening preserves the toast's teaching purpose."
+        }
+      ],
+      "remainingCaveat": "These are verified official quotation records and original-work locators, not claims of a frame-by-frame media transcription. Janeway's episode scene is additionally linked to a labelled fan transcript."
+    },
+    "tolkien-thrones": {
+      "verified": "2026-10-11",
+      "scope": "Six Middle-earth additions and five Thrones additions. No application files edited by this researcher.",
+      "entries": [
+        {
+          "id": "me-gandalf-help-bear-burden",
+          "wordCount": 15,
+          "source": "https://www.tolkienestate.com/writing/nicole-guedeney-the-lord-of-the-rings-or-how-to-survive-fear-and-despair/",
+          "evidence": "Exact quotation and book/chapter in Estate-hosted Nicole Guedeney essay. Secondary evidence explicitly identified on card."
+        },
+        {
+          "id": "me-together-still-went-on",
+          "wordCount": 7,
+          "source": "https://www.tolkienestate.com/writing/nicole-guedeney-the-lord-of-the-rings-or-how-to-survive-fear-and-despair/",
+          "evidence": "Exact quotation and book/chapter in Estate-hosted Nicole Guedeney essay. Secondary evidence explicitly identified on card."
+        },
+        {
+          "id": "me-gandalf-keep-up-courage",
+          "wordCount": 6,
+          "source": "https://www.tolkienestate.com/writing/tom-shippey-the-lord-of-the-rings-book-of-the-century/",
+          "evidence": "Exact continuous clause reproduced in Estate-hosted Tom Shippey essay. Deliberately omits the initial Still because the novel has intervening narration. No chapter asserted from this essay."
+        },
+        {
+          "id": "me-tolkien-tides-of-world",
+          "wordCount": 11,
+          "source": "https://www.tolkienestate.com/letters/letter-to-christopher-bretherton-a-reader-16-july-1964/",
+          "evidence": "Original author letter transcribed by his Estate. Important correction: wording differs from the novel's Gandalf speech, so attribution is to Tolkien recalling Gandalf."
+        },
+        {
+          "id": "me-tolkien-tale-grew",
+          "wordCount": 6,
+          "source": "https://www.tolkienestate.com/writing/the-lord-of-the-rings/",
+          "evidence": "Estate publishes the author's foreword excerpt and identifies 1966 edition."
+        },
+        {
+          "id": "me-frodo-find-rest",
+          "wordCount": 5,
+          "source": "https://www.tolkienestate.com/letters/letter-to-eileen-elgar-september-1963/",
+          "evidence": "Author quotes Frodo's question in his letter, explaining the journey home and need for healing. Chapter not asserted from source's paragraph."
+        },
+        {
+          "id": "got-arya-not-today",
+          "wordCount": 2,
+          "source": "https://www.youtube.com/watch?v=X-XpH7YELaE",
+          "evidence": "Official verified Game of Thrones YouTube result title supplies exact two words, season and episode; indexed description identifies Arya and Syrio. Video playback/transcript unavailable; do not claim watched or transcribed."
+        },
+        {
+          "id": "got-littlefinger-chaos-ladder",
+          "wordCount": 4,
+          "source": "https://www.youtube.com/watch?v=HDjNcqQs1yM",
+          "evidence": "Official verified HBO YouTube indexed title gives speaker, addressee and exact four-word line. Player/transcript unavailable. No episode number asserted; 2013 is original Season 3 broadcast year, not 2021 clip upload."
+        },
+        {
+          "id": "got-jaime-drunk-sunlight",
+          "wordCount": 7,
+          "source": "https://www.penguinrandomhouseretail.com/book/?isbn=9780593158951",
+          "evidence": "Publisher's authorised full excerpt inspected. Jaime's line is internal thought; Brienne's line is spoken. Year identifies verified 2020 illustrated edition, not 2000 first publication."
+        },
+        {
+          "id": "got-brienne-name",
+          "wordCount": 7,
+          "source": "https://www.penguinrandomhouseretail.com/book/?isbn=9780593158951",
+          "evidence": "Publisher's authorised full excerpt inspected. Jaime's line is internal thought; Brienne's line is spoken. Year identifies verified 2020 illustrated edition, not 2000 first publication."
+        },
+        {
+          "id": "got-martin-reader-thousand-lives",
+          "wordCount": 17,
+          "source": "https://georgerrmartin.com/notablog/2018/04/22/time-to-read/",
+          "evidence": "Author's own blog, full text inspected. Published wording is The reader, not A reader. Author attribution and 2018 blog source avoid conflating variants of the Jojen Reed novel line."
+        }
+      ],
+      "sourceBudgets": [
+        {
+          "url": "https://www.tolkienestate.com/writing/nicole-guedeney-the-lord-of-the-rings-or-how-to-survive-fear-and-despair/",
+          "existingWords": 0,
+          "newWords": 22,
+          "entryIds": [
+            "me-gandalf-help-bear-burden",
+            "me-together-still-went-on"
+          ],
+          "totalWords": 22,
+          "limit": 25
+        },
+        {
+          "url": "https://www.tolkienestate.com/writing/tom-shippey-the-lord-of-the-rings-book-of-the-century/",
+          "existingWords": 0,
+          "newWords": 6,
+          "entryIds": [
+            "me-gandalf-keep-up-courage"
+          ],
+          "totalWords": 6,
+          "limit": 25
+        },
+        {
+          "url": "https://www.tolkienestate.com/letters/letter-to-christopher-bretherton-a-reader-16-july-1964/",
+          "existingWords": 0,
+          "newWords": 11,
+          "entryIds": [
+            "me-tolkien-tides-of-world"
+          ],
+          "totalWords": 11,
+          "limit": 25
+        },
+        {
+          "url": "https://www.tolkienestate.com/writing/the-lord-of-the-rings/",
+          "existingWords": 0,
+          "newWords": 6,
+          "entryIds": [
+            "me-tolkien-tale-grew"
+          ],
+          "totalWords": 6,
+          "limit": 25
+        },
+        {
+          "url": "https://www.tolkienestate.com/letters/letter-to-eileen-elgar-september-1963/",
+          "existingWords": 0,
+          "newWords": 5,
+          "entryIds": [
+            "me-frodo-find-rest"
+          ],
+          "totalWords": 5,
+          "limit": 25
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=X-XpH7YELaE",
+          "existingWords": 0,
+          "newWords": 2,
+          "entryIds": [
+            "got-arya-not-today"
+          ],
+          "totalWords": 2,
+          "limit": 25
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=HDjNcqQs1yM",
+          "existingWords": 0,
+          "newWords": 4,
+          "entryIds": [
+            "got-littlefinger-chaos-ladder"
+          ],
+          "totalWords": 4,
+          "limit": 25
+        },
+        {
+          "url": "https://www.penguinrandomhouseretail.com/book/?isbn=9780593158951",
+          "existingWords": 0,
+          "newWords": 14,
+          "entryIds": [
+            "got-jaime-drunk-sunlight",
+            "got-brienne-name"
+          ],
+          "totalWords": 14,
+          "limit": 25
+        },
+        {
+          "url": "https://georgerrmartin.com/notablog/2018/04/22/time-to-read/",
+          "existingWords": 0,
+          "newWords": 17,
+          "entryIds": [
+            "got-martin-reader-thousand-lives"
+          ],
+          "totalWords": 17,
+          "limit": 25
+        }
+      ],
+      "unusedExistingBudgets": [
+        {
+          "source": "Houghton Mifflin The Lord of the Rings teaching guide 208.pdf",
+          "existingWords": 23,
+          "addedWords": 0
+        },
+        {
+          "source": "Penguin Random House The Wit & Wisdom of Tyrion Lannister, 2013 excerpt",
+          "existingWords": 24,
+          "addedWords": 0
+        }
+      ],
+      "omissions": [
+        "Ned Stark's famous courage exchange was not added: the inspected authorised A Game of Thrones Bran I excerpt is abridged and omits it. A quote aggregator cannot repair this evidence gap.",
+        "Sam's closing return-home line was found in an indexed Bonhams catalogue quotation, but the catalogue PDF could not be opened. Omitted to favour the directly inspected Tolkien Estate letter.",
+        "No song or poem excerpts added.",
+        "No asserted Aragorn line or familiar Sam film speech without an inspected authoritative source.",
+        "The two HBO cards rely on official indexed titles and descriptions, not a fetched transcript. If your acceptance standard requires an inspected transcript or video playback, withhold these two until that evidence is available."
+      ],
+      "notes": [
+        "First Light theme retained through companionship, courage, rest, dignity, imagination and reading.",
+        "Frodo's suffering and Littlefinger's manipulation are included for contextual study only, with daily:false.",
+        "Quote text is unchanged in spelling or wording; surrounding prose uses British English. No em dashes in entries.",
+        "No fan quotation sites used as evidence."
+      ]
+    },
+    "witcher": {
+      "checked": "2026-10-11",
+      "scope": "Five new excerpts from the Netflix adaptation, distinct from Sapkowski's novels and the games.",
+      "method": "Read the official Season 4 trailer's speaker-labelled transcript and the Chaos/Magic entries in Netflix's official Continent guide. Exact words retained. Trailer evidence is labelled as such without assigning unsupported episode locations.",
+      "quoteBudgets": [
+        {
+          "url": "https://www.netflix.com/tudum/videos/the-witcher-season-4-trailer",
+          "newWords": 21,
+          "existingWords": 0,
+          "totalWords": 21
+        },
+        {
+          "url": "https://www.netflix.com/tudum/articles/witcher-bible-guide-continent-creatures",
+          "newWords": 16,
+          "existingWords": 4,
+          "totalWords": 20
+        }
+      ],
+      "exclusions": [
+        "The Season 4 trailer article and transcript disagree on part of Yennefer's army line; it was not included.",
+        "The guide's Trail advice is editorial prose, not attributed character dialogue, and was not turned into a character quotation.",
+        "The Hachette Last Wish page exposed a Read Excerpt anchor without a readable excerpt. Its marketing description was not represented as a line from the novel.",
+        "Season 3 videos did not provide readable transcripts, so familiar online versions were not treated as verified dialogue."
+      ]
+    },
+    "history": {
+      "checked": "2026-10-11",
+      "scope": "18 historical additions; no application edits.",
+      "methods": "Exact wording checked against institutional primary texts or original records. Translations, manuscript variants, excerpt boundaries and uncertain dates stated in cards.",
+      "entries": [
+        {
+          "id": "history-mandela-new-age",
+          "primary_url": "https://www.nobelprize.org/prizes/peace/1993/mandela/lecture/",
+          "evidence": "Nobel Foundation original lecture text retrieved in search index. Exact closing sentence; preceding appeal concerns ending racism and war.",
+          "retrieval": "indexed original transcript; direct open returned 403",
+          "public_domain_original": false,
+          "quote_words": 5
+        },
+        {
+          "id": "history-annan-humanity",
+          "primary_url": "https://www.kofiannanfoundation.org/publication/kofi-annan-nobel-lecture/",
+          "evidence": "Author's foundation reproduces the complete speech dated 10 December 2001. Exact sentence in opening paragraph about a mother and newborn.",
+          "retrieval": "complete live HTML",
+          "public_domain_original": false,
+          "quote_words": 12
+        },
+        {
+          "id": "history-sirleaf-service",
+          "primary_url": "https://www.nobelprize.org/uploads/2018/06/johnson_sirleaf-lecture_en.pdf#page=2",
+          "evidence": "Official Nobel PDF downloaded and extracted. Exact sentence in paragraph about parents and grandmothers on PDF page 2 (printed page 5). Curly apostrophe cross-checked with Nobel indexed transcription.",
+          "retrieval": "downloaded original PDF and indexed original",
+          "public_domain_original": false,
+          "quote_words": 12
+        },
+        {
+          "id": "history-bethune-education",
+          "primary_url": "https://www.flocomuseum.org/past-exhibitions/reflecting-justice/bethune-last-will/",
+          "evidence": "Museum full-text reproduction agrees with National Park Service reproduction on both sentences. Digital Library of Georgia holds the August 1955 Ebony reprint record. Heading capitalisation retained.",
+          "retrieval": "complete institutional transcription and original-reprint catalogue",
+          "public_domain_original": false,
+          "quote_words": 15
+        },
+        {
+          "id": "history-addams-action",
+          "primary_url": "https://www.gutenberg.org/cache/epub/15487/pg15487-images.html",
+          "evidence": "Original 1902 edition in Project Gutenberg, Chapter VII. Exact sentence begins For action is indeed; publication year checked on title page.",
+          "retrieval": "complete original book transcription",
+          "public_domain_original": true,
+          "quote_words": 11
+        },
+        {
+          "id": "history-chisholm-equality",
+          "primary_url": "https://www.govinfo.gov/content/pkg/GPO-CRECB-1970-pt21/pdf/GPO-CRECB-1970-pt21-1-2.pdf#page=36",
+          "evidence": "Downloaded contemporary Congressional Record PDF, 110 pages. Target found on PDF page 36, printed page 28029; Chisholm speech starts on preceding page 28028. Removed layout soft hyphen within artificial, no wording altered.",
+          "retrieval": "downloaded original PDF and indexed original",
+          "public_domain_original": true,
+          "quote_words": 11
+        },
+        {
+          "id": "history-jordan-constitution",
+          "primary_url": "https://catalog.archives.gov/id/4411374",
+          "evidence": "National Archives own historical post reproduces exact sentence and links to corrected 25 July 1974 statement, catalogue 4411374. Original catalogue record link retained; its image viewer requires JavaScript.",
+          "retrieval": "institutional quotation plus original document catalogue",
+          "public_domain_original": true,
+          "quote_words": 13
+        },
+        {
+          "id": "history-indira-poverty-environment",
+          "primary_url": "https://digitallibrary.un.org/record/247792/files/Evolving_Environmental_Perceptions_Stockholm.pdf",
+          "evidence": "UN Digital Library indexed original speech reprint shows exact question on printed page 97, headed Stockholm 1972, Address by the Prime Minister of India. UNEP official 2024 report independently reproduces same wording. Exact day omitted.",
+          "retrieval": "indexed original UN PDF; live PDF fetch yielded empty body",
+          "public_domain_original": false,
+          "quote_words": 8
+        },
+        {
+          "id": "history-lutuli-continue",
+          "primary_url": "https://www.nobelprize.org/prizes/peace/1960/lutuli/lecture/",
+          "evidence": "Nobel official transcript dates lecture 11 December 1961. Closing sentence of paragraph pledging nonracial citizenship. Spelling labor retained. Edition note identifies prepared English text, delivered version includes additions.",
+          "retrieval": "indexed complete official lecture; direct open returned 403",
+          "public_domain_original": false,
+          "quote_words": 6
+        },
+        {
+          "id": "history-kennedy-moon",
+          "primary_url": "https://www.rice.edu/kennedy",
+          "evidence": "Rice complete transcript and recording, sourced to Public Papers of the Presidents, 1962. Sentence appears immediately before longer repeated formulation.",
+          "retrieval": "complete live host-university transcript",
+          "public_domain_original": true,
+          "quote_words": 7
+        },
+        {
+          "id": "history-kennedy-new-sea",
+          "primary_url": "https://www.rice.edu/kennedy",
+          "evidence": "Same Rice transcript. Exact opening clause up to gained; trailing comma omitted at excerpt boundary. With Moon selection, this source contributes 22 quote words.",
+          "retrieval": "complete live host-university transcript",
+          "public_domain_original": true,
+          "quote_words": 15
+        },
+        {
+          "id": "history-lincoln-diligence",
+          "primary_url": "https://www.loc.gov/resource/mal.0045500/?st=text",
+          "evidence": "LoC manuscript transcription and editorial note. Sentence exact. Archive rejects unsubstantiated 1 July 1850 precision and catalogues 1850-1860. No claim of actual delivery.",
+          "retrieval": "indexed original manuscript and editorial notes",
+          "public_domain_original": true,
+          "quote_words": 16
+        },
+        {
+          "id": "history-lincoln-government",
+          "primary_url": "https://www.loc.gov/exhibits/civil-war-in-america/ext/al0186p1.html",
+          "evidence": "LoC original manuscript final clause. Parent exhibit identifies Nicolay Copy and links this transcript. Original punctuation retained, no commas around by the people.",
+          "retrieval": "live original manuscript transcription and exhibit catalogue",
+          "public_domain_original": true,
+          "quote_words": 16
+        },
+        {
+          "id": "history-marcus-learning",
+          "primary_url": "https://classics.mit.edu/Antoninus/meditations.2.two.html",
+          "evidence": "MIT George Long translation. Section 7 of Book 2. Exact sentence; following passage warns against aimless activity.",
+          "retrieval": "complete live original-work translation",
+          "public_domain_original": true,
+          "quote_words": 15
+        },
+        {
+          "id": "history-marcus-revenge",
+          "primary_url": "https://classics.mit.edu/Antoninus/meditations.6.six.html",
+          "evidence": "MIT George Long text, Book 6 section 6. Exact complete sentence, including wrong doer as two words. Translator identified.",
+          "retrieval": "complete live original-work translation",
+          "public_domain_original": true,
+          "quote_words": 14
+        },
+        {
+          "id": "history-marcus-transformation",
+          "primary_url": "https://classics.mit.edu/Antoninus/meditations.4.four.html",
+          "evidence": "MIT George Long text, Book 4 section 3, closing sentence. Context distinguishes philosophical perspective from empirical claim.",
+          "retrieval": "complete live original-work translation",
+          "public_domain_original": true,
+          "quote_words": 7
+        },
+        {
+          "id": "history-abigail-learning",
+          "primary_url": "https://www.masshist.org/publications/adams-papers/index.php/view/ADMS-04-03-02-0240",
+          "evidence": "MHS original Adams Papers transcription downloaded. Printed page 313, May 8th continuation of letter catalogued 20 March 1780 (ADMS-04-03-02-0240). Exact ardour, sought for, attended to retained.",
+          "retrieval": "complete live archive transcription via HTTP; browser extraction unavailable",
+          "public_domain_original": true,
+          "quote_words": 18
+        },
+        {
+          "id": "history-fdr-human-rights",
+          "primary_url": "https://www.archives.gov/milestone-documents/president-franklin-roosevelts-annual-message-to-congress",
+          "evidence": "NARA complete Four Freedoms transcript, final paragraph. Date 6 January 1941, different address from existing inaugural entries.",
+          "retrieval": "complete live official transcript",
+          "public_domain_original": true,
+          "quote_words": 8
+        }
+      ],
+      "quote_word_budgets": {
+        "https://www.nobelprize.org/prizes/peace/1993/mandela/lecture/": 5,
+        "https://www.kofiannanfoundation.org/publication/kofi-annan-nobel-lecture/": 12,
+        "https://www.nobelprize.org/uploads/2018/06/johnson_sirleaf-lecture_en.pdf": 12,
+        "https://www.flocomuseum.org/past-exhibitions/reflecting-justice/bethune-last-will/": 15,
+        "https://www.gutenberg.org/cache/epub/15487/pg15487-images.html": 11,
+        "https://www.govinfo.gov/content/pkg/GPO-CRECB-1970-pt21/pdf/GPO-CRECB-1970-pt21-1-2.pdf": 11,
+        "https://catalog.archives.gov/id/4411374": 13,
+        "https://digitallibrary.un.org/record/247792/files/Evolving_Environmental_Perceptions_Stockholm.pdf": 8,
+        "https://www.nobelprize.org/prizes/peace/1960/lutuli/lecture/": 6,
+        "https://www.rice.edu/kennedy": 22,
+        "https://www.loc.gov/resource/mal.0045500/?st=text": 16,
+        "https://www.loc.gov/exhibits/civil-war-in-america/ext/al0186p1.html": 16,
+        "https://classics.mit.edu/Antoninus/meditations.2.two.html": 15,
+        "https://classics.mit.edu/Antoninus/meditations.6.six.html": 14,
+        "https://classics.mit.edu/Antoninus/meditations.4.four.html": 7,
+        "https://www.masshist.org/publications/adams-papers/index.php/view/ADMS-04-03-02-0240": 18,
+        "https://www.archives.gov/milestone-documents/president-franklin-roosevelts-annual-message-to-congress": 8
+      },
+      "additional_verification": [
+        {
+          "id": "history-lincoln-government",
+          "url": "https://www.loc.gov/exhibits/civil-war-in-america/november-1863-april-1865.html#obj10",
+          "note": "Identifies Nicolay manuscript and links selected transcript."
+        },
+        {
+          "id": "history-indira-poverty-environment",
+          "url": "https://wedocs.unep.org/items/52c84134-6b45-4fed-b315-928d1fb6c624/full",
+          "note": "UNEP Executive Director report independently confirms exact question and Stockholm 1972 provenance."
+        },
+        {
+          "id": "history-bethune-education",
+          "url": "https://www.nps.gov/mamc/learn/historyculture/a-monument-to-a-monument-the-mary-mcleod-bethune-memorial.htm",
+          "note": "Confirms wording within legacy of education."
+        }
+      ],
+      "excluded": [
+        {
+          "candidate": "Abigail Adams learning line dated only 20 March or only 8 May",
+          "reason": "Published continuation date and archive opening date together after checking original."
+        },
+        {
+          "candidate": "Marcus Aurelius: Do every act of thy life as if it were the last.",
+          "reason": "Standalone sentence is not George Long's exact construction at 2.5; selected complete learning sentence from 2.7 instead."
+        },
+        {
+          "candidate": "Jane Addams: Action indeed is the sole medium of expression for ethics.",
+          "reason": "Common altered word order; exact book wording published instead."
+        },
+        {
+          "candidate": "Dag Hammarskjold: The UN was not created to take mankind to heaven...",
+          "reason": "Original record begins It has been said; provenance more complex than a personal maxim. Not added."
+        },
+        {
+          "candidate": "Wangari Maathai Nobel lecture",
+          "reason": "Original lecture unavailable this pass; third-party copies and social excerpts not used."
+        }
+      ],
+      "limits": "Mandela/Lutuli/Indira original texts available through indexed first-party text while direct opens failed. Jordan transcribed by NARA with original manuscript record link; viewer not text-readable here. Source PDFs are research-only and should not enter app assets.",
+      "validation": {
+        "count": 18,
+        "no_em_dashes": true,
+        "primary_source_quote_word_totals_at_most_25": true,
+        "duplicate_check": "Compared existing anthology historical entries before research; selected lines and first-source URLs are new."
+      }
+    }
+  }
+}

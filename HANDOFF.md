@@ -4,18 +4,22 @@ Paste-ready context for a fresh session.
 
 ## Dawn Anthology, 11 October 2026
 
-Mind now includes The Dawn Anthology (`#/anthology`): 59 checked excerpts from
+Mind now includes The Dawn Anthology (`#/anthology`): 109 checked excerpts from
 Star Trek and its literary sources, Star Wars, Middle-earth, Game of Thrones,
-The Witcher and 15 historical leaders. Each new card links its supporting source
+The Witcher and 24 historical voices. Each new card links its supporting source
 and distinguishes dialogue, original literature, editions and historical context.
 The familiar Gandalf time passage uses explicitly labelled scholarly corroboration.
-The research scope and exclusions are in `.scripts/anthology-audit.json`.
+The initial research scope and exclusions are in `.scripts/anthology-audit.json`.
+The expansion adds 50 entries, with exact-text and edition notes in
+`.scripts/anthology-expansion-audit.json`. New entries lead each collection.
+Official trailers and supplementary scene evidence are explicitly labelled.
 
 Today has ten quotes: the existing dated Year reading plus nine unique anthology
 selections, stable for `flToday()` and respecting the reader's shift boundary.
 The older UPLIFT bank is no longer selected by Today; TEACHINGS still uses its file.
 The existing 1,098 Year entries keep their earlier citation audit and were not
-re-audited in this change. Two dark literary excerpts remain library-only.
+re-audited in this change. Four passages remain library-only: Ahab, Hamlet, Frodo seeking rest and
+Littlefinger on power.
 
 New files: `js/data-anthology.js`, `js/anthology.js`, `js/ui-anthology.js`,
 `css/house-anthology.css`. No storage schema changes. The global search includes
