@@ -434,3 +434,37 @@ edition identified. External full texts need a connection; passages and study no
 are cached with the shell. No permanent scripture text cache changes are involved.
 Run `.scripts/check-poets.js` alongside all five existing First Light checks and
 the public suite gate, plus phone/desktop, palette, focus, search and offline checks.
+
+## The Canterbury reading companion, 15 October 2026
+
+Chaucer's study now includes `#/poets/chaucer/canterbury`: an introduction,
+all 24 tales plus General Prologue and Retraction, six close-reading lessons,
+and 28 glossary entries. `js/data-canterbury.js` holds the authored guide;
+`js/ui-canterbury.js` renders its nested routes through the existing poets view.
+`css/house-poets.css` keeps the same house palettes and responsive reading faces.
+The 18 paired excerpts contain 94 lines of original Middle English alongside
+new current-English learning translations. These are selected passages, not
+a complete modern-English translation. Summaries describe the whole collection.
+
+The editorial pass reviewed all 110 Chaucer selections, improved commentary on
+87 and revised the 23 work introductions and reading path. Every Chaucer card
+now displays its plain-English aid beside the original without opening details.
+Quotation wording, speakers, source locators, IDs, counts and other writers stay
+unchanged. The earlier ten gained separately labelled glosses and study prompts.
+
+Keep plot summaries distinct from interpretive guidance. Do not turn a pilgrim's
+claim into Chaucer's personal belief or a coercive ending into a general rule for
+life. The original text, exact excerpt boundaries and Skeat's edition-specific
+group/line references are retained. The tale sequence follows the linked Skeat
+edition, with its difference from familiar modern fragment order explained.
+The four public-domain editions and linked Harvard learning resources are free
+external reading; modern translations on those sites were not copied here.
+
+The companion writes no progress or personal records. Search is session-only.
+All guide content and selected readings are precached with the shell; outside
+editions require a connection. Both scripture text caches remain unchanged.
+Research, editorial decisions and independent reviews are in
+`.scripts/anthology-chaucer-reading-audit.json`. Run `.scripts/check-canterbury.js`
+with the six existing First Light checks, and the public site's full suite gate.
+Verify mobile/desktop, day/night, tale/lesson links, search, focus and offline
+behaviour. Today retains its three-quote format.
