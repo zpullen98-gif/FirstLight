@@ -503,3 +503,33 @@ light root or URL and an output directory. It covers phones, desktop, day/night,
 reading/calendar/library navigation, Poets return paths, sources, marks and offline
 routes. Release through a reviewed three-way delta from the pre-edit source commit;
 preserve the public store's profile keys, shell integration and separate worker.
+
+## Personal astrology and the monthly sky, October 2026
+
+`#/astro` opens the current monthly sky. `#/astro/month/YYYY-MM` keeps a deliberately
+selected month; `#/astro/learn` holds the reference in ten expandable chapters.
+`#/chart` retains the natal wheel and editable local birth record. Never embed a
+real person's birth date, time or location in code, fixtures, URLs or a public commit.
+Set personal details through the chart form in that person's browser profile.
+
+`chartFromBirth(b)` validates `FL.prefs.birth` and resolves historical civil time.
+Missing times and DST gaps/folds require correction rather than an invented noon.
+`astroMonthBuild(year, month, natal, {zone})` calculates geocentric tropical aspects,
+phases, sign changes and stations. Calendar boundaries have their own resolver;
+birth-time ambiguity checks must not be reused for midnight month boundaries.
+Monthly results are held in a four-entry memory cache, not the saved personal record.
+
+`ui-astro-month.js` provides the monthly view and learning flow; `house-astro.css`
+uses the existing service palettes. Current-month selection follows `flToday()` and
+refreshes on visibility or a visible one-minute check. A browsed month stays selected.
+The astronomy library and city list execute lazily, but are now precached with the
+shell to cover a first visit before service-worker control. The chart fetch path
+prefers that release's shell copy. The permanent scripture cache remains unchanged.
+
+Verification: `.scripts/check-chart.cjs`, `.scripts/check-astro-month.cjs`, and
+`.scripts/check-astro-browser.cjs [source-or-public-root] [output-directory]`.
+The browser check uses synthetic details and covers phone/desktop, palettes,
+accessibility, navigation, reload, month rollover, retry and first-visit offline use.
+The browser outputs are evidence, not deployable files. Publish only a committed
+three-way source delta into the public fork; preserve its profile storage, suite
+scripts and `oot-light-*` cache names. Run the public `tools/check-all.mjs` gate.
