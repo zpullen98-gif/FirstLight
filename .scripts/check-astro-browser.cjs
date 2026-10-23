@@ -130,8 +130,8 @@ async function screen(page, width, section, service) {
   await rolling.clock.install({ time: new Date('2026-11-01T07:59:00Z') });
   await rolling.goto(base + '?nosw&fresh=astro-rollover#/astro'); await monthReady(rolling, '2026-10');
   await rolling.clock.setSystemTime(new Date('2026-11-01T09:01:00Z'));
-  await rolling.evaluate(() => astroRefreshMonth()); await monthReady(rolling, '2026-11');
-  ok(true, 'Current month follows the saved day-boundary after month rollover');
+  await rolling.clock.runFor(61000); await monthReady(rolling, '2026-11');
+  ok(true, 'Visible current-month page automatically follows the saved day-boundary after rollover');
   await rollover.close();
 
   const delayed = await browser.newContext(); await seed(delayed);
