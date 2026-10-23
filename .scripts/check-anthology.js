@@ -26,7 +26,7 @@ for (const q of quotes) {
 }
 const record = JSON.stringify(ctx.FL);
 ctx.dawnQuery = '<script>zz-unmatched'; ctx.dawnFilter = 'all';
-const html = ctx.FL_VIEWS.anthology.render();
+const html = ctx.FL_VIEWS.anthology.render('library');
 ok(!html.includes('value="<script>') && html.includes('value="&lt;script>'), 'Search input is escaped');
 ok(html.includes('No quotations match'), 'Empty results explain recovery');
 ctx.dawnQuery = '';

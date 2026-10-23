@@ -468,3 +468,38 @@ Research, editorial decisions and independent reviews are in
 with the six existing First Light checks, and the public site's full suite gate.
 Verify mobile/desktop, day/night, tale/lesson links, search, focus and offline
 behaviour. Today retains its three-quote format.
+
+## The Anthology reading year, 23 October 2026
+
+The owner chose twelve quotations per day, in three readings of four. The Anthology
+now opens on Daily readings, with Year calendar and Explore the library as its
+other two doors. `#/anthology/read/YYYY-MM-DD/1` (or 2 or 3) is a dated reading;
+`#/anthology/calendar/YYYY-MM` opens a month, and `#/anthology/library` searches
+all 2,387 existing entries. Old quote, cast, writer and Poets' Study links remain
+valid, with their original sources, interpretations and free-edition links.
+
+`js/anthology-calendar.js` interleaves the fourteen collections proportionally,
+using the existing fixed 366-slot `doyOf` convention. Common years omit February
+29, and the complete collection is still covered. A second occurrence of the same
+normalised wording is deferred to another day without dropping its record. The
+year revisits passages because twelve selections per day exceeds the corpus.
+The three reading prompts are editorial invitations, not shared claims or themes
+attributed to the quoted speakers. Today's three-quote system is unchanged.
+
+This is an explicitly entered anthology, so labelled accounts, portrayals and
+faith traditions remain available here. Legacy Year/Lift citations remain honestly
+labelled as not newly reviewed. No quotation dataset or personal Year/Vault key
+was changed. Browsing never marks a reading, and filters remain session-only.
+
+`FL.anthologyRead` is additive: date:part:quotation-ID-hash maps to `{done, updated}`.
+Only an explicit mark changes it; undo keeps a newer tombstone. Import merges by
+timestamp (an equal-time undo wins), and old composition hashes cannot mark a
+changed reading complete. Failed saves restore both the record and fallback copy.
+The normal profile-scoped blob, export and import carry this field unchanged.
+
+Run the seven existing First Light gates plus `check-anthology-calendar.js` and
+`check-anthology-browser.cjs`. The browser check accepts a source root, public
+light root or URL and an output directory. It covers phones, desktop, day/night,
+reading/calendar/library navigation, Poets return paths, sources, marks and offline
+routes. Release through a reviewed three-way delta from the pre-edit source commit;
+preserve the public store's profile keys, shell integration and separate worker.

@@ -65,7 +65,7 @@ const hostile = { ...noted, text: '<script>line</script>', speaker: '<img src=x 
 const escaped = ctx.dawnCard(hostile);
 ok(!escaped.includes('<script>') && !escaped.includes('<img src=x') && !escaped.includes('<iframe>'), 'All legacy card content is escaped');
 ctx.dawnFilter = 'all'; ctx.dawnQuery = '';
-const allPage = ctx.FL_VIEWS.anthology.render();
+const allPage = ctx.FL_VIEWS.anthology.render('library');
 ok((allPage.match(/data-quote-id=/g) || []).length === 12, 'Initial shelf renders twelve cards, not the entire library');
 ok(allPage.includes('Read Today’s three') && !allPage.includes('Today’s ten'), 'Navigation describes the compact morning');
 ok(allPage.includes('The original Year &amp; Lift') && allPage.includes('Source-checked selections'), 'Original and reviewed collections are clearly separated');
@@ -73,7 +73,7 @@ ok(ctx.FL_VIEWS.anthology.render('year-made-up-1-1').includes('not in this editi
 ok(ctx.FL_VIEWS.anthology.render('year-philosophers-11-20').includes('After the Dhammapada 204'),
   'The faith preference still permits deliberately opening the original citation in the Anthology');
 ctx.dawnQuery = '<script>not-a-quotation';
-const noMatch = ctx.FL_VIEWS.anthology.render();
+const noMatch = ctx.FL_VIEWS.anthology.render('library');
 ok(noMatch.includes('No quotations match') && noMatch.includes('value="&lt;script>'), 'Unmatched search is escaped and recoverable');
 ctx.dawnQuery = '';
 ctx.FL_TRACKS.push({ id: 'unfinished', label: 'Unfinished', q: () => ({ 1: [[1, 'Do not publish this preview', 'Fixture', 'Test']] }), months: () => originals.MONTHS });
